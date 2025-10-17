@@ -37,7 +37,7 @@ As mentioned at the beginning, special guests will also be joining the competiti
 
 ---
 
-For all the finer details, check out the [forum post](forumpostlink), and be sure to join our [Discord server](https://discord.com/invite/TSgMXsaZRR) to stay up-to-date with the latest announcements and guest reveals.
+For all the finer details, check out the [forum post](https://osu.ppy.sh/community/forums/topics/2141738?n=1), and be sure to join our [Discord server](https://discord.com/invite/TSgMXsaZRR) to stay up-to-date with the latest announcements and guest reveals.
 
 See you at the event!
 

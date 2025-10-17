@@ -51,7 +51,7 @@ tags:
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/17YUODiQXblESi9mciJqn2deFu1TGFKP83k2tkx0W8Ug/)
 - [Announcement post](https://osu.ppy.sh/home/news/2025-10-17-kel-lan-tournament-4-registrations-now-open)
-- [Discussion thread](link)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2141738?n=1)
 - [Discord server](https://discord.gg/TSgMXsaZRR)
 - [Livestream](https://www.twitch.tv/keltournaments)
 - [YouTube channel](https://www.youtube.com/@KELtournaments)
