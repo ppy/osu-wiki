@@ -387,7 +387,7 @@ Im Folgenden sind verschiedene, erwähnenswerte Errungenschaften in Bezug auf Fr
 |  | Medaille | Errungenschaft | Erster Spieler | Erreicht am (UTC) |
 | --: | :-- | :-: | :-- | :-- |
 | ![](/wiki/shared/medals/osu-combo-500.png) | 500 Combo | Erste osu!-Medaille | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 01.08.2008 (23:08:56) |
-| ![](/wiki/shared/medals/taiko-hits-30000.png) | 30,000 Drum Hits |Erste osu!taiko-Medaille | ::{ flag=FR }:: [Makimoke](https://osu.ppy.sh/users/169796) | 09.04.2012 (06:37:30) |
+| ![](/wiki/shared/medals/taiko-hits-30000.png) | 30,000 Drum Hits | Erste osu!taiko-Medaille | ::{ flag=FR }:: [Makimoke](https://osu.ppy.sh/users/169796) | 09.04.2012 (06:37:30) |
 | ![](/wiki/shared/medals/fruits-hits-20000.png) | Catch 20,000 fruits | Erste osu!catch-Medaille | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | 22.11.2008 (02:55:10) |
 | ![](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | Erste osu!mania-Medaille | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28.05.2013 (05:01:06) |
 | ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | Erstes osu! 8★ FC | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17.07.2016 (12:41:58) |
