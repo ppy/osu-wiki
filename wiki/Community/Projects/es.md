@@ -43,7 +43,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 | ![](img/logo_otu.png) | [otu!](https://gdladder.com/level/111345732) | ::{ flag=US }:: [CreatorCreepy](https://osu.ppy.sh/users/10436454) | Recreación de osu! en [Geometry Dash](https://es.wikipedia.org/wiki/Geometry_Dash) |
 | ![](img/logo_t_aiko.png) | [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640/) | ::{ flag=GB }:: [Guy-kun](https://osu.ppy.sh/users/217431) | Clon gratuito de [Taiko no Tatsujin](https://es.wikipedia.org/wiki/Taiko_no_Tatsujin) que le permite a los usuarios jugar los beatmaps de osu!taiko en dispositivos móviles |
 
-### Proyectos relacionados con la jugabilidad
+### Jugabilidad
 
 #### General
 
@@ -74,7 +74,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 | :-: | :-- | :-- | :-- |
 |  | [Wii TaTaCon to USB Converter](https://osu.ppy.sh/community/forums/topics/258400) | ::{ flag=AU }:: [montymintypie](https://osu.ppy.sh/users/2007075) | Convertidor económico de Wii TaTaCon a USB |
 
-### Proyectos relacionados con las transmisiones en vivo
+### Transmisiones en vivo
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
@@ -84,7 +84,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 |  | [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723) | ::{ flag=HK }:: [Redback](https://osu.ppy.sh/users/2071169) | Bot de Twitch que registra las solicitudes de canciones y los datos de los jugadores |
 |  | [Ronnia](https://ronnia.me/) | ::{ flag=NL }:: [heyronii](https://osu.ppy.sh/users/5642779) | Bot de Twitch que registra las solicitudes de canciones y los datos de los jugadores |
 
-### Proyectos relacionados con la creación de beatmaps
+### Creación de beatmaps
 
 #### General
 
@@ -129,7 +129,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 |  | [OMISM](https://osu.ppy.sh/community/forums/topics/664319) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | Herramienta para convertir beatmaps de osu!mania en mapas de Stepmania, que también funciona como copiador de keysounds de los beatmaps |
 |  | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Cambiador de velocidad para los beatmaps de osu!mania |
 
-### Proyectos relacionados con la creación de storyboards
+### Creación de storyboards
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
@@ -138,7 +138,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 |  | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | Herramienta para crear storyboards con efectos visuales para la jugabilidad de osu!taiko |
 |  | [Storybrew](https://github.com/Damnae/storybrew) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Editor de storyboards fácil de usar |
 
-### Proyectos relacionados con el modding
+### Modding
 
 #### General
 
@@ -167,7 +167,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_maniacheck.png) | [ManiaCheck](https://github.com/MChecaH/ManiaCheck) | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Complemento de Mapset Verifier para la revisión de los beatmaps de osu!mania |
 
-### Proyectos relacionados con la creación de skins
+### Creación de skins
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
@@ -178,7 +178,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 | ![](img/logo_osu_skin_mixer.png) | [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) | ::{ flag=GB }:: [rednir](https://osu.ppy.sh/users/17204559) | Herramienta para mezclar y combinar elementos de skins existentes |
 | ![](img/logo_skin_checker.png) | [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Herramienta para verificar los elementos faltantes de las skins |
 
-### Proyectos relacionados con la gestión de beatmaps
+### Gestión de beatmaps
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
@@ -201,7 +201,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 |  | [Sayobot](https://osu.sayobot.cn) | ::{ flag=CN }:: [SoulDee](https://github.com/SoulDee) | Sitio espejo para descargar beatmaps, principalmente destinado a los usuarios que hablan chino |
 |  | [Yet another beatmap mirror](https://osu.ppy.sh/community/forums/topics/137156) | ::{ flag=LT }:: [Hexide](https://osu.ppy.sh/users/1353867) | Sitio espejo para descargar beatmaps |
 
-### Proyectos relacionados con el sitio web
+### Sitio web
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
@@ -222,7 +222,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 | ![](img/logo_irc4osu.png) | [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741) | ::{ flag=SK }:: [Claire Farron](https://osu.ppy.sh/users/4167678) | Un cliente IRC multiplataforma para osu! |
 |  | [Script chan](https://osu.ppy.sh/community/forums/topics/730734) | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Herramienta para los árbitros de torneos para crear y gestionar salas multijugador |
 
-### Proyectos relacionados con el rendimiento de los jugadores
+### Rendimiento de los jugadores
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
