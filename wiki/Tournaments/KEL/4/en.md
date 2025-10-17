@@ -50,12 +50,12 @@ tags:
 ## Links
 
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/17YUODiQXblESi9mciJqn2deFu1TGFKP83k2tkx0W8Ug/)
-- [Announcement post](link)
+- [Announcement post](https://osu.ppy.sh/home/news/2025-10-17-kel-lan-tournament-4-registrations-now-open)
 - [Discussion thread](link)
 - [Discord server](https://discord.gg/TSgMXsaZRR)
 - [Livestream](https://www.twitch.tv/keltournaments)
 - [YouTube channel](https://www.youtube.com/@KELtournaments)
-- [Tournament bracket](https://challonge.com/kelosu4)
+- [Tournament bracket](https://liquipedia.net/osu/KEL/4#Results)
 
 ## Ruleset
 
