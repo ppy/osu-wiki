@@ -222,7 +222,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 | ![](img/logo_irc4osu.png) | [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741) | ::{ flag=SK }:: [Claire Farron](https://osu.ppy.sh/users/4167678) | Un cliente IRC multiplataforma para osu! |
 |  | [Script chan](https://osu.ppy.sh/community/forums/topics/730734) | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Herramienta para los árbitros de torneos para crear y gestionar salas multijugador |
 
-### Performance
+### Proyectos relacionados con el rendimiento de los jugadores
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
