@@ -15,7 +15,7 @@ The **osu! World Cup 2025** (***OWC 2025***) is a country-based osu! tournament 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2025-09-26 (14:00 UTC)/2025-10-10 (23:59 UTC) |
-| Qualifier showcase | 2025-10-19 (18:00 UTC) |
+| Qualifier showcase | 2025-10-19 (17:00 UTC) |
 | Qualifier stage | 2025-10-25/2025-10-26 |
 | Group Stage | 2025-11-01/2025-11-09 |
 | Round of 16 | 2025-11-15/2025-11-16 |
