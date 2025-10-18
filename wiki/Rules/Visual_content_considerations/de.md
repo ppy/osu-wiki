@@ -51,7 +51,7 @@ In bestimmten Umständen können einige Ausnahmen für künstlerische Verwendung
 
 ## Dein Bild bewerten lassen
 
-*Siehe: [Verfahren zur Abstimmung über den Inhalt](/wiki/Rules/Content_voting_process).*
+*Siehe: [Verfahren zur Abstimmung über Inhalte](/wiki/Rules/Content_voting_process).*
 
 Bilder, die auf der Webseite außerhalb einer Beatmap benutzt werden (Avatare, Profilbilder, Nutzerseiten usw.) sind **nicht** Thema des Abstimmungsverfahrens, das unten erklärt wird, und können jederzeit nach dem Ermessen des [globalen Moderationsteams](/wiki/People/Global_Moderation_Team) (GMT) entfernt werden.
 
