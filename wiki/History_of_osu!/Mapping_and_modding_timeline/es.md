@@ -425,7 +425,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### Agosto
 
-- **5/8/2019:** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) lanzó la herramienta [Mapset Verifier](/wiki/Community/Projects#proyectos-relacionados-con-el-modding), que automatiza una parte importante de los procesos de verificación de los beatmaps para los Beatmap Nominators.
+- **5/8/2019:** ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) lanzó la herramienta [Mapset Verifier](/wiki/Community/Projects#modding), que automatiza una parte importante de los procesos de verificación de los beatmaps para los Beatmap Nominators.
 - **6/8/2019:** Los Beatmap Nominators pueden participar en las evaluaciones de aplicaciones para BN.
   - La opinión de los BN es visible para el NAT cuando intenta llegar a un consenso, aunque rara vez se usa para influir en una votación.
   - El NAT a menudo usa la opinión de los BN para ayudar a determinar los futuros miembros del NAT.
