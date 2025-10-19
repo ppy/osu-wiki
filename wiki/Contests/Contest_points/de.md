@@ -6,7 +6,7 @@ Wettbewerbspunkte können unter [bestimmten Bedingungen](/wiki/Contests/Official
 
 ## Punktevergabe
 
-Bei Einzelwettbewerben hängen die Wettbewerbspunkte davon ab, wie viele gültige Einsendungen erstellt wurden. Dies sind die allgemeinen Vorgaben für die Punkteverteilung und Ausnahmen können beim Beantragen der offiziellen Wettbewerbsunterstützung in einer Einzelfallprüfung im Ermessen des [Wettbewerbskomitees](/wiki/People/Tournament_Committee#wettbewerbskomitee) möglicherweise gestattet werden.
+Bei Einzelwettbewerben hängen die Wettbewerbspunkte davon ab, wie viele gültige Einsendungen erstellt wurden. Dies sind die allgemeinen Vorgaben für die Punkteverteilung. Ausnahmen können beim Beantragen der offiziellen Wettbewerbsunterstützung in einer Einzelfallprüfung im Ermessen des [Wettbewerbskomitees](/wiki/People/Tournament_Committee#wettbewerbskomitee) möglicherweise gestattet werden.
 
 | Anzahl der Einsendungen | Punkte auf 1. Platz | Punkte auf 2. Platz | Punkte auf 3. Platz |
 | :-- | :-- | :-- | :-- |
