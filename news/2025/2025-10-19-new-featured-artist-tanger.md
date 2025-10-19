@@ -33,7 +33,7 @@ The saying "two heads is better than one" doesn't exactly apply to circle clicki
 ### [Tanger - IMPULSE! (feat. Inferno)](https://assets.ppy.sh/artists/507/IMPULSE!/Tanger%20-%20IMPULSE!%20(feat.%20Inferno).osz)
 
 <audio controls>
-    <source src="ttps://assets.ppy.sh/artists/507/IMPULSE!/Tanger%20-%20IMPULSE!%20(feat.%20Inferno).mp3">
+    <source src="https://assets.ppy.sh/artists/507/IMPULSE!/Tanger%20-%20IMPULSE!%20(feat.%20Inferno).mp3">
 </audio>
 
 ### [Tanger - ^IKE](https://assets.ppy.sh/artists/507/BONUSx2/Tanger%20-%20%5EIKE.osz)
