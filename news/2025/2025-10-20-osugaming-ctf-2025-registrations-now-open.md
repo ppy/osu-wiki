@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!gaming CTF 2025: Registrations Now Open!"
-date: 2025-10-19 18:00:00 +0000
+date: 2025-10-20 00:00:00 +0000
 ---
 
 Solve puzzles, decrypt ciphers, and uncover hidden secrets in osu!gaming CTF 2025, a beginner-friendly cybersecurity "capture-the-flag" competition where every challenge is themed around the rhythm games you know and love.
