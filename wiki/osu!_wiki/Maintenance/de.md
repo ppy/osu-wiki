@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Verwaltung des osu!-Wikis
 
 *Siehe auch: [Beitragsleitfaden des osu!-Wikis](/wiki/osu!_wiki/Contribution_guide)*
