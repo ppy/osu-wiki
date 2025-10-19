@@ -60,6 +60,8 @@ The top four teams will select prizes from the following prize pool in order of 
 
 ## How to participate
 
+![Register your team on the osu!gaming CTF 2025 website!](/wiki/shared/news/2025-10-20-osugaming-ctf-2025-registrations-now-open/registration-banner.jpg)
+
 Registration and rules are available on the [event website](https://osugaming.sekai.team/). Form a team with friends or join the [Discord server](https://discord.com/invite/pJ5VpFKduN) to find teammates and connect with other participants.
 
 The Discord server is also the primary hub for announcements, support, and community discussion throughout the competition. Happy hacking!
