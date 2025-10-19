@@ -14,4 +14,4 @@ Sofern genug Zeit in der Pause zur Verfügung steht, erscheinen in allen Spielmo
 
 ![Ein Screenshot, bei dem der Beatmap-Abschnitt erfolgreich abgeschlossen wurde](img/section-pass.jpg "Erfolgreicher Abschluss des Abschnitts")
 
-![Ein Screenshot, bei dem der Beatmap-Abschnitt nicht erfolgreich abgeschlossen wurde](img/section-fail.jpg "Abschnitt nicht abgeschlossen")
+![Ein Screenshot, bei dem der Beatmap-Abschnitt nicht erfolgreich abgeschlossen wurde](img/section-fail.jpg "Erfolgloser Abschluss des Abschnitts")
