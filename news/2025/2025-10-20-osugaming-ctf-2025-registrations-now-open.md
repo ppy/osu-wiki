@@ -8,7 +8,7 @@ Solve puzzles, decrypt ciphers, and uncover hidden secrets in osu!gaming CTF 202
 
 ![](/wiki/shared/news/2025-10-20-osugaming-ctf-2025-registrations-now-open/banner.jpg)
 
-**osu!gaming CTF 2025** launches this weekend, 25th October, for a 48-hour competition! Whether you've never heard of a CTF before or are a veteran hacker, here's everything you need to know about participating in this unique mishmash.
+[osu!gaming CTF 2025](https://osugaming.sekai.team/) launches this weekend, 25th October, for a 48-hour competition! Whether you've never heard of a CTF before or are a veteran hacker, here's everything you need to know about participating in this unique mishmash.
 
 ## What is a CTF?
 
