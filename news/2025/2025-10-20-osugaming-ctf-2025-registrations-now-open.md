@@ -42,8 +42,8 @@ The competition spans 48 hours with registration open throughout the entire even
 
 | Event | Timestamp |
 | --: | :-- |
-| Competition starts | [25th October 2025 @ 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=osu!gaming+CTF+2025+Start&iso=20251025T02&p1=1440) |
-| Competition ends | [27th October 2025 @ 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=osu!gaming+CTF+2025+End&iso=20251027T02&p1=1440) |
+| Start | [25th October 2025 @ 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=osu!gaming+CTF+2025+Start&iso=20251025T02&p1=1440) |
+| End | [27th October 2025 @ 02:00 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=osu!gaming+CTF+2025+End&iso=20251027T02&p1=1440) |
 
 There is no team size limit. You can play solo or form a team with friends!
 
