@@ -90,7 +90,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 
 | Logo | Nombre | Líder del proyecto | Descripción |
 | :-: | :-- | :-- | :-- |
-|  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Bot de Discord con funciones para todo uso, especializado en el mapping y modding |
+|  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Bot de Discord multiusos con funciones orientadas al mapping y modding |
 |  | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | Herramienta para copiar los hitsounds de una dificultad a otra |
 |  | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | Herramienta para calcular y visualizar la densidad de los beatmaps a lo largo del tiempo |
 | ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Programa para todo lo relacionado con el mapping |
