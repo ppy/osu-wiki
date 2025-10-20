@@ -14,7 +14,7 @@ Solve puzzles, decrypt ciphers, and uncover hidden secrets in osu!gaming CTF 202
 
 [Capture the Flag (CTF) competitions](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) are information security exercises where participants solve a series of challenges to find hidden text strings called "flags". Each solved challenge reveals a secret code that, when submitted, earns your team points on a global leaderboard.
 
-In the [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)-style format used by CTFs, challenges are sorted into various categories, each testing different skills. Traditional CTF categories include:
+In the [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)-style format used by CTFs, challenges are sorted into various categories, each testing different skills:
 
 - **Web exploitation** challenges involve finding vulnerabilities in web applications.
 - **Cryptography** challenges involve breaking codes, ciphers, and encryption schemes.
