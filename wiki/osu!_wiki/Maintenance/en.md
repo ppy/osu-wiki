@@ -170,6 +170,6 @@ osu! is an ever-changing environment: the community makes new beatmaps, invents 
 
 ### Updates
 
-*For possible scope of work, see: [List of untracked TODOs (English)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*For possible scope of work, see: [List of untracked TODOs (English)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Existing articles need maintenance too. If you have found a factual error, or there are details missing, or if you simply want to rewrite/expand the article according to the reality, step forward and make the osu! wiki a better place. In case the change you plan is large or significant enough, make sure to bring it up for discussion in the `#osu-wiki` channel, or [create a tracking issue](https://github.com/ppy/osu-wiki/issues/new).
