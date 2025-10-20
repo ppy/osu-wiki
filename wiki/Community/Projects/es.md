@@ -212,7 +212,7 @@ Mientras que los proyectos oficiales son gestionados en su mayoría por el [osu!
 |  | [osu!Post - Live osu! Status](https://osu.ppy.sh/community/forums/topics/164486) | ::{ flag=DE }:: [givenameplz](https://osu.ppy.sh/users/947499) | Generador de firmas para los foros con integración del estado de [MSN Live](https://es.wikipedia.org/wiki/Windows_Live_Messenger) |
 | ![](img/logo_osuplus.png) | [osuplus](https://osu.ppy.sh/community/forums/topics/408541) | ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447) | Un script de navegador que añade funciones adicionales al sitio web |
 
-### Internet Relay Chat (IRC)
+### IRC
 
 *Véase también: [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat)*
 
