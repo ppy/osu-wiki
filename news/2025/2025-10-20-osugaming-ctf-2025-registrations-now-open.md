@@ -53,8 +53,8 @@ The top four teams will select prizes from the following prize pool in order of 
 
 - [A 6-foot giant goose plush](https://www.amazon.com/CottonStar-Stuffed-Plushies-Hugging-Friends/dp/B0BV97DSMG)*
 - [osu! socks](https://osu.ppy.sh/store/products/861) (set of 3)
-- [osu!buttons](https://osu.ppy.sh/store/products/117) x2
-- 1-month of osu!supporter x5
+- [osu!buttons](https://osu.ppy.sh/store/products/117) (x2)
+- 1-month of osu!supporter (x5)
 
 *Note: The team receiving the goose plush must have a valid shipping address in the U.S. or Canada.*
 
