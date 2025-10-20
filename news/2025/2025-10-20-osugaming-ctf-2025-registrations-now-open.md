@@ -38,7 +38,7 @@ Also, note that none of the solutions involve interacting with online systems (u
 
 ## Competition details
 
-The competition spans 48 hours with registration open throughout the entire event — sign up anytime before or during the competition:
+The whole thing spans 48 hours with registration always open — sign up anytime before or during the event:
 
 | Event | Timestamp |
 | --: | :-- |
