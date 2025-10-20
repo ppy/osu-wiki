@@ -14,20 +14,20 @@ Solve puzzles, decrypt ciphers, and uncover hidden secrets in osu!gaming CTF 202
 
 [Capture the Flag (CTF) competitions](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)) are information security exercises where participants solve a series of challenges to find hidden text strings called "flags". Each solved challenge reveals a secret code that, when submitted, earns your team points on a global leaderboard.
 
-In the [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)-style format used by CTFs, challenges are designed to be sorted into various categories, each of which test different skills. Traditional CTF categories include the following:
+In the [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)-style format used by CTFs, challenges are sorted into various categories, each testing different skills. Traditional CTF categories include:
 
 - **Web exploitation** challenges involve finding vulnerabilities in web applications.
 - **Cryptography** challenges involve breaking codes, ciphers and encryption schemes.
-- **Reverse engineering** challenges involve analysing compiled programmes to understand their behaviour.
+- **Reverse engineering** challenges involve analysing compiled programs to understand their behaviour.
 - **Forensics** challenges involve analysing files and data to uncover hidden information.
-- **Binary exploitation** challenges involve manipulating compiled programmes to achieve a desired outcome.
+- **Binary exploitation** challenges involve manipulating compiled programs to achieve a desired outcome.
 - **Miscellaneous** challenges are creative challenges that don't fit traditional categories.
 
 If technical puzzle-solving sounds interesting, but you've never participated in one of these yourself, no worries! The challenges are designed to accommodate both beginners and experienced players alike.
 
 ## Interesting, but where does osu! come in?
 
-While traditional CTFs feature standard cybersecurity challenges, **every challenge in this event is themed around osu! and/or popular rhythm games**! In addition to the categories mentioned in the previous section, we add two more:
+While traditional CTFs feature standard cybersecurity challenges, **every challenge in this event is themed around osu! and/or popular rhythm games**! In addition to the categories mentioned above, we add two more:
 
 - Challenges with the tag **osu!** involve knowledge of the game's ecosystems or interaction with its components.
 - Challenges with the tag **rhythm** involve knowledge of other popular (or not so popular) rhythm games or interaction with their game components.
