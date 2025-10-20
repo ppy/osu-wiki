@@ -17,7 +17,7 @@ Solve puzzles, decrypt ciphers, and uncover hidden secrets in osu!gaming CTF 202
 In the [Jeopardy!](https://en.wikipedia.org/wiki/Jeopardy!)-style format used by CTFs, challenges are sorted into various categories, each testing different skills. Traditional CTF categories include:
 
 - **Web exploitation** challenges involve finding vulnerabilities in web applications.
-- **Cryptography** challenges involve breaking codes, ciphers and encryption schemes.
+- **Cryptography** challenges involve breaking codes, ciphers, and encryption schemes.
 - **Reverse engineering** challenges involve analysing compiled programs to understand their behaviour.
 - **Forensics** challenges involve analysing files and data to uncover hidden information.
 - **Binary exploitation** challenges involve manipulating compiled programs to achieve a desired outcome.
