@@ -161,6 +161,6 @@ osu! ist eine sich ständig verändernde Umgebung: Die Community kreiert neue Be
 
 ### Aktualisierungen
 
-*Für einen möglichen Arbeitsumfang, siehe: [Liste von nicht verwalteten To-dos (Englisch)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Für einen möglichen Arbeitsumfang, siehe: [Liste von nicht verwalteten To-dos (Englisch)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Bereits existierende Artikel müssen auch überarbeitet werden. Wenn du einen sachlichen Fehler gefunden hast, Details fehlen oder wenn du einfach den Artikel entsprechend der Realität neu schreiben/erweitern möchtest, dann trete vor und mache das osu!-Wiki zu einem besseren Ort. Stelle sicher, dass du, falls deine geplante Änderung umfangreich oder signifikant genug ist, sie im Kanal `#osu-wiki` zur Diskussion stellst oder [ein Issue anlegst](https://github.com/ppy/osu-wiki/issues/new).
