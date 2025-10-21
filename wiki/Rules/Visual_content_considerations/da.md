@@ -54,9 +54,9 @@ I visse omstændigheder kan undtagelser gælde for kunstnerisk brug af gennemarb
 
 *Se [Processen for afstemninger om indhold](/wiki/Rules/Content_voting_process).*
 
-Følgende afstemningsregler gælder **ikke** for billeder, der bruges udenfor et beatmap (f.x. som profilbilleder, titelbilleder, i brugersider, osv.); disse kan fjernes til enhver tid i [Global Moderation Teamets](/wiki/People/Global_Moderation_Team) (GMT) skøn.
+Følgende afstemningsregler gælder **ikke** for billeder, der bruges udenfor et beatmap (f.x. som profilbilleder, titelbilleder, i brugersider, osv.); disse kan fjernes til enhver tid i [Det Globale Moderationholds](/wiki/People/Global_Moderation_Team) (GMT) skøn.
 
-Hvis du overhovedet er i tvivl om et billede, der skal inkluderes i et beatmap på enhver måde, **beder vi dig om at anmelde det via [siden for indsendelse af anmeldelser om Beatmap Nominators](https://bn.mappersguild.com/reports).** Billedet bliver sat til en afstemning og skal accepteres med et tydeligt flertal; ellers nægtes billedet automatisk.
+Hvis du overhovedet er i tvivl om et billede, der skal inkluderes i et beatmap på enhver måde, **beder vi dig om at anmelde det via [siden for indsendelse af anmeldelser om Beatmap-Nominatorer](https://bn.mappersguild.com/reports).** Billedet bliver sat til en afstemning og skal accepteres med et tydeligt flertal; ellers nægtes billedet automatisk.
 
 **Resultatet af enhver afstemning er endeligt**, medmindre billedet er betydeligt redigeret i et forsøg på at løse alle potentielt problematiske elementer nævnt i diskussionen.
 

@@ -2,7 +2,7 @@
 
 *See also: [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)*
 
-This article details all the major events in the **history of the osu! wiki** from the MediaWiki era through the present day.
+This article details the major events in the **history of the osu! wiki** from the MediaWiki era through the present day.
 
 <!--The documentation for the years 2018 to 2021 is missing.-->
 
@@ -21,7 +21,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### November
 
-- **2012-11-29:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were [added](https://osu.ppy.sh/community/forums/posts/1944044) to the osu! wiki's Mediawiki admins.
+- **2012-11-29:** ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) and ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032) were [added](https://osu.ppy.sh/community/forums/posts/1944044) to the osu! wiki's MediaWiki admins.
 
 ### 2013
 
@@ -34,7 +34,7 @@ This article details all the major events in the **history of the osu! wiki** fr
 #### December
 
 - **Unknown date:** The osu! wiki became a true information centre of osu! after core pages such the [osu! team](/wiki/People/osu!_team) and the [Rules](/wiki/Rules) were migrated over to the wiki.
-- **Unknown date:** ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) and ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) were added to the osu! wiki's Mediawiki admins.
+- **Unknown date:** ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) and ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) were added to the osu! wiki's MediaWiki admins.
 
 ### 2015
 
@@ -47,11 +47,11 @@ This article details all the major events in the **history of the osu! wiki** fr
 
 #### February
 
-- **2016-02-22:** ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) were added to the osu! wiki's Mediawiki admins.
+- **2016-02-22:** ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) and ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) were added to the osu! wiki's MediaWiki admins.
 
 #### April
 
-- **2016-04-01:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) was added to the osu! wiki's Mediawiki admins.
+- **2016-04-01:** ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) was added to the osu! wiki's MediaWiki admins.
 
 #### August
 

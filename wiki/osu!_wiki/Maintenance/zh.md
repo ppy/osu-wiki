@@ -166,6 +166,6 @@ osu! 有一个不断变化的环境：社区涌现出许多新的谱面；玩家
 
 ### 更新
 
-*有关可能的工作范围，请参阅：[未跟进的待做列表（英语）](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*有关可能的工作范围，请参阅：[未跟进的待做列表（英语）](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 现有的文章也需要维护。如果你在文章中发现一些既有错误，或是缺少一些细节，或是你只是想根据实际情况来重写或者扩展文章，那么就站出来，让 osu! wiki 变得更好。如果你计划的更改很大或很重要，请把它提到 `#osu-wiki` 频道讨论，或者[创建跟踪问题](https://github.com/ppy/osu-wiki/issues/new) (issue)。
