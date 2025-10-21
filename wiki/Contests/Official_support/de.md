@@ -123,4 +123,4 @@ Anfragen für die Veröffentlichung von Neuigkeiten werden sowohl vom Wettbewerb
 
 ## Anmerkungen
 
-[^exception-note]: Ausnahmen werden möglicherweise in einer Einzelfallprüfung im Ermessen des [Wettbewerbskomitee](/wiki/People/Tournament_Committee#contest-committee) gestattet.
+[^exception-note]: Ausnahmen werden möglicherweise in einer Einzelfallprüfung im Ermessen des [Wettbewerbskomitee](/wiki/People/Tournament_Committee#wettbewerbskomitee) gestattet.

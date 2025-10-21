@@ -94,36 +94,37 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 
 Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-- ¡Presiona `Ctrl` + `T` en cualquier parte del juego para alternar la barra de herramientas!
-- ¡Presiona `Ctrl` + `O` en cualquier parte del juego para acceder a las opciones!
-- Todas las configuraciones son dinámicas y surten efecto en tiempo real. ¡Prueba a cambiar la skin mientras ves autoplay!
-- Nuevas funciones están disponibles en línea con cada actualización. ¡Asegúrate de mantenerte actualizado!
-- Si encuentras que la interfaz de usuario es demasiado grande o pequeña, intenta ajustar la escala de la interfaz de usuario en la configuración.
-- Intenta ajustar el modo `Escala de pantalla` para cambiar tu juego o el área de la interfaz de usuario, ¡incluso en pantalla completa!
-- Lo que solía ser «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios al igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar usando `Ctrl` + `B`!
-- ¡Buscar en las repeticiones está disponible arrastrando la barra de progreso en la parte inferior de la pantalla o usando las teclas de flecha izquierda y derecha!
-- ¡La compatibilidad con subprocesos múltiples significa que incluso con «FPS» bajos, sus entradas y juicios serán precisos!
-- ¡Intenta desplazarte hacia la derecha en el selector de mods para encontrar un montón de nuevos mods divertidos!
-- ¡La mayor parte del contenido web (perfiles, clasificaciones, etc.) está disponible de forma nativa en el juego desde los íconos en la barra de herramientas!
-- ¡Obtén más detalles, oculta o elimina un beatmap haciendo clic derecho en tu panel en la selección de canciones!
-- Todas las operaciones de eliminación son temporales hasta que salgas. ¡Restaura el contenido eliminado accidentalmente en la configuración de mantenimiento!
-- Echa un vistazo al sistema de «listas de juego», que permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes.
-- ¡Alterna las estadísticas avanzadas de marcos / subprocesos con `Ctrl` + `F11`!
-- ¡Echa un vistazo bajo el capó a los contadores de rendimiento y habilita el registro de rendimiento detallado con `Ctrl` + `F2`!
-- ¡Puedes pausar durante una repetición presionando `Espacio`!
-- La mayoría de las teclas de acceso rápido del juego son configurables y se pueden cambiar a las que quieras. ¡Comprueba el panel de asignaciones en los ajustes de entrada!
+- ¡Presiona `Ctrl` + `T` en cualquier parte del juego para mostrar u ocultar la barra de herramientas!
+- ¡Presiona `Ctrl` + `O` en cualquier parte del juego para acceder a los ajustes!
+- Todos los ajustes son dinámicos y surten efecto en tiempo real. ¡Prueba a cambiar la skin mientras ves el juego automático!
+- Cada actualización incluye nuevas funciones. ¡Asegúrate de tener el juego actualizado!
+- Si la interfaz de usuario te parece demasiado grande o pequeña, ¡prueba a ajustar la escala de la interfaz en los ajustes!
+- Prueba a ajustar el modo `Escalado de pantalla` para cambiar la zona de juego o la interfaz de usuario, ¡incluso en pantalla completa!
+- Lo que antes era «[osu!direct](/wiki/osu!supporter#osu!direct)» está disponible para todos los usuarios igual que en el sitio web. ¡Puedes acceder a él desde cualquier lugar presionando `Ctrl` + `B`!
+- ¡Puedes desplazarte por las repeticiones arrastrando la barra de progreso situada en la parte inferior de la pantalla o usando las teclas de flecha izquierda y derecha!
+- ¡El soporte multihilo significa que incluso con «FPS» bajos, tus entradas y juicios serán precisos!
+- ¡Prueba a desplazarte hacia la derecha en el selector de mods para encontrar un montón de nuevos mods divertidos!
+- ¡La mayor parte del contenido de la web (perfiles, clasificaciones, etc.) está disponible de forma nativa en el juego desde los iconos de la barra de herramientas!
+- ¡Obtén más detalles, oculta o elimina un beatmap haciendo clic con el botón derecho en su panel en el selector de canciones!
+- Todas las acciones de borrado son temporales hasta que se cierre el juego. ¡Restaura el contenido borrado accidentalmente desde los ajustes de mantenimiento!
+- Échale un vistazo al sistema de las «listas de juego», ¡el cual permite a los usuarios crear sus propias tablas de clasificación personalizadas y permanentes!
+- ¡Activa o desactiva las estadísticas avanzadas de fotogramas e hilos con `Ctrl` + `F11`!
+- ¡Échale un vistazo a los parámetros de rendimiento y activa el registro detallado con `Ctrl` + `F2`!
+- ¡Puedes pausar una repetición presionando la barra espaciadora!
+- La mayoría de las teclas de acceso rápido del juego son configurables y pueden cambiarse a las que quieras. ¡Revisa tus teclas asignadas en la sección `Entrada` de los ajustes!
 - ¡Cuando tu HUD del juego esté oculto, puedes presionar y mantener presionado `Ctrl` para verlo temporalmente!
-- El HUD del juego se puede personalizar usando el editor de diseño de skins. ¡Ábrelo en cualquier momento con `Ctrl` + `Mayús` + `S`!
+- El HUD del juego puede personalizarse usando el editor de skins. ¡Ábrelo en cualquier momento con `Ctrl` + `Mayús` + `S`!
 - ¡Arrastra y suelta cualquier imagen en el editor de skins para cargarla rápidamente!
-- ¡Puedes crear ajustes preestablecidos de mods para facilitar el cambio de tus combinaciones favoritas de mods!
-- Muchos mods tienen configuraciones de personalización que cambian drásticamente su funcionamiento. ¡Haz clic en el botón `Personalización de mods` en el selector de mods para ver la configuración!
+- ¡Puedes crear preajustes de mods para facilitar la elección de tus combinaciones favoritas!
+- Muchos mods tienen ajustes de personalización que cambian drásticamente su funcionamiento. ¡Haz clic en el botón `Personalizar` en el selector de mods para ver los ajustes!
 - ¡Presiona `Ctrl` + `Mayús` + `R` para cambiar a una skin aleatoria!
 - Presiona `Ctrl` + `Mayús` + `F` para alternar el contador de FPS. ¡Pero asegúrate de no prestarle demasiada atención!
-- ¡Mientras miras una repetición, presiona `Ctrl` + `H` para alternar la configuración de la repetición!
-- ¡Puedes copiar fácilmente los mods de las puntuaciones en una tabla de clasificación haciendo clic derecho sobre ellas!
-- ¡Si presionas `Ctrl` + `Entrar` al seleccionar una canción, se iniciará el beatmap en modo autoplay!
+- Mientras ves una repetición, ¡presiona `Ctrl` + `H` para cambiar la configuración de la repetición!
+- ¡Puedes copiar fácilmente los mods de las puntuaciones de una tabla de clasificación haciendo clic con el botón derecho del ratón!
+- Si presionas `Ctrl` + `Entrar` al seleccionar una canción, ¡se iniciará el mapa en el modo de juego automático!
 - «Lazer» no es una palabra en inglés. La forma correcta de escribir la luz brillante es «láser».
 - ¡Mantén presionado el botón derecho del ratón cerca del carrusel de beatmaps para desplazarte rápidamente a una posición absoluta!
+- ¡Presiona `Mayús` y haz clic en un mapa de la lista de beatmaps para descargarlo rápidamente o verlo en el selector de canciones!
 
 ## Véase también
 
