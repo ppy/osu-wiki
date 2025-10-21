@@ -68,6 +68,7 @@
 - เพิ่ม [Galkan](https://osu.ppy.sh/users/169570) เป็น Global Mod Team (20-05-2555)
 - เพิ่ม [TicClick](https://osu.ppy.sh/users/672931) เป็น Global Mod Team (20-05-2555)
 - ย้าย [Odaril](https://osu.ppy.sh/users/113005) จาก Beatmap Appreciation Team เป็น osu! Alumni (25-05-2555)
+- ย้าย [Andrea](https://osu.ppy.sh/users/33599) จาก osu! Alumni เป็น Beatmap Appreciation Team (25-05-2555)
 
 ## มิถุนายน
 
