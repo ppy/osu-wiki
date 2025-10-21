@@ -97,10 +97,12 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 ### Schedules
 
 We, the Tournament staff will be responsible for scheduling all matches and informing players when they are scheduled to play. If a player is unable to play with the schedule they will have the option to request a reschedule, details about this topic will be explained further when the tournament begins.
+
 We will do our best to schedule each match according to each player's preferred time to play.
-  - If no referee is available during the match, the match shall be delayed.
-  - If no streamers are available to broadcast the match, the match will still happen without being broadcast.
-  - If no commentators are available to commentate the match but streamers are available to broadcast the match, the match will still be broadcasted but without commentary.
-    - Please note that we will try our best to broadcast every match. If two matches happen at the same time we will prioritize:
-    - The scheduled match over rescheduled matches.
-    - The winner bracket match over the lower bracket match.
+
+1. If no referee is available during the match, the match shall be delayed.
+2. If no streamers are available to broadcast the match, the match will still happen without being broadcast.
+3. If no commentators are available to commentate the match but streamers are available to broadcast the match, the match will still be broadcasted but without commentary.
+4. Please note that we will try our best to broadcast every match. If two matches happen at the same time we will prioritize:
+   - The scheduled match over rescheduled matches.
+   - The winner bracket match over the lower bracket match.
