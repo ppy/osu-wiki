@@ -62,7 +62,7 @@ Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) 
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
-Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm vi phạm và lịch sử có liên quan của người dùng.
+Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm và lịch sử có liên quan của người dùng.
 
 Đối với nội dung trực quan không phù hợp trên các beatmap, lệnh im lặng thường sẽ không được áp dụng, miễn là nội dung hình ảnh không quá nghiêm trọng và người dùng đã loại bỏ nội dung vi phạm trong một khoảng thời gian hợp lý.
 
