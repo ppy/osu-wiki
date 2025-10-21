@@ -160,6 +160,6 @@ osu! est un environnement en constante évolution : la communauté créent de no
 
 ### Mises à jour
 
-*Pour l'étendue possible du travail, voir : [Liste des TODO existants (anglais)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Pour l'étendue possible du travail, voir : [Liste des TODO existants (anglais)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Les articles existants ont également besoin d'être entretenus. Si vous avez trouvé une erreur, s'il manque des détails, ou si vous voulez simplement réécrire/étendre l'article en fonction de la réalité, faites un pas en avant et faites du wiki d'osu! un meilleur endroit. Si le changement que vous envisagez est suffisamment important ou significatif, assurez-vous d'en discuter dans le channel `#osu-wiki`, ou [créer un issue de suivi](https://github.com/ppy/osu-wiki/issues/new).
