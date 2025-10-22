@@ -32,10 +32,10 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì 
 - **Tư thế khiêu gợi hoặc gạ gẫm tình dục** 
 - **Nội dung khiêu dâm hoặc miêu tả trực tiếp về tình dục**
 - **Ví dụ về việc sử dụng chất cấm, sự chuẩn bị hoặc nhận biết với nhóm văn hóa ma túy trái phép**[^drug-nature]
-- **Mô tả về chính trị, văn hóa, tôn giáo hoặc nội dung xã hội cố ý gây kích động**
-- **Hình ảnh mô tả hành vi tự tử hoặc tự làm tổn thương bản thân, bao gồm cả việc chuẩn bị hoặc những nỗ lực tự tử sắp xảy ra**
+- **Mô tả liên quan đến chính trị, nội dung văn hóa, tôn giáo hoặc các vấn đề xã hội gây tranh cãi có chủ ý**
+- **Hình ảnh miêu tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc những hành động sắp diễn ra**
 
-Ngoài ra, các hình ảnh hoặc yếu tố trực quan có thể bị đánh giá hợp lý là có chất lượng kém (dù là về chất lượng hình ảnh khách quan hay về cách bố trí/tạo hình chủ quan) cũng có thể bị ngừng sử dụng trong beatmap trong những trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có liên quan.
+Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản được sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có liên quan.
 
 ## Các nội dung ngoại lệ
 
