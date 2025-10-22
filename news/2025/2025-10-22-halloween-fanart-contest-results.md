@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Halloween 2025 Fanart Contest: Results"
-date: 2025-10-22 09:00:00 +0000
+date: 2025-10-22 10:45:00 +0000
 ---
 
 Boo! It's Halloween very soon, and we wouldn't want to miss the celebrations with all the amazing new menu artwork.
 
-![](/wiki/shared/news/2025-10-22-halloween-2025-fanart-contest-results/banner.jpg)
+![](/wiki/shared/news/2025-10-22-halloween-fanart-contest-results/banner.jpg)
 
 Halloween seems to be one of our more popular themes, with **2,598** of you casting a total of almost exactly **31k** votes (+2) to decide the winner of the latest spooky art contest! After the [announced on September 6](https://osu.ppy.sh/home/news/2025-09-19-halloween-fanart-contest), **155** artists entered the fray, with artworks [revealed on October 13](https://osu.ppy.sh/home/news/2025-10-13-halloween-fanart-contest-voting) about a month later. Today after a quick week of voting, it's time to [reveal the results](https://osu.ppy.sh/home/news/2025-10-22-halloween-fanart-contest-results)!
 
