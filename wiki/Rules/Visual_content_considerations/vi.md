@@ -12,7 +12,7 @@ Theo [Quy tắc Cộng đồng số 5](/wiki/Rules#community-rules), tất cả 
 - **Chi tiết hồ sơ (ảnh đại diện, ảnh bìa)**
 - **Bất kỳ tệp đính kèm hoặc liên kết khác (các bài viết trên diễn đàn, bình luận, bài đăng thảo luận beatmap)**
 
-Vì lợi ích của giữ mọi thứ càng sạch càng tốt, Quy tắc Cộng đồng số 5 được áp dụng đối với bất kỳ điều gì có thể được xem là “có vấn đề” một cách hợp lý.
+Vì lợi ích của giữ mọi thứ càng trong sáng càng tốt, Quy tắc Cộng đồng số 5 được áp dụng đối với bất kỳ điều gì có thể được xem là “có vấn đề” một cách hợp lý.
 
 ## Những điều quan trọng cần cân nhắc
 
@@ -26,8 +26,8 @@ Khi không chắc chắc về điều gì đó, hãy cố gắng điều chỉnh
 
 Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì sau đây đều **không được phép**:
 
-- **Nội dung liên quan đến tình dục hoặc nhắm đến người vị thành niên**
-- **Bạo lực quá mức, máu me, chặt xác,chém đầu, hoặc làm tàn tật cơ thể**
+- **Nội dung liên quan đến tình dục hoặc hướng đến trẻ vị thành niên**
+- **Bạo lực quá mức, máu me, chặt xác, chém đầu, hoặc làm tàn tật cơ thể**
 - **Ám chỉ tình dục rõ rệt**
 - **Tư thế khiêu gợi hoặc gạ gẫm tình dục** 
 - **Nội dung khiêu dâm hoặc miêu tả trực tiếp về tình dục**
@@ -35,7 +35,7 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì 
 - **Mô tả liên quan đến chính trị, nội dung văn hóa, tôn giáo hoặc các vấn đề xã hội gây tranh cãi có chủ ý**
 - **Hình ảnh miêu tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc những hành động sắp diễn ra**
 
-Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản được sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có liên quan.
+Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có liên quan.
 
 ## Các nội dung ngoại lệ
 
