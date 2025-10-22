@@ -554,7 +554,7 @@ Saturday, 9 August 2025:
 | [Gamtor Games](https://osu.ppy.sh/users/16701326) ::{ flag=NZ }:: | 0 | **186,826** | ::{ flag=VN }:: **[BC1\_CI9](https://osu.ppy.sh/users/25923595)** | [#1](https://osu.ppy.sh/community/matches/118918495) |
 | [Naaaad](https://osu.ppy.sh/users/10344857) ::{ flag=KR }:: | **102,145** | 11,298 | ::{ flag=FI }:: [Tomskuu](https://osu.ppy.sh/users/14943370) | [#1](https://osu.ppy.sh/community/matches/118918946) |
 | **[MusicPad](https://osu.ppy.sh/users/23231102)** ::{ flag=VN }:: | **0** | -1 | ::{ flag=VN }:: [Hawkfrost](https://osu.ppy.sh/users/15555328) | *win by default* |
-| **[Stereotype](https://osu.ppy.sh/users/25311011)** ::{ flag=KR }:: |	**34,793** | 15,933 | ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) | [#1](https://osu.ppy.sh/community/matches/118919482) |
+| **[Stereotype](https://osu.ppy.sh/users/25311011)** ::{ flag=KR }:: | **34,793** | 15,933 | ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) | [#1](https://osu.ppy.sh/community/matches/118919482) |
 | **[Aikiyo Fuuka](https://osu.ppy.sh/users/5179764)** ::{ flag=ID }:: | **0** | -1 | ::{ flag=VN }:: [weirdoooooooooo](https://osu.ppy.sh/users/29251530) | *win by default* |
 | [someramdomeguy](https://osu.ppy.sh/users/16317924) ::{ flag=US }:: | -1 | **0** | **::{ flag=AU }:: [Crimzenite](https://osu.ppy.sh/users/29051886)** | *win by default* |
 | **[Old Pigeon](https://osu.ppy.sh/users/26116770)** ::{ flag=CN }:: | **0** | -1 | ::{ flag=US }:: [\[LS\]Mari](https://osu.ppy.sh/users/15270411) | *win by default* |
@@ -576,7 +576,7 @@ Sunday, 10 August 2025:
 | [HowToPlaySV](https://osu.ppy.sh/users/32494511) ::{ flag=CN }:: | -1 | **0** | ::{ flag=VN }:: **[unluminated520](https://osu.ppy.sh/users/30243406)** | *win by default* |
 | [minatoaquafan69](https://osu.ppy.sh/users/18111392) ::{ flag=HK }:: | -1 | **0** | ::{ flag=NZ }:: **[Robeats](https://osu.ppy.sh/users/19446399)** | *win by default* |
 | **[snowsnowsonsnow](https://osu.ppy.sh/users/8160564)** ::{ flag=CA }:: | **0** | -1 | ::{ flag=TW }:: [leegun](https://osu.ppy.sh/users/33413887) | *win by default* |
-| [Cath](https://osu.ppy.sh/users/10202140) ::{ flag=DK }:: | -1 | **0** |  ::{ flag=CN }:: **[Suang](https://osu.ppy.sh/users/20222452)** | *win by default* |
+| [Cath](https://osu.ppy.sh/users/10202140) ::{ flag=DK }:: | -1 | **0** | ::{ flag=CN }:: **[Suang](https://osu.ppy.sh/users/20222452)** | *win by default* |
 | **[\[LS\]Vixile](https://osu.ppy.sh/users/26233321)** ::{ flag=VN }:: | **0** | -1 | ::{ flag=IT }:: [oldgigios](https://osu.ppy.sh/users/23870404) | *win by default* |
 | **[Plana\_](https://osu.ppy.sh/users/24776314)** ::{ flag=PH }:: | **32,541** | 3,015 | ::{ flag=CA }:: [\[LS\]Nemesis](https://osu.ppy.sh/users/20544648) | [#1](https://osu.ppy.sh/community/matches/118929796) |
 | **[Fuyushi-](https://osu.ppy.sh/users/33670459)** ::{ flag=KR }:: | **0** | -1 | ::{ flag=GR }:: [Monarchies](https://osu.ppy.sh/users/31898216) | *win by default* |
