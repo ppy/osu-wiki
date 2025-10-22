@@ -35,7 +35,7 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì 
 - **Mô tả liên quan đến chính trị, nội dung văn hóa, tôn giáo hoặc các vấn đề xã hội gây tranh cãi có chủ ý**
 - **Hình ảnh miêu tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc những hành động sắp diễn ra**
 
-Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề chính nào liên quan.
+Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào.
 
 ## Các nội dung ngoại lệ
 
