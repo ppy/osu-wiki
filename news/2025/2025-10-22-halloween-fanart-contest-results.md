@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halloween 2025 Fanart Contest: Results"
-date: 2025-10-22 10:45:00 +0000
+date: 2025-10-22 10:00:00 +0000
 ---
 
 Boo! It's Halloween very soon, and we wouldn't want to miss the celebrations with all the amazing new menu artwork.
