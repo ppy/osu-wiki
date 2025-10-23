@@ -25,7 +25,7 @@ The **National Dutch Championship 2025** (***NDC 2025***) was a 1v1, double elim
 
 ## Prizes
 
-The prizepool totals €750 and will be divided as follows:
+The prize pool totals €750 and was divided as follows:
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -35,7 +35,7 @@ The prizepool totals €750 and will be divided as follows:
 | *4th place* | 7.5% (€56,25) |
 | *5th & 6th place* | 2.5% (€18,75) |
 
-The tournament and prizepool is sponsored by both the organisation and community members. Donators can choose how much of their donation they want to go to either the prizepool or improving the tournament series:
+The tournament and prize pool was sponsored by both the organisation and community members. Donators could choose how much of their donation they wanted to go to either the prize pool or improving the tournament series:
 
 - ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403): €500
 - ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619): €200
