@@ -31,6 +31,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=DE }:: Allemagne |
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 03/12/2023 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=AU }:: Australien |
 | [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 08/12/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=AU }:: Australien |
+| [osu! World Cup 2025](OWC/2025) | 25/10/2025 | 07/12/2025 | *À déterminer* | *À déterminer* | *À déterminer* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -95,7 +96,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/02/2024 | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/07/2024 | 29/09/2024 | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine | ::{ flag=TH }:: Thaïlande |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/02/2025 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=PH }:: Philippines |
-| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/07/2025 | 28/09/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
+| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/07/2025 | 28/09/2025 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine |
 
 ## Tournois communautaires
 
@@ -863,6 +864,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 28/10/2023 | 17/12/2023 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 04/05/2024 | 16/06/2024 | ::{ flag=JP }:: Japon | ::{ flag=GB }:: Royaume-Uni | ::{ flag=AU }:: Australie-A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 26/04/2025 | 08/06/2025 | ::{ flag=JP }:: Japon | ::{ flag=US }:: États-Unis | ::{ flag=GB }:: Royaume-Uni |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 25/10/2025 | 07/12/2025 | *À déterminé* | *À déterminé* | *À déterminé* |
 
 #### Mania Beginner's Showdown
 

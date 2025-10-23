@@ -27,6 +27,7 @@
 - **When multiple metadata options are available:**
   - Aim to match Ranked beatmaps. Follow what is most recent and common, then verify that metadata is correct and fix as needed.
     - Artist names should be consistent as well, as long as they are not intentionally using different aliases.
+    - Marker capitalization can be changed freely if done to match title and artist stylisation. <!-- If this is changed, the allowance about alternate marker capitalisation needs to be adjusted as well -->
   - Official romanisations/translations are preferred for romanised fields, so long as they are easily found and commonly recognised.
   - In case of conflicting options, a discussion should be held to determine what would be the best option.
 
@@ -161,7 +162,7 @@ When the entire field is uppercase or lowercase, markers may use alternative cas
 
 #### Allowances
 
-- **Alternative casing for markers may be used if the rest of the song title is stylised to fit the formatting.**
+- **Alternative casing for markers may be used if the rest of the song title is stylised to fit the formatting.** <!-- If this is adjusted, the guideline covering Ranked Consistency needs to be adjusted as well -->
 - **Live performances may add a special marker, such as `(Live Ver.)`.** Descriptive markers like `(2020 Tour Live Ver.)` can also be used.
 - **Marker additions may be ignored or a custom marker may be used on a case-by-case basis if the standard markers are misleading.** Hold a discussion to determine the marker in this case and post the result publicly.
 

@@ -27,6 +27,7 @@
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
 | [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
 | [osu! 世界杯 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
+| [osu! 世界杯 2025](OWC/2025) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -91,7 +92,7 @@
 | [osu!mania 7K 世界杯 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 | ::{ flag=PH }:: 菲律宾 |
 | [osu!mania 4K 世界杯 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 | ::{ flag=TH }:: 泰国 |
 | [osu!mania 7K 世界杯 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=PH }:: 菲律宾 |
-| [osu!mania 4K 世界杯 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 4K 世界杯 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 |
 
 ## 社区锦标赛
 
@@ -859,6 +860,7 @@
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=AU }:: 澳洲 A |
 | [One Key World Cup 2025](JOKE/1KWC_2025) | 2025-04-26 | 2025-06-08 | ::{ flag=JP }:: 日本 | ::{ flag=US }:: 美国 | ::{ flag=GB }:: 英国 |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
 
 #### Mania Beginner's Showdown
 
