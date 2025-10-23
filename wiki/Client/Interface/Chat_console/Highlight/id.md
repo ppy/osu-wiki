@@ -8,7 +8,7 @@ tags:
 
 # Highlight
 
-**Highlight** atau **sorotan** (atau yang pada umumnya disingkat sebagai **HL**, dan terkadang disebut juga sebagai **mention** atau **ping**) merupakan salah satu cara untuk menarik perhatian seseorang yang sedang online ke layar chat. Secara bawaan, suatu highlight akan terpicu pada saat nama pengguna seseorang disebutkan oleh orang lain di dalam chat. Daftar kata yang memicu highlight ini dapat disesuaikan pada [pengaturan chat osu!](/wiki/Client/Options#in-game-chat).
+**Highlight** atau **sorotan** (atau yang pada umumnya disingkat sebagai **HL**, dan terkadang disebut juga sebagai **mention** atau **ping**) merupakan suatu cara untuk menarik perhatian seseorang yang sedang online ke layar chat. Secara bawaan, highlight akan terpicu pada saat nama pengguna seseorang disebutkan oleh orang lain di dalam chat. Daftar kata yang memicu highlight ini dapat disesuaikan pada [pengaturan chat osu!](/wiki/Client/Options#in-game-chat).
 
 Highlight dari pengguna tertentu dapat diabaikan dengan cara menambahkan nama pengguna mereka ke [daftar abai](/wiki/Client/Options/Ignore_list) yang diikuti oleh akhiran `@h`.
 
