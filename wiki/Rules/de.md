@@ -68,4 +68,4 @@ Schwere Vergehen, die den Rahmen unserer Regeln sprengen und unter die Jurisdikt
 
 ## Anmerkungen
 
-[^macros]: Tasten auf K1 oder K2 neu zu belegen ist erlaubt, solange das einmalige Drücken einer bestimmten Taste die verbundene Spieltaste einmal auslöst und das Loslassen derselben Taste ein Loslassen der verbundenen Spieltaste bewirkt. Es ist verboten, eine Druckbewegung mit einem Loslassen zu verknüpfen. Ebenfalls ist es verboten, wenn eine Taste mehr als eine Druckbewegung oder ein Loslassen erzeugt.
+[^macros]: Aktionen von einer Taste auf eine andere Taste zu legen ist erlaubt, solange das einmalige Drücken einer bestimmten Taste die verbundene Spieltaste einmal auslöst und das Loslassen derselben Taste ein Loslassen der verbundenen Spieltaste bewirkt. Es ist verboten, eine Druckbewegung mit einem Loslassen zu verknüpfen. Ebenfalls ist es verboten, wenn eine Taste mehr als eine Druckbewegung oder ein Loslassen erzeugt.
