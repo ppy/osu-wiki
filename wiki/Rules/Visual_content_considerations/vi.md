@@ -8,34 +8,34 @@ Theo [Quy tắc Cộng đồng số 5](/wiki/Rules#community-rules), tất cả 
 
 Điều này bao gồm:
 
-- **Các beatmap được gửi lên, kể cả những beatmap đã gắn thẻ là [nội dung nhạy cảm](/wiki/Rules/Explicit_content)** 
+- **Các beatmap được gửi lên, ngay cả những beatmap đã gắn thẻ là [explicit](/wiki/Rules/Explicit_content)** 
 - **Chi tiết hồ sơ (ảnh đại diện, ảnh bìa)**
-- **Bất kỳ tệp đính kèm hoặc liên kết nào khác (các bài viết trên diễn đàn, bình luận, bài đăng thảo luận beatmap)**
+- **Bất kỳ tệp đính kèm hoặc liên kết khác (các bài viết trên diễn đàn, bình luận, bài đăng thảo luận beatmap)**
 
-Với mục tiêu giữ mọi thứ càng sạch càng tốt, Quy tắc Cộng đồng số 5 được áp dụng cho bất kỳ điều gì có thể được xem là “có vấn đề” một cách hợp lý.
+Vì lợi ích của giữ mọi thứ càng trong sáng càng tốt, Quy tắc Cộng đồng số 5 được áp dụng đối với bất kỳ điều gì có thể được xem là “có vấn đề” một cách hợp lý.
 
 ## Những điều quan trọng cần cân nhắc
 
-Tất cả các bức ảnh nên được đánh giá dựa trên chính chúng, mà không tính đến bất kỳ trường hợp nào trước đó, quyết định dựa trên những gì bạn thấy.
+Tất cả các bức ảnh nên được đánh giá như chính chúng, mà không tính đến bất kỳ trường hợp nào khác trước đó, quyết định dựa trên những điều bạn thấy.
 
-Xin vui lòng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ rất khác nhau, các ý kiến và giá trị khác nhau về chủ đề những gì được phép và không được phép.
+Xin vui lòng cũng hiểu rằng chúng ta là một cộng đồng toàn cầu, đa văn hóa với những suy nghĩ, các ý kiến và giá trị khác nhau về chủ đề những gì được phép và không được phép.
 
-Khi có sự nghi ngờ, hãy cố gắng điều chỉnh để phù hợp với các giá trị chung được chia sẻ bởi phần lớn cộng đồng osu! nói chung.
+Khi không chắc chắc về điều gì đó, hãy cố gắng điều chỉnh để nhằm đáp ứng những giá trị tập thể được chia sẻ bởi phần lớn cộng đồng osu! nói chung.
 
-## Tiêu chí 
+## Tiêu chuẩn
 
-Các hình ảnh hoặc yếu tố trực quan bao gồm bất kỳ điều gì sau đây đều **không được phép**:
+Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì sau đây đều **không được phép**:
 
-- **Nội dung tình dục liên quan hoặc hướng đến người vị thành niên**
-- **Bạo lực quá mức, cảnh máu me, xẻ xác, chặt đầu, hoặc làm tàn tật cơ thế**
+- **Nội dung liên quan đến tình dục hoặc hướng đến trẻ vị thành niên**
+- **Bạo lực quá mức, máu me, chặt xác, chém đầu, hoặc làm tàn tật cơ thể**
 - **Ám chỉ tình dục rõ rệt**
-- **Thái độ tình dục hoặc gạ gẫm tình dục** 
-- **Nội dung khiêu dâm hoặc hình ảnh chi tiết về tình dục**
-- **Ví dụ về việc sử dụng ma túy, chuẩn bị ma túy, hoặc gắn liền với văn hóa ma túy trái phép**[^drug-nature]
-- **Mô tả về chính trị, văn hóa, tôn giáo hoặc nội dung xã hội cố ý gây kích động**
-- **Hình ảnh mô tả hành vi tự tử hoặc tự làm tổn thương bản thân, bao gồm cả việc chuẩn bị hoặc những nỗ lực tự tử sắp xảy ra**
+- **Tư thế khiêu gợi hoặc gạ gẫm tình dục** 
+- **Nội dung khiêu dâm hoặc miêu tả trực tiếp về tình dục**
+- **Ví dụ về việc sử dụng chất cấm, sự chuẩn bị hoặc nhận biết với nhóm văn hóa ma túy trái phép**[^drug-nature]
+- **Mô tả liên quan đến chính trị, nội dung văn hóa, tôn giáo hoặc các vấn đề xã hội gây tranh cãi có chủ ý**
+- **Hình ảnh miêu tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc những hành động sắp diễn ra**
 
-Ngoài ra, các hình ảnh hoặc yếu tố trực quan có thể bị đánh giá hợp lý là có chất lượng kém (dù là về chất lượng hình ảnh khách quan hay về cách bố trí/tạo hình chủ quan) cũng có thể bị ngừng sử dụng trong beatmap trong những trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào có liên quan.
+Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào.
 
 ## Các nội dung ngoại lệ
 
@@ -62,7 +62,7 @@ Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) 
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
-Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm vi phạm và lịch sử có liên quan của người dùng.
+Bất kỳ hình ảnh, video, hoặc nội dung trực quan nào mà GMT cho là không phù hợp sẽ bị xóa khỏi trang web. Ngoài ra, người dùng đã tải lên nội dung trực quan đó có thể bị [im lặng](/wiki/Help_centre/Silences) trong 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm và lịch sử có liên quan của người dùng.
 
 Đối với nội dung trực quan không phù hợp trên các beatmap, lệnh im lặng thường sẽ không được áp dụng, miễn là nội dung hình ảnh không quá nghiêm trọng và người dùng đã loại bỏ nội dung vi phạm trong một khoảng thời gian hợp lý.
 
