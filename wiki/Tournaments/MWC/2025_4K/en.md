@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2025 banner](img/mwc4k2025-banner.jpg)
 
-The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the twelfth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 4K World Cup 2025** (***MWC 4K 2025***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 4K World Cup 2025 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!mania 4K World Cup 2025 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -36,9 +36,11 @@ The osu!mania 4K World Cup 2025 offers a $2,000 cash prize pool and limited-edit
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/mwc4k2025-badge-1st.png "MWC 7K 2025 winner badge") ![](img/mwc4k2025-badge-2nd.png "MWC 7K 2025 2nd-place badge") ![](img/mwc4k2025-badge-3rd.png "MWC 7K 2025 3rd-place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!mania 4K World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -49,7 +51,6 @@ The osu!mania 4K World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team
 | Commentator | ::{ flag=IE }:: [-Nightkore](https://osu.ppy.sh/users/26311862), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Design coordinator | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | News team | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=ES }:: [kadoen](https://osu.ppy.sh/users/12780575), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | osu! original design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=GB }:: [Amphy](https://osu.ppy.sh/users/10762223), ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854), ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=PH }:: [Creameries](https://osu.ppy.sh/users/15851364), ::{ flag=TW }:: [DAi\_](https://osu.ppy.sh/users/38467605), ::{ flag=CA }:: [Envi9756](https://osu.ppy.sh/users/12084808), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366), ::{ flag=MY }:: [HiROdoge](https://osu.ppy.sh/users/15251809), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=NZ }:: [krabtown](https://osu.ppy.sh/users/3388033), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=IE }:: [naraicat](https://osu.ppy.sh/users/6419788), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=ID }:: [RianaRei](https://osu.ppy.sh/users/30314534), ::{ flag=US }:: [Secondoverthree](https://osu.ppy.sh/users/13432062), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=AU }:: [tehfire](https://osu.ppy.sh/users/7082924), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
 | Tournament design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
@@ -109,22 +110,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 - [Challonge bracket](https://challonge.com/MWC4K2025)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/182) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1513)
 
-## Match schedule: Grand Finals
+## Podium
 
-### Sunday, 28 September 2025
-
-| Team A | Team B | Match time | Twitch stream |  |
-| --: | :-- | :-- | :-: | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Sep 28 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20250928T050000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/mwc4k2025-podium.jpg?2 "MWC 4K 2025 podium")
 
 ## Mappools
 
 ### Grand Finals
 
 **[Download the mappack here (225 MB)](https://packs.ppy.sh/P300%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2572536973?t=0h4m57s)
+[View the showcase VOD here](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=18030)
 
 - Rice
   1. [LUZE - !!! IMPULSIVE \<!!\> WAVE !!! (Valedict) \[VERMILLION SCOURGE\]](https://osu.ppy.sh/beatmapsets/2438724#mania/5318853)
@@ -228,7 +224,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 ### Round of 16
 
 **[Download the mappack here (134 MB)](https://packs.ppy.sh/P296%20-%20osu!mania%204K%20World%20Cup%202025%3A%20Round%20of%2016.zip?1756141075)**\
-[View the showcase VOD here](https://www.youtube.com/watch?ftJiA4x4ZVs&t=25493)
+[View the showcase VOD here](https://www.youtube.com/watch?v=ftJiA4x4ZVs&t=25493)
 
 - Rice
   1. [Ali Tabatabaee & Matty Lewis - HIS WORLD \~THEME OF SONIC THE HEDGEHOG\~ (Cut Ver.) (Valedict, Hylotl) \[Hero of Soleanna\]](https://osu.ppy.sh/beatmapsets/2424884#mania/5278251)
@@ -288,11 +284,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e07
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1C_356APvdAwabii6YbCHTwGZ-F1BJ7ocrAMYNdbcvxU?rm=minimal).
+
 Friday, 26 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| China ::{ flag=CN }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119382377) | [#1](https://www.twitch.tv/videos/2576159866?t=0h2m40s) |
+| China ::{ flag=CN }:: | 2 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119382377) | [#1](https://www.youtube.com/watch?v=tcghUyikz7I&t=165) |
+
+Sunday, 28 September 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/119401981) | [#1](https://www.youtube.com/watch?v=tcghUyikz7I&t=4531) |
 
 ### Finals
 
@@ -302,15 +306,15 @@ Saturday, 20 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.twitch.tv/videos/2571139095?t=0h4m54s) |
-| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.twitch.tv/videos/2571250429?t=0h0m19s) |
-| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.twitch.tv/videos/2571250429?t=1h31m38s) |
+| United Kingdom ::{ flag=GB }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119326552) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=9989) |
+| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/119328425) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=10) |
+| Chile ::{ flag=CL }:: | 3 | **7** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/119329381) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=5500) |
 
 Sunday, 21 September 2025:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Thailand ::{ flag=TH }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119337967) | [#1](https://www.twitch.tv/videos/2571995965?t=0h4m47s) |
+| Thailand ::{ flag=TH }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/119337967) | [#1](https://www.youtube.com/watch?v=d-p-PrCeO6A&t=14254) |
 
 ### Semifinals
 
@@ -623,4 +627,3 @@ The weights for the Qualifiers are as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^grand-finals]: Grand Finals match
