@@ -14,7 +14,7 @@ The **Pending Cup** is originally a Chinese mapping contest, which had its first
 
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (1.5 months) | 2025-08-23/2025-12-07 (15:59 UTC) |
+| Beatmapping (1.5 months) | 2025-08-24/2025-12-07 (15:59 UTC) |
 | Judging (1.5 months) | 2025-12-08/2026-01-22 |
 | Results (1 week) | 2026-01-31 |
 
@@ -48,7 +48,7 @@ The winning entry with the highest judging score across all categories receives 
 
 ## Links
 
-- [Announcement news post](https://osu.ppy.sh/home/news/2025-10-23-pending-cup-2025)
+- [Announcement news post](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025)
 - [Contest listing](https://osu.ppy.sh/community/contests/267)
 - [Discord server](https://discord.com/invite/fVgU9pA)
 - [Forum post (English)](https://osu.ppy.sh/community/forums/topics/2143230)
