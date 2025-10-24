@@ -28,9 +28,9 @@ This contest currently offers a cash prize pool of $400, distributed among the t
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | 18% of the cash prize pool, 12 months of osu!supporter, profile badge (tentative), [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
-| 2nd | 9% of the cash prize pool, 6 months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
-| 3rd | 6% of the cash prize pool, 4 months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
+| 1st | 18% of the cash prize pool, 12 months of osu!supporter, profile badge (tentative), [contest points](/wiki/Contests/Contest_points) |
+| 2nd | 9% of the cash prize pool, 6 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
+| 3rd | 6% of the cash prize pool, 4 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 
 ### Grand prize
 
@@ -80,7 +80,7 @@ This year includes a selection of three songs like the previous year, with songs
 - **You are allowed to modify timing (including red-lines) based on your needs.** This action is also at your own risk.
 - **You are allowed to modify combo colors, bookmarks, and preview time.** However, bookmarks will be removed during the judging phase.
 - **Submission must not be publicly revealed until after the results are announced.**
-- **[Ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria) is respected except in cases where they cannot be applied, such as beatmap spread.** While mistakes are tolerated, submission containing major unrankable issues may result in a deduction of points.
+- **[Ranking criteria](/wiki/Ranking_criteria) is respected except in cases where they cannot be applied, such as beatmap spread.** While mistakes are tolerated, submission containing major unrankable issues may result in a deduction of points.
 - **Use of artificial intelligence (AI) is strictly prohibited.**
 - **Any misconduct or violation of the rules may result in disqualification.**
 
