@@ -308,7 +308,8 @@ The maps in this tournament will only consist of Long Note (LN) oriented maps, a
 ### Registrations
 
 1. **Any** rank players from **any** region can register this tournament.
-2. If player passed [tournament screening](/wiki/en/Tournaments/Official_support#tournament-screening), they are able to play qualifiers.
+2. You must fill [Player Signup form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQGnO66J7b22TgVmCTjhbmc3nyCpheLAup4wlMupt_3MUwcw/) to finish register.
+3. If player passed [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) after register, they are able to play qualifiers.
 
 ### Stage regulations
 
