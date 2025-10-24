@@ -266,7 +266,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Excelente contribución a la escena de modding y mapping de osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Excelente contribución a la escena de torneos y mapping de osu!mania |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Excelente contribución al desarrollo de los puntos de rendimiento mediante herramientas integrales ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Excelente contribución al desarrollo de los puntos de rendimiento y al mantenimiento de osu!(stable) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Excelente contribución al desarrollo de los puntos de rendimiento y al mantenimiento de osu!(stable) |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Excelente contribución en la unión de la comunidad en los eventos [r/place](https://www.reddit.com/r/place/) de Reddit |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Excelente contribución en la documentación de repeticiones de la comunidad y al desarrollo de herramientas |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |

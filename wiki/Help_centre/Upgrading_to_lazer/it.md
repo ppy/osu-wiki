@@ -1,5 +1,5 @@
 ---
-outdated_since: b9df3013ed6661bb01dfbf1f499b46b680dab3e4
+outdated_since: cc8502f995615a9b23f80a2281fcfe40cb446a60
 outdated_translation: true
 ---
 
@@ -68,7 +68,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | "Note lock" accogliente per i giocatori di osu! | ![No][false] | ![Sì][true][^note-lock] |
 | Colorazione delle note basata sul tempo per osu!mania ed osu! | ![No][false] | ![Sì][true] |
 | Ricerca dei replay | ![No][false] | ![Yes][true] |
-| Commenti a scorrimento nei replay in stile [Niconico](https://en.wikipedia.org/wiki/Niconico) | ![Yes][true] | ![No][false] |
+| Commenti a scorrimento nei replay in stile [Niconico](https://it.wikipedia.org/wiki/Niconico) | ![Yes][true] | ![No][false] |
 
 ### Sistemi online
 

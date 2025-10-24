@@ -1,6 +1,5 @@
 ---
-outdated_translation: true
-outdated_since: e64b60d701b97ee73b4fc0917b3e7d8da216f55d
+no_native_review: true
 ---
 
 # osu!stream
@@ -27,53 +26,52 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ![](img/Os-Devices.jpg "osu!stream auf iOS-Geräten")
 
-### iOS App Store Methode (empfohlen)
+### App Store Methode (empfohlen)
 
-**Versichere dich, dass dein iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
+*Anmerkung: Versichere dich, dass sich dein Gerät mit dem Internet verbinden kann (entweder über WLAN oder mobile Daten).*
 
-- Gehe zu "App Store" auf deinem iOS-Gerät
+- Gehe zu "App Store" auf deinem iOS-Gerät oder "Play Store" auf Android.
 - Suche nach osu!stream
 - Installiere osu!stream
-  - Wenn nach der Apple ID und dem Passwort gefragt wird, gib diese bitte ein.
+  - Wenn nach Anmeldedaten gefragt wird, gib diese bitte ein.
 - osu!stream kann gespielt werden, nachdem die App heruntergeladen und installiert wurde.
   - Es wird empfohlen, auch das Kapitel [Beatmaps hinzufügen](#beatmaps-hinzufügen) zu lesen, um an die neusten kostenlosen Songs zu kommen. Der aktuelle Download enthält nur zwei Songs.
 
-### Methode über USB
+### Methode über USB (veraltet, nur iOS)
 
-**Das Gerät muss [iTunes](https://www.apple.com/itunes/) installiert haben.**
+*Hinweis: Für diese Methode wird [iTunes](https://www.apple.com/itunes/) benötigt.*
 
-- Gehe zu [diesem Link und lade es dir herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
+- Gehe zu [diesem Link und lade osu!stream herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
   - Wenn nach der Apple ID gefragt wird, gib die Apple ID und das Passwort ein.
-- Stecke dein iOS-Gerät in dein Gerät (welches osu!stream hat).
-- Transferiere die osu!stream Dateien mit iTunes.
+- Stecke dein iOS-Gerät in das Gerät, auf dem osu!stream installiert ist.
+- Transferiere die osu!stream-Dateien mit iTunes.
 - Entferne das iOS-Gerät und osu!stream kann gespielt werden.
 
 ## Beatmaps hinzufügen
 
-**Versichere dich, dass das iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
+*Anmerkung: Versichere dich, dass sich das Gerät mit dem Internet verbinden kann (entweder über WLAN oder mobile Daten).*
 
 - Öffne osu!stream.
-- Drücke auf das osu!-Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
-- Drücke die "Store"-Leiste
-  - Alternativ kannst du auch in der "Play" Sektion auf "Download more songs!" drücken.
+- Drücke auf das osu!-Symbol, um in das Hauptmenü zu gelangen (oder das Tutorial beim ersten Mal)
+- Tippe auf "Store"
+  - Alternativ kannst du auch in der "Play"-Sektion auf "Download more songs!" drücken.
 - Wähle ein gewünschtes Paket aus.
 
 ## Was ist der Unterschied?
 
-- **Nur auf iOS-Geräten spielbar.** (aktuell)
 - Beatmaps sind von Grund auf neu gemacht.
 - Es wird kein Account zum Herunterladen von Songpaketen benötigt.
-- osu!stream kann mit einem Twitterkonto genutzt werden.
-- Highscores können anonym zur Seite als "Guest" gesendet werden (benötigt eine Internetverbindung).
-- Der Circle-Timer wird ersetzt und befindet sich nun unten mit einer kleinen Grenzlinie, die abhängig von der Genauigkeit des Spielverlaufs gefärbt ist. \[Bottom(Long)\]
+- osu!stream kann auf iOS mit einem Twitterkonto genutzt werden.
+- Highscores können anonym als "Guest" eingetragen werden (benötigt eine Internetverbindung).
+- Der Circle-Timer wird ersetzt und befindet sich nun unten mit einer kleinen Grenzlinie, die abhängig von der Genauigkeit des Spielverlaufs gefärbt ist.
 - Die **Durchschnittliche Abweichung** wird am Ergebnisbildschirm angezeigt.
 - Alte Rekorde und Aufzeichnungen können nicht gespeichert werden.
-- Der Skin kann nicht gewechselt werden und Mods sind nicht auswählbar (bislang).
+- Der Skin kann nicht gewechselt werden und Mods sind nicht auswählbar.
 - Easter Eggs können gefunden werden, aber es gibt noch keine Seite für Errungenschaften...
 
 ### Neues Spielsystem
 
-**Anmerkung:** Teste die neuen Spielelemente im "Tutorial"-Bildschirm.
+**Anmerkung:** Teste die neuen Spielelemente im "Tutorial"-Dialog.
 
 #### Fingerführungsanzeige
 
@@ -96,8 +94,6 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ![](img/Os-HC.jpg "Hold-Circle 1")
 
----
-
 ![](img/Os-HC2.jpg "Hold-Circle 2")
 
 - Hold-Circles müssen vom Spieler längere Zeit gehalten werden, bis der Kreis "explodiert".
@@ -107,23 +103,13 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 ### Neue Modi, welche die Schwierigkeit ersetzen
 
----
-
 ![](img/Os-PlayEasy.png "Leicht")
-
----
 
 ![](img/Os-PlayNormal.png "Normal")
 
----
-
 ![](img/Os-PlayHard.png "Schwer")
 
----
-
 ![](img/Os-PlayExpert.jpg "Experte")
-
----
 
 #### Leichter Modus
 
@@ -131,7 +117,7 @@ Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!
 
 **Schwierigkeitsgrad: Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
-Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
+Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Es gibt keine Lebensanzeige und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
 
 Die Hintergrundfarbe ist grün.
 
@@ -149,23 +135,13 @@ Beachte, dass der Spieler **mindestens einen A Rang (>80% Genauigkeit) in diesem
 
 Die Hintergrundfarbe ist grün (Leicht), blau (Normal), und pink (Schwer).
 
----
-
 ![](img/Os-SU.png "Stream Up!")
-
----
 
 ![](img/Os-SD.png "Stream Down!")
 
----
-
 ![](img/Os-Zero1.png "Kritische Gesundheit")
 
----
-
 ![](img/Os-Zero2.png "Spiel vorbei")
-
----
 
 #### Expertenmodus
 
@@ -179,55 +155,29 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 
 ## Benutzeroberfläche
 
----
-
 ![](img/Os-MM.png "Hauptmenü")
-
----
 
 ![](img/Os-SL.jpg "Songliste")
 
----
-
 ![](img/Os-Store.jpg "Store")
-
----
 
 ![](img/Os-DS.png "Wahl des Schwierigkeitsgrad")
 
----
-
 ![](img/Os-SI.png "Songinformationen")
-
----
 
 ![](img/Os-PlayExpert.jpg "Expertenmodus")
 
----
-
 ![](img/Os-Pause.png "Pausenmenü")
-
----
 
 ![](img/Os-FM.png "Menü bei einem gescheiterten Versuch")
 
----
+![](img/Os-SC.png "Abschluss eines Levels")
 
-![](img/Os-SC.png "Stage cleared!")
-
----
-
-![](img/Os-Grade.jpg "Ergenisbildschirm")
-
----
+![](img/Os-Grade.jpg "Ergebnisbildschirm")
 
 ![](img/Os-O1.png "Optionsmenü 1")
 
----
-
 ![](img/Os-O2.png "Optionsmenü 2")
-
----
 
 ## Punktevergabe
 
@@ -260,13 +210,13 @@ Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30
 
 ### Bewertung des Hit-Circles
 
-**Hit-Circles**
+#### Hit-Circles
 
 - Ein 300er, 100er oder 50er wird bei einem normalen Hit-Circle verliehen, abhängig von der Treffgenauigkeit.
 - Ein Miss wird vergeben, wenn ein Hit-Circle zu früh oder überhaupt nicht getroffen wurde.
   - Wenn das Objekt sehr, sehr früh getroffen wird, wackelt es stattdessen. Dabei passiert technisch gesehen nichts, außer dass man visuell erkennen kann, dass es zu früh angetippt wurde.
 
-**Hold-Circle**
+#### Hold-Circle
 
 - Die Bewertung des Hold-Circles hängt von der anfänglichen Berührung und der Haltezeit vor der Explosion ab.
   - 300 bei perfekter Ausführung.
@@ -275,7 +225,7 @@ Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30
   - 30 für jede Explosion.
   - Der Multiplikator wird zurückgesetzt, wenn die Kreise nicht korrekt gehalten wurden. Ein Miss wird vergeben, wenn die Kreise überhaupt nicht gehalten wurden.
 
-**Slider**
+#### Slider
 
 - **Die Bewertung von Slidern hängt von der Genauigkeit der anfänglichen Berührung ab**.
 - Slider bestehen aus Sliderticks, die den Start, das Ende und die repeat points des Sliders einbeziehen.
@@ -285,7 +235,7 @@ Außerdem gibt es für jeden Start-, End- und Wiederholungstick eines Sliders 30
 - **Einen Slider viel zu früh zu tippen** wird keinen Miss erzeugen, aber **wird den Punktemultiplikator auf 0 zurücksetzen**.
 - Ein Miss, wenn der Slider überhaupt nicht gehalten wurde.
 
-**Spinner**
+#### Spinner
 
 - Für einen Spinner werden 300er, 100er oder 50er vergeben, abhängig von der Anzahl der gemachten Spins verglichen mit der Länge des Spinners.
 - Ein Miss, wenn die Spinnermessleiste, die auf beiden Seiten des Spinners zu sehen ist, nicht gefüllt wurde.
@@ -319,12 +269,14 @@ Das Folgende wird den Punktemultiplikator weder erhöhen noch zurücksetzen:
 
 **Normale Noten**
 
-- SS = 100% Genauigkeit
-- S = Über 90% Genauigkeit
-- A = Über 80% Genauigkeit
-- B = Über 70% Genauigkeit
-- C = Über 60% Genauigkeit
-- D = Alles andere.
+| Note | Voraussetzung |
+| :-: | :-- |
+| SS | 100% Genauigkeit |
+| S | Über 90% Genauigkeit |
+| A | Über 80% Genauigkeit |
+| B | Über 70% Genauigkeit |
+| C | Über 60% Genauigkeit |
+| D | Alles andere |
 
 ### Lebensanzeige
 
@@ -364,7 +316,7 @@ Wegen der Schwierigkeit, eine Lizenz für den oben genannten Song zu bekommen.
 
 ### Wie komme ich an mehr Beatmaps?
 
-Gehe zu der "Store" Sektion im Spiel oder drücke den Button "Download more songs..." in der "Play" Sektion.
+Gehe zu der "Store"-Sektion im Spiel oder drücke den Button "Download more songs..." in der "Play"-Sektion.
 
 ### Was ist die Titelmelodie von osu!stream?
 

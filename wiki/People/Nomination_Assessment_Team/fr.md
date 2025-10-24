@@ -68,7 +68,7 @@ Les membres de la NAT bénéficient des avantages suivants :
 
 - **[osu!supporter](/wiki/osu!supporter)** : Un tag osu!supporter qui dure le temps de l'appartenance à l'équipe.
 - **Insigne de titulaire** : Un [badge de profil](/wiki/Community/Profile_badge) qui affiche le nombre d'années passées dans le NAT.
-  ![Badge NAT 1 an](https://assets.ppy.sh/profile-badges/NAT1y.png "Badge NAT 1 an") ![Badge NAT 2 ans](https://assets.ppy.sh/profile-badges/NAT2y.png "Badge NAT 2 ans") ![Badge NAT 3 ans](https://assets.ppy.sh/profile-badges/NAT3y.png "Badge NAT 3 ans") ![Badge NAT 4 ans](https://assets.ppy.sh/profile-badges/NAT4y.png "Badge NAT 4 ans") ![Badge NAT 5 ans](https://assets.ppy.sh/profile-badges/NAT5y.png "Badge NAT 5 ans") ![Badge NAT 6 ans](https://assets.ppy.sh/profile-badges/NAT6y.png "Badge NAT 6 ans") ![Badge NAT 7 ans](https://assets.ppy.sh/profile-badges/NAT7y.png "Badge NAT 7 ans") ![Badge NAT 8 ans](https://assets.ppy.sh/profile-badges/NAT8y.png "Badge NAT 8 ans") ![Badge NAT 9 ans](https://assets.ppy.sh/profile-badges/NAT9y.png "Badge NAT 9 ans") ![Badge NAT 10 ans](https://assets.ppy.sh/profile-badges/NAT10y.png "Badge NAT 10 ans")
+  ![Badge NAT 1 an](https://assets.ppy.sh/profile-badges/NAT1y.png?20250916 "Badge NAT 1 an") ![Badge NAT 2 ans](https://assets.ppy.sh/profile-badges/NAT2y.png?20250916 "Badge NAT 2 ans") ![Badge NAT 3 ans](https://assets.ppy.sh/profile-badges/NAT3y.png?20250916 "Badge NAT 3 ans") ![Badge NAT 4 ans](https://assets.ppy.sh/profile-badges/NAT4y.png?20250916 "Badge NAT 4 ans") ![Badge NAT 5 ans](https://assets.ppy.sh/profile-badges/NAT5y.png?20250916 "Badge NAT 5 ans") ![Badge NAT 6 ans](https://assets.ppy.sh/profile-badges/NAT6y.png?20250916 "Badge NAT 6 ans") ![Badge NAT 7 ans](https://assets.ppy.sh/profile-badges/NAT7y.png?20250916 "Badge NAT 7 ans") ![Badge NAT 8 ans](https://assets.ppy.sh/profile-badges/NAT8y.png?20250916 "Badge NAT 8 ans") ![Badge NAT 9 ans](https://assets.ppy.sh/profile-badges/NAT9y.png?20250916 "Badge NAT 9 ans") ![Badge NAT 10 ans](https://assets.ppy.sh/profile-badges/NAT10y.png?20250916 "Badge NAT 10 ans") ![Badge NAT 11 ans](https://assets.ppy.sh/profile-badges/NAT11y.png?20250916 "Badge NAT 11 ans") ![Badge NAT 12 ans](https://assets.ppy.sh/profile-badges/NAT12y.png?20250916 "Badge NAT 12 ans") ![Badge NAT 13 ans](https://assets.ppy.sh/profile-badges/NAT13y.png?20250916 "Badge NAT 13 ans") ![Badge NAT 14 ans](https://assets.ppy.sh/profile-badges/NAT14y.png?20250916 "Badge NAT 14 ans")
 - **Badge de compte des [nomination](/wiki/Beatmap_ranking_procedure#nominations)** : Un badge de profil attribué lorsque certaines étapes du nombre de nominations sont franchies.
   ![Badge de 100 nominations](https://assets.ppy.sh/profile-badges/100_noms.png "Badge de 100 nominations") ![Badge de 200 nominations](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Badge de 200 nominations") ![Badge de 400 nominations](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Badge de 400 nominations") ![Badge de 600 nominations](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Badge de 600 nominations") ![Badge de 800 nominations](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Badge de 800 nominations") ![Badge 1000 nominations](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Badge 1000 nominations") ![Badge 1500 nominations](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Badge 1500 nominations") ![Badge 2000 nominations](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Badge 2000 nominations")
 - **Éligibilité au programme [nominateur d'élite](/wiki/People/Elite_Nominators)** : Les membres de la NAT qui se distinguent par leurs performances exceptionnelles en tant que nominateurs peuvent se voir décerner le statut annuel de nominateur d'élite.
@@ -137,16 +137,16 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues additionnelles |
 | :-- | :-- |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Russian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
 
 #### osu!taiko
 
@@ -162,10 +162,10 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
@@ -174,8 +174,8 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chinese |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Spanish |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 
 ### Structurel
 
@@ -184,19 +184,16 @@ Les membres suivants de la NAT sont exclusivement responsables des tâches struc
 | Utilisateur | Tâche |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Handling internal discussions, affairs, and documentation |
-| ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549) | Internal tooling development |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) maintenance |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Ranking Criteria upkeep |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN Mentorship organisation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN Management website](https://bn.mappersguild.com) development |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT leadership |
 
 Les membres suivants de la NAT sont principalement des évaluateurs, mais ils contribuent également aux tâches structurelles :
 
 | Utilisateur | Tâche |
 | :-- | :-- |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) and [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) development |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT Leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Processing impact ratings[^impact-rating] for osu! nomination resets |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Processing impact ratings[^impact-rating] for osu! nomination resets |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT leadership, [BN Management website](https://bn.mappersguild.com) and [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) development |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Handling content reports, [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) development |
 
 ---

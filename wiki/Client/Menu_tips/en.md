@@ -121,6 +121,8 @@ These tips appear at the bottom of the main menu in [osu!(lazer)](/wiki/Client/R
 - You can easily copy the mods from scores on a leaderboard by right-clicking on them!
 - `Ctrl` + `Enter` at song select will start a beatmap in autoplay mode!
 - "Lazer" is not an English word. The correct spelling for the bright light is "laser".
+- Try holding your right mouse button near the beatmap carousel to quickly scroll to an absolute position!
+- Shift-click on a beatmap panel in the beatmap listing overlay to quickly download or view the beatmap in song select!
 
 ## See also
 

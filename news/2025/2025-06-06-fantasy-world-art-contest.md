@@ -59,4 +59,4 @@ Got all that? Time to lock in and head over to the [Fantasy World Art Contest li
 
 Good luck with your quest, traveller!
 
-—Hivie, RandomeLoL, & Walavouchey
+—Hivie, RandomeLoL & Walavouchey

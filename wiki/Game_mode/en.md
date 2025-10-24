@@ -38,7 +38,7 @@ To switch between modes, click the `Mode` button at the bottom of the song selec
 
 *Main page: [osu!catch](osu!catch)*
 
-In *osu!catch*, fruits of differing varieties fall from the top of the screen, and the player must catch them to the beat. To this end they control a catcher with a plate atop their head for catching said fruits. This mode is loosely based on a minigame inside of a [Beatmania](https://en.wikipedia.org/wiki/Beatmania) simulator, which itself is believed to be based on the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) series. osu!catch's mascot is [Yuzu](/wiki/Mascots#yuzu), a blue-haired boy.
+*osu!catch* is a game mode where players control a catcher character to collect fruits falling to the beat from the top of the screen. It is loosely based on the "Catch It!!" minigame in the early builds of [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], a [Beatmania](https://en.wikipedia.org/wiki/Beatmania) simulator for PC, which by itself is derived after the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ) arcade system. osu!catch's mascot is [Yuzu](/wiki/Mascots#yuzu), a blue-haired boy.
 
 ![Gameplay of osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
 
@@ -55,6 +55,10 @@ In *osu!catch*, fruits of differing varieties fall from the top of the screen, a
 In osu!(lazer), it's possible to manually install custom game modes (also called custom rulesets) via `.dll` files. They introduce a new way to play the game using the beatmap library that osu! offers. Custom game modes, like the main modes, are often inspired by other rhythm games.
 
 The full list of playable custom game modes can be found in [this GitHub discussion](https://github.com/ppy/osu/discussions/13096).
+
+## References
+
+[^rdm]: [YouTube video by peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

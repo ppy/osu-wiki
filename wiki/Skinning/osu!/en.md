@@ -345,7 +345,7 @@ Notes:
 
 Notes:
 
-- Overrides `hitcircle.png` for the start of the slider, if skinned.
+- Overrides `hitcircle.png` for the end of the slider, if skinned.
 - This element is the hitcircle for the end of the slider.
 - This element fades in before completing and expands when completed.
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
@@ -365,7 +365,7 @@ Notes:
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
-- Overrides the `hitcircle.png` image for the start of the slider.
+- Overrides the `hitcircleoverlay.png` image for the end of the slider.
 - `sliderendcircle.png` is required for this to work.
 - Should be a circle.
 - This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).

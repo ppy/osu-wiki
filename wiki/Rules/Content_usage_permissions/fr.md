@@ -453,7 +453,7 @@ Toutes les pistes listées sur la liste des [Featured Artist](https://osu.ppy.sh
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## Visuel

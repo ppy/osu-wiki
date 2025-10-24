@@ -16,8 +16,7 @@ The **Mapping Global Taiko Showdown 2025** (***MGTS 2025***) is a single-round t
 | Event | Timestamp (UTC) |
 | --: | :-- |
 | Registration and submission phase | 1 June – 29 June 23:59 |
-| Screening phase | *Tentative*[^screening] |
-| Judging phase | 30 June – 26 July |
+| Judging phase | 1 July – 26 July |
 | Results | 27 July |
 
 ## Organisation
@@ -43,7 +42,7 @@ The top 3 teams will be awarded with the following prizes:
 ## Links
 
 - [Main website](https://gtsosu.com/2025/mgts/home)
-- [Announcement news post](https://osu.ppy.sh/news/2025-06-01-mgts-2025-registrations)
+- [Announcement news post](https://osu.ppy.sh/home/news/2025-06-01-mgts-2025-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/248)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/2086331)
 - [Discord server](https://discord.com/invite/3mGC3HB)
@@ -51,11 +50,11 @@ The top 3 teams will be awarded with the following prizes:
 
 ## Songs
 
-| Song | Artists |
-| :-- | :-- |
-| [ILLUSORYPROGRAM97](https://soundcloud.com/kyotsugyon/illusoryprogram97) | [Kyotsugyon](https://soundcloud.com/kyotsugyon), [Sh0wtime](https://soundcloud.com/sh0wtimelol) |
-| axis::BREAK | [Foodbot](https://soundcloud.com/foodbot), [mrcool909090](https://soundcloud.com/mrcool909090), [SiLiS](https://soundcloud.com/silis) |
-| [Hatching](https://blobdash.bandcamp.com/track/hatching) | [Faxyne](https://soundcloud.com/faxyne), [blobdash](https://soundcloud.com/blobdash) |
+| Links |  | Song |
+| --: | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/faxyne/hatching "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/hatching "Bandcamp") |  | [Faxyne](https://soundcloud.com/faxyne) vs. [blobdash](https://soundcloud.com/blobdash) - Hatching |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kyotsugyon/illusoryprogram97 "SoundCloud") |  | [Kyotsugyon](https://soundcloud.com/kyotsugyon) & [Sh0wtime](https://soundcloud.com/sh0wtimelol) - ILLUSORYPROGRAM97 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/foodbot/axisbreak "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lMR_H-6RzKk "YouTube") |  | [X](https://soundcloud.com/foodbot)/[Y](https://soundcloud.com/mrcool909090)/[Z](https://soundcloud.com/silis) - axis::BREAK |
 
 ## Beatmap templates
 
@@ -100,13 +99,12 @@ If you are having any issues with the registration/submission process, please do
 
 Total score will consist of the (standardized) combined scores of the 2 maps. Each map will be judged with the following criteria:
 
-- **Structure (20 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
-- **Relevance (20 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
-- **Creativity (20 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
-- **Judge's Impression (10 Points):** Points will be assigned based on what the judge thinks about your entry.
-- **Ranking Criteria (10 Points):** Points will be assigned based on how well the map abides by the ranking criteria.
+- **Structure (10 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
+- **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
+- **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
+- **Judge's Impression (5 Points):** Points will be assigned based on what the judge thinks about your entry.
+- **Ranking Criteria (5 Points):** Points will be assigned based on how well the map abides by the ranking criteria.
 
 ## Notes
 
-- [^screening]: Screening may be used in the case of a large number of submissions. If this is the case, the screening phase will delay the judging phase by approximately 2 weeks.
-- [^prizes-ranked]: The top 3 teams' entries will be fast-tracked to the Ranked section if the mappers choose to.
+[^prizes-ranked]: The top 3 teams' entries will be fast-tracked to the Ranked section if the mappers choose to.

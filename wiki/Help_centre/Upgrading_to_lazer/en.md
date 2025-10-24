@@ -33,7 +33,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Song select grouping modes | ![Yes][true] | ![No][false] |
+| Song select grouping modes | ![Yes][true] | ![Yes][true] |
 | In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
 | Dynamic customisable skinning components | ![No][false] | ![Yes][true] |
 
@@ -104,7 +104,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Pattern resizing | ![No][false] | ![Yes][true] |
 | Beatmap submission | ![Yes][true] | ![Yes][true] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
-| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Cross-compatibility | ![Yes][true] | ![Yes][true] |
 
 ## Switching to lazer
 
@@ -337,7 +337,6 @@ You're likely thinking of another game.
 [^multi-room-max]: 16 players max.
 [^map-only]: Map only.
 [^all-files]: All files.
-[^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Messages can take up to 15 seconds to arrive.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.

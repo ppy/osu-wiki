@@ -66,7 +66,7 @@ NAT 成员可获得以下特权：
 
 - **[osu! 支持者](/wiki/osu!supporter)**：获得一个时长等于任期的 osu! 支持者标签。
 - **职位奖牌**：获得一个显示任期年份的[主页奖牌](/wiki/Community/Profile_badge)。
-  ![1 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT1y.png "1 年 NAT 奖牌") ![2 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT2y.png "2 年 NAT 奖牌") ![3 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT3y.png "3 年 NAT 奖牌") ![4 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT4y.png "4 年 NAT 奖牌") ![5 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT5y.png "5 年 NAT 奖牌") ![6 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT6y.png "6 年 NAT 奖牌") ![7 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT7y.png "7 年 NAT 奖牌") ![8 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT8y.png "8 年 NAT 奖牌") ![9 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT9y.png "9 年 NAT 奖牌") ![10 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT10y.png "10 年 NAT 奖牌")
+  ![1 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT1y.png?20250916 "1 年 NAT 奖牌") ![2 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT2y.png?20250916 "2 年 NAT 奖牌") ![3 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT3y.png?20250916 "3 年 NAT 奖牌") ![4 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT4y.png?20250916 "4 年 NAT 奖牌") ![5 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT5y.png?20250916 "5 年 NAT 奖牌") ![6 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT6y.png?20250916 "6 年 NAT 奖牌") ![7 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT7y.png?20250916 "7 年 NAT 奖牌") ![8 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT8y.png?20250916 "8 年 NAT 奖牌") ![9 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT9y.png?20250916 "9 年 NAT 奖牌") ![10 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT10y.png?20250916 "10 年 NAT 奖牌") ![11 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT11y.png?20250916 "11 年 NAT 奖牌") ![12 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT12y.png?20250916 "12 年 NAT 奖牌") ![13 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT13y.png?20250916 "13 年 NAT 奖牌") ![14 年 NAT 奖牌](https://assets.ppy.sh/profile-badges/NAT14y.png?20250916 "14 年 NAT 奖牌")
 - **[提名](/wiki/Beatmap_ranking_procedure#nominations)次数奖牌**：当提名次数达到某里程碑后，获得一个显示提名次数的主页奖牌。
   ![100 提名奖牌](https://assets.ppy.sh/profile-badges/100_noms.png "100 次提名奖牌") ![200 提名奖牌](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 次提名奖牌") ![400 提名奖牌](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 次提名奖牌") ![600 次提名奖牌](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 次提名奖牌") ![800 次提名奖牌](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 次提名奖牌") ![1000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 次提名奖牌") ![1500 次提名奖牌](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 次提名奖牌") ![2000 次提名奖牌](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 次提名奖牌")
 - **[优秀提名者](/wiki/People/Elite_Nominators)候选资格**：如果 NAT 成员在提名谱面方面表现出色，可以获得优秀提名者候选资格。
@@ -133,26 +133,27 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
 | ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | 泰语 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬兰语 |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 德语 |
 
 #### osu!taiko
 
 | 名字 | 语言 |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 汉语 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语, 法语, 一些意大利语 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | 一些德语 |
-| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一些法语 |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | 一部分德语 |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
 
 #### osu!catch
 
@@ -170,8 +171,8 @@ NAT 领导人的职责是：
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 加泰罗尼亚语，西班牙语 |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 |
 
 ### 组织
 
@@ -179,20 +180,18 @@ NAT 领导人的职责是：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文件 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织者 |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 维护谱面上架标准 (RC) |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 开发 [BN 管理网站](https://bn.mappersguild.com) |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文档 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织 |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN 管理网站](https://bn.mappersguild.com)开发 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 处理内容举报 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 开发[提名规划师 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 开发 [BN 管理网站](https://bn.mappersguild.com) 和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，开发 [osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck) |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [点图规划 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch)开发 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT 领导, [BN 管理网站](https://bn.mappersguild.com)和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks)开发 |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，[osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck)开发 |
 
 ---
 
