@@ -73,12 +73,12 @@ This year includes a selection of three songs like the previous year, with songs
 ### Mapping
 
 - **Submission must include ONE DIFFICULTY ONLY.**
-- **Submission must use one of the selected songs.**
+- **Submission must use one of the selected songs.** Use one of  the provided [templates](#songs).
 - **Collaborations are not allowed.** Submission must be a solo entry.
 - **Submission must be in `.osz` format.**
-- **Submission must use standard difficulty names**: Easy, Normal, Hard, Insane, and Expert.
+- **Submission must use standard difficulty naming**: Easy, Normal, Hard, Insane, or Expert.
 - **You must not include a background, video, or storyboard in your submission.** Leave only the background provided in the template.
-- **You must not modify the metadata of your submission.** This includes titles, artists, and tags.
+- **You must not modify the metadata of your submission.** This includes titles, artists, creators, sources, and tags.
 - **You are allowed to modify timing (including red-lines) based on your needs.** This action is also at your own risk.
 - **You are allowed to modify combo colors, bookmarks, and preview time.** However, bookmarks will be removed during the judging phase.
 - **Submission must not be publicly revealed until after the results are announced.**
