@@ -45,9 +45,9 @@ Regular Prize Pool are spread among the participants as seen below:
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of Regular Prize Pool |
 | *4-6th place* | 5% of Regular Prize Pool |
 
-<!--![](img/badge.jpg "o!mLN4 winner badge")--> 
-<!--![](img/badge.jpg "o!mLN4 2nd placement badge")--> 
-<!--![](img/badge.jpg "o!mLN4 3rd placement badge")--> 
+<!--![](img/badge.jpg "o!mLN4 winner badge")\
+![](img/badge.jpg "o!mLN4 2nd placement badge")\
+![](img/badge.jpg "o!mLN4 3rd placement badge")--> 
 
 OII Prize Pool are spread among the participants as seen below:
 
@@ -244,7 +244,7 @@ Details can be found on **[Information spreadsheet](https://docs.google.com/spre
 - Tiebreaker
   1. **[o!mLN4 Sound Team "The HAIYAA Nephews" - Multi-Stage Gastrolatry (EpsilonMaiagare, ImperialTrinity, Yuiesta, TheFunk, Hylotl) \[THE KING OF FLAVOR\]](https://osu.ppy.sh/beatmapsets/2438697#mania/5318785)**
 
-### Round of 64			
+### Round of 64
 
 **[Download the mappack here! (72 MB)](https://drive.google.com/file/d/17yrf8TqmdLMjoqazD5j6eGYu1vrdmEuE/)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=MVPm896E7i4)\
@@ -306,8 +306,9 @@ The maps in this tournament will only consist of Long Note (LN) oriented maps, a
 ![Mappool structure](img/mappool-structure.png "mappool structure of o!M LN4")
 
 ### Registrations
+
 1. **Any** rank players from **any** region can register this tournament.
-2. If player passed [tournament screening](https://osu.ppy.sh/wiki/en/Tournaments/Official_support#tournament-screening), they are able to play qualifiers.
+2. If player passed [tournament screening](/wiki/en/Tournaments/Official_support#tournament-screening), they are able to play qualifiers.
 
 ### Stage regulations
 
