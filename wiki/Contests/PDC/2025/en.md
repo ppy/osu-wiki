@@ -24,15 +24,13 @@ The **Pending Cup** is originally a Chinese mapping contest, which had its first
 
 The contest has **3** separate **1st to 3rd rankings** for each track. Since only one submission is allowed, there may be a higher chance of winning by picking the track carefully.
 
-This contest offers a cash prize pool of $400, distributed among the top 3 of each track category.
-
-The winners of each track category will also receive:
+This contest currently offers a cash prize pool of $400, distributed among the top 3 of each track category in a 12:6:4 ratio.
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | 12 months of osu!supporter, profile badge (tentative), [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
-| 2nd | 6 months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
-| 3rd | 4 months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
+| 1st | 18% of the cash prize pool, 12 months of osu!supporter, profile badge (tentative), [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
+| 2nd | 9% of the cash prize pool, 6 months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
+| 3rd | 6% of the cash prize pool, 4 months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) |
 
 ### Grand prize
 
