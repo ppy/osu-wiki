@@ -100,7 +100,7 @@ Der Chat `#spanish` ist für alle, die Spanisch sprechen.
 Eigennamen müssen großgeschrieben werden. Im Folgenden ein Beispiel:
 
 ```markdown
-Dean Herbert (auch bekannt als peppy) erschuf osu! in 2007.
+Dean Herbert (auch bekannt als peppy) erschuf osu! im Jahr 2007.
 ```
 
 ### Markenzeichen

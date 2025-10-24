@@ -100,6 +100,6 @@ osu! adalah lingkungan yang selalu berubah: komunitas membuat beatmap baru, mene
 
 ### Pembaruan
 
-*Untuk kemungkinan cakupan pekerjaan, lihat: [Daftar TODO yang tidak terlacak (Bahasa Inggris)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Untuk kemungkinan cakupan pekerjaan, lihat: [Daftar TODO yang tidak terlacak (Bahasa Inggris)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Artikel yang ada juga perlu pemeliharaan. Jika kamu menemukan kesalahan faktual, atau ada detail yang hilang, atau jika kamu hanya ingin menulis ulang/memperluas artikel sesuai dengan apa yang ada, majulah dan buat osu! wiki tempat yang lebih baik. Jika perubahan yang kamu rencanakan cukup besar atau signifikan, pastikan untuk membahasnya di saluran `#osu-wiki`, atau [buka *issue* baru](https://github.com/ppy/osu-wiki/issues/new).

@@ -3,6 +3,8 @@ tags:
   - TC
   - Contest Committee
   - CC
+outdated_translation: true
+outdated_since: ae84174eff84817bb8e81adebf452128f27ea51c
 ---
 
 # 토너먼트 위원회

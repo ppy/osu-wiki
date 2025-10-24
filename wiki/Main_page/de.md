@@ -24,7 +24,7 @@ Wichtige Artikel und Tutorials, die dir dabei helfen, in die Welt von osu! einzu
 
 Als Wegweiser in die Welt des Rhythmus, des Beats und der Blitzlichter hat osu! viel zu präsentieren. Lerne das Spiel in all seinen Einstellungs- und Konfigurationsmöglichkeiten bis hin zu technischen Details, wie z. B. den verschiedenen Dateiformaten, besser kennen.
 
-[Benutzeroberfläche](/wiki/Client/Interface) • [Optionen](/wiki/Client/Options) • [Visuelle Einstellungen](/wiki/Client/Interface/Visual_settings) • [Tastenkürzel-Referenzen](/wiki/Client/Keyboard_shortcuts) • [Konfigurationsdatei](/wiki/Client/Program_files/User_configuration_file) • [Programmdateien](/wiki/Client/Program_files)
+[Benutzeroberfläche](/wiki/Client/Interface) • [Optionen](/wiki/Client/Options) • [Visuelle Einstellungen](/wiki/Client/Interface/Visual_settings) • [Tastenkürzel](/wiki/Client/Keyboard_shortcuts) • [Konfigurationsdatei](/wiki/Client/Program_files/User_configuration_file) • [Programmdateien](/wiki/Client/Program_files)
 
 [Dateiformate](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
@@ -72,7 +72,7 @@ Lies über die Prozeduren und Kontrollen, die osu! und seine Community schützen
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_usage_guidelines) • [Verfahren zur Abstimmung über den Inhalt](/wiki/Rules/Content_voting_process) • [Expliziter Inhalt](/wiki/Rules/Explicit_content) • [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations)
+Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_usage_guidelines) • [Verfahren zur Abstimmung über Inhalte](/wiki/Rules/Content_voting_process) • [Expliziter Inhalt](/wiki/Rules/Explicit_content) • [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations)
 
 [Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizenzierung](/wiki/Legal/Music_licensing)
 

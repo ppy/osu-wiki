@@ -27,6 +27,7 @@
 - **Cuando hay varias opciones para los metadatos:**
   - Intenta que coincidan con los de los beatmaps clasificados. Sigue lo más reciente y común, luego verifica que los metadatos sean correctos y corrige lo que sea necesario.
     - Los nombres de los artistas también deben ser consistentes, siempre que no usen alias diferentes intencionalmente.
+    - La capitalización de los marcadores se puede cambiar libremente si se hace para que coincida con el estilo del título y del artista.
   - Se prefieren las romanizaciones/traducciones oficiales para los campos romanizados, siempre que sean fáciles de encontrar y comúnmente reconocidas.
   - En caso de opciones conflictivas, debe realizarse una discusión para determinar cuál sería la mejor opción.
 
