@@ -18,7 +18,7 @@ Is your map ready and you fulfill the criteria? Let's not keep you waiting no mo
 
 ## Schedule
 
-Please note that any schedule changes will be made known in the contest's [Discord sever](https://discord.gg/p8bwdrjExr) as well as be projected through the forum post so please keep an eye out for that or join the server to receive the most up-to-date news regarding the contest.
+Please note that any schedule changes will be made known in the contest's [Discord server](https://discord.gg/p8bwdrjExr) as well as be projected through the forum post so please keep an eye out for that or join the server to receive the most up-to-date news regarding the contest.
 
 | Event | Dates |
 | --: | :-- |
