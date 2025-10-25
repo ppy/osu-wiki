@@ -101,7 +101,7 @@ Before the start of the next round's mappool showcase, leaderboards for the week
 | *4-7th place* | 2 Tickets |
 | *Other participates* | 1 Ticket |
 
-At the end of the tournament, tickets earned by all participants are tallied and 3 tickets will be drawn during a livestream. The owners of these tickets will win a part of the community-donated OII prize pool!
+At the end of the tournament, 3 tickets will be drawn during a livestream. The owners of these tickets will be winners of this event.
 
 Details can be found on the **[information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**.
 
@@ -295,7 +295,7 @@ Details can be found on the **[information spreadsheet](https://docs.google.com/
 
 1. This tournament is a **1v1 global open rank double-elimination tournament**.
 2. Players will first go through Qualifiers, then continue to the double-elimination bracket.
-3. Any staff members **other than organisers, mappool selectors, and referees** are allowed to play.
+3. Staff members that met [official tournament support rules](/wiki/Tournaments/Official_support#Staff) are allowed to play.
 4. Players and staff members must have read this ruleset entirely.
 5. Any rule changes or unexpected occurrences will be announced in the [Discord server](https://discord.gg/SPQtt3s).
 
