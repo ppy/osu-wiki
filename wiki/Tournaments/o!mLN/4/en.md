@@ -301,7 +301,7 @@ Details can be found on **[Information spreadsheet](https://docs.google.com/spre
 
 ### Mappool format
 
-The maps in this tournament will only consist of Long Note (LN) oriented maps, and cover 4 sub-categories of LNs which are used to categorise all mappools after this stage. Details can be found below:
+The maps in this tournament will only consist of long note (LN) oriented maps, and cover 4 sub-categories of LNs which are used to categorise all mappools after this stage. Details can be found below:
 
 ![Mappool structure](img/mappool-structure.png "mappool structure of o!M LN4")
 
