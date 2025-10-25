@@ -10,7 +10,7 @@ tags:
 
 ![o!mLN4 logo](img/logo.png) 
 
-The **osu!mania LN Tournament 4** (***o!mLN4***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061).  The tournament featured a variety of maps with a vast amount of sliders (or Long Notes) in its mappools. It is the 4th instalment of the osu!mania LN tournament.
+The **osu!mania LN Tournament 4** (***o!mLN4***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061). The tournament features a variety of maps with a vast amount of sliders (or long notes) in its mappools. It is the 4th instalment of the osu!mania LN tournament.
 
 ## Tournament schedule
 
@@ -30,17 +30,17 @@ The **osu!mania LN Tournament 4** (***o!mLN4***) is a worldwide double-eliminati
 
 ## Prizes
 
-Prize pool are divided to two parts: one is Regular Prize Pool, allocated to tournament winner; the other one is OII Prize Pool, allocated to event winner.
+The prize pool will be divided in two parts: one is the **Regular Prize Pool**, allocated to the tournament winner; the other one is the **[OII](#ordeal-in-illusion) Prize Pool**, allocated to the event winner.
 
-The Regular Prize Pool starts at 450$ USD, while the OII Prize Pool will start at 100$ USD. Community donations will contribute to both Tournament and OII Prize Pools in the ratio 70/30 respectively.
+The Regular Prize Pool starts at $450 USD, while the OII Prize Pool will start at $100 USD. Community donations will contribute to both Tournament and OII Prize Pools in a 70/30 ratio respectively.
 
-So far, There are **450$ USD** on Regular Prize Pool and **100$ USD** on OII Prize Pool.
+So far, there are **$450 USD** on the Regular Prize Pool and **$100 USD** on the OII Prize Pool.
 
-Regular Prize Pool are spread among the participants as seen below:
+The Regular Prize Pool is distributed among the participants as seen below:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | o!mLN4 Profile Badge (pending), 40% of Regular Prize Pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | o!mLN4 profile badge (pending), 40% of Regular Prize Pool |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of Regular Prize Pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of Regular Prize Pool |
 | *4-6th place* | 5% of Regular Prize Pool |
@@ -49,11 +49,11 @@ Regular Prize Pool are spread among the participants as seen below:
 ![](img/badge.jpg "o!mLN4 2nd placement badge")\
 ![](img/badge.jpg "o!mLN4 3rd placement badge")--> 
 
-OII Prize Pool are spread among the participants as seen below:
+The OII Prize Pool is distributed among the participants as seen below:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| *Lucky Draw Winners (3)* | 33% of OII Prize Pool |
+| *Lucky draw winners (3)* | 33% of OII Prize Pool |
 
 ## Organisation
 
@@ -83,13 +83,13 @@ The osu!mania LN Tournament 4 is run by various community members.
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**
 - **[Statistics sheet](https://drive.google.com/drive/folders/1sBl4ej38-oYWs6Wc7al-KMskdfkmZilu)**
 
-## Ordeal in Illusion
+## Ordeal In Illusion
 
-![Ordeal in Illusion banner](img/ordeal-in-Illusion.png "The Ordeal in Illusion banner in forum post")
+![Ordeal In Illusion banner](img/ordeal-in-Illusion.png "The Ordeal In Illusion banner in the forum post")
 
-**Ordeal In Illusion** is a leaderboard event that runs tangent to the tournament's schedule, available for everyone to participate!
+**Ordeal In Illusion** is a leaderboard event that runs in parallel to the tournament's schedule, available for everyone to participate!
 
-After mappool showcase every week starting the Round of 64, **original songs released in the week's mappool** will receive a leaderboard on the Statistics sheet, allowing both players and spectators to compete for the best score on our originals.
+After the mappool showcase, every week starting from Round of 64, **original songs released in the week's mappool** will receive a leaderboard on the statistics sheet, allowing both players and spectators alike to compete for the best score on the tournament's original beatmaps.
 
 Before the start of the next round's mappool showcase, leaderboards for the week's originals will be frozen. Tickets are then awarded to every participant who submitted scores to the leaderboard, with the number of tickets awarded increasing with their ranking on the leaderboard:
 
@@ -101,9 +101,9 @@ Before the start of the next round's mappool showcase, leaderboards for the week
 | *4-7th place* | 2 Tickets |
 | *Other participates* | 1 Ticket |
 
-At the end of the tournament, Tickets earned by all participants are tabulated and 3 Tickets will be drawn during a livestream. The owners of these Tickets will win a part of the community-donated OII prize pool!
+At the end of the tournament, tickets earned by all participants are tallied and 3 tickets will be drawn during a livestream. The owners of these tickets will win a part of the community-donated OII prize pool!
 
-Details can be found on **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**.
+Details can be found on the **[information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**.
 
 <!--## Participants-->
 
@@ -289,15 +289,15 @@ Details can be found on **[Information spreadsheet](https://docs.google.com/spre
 
 ## Ruleset
 
-*For latest rulebooks, see [forum post](https://osu.ppy.sh/community/forums/topics/2107840)*
+*For the latest rules, see the [forum post](https://osu.ppy.sh/community/forums/topics/2107840)*
 
 ### General rules
 
 1. This tournament is a **1v1 global open rank double-elimination tournament**.
-2. Players will first go through Qualifiers, then continuing to the double-elimination bracket.
-3. Any members of staff **apart from organisers, mappool selectors, and referees** are allowed to play.
+2. Players will first go through Qualifiers, then continue to the double-elimination bracket.
+3. Any staff members **other than organisers, mappool selectors, and referees** are allowed to play.
 4. Players and staff members must have read this ruleset entirely.
-5. Any rule changes or unexpected occurrences will be announced in the Discord server.
+5. Any rule changes or unexpected occurrences will be announced in the [Discord server](https://discord.gg/SPQtt3s).
 
 ### Mappool format
 
