@@ -295,7 +295,7 @@ Details can be found on the **[information spreadsheet](https://docs.google.com/
 
 1. This tournament is a **1v1 global open rank double-elimination tournament**.
 2. Players will first go through Qualifiers, then continue to the double-elimination bracket.
-3. Staff members that met [official tournament support rules](/wiki/Tournaments/Official_support#Staff) are allowed to play.
+3. Staff members that met [official tournament support rules](/wiki/Tournaments/Official_support#staff) are allowed to play.
 4. Players and staff members must have read this ruleset entirely.
 5. Any rule changes or unexpected occurrences will be announced in the [Discord server](https://discord.gg/SPQtt3s).
 
