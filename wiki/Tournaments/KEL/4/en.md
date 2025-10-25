@@ -39,7 +39,7 @@ tags:
 | :-- | :-- |
 | Organisers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Admins | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [Daria Maria](https://osu.ppy.sh/users/10806219), ::{ flag=AT }:: [FCnt](https://osu.ppy.sh/users/7336729) |
-| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
+| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=DE }:: [Iskas](https://osu.ppy.sh/users/16816551) |
 | Developer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
@@ -87,7 +87,7 @@ tags:
    - Quarterfinals, Semifinals, Finals and Grand Finals: 18 beatmaps
 3. Each mappool will consist of 4 brackets: No Mod, Hidden, Hard Rock and Double Time.
 4. Each bracket will be played with the respective mods enabled for all players.
-5. The tiebreaker will be played under Free Mod conditions, with no mods enforced.
+5. The tiebreaker will be played under Free Mod conditions. Players may choose a combination of Hidden and/or Hard Rock, but are still required to use No Fail.
 
 ### Bracket stage procedure
 
