@@ -133,7 +133,7 @@ The Tournament Committee frequently makes use of voting when making important de
 
 ## Tournament ban lengths
 
-Common tournament ban lengths can be found on the [Tournament bans](/wiki/Help_centre/Tournament_bans) wiki page.
+Common tournament ban lengths can be found on the [Tournament sanctions](/wiki/Help_centre/Tournament_sanctions#reasons) wiki page.
 
 ## FAQ
 

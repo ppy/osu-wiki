@@ -87,7 +87,7 @@ Answers to frequent questions and solutions to common issues live here.
 
 [Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
-Profile restrictions: [Silences](/wiki/Help_centre/Silences) • [Account restrictions](/wiki/Help_centre/Account_restrictions) • [Tournament bans](/wiki/Help_centre/Tournament_bans)
+Profile restrictions: [Silences](/wiki/Help_centre/Silences) • [Account restrictions](/wiki/Help_centre/Account_restrictions) • [Tournament sanctions](/wiki/Help_centre/Tournament_sanctions)
 
 Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) • [Report bad behaviour](/wiki/Reporting_bad_behaviour) • [Report abuse](/wiki/Reporting_bad_behaviour/Abuse) • [Report cheating](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
