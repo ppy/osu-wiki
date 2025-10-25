@@ -24,7 +24,7 @@ Please note that any schedule changes will be made known in the contest's [Disco
 | --: | :-- |
 | Beatmapping (3 weeks) | November 3rd - November 24th (23:59 UTC) |
 | Judging (2 weeks) | November 24th - December 8th (23:59 UTC) |
-| Results (1 week)| December 15th |
+| Results (1 week) | December 15th |
 
 Results will be made public through the Discord server as well as through a conclusion news post.
 
@@ -64,7 +64,7 @@ For more details regarding the criteria, please take a look at the [forum post](
 - Cut versions are allowed only if it comes from our Featured Artist listing, the cut makes sense and it’s appropriately titled as such in the map’s title `(Cut ver.)`.
 - Your entry should **only be mapped by you**, collaborations are not allowed in this contest.
 - Allowed keymodes range from 4K up to 10K. For this contest, 10K+ keymodes are not allowed.
-- Use of **any AI tool** is strictly prohibited. If your entry is found to be violating this, it will be immediately disqualified.
+- **Use of artificial intelligence (AI)** is strictly prohibited. If your entry is found to be violating this, it will be immediately disqualified.
 - Only **1 song with 1 difficulty** is allowed per submission per contestant.
 
 ## Submitting your entry
