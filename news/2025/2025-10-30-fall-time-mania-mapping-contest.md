@@ -22,7 +22,7 @@ Please note that any schedule changes will be made known in the contest's [Disco
 
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (3 weeks) | November 3rd - November 24th (23:59 UTC) |
+| Beatmapping (3.5 weeks) | October 30th - November 24th (23:59 UTC) |
 | Judging (2 weeks) | November 24th - December 8th (23:59 UTC) |
 | Results (1 week) | December 15th |
 
