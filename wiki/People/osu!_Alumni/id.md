@@ -4,7 +4,7 @@ no_native_review_since: 68df2a7820396f85d1466c9b3ebcfa812835f122
 
 # osu! Alumni
 
-**osu! Alumni** merupakan para tokoh komunitas yang dikenal akan jasa mereka pada zamannya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan untuk mendirikan patung bagi masing-masing tokoh ini di alun-alun kota.
+**osu! Alumni** merupakan para tokoh komunitas yang dikenal akan jasa mereka pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan untuk mendirikan patung bagi masing-masing tokoh ini di alun-alun kota.
 
 Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [halaman grup osu! Alumni](https://osu.ppy.sh/groups/16).
 
