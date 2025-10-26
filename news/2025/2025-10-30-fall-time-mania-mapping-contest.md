@@ -34,12 +34,12 @@ This contest comes packed with prizes so do not fret! Your efforts will be rewar
 
 We've prepared some lovely prizes to reward those who impress our judges the most! We also have a category called **Judge's Pick** which will feature the entry that the judges deemed worthy of an extra prize!
 
-| Placement | Prizes | |
+| Placement | Prizes |  |
 | :-: | :-- | :-- |
-| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)**, **profile badge**| ![Badge](https://i.gyazo.com/154b75d167e0d4c6a60b4606df51b889.png)|
-| 2nd | 2 months of osu!supporter | |
-| 3rd | 1 month of osu!supporter | |
-|Judge's Pick| 3 months of osu!supporter | |
+| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)**, **profile badge** | ![Badge](https://i.gyazo.com/154b75d167e0d4c6a60b4606df51b889.png) |
+| 2nd | 2 months of osu!supporter |  |
+| 3rd | 1 month of osu!supporter |  |
+| Judge's Pick | 3 months of osu!supporter |  |
 
 The amount of contest points awarded will be determined by the number of mappers participating in the contest, as detailed in the [contest points key](/wiki/Contests/Contest_points#points-key).
 
