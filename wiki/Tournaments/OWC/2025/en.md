@@ -54,7 +54,6 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Tournament design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
 | Musician | [MEMODEMO](https://soundcloud.com/MEMODEMO) |
 
-
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal)**
