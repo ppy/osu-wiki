@@ -550,3 +550,4 @@ Please follow these steps:
 [osu!taiko icon]: /wiki/shared/mode/taiko.png
 [osu!catch icon]: /wiki/shared/mode/catch.png
 [osu!mania icon]: /wiki/shared/mode/mania.png
+<!-- Minor typo fix -->
