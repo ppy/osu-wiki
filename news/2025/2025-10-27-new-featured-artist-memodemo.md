@@ -12,7 +12,7 @@ In the past few years, **MEMODEMO** has been spotted wandering the coasts of *Ar
 
 **7** new pre-timed tracks drawing inspiration from artists like [*AQUASINE*](https://osu.ppy.sh/beatmaps/artists/467), [*BilliumMoto*](https://osu.ppy.sh/beatmaps/artists/38), *Sasuke Haraguchi*, and many more can be found on [**MEMODEMO**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/508)!
 
-If the name "**MEMODEMO**" sounds familiar, that may be due to their presence in the renowned [*HARDCORE UTOPIA*](https://osu.ppy.sh/beatmaps/artists/205) series. If you're recalling something more recent though, it's probably their new track created specifically for this year's [osu! World Cup](https://osu.ppy.sh/wiki/Tournaments/OWC/2025):
+If the name "**MEMODEMO**" sounds familiar, that may be due to their presence in the renowned [*HARDCORE UTOPIA*](https://osu.ppy.sh/beatmaps/artists/205) series. If you're recalling something more recent though, it's probably their new track created specifically for this year's [osu! World Cup](/wiki/Tournaments/OWC/2025):
 
 ### [MEMODEMO - Showoff Showdown](https://assets.ppy.sh/artists/508/Songs/MEMODEMO%20-%20Showoff%20Showdown.osz)
 
