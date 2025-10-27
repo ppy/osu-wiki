@@ -13,7 +13,7 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** merupakan klub osu! asal University of California, Irvine (*UCI*) yang berfokus pada permainan dan diskusi seputar osu!. Klub ini rutin menyelenggarakan berbagai acara seiring waktu, yang terutamanya meliputi antara lain turnamen LAN musiman dan temu jumpa mingguan.
+**osu! UCI** merupakan klub osu! asal University of California, Irvine (*UCI*) yang berfokus pada permainan dan diskusi seputar osu!. Klub ini rutin menyelenggarakan berbagai acara seiring waktunya, yang terutamanya meliputi antara lain turnamen LAN musiman dan temu jumpa mingguan.
 
 Untuk informasi lebih lanjut seputar sebagian dari turnamen LAN ini, lihat [halaman indeks turnamen osu! UCI](/wiki/Tournaments/osu!_UCI).
 
