@@ -12,7 +12,7 @@ The **Fall Time Mania Mapping Contest** is debuting this year and with the tempe
 
 This mapping contests stems from it's close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1), which targeted a specific mapping demographic being an only 6K keymode mapping contest without gimmick to try and get more people interested in the keymode which was a complete success, but this time around, all mappers are welcomed and we hope to see your entry soon!
 
-FTMC will be a one difficulty, one song per submission contest from osu!'s Featured Artist listing. It will follow a specific judging criteria listed below and also expanded on in the [contest's forum post found here](). How should you map? Well, the editor is your canvas! You're allowed to map any style as long as it adheres to the rules and to the gimmick!
+FTMC will be a one difficulty, one song per submission contest from osu!'s Featured Artist listing. It will follow a specific judging criteria listed below and also expanded on in the [contest's forum post found here](https://osu.ppy.sh/community/forums/topics/2145873?n=1). How should you map? Well, the editor is your canvas! You're allowed to map any style as long as it adheres to the rules and to the gimmick!
 
 Is your map ready and you fulfill the criteria? Let's not keep you waiting no more! Submit through the [contest page]() here!
 
@@ -22,9 +22,9 @@ Please note that any schedule changes will be made known in the contest's [Disco
 
 | Event | Dates |
 | --: | :-- |
-| Beatmapping (3.5 weeks) | October 30th - November 24th (23:59 UTC) |
-| Judging (2 weeks) | November 24th - December 8th (23:59 UTC) |
-| Results (1 week) | December 15th |
+| Beatmapping (3.5 weeks) | October 30th - November 24th (16:00 UTC) |
+| Judging (2 weeks) | November 24th - December 8th (16:00 UTC) |
+| Results (1 week) | December 15th or sooner depending on processing |
 
 Results will be made public through the Discord server as well as through a conclusion news post.
 
@@ -76,7 +76,7 @@ Submitting your entry for this contest will be done through [**its contest page 
 
 ---
 
-Feel free to join our [Discord server](https://discord.gg/p8bwdrjExr) to receive updates and the latest information regarding the contest as well as the [forum post]().
+Feel free to join our [Discord server](https://discord.gg/p8bwdrjExr) to receive updates and the latest information regarding the contest as well as the [forum post](https://osu.ppy.sh/community/forums/topics/2145873?n=1).
 
 Please be sure to go through the [contest page]() to submit your entry! Best of luck and have fun!
 
