@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f6684737c3574645e6eb52760df23dc0d5a6670b
+---
+
 # Servidores de Discord
 
 Este artículo enumera varios servidores de [Discord](https://discord.com/) que han sido creados y mantenidos por la comunidad de osu! para albergar lugares de discusión sobre los diferentes aspectos del juego. Algunos se centran en la gestión de proyectos concretos, mientras que otros son más generales, pero la mayoría incluyen canales de chat casuales a pesar de todo.

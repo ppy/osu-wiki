@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f6684737c3574645e6eb52760df23dc0d5a6670b
 ---
 
 # Discord-Server
