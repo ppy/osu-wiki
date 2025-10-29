@@ -168,9 +168,9 @@ This is how the rhythm penalty looks on [MAX - Checklist (feat. Chromeo) [123 //
 
 ### Length bonus revamp
 
-A [change](https://github.com/ppy/osu/pull/33582) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to entirely revamp the length bonus in PP.
+Longer maps award more PP, but this effect was capped at 1,500 objects. [rloseise](https://osu.ppy.sh/users/6793778) has [removed this cap and entirely replaced the "length bonus" formula](https://github.com/ppy/osu/pull/33582) as part of this update.
 
-Previously, the length bonus was applied based on the number of objects in the map and would reach its maximum bonus at 1500 objects. Length bonus now scales by a weighted object count depending on how consistently difficult the beatmap is, gradually converging towards a maximum bonus rather than ending abruptly:
+The length bonus is now scaled by how consistently difficult the beatmap is, and it gradually converges towards a maximum rather than ending abruptly:
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-length-bonus.png)
 
