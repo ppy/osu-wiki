@@ -210,7 +210,7 @@ For very difficult maps with a lot of stamina difficulty, the length bonus would
 - A [change](https://github.com/ppy/osu/pull/33415) by [rloseise](https://osu.ppy.sh/users/6793778) to remove static nerfs for the EZ mod
 - A [change](https://github.com/ppy/osu/pull/33500) by [rloseise](https://osu.ppy.sh/users/6793778) to change how difficulty and accuracy PP are summed
 - A [change](https://github.com/ppy/osu/pull/34962) by [rloseise](https://osu.ppy.sh/users/6793778) to rebalance final values to meet community expectations 
-- A [set](https://github.com/ppy/osu/pull/33233) of [changes](https://github.com/ppy/osu/pull/34327) by [ltca](https://osu.ppy.sh/users/11475208) and [rloseise](https://osu.ppy.sh/users/6793778) to add the consistency factor that is used above
+- A [set](https://github.com/ppy/osu/pull/33233) of [changes](https://github.com/ppy/osu/pull/34327) by [ltca](https://osu.ppy.sh/users/11475208) and [rloseise](https://osu.ppy.sh/users/6793778) to add a "consistency factor" used to power the length bonus and miss penalty changes
 
 ## osu!catch
 
