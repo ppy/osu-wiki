@@ -41,7 +41,7 @@
 - **在 v2 皮肤格式下，必须包含自定义接水果小人。** 必需元素能在 [osu!catch 皮肤文章](/wiki/Skinning/osu!catch)中找到。
 - **自定义皮肤内的[水果](/wiki/Skinning/osu!catch#水果)必须包含所有需要的元素，并转换为便于上色的灰度图。** 这能确保自定义皮肤元素清晰可辨，质量满足要求。必需元素能在 [osu!catch 皮肤文章](/wiki/Skinning/osu!catch)中找到。另外，推荐使用透明的叠加层元素。
 - **自定义皮肤元素必须与它们对应的默认皮肤样本大小一致。** 这确保它们能正确表示水果的判定区域，不会影响游玩。
-  - [大果](/wiki/Skinning/osu!catch#fruits)必须是 128x128 像素。
+  - [大果](/wiki/Skinning/osu!catch#水果)必须是 128x128 像素。
   - [中果和小果](/wiki/Skinning/osu!catch#水果)必须是 82x103 像素。
   - [接水果小人](/wiki/Skinning/osu!catch#小人)必须是 306x320 像素。
 
@@ -93,16 +93,16 @@
 
 - **不允许使用任何形式的[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **[白果跳](/wiki/Gameplay/Dash)前后的两个物件相隔必须大于等于 125 毫秒。**
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)不允许连续使用超过 2 次。**
-- **[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)之后只能接[走路](/wiki/Gameplay/Walk)排列。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[白果跳](/wiki/Gameplay/Dash)不允许连续使用超过 2 次。**
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[白果跳](/wiki/Gameplay/Dash)之后只能接[走路](/wiki/Gameplay/Walk)排列。**
 - **不允许使用[极限跳](/wiki/Gameplay/Edge_dash)。**
 - **[香蕉雨（转盘）](/wiki/Gameplay/Hit_object/Banana)和前后的[水果](/wiki/Gameplay/Hit_object/Fruit)之间至少需要间隔 250 毫秒。**
 
 #### 准则
 
 - **应该控制相邻水果间的水平距离，以至于能让玩家清晰分辨出[走路](/wiki/Gameplay/Walk)和[白果跳](/wiki/Gameplay/Dash)。** 这是为了让玩家容易读出谱面要跳的位置。
-- **不应连续使用不同节奏类型的[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)。**
-- **不应在[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)之后接[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列。**
+- **不应连续使用不同节奏类型的[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[白果跳](/wiki/Gameplay/Dash)。**
+- **不应在[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[白果跳](/wiki/Gameplay/Dash)之后接[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **不应在一组[连击](/wiki/Beatmapping/Combo)中使用超过 10 个[水果](/wiki/Gameplay/Hit_object/Fruit)。**
 - **谱面物件密度应主要由 1/1 和 1/2 节奏组成。** 1/3 或 1/4 节奏应极少使用。
@@ -120,11 +120,11 @@
 - **[红果跳](/wiki/Gameplay/Hyperdash)前后的两个物件相隔必须大于等于 125 毫秒。**
 - **不允许在[中果](/wiki/Hit_object/Juice_stream#中果)和滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。** 接住这种排列，需要玩家拥有高于这个难度分段的盘子控制力和精确度。这可能会导致玩家跟不上滑条路径。
 - **不允许连续使用不同节奏类型的[红果跳](/wiki/Gameplay/Hyperdash)。** 比如：1/2 红果跳不允许接 1/4 红果跳。
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 2 次。**
-- **[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)的前后不允许连接任何形式的[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 2 次。**
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)的前后不允许连接任何形式的[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **[白果跳](/wiki/Gameplay/Dash)前后的两个物件相隔必须大于等于 62 毫秒。**
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[白果跳](/wiki/Gameplay/Dash)不允许连续使用超过 4 次。**
-- **[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[白果跳](/wiki/Gameplay/Dash)不允许连续使用超过 2 次。如果连续使用，则中途不允许改变跳的方向。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[白果跳](/wiki/Gameplay/Dash)不允许连续使用超过 4 次。**
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[白果跳](/wiki/Gameplay/Dash)不允许连续使用超过 2 次。如果连续使用，则中途不允许改变跳的方向。**
 - **不允许使用[极限跳](/wiki/Gameplay/Edge_dash)。**
 - **[香蕉雨（转盘）](/wiki/Gameplay/Hit_object/Banana)和它之前的[水果](/wiki/Gameplay/Hit_object/Fruit)至少需要间隔 125 毫秒。**
 - **[香蕉雨（转盘）](/wiki/Gameplay/Hit_object/Banana)和它之后的[水果](/wiki/Gameplay/Hit_object/Fruit)至少需要间隔 250 毫秒。**
@@ -132,7 +132,7 @@
 #### 准则
 
 - **不应使用非常远的[红果跳](/wiki/Gameplay/Hyperdash)。**
-- **不应在[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)之后接[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列。**
+- **不应在[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)之后接[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **不应在一组[连击](/wiki/Beatmapping/Combo)中使用超过 12 个[水果](/wiki/Gameplay/Hit_object/Fruit)。**
 - **谱面物件密度应主要由 1/2 和 1/3 节奏组成。** 1/4 或 1/6 节奏应极少使用。
@@ -148,18 +148,18 @@
 #### 规定
 
 - **[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)前后的两个物件相隔必须大于等于 62 毫秒。**
-- **[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 4 次。**
-- **滑条组成的[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 2 次。** 滑条路径必须容易让玩家接住。
-- **[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)的前后不允许连接任何形式的[红果跳](/wiki/Gameplay/Hyperdash)。**
-- **不允许使用滑条组成的[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)。**
+- **[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 4 次。**
+- **滑条组成的[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[红果跳](/wiki/Gameplay/Hyperdash)不能连续使用超过 2 次。** 滑条路径必须容易让玩家接住。
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)的前后不允许连接任何形式的[红果跳](/wiki/Gameplay/Hyperdash)。**
+- **不允许使用滑条组成的[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **[香蕉雨（转盘）](/wiki/Gameplay/Hit_object/Banana)和前后的[水果](/wiki/Gameplay/Hit_object/Fruit)之间至少需要间隔 125 毫秒。**
 
 #### 准则
 
 - **不应在[中果](/wiki/Hit_object/Juice_stream#中果)和滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。**
-- **不应连续使用不同节奏类型的[基础](/wiki/Gameplay/Dash_snapping#basic-snapped)[红果跳](/wiki/Gameplay/Hyperdash)。** 比如：1/1 红果跳不应该接 1/2 红果跳。
-- **[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)的前后不应连接其他高阶[白果跳或高阶红果跳](/wiki/Gameplay/Hyperdash)。** 如果一定要与高阶跳相连接，则不能组成[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列，并且这个高阶跳必须位于高阶红果跳之前。
-- **[高阶](/wiki/Gameplay/Dash_snapping#higher-snapped)[红果跳](/wiki/Gameplay/Hyperdash)不应位于[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) [跳](/wiki/Gameplay/Dash)之后。**
+- **不应连续使用不同节奏类型的[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[红果跳](/wiki/Gameplay/Hyperdash)。** 比如：1/1 红果跳不应该接 1/2 红果跳。
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)的前后不应连接其他高阶[白果跳或高阶红果跳](/wiki/Gameplay/Hyperdash)。** 如果一定要与高阶跳相连接，则不能组成[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列，并且这个高阶跳必须位于高阶红果跳之前。
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)不应位于[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) [跳](/wiki/Gameplay/Dash)之后。**
 - **不应在其他[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)之间使用[极限跳](/wiki/Gameplay/Edge_dash)。**
 - **谱面物件密度应主要由 1/2 和 1/4；或者 1/3 和 1/6 节奏组成。** 1/8 节奏应极少使用。
 
