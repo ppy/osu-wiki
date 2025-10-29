@@ -158,7 +158,9 @@ A [change](https://github.com/ppy/osu/pull/34188) by [rloseise](https://osu.ppy.
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-accuracy-scaling.png)
 
-Additionally, higher estimated unstable rates will diminish the rhythm difficulty contribution to PP. This addresses scores which sacrifice accuracy in order to ignore hard rhythms and play them as much easier ones. This penalty scales by how much of the beatmap's difficulty is made up by difficult rhythm, meaning beatmaps without much rhythm difficulty are mostly unaffected. In order to balance alongside this change, rhythm as a whole was buffed and rhythmically complex beatmaps will have a higher SR than before.
+Additionally, higher estimated unstable rates will reduce the contribution of rhythm difficulty to PP. This addresses scores which sacrifice accuracy in order to ignore hard rhythms and play them as much easier ones. The penalty applies less to maps without difficult rhythms, leaving them mostly unaffected.
+
+In order to balance the change, rhythm difficulty as a whole has been buffed to a point where rhythmically complex beatmaps will have a higher SR than before.
 
 This is how the rhythm penalty looks on [MAX - Checklist (feat. Chromeo) [123 // abc]](https://osu.ppy.sh/beatmapsets/2155487#taiko/4543374) (a significantly rhythmically complex beatmap):
 
