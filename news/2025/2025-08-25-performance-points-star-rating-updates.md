@@ -156,8 +156,6 @@ Lastly, all these changes also apply to the Traceable mod, since it shares bonus
 
 A [change](https://github.com/ppy/osu/pull/34188) by [rloseise](https://osu.ppy.sh/users/6793778) was made to replace existing accuracy calculations with a steeper formula. This means differences in accuracy now have a larger effect on PP.
 
-To reward high accuracy on harder beatmaps, the SR bonus in accuracy PP now diminishes as the estimated unstable rate increases:
-
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-accuracy-scaling.png)
 
 Additionally, higher estimated unstable rates will diminish the rhythm difficulty contribution to PP. This addresses scores which sacrifice accuracy in order to ignore hard rhythms and play them as much easier ones. This penalty scales by how much of the beatmap's difficulty is made up by difficult rhythm, meaning beatmaps without much rhythm difficulty are mostly unaffected. In order to balance alongside this change, rhythm as a whole was buffed and rhythmically complex beatmaps will have a higher SR than before.
