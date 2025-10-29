@@ -163,7 +163,6 @@
 - **不应在其他[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)之间使用[极限跳](/wiki/Gameplay/Edge_dash)。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **谱面物件密度应主要由 1/2 和 1/4；或者 1/3 和 1/6 节奏组成。** 1/8 节奏应极少使用。
-- **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 
 #### 难度设定准则
 
