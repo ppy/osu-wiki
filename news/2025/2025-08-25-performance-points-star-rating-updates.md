@@ -192,9 +192,9 @@ This fix works by normalising times between objects within a certain tolerance, 
 
 ### Colour penalty fix
 
-A [change](https://github.com/ppy/osu/pull/33641) by [ltca](https://osu.ppy.sh/users/11475208) was made in order to fix a that caused patterns to unfairly avoid colour penalties.
+The part of the PP system that evaluates colour difficulty has a penalty for long patterns with no rhythm changes. Before this update, there was an issue ([fixed](https://github.com/ppy/osu/pull/33641) by [ltca](https://osu.ppy.sh/users/11475208)) that prevented some patterns from receiving this penalty where they should have received it.
 
-Colour difficulty contains a penalty for long patterns with no rhythm changes, but this penalty would only apply if the pattern's rhythm was *exactly* the same. This was addressed by looking back at previous notes and calculating an average, so that slightly missnapped notes are still correctly penalised.
+The issue was with the "no rhythm changes" part, that it had no tolerance for slightly missnapped notes. This was addressed by looking back at previous notes and calculating an average, so that the slightly missnapped notes are still correctly penalised.
 
 ### Stamina length bonus fix
 
