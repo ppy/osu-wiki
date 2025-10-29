@@ -30,7 +30,7 @@ Di sisi lain, tidak seperti musik yang pada umumnya terbatas hak cipta, efek sua
 
 ### Perizinan artis
 
-Bagian ini merincikan artis siapa saja yang mengizinkan karya lagu mereka untuk digunakan di osu!, dan dengan kondisi apa saja lagu mereka dapat dipakai (apabila berlaku).
+Bagian ini merincikan artis siapa saja yang mengizinkan karya lagu mereka untuk digunakan di osu! dan dengan kondisi apa saja lagu mereka dapat dipakai (apabila berlaku).
 
 Seluruh lagu yang tersedia pada [daftar Featured Artist](https://osu.ppy.sh/beatmaps/artists) mana pun telah terlisensi oleh osu! dan dapat digunakan untuk membuat beatmap terlepas dari pertidaksetujuan umum yang tertera di bawah ini. Di sisi lain, lagu dari Featured Artist yang tidak tersedia pada daftar mereka masing-masing *tidak* terlisensi, dan perizinan tambahan mungkin akan dibutuhkan untuk dapat menggunakan lagu ini.
 
