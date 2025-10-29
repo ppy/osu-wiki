@@ -13,8 +13,8 @@
 #### 规定
 
 - **你的谱面必须理论上可以 SS。** 这意味着必须理论上能够完全接住所有[大果](/wiki/Hit_object/Fruit)、[中果](/wiki/Hit_object/Juice_stream#中果)、[小果](/wiki/Hit_object/Juice_stream#小果)。
-- **除非强制使用默认皮肤，谱面必须设置至少两种不同的自定义 [combo 颜色](/wiki/Beatmapping/Combo_colour)。**
-  - 任何情况下，combo 颜色组都不能容易与谱面的背景图片、故事板、背景视频相混淆。
+- **除非强制使用默认皮肤，谱面必须设置至少两种不同的自定义[连击颜色](/wiki/Beatmapping/Combo_colour)。**
+  - 任何情况下，连击颜色组都不能容易与谱面的背景图片、故事板、背景视频相混淆。
 - **请勿在 hitnormal 音效较弱时使用[按键音](/wiki/Beatmapping/Hitsound#keysound)。** 如果按键音与音乐过于相似，此时玩家接住[大果](/wiki/Hit_object/Fruit)时获得的反馈将会非常微弱。
 - **如果谱面的[掉血时间](/wiki/Beatmap/Drain_time)...**
   - **...小于 2:30**，则最低难度必须低于或等于 Salad，或者至少拥有 4 个梯度合适[^proper-spread]的难度。
