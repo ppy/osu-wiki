@@ -114,7 +114,7 @@ Some examples of beatmaps buffed by this change:
 - [Savage Garden - I Want You [Ridiculous]](https://osu.ppy.sh/beatmapsets/4548#osu/24428) with DTHR: 8.6* --> 8.98*
 - [toby fox vs. Ferdk - Battle Against a True Hero [Genocide]](https://osu.ppy.sh/beatmapsets/576030#osu/1457925) with DT: 8.95* --> 9.54*
 
-### Hidden bonus rebalance
+### Hidden mod rebalance
 
 A [change](https://github.com/ppy/osu/pull/33237) by [Givy120](https://osu.ppy.sh/users/10560705) was made in order to rebalance the Hidden bonus.
 
@@ -137,8 +137,8 @@ Currently, the Traceable mod shares bonuses with Hidden so all changes will appl
 - A [fix](https://github.com/ppy/osu/pull/34544) by [tsunyoku](https://osu.ppy.sh/users/11315329) to ensure that slider breaks are not awarded in impossible combo scenarios
 - A [fix](https://github.com/ppy/osu/pull/34065) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure OD accounts for osu!(lazer)'s updated hit windows
 - A [fix](https://github.com/ppy/osu/pull/33110) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure slider break estimations cannot produce an impossibly high number of slider breaks
-- A [fix](https://github.com/ppy/osu/pull/32790) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure rhythm uses the correct time between objects
-- A [fix](https://github.com/ppy/osu/pull/34877) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm difficulty is reduced for doubletappable patterns
+- A [fix](https://github.com/ppy/osu/pull/32790) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure rhythm calculations use the correct time between objects
+- A [fix](https://github.com/ppy/osu/pull/34877) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm difficulty is reduced for double-tappable patterns
 - A [change](https://github.com/ppy/osu/pull/33640) by [tsunyoku](https://osu.ppy.sh/users/11315329) to rebalance final values to meet community expectations
 - A [change](https://github.com/ppy/osu/pull/32634) by [Finadoggie](https://osu.ppy.sh/users/14182048) to ensure slider accuracy bonuses are given to the ScoreV2 mod
 - A [change](https://github.com/ppy/osu/pull/32434) by [StanR](https://osu.ppy.sh/users/7217455) to weaken punishment for 100s on scores set with the Relax mod
