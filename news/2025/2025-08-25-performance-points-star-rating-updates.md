@@ -104,11 +104,11 @@ Some examples of beatmaps buffed by this change:
 - [Aoki Chihiro - Kodou [Dynamix's Expert]](https://osu.ppy.sh/beatmapsets/687511#osu/1580794) with DT: 8.3* --> 8.53*
 - [Light - Anoneanoneanoneanoneanoneanoneanoneanone Kouji ga Okureteruno [Anone]](https://osu.ppy.sh/beatmapsets/822716#osu/1724319) with DTHR: 12.1* --> 12.92*
 
-### Removed same rhythm requirement for angle bonuses
+### Removed same-rhythm requirement for angle bonuses
 
 A [change](https://github.com/ppy/osu/pull/31409) by [StanR](https://osu.ppy.sh/users/7217455) was made to remove the requirement for patterns to have the "same" rhythm in order to award angle bonuses.
 
-This buffs all forms of complex patterns as they were previously barred from bonus rewards due to rhythms being different between notes. This mainly awards buffs to maps known as "tech" or "DT alt".
+This buffs all forms of complex patterns (mainly "tech" or "DT alt") as they were previously barred from bonus rewards due to rhythms being different between notes.
 
 Some examples of beatmaps buffed by this change:
 
