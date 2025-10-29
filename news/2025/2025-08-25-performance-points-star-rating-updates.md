@@ -186,9 +186,9 @@ The new miss penalty is *also* scaled by a weighted object count depending on ho
 
 A [change](https://github.com/ppy/osu/pull/33403) by [ltca](https://osu.ppy.sh/users/11475208) and [BabySnakes](https://osu.ppy.sh/users/4669728) was made in order to fix an issue with "unsnapped" objects unfairly buffing rhythm difficulty.
 
-Prior to this fix, objects placed 1-5ms off of their intended timing would be treated as entirely new rhythms. These patterns would be played identically, however the system incorrectly saw these as constant, complex rhythm changes and would inflate star rating as a result. In some extreme cases, this caused inflation upwards of 2*.
+Prior to this fix, objects placed 1–5 ms off from their intended timing would be treated as entirely new rhythms. These patterns would be played identically, yet the system would incorrectly see these as complex rhythm changes and inflate star rating as a result. In some extreme cases, this caused inflation upwards of 2*.
 
-This fix works by normalising times between objects within a certain tolerance, meaning that 1ms unsnaps will be normalised to the same time and treated as the same rhythm. For maps not abusing this problem, this change has minimal effects.
+This fix works by normalising times between objects within a certain tolerance, meaning that 1 ms unsnaps will be normalised to the same time and treated as the same rhythm. For maps not abusing this problem, this change has minimal effects.
 
 ### Colour penalty fix
 
