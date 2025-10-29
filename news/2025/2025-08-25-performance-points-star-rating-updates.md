@@ -6,7 +6,7 @@ date: 2025-08-25 10:00:00 +0000
 
 That's right, we're back again!
 
-![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
+![](/wiki/shared/news/banners/pp-sr-pippi-yuzu.jpg)
 
 This time around osu!, osu!taiko and osu!catch are receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
