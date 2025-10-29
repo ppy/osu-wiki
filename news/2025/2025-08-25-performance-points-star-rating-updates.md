@@ -176,9 +176,9 @@ The length bonus is now scaled by how consistently difficult the beatmap is, and
 
 ### Miss penalty changes
 
-A [change](https://github.com/ppy/osu/pull/33409) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to make the miss penalty more difficulty-aware.
+Each miss used to give a fixed multiplier to the PP value, but with [this change](https://github.com/ppy/osu/pull/33409) by [rloseise](https://osu.ppy.sh/users/6793778), it's now more difficulty-aware.
 
-The new miss penalty is *also* scaled by a weighted object count depending on how consistently difficult the beatmap is, meaning frequent misses on less consistent beatmaps are punished more than misses on more consistent beatmaps:
+In short, like the length bonus mentioned above, the new miss penalty is *also* scaled by object count and how consistently difficult the beatmap is, meaning frequent misses on less consistent beatmaps are punished more than misses on more consistent beatmaps:
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-miss-penalty.png)
 
