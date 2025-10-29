@@ -2,7 +2,7 @@
 
 osu! didasarkan pada prinsip di mana siapa pun bebas untuk membuat dan membagikan hasil karya mereka dengan satu sama lain. Oleh karenanya, pada setiap karya baru yang diunggah, sangat penting bagi pengguna untuk memastikan bahwa segala aset milik kreator lain yang digunakan telah terizin dan teratribusikan dengan benar.
 
-Tanpa izin yang memadai, [beatmap](/wiki/Beatmap) yang diunggah berisiko untuk dihapus, dan pengunggah beatmap ini terancam untuk tidak lagi dapat mengakses sistem submisi osu! sebagaimana dengan [kebijakan hak cipta osu!](/wiki/Legal/Copyright) yang berlaku. Hal ini berarti pengguna harus membuat beatmap menggunakan aset yang tergolong ke dalam salah satu kategori berikut:
+Tanpa izin yang memadai, [beatmap](/wiki/Beatmap) yang diunggah berisiko untuk dihapus, dan pengunggah beatmap ini terancam untuk tidak lagi dapat mengakses sistem submisi osu! sebagaimana dengan [kebijakan hak cipta osu!](/wiki/Legal/Copyright) yang berlaku. Hal ini berarti pengguna harus membuat beatmap dengan menggunakan aset yang tergolong ke dalam salah satu kategori berikut:
 
 - Telah terizin secara hukum untuk dapat digunakan di osu!
 - Telah terizin untuk dapat digunakan di osu! oleh para penciptanya
