@@ -79,13 +79,9 @@ Some examples of scores nerfed by this change:
 
 ### Precision buff
 
-PP calculations have had a "small circle" bonus (which starts at CS5.5) since its inception which intends to add extra reward for the difficulty required to aim on high CS.
-
-Thanks to a [change](https://github.com/ppy/osu/pull/28877) by [StanR](https://osu.ppy.sh/users/7217455), this bonus no longer caps at CS6.5 and allows for buffs across the board on higher CS values.
+PP calculations have always had a "small circle" bonus (which starts at CS 5.5), adding extra reward for the difficulty required to aim at high CS. This bonus used to be capped at CS 6.5, but [thanks to](https://github.com/ppy/osu/pull/28877) [StanR](https://osu.ppy.sh/users/7217455) (with [adjustment](https://github.com/ppy/osu/pull/34214) by [Givy120](https://osu.ppy.sh/users/10560705)) this is no longer the case, meaning maps with high CS are buffed across the board.
 
 This change also comes with a nerf to jump patterns that travel through a central point. This prevents maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144) from being buffed excessively.
-
-There was an additional [change](https://github.com/ppy/osu/pull/34214) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure that this bonus is not applied to aim's slider velocity bonus. This keeps maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702) in check with minimal changes to other beatmaps.
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/precision-bonus.png)
 
