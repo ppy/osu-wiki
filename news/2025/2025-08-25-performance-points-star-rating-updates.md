@@ -51,7 +51,7 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 ### Improved relationship between performance points and star rating
 
-A [change](https://github.com/ppy/osu/pull/31351) proposed by [tsunyoku](https://osu.ppy.sh/users/11315329) moved AR, Hidden and OD bonuses from performance points into star rating. This means that SR values will now be better correlated with their PP values. This also introduces Hidden as a difficulty-affecting mod. PP values are **not** affected by these changes.
+A [change](https://github.com/ppy/osu/pull/31351) by [tsunyoku](https://osu.ppy.sh/users/11315329) moved AR, Hidden and OD bonuses from performance points into star rating. This means that SR will now be better correlated with PP. This also introduces Hidden as a difficulty-affecting mod. PP values are **not** affected by these changes.
 
 Some examples of beatmaps affected by these changes:
 
@@ -79,7 +79,7 @@ Some examples of scores nerfed by this change:
 
 PP calculations have had a "small circle" bonus (which starts at CS5.5) since its inception which intends to add extra reward for the difficulty required to aim on high CS.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/28877) proposed by [StanR](https://osu.ppy.sh/users/7217455), this bonus no longer caps at CS6.5 and allows for buffs across the board on higher CS values.
+Thanks to a [change](https://github.com/ppy/osu/pull/28877) by [StanR](https://osu.ppy.sh/users/7217455), this bonus no longer caps at CS6.5 and allows for buffs across the board on higher CS values.
 
 This change also comes with a nerf to jump patterns that travel through a central point. This prevents maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144) from being buffed excessively.
 
@@ -158,7 +158,7 @@ Currently, the Traceable mod shares bonuses with Hidden so all changes will appl
 
 ### Steeper accuracy scaling & rhythm penalties
 
-A [change](https://github.com/ppy/osu/pull/34188) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made to replace existing accuracy calculations with a steeper formula. This means differences in accuracy now have a larger effect on PP.
+A [change](https://github.com/ppy/osu/pull/34188) by [rloseise](https://osu.ppy.sh/users/6793778) was made to replace existing accuracy calculations with a steeper formula. This means differences in accuracy now have a larger effect on PP.
 
 To reward high accuracy on harder beatmaps, the SR bonus in accuracy PP now diminishes as the estimated unstable rate increases:
 
@@ -172,7 +172,7 @@ This is how the rhythm penalty looks on [MAX - Checklist (feat. Chromeo) [123 //
 
 ### Length bonus revamp
 
-A [change](https://github.com/ppy/osu/pull/33582) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to entirely revamp the length bonus in PP.
+A [change](https://github.com/ppy/osu/pull/33582) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to entirely revamp the length bonus in PP.
 
 Previously, the length bonus was applied based on the number of objects in the map and would reach its maximum bonus at 1500 objects. Length bonus now scales by a weighted object count depending on how consistently difficult the beatmap is, gradually converging towards a maximum bonus rather than ending abruptly:
 
@@ -180,7 +180,7 @@ Previously, the length bonus was applied based on the number of objects in the m
 
 ### Miss penalty changes
 
-A [change](https://github.com/ppy/osu/pull/33409) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to make the miss penalty more difficulty-aware.
+A [change](https://github.com/ppy/osu/pull/33409) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to make the miss penalty more difficulty-aware.
 
 The new miss penalty is *also* scaled by a weighted object count depending on how consistently difficult the beatmap is, meaning frequent misses on less consistent beatmaps are punished more than misses on more consistent beatmaps:
 
@@ -188,7 +188,7 @@ The new miss penalty is *also* scaled by a weighted object count depending on ho
 
 ### Rhythm object-snapping fix
 
-A [change](https://github.com/ppy/osu/pull/33403) proposed by [ltca](https://osu.ppy.sh/users/11475208) and [BabySnakes](https://osu.ppy.sh/users/4669728) was made in order to fix an issue with "unsnapped" objects unfairly buffing rhythm difficulty.
+A [change](https://github.com/ppy/osu/pull/33403) by [ltca](https://osu.ppy.sh/users/11475208) and [BabySnakes](https://osu.ppy.sh/users/4669728) was made in order to fix an issue with "unsnapped" objects unfairly buffing rhythm difficulty.
 
 Prior to this fix, objects placed 1-5ms off of their intended timing would be treated as entirely new rhythms. These patterns would be played identically, however the system incorrectly saw these as constant, complex rhythm changes and would inflate star rating as a result. In some extreme cases, this caused inflation upwards of 2*.
 
@@ -196,13 +196,13 @@ This fix works by normalising times between objects within a certain tolerance, 
 
 ### Colour penalty fix
 
-A [change](https://github.com/ppy/osu/pull/33641) proposed by [ltca](https://osu.ppy.sh/users/11475208) was made in order to fix a that caused patterns to unfairly avoid colour penalties.
+A [change](https://github.com/ppy/osu/pull/33641) by [ltca](https://osu.ppy.sh/users/11475208) was made in order to fix a that caused patterns to unfairly avoid colour penalties.
 
 Colour difficulty contains a penalty for long patterns with no rhythm changes, but this penalty would only apply if the pattern's rhythm was *exactly* the same. This was addressed by looking back at previous notes and calculating an average, so that slightly missnapped notes are still correctly penalised.
 
 ### Stamina length bonus fix
 
-A [change](https://github.com/ppy/osu/pull/33380) proposed by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to fix high-end stamina values causing a harsh jump in length bonus.
+A [change](https://github.com/ppy/osu/pull/33380) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to fix high-end stamina values causing a harsh jump in length bonus.
 
 For very difficult maps with a lot of stamina difficulty, the length bonus would previously spike by about 0.2* when reaching a specific threshold value. Length bonus has been rewritten to scale linearly as stamina difficulty increases to prevent harsh increases.
 
@@ -220,7 +220,7 @@ For very difficult maps with a lot of stamina difficulty, the length bonus would
 
 ### Reduced combo scaling
 
-A [change](https://github.com/ppy/osu/pull/33417) proposed by [KitsunIvy](https://osu.ppy.sh/users/7055384) was created to reduce how harsh final PP values are scaled by a score's max combo.
+A [change](https://github.com/ppy/osu/pull/33417) by [KitsunIvy](https://osu.ppy.sh/users/7055384) was created to reduce how harsh final PP values are scaled by a score's max combo.
 
 ![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/catch-combo-scaling.png)
 
