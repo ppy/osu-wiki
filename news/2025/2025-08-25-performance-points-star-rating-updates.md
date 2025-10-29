@@ -92,11 +92,9 @@ Some examples of beatmaps buffed by this change:
 - [Disasterpeace - I Am Only a Man [Irre's Extra]](https://osu.ppy.sh/beatmapsets/165273#osu/407788) with DTHR: 9.33* --> 11.12*
 - [KOTOKO - agony [Impossible]](https://osu.ppy.sh/beatmapsets/1697454#osu/3468026) with NM: 6.14* --> 6.87*
 
-### Decoupled velocity bonus
+### Buff to rapid velocity changes
 
-A [change](https://github.com/ppy/osu/pull/33541) by [StanR](https://osu.ppy.sh/users/7217455) was made to simplify aim calculations by decoupling the velocity change bonus from angle bonuses.
-
-This means bonus for small, but rapid velocity change buffs are no longer being restricted to only wide-angled patterns.
+Small, rapid velocity changes (i.e. fast irregular jumps, cut streams, etc.) had a buff that only applied to wide-angled patterns. With a [change](https://github.com/ppy/osu/pull/33541) by [StanR](https://osu.ppy.sh/users/7217455), that restriction is now removed, meaning more of those types of patterns are buffed.
 
 Some examples of beatmaps buffed by this change:
 
