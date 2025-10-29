@@ -74,7 +74,7 @@ This is the result of a [set](https://github.com/ppy/osu/pull/33066) of [changes
 Some examples of scores nerfed by this change:
 
 - [mrekk's 1 miss 5 slider break HDDT score on Songs Compilation VI [Collab Extra]](https://osu.ppy.sh/scores/4746396766): 1 estimated slider break --> 4 estimated slider breaks
-- [ivaxa's 1 miss 9 slider break DT score on MEGALOMANIA [KK's EXTREME]](https://osu.ppy.sh/scores/4632204911): 1 estimated slider break --> 5 estimated slider breaks
+- [FiIippu's 1 miss 9 slider break DT score on MEGALOMANIA [KK's EXTREME]](https://osu.ppy.sh/scores/4632204911): 1 estimated slider break --> 5 estimated slider breaks
 - [gwb's 6 miss 4 slider break HDDTHR score on Sweets Holic (Cut Ver.) [Kumocha's Extreme]](https://osu.ppy.sh/scores/5249748119): 0 estimated slider breaks --> 3 estimated slider breaks
 
 ### Precision buff
