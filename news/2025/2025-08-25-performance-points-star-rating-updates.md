@@ -61,7 +61,7 @@ Some examples of beatmaps affected by these changes:
 
 ### Slider break estimation changes
 
-First, some context: in osu!(stable), slider breaks do not count as misses and instead award a 100 or 50 alongside your combo breaking. As a result, the PP system can't know how many of those 100s or 50s are actually slider breaks and must estimate this value. Previously, the system only used the score's max combo for these estimations, but it has in some cases been underestimating slider break counts by over a half.
+First, some context: in osu!(stable), slider breaks don't count as misses and instead award a 100 or 50 (while breaking combo). As a result, the PP system can't know how many of those 100s or 50s are actually slider breaks and must estimate this value. The system only used the score's max combo for these estimations, which in some cases meant it underestimated slider break counts by over a half.
 
 The significance here is that slider breaks are penalised much like actual misses, so underestimating their amount has resulted in some osu!(stable) scores receiving more PP than intended.
 
