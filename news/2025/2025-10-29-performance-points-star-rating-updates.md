@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Performance Points & Star Rating Updates
-date: 2025-08-25 10:00:00 +0000
+date: 2025-10-29 15:00:00 +0000
 ---
 
 That's right, we're back again!
@@ -89,7 +89,7 @@ PP calculations have always had a "small circle" bonus (which starts at CS 5.5),
 
 This change also comes with a nerf to jump patterns that travel through a central point. This prevents maps such as [Tanaka Hirokazu - C-TYPE [Bonsai's BasS-TYPE]](https://osu.ppy.sh/beatmapsets/757146#osu/1620144) from being buffed excessively.
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/precision-bonus.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/precision-bonus.png)
 
 Some examples of beatmaps buffed by this change:
 
@@ -126,9 +126,9 @@ Some examples of beatmaps buffed by this change:
 
 First, Hidden bonuses for maps with higher AR have been reduced. This is broken up by star rating ranges: lower star ratings (~5*) can start seeing small nerfs from AR 9 and upwards, while higher star ratings (~10*) will start seeing nerfs from AR 10.33. This is done to avoid awarding excessive nerfs at ARs where the Hidden difficulty is noticable, whilst still ensuring overweighted ranges receive a warranted nerf.
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/hidden-bonus-5.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/hidden-bonus-5.png)
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/hidden-bonus-10.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/hidden-bonus-10.png)
 
 Additionally, more nerfs have been applied to low-AR Hidden plays for maps that are already buffed a lot by sliders, because sliders have increased visibility compared to hit circles. This affects maps such as [Hirokazu Tanaka - A-TYPE [Sonnyc's TetriS-TYPE]](https://osu.ppy.sh/beatmapsets/879387#osu/5125702).
 
@@ -162,7 +162,7 @@ Lastly, all these changes also apply to the Traceable mod, since it shares bonus
 
 A [change](https://github.com/ppy/osu/pull/34188) by [rloseise](https://osu.ppy.sh/users/6793778) was made to replace existing accuracy calculations with a steeper formula. This means differences in accuracy now have a larger effect on PP.
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-accuracy-scaling.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/taiko-accuracy-scaling.png)
 
 Additionally, higher estimated unstable rates will reduce the contribution of rhythm difficulty to PP. This addresses scores which sacrifice accuracy in order to ignore hard rhythms and play them as much easier ones. The penalty applies less to maps without difficult rhythms, leaving them mostly unaffected.
 
@@ -170,7 +170,7 @@ In order to balance the change, rhythm difficulty as a whole has been buffed to 
 
 This is how the rhythm penalty looks on [MAX - Checklist (feat. Chromeo) [123 // abc]](https://osu.ppy.sh/beatmapsets/2155487#taiko/4543374) (a significantly rhythmically complex beatmap):
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-rhythm-penalty.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/taiko-rhythm-penalty.png)
 
 ### Length bonus revamp
 
@@ -178,7 +178,7 @@ Longer maps award more PP, but this effect was capped at 1,500 objects. [rloseis
 
 The length bonus is now scaled by how consistently difficult the beatmap is, and it gradually converges towards a maximum rather than ending abruptly:
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-length-bonus.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/taiko-length-bonus.png)
 
 ### Miss penalty changes
 
@@ -186,7 +186,7 @@ Each miss used to give a fixed multiplier to the PP value, but with [this change
 
 In short, like the length bonus mentioned above, the new miss penalty is *also* scaled by object count and how consistently difficult the beatmap is, meaning frequent misses on less consistent beatmaps are punished more than misses on more consistent beatmaps:
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/taiko-miss-penalty.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/taiko-miss-penalty.png)
 
 ### Rhythm object-snapping fix
 
@@ -224,7 +224,7 @@ This *length bonus* would previously spike by about 0.2* as soon as the stamina 
 
 A [change](https://github.com/ppy/osu/pull/33417) by [KitsunIvy](https://osu.ppy.sh/users/7055384) was created to reduce how harsh final PP values are scaled by a score's max combo.
 
-![](/wiki/shared/news/2025-08-25-performance-points-star-rating-updates/catch-combo-scaling.png)
+![](/wiki/shared/news/2025-10-29-performance-points-star-rating-updates/catch-combo-scaling.png)
 
 ### Minor changes
 
