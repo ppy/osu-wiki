@@ -198,9 +198,9 @@ Colour difficulty contains a penalty for long patterns with no rhythm changes, b
 
 ### Stamina length bonus fix
 
-A [change](https://github.com/ppy/osu/pull/33380) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to fix high-end stamina values causing a harsh jump in length bonus.
+A [change](https://github.com/ppy/osu/pull/33380) by [rloseise](https://osu.ppy.sh/users/6793778) was made in order to fix maps with high stamina difficulty causing a harsh jump in the bonus applied to long maps.
 
-For very difficult maps with a lot of stamina difficulty, the length bonus would previously spike by about 0.2* when reaching a specific threshold value. Length bonus has been rewritten to scale linearly as stamina difficulty increases to prevent harsh increases.
+This *length bonus* would previously spike by about 0.2* as soon as the stamina difficulty value reached a certain threshold. The length bonus has been rewritten to scale linearly with stamina difficulty to prevent harsh increases.
 
 ### Minor changes
 
