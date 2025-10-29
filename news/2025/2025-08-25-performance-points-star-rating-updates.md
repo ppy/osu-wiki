@@ -49,6 +49,12 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 ## osu!
 
+Some changes for osu! are covered in the latest osu!(lazer) update video, which you may be interested in watching:
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKUQ0Y_pHaI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### Improved relationship between performance points and star rating
 
 [Thanks to](https://github.com/ppy/osu/pull/31351) [tsunyoku](https://osu.ppy.sh/users/11315329), some buffs relating to AR, Hidden and OD were moved from PP algorithms into SR code. Since PP values are derived from SR, it means the two are now **more correlated**, but note that PP values are *not* affected.
