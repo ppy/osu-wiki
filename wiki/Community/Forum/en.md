@@ -11,13 +11,17 @@ tags:
 
 [The osu! **forums**](https://osu.ppy.sh/community/forums) are a place for conversations where messages are grouped by subjects, and no quick response is expected. The discussions are searchable, stored forever, and may be revisited at any time, which makes them different from the near-instant messages in [osu! chat](/wiki/Community/Internet_Relay_Chat). As a result, forum messages are longer, contain more information, and typically provide more details than chat messages would.
 
-The osu! forums provide features similar to most internet forums: [BBCode](/wiki/BBCode) markup, polls, pins and subscriptions, private messages, and [moderation](#moderation).
+The osu! forums provide features similar to most internet forums: [BBCode](/wiki/BBCode) markup, polls, pins and subscriptions, and [moderation](#moderation).
 
 ## Structure
 
 Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums/23) forums for local communities that are large enough.
 
 While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/forums/56), have specific requirements or guidelines, all of them follow [the community rules](/wiki/Rules).
+
+### Limitations
+
+Each post on the forums may not contain more than 60000 characters, and the title of any topic may not exceed 100 characters. Additionally, each topic may have a cover added by its author, which cannot exceed 2400 pixels in length and 580 pixels in height.
 
 ## Roles and user groups
 
@@ -53,3 +57,5 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 - [osu!supporter](/wiki/osu!supporter) and user pages
 
 After the new osu! website was brought up and running, phpBB had been slowly phased out in favour of the custom forum engine used today.
+
+Along with the introduction of the custom forum engine, the forum's private message system was phased out. The forum's private message system was separate from the private messages sent via IRC chat, which was not fully accessible from the osu! website at the time. Forum private messages (which were also known as *forum PMs*) could be far longer and could be formatted with BBCode as well as be sent to one or more recipients.
