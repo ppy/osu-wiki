@@ -52,7 +52,7 @@ This will fix scores occasionally being out of order on profiles under "best per
 Some changes for osu! are covered in the latest osu!(lazer) update video, which you may be interested in watching:
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKUQ0Y_pHaI" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/YKUQ0Y_pHaI?start=260&end=327" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Improved relationship between performance points and star rating
