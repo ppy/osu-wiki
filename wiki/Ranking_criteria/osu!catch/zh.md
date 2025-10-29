@@ -161,7 +161,9 @@
 - **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)的前后不应连接其他高阶[白果跳或高阶红果跳](/wiki/Gameplay/Hyperdash)。** 如果一定要与高阶跳相连接，则不能组成[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列，并且这个高阶跳必须位于高阶红果跳之前。
 - **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)不应位于[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) [跳](/wiki/Gameplay/Dash)之后。**
 - **不应在其他[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)之间使用[极限跳](/wiki/Gameplay/Edge_dash)。**
+- **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **谱面物件密度应主要由 1/2 和 1/4；或者 1/3 和 1/6 节奏组成。** 1/8 节奏应极少使用。
+- **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 
 #### 难度设定准则
 
@@ -188,4 +190,4 @@
 
 ## 备注
 
-[^proper-spread]: *对于大于等于 Insane 的难度*，梯度“合适”，意为着这些难度之间的游玩难度间隔，与写在[规定](#具体难度)内的较低[难度等级](/wiki/Beatmap/Difficulty#难度等级)之间的游玩难度间隔类似。
+[^proper-spread]: *对于大于等于 Rain 的难度*，梯度“合适”，意为着这些难度之间的游玩难度间隔，与写在[规定](#具体难度)内的较低[难度等级](/wiki/Beatmap/Difficulty#难度等级)之间的游玩难度间隔类似。
