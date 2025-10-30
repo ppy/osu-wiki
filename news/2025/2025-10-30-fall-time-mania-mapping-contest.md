@@ -6,15 +6,13 @@ date: 2025-10-30 16:00:00 +0000
 
 The first iteration of FTMC is on its way with the chilly autumn air! Are you ready to start your holiday mapping?
 
-![](https://i.gyazo.com/9356eb561bd54282db105a324669c887.png)
+![](wiki/shared/news/2025-10-30-fall-time-mania-mapping-contest/banner.jpg)
 
 With the temperatures dropping rather quickly, we would like to give you a warm welcome to the **Fall Time Mania Mapping Contest**'s debut! You can read the full details in the forum post linked [here](https://osu.ppy.sh/community/forums/topics/2145873?n=1).
 
 This mapping contest originated from its close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1), which was an osu!mania 6K contest whose goal was getting more players interested in the keymode. After the contest's success, we now want to welcome all mappers by allowing submissions **from 4 to 10 keys!**
 
 FTMC will be a one difficulty, one song per submission contest from osu!'s Featured Artist listing. It will follow a specific judging criteria listed below and also expanded on in the [contest's forum post found here](https://osu.ppy.sh/community/forums/topics/2145873?n=1). How should you map? Well, the editor is your canvas! You're allowed to map any style as long as it adheres to the rules and to the gimmick!
-
-Is your map ready and you fulfill the criteria? Let's not keep you waiting no more! Submit through the [contest page]() here!
 
 ## Schedule
 
@@ -36,7 +34,7 @@ We've prepared some lovely prizes to reward those who impress our judges the mos
 
 | Placement | Prizes |  |
 | :-: | :-- | :-- |
-| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)**, **profile badge** | ![Badge](https://i.gyazo.com/154b75d167e0d4c6a60b4606df51b889.png) |
+| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)**, **profile badge** | ![Badge](wiki/shared/news/2025-10-30-fall-time-mania-mapping-contest/badge.jpg) |
 | 2nd | 2 months of osu!supporter |  |
 | 3rd | 1 month of osu!supporter |  |
 | Judge's Pick | 3 months of osu!supporter |  |
