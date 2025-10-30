@@ -139,7 +139,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Friday, 31 October 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-:
+| :-: | --: | :-- | :-- | :-: |
 | E4 | Vietnam ::{ flag=VN }:: | ::{ flag=MY }:: Malaysia | [Oct 31 (Fri) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251031T140000&p1=1440&p2=95&p3=122) | [osulive](https://twitch.tv/osulive) |
 
 ### Saturday, 1 November 2025
