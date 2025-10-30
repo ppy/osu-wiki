@@ -30,7 +30,7 @@ Results will be made public through the Discord server as well as through a conc
 
 This contest comes packed with prizes so do not fret! Your efforts will be rewarded!
 
-We've prepared some lovely prizes to reward those who impress our judges the most! We also have a category called **Judge's Pick** which will feature the entry that the judges deemed worthy of an extra prize!
+We've prepared some lovely prizes to reward those who impress our judges the most! We also have a category called **Judge's Pick** which will feature an entry that did not make it to the top 3 but the judges deemed worthy of an extra prize!
 
 | Placement | Prizes |  |
 | :-: | :-- | :-- |
@@ -74,7 +74,7 @@ Submit your entry through the **[contest page](https://osu.ppy.sh/community/cont
 
 ---
 
-Feel free to join our [Discord server](https://discord.gg/p8bwdrjExr) to receive updates and the latest information regarding the contest as well as the [forum post](https://osu.ppy.sh/community/forums/topics/2145873?n=1).
+Feel free to join our [Discord server](https://discord.com/invite/p8bwdrjExr) to receive updates and the latest information regarding the contest, or read the [forum post](https://osu.ppy.sh/community/forums/topics/2145873?n=1) for all the details.
 
 Best of luck and have fun!
 
