@@ -314,13 +314,13 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
 
 1. In the first weekend, players will play 7 qualifiers maps in sequence up to 2 times, in a scheduled lobby (they may choose not to play the 2nd time if desired).
 2. The 7 qualifiers maps will cover 4 sub-categories of LNs which are used to categorise all mappools after this stage:
-   - Stage 1: Early-game Releases
-   - Stage 2: Early to Mid-game Wildcard (Short Duration)
-   - Stage 3: Pure Density
-   - Stage 4: Mid-game Technical
-   - Stage 5: Late-game Releases
-   - Stage 6: Mid to Late-game Wildcard (Long Duration)
-   - Stage 7: Speed Density
+   - **Stage 1:** Early-game releases
+   - **Stage 2:** Early to mid-game wildcard (short duration)
+   - **Stage 3:** Pure density
+   - **Stage 4:** Mid-game technical
+   - **Stage 5:** Late-game releases
+   - **Stage 6:** Mid to late-game wildcard (long duration)
+   - **Stage 7:** Speed density
 3. This tournament will make use of the **Average Placement** method to seed players.
 4. In the qualification process, every player who signs up has to schedule for a lobby during the Qualfiers Stage, and play through all 7 qualifier maps in the mappool at least once, and up to 2 times.
 5. After completing the scheduled lobby, each player will have 1-2 scores recorded for each of the 7 qualifier maps. For each of the maps, the higher score of the two is taken and is used to provide the player's placement for each individual map.
@@ -328,7 +328,7 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
 
 ##### Bracket Matches
 
-1. After Qualifier Stage, the top 64 players will be arranged into a standard Double Elimination Bracket, where the highest seeded player will face the lowest seeded player, 2nd highest faces 2nd lowest, and so on. A player will be eliminated from the tournament after losing 2 matches in the bracket stage.
+1. After Qualifiers, the top 64 players will be arranged into a standard double elimination bracket, where the highest seeded player will face the lowest seeded player, 2nd highest will face the 2nd lowest, and so on. Players will be eliminated from the tournament after losing 2 matches in the bracket stage.
 
 ### Tournament Procedure
 
@@ -340,44 +340,45 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
 
 #### Mid-match procedure
 
-1. After both players have joined the lobby, both players will run the !roll command in the lobby chat.
+1. After both players have joined the lobby, both players will run the `!roll` command in the lobby chat.
 2. The player with the higher roll will pick first, and choose whether to protect first. If they choose to pick first, then they will ban second. The player with the lower roll receives the opposite of this.
-3. Following the ban/pick procedure, both players will alternate in picks, and play the picked map simultaneously. The player who obtains a higher score will win a point, and this process repeats until one of the players wins the required number of points to claim the win for the match.
+3. Following the ban/pick phase, both players will alternate picks, and play the picked map simultaneously. The player who obtains the highest score will win a point. This process will repeat until one of the players wins the required number of points to win the match.
    - The required number of points to win the match varies for each stage.
-4. Each player receives the right to use a 2-minute timeout once per match. If players find the need to use the timeout between picks, they should raise their request to the referee facilitating their match.
-5. Players are encouraged to use their timeout only when an urgent situation or personal condition calls for it, and not to stall for time.
-6. In the event where both players are 1 point away from winning the match, the tiebreaker will be played, and the player who wins the tiebreaker map will win the match.
-7. Should there be a tie in map score between the 2 players, the result will be nullified and the map will be played once more to determine who gets the point.
+4. Each player has the right to use a 2-minute timeout once per match. If players find the need to use the timeout between picks, they should raise their request to the referee facilitating their match.
+5. Players are encouraged to use their timeout only when an urgent situation calls for it, and not to stall for time.
+6. In the event where both players are 1 point away from winning the match, the tiebreaker will be played. The player who wins this map will win the match.
+7. Should there be a tie in map score between the 2 players, the result will be nullified and the map will be replayed.
 
 ### Additional rules/information
 
 #### Mod configurations
 
-1. The score system used for all matches in this tournament will be **Score V2**.
-2. All maps are played with FreeMod. Visual mods such as Mirror, Hidden, Fade-In, Flashlight, and any combination of these mods are allowed. You are also allowed, but not forced, to play with NoFail.
+1. The score system used for all matches in this tournament will be **ScoreV2**.
+2. All maps are played with FreeMod. Visual mods such as Mirror, Hidden, Fade-In, Flashlight, NoFail, and any combination of these mods are allowed.
 
 #### Punctuality
 
-1. Players are required to arrive for their match before the stipulated time for their match. Otherwise, a **10 minute** grace timer will be applied by the appointed referee for the match.
-2. If the player fails to arrive at their match before this timer runs out, the match will be considered as a win by default to the other player.
-3. If the player arrives at their match during this grace period, the time remaining on the timer will be brought forward to the ban/pick proceeding of the match.
+1. Players are required to arrive to their match before the stipulated time. Otherwise, a **10 minute** grace timer will be applied by the appointed referee for the match.
+2. If the player fails to arrive to their match before this timer runs out, the match will be considered a win by default to the other player.
+3. If the player arrives to their match during this grace period, the time remaining on the timer will be carried over to the ban/pick phase of the match.
 
-#### Ban/Pick procedures
+#### Ban/Pick phase
 
 1. Players will be given 2 minutes to roll and perform their first ban/picks. Subsequently, players will have 2 minutes to pick a map and get ready to play the map.
-   - If a player fails to adhere to the timer to ban/pick, the referee will choose a map by random to be picked in place of the player, using the !roll command.
+   - If a player fails to adhere to the timer, the referee will choose a map at random in place of the player by making use of the `!roll` command.
    - On the second and subsequent occurrences, a point will be automatically awarded to the other player.
 
 #### Disconnection
 
-1. If a player is disconnected from a map within the first 30 seconds of gameplay, they can ask for the map to be aborted and replayed.
-   - This is only available once per match for each player. Subsequent disconnects will give a point to the opponent and use up the remainder of the 10 minute grace period.
+1. If a player is disconnected from a map within the first 30 seconds, they can ask for the map to be aborted and replayed.
+   - This is only available once per match for each player. Subsequent disconnects will give a point to the opponent and use the remainder of the 10 minute grace period.
 2. In the event a player is unable to return to the lobby before the grace period ends, the match will be considered a win to the other player.
 3. In the event both players are disconnected, the player whose grace period runs out first will concede the match to the opponent.
-4. In the event both players run out of grace period simultaneously, the winner will be the player with the higher qualifier seed.
+4. In the event both players run out of grace period simultaneously, the winner will be the highest seeded player.
 
 #### General conduct
 
-1. Every staff and player must respect each other and follow the osu! community rules, no discussion about sensitive topics (for example religion, politics), and anything that could be offensive to others.
+1. Every staff and player must respect each other and follow the [osu! community rules](/wiki/Rules).
+2. Discussions about sensitive (religion, politics) and other potentially offensive topics are disallowed.
 2. Keep the competition and atmosphere friendly amongst each other, whether it is in the match, in the Twitch chatroom, or on the Discord server. Tournaments are always for us to come together as a community and not engage in pointless arguments.
-3. In the event a player or staff member is found to have conducted themselves inappropriately towards anyone in the server, said individual can be subject to timeouts, warnings and bans from the tournament and its affiliated twitch channel based on the severity of the incident.
+3. In the event a player or staff member is found to have conducted themselves inappropriately towards anyone in the server, said individual can be subject to timeouts, warnings, and bans from the tournament and its affiliated Twitch channel based on the severity of the incident.
