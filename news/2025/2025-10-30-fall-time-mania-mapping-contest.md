@@ -16,7 +16,7 @@ In FTMC 2025, you'll submit one difficulty of one song from osu!'s Featured Arti
 
 ## Schedule
 
-Please note that any schedule changes will be made known in the contest's [Discord server](https://discord.gg/p8bwdrjExr) as well as through the forum post. Please keep an eye out on these outlets to receive the most up-to-date news regarding the contest.
+Please note that any schedule changes will be made known in the contest's [Discord server](https://discord.com/invite/p8bwdrjExr) as well as through the forum post. Please keep an eye out on these outlets to receive the most up-to-date news regarding the contest.
 
 | Event | Dates |
 | --: | :-- |
