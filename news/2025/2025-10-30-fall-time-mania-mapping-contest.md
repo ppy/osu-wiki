@@ -12,7 +12,7 @@ With the temperatures dropping rather quickly, we would like to give you a warm 
 
 This mapping contest originated from its close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1), which was an osu!mania 6K contest with the goal of getting more players interested in the key mode. After the contest's success, we now want to welcome all mappers by allowing submissions **from 4 to 10 keys!**
 
-In FTMC 2025, you'll submit one difficulty of one song from osu!'s Featured Artist listing. The judging criteria are listed below, including a gimmick you'll need to adhere to. Other than that, the editor is your canvas! You may map as your heart desires as long as you follow the rules!
+In FTMC 2025, you'll submit one difficulty of one song from osu!'s [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/tracks). The judging criteria are listed below, including a gimmick you'll need to adhere to. Other than that, the editor is your canvas! You may map as your heart desires as long as you follow the rules!
 
 ## Schedule
 
@@ -28,13 +28,13 @@ Results will be made public through the Discord server as well as through a conc
 
 ## Prizes
 
-This contest comes packed with prizes so do not fret! Your efforts will be rewarded!
+This contest comes packed with prizes so do not fret — your efforts will be rewarded!
 
 We've prepared some lovely prizes to reward those who impress our judges the most! We also have a category called **Judge's Pick** which will feature an entry that did not make it to the top 3 but the judges deemed worthy of an extra prize!
 
 | Placement | Prizes |  |
 | :-: | :-- | :-- |
-| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)**, **profile badge** | ![Badge](wiki/shared/news/2025-10-30-fall-time-mania-mapping-contest/badge.jpg) |
+| 1st | 3 months of osu!supporter, **[contest points](/wiki/Contests/Contest_points)** (pending), **profile badge** (pending) | ![Badge](/wiki/shared/news/2025-10-30-fall-time-mania-mapping-contest/badge.jpg) |
 | 2nd | 2 months of osu!supporter |  |
 | 3rd | 1 month of osu!supporter |  |
 | Judge's Pick | 3 months of osu!supporter |  |
@@ -43,18 +43,18 @@ The amount of contest points awarded will be determined by the number of mappers
 
 ## Judging criteria
 
-For more details regarding the criteria, please take a look at the [forum post](https://osu.ppy.sh/community/forums/topics/2145873?n=1) as it describes then further.
+For more details regarding the criteria, please take a look at the [forum post](https://osu.ppy.sh/community/forums/topics/2145873?n=1) as it describes them further.
 
 | Category | Details |
 | :-: | :-- |
 | Musical Representation (10) | How effectively the beatmap's rhythms, object placements and pattern choices fit the music. |
 | Creativity (10) | How inventive the beatmap's structure/design choices are. |
 | Gameplay (10) | How engaging the beatmap is to play as well as taking into account if your choice in patterns, structure and design affect the experience overall. |
-| Gimmick (5) | Your map's final object count should be a multiple of either 9,10,11 or 12 to signify the months which autumn falls under. |
+| Gimmick (5) | Your map's final object count should be a multiple of either 9, 10, 11, or 12 to signify the months which autumn falls under. |
 
 ## Rules
 
-- **Only use songs from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).** If your submission is not part of the FA listing, it'll be disqualified.
+- **Only use songs from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/tracks).** If your submission is not part of the FA listing, it'll be disqualified.
 - **Submissions must be in `.osz` format**.
 - **Submissions must only be of the osu!mania game mode**. Any other game mode will not be accepted.
 - **Submissions must adhere to the [ranking criteria](/wiki/Ranking_Criteria) as well as the [osu!mania ranking criteria](/wiki/Ranking_criteria/osu!mania)**. The winner will have a guaranteed BN for their map.
