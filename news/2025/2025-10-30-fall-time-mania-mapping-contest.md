@@ -12,7 +12,7 @@ With the temperatures dropping rather quickly, we would like to give you a warm 
 
 This mapping contest originated from its close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1), which was an osu!mania 6K contest whose goal was getting more players interested in the keymode. After the contest's success, we now want to welcome all mappers by allowing submissions **from 4 to 10 keys!**
 
-FTMC will be a one difficulty, one song per submission contest from osu!'s Featured Artist listing. It will follow a specific judging criteria listed below and also expanded on in the [contest's forum post found here](https://osu.ppy.sh/community/forums/topics/2145873?n=1). How should you map? Well, the editor is your canvas! You're allowed to map any style as long as it adheres to the rules and to the gimmick!
+FTMC 2025 will be a one difficulty, one song per submission contest from osu!'s Featured Artist listing. It will follow a specific judging criteria listed below with the inclusion of a gimmick. Judging criteria and rules also expanded on the [contest's forum post found here](https://osu.ppy.sh/community/forums/topics/2145873?n=1). How should you map? Well, the editor is your canvas! You're to map as your heart desires as long as you follow the rules!
 
 ## Schedule
 
