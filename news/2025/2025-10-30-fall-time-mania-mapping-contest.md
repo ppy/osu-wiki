@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fall Time Mania Mapping Contest 2025
-date: 2025-10-30 16:00:00 +0000
+date: 2025-10-30 18:00:00 +0000
 ---
 
 The first iteration of FTMC is on its way with the chilly autumn air! Are you ready to start your holiday mapping?
