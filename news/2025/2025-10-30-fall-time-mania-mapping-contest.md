@@ -6,7 +6,7 @@ date: 2025-10-30 16:00:00 +0000
 
 The first iteration of FTMC is on its way with the chilly autumn air! Are you ready to start your holiday mapping?
 
-![](wiki/shared/news/2025-10-30-fall-time-mania-mapping-contest/banner.jpg)
+![](/wiki/shared/news/2025-10-30-fall-time-mania-mapping-contest/banner.jpg)
 
 With the temperatures dropping rather quickly, we would like to give you a warm welcome to the **Fall Time Mania Mapping Contest**'s debut!
 
