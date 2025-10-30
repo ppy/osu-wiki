@@ -4,13 +4,13 @@ title: Fall Time Mania Mapping Contest 2025
 date: 2025-10-30 16:00:00 +0000
 ---
 
-The first iteration of FTMC is on it's way with the chilly autumn air! Are you ready to start your holiday mapping?
+The first iteration of FTMC is on its way with the chilly autumn air! Are you ready to start your holiday mapping?
 
 ![](https://i.gyazo.com/9356eb561bd54282db105a324669c887.png)
 
-The **Fall Time Mania Mapping Contest** is debuting this year and with the temperature already dropping, we would like to give you a warm welcome in this exhilarating contest! You can read the full details in the forum post linked [here]()!
+With the temperatures dropping rather quickly, we would like to give you a warm welcome to the **Fall Time Mania Mapping Contest**'s debut! You can read the full details in the forum post linked [here](https://osu.ppy.sh/community/forums/topics/2145873?n=1).
 
-This mapping contests stems from it's close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1), which targeted a specific mapping demographic being an only 6K keymode mapping contest without gimmick to try and get more people interested in the keymode which was a complete success, but this time around, all mappers are welcomed and we hope to see your entry soon!
+This mapping contest originated from its close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1), which was an osu!mania 6K contest whose goal was getting more players interested in the keymode. After the contest's success, we now want to welcome all mappers by allowing submissions **from 4 to 10 keys!**
 
 FTMC will be a one difficulty, one song per submission contest from osu!'s Featured Artist listing. It will follow a specific judging criteria listed below and also expanded on in the [contest's forum post found here](https://osu.ppy.sh/community/forums/topics/2145873?n=1). How should you map? Well, the editor is your canvas! You're allowed to map any style as long as it adheres to the rules and to the gimmick!
 
@@ -18,13 +18,13 @@ Is your map ready and you fulfill the criteria? Let's not keep you waiting no mo
 
 ## Schedule
 
-Please note that any schedule changes will be made known in the contest's [Discord server](https://discord.gg/p8bwdrjExr) as well as be projected through the forum post so please keep an eye out for that or join the server to receive the most up-to-date news regarding the contest.
+Please note that any schedule changes will be made known in the contest's [Discord server](https://discord.gg/p8bwdrjExr) as well as through the forum post. Please keep an eye out on these outlets to receive the most up-to-date news regarding the contest.
 
 | Event | Dates |
 | --: | :-- |
 | Beatmapping (3.5 weeks) | October 30th - November 24th (16:00 UTC) |
 | Judging (2 weeks) | November 24th - December 8th (16:00 UTC) |
-| Results (1 week) | December 15th or sooner depending on processing |
+| Results (1 week) | December 9th - December 15th |
 
 Results will be made public through the Discord server as well as through a conclusion news post.
 
@@ -45,7 +45,7 @@ The amount of contest points awarded will be determined by the number of mappers
 
 ## Judging Criteria
 
-For more details regarding the criteria, please take a look at the [forum post]() as it details it further.
+For more details regarding the criteria, please take a look at the [forum post](https://osu.ppy.sh/community/forums/topics/2145873?n=1) as it details it further.
 
 | Category | Details |
 | :-: | :-- |
@@ -56,20 +56,20 @@ For more details regarding the criteria, please take a look at the [forum post](
 
 ## Rules
 
-- **Only use songs from our [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).** You can choose whatever artist or song you'd like as long as it's on our FA listing, if your submission is not part of the FA listing, it'll be disqualified.
+- **Only use songs from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists).** If your submission is not part of the FA listing, it'll be disqualified.
 - **Submissions must be in `.osz` format**.
 - **Submissions must only be of the osu!mania game mode**. Any other game mode will not be accepted.
-- **Submissions must adhere to the [ranking criteria](/wiki/Ranking_Criteria) as well as the [osu!mania ranking criteria](wiki/Ranking_criteria/osu!mania)**. The winner will have a guaranteed BN for their map.
+- **Submissions must adhere to the [ranking criteria](/wiki/Ranking_Criteria) as well as the [osu!mania ranking criteria](/wiki/Ranking_criteria/osu!mania)**. The winner will have a guaranteed BN for their map.
 - **Submissions must not be publicly revealed until results are out, this includes sharing the map and/or submitting it through the editor**.
-- Cut versions are allowed only if it comes from our Featured Artist listing, the cut makes sense and it’s appropriately titled as such in the map’s title `(Cut ver.)`.
-- Your entry should **only be mapped by you**, collaborations are not allowed in this contest.
+- Cut versions are allowed only if it comes from the Featured Artist listing, the cut makes sense, and it's appropriately titled as such in the map's title `(Cut ver.)`.
+- Your entry must **only be mapped by you**, collaborations are not allowed in this contest.
 - Allowed keymodes range from 4K up to 10K. For this contest, 10K+ keymodes are not allowed.
 - **Use of artificial intelligence (AI)** is strictly prohibited. If your entry is found to be violating this, it will be immediately disqualified.
-- Only **1 song with 1 difficulty** is allowed per submission per contestant.
+- Only **1 song with 1 difficulty** is allowed per submission.
 
 ## Submitting your entry
 
-Submitting your entry for this contest will be done through [**its contest page listing** that can be found here](). You are allowed to resubmit your entry anytime before the mapping phase has ended. A quick overview on how to submit your entry would be as follows:
+Submitting your entry for this contest will be done through **its [contest page listing]()**. You are allowed to resubmit your entry anytime before the mapping phase has ended. A quick overview on how to submit your entry would be as follows:
 
 - Export your already done map through the editor.
 - Once exported, drag and drop it through the aforementioned [contest page listing]().
