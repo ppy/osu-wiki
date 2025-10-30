@@ -10,7 +10,7 @@ tags:
 
 ![o!mLN4 logo](img/logo.png) 
 
-The **osu!mania LN Tournament 4** (***o!mLN4***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061). The tournament features a variety of maps with a vast amount of sliders (or long notes) in its mappools. It is the 4th instalment of the osu!mania LN tournament.
+The **osu!mania LN Tournament 4** (***o!mLN4***) is a free-for-all, double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061). The tournament features a variety of maps with a vast amount of sliders (or long notes) in its mappools. It is the 4th instalment of the osu!mania LN Tournament series.
 
 ## Tournament schedule
 
@@ -30,30 +30,26 @@ The **osu!mania LN Tournament 4** (***o!mLN4***) is a worldwide double-eliminati
 
 ## Prizes
 
-The prize pool will be divided in two parts: one is the **Regular Prize Pool**, allocated to the tournament winner; the other one is the **[OII](#ordeal-in-illusion) Prize Pool**, allocated to the event winner.
+The prize pool is split into the **Regular Prize Pool** allocated to the top 6 players of the tournament, and the **[OII](#ordeal-in-illusion) Prize Pool**, allocated to the winners of the event.
 
-The Regular Prize Pool starts at $450 USD, while the OII Prize Pool will start at $100 USD. Community donations will contribute to both Tournament and OII Prize Pools in a 70/30 ratio respectively.
-
-So far, there are **$450 USD** on the Regular Prize Pool and **$100 USD** on the OII Prize Pool.
-
-The Regular Prize Pool is distributed among the participants as seen below:
+The Regular Prize Pool (total of 507USD) is distributed among the participants as seen below:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | o!mLN4 profile badge (pending), 40% of Regular Prize Pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of Regular Prize Pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of Regular Prize Pool |
-| *4-6th place* | 5% of Regular Prize Pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | o!mLN4 profile badge (pending), 40% of Regular Prize Pool (202USD) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of Regular Prize Pool (126USD) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of Regular Prize Pool (101USD) |
+| *4-6th place* | 5% of Regular Prize Pool each (26USD) |
 
 <!--![](img/badge.jpg "o!mLN4 winner badge")\
 ![](img/badge.jpg "o!mLN4 2nd placement badge")\
 ![](img/badge.jpg "o!mLN4 3rd placement badge")--> 
 
-The OII Prize Pool is distributed among the participants as seen below:
+The OII Prize Pool (total of 123USD) is distributed among the participants as seen below:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| *Lucky draw winners (3)* | 33% of OII Prize Pool |
+| *Lucky draw winners (3)* | 33% of OII Prize Pool each (41USD) |
 
 ## Organisation
 
@@ -63,15 +59,15 @@ The osu!mania LN Tournament 4 is run by various community members.
 | :-: | :-- |
 | Tournament Organiser | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) |
 | Mappooler | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
-| Mapper | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=KR }:: [Castella](https://osu.ppy.sh/users/4810916), ::{ flag=CN }:: [cherrychou](https://osu.ppy.sh/users/7214023), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=US }:: [mystV](https://osu.ppy.sh/users/21654601), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Playtester | ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154), ::{ flag=CA }:: [Yubi](https://osu.ppy.sh/users/7198974) |
-| Referee | ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PE }:: [ERA Kaeseorin](https://osu.ppy.sh/users/17989444), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
-| Streamer | ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/27235859), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
-| Commentator | ::{ flag=IE }:: [-Nightkore](https://osu.ppy.sh/users/26311862), ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=SG }:: [Adam Yuuki](https://osu.ppy.sh/users/12297375), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
-| Sheeter | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
-| GFX Designer | ::{ flag=SE }:: [Melancholicc](https://osu.ppy.sh/users/18406374), ::{ flag=IT }::  [MightyMigz](https://osu.ppy.sh/users/8863387), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=PH }:: [Swarmsii](https://osu.ppy.sh/users/11716111), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+| Mapper | ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=KR }:: [Begin](https://osu.ppy.sh/users/10284984), ::{ flag=KR }:: [Castella](https://osu.ppy.sh/users/4810916), ::{ flag=CN }:: [cherrychou](https://osu.ppy.sh/users/7214023), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=CN }:: [Muses](https://osu.ppy.sh/users/9705896), ::{ flag=US }:: [mystV](https://osu.ppy.sh/users/21654601), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Playtester | ::{ flag=AU }:: [anatharax](https://osu.ppy.sh/users/14390680), ::{ flag=FR }:: [Koiidex](https://osu.ppy.sh/users/5193488), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154), ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/7198974) |
+| Referee | ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=IN }:: [Pilot\_BFFRI](https://osu.ppy.sh/users/27266540), ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=US }:: [trooperr](https://osu.ppy.sh/users/32028459), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
+| Streamer | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
+| Commentator | ::{ flag=IE }:: [-Nightkore](https://osu.ppy.sh/users/26311862), ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=SG }:: [Adam Yuuki](https://osu.ppy.sh/users/12297375), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=CA }:: [ERA Sunny](https://osu.ppy.sh/users/16468962), ::{ flag=PH }:: [Itawachi](https://osu.ppy.sh/users/12929973), ::{ flag=MY }:: [IvanOfficial](https://osu.ppy.sh/users/12818249), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=CN }:: [Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317), ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) |
+| Sheeter / Statistician | ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
 | Developer | ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=KR }:: [yhsphd](https://osu.ppy.sh/users/6665667) |
-| Composer | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600) |
+| GFX Designer | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=JP }:: [CrewK](https://osu.ppy.sh/users/11488604), ::{ flag=ID }:: [EndKun / Xion*](https://vgen.co/Xion2405), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=SE }:: [Melancholicc](https://osu.ppy.sh/users/18406374), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=IT }::  [MightyMigz](https://osu.ppy.sh/users/8863387), ::{ flag=ID }:: [nayuu](https://osu.ppy.sh/users/12561379), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=PH }:: [OsuMe65](https://osu.ppy.sh/users/852867), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=NL }:: [Promachos](https://osu.ppy.sh/users/14069486), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=CN }:: [Secondoverthree](https://osu.ppy.sh/users/13432062), ::{ flag=PH }:: [SPEC*](https://vgen.co/its_spec), ::{ flag=PH }:: [Swarmsii](https://osu.ppy.sh/users/11716111), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=HK }:: [Transendium](https://transendium.carrd.co/), ::{ flag=PH }:: [yukina meng](https://osu.ppy.sh/users/9919550), ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+| Composer | ::{ flag=CN }:: [Supa7onyz](https://osu.ppy.sh/u/5378805), ::{ flag=AU }:: [G4TE-16*](https://soundcloud.com/gate_16), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=SG }:: [Hundotte*](https://www.youtube.com/c/hundotte), ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/u/8659666), ::{ flag=US }:: [nm-y](https://osu.ppy.sh/u/31725557), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/u/4468239), ::{ flag=TH }:: [ptar124](https://osu.ppy.sh/u/4325444), ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794), ::{ flag=PH }:: [THE BEAT WIZARD](https://osu.ppy.sh/u/17529207), ::{ flag=VN }:: [trung-nova](https://osu.ppy.sh/u/14927934), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/u/15118952), ::{ flag=SG }:: [SiLiS / Raveille](https://osu.ppy.sh/u/1388767), ::{ flag=SG }:: [XH*](https://xhdidwhat.carrd/) |
 
 ## Links
 
@@ -80,6 +76,7 @@ The osu!mania LN Tournament 4 is run by various community members.
 - [Challonge Bracket](https://challonge.com/5whqliol)
 - [o!mLN Discord Sever](https://discord.gg/SPQtt3s)
 - [Livestream](https://www.twitch.tv/osumanialive)
+- [YouTube VOD Channel](https://www.youtube.com/@osumanialive)
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**
 - **[Statistics sheet](https://drive.google.com/drive/folders/1sBl4ej38-oYWs6Wc7al-KMskdfkmZilu)**
 
@@ -99,9 +96,9 @@ Before the start of the next round's mappool showcase, leaderboards for the week
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 Tickets |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 3 Tickets |
 | *4-7th place* | 2 Tickets |
-| *Other participates* | 1 Ticket |
+| *Other participants* | 1 Ticket |
 
-At the end of the tournament, 3 tickets will be drawn during a livestream. The owners of these tickets will be winners of this event.
+At the end of the tournament, 3 tickets will be drawn during a livestream. The owners of these tickets will each win a third of the OII Prize Pool.
 
 Details can be found on the **[information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**.
 
@@ -294,8 +291,8 @@ Details can be found on the **[information spreadsheet](https://docs.google.com/
 ### General rules
 
 1. This tournament is a **1v1 global open rank double-elimination tournament**.
-2. Players will first go through Qualifiers, then continue to the double-elimination bracket.
-3. Staff members that met [official tournament support rules](/wiki/Tournaments/Official_support#staff) are allowed to play.
+2. Players will first participate in Qualifiers, before the top 64 players in Qualifiers continue to the double-elimination bracket.
+3. Staff members that meet [official tournament support rules](/wiki/Tournaments/Official_support#staff) are allowed to play.
 4. Players and staff members must have read this ruleset entirely.
 5. Any rule changes or unexpected occurrences will be announced in the [Discord server](https://discord.gg/SPQtt3s).
 
@@ -307,9 +304,9 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
 
 ### Registrations
 
-1. **Any** rank players from **any** region can register this tournament.
-2. You must fill [Player Signup form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQGnO66J7b22TgVmCTjhbmc3nyCpheLAup4wlMupt_3MUwcw/) to finish register.
-3. If player passed [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) after register, they are able to play qualifiers.
+1. Players of **any** rank and region can register for this tournament.
+2. Players interested in the tournament must fill up the [Player Signup form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQGnO66J7b22TgVmCTjhbmc3nyCpheLAup4wlMupt_3MUwcw/) to sign up as a player.
+3. Players are eligible to play in Qualifiers if they pass the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that takes place after registrations.
 
 ### Stage regulations
 
