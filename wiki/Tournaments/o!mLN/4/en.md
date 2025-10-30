@@ -304,17 +304,16 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
 
 ### Registrations
 
-1. Players of **any** rank and region can register for this tournament.
-2. Players interested in the tournament must fill up the [Player Signup form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQGnO66J7b22TgVmCTjhbmc3nyCpheLAup4wlMupt_3MUwcw/) to sign up as a player.
+1. Players with **any rank** from **any region** can register to this tournament.
+2. You **must** fill the [player signup form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfQGnO66J7b22TgVmCTjhbmc3nyCpheLAup4wlMupt_3MUwcw/) to register.
 3. Players are eligible to play in Qualifiers if they pass the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that takes place after registrations.
 
 ### Stage regulations
 
 #### Qualifiers
 
-1. After the screening phase has concluded, players eligible to play will participate in tournament play.
-2. In the first weekend, players will play 7 qualifiers maps in sequence up to 2 times, in a scheduled lobby (they may choose not to play the 2nd time if desired).
-3. The 7 qualifiers maps will cover 4 sub-categories of LNs which are used to categorise all mappools after this stage:
+1. In the first weekend, players will play 7 qualifiers maps in sequence up to 2 times, in a scheduled lobby (they may choose not to play the 2nd time if desired).
+2. The 7 qualifiers maps will cover 4 sub-categories of LNs which are used to categorise all mappools after this stage:
    - Stage 1: Early-game Releases
    - Stage 2: Early to Mid-game Wildcard (Short Duration)
    - Stage 3: Pure Density
@@ -322,10 +321,10 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
    - Stage 5: Late-game Releases
    - Stage 6: Mid to Late-game Wildcard (Long Duration)
    - Stage 7: Speed Density
-4. This tournament will make use of the **Average Placement** method to seed players.
-5. In the qualification process, every player who signs up has to schedule for a lobby during the Qualfiers Stage, and play through all 7 qualifier maps in the mappool at least once, and up to 2 times.
-6. After completing the scheduled lobby, each player will have 1-2 scores recorded for each of the 7 qualifier maps. For each of the maps, the higher score of the two is taken and is used to provide the player's placement for each individual map.
-7. After all players have completed their qualifier lobbies, each player's Average Placement will be obtained by dividing their Sum Placement by the number of maps in the qualifier mappool. This Average Placement will be used to cut down to the top 64 players, who will advance to the Bracket Elimination stage. Every other player is eliminated from the tournament.
+3. This tournament will make use of the **Average Placement** method to seed players.
+4. In the qualification process, every player who signs up has to schedule for a lobby during the Qualfiers Stage, and play through all 7 qualifier maps in the mappool at least once, and up to 2 times.
+5. After completing the scheduled lobby, each player will have 1-2 scores recorded for each of the 7 qualifier maps. For each of the maps, the higher score of the two is taken and is used to provide the player's placement for each individual map.
+6. After all players have completed their qualifier lobbies, each player's Average Placement will be obtained by dividing their Sum Placement by the number of maps in the qualifier mappool. This Average Placement will be used to cut down to the top 64 players, who will advance to the Bracket Elimination stage. Every other player is eliminated from the tournament.
 
 ##### Bracket Matches
 
