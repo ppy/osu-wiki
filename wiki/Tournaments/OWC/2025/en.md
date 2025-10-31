@@ -173,6 +173,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | G6 | Portugal ::{ flag=PT }:: | ::{ flag=PE }:: Peru | [Nov 02 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251102T210000&p1=1440&p2=133&p3=131) | [osulive](https://twitch.tv/osulive) |
 
 ### Friday, 7 November 2025
+
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | E5 | Vietnam ::{ flag=VN }:: | ::{ flag=DK }:: Denmark | [Nov 07 (Fri) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251107T160000&p1=1440&p2=95&p3=69) |  |
