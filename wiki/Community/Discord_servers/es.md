@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f6684737c3574645e6eb52760df23dc0d5a6670b
+---
+
 # Servidores de Discord
 
 Este artículo enumera varios servidores de [Discord](https://discord.com/) que han sido creados y mantenidos por la comunidad de osu! para albergar lugares de discusión sobre los diferentes aspectos del juego. Algunos se centran en la gestión de proyectos concretos, mientras que otros son más generales, pero la mayoría incluyen canales de chat casuales a pesar de todo.
@@ -38,7 +43,7 @@ Los **Modding & Mapping Hubs** son servidores de Discord de la comunidad diseña
 | [![](img/osu!-Modding-&-Mapping-Hub.png)](https://discord.gg/gw5EtzgEXf) | [osu! Modding & Mapping Hub](https://discord.gg/gw5EtzgEXf) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | El **osu! Modding & Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!. |
 | [![](img/osu!taiko-Modding-&-Mapping-Hub.png)](https://discord.com/invite/yRjvvyZ) | [osu!taiko Modding & Mapping Hub](https://discord.com/invite/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | El **osu!taiko Modding & Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!taiko. |
 | [![](img/osu!catch-Modding-and-Mapping-Hub.png)](https://discord.com/invite/ZuxFc4q) | [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | El **osu!catch Modding and Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!catch. |
-| [![](img/osu!mania-Mapping-&-Modding-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Mapping & Modding Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | El **osu!mania Mapping & Modding Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!mania. |
+| [![](img/osu!mania-Modding-&-Mapping-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Modding & Mapping Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | El **osu!mania Modding & Mapping Hub** ofrece canales para discusiones, recursos y anuncios de eventos relacionados con el mapping y modding de osu!mania. |
 
 Además de los servidores de los modos de juego, existen otros servidores de la comunidad para facilitar la comunicación entre mappers, modders y otros usuarios.
 
