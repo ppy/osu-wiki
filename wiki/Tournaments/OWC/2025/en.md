@@ -269,26 +269,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match results
 
-## Match results
-
 ### Group stage - Week 1
 
-Friday, 31 October 2025:
-
+Friday, 1 November 2025:
 | ID | Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| Vietnam ::{ flag=VN }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/119701959) | [#1](https://www.twitch.tv/videos/2606047907?t=0h4m57s) |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| E4 | Vietnam ::{ flag=VN }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/119701959) | [#1](https://www.twitch.tv/videos/2606047907?t=0h4m57s) |
 
 Saturday, 1 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
-| **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119709590) | [#1](https://www.twitch.tv/videos/2606838974?t=0h4m23s) |
-| **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/119710881) | [#1](https://www.twitch.tv/videos/2606929758?t=0h4m45s) |
-| **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119712013) | [#1](https://www.twitch.tv/videos/2607032496?t=0h3m59s) |
-| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119712591) | [#1](https://www.twitch.tv/videos/2607032496?t=1h4m5s) |
-| Chile ::{ flag=CL }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/119713766) | [#1](https://www.twitch.tv/videos/2607171418?t=0h3m30s) |
-| **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119714427) | [#1](https://www.twitch.tv/videos/2607171418?t=1h8m32s) |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B5 | **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119709590) | [#1](https://www.twitch.tv/videos/2606838974?t=0h4m23s) |
+| E1 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/119710881) | [#1](https://www.twitch.tv/videos/2606929758?t=0h4m45s) |
+| F5 | **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119712013) | [#1](https://www.twitch.tv/videos/2607032496?t=0h3m59s) |
+| C5 | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119712591) | [#1](https://www.twitch.tv/videos/2607032496?t=1h4m5s) |
+| C2 | Chile ::{ flag=CL }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/119713766) | [#1](https://www.twitch.tv/videos/2607171418?t=0h3m30s) |
+| D2 | **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119714427) | [#1](https://www.twitch.tv/videos/2607171418?t=1h8m32s) |
 
 ### Qualifiers
 
