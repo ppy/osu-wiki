@@ -48,6 +48,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Hitsounder | ::{ flag=JP }:: [arthRo](https://osu.ppy.sh/users/21663721), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875), ::{ flag=IL }:: [muya-](https://osu.ppy.sh/users/12883611), ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) |
 | Spread manager | ::{ flag=US }:: [Cytusine](https://osu.ppy.sh/users/11557554), ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929) |
 | Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
+| Commentator (special guests) | ::{ flag=DE }:: [Bernkastel](https://osu.ppy.sh/users/5154946), ::{ flag=SG }:: [gamicrayola](https://osu.ppy.sh/users/29426345), ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845), ::{ flag=FR }:: [Subaru\_Arima](https://osu.ppy.sh/users/11273062), *more TBA* |
 | Referee | ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=AR }:: [KlBBY](https://osu.ppy.sh/users/12182138), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! original design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
@@ -60,6 +61,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2133817)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/52)
+- Challonge brackets: [Group stage](https://challonge.com/OWC25_Groups) / *Bracket stage*
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/186) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
@@ -266,6 +268,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Group stage - Week 1
+
+Friday, 1 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| E4 | Vietnam ::{ flag=VN }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/119701959) | [#1](https://www.twitch.tv/videos/2606047907?t=0h4m57s) |
+
+Saturday, 1 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| B5 | **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119709590) | [#1](https://www.twitch.tv/videos/2606838974?t=0h4m23s) |
+| E1 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/119710881) | [#1](https://www.twitch.tv/videos/2606929758?t=0h4m45s) |
+| F5 | **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119712013) | [#1](https://www.twitch.tv/videos/2607032496?t=0h3m59s) |
+| C5 | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119712591) | [#1](https://www.twitch.tv/videos/2607032496?t=1h4m5s) |
+| C2 | Chile ::{ flag=CL }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/119713766) | [#1](https://www.twitch.tv/videos/2607171418?t=0h3m30s) |
+| D2 | **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119714427) | [#1](https://www.twitch.tv/videos/2607171418?t=1h8m32s) |
 
 ### Qualifiers
 
