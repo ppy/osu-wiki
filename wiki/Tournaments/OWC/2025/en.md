@@ -272,6 +272,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Group stage - Week 1
 
 Friday, 1 November 2025:
+
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | E4 | Vietnam ::{ flag=VN }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/119701959) | [#1](https://www.twitch.tv/videos/2606047907?t=0h4m57s) |
