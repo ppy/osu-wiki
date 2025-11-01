@@ -36,7 +36,6 @@ Vous trouverez ci-dessous une liste de guides créés par des membres de la comm
 ## Jeu
 
 - [Comment utiliser l'assistant de décalage](How_to_use_the_Offset_Wizard)
-- [Guide d'achat d'une tablette](Tablet_purchase)
 - [Tutoriel pour débutants](Beginner's_tutorial)
 
 ## Skinning

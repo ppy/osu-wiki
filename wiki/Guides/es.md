@@ -32,7 +32,6 @@ A continuación, se muestra una lista ordenada de guías creadas por miembros de
 ## Juego
 
 - [Cómo usar el asistente de compensación](How_to_use_the_Offset_Wizard)
-- [Guía para la compra de tabletas](Tablet_purchase)
 - [Tutorial para principiantes](Beginner's_tutorial)
 
 ## Skinning

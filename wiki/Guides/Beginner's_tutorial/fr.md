@@ -28,7 +28,7 @@ Le jeu à la souris a tendance à se battre avec :
 
 ### Jouer avec une tablette
 
-Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. Si vous avez l'intention d'acheter une tablette pour jouer à osu!, consultez le guide [Achat de la tablette](/wiki/Guides/Tablet_purchase). De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
+Si vous utilisez une tablette, essayez de choisir une zone de la tablette où vous pouvez jouer confortablement. De plus, achetez quelques plumes de rechange, car vous ne savez jamais quand vous en aurez besoin, car elles ont tendance à s'user rapidement, surtout en cas de jeu très actif. Bien que vous puissiez utiliser la tablette elle-même pour frapper les cercles, la plupart des joueurs préfèrent utiliser un clavier, dont nous parlerons un peu plus loin. Le jeu sur tablette a tendance à exceller dans les domaines suivants :
 
 - Il n'y a pas de dérive du curseur.
 - Une précision des mouvements et vitesse.

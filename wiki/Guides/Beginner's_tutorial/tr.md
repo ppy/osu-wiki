@@ -28,7 +28,7 @@ Fare oynanışı genellikle şunda sorun yaşar:
 
 ### Tablet Oynanışı
 
-Eğer tablet kullanarak oynayacaksanız, tablette rahatça oynayabildiğiniz bir alan seçmeye çalışın. Eğer osu! için bir tablet satın alacaksanız, [Tablet satın alma](/wiki/Guides/Tablet_purchase) kılavuzunu incelemelisiniz. Ayrıca, birkaç tane ek uç satın alın, zira çabuk bitmeye meyilli oldukları için, özellikle aktif oynanış sırasında, ne zaman ihtiyacınız olacağı belli olmaz. Dairelere tıklamak için tabletin kendisini kullanabilseniz de, oyuncuların çoğu birazdan bahsedeceğimiz gibi klavyelerini kullanır. Tablet oynanışı şunlarda öne çıkar:
+Eğer tablet kullanarak oynayacaksanız, tablette rahatça oynayabildiğiniz bir alan seçmeye çalışın. Ayrıca, birkaç tane ek uç satın alın, zira çabuk bitmeye meyilli oldukları için, özellikle aktif oynanış sırasında, ne zaman ihtiyacınız olacağı belli olmaz. Dairelere tıklamak için tabletin kendisini kullanabilseniz de, oyuncuların çoğu birazdan bahsedeceğimiz gibi klavyelerini kullanır. Tablet oynanışı şunlarda öne çıkar:
 
 - İmleç kaymasız oynanış.
 - Kusursuz hareket ve hız.

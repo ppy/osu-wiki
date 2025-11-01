@@ -34,7 +34,6 @@ Aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 
 - [Yeni Başlayanlar İçin Öğretici](Beginner's_Tutorial)
 - [Ofset Sihirbazı Nasıl Kullanılır](How_to_Use_the_Offset_Wizard)
-- [Tablet Satın Almak](Tablet_Purchase)
 
 ## Tema yapımı
 
