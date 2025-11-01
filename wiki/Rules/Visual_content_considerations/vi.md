@@ -42,23 +42,23 @@ Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể đư�
 Các hình ảnh hoặc yếu tố trực quan chứa ví dụ về những điều sau đây có thể được xem là chấp nhận được:
 
 - Mô tả bạo lực mức độ nhẹ đến vừa phải (một lượng máu nhỏ, vết thương không nghiêm trọng hoặc chỉ tổn thương ngoài da)
-- Cảnh khỏa thân trong tác phẩm nghệ thuật (trong bối cảnh tác phẩm nghệ thuật cổ điển, hoặc tác phẩm liên quan đến yếu tố đó, chẳng hạn như bìa album có sự hiện diện của ảnh khỏa thân nhẹ)
-- Lãng mạn, tán tỉnh hoặc tình cảm thân mật nhẹ nhàng (ôm, ôm nhau, hôn mà không mang hàm ý tình dục, nắm tay, v.v.)
+- Ảnh hỏa thân nghệ thuật (trong ngữ cảnh tác phẩm nghệ thuật cổ điển, hoặc công việc có liên quan đến yếu tố đó, chẳng hạn như bìa album có sự hiện diện của ảnh khỏa thân nhẹ)
+- Tình cảm lãng mạn, tán tỉnh hoặc thân mật nhẹ nhàng (ôm, choàng vai, hôn mà không mang hàm ý tình dục, nắm tay, v.v.)
 - Đồ bơi có thiết kế hợp lý (đồ bơi tiêu chuẩn với độ che phủ tổng quát, bikini thông thường)
 
-Trong một số trường hợp nhất định, có thể có một số ngoại lệ đối với việc sử dụng nghệ thuật của nội dung đòi hỏi nhiều công sức, chẳng hạn như storyboards hoặc nội dung video được làm riêng (ví dụ: được tạo ra đặc biệt), điều này phải được cấp trực tiếp từ đội ngũ hỗ trợ. Những ai quan tâm có thể liên hệ trực tiếp với họ qua [support@ppy.sh](mailto:support@ppy.sh).
+Trong những trường hợp cụ thể, một số ngoại lệ có thể áp dụng đối với mục đích nghệ thuật với nội dung chất lượng cao, chẳng hạn như storyboards hoặc được nội dung video thiết kế riêng (ví dụ: được tạo ra có chủ đích rõ ràng), điều này phải được cấp phép trực tiếp từ đội ngũ hỗ trợ. Những ai quan tâm có thể liên hệ trực tiếp với họ qua [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Nhận đánh giá hình ảnh của bạn
 
 Xem thêm tại: [Quá trình bỏ phiếu nội dung hình ảnh](/wiki/Rules/Content_voting_process)
 
-Các hình ảnh được sử dụng ở bất kỳ đâu trên trang web ngoài beatmap (ảnh đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) không phải tuân theo quy trình bỏ phiếu được giải thích dưới đây và có thể bị xóa bất cứ lúc nào theo quyết định của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT).
+Các hình ảnh được sử dụng ở bất kỳ đâu trên trang web ngoại trừ beatmap (ảnh đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) đều **không** nằm trong quy trình bỏ phiếu được giải thích bên dưới và có thể bị xóa bỏ bất cứ lúc nào theo toàn quyền quyết định của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT).
 
-Nếu bạn không chắc chắn về một hình ảnh sẽ được đưa vào beatmap theo bất kỳ cách nào, vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports). Hình ảnh đó sẽ được nâng lên thành một cuộc bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối .
+Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đề xuất thành một cuộc bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
 
-Kết quả của bất kỳ cuộc bỏ phiếu nào là kết quả cuối cùng, trừ khi hình ảnh bị thay đổi đáng kể để cố gắng giải quyết bất kỳ các yếu tố có thể gây vấn đề được nêu ra trong thảo luận.
+**Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể để cố gắng giải quyết bất kỳ các yếu tố có thể gây vấn đề được nêu ra trong thảo luận.
 
-Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) có quyền đơn phương tuyên bố bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo quyết định của họ, bất chấp bất kỳ cuộc bỏ phiếu trước đó về vấn đề này.
+Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) có quyền đơn phương tuyên bố bất kỳ nội dung nào là hợp lệ hoặc không hợp lệ theo quyết định của họ, bất kể những cuộc bỏ phiếu trước đó về vấn đề này.
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
