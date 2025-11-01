@@ -72,7 +72,7 @@ no_native_review: true
 - **[Перерывы](/wiki/Beatmap/Break) можно добавлять только через [внутриигровой редактор](/wiki/Client/Beatmap_editor).**
 - **Значения [настроек сложности](/wiki/Client/Beatmap_editor/Song_setup#сложность) должны быть такими, чтобы их можно было выставить через [внутриигровой редактор](/wiki/Client/Beatmap_editor).**
 - **Параметр `Letterbox during breaks` (черные полосы во время перерывов) должен быть одинаковым на всех сложностях одного и того же игрового режима, если они содержат перерывы или один и тот же сториборд.**
-- **В описании карт, содержащих спойлеры к сериалам, фильмам и т.д., должно быть соответствующее предупреждение.**<!-- "TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked." -->
+- **В описании карт, содержащих спойлеры к сериалам, фильмам и т.д., должно быть соответствующее предупреждение.**
 
 ### Рекомендации
 
