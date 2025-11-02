@@ -180,7 +180,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | F4 | Argentina ::{ flag=AR }:: | ::{ flag=UY }:: Uruguay | [Nov 09 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251109T190000&p1=1440&p2=51) |  |
 | G5 | Ukraine ::{ flag=UA }:: | ::{ flag=PE }:: Peru | [Nov 09 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251109T200000&p1=1440&p2=367&p3=131) |  |
 
-
 ## Mappools
 
 ### Group stage
