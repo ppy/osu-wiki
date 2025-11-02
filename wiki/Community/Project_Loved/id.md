@@ -8,7 +8,7 @@ no_native_review: true
 
 ## Mengangkat beatmap ke Loved
 
-Beatmap yang ada di osu! dapat diangkat ke Loved dengan melalui proses nominasi dan pemungutan suara.
+Suatu beatmap dapat diangkat ke Loved dengan melalui proses nominasi dan pemungutan suara.
 
 Setiap bulannya, para anggota tim Project Loved yang disebut sebagai **kapten** akan menominasikan sejumlah beatmap untuk diangkat ke Loved pada mode permainannya masing-masing. Beatmap yang diangkat ini hampir selalu berasal dari kiriman yang masuk dari komunitas.
 
