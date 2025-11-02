@@ -11,7 +11,7 @@ tags:
 
 *See also: [Beatmap § Downloading beatmaps](/wiki/Beatmap#downloading-beatmaps)*
 
-By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, and [mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags). Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
+By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, [mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags), and [user tags](/wiki/Beatmap/Beatmap_tags#user-tags). Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
 
 Beatmap metadata fields can be compared against specific values for more granular filtering, using the following operators:
 
