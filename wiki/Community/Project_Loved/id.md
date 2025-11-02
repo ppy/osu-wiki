@@ -90,7 +90,7 @@ Untuk pertanyaan lebih lanjut seputar apa-apa saja yang tergolong ke masing-masi
 
 #### Prioritas nominasi
 
-Project Loved tidak memiliki pedoman khusus yang mengatur beatmap mana saja yang harus dinominasikan oleh para kapten, namun pada umumnya beatmap yang dinominasikan ini merupakan beatmap yang telah dikenal luas dan dihargai oleh komunitas (sesuai dengan arti nama "Loved" itu sendiri). Terkadang, beatmap tertentu dapat lebih diutamakan apabila beatmap ini jauh lebih tua dari beatmap lainnya atau mengusung gaya mapping yang unik dan berkualitas.
+Project Loved tidak memiliki ketentuan yang secara ketat mengatur beatmap mana saja yang harus dinominasikan oleh para kapten, namun pada umumnya beatmap yang dinominasikan ini dipilih dari beatmap yang telah dikenal luas dan dihargai oleh komunitas (sesuai dengan arti nama "Loved" itu sendiri). Terkadang, beatmap tertentu dapat lebih diutamakan apabila beatmap ini jauh lebih tua dari beatmap lainnya atau mengusung gaya mapping yang unik dan berkualitas.
 
 ## Informasi lebih lanjut
 
