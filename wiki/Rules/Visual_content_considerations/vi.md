@@ -35,7 +35,7 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì 
 - **Mô tả liên quan đến chính trị, nội dung văn hóa, tôn giáo hoặc các vấn đề xã hội gây tranh cãi có chủ ý**
 - **Hình ảnh miêu tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc những hành động sắp diễn ra**
 
-Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh khách quan hoặc sáng tác/tạo hình mang tính chủ quan) cũng có thể bị ngăn cản không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào.
+Thêm vào đó, các hình ảnh hoặc yếu tố trực quan có thể được đánh giá một cách hợp lý là chất lượng kém (dù về chất lượng hình ảnh hay cách sáng tác), cũng có thể bị ngăn cản không cho sử dụng trong beatmap trong trường hợp chúng không liên quan trực tiếp đến bất kỳ chủ đề nào.
 
 ## Các nội dung ngoại lệ
 
@@ -62,7 +62,7 @@ Vào bất kỳ thời điểm nào, [đội ngũ osu!](/wiki/People/osu!_team) 
 
 ## Điều gì xảy ra nếu hình ảnh của tôi không ổn?
 
-Bất kỳ hình ảnh, video, hoặc nội dung trực quan mà GMT coi là không phù hợp sẽ bị xóa khỏi trang web. Thêm vào đó, người dùng đã tải lên nội dung trực quan này có thể bị [im lặng](/wiki/Help_centre/Silences) 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm và lịch sử có liên quan của người dùng.
+Bất kỳ nội dung hình ảnh nào mà GMT coi là không phù hợp sẽ bị xóa khỏi trang web. Thêm vào đó, người dùng đã tải lên nội dung trực quan này có thể bị [im lặng](/wiki/Help_centre/Silences) 43 giờ tùy thuộc vào mức độ nghiêm trọng của vi phạm và lịch sử có liên quan của người dùng.
 
 Đối với nội dung trực quan không phù hợp trên beatmap, lệnh im lặng thường sẽ không được áp dụng dài miễn là nội dung không vi phạm gì nghiêm trọng và người dùng xóa bỏ nội dung vi phạm trong một khoảng thời gian hợp lý.
 
