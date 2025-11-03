@@ -31,12 +31,12 @@ The **Solo Score Rush** (***SSR***) was a one-on-one worldwide double-eliminatio
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, $22 USD |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $22 USD |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $19 USD |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $12 USD |
 
 ![](img/ssr-winner-badge.jpeg "SSR winner badge")
 
-*The winner may ask for equivalential prizes, such as osu!supporter tag, and or gift cards; however this needs to be discussed with organiser due to taxes in factor.*
+*The winner may ask for equivalential prizes, such as osu!supporter tag, and or gift cards; however this needs to be discussed with organiser due to taxes in factor. Prize pool was provided by ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657).*
 
 ## Organisation
 
