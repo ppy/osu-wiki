@@ -71,7 +71,7 @@ If we decide to let you return, we will require that you agree to some terms bef
 - **You should not associate with other accounts** including playing on shared computers.
 - **Any major misbehaviour will result in immediate restriction**. This includes major silences.
 
-Appeal returnees under the standard terms above are also [banned from official and badged tournaments](/wiki/Help_centre/Tournament_bans), both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
+Appeal returnees under the standard terms above are also [banned from official and badged tournaments](/wiki/Help_centre/Tournament_sanctions#tournament-bans), both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
 
 **Cheating or account sharing during an official or badged tournament will lead to the user's indefinite ban from any future ones.** This ban can be appealed after two years, but will be granted only if the user has put significant effort into improving community tournaments.
 
