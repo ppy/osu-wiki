@@ -27,7 +27,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | [Featured Artist](/wiki/People/Featured_Artists) outreach, [World Cup](/wiki/Tournaments#official-world-cups) secretary |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | SFX artisan, [Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Modding and mapping scene advisor |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube channel](https://www.youtube.com/@osugame) host, [Mappers' Guild](/wiki/Community/Mappers_Guild) organiser, [Featured Artist](/wiki/People/Featured_Artists) outreach |
