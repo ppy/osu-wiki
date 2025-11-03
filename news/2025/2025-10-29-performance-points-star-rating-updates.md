@@ -16,17 +16,17 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 ## Release schedule
 
-### ✅ Star rating recalculation
+### ✅ Star rating recalculation (Finished 2025-10-28)
 
 Unlike previous runs, we've updated all star ratings in the background, maintaining a separate copy. These will go live in the near future.
 
-### 🏃 Reprocess performance values of negligible scores (1 - 2 days)
+### ✅ Reprocess performance values of negligible scores (Finished 2025-11-03)
 
 To start with, we are reprocessing the PP values of scores which are insignificant. This means starting with scores worth a very low amount of PP and working upwards in a way that doesn't affect the competitive nature of the rankings.
 
 This can be done in the background, without stopping the world.
 
-### ⏳ Reprocess performance values of all scores (3 - 5 days)
+### 🏃 Reprocess performance values of all scores (3 - 5 days)
 
 We now need to reprocess all remaining 3 billion scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!(stable) and osu!(lazer)). This is the most time-consuming part of the deploy process.
 
