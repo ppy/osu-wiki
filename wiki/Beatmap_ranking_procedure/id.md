@@ -26,7 +26,7 @@ Pembuat beatmap yang lebih pemula pada umumnya membutuhkan banyak mod sebelum me
 
 Sebelum dapat dinominasikan, suatu beatmap harus terlebih dahulu memperoleh setidaknya lima [hype](/wiki/Beatmap/Hype) dari lima pengguna yang berbeda.
 
-## Nominasi {id=nominations}
+## Nominasi
 
 :::Infobox
 ![](img/nomination-progress-beatmapset2293010.jpg "Status ranking beatmap yang terdapat pada halaman diskusi, dengan bilah hype yang terisi penuh")
@@ -40,7 +40,7 @@ Kamu disarankan untuk menerima mod sebelum meminta nominasi dari BN; meskipun de
 
 ## Kualifikasi
 
-Beatmap yang telah memperoleh dua nominasi pada mode permainan utamanya[^main-game-mode] akan dipindahkan ke kategori [Qualified](/wiki/Beatmap/Category#qualified)[^hybrid-sets]. Beatmap Qualified memiliki papan peringkatnya tersendiri, namun tidak akan memberikan [performance point](/wiki/Performance_points) bagi pemain. Pada saat suatu beatmap telah berada di Qualified selama setidaknya 7 hari tanpa [masalah atau saran](/wiki/Modding#types-of-mod-posts) yang belum terjawab, beatmap ini akan dapat dipindahkan oleh [antrean ranking](Ranking_queue) ke kategori [Ranked](#ranked).
+Beatmap yang telah memperoleh dua nominasi pada mode permainan utamanya[^main-game-mode] akan dipindahkan ke kategori [Qualified](/wiki/Beatmap/Category#qualified)[^hybrid-sets]. Beatmap Qualified memiliki papan peringkatnya tersendiri, namun tidak akan memberikan [performance point](/wiki/Performance_points) bagi pemain. Pada saat suatu beatmap telah berada di Qualified selama setidaknya 7 hari tanpa [masalah atau saran](/wiki/Modding#jenis-postingan-mod) yang belum terjawab, beatmap ini akan dapat dipindahkan oleh [antrean ranking](Ranking_queue) ke kategori [Ranked](#ranked).
 
 Apabila suatu beatmap didiskualifikasi, waktu 7 hari ini akan diatur ulang apabila beatmap ini memperoleh tingkat kesulitan baru atau dikualifikasikan ulang oleh Beatmap Nominator yang berbeda. Selain itu, untuk setiap minggunya beatmap ini didiskualifikasi, waktu ini juga akan bertambah selama 1 hari hingga maksimal 14 hari.
 
