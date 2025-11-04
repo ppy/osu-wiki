@@ -6,6 +6,8 @@ tags:
   - tienda
   - mercancía
   - legado
+outdated_translation: true
+outdated_since: 15904cffc9f0f731a4e938ccc66ac024f89ae67f
 ---
 
 # Productos anteriores de la osu!store

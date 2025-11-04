@@ -4,6 +4,8 @@ tags:
   - merchandise
   - legacy
   - Shop
+outdated_translation: true
+outdated_since: 15904cffc9f0f731a4e938ccc66ac024f89ae67f
 ---
 
 # Vergangene Artikel aus dem osu!store
