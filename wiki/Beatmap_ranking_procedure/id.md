@@ -44,7 +44,7 @@ Beatmap yang telah memperoleh dua nominasi pada mode permainan utamanya[^main-ga
 
 Apabila suatu beatmap didiskualifikasi, waktu 7 hari ini akan diatur ulang apabila beatmap ini memperoleh tingkat kesulitan baru atau dikualifikasikan ulang oleh Beatmap Nominator yang berbeda. Selain itu, untuk setiap minggunya beatmap ini didiskualifikasi, waktu ini juga akan bertambah selama 1 hari hingga maksimal 14 hari.
 
-Kategori beatmap ini ditujukan agar beatmap ini dapat lebih diperhatikan oleh komunitas dan agar masalah yang masih tersisa dapat diselesaikan sebelum terlambat. Masalah ini dapat dilaporkan ke para anggota BN dan NAT melalui halaman diskusi beatmap. Tidak seperti pada beatmap Pending, beatmap Qualified tidak dapat diperbarui oleh pembuatnya, sehingga satu-satunya cara untuk menyelesaikan masalah ini adalah dengan meminta [penganuliran nominasi](#nomination-resets).
+Kategori beatmap ini ditujukan agar beatmap ini dapat lebih diperhatikan oleh komunitas dan agar masalah yang masih tersisa dapat diselesaikan sebelum terlambat. Masalah ini dapat dilaporkan ke para anggota BN dan NAT melalui halaman diskusi beatmap. Tidak seperti pada beatmap Pending, beatmap Qualified tidak dapat diperbarui oleh pembuatnya, sehingga satu-satunya cara untuk menyelesaikan masalah ini adalah dengan meminta [penganuliran nominasi](#penganuliran-nominasi).
 
 ## Penganuliran nominasi
 
