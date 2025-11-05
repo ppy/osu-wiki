@@ -10,18 +10,19 @@
 
 ## Геймплей
 
-Эти серверв дают людям возможность обсудить главную часть osu! — геймплей! Они работают как места, где игроки ежедневно обсуждают свои достижения в osu!.
+Эти серверы дают людям возможность обсудить главную часть osu! - геймплей! Они работают как места, где игроки ежедневно обсуждают свои достижения в osu!.
 
 |  | Название | Владелец | Описание |
 | :-: | :-- | :-- | :-- |
-| [![](img/osu!-Game.png)](https://discord.com/invite/osu) | [osu! Game](https://discord.com/invite/osu) | ::{ flag=DE }:: [oink](https://osu.ppy.sh/users/300173) | **osu! Game** на данный момент - самый большой сервер, созданный комьюнити и рассчитанный на все режимы игры. Он проводит регулярные ивенты среди участников и имеет общие чат-каналы для самых популярных занятий в игре. |
+| [![](img/osu!-Game.png)](https://discord.com/invite/osu) | [osu! Game](https://discord.com/invite/osu) | ::{ flag=DE }:: [oink](https://osu.ppy.sh/users/300173) | **osu! Game** на данный момент - самый большой сервер, созданный сообществом и рассчитанный на все режимы игры. Он проводит регулярные ивенты среди участников и имеет общие чат-каналы для самых популярных занятий в игре. |
 | [![](img/osu!-University.png)](https://discord.com/invite/QubdHdnBVg) | [osu! University](https://discord.com/invite/QubdHdnBVg) | ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) | **osu! University** - Discord-сервер сообщества, рассчитанный на обсуждение тренировки себя как игрока (жарг. "импрува"), в основном в режиме [osu!](/wiki/Game_mode/osu!). Сервер регулярно проводит различные ивенты, например, интервью с топ-игроками, [турниры](/wiki/Tournaments) и исследования, связанные с импрувом. |
 | [![](img/osu!-Medal-Hunters.png)](https://discord.com/invite/8qpNTs6) | [osu! Medal Hunters](https://discord.com/invite/8qpNTs6) | ::{ flag=UA }:: [MegaMix](https://osu.ppy.sh/users/18152711) | **osu! Medal Hunters** рассчитан на обсуждение [медалей](/wiki/Medals) и [условий их получения](/wiki/Medals/Unlock_requirements). |
-| [![](img/osu!alternative.png)](https://discord.com/invite/VZWRZZXcW4) | [osu!alternative](https://discord.com/invite/VZWRZZXcW4) | ::{ flag=CA }:: [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** предлагает дополнительные метрики и трекеры скоров, не показываемые на сайте osu!. Он позволяет игрокам неофициально оценивать друг друга и свои результаты.
+| [![](img/osu!alternative.png)](https://discord.com/invite/VZWRZZXcW4) | [osu!alternative](https://discord.com/invite/VZWRZZXcW4) | ::{ flag=CA }:: [billie eilish](https://osu.ppy.sh/users/6245906) | **osu!alternative** предлагает дополнительные метрики и трекеры скоров, не показываемые на сайте osu!. Он позволяет игрокам неофициально оценивать друг друга и свои результаты. |
 
 ## Развитие сообщества
 
-Эти сервера направлены на создание и разработку различных инструментов и систем для игры. В то время как официальная разработка osu! ведётся в [Discord-сервере **osu!**](#official), некоторые проекты создают свои рабочие пространства, прежде чем предлагать и объединять свою работу в игре.
+Эти серверы направлены на создание и разработку различных инструментов и систем для игры. В то время как официальная разработка osu! ведётся в [Discord-сервере **osu!**](#официальный), некоторые проекты создают свои рабочие пространства, прежде чем предлагать и объединять свою работу в игре.
+
 |  | Название | Владелец | Описание |
 | :-: | :-- | :-- | :-- |
 | [![](img/Performance-Points.png)](https://discord.com/invite/aqPCnXu) | [Performance Points](https://discord.com/invite/aqPCnXu) | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Сервер **Performance Points** способствует развитию системы [очков производительности](/wiki/Performance_points) и [системы сложности карт](/wiki/Beatmap/Star_rating). |
@@ -30,7 +31,7 @@
 
 ## Маппинг и моддинг
 
-Сервера **Маппинга и моддинга** - это Discord-сервера комьюнити, созданные для всех действующих и начинающих мапперов и моддеров. Они предназначены для взаимодействия между игроками, интересующимися маппингом для игрового режима. Они выступают площадкой для организации, обсуждения и рекламы различных карт.
+Серверы **Маппинга и моддинга** - это Discord-серверы сообщества, созданные для всех действующих и начинающих мапперов и моддеров. Они предназначены для взаимодействия между игроками, интересующимися маппингом для игрового режима. Они выступают площадкой для организации, обсуждения и рекламы различных карт.
 
 |  | Название | Владелец | Описание |
 | :-: | :-- | :-- | :-- |
@@ -43,7 +44,7 @@
 
 |  | Название | Владелец | Описание |
 | :-: | :-- | :-- | :-- |
-| [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | Сервер **Mapset Management Server** - место для создания и просмотра реквестов для [модов](/wiki/Modding), [гостевых сложностей](/wiki/Beatmap/Guest_difficulty) и [коллабораций](/wiki/Beatmap/Beatmap_collaborations) в непринуждённой обстановке. |
+| [![](img/Mapset-Management-Server.png)](https://discord.com/invite/TCDSjhb6yS) | [Mapset Management Server](https://discord.com/invite/TCDSjhb6yS) | ::{ flag=GE }:: [Kyuunex](https://osu.ppy.sh/users/9236044) | Сервер **Mapset Management Server** - место для создания и просмотра запросов для [модов](/wiki/Modding), [гостевых сложностей](/wiki/Beatmap/Guest_difficulty) и [коллабораций](/wiki/Beatmap/Beatmap_collaborations) в непринуждённой обстановке. |
 | [![](img/Mentorship.png)](https://discord.com/invite/Ft2FtXmBgx) | [Mentorship](https://discord.com/invite/Ft2FtXmBgx) | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Сервер **Mentorship** управляет [программой менторства сообщества](/wiki/Community/Community_Mentorship_Program), ведёт сезонные занятия для обучения [маппингу](/wiki/Beatmapping) и [моддингу](/wiki/Modding) для всех режимов игры. |
 
 ## Турниры
@@ -52,13 +53,13 @@
 
 |  | Название | Владелец | Описание |
 | :-: | :-- | :-- | :-- |
-| [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | **osu! Tournament Hub** предоставляет ресурсы для организаций турниров и каналы для рекламы новых турниров и рекрутинга команды во всех режимах и регионах. |
+| [![](img/osu!-Tournament-Hub.png)](https://discord.com/invite/bvhajDC) | [osu! Tournament Hub](https://discord.com/invite/bvhajDC) | ::{ flag=MY }:: [Sikey](https://osu.ppy.sh/users/343057) | **osu! Tournament Hub** предоставляет ресурсы для организации турниров и каналы для рекламы новых турниров и рекрутинга команды во всех режимах и регионах. |
 | [![](img/osu!mania-Tourney-Central.png)](https://discord.com/invite/WnMcrUnGV5) | [osu!mania Tourney Central](https://discord.com/invite/WnMcrUnGV5) | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | **osu!mania Tourney Central** фокусируется на ресурсах и рекрутинге команды для турниров в osu!mania. |
 | [![](img/poolingcore.png)](https://discord.com/invite/gpEbCBE7Jg) | [poolingcore](https://discord.com/invite/gpEbCBE7Jg) | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656) | **poolingcore** предоставляет ресурсы, связанные с маппуллингом и маппингом, в основном в режиме osu!. На сервере время от времени проводятся игры и конкурсы, связанные с маппулингом, а также он позволяет проверенным хостам набирать активных маппулеров и мапперов для своих турниров. |
 
 ## Project Loved
 
-[Project Loved](/wiki/Community/Project_Loved) организовывает свою работу на других серверах, разделённых по [режимам игры](/wiki/Game_mode), в которых они специализируются. Эти сервера способствуют обсуждению выбора карт для каждого режима.
+[Project Loved](/wiki/Community/Project_Loved) организовывает свою работу на других серверах, разделённых по [режимам игры](/wiki/Game_mode), в которых они специализируются. Эти серверы способствуют обсуждению выбора карт для каждого режима.
 
 |  | Название | Владелец | Описание |
 | :-: | :-- | :-- | :-- |
