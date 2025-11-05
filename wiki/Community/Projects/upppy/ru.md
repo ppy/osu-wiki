@@ -7,7 +7,7 @@ tags:
 # upppy
 
 ::: Infobox
-![Обновления сайта на странице up.ppy.sh](img/upppyScreenshot.png "Snapshot of the upppy website, as taken in 2023 by the Internet Archive")
+![Обновления сайта на странице up.ppy.sh](img/upppyScreenshot.png "Скриншот веб-сайта upppy в 2023 году из интернет архива")
 :::
 
 **up.ppy.sh** (часто называемый **upppy**) - сервис загрузки файлов, запущенным и размещенным от ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). Впервые был создан в январе 2007 года, еще до релиза Osu![^upppy-launch-date-ref], и в основном использовался для обмена изображения и файлами внутри Osu! сообщество.
