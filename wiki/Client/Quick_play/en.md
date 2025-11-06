@@ -12,13 +12,15 @@ tags:
 
 **Quick play** is a queue-based multiplayer mode introduced to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on October 29, 2025 ([release](https://github.com/ppy/osu/releases/tag/2025.1029.1-lazer)). It is the first queue-based multiplayer system introduced to the game.
 
+*Note: osu!mania 4K and 7K are split into separate queues and are thus referred to as separate modes.*
+
 ## Interface
 
 Users may access quick play by navigating to `play > multi > quick play` via the main menu. The traditional multiplayer lobby interface is accessible via the `lounge` option.
 
 ![](img/quick-play-main-menu.png "Main menu interface")
 
-To queue for a match, first select a [mode](/wiki/Game_mode), then click the button to queue for a match. Note that osu!mania 4K and 7K are split into separate queues.
+To queue for a match, first select a [mode](/wiki/Game_mode), then click the button to queue for a match.
 
 ![](img/quick-play-queue-panel.png "Mode selection")
 
@@ -61,4 +63,4 @@ Users' MMR is influenced based on their standing at the end of the lobby. Throug
 
 Beatmaps used in quick play are currently curated by a team of community volunteers, organised by [Stage](https://osu.ppy.sh/users/8191845). The full list of available beatmaps for all modes is publicly available via [this spreadsheet](https://docs.google.com/spreadsheets/d/1ZbvLvHlXH3IF1WgN4YkHqOttO7wG-1Duto-535tqKnQ/edit?gid=0#gid=0).
 
-Once the size of each mode's mappool is large enough, the focus will shift from adding beatmaps to rotating them. The cadence at which beatmaps are to be rotated is currently unknown. All beatmaps featured in this mode will be Ranked, Approved, or Loved.
+Each mode has a mappool curated by community members who are familiar with beatmaps for that mode specifically. Once the size of each mode's mappool is large enough, the focus will shift from adding beatmaps to rotating them. The cadence at which beatmaps are to be rotated is currently unknown. All beatmaps featured in this mode are Ranked, Approved, or Loved.
