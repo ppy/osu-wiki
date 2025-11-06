@@ -20,7 +20,7 @@ The Mappers' Guild is open to mappers of any skill level, including those withou
   - Tier 2 ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
   - Tier 3 ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
   - Tier 4 ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png) (hardest, highest reward)
-- **Multiple users can complete the same quest**. Most of the time, anyone who accomplishes the quest's objective before the deadline is eligible.
+- **Multiple users can complete the same quest.** Most of the time, anyone who accomplishes the quest's objective before the deadline is eligible.
 
 By completing priority quests, you can earn some special rewards too:
 
@@ -34,7 +34,7 @@ By completing priority quests, you can earn some special rewards too:
 
 You've made it to the important section.
 
-**6** new quests have just been added to the [priority quest listing](https://mappersguild.com/missions)! These will be available until **February 23, 2025**.
+**6** new quests have just been added to the [priority quest listing](https://mappersguild.com/missions)! These will be available until **February 23, 2026**.
 
 Below is an overview of each quest. If any are confusing, feel free to ask questions in the comments or directly to [pishifat](https://osu.ppy.sh/community/chat?sendto=3178418). Be sure to check the quest pages for additional requirements!
 
@@ -62,7 +62,7 @@ If you've never made a map for the Monthly Beatmapping Contest, the next iterati
 
 The Mappers' Guild began as a way for mappers to collaborate, and we're still sticking to that all these years later. This time however, it's with people across mode boundaries.
 
-Work with up to **TWO other mappers** to create a multi-mode beatmap set covering 3 different game modes. In this case, osu!mania's key modes don't count as separate modes. The point here is to branch out, not just talk to your neighbors.
+Work with up to **TWO other mappers** to create a multi-mode beatmap set covering 3 different game modes. In this case, osu!mania's key modes don't count as separate modes. The point here is to branch out, not just talk to your neighbours.
 
 Each of the three mappers (or only yourself, if you're a multi-mode mapping savant) will earn priority quest prizes.
 
