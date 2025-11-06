@@ -46,7 +46,7 @@ A beatmap's MMR is directly derived from it's [star rating](/wiki/Beatmap/Star_r
 
 ### Scoring
 
-Users' MMR is influenced based on their standing at the end of the lobby. Throughout the match, users are awarded points based on their placement in each round following the table below:
+A user's MMR is influenced based on their standing at the end of the lobby. Throughout the match, users are awarded points based on their placement in each round following the table below:
 
 | Placement | Points |
 | :-- | --: |
