@@ -1,11 +1,11 @@
 ---
 tags:
-- quickplay
-- matchmaking
-- match making
-- multiplayer
-- MMR
-- rating
+  - quickplay
+  - matchmaking
+  - match making
+  - multiplayer
+  - MMR
+  - rating
 ---
 
 # Quick play
