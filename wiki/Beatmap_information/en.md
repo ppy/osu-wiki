@@ -84,7 +84,7 @@ In addition to gameplay-related statistics, every beatmap includes metadata fiel
 - [Mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags): Useful keywords containing information about the song.
 - **Source:** The original media the song was produced for, or a piece of media the song is most known for.
 
-The nominator section is added as soon as the beatmap is nominated by [beatmap nominators](/wiki/People/Beatmap_Nominators) as part of the [ranking process](/wiki/Beatmap_ranking_procedure)
+The nominator section is added as soon as the beatmap is nominated by [beatmap nominators](/wiki/People/Beatmap_Nominators) as part of the [ranking process](/wiki/Beatmap_ranking_procedure).
 
 After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags) from the osu!(lazer) client. Upon reaching 5 votes on an user tag, it will be displayed in the `user tag` segment in this section.
 
