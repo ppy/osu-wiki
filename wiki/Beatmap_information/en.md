@@ -28,7 +28,7 @@ On the left side, beneath the play count, the title and artist are displayed. Cl
 
 Further below, the following action buttons may be present, arranged from left to right:
 
-- **Favourite:** Add this beatmap to the favourites section in the user profile.
+- **Favourite:** Adds this beatmap to the favourites section in the user's profile.
 - **Download:** Download the beatmap. If the beatmap has a background video, the user can choose to download the beatmap with or without the video.
 - **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file.
 - **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard), or the [WIP and Pending](/wiki/Beatmap/Category#wip-and-pending) categories, the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu will appear, revealing the `report` button.
