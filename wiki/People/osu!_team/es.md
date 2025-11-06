@@ -58,7 +58,7 @@ Además del núcleo del osu! team, hay [muchos otros equipos de voluntarios](/wi
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Encargado general y ayudante general, artista chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderador](/wiki/People/Global_Moderation_Team), asesor de la comunidad |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Diseñador de audio, [artista destacado](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Desarrollador de [storyboards](/wiki/Storyboard) |
+| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Desarrollador de los [storyboards](/wiki/Storyboard) |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Organizador y administrador de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Encargado general, administrador de la comunidad |
