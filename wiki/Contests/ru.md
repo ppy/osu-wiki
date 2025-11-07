@@ -12,7 +12,7 @@
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
-**Monthly Beatmapping Contest** изначально был конкурсом маппинга, в котором участники соревновались в создании самой лучшей карты под определённую песню со всеми [уровнями сложности](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal, за один месяц.
+**Monthly Beatmapping Contest** изначально был конкурсом маппинга, в котором участники соревновались в создании самой лучшей карты под определённую песню со всеми [уровнями сложности](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal, за один месяц.
 
 | Номер конкурса | Песня | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -82,7 +82,7 @@
 
 ### [osu! Mapping Olympiad](Mapping_Olympiad)
 
-**osu! Mapping Olympiad** - конкурс маппинга, проводящийся как духовный преемник ранних (до 2020 года) Monthly Beatmapping Contests. В этом конкурсе, участники должны были либо создать карту со всеми [сложностями](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal, либо определённое количество сложностей для каждой песни в каждой соответствующей итерации.
+**osu! Mapping Olympiad** - конкурс маппинга, проводящийся как духовный преемник ранних (до 2020 года) Monthly Beatmapping Contests. В этом конкурсе, участники должны были либо создать карту со всеми [сложностями](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal, либо определённое количество сложностей для каждой песни в каждой соответствующей итерации.
 
 | Номер конкурса | Песня(и) | Режим игры | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -108,7 +108,7 @@
 
 ### Mapping With Rewards
 
-**Mapping With Rewards**  - конкурс маппинга, в котором участники должны были создать лучшую карту (со всеми [сложностями](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal) для каждой из песен в каждой соответствующей итерации без строгих сроков.
+**Mapping With Rewards**  - конкурс маппинга, в котором участники должны были создать лучшую карту (со всеми [сложностями](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal) для каждой из песен в каждой соответствующей итерации без строгих сроков.
 
 | Номер конкурса | Песня | Режим игры | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
