@@ -4,11 +4,11 @@ tags:
   - beatmap submission system issues
 ---
 
+# How to resolve BSS issues
+
 ::: Infobox
 ![Screenshot of the warning message](img/errormessage.png "The warning message as shown in the editor")
 :::
-
-# How to resolve BSS issues
 
 When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission)** (***BSS***) may occasionally prevent you from uploading your beatmap by warning that `This beatmap you're trying to submit isn't yours!`. This is  often caused by an incorrectly set parameter in the [.osu file](/wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache, and can be resolved by following these steps:
 
@@ -21,10 +21,11 @@ When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/B
 6. Set the `BeatmapSetID` field to `-1`.
 7. Make sure that the beatmap's folder name does not begin with a string of numbers. If it does, rename this folder accordingly.
    - For example, `1000 - Song Name` should be renamed into e.g. `ABCDE - Song Name`.
-8. Delete all the files in the `SubmissionCache` folder. This folder can be found in your osu! installation directory.
-9. Open osu! again and try to upload your beatmap.
+8. Delete all the files in the `SubmissionCache` folder. By default, this folder is hidden inside the `Data` directory of your osu! installation.
+   - [This article](https://support.microsoft.com/en-au/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1) explains how to open this file from the file explorer.
+10. Open osu! again and try to upload your beatmap.
 
-You should be able to submit your beatmap by now. If you are still having issues by then, follow these steps:
+You should be able to submit your beatmap by now. However, if you are still having issues, try following these steps:
 
 1. Export the beatmap from inside the beatmap editor by going to `File` and then `Export Package`.
 2. Exit the beatmap editor and delete the beatmap in osu!.
