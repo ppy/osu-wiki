@@ -1349,7 +1349,7 @@ These songs are part of the [tomspicy osu! collection 01 EP](https://osu.ppy.sh/
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YrDeytjjtDQ "YouTube") |  | Kahxlyrio - Anything You Want | [#1](https://osu.ppy.sh/beatmapsets/2439042) | Grand Finals NM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/sweet-lemon-tea "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=a5VZv9G6trY "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/39udSbwWvLQze6CunvBx7o "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Redside&query=%22sweet%20lemon%20tea%22 "osu! original") | Redside - sweet lemon tea | [#1](https://osu.ppy.sh/beatmapsets/2435742) | Finals NM4 |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Ci4cyuTFtsg "YouTube") |  | WEARY - Out of the Waking World[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2435748) | Finals HD2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/weary2007/out-of-the-waking-world "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Ci4cyuTFtsg "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/0XHmrgaTmMtCnQYLHlT3sG "Spotify") |  | WEARY - Out of the Waking World[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2435748) | Finals HD2 |
 
 #### ![](/wiki/shared/mode/taiko.png) [4 Digit Taiko World Cup 2023](https://osu.ppy.sh/community/forums/topics/1821731)
 
