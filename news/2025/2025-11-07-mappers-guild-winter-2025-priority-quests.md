@@ -50,7 +50,7 @@ Use [this page](/wiki/osu!_originals#official-tournament-releases) to see which 
 
 As a mapper, you're surely well-aware of the amount of artistic talent in osu!. That artistic talent extends beyond the range of only level creation though, and that's what this quest is about!
 
-Find a map from [any Featured Artist who also has an osu! account](/wiki/People/Featured_Artists), along with a background created by someone who has an osu! account (check out some [osu! fanart contests](https://osu.ppy.sh/community/contests) if you need help with this), and combine that with your mapping expertise to create your own made-exclusively-by-osu!-players beatmap!
+Find a song from [any Featured Artist who also has an osu! account](/wiki/People/Featured_Artists), along with a background created by someone who has an osu! account (check out some [osu! fanart contests](https://osu.ppy.sh/community/contests) if you need help with this), and combine that with your mapping expertise to create your own made-exclusively-by-osu!-players beatmap!
 
 ### [Monthly Beatmapping Contest returns v4](https://mappersguild.com/missions?id=690be36dc83d944d73db42ef) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
