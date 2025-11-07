@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mappers' Guild - Winter 2025 Priority Quests
-date: 2025-11-07 18:00:00 +0000
+date: 2025-11-07 19:00:00 +0000
 ---
 
 Once upon a time, you opened the osu! editor. Now look at how far you've come: you're exploring a niche within a niche within a niche by participating in this new batch of Mappers' Guild quests!
