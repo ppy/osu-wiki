@@ -31,7 +31,7 @@ You should be able to submit your beatmap by now. However, if you are still havi
 2. Exit the beatmap editor and delete the beatmap in osu!.
 3. Exit osu!.
 4. Go to the exported beatmap and extract its contents.
-   - Alternatively, open this file directly using compression tools such as [WinRAR](https://www.rarlab.com/) or [7-Zip](https://www.7-zip.org/).
+   - Alternatively, open this file directly using external archive utilites such as [WinRAR](https://www.rarlab.com/) or [7-Zip](https://www.7-zip.org/).
 5. Open the `.osu` difficulty files with any plain text editor (e.g. Notepad).
 6. Fill in the `Creator` field with anything you like, but do **not** use your username.
 7. Set the `BeatmapID` field to `0`.
