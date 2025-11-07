@@ -28,7 +28,7 @@ Jugar con un ratón tiende a dar problemas en:
 
 ### Jugar con una tableta
 
-Si vas a usar una tableta, debes intentar elegir un área de la tableta con la que puedas jugar cómodamente. Si vas a comprar una tableta para jugar a osu!, deberías consultar la guía [compra de tabletas](/wiki/Guides/Tablet_purchase). Además, compra algunas puntas de repuesto, ya que nunca se sabe cuándo necesitarás otra, puesto que tienden a desgastarse rápidamente, sobre todo en juegos muy activos. Si bien puedes usar la tableta para pulsar los círculos, la mayoría de los jugadores prefieren usar un teclado, del que hablaremos un poco más adelante. Jugar con una tableta tiende a sobresalir en:
+Si vas a usar una tableta, debes intentar elegir un área de la tableta con la que puedas jugar cómodamente. Además, compra algunas puntas de repuesto, ya que nunca se sabe cuándo necesitarás otra, puesto que tienden a desgastarse rápidamente, sobre todo en juegos muy activos. Si bien puedes usar la tableta para pulsar los círculos, la mayoría de los jugadores prefieren usar un teclado, del que hablaremos un poco más adelante. Jugar con una tableta tiende a sobresalir en:
 
 - No hay desviación del cursor.
 - Movimiento preciso y velocidad.

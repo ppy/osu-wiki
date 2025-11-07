@@ -521,10 +521,13 @@ Thursday, 2 February 2023:
 
 1. Mappools are released on the Monday night prior to the match weekend.
 2. The mappool structure is as follows:
-   - Qualifiers: 4 NM / 2 HD / 2 HR/ 2 DT
-   - Round of 32: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
-   - Round of 16: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
-   - Quarterfinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
-   - Semifinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
-   - Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
-   - Grand Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
+
+| Round | Beatmaps | Bans | Best of |
+| :-- | :-- | :-: | :-: |
+| Qualifiers | 4 NM, 2 HD, 2 HR, 2 DT | - | - |
+| Round of 32 | 5 NM, 2 HD, 2 HR, 3 DT, 1 TB | 1 | 9 |
+| Round of 16 | 5 NM, 2 HD, 2 HR, 3 DT, 1 TB | 1 | 9 |
+| Quarterfinals | 6 NM, 3 HD, 3 HR, 4 DT, 1 TB | 2 | 11 |
+| Semifinals | 6 NM, 3 HD, 3 HR, 4 DT, 1 TB | 2 | 11 |
+| Finals | 7 NM, 4 HD, 4 HR, 4 DT, 1 TB | 3 | 13 |
+| Grand Finals | 7 NM, 4 HD, 4 HR, 4 DT, 1 TB | 3 | 13 |
