@@ -12,7 +12,7 @@
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
-**Monthly Beatmapping Contest**, изначально был конкурсом маппинга, в котором участники соревновались в создании самой лучшей карты под определённую песню со всеми [уровнями сложности](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal, за один месяц.
+**Monthly Beatmapping Contest** изначально был конкурсом маппинга, в котором участники соревновались в создании самой лучшей карты под определённую песню со всеми [уровнями сложности](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal, за один месяц.
 
 | Номер конкурса | Песня | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
@@ -33,7 +33,7 @@
 | [#12](https://osu.ppy.sh/home/news/2016-03-04-beatmapping-contest-12-osu) | IAHN - Candy Luv | ![osu!][osu!] | ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340) | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [#1](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) |
 | [#13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) | BilliumMoto - HDHR | ![osu!][osu!] | ::{ flag=MY }:: [RyoKazuka](https://osu.ppy.sh/users/6258586) | ::{ flag=ID }:: [Fort](https://osu.ppy.sh/users/2805457) | ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692) | [#1](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results) |
 
-После долгого перерыва, Monthly Beatmapping Contest вернулся в январе 2020 года с совершенно новыми расписанием, правилами, процедурой голосования и наградами. Множество аспектов конкурса были сильно изменены, чтобы сделать конкурс более интересными м привлекательными. Вот некоторые из изменений:
+После долгого перерыва, Monthly Beatmapping Contest вернулся в январе 2020 года с совершенно новыми расписанием, правилами, процедурой голосования и наградами. Множество аспектов конкурса были сильно изменены, чтобы сделать конкурс более интересным м привлекательным. Вот некоторые из изменений:
 
 - Вместо одной песни, теперь конкурс каждый месяц предлагает несколько песен от разных [Featured Artists](/wiki/People/Featured_Artists), из которых мапперы могут свободно выбирать и присылать свои карты.
 - Теперь участникам нужно присылать только одну сложность вместо целого мапсета.
@@ -72,7 +72,7 @@
 
 ### [osu!taiko Featured Artist Cup](o!tFAC)
 
-**osu!taiko Featured Artist Cup** - конкурс маппинга в osu!taiko, в котором участникам нужно сделать карту с одной из песен одного из Featured Artists. Иногда конкурс добавляет особые ограничения/гиммики, чтобы проверить скилл мапперов.
+**osu!taiko Featured Artist Cup** - конкурс маппинга в osu!taiko, в котором участникам нужно сделать карту с одной из песен одного из Featured Artists. Иногда конкурс добавляет особые ограничения/гиммики, чтобы проверить навыки мапперов.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -82,9 +82,9 @@
 
 ### [osu! Mapping Olympiad](Mapping_Olympiad)
 
-**osu! Mapping Olympiad** - конкурс маппинга, проводящийся как духовный преемник ранних (до 2020 года) Monthly Beatmapping Contests. В этом конкурсе, участники должны были либо создать карту со всеми [сложностями](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal, либо определённое количество сложностей для каждой песни в каждой соотвествующей итерации.
+**osu! Mapping Olympiad** - конкурс маппинга, проводящийся как духовный преемник ранних (до 2020 года) Monthly Beatmapping Contests. В этом конкурсе, участники должны были либо создать карту со всеми [сложностями](/wiki/Beatmap/Difficulty#difficulty-levels), начиная от Easy или Normal, либо определённое количество сложностей для каждой песни в каждой соответствующей итерации.
 
-| Номер конкурса | Песня(s) | Режим игры | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Результаты |
+| Номер конкурса | Песня(и) | Режим игры | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2018-02-27-osu-mapping-olympiad-1) | [Kuba Oms - Beautiful Uncertainty (Redux)](https://osu.ppy.sh/beatmaps/artists/13), [OISHII - Honey Snowflakes](https://osu.ppy.sh/beatmaps/artists/17), и [cYsmix - Escapism](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969), и ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=UA }:: [Fallmorph](https://osu.ppy.sh/users/5720389), ::{ flag=SG }:: [Rokkea](https://osu.ppy.sh/users/2500099), и ::{ flag=CA }:: [Kibbleru](https://osu.ppy.sh/users/3193504) | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648), ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699), и ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | [#1](https://osu.ppy.sh/home/news/2018-06-23-osu-mapping-olympiad-1-results) |
 | [#2](https://osu.ppy.sh/home/news/2018-05-21-osu-mapping-olympiad-2-taiko) | [Thaehan - Bwa!](https://osu.ppy.sh/beatmaps/artists/7) | ![osu!taiko][osu!taiko] | ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430) | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | [#1](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) |
@@ -156,7 +156,7 @@
 
 ### Fan Art Contest
 
-**Fan Art Contest** - конкурс артов, в котором учавствующие художники из сообщества должны были нарисовать лучший фан-арт для osu!, включая [маскоты игры](/wiki/Mascots) на разные темы и концепты.
+**Fan Art Contest** - конкурс артов, в котором участвующие художники из сообщества должны были нарисовать лучший фан-арт для osu!, включая [маскоты игры](/wiki/Mascots) на разные темы и концепты.
 
 | Номер конкурса | Название | Тема | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -317,7 +317,7 @@
 
 ### Pending Cup
 
-**Pending Cup** - конкурс маппинга, который ежегодно проводится китайским маппинг-сообществом. Каждый год, конкурс выбирает три песни и/или категории, в которых мапперы могут свободно учавствовать и отправлять свои карты.
+**Pending Cup** - конкурс маппинга, который ежегодно проводится китайским маппинг-сообществом. Каждый год, конкурс выбирает три песни и/или категории, в которых мапперы могут свободно участвовать и отправлять свои карты.
 
 Несмотря на то, что Pending Cup изначально был рассчитан в основном на китайскоговорящих участников сообщества, конкурс также был расширен для внедрения карт от других мапперов со всего мира.
 
@@ -439,7 +439,7 @@
 
 ### Russian Community Beatmapping Contest
 
-**Russian Community Beatmapping Contest** - конкурс маппинга для русскоговорящих членов сообщества без региональных ограничений, что означает, что все, кто может говорить на русском языке, могут учавствовать.
+**Russian Community Beatmapping Contest** - конкурс маппинга для русскоговорящих членов сообщества без региональных ограничений, что означает, что все, кто может говорить на русском языке, могут участвовать.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
