@@ -66,6 +66,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
 | ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | (membre de) [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
+| ::{ flag=BR }:: [BrayanKitsn](https://osu.ppy.sh/users/34744443) | [BrayanKitsn](https://osu.ppy.sh/beatmaps/artists/506) |
 | ::{ flag=KR }:: [Cinamoro](https://osu.ppy.sh/users/18214510) | [Cinamoro](https://osu.ppy.sh/beatmaps/artists/341) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -96,6 +97,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
 | ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
+| ::{ flag=US }:: [Memodemo](https://osu.ppy.sh/users/7393582) | [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/472) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
@@ -131,6 +133,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
 | ::{ flag=HK }:: [Trainer LOLXD](https://osu.ppy.sh/users/14817071) | [Trina Lydia](https://osu.ppy.sh/beatmaps/artists/440) |
+| ::{ flag=RU }:: [un_feeling](https://osu.ppy.sh/users/7100478) | [unfeeling](https://osu.ppy.sh/beatmaps/artists/509) |
 | ::{ flag=RU }:: [uselet](https://osu.ppy.sh/users/5256300) | [uselet](https://osu.ppy.sh/beatmaps/artists/402) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |

@@ -2,10 +2,10 @@
 
 Secara *default*, osu!(lazer) menyimpan seluruh berkas beatmap, skin, dan tayangan ulang/skor pada direktori berikut:
 
-- `%appdata%/osu/files` (Windows),
-- `~/.local/share/osu/files` (Linux),
-- `~/Library/Application Support/osu/files` (macOS),
-- `Android/data/sh.ppy.osulazer/files/files` (Android).
+- `%appdata%/osu` (Windows),
+- `~/.local/share/osu` (Linux),
+- `~/Library/Application Support/osu` (macOS),
+- `Android/data/sh.ppy.osulazer/files` (Android).
 
 Pada platform desktop, direktori penyimpanan berkas ini dapat diubah melalui pilihan `Ubah lokasi folder...` yang terdapat pada pengaturan klien lazer.
 
