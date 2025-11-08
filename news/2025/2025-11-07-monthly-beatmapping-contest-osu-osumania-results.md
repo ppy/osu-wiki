@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: osu! & osu!mania Results"
-date: 2025-11-07 20:30:00 +0000
+date: 2025-11-08 18:30:00 +0000
 ---
 
 How did the latest contests pan out? What happens when someone wins the Monthly Beatmapping Contest 6 times? Is osu!mania still breathing? It's time for answers.
@@ -33,7 +33,7 @@ This contest's limitation: **all combos in your map must end in an odd number** 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Winner | [0ppInOsu](https://osu.ppy.sh/users/12551840) | [ak+q - ikasu](https://osu.ppy.sh/beatmapsets/2460502) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +2 (6 total) |
-| Runner-up + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [SONG](LINK) | - | *Elite Mapper II* | +2 (12 total) |
+| Runner-up + [Screener](/wiki/Contests/Monthly_Beatmapping_Contest#screening)'s pick | [fowwo](https://osu.ppy.sh/users/4547551) | [METAROOM - S.N.U.F.F.Y](https://osu.ppy.sh/beatmapsets/2460554) | - | *Elite Mapper II* | +2 (12 total) |
 
 #### Top submissions
 
@@ -61,8 +61,8 @@ This contest's limitation: **submit a 4K map that aims to have the highest star 
 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Winner | [Micleak](https://osu.ppy.sh/users/16140674) | [SONG](LINK) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
-| Runner-up | [Lott](https://osu.ppy.sh/users/13821222) | [SONG](LINK) | - | *Elite Mapper* | +1 (6 total) |
+| Winner | [Micleak](https://osu.ppy.sh/users/16140674) | [SOOOO - illloved](https://osu.ppy.sh/beatmapsets/2460550) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
+| Runner-up | [Lott](https://osu.ppy.sh/users/13821222) | [onumi - Shield](https://osu.ppy.sh/beatmapsets/2460627) | - | *Elite Mapper* | +1 (6 total) |
 
 #### Top submissions
 
