@@ -138,23 +138,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Group stage
 
-### Saturday, 8 November 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| A4 | Norway ::{ flag=NO }:: | ::{ flag=AT }:: Austria | [Nov 08 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T100000&p1=1440&p2=187) | [osulive](https://twitch.tv/osulive) |
-| B4 | New Zealand ::{ flag=NZ }:: | ::{ flag=ID }:: Indonesia | [Nov 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T110000&p1=1440&p2=264&p3=108) | [osulive](https://twitch.tv/osulive) |
-| A5 | Norway ::{ flag=NO }:: | ::{ flag=TH }:: Thailand | [Nov 08 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T110000&p1=1440&p2=187&p3=28) | [osulive_2](https://twitch.tv/osulive_2) |
-| A2 | China ::{ flag=CN }:: | ::{ flag=AT }:: Austria | [Nov 08 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T120000&p1=1440&p2=33) | [osulive](https://twitch.tv/osulive) |
-| A1 | China ::{ flag=CN }:: | ::{ flag=NO }:: Norway | [Nov 08 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T130000&p1=1440&p2=33&p3=187) | [osulive](https://twitch.tv/osulive) |
-| H3 | Japan ::{ flag=JP }:: | ::{ flag=HK }:: Hong Kong | [Nov 08 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T133000&p1=1440&p2=248&p3=102) | [osulive_2](https://twitch.tv/osulive_2) |
-| E2 | Taiwan ::{ flag=TW }:: | ::{ flag=MY }:: Malaysia | [Nov 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T150000&p1=1440&p2=241&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
-| H1 | Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Nov 08 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T150000&p1=1440&p2=248&p3=236) |  |
-| D1 | Brazil ::{ flag=BR }:: | ::{ flag=PH }:: Philippines | [Nov 08 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T160000&p1=1440&p2=45&p3=145) | [osulive](https://twitch.tv/osulive) |
-| G2 | Kazakhstan ::{ flag=KZ }:: | ::{ flag=PT }:: Portugal | [Nov 08 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T160000&p1=1440&p3=133) | [osulive_2](https://twitch.tv/osulive_2) |
-| B3 | Romania ::{ flag=RO }:: | ::{ flag=FI }:: Finland | [Nov 08 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T170000&p1=1440&p2=49&p3=101) | [osulive](https://twitch.tv/osulive) |
-| F2 | Türkiye ::{ flag=TR }:: | ::{ flag=UY }:: Uruguay | [Nov 08 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251108T170000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) |
-
 ### Sunday, 9 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -234,6 +217,23 @@ Friday, 7 November 2025:
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | E5 | **Vietnam** ::{ flag=VN }:: | **5** | 3 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119760678) | [#1](https://www.twitch.tv/videos/2612096191?t=0h4m55s) |
+
+Saturday, 8 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| A4 | **Norway** ::{ flag=NO }:: | **5** | 0 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119768390) | [#1](https://www.twitch.tv/videos/2612848277?t=0h4m56s) |
+| A5 | **Norway** ::{ flag=NO }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119768679) | [#1](https://www.twitch.tv/videos/2612892338) |
+| B4 | **New Zealand** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119768654) | [#1](https://www.twitch.tv/videos/2612848277?t=1h4m42s) |
+| A2 | **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119769022) | [#1](https://www.twitch.tv/videos/2612848277?t=2h4m39s) |
+| A1 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119769529) | [#1](https://www.twitch.tv/videos/2612848277?t=3h4m26s) |
+| H3 | **Japan** ::{ flag=JP }:: | **5** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/119769816) | [#1](https://www.twitch.tv/videos/2612981265) |
+| E2 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/119770650) | [#1](https://www.twitch.tv/videos/2613041406) |
+| H1 | **Japan** ::{ flag=JP }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/119770610) | [#1](https://www.twitch.tv/videos/2612999141?t=0h5m6s) |
+| D1 | Brazil ::{ flag=BR }:: | 3 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/119771221) | [#1](https://www.twitch.tv/videos/2612999141?t=1h4m20s) |
+| G2 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 3 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/119771215) | [#1](https://www.twitch.tv/videos/2613100458) |
+| B3 | Romania ::{ flag=RO }:: | 1 | **5** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/119771875) | [#1](https://www.twitch.tv/videos/2612999141?t=2h15m45s) |
+| F2 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/119771859) | [#1](https://www.twitch.tv/videos/2613132400) |
 
 ### Group stage - Week 1
 
