@@ -7,7 +7,7 @@ tags:
 
 ![Banner del osu! Talk Event](img/banner.png)
 
-El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers#servidores-relacionados-con-la-jugabilidad) en el que diferentes personas realizan charlas sobre diversos asuntos, que giran en torno a un tema específico para cada iteración.
+El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers#jugabilidad) en el que diferentes personas realizan charlas sobre diversos asuntos, que giran en torno a un tema específico para cada iteración.
 
 Los oradores realizan sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!). Durante el evento, se abren hilos de discusión en el canal `#community-meetings`.
 
