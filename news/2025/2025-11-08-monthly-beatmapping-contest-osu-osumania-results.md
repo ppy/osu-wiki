@@ -62,7 +62,7 @@ This contest's limitation: **submit a 4K map that aims to have the highest star 
 | Placement | Users | Beatmap | Badge prize | Title prize | [Contest points](/wiki/Contests/Contest_points) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Winner | [Micleak](https://osu.ppy.sh/users/16140674) | [SOOOO - illloved](https://osu.ppy.sh/beatmapsets/2460550) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | +2 (2 total) |
-| Runner-up | [Lott](https://osu.ppy.sh/users/13821222) | [onumi - Shield](https://osu.ppy.sh/beatmapsets/2460627) | - | *Elite Mapper* | +1 (6 total) |
+| Runner-up | [Lott](https://osu.ppy.sh/users/13821222) | [onumi - Shield](https://osu.ppy.sh/beatmapsets/2460627) | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | +1 (6 total) |
 
 #### Top submissions
 
