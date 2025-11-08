@@ -138,12 +138,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Group stage
 
-### Friday, 7 November 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| E5 | Vietnam ::{ flag=VN }:: | ::{ flag=DK }:: Denmark | [Nov 07 (Fri) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251107T160000&p1=1440&p2=95&p3=69) | [osulive](https://twitch.tv/osulive) |
-
 ### Saturday, 8 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -232,6 +226,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Group stage - Week 2
+
+Friday, 7 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| E5 | **Vietnam** ::{ flag=VN }:: | **5** | 3 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119760678) | [#1](https://www.twitch.tv/videos/2612096191?t=0h4m55s) |
 
 ### Group stage - Week 1
 
