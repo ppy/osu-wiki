@@ -11,7 +11,7 @@ Hầu hết không hoạt động thường xuyên, nhưng giúp bạn cập nh�
 
 | Ảnh đại diện | Tài khoản | Mô tả |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Thông báo về sự cố hoặc gián đoạn của trang web. Xem thêm [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Thông báo về sự cố hoặc gián đoạn của trang web. Xem thêm [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Hỗ trợ về vấn đề tài khoản và/hoặc cộng đồng. Được quản lý bởi [Nhóm Hỗ Trợ Tài Khoản](/wiki/People/Account_support_team). |
 
 ## Cộng đồng
