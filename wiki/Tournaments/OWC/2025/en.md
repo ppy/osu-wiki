@@ -190,7 +190,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   2. [senya - Tokuiten no Kaibutsuteki Kanjou (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/2462140#osu/5386832)
   3. [Tyler, The Creator - Ring Ring Ring (Kataryn) \[Voicemail\]](https://osu.ppy.sh/beatmapsets/2462142#osu/5386835)
 - Free Mod
-  1. *inabakumori - NON-USE (kuyusu) \[owc\] (link pending)*
+  1. [inabakumori - NON-USE (kuyusu) \[owc\]](https://osu.ppy.sh/beatmapsets/1317045#osu/5386902)
   2. [Magdalena Bay - Image (DeviousPanda) \[mirage\]](https://osu.ppy.sh/beatmapsets/2462139#osu/5386826)
   3. [masarada - Liar Dancer (toybot) \[DANSA\]](https://osu.ppy.sh/beatmapsets/2429306#osu/5290020)
 - Tiebreaker
