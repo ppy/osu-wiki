@@ -11,7 +11,7 @@ osu! は **X**（旧Twitter）上に複数のアカウントを持っていま�
 
 | アバター | アカウント | 説明 |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | サイトやサービスの障害に関する通知。関連項目: [Bancho](/wiki/Bancho_\(server\))。 |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | サイトやサービスの障害に関する通知。関連項目: [Bancho](/wiki/Bancho_(server))。 |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | アカウントやコミュニティに関する問題のサポート。 [アカウントサポートチーム](/wiki/People/Account_support_team) によって運営されています。 |
 
 ## コミュニティ
