@@ -11,7 +11,7 @@ osu! มีหลายบัญชีบน **X** (เดิมคือ Twitte
 
 | อวตาร | บัญชี | คำอธิบาย |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | การแจ้งเตือนเกี่ยวกับปัญหาและการหยุดทำงานของเว็บไซต์ ดูเพิ่มเติมที่ [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | การแจ้งเตือนเกี่ยวกับปัญหาและการหยุดทำงานของเว็บไซต์ ดูเพิ่มเติมที่ [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | ให้ความช่วยเหลือเกี่ยวกับปัญหาบัญชีและ/หรือชุมชน ดำเนินการโดย [ทีมสนับสนุนบัญชี](/wiki/People/Account_support_team). |
 
 ## ชุมชน
