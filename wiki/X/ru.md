@@ -11,7 +11,7 @@ outdated_since: <commit_id> iSweat
 
 | Аватар | Аккаунт | Описание |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Уведомления о проблемах и неполадках на сайте. См. также [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Уведомления о проблемах и неполадках на сайте. См. также [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Помощь с проблемами, связанными с аккаунтом и/или сообществом. Управляется [Командой поддержки аккаунтов](/wiki/People/Account_support_team). |
 
 ## Сообщество
