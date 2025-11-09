@@ -11,7 +11,7 @@ A maioria não é muito ativa, mas ajuda a manter você informado fora do ecossi
 
 | Avatar | Conta | Descrição |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notificações sobre problemas e interrupções no site. Veja também [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notificações sobre problemas e interrupções no site. Veja também [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Ajuda com problemas relacionados a contas e/ou à comunidade. Gerenciado pela [Equipe de Suporte de Contas](/wiki/People/Account_support_team). |
 
 ## Comunidade
