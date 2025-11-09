@@ -8,7 +8,7 @@ You're not experiencing auditory hallucinations. **lexxndr**'s music just sticks
 
 ![](https://assets.ppy.sh/artists/510/header.jpg)
 
-Self-taught composer **lexxndr** has been constructing their own form of jungle, drum & bass, and breakcore for the past 4 years. They've been influenced by the likes of [*# Sewerslvt / Cynthoni*](https://osu.ppy.sh/beatmaps/artists/169), *DM DOKURO*, *Rory in early 20s*, and even a bit of osu! via exposure to a variety of artists. As of today, **lexxndr** is joining osu!'s Featured Artist, and might influence another aspiring artist years down the line!
+Self-taught composer **lexxndr** has been constructing their own form of jungle, drum & bass, and breakcore for the past 4 years. They've been influenced by the likes of [*Sewerslvt / Cynthoni*](https://osu.ppy.sh/beatmaps/artists/169), *DM DOKURO*, *Rory in early 20s*, and even a bit of osu! via exposure to a variety of artists. As of today, **lexxndr** is joining osu!'s Featured Artist, and might influence another aspiring artist years down the line!
 
 A grand total of **25** songs have wandered into [**lexxndr**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/510). And they're not leaving.
 
