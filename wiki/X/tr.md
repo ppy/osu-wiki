@@ -11,7 +11,7 @@ osu!‘nun **X**’te (eski adıyla Twitter) birkaç hesabı vardır, her biri b
 
 | Avatar | Hesap | Açıklama |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Web sitesiyle ilgili sorunlar ve kesintiler hakkında bildirimler. Ayrıca bkz. [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Web sitesiyle ilgili sorunlar ve kesintiler hakkında bildirimler. Ayrıca bkz. [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Hesap ve/veya toplulukla ilgili sorunlar için yardım. [Hesap Destek Ekibi](/wiki/People/Account_support_team) tarafından yönetilmektedir. |
 
 ## Topluluk
