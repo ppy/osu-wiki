@@ -11,7 +11,7 @@ Most are not very active, but they help keep you informed outside the osu! ecosy
 
 | Avatar | Account | Description |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notifications about website issues and service outages. See also [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notifications about website issues and service outages. See also [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Help with account- and community-related issues. Managed by the [Account Support Team](/wiki/People/Account_support_team). |
 
 ## Community
