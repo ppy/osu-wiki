@@ -11,7 +11,7 @@ osu! 在 **X**（原名 Twitter）上有多个账号，每个账号都有其特�
 
 | 头像 | 账号 | 描述 |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | 有关网站问题和服务中断的通知。参见 [Bancho](/wiki/Bancho_\(server\))。 |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | 有关网站问题和服务中断的通知。参见 [Bancho](/wiki/Bancho_(server))。 |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | 提供与账户和/或社区相关问题的帮助。由 [账户支持团队](/wiki/People/Account_support_team) 管理。 |
 
 ## 社区
