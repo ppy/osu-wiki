@@ -2,7 +2,7 @@
 
 Мапперы из [Mappers' Guild](/wiki/Community/Mappers_Guild) время от времени создают эксклюзивные карты на песни ещё не опубликованных исполнителей из списка [Featured Artists](/wiki/People/Featured_Artists). Эти карты впоследствии упоминаются в [новостях](https://osu.ppy.sh/home/news) с анонсами соответствующих музыкантов, а также часто рекламируются в [твиттере @osugame](https://twitter.com/osugame).
 
-Чтобы замапать промо-карту Featured Artist, член Mappers' Guild должен начать [таинственный временный квест](/wiki/Community/Mappers_Guild#quests) или получить приглашение от ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), либо чтобы в его профиле на [сайте Mappers' Guild](https://mappersguild.com/) была включена опция `FA showcase mapper`.
+Чтобы замапать промо-карту Featured Artist, член Mappers' Guild должен начать [таинственный временный квест](/wiki/Community/Mappers_Guild#квесты) или получить приглашение от ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), либо чтобы в его профиле на [сайте Mappers' Guild](https://mappersguild.com/) была включена опция `FA showcase mapper`.
 
 Ниже перечислены все промо-карты, замапанные членами Mappers' Guild.
 
