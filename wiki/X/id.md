@@ -11,7 +11,7 @@ Sebagian besar tidak terlalu aktif, tetapi tetap membantu memberikan informasi d
 
 | Avatar | Akun | Deskripsi |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notifikasi tentang masalah atau gangguan pada situs web. Lihat juga [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notifikasi tentang masalah atau gangguan pada situs web. Lihat juga [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Bantuan untuk masalah terkait akun dan/atau komunitas. Dikelola oleh [Tim Dukungan Akun](/wiki/People/Account_support_team). |
 
 ## Komunitas
