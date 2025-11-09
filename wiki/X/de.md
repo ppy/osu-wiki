@@ -11,7 +11,7 @@ Die meisten sind nur wenig aktiv, bieten aber eine Möglichkeit, sich auch auße
 
 | Avatar | Konto | Beschreibung |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Benachrichtigungen über Probleme mit der Website oder deren Nutzung. [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Benachrichtigungen über Probleme mit der Website oder deren Nutzung. [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Unterstützung bei Konto- oder Community-Problemen. Verwaltet vom [Account Support Team](/wiki/People/Account_support_team). |
 
 ## Community
