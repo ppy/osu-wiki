@@ -11,7 +11,7 @@ Majoritatea nu sunt foarte active, dar ajută la informarea utilizatorilor în a
 
 | Avatar | Cont | Descriere |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notificări despre problemele și întreruperile site-ului. Vezi și [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Notificări despre problemele și întreruperile site-ului. Vezi și [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Ajutor pentru probleme legate de conturi și/sau comunitate. Administrat de [Echipa de Suport a Conturilor](/wiki/People/Account_support_team). |
 
 ## Comunitate
