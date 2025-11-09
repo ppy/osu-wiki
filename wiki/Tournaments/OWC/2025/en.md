@@ -293,7 +293,7 @@ Sunday, 9 November 2025:
 | F4 | **Argentina** ::{ flag=AR }:: | **5** | 4 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/119784197) | [#1](https://www.twitch.tv/videos/2614160224) |
 | G5 | Ukraine ::{ flag=UA }:: | 2 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/119784965) |  |
 
-Friday, 1 November 2025:
+Friday, 31 October 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
