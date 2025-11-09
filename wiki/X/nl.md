@@ -11,7 +11,7 @@ De meeste zijn niet erg actief, maar helpen om buiten het osu!-ecosysteem op de 
 
 | Avatar | Account | Beschrijving |
 | :-: | :-: | :-- |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Meldingen over websiteproblemen of storingen. Zie ook [Bancho](/wiki/Bancho_\(server\)). |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://x.com/osustatus) | Meldingen over websiteproblemen of storingen. Zie ook [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osu-support.png) | [@osusupport](https://x.com/osusupport) | Hulp bij account- of communityproblemen. Beheerd door het [Account Support Team](/wiki/People/Account_support_team). |
 
 ## Gemeenschap
