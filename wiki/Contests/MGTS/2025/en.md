@@ -35,15 +35,25 @@ The top 3 teams were awarded with the following prizes:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 3 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 [contest point](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st Place") | Unique profile badge, 3 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd Place") | 2 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd Place") | 1 [contest point](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+
+## Podium
+
+This contest has come to an end and resulted in the following podium:
+
+| Rank | Team | Beatmaps | Scores |
+| :-: | :-- | :-- | :-: |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **唐揚げ弁当** (::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2412119) + [Hatching](https://osu.ppy.sh/beatmapsets/2411983) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66184/results "Judging Details") |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **we go running** (::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=SG }:: [YonGin](https://osu.ppy.sh/users/7109317)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410290) + [Hatching](https://osu.ppy.sh/beatmapsets/2410278) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66185/results "Judging Details") |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **uhhasdl;fh ads;fhlasd;lhjg** (::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=VN }:: [chairIess](https://osu.ppy.sh/users/26031453), ::{ flag=VN }:: [linedcolt](https://osu.ppy.sh/users/33754270)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410446) + [Hatching](https://osu.ppy.sh/beatmapsets/2410697) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66176/results "Judging Details") |
 
 ## Links
 
 - [Main website](https://gtsosu.com/2025/mgts/home)
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-06-01-mgts-2025-registrations)
-- [Contest listing](https://osu.ppy.sh/community/contests/248)
+- [Contest listing + results](https://osu.ppy.sh/community/contests/248)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/2086331)
 - [Discord server](https://discord.com/invite/3mGC3HB)
 - [Twitch channel](https://www.twitch.tv/gtsosu)
