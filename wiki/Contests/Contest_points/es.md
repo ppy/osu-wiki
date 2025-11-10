@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: b88985240688c5941723e0c576b14fe1143eaabd
----
-
 # Puntos de los concursos
 
-Los **puntos de los concursos** son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**.
+Los **puntos de los concursos** son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**. ¡Los usuarios que superen los requisitos también pueden obtener el título *Elite Mapper II* al alcanzar los 12 puntos!
 
 Los puntos de los concursos también pueden concederse como beneficio del [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) bajo [ciertas circunstancias](/wiki/Contests/Official_support#elegibilidad).
 
@@ -41,7 +36,7 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 
 | Usuario | Puntos | Concursos |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [**fowwo**](https://osu.ppy.sh/users/4547551) | **10** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [**fowwo**](https://osu.ppy.sh/users/4547551) | **12** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [**xbopost**](https://osu.ppy.sh/users/6842421) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [**kuyusu**](https://osu.ppy.sh/users/11758667) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [**hypercyte**](https://osu.ppy.sh/users/9155377) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -50,9 +45,9 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | ::{ flag=KR }:: [**Acylica**](https://osu.ppy.sh/users/1943309) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BE }:: [**Sylas**](https://osu.ppy.sh/users/3906405) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [**phyr**](https://osu.ppy.sh/users/13181574) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) (2) |
+| ::{ flag=CN }:: [**iBell**](https://osu.ppy.sh/users/4298072) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) (2) |
+| ::{ flag=DE }:: [**0ppInOsu**](https://osu.ppy.sh/users/12551840) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
-| ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -160,7 +155,7 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=AU }:: [**oct4**](https://osu.ppy.sh/users/10303887) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=VN }:: [**Lott**](https://osu.ppy.sh/users/13821222) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -168,6 +163,7 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TW }:: [Xinhong1003](https://osu.ppy.sh/users/19821902) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
@@ -183,3 +179,5 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 Antes de octubre de 2022, los puntos de los concursos eran exclusivos del [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) y se les llamaba *puntos MBC*. Con la introducción de la [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), los puntos pasaron a llamarse *puntos de los concursos* y se han readaptado para ser usados en otros concursos oficiales de mapping con el fin de proporcionar un camino simplificado hacia el título de *Elite Mapper*.
 
 A partir de enero de 2023, la elegibilidad para los puntos de los concursos se ha perfilado en base a la [distribución de los puntos](#distribución-de-los-puntos). Los puntos obtenidos antes de este cambio no se ajustarán.
+
+Después de los resultados del [Monthly Beatmapping Contest de agosto de 2025](https://osu.ppy.sh/home/news/2025-08-06-monthly-beatmapping-contest-august-2025), [fowwo](https://osu.ppy.sh/users/4547551) alcanzó los 12 puntos en total. Para premiar el éxito constante en los concursos, a partir de ahora se concederá el título de *Elite Mapper II* a los usuarios que alcancen este nuevo umbral.
