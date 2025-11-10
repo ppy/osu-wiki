@@ -39,6 +39,8 @@ The top 3 teams were awarded with the following prizes:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd Place") | 2 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd Place") | 1 [contest point](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
 
+![](https://assets.ppy.sh/profile-badges/mapping-global-taiko-showdown-2025-winner@2x.png "MGTS 2025 winning team badge")
+
 ## Podium
 
 This contest has come to an end and resulted in the following podium:
