@@ -180,4 +180,4 @@ Antes de octubre de 2022, los puntos de los concursos eran exclusivos del [Month
 
 A partir de enero de 2023, la elegibilidad para los puntos de los concursos se ha perfilado en base a la [distribución de los puntos](#distribución-de-los-puntos). Los puntos obtenidos antes de este cambio no se ajustarán.
 
-Después de los resultados del [Monthly Beatmapping Contest de agosto de 2025](https://osu.ppy.sh/home/news/2025-08-06-monthly-beatmapping-contest-august-2025), [fowwo](https://osu.ppy.sh/users/4547551) alcanzó los 12 puntos en total. Para premiar el éxito constante en los concursos, a partir de ahora se concederá el título de *Elite Mapper II* a los usuarios que alcancen este nuevo límite.
+Después de los resultados del [Monthly Beatmapping Contest de agosto de 2025](https://osu.ppy.sh/home/news/2025-08-06-monthly-beatmapping-contest-august-2025), [fowwo](https://osu.ppy.sh/users/4547551) alcanzó los 12 puntos en total. Para premiar el éxito constante en los concursos, a partir de ahora se concederá el título de *Elite Mapper II* a los usuarios que alcancen este nuevo umbral.
