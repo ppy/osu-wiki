@@ -233,7 +233,7 @@ It's actually my first time being in a position higher than what I usually do, w
 
 </div>
 
-If you are interested in delving even deeper into the entire process from zero to one hundred of the production of this year, you may read OsuMe65’s document about it [here](https://osume65.s-ul.eu/iH5xyofB).
+If you are interested in delving even deeper into the entire process from zero to one hundred of the production of this year, you may read OsuMe65’s document about it [here](https://osume65.s-ul.eu/HggIsZEK).
 
 ## Staff interviews
 
