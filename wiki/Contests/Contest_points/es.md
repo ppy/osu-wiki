@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b88985240688c5941723e0c576b14fe1143eaabd
+---
+
 # Puntos de los concursos
 
 Los **puntos de los concursos** son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**.
