@@ -115,7 +115,7 @@ Using rest moments less frequently is acceptable if either the pace of the music
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 3 or less.
-- HP Drain Rate should be 8 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 8, and vice versa for lower note counts.
+- HP Drain Rate should be 8 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
@@ -143,7 +143,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 4 or less.
-- HP Drain Rate should be 7 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 7, and vice versa for lower note counts.
+- HP Drain Rate should be 7 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
@@ -165,7 +165,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or less.
-- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6, and vice versa for lower note counts.
+- HP Drain Rate should be 6 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
@@ -198,4 +198,8 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be more than 5.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- HP Drain Rate should be 5 or more[^hp-note].
+
+## Notes
+
+[^hp-note]: In cases of higher note count or song length, HP Drain Rate could be slightly lowered, and vice versa for lower note count or song length.
