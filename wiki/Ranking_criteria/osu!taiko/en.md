@@ -202,4 +202,4 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 ## Notes
 
-[^hp-note]: In cases of higher note count or song length, HP Drain Rate could be slightly lowered, and vice versa for lower note count or song length.
+[^hp-note]: In cases of higher note count or song length, HP Drain Rate should be slightly lowered, and vice versa for lower note count or song length.
