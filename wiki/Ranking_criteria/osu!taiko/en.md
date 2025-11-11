@@ -91,7 +91,7 @@ Using rest moments less frequently is acceptable if either the pace of the music
 **Each difficulty should follow its respective rest moment guidelines:**
 
 | Difficulty | Rest moment | Example | Chain length |
-| :-- | :-: | :-: | :-- |
+| :-: | :-: | :-: | :-- |
 | ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 or longer | ![3/1](img/kantan.png "3/1") | Rest moment needed every 32–36 beats |
 | ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 or longer | ![2/1](img/futsuu.png "2/1") | Rest moment needed every 32–36 beats |
 | ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 1) | 3/2 or longer | ![3/2](img/muzu1.png "3/2") | Rest moment needed every 32–36 beats |
