@@ -62,6 +62,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 
 Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
+- **There should not be any drastically large difficulty gaps between any two difficulties below Inner Oni**, with leniency being applied between guest difficulties to make coordinating a spread between multiple mappers easier.
 - **Avoid covering essential parts of the background with the taiko playfield.**
 - **If slider velocity changes are in use, they should correspond to pacing changes in the song.** That means not speeding up calm parts, or slowing down fast paced parts of a song.
 - **Avoid using smooth slider velocity changes over sections which include variable snapping.** Doing so impacts the readability of these snappings, so keep the variation low enough to avoid overlapping.
