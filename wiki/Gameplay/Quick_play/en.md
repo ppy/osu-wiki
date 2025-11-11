@@ -10,7 +10,7 @@ tags:
 
 # Quick play
 
-**Quick play** is a queue-based multiplayer mode introduced to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on October 29, 2025 ([release](https://github.com/ppy/osu/releases/tag/2025.1029.1-lazer)). It is the first queue-based multiplayer system introduced to the game.
+**Quick play** is a queue-based multiplayer mode introduced to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on October 29, 2025 ([release](https://osu.ppy.sh/home/changelog/lazer/2025.1029.1)). It is the first queue-based multiplayer system introduced to the game.
 
 *Note: osu!mania 4K and 7K are split into separate queues and are thus referred to as separate modes.*
 
@@ -67,7 +67,7 @@ Beatmaps are also rated according to the level which they are appropriate to be 
 
 Beatmaps used in quick play are currently curated by a team of community volunteers. The full list of available beatmaps for all modes is publicly available via [this spreadsheet](https://docs.google.com/spreadsheets/d/1ZbvLvHlXH3IF1WgN4YkHqOttO7wG-1Duto-535tqKnQ/edit?gid=0#gid=0).
 
-Each mode has a mappool curated by community members who are familiar with beatmaps for that mode specifically. All beatmaps featured in this mode are Ranked, Approved, or Loved.
+Each mode has a mappool curated by community members who are familiar with beatmaps for that mode specifically. All beatmaps featured in this mode are either Ranked, Approved, or Loved.
 
 ## FAQ
 
