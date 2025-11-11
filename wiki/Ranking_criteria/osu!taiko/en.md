@@ -34,7 +34,7 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 - **Slider velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
 - **Smooth slider velocity changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
 - **Improvisation:** Having more notes than the actual song is providing.
-- **Taiko template background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
+- **[Taiko template background](/wiki/Beatmap/Background/Taiko_template_background):** Background images that simulate authentic Taiko no Tatsujin gameplay.
 
 ## Overall
 
@@ -49,7 +49,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
 - **Each note must have its colour clearly distinguishable from the previous and upcoming notes.**
 - **Every note must be clearly assignable to a [musical layer](/wiki/Music_theory/Layer) or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
-- **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
+- **[Taiko template backgrounds](/wiki/Beatmap/Background/Taiko_template_background) must not be used.** They do not work as they were originally intended to in more common aspect ratios.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Futsuu.
