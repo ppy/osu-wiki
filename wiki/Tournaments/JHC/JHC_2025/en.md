@@ -9,7 +9,7 @@ tags:
 
 # Jack House Cup 2025
 
-![JHC 2025 banner](img/JHC-2025-banner.png)
+![JHC 2025 banner](img/JHC-2025-banner.jpg)
 
 The **Jack House Cup 2025** (***JHC 2025***) is a team–based osu!mania 4K tournament hosted by ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308), and ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234). It is the second instalment of the Jack House Cup.
 
@@ -397,7 +397,7 @@ Sunday, 3 August 2025:
 
 | # | Team Red |  |  | Team Blue | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 60 | **GangWonDuo** | **0** | -1 | Moegi & Maria | [*win by default*](https://osu.ppy.sh/community/matches/118861587) |
+| 60 | **GangWonDuo** | **0** | -1 | Moegi & Maria | [*win by default*](https://osu.ppy.sh/community/matches/118861587) |  |
 | 59 | **kutto** | **7** | 0 | 1557 | [#1](https://osu.ppy.sh/community/matches/118864447) | [#1](https://www.bilibili.com/video/BV1bWtqzzEHU) |
 
 ### Semifinals
