@@ -133,6 +133,7 @@ Los mapas de canciones procedentes de otros juegos suelen tomar prestado el esqu
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea

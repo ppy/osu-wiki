@@ -36,7 +36,7 @@ Check them all out below:
 
 ![](/wiki/shared/news/2025-06-01-mgts-2025-registrations/axisbreak.jpg)
 
-| Song | [X](https://soundcloud.com/foodbot)/[Y](https://soundcloud.com/mrcool909090)/[Z](https://soundcloud.com/silis) - axis::BREAK |
+| Song | [X](https://soundcloud.com/foodbot)/[Y](https://soundcloud.com/mrcool909090)/[Z](https://soundcloud.com/silis) - [axis::BREAK](https://soundcloud.com/foodbot/axisbreak) |
 | :-- | :-- |
 | **Length** | 2:52 |
 | **BPM** | 202 |
@@ -84,8 +84,7 @@ If you're having any issues with the registration process, please don't hesitate
 | Event | Timestamp (UTC) |
 | --: | :-- |
 | Registration and submission phase | 1 June – 29 June 23:59 |
-| Screening phase | *Tentative* |
-| Judging phase | 30 June – 26 July |
+| Judging phase | 1 July – 26 July |
 | Results | 27 July |
 
 The schedule may be subject to change depending on how the contest progresses — we'll be sure to announce any changes in the [Discord server](https://discord.com/invite/3mGC3HB).

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: cc8502f995615a9b23f80a2281fcfe40cb446a60
----
-
 # 升级到 lazer
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。
@@ -38,7 +33,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 功能 | stable | lazer |
 | :-- | :-- | :-- |
 | 皮肤支持 | ![支持][true] | ![部分支持][partial][^gameplay-only] |
-| 歌曲选择分组模式 | ![支持][true] | ![不支持][false] |
+| 歌曲选择分组模式 | ![支持][true] | ![支持][true] |
 | 游戏内皮肤 / UI 布局编辑 | ![不支持][false] | ![支持][true] |
 | 自定义动态皮肤组件 | ![不支持][false] | ![支持][true] |
 
@@ -77,7 +72,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 提交分数 | ![支持][true] | ![支持][true] |
 | 谱面排行榜 | ![支持][true] | ![支持][true] |
 | 主页统计数据 | ![支持][true] | ![支持][true] |
-| 奖章 (成就) | ![支持][true] | ![部分支持][partial][^medals-lazer] |
+| 奖章 (成就) | ![部分支持][partial][^medals-stable] | ![部分支持][partial][^medals-lazer] |
 | 表现分 (pp) | ![支持][true] | ![支持][true] |
 | 实时聊天 | ![部分支持][partial][^stable-chat] | ![支持][true] |
 | Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false] | ![支持][true][^online-content] |
@@ -109,7 +104,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 调整物件大小 | ![不支持][false] | ![支持][true] |
 | 提交谱面 | ![支持][true] | ![支持][true] |
 | 故事板编辑器 | ![支持][true] | ![不支持][false] |
-| 交叉兼容性 | ![支持][true] | ![部分支持][partial][^incompatibilities] |
+| 交叉兼容性 | ![支持][true] | ![支持][true] |
 
 ## 切换至 lazer
 
@@ -342,7 +337,6 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^multi-room-max]: 最多 16 个玩家。
 [^map-only]: 只更新谱面文件。
 [^all-files]: 更新所有文件。
-[^incompatibilities]: 一些编辑器功能会导致谱面在稳定版内显示异常——将来修复。
 [^stable-chat]: 通常需要 15 秒来接收新消息。
 [^countdown-timers-stable]: 使用指令来倒计时。对局不会自动开始。
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
@@ -350,6 +344,7 @@ lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如�
 [^freestyle]: 开启它，即可允许房内所有玩家进入歌曲选择界面，并选择当前谱面的任意难度或游戏模式。
 [^difficulty-adjust]: 直接在歌曲选择界面使用难度调整 (Difficulty Adjust) 模组，来更改谱面的 CS/AR/OD/HP。
 [^medals-lazer]: 部分[隐藏 (Hush-Hush) 奖章](/wiki/Medals#隐藏)还无法获取。
+[^medals-stable]: 部分奖章为 lazer 专属奖章。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

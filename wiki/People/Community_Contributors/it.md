@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Collaboratori della community
 
 ::: Infobox
@@ -12,9 +8,9 @@ no_native_review: true
 ![Badge del collaboratore della nuova era](/wiki/shared/contributor-new-era.png "Badge del collaboratore della nuova era")
 :::
 
-I **Collaboratori della community** sono le persone che hanno preso l'iniziativa di provvedere servizi alla community di osu! a caro prezzo per loro - strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera community.
+I **Collaboratori della community** sono le persone che hanno preso l'iniziativa di provvedere servizi alla community di osu! a caro prezzo per loro – strumenti e funzionalità che molti di noi danno per scontato ora. Questi utenti ricevono un badge per indicare che hanno fatto qualcosa degno di nota per l'intera community.
 
-Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della community é dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della community.
+Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni), ex membri del team di osu! che si sono ritirati. Il badge per i Collaboratori della community è dato a liberi professionisti che sono andati al di là del proprio dovere per migliorare osu! e l'ambiente della community.
 
 I collaboratori che hanno registrato il loro account in un'epoca precedente del gioco hanno il [design originale del badge](#storia) sul loro profilo, mentre i collaboratori più recenti ricevono una variante più colorata.
 
@@ -30,21 +26,21 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 | Utente | Contributi |
 | :-- | :-- |
-| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (da `.osr` a Video su YouTube.) |
-| ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hosta e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e tutto il resto. |
+| ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (da `.osr` a video su YouTube). |
+| ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Ospita e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e altro. |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Grafica degli [Obiettivi](/wiki/Medals). |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Sviluppa e mantiene [AIBat](https://osu.ppy.sh/community/forums/topics/55305), il più popolare strumento di modding delle beatmap di terze parti. |
-| ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Ha contribuito a risolvere numerosissimi bug e a provare delle funzionalità. Inoltre, ha creato numerosi strumenti per mapper e modders. |
+| ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Ha contribuito a risolvere numerosissimi bug e a testare funzionalità. Inoltre, ha creato numerosi strumenti per mapper e modder. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Ha organizzato molti tornei ufficiali di grande rilevanza (incluso l'[OWC](/wiki/Tournaments/OWC)). |
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Folle record di moderazione (equivalente a circa 6 membri dello staff) e ha gestito e moderato manualmente `#osu` durante le ore di punta (Più di 9000 utenti). |
+| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | Record straordinario di moderazione (equivalente a circa 6 membri dello staff) e ha gestito e moderato `#osu` manualmente durante le ore di punta (più di 9000 utenti). |
 | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | Sviluppa e mantiene [osu!stats](http://osustats.ppy.sh/) e un numero imprecisato di strumenti per creare, moddare e giocare beatmaps in generale. |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Ha contribuito a risolvere numerosissimi bug e a provare delle funzionalità. Inoltre, ha gestito numerose richieste di supporto da parte degli utenti. |
-| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Più di 3 anni di duro lavoro silenzioso per creare [pacchetti beatmaps](https://osu.ppy.sh/p/packlist) e gestire i grafici |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Anni ed anni di servizio. In particolare, ha creato skin per le beatmap originali, creato [storyboard](/wiki/Storyboard) avanzati, comparabili  a vere opere d'arte e ha motivato il team. |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestione della community iniziale e moderazione ed enormi contributi nel corso del tempo. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | E' stato il primo gestore della community e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
-| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | E' stato il primo gestore dello staff e gestore dei [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) e ha creato un team di moderazione beatmap d'elite dal nulla. |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Ha contribuito a risolvere numerosissimi bug e a testare funzionalità. Inoltre, ha gestito molte richieste di supporto da parte degli utenti. |
+| ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Più di 3 anni di duro lavoro silenzioso per creare [pacchetti beatmap](https://osu.ppy.sh/p/packlist) e gestire le classifiche. |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Anni ed anni di servizio. In particolare, creazione di skin per le beatmap originali, storyboard avanzati e motivazione per il team. |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestione iniziale della community e moderazione, con enormi contributi nel tempo. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Primo gestore della community e moderatore globale, ha definito alti standard per i [GMT](/wiki/People/Global_Moderation_Team). |
+| ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Primo gestore dello staff e dei [BATmanager](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers), ha creato un team di moderazione beatmap d'elite dal nulla. |
 
 ### 2015
 
@@ -272,7 +268,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Contributo eccezionale alla scena del modding e del mapping di osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Contributo eccezionale alla scena dei tornei e del mapping di osu!mania |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Contributo eccezionale allo sviluppo dei punti performance attraverso strumenti integrali ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Contributo eccezionale allo sviluppo dei punti performance e alla manutenzione di osu!(stable) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Contributo eccezionale allo sviluppo dei punti performance e alla manutenzione di osu!(stable) |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Contributo eccezionale nell'unire la community negli eventi [r/place](https://www.reddit.com/r/place/) di Reddit |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Contributo eccezionale alla documentazione della community sui replay e allo sviluppo di strumenti |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Contributo eccezionale alla community attraverso lo sviluppo di strumenti ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |

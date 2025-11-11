@@ -266,7 +266,7 @@
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 在 osu!mania 的摸图和作图领域中做出了卓越贡献 |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | 在 osu!mania 的比赛和作图领域中做出了卓越贡献 |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | 在表现分系统和单独的小工具开发中做出了卓越贡献 ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | 在表现分系统开发和 osu!(stable) 维护中做出了卓越贡献 |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | 在表现分系统开发和 osu!(stable) 维护中做出了卓越贡献 |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | 在 Reddit [r/place](https://www.reddit.com/r/place/) 活动中统领社区，做出了卓越贡献 |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | 在社区回放文档和工具开发中做出了卓越贡献 |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | 开发了小工具 ([osu-trainer](https://github.com/FunOrange/osu-trainer))，对社区做出了卓越贡献 |

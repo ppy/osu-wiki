@@ -121,6 +121,8 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dieselben Mods zu aktivieren!
 - `Strg` + `Eingabe` in der Songauswahl startet eine Beatmap im automatischen Modus!
 - "Lazer" ist kein englisches Wort. Das grelle Licht schreibt sich "laser".
+- Klicke mit der rechten Maustaste nahe dem Beatmap-Karussell, um schnell an eine absolute Position zu scrollen!
+- Klicke mit der Shift-Taste auf ein Beatmap-Panel in der Beatmap-Auflistung, um die Beatmap schnell herunterzuladen oder in der Songauswahl anzuzeigen!
 
 ## Siehe auch
 

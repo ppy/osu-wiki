@@ -27,6 +27,7 @@ Official tournaments organised by the osu! team.
 | [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=DE }:: Germany |
 | [osu! World Cup 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=AU }:: Australia |
+| [osu! World Cup 2025](OWC/2025) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -65,7 +66,7 @@ Official tournaments organised by the osu! team.
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=CN }:: China |
 | [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=IT }:: Italy |
 | [osu!catch World Cup 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PL }:: Poland |
-| [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | *TBD* | *TBD* | *TBD* |
+| [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | ::{ flag=AR }:: Argentina | ::{ flag=US }:: United States | ::{ flag=FI }:: Finland |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -91,6 +92,7 @@ Official tournaments organised by the osu! team.
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 2023-12-15 | 2024-02-25 | ::{ flag=KR }:: South Korea | ::{ flag=MY }:: Malaysia | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: United States | ::{ flag=CN }:: China | ::{ flag=TH }:: Thailand |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippines |
+| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China |
 
 ## Community
 
@@ -170,6 +172,16 @@ Unofficial tournaments/competitions hosted by the communities.
 | Aus/NZ osu!standard Tournament 11 - Summer | 2024-01-27 | 2024-03-11 | santa deniers | jelqmaxxers | ASecretDozer |
 | Aus/NZ osu!standard Tournament 11 - Winter | 2024-07-15 | 2024-09-08 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
 | Aus/NZ osu!standard Tournament 12 - Summer | 2025-01-25 | 2025-03-23 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
+
+#### Azu's Tourneys
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vanilla vs Chocolate | 2019-09-23 | 2019-10-20 | Vanilla | Chocolate | N/A |
+| Cats vs Dogs | 2019-11-04 | 2019-12-22 | Cats | Dogs | N/A |
+| owo vs uwu | 2020-01-19 | 2020-03-21 | uwu | owo | N/A |
+| Coffee vs Tea | 2020-04-18 | 2020-06-27 | Tea | Coffee | N/A |
+| Summer vs Winter | 2021-03-15 | 2021-05-16 | Summer | Winter | N/A |
 
 #### BubblyQT
 
@@ -325,7 +337,8 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 2024-09-15 | 2024-11-02 | 这是什么 | 沟槽的烤翅还在开战舰追我 | Bingo! |
+| [osu! FumoFumo Cup: Summer Lights](OFFC/summer-lights) | 2025-07-05 | 2025-09-01 | 多啦A梦 | zako psc | 不是夏天我不草 |
 
 #### osu! Indonesia Tournament
 
@@ -438,7 +451,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Resurrection Cup: Cataclysm Contest | 2022-11-04 | 2022-12-18 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
 | [Resurrection Cup 2023](RESC/2023) | 2023-06-16 | 2023-07-30 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 2024-06-14 | 2024-07-28 | kotomiler | fresh off the boat | Bobik |
-| [Resurrection Cup 2025](RESC/2025) | 2025-05-18 | 2025-07-27 | *TBD* | *TBD* | *TBD* |
+| [Resurrection Cup 2025](RESC/2025) | 2025-05-18 | 2025-08-10 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
 
 #### ROI PRO Tournament
 
@@ -525,6 +538,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Vin-Tana Solo Showdown](VTSS/1) | 2021-09-26 | 2021-11-28 | ::{ flag=GB }:: [Sspannish](https://osu.ppy.sh/users/11418478) | ::{ flag=US }:: [Geag](https://osu.ppy.sh/users/16052525) | ::{ flag=JP }:: [skit\_3980](https://osu.ppy.sh/users/19514272) |
+
+#### We Go March! retot's Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [We Go March! retot's Tournament](WGMRT/1) | 2025-04-07 | 2025-05-25 | **最tua & 黒 se世界** (::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450), ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206), ::{ flag=ID }:: [Crownest](https://osu.ppy.sh/users/18135280), ::{ flag=ID }:: [c4w](https://osu.ppy.sh/users/15815159)) | **#PEGAONTOP** (::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [ThatNOOBguy](https://osu.ppy.sh/users/11091594), ::{ flag=ID }:: [Somay 287](https://osu.ppy.sh/users/4314559), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988), ::{ flag=ID }:: [-Blue21-](https://osu.ppy.sh/users/12517079), ::{ flag=ID }:: [Worcester](https://osu.ppy.sh/users/24025848)) | **5 Melon 1 Korean** (::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227), ::{ flag=ID }:: [salt and honey](https://osu.ppy.sh/users/8688737), ::{ flag=ID }:: [Anhydrous](https://osu.ppy.sh/users/11272510), ::{ flag=ID }:: [Kozakura-](https://osu.ppy.sh/users/4473506), ::{ flag=ID }:: [RockingSushi](https://osu.ppy.sh/users/19371191), ::{ flag=ID }:: [agato](https://osu.ppy.sh/users/28901730)) |
 
 #### Yaz's Summer Cup
 
@@ -722,6 +741,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch the Beat Indonesia Cup 2022](CIC/2022) | 2022-03-04 | 2022-04-10 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 | [Catch the Beat Indonesia Cup 2023](CIC/2023) | 2023-07-15 | 2023-08-27 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
 | [Catch the Beat Indonesia Cup Open 2024](CIC/Open_2024) | 2024-07-08 | 2024-09-01 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
+| [Catch the Beat Indonesia Cup Open 2025](CIC/Open_2025) | 2025-07-28 | 2025-09-14 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
 
 #### Indonesia Convert Cup
 
@@ -839,6 +859,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 2021-11-06 | 2021-12-19 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Brasil](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 2023-10-28 | 2023-12-17 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | [One Key World Cup 2024](JOKE/1KWC_2024) | 2024-05-04 | 2024-06-16 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=AU }:: Australia-A |
+| [One Key World Cup 2025](JOKE/1KWC_2025) | 2025-04-26 | 2025-06-08 | ::{ flag=JP }:: Japan | ::{ flag=US }:: United States | ::{ flag=GB }:: United Kingdom |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
 
 #### Mania Beginner's Showdown
 

@@ -182,22 +182,27 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 | ::{ flag=CA }:: **[UmmmMrMoo](https://osu.ppy.sh/users/15314355)** | **22** |
 | ::{ flag=ID }:: **[Wishtynite](https://osu.ppy.sh/users/14217379)** | **20** |
 | ::{ flag=US }:: **[0143](https://osu.ppy.sh/users/32695517)** | **15** |
+| ::{ flag=CN }:: **[Carpihat](https://osu.ppy.sh/users/10085090)** | **13** |
 | ::{ flag=PL }:: **[bagjettka](https://osu.ppy.sh/users/18338179)** | **12** |
 | ::{ flag=TH }:: **[AOMDco](https://osu.ppy.sh/users/21072569)** | **10** |
 | ::{ flag=US }:: **[mashu](https://osu.ppy.sh/users/12028216)** | **10** |
 | ::{ flag=TH }:: **[Monpluk](https://osu.ppy.sh/users/23299675)** | **10** |
 | ::{ flag=VN }:: **[Joki_](https://osu.ppy.sh/users/18043326)** | **10** |
 | ::{ flag=KR }:: **[lnote_](https://osu.ppy.sh/users/14631339)** | **10** |
-| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | 8 |
+| ::{ flag=CN }:: **[ExNeko](https://osu.ppy.sh/users/7590894)** | **10** |
 | ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829) | 7 |
+| ::{ flag=US }:: [TPColor](https://osu.ppy.sh/users/19102458) | 6 |
 | ::{ flag=US }:: [[GS]Teo](https://osu.ppy.sh/users/7081478)[^previous-prize] | 5 |
 | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200)[^previous-prize] | 5 |
 | ::{ flag=VN }:: [longnguyen2004](https://osu.ppy.sh/users/3874031) | 5 |
 | ::{ flag=CL }:: [-Ryu-](https://osu.ppy.sh/users/8440939) | 5 |
-| ::{ flag=US }:: [TPColor](https://osu.ppy.sh/users/19102458) | 4 |
+| ::{ flag=CN }:: [Phantom of Sky](https://osu.ppy.sh/users/32263201) | 4 |
 | ::{ flag=KR }:: [leqek](https://osu.ppy.sh/users/1517607) | 3 |
 | ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367) | 3 |
-| ::{ flag=CN }:: [Postal0177](https://osu.ppy.sh/users/32263201) | 3 |
+| ::{ flag=US }:: [Untitled_world](https://osu.ppy.sh/users/20036453) | 3 |
+| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 3 |
+| ::{ flag=JP }:: [Mi0117](https://osu.ppy.sh/users/15501680) | 3 |
+| ::{ flag=US }:: [netzoid](https://osu.ppy.sh/users/25673755) | 3 |
 | ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737) | 2 |
 | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) | 2 |
 | ::{ flag=CN }:: [SoftC418](https://osu.ppy.sh/users/26856985) | 2 |
@@ -207,11 +212,9 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 | ::{ flag=US }:: [Mill1424](https://osu.ppy.sh/users/27762510) | 2 |
 | ::{ flag=TH }:: [IMaxI](https://osu.ppy.sh/users/29186011) | 2 |
 | ::{ flag=CL }:: [-Kori](https://osu.ppy.sh/users/12490530) | 2 |
-| ::{ flag=JP }:: [Mi0117](https://osu.ppy.sh/users/15501680) | 2 |
-| ::{ flag=US }:: [netzoid](https://osu.ppy.sh/users/25673755) | 2 |
 | ::{ flag=ID }:: [Aphelion-](https://osu.ppy.sh/users/8370351) | 2 |
 | ::{ flag=CN }:: [AsahinaMikuru](https://osu.ppy.sh/users/25696729) | 2 |
-| ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 2 |
+| ::{ flag=SG }:: [doggythatsucks](https://osu.ppy.sh/users/26236177) | 2 |
 | ::{ flag=US }:: [Tofivu_](https://osu.ppy.sh/users/9152166) | 1 |
 | ::{ flag=ID }:: [Arzenvald](https://osu.ppy.sh/users/3027421) | 1 |
 | ::{ flag=KR }:: [AAAAFanboy](https://osu.ppy.sh/users/21870287) | 1 |
@@ -236,6 +239,7 @@ As of June 2023, the above badges are awarded to any user who achieves 10 points
 | ::{ flag=GB }:: [LeCrazy](https://osu.ppy.sh/users/28272898) | 1 |
 | ::{ flag=CA }:: [Saerdna](https://osu.ppy.sh/users/4319267) | 1 |
 | ::{ flag=TH }:: [-[ Peachy ]-](https://osu.ppy.sh/users/5238367) | 1 |
+| ::{ flag=KR }:: [ImNotYume](https://osu.ppy.sh/users/14318892) | 1 |
 
 ## Previous playlists
 
@@ -307,6 +311,12 @@ For full playlist details, see the [multiplayer room listing](https://osu.ppy.sh
 
 - Top 5 osu! and osu!taiko beatmaps from their respective Monthly Beatmapping Contests ([osu!](https://osu.ppy.sh/home/news/2025-02-17-monthly-beatmapping-contest-february-2025), [osu!taiko](https://osu.ppy.sh/home/news/2025-01-23-monthly-beatmapping-contest-january-2025))
 - Only applicable to osu! and osu!taiko game modes
+- Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
+
+### June 2025
+
+- Top 5 osu!mania beatmaps from [April 2025's Monthly Beatmapping Contest](https://osu.ppy.sh/home/news/2025-04-10-monthly-beatmapping-contest-april-2025)
+- Only applicable to osu!mania
 - Prizes awarded as per the [cumulative leaderboard](#cumulative-leaderboard)
 
 ## Notes

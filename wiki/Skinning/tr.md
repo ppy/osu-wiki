@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 905eedb0f005b03cb61535b8203b92b0eba8711f
+outdated_since: cd53f694f7e0e700e57857590002cd09e6a07e07
 ---
 
 # Tema yapımı

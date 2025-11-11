@@ -1,8 +1,4 @@
----
-no_native_review: true
----
-
-# Game mode
+# Modalità di gioco
 
 osu! dispone di quattro **modalità** integrate con meccaniche differenti, originariamente ispirate da altri giochi ritmici:
 
@@ -42,7 +38,7 @@ Per cambiare modalità, clicca il pulsante `Mode` in fondo alla pagina di selezi
 
 *Pagina Principale: [osu!catch](osu!catch)*
 
-In *osu!catch*, diverse varietà di frutti cadono dall'alto dello schermo, ed il giocatore deve afferrarli a ritmo. Il giocatore controlla un personaggio, il quale ha un piatto sulla testa usato per prendere la frutta. Questa modalità è vagamente basata su un minigame all'interno di un simulatore di [Beatmania](https://en.wikipedia.org/wiki/Beatmania), basato sulla modalità *EZ2CATCH* della serie [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). La mascotte di osu!catch è [Yuzu](/wiki/Mascots#yuzu), un ragazzo con capelli blu.
+*osu!catch* è una modalità di gioco in cui i giocatori controllano un personaggio per raccogliere la frutta che cade dall'alto, a ritmo di musica. È vagamente basata sul minigame "Catch It!!" nelle prime build di [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], un simulatore di [Beatmania](https://en.wikipedia.org/wiki/Beatmania) per PC, il quale a sua volta è derivato dalla modalità *EZ2CATCH* del sistema arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). La mascotte di osu!catch è [Yuzu](/wiki/Mascots#yuzu), un ragazzo con capelli blu.
 
 ![Gameplay di osu!catch](/wiki/shared/catch-gameplay.jpg "Gameplay di osu!catch")
 
@@ -59,6 +55,10 @@ In *osu!catch*, diverse varietà di frutti cadono dall'alto dello schermo, ed il
 In osu!(lazer), è possibile installare modalità di gioco personalizzate (anche chiamati ruleset personalizzati) manualmente via file `.dll`. Queste introducono un nuovo modo di giocare utilizzando la libreria di beatmap offerta da osu!. Le modalità di gioco personalizzate, come le modalità principali, sono spesso ispirate da altri giochi ritmici.
 
 La lista completa di modalità di gioco personalizzate si trova in [questa discussione su GitHub](https://github.com/ppy/osu/discussions/13096).
+
+## Riferimenti
+
+[^rdm]: [Video YouTube di peppy (15/10/2008) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
