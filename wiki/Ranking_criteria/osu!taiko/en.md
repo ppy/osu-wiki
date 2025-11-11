@@ -82,6 +82,22 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!taiko difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
+### Rest moment guidelines
+
+Rest moments are used to separate patterns and provide a break for the player during gameplay. They play an important role in reducing player fatigue, especially on denser rhythms.
+
+Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
+
+**Each difficulty should follow its respective rest moment guidelines:**
+
+| Difficulty | Rest moment | Example | Chain length |
+| :-- | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 or longer | ![3/1](img/kantan.png "3/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 or longer | ![2/1](img/futsuu.png "2/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 1) | 3/2 or longer | ![3/2](img/muzu1.png "3/2") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 2) | 3 consecutive 1/1 or longer | ![3 consecutive 1/1](img/muzu2.png "3 consecutive 1/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 or longer | ![1/1](img/oni.png "1/1") | Rest moment needed every 16–20 beats |
+
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### Rules
@@ -94,7 +110,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 3/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty setting guidelines
@@ -119,7 +134,6 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/2 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 2/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
@@ -144,7 +158,6 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
 - **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 3/2 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using at least 3 consecutive rest moments that are 1/1 is an acceptable substitute if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Manipulating slider velocity is allowed**, but slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **1/4 patterns with one or more colour changes should be used sparingly.** They should be avoided in conjunction with other patterns of this nature because the target audience of this difficulty level is not used to patterns of this complexity.
 - **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
@@ -168,7 +181,6 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
 - **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Players may be too strained if there are not enough rests or the rests are too short.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty setting guidelines
