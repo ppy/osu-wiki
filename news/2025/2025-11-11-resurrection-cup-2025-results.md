@@ -4,11 +4,11 @@ title: Resurrection Cup 2025 Results
 date: 2025-11-11 18:00:00 +0000
 ---
 
-Intense matches, jaw-dropping highlights, and a vibrant production team working behind the scenes; this year’s Resurrection Cup has proven to be one of the most exciting yet!
+Intense matches, jaw-dropping highlights, and a vibrant production team working behind the scenes; this year's Resurrection Cup has proven to be one of the most exciting yet!
 
 ![](/wiki/Tournaments/RESC/2025/img/banner.jpg)
 
-Let’s dive into the results, highlights, and everything that made Resurrection Cup 2025: Regulus Revolution unforgettable.
+Let's dive into the results, highlights, and everything that made Resurrection Cup 2025: Regulus Revolution unforgettable.
 
 ## Results
 
@@ -20,9 +20,9 @@ Let’s dive into the results, highlights, and everything that made Resurrection
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/118466335)**
 
-Starting this match off, *esnupicore* was the first to strike on [Golden Days Remix](https://osu.ppy.sh/beatmapsets/1867675#osu/3841983) (FM2) after recovering from early breaks. But *manie pls spaRE ME* quickly answered back, taking [We are](https://osu.ppy.sh/beatmapsets/2388768#osu/5169354) (DT1) in a nail-biting ending thanks to ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701)’s huge spinner carry that flipped the score by just 5,990 points. After trading maps, ::{ flag=BR }:: [-izzy](https://osu.ppy.sh/users/15225729)’s clutch combo on [Ether](https://osu.ppy.sh/beatmapsets/2388729#osu/5169231) (HR1) helped *esnupicore* reclaim a break point and keep the series alive at 2–3.
+Starting this match off, *esnupicore* was the first to strike on [Golden Days Remix](https://osu.ppy.sh/beatmapsets/1867675#osu/3841983) (FM2) after recovering from early breaks. But *manie pls spaRE ME* quickly answered back, taking [We are](https://osu.ppy.sh/beatmapsets/2388768#osu/5169354) (DT1) in a nail-biting ending thanks to ::{ flag=BE }:: [hexi](https://osu.ppy.sh/users/10760701)'s huge spinner carry that flipped the score by just 5,990 points. After trading maps, ::{ flag=BR }:: [-izzy](https://osu.ppy.sh/users/15225729)'s clutch combo on [Ether](https://osu.ppy.sh/beatmapsets/2388729#osu/5169231) (HR1) helped *esnupicore* reclaim a break point and keep the series alive at 2–3.
 
-Despite *manie pls spaRE ME* reaching match point at 4–2, *esnupicore* mounted a comeback, led by ::{ flag=BR }:: [Kurumiw](https://osu.ppy.sh/users/11415687)’s consistency on [Oceanus](https://osu.ppy.sh/beatmapsets/1871924#osu/3851547) (NM2) and a dominant [Braget](https://osu.ppy.sh/beatmapsets/1621901#osu/3311356) (DT2) pick that forced the tiebreaker. Riding early combo and accuracy leads, *esnupicore* held firm through constant pressure, closing out the reverse sweep 5–4 to secure their spot in the upper bracket of the Round of 16.
+Despite *manie pls spaRE ME* reaching match point at 4–2, *esnupicore* mounted a comeback, led by ::{ flag=BR }:: [Kurumiw](https://osu.ppy.sh/users/11415687)'s consistency on [Oceanus](https://osu.ppy.sh/beatmapsets/1871924#osu/3851547) (NM2) and a dominant [Braget](https://osu.ppy.sh/beatmapsets/1621901#osu/3311356) (DT2) pick that forced the tiebreaker. Riding early combo and accuracy leads, *esnupicore* held firm through constant pressure, closing out the reverse sweep 5–4 to secure their spot in the upper bracket of the Round of 16.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/SUvLq2jobEs" frameborder="0" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ The Round of 16 clash between *FIAT MULTIPLA* and *nugroho and co* was a tense b
 
 The Grand Finals between *Monkey Business* and *tarczynski esports* was a nail-biting spectacle that delivered non-stop action across two sets. In the first set, ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) took the crucial [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3) breakpoint for *Monkey Business*, while ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) stepped up with an incredible 800k score on [The Agony & The Ecstasy](https://osu.ppy.sh/beatmapsets/2414092#osu/5244932) (DT1), helping to tie the series 5-5 in a tense back-and-forth. However, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961)'s dominant 600k performance on the last pick of [Jiyuu no Koe](https://osu.ppy.sh/beatmapsets/2414021#osu/5244684) (HR1)  pulled a lot of weight for *tarczynski esports*, allowing them to clinch the final two maps and win the set 7-5, forcing a bracket reset.
 
-The second set saw *tarczynski esports* build a strong 5-2 lead, taking three consecutive points and reaching match point at 6-3. *Monkey Business*, fueled by ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659)’s insane 800k score on [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3), mounted a spirited comeback to push the series to a tiebreaker. In the final map showdown, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) — the "tiebreaker final boss" — pushed ahead early with over 1000 combo and ultimately sealed a breathtaking 7-6 victory for *tarczynski esports*.
+The second set saw *tarczynski esports* build a strong 5-2 lead, taking three consecutive points and reaching match point at 6-3. *Monkey Business*, fueled by ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659)'s insane 800k score on [Terminal](https://osu.ppy.sh/beatmapsets/2414185#osu/5245140) (HD3), mounted a spirited comeback to push the series to a tiebreaker. In the final map showdown, ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) — the "tiebreaker final boss" — pushed ahead early with over 1000 combo and ultimately sealed a breathtaking 7-6 victory for *tarczynski esports*.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Cma8jvBXQR4" frameborder="0" allowfullscreen></iframe>
@@ -112,13 +112,13 @@ While there is no crossfade this year, you may still listen to all of them right
 
 ![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/regulus.jpg)
 
-It’s no secret that our tournament tries it’s best to incorporate a somewhat-comprehensible side story of some sort. Last year, Serenity has sat down a legendary object called “The Throne” — represented in Yumeyo’s map background drawing of [N_dog feat. quu-zie - Delusions](https://osu.ppy.sh/beatmapsets/2219285). This ultimately granted her powers at the cost of slowly corroding the heavens away. Regulus came into play as she wants to prevent that, understandably so. However, due to Serenity’s own ego, she refused to listen to Regulus and instead went against her head-on.
+It's no secret that our tournament tries it's best to incorporate a somewhat-comprehensible side story of some sort. Last year, Serenity has sat down a legendary object called "The Throne" — represented in Yumeyo's map background drawing of [N_dog feat. quu-zie - Delusions](https://osu.ppy.sh/beatmapsets/2219285). This ultimately granted her powers at the cost of slowly corroding the heavens away. Regulus came into play as she wants to prevent that, understandably so. However, due to Serenity's own ego, she refused to listen to Regulus and instead went against her head-on.
 
-This story is also visible in the graphic design, or so we’d like to think. Let's recap the story over the past couple years to see how far we've come: 
+This story is also visible in the graphic design, or so we'd like to think. Let's recap the story over the past couple years to see how far we've come:
 
 - In 2022, the devastating apocalypse was in fact the same corrosion that the heavens are going through as we speak.
 - In 2023, we see the process of reality being reshaped in order for a new timeline to start over from scratch.
-- In 2024, it is the beginning of Serenity’s “new” journey. Last year may not have been the sole “second chance” players got.
+- In 2024, it is the beginning of Serenity's "new" journey. Last year may not have been the sole "second chance" players got.
 
 ## Graphics Design
 
@@ -187,7 +187,7 @@ Did you already have a clear picture of what the main theme would look like this
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/852867">OsuMe65</a></p>
 
-Trust me on this, I really didn't. *chuckles* 
+Trust me on this, I really didn't. *chuckles*
 
 When I heard about it for the very first time, I immediately registered "revolution" as the main focus of the design, but "What kind of revolution are we doing anyway?" was the question that crossed my mind after pondering about the announcement for quite a long time. After not being entirely satisfied with my work last year, I thought it would be about time to go all out and make something revolutionary., as well as to redeem myself from that static slop I made.
 
@@ -233,11 +233,11 @@ It's actually my first time being in a position higher than what I usually do, w
 
 </div>
 
-If you are interested in delving even deeper into the entire process from zero to one hundred of the production of this year, you may read OsuMe65’s document about it [here](https://osume65.s-ul.eu/HggIsZEK).
+If you are interested in delving even deeper into the entire process from zero to one hundred of the production of this year, you may read OsuMe65's document about it [here](https://osume65.s-ul.eu/HggIsZEK).
 
 ## Staff interviews
 
-Even more people were involved in making Resurrection Cup happen this year as compared to last year. We’ve asked a few of those people from our ever-growing team to give insights into what made this iteration revolutionary.
+Even more people were involved in making Resurrection Cup happen this year as compared to last year. We've asked a few of those people from our ever-growing team to give insights into what made this iteration revolutionary.
 
 ::{#krimek-and-eili}::
 
@@ -259,7 +259,7 @@ As members of the Resurrection Cup sound team, [Krimek](https://osu.ppy.sh/users
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/37455438">eili</a></p>
 
-For me, the biggest concern was making sure the songs truly fit the vocalists, their range, their style, and their comfort. Many producers in the scene don’t usually work with live singers; they’re used to Vocaloid or synth vocals, which is a very different process. With real vocalists, there’s so much more to balance: not only does the producer need to feel good about the track, but the vocalist has to feel proud of it as well. That’s a lot of pressure and uncertainty especially when both sides are trying to merge their vision with the tournament’s theme. On top of that, mixing vocals is a steep learning curve, and some vocalists understandably don’t want to risk being a “test case” if the mix doesn’t do their voice justice.
+For me, the biggest concern was making sure the songs truly fit the vocalists, their range, their style, and their comfort. Many producers in the scene don't usually work with live singers; they're used to Vocaloid or synth vocals, which is a very different process. With real vocalists, there's so much more to balance: not only does the producer need to feel good about the track, but the vocalist has to feel proud of it as well. That's a lot of pressure and uncertainty especially when both sides are trying to merge their vision with the tournament's theme. On top of that, mixing vocals is a steep learning curve, and some vocalists understandably don't want to risk being a "test case" if the mix doesn't do their voice justice.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2345078" style="background-image: url('/wiki/shared/avatars/Krimek-2.jpg')"></a>
 
@@ -279,9 +279,9 @@ If a singer would like to kickstart their career, do you think accepting commiss
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/37455438">eili</a></p>
 
-In some ways yes, but in others not really. For things to work well, either the producer or the vocalist needs to have experience. When both sides are new to lyric writing, vocal composition, and mixing, the results often fall flat. Melodies end up out of range, lyrics don’t materialize, and the mix doesn’t showcase the voice. And a vocalist is only as strong as the song they’re on; if the mix makes them sound bad, it reflects poorly, even if it’s not their fault.
+In some ways yes, but in others not really. For things to work well, either the producer or the vocalist needs to have experience. When both sides are new to lyric writing, vocal composition, and mixing, the results often fall flat. Melodies end up out of range, lyrics don't materialize, and the mix doesn't showcase the voice. And a vocalist is only as strong as the song they're on; if the mix makes them sound bad, it reflects poorly, even if it's not their fault.
 
-That said, getting involved does give vocalists the chance to add original songs to their portfolio. But it usually requires more than just singing: you might need to topline, edit your own vocals, contribute to lyrics, or be comfortable singing over instrumental demos. Even for me, that can be a challenge. Another factor is that rhythm game songs (like osu! tracks) aren’t mixed with the vocalist as the centerpiece, the beats and gameplay usually take priority. So it won’t necessarily showcase you the way a traditional pop track might. For that reason, I don’t think it’s the best springboard for a career, since the focus will never fully be on the vocalist.
+That said, getting involved does give vocalists the chance to add original songs to their portfolio. But it usually requires more than just singing: you might need to topline, edit your own vocals, contribute to lyrics, or be comfortable singing over instrumental demos. Even for me, that can be a challenge. Another factor is that rhythm game songs (like osu! tracks) aren't mixed with the vocalist as the centerpiece, the beats and gameplay usually take priority. So it won't necessarily showcase you the way a traditional pop track might. For that reason, I don't think it's the best springboard for a career, since the focus will never fully be on the vocalist.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/12840110" style="background-image: url('/wiki/shared/avatars/Phreel-2.jpg')"></a>
 
@@ -309,7 +309,7 @@ Do you think the tournament scene will evolve in this topic or it has hit it's p
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/37455438">eili</a></p>
 
-I think there’s still plenty of room to grow, but it will always come down to time and compensation. Growth only happens if people are willing to dedicate their energy and passion to it. Realistically, I don’t think we’ll see another tournament with this many vocal songs anytime soon, it was a special case. But the potential is there, and if the right people are involved, it could absolutely continue to evolve.
+I think there's still plenty of room to grow, but it will always come down to time and compensation. Growth only happens if people are willing to dedicate their energy and passion to it. Realistically, I don't think we'll see another tournament with this many vocal songs anytime soon, it was a special case. But the potential is there, and if the right people are involved, it could absolutely continue to evolve.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2345078" style="background-image: url('/wiki/shared/avatars/Krimek-2.jpg')"></a>
 
@@ -449,7 +449,7 @@ Write anything that is on your mind. Often playtesters focus only on difficulty 
 
 ---
 
-That wraps up Regulus’ Revolution! Huge congratulations to our winners, and an even bigger thank you to all the players, viewers, staff members, organisers, and supporters who made this year’s event an absolute blast.
+That wraps up Regulus' Revolution! Huge congratulations to our winners, and an even bigger thank you to all the players, viewers, staff members, organisers, and supporters who made this year's event an absolute blast.
 
 See you all next year, in Resurrection Cup 2026: Codename Genesis.
 
