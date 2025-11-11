@@ -11,7 +11,7 @@ tags:
 
 ![JHC 2025 banner](img/JHC-2025-banner.jpg)
 
-**叠屋杯 2025** (***JHC 2025***) 是由 ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831)，::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308)，和 ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) 主办的 1v1 队伍制 osu!mania 4K 项目赛事。本届比赛是叠屋杯系列赛事的第二届正式比赛。
+**叠屋杯 2025**（***JHC 2025***）是由 ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831)，::{ flag=CN }:: [CuteNatro](https://osu.ppy.sh/users/27233308)，和 ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) 主办的 1v1 队伍制 osu!mania 4K 项目赛事。本届比赛是叠屋杯系列赛事的第二届正式比赛。
 
 ## 比赛日程
 
@@ -39,7 +39,7 @@ tags:
 | #4 - #6 | 2 个月 osu!supporter |
 | #7 - #12 | 1 个月 osu!supporter |
 
-![](img/badge.png "JHC 2025 winner badge")
+![JHC 2025 winner badge](img/badge.png "JHC 2025 winner badge")
 
 ## 组织
 
@@ -108,12 +108,12 @@ tags:
 | 38 | Vietnamese jack | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267), ::{ flag=TH }:: [parponger](https://osu.ppy.sh/users/28098890) |
 | 39 | BAU BAU BAU BAU | ::{ flag=PH }:: [lyvet](https://osu.ppy.sh/users/18121419), ::{ flag=VN }:: [RantabFanboy](https://osu.ppy.sh/users/16005504) |
 | 40 | ε jackers | ::{ flag=SE }:: [Balanc3D3mon](https://osu.ppy.sh/users/20531318), ::{ flag=SE }:: [xBlazemlg](https://osu.ppy.sh/users/16441559) |
-| 41 | sybau #ts #pmo | ::{ flag=HK }:: [a202f](https://osu.ppy.sh/users/33869170), ::{ flag=HK }:: [Fubuki fan ](https://osu.ppy.sh/users/13471840) |
+| 41 | such happy people | ::{ flag=HK }:: [a202f](https://osu.ppy.sh/users/33869170), ::{ flag=HK }:: [Fubuki fan](https://osu.ppy.sh/users/13471840) |
 | 42 | 老笔试 | ::{ flag=CN }:: [F0rge](https://osu.ppy.sh/users/28569116) |
 | 43 | SP | ::{ flag=VN }:: [minhkhio](https://osu.ppy.sh/users/30143933) |
 | 44 | ratio secret | ::{ flag=TH }:: [Kakashiro](https://osu.ppy.sh/users/35768711), ::{ flag=TH }:: [- meloncoin -](https://osu.ppy.sh/users/31003592) |
 | 45 | NorikoFanboy | ::{ flag=GB }:: [AGuyCalledJeff](https://osu.ppy.sh/users/18750025), ::{ flag=US }:: [Noriko_Violet](https://osu.ppy.sh/users/23398266) |
-| 46 | Country Hand | ::{ flag=TW }:: [Tsukimia_](https://osu.ppy.sh/users/31548234), ::{ flag=TW }:: [JoeyGYGY ](https://osu.ppy.sh/users/25690184) |
+| 46 | Country Hand | ::{ flag=TW }:: [Tsukimia_](https://osu.ppy.sh/users/31548234), ::{ flag=TW }:: [JoeyGYGY](https://osu.ppy.sh/users/25690184) |
 | 47 | Zariweya | ::{ flag=ES }:: [Litrowo](https://osu.ppy.sh/users/21423715), ::{ flag=ES }:: [Lofro_](https://osu.ppy.sh/users/17781391) |
 | 48 | Skill issue | ::{ flag=AT }:: [Ghfg517 Mania](https://osu.ppy.sh/users/33620596) |
 | 49 | Beta jacker | ::{ flag=SE }:: [ManaCube](https://osu.ppy.sh/users/24889093) |
@@ -205,63 +205,63 @@ tags:
 [点击此处下载图包（220.36 MB）](https://drive.google.com/file/d/1VxJ_zOd0aMAo6_EGJYQ4_RK97gwGNLJj/view?usp=sharing)
 
 - Full Jack
-  1. [Santiano - Johnny Boy (Liker) [x1.4]](https://osu.ppy.sh/b/4569660)
-  2. [Fey - Muevelo (Sakisagee) [no te pares 1.1x (154bpm)]](https://osu.ppy.sh/b/5233919)
+  1. [Santiano - Johnny Boy (Liker) [x1.4]](https://osu.ppy.sh/beatmapsets/2166050#mania/4569660)
+  2. [Fey - Muevelo (Sakisagee) [no te pares 1.1x (154bpm)]](https://osu.ppy.sh/beatmapsets/2410498#mania/5233919)
 - Dense Jack
-  1. [senya - Konohagakure ([GB]Kita-) [Aya (edit. + Cut)]](https://osu.ppy.sh/b/5228111)
-  2. [Polyphia - ABC (ft. Sophia Black) (Ena) [x1.15]](https://osu.ppy.sh/b/4629324)
+  1. [senya - Konohagakure ([GB]Kita-) [Aya (edit. + Cut)]](https://osu.ppy.sh/beatmapsets/2161208#mania/5228111)
+  2. [Polyphia - ABC (ft. Sophia Black) (Ena) [x1.15]](https://osu.ppy.sh/beatmapsets/2187538#mania/4629324)
 - Middle Jack
-  1. [Kijibato - w_WWW feat. Hoshimiya Toto (Koyori Chan) [Jack Challnge (174bpm)]](https://osu.ppy.sh/b/5234378)
-  2. [C-Show - My My My ([Crz]Cardiloid) [kusb123's Mr.C (edit) x0.97]](https://osu.ppy.sh/b/5234545)
+  1. [Kijibato - w_WWW feat. Hoshimiya Toto (Koyori Chan) [Jack Challnge (174bpm)]](https://osu.ppy.sh/beatmapsets/2410645#mania/5234378)
+  2. [C-Show - My My My ([Crz]Cardiloid) [kusb123's Mr.C (edit) x0.97]](https://osu.ppy.sh/beatmapsets/2410703#mania/5234545)
 - Light Jack
-  1. [takehirotei - Quasar Pulse ~Iridescent Ray of Destruction~ ([GS]hina) [Incandescent_+JHC.edit\\]](https://osu.ppy.sh/b/5234361)
-  2. [Litmus* - Contour ([Crz]hinako1804) [RIM HANG DUNK x1.3_P]](https://osu.ppy.sh/b/3160307)
+  1. [takehirotei - Quasar Pulse ~Iridescent Ray of Destruction~ ([GS]hina) [Incandescent_+JHC.edit\\]](https://osu.ppy.sh/beatmapsets/2395087#mania/5234361)
+  2. [Litmus* - Contour ([Crz]hinako1804) [RIM HANG DUNK x1.3_P]](https://osu.ppy.sh/beatmapsets/1546210#mania/3160307)
 - Anchor Jack
-  1. [METAROOM - PINK ORIGINS (yaoliao2764) [COSMIC IMPLOSION]](https://osu.ppy.sh/b/5234470)
-  2. [Studio "Syrup Comfiture" - Replica (To2) [x1.05_P]](https://osu.ppy.sh/b/5234463)
+  1. [METAROOM - PINK ORIGINS (yaoliao2764) [COSMIC IMPLOSION]](https://osu.ppy.sh/beatmapsets/2410680#mania/5234470)
+  2. [Studio "Syrup Comfiture" - Replica (To2) [x1.05_P]](https://osu.ppy.sh/beatmapsets/2410676#mania/5234463)
 - Quadstream
-  1. [Synthion - Electric Blue (HoshiMiya_) [1.15x]](https://osu.ppy.sh/b/5234566)
+  1. [Synthion - Electric Blue (HoshiMiya_) [1.15x]](https://osu.ppy.sh/beatmapsets/2410709#mania/5234566)
 - Minijack
-  1. [DJ Gurl - Shen Hua (Cut Ver.) (yaoliao2764) [Beautiful Myths]](https://osu.ppy.sh/b/5234455)
+  1. [DJ Gurl - Shen Hua (Cut Ver.) (yaoliao2764) [Beautiful Myths]](https://osu.ppy.sh/beatmapsets/2410674#mania/5234455)
 - Rhythm Jack
-  1. [Camellia - INSANE INFLAME (To2) [CRIMSON DANCE (edit)]](https://osu.ppy.sh/b/5234458)
+  1. [Camellia - INSANE INFLAME (To2) [CRIMSON DANCE (edit)]](https://osu.ppy.sh/beatmapsets/2410675#mania/5234458)
 - Jack Mixture
-  1. [Xceon feat. Mayumi Morinaga - Shakunetsu no Utopia [DJ Command Mix] ([GS]hina) [Dystopia 1.1x]](https://osu.ppy.sh/b/5234402)
-  2. [TryHardNinja - Revenge (feat. CaptainSparklez) (ReeK's "Dude, What's A Genre?" Remix) ([GB]Tyris) [Craft]](https://osu.ppy.sh/b/5234450)
+  1. [Xceon feat. Mayumi Morinaga - Shakunetsu no Utopia [DJ Command Mix] ([GS]hina) [Dystopia 1.1x]](https://osu.ppy.sh/beatmapsets/2410657#mania/5234402)
+  2. [TryHardNinja - Revenge (feat. CaptainSparklez) (ReeK's "Dude, What's A Genre?" Remix) ([GB]Tyris) [Craft]](https://osu.ppy.sh/beatmapsets/2410670#mania/5234450)
 - Difficult Jack
-  1. [Unlucky Morpheus - Le Cirque de Sept Couleurs (ieFaH) [cut.]](https://osu.ppy.sh/b/5234451)
+  1. [Unlucky Morpheus - Le Cirque de Sept Couleurs (ieFaH) [cut.]](https://osu.ppy.sh/beatmapsets/2410671#mania/5234451)
 - Tiebreaker
-  1. **[DeformedEutopia - marguerite inorganique (ieFaH) [pale nostalgie]](https://osu.ppy.sh/b/5234454)**
+  1. **[DeformedEutopia - marguerite inorganique (ieFaH) [pale nostalgie]](https://osu.ppy.sh/beatmapsets/2410673#mania/5234454)**
 
 ### 半决赛
 
 [点击此处下载图包（283.85 MB）](https://drive.google.com/file/d/1xIJQkJ9rTDB8MoRe1AkTfRh_S3-1gq3m/view?usp=sharing)
 
 - Full Jack
-  1. [Ave Mujica - Symbol I : Fire (Dreamemory) [1.13]](https://osu.ppy.sh/b/5223996)
-  2. [Kano - Walk this way (Suirent) [Edit [1.1x]]](https://osu.ppy.sh/b/5223968)
+  1. [Ave Mujica - Symbol I : Fire (Dreamemory) [1.13]](https://osu.ppy.sh/beatmapsets/2407031#mania/5223996)
+  2. [Kano - Walk This Way! (Suirent) [Edit [1.1x]]](https://osu.ppy.sh/beatmapsets/2407023#mania/5223968)
 - Dense Jack
-  1. [Aoi Eir - Lapis Lazuli ([GB]Tyris) [CelestiteJack (edit) 1.35x]](https://osu.ppy.sh/b/5224006)
-  2. [Megurimeguru - Hakai (MidRed) [Destroy (JHC edit)]](https://osu.ppy.sh/b/5223811)
+  1. [Aoi Eir - Lapis Lazuli ([GB]Tyris) [CelestiteJack (edit) 1.35x]](https://osu.ppy.sh/beatmapsets/2407036#mania/5224006)
+  2. [Megurimeguru - Hakai (MidRed) [Destroy (JHC edit)]](https://osu.ppy.sh/beatmapsets/2406975#mania/5223811)
 - Middle Jack
-  1. [Carpenter Brut - Disco Zombi Italia ([Crz]hinako1804) [Sundown x1.3_P]](https://osu.ppy.sh/b/3758578)
-  2. [SOMON - E.V.E (MidRed) [J.A.C.K]](https://osu.ppy.sh/b/5223939)
+  1. [Carpenter Brut - Disco Zombi Italia ([Crz]hinako1804) [Sundown x1.3_P]](https://osu.ppy.sh/beatmapsets/1831120#mania/3758578)
+  2. [SOMON - E.V.E (MidRed) [J.A.C.K]](https://osu.ppy.sh/beatmapsets/2407013#mania/5223939)
 - Light Jack
-  1. [Falcom Sound Team jdk - Lift-off! (lemonguy) [Valimar x1.25]](https://osu.ppy.sh/b/4262120)
-  2. [Persian Groovies - Phoenix (feat. Kobaryo) (Cut Ver.) (Paturages) [Kraftgeist 0.95x (171bpm)]](https://osu.ppy.sh/b/5147056)
+  1. [Falcom Sound Team jdk - Lift-off! (lemonguy) [Valimar x1.25]](https://osu.ppy.sh/beatmapsets/2034984#mania/4262120)
+  2. [Persian Groovies - Phoenix (feat. Kobaryo) (Cut Ver.) (Paturages) [Kraftgeist 0.95x (171bpm)]](https://osu.ppy.sh/beatmapsets/2380954#mania/5147056)
 - Anchor Jack
-  1. [Olly Alexander - Dizzy (Chandelure) [Spin [1.2x Rate]]](https://osu.ppy.sh/b/4608578)
-  2. [LV.4 - Stargazer (HoshiMiya_) [1.0x]](https://osu.ppy.sh/b/5224116)
+  1. [Olly Alexander - Dizzy (Chandelure) [Spin [1.2x Rate]]](https://osu.ppy.sh/beatmapsets/2147713#mania/4608578)
+  2. [LV.4 - Stargazer (Cur ver.) (HoshiMiya_) [1.0x]](https://osu.ppy.sh/beatmapsets/2407084#mania/5224116)
 - Quadstream
-  1. [BlackY - Euryale (yaoliao2764) [Far Roaming]](https://osu.ppy.sh/b/5224069)
+  1. [BlackY - Euryale (yaoliao2764) [Far Roaming]](https://osu.ppy.sh/beatmapsets/2407059#mania/5224069)
 - Minijack
-  1. [seatrus - Shuusetsu (To2) [Winter Roaring x1.05]](https://osu.ppy.sh/b/5223947)
+  1. [seatrus - Shuusetsu (To2) [Winter Roaring x1.05]](https://osu.ppy.sh/beatmapsets/2407017#mania/5223947)
 - Rhythm Jack
-  1. [Creepy Nuts - Otonoke (To2) [D DD x0.95]](https://osu.ppy.sh/b/5223954)
+  1. [Creepy Nuts - Otonoke (To2) [D DD x0.95]](https://osu.ppy.sh/beatmapsets/2407020#mania/5223954)
 - Difficult Jack
-  1. [Tetsuru Sato - Diving Road of Fate (Suirent) [Chordjack [1.05x Rate]]](https://osu.ppy.sh/b/5170414)
+  1. [Tetsuru Sato - Diving Road of Fate (Suirent) [Chordjack [1.05x Rate]]](https://osu.ppy.sh/beatmapsets/2389135#mania/5170414)
 - Tiebreaker
-  1. **[Kyutatsuki - GALAXY_FRAGMENTATION (ieFaH) [REDSHIFT]](https://osu.ppy.sh/b/5223858)**
+  1. **[Kyutatsuki - GALAXY_FRAGMENTATION (ieFaH) [REDSHIFT]](https://osu.ppy.sh/beatmapsets/2406985#mania/5223858)**
 
 ### 四分之一决赛
 
@@ -314,7 +314,7 @@ tags:
 - Minijack
   1. [Xceon vs. DJ Command (Eurobeat Union) - Fegrix ([GB]Azukisan) [SHISSOUKAN MAX (w/ Blue_Potion) 0.97x (170bpm) OD8]](https://osu.ppy.sh/beatmapsets/2399325#mania/5200183)
 - Rhythm Jack
-  1. [Mwk - Blue Monday (-Deepdive-) [#39C5BB 1.1x (121bpm) OD8]](https://osu.ppy.sh/b/3760398)
+  1. [Mwk - Blue Monday (-Deepdive-) [#39C5BB 1.1x (121bpm) OD8]](https://osu.ppy.sh/beatmapsets/1831959#mania/3760398)
 - Difficult Jack
   1. [seleP - ELLIE (Tamaki Iroha) [Love [1.1x Rate]]](https://osu.ppy.sh/beatmapsets/1503547#mania/3085480)
 - Tiebreaker
@@ -332,10 +332,10 @@ tags:
   2. [MIMI - Hug (Ice V) [Hug Miku]](https://osu.ppy.sh/beatmapsets/2395479#mania/5188696)
 - Middle Jack
   1. [Ayatsugu Otowa - Shiny! (HoshiMiya_) [Happy! 1.05x]](https://osu.ppy.sh/beatmapsets/2395663#mania/5189509)
-  2. [Five Hammer - fffff op.2 ([GB]Sanae) [Classical]](https://osu.ppy.sh/b/4713548)
+  2. [Five Hammer - fffff op.2 ([GB]Sanae) [Classical]](https://osu.ppy.sh/beatmapsets/2222872#mania/4713548)
 - Light Jack
   1. [WHITEFISTS - 1F Root (MidRed) [Determination 1.1x]](https://osu.ppy.sh/beatmapsets/2316140#mania/4958445)
-  2. [EmoCosine - My Focus! (Extended Mix) (HoshiMiya_) [Wholeheartedly]](https://osu.ppy.sh/b/5058228)
+  2. [EmoCosine - My Focus! (Extended Mix) (HoshiMiya_) [Wholeheartedly]](https://osu.ppy.sh/beatmapsets/2350678#mania/5058228)
 - Anchor Jack
   1. [DNCE - Cake By The Ocean (crazyrenard) [Jack]](https://osu.ppy.sh/beatmapsets/2395744#mania/5189798)
 - Minijack
@@ -368,7 +368,7 @@ tags:
 
 ## 赛果
 
-表格形式的赛果可见[主表格](https://docs.google.com/spreadsheets/d/1CmpxIY08ZRUB5Fm_KODkxWOlEHjBs2RShfC9sfSLCno/edit?usp=sharing)。
+表格形式的赛果可见[赛事信息表格](https://docs.google.com/spreadsheets/d/1CmpxIY08ZRUB5Fm_KODkxWOlEHjBs2RShfC9sfSLCno/edit?usp=sharing)。
 
 ### 总决赛
 
@@ -413,7 +413,7 @@ tags:
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 49 | Vietnamese jack | 1 | **6** | **Mizuki Sensitive** | [#1](https://osu.ppy.sh/community/matches/118787303) | [#1](https://www.bilibili.com/video/BV1nZ8qzPEvs) |
-| 50 | Team Red | -1 | **0** | **kutto** | [*win by default*](https://osu.ppy.sh/mp/118787225) |  |
+| 50 | Team Red | -1 | **0** | **kutto** | [*win by default*](https://osu.ppy.sh/community/matches/118787225) |  |
 | 51 | **1557** | **0** | -1 | BAU BAU BAU BAU | [*win by default*](https://osu.ppy.sh/community/matches/118788190) |  |
 
 2025 年 7 月 27 日，星期日：
@@ -437,9 +437,9 @@ tags:
 
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 37 | **choke99** | **6** | 2 | MatteLatcha | [#1](https://osu.ppy.sh/mp/118720301) | [#1](https://www.bilibili.com/video/BV1xiuZzjErM) |
+| 37 | **choke99** | **6** | 2 | MatteLatcha | [#1](https://osu.ppy.sh/community/matches/118720301) | [#1](https://www.bilibili.com/video/BV1xiuZzjErM) |
 | 39 | **最爱躺着** | **6** | 1 | United Statedom | [#1](https://osu.ppy.sh/community/matches/118720727) | [#1](https://www.bilibili.com/video/BV1pCuZzrEcd) |
-| 35 | gangers | 4 | **6** | **Guardian Tales** | [#1](https://osu.ppy.sh/mp/118721231) | [#1](https://www.bilibili.com/video/BV1xzuZz5EJf) |
+| 35 | gangers | 4 | **6** | **Guardian Tales** | [#1](https://osu.ppy.sh/community/matches/118721231) | [#1](https://www.bilibili.com/video/BV1xzuZz5EJf) |
 | 38 | **Mizuki Sensitive** | **6** | 0 | 4k男娘叠叠绝赞团 | [#1](https://osu.ppy.sh/community/matches/118721249) | [#1](https://www.bilibili.com/video/BV1k1uZzgEXX) |
 | 40 | yo gurt | 1 | **6** | **kutto** | [#1](https://osu.ppy.sh/community/matches/118721201) | [#1](https://www.bilibili.com/video/BV1xiuZzjECX) |
 | 34 | **Chino fans club** | **6** | 2 | such happy people | [#1](https://osu.ppy.sh/community/matches/118721787) | [#1](https://www.bilibili.com/video/BV127ghzBENH) |
@@ -448,15 +448,15 @@ tags:
 
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 33 | **BAU BAU BAU BAU** | **6** | 3 | Nonsense | [#1](https://osu.ppy.sh/mp/118726686) | [#1](https://www.bilibili.com/video/BV1Ahg5zRECD) |
-| 48 | **Moegi & Maria** | **6** | 1 | 03 Jack Monkeys | [#1](https://osu.ppy.sh/mp/118727949) | [#1](https://www.bilibili.com/video/BV13n8bz4Edr) |
+| 33 | **BAU BAU BAU BAU** | **6** | 3 | Nonsense | [#1](https://osu.ppy.sh/community/matches/118726686) | [#1](https://www.bilibili.com/video/BV1Ahg5zRECD) |
+| 48 | **Moegi & Maria** | **6** | 1 | 03 Jack Monkeys | [#1](https://osu.ppy.sh/community/matches/118727949) | [#1](https://www.bilibili.com/video/BV13n8bz4Edr) |
 | 45 | **GangWonDuo** | **6** | 1 | Vietnamese jack | [#1](https://osu.ppy.sh/community/matches/118728483) | [#1](https://www.bilibili.com/video/BV1WGgLzdEnf) |
 | 41 | Chino fans club | 3 | **6** | **BAU BAU BAU BAU** | [#1](https://osu.ppy.sh/community/matches/118729089) | [#1](https://www.bilibili.com/video/BV113gLz4EwR) |
-| 42 | **KAMITSUBAKI** | **6** | 1 | Guardian Tales | [#1](https://osu.ppy.sh/mp/118729315) | [#1](https://www.bilibili.com/video/BV16zg5zEE8n) |
+| 42 | **KAMITSUBAKI** | **6** | 1 | Guardian Tales | [#1](https://osu.ppy.sh/community/matches/118729315) | [#1](https://www.bilibili.com/video/BV16zg5zEE8n) |
 | 47 | 1557 | 1 | **6** | **noize fanclub** | [#1](https://osu.ppy.sh/community/matches/118729955) | [#1](https://www.bilibili.com/video/BV1s588znEZP) |
-| 43 | **Mizuki Sensitive** | **6** | 0 | choke99 | [#1](https://osu.ppy.sh/mp/118730723) | [#1](https://www.bilibili.com/video/BV1Fqg5zDE1x) |
-| 44 | **kutto** | **6** | 0 | 最爱躺着 | [#1](https://osu.ppy.sh/mp/118730744) | [#1](https://www.bilibili.com/video/BV1eQg5zgEyn) |
-| 46 | **kim jeong hyeok** | **6** | 4 | Team Red | [#1](https://osu.ppy.sh/mp/118731255) | [#1](https://www.bilibili.com/video/BV1B6g5zmEXy) |
+| 43 | **Mizuki Sensitive** | **6** | 0 | choke99 | [#1](https://osu.ppy.sh/community/matches/118730723) | [#1](https://www.bilibili.com/video/BV1Fqg5zDE1x) |
+| 44 | **kutto** | **6** | 0 | 最爱躺着 | [#1](https://osu.ppy.sh/community/matches/118730744) | [#1](https://www.bilibili.com/video/BV1eQg5zgEyn) |
+| 46 | **kim jeong hyeok** | **6** | 4 | Team Red | [#1](https://osu.ppy.sh/community/matches/118731255) | [#1](https://www.bilibili.com/video/BV1B6g5zmEXy) |
 
 ### 16 强赛
 
@@ -477,8 +477,8 @@ tags:
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
 | 23 | king jacks | 0 | **5** | **such happy people** | [#1](https://osu.ppy.sh/community/matches/118656344) | [#1](https://www.bilibili.com/video/BV1orMRzHEEP) |
-| 21 | **fiveDspaLking** | **5** | 3 | Jacking Time! | [#1](https://osu.ppy.sh/mp/118656901) | [#1](https://www.bilibili.com/video/BV1CTuzzWEeK) |
-| 31 | **Moegi & Maria** | **5** | 0 | 最爱躺着 | [#1](https://osu.ppy.sh/mp/118658206) | [#1](https://www.bilibili.com/video/BV1orMRzHEKf) |
+| 21 | **fiveDspaLking** | **5** | 3 | Jacking Time! | [#1](https://osu.ppy.sh/community/matches/118656901) | [#1](https://www.bilibili.com/video/BV1CTuzzWEeK) |
+| 31 | **Moegi & Maria** | **5** | 0 | 最爱躺着 | [#1](https://osu.ppy.sh/community/matches/118658206) | [#1](https://www.bilibili.com/video/BV1orMRzHEKf) |
 | 18 | Bottom G | 0 | **5** | **United Statedom** | [#1](https://osu.ppy.sh/community/matches/118660585) | [#1](https://www.bilibili.com/video/BV1PjupzVEuf) |
 
 2025 年 7 月 13 日，星期日：
@@ -488,13 +488,13 @@ tags:
 | 20 | **MatteLatcha** | **5** | 3 | 320 | [#1](https://osu.ppy.sh/community/matches/118662501) | [#1](https://www.bilibili.com/video/BV1jgMfzFELB) |
 | 29 | **1557** | **5** | 3 | choke99 | [#1](https://osu.ppy.sh/community/matches/118664421) | [#1](https://www.bilibili.com/video/BV1k4uBzDE68) |
 | 17 | Toh | 3 | **5** | **kutto** | [#1](https://osu.ppy.sh/community/matches/118665484) | [#1](https://www.bilibili.com/video/BV1ZiuBzyEoW) |
-| 19 | **4k男娘叠叠绝赞团** | **5** | 2 | spirit | [#1](https://osu.ppy.sh/mp/118665498)                | [#1](https://www.bilibili.com/video/BV1vkuBz6EJ6) |
+| 19 | **4k男娘叠叠绝赞团** | **5** | 2 | spirit | [#1](https://osu.ppy.sh/community/matches/118665498) | [#1](https://www.bilibili.com/video/BV1vkuBz6EJ6) |
 | 25 | **GangWonDuo** | **5** | 2 | BAU BAU BAU BAU | [#1](https://osu.ppy.sh/community/matches/118665599) | [#1](https://www.bilibili.com/video/BV1C4uBzDEzw) |
-| 27 | **kim jeong hyeok** | **5** | 2 | gangers | [#1](https://osu.ppy.sh/community/matches/118666096) | [#1](https://www.bilibili.com/video/BV1ziuBzyEE6)                                            |
+| 27 | **kim jeong hyeok** | **5** | 2 | gangers | [#1](https://osu.ppy.sh/community/matches/118666096) | [#1](https://www.bilibili.com/video/BV1ziuBzyEE6) |
 | 32 | **03 Jack Monkeys** | **5** | 0 | yo gurt | [#1](https://osu.ppy.sh/community/matches/118666110) | [#1](https://www.bilibili.com/video/BV1vyuBzuEvF) |
 | 22 | speed main | -1 | **0** | **Guardian Tales** | [*win by default*](https://osu.ppy.sh/community/matches/118666628) |  |
 | 30 | **noize fanclub** | **5** | 0 | Mizuki Sensitive | [#1](https://osu.ppy.sh/community/matches/118668169) | [#1](https://www.bilibili.com/video/BV1WMuzzXEje) |
-| 24 | bagjetka to sure | 1 | **5** | **Nonsense** | [#1](https://osu.ppy.sh/mp/118668819) | [#1](https://www.bilibili.com/video/BV1pMuzzXEng) |
+| 24 | bagjetka to sure | 1 | **5** | **Nonsense** | [#1](https://osu.ppy.sh/community/matches/118668819) | [#1](https://www.bilibili.com/video/BV1pMuzzXEng) |
 
 ### 32 强赛
 
@@ -502,36 +502,36 @@ tags:
 
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 14 | such happy people | 4 | **5** | **最爱躺着** | [#1](https://osu.ppy.sh/mp/118564171) | [#1](https://www.bilibili.com/video/BV1hp3VzNE1k) |
+| 14 | such happy people | 4 | **5** | **最爱躺着** | [#1](https://osu.ppy.sh/community/matches/118564171) | [#1](https://www.bilibili.com/video/BV1hp3VzNE1k) |
 
 2025 年 7 月 5 日，星期六：
 
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 3 | **Vietnamese jack** | **5** | 1 | Bottom G | [#1](https://osu.ppy.sh/mp/118589180) | [#1](https://www.bilibili.com/video/BV1ba3BzNEoG) |
-| 2 | **BAU BAU BAU BAU** | **5** | 0 | kutto | [#1](https://osu.ppy.sh/mp/118591778) | [#1](https://www.bilibili.com/video/BV1s136zPEmd) |
-| 1 | **GangWonDuo** | **5** | 2 | Toh | [#1](https://osu.ppy.sh/mp/118592216) | [#1](https://www.bilibili.com/video/BV1vi32zeEc8) |
-| 8 | **KAMITSUBAKI** | **5** | 0 | 320 | [#1](https://osu.ppy.sh/mp/118593386) | [#1](https://www.bilibili.com/video/BV1Qf31zfECB) |
-| 11 | **noize fanclub** | **0** | -1 | speed main | [*win by default*](https://osu.ppy.sh/mp/118593721) |  |
-| 10 | Jacking Time! | 3 | **5** | **choke99** | [#1](https://osu.ppy.sh/mp/118594310) |  |
-| 13 | **Moegi & Maria** | **5** | 0 | king jacks | [#1](https://osu.ppy.sh/mp/118594514) | [#1](https://www.bilibili.com/video/BV1TXGnzQERZ) |
-| 16 | Nonsense | 3 | **5** | **yo gurt** | [#1](https://osu.ppy.sh/mp/118594967) | [#1](https://www.bilibili.com/video/BV1FBGLzdEMQ) |
+| 3 | **Vietnamese jack** | **5** | 1 | Bottom G | [#1](https://osu.ppy.sh/community/matches/118589180) | [#1](https://www.bilibili.com/video/BV1ba3BzNEoG) |
+| 2 | **BAU BAU BAU BAU** | **5** | 0 | kutto | [#1](https://osu.ppy.sh/community/matches/118591778) | [#1](https://www.bilibili.com/video/BV1s136zPEmd) |
+| 1 | **GangWonDuo** | **5** | 2 | Toh | [#1](https://osu.ppy.sh/community/matches/118592216) | [#1](https://www.bilibili.com/video/BV1vi32zeEc8) |
+| 8 | **KAMITSUBAKI** | **5** | 0 | 320 | [#1](https://osu.ppy.sh/community/matches/118593386) | [#1](https://www.bilibili.com/video/BV1Qf31zfECB) |
+| 11 | **noize fanclub** | **0** | -1 | speed main | [*win by default*](https://osu.ppy.sh/community/matches/118593721) |  |
+| 10 | Jacking Time! | 3 | **5** | **choke99** | [#1](https://osu.ppy.sh/community/matches/118594310) |  |
+| 13 | **Moegi & Maria** | **5** | 0 | king jacks | [#1](https://osu.ppy.sh/community/matches/118594514) | [#1](https://www.bilibili.com/video/BV1TXGnzQERZ) |
+| 16 | Nonsense | 3 | **5** | **yo gurt** | [#1](https://osu.ppy.sh/community/matches/118594967) | [#1](https://www.bilibili.com/video/BV1FBGLzdEMQ) |
 
 2025 年 7 月 6 日，星期日：
 
 | # | 红队 |  |  | 蓝队 | 比赛链接 | 回放链接 |
 | :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| 9 | **1557** | **0** | -1 | fiveDspaLking | [*win by default*](https://osu.ppy.sh/mp/118600157) |  |
-| 6 | **gangers** | **5** | 1 | spirit | [#1](https://osu.ppy.sh/mp/118601363) | [#1](https://www.bilibili.com/video/BV1LgMfzFEtN) |
-| 15 | **03 Jack Monkeys** | **5** | 0 | bagjetka to sure | [#1](https://osu.ppy.sh/mp/118601373) | [#1](https://www.bilibili.com/video/BV1J131zzEMR) |
-| 5 | **kim jeong hyeok** | **5** | 0 | 4k男娘叠叠绝赞团 | [#1](https://osu.ppy.sh/mp/118602361) | [#1](https://www.bilibili.com/video/BV1kPGHzVEpc) |
-| 7 | **Team Red** | **5** | 2 | MatteLatcha | [#1](https://osu.ppy.sh/mp/118602388) | [#1](https://www.bilibili.com/video/BV1nNGHzkE2g) |
-| 12 | **Mizuki Sensitive** | **0** | -1 | Guardian Tales | [*win by default*](https://osu.ppy.sh/mp/118602884) |  |
-| 4 | United Statedom | 1 | **5** | **Chino fans club** | [#1](https://osu.ppy.sh/mp/118603465) | [#1](https://www.bilibili.com/video/BV1JMGHz6E1N) |
+| 9 | **1557** | **0** | -1 | fiveDspaLking | [*win by default*](https://osu.ppy.sh/community/matches/118600157) |  |
+| 6 | **gangers** | **5** | 1 | spirit | [#1](https://osu.ppy.sh/community/matches/118601363) | [#1](https://www.bilibili.com/video/BV1LgMfzFEtN) |
+| 15 | **03 Jack Monkeys** | **5** | 0 | bagjetka to sure | [#1](https://osu.ppy.sh/community/matches/118601373) | [#1](https://www.bilibili.com/video/BV1J131zzEMR) |
+| 5 | **kim jeong hyeok** | **5** | 0 | 4k男娘叠叠绝赞团 | [#1](https://osu.ppy.sh/community/matches/118602361) | [#1](https://www.bilibili.com/video/BV1kPGHzVEpc) |
+| 7 | **Team Red** | **5** | 2 | MatteLatcha | [#1](https://osu.ppy.sh/community/matches/118602388) | [#1](https://www.bilibili.com/video/BV1nNGHzkE2g) |
+| 12 | **Mizuki Sensitive** | **0** | -1 | Guardian Tales | [*win by default*](https://osu.ppy.sh/community/matches/118602884) |  |
+| 4 | United Statedom | 1 | **5** | **Chino fans club** | [#1](https://osu.ppy.sh/community/matches/118603465) | [#1](https://www.bilibili.com/video/BV1JMGHz6E1N) |
 
 ### 资格赛
 
-每队具体出分可见[主表格](https://docs.google.com/spreadsheets/d/1CmpxIY08ZRUB5Fm_KODkxWOlEHjBs2RShfC9sfSLCno/edit?gid=1589760769#gid=1589760769)。
+每队具体出分可见[赛事信息表格](https://docs.google.com/spreadsheets/d/1CmpxIY08ZRUB5Fm_KODkxWOlEHjBs2RShfC9sfSLCno/edit?gid=1589760769#gid=1589760769)。
 
 | 种子 | 队伍 | 平均排名 | 总分 |
 | :-: | :-- | --: | --: |
