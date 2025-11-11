@@ -14,7 +14,7 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
 ### Gameplay
 
@@ -175,7 +175,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - Overall Difficulty should be 5 or more.
 - HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
 
-### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
 #### Guidelines
 
