@@ -14,7 +14,7 @@ When submitting a beatmap, the **[Beatmap Submission System](/wiki/Beatmapping/B
 ![Screenshot of the warning message](img/errormessage.png "The warning message as shown in the editor")
 :::
 
-This is the warning most frequently seen by mappers, and is often caused by an incorrectly set parameter in the [.osu file](/wiki/Client/File_formats/osu_(file_format)) or a bugged submission cache. In order to resolve this warning, follow these steps:
+This is perhaps the most frequent seen by mappers, and is often caused by an incorrectly set parameter in the [.osu file](/wiki/Client/File_formats/osu_(file_format)), a bugged submission cache, or just a simple name change. In order to resolve this warning, follow these steps:
 
 1. Go to the beatmap's folder.
    - You can get there easily by going to `File` and then `Open Song Folder` in the [beatmap editor](/wiki/Client/Beatmap_editor).
@@ -56,4 +56,4 @@ This warning occurs when a certain line in the `.osu` difficulty files contains 
    - If this line concerns an external asset (e.g. background images), shorten the name of the asset in question and update this line accordingly in your text editor.
 5. Save all the changes you made and try to upload your beatmap.
 
-If the steps above don’t resolve your issue, or if you’re facing a different issue entirely, please create a new topic in the [Help forum](https://osu.ppy.sh/community/forums/5) with details on your issue so that others can help you.
+If the steps above don't resolve your issue, or if you're facing a different issue entirely, please create a new topic in the [Help forum](https://osu.ppy.sh/community/forums/5) with details on your issue so that others can help you.
