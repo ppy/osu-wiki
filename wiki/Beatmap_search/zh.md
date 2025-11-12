@@ -77,6 +77,7 @@ outdated_since: 08192e65f4c39155136ca0b88b79bf7e959d78e0
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
 | `length` | [游玩时间](/wiki/Beatmap/Play_time) （单位为秒） |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
+| `ln`, `lns` | 长音符的百分比（仅限 osu！mania 和转换后的谱面）|
 | `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
 | `created` | 谱面制作时间 |
 | `updated` | 谱面上次更新时间 |
@@ -98,6 +99,7 @@ outdated_since: 08192e65f4c39155136ca0b88b79bf7e959d78e0
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
 | `length` | [游玩时间](/wiki/Beatmap/Play_time)（单位为秒） |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
+| `ln`, `lns` | 长音符的百分比（仅限 osu！mania 和转换后的谱面）|
 | `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l`。允许用英文逗号分隔的多个值 (`,`) |
 | `lastplayed` | 距上次游玩的时间。允许按 `#y#M#d#h#m#s` 格式输入（年月日时分秒）。比如，`2d5s` 表示“2天5秒”。 |
 | `played` | 是否游玩过。 对于游玩过的谱面，值为 `yes`、`true` 或 `1` ；对于未游玩过的谱面，值为 `no`、`false` 或者 `0` 。 |
