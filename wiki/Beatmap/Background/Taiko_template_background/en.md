@@ -12,9 +12,9 @@ A Taiko template background is a background image that is used to simulate authe
 
 Taiko template backgrounds were commonly used up until 2012, where they were disallowed in the [ranking criteria](/wiki/Ranking_criteria/osu!taiko) due to them not working as they were originally intended to on aspect ratios other than 4:3.
 
-<!-- TODO: pinpoint when they were disallowed exactly-->
+<!-- TODO: pinpoint when they were disallowed exactly -->
 
-## Aspect ratio compatibility example
+## Aspect ratio incompatibility example
 
 The following example was made using the Taiko template background from [U2 Akiyama - Mystic Oriental Love Consultation [Gezo's Taiko Oni]](https://osu.ppy.sh/beatmapsets/24830#taiko/113409).
 
