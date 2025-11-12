@@ -36,13 +36,11 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 - **Improvisation:** Having more notes than the actual song is providing.
 - **[Taiko template background](/wiki/Beatmap/Background/Taiko_template_background):** Background images that simulate authentic Taiko no Tatsujin gameplay.
 
-## Overall
+## General
 
-Overall rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+General rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-### General
-
-#### Rules
+### Rules
 
 All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstances.
 
@@ -58,7 +56,7 @@ All rules are exactly that: **rules**. They are **not** guidelines and must **no
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 - **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
-#### Guidelines
+### Guidelines
 
 Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
