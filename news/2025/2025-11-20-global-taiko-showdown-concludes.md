@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Global Taiko Showdown Concludes
-date: 2025-10-15 15:00:00 +0000
+date: 2025-11-20 15:00:00 +0000
 ---
 
 After one final hectic year of hosting 6 tournaments and a mapping contest between January to August, the Global Taiko Showdown tournament series is finally over on osu!
@@ -10,8 +10,6 @@ It has been a few months since we've finished it all up, but let's go through ou
 ## Navigation
 
 This can be a long article, so feel free to skip around:
-
-(written for the sake of self-reference while writing, will delete if needed)
 
 - [Squad Global Taiko Showdown 2025 Results](#squad-global-taiko-showdown-2025-results)
 - [Mapping Global Taiko Showdown 2025 Results](#mapping-global-taiko-showdown-2025-results)
@@ -25,7 +23,7 @@ This can be a long article, so feel free to skip around:
 
 ## Squad Global Taiko Showdown 2025 Results
 
-![](/wiki/shared/news/2025-10-15-global-taiko-showdown-concludes/sgts_podium.png)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/sgts_podium.png)
 
 Let's start this off in one simple way: **Congratulations to Japan't on winning this final edition of the Squad Global Taiko Showdown, being the first ever non-fully Japanese team to ever win this tournament!** With this win, osu!taiko legend ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) also adds a new achievement to their already impressive track record: winning an edition of every major open-rank GTS tournament to exist! 
 
@@ -34,6 +32,8 @@ We cannot be forgetting the two other teams who complete the podium, however: **
 They have all shown some of the highest level of gameplay osu!taiko can showcase through a teams tournament format. Thank you all for playing.
 
 ## Mapping Global Taiko Showdown 2025 Results 
+
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MGTS_Podium.png)
 
 Let's now go to another spectrum of our online events, with the conclusion to our second and final mapping contest, with it seeing the team known as **唐揚げ弁当** take victory home, with **we go running** trailing them for second place, and **uhhasdl;fh ads;fhlasd;lhjg** securing a very respectable third place!
 
@@ -47,7 +47,7 @@ You can find the maps by all of these teams here down below!
 
 ## cavoe's osu! event Global Taiko Showdown 2025 Results
 
-![COEGTS's three podium players, along with TaikoMom, co-organizer of COEGTS.](coegts_podium.jpg)
+![COEGTS's three podium players, along with TaikoMom, co-organizer of COEGTS.](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/coegts_podium.jpg)
 
 The final GTS tournament finished with a podium of very familiar faces: players who sail from different horizons, yet would be recognised by anyone taking even the tiniest of interests in the osu!taiko scene. Let's kick things off with our heartfelt congratulations to ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012), the final GTS champion! Those who have indeed been paying attention might recognise him as the player who upset ::{ flag=JP }:: [kanten_07](https://osu.ppy.sh/users/11680357) in an EGTS2025 upper bracket match and exiting the tournament at top 16 (while the latter would later come painstakingly close to [winning the tournament!](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)). Flying in all the way from the Asian region, he showcased at the Dutch-based LAN event that his skills have only improved since then, for the pleasure of all those in attendance, and of those who couldn't make it.
 
@@ -63,12 +63,16 @@ Each stage's Tiebreaker beatmap had its own composition, but we are only present
 
 #### Finals Tiebreaker
 
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/DEM_Banner.png)
+
 Legendary composer **[Hommarju](https://hommarju.wixsite.com/home)** launched an onslaught on the six squads who were still in the running during SGTS2025 Finals with their 5-minute composition **Deus Ex Machina (Final Attack Mix)**! Clocking at a 170-200 BPM range and an alarming 8 stars difficulty, ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122)'s take on the song was played in the Upper Bracket's Finals match to decide the winner in an incredible 8-mod face-off!
 
 - **[Listen to Deus Ex Machina (Final Attack Mix) here!](https://www.youtube.com/watch?v=V6jNoTpoA94)**
 - **[Check out the beatmap here!](https://osu.ppy.sh/beatmapsets/2398669#taiko/5198457)**
 
 #### Grand Finals Tiebreaker
+
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/Paracausal_Banner.png)
 
 Loved equally as he is feared by all rhythm games enjoyers, long-time featured artist **[Camellia](https://cametek.jp/)** returns for the third time to a GTS-related event! Drawing inspiration from his earlier albums, he worked towards nuturing a song that would serve as the final composition of the 2025 edition of SGTS... which blossomed into the behemoth that is **Paracausal Cocoon Protocol**. Ranging from 64 to a whopping **370** BPM, breaking through the 9 stars barrier at **9.23** stars, this titan of a beatmap hosted by ::{ flag=US }:: [SolaEclipse](https://osu.ppy.sh/users/6621158) is a collaborative work between 12 mappers whose purpose is to take down even the mightiest of players.
 
@@ -78,6 +82,7 @@ Loved equally as he is feared by all rhythm games enjoyers, long-time featured a
 
 ### Mapping Global Taiko Showdown 2025
 
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MGTS_Banner.png)
 
 MGTS featured a line-up of three songs, of which two had to be mapped. The contestants could tread down two different paths: take on **axis::BREAK** by **X/Y/Z** (a trio uniting the talents of **[Foodbot](https://soundcloud.com/foodbot)**, **[mrcool909090](https://soundcloud.com/mrcool909090)** and featured artist **[SiLiS](https://soundcloud.com/silis)**), or create something out of French duo **[Faxyne](https://soundcloud.com/faxyne)** and **[blobdash](https://soundcloud.com/blobdash)**'s composition, **Hatching**. In either case, they also had to tackle **ILLUSORYPROGRAM97**, a 5-minute collaborative effort between **[Kyotsugyon](https://soundcloud.com/kyotsugyon)** and **[Sh0wtime](https://soundcloud.com/sh0wtimelol)**.
 
@@ -94,6 +99,8 @@ The 2023 edition of COEGTS already undertook the ridiculous task of having two m
 
 #### Main Mappool Tiebreaker
 
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MACHKIN_Banner.png)
+
 **[REAL SHIT BASTARDS](https://soundcloud.com/realshitbastards)**, the duo unit encompassing the talents of **[4nzu](https://soundcloud.com/4nzu2)** and **[Supire](https://soundcloud.com/nh_supaia)**, undertook the effort of composing what would become an eight-minute long song which had to be the culmination of everything GTS-related. Under the direction of mappooler and set host ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), 14 mappers were then tasked to make something out of that composition. The result is **MACHKINTV**, a 7.42 stars beatmap varying in styles coming from all over the world and ranging from 144 to 220 BPM. Mere words cannot describe this masterpiece of a song, so check it out yourself. Do not get jumpscared by the last few seconds, though. Do not say you were not warned.
 
 - **[Listen to MACHKINTV here!](https://soundcloud.com/realshitbastards/machkintv)**
@@ -104,15 +111,13 @@ The 2023 edition of COEGTS already undertook the ridiculous task of having two m
 
 Every tournament has its set of memorable or funny moments, impossible comebacks, down to the wire matches. GTS tournaments this year were not spared of these: let's take a look at a few of them.
 
-(yell at me (\_yosh) if i need to get the twitch links later, feel free to change things around i took the formatting for video files from a mwc recap newspost)
-
 ### Squad Global Taiko Showdown 2025
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://x.com/staff_gts/status/1936433041632588243" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/gtsosu/clip/BrightCleanDinosaurPeoplesChamp-KUqNMBaER07xn5gs" frameborder="0" allowfullscreen></iframe>
 
 In an early round clash between the new rising stars sailing from Japan and veteran figures from the same country, team **WAKASA LIFE** looked to secure their third point on their NoMod 3 pick [Lawn Wake IX](https://osu.ppy.sh/beatmapsets/966060#taiko/2691863) with a relatively comfortable 30k score lead, until ::{ flag=JP }:: [takumit25](https://osu.ppy.sh/users/16662508) missed an entire pattern at the end of the map! This would have certainly be a turning point in the match for team **MANIERA**... if not for ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) trading some of these misses on a poorly-negociated snap change. While there were less misses, it was just enough to keep a **569** score difference in favour of team **WAKASA LIFE**, who went on to not lose a single pick for the remainder of the match.
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://x.com/staff_gts/status/1946911568836362340" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/gtsosu/clip/ScarySnappyTroutDoritosChip-OLIR21G0sjFqQHcm" frameborder="0" allowfullscreen></iframe>
 
 Everything looked good for seed 2 team **IAAI** to secure their first pick on the Grand Finals NoMod 5 pick [Compute It With Some Devilish Alcoholic Steampunk Engines](https://osu.ppy.sh/beatmapsets/2403282#taiko/5212286)... until the client caught up, sending their narrow 353 points score lead over to team **Japan't**, with a final score difference of... **55**!
 
@@ -136,8 +141,107 @@ Battling it out for the gold, ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/
 
 ## Reflections/Commentary
 
+To close off this article, we have contacted a staff member from each event, as well as the winner of COEGTS, to give their overall thoughts, and feelings they had while working on each project, and even GTS as a whole, with it all ending, of course.
+
 ### Squad Global Taiko Showdown 2025
+
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+</style>
+
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/SGTS_Staff_Banner.png)
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1109122" style="background-image: url('/wiki/shared/avatars/roufou.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1109122">roufou</a></p>
+
+Hello, I'm roufou. I've been a pretty active custom mapper in the taiko scene for a couple of years, and have mapped for quite a few GTS tournaments; along with working as a map pooler for COEGTS and SGTS 2025.
+
+Without a definite answer as to why, I frequently felt compelled to help GTS tournaments, since I got invited to map for one of their tournaments. I knew it'd be hard for them to find map poolers for SGTS in 2025, so I decided to offer my help as a pooler.
+
+SGTS 2025 was quite challenging to pool for, seeing as we had the restriction of only using songs we have explicit permission to map. I almost wish I could have done more to ensure the pools were more enjoyable to players at the time, but I'm also relatively satisfied with how it turned out. Getting custom mappers is surprisingly difficult, and finding maps that fit the right skillsets and are challenging isn't easy.
+
+I'd like to shout out Rosemarie for carrying throughout the map search, and working with SolaEclipse was a pleasure as well. I tried to contribute as much as I could, and I'm ultimately glad I could assist with staffing in SGTS.
+
+Thank you to all the other members of the SGTS staff team as well.
+
+</div>
 
 ### Mapping Global Taiko Showdown 2025
 
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MGTS_Staff_Banner.png)
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
+
+I think MGTS has been a refreshing experience overall for me and the community — osu!taiko contests are pretty sparse and there isn't much going on apart from [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) ever since the last [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC/3) was held. This year's MGTS took last iteration's formula and iterated on it based on community feedback, which featured 2 distinct changes:
+
+- Team size dropped from 4-6 to 2-3, which resonated positively with participants given it allowed for easier pairings between friends.
+- We took the GTS flair up a notch and provided a fully custom songs list rather than only one custom song.
+
+One of the primary positives I noticed while hosting a GTS-affiliated contest is the immediate access to a compendium of high quality songs alongside a stellar roster of cracked artists who are ready to deliver bangers whenever requested — we managed to secure the roster of artists *minutes* after we locked in the format internally LOL.
+
+We also managed to gather a very reputable and varied panel of judges consisting of very dominant names in the community. The primary goal of this judging panel was to have enough variety among them to ensure no overall scores were one-sided towards a specific mapping style.
+
+</div>
+
 ### cavoe's osu! event's Global Taiko Showdown 2025
+
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/COEGTS_Staff_Banner.png)
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3869519" style="background-image: url('/wiki/shared/avatars/Ideal.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3869519">Ideal</a></p>
+
+Being a head mappooler not once, but twice, proved itself to be quite a challenge given the very tight deadlines we had to get everything done. Talking to composers about changes to songs to better fit a specific slot in the mappool, working with tens of different mappers and performing difficulty balancing and quality checks on their maps isn’t an easy task, especially for fully custom pools, involving tens of mappers! This was even more evident for me on [MACHKINTV](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943), for which I was the main coordinator, and it really highlighted how difficult it can be to get everything in order, due to being a 14 mapper megacollab.
+
+That aside, I can say that working with everyone was a pleasure - composers, mappers and designers. Everyone was committed to getting everything done right, and very receptive to whatever changes that were needed to fit everything nicely. This allowed the mappools produced to be of high quality, which definitely showed with how people enjoyed it, players and spectators alike!
+
+</div>
+
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/COEGTS_Winner_Banner.png)
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/16462012" style="background-image: url('/wiki/shared/avatars/cheesestingy.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/16462012">cheesestingy</a></p>
+
+COEGTS was my first (and probably last) LAN tournament. Everything looked like it took a ton of effort, the pools were really fun and well balanced, and I had so much fun playing with friends I’ve spoke to for years. 
+I don’t think I’ve enjoyed myself this much in a week practicing the pool and of course playing on stage, what an unforgettable experience. 
+Thanks to everyone that helped make this come true, from all people involved in GTS work to staff members at COE, and my family for being there with me.
+It’s been a honor.
+
+</div>
+
+Once again, thank you all for working with us for so long! This article officially marks the end of GTS' life as an osu! tournament series. It has been a very bumpy road of 7 years of activity, but we still appreciate it regardless. You may see maps for past GTS original songs get ranked in the future, but this will be the extent of our activity in this scene from now on.
+We will stay active as a music label under the name **Gratia Productions**, which is not planned to be active until mid-2026 minimum regardless. 
+See you around!
+
+—_yosh, Kasumi-sama
