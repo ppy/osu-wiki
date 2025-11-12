@@ -195,7 +195,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Overall Difficulty should be more than 5.
+- Overall Difficulty should be 6 or more.
 - HP Drain Rate should be 5 or more[^hp-note].
 
 ## Notes
