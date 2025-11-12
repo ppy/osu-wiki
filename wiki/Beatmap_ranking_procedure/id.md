@@ -52,7 +52,7 @@ Penganuliran nominasi (*nomination reset*) memastikan bahwa para modder, BN, dan
 
 Nominasi yang telah diberikan dapat dianulir apabila beatmap ini diperbarui oleh pembuatnya, atau apabila anggota BN atau NAT menemukan masalah pada beatmap. Nominasi ini juga dapat dianulir oleh para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) apabila hal ini menyangkut konten yang tidak pantas. Apabila suatu beatmap dikualifikasikan pada saat nominasinya sedang dianulir, beatmap ini akan secara otomatis didiskualifikasi dan dikeluarkan dari antrean ranking.
 
-Terkadang, para anggota BN dan NAT dapat menempatkan [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) pada beatmap yang mereka yakini memiliki masalah dari segi kualitas di luar dari yang apa yang diatur oleh kriteria ranking.
+Terkadang, para anggota BN dan NAT dapat menempatkan [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) pada beatmap yang mereka yakini memiliki masalah kualitas di luar dari yang apa yang diatur oleh kriteria ranking.
 
 ## Ranked
 
