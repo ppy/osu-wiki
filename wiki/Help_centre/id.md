@@ -24,7 +24,7 @@ Silakan pilih bagian pusat bantuan yang paling menggambarkan masalahmu untuk men
 | :-- | :-- |
 | [Akun](/wiki/Help_centre/Account) | osu!supporter, entri masuk dan pemulihan akses, perubahan nama pengguna, data profil |
 | [Pembatasan akun](/wiki/Help_centre/Account_restrictions) | Segala hal seputar pembatasan akun (*account restriction*): garis besar, proses banding, alasan umum, masa tenggang |
-| [Beatmapping dan editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
+| [Pembuatan beatmap dan editor](/wiki/Help_centre/Beatmapping) | Pengelolaan beatmap, kepemilikan beatmap, sistem kuota beatmap (*beatmap slots*) |
 | [Klien](/wiki/Help_centre/Client) | *Bug* dan *crash*, permainan, koneksi, kinerja |
 | [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Mengunduh permainan, membuat akun |
 | [Silence](/wiki/Help_centre/Silences) | Segala hal seputar pembungkaman (*silence*): garis besar, proses banding, alasan umum |
