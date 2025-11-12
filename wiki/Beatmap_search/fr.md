@@ -77,7 +77,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `bpm` | [Le tempo de la musique](/wiki/Music_theory/Tempo) |
 | `length` | [La longueur](/wiki/Beatmap/Play_time) en secondes |
 | `key`, `keys` | Nombre de touches (osu!mania et beatmaps convertis uniquement) |
-| `ln`, `lns` | Pourcentage de notes qui sont des notes longues (osu !mania et beatmaps converties uniquement)
+| `ln`, `lns` | Pourcentage de notes qui sont des notes longues (osu!mania et beatmaps convertis uniquement)
 | `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. Permet des valeurs multiples séparées par des virgules (`,`) |
 | `created` | Date de création de la beatmap |
 | `updated` | Date de la dernière mise à jour de la beatmap |
@@ -99,7 +99,7 @@ Les champs de métadonnées des beatmap peuvent être comparés à des valeurs s
 | `bpm` | [Le tempo de la musique](/wiki/Music_theory/Tempo) |
 | `length` | [Le temps de jeu](/wiki/Beatmap/Play_time) en secondes |
 | `key`, `keys` | Nombre de touches (osu!mania et beatmaps convertis uniquement) |
-| `ln`, `lns` | Pourcentage de notes qui sont des notes longues (osu !mania et beatmaps converties uniquement)
+| `ln`, `lns` | Pourcentage de notes qui sont des notes longues (osu!mania et beatmaps convertis uniquement)
 | `status` | Statut de la beatmap. La valeur peut être `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, ou `loved`, ou `r`/`a`/`p`/`n`/`u`/`l` en abrégé. |
 | `lastplayed` | Temps écoulé depuis la dernière lecture. Accepte le format `#y#M#d#h#m#s`, pour les années, les mois, les jours, les heures, les minutes et les secondes respectivement. Par exemple, `2d5s` signifie "2 jours et 5 secondes". |
 | `played` | L'état de la beatmap. La valeur peut être `yes`, `true`, ou `1` pour les beatmaps joués, ou `no`, `false`, ou `0` pour les beatmaps non joués. |
