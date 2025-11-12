@@ -75,7 +75,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `circles` | Anzahl der Circles in der Beatmap |
 | `sliders` | Anzahl der Slider in der Beatmap |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
-| `ln`, `lns` | Prozentsatz der Noten, bei denen es sich um lange Noten handelt (nur osu!mania und konvertierte Beatmaps) |
+| `ln`, `lns` | Prozentsatz der Noten, bei denen es sich um lange Noten handelt (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
 | `created` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
 | `updated` | Datum, an dem die Beatmap zuletzt aktualisiert wurde |
@@ -98,7 +98,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `bpm` | [Songtempo](/wiki/Music_theory/Tempo) |
 | `length` | [Länge](/wiki/Beatmap/Play_time) in Sekunden |
 | `key`, `keys` | Anzahl der Keys (betrifft nur osu!mania und konvertierte Beatmaps) |
-| `ln`, `lns` | Prozentsatz der Noten, bei denen es sich um lange Noten handelt (nur osu!mania und konvertierte Beatmaps) |
+| `ln`, `lns` | Prozentsatz der Noten, bei denen es sich um lange Noten handelt (betrifft nur osu!mania und konvertierte Beatmaps) |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. Mehrere, durch Komma (`,`) getrennte Werte sind erlaubt. |
 | `lastplayed` | Die Zeit, seit der Schwierigkeitsgrad zuletzt gespielt wurde. Das gültige Format ist `#y#M#d#h#m#s`, entsprechend für Jahre, Monate, Tage, Stunden, Minuten und Sekunden. Zum Beispiel bedeutet `2d5s` "2 Tage und 5 Sekunden". |
 | `played` | Ob die Beatmap bereits gespielt wurde. Der Wert kann `yes`, `true` sowie `1` für gespielte Beatmaps oder `no`, `false` sowie `0` für ungespielte Beatmaps sein. |
