@@ -184,7 +184,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or more.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- HP Drain Rate should be 5 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
