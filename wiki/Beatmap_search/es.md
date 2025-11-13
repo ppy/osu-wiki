@@ -77,7 +77,6 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `circles` | Número de círculos en el beatmap |
 | `sliders` | Número de sliders en el beatmap |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
-| `ln`, `lns` | Porcentaje de notas que son notas largas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
 | `created` | Fecha de creación/subida del beatmap |
 | `updated` | Fecha de la última actualización del beatmap |
