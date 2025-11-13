@@ -33,7 +33,7 @@ Gambar atau elemen visual yang mengandung unsur mana pun di bawah ini **tidak di
 - **perilaku atau rayuan seksual**
 - **konten erotis atau peragaan seksual yang bersifat vulgar**
 - **contoh penggunaan, penyiapan, atau pengenalan obat-obatan terlarang**[^drug-nature]
-- **penggambaran konten politik, budaya, agama, atau sosial yang secara sengaja dibuat untuk memicu provokasi**
+- **penggambaran konten politik, budaya, agama, atau sosial yang sengaja dibuat untuk memicu provokasi**
 - **gambar yang menampilkan perilaku bunuh diri atau melukai diri sendiri, yang meliputi persiapan atau upaya bunuh diri**
 
 Di samping itu, gambar atau elemen visual yang dapat secara wajar dinilai buruk (baik secara objektif dari segi kualitas gambar atau secara subjektif dari segi komposisi/rupa gambar) juga dapat dilarang untuk digunakan pada beatmap meskipun gambar ini tidak melanggar kriteria mana pun.
