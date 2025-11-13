@@ -16,13 +16,27 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
+#### Alternatives
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
+
+#### Alternatives
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: Alternative to Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -32,6 +46,10 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### Alternatives
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -39,17 +57,6 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-
-### Widely accepted alternatives
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni / Ura Oni
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose
 
 ## Difficulty naming schemes from other games
 
