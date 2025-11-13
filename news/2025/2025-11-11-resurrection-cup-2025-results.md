@@ -16,6 +16,8 @@ This was a tournament that was [announced back in in May](https://osu.ppy.sh/hom
 
 ## Highlights
 
+With tarczynski esports’ all-Polish lineup claiming the championship title, Monkey Business securing a strong second-place finish, and the Australian representatives FIAT MULTIPLA rounding out the podium, the tournament concluded with a thrilling display of skill and coordination. Let’s revisit some of the standout moments that defined this intense competition!
+
 ### Round of 32: esnupicore vs. manie pls spaRE ME
 
 **[You can view the match information here!](https://osu.ppy.sh/community/matches/118466335)**
