@@ -32,7 +32,7 @@ Ces raccourcis fonctionnent partout :
 | `Shift` + `F12` | Prend une capture d'écran et l'upload sur le serveur à des fins de partage. La capture d'écran sera également enregistrée localement. Cela ouvrira la capture d'écran sur votre navigateur web. |
 | `Insert` | C'est la [boss key](https://fr.wikipedia.org/wiki/Boss_key). Réduit le client dans la zone de notification. Cela rendra également le jeu muet. |
 | `Shift` + `F1` | Ouvre [osu!status](https://twitter.com/osustatus) sur votre navigateur web. (Uniquement lorsqu'une erreur de connexion apparaît). |
-| `Ctrl` + `O` | Ouvre la barre latérale des options. Vous ne pouvez pas entrer dans l'assistant de décalage si vous n'êtes pas dans le menu principal. |
+| `Ctrl` + `O` | Ouvre la barre latérale des options. Vous ne pouvez pas entrer dans [l'assistant de décalage](/wiki/Client/Options/Offset_Wizard) si vous n'êtes pas dans le menu principal. |
 
 ## Menu principal
 

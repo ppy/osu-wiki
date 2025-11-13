@@ -8,7 +8,7 @@ no_native_review: true
 
 ![Tangkapan layar tab Compose di editor yang menampilkan beatmap Donor Song milik pishifat](img/compose.jpg)
 
-*Untuk daftar tombol pintasan editor selengkapnya, lihat: [Tombol pintasan § Editor beatmap](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+*Untuk daftar tombol pintasan editor selengkapnya, lihat: [Tombol pintasan § Editor beatmap](/wiki/Client/Keyboard_shortcuts#editor-beatmap)*
 
 **Editor beatmap** merupakan tampilan antarmuka osu! yang digunakan untuk menghasilkan [beatmap](/wiki/Beatmap). Proses pembuatan beatmap ini sendiri dikenal dengan istilah [beatmapping](/wiki/Beatmapping).
 

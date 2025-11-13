@@ -31,7 +31,7 @@ Các phím tắt này hoạt động ở mọi nơi trong trò chơi:
 | `Shift` + `F12` | Chụp ảnh màn hình và tải lên máy chủ để chia sẻ. Ảnh chụp màn hình cũng sẽ được lưu cục bộ. Điều này sẽ mở ảnh chụp màn hình trên trình duyệt web của bạn. |
 | `Insert` | Đây là [Boss key](https://en.wikipedia.org/wiki/Boss_key). Thu nhỏ trò chơi vào khay thông báo. Điều này cũng sẽ tắt tiếng trò chơi. |
 | `Shift` + `F1` | Mở [osu!status](https://twitter.com/osustatus) trên trình duyệt web của bạn. (Chỉ khi có lỗi kết nối xuất hiện.) |
-| `Ctrl` + `O` | Mở thanh bên cài đặt. Không thể vào trình điều chỉnh độ trễ nếu bạn không ở trong menu chính. |
+| `Ctrl` + `O` | Mở thanh bên cài đặt. Không thể vào [trình điều chỉnh độ trễ](/wiki/Client/Options/Offset_Wizard) nếu bạn không ở trong menu chính. |
 
 ## Menu chính
 

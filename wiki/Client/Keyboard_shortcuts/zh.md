@@ -32,7 +32,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Shift` + `F12` | 截图并上传至服务器分享，图片仍然会保存在本地，并在上传成功后自动在浏览器中显示截图。 |
 | `Insert` | [老板键](https://baike.baidu.com/item/%E8%80%81%E6%9D%BF%E9%94%AE)，最小化 osu! 至通知栏，并静音游戏所有声音。 |
 | `Shift` + `F1` | 打开 [osu!status](https://twitter.com/osustatus) 至你的网页浏览器。（只在有网络错误时。） |
-| `Ctrl` + `O` | 快速打开设置菜单，在主菜单以外的地方无法进入偏移量（Offset）设置向导。 |
+| `Ctrl` + `O` | 快速打开设置菜单，在主菜单以外的地方无法进入[偏移量（Offset）设置向导](/wiki/Client/Options/Offset_Wizard)。 |
 
 ## 主菜单
 
