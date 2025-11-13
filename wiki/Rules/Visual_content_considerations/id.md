@@ -28,7 +28,7 @@ Apabila kamu ragu, cobalah untuk mengakomodir nilai budaya yang paling banyak di
 Gambar atau elemen visual yang mengandung unsur mana pun di bawah ini **tidak diperkenankan**:
 
 - **konten seksual yang melibatkan atau ditargetkan kepada anak di bawah umur**
-- **kekerasan yang berlebihan, adegan berdarah, pemotongan bagian tubuh, pemenggalan, atau penganiayaan**
+- **kekerasan yang berlebihan, adegan berdarah, mutilasi, pemenggalan, atau penganiayaan**
 - **kiasan dengan unsur seksual yang signifikan**
 - **perilaku atau rayuan seksual**
 - **konten erotis atau peragaan seksual yang bersifat vulgar**
