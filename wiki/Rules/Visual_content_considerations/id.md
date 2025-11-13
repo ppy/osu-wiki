@@ -5,7 +5,7 @@ tags:
 
 # Pertimbangan konten visual
 
-Sesuai dengan [Peraturan Komunitas #5](/wiki/Rules#community-rules), seluruh konten visual yang dikirim atau diunggah ke layanan osu! harus dianggap layak pakai untuk permainan yang terbuka bagi segala umur.
+Sesuai dengan [Peraturan Komunitas #5](/wiki/Rules#peraturan-komunitas), seluruh konten visual yang dikirim atau diunggah ke layanan osu! harus dianggap layak pakai untuk permainan yang terbuka bagi segala umur.
 
 Hal ini meliputi:
 
