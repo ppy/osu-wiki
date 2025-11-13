@@ -10,7 +10,7 @@ tags:
 
 # Quick play
 
-**Quick play** is a queue-based multiplayer mode introduced to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on October 29, 2025 ([release](https://github.com/ppy/osu/releases/tag/2025.1029.1-lazer)). It is the first queue-based multiplayer system introduced to the game.
+**Quick play** is a queue-based multiplayer mode introduced to [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on October 29, 2025 ([release](https://osu.ppy.sh/home/changelog/lazer/2025.1029.1)). It is the first queue-based multiplayer system introduced to the game.
 
 ## Interface
 
@@ -34,13 +34,13 @@ The beatmap selection screen is where users are given a brief time to vote on in
 
 ## Gameplay
 
-The server attempts to form a lobby with 8 players. Smaller lobbies may be encountered should there not be enough players in the queue. There are 5 rounds per match.
+Lobbies are formed of up to 8 players of similar skill level. The matches last for 5 rounds.
 
 ### Beatmap selection
 
-Once the lobby is formed, users are presented a small, random set of curated beatmaps to choose from. Beatmaps are voted on by individuals and then picked at random by the server. The more votes a map receives, the more likely it is to be picked. Beatmaps are presented to users based on an estimation of their skill level.
+During each round, players are presented a small set of beatmaps. Clicking on a beatmap casts a vote for it and increases its chance to be played. After all players have cast their vote, one beatmap will be picked at random to be played for that round.
 
-### Matchmaking rating
+### Standings
 
 Matchmaking rating ("MMR", "rating") is a hidden variable assigned to each user which fluctuates depending on how well they perform in quick play lobbies. MMR is used to group players of similar skill levels together when forming lobbies. Curated beatmaps are assigned fixed MMR values. This enables the server to more accurately estimate whether a beatmap is too easy or difficult for a given lobby.
 
@@ -48,7 +48,7 @@ A beatmap's MMR is directly derived from its [star rating](/wiki/Beatmap/Star_ra
 
 ### Scoring
 
-A user's MMR is influenced based on their standing at the end of the lobby. Throughout the match, users are awarded points based on their placement in each round following the table below:
+A user's standing is dependent on the amount of points they earn throughout the match. A better score in each round will award more points following the table below:
 
 | Placement | Points |
 | :-- | --: |
@@ -61,11 +61,17 @@ A user's MMR is influenced based on their standing at the end of the lobby. Thro
 | 7th | 2 |
 | 8th | 1 |
 
+## Matchmaking rating
+
+Matchmaking rating ("MMR", "rating") is a variable assigned to each user which fluctuates depending on how well they perform in quick play matches. Ratings are used to group players of similar skill levels together when forming matches.
+
+Beatmaps are also rated according to the level which they are appropriate to be played at such that the beatmap pool for each match should be representative of the average player skill level.
+
 ## Beatmap curation
 
 Beatmaps used in quick play are currently curated by a team of community volunteers. The full list of available beatmaps for all modes is publicly available via [this spreadsheet](https://docs.google.com/spreadsheets/d/1ZbvLvHlXH3IF1WgN4YkHqOttO7wG-1Duto-535tqKnQ/edit?gid=0#gid=0).
 
-Each mode has a mappool curated by community members who are familiar with beatmaps for that mode specifically. All beatmaps featured in this mode are Ranked, Approved, or Loved.
+Each mode has a mappool curated by community members who are familiar with beatmaps for that mode specifically. All beatmaps featured in this mode are either Ranked, Approved, or Loved.
 
 ## FAQ
 
