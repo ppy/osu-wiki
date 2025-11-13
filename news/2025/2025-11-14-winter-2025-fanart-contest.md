@@ -13,7 +13,23 @@ Colder days and rising festivities set the perfect stage for osu! art connoisseu
 
 **Draw any of the osu! (or community) mascots in a winter theme or setting!**
 
-prompt examples
+We return to a broad theme for the winter season, and also to the early contest time frame like years past (wow, Halloween was just two weeks ago!).
+
+The winter season also comes with frigid weather and snowy landscapes, unless you live on the flipside of this big blue marble of ours. The same applies to the theme of your drawing: if it's plausibly winter in your drawn scenery, you're good!
+
+If the broad theme makes you short on ideas, don't worry! In these art contests, there's no such thing as art block. If you are somehow in possession of an art block, throw it away and replace it with one of these art ideas:
+
+- Yuzu impressing everyone with his ice skating skills.
+- pippi cozying up with hot chocolate during a snowstorm (and procrastinating on winter homework).
+- Alisa knitting everyone plush toys of themselves.
+- Mari out-fireworking Mani with the cooler-looking fireworks on New Year's Eve.
+- Aiko rolling up Chirou into a Chirou-sized snowball.
+- The osu! cast around a campfire on a quiet winter night.
+- Mocha inviting everyone to a Christmas turkey dinner... or fried chicken... or to see a weird straw goat... or whatever people do for winter festivities.
+
+Feel free to use these ideas or bring your own, or mash some together or extend others (also known as brainstorming).
+
+If you're wondering who these mascots we're always talking about are, check no further than the [wiki](/wiki/Mascots). If you're feeling curious but know little about anyone other than pippi, our main poster girl, [Mocha](https://assets.ppy.sh/media/mocha/Mocha_Documentation.pdf), [Yuzu](https://assets.ppy.sh/media/yuzu/yuzu-hq.pdf) and the pair of [Mani and Mari](https://assets.ppy.sh/media/mari-mani/MariMani_Documentation.pdf) have design reference documents you can check out (by clicking the links in this sentence)!
 
 ## Rewards
 
