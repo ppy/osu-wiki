@@ -45,13 +45,7 @@ The top 3 teams were awarded with the following prizes:
 
 This contest has come to an end and resulted in the following podium:
 
-| Rank | Team | Beatmaps | Scores |
-| :-: | :-- | :-- | :-: |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **唐揚げ弁当** (::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2412119) + [Hatching](https://osu.ppy.sh/beatmapsets/2411983) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66184/results "Judging Details") |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **we go running** (::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=SG }:: [YonGin](https://osu.ppy.sh/users/7109317)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410290) + [Hatching](https://osu.ppy.sh/beatmapsets/2410278) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66185/results "Judging Details") |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **uhhasdl;fh ads;fhlasd;lhjg** (::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=VN }:: [chairIess](https://osu.ppy.sh/users/26031453), ::{ flag=VN }:: [linedcolt](https://osu.ppy.sh/users/33754270)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410446) + [Hatching](https://osu.ppy.sh/beatmapsets/2410697) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66176/results "Judging Details") |
-
-Full results can be found in the [contest listing page](https://osu.ppy.sh/community/contests/248).
+[![MGTS 2025 podium](img/podium.jpg)](https://osu.ppy.sh/community/contests/248)
 
 ## Links
 
