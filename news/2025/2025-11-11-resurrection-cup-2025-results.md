@@ -235,7 +235,11 @@ It's actually my first time being in a position higher than what I usually do, w
 
 </div>
 
-If you are interested in delving even deeper into the entire process from zero to one hundred of the production of this year, you may read OsuMe65's document about it [here](https://osume65.s-ul.eu/HggIsZEK).
+If you are interested in delving even deeper into the entire process from zero to one hundred of the production of this year, please give OsuMe65's document about it a read down below: 
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/resurrection-cup-2025.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Staff interviews
 
