@@ -43,7 +43,7 @@ Speaking of profile banners, be sure to nab any of the existing (and short-lived
 
 ## Rules
 
-- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Halloween 2025 Fanart Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it's your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
+- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Winter 2025 Fanart Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it's your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
 - **All entries MUST follow the contest theme and contain AT LEAST one of the osu! official or community mascots.** Otherwise, it's not an osu! contest, is it?
 - **All entries MUST be suitable for all-ages viewing.** In a time that is traditionally associated with joy and celebration, the vibes need to play the part!
 - **SUBMIT ONLY YOUR OWN WORK. REDRAWING AND COMPOSITE WORKS ARE NOT ALLOWED.** Plagiarism sucks. Don't do it. Someone in the comments will call you out for it as has happened every other time someone's tried and they're going to do more damage to your reputation than us removing your entry from the voting will do. Use only your own work — brushes and the like are fine, but that's it! Don't redraw or trace someone else's work.
@@ -61,7 +61,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 *Header and promotional artwork by finalist [Kitcat](https://osu.ppy.sh/users/24820805) from the [New Beginnings Art Contest](https://osu.ppy.sh/community/contests/160)!*
 
-With all that said, it's time to lock in. Whenever you're ready, head over to the [Winter 2025 Fanart Contest listing](https://osu.ppy.sh/community/contests/269) and drag-&-drop your entry into the box with the plus sign in it.
+With all that said, it's time to lock in. Whenever you're ready, head over to the [Winter 2025 Fanart Contest listing](https://osu.ppy.sh/community/contests/269) and drag-and-drop your entry into the box with the plus sign in it.
 
 You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **21 days** to do so before the doors close off forever (4 December 2025, 18:00 UTC), so don't brood over how many snowballs to sketch in the background for too long.
 
