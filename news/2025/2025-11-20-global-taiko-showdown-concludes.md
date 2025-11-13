@@ -23,7 +23,7 @@ This can be a long article, so feel free to skip around:
 
 ## Squad Global Taiko Showdown 2025 Results
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/sgts_podium.png)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/sgts_podium.jpg)
 
 Let's start this off in one simple way: **Congratulations to Japan't on winning this final edition of the Squad Global Taiko Showdown, being the first ever non-fully Japanese team to ever win this tournament!** With this win, osu!taiko legend ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) also adds a new achievement to their already impressive track record: winning an edition of every major open-rank GTS tournament to exist! 
 
@@ -39,11 +39,11 @@ Let's now go to another spectrum of our online events, with the conclusion to ou
 
 You can find the maps by all of these teams here down below!
 
-| Placement | Team | Beatmaps |
-| --: | --: | --: |
-| 1st place | 唐揚げ弁当 | [Kyotsugyon & Sh0wtime - ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2412119#taiko/5238167) & [Faxyne vs. blobdash - Hatching](https://osu.ppy.sh/beatmapsets/2411983#taiko/5237792)
-| 2nd place | we go running | [Kyotsugyon & Sh0wtime - ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410290#taiko/5233304) & [Faxyne vs. blobdash - Hatching](https://osu.ppy.sh/beatmapsets/2410278#taiko/5233282)
-| 3rd place | uhhasdl;fh ads;fhlasd;lhjg | [Kyotsugyon & Sh0wtime - ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410446#taiko/5233727) & [Faxyne vs. blobdash - Hatching](https://osu.ppy.sh/beatmapsets/2410697#taiko/5234509)
+| Rank | Team | Beatmaps | Scores |
+| :-: | :-- | :-- | :-: |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **唐揚げ弁当** (::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2412119) + [Hatching](https://osu.ppy.sh/beatmapsets/2411983) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66184/results "Judging Details") |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **we go running** (::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=SG }:: [YonGin](https://osu.ppy.sh/users/7109317)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410290) + [Hatching](https://osu.ppy.sh/beatmapsets/2410278) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66185/results "Judging Details") |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **uhhasdl;fh ads;fhlasd;lhjg** (::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=VN }:: [chairIess](https://osu.ppy.sh/users/26031453), ::{ flag=VN }:: [linedcolt](https://osu.ppy.sh/users/33754270)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410446) + [Hatching](https://osu.ppy.sh/beatmapsets/2410697) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66176/results "Judging Details") |
 
 ## cavoe's osu! event Global Taiko Showdown 2025 Results
 
@@ -63,7 +63,7 @@ Each stage's Tiebreaker beatmap had its own composition, but we are only present
 
 #### Finals Tiebreaker
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/DEM_Banner.png)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/DEM_Banner.jpg)
 
 Legendary composer **[Hommarju](https://hommarju.wixsite.com/home)** launched an onslaught on the six squads who were still in the running during SGTS2025 Finals with their 5-minute composition **Deus Ex Machina (Final Attack Mix)**! Clocking at a 170-200 BPM range and an alarming 8 stars difficulty, ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122)'s take on the song was played in the Upper Bracket's Finals match to decide the winner in an incredible 8-mod face-off!
 
@@ -72,7 +72,7 @@ Legendary composer **[Hommarju](https://hommarju.wixsite.com/home)** launched an
 
 #### Grand Finals Tiebreaker
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/Paracausal_Banner.png)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/Paracausal_Banner.jpg)
 
 Loved equally as he is feared by all rhythm games enjoyers, long-time featured artist **[Camellia](https://cametek.jp/)** returns for the third time to a GTS-related event! Drawing inspiration from his earlier albums, he worked towards nuturing a song that would serve as the final composition of the 2025 edition of SGTS... which blossomed into the behemoth that is **Paracausal Cocoon Protocol**. Ranging from 64 to a whopping **370** BPM, breaking through the 9 stars barrier at **9.23** stars, this titan of a beatmap hosted by ::{ flag=US }:: [SolaEclipse](https://osu.ppy.sh/users/6621158) is a collaborative work between 12 mappers whose purpose is to take down even the mightiest of players.
 
@@ -82,7 +82,7 @@ Loved equally as he is feared by all rhythm games enjoyers, long-time featured a
 
 ### Mapping Global Taiko Showdown 2025
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MGTS_Banner.png)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MGTS_Banner.jpg)
 
 MGTS featured a line-up of three songs, of which two had to be mapped. The contestants could tread down two different paths: take on **axis::BREAK** by **X/Y/Z** (a trio uniting the talents of **[Foodbot](https://soundcloud.com/foodbot)**, **[mrcool909090](https://soundcloud.com/mrcool909090)** and featured artist **[SiLiS](https://soundcloud.com/silis)**), or create something out of French duo **[Faxyne](https://soundcloud.com/faxyne)** and **[blobdash](https://soundcloud.com/blobdash)**'s composition, **Hatching**. In either case, they also had to tackle **ILLUSORYPROGRAM97**, a 5-minute collaborative effort between **[Kyotsugyon](https://soundcloud.com/kyotsugyon)** and **[Sh0wtime](https://soundcloud.com/sh0wtimelol)**.
 
@@ -95,11 +95,40 @@ MGTS featured a line-up of three songs, of which two had to be mapped. The conte
 
 ### cavoe's osu! event's Global Taiko Showdown 2025
 
-The 2023 edition of COEGTS already undertook the ridiculous task of having two mappools made exclusively out of songs composed for the event. The 2025 edition did it again, but because introducing all 26 songs would make this news post drag on for too long, only one song will be presented here: the final song released for a Global Taiko Showdown event: the Main Mappool Tiebreaker. Once again, we can only encourage you to support the effort of all of the artists involved in this gargantuan task by listening to their compositions and supporting them on their respective platforms.
+The 2023 edition of COEGTS already undertook the ridiculous task of having two mappools made exclusively out of songs composed for the event. The 2025 edition did it again, but because introducing all 26 songs would make this news post drag on for too long, only one song will be presented entirely here: the final song released for a Global Taiko Showdown event: the Main Mappool Tiebreaker. Once again, we can only encourage you to support the effort of all of the artists involved in this gargantuan task by listening to their compositions and supporting them on their respective platforms. And to make it easier for you, we've provided links for all official releases for each song in this tournament down below!
+
+| Links |  | Song | Beatmap | Notes |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mrcool909090/vscen "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7zcU5I44ev4 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://mrcool909090.bandcamp.com/track/scen "Bandcamp") |  | mrcool909090 - ɅscenΔ | [#1](https://osu.ppy.sh/beatmapsets/2406864) | Qualifiers NM1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/via-memoriae "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=tFLRlvuc0po "YouTube") |  | Ille Triumviratus - Via Memoriae | [#1](https://osu.ppy.sh/beatmapsets/2406557) | Qualifiers NM2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/coegts-2025-siliconfission-w-supabubba "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=BYuez6ecrnM "YouTube") |  | sugosugiii & SupaBubba - SILICON FISSION | [#1](https://osu.ppy.sh/beatmapsets/2406578) | Qualifiers NM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/voidisk/glass-passage "SoundCloud") |  | V0iD - Glass Passage | [#1](https://osu.ppy.sh/beatmapsets/2406480) | Qualifiers HD1 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=E61hcYfPPCo "YouTube")  |  | Kry.exe - MUZAN | [#1](https://osu.ppy.sh/beatmapsets/2406537) | Qualifiers HD2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/moonstruck "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1IRrCay4MKE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/moonstruck "Bandcamp")  |  | roər & f2 - Moonstruck | [#1](https://osu.ppy.sh/beatmapsets/2406532) | Qualifiers HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dj-slax/eveline-bleep "SoundCloud") |  | Slax - Eveline Bleep | [#1](https://osu.ppy.sh/beatmapsets/2406587) | Qualifiers HR2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sh0wtimelol/dreamscpe-w-kaydotnet "SoundCloud") |  | Sh0wtime & kaydotnet - dreamsc+pe | [#1](https://osu.ppy.sh/beatmapsets/2406586) | Qualifiers DT1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/foodbot/altruistic-resolve-coegts-2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PHkqi-ztCCs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4WVBR1AX6cfFF0wb81IlTB "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://foodbot.bandcamp.com/track/altruistic-resolve "Bandcamp")  |  | Foodbot - Altruistic Resolve | [#1](https://osu.ppy.sh/beatmapsets/2406596) | Qualifiers DT2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-452089122/ascalon "SoundCloud") |  | Anfini - Ascalon | [#1](https://osu.ppy.sh/beatmapsets/2406577) | Qualifiers Force Mod |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PZ_RhO6nq6k "YouTube") |  | 5KiLOBYTE - INFINITE WORLD | [#1](https://osu.ppy.sh/beatmapsets/2410638) | Main Mappool NM1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trung-nova_727/reflectionrefraction "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DVBhqEk1CvE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/6lHxytdUhivdPdUuycKOgg "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://trung-nova.bandcamp.com/album/reflection-refraction "Bandcamp") |  | trung-nova - REFLECTION><REFRACTION | [#1](https://osu.ppy.sh/beatmapsets/2410824) | Main Mappool NM2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sot-c/brintelligence "SoundCloud") |  | Sot-C - brainrottot intellillligence | [#1](https://osu.ppy.sh/beatmapsets/2410823) | Main Mappool NM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/faxyne/emwen "SoundCloud") | | Faxyne - EMWEN | [#1](https://osu.ppy.sh/beatmapsets/2410798) | Main Mappool NM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/444polygons "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=pIeqqo9ch04 "YouTube")  [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6BtXD2d8PpFdHVLWKTmz9d "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/444polygons "Bandcamp") |  | blobdash - 444polygons | [#1](https://osu.ppy.sh/beatmapsets/2410727) | Main Mappool NM5 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/luzeria/crafty-havoc "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RYWfDlDhXkU "YouTube") |  | Luze - Crafty Havoc | [#1](https://osu.ppy.sh/beatmapsets/2410809) | Main Mappool NM6 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/chromamachina-coegts2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=NpmJAcOalVc "YouTube") |  | takehirotei - ChromaMachina | [#1](https://osu.ppy.sh/beatmapsets/2410847) | Main Mappool HD1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/azurux/deus-erumpit-rythmos-lusorum "SoundCloud") |  | Azurux - Deus Erumpit Rhythmos Lusorum | [#1](https://osu.ppy.sh/beatmapsets/2410804) | Main Mappool HD2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/collapsedplug/finger-bender "SoundCloud") |  | C. Plug - Finger Bender | [#1](https://osu.ppy.sh/beatmapsets/2410755) | Main Mappool HR1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mothtek/mothtek-the-ruthless-judgement-by-mother-braincoegts2025 "SoundCloud") | | Mothtek - The Ruthless Judgement by Mother Brain | [#1](https://osu.ppy.sh/beatmapsets/2410828) | Main Mappool HR2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/altermisdesu/cyberhyper-coegts2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=z5Ka_PG3Xtw "YouTube") |  | Altermis - Cyber[∥]Hyper | [#1](https://osu.ppy.sh/beatmapsets/2410829) | Main Mappool DT1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/ministering-angels "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=THrW87fLQhk "YouTube") |  | N\_dog - Ministering Angels | [#1](https://osu.ppy.sh/beatmapsets/2410779) | Main Mappool DT2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/coegts-2025-naru-her-final-truth "SoundCloud") |  | SiLiS - Naru, her final truth | [#1](https://osu.ppy.sh/beatmapsets/2410631) | Main Mappool Force Mod 1 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/itsxyris/we-never-stop-the-bass-drop "SoundCloud") | | Xyris - WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu) | [#1](https://osu.ppy.sh/beatmapsets/2410640) | Main Mappool Force Mod 2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LwgEwz31TbM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/72yqIhPC8q5v39hA0NAMD8 "Spotify") |  | Attoclef - Angelchoker | [#1](https://osu.ppy.sh/beatmapsets/2410841) | Main Mappool Force Mod 3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/realshitbastards/machkintv "SoundCloud") |  | REAL SHIT BASTARDS - MACHKINTV | [#1](https://osu.ppy.sh/beatmapsets/2410842) | Main Mappool Tiebreaker |
 
 #### Main Mappool Tiebreaker
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MACHKIN_Banner.png)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MACHKIN_Banner.jpg)
 
 **[REAL SHIT BASTARDS](https://soundcloud.com/realshitbastards)**, the duo unit encompassing the talents of **[4nzu](https://soundcloud.com/4nzu2)** and **[Supire](https://soundcloud.com/nh_supaia)**, undertook the effort of composing what would become an eight-minute long song which had to be the culmination of everything GTS-related. Under the direction of mappooler and set host ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), 14 mappers were then tasked to make something out of that composition. The result is **MACHKINTV**, a 7.42 stars beatmap varying in styles coming from all over the world and ranging from 144 to 220 BPM. Mere words cannot describe this masterpiece of a song, so check it out yourself. Do not get jumpscared by the last few seconds, though. Do not say you were not warned.
 
@@ -198,7 +227,7 @@ Thank you to all the other members of the SGTS staff team as well.
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
-I think MGTS has been a refreshing experience overall for me and the community — osu!taiko contests are pretty sparse and there isn't much going on apart from [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) ever since the last [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC/3) was held. This year's MGTS took last iteration's formula and iterated on it based on community feedback, which featured 2 distinct changes:
+I think MGTS has been a refreshing experience overall for me and the community — osu!taiko contests are pretty sparse and there isn't much going on apart from [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) ever since the last [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC/3) was held 3 years ago. This year's MGTS took last iteration's formula and iterated on it based on community feedback, which featured 2 distinct changes:
 
 - Team size dropped from 4-6 to 2-3, which resonated positively with participants given it allowed for easier pairings between friends.
 - We took the GTS flair up a notch and provided a fully custom songs list rather than only one custom song.
