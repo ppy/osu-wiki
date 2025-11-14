@@ -9,6 +9,8 @@ tags:
   - поиск карт
   - фильтр по картам
   - найти карты
+outdated_translation: true
+outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 ---
 
 # Поиск карт
