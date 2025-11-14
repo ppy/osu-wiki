@@ -59,7 +59,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 ---
 
-*Header and promotional artwork by finalist [Kitcat](https://osu.ppy.sh/users/24820805) from the [New Beginnings Art Contest](https://osu.ppy.sh/community/contests/160)!*
+*Header and promotional artwork by finalist [Kitcat](https://osu.ppy.sh/users/30329028) from the [New Beginnings Art Contest](https://osu.ppy.sh/community/contests/160)!*
 
 With all that said, it's time to lock in. Whenever you're ready, head over to the [Winter 2025 Fanart Contest listing](https://osu.ppy.sh/community/contests/269) and drag-and-drop your entry into the box with the plus sign in it.
 
