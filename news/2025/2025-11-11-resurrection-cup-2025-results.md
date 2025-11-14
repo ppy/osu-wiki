@@ -16,7 +16,7 @@ This was a tournament that was [announced back in in May](https://osu.ppy.sh/hom
 
 ## Highlights
 
-With tarczynski esports’ all-Polish lineup claiming the championship title, Monkey Business securing a strong second-place finish, and the Australian representatives FIAT MULTIPLA rounding out the podium, the tournament concluded with a thrilling display of skill and coordination. Let’s revisit some of the standout moments that defined this intense competition!
+With tarczynski esports' all-Polish lineup claiming the championship title, Monkey Business securing a strong second-place finish, and the Australian representatives FIAT MULTIPLA rounding out the podium, the tournament concluded with a thrilling display of skill and coordination. Let's revisit some of the standout moments that defined this intense competition!
 
 ### Round of 32: esnupicore vs. manie pls spaRE ME
 
@@ -114,15 +114,11 @@ While there is no crossfade this year, you may still listen to all of them right
 
 ![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/regulus.jpg)
 
-It's no secret that our tournament tries its best to incorporate a somewhat-comprehensible side story of some sort. Last year, **Serenity** sat upon a legendary object called "The Throne" — represented in Yumeyo's map background drawing of [N_dog feat. quu-zie - Delusions](https://osu.ppy.sh/beatmapsets/2219285).
+It's no secret that our tournament does its best to weave a somewhat-comprehensible side story into each year's edition. After the devastating apocalypse we witnessed in 2022 — the very same corrosion that is now consuming the heavens — we saw reality itself getting reshaped in 2023, preparing the world for an entirely new timeline. By 2024, **Serenity** found herself at the beginning of her "new" journey, although last year's events proved that second chances are not always as straightforward as they may seem.
 
-As the story goes, this throne ultimately granted her powers at the cost of slowly corroding the heavens away. **Regulus** came into play as she wants to prevent that, understandably so. However, due to Serenity's own ego, she refused to listen to Regulus and instead went against her head-on.
+This brings us to the current chapter. Serenity, drawn by ambition, sought the power of a legendary artefact known as "The Throne", depicted in Yumeyo's map background of [N_dog feat. quu-zie - Delusions](https://osu.ppy.sh/beatmapsets/2219285). Claiming it granted her immense power, but at the cost of accelerating the heavens' decay. 
 
-This story is also visible in the graphic design, or so we'd like to think. Let's recap the story over the past couple years to see how far we've come:
-
-- In 2022, a devastating apocalypse took place, which turns out to be the same corrosion that the heavens are going through as we speak.
-- In 2023, we see the process of reality being reshaped in order for a new timeline to start over from scratch.
-- In 2024, Serenity begins a "new" journey. Last year may not have been the sole "second chance" players got.
+**Regulus** soon emerged, determined to put an end to the spreading corruption. Serenity, blinded by her own ego, refused to heed her warnings. Instead, she confronted Regulus directly, setting the stage for a grand conflict. Their clash not only shapes this year's lore, but it's also illustrated beautifully in the visual identity and graphic design of this year's tournament.
 
 ## Graphic design
 
