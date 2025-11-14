@@ -7,7 +7,7 @@ series: Fanart Contests
 
 As the year draws to a close, it's time to celebrate the season of joy and togetherness with a fanart contest!
 
-![](https://assets.ppy.sh/contests/269/banner.jpg)
+![](/wiki/shared/news/2025-11-14-winter-2025-fanart-contest/banner.jpg)
 
 Colder days and rising festivities set the perfect stage for osu! art connoisseurs to showcase their creativity and...
 
