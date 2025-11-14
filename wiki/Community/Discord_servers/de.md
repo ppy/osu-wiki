@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: f6684737c3574645e6eb52760df23dc0d5a6670b
 ---
 
 # Discord-Server
@@ -95,3 +93,4 @@ Diese Server stellen Hilfsmittel bereit, um Nutzern beim [Storyboarding](/wiki/S
 |  | Name | Eigentümer | Beschreibung |
 | :-: | :-- | :-- | :-- |
 | [![](img/Aiess-Project.png)](https://discord.com/invite/2XV5dcW) | [Aiess Project](https://discord.com/invite/2XV5dcW) | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Das **Aiess Project** betreibt mehrere Feeds, die die Mitglieder regelmäßig über osu!-Events informieren, wie zum Beispiel Änderungen der [Beatmap-Kategorie](/wiki/Beatmap/Category), Aktualisierungen in den [Nutzergruppen](/wiki/People/User_group) und neue Nachrichtenbeiträge. |
+| [![](img/ThePooN.png)](https://discord.gg/ThePooN) | [ThePooN](https://discord.gg/ThePooN) | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Der Discord-Server von **ThePooN** ist ein Server für Nutzer, die auf [Linux](https://de.wikipedia.org/wiki/Linux) Probleme mit osu! haben. Dort gibt es auch allgemeinen technischen Support. |
