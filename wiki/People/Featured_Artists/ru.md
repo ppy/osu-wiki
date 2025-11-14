@@ -133,7 +133,7 @@ tags:
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=AU }:: [tomspicy](https://osu.ppy.sh/users/13210748) | [tomspicy](https://osu.ppy.sh/beatmaps/artists/437) |
 | ::{ flag=HK }:: [Trainer LOLXD](https://osu.ppy.sh/users/14817071) | [Trina Lydia](https://osu.ppy.sh/beatmaps/artists/440) |
-| ::{ flag=RU }:: [un_feeling](https://osu.ppy.sh/users/7100478) | [unfeeling](https://osu.ppy.sh/beatmaps/artists/509) |
+| ::{ flag=UA }:: [un_feeling](https://osu.ppy.sh/users/7100478) | [unfeeling](https://osu.ppy.sh/beatmaps/artists/509) |
 | ::{ flag=RU }:: [uselet](https://osu.ppy.sh/users/5256300) | [uselet](https://osu.ppy.sh/beatmaps/artists/402) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
