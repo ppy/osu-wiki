@@ -13,13 +13,18 @@ This can be a long article, so feel free to skip around:
 
 - [Squad Global Taiko Showdown 2025 Results](#squad-global-taiko-showdown-2025-results)
 - [Mapping Global Taiko Showdown 2025 Results](#mapping-global-taiko-showdown-2025-results)
-- [cavoe's osu! event Global Taiko Showdown 2025 Results](#cavoe's-osu-event-global-taiko-showdown-2025-results)
+- [cavoe's osu! event Global Taiko Showdown 2025 Results](#cavoe's-osu!-event's-global-taiko-showdown-2025-results)
 - [Original songs](#original-songs)
-- [Best tournament moments](#best-tournament-moments)
-- [Reflections/Commentary](#reflections/commentary)
   - [Squad Global Taiko Showdown 2025](#squad-global-taiko-showdown-2025)
   - [Mapping Global Taiko Showdown 2025](#mapping-global-taiko-showdown-2025)
-  - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu-events-global-taiko-showdown-2025)
+  - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu!-event's-global-taiko-showdown-2025)
+- [Best tournament moments](#best-tournament-moments)
+  - [Squad Global Taiko Showdown 2025](#squad-global-taiko-showdown-2025.1)
+  - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu!-event's-global-taiko-showdown-2025.1)
+- [Reflections/Commentary](#reflections/commentary)
+  - [Squad Global Taiko Showdown 2025](#squad-global-taiko-showdown-2025.2)
+  - [Mapping Global Taiko Showdown 2025](#mapping-global-taiko-showdown-2025.1)
+  - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu!-event's-global-taiko-showdown-2025.2)
 
 ## Squad Global Taiko Showdown 2025 Results
 
@@ -45,7 +50,7 @@ You can find the maps by all of these teams here down below!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **we go running** (::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=SG }:: [YonGin](https://osu.ppy.sh/users/7109317)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410290) + [Hatching](https://osu.ppy.sh/beatmapsets/2410278) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66185/results "Judging Details") |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **uhhasdl;fh ads;fhlasd;lhjg** (::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=VN }:: [chairIess](https://osu.ppy.sh/users/26031453), ::{ flag=VN }:: [linedcolt](https://osu.ppy.sh/users/33754270)) | [ILLUSORYPROGRAM97](https://osu.ppy.sh/beatmapsets/2410446) + [Hatching](https://osu.ppy.sh/beatmapsets/2410697) | [![details](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/contests/248/entries/66176/results "Judging Details") |
 
-## cavoe's osu! event Global Taiko Showdown 2025 Results
+## cavoe's osu! event's Global Taiko Showdown 2025 Results
 
 ![COEGTS's three podium players, along with TaikoMom, co-organizer of COEGTS.](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/coegts_podium.jpg)
 
