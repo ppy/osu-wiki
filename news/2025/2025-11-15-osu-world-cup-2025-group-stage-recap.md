@@ -174,6 +174,6 @@ This group was the one most people were split on going into the weekend, and the
 
 ---
 
-The bracket stage of this year's OWC begins Saturday, November 15th (that's today!) with the Round of 16 and Losers Bracket Round 1! Head over to [the wiki](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025)or [information sheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal) for match schedules and all of the tournament details, and join the stream at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) to catch all the action and cheer on your favourite teams!
+The bracket stage of this year's OWC begins Saturday, November 15th (that's today!) with the Round of 16 and Losers Bracket Round 1! Head over to [the wiki](/wiki/Tournaments/OWC/2025)or [information sheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal) for match schedules and all of the tournament details, and join the stream at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) to catch all the action and cheer on your favourite teams!
 
 —Dada, D I O, shdewz & this1neguy
