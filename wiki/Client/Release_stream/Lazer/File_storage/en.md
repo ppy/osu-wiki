@@ -2,10 +2,10 @@
 
 By default, osu!(lazer) stores beatmaps, skins, and score replay files in the following directories:
 
-- `%appdata%/osu/files` (Windows),
-- `~/.local/share/osu/files` (Linux),
-- `~/Library/Application Support/osu/files` (macOS),
-- `Android/data/sh.ppy.osulazer/files/files` (Android).
+- `%appdata%/osu` (Windows),
+- `~/.local/share/osu` (Linux),
+- `~/Library/Application Support/osu` (macOS),
+- `Android/data/sh.ppy.osulazer/files` (Android).
 
 On desktop platforms, the file store can also be moved in its entirety to another location, using the `Change folder location...` button in the client settings.
 
