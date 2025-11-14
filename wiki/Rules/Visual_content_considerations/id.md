@@ -69,4 +69,4 @@ Untuk konten visual tidak layak pakai yang terdapat pada beatmap, hukuman silenc
 
 ## Catatan
 
-[^drug-nature]: Pengecualian untuk hal ini dapat diberikan tergantung dari sifat, pemakaian, dan subkultur pengguna obat-obatan ini, terutama untuk obat-obatan yang sedang mengalami proses pelegalan (dekriminalisasi) dan perundang-undangan (regulasi) secara cepat di seluruh dunia seperti ganja. Permintaan pengecualian khusus ini hanya dapat diajukan dengan menghubungi [tim layanan dukungan](/wiki/People/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).
+[^drug-nature]: Pengecualian untuk hal ini dapat diberikan tergantung dari sifat, pemakaian, dan subkultur pengguna obat-obatan ini, terutama untuk obat-obatan yang sedang mengalami proses pelegalan (dekriminalisasi) dan perundang-undangan (regulasi) secara cepat di berbagai belahan dunia seperti ganja. Permintaan pengecualian khusus ini hanya dapat diajukan dengan menghubungi [tim layanan dukungan](/wiki/People/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).
