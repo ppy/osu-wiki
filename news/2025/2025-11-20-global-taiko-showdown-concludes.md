@@ -13,13 +13,13 @@ This can be a long article, so feel free to skip around:
 
 - [Squad Global Taiko Showdown 2025 Results](#squad-global-taiko-showdown-2025-results)
 - [Mapping Global Taiko Showdown 2025 Results](#mapping-global-taiko-showdown-2025-results)
-- [cavoe's osu! event Global Taiko Showdown 2025 Results](#cavoes-osu-event-global-taiko-showdown-2025-results)
+- [cavoe's osu! event Global Taiko Showdown 2025 Results](#cavoe's-osu-event-global-taiko-showdown-2025-results)
 - [Original songs](#original-songs)
 - [Best tournament moments](#best-tournament-moments)
-- [Reflections/Commentary](#reflections-commentary)
-  - [Squad Global Taiko Showdown 2025](#squadf-global-taiko-showdown-2025)
+- [Reflections/Commentary](#reflections/commentary)
+  - [Squad Global Taiko Showdown 2025](#squad-global-taiko-showdown-2025)
   - [Mapping Global Taiko Showdown 2025](#mapping-global-taiko-showdown-2025)
-  - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoes-osu-events-global-taiko-showdown-2025)
+  - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu-events-global-taiko-showdown-2025)
 
 ## Squad Global Taiko Showdown 2025 Results
 
@@ -79,19 +79,15 @@ Loved equally as he is feared by all rhythm games enjoyers, long-time featured a
 - **[Listen to Paracausal Cocoon Protocol here!](https://youtu.be/q8ovNzmrazk)**
 - **[Check out the beatmap here!](https://osu.ppy.sh/beatmapsets/2403294#taiko/5212306)**
 
-
 ### Mapping Global Taiko Showdown 2025
 
 ![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/MGTS_Banner.jpg)
 
 MGTS featured a line-up of three songs, of which two had to be mapped. The contestants could tread down two different paths: take on **axis::BREAK** by **X/Y/Z** (a trio uniting the talents of **[Foodbot](https://soundcloud.com/foodbot)**, **[mrcool909090](https://soundcloud.com/mrcool909090)** and featured artist **[SiLiS](https://soundcloud.com/silis)**), or create something out of French duo **[Faxyne](https://soundcloud.com/faxyne)** and **[blobdash](https://soundcloud.com/blobdash)**'s composition, **Hatching**. In either case, they also had to tackle **ILLUSORYPROGRAM97**, a 5-minute collaborative effort between **[Kyotsugyon](https://soundcloud.com/kyotsugyon)** and **[Sh0wtime](https://soundcloud.com/sh0wtimelol)**.
 
-
 - **[Listen to ILLUSORYPROGRAM97 here!](https://soundcloud.com/kyotsugyon/illusoryprogram97)**
 - **[Listen to axis::BREAK here!](https://soundcloud.com/foodbot/axisbreak)**
 - **[Listen to Hatching here!](https://soundcloud.com/faxyne/hatching)** 
-
-
 
 ### cavoe's osu! event's Global Taiko Showdown 2025
 
@@ -103,26 +99,26 @@ The 2023 edition of COEGTS already undertook the ridiculous task of having two m
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/part-lerts/via-memoriae "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=tFLRlvuc0po "YouTube") |  | Ille Triumviratus - Via Memoriae | [#1](https://osu.ppy.sh/beatmapsets/2406557) | Qualifiers NM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sugosugiii/coegts-2025-siliconfission-w-supabubba "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=BYuez6ecrnM "YouTube") |  | sugosugiii & SupaBubba - SILICON FISSION | [#1](https://osu.ppy.sh/beatmapsets/2406578) | Qualifiers NM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/voidisk/glass-passage "SoundCloud") |  | V0iD - Glass Passage | [#1](https://osu.ppy.sh/beatmapsets/2406480) | Qualifiers HD1 |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=E61hcYfPPCo "YouTube")  |  | Kry.exe - MUZAN | [#1](https://osu.ppy.sh/beatmapsets/2406537) | Qualifiers HD2 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/moonstruck "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1IRrCay4MKE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/moonstruck "Bandcamp")  |  | roər & f2 - Moonstruck | [#1](https://osu.ppy.sh/beatmapsets/2406532) | Qualifiers HR1 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=E61hcYfPPCo "YouTube") |  | Kry.exe - MUZAN | [#1](https://osu.ppy.sh/beatmapsets/2406537) | Qualifiers HD2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/moonstruck "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=1IRrCay4MKE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/moonstruck "Bandcamp") |  | roər & f2 - Moonstruck | [#1](https://osu.ppy.sh/beatmapsets/2406532) | Qualifiers HR1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dj-slax/eveline-bleep "SoundCloud") |  | Slax - Eveline Bleep | [#1](https://osu.ppy.sh/beatmapsets/2406587) | Qualifiers HR2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sh0wtimelol/dreamscpe-w-kaydotnet "SoundCloud") |  | Sh0wtime & kaydotnet - dreamsc+pe | [#1](https://osu.ppy.sh/beatmapsets/2406586) | Qualifiers DT1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/foodbot/altruistic-resolve-coegts-2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PHkqi-ztCCs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4WVBR1AX6cfFF0wb81IlTB "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://foodbot.bandcamp.com/track/altruistic-resolve "Bandcamp")  |  | Foodbot - Altruistic Resolve | [#1](https://osu.ppy.sh/beatmapsets/2406596) | Qualifiers DT2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/foodbot/altruistic-resolve-coegts-2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PHkqi-ztCCs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4WVBR1AX6cfFF0wb81IlTB "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://foodbot.bandcamp.com/track/altruistic-resolve "Bandcamp") |  | Foodbot - Altruistic Resolve | [#1](https://osu.ppy.sh/beatmapsets/2406596) | Qualifiers DT2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-452089122/ascalon "SoundCloud") |  | Anfini - Ascalon | [#1](https://osu.ppy.sh/beatmapsets/2406577) | Qualifiers Force Mod |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PZ_RhO6nq6k "YouTube") |  | 5KiLOBYTE - INFINITE WORLD | [#1](https://osu.ppy.sh/beatmapsets/2410638) | Main Mappool NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trung-nova_727/reflectionrefraction "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DVBhqEk1CvE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/6lHxytdUhivdPdUuycKOgg "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://trung-nova.bandcamp.com/album/reflection-refraction "Bandcamp") |  | trung-nova - REFLECTION><REFRACTION | [#1](https://osu.ppy.sh/beatmapsets/2410824) | Main Mappool NM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sot-c/brintelligence "SoundCloud") |  | Sot-C - brainrottot intellillligence | [#1](https://osu.ppy.sh/beatmapsets/2410823) | Main Mappool NM3 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/faxyne/emwen "SoundCloud") | | Faxyne - EMWEN | [#1](https://osu.ppy.sh/beatmapsets/2410798) | Main Mappool NM4 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/faxyne/emwen "SoundCloud") |  | Faxyne - EMWEN | [#1](https://osu.ppy.sh/beatmapsets/2410798) | Main Mappool NM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/444polygons "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=pIeqqo9ch04 "YouTube")  [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6BtXD2d8PpFdHVLWKTmz9d "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://blobdash.bandcamp.com/track/444polygons "Bandcamp") |  | blobdash - 444polygons | [#1](https://osu.ppy.sh/beatmapsets/2410727) | Main Mappool NM5 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/luzeria/crafty-havoc "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RYWfDlDhXkU "YouTube") |  | Luze - Crafty Havoc | [#1](https://osu.ppy.sh/beatmapsets/2410809) | Main Mappool NM6 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/chromamachina-coegts2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=NpmJAcOalVc "YouTube") |  | takehirotei - ChromaMachina | [#1](https://osu.ppy.sh/beatmapsets/2410847) | Main Mappool HD1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/azurux/deus-erumpit-rythmos-lusorum "SoundCloud") |  | Azurux - Deus Erumpit Rhythmos Lusorum | [#1](https://osu.ppy.sh/beatmapsets/2410804) | Main Mappool HD2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/collapsedplug/finger-bender "SoundCloud") |  | C. Plug - Finger Bender | [#1](https://osu.ppy.sh/beatmapsets/2410755) | Main Mappool HR1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mothtek/mothtek-the-ruthless-judgement-by-mother-braincoegts2025 "SoundCloud") | | Mothtek - The Ruthless Judgement by Mother Brain | [#1](https://osu.ppy.sh/beatmapsets/2410828) | Main Mappool HR2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/mothtek/mothtek-the-ruthless-judgement-by-mother-braincoegts2025 "SoundCloud") |  | Mothtek - The Ruthless Judgement by Mother Brain | [#1](https://osu.ppy.sh/beatmapsets/2410828) | Main Mappool HR2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/altermisdesu/cyberhyper-coegts2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=z5Ka_PG3Xtw "YouTube") |  | Altermis - Cyber[∥]Hyper | [#1](https://osu.ppy.sh/beatmapsets/2410829) | Main Mappool DT1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-721414606/ministering-angels "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=THrW87fLQhk "YouTube") |  | N\_dog - Ministering Angels | [#1](https://osu.ppy.sh/beatmapsets/2410779) | Main Mappool DT2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/coegts-2025-naru-her-final-truth "SoundCloud") |  | SiLiS - Naru, her final truth | [#1](https://osu.ppy.sh/beatmapsets/2410631) | Main Mappool Force Mod 1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/itsxyris/we-never-stop-the-bass-drop "SoundCloud") | | Xyris - WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu) | [#1](https://osu.ppy.sh/beatmapsets/2410640) | Main Mappool Force Mod 2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/itsxyris/we-never-stop-the-bass-drop "SoundCloud") |  | Xyris - WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu) | [#1](https://osu.ppy.sh/beatmapsets/2410640) | Main Mappool Force Mod 2 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LwgEwz31TbM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/72yqIhPC8q5v39hA0NAMD8 "Spotify") |  | Attoclef - Angelchoker | [#1](https://osu.ppy.sh/beatmapsets/2410841) | Main Mappool Force Mod 3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/realshitbastards/machkintv "SoundCloud") |  | REAL SHIT BASTARDS - MACHKINTV | [#1](https://osu.ppy.sh/beatmapsets/2410842) | Main Mappool Tiebreaker |
 
@@ -134,7 +130,6 @@ The 2023 edition of COEGTS already undertook the ridiculous task of having two m
 
 - **[Listen to MACHKINTV here!](https://soundcloud.com/realshitbastards/machkintv)**
 - **[Check out the beatmap here!](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943)**
-
 
 ## Best tournament moments
 
@@ -158,15 +153,15 @@ Our only in-situation Tiebreaker playthrough was during the first round of match
 
 <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/HotTriangularDragonfruitJKanStyle-nkBUjjd_JJ1D00fA" frameborder="0" allowfullscreen></iframe>
 
-::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) best showcased his HardRock proficiency by setting a seemingly otherworldly 7x100 full combo score on the HardRock 2 pick [The Ruthless Judgement by Mother Brain](https://osu.ppy.sh/b/5234914) against fellow Hard Rock enjoyer ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847) in the Semifinals round to secure his matchpoint. The scroll speed increase added by the HardRock mod, on top of a mechanically-intense map clocking at a whooping *245* BPM, makes this the score of the tournament, beyond the shadow of a doubt. Don't believe us? Check the clip above.
+::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) best showcased his HardRock proficiency by setting a seemingly otherworldly 7x100 full combo score on the HardRock 2 pick [The Ruthless Judgement by Mother Brain](https://osu.ppy.sh/beatmapsets/2410828#taiko/5234914) against fellow Hard Rock enjoyer ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847) in the Semifinals round to secure his matchpoint. The scroll speed increase added by the HardRock mod, on top of a mechanically-intense map clocking at a whooping *245* BPM, makes this the score of the tournament, beyond the shadow of a doubt. Don't believe us? Check the clip above.
 
 <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/CloudyEphemeralGoshawkKappaWealth-T1MIYGriAzHPauQI" frameborder="0" allowfullscreen></iframe>
 
-In a neck-and-neck battle for the final podium spot, the eighth map of the match chosen by ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), [WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu)](https://osu.ppy.sh/b/5234373), featured as a Freemod 2 pick, saw a traditional HardRock versus Hidden battle against ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174). With a slight accuracy advantage, it looked like the American player would take the breakpoint, but a singular skipped finisher was just enough to be his undoing despite both players setting a full combo score on their respective mods, allowing the Northern Irish player to claim his fifth point of the match after dealing with the grueling 250 BPM section on HardRock at the end of the map. The score difference? **69**. Nice.
+In a neck-and-neck battle for the final podium spot, the eighth map of the match chosen by ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), [WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2410640#taiko/5234373), featured as a Freemod 2 pick, saw a traditional HardRock versus Hidden battle against ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174). With a slight accuracy advantage, it looked like the American player would take the breakpoint, but a singular skipped finisher was just enough to be his undoing despite both players setting a full combo score on their respective mods, allowing the Northern Irish player to claim his fifth point of the match after dealing with the grueling 250 BPM section on HardRock at the end of the map. The score difference? **69**. Nice.
 
 <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/SourCrepuscularCamelItsBoshyTime-R6swqeJ-I2g_ZNKU" frameborder="0" allowfullscreen></iframe>
 
-Battling it out for the gold, ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) and ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) took their intense brawl to the NoMod 4 pick, [EMWEN](https://osu.ppy.sh/b/5234779). The defending champion eventually took his second point of the match, beating out his challenger's score by **a mere 1x100**... which came from the *very last note* of the map! Additionally, out of four picks by this point in the match, this was the third time in a row that both players scored a full combo at the same time, settling points on accuracy or mod difference on Freemod picks *alone*. If this is not an indicator of a good match, we no longer know what is.
+Battling it out for the gold, ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) and ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) took their intense brawl to the NoMod 4 pick, [EMWEN](https://osu.ppy.sh/beatmapsets/2410798#taiko/5234779). The defending champion eventually took his second point of the match, beating out his challenger's score by **a mere 1x100**... which came from the *very last note* of the map! Additionally, out of four picks by this point in the match, this was the third time in a row that both players scored a full combo at the same time, settling points on accuracy or mod difference on Freemod picks *alone*. If this is not an indicator of a good match, we no longer know what is.
 
 ## Reflections/Commentary
 
