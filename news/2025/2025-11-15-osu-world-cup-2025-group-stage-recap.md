@@ -8,7 +8,7 @@ date: 2025-11-15 12:00:00 +0000
 
 ![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/banner.jpg)
 
-The top 8 teams in the Qualifiers headed straight into the bracket stage, where they'd sit comfortably throughout the Group Stage awaiting their opponents. Teams 9 through 24, meanwhile, were placed in the "Challenger" groups together to battle it out with the top 2 teams in each group to a spot in the winners' bracket, with the bottom 2 being sent to the losers' bracket. Finally, teams 25 through 40 would have their nerves tested in the Group Stage, as only the top 2 teams in the "Contender" groups would make it into the losers' bracket, with the remaining two eliminated entirely.
+The top 8 teams in the Qualifiers headed straight into the bracket stage, where they'd sit comfortably throughout the Group Stage awaiting their opponents. Teams 9 through 24, meanwhile, were placed in the "Challenger" groups together to battle it out, with the top two teams in each group earning a spot in the winners' bracket and the bottom two dropping to the losers' bracket. Finally, teams 25 through 40 would have their nerves tested in the Group Stage, as only the top 2 teams in the "Contender" groups would make it into the losers' bracket, with the remaining two eliminated entirely.
 
 How would the teams fare? How would the drama of the first two weeks of head-to-head play in this year's osu! World Cup unfold? Read on to find out!
 
@@ -174,6 +174,6 @@ This group was the one most people were split on going into the weekend, and the
 
 ---
 
-The bracket stage of this year's OWC begins Saturday, November 15th (that's today!) with the Round of 16 and Losers Bracket Round 1! Head over to [the wiki](/wiki/Tournaments/OWC/2025)or [information sheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal) for match schedules and all of the tournament details, and join the stream at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) to catch all the action and cheer on your favourite teams!
+The bracket stage of this year's OWC begins Saturday, November 15th (that's today!) with the Round of 16 and Losers Bracket Round 1! Head over to [the wiki](/wiki/Tournaments/OWC/2025) or [information sheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal) for match schedules and all of the tournament details, and join the stream at [osulive](https://www.twitch.tv/osulive) and [osulive_2](https://www.twitch.tv/osulive_2) to catch all the action and cheer on your favourite teams!
 
 —Dada, D I O, shdewz & this1neguy
