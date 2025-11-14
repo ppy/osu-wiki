@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter 2025 Fanart Contest
-date: 2025-11-14 09:00:00 +0000
+date: 2025-11-14 16:00:00 +0000
 series: Fanart Contests
 ---
 
