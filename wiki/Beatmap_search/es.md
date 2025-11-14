@@ -10,15 +10,13 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
-outdated_translation: true
-outdated_since: 9938f5a037e7e2f9fb9270624edc4ff648deb0d3
 ---
 
 # Búsqueda de beatmaps
 
 *Véase también: [Beatmap § Descargar beatmaps](/wiki/Beatmap#descargar-beatmaps)*
 
-De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente y las [etiquetas de los mappers](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-mappers). Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
+De forma predeterminada, cualquier texto ingresado en el [selector de canciones](/wiki/Client/Interface#selector-de-canciones) o en el campo de búsqueda del sitio web se compara con el artista de la canción, el título, el creador de la dificultad y su nombre, la fuente, las [etiquetas de los mappers](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-mappers) y las [etiquetas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios). Al ingresar un solo número, se buscarán beatmaps y dificultades con un [identificador](/wiki/Beatmap#identificación) específico. Todas las búsquedas no distinguen entre mayúsculas y minúsculas.
 
 El campo de metadatos de los beatmaps se pueden comparar con valores específicos para un filtrado más granular, usando los siguientes operadores:
 
