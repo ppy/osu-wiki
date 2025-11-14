@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
+---
+
 # Benennung von Schwierigkeitsgraden
 
 Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwierig eine Beatmap ist. Dieser Artikel listet allgemeine Konventionen sowie andere Alternativen auf, die sich im Laufe der Jahre angesammelt haben. Solange die Namen der Schwierigkeitsstufen jedoch beschreibend sind und die Anforderungen klar angeben, darfst du jede beliebige Art von Schema verwenden.
