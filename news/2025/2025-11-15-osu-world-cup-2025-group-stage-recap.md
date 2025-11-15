@@ -42,7 +42,7 @@ Not to be left unmentioned, [alien friend request](https://osu.ppy.sh/beatmapset
 
 ---
 
-This pool also had the first debut of an [osu! original](/wiki/osu!_originals) for the tournament, introducing the world to the jazzy, electronic [Showoff Showdown](https://osu.ppy.sh/beatmapsets/2455351#osu/5366001), by the great [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508)!
+This pool also had the first debut of an [osu! original](/wiki/osu!_originals) for the tournament, introducing the world to the jazzy, electronic [Showoff Showdown](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995), by the great [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508)!
 
 [![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/showoff_showdown_banner.jpg)](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995)
 
@@ -53,6 +53,8 @@ This pool also had the first debut of an [osu! original](/wiki/osu!_originals) f
 </div>
 
 A shorter, funky yet classy original, MEMODEMO's contributions were mapped by the one and only [Chaoslitz](https://osu.ppy.sh/users/3621552), being used as a precision Hard Rock pick with a flow alt focus. Throughout the 48 group stage matches, we got to know both the song and map very well, yet it seemed as if it never got old — a truly remarkable achievement.
+
+If you're craving for easier difficulties to play, be sure to also check out the [full ranked set](https://osu.ppy.sh/beatmapsets/2455351#osu/5366001)!
 
 ## Group Stage results
 
