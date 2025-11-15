@@ -34,11 +34,15 @@ If you prefer a more detailed recap, check out the video recap by [D I O](https:
 
 ![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/mappool.png)
 
-insert pool description
+For the first head to head pool of the tournament, the Group Stage pool was mostly focused on easier maps and consistency. For starters, we had a couple of interesting customs, such as [rollpan](https://osu.ppy.sh/users/3062998)'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2455340#osu/5365982) and [Flask](https://osu.ppy.sh/users/959763)'s [Glass](https://osu.ppy.sh/beatmapsets/2455024#osu/5364986), the former being a speedy endeavor with a tapping focus (and an adorable storyboard to boot!), while the latter was a Chinese pop DT pick focused on flow and alt patterns, with a fairly tough solo section that made for many interesting points. Maps such as the technical [Heliosphere](https://osu.ppy.sh/beatmapsets/2455343#osu/5365985) and the streamy [NIGHTMARE INVITATION](https://osu.ppy.sh/beatmapsets/2454994#osu/5364927) are also new, showcasing osu! originals that debuted in other modes' world cups, something that the team has talked about being more keen to do this year.
+
+The pool also had its fair share of existing ranked maps being available. The infamous [Chocolate Disco](https://osu.ppy.sh/beatmapsets/1437192#osu/2957016) was picked as a NM3 — a deceptively hard reading map, having a star rating of below 4.5 while sitting in a pool with maps that went up to over 7 stars. Other maps, such as [Elder Things](https://osu.ppy.sh/beatmapsets/1877186#osu/3863677) and [Imaike Samba](https://osu.ppy.sh/beatmapsets/2243785#osu/4769759), rounded the pool out and served as tapping and aim mechanics challenges, respectively. To cap it off, [saido39](https://osu.ppy.sh/users/11278761)'s [Destin Victorica (Harddance Mix)](https://osu.ppy.sh/beatmapsets/2318863#osu/4966899) was selected as the tiebreaker, a very upbeat, mechanically intensive outing that provided many matches with an exciting finish.
+
+Not to be left unmentioned, [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu/4766086) by [melon boy](https://osu.ppy.sh/users/3053382) and company was also a standout pick in the pool, being an extremely diverse mechanics map featuring a song made by the very mappers that created the map itself! A catchy, charming song on a fun, creative map made it a truly memorable selection.
 
 ---
 
-insert [osu! original](/wiki/osu!_originals) intro
+This pool also had the first debut of an [osu! original](/wiki/osu!_originals) for the tournament, introducing the world to the jazzy, electronic [Showoff Showdown](https://osu.ppy.sh/beatmapsets/2455351#osu/5366001), by the great [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508)!
 
 [![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/showoff_showdown_banner.jpg)](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995)
 
@@ -48,7 +52,7 @@ insert [osu! original](/wiki/osu!_originals) intro
     </audio>
 </div>
 
-insert original description
+A shorter, funky yet classy original, MEMODEMO's contributions were mapped by the one and only [Chaoslitz](https://osu.ppy.sh/users/3621552), being used as a precision Hard Rock pick with a flow alt focus. Throughout the 48 group stage matches, we got to know both the song and map very well, yet it seemed as if it never got old — a truly remarkable achievement.
 
 ## Group Stage results
 
