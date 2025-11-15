@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2025: Group Stage Recap"
-date: 2025-11-15 12:00:00 +0000
+date: 2025-11-15 15:00:00 +0000
 ---
 
 *And for our next number, we'd like to return to the classics*. OWC 2025 got underway with a visit to a seemingly bygone era, reintroducing the Group Stage format — but now with a modern twist.
@@ -15,21 +15,21 @@ How would the teams fare? How would the drama of the first two weeks of head-to-
 If you prefer a more detailed recap, check out the video recap by [D I O](https://osu.ppy.sh/users/3958619) here:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TMhYV730css" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TMhYV730css" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Mappool recap
 
 <style>
-    .osu-md--news .audio-player {
-        max-width: inherit;
-    }
+.osu-md--news .audio-player {
+    max-width: inherit;
+}
 </style>
 
 **[Download the pool here! (127 MB)](https://osu.ppy.sh/beatmaps/packs/P302)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LV2AzL3ghpg?start=8086" frameborder="0" allowfullscreen></iframe>
+<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LV2AzL3ghpg?start=8086" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/mappool.png)
