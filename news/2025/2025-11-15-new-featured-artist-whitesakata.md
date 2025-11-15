@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: WhiteSakata"
-date: 2025-11-16 00:00:00 +0000
+date: 2025-11-15 22:00:00 +0000
 ---
 
 There's been a void in our Featured Artist library for too long, and **WhiteSakata** is here to fill it.
