@@ -735,6 +735,6 @@ The final bracket configuration will be as follows:
 [^pf]: PF – Points for this team
 [^pa]: PA – Points against this team
 [^pd]: PD – Point differential: `PD = map wins - map losses`. Used as the first tiebreaker for the group
-[^groups-seed]: Qualifiers seeding. Used as the second tiebreaker for the group
+[^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
