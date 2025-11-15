@@ -14,6 +14,8 @@ With inspirations like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31) and 
 
 If you have ears, listening to these previews is your next step:
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### [WhiteSakata - R(eiterat)e:](https://assets.ppy.sh/artists/512/R(eiterat)e/WhiteSakata%20-%20R(eiterat)e.osz)
 
 If you've been following the Featured Artist video saga of the last few weeks, you'll already know that a bunch of osu! players were at [a certain LAN event](https://osu.ppy.sh/home/news/2025-09-16-osu-uk-epic46) recently. That's where the one and only [MALTESER](https://osu.ppy.sh/users/5218178) played [this map](https://osu.ppy.sh/beatmapsets/2407278) hosted by [Wispy](https://osu.ppy.sh/users/11106929)!
