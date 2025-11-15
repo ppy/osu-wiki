@@ -12,7 +12,7 @@ This was a tournament that was [announced back in in May](https://osu.ppy.sh/hom
 
 ## Results
 
-![Ressurrection Cup 2025 podium](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/podium.jpg)
+![Resurrection Cup 2025 podium](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/podium.jpg)
 
 ## Highlights
 
