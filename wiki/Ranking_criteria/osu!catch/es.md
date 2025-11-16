@@ -132,7 +132,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 #### Pautas
 
 - **No se deben usar [hiperdashes](/wiki/Gameplay/Hyperdash) fuertes.**
--  **Los [hiperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben ir seguidos de patrones [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).**
+- **Los [hiperdashes](/wiki/Gameplay/Hyperdash) de [snap alto](/wiki/Gameplay/Dash_snapping#snap-alto) no deben ir seguidos de patrones [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow).**
 - **No se deben usar [spinner traps](/wiki/Gameplay/Spinner_trap).**
 - **Los [combos](/wiki/Beatmapping/Combo) no deben exceder las 12 [frutas](/wiki/Gameplay/Hit_object/Fruit).**
 - **La densidad de las notas debe seguir principalmente un patrón de 1/2 y 1/3.** Los patrones de 1/4 y/o 1/6 deben usarse con moderación.
