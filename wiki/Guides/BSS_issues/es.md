@@ -56,7 +56,7 @@ Esta advertencia aparece cuando una línea determinada del archivo `.osu` de alg
 3. Ve a la línea del archivo `.osu` de la dificultad que se menciona en la advertencia.
 4. Acorta el contenido de esta línea realizando los ajustes necesarios.
    - Si esta línea corresponde a los metadatos que se pueden modificar directamente a través del editor de beatmaps (por ejemplo, los nombres de las dificultades), acórtala directamente desde allí a través de la [ventana de configuración de las canciones](/wiki/Client/Beatmap_editor/Song_setup).
-   - Si esta línea corresponde a un recurso externo (por ejemplo, imágenes de fondo), acorta el nombre del elemento en cuestión y actualiza esta línea como corresponda en tu editor de texto.
+   - Si esta línea corresponde a un elemento externo (por ejemplo, imágenes de fondo), acorta el nombre del elemento en cuestión y actualiza esta línea como corresponda en tu editor de texto.
 5. Guarda todos los cambios que hayas realizado e intenta subir tu beatmap.
 
 Si los pasos anteriores no resuelven tu problema, o si tienes un problema completamente diferente, crea un nuevo tema en el [foro de ayuda](https://osu.ppy.sh/community/forums/5) con detalles sobre tu problema para que otros puedan ayudarte.
