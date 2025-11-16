@@ -299,18 +299,18 @@ The osu!catch Loved candidates were chosen by [Realmaas](https://osu.ppy.sh/user
 The \[Rhythm Game\] difficulty is *not* being nominated for Loved.\
 *description written by [Realmaas](https://osu.ppy.sh/users/6567640)*
 
-*I'm sittin' here on the osu! website\
-It's just another vote for the Loved section\
-I'm wastin' my time, I got nothin' to do\
-I'm hangin' around, I might as well vote\
-So I scroll down to catch\
-And I wonder...
+*I'm sittin' here on the osu! website*
+*It's just another vote for the Loved section*
+*I'm wastin' my time, I got nothin' to do*
+*I'm hangin' around, I might as well vote*
+*So I scroll down to catch*
+*And I wonder...*
 
-I'm movin' around my catcher\
-I'm jumpin' too fast, I'm dashin' too far\
-I'd like to play more jump maps\
-One just like this one, with fullscreen jumps\
-So vote for [Lemon Tree](https://osu.ppy.sh/beatmapsets/1232936#fruits/2563191) for the Loved section*
+*I'm movin' around my catcher*
+*I'm jumpin' too fast, I'm dashin' too far*
+*I'd like to play more jump maps*
+*One just like this one, with fullscreen jumps*
+*So vote for [Lemon Tree](https://osu.ppy.sh/beatmapsets/1232936#fruits/2563191) for the Loved section*
 
 [![](/wiki/shared/news/2025-11-16-project-loved-november-2025/1688031.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -394,7 +394,7 @@ The more you go into this chart, the denser it gets. It gets especially brutal w
 126 – 182 BPM, 2:12 | 6.45★, 7.08★, 7.70★, 8.32★, 8.93★\
 *description written by [LivelyPeninsula](https://osu.ppy.sh/users/11517895)*
 
-\[[Crz\]Rachel](https://osu.ppy.sh/users/8369409) is notorious for creating difficult charts, particularly in the chordjack skillset, and [Sakazuki](https://osu.ppy.sh/beatmapsets/1266971#mania/2633097) is no exception.
+[\[Crz\]Rachel](https://osu.ppy.sh/users/8369409) is notorious for creating difficult charts, particularly in the chordjack skillset, and [Sakazuki](https://osu.ppy.sh/beatmapsets/1266971#mania/2633097) is no exception.
 
 Right from the start, you can expect dense chordjack patterns featuring a mix of jumps, hands, and even quads. The thing is, you'll rarely get any breaks in this chart. Despite this song being only 2 minutes long at 1.0x, it manages to cram a huge amount of dense chordjack patterns into a short span of time, requiring proficiency in pattern recognition, stamina, speed, and overall mastery of the skillset. Being 140 BPM certainly doesn't help either, as a song this fast can give numerous players a lot of trouble throughout the chart.
 
