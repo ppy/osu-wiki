@@ -25,7 +25,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 #### Pautas
 
 - **Todos las [frutas](/wiki/Gameplay/Hit_object/Fruit) deben representar un sonido existente en la música.** Esto suele ser un sonido distintivo, pero también puede representar un sonido continuo con un inicio o final indistinguible.
-- **La última [fruta](/wiki/Gameplay/Hit_object/Fruit) de un [slider](/wiki/Gameplay/Hit_object/Juice_stream) debería [ajustarse](/wiki/Beatmapping/Snapping) según la estructura rítmica de la canción.** Por ejemplo, si la canción usa un compás cuaternario, se deberían usar ajustes de 1/4, 1/8 o 1/16. Si la canción usa un compás ternario, se deberían usar ajustes de 1/6 o 1/12. Si la canción tiene un sonido en un ajuste diferente al recomendado, el ajuste a un ritmo adecuado siempre tendrá prioridad.
+- **La última [fruta](/wiki/Gameplay/Hit_object/Fruit) de un [slider](/wiki/Gameplay/Hit_object/Juice_stream) debería [ajustarse](/wiki/Beatmapping/Snapping) según la estructura rítmica de la canción.** Por ejemplo, si la canción usa un compás cuaternario, se deberían usar ajustes de 1/4, 1/8 o 1/16. Si la canción usa un compás ternario, se deberían usar ajustes de 1/6 o 1/12.
 - **No se deberían usar [dashes](/wiki/Gameplay/Dash) e [hiperdashes](/wiki/Gameplay/Hyperdash) cuando el destino del dash o hiperdash esté cerca del borde izquierdo o derecho del campo de juego.** Esto crea un movimiento incómodo, ya que el catcher se detiene bruscamente al alcanzar el borde del campo de juego (x:16 a la izquierda y x:496 a la derecha).
 - **Los [combos](/wiki/Beatmapping/Combo) no deberían ser extremadamente largos.** Esto garantiza que la vista del jugador no se vea obstruida por las [frutas](/wiki/Gameplay/Hit_object/Fruit) apiladas en el plato.
 - La **[dificultad general](/wiki/Beatmap/Overall_difficulty) debería tener el mismo valor que la [velocidad de aproximación](/wiki/Beatmap/Approach_rate).** Este es solo un valor estandarizado, ya que la dificultad general solo afecta a la puntuación máxima de una dificultad con [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
@@ -175,7 +175,7 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 #### Reglas
 
 - **Debe haber al menos 62 ms de espacio entre las [frutas](/wiki/Gameplay/Hit_object/Fruit) y el inicio de los [spinners](/wiki/Gameplay/Hit_object/Banana).**
-- **Debe haber al menos 125 ms de espacio entre [frutas](/wiki/Gameplay/Hit_object/Fruit) y el final de los [spinners](/wiki/Gameplay/Hit_object/Banana).**
+- **Debe haber al menos 125 ms de espacio entre las [frutas](/wiki/Gameplay/Hit_object/Fruit) y el final de los [spinners](/wiki/Gameplay/Hit_object/Banana).**
 
 #### Pautas
 
@@ -183,9 +183,9 @@ Las reglas y pautas para las dificultades específicas solo se aplican al nivel 
 
 #### Pautas para la configuración de la dificultad
 
-- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) y la [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser 9 o superior.
-- La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser 5 o superior.
-- El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser 4 o superior.
+- La [velocidad de aproximación](/wiki/Beatmap/Approach_rate) y la [dificultad general](/wiki/Beatmap/Overall_difficulty) deberían ser 9 o más.
+- La [tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) debería ser 5 o más.
+- El [tamaño del círculo](/wiki/Beatmap/Circle_size) debería ser 4 o más.
 
 ## Notas
 
