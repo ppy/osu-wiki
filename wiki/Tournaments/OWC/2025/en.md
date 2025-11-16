@@ -478,7 +478,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ## Groups
 
-Group A
+Group A:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -487,7 +487,7 @@ Group A
 | #3 | ::{ flag=AT }:: Austria | **1** | 2 | 8 | 13 | **-5** | 17 |
 | #4 | ::{ flag=TH }:: Thailand | **0** | 3 | 4 | 15 | **-11** | 21 |
 
-Group B
+Group B:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -496,7 +496,7 @@ Group B
 | #3 | ::{ flag=FI }:: Finland | **1** | 2 | 9 | 11 | **-2** | 22 |
 | #4 | ::{ flag=ID }:: Indonesia | **1** | 2 | 6 | 12 | **-6** | 18 |
 
-Group C
+Group C:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -505,7 +505,7 @@ Group C
 | #3 | ::{ flag=ES }:: Spain | **2** | 1 | 12 | 9 | **+3** | 20 |
 | #4 | ::{ flag=IT }:: Italy | **0** | 3 | 0 | 15 | **-15** | 23 |
 
-Group D
+Group D:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -514,7 +514,7 @@ Group D
 | #3 | ::{ flag=SE }:: Sweden | **1** | 2 | 10 | 13 | **-3** | 19 |
 | #4 | ::{ flag=NL }:: Netherlands | **1** | 2 | 8 | 13 | **-5** | 24 |
 
-Group E
+Group E:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -523,7 +523,7 @@ Group E
 | #3 | ::{ flag=VN }:: Vietnam | **1** | 2 | 9 | 13 | **-4** | 32 |
 | #4 | ::{ flag=DK }:: Denmark | **0** | 3 | 4 | 15 | **-11** | 37 |
 
-Group F
+Group F:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -532,7 +532,7 @@ Group F
 | #3 | ::{ flag=BE }:: Belgium | **1** | 2 | 8 | 14 | **-6** | 38 |
 | #4 | ::{ flag=UY }:: Uruguay | **0** | 3 | 9 | 15 | **-6** | 34 |
 
-Group G
+Group G:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -541,7 +541,7 @@ Group G
 | #3 | ::{ flag=PT }:: Portugal | **1** | 2 | 11 | 13 | **-2** | 36 |
 | #4 | ::{ flag=UA }:: Ukraine | **0** | 3 | 5 | 15 | **-10** | 29 |
 
-Group H
+Group H:
 
 | # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
 | :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
