@@ -21,7 +21,6 @@ As always, thanks for voting in the last round, one way or the other! Find the r
 Before jumping in to the picks, some important team news:
 
 - A true master in everything related to fruits, [Secre](https://osu.ppy.sh/users/2306637) is stepping down from the osu!catch captains after 3 years of service. Please do thank him for his consistency in bringing you the juiciest picks over that time!
-
 - After some recent resignations, the osu! Loved captains are running applications. If you're a circles connoisseur and ever wanted to pick maps for the section, click the banner below and fill up the form!
 
 [![](https://osu.ppy.sh/wiki/images/shared/news/banners/project-loved/apply-osu.png)](https://forms.gle/2Pd1EtmBZAHL8spn9)
@@ -79,7 +78,7 @@ Over 100,000 people played this set, I hope a lot of you are happy to see this h
 
 Another high BPM / alt map coming up!!
 
-This month's Outstanding Oldies includes \[Uchouten Vivace](https://osu.ppy.sh/beatmapsets/645329#osu), an old map made by [[cRyo[iceeicee\]]](https://osu.ppy.sh/users/835998).
+This month's Outstanding Oldies includes \[Uchouten Vivace](https://osu.ppy.sh/beatmapsets/645329#osu), an old map made by [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998).
 
 This map contains very geometrical / symmetrical alt patterns and a mix of high spacing jumps every now and then. It feels very comfortable to play, YET challenging on some specific sections.
 
@@ -263,7 +262,7 @@ Do you like *streams*? Do you like *neverending streams*?? Do you like 'em ***FA
 
 [Yurishurashushushu](https://osu.ppy.sh/beatmapsets/1895770#taiko) is a classic stream-stamina map made by [KawaiiBass](https://osu.ppy.sh/users/11992585). This guy needs no introduction, he's renowned for his use of comfortable patterns and intuitive coloring, and this map is no exception!
 
-After playing a bit of filler, prepare to be hit with an absolute onslaught of notes coming at a speed of 21.6 key presses per second, that's 324 BPM 1/4 streaming in osu! terms! Although, if you wanna go the extra mile and make your \[fingers move like a spider](https://x.com/shinchikuhome/status/1624960653990699008), you should definitely try the 1.05x rate-up, which brings the total key presses per second to 22.67 \[i\](don't say it...)[/i\]. However, streams are not everyone's cup of tea so if you ever feel like playing something a little less intense, but still speedy, make sure to give the x2 diff a try too.
+After playing a bit of filler, prepare to be hit with an absolute onslaught of notes coming at a speed of 21.6 key presses per second, that's 324 BPM 1/4 streaming in osu! terms! Although, if you wanna go the extra mile and make your \[fingers move like a spider](https://x.com/shinchikuhome/status/1624960653990699008), you should definitely try the 1.05x rate-up, which brings the total key presses per second to 22.67 *(don't say it...)*. However, streams are not everyone's cup of tea so if you ever feel like playing something a little less intense, but still speedy, make sure to give the x2 diff a try too.
 
 I'll see you at the polls!
 
