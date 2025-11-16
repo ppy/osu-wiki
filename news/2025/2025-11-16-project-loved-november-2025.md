@@ -364,7 +364,7 @@ What's your favorite season? Let us know by casting your vote in the thread!
 260 BPM, 2:28 | 4.89★\
 *description written by [elexire](https://osu.ppy.sh/users/9206093)*
 
-[hi10hi19](https://osu.ppy.sh/users/1014473)? You know him. [/a/](https://osu.ppy.sh/beatmapsets/2238283#mania/4755965)? You know it.
+[hi19hi19](https://osu.ppy.sh/users/1014473)? You know him. [/a/](https://osu.ppy.sh/beatmapsets/2238283#mania/4755965)? You know it.
 
 This file first existed on Etterna in [hi19hi19 Pack 4 - Modern Keyboardsmash](https://etternaonline.com/packs/3636), which is arguably one of the most well-known pack series on the site. Later reuploaded to osu! for [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K)'s Round of 16 pool, it managed to show that the popularity truly did transfer across games.
 
