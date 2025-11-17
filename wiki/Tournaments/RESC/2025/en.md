@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Monkey Business** (::{ flag=NO }:: **[NINERIK](https://osu.ppy.sh/users/10549880)**, ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=GB }:: [MALTESER](https://osu.ppy.sh/users/5218178), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528)) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **FIAT MULTIPLA** (::{ flag=AU }:: **[ASecretBox](https://osu.ppy.sh/users/7341183)**, ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943), ::{ flag=AU }:: [-cloppit](https://osu.ppy.sh/users/19851850), ::{ flag=AU }:: [palr](https://osu.ppy.sh/users/15429006), ::{ flag=AU }:: [Xaver](https://osu.ppy.sh/users/7410343)) |
 
-![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/podium.jpg)
+![](img/podium.jpg)
 
 ## Mappools
 
