@@ -8,7 +8,6 @@ tags:
   - чарт
   - чарты
   - ранкинг-чарты
-no_native_review: true
 ---
 
 # Beatmap Spotlights
