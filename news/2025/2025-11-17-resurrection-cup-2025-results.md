@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resurrection Cup 2025 Results
-date: 2025-11-11 18:00:00 +0000
+date: 2025-11-17 18:00:00 +0000
 ---
 
 Intense matches, jaw-dropping music, and a vibrant production team working behind the scenes. This year's Resurrection Cup had all of this, making it one of the most exciting in the series!
@@ -12,7 +12,7 @@ This was a tournament that was [announced back in in May](https://osu.ppy.sh/hom
 
 ## Results
 
-![Resurrection Cup 2025 podium](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/podium.jpg)
+![Resurrection Cup 2025 podium](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/podium.jpg)
 
 ## Highlights
 
@@ -112,7 +112,7 @@ While there is no crossfade this year, you may still listen to all of them right
 
 ## Serenity and… Regulus?
 
-![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/regulus.jpg)
+![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/regulus.jpg)
 
 It's no secret that our tournament does its best to weave a somewhat-comprehensible side story into each year's edition. After the devastating apocalypse we witnessed in 2022 — the very same corrosion that is now consuming the heavens — we saw reality itself getting reshaped in 2023, preparing the world for an entirely new timeline. By 2024, **Serenity** found herself at the beginning of her "new" journey, although last year's events proved that second chances are not always as straightforward as they may seem.
 
@@ -159,7 +159,7 @@ Here is a brief text-based interview with him:
 
 ::{#osume65}::
 
-![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/osume65.jpg)
+![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/osume65.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -245,7 +245,7 @@ Even more people were involved in making Resurrection Cup happen this year compa
 
 ::{#krimek-and-eili}::
 
-![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/krimek-and-eili.jpg)
+![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/krimek-and-eili.jpg)
 
 As members of the Resurrection Cup sound team, [Krimek](https://osu.ppy.sh/users/2345078) and [eili](https://osu.ppy.sh/users/37455438) were an integral part of the production team, as they not only helped and administrated everything that involved our [originals](#resurrection-cup-2025-originals), but they also made sure that the staggering amount of them fit the pooling, mapping and were just chill to listen to in general.
 
@@ -325,7 +325,7 @@ I don't think we've hit a "peak," but I also don't think bigger numbers should b
 
 ::{#daycore-and-yumerios}::
 
-![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/daycore-and-yumerios.jpg)
+![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/daycore-and-yumerios.jpg)
 
 As members of the mappool quality assurance team, [Daycore](https://osu.ppy.sh/users/5596337) and [Yumerios](https://osu.ppy.sh/users/11681430) did an extremely good job at seamlessly integrating nearly 80 custom maps all across the pools.
 
@@ -405,7 +405,7 @@ Only thing I would've wanted is for something that had a bit of a higher bpm, be
 
 ::{#niqht}::
 
-![](/wiki/shared/news/2025-11-11-resurrection-cup-2025-results/niqht.jpg)
+![](/wiki/shared/news/2025-11-17-resurrection-cup-2025-results/niqht.jpg)
 
 With all those custom maps, someone has to make sure they are all of great quality and spectacular to experience even as a player, not just from an artistic perspective which mappers tend to have. [niqht](https://osu.ppy.sh/users/14390731) is one of the playtesters who helped achieve this.
 
