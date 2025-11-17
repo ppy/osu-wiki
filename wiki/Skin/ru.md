@@ -16,4 +16,3 @@
 - [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
 В дополнение к коллекциям выше, множество игроков, включая одних из лучших, выкладывают свои скины на своих [юзерпейджах](/wiki/osu!supporter#editable-profile-section), в описаниях видео на YouTube, или через команду в чате Twitch.
-
