@@ -152,10 +152,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | 25 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Nov 22 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T173000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 21 | Chile ::{ flag=CL }:: | ::{ flag=AT }:: Austria | [Nov 22 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T190000&p1=1440&p2=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 19 | United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Nov 22 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T200000&p1=1440&p2=263&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 29 | Winner of RO / TW | Winner of CL / AT | []() |  |  |
-| 30 | Winner of FR / JP | Winner of NZ / SE | []() |  |  |
-| 31 | Winner of NO / TR | Winner of BR / FI | []() |  |  |
-| 32 | Winner of PH / ID | Winner of RU / ES | []() |  |  |
 
 ### Sunday, 23 November 2025
 
