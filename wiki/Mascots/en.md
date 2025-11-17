@@ -2,7 +2,7 @@
 
 *See also: [Mascots/Gallery](/wiki/Mascots/Gallery)*
 
-A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
+This article lists the many mascots of osu! along with their brief summary. A YouTube video showcasing the osu! mascots can be seen [here](https://youtu.be/mJF2cAs_MrI).
 
 ## Official
 
@@ -10,7 +10,7 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko. The initial concept art was created by ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
