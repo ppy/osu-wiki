@@ -14,7 +14,6 @@ If you're new to osu!, or got hit too hard by a wind gust, here's what we do: Pr
 As always, thanks for voting in the last round, one way or the other! Find the results here:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/2140780?n=2)
-<<<<<<< HEAD
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/2140779?n=4)
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2140778?n=2)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2140777?n=2)
