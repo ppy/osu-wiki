@@ -38,7 +38,7 @@ For the first head-to-head pool of the tournament, the Group Stage pool was most
 
 The pool also had its fair share of existing Ranked maps. The infamous [Chocolate Disco](https://osu.ppy.sh/beatmapsets/1437192#osu/2957016) was picked as a NM3 — a deceptively hard reading map, having a star rating of below 4.5 while sitting in a pool with maps that went up to over 7 stars. Other maps, such as [Elder Things](https://osu.ppy.sh/beatmapsets/1877186#osu/3863677) and [Imaike Samba](https://osu.ppy.sh/beatmapsets/2243785#osu/4769759), rounded the pool out and served as tapping and aim mechanics challenges, respectively. To cap it off, [saido39](https://osu.ppy.sh/users/11278761)'s [Destin Victorica (Harddance Mix)](https://osu.ppy.sh/beatmapsets/2318863#osu/4966899) was selected as the tiebreaker: a very upbeat, mechanically intensive outing that provided many matches with an exciting finish.
 
-Not to be left unmentioned, [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu/4766086) by [melon boy](https://osu.ppy.sh/users/3053382) and company was also a standout pick in the pool, being an extremely diverse mechanics map featuring a song made by the very mappers that created the map itself! A catchy, charming song on a fun, creative map made it a truly memorable selection.
+Not to be left unmentioned, [alien friend request](https://osu.ppy.sh/beatmapsets/2242333#osu/4766086) by [melon boy](https://osu.ppy.sh/users/3053382) and company was also a standout pick in the pool, being an extremely diverse mechanics map featuring a song composed by the creators of the map itself! A catchy, charming song on a fun, creative map made it a truly memorable selection.
 
 ---
 

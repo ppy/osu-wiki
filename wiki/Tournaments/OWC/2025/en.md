@@ -139,16 +139,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Round of 16
 
-### Saturday, 15 November 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 7 | Australia ::{ flag=AU }:: | ::{ flag=RO }:: Romania | [Nov 15 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251115T110000&p1=1440&p2=57&p3=49) | [osulive](https://twitch.tv/osulive) |
-| 1 | Poland ::{ flag=PL }:: | ::{ flag=PH }:: Philippines | [Nov 15 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251115T130000&p1=1440&p2=262&p3=145) | [osulive](https://twitch.tv/osulive) |
-| 11 | Italy ::{ flag=IT }:: | ::{ flag=TR }:: Türkiye | [Nov 15 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251115T153000&p1=1440&p2=215) | [osulive](https://twitch.tv/osulive) |
-| 3 | Canada ::{ flag=CA }:: | ::{ flag=NO }:: Norway | [Nov 15 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251115T160000&p1=1440&p2=188&p3=187) | [osulive](https://twitch.tv/osulive) |
-| 8 | South Korea ::{ flag=KR }:: | ::{ flag=CL }:: Chile | [Nov 15 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251115T160000&p1=1440&p2=235&p3=232) | [osulive_2](https://twitch.tv/osulive_2) |
-
 ### Sunday, 16 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -156,13 +146,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | 15 | Netherlands ::{ flag=NL }:: | ::{ flag=TW }:: Taiwan | [Nov 16 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T090000&p1=1440&p2=16&p3=241) | [osulive](https://twitch.tv/osulive) |
 | 6 | United Kingdom ::{ flag=GB }:: | ::{ flag=NZ }:: New Zealand | [Nov 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T100000&p1=1440&p2=136&p3=264) | [osulive_2](https://twitch.tv/osulive_2) |
 | 13 | Thailand ::{ flag=TH }:: | ::{ flag=JP }:: Japan | [Nov 16 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T100000&p1=1440&p2=28&p3=248) | [osulive](https://twitch.tv/osulive) |
-| 2 | Russian Federation ::{ flag=RU }:: | ::{ flag=CN }:: China | [Nov 16 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T123000&p1=1440&p2=166&p3=33) | [osulive_2](https://twitch.tv/osulive_2) |
-| 9 | Indonesia ::{ flag=ID }:: | ::{ flag=KZ }:: Kazakhstan | [Nov 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T130000&p1=1440&p2=108) | [osulive](https://twitch.tv/osulive) |
+| 2 | Russian Federation ::{ flag=RU }:: | ::{ flag=CN }:: China | [Nov 16 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T123000&p1=1440&p2=166&p3=33) | [osulive](https://twitch.tv/osulive) |
+| 9 | Indonesia ::{ flag=ID }:: | ::{ flag=KZ }:: Kazakhstan | [Nov 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T130000&p1=1440&p2=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 16 | Austria ::{ flag=AT }:: | ::{ flag=SG }:: Singapore | [Nov 16 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T140000&p1=1440&p3=236) | [osulive](https://twitch.tv/osulive) |
-| 14 | Sweden ::{ flag=SE }:: | ::{ flag=MY }:: Malaysia | [Nov 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T150000&p1=1440&p2=239&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
+| 14 | Sweden ::{ flag=SE }:: | ::{ flag=MY }:: Malaysia | [Nov 16 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T150000&p1=1440&p2=239&p3=122) | [osulive](https://twitch.tv/osulive) |
 | 12 | Finland ::{ flag=FI }:: | ::{ flag=PE }:: Peru | [Nov 16 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T173000&p1=1440&p2=101&p3=131) | [osulive](https://twitch.tv/osulive) |
-| 5 | United States ::{ flag=US }:: | ::{ flag=FR }:: France | [Nov 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T180000&p1=1440&p2=263&p3=195) | [osulive_2](https://twitch.tv/osulive_2) |
-| 10 | Spain ::{ flag=ES }:: | ::{ flag=AR }:: Argentina | [Nov 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T180000&p1=1440&p2=141&p3=51) | [osulive](https://twitch.tv/osulive) |
+| 5 | United States ::{ flag=US }:: | ::{ flag=FR }:: France | [Nov 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T180000&p1=1440&p2=263&p3=195) | [osulive](https://twitch.tv/osulive) |
+| 10 | Spain ::{ flag=ES }:: | ::{ flag=AR }:: Argentina | [Nov 16 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T180000&p1=1440&p2=141&p3=51) | [osulive_2](https://twitch.tv/osulive_2) |
 | 4 | Germany ::{ flag=DE }:: | ::{ flag=BR }:: Brazil | [Nov 16 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T190000&p1=1440&p2=37&p3=45) | [osulive](https://twitch.tv/osulive) |
 |  | Quarterfinals | mappool showcase | [Nov 16 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251116T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
@@ -246,6 +236,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 15 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 7 | **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/119831812) | [#1](https://www.twitch.tv/videos/2618988966?t=0h4m45s) |
+| 1 | **Poland** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119832663) | [#1](https://www.twitch.tv/videos/2619046982?t=0h7m18s) |
+| 11 | Italy ::{ flag=IT }:: | 3 | **5** | ::{ flag=TR }:: **Türkiye** | [#1](https://osu.ppy.sh/community/matches/119834213) | [#1](https://www.twitch.tv/videos/2619201548) |
+| 3 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119834569) | [#1](https://www.twitch.tv/videos/2619161399?t=0h9m46s) |
+| 8 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119834573) | [#1 (partial)](https://www.twitch.tv/videos/2619201548?t=1h5m0s) |
 
 ### Group stage
 
@@ -401,6 +403,80 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #63 | ::{ flag=IE }:: Ireland | 1.935 | 638,992 | [119650665](https://osu.ppy.sh/community/matches/119650665) |
 | #64 | ::{ flag=MN }:: Mongolia | 1.922 | 629,837 | [119656797](https://osu.ppy.sh/community/matches/119656797) |
 | #65 | ::{ flag=KG }:: Kyrgyzstan | *DNP* | *DNP* | *DNP* |
+
+## Groups
+
+### Group A
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=CN }:: China | **3** | 0 | 15 | 6 | **+9** | 9 |
+| #2 | ::{ flag=NO }:: Norway | **2** | 1 | 12 | 5 | **+7** | 13 |
+| #3 | ::{ flag=AT }:: Austria | **1** | 2 | 8 | 13 | **-5** | 17 |
+| #4 | ::{ flag=TH }:: Thailand | **0** | 3 | 4 | 15 | **-11** | 21 |
+
+### Group B
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=NZ }:: New Zealand | **3** | 0 | 15 | 5 | **+10** | 16 |
+| #2 | ::{ flag=RO }:: Romania | **1** | 2 | 9 | 11 | **-2** | 12 |
+| #3 | ::{ flag=FI }:: Finland | **1** | 2 | 9 | 11 | **-2** | 22 |
+| #4 | ::{ flag=ID }:: Indonesia | **1** | 2 | 6 | 12 | **-6** | 18 |
+
+### Group C
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=CL }:: Chile | **2** | 1 | 14 | 7 | **+7** | 10 |
+| #2 | ::{ flag=FR }:: France | **2** | 1 | 12 | 7 | **+5** | 15 |
+| #3 | ::{ flag=ES }:: Spain | **2** | 1 | 12 | 9 | **+3** | 20 |
+| #4 | ::{ flag=IT }:: Italy | **0** | 3 | 0 | 15 | **-15** | 23 |
+
+### Group D
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=BR }:: Brazil | **2** | 1 | 13 | 9 | **+4** | 11 |
+| #2 | ::{ flag=PH }:: Philippines | **2** | 1 | 13 | 9 | **+4** | 14 |
+| #3 | ::{ flag=SE }:: Sweden | **1** | 2 | 10 | 13 | **-3** | 19 |
+| #4 | ::{ flag=NL }:: Netherlands | **1** | 2 | 8 | 13 | **-5** | 24 |
+
+### Group E
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=TW }:: Taiwan | **3** | 0 | 15 | 2 | **+13** | 26 |
+| #2 | ::{ flag=MY }:: Malaysia | **2** | 1 | 11 | 9 | **+2** | 33 |
+| #3 | ::{ flag=VN }:: Vietnam | **1** | 2 | 9 | 13 | **-4** | 32 |
+| #4 | ::{ flag=DK }:: Denmark | **0** | 3 | 4 | 15 | **-11** | 37 |
+
+### Group F
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=TR }:: Türkiye | **3** | 0 | 15 | 3 | **+12** | 25 |
+| #2 | ::{ flag=AR }:: Argentina | **2** | 1 | 11 | 11 | **0** | 30 |
+| #3 | ::{ flag=BE }:: Belgium | **1** | 2 | 8 | 14 | **-6** | 38 |
+| #4 | ::{ flag=UY }:: Uruguay | **0** | 3 | 9 | 15 | **-6** | 34 |
+
+### Group G
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=KZ }:: Kazakhstan | **3** | 0 | 15 | 4 | **+11** | 27 |
+| #2 | ::{ flag=PE }:: Peru | **2** | 1 | 11 | 10 | **+1** | 39 |
+| #3 | ::{ flag=PT }:: Portugal | **1** | 2 | 11 | 13 | **-2** | 36 |
+| #4 | ::{ flag=UA }:: Ukraine | **0** | 3 | 5 | 15 | **-10** | 29 |
+
+### Group H
+
+| # | Team | Wins | Losses | PF[^pf] | PA[^pa] | PD[^pd] | Seed[^groups-seed] |
+| :-: | :-- | :-: | :-: | :-: | :-: | :-: | :-: |
+| #1 | ::{ flag=JP }:: Japan | **3** | 0 | 15 | 6 | **+9** | 28 |
+| #2 | ::{ flag=SG }:: Singapore | **2** | 1 | 13 | 11 | **+2** | 31 |
+| #3 | ::{ flag=HK }:: Hong Kong | **1** | 2 | 11 | 14 | **-3** | 40 |
+| #4 | ::{ flag=GR }:: Greece | **0** | 3 | 7 | 15 | **-8** | 35 |
 
 ## Ruleset
 
@@ -656,5 +732,9 @@ The final bracket configuration will be as follows:
 
 ## Notes
 
+[^pf]: PF – Points for this team
+[^pa]: PA – Points against this team
+[^pd]: PD – Point differential: `PD = map wins - map losses`. Used as the first tiebreaker for the group
+[^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
