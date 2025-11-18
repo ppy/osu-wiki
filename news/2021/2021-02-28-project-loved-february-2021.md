@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: February 2021"
 date: 2021-02-28 10:30:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back to bring your monthly dose of your favorite maps from the grave. Do they deserve your love? Decide their fate in this month's vote!

@@ -3,6 +3,7 @@ layout: post
 title: osu! mascot design contest
 date: 2016-07-18 09:46:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/147587226893/osu-mascot-design-contest
+series: fanart_contests
 ---
 
 Time to dust off those pens and get that creativity flowing! We're back with another special contest - this time for the intrepid artists among us. We're challenging you to design the new osu!Taiko mascot!

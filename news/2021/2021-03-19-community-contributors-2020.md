@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: 2020"
 date: 2021-03-19 10:30:00 +0000
+series: miscellaneous
 ---
 
 Today, we celebrate some of the people who make the osu! community truly tick by awarding them our highest honour: the badge of a Community Contributor.

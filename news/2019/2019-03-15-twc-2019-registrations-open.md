@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2019: Registrations now open!"
 date: 2019-03-15 16:00:00 +0000
+series: world_cups
 ---
 
 Bring your Dons and your Kats to the next level, the osu!taiko World Cup is back for its 9th installment! We have some mappool format changes that aims to bring a twist to the tournament! The Registration Phase has already started, no time to waste!

@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2019: Results"
 date: 2020-02-10 09:00:00 +0000
+series: official_contests
 ---
 
 You've had your say, and now the votes are in! Check out which beatmaps were the Community Favorites of 2019!

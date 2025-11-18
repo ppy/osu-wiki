@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Imy"
 date: 2020-09-16 09:00:00 +0000
+series: featured_artists
 ---
 
 **Imy** brings a new flavor of Japanese rock to the Featured Artist lineup!

@@ -2,6 +2,7 @@
 layout: post
 title: Spring Indoors 2020 Fanart Contest Results
 date: 2020-04-24 02:00:00 +0000
+series: fanart_contests
 ---
 
 You've had your say, and in some of the closest voting we've ever seen in a fanart contest to date, the winners have been decided for all to see!

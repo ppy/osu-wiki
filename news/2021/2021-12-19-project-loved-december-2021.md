@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: December 2021"
 date: 2021-12-19 12:00:00 +0000
+series: project_loved
 ---
 
 This festive time of year is all about appreciating one another, so why not share the love with some of your favourite beatmaps too?

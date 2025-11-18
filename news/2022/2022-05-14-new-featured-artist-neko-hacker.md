@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Neko Hacker"
 date: 2022-05-14 09:00:00 +0000
+series: featured_artists
 ---
 
 If sweets could be transformed into music, **Neko Hacker** would be the world's #1 musical candy manufacturer.

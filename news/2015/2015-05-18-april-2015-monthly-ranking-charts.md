@@ -3,6 +3,7 @@ layout: post
 title: April 2015 Monthly Ranking Charts
 date: 2015-05-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/119274381358/april-2015-monthly-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for April 2015 have just been released and **[can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1504)**! Along with that, we updated the Spring Season of the **[Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)**! This month **[Cherry Blossom](https://osu.ppy.sh/users/1156742)**, **[Nashmun](https://osu.ppy.sh/users/49031)**, **[Zak](https://osu.ppy.sh/users/1375955)** and **[Starry\-](https://osu.ppy.sh/users/2166199)** picked the maps for the Monthly Ranking Charts.

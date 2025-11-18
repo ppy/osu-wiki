@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: August 2020"
 date: 2020-08-10 09:30:00 +0000
+series: project_loved
 ---
 
 It's that time of the month again; [Project Loved](https://osu.ppy.sh/community/forums/120) has a bunch of new maps for you, and we're looking for your votes! Read on to get an overview of the picks and make your mark on Loved.

@@ -2,6 +2,7 @@
 layout: post
 title: Happy Chinese New Year!
 date: 2019-02-05 10:00:00 +0000
+series: miscellaneous
 ---
 
 2019 is the year of the Pig! The osu!team would like to wish everyone all the best, and a year of health, luck and happiness to come.

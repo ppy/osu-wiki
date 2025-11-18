@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: November 2025"
 date: 2025-11-16 23:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Project Loved is back to bring some respite from the cold november winds!

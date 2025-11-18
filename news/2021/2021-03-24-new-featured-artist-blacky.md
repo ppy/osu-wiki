@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: BlackY"
 date: 2021-03-24 08:45:00 +0000
+series: featured_artists
 ---
 
 We're pumped to announce **BlackY** as our latest Featured Artist!

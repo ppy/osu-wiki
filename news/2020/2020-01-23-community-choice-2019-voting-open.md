@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2019: Voting Open"
 date: 2020-01-23 10:00:00 +0000
+series: official_contests
 ---
 
 2019 has come and gone, and with it, an entire year of mapping legacy enters the history books forever more. Become a part of history and help us decide which of 2019's maps were the Community Choice!

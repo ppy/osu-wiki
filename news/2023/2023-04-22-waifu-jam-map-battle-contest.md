@@ -2,6 +2,7 @@
 layout: post
 title: Waifu Jam! Map-Battle Contest
 date: 2023-04-22 07:00:00 +0000
+series: community_contests
 ---
 
 Summoning all mappers! Friendly and fun-loving demon queen **Ironmouse** joins forces with everyone's favourite osu! streamer **BTMC** for a new type of mapping competition, all based around the new hit **Ironmouse & Camellia - Waifu Jam**!

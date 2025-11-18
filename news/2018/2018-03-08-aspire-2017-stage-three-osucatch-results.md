@@ -2,6 +2,7 @@
 layout: post
 title: "Aspire 2017 Stage Three: osu!catch Results"
 date: 2018-03-08 10:00:00 +0000
+series: official_contests
 ---
 
 The fruits fell near-endlessly, and the world was a much healthier (and more interesting) place for them. Who would rise to the top in osu!catch's first official "anything-goes" mapping contest? Read on to find out!

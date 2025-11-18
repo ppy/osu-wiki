@@ -2,6 +2,7 @@
 layout: post
 title: Performance Points & Star Rating Updates
 date: 2021-11-09 10:00:00 +0000
+series: ranking_system_updates
 ---
 
 Thanks to the contributions made by a few enterprising developers in the community, we are excited to announce that a new series of difficulty calculation changes will be going live shortly. This newspost will go into the what, the who, the when and the how, so read on to find out more!

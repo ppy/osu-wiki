@@ -2,6 +2,7 @@
 layout: post
 title: Mapping With Rewards Deadline Extended
 date: 2018-02-22 12:00:00 +0000
+series: official_contests
 ---
 
 If you haven't managed to submit or finish your entries for [Mapping With Rewards](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) in time, rejoice! The deadline for mapping [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for this contest is extended until the **1st May 2018** and a few of the conditions have been changed!

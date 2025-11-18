@@ -2,6 +2,7 @@
 layout: post
 title: A Most Manic Art Contest Voting Results
 date: 2019-10-21 10:00:00 +0000
+series: fanart_contests
 ---
 
 The results are in, and it's close! TOO CLOSE! Only **THREE** votes distinguish second place from third place, my goodness. Read on for more details!

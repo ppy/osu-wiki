@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Hybrid Minds"
 date: 2022-10-12 10:00:00 +0000
+series: featured_artists
 ---
 
 Liquid drum & bass duo **Hybrid Minds** slides into our Featured Artist library.

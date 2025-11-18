@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tokyo.MeltiMelt"
 date: 2022-10-05 10:00:00 +0000
+series: featured_artists
 ---
 
 Explore a post-apocalyptic landscape with **Tokyo.MeltiMelt**, our newest Featured Artist!

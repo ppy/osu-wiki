@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2022: Registrations now open!"
 date: 2021-12-16 05:00:00 +0000
+series: world_cups
 ---
 
 The new year is almost here, and for the first time since 2019 we're doubling your annual dose of osu!mania! The MWC7K 2022 registrations are now open!

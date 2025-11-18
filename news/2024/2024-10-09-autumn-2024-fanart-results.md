@@ -2,6 +2,7 @@
 layout: post
 title: "Autumn 2024 Fanart Contest: Results"
 date: 2024-10-09 17:30:00 +0000
+series: fanart_contests
 ---
 
 Falling leaves and crisp cool air, make way for autumn's golden flare...

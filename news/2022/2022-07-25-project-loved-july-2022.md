@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: July 2022"
 date: 2022-07-25 23:20:00 +0000
+series: project_loved
 ---
 
 Check out the latest picks from the captains at Project Loved!

@@ -3,6 +3,7 @@ layout: post
 title: September 2013 Ranking Chart
 date: 2013-10-21 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64718748071/september-2013-ranking-chart
+series: beatmap_spotlights
 ---
 
 Here, have some september ranking charts! Note that as of this chart, the chart names are based on the month from which ranked maps were taken. Should be a bit easier to understand this way!

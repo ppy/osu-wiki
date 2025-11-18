@@ -2,6 +2,7 @@
 layout: post
 title: Halloween Descends
 date: 2017-10-31 14:00:00 +0000
+series: fanart_contests
 ---
 
 The dread moon rises once again as Halloween visits for another year. The night sky sings with terrors and thrills abound - come check out what we've got planned to celebrate this delightfully spooky occasion!

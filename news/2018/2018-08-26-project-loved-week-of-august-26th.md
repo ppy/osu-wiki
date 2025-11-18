@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of August 26th"
 date: 2018-08-26 22:20:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back, this time with *twice* the amount of osu!standard maps. Check out our picks, and vote for the maps you want to see Loved!

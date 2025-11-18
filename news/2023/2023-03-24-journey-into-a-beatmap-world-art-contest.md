@@ -2,6 +2,7 @@
 layout: post
 title: Journey into a Beatmap World Art Contest
 date: 2023-03-24 08:00:00 +0000
+series: fanart_contests
 ---
 
 Swap out your pen nibs and prepare your eyeballs — it's time for 2023's first art contest!

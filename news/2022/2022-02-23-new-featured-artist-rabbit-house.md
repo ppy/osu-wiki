@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rabbit House"
 date: 2022-02-23 09:00:00 +0000
+series: featured_artists
 ---
 
 You might not recognize our latest Featured Artist by their name, but you *definitely* recognize **Rabbit House**'s beatmaps.

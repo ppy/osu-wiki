@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: kaitendaentai"
 date: 2023-06-10 15:00:00 +0000
+series: featured_artists
 ---
 
 Melding together breakcore, noise, progressive rock, and VOCALOID, **kaitendaentai**'s  music is anything but normal. And you'll like it.

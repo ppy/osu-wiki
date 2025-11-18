@@ -2,6 +2,7 @@
 layout: post
 title: The Roundtable Open @ LVL UP EXPO
 date: 2025-03-31 20:00:00 +0000
+series: offline_events
 ---
 
 [The Roundtable](https://theroundtable.gg/) is renowned for its invitational tournament series featuring the fiercest competitors in the world. Today, The Roundtable is expanding scope with **The Roundtable Open**, an open rank LAN tournament hosted at [LVL UP EXPO 2025](https://lvlupexpo.com)!

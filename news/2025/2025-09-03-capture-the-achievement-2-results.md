@@ -2,6 +2,7 @@
 layout: post
 title: Capture The Achievement 2 Results
 date: 2025-09-03 20:00:00 +0000
+series: online_events
 ---
 
 Back in July, 104 teams gathered for 15 days to solve 101 mind-bending osu! puzzles and quests. 2649 total completions later, we have our winners!

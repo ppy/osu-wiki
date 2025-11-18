@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2023 Fanart Contest
 date: 2023-09-24 04:00:00 +0000
+series: fanart_contests
 ---
 
 As the mists of October draw ever closer, the artists of the osu! community have only one thing on their mind: **spooky month.** Turn your tablets to their true and terrible purpose in our latest Fanart Contest!

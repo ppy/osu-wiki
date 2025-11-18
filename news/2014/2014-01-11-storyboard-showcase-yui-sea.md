@@ -3,6 +3,7 @@ layout: post
 title: "Storyboard Showcase: YUI - Sea"
 date: 2014-01-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/72951293450/storyboard-showcase-yui-sea
+series: miscellaneous
 ---
 
 After a brief hiatus, I am proud to announce that the bi-weekly storyboard showcase has resumed!

@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: December 2017"
 date: 2018-01-23 09:00:00 +0000
+series: beatmap_spotlights
 ---
 
 It seems like we still have a few unopened presents from last year - the December Spotlights are out, make sure to drop by and check it out!

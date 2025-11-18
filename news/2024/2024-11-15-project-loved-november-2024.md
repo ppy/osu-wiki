@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: November 2024"
 date: 2024-11-15 16:30:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 You finally made it through spooky season! Here's some Loved picks to keep yourself busy with while we prepare for next month's festivities.

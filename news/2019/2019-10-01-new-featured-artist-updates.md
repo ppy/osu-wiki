@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: October 2019"
 date: 2019-10-01 17:20:00 +0000
+series: featured_artists
 ---
 
 We promised a big update in the last Featured Artist reveal, and boy did we mean it. **197** new tracks from **12** of our absurdly talented Featured Artists are now available. Check them all out!

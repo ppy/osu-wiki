@@ -3,6 +3,7 @@ layout: post
 title: "osu!World Cup 2016: Results"
 date: 2016-12-24 02:56:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/154875453203/osuworld-cup-2016-results
+series: world_cups
 ---
 
 ![](/wiki/shared/news/banners/twc2017.jpg)

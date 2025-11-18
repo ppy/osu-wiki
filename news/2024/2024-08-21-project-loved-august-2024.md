@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: August 2024"
 date: 2024-08-21 20:30:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Bask in the soothing sun and enjoy a catalogue of fancy Loved picks here!

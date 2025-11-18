@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of August 11th"
 date: 2019-08-12 21:00:00 +0000
+series: project_loved
 ---
 
 What's up, [Project Loved](https://osu.ppy.sh/community/forums/120) here. New maps at an affordable price.

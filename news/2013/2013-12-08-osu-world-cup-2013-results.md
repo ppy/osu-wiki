@@ -3,6 +3,7 @@ layout: post
 title: osu! World Cup 2013 - Results
 date: 2013-12-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
+series: world_cups
 ---
 
 The osu! World Cup 2013 just ended, and we are proud to announce the winners of the biggest osu! tournament yet.

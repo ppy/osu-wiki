@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Morimori Atsushi"
 date: 2020-10-21 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Morimori Atsushi** aboard as our latest Featured Artist!

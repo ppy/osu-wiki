@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Will Stetson"
 date: 2023-10-22 21:00:00 +0000
+series: featured_artists
 ---
 
 Yep.

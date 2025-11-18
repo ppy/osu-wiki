@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2022: Registrations now open!"
 date: 2022-04-21 10:00:00 +0000
+series: world_cups
 ---
 
 Summoning all fruit catchers: the osu!catch World Cup is back for its 11th instalment!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: I love you Orchestra"
 date: 2020-11-21 10:00:00 +0000
+series: featured_artists
 ---
 
 Give a heavy welcome to **I love you Orchestra**, our latest Featured Artist!

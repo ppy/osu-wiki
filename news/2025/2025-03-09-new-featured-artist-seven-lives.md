@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: SEVEN LIVES"
 date: 2025-03-09 11:15:00 +0000
+series: featured_artists
 ---
 
 You haven't heard full flavour music if you haven't heard **SEVEN LIVES**.

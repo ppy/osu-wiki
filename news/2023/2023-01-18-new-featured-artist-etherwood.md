@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Etherwood"
 date: 2023-01-18 11:00:00 +0000
+series: featured_artists
 ---
 
 Our Featured Artist library has a new monument: **Etherwood**.

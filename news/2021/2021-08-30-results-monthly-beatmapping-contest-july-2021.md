@@ -2,6 +2,7 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: July 2021 (osu!)"
 date: 2021-08-30 20:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Results of the first two-map-contest are in! See who's on top and say hello to our newest Elite Mappers!

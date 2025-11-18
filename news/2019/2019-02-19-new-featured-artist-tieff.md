@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: tieff"
 date: 2019-02-19 08:00:00 +0000
+series: featured_artists
 ---
 
 Bringing a founding member of the early osu! mapping scene back into the limelight in a whole new way, we're proud to announce our latest addition to the Featured Artist roster - tieff!

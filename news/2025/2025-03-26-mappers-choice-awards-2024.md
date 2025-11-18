@@ -2,6 +2,7 @@
 layout: post
 title: Mapper's Choice Awards 2024
 date: 2025-03-26 16:00:00 +0000
+series: community_contests
 ---
 
 It's time to step up, vote, and crown last year's best Ranked beatmaps in the **Mapper's Choice Awards (MCA)!** This is your chance to vote for the community's stars of 2024 — *don't miss out!*

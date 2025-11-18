@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko and osu!mania Performance Points & Star Rating Survey
 date: 2022-01-14 17:00:00 +0000
+series: ranking_system_updates
 ---
 
 A call to arms for players from the osu!taiko and osu!mania game modes! We want your feedback on the way performance points and star rating development should proceed—read on to get involved!

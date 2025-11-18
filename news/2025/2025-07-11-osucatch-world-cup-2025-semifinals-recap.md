@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2025: Semifinals Recap"
 date: 2025-07-11 18:00:00 +0000
+series: world_cups
 ---
 
 We are now officially in the endgame. Only two weeks remain to decide who will be crowned the 2025 osu!catch champions, so make sure to catch up to what's been happening to avoid missing out on the exciting final stages!

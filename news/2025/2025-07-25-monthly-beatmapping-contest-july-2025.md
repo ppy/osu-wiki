@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: July 2025"
 date: 2025-07-25 14:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 You have excellent taste in beatmaps. Let's see if the rest of the world agrees.

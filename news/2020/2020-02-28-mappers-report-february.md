@@ -2,6 +2,7 @@
 layout: post
 title: "The Mappers' Report: February"
 date: 2020-02-28 08:00:00 +0000
+series: mappers_report
 ---
 
 A new shiny news post was spotted at the horizon and coming to you now every month. It's **the Mappers' Report**! This news post series will inform you monthly about happenings within the osu! mapping scene.

@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #4 Results (osu!catch)"
 date: 2019-02-06 20:00:00 +0000
+series: official_contests
 ---
 
 *Contest, contest, on the forum page, who is the greatest fruit arranger of the age?* The results for the first osu!catch edition of the osu! Mapping Olympiad have arrived!

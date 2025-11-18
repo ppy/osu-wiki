@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2022 Fanart Contest Voting Open
 date: 2022-10-24 06:00:00 +0000
+series: fanart_contests
 ---
 
 True horror strikes again — **109** incredible entries, but only **15** votes each to go around!

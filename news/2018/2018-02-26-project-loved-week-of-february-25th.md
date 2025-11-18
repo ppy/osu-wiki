@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of February 25th"
 date: 2018-02-26 09:00:00 +0000
+series: project_loved
 ---
 
 The [Project Loved](https://osu.ppy.sh/community/forums/120) voting schedule is changing slightly starting this week! Come check out the new picks for all four modes now!

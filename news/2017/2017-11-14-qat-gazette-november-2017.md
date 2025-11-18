@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: November 2017"
 date: 2017-11-14 12:00:00 +0000
+series: qat_gazette
 ---
 
 More flexibility for Beatmap Nominators, changes to how we handle metadata, and a further peek into to the future of mapping contests lie in store for this month's issue of the QAT Gazette!

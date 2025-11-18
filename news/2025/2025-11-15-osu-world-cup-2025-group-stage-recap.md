@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2025: Group Stage Recap"
 date: 2025-11-15 15:00:00 +0000
+series: world_cups
 ---
 
 *And for our next number, we'd like to return to the classics*. OWC 2025 got underway with a visit to a seemingly bygone era, reintroducing the Group Stage format — but now with a modern twist.

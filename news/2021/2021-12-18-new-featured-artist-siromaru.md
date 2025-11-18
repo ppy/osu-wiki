@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: siromaru"
 date: 2021-12-18 09:00:00 +0000
+series: featured_artists
 ---
 
 Spreading his wings to soar into basically every rhythm game in existence, **siromaru** finally flies into our Featured Artist collection!

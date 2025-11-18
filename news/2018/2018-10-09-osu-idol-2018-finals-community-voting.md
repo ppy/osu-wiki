@@ -2,6 +2,7 @@
 layout: post
 title: osu!idol 2018 Finals - Community Voting!
 date: 2018-10-09 18:00:00 +0000
+series: official_contests
 ---
 
 It has been another exciting year for the osu!idol competition! We have three finalists for you to hear - [Zeva[FL]](https://osu.ppy.sh/users/2805170), [Will Stetson](https://osu.ppy.sh/users/4909088) and [MjIsMaster](https://osu.ppy.sh/users/9922896) -  give 'em a listen and vote for your favourite now!

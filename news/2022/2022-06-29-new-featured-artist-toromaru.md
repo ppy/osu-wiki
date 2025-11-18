@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Toromaru"
 date: 2022-06-29 10:00:00 +0000
+series: featured_artists
 ---
 
 We've rounded up **12** songs from modern jazz savant **Toromaru** for our Featured Artist library!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2020: Registrations now open!"
 date: 2020-09-24 12:00:00 +0000
+series: world_cups
 ---
 
 We've bashed the drums, caught the fruits and smashed the keys, but now, it is once again time to ***click the circles!***. The osu! World Cup 2020 is here and registrations are now open!

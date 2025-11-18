@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors 2022: Elite Nominators"
 date: 2023-02-17 16:00:00 +0000
+series: miscellaneous
 ---
 
 Share a moment with us as we acknowledge the best of the best among those who help keep the modding and mapping scenes alive.

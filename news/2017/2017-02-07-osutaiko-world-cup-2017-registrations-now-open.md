@@ -3,6 +3,7 @@ layout: post
 title: osu!taiko World Cup 2017 - Registrations now open!
 date: 2017-02-07 20:20:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/156944882668/osutaiko-world-cup-2017-registrations-now-open
+series: world_cups
 ---
 
 We'd like to welcome all of you to this year's official osu!taiko World Cup. As in every year, the rules have been adjusted from the previous TWC, so please **[read them carefully](https://osu.ppy.sh/wiki/Tournaments/TWC/2017)** before registering for this tournament.

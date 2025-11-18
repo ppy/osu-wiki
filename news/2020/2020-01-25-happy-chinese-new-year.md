@@ -2,6 +2,7 @@
 layout: post
 title: Happy Chinese New Year!
 date: 2020-01-25 08:00:00 +0000
+series: miscellaneous
 ---
 
 2020 is the year of the rat! Rats are cool. The osu!team would like to wish everyone all the best, and a year of health, luck and happiness to come.

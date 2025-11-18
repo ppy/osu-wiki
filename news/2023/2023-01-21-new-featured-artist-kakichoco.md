@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: kakichoco"
 date: 2023-01-21 11:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to add legendary vocalist **kakichoco** to our collection of Featured Artists!

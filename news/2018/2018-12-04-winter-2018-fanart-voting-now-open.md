@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2018 Fanart Voting Now Open
 date: 2018-12-04 05:00:00 +0000
+series: fanart_contests
 ---
 
 With a very generous heart, the artists of the osu! community have gifted us **168** entries to pore through for the holiday season, but only **15** can make it to the main menu! Help us decide, and vote now!

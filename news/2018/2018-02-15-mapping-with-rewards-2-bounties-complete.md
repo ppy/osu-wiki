@@ -2,6 +2,7 @@
 layout: post
 title: "Mapping With Rewards #2 - Bounties Complete!"
 date: 2018-02-15 08:00:00 +0000
+series: official_contests
 ---
 
 Long overdue, but not forgotten. The second set of mapping bounties have finally been awarded and the game client has three new bundled maps!

@@ -3,6 +3,7 @@ layout: post
 title: "Fanart Contest #9: Spring"
 date: 2017-03-21 11:28:13 +0000
 tumblr_url: http://osunews.tumblr.com/post/158662594563/fanart-contest-9-spring
+series: fanart_contests
 ---
 
 Spring's drawing near for a lot of the world, and to celebrate, we're holding another Fanart Contest!

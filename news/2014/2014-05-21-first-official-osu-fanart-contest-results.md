@@ -3,6 +3,7 @@ layout: post
 title: First Official osu! Fanart Contest Results!
 date: 2014-05-21 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/86373762103/first-official-osu-fanart-contest-results
+series: fanart_contests
 ---
 
 ![](/wiki/shared/news/2014-05-21-first-official-osu-fanart-contest-results/thumb-65.jpg)

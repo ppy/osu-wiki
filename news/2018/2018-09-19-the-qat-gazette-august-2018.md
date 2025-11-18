@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: August 2018"
 date: 2018-09-19 06:00:00 +0000
+series: qat_gazette
 ---
 
 Modding discussion feature requests, potential changes to hybrid mode mapsets, and an update on awaited Beatmap Nominator applications — all your mapping and modding news from the past month is inside!

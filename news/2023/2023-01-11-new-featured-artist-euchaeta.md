@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Euchaeta"
 date: 2023-01-11 11:00:00 +0000
+series: featured_artists
 ---
 
 **Euchaeta** brings some novelty into our Featured Artist catalogue!

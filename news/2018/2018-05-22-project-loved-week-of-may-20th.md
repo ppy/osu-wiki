@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of May 20th"
 date: 2018-05-22 06:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back with another round of voting! Check out the captains' picks for all four game modes and vote for your favourites!

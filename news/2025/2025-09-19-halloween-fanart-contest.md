@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2025 Fanart Contest
 date: 2025-09-19 19:30:00 +0000
+series: fanart_contests
 ---
 
 After our little autumn detour last year, it's about time we rejuvenate our eternal tradition of celebrating spooky month with pippi and co.!

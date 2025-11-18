@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: July 18, 2024"
 date: 2024-07-19 12:00:00 +0000
+series: game_updates
 ---
 
 Trade offer received — you click the banner, we give you the latest osu!(lazer) updates.
