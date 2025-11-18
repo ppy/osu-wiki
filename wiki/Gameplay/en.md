@@ -22,6 +22,7 @@
 - [Pass](Pass)
 - [Play style](Play_style)
 - [Play time](/wiki/Beatmap/Play_time)
+- [Quick play](Quick_play)
 - [Replay](Replay)
 - [Score](Score)
 - [Slider break](Judgement/Slider_break)
