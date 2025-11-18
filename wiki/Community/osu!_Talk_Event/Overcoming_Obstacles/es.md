@@ -7,7 +7,7 @@ tags:
 
 ![Banner del osu! Talk Event: Overcoming Obstacles](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers#servidores-relacionados-con-la-jugabilidad) donde diferentes personas realizaron charlas sobre diversos temas. Esta fue la primera iteración del evento con el tema «overcoming obstacles».
+El **osu! Talk Event** es un evento organizado por [osu! University](/wiki/Community/Discord_servers#jugabilidad) donde diferentes personas realizaron charlas sobre diversos temas. Esta fue la primera iteración del evento con el tema «overcoming obstacles».
 
 Los oradores dieron sus charlas en un canal escenario en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!). Durante el evento se abrieron hilos de discusión en el canal `#community-meetings`.
 
