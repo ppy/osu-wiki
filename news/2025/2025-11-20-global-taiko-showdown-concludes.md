@@ -197,6 +197,10 @@ To close off this article, we have contacted a staff member from each event, as 
     .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
+
+    .news-chat-quote__colour-nat {
+      color: #fa3703;
+    }
 </style>
 
 ![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/SGTS_Staff_Banner.png)
@@ -227,11 +231,11 @@ Thank you to all the other members of the SGTS staff team as well.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14102976" style="background-image: url('/wiki/shared/avatars/Hivie.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/14102976">Hivie</a></p>
 
 I think MGTS has been a refreshing experience overall for me and the community — osu!taiko contests are pretty sparse and there isn't much going on apart from [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) ever since the last [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC/3) was held 3 years ago. This year's MGTS took last iteration's formula and iterated on it based on community feedback, which featured 2 distinct changes:
 
-- Team size dropped from 4-6 to 2-3, which resonated positively with participants given it allowed for easier pairings between friends.
+- Team size dropped from 4–6 to 2–3, which resonated positively with participants given it allowed for easier pairings between friends.
 - We took the GTS flair up a notch and provided a fully custom songs list rather than only one custom song.
 
 One of the primary positives I noticed while hosting a GTS-affiliated contest is the immediate access to a compendium of high quality songs alongside a stellar roster of cracked artists who are ready to deliver bangers whenever requested — we managed to secure the roster of artists *minutes* after we locked in the format internally LOL.
@@ -248,7 +252,7 @@ We also managed to gather a very reputable and varied panel of judges consisting
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3869519" style="background-image: url('/wiki/shared/avatars/Ideal.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3869519">Ideal</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/3869519">Ideal</a></p>
 
 Being a head mappooler not once, but twice, proved itself to be quite a challenge given the very tight deadlines we had to get everything done. Talking to composers about changes to songs to better fit a specific slot in the mappool, working with tens of different mappers and performing difficulty balancing and quality checks on their maps isn’t an easy task, especially for fully custom pools, involving tens of mappers! This was even more evident for me on [MACHKINTV](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943), for which I was the main coordinator, and it really highlighted how difficult it can be to get everything in order, due to being a 14 mapper megacollab.
 
