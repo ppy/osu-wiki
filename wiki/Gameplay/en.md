@@ -7,6 +7,7 @@
 - [Combo milestone](Combo_milestone)
 - [Combo multiplier effect](Combo_multiplier_effect)
 - [Comboburst](Comboburst)
+- [Daily challenge](Daily_challenge)
 - [Dash](Dash)
 - [Dash snapping](Dash_snapping)
 - [Drain time](/wiki/Beatmap/Drain_time)
