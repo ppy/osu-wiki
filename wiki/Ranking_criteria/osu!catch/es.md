@@ -24,7 +24,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 
 #### Pautas
 
-- **Todos las [frutas](/wiki/Gameplay/Hit_object/Fruit) deben representar un sonido existente en la música.** Esto suele ser un sonido distintivo, pero también puede representar un sonido continuo con un inicio o final indistinguible.
+- **Todas las [frutas](/wiki/Gameplay/Hit_object/Fruit) deben representar un sonido existente en la música.** Esto suele ser un sonido distintivo, pero también puede representar un sonido continuo con un inicio o final indistinguible.
 - **La última [fruta](/wiki/Gameplay/Hit_object/Fruit) de un [slider](/wiki/Gameplay/Hit_object/Juice_stream) debería [ajustarse](/wiki/Beatmapping/Snapping) según la estructura rítmica de la canción.** Por ejemplo, si la canción usa un compás cuaternario, se deberían usar ajustes de 1/4, 1/8 o 1/16. Si la canción usa un compás ternario, se deberían usar ajustes de 1/6 o 1/12.
 - **No se deberían usar [dashes](/wiki/Gameplay/Dash) e [hiperdashes](/wiki/Gameplay/Hyperdash) cuando el destino del dash o hiperdash esté cerca del borde izquierdo o derecho del campo de juego.** Esto crea un movimiento incómodo, ya que el catcher se detiene bruscamente al alcanzar el borde del campo de juego (x:16 a la izquierda y x:496 a la derecha).
 - **Los [combos](/wiki/Beatmapping/Combo) no deberían ser extremadamente largos.** Esto garantiza que la vista del jugador no se vea obstruida por las [frutas](/wiki/Gameplay/Hit_object/Fruit) apiladas en el plato.
