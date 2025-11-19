@@ -6,9 +6,9 @@
 
 ## Официальные конкурсы
 
-*Смотрите также: [Очки конкурсов](Contest_points), [Официальная поддержка конкурсов маппинга](Official_support)*
+*См. также: [Конкурсные очки](Contest_points), [Официальная поддержка конкурсов маппинга](Official_support)*
 
-Официальные конкурсы проводятся (или считаются официальными) [командой osu!](/wiki/People/osu!_team). Большинство официальных конкурсов имеют свою страницу в [списке конкурсов](https://osu.ppy.sh/community/contests).
+В официальных конкурсах задействована [команда osu!](/wiki/People/osu!_team) — она либо организует их, либо как-то ещё участвует. Большинство из таких конкурсов перечислены [в официальном списке](https://osu.ppy.sh/community/contests).
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
@@ -33,13 +33,13 @@
 | [#12](https://osu.ppy.sh/home/news/2016-03-04-beatmapping-contest-12-osu) | IAHN - Candy Luv | ![osu!][osu!] | ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340) | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [#1](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) |
 | [#13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) | BilliumMoto - HDHR | ![osu!][osu!] | ::{ flag=MY }:: [RyoKazuka](https://osu.ppy.sh/users/6258586) | ::{ flag=ID }:: [Fort](https://osu.ppy.sh/users/2805457) | ::{ flag=DE }:: [Pho](https://osu.ppy.sh/users/3624692) | [#1](https://osu.ppy.sh/home/news/2017-04-02-monthly-beatmapping-contest-13-results) |
 
-После долгого перерыва, Monthly Beatmapping Contest вернулся в январе 2020 года с совершенно новыми расписанием, правилами, процедурой голосования и наградами. Множество аспектов конкурса были сильно изменены, чтобы сделать конкурс более интересным м привлекательным. Вот некоторые из изменений:
+После долгого перерыва Monthly Beatmapping Contest вернулся в январе 2020 года с совершенно новыми расписанием, правилами, процедурой голосования и наградами. Множество аспектов конкурса были пересмотрены, чтобы сделать его интереснее и привлекательнее. Вот некоторые из изменений:
 
-- Вместо одной песни, теперь конкурс каждый месяц предлагает несколько песен от разных [Featured Artists](/wiki/People/Featured_Artists), из которых мапперы могут свободно выбирать и присылать свои карты.
-- Теперь участникам нужно присылать только одну сложность вместо целого мапсета.
-- Теперь участники должны придерживаться определённой темы карты и/или ограничений, установленных в правилах, например, "Сложность не должна превышать 4.00★" или "Каждый объект должен иметь оверлап с другим объектом".
+- Участники теперь могут выбирать для маппинга одну из нескольких песен от разных [Featured Artists](/wiki/People/Featured_Artists), чередующихся каждый месяц.
+- Участникам нужно присылать только одну сложность вместо целого мапсета.
+- Участники должны придерживаться определённой темы карты и/или ограничений, установленных в правилах, например: "Сложность не должна превышать 4.00★", или: "Каждый объект должен иметь оверлап с другим объектом".
 
-| Итерация конкурса | Featured Artist | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Результаты |
+| Итерация конкурса | Featured Artist | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Фаворит жюри | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [Январь 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [Февраль 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -56,11 +56,11 @@
 | [Апрель 2021 (osu!)](https://osu.ppy.sh/community/contests/122) | [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!][osu!] | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943307) | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [Апрель 2021 (osu!taiko)](https://osu.ppy.sh/community/contests/123) | [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!taiko][osu!taiko] | ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525) | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | *Н/П* | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [Апрель 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) | [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!catch][osu!catch] | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | *Н/П* | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
-| [May 2021 (osu!)](https://osu.ppy.sh/community/contests/127) | [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
+| [Май 2021 (osu!)](https://osu.ppy.sh/community/contests/127) | [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 
 ### [Aspire](Aspire)
 
-**Aspire** - уникальный конкурс маппинга, в котором участникам нужно было создать самую инновационную карту, без каких-либо ограничений [критериев ранкинга](/wiki/Ranking_criteria). Конкурс побуждает мапперов как можно лучше изучать технические возможности игры.
+**Aspire** - уникальный конкурс маппинга, в котором участникам нужно создать самую инновационную карту без оглядки на ограничения [критериев ранкинга](/wiki/Ranking_criteria). Aspire побуждает мапперов как можно лучше изучать технические возможности игры.
 
 | Номер конкурса | Песня | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -72,7 +72,7 @@
 
 ### [osu!taiko Featured Artist Cup](o!tFAC)
 
-**osu!taiko Featured Artist Cup** - конкурс маппинга в osu!taiko, в котором участникам нужно сделать карту с одной из песен одного из Featured Artists. Иногда конкурс добавляет особые ограничения/гиммики, чтобы проверить навыки мапперов.
+**osu!taiko Featured Artist Cup** - конкурс маппинга в osu!taiko, в котором участникам нужно сделать карту на песню одного из Featured Artists. Иногда в правила добавляются особые ограничения, чтобы проверить навыки мапперов.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -82,9 +82,9 @@
 
 ### [osu! Mapping Olympiad](Mapping_Olympiad)
 
-**osu! Mapping Olympiad** - конкурс маппинга, проводящийся как духовный преемник ранних (до 2020 года) Monthly Beatmapping Contests. В этом конкурсе, участники должны были либо создать карту со всеми [сложностями](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal, либо определённое количество сложностей для каждой песни в каждой соответствующей итерации.
+**osu! Mapping Olympiad** - конкурс маппинга, являющийся духовным преемником ранних (до 2020 года) Monthly Beatmapping Contests. В зависимости от номера конкурса, участники должны создать либо карту со всеми [сложностями](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal, либо определённое количество сложностей для каждой песни.
 
-| Номер конкурса | Песня(и) | Режим игры | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Результаты |
+| Номер конкурса | Песни | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2018-02-27-osu-mapping-olympiad-1) | [Kuba Oms - Beautiful Uncertainty (Redux)](https://osu.ppy.sh/beatmaps/artists/13), [OISHII - Honey Snowflakes](https://osu.ppy.sh/beatmaps/artists/17), и [cYsmix - Escapism](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969), и ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=UA }:: [Fallmorph](https://osu.ppy.sh/users/5720389), ::{ flag=SG }:: [Rokkea](https://osu.ppy.sh/users/2500099), и ::{ flag=CA }:: [Kibbleru](https://osu.ppy.sh/users/3193504) | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648), ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699), и ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | [#1](https://osu.ppy.sh/home/news/2018-06-23-osu-mapping-olympiad-1-results) |
 | [#2](https://osu.ppy.sh/home/news/2018-05-21-osu-mapping-olympiad-2-taiko) | [Thaehan - Bwa!](https://osu.ppy.sh/beatmaps/artists/7) | ![osu!taiko][osu!taiko] | ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430) | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | ::{ flag=ID }:: [Volta](https://osu.ppy.sh/users/4154071) | [#1](https://osu.ppy.sh/home/news/2019-09-07-osu!taiko-mapping-olympiad-2-results) |
@@ -96,7 +96,7 @@
 
 ### Community Mapping Contest
 
-**Community Mapping Contest**  - конкурс маппинга, в котором участникам можно присылать карту любой сложности в любом режиме игры, после чего все сложности победителей среди всех сложностей и режимов соединяются в одну карту.
+**Community Mapping Contest**  - конкурс маппинга, в котором участникам можно делать любую сложность в любом режиме игры. В конечном счёте все сложности, победившие в каждом режиме игры, объединяются в одну карту.
 
 | Номер конкурса | Песня | Режим игры | ![Gold crown][GCrown] (Easy) | ![Gold crown][GCrown] (Normal) | ![Gold crown][GCrown] (Hard) | ![Gold crown][GCrown] (Insane) | ![Gold crown][GCrown] (Extra) | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -108,9 +108,9 @@
 
 ### Mapping With Rewards
 
-**Mapping With Rewards**  - конкурс маппинга, в котором участники должны были создать лучшую карту (со всеми [сложностями](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal) для каждой из песен в каждой соответствующей итерации без строгих сроков.
+**Mapping With Rewards** - конкурс маппинга, в котором участники должны создать лучшую карту (со всеми [сложностями](/wiki/Beatmap/Difficulty#уровни-сложности), начиная от Easy или Normal) для любой из выбранных песен. Конкурс проводился без строгих ограничений по срокам.
 
-| Номер конкурса | Песня | Режим игры | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Результаты |
+| Номер конкурса | Песня | Режим игры | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1.1](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Manic](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | *Н/П* | *Н/П* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
 | [#1.2](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ::{ flag=JP }:: [Guy](https://osu.ppy.sh/users/91738) | *Н/П* | *Н/П* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
@@ -127,17 +127,17 @@
 
 ### [A Labour of Love](A_Labour_of_Love_Contest)
 
-**A Labour of Love** - командный конкурс, охватывающий несколько художественных дисциплин, в котором командам даётся задание - создать ремикс/аранжировку песни, хорошо известной в сообществе osu!, создать карту из этого ремикса и сделать оригинальный сториборд/фоновое видео как визуальное дополнение к этой карте. Как [указано в этом твите](https://twitter.com/ppy/status/1333362145224843264), конкурс проводится по образцу [ивентов THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) и подобных ему соревнований.
+**A Labour of Love** - командный конкурс, охватывающий несколько художественных дисциплин, в котором командам даётся задание: создать ремикс или аранжировку песни, хорошо известной в сообществе osu!, сделать карту на этот ремикс и дополнить её оригинальным сторибордом или фоновым видео. Как указано в [этом твите](https://twitter.com/ppy/status/1333362145224843264), конкурс проводится по образцу [ивентов THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) и подобных соревнований.
 
-| Номер конкурса | Ремикс песни | ![Gold crown][GCrown] (Победитель) | ![Silver crown][SCrown] (Второе место) | Победитель по мнению сообщества | Результаты |
+| Номер конкурса | Песня для ремикса | ![Gold crown][GCrown] (Победитель) | ![Silver crown][SCrown] (Второе место) | Победитель по мнению сообщества | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | [Kuba Oms - My Love](https://osu.ppy.sh/beatmaps/artists/13) | extremely valid (::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471), ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), и ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494), ::{ flag=UA }:: [wajinshu](https://osu.ppy.sh/users/6339790), ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), и ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046), ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223), ::{ flag=CA }:: [Chompy](https://osu.ppy.sh/users/7427035), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), и ::{ flag=CA }:: [Zer0-G](https://osu.ppy.sh/users/12577911)) | [#1](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
 
 ### Best of/Community Choice
 
-**Best of/Community Choice** - конкурс с публичным голосованием, который регулярно проводится для выяснения самых популярных карт <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> в глазах сообщества osu! в каждом году.
+**Best of/Community Choice** - ежегодный конкурс с публичным голосованием, который проводится для выяснения самых популярных карт <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> по мнению сообщества osu!.
 
-Вначале конкурс назывался "Best of", поскольку главной целью конкурса было привлечение участников к голосоваию за то, что они считают "лучшей картой года"; однако, к ростом количества игроков со временем, конкурс неизбежно превратился в ежегодный конкурс популярности, что заставило перезапустить конкурс под новым названием "Community Choice" в 2017 году.
+Вначале конкурс назывался "Best of", поскольку главной его целью было привлечение участников к голосованию за лучшую, по их мнению, карту года. С ростом общего числа игроков конкурс постепенно превратился в голосование за самую популярную карту, и в итоге его перезапустили в 2017 г. под новым названием "Community Choice".
 
 | Год | Режим игры | ![Gold crown][GCrown] (osu!) | ![Gold crown][GCrown] (osu!taiko) | ![Gold crown][GCrown] (osu!catch) | ![Gold crown][GCrown] (osu!mania) | Результаты |
 | :-: | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -156,7 +156,7 @@
 
 ### Fan Art Contest
 
-**Fan Art Contest** - конкурс артов, в котором участвующие художники из сообщества должны были нарисовать лучший фан-арт для osu!, включая [маскоты игры](/wiki/Mascots) на разные темы и концепты.
+**Fan Art Contest** - конкурс артов, в котором художники из сообщества должны нарисовать лучший фан-арт для osu!, помещая [маскотов игры](/wiki/Mascots) в разные ситуации и концепции.
 
 | Номер конкурса | Название | Тема | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -182,7 +182,7 @@
 | [#20](https://osu.ppy.sh/home/news/2019-09-06-a-most-manic-contest) | A Most Manic Art Contest | Новый дизайн маскота osu!mania | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) | ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) | [#1](https://osu.ppy.sh/home/news/2019-10-21-most-manic-art-contest-voting-results) |
 | [#21](https://osu.ppy.sh/home/news/2019-10-09-halloween-fanart-contest) | Halloween 2019 Fanart Contest | Хеллоуин | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=NZ }:: [SJPumpkin](https://osu.ppy.sh/users/4840900) | ::{ flag=NL }:: [157](https://osu.ppy.sh/users/9315038) | [#1](https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special) |
 | [#22](https://osu.ppy.sh/home/news/2019-11-12-winter-2019-fanart-contest) | Winter 2019 Fanart Contest | Зима | ::{ flag=NL }:: [157](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Asatte](https://osu.ppy.sh/users/12323239) | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | [#1](https://osu.ppy.sh/home/news/2019-12-10-winter-is-here) |
-| [#23](https://osu.ppy.sh/home/news/2020-04-02-spring-indoors-2020-fanart-contest) | Spring Indoors 2020 Fanart Contest | Маскоты osu! провводят время дома во время весны | ::{ flag=US }:: [TofuMang](https://osu.ppy.sh/users/4817223) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=GB }:: [snowyani2000](https://osu.ppy.sh/users/2691590) | [#1](https://osu.ppy.sh/home/news/2020-04-24-spring-indoors-2020-fanart-contest-results) |
+| [#23](https://osu.ppy.sh/home/news/2020-04-02-spring-indoors-2020-fanart-contest) | Spring Indoors 2020 Fanart Contest | Как маскоты osu! проводят время дома весной | ::{ flag=US }:: [TofuMang](https://osu.ppy.sh/users/4817223) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=GB }:: [snowyani2000](https://osu.ppy.sh/users/2691590) | [#1](https://osu.ppy.sh/home/news/2020-04-24-spring-indoors-2020-fanart-contest-results) |
 | [#24](https://osu.ppy.sh/home/news/2020-07-01-summer-theme-park-2020-fanart-contest) | Summer Theme Park 2020 Fanart Contest | Маскоты в летнем тематическом парке | ::{ flag=US }:: [Shuuzo](https://osu.ppy.sh/users/3661521) | ::{ flag=US }:: [AnimeAttics](https://osu.ppy.sh/users/14876991) | ::{ flag=DE }:: [Evaine](https://osu.ppy.sh/users/7295733) | [#1](https://osu.ppy.sh/home/news/2020-07-23-summer-theme-park-fanart-contest-results) |
 | [#25](https://osu.ppy.sh/home/news/2020-09-18-halloween-2020-fanart-contest) | Halloween 2020 Fanart Contest | Хеллоуин | ::{ flag=BR }:: [CupcakeCrazier](https://osu.ppy.sh/users/12063010) | ::{ flag=PH }:: [RianneRyan](https://osu.ppy.sh/users/17165886) | ::{ flag=NZ }:: [SJPumpkin](https://osu.ppy.sh/users/4840900) | [#1](https://osu.ppy.sh/home/news/2020-10-11-halloween-fanart-contest-results) |
 | [#26](https://osu.ppy.sh/home/news/2020-09-11-winter-sports-2020-fanart-contest) | Winter Sports 2020 Fanart Contest | Зимние виды спорта | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=ID }:: [CheekyIfa](https://osu.ppy.sh/users/14406940) | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | [#1](https://osu.ppy.sh/home/news/2020-12-02-winter-2020-arrives) |
@@ -201,19 +201,19 @@
 | [#39](https://osu.ppy.sh/home/news/2024-03-01-spring-fanart-contest) | Spring 2024 Fanart Contest | Весна | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) | [#1](https://osu.ppy.sh/home/news/2024-03-30-spring-fanart-results), [#2](https://osu.ppy.sh/community/contests/205) |
 | [#40](https://osu.ppy.sh/home/news/2024-06-14-aerial-antics-art-contest) | Aerial Antics Art Contest | Маскоты osu! занимаются небесными делами | ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601) | ::{ flag=TR }:: [mocapixel](https://osu.ppy.sh/users/11596939) | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | [#1](https://osu.ppy.sh/home/news/2024-07-15-aerial-antics-art-results), [#2](https://osu.ppy.sh/community/contests/215) |
 | [#41](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest) | Autumn 2024 Fanart Contest | Осень | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534) | [#1](https://osu.ppy.sh/home/news/2024-10-09-autumn-2024-fanart-results), [#2](https://osu.ppy.sh/community/contests/221) |
-| [#42](https://osu.ppy.sh/home/news/2024-12-03-midnight-moment-art-contest) | Midnight Moment Art Contest | Маскоты osu! разделяют момент зимним вечером | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) | [#1](https://osu.ppy.sh/home/news/2025-01-01-midnight-moment-art-contest-results), [#2](https://osu.ppy.sh/community/contests/226) |
+| [#42](https://osu.ppy.sh/home/news/2024-12-03-midnight-moment-art-contest) | Midnight Moment Art Contest | Маскоты osu! зимним вечером | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) | [#1](https://osu.ppy.sh/home/news/2025-01-01-midnight-moment-art-contest-results), [#2](https://osu.ppy.sh/community/contests/226) |
 
 ### Locus
 
-**Locus 2025** - многослойный конкурс, начавшийся в начале 2025 года, созданный для сплочения креативных кружков по osu! вместе, в котором участники должны создать абсолютно новые карты с музыкой и визуалом.
+**Locus 2025** - многослойный конкурс, начавшийся в начале 2025 года и созданный для сплочения креативных кружков по osu!. Его участники должны создать совершенно новые карты с музыкой и визуалом.
 
 | Год | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
-| [2025](/wiki/Contests/Locus/2025) | *Будет определено* | *Будет определено* | *Будет определено* | *Будет определено* |
+| [2025](/wiki/Contests/Locus/2025) | *Пока неизвестно* | *Пока неизвестно* | *Пока неизвестно* | *Пока неизвестно* |
 
 ### osu! Beatmap Blueprints Contest
 
-*osu! Beatmap Blueprints Contest* - одноразовый конкурс, проводимый в ознаменование запуска [наклеек Beatmap Blueprints](https://osu.ppy.sh/store/products/9) в [магазине osu!](https://osu.ppy.sh/store/listing). В этом конкурсе, участники соревновались в создании лучшей наклейки карты в любом визуальном формате, используя все ресурсы, предоставленные в пакете мерча Beatmap Blueprints.
+*osu! Beatmap Blueprints Contest* - одноразовый конкурс в честь выпуска [наклеек Beatmap Blueprints](https://osu.ppy.sh/store/products/9) в [магазине osu!](https://osu.ppy.sh/store/listing). Участники соревнуются в создании лучшей наклейки карты в любом визуальном формате, используя ресурсы, предоставленные в пакете мерча Beatmap Blueprints.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -221,7 +221,7 @@
 
 ### osu!idol
 
-**osu!idol** - конкурс певцов, в котором участники со всего сообщества соревнуются в создании лучшего кавера (в одиночку либо с партнёром) среди множества стадий оценки и голосования сообщества. Конкурс назван в честь [франшизы Idols](https://ru.wikipedia.org/wiki/Idol_(телепроект)) и в основном вдохновлен различными ТВ-конкурсами пения.
+**osu!idol** - конкурс пения, в котором участники соревнуются в исполнении лучшего кавера (в одиночку либо с партнёром) и участвуют во множестве стадий оценки и голосования сообщества. Конкурс назван в честь [франшизы Idols](https://ru.wikipedia.org/wiki/Idol_(телепроект)) и в основном вдохновлен различными ТВ-конкурсами пения.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Победившая песня | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -235,7 +235,7 @@
 
 ### osu!remix
 
-**osu!remix** - конкурс ремиксов, в котором музыканты со всего сообщества должны создать лучшей ремикс выбранной песни, которая хорошо известна благодаря сообществу osu! в том или ином виде. Это первый конкурс, который проводился через страницу [списка конкурсов](https://osu.ppy.sh/community/contests).
+**osu!remix** - конкурс, в котором музыканты должны сделать лучший ремикс заранее выбранной песни, которая хорошо известна сообществу osu!. Это первый конкурс, который проводился через страницу [списка конкурсов](https://osu.ppy.sh/community/contests).
 
 | Номер конкурса | Ремикс песни | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -243,7 +243,7 @@
 
 ### [Skinning Contest](Skinning_Contest)
 
-**Skinning Contest**- конкурс скинов, в котором креаторы со всего сообщества соревнуются в создании лучшего скина за ограниченное время.
+**Skinning Contest**- конкурс скинов, в котором мастера со всего сообщества соревнуются в создании лучшего скина за ограниченное время.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -254,7 +254,7 @@
 
 ### Skin of the Year
 
-**Skin of the Year** - ежегодный конкурс скиннинга, в котором сообщество выбирает лучший [готовый скин](https://osu.ppy.sh/community/forums/109), который был опубликован в любой год.
+**Skin of the Year** - ежегодный конкурс скиннинга, в котором сообщество выбирает лучший [готовый скин](https://osu.ppy.sh/community/forums/109), опубликованный в указанный год.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -272,13 +272,13 @@
 
 ## Конкурсы сообщества
 
-*Неофцициальные конкурсы* - конкурсы, проводящиеся участниками сообщества. 
+*Неофициальные конкурсы* - конкурсы, проводящиеся участниками сообщества. 
 
 ### [Mapping to Pander: Taiko](M2P)
 
-**Mapping to Pander: Taiko** - серия конкурсов по маппингу в osu!taiko с двумя основными особенностями: здесь есть только один судья за итерацию, и участники могут сделать карту под любую песню.
+**Mapping to Pander: Taiko** - серия конкурсов по маппингу в osu!taiko с двумя главными особенностями: наличие одного-единственного судьи и абсолютная свобода в выборе песни.
 
-Цель конкурса проста: участникам нужно создать карту, которая больше всего понравится судье. Судьям не дают никаких критериев; они сами решают, как они оценивают карты, либо создавая свои критерии, либо просто оценивая карты от лучшей к худшей.
+Цель конкурса проста: участникам нужно создать карту, которая больше всего понравится судье. Судьям не дают никаких критериев: они сами решают, как оценивать публикации, либо создавая свои критерии, либо просто сортируя карты по качеству.
 
 | Номер конкурса | Судья | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -289,7 +289,7 @@
 
 ### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
-**osb! Storyboarding Contest** - конкурс сторибордов, в котором участники соревнуются в создании лучшего сториборда. Конкурс проводится сообществом сторибордеров под названием osu! storyboarder banquet.
+**osb! Storyboarding Contest** - конкурс, в котором участники соревнуются в создании лучшего сториборда. Конкурс проводится сообществом сторибордеров под названием osu! storyboarder banquet.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -299,7 +299,7 @@
 
 <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-**osu! Beatmapping World Championship** - командный конкурс маппинга, в котором команды, состоящие из мапперов из одной страны, региона, или даже континента (в особых случаях) соревнуются в маппинге друг против друга среди множества песен и стадий. Конкурс известен тем, что использует только песни из библиотеки [Featured Artist](/wiki/People/Featured_Artists) во время его проведения.
+**osu! Beatmapping World Championship** - конкурс, в котором команды, состоящие из мапперов из одной страны, региона, или даже с одного континента (в особых случаях) соревнуются друг против друга в рамках множества песен и стадий. Конкурс известен тем, что в нём используются только песни из библиотеки [Featured Artist](/wiki/People/Featured_Artists).
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -317,9 +317,9 @@
 
 ### Pending Cup
 
-**Pending Cup** - конкурс маппинга, который ежегодно проводится китайским маппинг-сообществом. Каждый год, конкурс выбирает три песни и/или категории, в которых мапперы могут свободно участвовать и отправлять свои карты.
+**Pending Cup** - конкурс маппинга, который ежегодно проводится китайским маппинг-сообществом. В каждой итерации конкурса есть до трёх песен и/или категорий для свободного участия.
 
-Несмотря на то, что Pending Cup изначально был рассчитан в основном на китайскоговорящих участников сообщества, конкурс также был расширен для внедрения карт от других мапперов со всего мира.
+Несмотря на то, что Pending Cup изначально был рассчитан в основном на китайскоговорящих участников сообщества, позднее он был расширен до участия мапперов со всего мира.
 
 #### [Pending Cup \#1 (2013)](https://osu.ppy.sh/community/forums/topics/135492)
 
@@ -386,7 +386,7 @@
 
 ### Newspaper Cup
 
-**Newspaper Cup** - конкурс маппинга, похожий по природе на Pending Cup, но с усиленным акцентом на новичков в маппинге. Как и с Pending Cup, конкурс ежегодно проводится китайским маппинг-сообществом и также был расширен от конкурса, преимущественно созданного для китайскоговорящих членов сообщества, до всемирного конкурса.
+**Newspaper Cup** - конкурс маппинга, похожий по природе на Pending Cup, но с акцентом на новичков в маппинге. Как и с Pending Cup, конкурс ежегодно проводится китайским маппинг-сообществом и также был первоначально ориентирован на китайскоговорящих мапперов, но стал охватывать весь мир.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
@@ -439,7 +439,7 @@
 
 ### Russian Community Beatmapping Contest
 
-**Russian Community Beatmapping Contest** - конкурс маппинга для русскоговорящих членов сообщества без региональных ограничений, что означает, что все, кто может говорить на русском языке, могут участвовать.
+**Russian Community Beatmapping Contest** - конкурс маппинга для русскоговорящих членов сообщества без региональных ограничений: участвовать могут все, кто говорит на русском языке.
 
 | Номер конкурса | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Результаты |
 | :-: | :-- | :-- | :-- | :-- |
@@ -450,13 +450,13 @@
 
 ## Notes
 
-[^pending-cup-8-fa]: Категория Featured Artist даёт мапперам выбор между двумя песнями для маппинга: Zekk - Re\_construct и Shuu no Hazama \[Rainshower\].
-[^pending-cup-8-vocal]: Категория Vocal даёт мапперам выбор между двумя песнями для маппинга: nonoc - memento и DUSTCELL - DERO.
-[^pending-cup-8-instrumental]: Категория Instrumental даёт мапперам выбор между двумя песнями для маппинга: onoken - Felys final remix и Nekomata Master - The Sky of Sadness.
-[^newspaper-cup-6-vocal]: Категория Vocal даёт мапперам выбор между двумя песнями для маппинга: Isekai Joucho - Kyoukankaku Obake и Kenshi Yonezu - Shunrai.
-[^newspaper-cup-6-instrumental]: Категория Instrumental даёт мапперам выбор между двумя песнями для маппинга: Morimori Atsushi - Funkotsu Saishin Casino и Fractal Dreamers - Celestial Horizon.
-[^newspaper-cup-7-vocal]: Категория Vocal даёт мапперам выбор между двумя песнями для маппинга: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, и Mafumafu - SNOBBISM.
-[^newspaper-cup-7-instrumental]: Категория Instrumental даёт мапперам выбор между двумя песнями для маппинга: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, и roop - Chatblanc.
+[^pending-cup-8-fa]: В категории Featured Artist можно выбирать между двумя песнями: Zekk - Re\_construct и Shuu no Hazama \[Rainshower\].
+[^pending-cup-8-vocal]: В категории Vocal можно выбирать между двумя песнями: nonoc - memento и DUSTCELL - DERO.
+[^pending-cup-8-instrumental]: В категории Instrumental можно выбирать между двумя песнями: onoken - Felys final remix и Nekomata Master - The Sky of Sadness.
+[^newspaper-cup-6-vocal]: В категории Vocal можно выбирать между двумя песнями: Isekai Joucho - Kyoukankaku Obake и Kenshi Yonezu - Shunrai.
+[^newspaper-cup-6-instrumental]: В категории Instrumental можно выбирать между двумя песнями: Morimori Atsushi - Funkotsu Saishin Casino и Fractal Dreamers - Celestial Horizon.
+[^newspaper-cup-7-vocal]: В категории Vocal можно выбирать между пятью песнями: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, и Mafumafu - SNOBBISM.
+[^newspaper-cup-7-instrumental]: В категории Instrumental можно выбирать между пятью песнями: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, и roop - Chatblanc.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
