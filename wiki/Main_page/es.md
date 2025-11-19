@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 ---
 
 <div class="wiki-main-page__blurb">
@@ -39,7 +37,7 @@ Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conce
 
 [Modos de juego](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmaps](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Puntuación](/wiki/Gameplay/Score) • [Repeticiones](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Client/Interface/Multiplayer)
+[Beatmaps](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Puntuación](/wiki/Gameplay/Score) • [Repeticiones](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Client/Interface/Multiplayer) • [Desafío diario](/wiki/Gameplay/Daily_challenge) • [Juego rápido](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -63,7 +61,7 @@ La clasificación es el proceso de obtener una tabla de clasificación para un b
 
 [Envío](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Criterios de clasificación](/wiki/Ranking_criteria): [Metadatos](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Criterios de clasificación](/wiki/Ranking_criteria): [Simplificados](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Metadatos](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -115,9 +113,9 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, mantenimiento y gestión de la comunidad: su esfuerzo, tiempo y dedicación hacen que el juego viva y prospere.
 
-[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Technical Support Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Technical Support Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) • [Comité de torneos](/wiki/People/Tournament_Committee)
 
-[Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupos de usuarios](/wiki/People/User_groups) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Completacionistas](/wiki/People/Completionists) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupos de usuarios](/wiki/People/User_groups) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Completacionistas](/wiki/People/Completionists) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -126,7 +124,7 @@ osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, 
 
 Interactúa con osu! a través de otras aplicaciones y medios, o contribuir a su desarrollo.
 
-[API](/wiki/osu!api) • [Cuenta bot](/wiki/Bot_account) • [Directrices de identidad de marca](/wiki/Brand_identity_guidelines) • [Servidor oficial de Discord de osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
+[Mensajes de anuncio](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Cuenta bot](/wiki/Bot_account) • [Directrices de identidad de marca](/wiki/Brand_identity_guidelines) • [Servidor oficial de Discord de osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!)
 
 </div>
 <div class="wiki-main-page-panel">
