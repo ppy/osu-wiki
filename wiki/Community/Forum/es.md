@@ -7,6 +7,8 @@ tags:
   - foros
   - subforos
   - subforo
+outdated_translation: true
+outdated_since: 0ef66a3313e04c32af901c8c1ec376fa6dacf300
 ---
 
 # Foros

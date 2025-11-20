@@ -301,6 +301,8 @@ GBC 2025 春季周常活动由 GB 成员和多位社区成员举办。
 | ::{ flag=HK }:: [Popy](https://osu.ppy.sh/users/30829023) | 21 | 17 | ::{ flag=CN }:: [MyAngelTlipoca](https://osu.ppy.sh/users/31524315) | ↑ |
 | ::{ flag=CN }:: [WingsOfRain](https://osu.ppy.sh/users/27029245) | 16 | FF | ::{ flag=HK }:: [beiyi](https://osu.ppy.sh/users/32397022) | [#1](https://osu.ppy.sh/community/matches/118116688) |
 | ::{ flag=CN }:: [Sebastian2817](https://osu.ppy.sh/users/34040907) | 21 | **26** | **::{ flag=CN }:: [\[Crz\]IsxI](https://osu.ppy.sh/users/18042127)** | ↑ |
+| ::{ flag=CN }:: [MSCMoon](https://osu.ppy.sh/users/32399548) | 16 | **32** | **::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518)** | [#1](https://osu.ppy.sh/community/matches/118129212) |
+| ::{ flag=CN }:: [Yugamiii](https://osu.ppy.sh/users/32635363) | 15 | 17 | ::{ flag=CN }:: [Real-1zE](https://osu.ppy.sh/users/30885120) | ↑ |
 
 2025 年 5 月 18 日，星期日
 
