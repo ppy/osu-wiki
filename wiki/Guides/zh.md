@@ -32,7 +32,6 @@
 ## 游玩
 
 - [如何使用偏移量设置向导](How_to_use_the_Offset_Wizard)
-- [数位板购买指南](Tablet_purchase)
 - [新手教程](Beginner's_tutorial)
 
 ## 制作皮肤
