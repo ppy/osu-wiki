@@ -87,7 +87,7 @@ tags:
    - Quarterfinals, Semifinals, Finals and Grand Finals: 18 beatmaps
 3. Each mappool will consist of 4 brackets: No Mod, Hidden, Hard Rock and Double Time.
 4. Each bracket will be played with the respective mods enabled for all players.
-5. The tiebreaker will be played under Free Mod conditions, with no mods enforced.
+5. The tiebreaker will be played under Free Mod conditions. Players may choose a combination of Hidden and/or Hard Rock, but are still required to use No Fail.
 
 ### Bracket stage procedure
 
