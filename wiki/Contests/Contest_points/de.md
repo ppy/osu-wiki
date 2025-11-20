@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b88985240688c5941723e0c576b14fe1143eaabd
+---
+
 # Wettbewerbspunkte
 
 **Wettbewerbspunkte** sind Punkte, die eine Belohnung in offiziellen Mapping-Wettbewerben darstellen. Nutzer, die **6 Punkte** angesammelt haben, bekommen möglicherweise den Titel *Elite Mapper* verliehen.

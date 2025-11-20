@@ -21,7 +21,7 @@ Cuando se propone un nuevo cambio en el cálculo de las dificultades en [GitHub]
 
 ## Comunicación
 
-El comité de puntos de rendimiento opera principalmente en el [servidor de Discord Performance Points](https://discord.gg/aqPCnXu), aunque algunos modos de juego también cuentan con [servidores independientes](/wiki/Community/Discord_servers#servidores-relacionados-con-el-desarrollo-de-la-comunidad). El comité también tiene una cuenta de [Twitter](https://x.com/pp_committee) que se usa para anuncios oficiales y noticias relacionadas con el cálculo de las dificultades.
+El comité de puntos de rendimiento opera principalmente en el [servidor de Discord Performance Points](https://discord.gg/aqPCnXu), aunque algunos modos de juego también cuentan con [servidores independientes](/wiki/Community/Discord_servers#desarrollo-de-la-comunidad). El comité también tiene una cuenta de [Twitter](https://x.com/pp_committee) que se usa para anuncios oficiales y noticias relacionadas con el cálculo de las dificultades.
 
 ## Mantenedores de puntos de rendimiento
 
