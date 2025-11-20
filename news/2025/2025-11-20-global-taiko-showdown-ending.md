@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Global Taiko Showdown Concludes
+title: Global Taiko Showdown Ending
 date: 2025-11-20 15:00:00 +0000
 ---
 
 After one final hectic year of hosting 6 tournaments and a mapping contest between January to August, the Global Taiko Showdown tournament series is finally over on osu!.
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/banner.jpg)
 
 It has been a few months since we've finished it all up, but let's go through our last three badged events together, shall we?
 
@@ -31,7 +31,7 @@ This is a long article, so feel free to skip around:
 
 ## Squad Global Taiko Showdown 2025 results
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/sgts_podium.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/sgts_podium.jpg)
 
 Let's start this off in one simple way: **Congratulations to Japan't on winning this final edition of the Squad Global Taiko Showdown, being the first ever non-fully Japanese team to ever win this tournament!** With this win, osu!taiko legend ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) also adds a new achievement to their already impressive track record: winning an edition of every major open-rank GTS tournament to exist!
 
@@ -41,7 +41,7 @@ They have all shown some of the highest level of gameplay osu!taiko can showcase
 
 ## Mapping Global Taiko Showdown 2025 results
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/mgts_podium.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/mgts_podium.jpg)
 
 Let's now go to another spectrum of our online events, with the conclusion to our second and final mapping contest, with it seeing the team known as **唐揚げ弁当** take victory home, with **we go running** trailing them for second place, and **uhhasdl;fh ads;fhlasd;lhjg** securing a very respectable third place!
 
@@ -55,7 +55,7 @@ You can find the maps by all of these teams here down below!
 
 ## cavoe's osu! event's Global Taiko Showdown 2025 results
 
-![COEGTS's three podium players, along with TaikoMom, co-organizer of COEGTS.](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/coegts_podium.jpg)
+![COEGTS's three podium players, along with TaikoMom, co-organizer of COEGTS.](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/coegts_podium.jpg)
 
 The final GTS tournament finished with a podium of very familiar faces: players who sail from different horizons, yet would be recognised by anyone taking even the tiniest of interests in the osu!taiko scene. Let's kick things off with our heartfelt congratulations to ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012), the final GTS champion!
 
@@ -75,7 +75,7 @@ Each stage's tiebreaker beatmap had its own composition, but we are only present
 
 #### Finals tiebreaker
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/dem_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/dem_banner.jpg)
 
 Legendary composer **[Hommarju](https://hommarju.wixsite.com/home)** launched an onslaught on the six squads who were still in the running during SGTS2025 Finals with their 5-minute composition **Deus Ex Machina (Final Attack Mix)**! Clocking at a 170–200 BPM range and an alarming 8 stars of difficulty, ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122)'s take on the song was played in the upper bracket's Finals match to decide the winner in an incredible 8-mod face-off!
 
@@ -84,7 +84,7 @@ Legendary composer **[Hommarju](https://hommarju.wixsite.com/home)** launched an
 
 #### Grand Finals tiebreaker
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/paracausal_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/paracausal_banner.jpg)
 
 Loved equally as he is feared by all rhythm game enjoyers, long-time featured artist **[Camellia](https://osu.ppy.sh/beatmaps/artists/31)** returns for the third time to a GTS-related event! Drawing inspiration from his earlier albums, he worked towards nuturing a song that would serve as the final composition of the 2025 edition of SGTS... which blossomed into the behemoth that is **Paracausal Cocoon Protocol**.
 
@@ -95,7 +95,7 @@ Ranging from 64 to a whopping **370** BPM, breaking through the 9-star barrier a
 
 ### Mapping Global Taiko Showdown 2025
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/mgts_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/mgts_banner.jpg)
 
 MGTS featured a line-up of three songs, of which two had to be mapped. The contestants could tread down two different paths: take on **axis::BREAK** by **X/Y/Z** (a trio uniting the talents of **[Foodbot](https://soundcloud.com/foodbot)**, **[mrcool909090](https://soundcloud.com/mrcool909090)** and Featured Artist **[SiLiS](https://osu.ppy.sh/beatmaps/artists/434)**), or create something out of French duo **[Faxyne](https://soundcloud.com/faxyne)** and **[blobdash](https://soundcloud.com/blobdash)**'s composition, **Hatching**. In either case, they also had to tackle **ILLUSORYPROGRAM97**, a 5-minute collaborative effort between **[Kyotsugyon](https://soundcloud.com/kyotsugyon)** and **[Sh0wtime](https://soundcloud.com/sh0wtimelol)**.
 
@@ -140,7 +140,7 @@ Once again, we can only encourage you to support the effort of all of the artist
 
 #### Main mappool tiebreaker
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/machkin_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/machkin_banner.jpg)
 
 **[REAL SHIT BASTARDS](https://soundcloud.com/realshitbastards)**, the duo unit encompassing the talents of **[4nzu](https://soundcloud.com/4nzu2)** and **[Supire](https://soundcloud.com/nh_supaia)**, undertook the effort of composing what would become an eight-minute-long song which had to be the culmination of everything GTS-related. Under the direction of mappooler and set host ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519), 14 mappers were then tasked to make something out of that composition.
 
@@ -238,7 +238,7 @@ To close off this article, we have contacted a staff member from each event, as 
     }
 </style>
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/sgts_staff_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/sgts_staff_banner.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -260,7 +260,7 @@ Thank you to all the other members of the SGTS staff team as well.
 
 ### Mapping Global Taiko Showdown 2025
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/mgts_staff_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/mgts_staff_banner.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -281,7 +281,7 @@ We also managed to gather a very reputable and varied panel of judges consisting
 
 ### cavoe's osu! event's Global Taiko Showdown 2025
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/coegts_staff_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/coegts_staff_banner.jpg)
 
 <div class="news-chat-quote__text-container">
 
@@ -295,7 +295,7 @@ That aside, I can say that working with everyone was a pleasure - composers, map
 
 </div>
 
-![](/wiki/shared/news/2025-11-20-global-taiko-showdown-concludes/coegts_winner_banner.jpg)
+![](/wiki/shared/news/2025-11-20-global-taiko-showdown-ending/coegts_winner_banner.jpg)
 
 <div class="news-chat-quote__text-container">
 
