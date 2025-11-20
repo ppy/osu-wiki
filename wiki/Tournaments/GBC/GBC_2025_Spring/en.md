@@ -309,6 +309,8 @@ Sunday, 18 May 2025
 | **::{ flag=CN }:: [LiangFenFan](https://osu.ppy.sh/users/15183087)** | **23** | 15 | ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983) | ↑ |
 | **::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902)** | **30** | **18** | **::{ flag=CN }:: [shadiaojunshi](https://osu.ppy.sh/users/29165753)** | [#1](https://osu.ppy.sh/community/matches/118127286) |
 | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) | 16.2 | 16.1 | ::{ flag=CN }:: [verysour](https://osu.ppy.sh/users/32358269) | ↑ |
+| ::{ flag=CN }:: [MSCMoon](https://osu.ppy.sh/users/32399548) | 16 | **32** | **::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518)** | [#1](https://osu.ppy.sh/community/matches/118129212) |
+| ::{ flag=CN }:: [Yugamiii](https://osu.ppy.sh/users/32635363) | 15 | 17 | ::{ flag=CN }:: [Real-1zE](https://osu.ppy.sh/users/30885120) | ↑ |
 
 ### Discord division
 
