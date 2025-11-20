@@ -18,7 +18,7 @@ Inactive beatmaps that have been in this category for 4 weeks are automatically 
 
 ### Qualified {id=qualified}
 
-Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defence in which any flaws and mistakes that might have slipped through can be fixed.
+Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/Beatmap_Nominators)[^noms-needed] who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defence in which any flaws and mistakes that might have slipped through can be fixed.
 
 Qualified beatmaps have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted when it moves out of Qualified. They use the check icon (![](/wiki/shared/status/qualified.png)) in the song selection screen.
 
@@ -49,3 +49,7 @@ The [Qualified](#qualified) category was introduced in August 2014 during [Restr
 ### Unranked beatmaps statistics
 
 After [7 August 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmaps from [Graveyard](#graveyard), as well as [Work in Progress and Pending](#wip-and-pending), started contributing to users' play count and total score. They also received play statistics on their individual pages (play count, success rate, and points of failure), which was only shown before for beatmaps from [Qualified](#qualified) and [Ranked](#ranked).
+
+## References
+
+[^noms-needed]: For beatmaps with only one primary [game mode](/wiki/Game_mode) among all [difficulties](/wiki/Beatmap#difficulty), two nominations for the primary game mode are needed. For hybrid sets (beatmaps with difficulties across multiple game modes), two nominations for the main game mode and one for each subsidiary one are required.
