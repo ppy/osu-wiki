@@ -133,7 +133,7 @@ Saat ini, data tertentu seperti beatmap, skin, skor, tayangan ulang, dan koleksi
 
 #### Apabila saya mengimpor beatmap saya ke lazer, apakah ruang penyimpanan yang terpakai akan berlipat ganda?
 
-Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#dengan-*hard-link*) untuk mencegah terpakainya ruang penyimpanan tambahan.
+Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#melalui-hard-link) untuk mencegah terpakainya ruang penyimpanan tambahan.
 
 Apabila tidak, ruang penyimpanan yang digunakan akan berlipat ganda.
 
