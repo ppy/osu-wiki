@@ -5,6 +5,7 @@ tags:
   - keyboard
   - shortcuts
   - pintasan
+no_native_review: true
 ---
 
 # Daftar tombol pintasan
