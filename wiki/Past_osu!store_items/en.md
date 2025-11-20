@@ -73,7 +73,11 @@ The collection featured a range of products such as:
 
 The **osu!tablet** was an official osu!-branded graphic tablet made in partnership with the electronics company [HUION](https://www.huion.com/). It was designed by ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) and was released as an affordable alternative for those who wanted to purchase a graphic tablet simply to play osu!.
 
-The product ran for two versions: the original "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", which was first sold in 2013, and the updated [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) in 2016 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
+The product ran for two versions: the original "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", which was first sold in 2013, and the updated [osu!tablet v2](https://twitter.com/ppy/status/744778218524160000) in 2016 before it was discontinued in 2017 citing [a shift in development focus](https://twitter.com/ppy/status/846190076853870592).
+
+![osu! tablet v2](img/osu-tablet-v2.jpg)
+
+The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 featured the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
 
 ## osu! beatmap blueprints
 

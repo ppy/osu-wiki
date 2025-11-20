@@ -11,7 +11,7 @@ tags:
 
 *See also: [Beatmap § Downloading beatmaps](/wiki/Beatmap#downloading-beatmaps)*
 
-By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, and [mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags). Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
+By default, any text entered at the [song select screen](/wiki/Client/Interface#song-select) or in the website's search field is matched against a beatmap's song artist, title, difficulty creator and name, source, [mapper tags](/wiki/Beatmap/Beatmap_tags#mapper-tags), and [user tags](/wiki/Beatmap/Beatmap_tags#user-tags). Entering a single number will search for beatmaps and difficulties with a specific [identifier](/wiki/Beatmap#identification). All queries are case-insensitive.
 
 Beatmap metadata fields can be compared against specific values for more granular filtering, using the following operators:
 
@@ -93,6 +93,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `bpm` | [Song tempo](/wiki/Music_theory/Tempo) |
 | `length` | [Play time](/wiki/Beatmap/Play_time) in seconds |
 | `key`, `keys` | Number of keys (osu!mania and converted beatmaps only) |
+| `ln`, `lns` | Percent of notes that are long notes (osu!mania and converted beatmaps only) |
 | `status` | Beatmap status. Value can be `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, or `loved`, or `r`/`a`/`p`/`n`/`u`/`l` for short. Allows multiple values separated by commas (`,`) |
 | `lastplayed` | Time since last played. Accepts a format of `#y#M#d#h#m#s`, for years, months, days, hours, minutes, and seconds respectively. For example, `2d5s` means "2 days and 5 seconds". |
 | `played` | Played status. Value can be `yes`, `true`, or `1` for played beatmaps, or `no`, `false`, or `0` for unplayed beatmaps. |
