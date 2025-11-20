@@ -7,8 +7,6 @@ tags:
   - foros
   - subforos
   - subforo
-outdated_translation: true
-outdated_since: 0ef66a3313e04c32af901c8c1ec376fa6dacf300
 ---
 
 # Foros
@@ -17,13 +15,17 @@ outdated_since: 0ef66a3313e04c32af901c8c1ec376fa6dacf300
 
 [Los **foros** de osu!](https://osu.ppy.sh/community/forums) son un lugar de conversación donde los mensajes se agrupan por temas y no se espera una respuesta rápida. Las discusiones se pueden buscar, se almacenan para siempre y se pueden volver a visitar en cualquier momento, lo que las diferencia de los mensajes casi instantáneos del [chat de osu!](/wiki/Community/Internet_Relay_Chat). Como resultado, los mensajes del foro son más largos, contienen más información y normalmente brindan más detalles que los mensajes del chat.
 
-Los foros de osu! ofrecen funciones similares a las de la mayoría de los foros de Internet: formato [BBCode](/wiki/BBCode), encuestas, pines y suscripciones, mensajes privados y [moderación](#moderación).
+Los foros de osu! ofrecen funciones similares a las de la mayoría de los foros de Internet: formato [BBCode](/wiki/BBCode), encuestas, pines y suscripciones y [moderación](#moderación).
 
 ## Estructura
 
 Cada uno de los foros de osu! contiene una variedad de **temas**, a veces llamados hilos, así como categorías más pequeñas, o **subforos**. La mayoría de los foros son solo en inglés, pero también existen varios foros [específicos por idioma](https://osu.ppy.sh/community/forums/23) para comunidades locales lo suficientemente grandes.
 
 Si bien algunos foros, como [Mapping Discussion](https://osu.ppy.sh/community/forums/56), tienen requisitos o pautas específicas, todos siguen [las reglas de la comunidad](/wiki/Rules).
+
+### Limitaciones
+
+Cada publicación en los foros no puede contener más de 60 000 caracteres, y el título de cualquier tema no puede exceder los 100 caracteres. Además, cada tema puede tener una portada añadida por su autor, que no puede exceder los 2400 píxeles de largo y los 580 píxeles de alto.
 
 ## Roles y grupos de usuarios
 
@@ -59,3 +61,5 @@ Además, existen otros foros similares a Abandoned Wasteland, que tienen fines t
 - [osu!supporter](/wiki/osu!supporter) y las páginas de usuario
 
 Después de que el nuevo sitio web de osu! se pusiera en marcha, phpBB se fue retirando poco a poco en favor del motor de foros personalizado que se usa hoy en día.
+
+Junto con la introducción del motor personalizado del foro, se eliminó gradualmente el sistema de mensajes privados en los foros. El sistema de mensajes privados de los foros era independiente de los mensajes privados enviados a través del chat IRC, al que no se podía acceder completamente desde el sitio web de osu! en ese momento. Los mensajes privados del foro podían ser mucho más largos y se podían formatear con BBCode, además de poder enviarse a uno o más destinatarios.
