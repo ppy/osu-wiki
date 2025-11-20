@@ -1,6 +1,6 @@
 # Contest points
 
-**Contest points** are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**.
+**Contest points** are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached **6 points**. Overachievers can also earn the *Elite Mapper II* title by reaching 12 points!
 
 Contest points can also be granted as a benefit of [official beatmapping contest support](/wiki/Contests/Official_support) under [certain circumstances](/wiki/Contests/Official_support#eligibility).
 
@@ -36,7 +36,7 @@ Contest points have been used in the following contests:
 
 | User | Points | Contests |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [**fowwo**](https://osu.ppy.sh/users/4547551) | **10** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [**fowwo**](https://osu.ppy.sh/users/4547551) | **12** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [**xbopost**](https://osu.ppy.sh/users/6842421) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [**kuyusu**](https://osu.ppy.sh/users/11758667) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [**hypercyte**](https://osu.ppy.sh/users/9155377) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -45,9 +45,9 @@ Contest points have been used in the following contests:
 | ::{ flag=KR }:: [**Acylica**](https://osu.ppy.sh/users/1943309) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BE }:: [**Sylas**](https://osu.ppy.sh/users/3906405) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [**phyr**](https://osu.ppy.sh/users/13181574) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) (2) |
+| ::{ flag=CN }:: [**iBell**](https://osu.ppy.sh/users/4298072) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) (2) |
+| ::{ flag=DE }:: [**0ppInOsu**](https://osu.ppy.sh/users/12551840) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
-| ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -107,6 +107,7 @@ Contest points have been used in the following contests:
 | ::{ flag=JP }:: [Waribashi](https://osu.ppy.sh/users/2250574) | 3 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030) | 3 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | 3 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 2 | [o!tFAC](/wiki/Contests/o!tFAC) |
 | ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 2 | [o!tFAC](/wiki/Contests/o!tFAC) (1), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
@@ -115,7 +116,7 @@ Contest points have been used in the following contests:
 | ::{ flag=JP }:: [uranosu1030](https://osu.ppy.sh/users/9029238) | 2 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=PL }:: [Paraxia](https://osu.ppy.sh/users/14001000) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: [Doug](https://osu.ppy.sh/users/13806900) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=SG }:: [YonGin](https://osu.ppy.sh/users/7109317) | 2 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) | 2 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 | [o!tFAC](/wiki/Contests/o!tFAC) |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
@@ -123,16 +124,16 @@ Contest points have been used in the following contests:
 | ::{ flag=CN }:: [superSSS](https://osu.ppy.sh/users/4315477) | 1 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=CN }:: [kknegative](https://osu.ppy.sh/users/2349769) | 1 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
-| ::{ flag=VN }:: [linedcolt](https://osu.ppy.sh/users/33754270) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
-| ::{ flag=VN }:: [chairIess](https://osu.ppy.sh/users/26031453) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=SG }:: [linedcolt](https://osu.ppy.sh/users/33754270) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=SG }:: [chairIess](https://osu.ppy.sh/users/26031453) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=AR }:: [LuroxS](https://osu.ppy.sh/users/22504149) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!catch
 
 | User | Points | Contests |
 | :-- | :-- | :-- |
-| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=CA }:: [**Unlucky_w**](https://osu.ppy.sh/users/4820793) | **11** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [**Jemzuu**](https://osu.ppy.sh/users/7890134) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (5), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -146,6 +147,7 @@ Contest points have been used in the following contests:
 | ::{ flag=ID }:: [Ilhamuharam](https://osu.ppy.sh/users/7657968) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [2zz](https://osu.ppy.sh/users/8201267) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!mania
 
@@ -153,7 +155,7 @@ Contest points have been used in the following contests:
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [**tyrcs**](https://osu.ppy.sh/users/13026904) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (7), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
 | ::{ flag=AU }:: [**oct4**](https://osu.ppy.sh/users/10303887) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) | 5 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=VN }:: [**Lott**](https://osu.ppy.sh/users/13821222) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [elexire](https://osu.ppy.sh/users/9206093) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [hemoo](https://osu.ppy.sh/users/4420703) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Disguise](https://osu.ppy.sh/users/10764851) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -161,6 +163,7 @@ Contest points have been used in the following contests:
 | ::{ flag=CN }:: [richardfeder](https://osu.ppy.sh/users/2446000) | 2 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
 | ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TW }:: [Xinhong1003](https://osu.ppy.sh/users/19821902) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: [AutotelicBrown](https://osu.ppy.sh/users/4238941) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
@@ -176,3 +179,5 @@ Contest points have been used in the following contests:
 Prior to October 2022, contest points were exclusive to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and were named *MBC points*. With the introduction of the [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the points were renamed to *contest points* and have been repurposed to be used in other official mapping contests in order to provide a streamlined path to the *Elite Mapper* title.
 
 As of January 2023, contest point eligibility has been outlined based on the [points key](#points-key). Points earned prior to this change will not be adjusted.
+
+Following the results of [August 2025's Monthly Beatmapping Contest](https://osu.ppy.sh/home/news/2025-08-06-monthly-beatmapping-contest-august-2025), [fowwo](https://osu.ppy.sh/users/4547551) reached 12 contest points. To reward persistent success in contests, the *Elite Mapper II* title was thereafter given to users who reached this new threshold.
