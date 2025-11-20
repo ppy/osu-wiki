@@ -133,7 +133,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/gf)**
 
-- Nomod
+- No Mod
   1. [t+pazolite - Bad Boy's missa (DoKito) [DoKo]](https://osu.ppy.sh/beatmapsets/408820#osu/887621)
   2. [Bal-Sagoth - Shackled To The Trilithon Of Kutulu (Mazzerin) [Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn - Original]](https://osu.ppy.sh/beatmapsets/1312054#osu/2719283)
   3. [Seastar - Made out of Fire (Mijn Aim Zuigt) [The flame that burns]](https://osu.ppy.sh/beatmapsets/2261386#osu/4813193)
@@ -163,7 +163,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here!](https://tourney.huismetbenen.nl/25/mappools/f)**
 
-- Nomod
+- No Mod
   1. [t+pazolite - Elder Dragon Legend (PaRaDogi) [Dogistyle]](https://osu.ppy.sh/beatmapsets/2257935#osu/4804514)
   2. [Brymir - Pantheon of Forsaken Gods (LMT) [Hideous Divinity]](https://osu.ppy.sh/beatmapsets/1633210#osu/3333669)
   3. [Machine Girl - Infinite Potentiality (Cut Ver.) (rnuxk) [extraordinaire]](https://osu.ppy.sh/beatmapsets/1719598#osu/3514241)
@@ -515,10 +515,13 @@ Friday, 6 September 2024:
 
 1. Mappools are released on the Monday night prior to the match weekend.
 2. The mappool structure is as follows:
-   - Qualifiers: 4 NM / 2 HD / 2 HR / 2 DT
-   - Round of 32: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
-   - Round of 16: 5 NM / 2 HD / 2 HR / 3 DT / 1 TB | 1 ban | BO9
-   - Quarterfinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
-   - Semifinals: 6 NM / 3 HD / 3 HR / 4 DT / 1 TB | 2 bans | BO11
-   - Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
-   - Grand Finals: 7 NM / 4 HD / 4 HR / 4 DT / 1 TB | 3 bans | BO13
+
+| Round | Beatmaps | Bans | Best of |
+| :-- | :-- | :-: | :-: |
+| Qualifiers | 4 NM, 2 HD, 2 HR, 2 DT | - | - |
+| Round of 32 | 5 NM, 2 HD, 2 HR, 3 DT, 1 TB | 1 | 9 |
+| Round of 16 | 5 NM, 2 HD, 2 HR, 3 DT, 1 TB | 1 | 9 |
+| Quarterfinals | 6 NM, 3 HD, 3 HR, 4 DT, 1 TB | 2 | 11 |
+| Semifinals | 6 NM, 3 HD, 3 HR, 4 DT, 1 TB | 2 | 11 |
+| Finals | 7 NM, 4 HD, 4 HR, 4 DT, 1 TB | 3 | 13 |
+| Grand Finals | 7 NM, 4 HD, 4 HR, 4 DT, 1 TB | 3 | 13 |
