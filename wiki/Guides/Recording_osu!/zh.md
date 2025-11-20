@@ -1,70 +1,58 @@
----
-outdated_translation: true
-outdated_since: 2c9fd01c55a5610c8b047b3bbf8683d414c02987
----
-
 # 如何录制 osu! 的视频
 
-[想要用 Virtualdub 替代 Sony Vegas 吗？点击这里！](https://osu.ppy.sh/community/forums/posts/252802)
+*另见：[直播 osu!](/wiki/Guides/Livestreaming_osu!)*
 
-想要在 YouTube 上发布关于 osu! 的视频，但却不知道该怎么做？这个帖子会解释如何做到这一点。**请注意，有很多方法可以做到，这只是其中的一种。**[在这里查看这个教程的最终效果（用 HD 和全屏观看！）](https://youtube.com/watch?v=JRGhQh69geI)。
+**录制 osu! 视频**的方式不计其数，本文将讲述其中一种最简单的方法，该方法使用 [OBS Studio](https://obsproject.com/) 进行录制。
 
-## 必要条件
+## 配置
 
-- 录制软件
-  - [OBS](https://obsproject.com/)
-  - [Fraps](https://fraps.com/)
-  - [Action!](https://actionrecorder.com/)
-  - [Bandicam](https://www.bandicam.com/)
-- 编辑/渲染软件（不要使用 Windows Moviemaker，它会严重降低视频画质！ ）
-  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
-  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
-  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
-  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+### 自动配置向导
 
-### 配置 Fraps
+首次启动 OBS Studio 时，会显示自动配置向导。
 
-打开 Fraps，让我们来调整一下设置。
+在`使用场景`页面，选择`仅优化录制，将不会优化直播`，然后点击`下一步`。
 
-![Fraps](img/Recording_1.png "Fraps")
+![使用场景](img/recording_osu_1-ZH.png)
 
-请确保：
+在`视频设置`界面，将`基础（画布）分辨率`设置为显示器的原生分辨率，并将 `FPS` 设置为 `60`。你也可以选择 `60 或 30 均可，优先选择 60`，但如果电脑很难将录制帧率保持在 60 FPS，则也不太可能获得高质量的 osu! 录制视频。
 
-- 视频录制快捷键不会与其它应用冲突；
-- 如果输出的视频存在跳帧，请将帧率设置为 30。否则，使用 60 FPS；
-- 如果输出视频帧率低，那么可能录制了大小减半（Half-size）的视频。这种视频的清晰度只有原来的一半。（你可以在录制时将 osu! 运行清晰度调低）；
-- 确保你的硬盘有足够的空间。如果没有，那么当存储空间不足时，视频录制会提前结束；
-- “不录制光标”已经勾选
-- 确保录制声音！没有什么比后期添加音乐的 osu! 视频更糟了。
+![视频设置](img/recording_osu_2-ZH.png)
 
-## 录制游戏
+在`最终结果`界面，OBS Studio 会结合你的电脑配置，列出自动选择的配置。点击`应用设置`继续。
 
-当 Fraps 运行时，打开 osu!。如果一切正常（并且你没有关闭这个功能），那么你会在界面边角看到一个黄色的帧率指示器。
+### 附加设置
 
-![当 Fraps 运行时的 osu!](img/Recording_2.png "当 Fraps 运行时的 osu!")
+默认情况下，OBS Studio 会输出 `.mkv` 文件。这种视频格式能够避免 OBS 意外崩溃（从而丢失视频），并允许分开录制多条音频轨道。但许多视频编辑器无法处理它，因此推荐将输出格式切换为 `.mp4`。
 
-现在，打开你想要录制的内容。例如：你取得高分的回放！当你想要开始录制时，按下视频录制快捷键。帧率指示器会变红，并且帧率可能下降。现在录制已经启动。在一分钟内，观察帧率是否大幅变化。如果大幅改变，尝试一下前面的配置方法。
+在`设置`中，选择左侧的`输出`标签页，将`输出模式`从`简单`改成`高级`，然后点击顶部的`录制`标签页，将`录像格式`从 `Matroska 视频 (.mkv)` 改成 `MPEG-4 (.mp4)`。
 
-![当使用 Fraps 录制时的 osu!](img/Recording_3.png "当使用 Fraps 录制时的 osu!")
+屏幕录制需要达成性能与输出质量间的平衡。这取决于硬件配置，但也要考虑下列的因素：
 
-再次按下视频录制快捷键来停止录制。
+- `视频编码器`对性能与输出质量影响很大。可以尝试选择不同的编码器，找出最适合你的配置使用的。
+- `码率`基本等同于录制质量。增大该数值时，输出质量会提升，但同时也会增加设备的性能负载。
+- 如果你的录制配置超出了电脑的承受能力，OBS Studio 的左下角会显示警告。在这种情况下，视频回放时很有可能会出现卡顿和延迟。
 
-## 编辑你的视频输出
+![视频设置](img/recording_osu_3.png "此处列出 osu! YouTube 频道上视频使用的配置以供参考")
 
-将视频拖放到 Vegas 的时间线。如果有多个文件，Vegas 会将它们自动添加到前一部分的后面。
+## 录制
 
-![编辑视频切片](img/Recording_4.png "编辑视频切片")
+在 OBS Studio 的主界面有`场景`与`源`两个框。一个场景可以由多个源组成，但出于本教程考虑，只需要添加用于显示你的 osu! 窗口的一个源。
 
-现在你可以做一些可选的剪辑。
+默认情况下会创建一个空场景。要向场景添加源，可点击`源`部分的 `+` 图标，然后选择`游戏采集`。你也可以使用`显示器采集`，但会导致延迟问题，因此不推荐这么做。
 
-## 渲染视频
+![场景与源](img/recording_osu_4-ZH.png)
 
-既然剪辑已经完成，现在打开“文件”（'File'）菜单，然后点击“渲染为”（'Render As'）。使用下面的设置（这取决于你的 Vegas 版本）：
+在`创建或选择源`对话框中，选择`新建`并点击`确定`。接下来会弹出名为`设置 "游戏采集"`的窗口:
 
-![渲染视频切片](img/Recording_5.png "渲染视频切片")
+- 全屏运行 osu! 时，将`模式`更改为`采集全屏应用程序`.
+- 在无边框或窗口模式下运行 osu! 时将`模式`更改为`采集特定窗口`，然后启动游戏，在`窗口`下拉框中找到 `[osu!.exe]: osu!`。
 
-![渲染视频切片](img/Recording_6.png "渲染视频切片")
+如果预览窗口全黑，osu! 并没有出现，则需右键点击`游戏采集`源、尝试调整窗口设置。
 
-点击保存，然后你的视频就会在几分钟内生成。现在就可以上传至 YouTube 了！请注意，在 YouTube 上出现高清晰度的视频前，可能需要等待几分钟。请耐心等待！
+![OBS 配置就绪](img/recording_osu_5-ZH.png)
 
-**现在，去制作视频并宣传 osu! 吧。** 本教程由 [Remco32](https://osu.ppy.sh/users/9199) 撰写。原文[链接](https://osu.ppy.sh/community/forums/topics/18112)
+如果你只要录制 osu! 游戏本身，则可能需要在`混音器`中，点击`麦克风/Aux` 一栏的喇叭图标，将麦克风输入静音。
+
+![OBS 配置就绪](img/recording_osu_6-ZH.png)
+
+OBS Studio 中的其他默认设置很适合录制 osu! 游戏，上面的步骤都完成后，OBS Studio 就该准备就绪了！

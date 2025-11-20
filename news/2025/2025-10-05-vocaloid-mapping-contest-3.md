@@ -50,8 +50,8 @@ Full rules, judging criteria, and song downloads are available on the [contest w
 
 | Event | Date |
 | --: | :-- |
-| PARALLEL submission deadline | November 9, 2025 (23:59 UTC) |
-| Screening | November 10 – November 15, 2025 |
+| PARALLEL submission deadline | November 13, 2025 (23:59 UTC) |
+| Screening | November 14 – November 15, 2025 |
 | SWAP submission deadline | December 7, 2025 (23:59 UTC) |
 | SWAP results stream | December 21, 2025 (18:00 UTC) |
 | DUET submission deadline | February 22, 2026 (23:59 UTC) |

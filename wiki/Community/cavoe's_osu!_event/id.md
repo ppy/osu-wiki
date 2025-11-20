@@ -16,7 +16,7 @@ no_native_review: true
 
 :::
 
-**cavoe's osu! event** (***COE***) merupakan konvensi osu! tahunan yang diadakan di Belanda dan dipelopori oleh ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). Konvensi ini menghadirkan berbagai turnamen serta area *bring-your-own computer* (BYOC) khusus yang dapat direservasi, gerai permainan, acara panggung yang berhubungan dengan osu!, dan aneka aktivitas lain di dalamnya.
+**cavoe's osu! event** (***COE***) merupakan konvensi osu! tahunan di Belanda yang dipelopori oleh ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815). Acara ini merupakan tuan rumah bagi berbagai turnamen dan menghadirkan tempat duduk *bring-your-own computer* (BYOC) yang dapat direservasi, gerai permainan, acara panggung seputar osu!, serta aneka aktivitas lainnya.
 
 ## Iterasi
 
@@ -37,12 +37,12 @@ no_native_review: true
 
 ## Sejarah
 
-COE bermula pada tahun 2007 sebagai "acara kopi darat nasional Belanda dengan beberapa pemain tamu dari negara lain" di kafe De Hangar, Eindhoven. Pada saat itu, konvensi ini hanya disebut sebagai "osu! event" dan hanya dihadiri oleh 35 peserta selama 3 hari.
+COE pertama kali digelar pada tahun 2017 sebagai kegiatan yang semata-mata dikenal sebagai "osu!event" dengan hanya dihadiri oleh 35 peserta selama 3 hari. Pada saat itu, acara ini diawali sebagai "acara kopi darat nasional Belanda dengan beberapa pemain tamu dari negara lain" yang bertempat di kafe De Hangar, Eindhoven.
 
-Konvensi ini kemudian diangkat menjadi acara yang bergengsi pada tahun 2018. Dengan lebih dari 300 peserta selama 10 hari, COE tahun ini dihadiri oleh berbagai pemain kenamaan seperti ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (yang saat itu masih bernama Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (BeasttrollMC), dan ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
+Konvensi ini kemudian dikembangkan pada tahun 2018 dengan lebih dari 300 peserta selama 10 hari, yang menghadirkan berbagai pemain kenamaan seperti ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) (Cookiezi), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) (BeasttrollMC), dan ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828).
 
-COE berpindah lokasi ke Brabanthallen di 's-Hertogenbosch (Den Bosch) pada tahun 2019. Dengan gedung yang lebih luas dan panggung yang lebih besar, COE tahun ini menampung lebih dari 500 peserta serta menawarkan lebih banyak gerai VR, acara panggung, dan area VIP khusus.
+Pada tahun 2019, COE berpindah lokasi ke Brabanthallen di 's-Hertogenbosch (Den Bosch). Dengan gedung yang lebih luas dan panggung yang lebih besar, COE tahun ini dihadiri oleh lebih dari 500 peserta dan menghadirkan lebih banyak gerai VR, acara panggung, serta area VIP khusus.
 
-COE batal diselenggarakan pada tahun 2020 dan 2021 akibat [pandemi COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic).
+Baik COE 2020 dan 2021 batal diselenggarakan akibat [pandemi COVID-19](https://en.wikipedia.org/wiki/COVID-19_pandemic).
 
-Memasuki tahun 2022, COE semakin bertambah besar dengan kehadiran 750 peserta, *arcade* khusus permainan ritme, lebih banyak mitra, lebih banyak acara panggung, dan "gua gamer"/"*gamer cave*" yang merupakan ruang pribadi yang dapat disewa di muka oleh pengunjung. COE tahun ini juga menghadirkan turnamen osu! dengan pundi hadiah yang totalnya mencapai 3.000 Euro.
+Memasuki tahun 2022, COE semakin bertambah besar dengan kehadiran 750 peserta, arcade khusus permainan ritme, lebih banyak mitra, lebih banyak acara panggung, dan "gua gamer"/*gamer cave* (yang merupakan ruang pribadi yang dapat disewa di muka oleh pengunjung). COE tahun ini juga menampilkan turnamen osu! dengan pundi hadiah yang totalnya mencapai 3.000 Euro.
