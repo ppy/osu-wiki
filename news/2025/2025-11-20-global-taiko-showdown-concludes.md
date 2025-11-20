@@ -169,7 +169,6 @@ In an early-round clash between the new rising stars hailing from Japan and vete
     </video>
 </div>
 
-
 Everything looked good for the seed #2 team **IAAI** to secure their first pick on the Grand Finals NM5 pick [Compute It With Some Devilish Alcoholic Steampunk Engines](https://osu.ppy.sh/beatmapsets/2403282#taiko/5212286)... until the client caught up, sending their narrow 353-point score lead over to team **Japan't**, with a final score difference of... **55**!
 
 ### cavoe's osu! event's Global Taiko Showdown 2025
@@ -189,6 +188,7 @@ Our only in-situation tiebreaker playthrough was during the first round of match
 </div>
 
 ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) best showcased his Hard Rock proficiency by setting a seemingly otherworldly 7x100 full combo score on the HR2 pick [The Ruthless Judgement by Mother Brain](https://osu.ppy.sh/beatmapsets/2410828#taiko/5234914) against fellow Hard Rock enjoyer ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847) in the Semifinals round to secure his match point. The scroll speed increase added by the Hard Rock mod, on top of a mechanically intense map clocking at a whooping **245** BPM, makes this the score of the tournament, beyond a shadow of a doubt. Don't believe us? Check the clip above.
+
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-fm2.mp4" type="video/mp4" preload="none">
