@@ -155,29 +155,53 @@ Every tournament has its set of memorable or funny moments, impossible comebacks
 
 ### Squad Global Taiko Showdown 2025
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/gtsosu/clip/BrightCleanDinosaurPeoplesChamp-KUqNMBaER07xn5gs" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-whar.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 In an early-round clash between the new rising stars hailing from Japan and veteran figures from the same country, team **WAKASA LIFE** looked to secure their third point on their NM3 pick [Lawn Wake IX](https://osu.ppy.sh/beatmapsets/966060#taiko/2691863) with a relatively comfortable 30k score lead, until ::{ flag=JP }:: [takumit25](https://osu.ppy.sh/users/16662508) missed an entire pattern at the end of the map! This would certainly have been a turning point in the match for team **MANIERA**... were it not for ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) trading some of these misses on a poorly-negotiated snap change. While there were fewer misses, it was just enough to keep a **569**-score difference in favour of team **WAKASA LIFE**, who went on to not lose a single pick for the remainder of the match.
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/gtsosu/clip/ScarySnappyTroutDoritosChip-OLIR21G0sjFqQHcm" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-55.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 
 Everything looked good for the seed #2 team **IAAI** to secure their first pick on the Grand Finals NM5 pick [Compute It With Some Devilish Alcoholic Steampunk Engines](https://osu.ppy.sh/beatmapsets/2403282#taiko/5212286)... until the client caught up, sending their narrow 353-point score lead over to team **Japan't**, with a final score difference of... **55**!
 
 ### cavoe's osu! event's Global Taiko Showdown 2025
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/gtsosu/clip/EasyBumblingEyeballPlanking-UgyZ5FIzfrX-vAu1" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-tb.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 Our only in-situation tiebreaker playthrough was during the first round of matches. Players ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) and ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848), respectively seeded #7 and #10, traded blow for blow on stage and then had one final showdown on [MACHKINTV](https://osu.ppy.sh/beatmapsets/2410842#taiko/5234943) to determine who would move on to the next set of matches and who would be eliminated from the tournament. After clawing back from an initial 20k-point deficit, ::{ flag=NL }:: [Cookie_Tree](https://osu.ppy.sh/users/502722) eventually took the lead, but repeated misses traded by both players during a more technical section led to ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848) claiming a more decisive advantage amidst the chaos later on. See for yourself.
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/HotTriangularDragonfruitJKanStyle-nkBUjjd_JJ1D00fA" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-cheese.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
-::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) best showcased his Hard Rock proficiency by setting a seemingly otherworldly 7x100 full combo score on the HR2 pick [The Ruthless Judgement by Mother Brain](https://osu.ppy.sh/beatmapsets/2410828#taiko/5234914) against fellow Hard Rock enjoyer ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847) in the Semifinals round to secure his match point. The scroll speed increase added by the Hard Rock mod, on top of a mechanically intense map clocking at a whooping **245** BPM, makes this the score of the tournament, beyond a shadow of a doubt. Don't believe us? Check the clip below.
-
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/CloudyEphemeralGoshawkKappaWealth-T1MIYGriAzHPauQI" frameborder="0" allowfullscreen></iframe>
+::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) best showcased his Hard Rock proficiency by setting a seemingly otherworldly 7x100 full combo score on the HR2 pick [The Ruthless Judgement by Mother Brain](https://osu.ppy.sh/beatmapsets/2410828#taiko/5234914) against fellow Hard Rock enjoyer ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847) in the Semifinals round to secure his match point. The scroll speed increase added by the Hard Rock mod, on top of a mechanically intense map clocking at a whooping **245** BPM, makes this the score of the tournament, beyond a shadow of a doubt. Don't believe us? Check the clip above.
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-fm2.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 In a neck-and-neck battle for the final podium spot, the eighth map of the match chosen by ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), [WE NEVER STOP THE BASS DROP (ft. Hanakuma Chifuyu)](https://osu.ppy.sh/beatmapsets/2410640#taiko/5234373), featured as a FM2 pick, saw a traditional Hard Rock versus Hidden battle against ::{ flag=US }:: [mBiscuit](https://osu.ppy.sh/users/17061174). With a slight accuracy advantage, it looked like the American player would take the break point, but a singular skipped finisher was just enough to be his undoing despite both players setting full combo scores on their respective mods, allowing the Northern Irish player to claim his fifth point of the match after dealing with the gruelling 250 BPM section on Hard Rock at the end of the map. The score difference? Only **69**.
 
-<iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.twitch.tv/coevent/clip/SourCrepuscularCamelItsBoshyTime-R6swqeJ-I2g_ZNKU" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2025-11-20-gts-nm4.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 Battling it out for the gold, ::{ flag=TW }:: [cheesestingy](https://osu.ppy.sh/users/16462012) and ::{ flag=US }:: [AuroraPhasmata](https://osu.ppy.sh/users/13664116) took their intense brawl to the NM4 pick, [EMWEN](https://osu.ppy.sh/beatmapsets/2410798#taiko/5234779). The defending champion eventually took his second point of the match, beating out his challenger's score by **a mere 1x100**... which came from the *very last note* of the map! Additionally, out of four picks by this point in the match, this was the third time in a row that both players scored a full combo at the same time, settling points on accuracy or mod difference on Free Mod picks *alone*. If this is not an indicator of a good match, we no longer know what is.
 
