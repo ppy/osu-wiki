@@ -3,6 +3,8 @@ tags:
   - note lock
   - jittering notes
   - shaking notes
+outdated_translation: true
+outdated_since: f7cbc75d791851f46f088d238af0ad050ff5db54
 ---
 
 # Notelock

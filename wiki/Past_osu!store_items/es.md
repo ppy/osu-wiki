@@ -76,7 +76,11 @@ La colección presentaba una variedad de productos como:
 
 La **osu!tablet** era una tableta gráfica oficial de la marca osu! fabricada en colaboración con la empresa de electrónica [HUION](https://www.huion.com/). Fue diseñada por ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) y se lanzó como una alternativa económica para aquellos que querían comprar una tableta gráfica simplemente para jugar a osu!.
 
-El producto tuvo dos versiones: la original «[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)», que salió a la venta por primera vez en 2013, y la actualizada [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) en 2016 antes de dejar de comercializarse en 2017 citando [un cambio en el enfoque de desarrollo](https://twitter.com/ppy/status/846190076853870592).
+El producto tuvo dos versiones: la original «[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)», que salió a la venta por primera vez en 2013, y la actualizada [osu!tablet v2](https://twitter.com/ppy/status/744778218524160000) en 2016 antes de dejar de comercializarse en 2017 citando [un cambio en el enfoque de desarrollo](https://twitter.com/ppy/status/846190076853870592).
+
+![osu!tablet v2](img/osu-tablet-v2.jpg)
+
+La primera versión de 2013 incluía la osu!tablet (blanca), un lápiz con punta, 3 puntas de repuesto, pero requería una pila AA para el lápiz (que se incluía, pero añadía peso al lápiz). La segunda versión de 2016 incluía la osu!tablet (negra), un lápiz con punta, 3 puntas de repuesto, pero el lápiz debía cargarse mediante USB (incluido).
 
 ## Planos para crear beatmaps de osu!
 
