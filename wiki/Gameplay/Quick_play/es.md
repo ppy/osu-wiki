@@ -22,7 +22,7 @@ Se puede acceder al modo de las partidas rápidas haciendo clic en `jugar` > `mu
 
 ![Interfaz del menú principal](img/quick-play-main-menu.png "Interfaz del menú principal")
 
-Para entrar en la cola de espera para una partida, primero selecciona un [modo](/wiki/Game_mode)[^mania], luego haz clic en el botón para entrar en la cola de espera.
+Para entrar en la cola de espera para una partida, primero selecciona un [modo](/wiki/Game_mode)[^mania], y luego haz clic en el botón para entrar en la cola de espera.
 
 ![Selección del modo de juego](img/quick-play-queue-panel.png "Selección del modo de juego")
 
