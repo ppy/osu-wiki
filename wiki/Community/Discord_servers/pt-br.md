@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f6684737c3574645e6eb52760df23dc0d5a6670b
 ---
 
 # Servidores do Discord
@@ -42,7 +44,7 @@ Os **Hubs de Modding e Mapeamento** são servidores comunitários voltados para 
 | [![](img/osu!-Modding-&-Mapping-Hub.png)](https://discord.gg/gw5EtzgEXf) | [osu! Modding & Mapping Hub](https://discord.gg/gw5EtzgEXf) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | O **osu! Modding & Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre o mapeamento e modding no osu!. |
 | [![](img/osu!taiko-Modding-&-Mapping-Hub.png)](https://discord.com/invite/yRjvvyZ) | [osu!taiko Modding & Mapping Hub](https://discord.com/invite/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | O **osu!taiko Modding & Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!taiko. |
 | [![](img/osu!catch-Modding-and-Mapping-Hub.png)](https://discord.com/invite/ZuxFc4q) | [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | O **osu!catch Modding and Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!catch. |
-| [![](img/osu!mania-Mapping-&-Modding-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Mapping & Modding Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | O **osu!mania Mapping & Modding Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!mania. |
+| [![](img/osu!mania-Modding-&-Mapping-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Modding & Mapping Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | O **osu!mania Modding & Mapping Hub** oferece discussões, recursos e anúncios de eventos sobre mapeamento e modding no osu!mania. |
 
 Além dos hubs de modos de jogo, outros servidores comunitários facilitam a comunicação entre mapeadores, modders e outros usuários.
 
