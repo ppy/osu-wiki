@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Penyimpanan berkas di osu!(lazer)
 
 Secara bawaan, osu!(lazer) menyimpan berkas beatmap, skin, dan tayangan ulang pada direktori berikut:
