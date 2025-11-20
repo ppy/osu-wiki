@@ -4,6 +4,8 @@ tags:
   - beatmap submission system issues
   - 我无法提交我的谱面！
   - 谱面提交系统问题
+outdated_translation: true
+outdated_since: 325c441d7a67e45daa10ec8d91295e17c1f54999
 ---
 
 # 如何解决谱面提交系统的问题
