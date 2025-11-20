@@ -37,7 +37,7 @@ Todo sobre círculos, tambores, frutas y el sintetizador: elementos clave, conce
 
 [Modos de juego](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmaps](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Puntuación](/wiki/Gameplay/Score) • [Repeticiones](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Client/Interface/Multiplayer) • [Desafío diario](/wiki/Gameplay/Daily_challenge) • [Juego rápido](/wiki/Gameplay/Quick_play)
+[Beatmaps](/wiki/Beatmap) • [Dificultad](/wiki/Beatmap/Difficulty) • [Objetos](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Puntuación](/wiki/Gameplay/Score) • [Repeticiones](/wiki/Gameplay/Replay) • [Medallas](/wiki/Medals) • [Multijugador](/wiki/Client/Interface/Multiplayer) • [Desafío diario](/wiki/Gameplay/Daily_challenge) • [Partida rápida](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">

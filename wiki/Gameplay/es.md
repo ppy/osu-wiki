@@ -23,7 +23,7 @@
 - [Notelock](Judgement/Notelock)
 - [Pass](Pass)
 - [Tiempo de juego](/wiki/Beatmap/Play_time)
-- [Juego rápido](Quick_play)
+- [Partida rápida](Quick_play)
 - [Repetición](Replay)
 - [Puntuación](Score)
 - [Slider break](Judgement/Slider_break)
