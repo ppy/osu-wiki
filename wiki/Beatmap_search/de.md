@@ -7,6 +7,8 @@ tags:
   - website search
   - Beatmaps suchen
   - Beatmaps finden
+outdated_translation: true
+outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 ---
 
 # Beatmap-Suche
