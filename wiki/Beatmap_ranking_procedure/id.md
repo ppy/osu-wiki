@@ -8,6 +8,7 @@ tags:
   - ranked
   - kualifikasi
   - nominasi
+no_native_review: true
 ---
 
 # Prosedur ranking beatmap
