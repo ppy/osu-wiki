@@ -6,6 +6,8 @@ tags:
   - shaking notes
   - 物件抖动
   - 物件
+outdated_translation: true
+outdated_since: f7cbc75d791851f46f088d238af0ad050ff5db54
 ---
 
 # 物件锁

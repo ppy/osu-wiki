@@ -2,6 +2,8 @@
 tags:
   - NAT
   - 审核评估
+outdated_translation: true
+outdated_since: 4b9ed6a7e14eb9c96d11691187532d5c787c4d7c
 ---
 
 # 审核评估团队 (NAT)
