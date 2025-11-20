@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Freischaltungsanforderungen für Hush-Hush Medaillen
 
 Die tatsächlichen Lösungen für [Hush-Hush](/wiki/Medals#hush-hush) Medaillen sind absichtlich nicht in diesem Wiki enthalten, da diese geheim bleiben sollen. Die Community ist eingeladen, zusammenzuarbeiten, um gemeinsam die Lösungen zu finden.
