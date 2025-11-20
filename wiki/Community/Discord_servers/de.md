@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f6684737c3574645e6eb52760df23dc0d5a6670b
 ---
 
 # Discord-Server
@@ -42,7 +44,7 @@ Die **Modding & Mapping Hubs** sind Discord-Server von der Community, die für a
 | [![](img/osu!-Modding-&-Mapping-Hub.png)](https://discord.gg/gw5EtzgEXf) | [osu! Modding & Mapping Hub](https://discord.gg/gw5EtzgEXf) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Der **osu! Modding & Mapping Hub** enthält Kanäle für Diskussionen, Ressourcen und Eventankündigungen rund um Mapping und Modding in osu!. |
 | [![](img/osu!taiko-Modding-&-Mapping-Hub.png)](https://discord.com/invite/yRjvvyZ) | [osu!taiko Modding & Mapping Hub](https://discord.com/invite/yRjvvyZ) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Der **osu!taiko Modding & Mapping Hub** enthält Kanäle für Diskussionen, Ressourcen und Eventankündigungen rund um Mapping und Modding in osu!taiko. |
 | [![](img/osu!catch-Modding-and-Mapping-Hub.png)](https://discord.com/invite/ZuxFc4q) | [osu!catch Modding and Mapping Hub](https://discord.com/invite/ZuxFc4q) | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | Der **osu!catch Modding and Mapping Hub** enthält Kanäle für Diskussionen, Ressourcen und Eventankündigungen rund um Mapping und Modding in osu!catch. |
-| [![](img/osu!mania-Mapping-&-Modding-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Mapping & Modding Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Der **osu!mania Mapping & Modding Hub** enthält Kanäle für Diskussionen, Ressourcen und Eventankündigungen rund um Mapping und Modding in osu!mania. |
+| [![](img/osu!mania-Modding-&-Mapping-Hub.png)](https://discord.com/invite/FqbDdYN) | [osu!mania Modding & Mapping Hub](https://discord.com/invite/FqbDdYN) | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Der **osu!mania Modding & Mapping Hub** enthält Kanäle für Diskussionen, Ressourcen und Eventankündigungen rund um Mapping und Modding in osu!mania. |
 
 Neben den Spielmodiservern existieren andere Communityserver, um die Kommunikation zwischen Mappern, Moddern und anderen Nutzern zu vereinfachen.
 
