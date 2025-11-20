@@ -24,7 +24,7 @@ This is a long article, so feel free to skip around:
 - [Best tournament moments](#best-tournament-moments)
   - [Squad Global Taiko Showdown 2025](#squad-global-taiko-showdown-2025.1)
   - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu!-event's-global-taiko-showdown-2025.1)
-- [Reflections/Commentary](#reflections/commentary)
+- [Closing thoughts](#closing-thoughts)
   - [Squad Global Taiko Showdown 2025](#squad-global-taiko-showdown-2025.2)
   - [Mapping Global Taiko Showdown 2025](#mapping-global-taiko-showdown-2025.1)
   - [cavoe's osu! event's Global Taiko Showdown 2025](#cavoe's-osu!-event's-global-taiko-showdown-2025.2)
