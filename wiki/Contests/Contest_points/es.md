@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: bed08992a7b7191d1c199d72081f2dde1a69a750
----
-
 # Puntos de los concursos
 
 Los **puntos de los concursos** son puntos que se usan como recompensa en los concursos de mapping oficiales. Se usan principalmente para determinar la elegibilidad de un usuario para recibir el título de *Elite Mapper*, que se concede a los usuarios que han alcanzado **6 puntos**. ¡Los usuarios que superen los requisitos también pueden obtener el título *Elite Mapper II* al alcanzar los 12 puntos!
@@ -121,7 +116,7 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | ::{ flag=JP }:: [uranosu1030](https://osu.ppy.sh/users/9029238) | 2 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=PL }:: [Paraxia](https://osu.ppy.sh/users/14001000) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=BR }:: [Doug](https://osu.ppy.sh/users/13806900) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=SG }:: [YonGin](https://osu.ppy.sh/users/7109317) | 2 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) | 2 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 | [o!tFAC](/wiki/Contests/o!tFAC) |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) | 1 | [Twin Trials](/wiki/Contests/Twin_Trials_Contest) |
@@ -130,8 +125,8 @@ Los puntos de los concursos se han usado en los siguientes concursos:
 | ::{ flag=CN }:: [kknegative](https://osu.ppy.sh/users/2349769) | 1 | [TMWC](/wiki/Contests/TMWC) |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
-| ::{ flag=VN }:: [linedcolt](https://osu.ppy.sh/users/33754270) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
-| ::{ flag=VN }:: [chairIess](https://osu.ppy.sh/users/26031453) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=SG }:: [linedcolt](https://osu.ppy.sh/users/33754270) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
+| ::{ flag=SG }:: [chairIess](https://osu.ppy.sh/users/26031453) | 1 | [MGTS 2025](/wiki/Contests/MGTS/2025) |
 | ::{ flag=AR }:: [LuroxS](https://osu.ppy.sh/users/22504149) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 
 ### osu!catch
