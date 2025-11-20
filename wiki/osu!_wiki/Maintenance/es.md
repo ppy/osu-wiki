@@ -164,6 +164,6 @@ osu! es un entorno en constante cambio: la comunidad crea nuevos beatmaps, inven
 
 ### Actualizaciones
 
-*Para conocer el posible alcance del trabajo, véase: [Lista de TODO sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Para conocer el posible alcance del trabajo, véase: [Lista de TODO sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Los artículos existentes también necesitan mantenimiento. Si has encontrado un error fáctico, o faltan detalles, o si simplemente quieres reescribir/ampliar el artículo de acuerdo con la realidad, da un paso adelante y haz la osu! wiki un lugar mejor. En caso de que el cambio que planees sea lo suficientemente grande o significativo, asegúrate de mencionarlo para su discusión en el canal `#osu-wiki` o [crea un problema de seguimiento](https://github.com/ppy/osu-wiki/issues/new).
