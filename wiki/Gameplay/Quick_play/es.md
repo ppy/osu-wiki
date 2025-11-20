@@ -6,18 +6,19 @@ tags:
   - multiplayer
   - MMR
   - rating
-  - juego rápido
+  - partida rápida
+  - partidas rápidas
   - emparejamiento
   - multijugador
 ---
 
-# Juego rápido
+# Partida rápida
 
-El **juego rápido** es un modo multijugador basado en colas de espera que se introdujo en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) el 29 de octubre de 2025 ([registro del lanzamiento](https://osu.ppy.sh/home/changelog/lazer/2025.1029.1)). Es el primer sistema multijugador basado en colas de espera introducido en el juego.
+Las **partida rápidas** son un modo multijugador basado en colas de espera que se introdujo en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) el 29 de octubre de 2025 ([registro del lanzamiento](https://osu.ppy.sh/home/changelog/lazer/2025.1029.1)). Es el primer sistema multijugador basado en colas de espera introducido en el juego.
 
 ## Interfaz
 
-Se puede acceder al modo de juego rápido en `jugar` > `multi` > `quick play` desde el menú principal. Se puede acceder a la interfaz tradicional del modo multijugador a través de la opción `lounge`.
+Se puede acceder al modo de las partidas rápidas haciendo clic en `jugar` > `multi` > `quick play` desde el menú principal. Se puede acceder a la interfaz tradicional del modo multijugador a través de la opción `lounge`.
 
 ![Interfaz del menú principal](img/quick-play-main-menu.png "Interfaz del menú principal")
 
@@ -45,7 +46,7 @@ Durante cada ronda, los jugadores reciben un pequeño mappool. Al hacer clic en 
 
 ### Sistema de clasificación
 
-El rango del emparejamiento («MMR» o «rating») es una variable oculta que se le asigna a cada jugador y que varía según su rendimiento en las salas de juego rápido. El MMR se usa para juntar a los jugadores con niveles de habilidad similares cuando se forman las salas. Los beatmaps seleccionados tienen asignados valores de MMR fijos, lo que permite al servidor estimar con mayor precisión si un beatmap es demasiado fácil o difícil para una sala determinada.
+El rango del emparejamiento («MMR» o «rating») es una variable oculta que se le asigna a cada jugador y que varía según su rendimiento en las salas de las partidas rápidas. El MMR se usa para juntar a los jugadores con niveles de habilidad similares cuando se forman las salas. Los beatmaps seleccionados tienen asignados valores de MMR fijos, lo que permite al servidor estimar con mayor precisión si un beatmap es demasiado fácil o difícil para una sala determinada.
 
 El MMR de un beatmap se deriva directamente de su [calificación por estrellas](/wiki/Beatmap/Star_rating) (SR). Los curadores de los beatmaps tienen la capacidad de modificar manualmente el valor de dificultad (SR) para informar mejor al servidor sobre la dificultad real de un beatmap. Por ejemplo, debido a la exigencia de lectura, la dificultad de [este beatmap](https://osu.ppy.sh/beatmapsets/1799413#osu/3688768) (según la valoración de los curadores) es de aproximadamente 7,7 estrellas, a pesar de que solo es alrededor de 5,5 estrellas.
 
@@ -66,13 +67,13 @@ El rango de un usuario depende de la cantidad de puntos que gane a lo largo de l
 
 ## Rango del emparejamiento
 
-El rango del emparejamiento («MMR», «rating») es una variable asignada a cada usuario que varía según su rendimiento en los juegos rápidos. El rango se usa para agrupar a los jugadores con niveles similares de habilidad cuando se forman las partidas.
+El rango del emparejamiento («MMR», «rating») es una variable asignada a cada usuario que varía según su rendimiento en las partidas rápidas. El rango se usa para agrupar a los jugadores con niveles similares de habilidad cuando se forman las partidas.
 
 A los beatmaps también se les asigna un rango según el nivel en el que son apropiados para ser jugados, de modo que el mappool para cada partida sea representativo del nivel promedio de habilidad de los jugadores.
 
 ## Curación de beatmaps
 
-Por el momento, los beatmaps usados en el modo de juego rápido son seleccionados por un equipo de voluntarios de la comunidad. La lista completa de los beatmaps disponibles para todos los modos se puede ver en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1ZbvLvHlXH3IF1WgN4YkHqOttO7wG-1Duto-535tqKnQ/edit?gid=0#gid=0).
+Por el momento, los beatmaps usados en las partidas rápidas son seleccionados por un equipo de voluntarios de la comunidad. La lista completa de los beatmaps disponibles para todos los modos se puede ver en [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1ZbvLvHlXH3IF1WgN4YkHqOttO7wG-1Duto-535tqKnQ/edit?gid=0#gid=0).
 
 Cada modo de juego tiene un mappool seleccionado por miembros de la comunidad que están familiarizados con los beatmaps del modo. Todos los beatmaps que aparecen son clasificados, aprobados o amados.
 
@@ -80,6 +81,6 @@ Cada modo de juego tiene un mappool seleccionado por miembros de la comunidad qu
 
 ### ¿Dónde puedo dejar mis comentarios o dudas?
 
-Si tienes alguna pregunta o duda rápida sobre cualquier aspecto del juego rápido, puedes publicarla en [este hilo](https://discord.com/channels/188630481301012481/1414123459684073577) ubicado en el [servidor de Discord osu!](https://discord.gg/ppy). Los comentarios y sugerencias para los desarrolladores se pueden dejar en esta [discusión de GitHub](https://github.com/ppy/osu/discussions/35506).
+Si tienes alguna pregunta o duda rápida sobre cualquier aspecto de las partidas rápidas, puedes publicarla en [este hilo](https://discord.com/channels/188630481301012481/1414123459684073577) ubicado en el [servidor de Discord osu!](https://discord.gg/ppy). Los comentarios y sugerencias para los desarrolladores se pueden dejar en esta [discusión de GitHub](https://github.com/ppy/osu/discussions/35506).
 
-[^mania]: osu!mania 4K y 7K se dividen en colas separadas y funcionan como modos completamente independientes en el contexto del juego rápido.
+[^mania]: osu!mania 4K y 7K se dividen en colas separadas y funcionan como modos completamente independientes en el contexto de las partidas rápidas.
