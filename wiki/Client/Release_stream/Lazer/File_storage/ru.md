@@ -2,10 +2,10 @@
 
 По умолчанию osu!(lazer) хранит карты, скины и записи игр в перечисленных ниже директориях:
 
-- `%appdata%/osu/files` (Windows)
-- `~/.local/share/osu/files` (Linux)
-- `~/Library/Application Support/osu/files` (macOS)
-- `Android/data/sh.ppy.osulazer/files/files` (Android)
+- `%appdata%/osu` (Windows)
+- `~/.local/share/osu` (Linux)
+- `~/Library/Application Support/osu` (macOS)
+- `Android/data/sh.ppy.osulazer/files` (Android)
 
 Если osu!(lazer) установлен на компьютере, место хранения файлов можно перенести, открыв настройки игры и нажав на кнопку `Переместить корневую папку osu!...`.
 
