@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! wiki
 
 **osu! wiki** 是一个由[志愿贡献者](https://github.com/ppy/osu-wiki/graphs/contributors)撰写与维护的开源知识库，包含了与 osu! 及其社区、相关活动与概念的大范围信息。它是 osu! 的官方信息源，也被认为是 osu! 的历史档案。
