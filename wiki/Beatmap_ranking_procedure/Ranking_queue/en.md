@@ -13,7 +13,7 @@ A timer counts how many days a beatmap should stay in Qualified before it can be
 
 7 days is the default waiting time that is set when the beatmap enters Qualified. But beatmaps may be [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) if issues are found during their time in Qualified, which will change the timer.
 
-## Disqualification and re-qualification
+## Disqualification and re-qualification {id=dq-and-re-qualification}
 
 When a beatmap is [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets), its time spent in Qualified so far is saved. If it gets re-qualified, it will enter the queue as if it had been in the queue for that duration already. This ability to "skip" time spent in the queue caps at 6 days to ensure that beatmaps always stay in Qualified for at least a full day after re-qualification.
 

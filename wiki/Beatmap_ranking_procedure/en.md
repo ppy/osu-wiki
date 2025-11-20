@@ -61,7 +61,7 @@ Members of the BN and NAT occasionally [veto](/wiki/People/Beatmap_Nominators/Be
 
 ## Rank
 
-When a beatmap stays in Qualified for at least 7 days without any open [Problems or Suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](/wiki/Beatmap/Category#ranked). If it has been through disqualification, there . Ranked beatmaps have [score leaderboards](/wiki/Ranking) and reward players with performance points.
+When a beatmap stays in Qualified for at least 7 days without any open [Problems or Suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](/wiki/Beatmap/Category#ranked). If it has been through disqualification and re-qualification, the time for it to move from Qualified to Ranked should be [recalculated](Ranking_queue#dq-and-re-qualification). Ranked beatmaps have [score leaderboards](/wiki/Ranking) and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
 
