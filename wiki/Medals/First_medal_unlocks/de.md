@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Medaillen-Ruhmeshalle
 
 Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilige Medaille als erstes verliehen bekommen haben.
