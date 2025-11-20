@@ -14,7 +14,7 @@ tags:
 
 # Partida rápida
 
-Las **partida rápidas** son un modo multijugador basado en colas de espera que se introdujo en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) el 29 de octubre de 2025 ([registro del lanzamiento](https://osu.ppy.sh/home/changelog/lazer/2025.1029.1)). Es el primer sistema multijugador basado en colas de espera introducido en el juego.
+Las **partidas rápidas** son un modo multijugador basado en colas de espera que se introdujo en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) el 29 de octubre de 2025 ([registro del lanzamiento](https://osu.ppy.sh/home/changelog/lazer/2025.1029.1)). Es el primer sistema multijugador basado en colas de espera introducido en el juego.
 
 ## Interfaz
 
