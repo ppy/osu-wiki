@@ -77,6 +77,6 @@ Each game mode has a mappool curated by community members who are familiar with 
 
 ### Where do I leave feedback or concerns?
 
-For quick questions or concerns regarding any aspect of quick play, please write in [this thread](https://discord.com/channels/188630481301012481/1414123459684073577) located in the [osu! Discord server](https://discord.gg/ppy). Feedback and suggestions for the developers should also be left in this [GitHub discussion](https://github.com/ppy/osu/discussions/35506).
+For quick questions or concerns regarding any aspect of quick play, please write in the [#quickplay channel](https://discord.com/channels/188630481301012481/1440912440224120882) located in the [osu! Discord server](https://discord.gg/ppy). Feedback and suggestions for the developers should also be left in this [GitHub discussion](https://github.com/ppy/osu/discussions/35506).
 
 [^mania]: osu!mania 4K and 7K are split into separate queues and function as completely separate modes in the context of quick play.
