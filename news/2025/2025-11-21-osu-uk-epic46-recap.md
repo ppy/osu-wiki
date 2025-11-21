@@ -8,7 +8,7 @@ Between Thursday and Sunday three weeks ago, osu!'s UK community put together a 
 
 ![](/wiki/shared/news/2025-09-16-osu-uk-epic46/banner.jpg)
 
-The meetup between October 30th and November 2nd was announced [back in September](https://osu.jpy.sh/home/news/2025-09-16-osu-uk-epic46). With the eventful weekend now all over and all of the attendees comfortably sipping tea at home (or so one would presume), this is where you can read about how things went!
+The meetup between October 30th and November 2nd was announced [back in September](https://osu.ppy.sh/home/news/2025-09-16-osu-uk-epic46). With the eventful weekend now all over and all of the attendees comfortably sipping tea at home (or so one would presume), this is where you can read about how things went!
 
 If you're not an avid reader, no worries. Here's the social-media-length highlight reel:
 
