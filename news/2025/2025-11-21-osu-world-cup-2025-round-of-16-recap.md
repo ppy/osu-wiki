@@ -6,7 +6,7 @@ date: 2025-11-21 12:00:00 +0000
 
 After three weeks of Qualifiers and Group Stage play, the 2025 osu! World Cup reached the bracket stage at long last.
 
-![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/banner.png)
+![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/banner.jpg)
 
 Finally, the top 8 teams got to show their stuff on the biggest stage osu! has to offer, while the Contenders and Challengers who had survived the early rounds of play joined them to attempt to play spoiler. Would the favourites dominate? Could the underdogs pull off any massive upsets? Which losers' bracket teams were sent home? It was time for the Round of 16 to get underway.
 
@@ -30,7 +30,7 @@ For those who prefer a visual recap of the week's action, you can once more chec
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2613988017&parent=osu.ppy.sh&autoplay=false&time=4h44m24s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.png)
+![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.jpg)
 
 This Round of 16 mappool had some quite interesting maps to offer, with plenty of unique ones chosen. From the already existing maps, some selections stood out, such as [CWC 2024](/wiki/Tournaments/CWC/2024)'s [osu! original](/wiki/Community/Bespoke_music) [step by step](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), as well as [Oboetete Ii Yo](https://osu.ppy.sh/beatmapsets/53791#osu/163836). *step by step* was a swing offering with interesting flow and slider aim tests, while [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)'s *Oboetete Ii Yo* map was a nostalgic, mechanically intense fast pick on DT, and an interesting view into 13-year-old mapping.
 
@@ -44,7 +44,7 @@ The most popular pick, however, was a familiar face mapping a familiar song, but
 
 Finally, we did have one [osu! original](/wiki/osu!_originals) this week. The great [gladde paling](https://osu.ppy.sh/beatmaps/artists/511), the mad Dutch eel themselves, blessed us with a track unlike any other, as [vleermuis](https://osu.ppy.sh/beatmapsets/2462132#osu/5386813) descended upon the pool this week.
 
-[![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/vleermuis_banner.png)](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995)
+[![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/vleermuis_banner.jpg)](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995)
 
 <div class="osu-md__paragraph">
     <audio controls>
