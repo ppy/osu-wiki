@@ -63,6 +63,7 @@ Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updat
 | 47 | [lazer's inconsistent hit windows](https://www.youtube.com/watch?v=wkLweSoz9YQ) | Hit windows adjusted to match osu!(stable), further song select UI changes, skin files externally modifiable | [(↗)](https://osu.ppy.sh/home/news/2025-07-12-osulazer-updates-july-10-2025) |
 | 48 | [new feature priorities](https://www.youtube.com/watch?v=z2e8PM8Zh3o) | Teaser for the new matchmaking system, unstable rate skinnable element, "replay failed" popup, audio-related bug fixes, more detailed message notifications | *N/A* |
 | 49 | [just another lazer update](https://www.youtube.com/watch?v=Y4n-47cX3TI) | "retro" skin added, aim error metre implemented, new grouping modes, added and updated mod icons, pinned multiplayer playlists, beatmap listing shortcuts for quick access | *N/A* |
+| 50 | [quick play](https://www.youtube.com/watch?v=YKUQ0Y_pHaI) | new multiplayer mode "quick play", accuracy displayed in the pause menu, grouping by favourites | *N/A* |
 
 ## Other related videos
 
