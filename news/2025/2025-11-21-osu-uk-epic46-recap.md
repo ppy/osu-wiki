@@ -58,6 +58,8 @@ So many things happened that warrant mention, even if we don't have footage of e
 
 ... and that's just the tip of the iceberg (people did make one).
 
+If you want a sense of scale for how much was going on at EPIC46, including what other games and tournaments were present during the event, you can [check out this big album of photos](https://www.flickr.com/photos/epiclan/albums/72177720330140861/)!
+
 ---
 
 Meeting the people we've gotten to know online never fails to remind us of how tight-knit the osu! community really is. Thank you everyone for attending and to the production staff for tirelessly making these experiences happen!
