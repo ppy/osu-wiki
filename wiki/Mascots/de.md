@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4069c039287ddae18fdbbad2f798b80768191fc3
+---
+
 # Maskottchen
 
 *Siehe auch: [Maskottchen/Galerie](/wiki/Mascots/Gallery)*
