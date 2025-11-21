@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! UK @ EPIC46 Recap
-date: 2025-11-21 15:00:00 +0000
+date: 2025-11-22 12:00:00 +0000
 ---
 
 Between Thursday and Sunday three weeks ago, osu!'s UK community put together a bunch of LAN setups, made a tournament bracket, and got ready for another round of the biggest UK meetup in Kettering!
@@ -20,7 +20,7 @@ If you're not an avid reader, no worries. Here's the social-media-length highlig
 
 ## Tournament
 
-![Tournament winner and 2nd place](/wiki/shared/news/2025-11-21-osu-uk-epic46-recap/tournament.jpg)
+![Tournament winner and 2nd place](/wiki/shared/news/2025-11-22-osu-uk-epic46-recap/tournament.jpg)
 
 | Placing | Player | Prize |
 | :-: | :-- | :-- |
@@ -36,7 +36,7 @@ Huge congratulations to ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/1
 
 ## Taskmaster
 
-!["Taskmaster" Finals](/wiki/shared/news/2025-11-21-osu-uk-epic46-recap/taskmaster.jpg)
+!["Taskmaster" Finals](/wiki/shared/news/2025-11-22-osu-uk-epic46-recap/taskmaster.jpg)
 
 One more event was in store: [chromb](https://osu.ppy.sh/users/10238680)'s "osu! Community Taskmaster", where members of the osu! community were spurred into completing various tasks both online and IRL, such as:
 
@@ -64,6 +64,6 @@ If you want a sense of scale for how much was going on at EPIC46, including what
 
 Meeting the people we've gotten to know online never fails to remind us of how tight-knit the osu! community really is. Thank you everyone for attending and to the production staff for tirelessly making these experiences happen!
 
-![osu! group picture](/wiki/shared/news/2025-11-21-osu-uk-epic46-recap/group-picture.jpg)
+![osu! group picture](/wiki/shared/news/2025-11-22-osu-uk-epic46-recap/group-picture.jpg)
 
 —Walavouchey
