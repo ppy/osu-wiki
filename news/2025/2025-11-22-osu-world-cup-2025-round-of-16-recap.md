@@ -81,6 +81,10 @@ The schedule for day 1 of this year's bracket stage was a sparse one, featuring 
 
 None would disappoint, as the four teams combined to lose a total of just one map with each winning at least one of their 5 points by over 1,000,000 score. Any fears that these teams may be rusty against opponents who had each played 3 matches already were quickly alleviated as the top seeds showed off and showed out in their OWC 2025 debuts.
 
+Sunday brought forth the majority of the week's matches, getting started early and featuring action throughout the day to the tune of nearly 10 hours of gameplay. While the day started off inauspiciously with Taiwan sweeping the Netherlands, things would heat up over the course of the morning. New Zealand challenged the 7th-seeded United Kingdom, with the UK eventually coming out on top 5–3. Meanwhile, Japan and Thailand [engaged in a fierce battle leading to the week's only tiebreaker](#thailand-vs.--japan).
+
+Several other losers' bracket matchups took place with victors eventually including Indonesia, Austria, Sweden, Finland, and Spain. Sunday's afternoon window featured three top 8 seeds getting their tournament underway, as the United States took down France, Germany defeated Brazil, and the Russian Federation became the lone top 8 seed to lose their round of 16 match, with the #9 seed China taking them out in a closely fought 5–3 match.
+
 ### ::{ flag=IT }:: Italy vs. ::{ flag=TR }:: Türkiye
 
 <div align="center" class="osu-md__paragraph">
@@ -92,12 +96,6 @@ It was left to the lone losers' bracket match of Saturday to produce a competiti
 The match was a roller coaster from the get-go, with Türkiye taking an early break point for a 2–0 lead, only to see Italy find a break point of their own on the highly volatile [NM5](https://osu.ppy.sh/beatmapsets/2462132#osu/5386813) before tying the match up on their own [HD2](https://osu.ppy.sh/beatmapsets/2089293#osu/4378380) pick. Italy continued building momentum by winning another break point on [DT3](https://osu.ppy.sh/beatmapsets/2462142#osu/5386835), but now it was Türkiye's chance to turn the tables.
 
 Winning [NM3](https://osu.ppy.sh/beatmapsets/2462129#osu/5386798) at the last moment by a bare margin of 3,320 points, Türkiye opted into [FM3](https://osu.ppy.sh/beatmapsets/2429306#osu/5290020) with their final pick, winning it to earn a single match point at 4–3. Down to their last pick, Italy selected [NM4](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), but ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528) led the way with an FC as Türkiye slammed the door shut by a margin of over 800,000 points to win the map and with it the match by a final score of 5–3.
-
----
-
-Sunday brought forth the majority of the week's matches, getting started early and featuring action throughout the day to the tune of nearly 10 hours of gameplay. While the day started off inauspiciously with Taiwan sweeping the Netherlands, things would heat up over the course of the morning. New Zealand challenged the 7th-seeded United Kingdom, with the UK eventually coming out on top 5–3. Meanwhile, Japan and Thailand [engaged in a fierce battle leading to the week's only tiebreaker](#thailand-vs.--japan).
-
-Several other losers' bracket matchups took place with victors eventually including Indonesia, Austria, Sweden, Finland, and Spain. Sunday's afternoon window featured three top 8 seeds getting their tournament underway, as the United States took down France, Germany defeated Brazil, and the Russian Federation became the lone top 8 seed to lose their round of 16 match, with the #9 seed China taking them out in a closely fought 5–3 match.
 
 ### ::{ flag=TH }:: Thailand vs. ::{ flag=JP }:: Japan
 
