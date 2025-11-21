@@ -22,15 +22,17 @@ If you're not an avid reader, no worries. Here's the social-media-length highlig
 
 ![Tournament winner and 2nd place](/wiki/shared/news/2025-11-21-osu-uk-epic46-recap/tournament.jpg)
 
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [fudge](https://osu.ppy.sh/users/11592896) |
+| Placing | Player | Prize |
+| :-: | :-- | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | Physical trophy, £625 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) | £325 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [fudge](https://osu.ppy.sh/users/11592896) | £230 |
 
 16 people played through a 1-day single-elimination bracket on Saturday after qualifying among 40 players the day before.
 
 Huge congratulations to ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) for winning the whole thing and taking home the trophy, with ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) and ::{ flag=GB }:: [fudge](https://osu.ppy.sh/users/11592896) (a.k.a. rudj) taking the remaining podium spots and slightly smaller cash prizes!
+
+4th place also got a cash prize of £160 and 5th–8th got £40. [View the full bracket here!](https://docs.google.com/spreadsheets/d/1gz9lD-NkeugZyg0nC1YR349MoZcYfTdUommBkVaxhxQ/view?gid=1113454178#gid=1113454178)
 
 ## Taskmaster
 
@@ -42,9 +44,19 @@ One more event was in store: [chromb](https://osu.ppy.sh/users/10238680)'s "osu!
 - Recreating osu!'s theme song "nekodex - circles!"
 - Make the best looking toast
 
-The final round was held on the venue's main stage, in preparation for which the participants had to complete some tasks during the LAN! [ilw8](https://osu.ppy.sh/users/14167692) ended up winning the round, congrats!
+The final round was held on the venue's main stage, in preparation for which the participants had to complete some tasks during the LAN! [ilw8](https://osu.ppy.sh/users/14167692) ended up winning the round, congrats! (The overall winner is to be determined.)
 
 [View the VOD of the event here, with all the details and explanations!](https://www.twitch.tv/videos/2607010859?t=00h42m41s)
+
+## Other fun stuff
+
+So many things happened that warrant mention, even if we don't have footage of everything:
+
+- [fudge](https://osu.ppy.sh/users/11592896)'s swift hands won at the PC building speedrun booth with a time of 7.801 seconds!
+- There was a pub quiz full of unexpected shenanigans with team *kettle eggs* dominating the show (at least among the osu! participants).
+- Watch parties for the ongoing [osu! World Cup 2025](/wiki/Tournaments/OWC/2025) were set up at various points during the event, even with a screen atop a trash bin right before leaving the venue.
+
+... and that's just the tip of the iceberg (people did make one).
 
 ---
 
