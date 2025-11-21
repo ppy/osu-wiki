@@ -44,7 +44,7 @@ The most popular pick, however, was a familiar face mapping a familiar song, but
 
 Finally, we did have one [osu! original](/wiki/osu!_originals) this week. The great [gladde paling](https://osu.ppy.sh/beatmaps/artists/511), the mad Dutch eel themselves, blessed us with a track unlike any other, as [vleermuis](https://osu.ppy.sh/beatmapsets/2462132#osu/5386813) descended upon the pool this week.
 
-[![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/vleermuis_banner.jpg)](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995)
+[![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/vleermuis_banner.jpg)](https://osu.ppy.sh/beatmapsets/2462132#osu/5386813)
 
 <div class="osu-md__paragraph">
     <audio controls>
