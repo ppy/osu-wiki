@@ -130,6 +130,32 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 7. [P4koo - overwhelm (AelSan) \[Stage 7: Rolling\]](https://osu.ppy.sh/beatmapsets/2454539#mania/5363608)
 8. [kuro feat. niui - Tablear (Muses) \[Stage 8: Dice\]](https://osu.ppy.sh/beatmapsets/2454545#mania/5363627)
 
+## Match results
+
+### Round of 16
+
+Saturday, 15 November 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **U=ma2=LAB=01** | **5** | 1 | Captain's Hometown | [#1](https://osu.ppy.sh/community/matches/119831508) |
+| LEON | 2 | **5** | New Pigeon | [#1](https://osu.ppy.sh/community/matches/119832147) |
+| **Cyclopentanoperhydrophenanthrene** | **5** | 0 | sicks wann | [#1](https://osu.ppy.sh/community/matches/119832657) |
+
+Sunday, 16 November 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **nagisa fanboys** | **5** | 0 | Harikitte Ikou! | [#1](https://osu.ppy.sh/community/matches/119842053) |
+| **BALLS** | **5** | 2 | is that team name | [#1](https://osu.ppy.sh/community/matches/119842382) |
+| **Skill Issue** | **5** | 2 | TEAM SEVEN | [#1](https://osu.ppy.sh/community/matches/119842569) |
+| Foreclosure Task Rob | 4 | **5** | **Capoo Fans** | [#1](https://osu.ppy.sh/community/matches/119843477) |
+| wedoknowwhatbye | 2 | **5** | **The Maple Simpers** | [#1](https://osu.ppy.sh/community/matches/119843940) |
+
+### Qualifiers
+
+Detailed statistics for this round can be found in [this web page](https://asia-suiji-cup.vercel.app/tournament/2/stats) alongside the final standings on which teams sets the highest average rank and average score.
+
 ## Ruleset
 
 ### General rules
