@@ -36,7 +36,7 @@ The **Solo Score Rush** (***SSR***) was a one-on-one worldwide double-eliminatio
 
 ![](img/ssr-winner-badge.jpeg "SSR winner badge")
 
-*The winner may ask for equivalential prizes, such as osu!supporter tag, and or gift cards; however this needs to be discussed with organiser due to taxes in factor. Prize pool was provided by ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657).*
+*The winner may ask for equivalential prizes, such as osu!supporter tag, and or gift cards; however this needs to be discussed with organiser due to taxes in factor. Prize pool was provided by ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222).*
 
 ## Organisation
 
@@ -198,12 +198,12 @@ This competition has come to an end and resulted in the following podium:
 - Long Notes
   1. [Nanahoshi Kangengakudan - Meikaruza (Lott) \[Freed from a Tragic Love Story\]](https://osu.ppy.sh/beatmapsets/2432402#mania/5299646)
   2. [DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (Lott) \[Reaching For a False Eden 1.15x\]](https://osu.ppy.sh/beatmapsets/2432414#mania/5299669)
-  3. [Sot-C - TAKE THIS GUN LOL (epic man 2) \[GUERRILLA F#^@ERY\]](https://osu.ppy.sh/beatmapsets/2432459#mania/5299946)
+  3. [Sot-C - TAKE THIS GUN LOL (epic man 2, Micleak, kilotek, JustAnYDudEykNw) \[GUERRILLA F#^@ERY\]](https://osu.ppy.sh/beatmapsets/2432459#mania/5299946)
   4. [BEMANI Sound  "HuMeR" Team feat. Fernweh - Sakazuki (Znow) \[WALL OF PAIN\]](https://osu.ppy.sh/beatmapsets/2432103#mania/5298640)
-  5. [Camellia - 11:54PM, Prelude for The Journey of Sunlight. (Poity) \[mystV's 'Vivid' 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/2432462#mania/5299950)
-  6. [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa (Cut Ver.) (Micleak) \[Mayday from a Parallel Universe\]](https://osu.ppy.sh/beatmapsets/2432440#mania/5299908)
+  5. [Camellia - 11:54PM, Prelude for The Journey of Sunlight. (mystV) \[mystV's 'Vivid' 1.05x (edit)\]](https://osu.ppy.sh/beatmapsets/2432462#mania/5299950)
+  6. [TWC Sound Team "Xurv Stasis Rasufim" - Kaze no Denwa (Cut Ver.) (Micleak, Ninaye) \[Mayday from a Parallel Universe\]](https://osu.ppy.sh/beatmapsets/2432440#mania/5299908)
 - Hybrid
-  1. [Sydosys as "[LS]Ham" - Apollyon (Cut Ver.) (epic man 2) \[Depths of Divine Punishment\]](https://osu.ppy.sh/beatmapsets/2432474#mania/5299971)
+  1. [Sydosys as "[LS]Ham" - Apollyon (Cut Ver.) (Eclipse-, epic man 2, Silicosis 2, kilotek, JustAnYDudEykNw) \[Depths of Divine Punishment\]](https://osu.ppy.sh/beatmapsets/2432474#mania/5299971)
   2. [tropical interface - Havoc (Supire Remix) (Alptraum, Nicknem\_) \[CRaZy. (w/ Nicknem) (cut)\]](https://osu.ppy.sh/beatmapsets/2332846#mania/5299055)
 - Tiebreaker
   1. **[Otis Lion vs. spoonXYZ (feat. BrayanKitsn) - AMBiT GENESiS \~From Defined Forms\~ (Lott) \[Frontward Shimmer to Thresholds Beyond\]](https://osu.ppy.sh/beatmapsets/2432560#mania/5300163)**
@@ -214,11 +214,11 @@ This competition has come to an end and resulted in the following podium:
 
 - Rice
   1. [Camellia feat. STARLIVHT - LIVHT MY WAY (DraterTD) \[Hear Me Out... (Cut)\]](https://osu.ppy.sh/beatmapsets/2426324#mania/5281922)
-  2. [one eight - N (Cut Ver.) (Poity, Archaic84) \[Archaic84's Ascend (edit) 1.15x\]](https://osu.ppy.sh/beatmapsets/2429093#mania/5289423)
+  2. [one eight - N (Cut Ver.) (Archaic84) \[Archaic84's Ascend (edit) 1.15x\]](https://osu.ppy.sh/beatmapsets/2429093#mania/5289423)
   3. [Yooh - Elemental Ethnic (Silicosis 2) \[RAVE LIKE IT'S YOUR LAST DAY 1.05x (171bpm) OD8.5\]](https://osu.ppy.sh/beatmapsets/2429387#mania/5290230)
   4. [Terminal 11 - Adcar (Znow) \[Interchangeable Beauty \| 1.05x\]](https://osu.ppy.sh/beatmapsets/2429263#mania/5289873)
   5. [Sheena Ringo - Identity (epic man 2) \[1.1\]](https://osu.ppy.sh/beatmapsets/2409002#mania/5229485)
-  6. [tn-shi - Synthesis. (Poity, \[GB\]Oceanus) \[Oceanus' Factitial (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2429275#mania/5289912)
+  6. [tn-shi - Synthesis. (\[GB\]Oceanus) \[Oceanus' Factitial (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2429275#mania/5289912)
   7. [DJ Raisei - Fractured Angel (Lott) \[Piercing the False Sky // Ultimate\]](https://osu.ppy.sh/beatmapsets/2319232#mania/5289207)
 - Long Notes
   1. [Matsushita - raspberry cube (Hytex) \[hey darling!\]](https://osu.ppy.sh/beatmapsets/2429368#mania/5290192)
@@ -229,7 +229,7 @@ This competition has come to an end and resulted in the following podium:
   6. [Camellia feat. Camellia - Ashed Wings (Micleak, Eclipse-, Lott, Silicosis 2) \[The Twin-Winged's Final Soar From Oblivion\]](https://osu.ppy.sh/beatmapsets/2429273#mania/5289909)
 - Hybrid
   1. [Gram - Sigrdrifa (Cut Ver.) (Lott, \[GB\]Reisen, PORTTAYER, FLeVI, Blue\_Potion, Yuiesta, \[GB\]yobrevelc, \[GB\]Thaumiel, Hylotl) \[\[GB\] Mapping Team // Gladiatorship Beyond Cataclysm (edit)\]](https://osu.ppy.sh/beatmapsets/2231726#mania/4737085)
-  2. [Salty Salt - Hologram of Sakura (Poity, Ycloki, OxalicAcid) \[Ycloki's 'phony projection' (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2429271#mania/5289902)
+  2. [Salty Salt - Hologram of Sakura (Ycloki, OxalicAcid) \[Ycloki's 'phony projection' (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2429271#mania/5289902)
 - Tiebreaker
   1. **[Type R - Astellion (Cut Ver.) (Lott) \[Formation of a Star\]](https://osu.ppy.sh/beatmapsets/2429279#mania/5289926)**
 
@@ -251,7 +251,7 @@ This competition has come to an end and resulted in the following podium:
   3. [void (Mournfinale) - Cybernetic Vampire (JustAnYDudEykNw) \[Technological Bleeding 1.05x\]](https://osu.ppy.sh/beatmapsets/2425315#mania/5279361)
   4. [Kobaryo - Vicious Heroism (Hytex) \[when the heroism is vicious (edit)\]](https://osu.ppy.sh/beatmapsets/2425512#mania/5279845)
   5. [spoonXYZ - Path of Light (Micleak, FLeVI, Lott, kilotek, rikan) \["anyways how do i combine lott flevi rick feat. micleak kilotek"\]](https://osu.ppy.sh/beatmapsets/2425308#mania/5279309)
-  6. [LeaF - I (Silicosis 2) \[\[\]\]](https://osu.ppy.sh/beatmapsets/2425392#mania/5279527)
+  6. [LeaF - I (DraterTD, Lott, Znow, Micleak, Silicosis 2) \[\[\]\]](https://osu.ppy.sh/beatmapsets/2425392#mania/5279527)
 - Hybrid
   1. [Kyotsugyon - SUPERNOVA (Lott) \[OUTBURST 1.05x\]](https://osu.ppy.sh/beatmapsets/2425343#mania/5279415)
   2. [Camellia - ANOMALY (Cut Ver.) (wddg) \[BEYOND\]](https://osu.ppy.sh/beatmapsets/2425246#mania/5279116)
@@ -264,7 +264,7 @@ This competition has come to an end and resulted in the following podium:
 
 - Rice
   1. [Drowning Pool - Bodies (epic man 2) \[edit\]](https://osu.ppy.sh/beatmapsets/2354226#mania/5268022)
-  2. [Yukino Ito - Spinning Library (Poity, Zia) \[Zia's Kataomoi (edit)\]](https://osu.ppy.sh/beatmapsets/2421619#mania/5268387)
+  2. [Yukino Ito - Spinning Library (Zia) \[Zia's Kataomoi (edit)\]](https://osu.ppy.sh/beatmapsets/2421619#mania/5268387)
   3. [Tatsuya Kitani - ALWAYS BE WITH YOU XD (Lott) \[TRAGICOMIC LOVE EXDEE 1.1x\]](https://osu.ppy.sh/beatmapsets/2421337#mania/5267470)
   4. [lhk - Tiresome nascence that lasts 50,000,00,00 years (MyZterioN-) \[eon 1.1x (122bpm)\]](https://osu.ppy.sh/beatmapsets/2421514#mania/5267943)
   5. [Yung Lean - Hoover (Sewerslvt Remix) (Znow) \[WHERE YOU GO WHEN THE WORLD HAS HIT ME? \| 1.05x\]](https://osu.ppy.sh/beatmapsets/2421330#mania/5267455)
@@ -287,7 +287,7 @@ This competition has come to an end and resulted in the following podium:
 
 - Rice
   1. [buelow - Revolver (Sped Up Ver.) (Lott) \[Femme Fatale 1.1x\]](https://osu.ppy.sh/beatmapsets/2435740#mania/5309394)
-  2. [inabakumori - Tsukuri Kake no Shinshou (Poity, CrewK) \[CrewK's Souzou (edit) x1.05\]](https://osu.ppy.sh/beatmapsets/2418171#mania/5257925)
+  2. [inabakumori - Tsukuri Kake no Shinshou (CrewK) \[CrewK's Souzou (edit) x1.05\]](https://osu.ppy.sh/beatmapsets/2418171#mania/5257925)
   3. [YENA - NEMONEMO (Micleak) \[DIPSY-DOODLING\]](https://osu.ppy.sh/beatmapsets/2418198#mania/5257987)
   4. [Gangpol und Mit - Chinese Slavery (Faits Divers) (ricetoasty) \[Kid Named This program cannot be run in DOS mode.\]](https://osu.ppy.sh/beatmapsets/2418036#mania/5257502)
   5. [ericdoa - dancinwithsomebawdy (Livium) \[pleasenevaremindme 1.05x\]](https://osu.ppy.sh/beatmapsets/2418144#mania/5257867)
@@ -295,10 +295,10 @@ This competition has come to an end and resulted in the following podium:
 - Long Notes
   1. [cosMo@bousouP - R.I.P. Gossip Sea (Cut Ver.) (Hytex) \[What Comes Around Goes Around\]](https://osu.ppy.sh/beatmapsets/2418132#mania/5257845)
   2. [Getty vs. DJ DiA - Engage-Rex- (epic man 2) \[Salt and Seaweed-Rpingles-\]](https://osu.ppy.sh/beatmapsets/2418120#mania/5257813)
-  3. [Purukichi - Luster (Cut Ver.) (Poity, samuelhklumpers) \[samuelhklumpers's Shimmer (edit)\]](https://osu.ppy.sh/beatmapsets/2418211#mania/5258019)
+  3. [Purukichi - Luster (Cut Ver.) (samuelhklumpers) \[samuelhklumpers's Shimmer (edit)\]](https://osu.ppy.sh/beatmapsets/2418211#mania/5258019)
   4. [Fractal Dreamers - Ad Astra (Lott) \[Chasing the Spark Beyond 1.05x\]](https://osu.ppy.sh/beatmapsets/2418145#mania/5257869)
 - Hybrid
-  1. [TAG - Unknown Territory (Cut Ver.) (\[GB\]Rick, Lott, Silicosis 2, rikan) \[No Man's Land 1.05x (242bpm)\]](https://osu.ppy.sh/beatmapsets/2418180#mania/5257950)
+  1. [TAG - Unknown Territory (Cut Ver.) (Lott, Silicosis 2, rikan) \[No Man's Land 1.05x (242bpm)\]](https://osu.ppy.sh/beatmapsets/2418180#mania/5257950)
   2. [Jane Remover - JRJRJR (Cut Ver.) (Livium) \[J\]](https://osu.ppy.sh/beatmapsets/2418148#mania/5257876)
   3. [TJ.hangneil - Apollo (Lott) \[Anomaly behind the Lunar Shadow\]](https://osu.ppy.sh/beatmapsets/2040505#mania/5258212)
 - Tiebreaker
@@ -313,15 +313,15 @@ This competition has come to an end and resulted in the following podium:
   2. [Omoi - Snow Drive (Cut Ver.) (\[GB\]Oceanus) \[Frozen 1.05x\]](https://osu.ppy.sh/beatmapsets/2414460#mania/5246375)
   3. [katagiri - Youki Sanmyaku (Hytex) \[Hiking\]](https://osu.ppy.sh/beatmapsets/2414482#mania/5246426)
   4. [Kylie Minogue - Can't Get You Out Of My Head (Soulwax Elektronic Mix) (Cut Ver.) (Znow) \[Tragic Love Dump\]](https://osu.ppy.sh/beatmapsets/2414283#mania/5245383)
-  5. [Aquellex - Cortex Charger (Halogen-, guden) \[guden's Expert\]](https://osu.ppy.sh/beatmapsets/2062236#mania/4345081)
+  5. [Aquellex - Cortex Charger (guden) \[guden's Expert\]](https://osu.ppy.sh/beatmapsets/2062236#mania/4345081)
 - Long Notes
   1. [Hardwell & Armin van Buuren - Off the Hook (Cut Ver.) (Yuiesta) \[Massive (cut)\]](https://osu.ppy.sh/beatmapsets/2414537#mania/5246544)
   2. [coltrane - zeke didn't "invent dariacore", i did (Blue\_Potion) \[Darling 1.0x\]](https://osu.ppy.sh/beatmapsets/2414428#mania/5246186)
   3. [IZ\*ONE - FIESTA (Micleak) \[BAILA\]](https://osu.ppy.sh/beatmapsets/2414484#mania/5246429)
 - Hybrid
-  1. [Xyris - Crash-Landing Rendezvous (Hytex) \[Targic Daeth Exexex 1.1x (uhh plot scuffed cuz ltot i thikn)\]](https://osu.ppy.sh/beatmapsets/2414489#mania/5246437)
+  1. [Xyris - Crash-Landing Rendezvous (Hytex, Lott) \[Targic Daeth Exexex 1.1x (uhh plot scuffed cuz ltot i thikn)\]](https://osu.ppy.sh/beatmapsets/2414489#mania/5246437)
   2. [Eliminate - EGOTRIP (Livium) \[SIGMAEDIT1.05\]](https://osu.ppy.sh/beatmapsets/2414432#mania/5246198)
-  3. [JAKAZiD - Slaughta (Cut Ver.) (Poity, Ainer) \[Ainer's Onslaught (edit)\]](https://osu.ppy.sh/beatmapsets/2414450#mania/5246344)
+  3. [JAKAZiD - Slaughta (Cut Ver.) (Ainer) \[Ainer's Onslaught (edit)\]](https://osu.ppy.sh/beatmapsets/2414450#mania/5246344)
 - Tiebreaker
   1. **[tn-shi - Hitech Intuition (Lott) \[Fusion Synthesis\]](https://osu.ppy.sh/beatmapsets/2414522#mania/5246501)**
 
@@ -332,7 +332,7 @@ This competition has come to an end and resulted in the following podium:
 - Rice
   1. [Masayoshi Oishi - Kamiari Algorithm (katagiri Bootleg) (Eclipse-) \[trabic lobe speeb\]](https://osu.ppy.sh/beatmapsets/2410568#mania/5234151)
   2. [Three - Ego Rock long (Lott) \[Nonconformist\]](https://osu.ppy.sh/beatmapsets/2028653#mania/4227295)
-  3. [void (Mournfinale) - Swan Song (Poity, PORTTAYER) \[PORTTAYER's Symphony (edit)\]](https://osu.ppy.sh/beatmapsets/2410724#mania/5234611)
+  3. [void (Mournfinale) - Swan Song (PORTTAYER) \[PORTTAYER's Symphony (edit)\]](https://osu.ppy.sh/beatmapsets/2410724#mania/5234611)
   4. [Ichiko Aoba - Luciferine (Cut Ver.) (Hytex) \[Luminescence\]](https://osu.ppy.sh/beatmapsets/2410728#mania/5234631)
   5. [Ruby My Dear - Gaviscon (Micleak) \[Iron-tinted Booze (edit)\]](https://osu.ppy.sh/beatmapsets/2410741#mania/5234653)
 - Long Notes
@@ -353,15 +353,15 @@ This competition has come to an end and resulted in the following podium:
 - Rice
   1. [F-777 - Fasten Your Seatbelts (Lott) \[Lightspeed\]](https://osu.ppy.sh/beatmapsets/2407113#mania/5224163)
   2. [katagiri - ch3rry (snomi) \[1.05\]](https://osu.ppy.sh/beatmapsets/2406787#mania/5223347)
-  3. [Ino(chronoize) - Kumoru kan "Kagami" no kiri o fukumite (Poity, MarvelousCosmos) \[MarvelousCosmos' 'Death Stare' (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2407131#mania/5224202)
+  3. [Ino(chronoize) - Kumoru kan "Kagami" no kiri o fukumite (MarvelousCosmos) \[MarvelousCosmos' 'Death Stare' (edit) 1.05x\]](https://osu.ppy.sh/beatmapsets/2407131#mania/5224202)
   4. [Shirakami Fubuki - Kyoufuu All Back (Micleak) \[Fine Weather (edit)\]](https://osu.ppy.sh/beatmapsets/1991439#mania/5224143)
-  5. [kaitendaentai - Two-headed Zero (Poity, Vortex-) \[Vortex-'s NULL (OD8 + edit)\]](https://osu.ppy.sh/beatmapsets/2407133#mania/5224206)
+  5. [kaitendaentai - Two-headed Zero (Vortex-) \[Vortex-'s NULL (OD8 + edit)\]](https://osu.ppy.sh/beatmapsets/2407133#mania/5224206)
 - Long Notes
   1. [Fox Stevenson vs. Curbi - Hoohah (VIP Edit) (Cut Ver.) (Lott) \[Joyride\]](https://osu.ppy.sh/beatmapsets/2363499#mania/5095432)
   2. [rejection - Hypnotize (Hytex) \[black and white stripes 1.05x\]](https://osu.ppy.sh/beatmapsets/2407104#mania/5224149)
   3. [tadanoCo ft. Eve & 38Ban - Therefore You and Me (Micleak) \[Neither\]](https://osu.ppy.sh/beatmapsets/2407103#mania/5224148)
 - Hybrid
-  1. [Frums - Mu (Poity, Disguise) \[g--uis..-e's ..-.in..-s-a..-ne.-. (ed.it)\]](https://osu.ppy.sh/beatmapsets/2407138#mania/5224216)
+  1. [Frums - Mu (Disguise) \[g--uis..-e's ..-.in..-s-a..-ne.-. (ed.it)\]](https://osu.ppy.sh/beatmapsets/2407138#mania/5224216)
   2. [Skrillex - Voltage (Livium) \[Believe\]](https://osu.ppy.sh/beatmapsets/2407110#mania/5224158)
   3. [BUTAOTOME - Gensou no Satellite (Cut Ver.) (Micleak) \[Warp the Crescent\]](https://osu.ppy.sh/beatmapsets/2407116#mania/5224169)
 - Tiebreaker
