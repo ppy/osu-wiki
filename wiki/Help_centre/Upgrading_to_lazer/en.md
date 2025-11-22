@@ -44,7 +44,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Storyboards in main menu | ![No][false] | ![Yes][true][^supporter] |
 | Hiding difficulties | ![No][false] | ![Yes][true] |
 | First-run setup wizard | ![No][false] | ![Yes][true] |
-| Soft deletion | ![No][false] | ![Yes][true][^soft-deletion] |
+| Soft deletion | ![Partial][partial][^recycling-bin] | ![Partial][partial][^soft-deletion] |
 | Immediate setting changes during gameplay | ![No][false] | ![Yes][true] |
 
 ### Gameplay
@@ -333,7 +333,7 @@ You're likely thinking of another game.
 [^online-content]: Native access to most online content.
 [^direct-supporter]: Via osu!direct, osu!supporter-only.
 [^supporter]: osu!supporter-only.
-[^soft-deletion]: Restore deleted beatmaps and other data from the settings. Deletions only become permanent upon restart.
+[^soft-deletion]: Restore deleted beatmaps and other data from the settings. Deletions only become permanent upon restart. Skins are not saved.
 [^multi-room-max]: 16 players max.
 [^map-only]: Map only.
 [^all-files]: All files.
@@ -345,6 +345,7 @@ You're likely thinking of another game.
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
 [^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
 [^medals-stable]: Certain medals are lazer-exclusive.
+[^recycling-bin]: Deleted beatmaps are sent to the computer recycling bin. Skins are not saved.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
