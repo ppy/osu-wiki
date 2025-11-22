@@ -44,7 +44,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Storyboards in main menu | ![No][false] | ![Yes][true][^supporter] |
 | Hiding difficulties | ![No][false] | ![Yes][true] |
 | First-run setup wizard | ![No][false] | ![Yes][true] |
-| Soft deletion | ![True][true][^recycling-bin] | ![Partial][partial][^soft-deletion] |
+| Soft deletion | ![Yes][true][^recycling-bin] | ![Partial][partial][^soft-deletion] |
 | Immediate setting changes during gameplay | ![No][false] | ![Yes][true] |
 
 ### Gameplay
