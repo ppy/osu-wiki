@@ -139,6 +139,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Quarterfinals
 
+### Friday, 21 November 2025
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 23 | Russian Federation ::{ flag=RU }:: | ::{ flag=ES }:: Spain | [Nov 21 (Fri) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251121T200000&p1=1440&p2=166&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
 ### Saturday, 22 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
