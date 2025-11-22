@@ -18,11 +18,11 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 
 #### Alternativen
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Below Easy
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Between Normal and Hard
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Between Hard and Insane
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative to Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Above Expert
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Unter Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Zwischen Normal und Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Zwischen Hard und Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative zu Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Über Expert
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -34,9 +34,9 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 
 #### Alternativen
 
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Below Kantan
-- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: Alternative to Inner Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Above Inner Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Unter Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: Alternative zu Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Über Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -48,7 +48,7 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 
 #### Alternativen
 
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Above Overdose
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Über Overdose
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
