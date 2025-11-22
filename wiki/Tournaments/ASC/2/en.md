@@ -71,7 +71,64 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 
 ## Mappools
 
-*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+### Quarterfinals
+
+**[Download the mappack here! (109 MB)](https://drive.google.com/file/d/1W9tl9YYSawhEPwK1Pc8j1JjXRIZTg2SD/view)**
+
+- Rice
+  1. [Hayakore Tatsumi - CNP-Nya (Hylotl) \[Ron-nya (Cut)\]](https://osu.ppy.sh/beatmapsets/2465771#mania/5397994)
+  2. [Rairyu - ra'am (-mint-, hna) \[mint vs. hana's Kriemhild Gretchen\]](https://osu.ppy.sh/beatmapsets/1832490#mania/3761572)
+  3. [Sakuzyo - Arkadia \[Illusion\] (\[-Leon-\]) \[\[\[Crz\]hinako1804's Arcadia x1.1 (ASC edit)\]\]](https://osu.ppy.sh/beatmapsets/2465764#mania/5397987)
+  4. [Kettoshi - Area->Idea (\[GS\]hina) \[Illusione\]](https://osu.ppy.sh/beatmapsets/2465777#mania/5398012)
+  5. [Supire - Nebula (Miaurichesu) \[Nova\]](https://osu.ppy.sh/beatmapsets/2310400#mania/4942648)
+  6. [ZxNX & Violet.MKII - Pinkies & Dennies feat. azami & sheirara (AelSan) \[Welcome to Cunning Hares\]](https://osu.ppy.sh/beatmapsets/2465784#mania/5398022)
+- Long Notes
+  1. [PinocchioP - Love of Love by Love for Love (Cut ver.) ([HD]Erina) \["Love" was, though rotten, still "love".\]](https://osu.ppy.sh/beatmapsets/2465769#mania/5397992)
+  2. [Zekk - Fallen (\[HD\]Erina) \[Forever\]](https://osu.ppy.sh/beatmapsets/2465767#mania/5397990)
+  3. [Getty & Kobaryo - Breaking Dawn (feat. Itsuki Natsume) \[Short Version\] (MyZterioN-) \[LNation Anthem\]](https://osu.ppy.sh/beatmapsets/2438701#mania/5318794)
+  4. [KARUT - CrossFire (takehirotei remix) (\[-Leon-\]) \[under fire\]](https://osu.ppy.sh/beatmapsets/2369386#mania/5112084)
+- Hybrid
+  1. [Se-U-Ra - QSHELL -Kyoshoku no Shell- (guden) \[Atrophic\]](https://osu.ppy.sh/beatmapsets/1822586#mania/3739900)
+  2. [Xyris - ATLAS (IvanOfficial) \[Cartography\]](https://osu.ppy.sh/beatmapsets/2465774#mania/5398002)
+  3. [awfuless - Temptation (AlexDunk) \[no sv\]](https://osu.ppy.sh/beatmapsets/2465772#mania/5398000)
+- Slider Velocity
+  1. [USAO - Big Daddy (Evirir) \[54321 let's go\]](https://osu.ppy.sh/beatmapsets/2465704#mania/5397711)
+- Tiebreaker
+  1. **[Kiru - Void Paroxysm ([-Leon-]) \[Desolation\]](https://osu.ppy.sh/beatmapsets/2465794#mania/5398035)**
+
+### Round of 16
+
+**[Download the mappack here! (116 MB)](https://drive.google.com/file/d/1W8VMEArorYL2lHQ2IrnZpwEBece9mL7V/view)**
+
+- Rice
+  1. [Puru - Grimheart (polysha remix) (Eclipse-) \[Abyssal\]](https://osu.ppy.sh/beatmapsets/1429218#mania/2942329)
+  2. [AAAA - Hoshi no Otoshimono (OxalicAcid) \[Meteorshower\]](https://osu.ppy.sh/beatmapsets/2462494#mania/5387881)
+  3. [Culprate - Dawn (Cut Ver.) (Pizza69) \[Rise\]](https://osu.ppy.sh/beatmapsets/2311800#mania/4946095)
+  4. [Hiraumi - Zundamon no Choushoku (Kiraz) \[Chotto Matte!\]](https://osu.ppy.sh/beatmapsets/2462511#mania/5387929)
+  5. [AAAA - w = addict (G1NYA) \[Typing\]](https://osu.ppy.sh/beatmapsets/2403070#mania/5211828)
+- Long Notes
+  1. [billy woods - A Doll Fulla Pins (feat. Yolanda Watson) (epic man 2) \[Dislocation\]](https://osu.ppy.sh/beatmapsets/2462393#mania/5387420)
+  2. [DJ TOTTO - DORNWALD \~Junge\~ (stupud man) \[Anima\]](https://osu.ppy.sh/beatmapsets/1660098#mania/3391262)
+  3. [Feryquitous - Qavsell (Davvy) \[Heritage (cut edit)\]](https://osu.ppy.sh/beatmapsets/1187793#mania/2971627)
+- Hybrid
+  1. [ck - Souhait bleu (arpia97) \[Blessing (edit)\]](https://osu.ppy.sh/beatmapsets/1507111#mania/3734906)
+  2. [Memme - Xiao Long Bao (AelSan) \[Bu Yao He Douzhi\]](https://osu.ppy.sh/beatmapsets/2462497#mania/5387891)
+  3. [seatrus - Oyasmy (\[Crz\]FolAH1217) \[tidur\]](https://osu.ppy.sh/beatmapsets/2462499#mania/5387894)
+- Slider Velocity
+  1. [Bossfight - Nowise (Cut Ver.) (Promachos) \[Bewitched (SV)\]](https://osu.ppy.sh/beatmapsets/2462472#mania/5387826)
+- Tiebreaker
+  1. **[tn-shi - a tale of two (rikan) \[constellation\]](https://osu.ppy.sh/beatmapsets/2462503#mania/5387903)**
+
+### Qualifiers
+
+1. [Nor - Usagi Flap (EmoCosine Remix) (Revv-) \[Stage 1: Pyon\]](https://osu.ppy.sh/beatmapsets/2454525#mania/5363572)
+2. [daisan - Yukidoke-iro Furawazu (\[GS\]hina) \[Stage 2: Whiteout\]](https://osu.ppy.sh/beatmapsets/2454529#mania/5363578)
+3. [ESAI & Pure 100% - Nebula (Doshowz) \[Stage 3: Nebula\]](https://osu.ppy.sh/beatmapsets/2454526#mania/5363573)
+4. [Unlucky Morpheus - Dead Leaves Rising (Alptraum) \[Stage 4: Impermanence\]](https://osu.ppy.sh/beatmapsets/2454535#mania/5363597)
+5. [Co shu Nie - undress me (anatharax) \[Stage 5: Dismantled\]](https://osu.ppy.sh/beatmapsets/2454536#mania/5363598)
+6. [seatrus - TH3 5UMMONERS (FelixSpade) \[Stage 6: Conjurer\]](https://osu.ppy.sh/beatmapsets/2454538#mania/5363607)
+7. [P4koo - overwhelm (AelSan) \[Stage 7: Rolling\]](https://osu.ppy.sh/beatmapsets/2454539#mania/5363608)
+8. [kuro feat. niui - Tablear (Muses) \[Stage 8: Dice\]](https://osu.ppy.sh/beatmapsets/2454545#mania/5363627)
 
 ## Ruleset
 
