@@ -44,7 +44,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Storyboards in main menu | ![No][false] | ![Yes][true][^supporter] |
 | Hiding difficulties | ![No][false] | ![Yes][true] |
 | First-run setup wizard | ![No][false] | ![Yes][true] |
-| Soft deletion | ![Partial][partial][^recycling-bin] | ![Partial][partial][^soft-deletion] |
+| Soft deletion | ![True][true][^recycling-bin] | ![Partial][partial][^soft-deletion] |
 | Immediate setting changes during gameplay | ![No][false] | ![Yes][true] |
 
 ### Gameplay
@@ -345,7 +345,7 @@ You're likely thinking of another game.
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
 [^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
 [^medals-stable]: Certain medals are lazer-exclusive.
-[^recycling-bin]: Deleted beatmaps are sent to the computer recycling bin. Skins are not saved.
+[^recycling-bin]: Deleted beatmaps are sent to the computer recycling bin.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
