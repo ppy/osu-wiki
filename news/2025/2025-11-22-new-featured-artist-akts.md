@@ -8,7 +8,7 @@ Can you really claim you've listened to music until you've heard our new Feature
 
 ![](https://assets.ppy.sh/artists/513/header.jpg)
 
-Chilean producer **Akts** has been at it for over 10 years, offering their specific style of vocaloid-infused tunes spanning across the electronic spectrum. While countless genres and artists had an impact on **Akts**'s music, listeners might notice bits and pieces of *Crystal Castles* and *Skrillex* spread throughout **Akts**'s tracks.
+Chilean producer **Akts** has been at it for over 10 years, offering their specific style of Vocaloid-infused tunes spanning across the electronic spectrum. While countless genres and artists had an impact on **Akts**'s music, listeners might notice bits and pieces of *Crystal Castles* and *Skrillex* spread throughout **Akts**'s tracks.
 
 Those tracks (**10** to be specific!) can be found on [**Akts**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/513) in the form of pre-timed `.osz`s. Nobody said mapping would be easy, but that's one less step at least.
 
