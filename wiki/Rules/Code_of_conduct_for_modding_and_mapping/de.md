@@ -29,6 +29,6 @@ Beachte die folgenden Punkte, wenn es zu keiner Einigung kommt:
 
 - **Frag, wenn dir etwas unklar ist.** Frag die betreffende Person, damit sie dir erklärt, was sie meint. In der Regel sind Personen bereitwillig, dir Dinge mit mehr Details zu erklären.
 - **Frag jemanden mit mehr Erfahrung, wie beispielsweise ein [BN](/wiki/People/Beatmap_Nominators)- oder [NAT](/wiki/People/Nomination_Assessment_Team)-Mitglied.** Obwohl die Teams viel zu tun haben, sollten sie dir helfen können, eine Einigung zu erzielen.
-- **Sei offen für andere Meinungen.** Wenn du merkst, dass eine passendere Alternative zu deinem ursprünglichen Vorschlag existiert, sei nicht gekränkt. Es gibt keinen falschen Meinungen, also versuche, andere Ansichten zu verstehen, anstatt sie abzusprechen.
+- **Sei offen für andere Meinungen.** Wenn du merkst, dass eine passendere Alternative zu deinem ursprünglichen Vorschlag existiert, sei nicht gekränkt. Es gibt keine falschen Meinungen, also versuche, andere Ansichten zu verstehen, anstatt sie abzusprechen.
 - **Mache eine Pause, wenn die Diskussion zu hitzig wird.** Zum Diskutieren muss man die richtige Einstellung haben. Wenn du etwas nicht mit Logik erklären kannst, wirst du es auch nicht mit Gewalt können.
 - **Melde schlechtes Verhalten.** [Bitte einen Moderator um Unterstützung](/wiki/Reporting_bad_behaviour), wenn die Diskussion aus dem Ruder läuft oder vom Thema abschweift. Verschlimmere nicht das Problem, indem du weitere Beiträge veröffentlichst.
