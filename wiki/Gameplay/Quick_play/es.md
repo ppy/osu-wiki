@@ -81,6 +81,6 @@ Cada modo de juego tiene un mappool seleccionado por miembros de la comunidad qu
 
 ### ¿Dónde puedo dejar mis comentarios o dudas?
 
-Si tienes alguna pregunta o duda rápida sobre cualquier aspecto de las partidas rápidas, puedes publicarla en el [canal `#quick-play`](https://discord.com/channels/188630481301012481/1414123459684073577) ubicado en el [servidor de Discord osu!](https://discord.gg/ppy). Los comentarios y sugerencias para los desarrolladores se deberían dejar en esta [discusión de GitHub](https://github.com/ppy/osu/discussions/35506).
+Si tienes alguna pregunta o duda rápida sobre cualquier aspecto de las partidas rápidas, puedes publicarla en el [canal `#quick-play`](https://discord.com/channels/188630481301012481/1440912440224120882) ubicado en el [servidor de Discord osu!](https://discord.gg/ppy). Los comentarios y sugerencias para los desarrolladores se deberían dejar en esta [discusión de GitHub](https://github.com/ppy/osu/discussions/35506).
 
 [^mania]: osu!mania 4K y 7K se dividen en colas separadas y funcionan como modos completamente independientes en el contexto de las partidas rápidas.
