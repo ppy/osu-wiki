@@ -3,8 +3,6 @@ tags:
   - Mapper's Guild
   - MG
   - гильдия мапперов
-  - ГМ
-no_native_review: true
 ---
 
 # Mappers' Guild
