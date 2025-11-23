@@ -34,7 +34,7 @@ Estos atajos funcionan en cualquier lugar:
 | `Mayús` + `F12` | Toma una captura de pantalla y se sube al servidor para compartirla. La captura de pantalla también se guardará localmente. Esto abrirá la captura de pantalla en tu navegador. |
 | `Insertar` | Esta es la [tecla jefe](https://en.wikipedia.org/wiki/Boss_key). Minimiza el cliente del juego en el área de notificaciones. Esto también silenciará el juego. |
 | `Mayús` + `F1` | Abre [osu!status](https://twitter.com/osustatus) en tu navegador. (Solo cuando aparece un error de conexión). |
-| `Ctrl` + `O` | Abre la barra lateral de opciones. No se puede ingresar al asistente de compensación si no estás en el menú principal. |
+| `Ctrl` + `O` | Abre la barra lateral de opciones. No se puede ingresar al [asistente de compensación](/wiki/Client/Options/Offset_Wizard) si no estás en el menú principal. |
 
 ## Menú principal
 

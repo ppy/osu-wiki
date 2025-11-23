@@ -39,7 +39,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 [Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Mod (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Objek permainan](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Mod (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Tantangan harian](/wiki/Gameplay/Daily_challenge) • [Permainan kilat](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -63,7 +63,7 @@ Ranking merupakan proses bagi suatu beatmap untuk memperoleh papan peringkatnya 
 
 [Submisi](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Kriteria ranking](/wiki/Ranking_criteria): [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Kriteria ranking](/wiki/Ranking_criteria): [Versi sederhana](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -115,9 +115,9 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! tidak akan dapat hadir tanpa dukungan dari para pengguna yang membantu dalam hal pengembangan, pengelolaan, dan manajemen komunitas: upaya, jerih payah, dan dedikasi mereka memungkinkan permainan ini untuk terus tumbuh dan berkembang.
 
-[Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[Tim osu!](/wiki/People/osu!_team) • [Pengembang](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Tim Project Loved](/wiki/People/Project_Loved_Team) • [Kurator Beatmap Spotilight](/wiki/People/Beatmap_Spotlight_Curators) • [Komite turnamen](/wiki/People/Tournament_Committee)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_groups) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Elite Nominator](/wiki/People/Elite_Nominators) • [Kelompok pengguna](/wiki/People/User_groups) • [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Centurion](/wiki/People/Centurions) • [Completionist](/wiki/People/Completionists) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -126,7 +126,7 @@ osu! tidak akan dapat hadir tanpa dukungan dari para pengguna yang membantu dala
 
 Pelajari cara untuk berinteraksi dengan osu! melalui aplikasi dan media eksternal, atau bantu osu! untuk dapat berkembang lebih jauh.
 
-[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
+[Pesan pengumuman](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
