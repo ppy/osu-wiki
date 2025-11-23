@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
----
-
 # Juego
 
 - [Precisión](Accuracy)
@@ -13,6 +8,7 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 - [Efecto del multiplicador de combo](Combo_multiplier_effect)
 - [Estilos de juego](Play_style)
 - [Comboburst](Comboburst)
+- [Desafío diario](Daily_challenge)
 - [Dash](Dash)
 - [Dash snapping](Dash_snapping)
 - [Tiempo de drenaje](/wiki/Beatmap/Drain_time)
@@ -27,6 +23,7 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 - [Notelock](Judgement/Notelock)
 - [Pass](Pass)
 - [Tiempo de juego](/wiki/Beatmap/Play_time)
+- [Partida rápida](Quick_play)
 - [Repetición](Replay)
 - [Puntuación](Score)
 - [Slider break](Judgement/Slider_break)
