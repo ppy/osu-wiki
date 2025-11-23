@@ -4,6 +4,8 @@ tags:
   - beatmap submission system issues
   - Je ne peux pas soumettre ma propre beatmap !
   - problèmes dans le système de soumission d'une beatmap
+outdated_translation: true
+outdated_since: 325c441d7a67e45daa10ec8d91295e17c1f54999
 ---
 
 # Problème avec le BSS

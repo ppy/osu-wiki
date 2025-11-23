@@ -32,7 +32,6 @@ Below is a sorted list of guides created by members of the osu! community, most 
 ## Playing
 
 - [How to use the Offset Wizard](How_to_use_the_Offset_Wizard)
-- [Tablet purchase guide](Tablet_purchase)
 - [Tutorial for beginners](Beginner's_tutorial)
 
 ## Skinning
