@@ -168,7 +168,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ### Semifinals
 
-**[Download the mappack here (249 MB)](https://packs.ppy.sh/P305%20-%20osu%21%20World%20Cup%202025%3A%20Semifinals.zip)**\
+**[Download the mappack here (249 MB)](https://packs.ppy.sh/P305%20-%20osu%21%20World%20Cup%202025%3A%20Semifinals.zip?1763937887)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2626222567?t=1h19m3s)
 
 - No Mod
