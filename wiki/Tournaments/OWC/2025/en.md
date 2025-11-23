@@ -53,7 +53,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Statistician | ::{ flag=FI }:: **[shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! original design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
 | Tournament design | ::{ flag=CN }:: **[Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| Musician | [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69), [gladde paling](https://linktr.ee/gladdepaling), [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [MEMODEMO](https://soundcloud.com/MEMODEMO), [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430), [Mili](https://osu.ppy.sh/beatmaps/artists/331), [steelplus / hagane](https://steelplus.bandcamp.com), *more TBA* |
+| Musician | [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69), [gladde paling](https://linktr.ee/gladdepaling), [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [MEMODEMO](https://soundcloud.com/MEMODEMO), [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430), [Mili](https://osu.ppy.sh/beatmaps/artists/331), [steelplus / HAGANE](https://steelplus.bandcamp.com), *more TBA* |
 
 ## Links
 
@@ -342,6 +342,7 @@ Sunday, 23 November 2025:
 | 29 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/119903989) | [#1](https://www.twitch.tv/videos/2625999082?t=0h7m35s) |
 | 25c | Taiwan ::{ flag=TW }:: | 2 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/119904570) | [#1](https://www.twitch.tv/videos/2626079798) |
 | 28a | Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/119904521) | [#1](https://www.twitch.tv/videos/2625999082?t=1h9m34s) |
+| 27a | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/119906662) | [#1](https://www.twitch.tv/videos/2626222567?t=0h1m1s) |
 
 ### Round of 16
 
