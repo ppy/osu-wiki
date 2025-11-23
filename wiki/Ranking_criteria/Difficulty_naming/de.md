@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
----
-
 # Benennung von Schwierigkeitsgraden
 
 Mit der Benennung von Schwierigkeitsstufen wird Spielern mitgeteilt, wie schwierig eine Beatmap ist. Dieser Artikel listet allgemeine Konventionen sowie andere Alternativen auf, die sich im Laufe der Jahre angesammelt haben. Solange die Namen der Schwierigkeitsstufen jedoch beschreibend sind und die Anforderungen klar angeben, darfst du jede beliebige Art von Schema verwenden.
@@ -21,13 +16,27 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
+#### Alternativen
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Unter Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Zwischen Normal und Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Zwischen Hard und Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative zu Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Über Expert
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
+
+#### Alternativen
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Unter Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: Alternative zu Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Über Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -37,6 +46,10 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### Alternativen
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Über Overdose
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -44,17 +57,6 @@ Diese Namen für Schwierigkeitsgrade sind die am häufigsten genutzten für jede
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-
-### Weithin akzeptierte Alternativen
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Unter Easy
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Unter Kantan
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Zwischen Normal und Hard
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Zwischen Hard und Insane
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternative zu Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Über Expert
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Über Inner Oni / Ura Oni
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Über Overdose
 
 ## Benennung von Schwierigkeitsgraden von anderen Spielen
 
