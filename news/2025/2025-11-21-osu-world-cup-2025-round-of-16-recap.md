@@ -30,7 +30,7 @@ For those who prefer a visual recap of the week's action, you can once more chec
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2613988017&parent=osu.ppy.sh&autoplay=false&time=4h44m24s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.jpg)
+![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.jpg?1)
 
 This Round of 16 mappool had some quite interesting maps to offer, with plenty of unique ones chosen. From the already existing maps, some selections stood out, such as [CWC 2024](/wiki/Tournaments/CWC/2024)'s [osu! original](/wiki/Community/Bespoke_music) [step by step](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), as well as [Oboetete Ii Yo](https://osu.ppy.sh/beatmapsets/53791#osu/163836). *step by step* was a swing offering with interesting flow and slider aim tests, while [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)'s *Oboetete Ii Yo* map was a nostalgic, mechanically intense fast pick on DT, and an interesting view into 13-year-old mapping.
 
