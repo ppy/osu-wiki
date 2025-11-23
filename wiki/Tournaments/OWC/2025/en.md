@@ -139,44 +139,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Quarterfinals
 
-### Saturday, 22 November 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 28 | Philippines ::{ flag=PH }:: | ::{ flag=ID }:: Indonesia | [Nov 22 (Sat) 08:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T083000&p1=1440&p2=145&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 23 | New Zealand ::{ flag=NZ }:: | ::{ flag=SE }:: Sweden | [Nov 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T100000&p1=1440&p2=264&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 24 | France ::{ flag=FR }:: | ::{ flag=JP }:: Japan | [Nov 22 (Sat) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T113000&p1=1440&p2=195&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 22 | Romania ::{ flag=RO }:: | ::{ flag=TW }:: Taiwan | [Nov 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T130000&p1=1440&p2=49&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 27 | Russian Federation ::{ flag=RU }:: | ::{ flag=ES }:: Spain | [Nov 22 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T143000&p1=1440&p2=166&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 26 | Norway ::{ flag=NO }:: | ::{ flag=TR }:: Türkiye | [Nov 22 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T160000&p1=1440&p2=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 25 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Nov 22 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T173000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 21 | Chile ::{ flag=CL }:: | ::{ flag=AT }:: Austria | [Nov 22 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T190000&p1=1440&p2=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 19 | United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Nov 22 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251122T200000&p1=1440&p2=263&p3=136) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-
 ### Sunday, 23 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 32a | Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Nov 23 (Sun) 08:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T083000&p1=1440&p2=145&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 32b | Philippines ::{ flag=PH }:: | ::{ flag=ES }:: Spain | [Nov 23 (Sun) 08:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T083000&p1=1440&p2=145&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 32c | Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Nov 23 (Sun) 08:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T083000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 32d | Indonesia ::{ flag=ID }:: | ::{ flag=ES }:: Spain | [Nov 23 (Sun) 08:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T083000&p1=1440&p2=108&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 20 | Australia ::{ flag=AU }:: | ::{ flag=KR }:: South Korea | [Nov 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T100000&p1=1440&p2=57&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 30a | France ::{ flag=FR }:: | ::{ flag=NZ }:: New Zealand | [Nov 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T100000&p1=1440&p2=195&p3=264) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 30b | France ::{ flag=FR }:: | ::{ flag=SE }:: Sweden | [Nov 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T100000&p1=1440&p2=195&p3=239) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 30c | Japan ::{ flag=JP }:: | ::{ flag=NZ }:: New Zealand | [Nov 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T100000&p1=1440&p2=248&p3=264) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 30d | Japan ::{ flag=JP }:: | ::{ flag=SE }:: Sweden | [Nov 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T100000&p1=1440&p2=248&p3=239) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 17 | Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Nov 23 (Sun) 11:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T113000&p1=1440&p2=262&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 29b | Romania ::{ flag=RO }:: | ::{ flag=AT }:: Austria | [Nov 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T130000&p1=1440&p2=49) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 29d | Taiwan ::{ flag=TW }:: | ::{ flag=AT }:: Austria | [Nov 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T130000&p1=1440&p2=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 29c | Taiwan ::{ flag=TW }:: | ::{ flag=CL }:: Chile | [Nov 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T150000&p1=1440&p2=241&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 31a | Norway ::{ flag=NO }:: | ::{ flag=BR }:: Brazil | [Nov 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T160000&p1=1440&p2=187&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 31b | Norway ::{ flag=NO }:: | ::{ flag=FI }:: Finland | [Nov 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T160000&p1=1440&p2=187&p3=101) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 31c | Türkiye ::{ flag=TR }:: | ::{ flag=BR }:: Brazil | [Nov 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T160000&p1=1440&p3=45) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 31d | Türkiye ::{ flag=TR }:: | ::{ flag=FI }:: Finland | [Nov 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T160000&p1=1440&p3=101) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 29a | Romania ::{ flag=RO }:: | ::{ flag=CL }:: Chile | [Nov 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T170000&p1=1440&p2=49&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 18 | Canada ::{ flag=CA }:: | ::{ flag=DE }:: Germany | [Nov 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T180000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-|  | Semifinals | mappool showcase | [Nov 23 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 32 | Australia ::{ flag=AU }:: | ::{ flag=KR }:: South Korea | [Nov 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T100000&p1=1440&p2=57&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 26a | France ::{ flag=FR }:: | ::{ flag=NZ }:: New Zealand | [Nov 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T110000&p1=1440&p2=195&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 29 | Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Nov 23 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T140000&p1=1440&p2=262&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 25c | Taiwan ::{ flag=TW }:: | ::{ flag=CL }:: Chile | [Nov 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T150000&p1=1440&p2=241&p3=232) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 28a | Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Nov 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T150000&p1=1440&p2=145&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 27a | Norway ::{ flag=NO }:: | ::{ flag=BR }:: Brazil | [Nov 23 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T190000&p1=1440&p2=187&p3=45) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+|  | Semifinals | mappool showcase | [Nov 23 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251123T200000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -188,7 +161,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 - No Mod
   1. [zebrahead - Falling Apart (piroshki) \[The Perfect Crime (OWC)\]](https://osu.ppy.sh/beatmapsets/2465412#osu/5396874)
   2. [Into Infernus - Shimmy (Mazzerin) \[Perplexed Dementia\]](https://osu.ppy.sh/beatmapsets/1568026#osu/3201572)
-  3. [La Maquina De Hacer Pajaros - Hipercandombe (-Links) \[Hipernatural\]](https://osu.ppy.sh/beatmapsets/2465419#osu/5396884)
+  3. [La Maquina De Hacer Pajaros - Hipercandombe (-Links) \[Hipernatural (OWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2465419#osu/5396883)
   4. [MetaHumanBoi - ILLUSTRIOUS DRIFTERS (Aistre, Altai) \[TOKYO TONI\]](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699)
   5. [LUZE - ULTRA RENDA 1 (pw384) \[:sleephappy:\]](https://osu.ppy.sh/beatmapsets/2465421#osu/5396886)
 - Hidden
@@ -290,6 +263,28 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 22 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 23 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/119886429) | [#1](https://www.twitch.tv/videos/2624440687?t=0h4m42s) |
+
+Saturday, 22 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 19 | **New Zealand** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119891963) | [#1](https://www.twitch.tv/videos/2625094523?t=0h8m55s) |
+| 18 | Romania ::{ flag=RO }:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119893306) | [#1](https://www.twitch.tv/videos/2625094523?t=0h8m51s) |
+| 20 | **France** ::{ flag=FR }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/119893254) | [#1](https://www.twitch.tv/videos/2625140573) |
+| 24 | **Philippines** ::{ flag=PH }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119893634) | [#1](https://www.twitch.tv/videos/2625183664) |
+| 21 | **Brazil** ::{ flag=BR }:: | **6** | 4 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119894518) | [#1](https://www.twitch.tv/videos/2625094523?t=2h5m16s) |
+| 22 | **Norway** ::{ flag=NO }:: | **6** | 2 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/119894490) | [#1](https://www.twitch.tv/videos/2625223199) |
+| 30 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/119895668) | [#1](https://www.twitch.tv/videos/2625094523?t=4h8m54s) |
+| 17 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119896209) | [#1](https://www.twitch.tv/videos/2625360195) |
+| 31 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119896553) | [#1](https://www.twitch.tv/videos/2625094523?t=5h37m35s) |
 
 ### Round of 16
 
@@ -812,5 +807,4 @@ The final bracket configuration will be as follows:
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches

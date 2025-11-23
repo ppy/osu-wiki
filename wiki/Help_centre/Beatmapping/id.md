@@ -14,7 +14,7 @@ tags:
   - peringatan
 ---
 
-# Beatmapping dan editor
+# Pembuatan beatmap dan editor
 
 *Halaman utama: [Pusat bantuan](/wiki/Help_centre)*
 
@@ -50,7 +50,7 @@ Apabila kamu masih mengalami masalah atau membutuhkan informasi lebih lanjut sep
 
 Segala jenis konten yang diunggah tanpa izin dapat ditindak sebagai pelanggaran hak cipta apabila pihak pemilik asli konten ingin menangani hal ini dengan cara yang demikian. Oleh karenanya, demi memastikan proses hukum yang adil, permintaan penghapusan konten ini memerlukan suatu prosedur hukum.
 
-Mohon untuk **tidak** mengirimkan laporanmu melalui [perintah `!report` di dalam permainan](/wiki/Reporting_bad_behaviour#in-game-chat) atau melalui [situs web osu!](/wiki/Reporting_bad_behaviour#situs-web), karena para anggota [NAT](/wiki/People/Nomination_Assessment_Team) dan [GMT](/wiki/People/Global_Moderation_Team) yang mengelola laporan ini tidak memiliki wewenang untuk menangani permasalahan hukum.
+Mohon untuk **tidak** mengirimkan laporanmu melalui [perintah `!report` di dalam permainan](/wiki/Reporting_bad_behaviour#in-game-chat) atau [situs web osu!](/wiki/Reporting_bad_behaviour#situs-web), karena para anggota [NAT](/wiki/People/Nomination_Assessment_Team) dan [GMT](/wiki/People/Global_Moderation_Team) yang mengelola laporan ini tidak memiliki wewenang untuk menangani permasalahan hukum.
 
 ## Bagaimana cara saya menghapus beatmap milik saya? {id=delete-beatmap}
 
