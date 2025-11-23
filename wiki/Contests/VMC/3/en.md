@@ -19,8 +19,8 @@ The third iteration of the contest introduces a *multi-phase format* featuring t
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2025-10-05 |
-| PARALLEL round submission deadline | 2025-11-09 |
-| Screening | 2025-11-10/2025-11-15 |
+| PARALLEL round submission deadline | 2025-11-13 |
+| Screening | 2025-11-13/2025-11-15 |
 | SWAP round submission deadline | 2025-12-07 |
 | Judging | 2025-12-08/2025-12-19 |
 | Results livestream | 2025-12-21 |
