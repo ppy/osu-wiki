@@ -28,9 +28,9 @@ The name of the game lies in its name: *quick* play! The system aims to provide 
 
 For those looking into more specific details, please check out the [wiki article](/wiki/Gameplay/Quick_play) to know more about the project's inner workings.
 
-## Quick Play launch event
+## Quick play launch event
 
-In an attempt to get the word out and to get more players to try out the system, the team has planned weekly test runs for the next four weeks. These runs will allow players to test Quick Play under different environments, allowing the team to gather user feedback and make adjustments towards the version that players like the most!
+In an attempt to get the word out and to get more players to try out the system, the team has planned weekly test runs for the next four weeks. These runs will allow players to test quick play under different environments, allowing the team to gather user feedback and make adjustments towards the version that players like the most!
 
 The current schedule alongside the different environments is as follows:
 
@@ -45,7 +45,7 @@ While the manually curated pools are an expansion of the existing pools players 
 
 The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out works and what doesn't.
 
-## What's next for Quick Play
+## What's next for quick play
 
 
 
