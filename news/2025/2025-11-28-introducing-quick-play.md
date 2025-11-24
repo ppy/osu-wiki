@@ -32,13 +32,16 @@ For those looking into more specific details, please check out the [wiki article
 
 ## Stuff to come
 
+
+
+
 TODO: Consult this with smoogi. See what we can realistically "promise" or what are the current plans/goals set by the team.
 
 ---
 
 We want to extend our thanks to all users who have made this possible. From the developers tasked with implementing the system from scratch, to the community members who were willing to test and offer feedback, as well as the users behind the first mappools used to try the system out.
 
-For those who are willing to provide feedback, you'll be able to find a dedicated [thread](https://discord.com/channels/188630481301012481/1414123459684073577) in the [osu! Discord server](https://discord.gg/ppy) as well as a [GitHub discussion](https://github.com/ppy/osu/discussions/35506) in the osu! repository.
+For those who are willing to provide feedback, you'll be able to find a dedicated [channel](https://discord.com/channels/188630481301012481/1440912440224120882) in the [osu! Discord server](https://discord.gg/ppy) as well as a [GitHub discussion](https://github.com/ppy/osu/discussions/35506) in the osu! repository.
 
 Stay tuned for more announcements, change-logs, and news about the system in the coming weeks.
 
