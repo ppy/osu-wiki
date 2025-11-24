@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Birth of osu! Quick Play
+title: Introducing Quick Play
 date: 2025-11-23 12:00:00 +0000
 ---
 
@@ -11,6 +11,10 @@ Leaves fall rather quickly in the autumn, yet none of them will be as quick as o
 The demand to add matchmaking to the game has not gone unnoticed. Rising popularity on some community solutions such as auto-hosting bots and full on external matchmaking services have only reinforced this idea.
 
 As of two weeks ago, however, osu! officially introduced its own version of matchmaking appropriately called [quick play](/wiki/Gameplay/Quick_play) (name pending)!
+
+The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out works and what doesn't.
+
+We hope you'll join us this coming November 29th in a stress-test with the addition of over 120 new maps (including mods) to the pool, global rating leaderboards, randomised voting, and more. Of course, the team will also be participating!
 
 ## But what exactly is quick play?
 
@@ -35,5 +39,7 @@ TODO: Consult this with smoogi. See what we can realistically "promise" or what 
 We want to extend our thanks to all users who have made this possible. From the developers tasked with implementing the system from scratch, to the community members who were willing to test and offer feedback, as well as the users behind the first mappools used to try the system out.
 
 For those who are willing to provide feedback, you'll be able to find a dedicated [thread](https://discord.com/channels/188630481301012481/1414123459684073577) in the [osu! Discord server](https://discord.gg/ppy) as well as a [GitHub discussion](https://github.com/ppy/osu/discussions/35506) in the osu! repository.
+
+Stay tuned for more announcements, change-logs, and news about the system in the coming weeks.
 
 —the osu! team
