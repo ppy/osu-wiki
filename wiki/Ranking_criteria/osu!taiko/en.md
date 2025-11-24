@@ -82,7 +82,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 ### Rest moment guidelines
 
-Rest moments are used to separate patterns and provide a break for the player during gameplay. They play an important role in reducing player fatigue, especially on denser rhythms.
+Rest moments are small pauses in gameplay used to separate patterns and provide a break for the player from continuous rhythm chains. They play an important role in reducing player fatigue, especially on denser rhythms.
 
 Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 
