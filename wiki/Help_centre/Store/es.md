@@ -38,7 +38,7 @@ No dudes en ponerte en contacto con [merch@ppy.sh](mailto:merch@ppy.sh) si sigue
 
 ### osu!tablet {id=osu!tablet}
 
-Si bien la mayoría de los productos de osu! se envían desde nuestro almacén en Estados Unidos las [osu!tablets (intro)](https://osu.ppy.sh/store/products/1447) se envían desde Hong Kong a través de Hongkong Post e-Express+. Debido a las restricciones comerciales entre Hong Kong y Estados Unidos, no podemos enviar estas tabletas a Estados Unidos.
+Si bien la mayoría de los productos de osu! se envían desde nuestro almacén en Estados Unidos, las [osu!tablets (intro)](https://osu.ppy.sh/store/products/1447) se envían desde Hong Kong a través de Hongkong Post e-Express+. Debido a las restricciones comerciales entre Hong Kong y Estados Unidos, no podemos enviar estas tabletas a Estados Unidos.
 
 ## ¡Nada de esto se relaciona con lo que necesito ayuda! {id=none}
 
