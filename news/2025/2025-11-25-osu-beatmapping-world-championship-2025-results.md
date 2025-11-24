@@ -101,7 +101,7 @@ This year, we received a total of 1,000 USD of donations from a wide range of sp
 
 Throughout the contest, 61 teams contributed over 100 beatmaps, all sourced from the osu! Featured Artist library. If you'd like to explore more of these awesome creations, feel free to [browse the beatmap listing](https://osu.ppy.sh/beatmapsets?q=obwc25&s=any)! As we look ahead to the next o!bwc, we'd love to hear from you. Share your thoughts, suggestions, or ideas through our [feedback form](https://forms.gle/6GYtHC5r1gCWtDgL9), and also do not forget to join our [Discord server](https://discord.com/invite/QGzz3n655u) for future updates!
 
-Congratulations once again to ::{ flag=US }::Team United States for winning the osu! Beatmapping World Championship 2025! We also extend our heartfelt thanks to all participants for their creativity and passion, as well as to the judges, helpers, and generous sponsors who made this contest possible.
+Congratulations once again to ::{ flag=US }:: Team United States for winning the osu! Beatmapping World Championship 2025! We also extend our heartfelt thanks to all participants for their creativity and passion, as well as to the judges, helpers, and generous sponsors who made this contest possible.
 
 ![Credits with everyone involved](/wiki/shared/news/2025-11-25-osu-beatmapping-world-championship-2025-results/credits.jpg)
 
