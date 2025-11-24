@@ -56,7 +56,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 > 
 > Of course, the lyrics also went through several rewrites, requiring a lot of effort. On the mapping side, it was a brutal grind. Pulling off a map of this level in only two weeks is a monumental challenge—the intro alone took us a solid two to three days. Getting even four hours of sleep a night felt like a lot. I think I was averaging about two and a half hours of sleep a night during that two-week stretch, lol. But it was all worth it. Team Taiwan was an incredible opponent, and they pushed us to our absolute limits. Thanks again for an amazing and unforgettable match.
 
-### [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2424914) by ::{ flag=FR }:: Team United States (Semifinal)
+### [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2424914) by ::{ flag=US }:: Team United States (Semifinal)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
