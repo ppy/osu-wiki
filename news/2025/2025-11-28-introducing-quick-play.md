@@ -12,8 +12,6 @@ The demand to add matchmaking to the game has not gone unnoticed. Rising popular
 
 As of two weeks ago, however, osu! officially introduced its own version of matchmaking appropriately called [quick play](/wiki/Gameplay/Quick_play) (name pending)!
 
-The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out works and what doesn't.
-
 We hope you'll join us this coming November 29th in a stress-test with the addition of over 120 new maps (including mods) to the pool, global rating leaderboards, randomised voting, and more. Of course, the team will also be participating!
 
 ## But what exactly is quick play?
@@ -30,7 +28,24 @@ The name of the game lies in its name: *quick* play! The system aims to provide 
 
 For those looking into more specific details, please check out the [wiki article](/wiki/Gameplay/Quick_play) to know more about the project's inner workings.
 
-## Stuff to come
+## Quick Play launch event
+
+In an attempt to get the word out and to get more players to try out the system, the team has planned weekly test runs for the next four weeks. These runs will allow players to test Quick Play under different environments, allowing the team to gather user feedback and make adjustments towards the version that players like the most!
+
+The current schedule alongside the different environments is as follows:
+
+| Dates | Pool type | Matchmaking type |
+| :-: | :-: | :-: |
+| November 29th – December 6th | Manually curated | 1v1 |
+| December 6th – December 13th | Manually curated | FFA |
+| December 13th – December 20th | Randomised | 1v1 |
+| December 20th – December 27th | Randomised | FFA |
+
+While the manually curated pools are an expansion of the existing pools players have been able to play so far, the team wants to experiment with pseudo-randomised pools that would be created on the fly based on a lobby's average MMR. Additionally, we want to experiment with different lobby sizes to see how players react towards different competitive environments.
+
+The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out works and what doesn't.
+
+## What's next for Quick Play
 
 
 
