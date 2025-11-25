@@ -6,6 +6,8 @@ tags:
   - osu! team
   - staff
   - team osu!
+  - стафф
+  - команда
 ---
 
 # Команда osu!
