@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! Beatmapping World Championship 2025 Results"
+title: osu! Beatmapping World Championship 2025 Results
 date: 2025-11-25 13:00:00 +0000
 ---
 
@@ -24,7 +24,6 @@ The final stage featured two thrilling matches among the top four teams: ::{ fla
 ## Map highlights
 
 The o!bwc teams have brought an incredible variety of maps to the community. And who better to share the stories behind these creations than the teams themselves? Let's hear from them about the inspirations and challenges behind these amazing maps throughout the contest!
-
 
 ### [BilliumMoto & Miyolophone - IX's Shadow](https://osu.ppy.sh/beatmapsets/2402714) by ::{ flag=TW }:: Team Taiwan (Round of 16)
 
@@ -85,7 +84,7 @@ This year, we received a total of 1,000 USD of donations from a wide range of sp
 | Placement | Team | Awards |
 | :-: | :-- | :-- |
 | 1st | ::{ flag=US }:: United States | **$400 USD**, profile badge, 3 [contest points](/wiki/Contests/Contest_points) |
-| 2nd | ::{ flag=KR }:: South Korea  | **$300 USD**, profile badge, 2 [contest points](/wiki/Contests/Contest_points) |
+| 2nd | ::{ flag=KR }:: South Korea | **$300 USD**, profile badge, 2 [contest points](/wiki/Contests/Contest_points) |
 | 3rd | ::{ flag=TW }:: Taiwan | **$200 USD**, profile badge, 1 [contest point](/wiki/Contests/Contest_points) |
 | 4th | ::{ flag=FR }:: France | **$100 USD** |
 

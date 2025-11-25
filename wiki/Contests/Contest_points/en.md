@@ -29,7 +29,7 @@ Contest points have been used in the following contests:
 - [Pending Cup 2024](/wiki/Contests/PDC/2024) (PDC 2024)
 - [Mapping Global Taiko Showdown 2025](/wiki/Contests/MGTS/2025) (MGTS 2025)
 - [Summer Mapping Contest #2](https://osu.ppy.sh/community/forums/topics/2091339) (SMC2)
-- [osu! Beatmapping World Championship 2025](/wiki/o!bwc/4) (o!bwc 2025)
+- [osu! Beatmapping World Championship 2025](/wiki/Contests/o!bwc/4) (o!bwc 2025)
 
 ## Leaderboard
 

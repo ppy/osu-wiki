@@ -37,7 +37,7 @@ tags:
 | Placement | Team | Prizes |
 | :-: | :-- | :-- |
 | [1st](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: United States | **$400 USD**, profile badge, 3 [contest points](/wiki/Contests/Contest_points) |
-| [2nd](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: South Korea  | **$300 USD**, profile badge, 2 [contest points](/wiki/Contests/Contest_points) |
+| [2nd](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: South Korea | **$300 USD**, profile badge, 2 [contest points](/wiki/Contests/Contest_points) |
 | [3rd](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TW }:: Taiwan | **$200 USD**, profile badge, 1 [contest point](/wiki/Contests/Contest_points) |
 | 4th | ::{ flag=FR }:: France | **$100 USD** |
 
