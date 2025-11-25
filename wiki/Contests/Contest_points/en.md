@@ -29,6 +29,7 @@ Contest points have been used in the following contests:
 - [Pending Cup 2024](/wiki/Contests/PDC/2024) (PDC 2024)
 - [Mapping Global Taiko Showdown 2025](/wiki/Contests/MGTS/2025) (MGTS 2025)
 - [Summer Mapping Contest #2](https://osu.ppy.sh/community/forums/topics/2091339) (SMC2)
+- [osu! Beatmapping World Championship 2025](/wiki/Contests/o!bwc/4) (o!bwc 2025)
 
 ## Leaderboard
 
@@ -36,15 +37,15 @@ Contest points have been used in the following contests:
 
 | User | Points | Contests |
 | :-- | :-- | :-- |
-| ::{ flag=US }:: [**fowwo**](https://osu.ppy.sh/users/4547551) | **12** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [**fowwo**](https://osu.ppy.sh/users/4547551) | **15** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (12) [o!bwc 2025](/wiki/Contests/o!bwc/4) (3) |
 | ::{ flag=RU }:: [**xbopost**](https://osu.ppy.sh/users/6842421) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [**kuyusu**](https://osu.ppy.sh/users/11758667) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [**hypercyte**](https://osu.ppy.sh/users/9155377) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PH }:: [**acnozei**](https://osu.ppy.sh/users/10141268) | **7** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (6), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (1) |
 | ::{ flag=DE }:: [**Mao**](https://osu.ppy.sh/users/2204515) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=KR }:: [**Acylica**](https://osu.ppy.sh/users/1943309) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=KR }:: [**Acylica**](https://osu.ppy.sh/users/1943309) | **8** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (6) [o!bwc 2025](/wiki/Contests/o!bwc/4) (2) |
 | ::{ flag=BE }:: [**Sylas**](https://osu.ppy.sh/users/3906405) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
-| ::{ flag=US }:: [**phyr**](https://osu.ppy.sh/users/13181574) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [**phyr**](https://osu.ppy.sh/users/13181574) | **9** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (6) [o!bwc 2025](/wiki/Contests/o!bwc/4) (3) |
 | ::{ flag=CN }:: [**iBell**](https://osu.ppy.sh/users/4298072) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (4), [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) (2) |
 | ::{ flag=DE }:: [**0ppInOsu**](https://osu.ppy.sh/users/12551840) | **6** | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | 4 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (2), [Twin Trials](/wiki/Contests/Twin_Trials_Contest) (2) |
@@ -53,6 +54,9 @@ Contest points have been used in the following contests:
 | ::{ flag=KR }:: [bIG data](https://osu.ppy.sh/users/17744610) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) (1), [Kyoku 2024](/wiki/Contests/Kyoku/2024) (2) |
 | ::{ flag=RU }:: [KomachiBaka](https://osu.ppy.sh/users/6155320) | 3 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=US }:: [6pXgEj3hc7Umj5H](https://osu.ppy.sh/users/18130046) | 3 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | 3 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=US }:: [Weoweet](https://osu.ppy.sh/users/16861790) | 3 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -64,6 +68,9 @@ Contest points have been used in the following contests:
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
+| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=KR }:: [milr_](https://osu.ppy.sh/users/4485933) | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340) | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=PT }:: [amongusrtx30080](https://osu.ppy.sh/users/27476898) | 1 | [SMC2](https://osu.ppy.sh/community/forums/topics/2091339) |
 | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -88,6 +95,12 @@ Contest points have been used in the following contests:
 | ::{ flag=CN }:: [Hyasalia](https://osu.ppy.sh/users/3375004) | 1 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=US }:: [Jayblue](https://osu.ppy.sh/users/19618924) | 1 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=CN }:: [-YeLing-](https://osu.ppy.sh/users/14726718) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 
 ### osu!taiko
 
