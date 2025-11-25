@@ -45,13 +45,6 @@ While the manually curated pools are an expansion of the existing pools players 
 
 The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out works and what doesn't.
 
-## What's next for quick play
-
-
-
-
-TODO: Consult this with smoogi. See what we can realistically "promise" or what are the current plans/goals set by the team.
-
 ---
 
 We want to extend our thanks to all users who have made this possible. From the developers tasked with implementing the system from scratch, to the community members who were willing to test and offer feedback, as well as the users behind the first mappools used to try the system out.
