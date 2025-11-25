@@ -9,7 +9,7 @@ tags:
 
 ![ASC 2 banner](img/asc-2-banner.jpg)
 
-The **Asia Suiji Cup 2: Autumn Rhythm** (***ASC 2***) is a three-on-three asian and oceanian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=MY }:: [rantable](https://osu.ppy.sh/users/13630137). Each participant registered individually and is assigned to a random team. It is the second instalment of the Asia Suiji Cup, a successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series .
+The **Asia Suiji Cup 2: Autumn Rhythm** (***ASC 2***) is a three-on-three asian and oceanian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=MY }:: [rantable](https://osu.ppy.sh/users/13630137). Each participant registered individually and was assigned to a random team. It is the second instalment of the Asia Suiji Cup, its successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ The **Asia Suiji Cup 2: Autumn Rhythm** (***ASC 2***) is a three-on-three asian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, user profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, user profile banner |
 
-Donations and all supports can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup). Thanks to ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922) for sponsoring the entire osu!supporter tag prize pool (from first, second, and third place).
+Donations to the prize pool can be made through [ASC's Ko-fi page](https://ko-fi.com/asiasuijicup). Thanks to ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922) for sponsoring the entire osu!supporter tag prize pool (from first, second, and third place).
 
 ## Organisation
 
@@ -179,10 +179,10 @@ Detailed statistics for this round can be found in [this web page](https://asia-
 
 1. This is a **3v3 double-elimination tournament**, with a team size of 6 and a total of 16 teams. Only the top 96 players will be chosen to join this edition.
 2. The tournament is open to all players who have **country flags from Asia and Oceania** in their profiles. Participants must have flags from these regions to be eligible for entry.
-3. To sign up players must do so through the website and must be in the discord server. Failure to do so will count your registration as incomplete and not eligible to participate.
+3. Players must sign up through the [website](https://asia-suiji-cup.vercel.app/tournament/2/info/main) and must be in the [Discord server](https://discord.gg/NUd7GyU4Hd). Failure to do so will count your registration as incomplete and not eligible to participate.
 4. Players display names in the Discord server must be the same as their osu! username during the entire duration of the tournament.
 5. A "sandbagging" formula will be used to help determine the true ranks of players to avoid disruptions and highly unbalanced teams that may potentially ruin the Suiji Cup experience. Player seedings and formula details will be revealed right before sign ups close.
-6. Participants will be split up into 3 different seeds, "A", "B" and "C". Each team will be formed by a live randomization process and will consist of 2 players from each seed (a team will have 6 players, A, A, B, B, C, C).
+6. Participants will be split up into 3 different seeds, "A", "B" and "C". Each team will be formed by a live randomisation process and will consist of 2 players from each seed (a team will have 6 players, A, A, B, B, C, C).
 7. "A" seeded players have the ability to substitute with "B" or "C" seed on their team. "B" seeded players also have the ability to substitute but only with "C" seed on their team.
 8. Teams will be given 5 days to choose a team name and a captain. Failure to submit a team name and a captain will result in an assigned team name chosen by the staff and the highest-ranked player being made captain by default.
 
@@ -190,15 +190,14 @@ Detailed statistics for this round can be found in [this web page](https://asia-
 
 1. Unlike the previous iteration, there will only be 1 SV pick in the mappool, and it cannot be banned.
 2. Visual mods such as: HD, FL, FI, and MR along with NF mod are allowed. Meanwhile, EZ and HR mod are not allowed.
-3. In the event of a disconnection, the map can be replayed if the disconnect is within the first 30 seconds or before the first quarter of the map. Otherwise, if there is proof of the disconnected player's score, it will be used. Each team is allowed one replay per match, the referee will have the final say in disconnection situations.
+3. In the event of a disconnection, the map can be replayed if the disconnect is within the first 30 seconds or before the first quarter of the map. Otherwise, if there is proof of the disconnected player's score, it will be used. Each team is allowed one replay per match, and the referee will have the final say in these situations.
 4. If a player is not cooperative with the referee and intentionally stalls the match, they will be warned by the referee. If the problem persists the host has the power to end the match and decide the winner on the spot.
 5. Other special and unique cases that could happen will be up to the host to decide the next moves.
 
 ### Schedules
 
-We, the Tournament staff will be responsible for scheduling all matches and informing players when they are scheduled to play. If a player is unable to play with the schedule they will have the option to request a reschedule, details about this topic will be explained further when the tournament begins.
+The tournament staff will be responsible for scheduling all matches and informing players when they are scheduled to play. If a player is unable to play with the schedule they will have the option to request a reschedule, details about this topic will be explained further when the tournament begins.
 
-We will do our best to schedule each match according to each player's preferred time to play.
 
 1. If no referee is available during the match, the match shall be delayed.
 2. If no streamers are available to broadcast the match, the match will still happen without being broadcast.
