@@ -43,8 +43,8 @@ tags:
 
 ## Organisation
 
-| Role | Members |
-| --: | :-- |
+| Position | Member(s) |
+| :-- | :-- |
 | Hosts | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
 | Commentators | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |
 | Judges (qualifier round) | ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303), ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547), ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009), ::{ flag=AR }:: [Lince Cosmico](https://osu.ppy.sh/users/6070370), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
