@@ -29,9 +29,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 ### [BilliumMoto & Miyolophone - IX's Shadow](https://osu.ppy.sh/beatmapsets/2402714) by ::{ flag=TW }:: Team Taiwan (Round of 16)
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-11-25-obwc2025-ix-s-shadow.mp4" type="video/mp4" preload="none">
-    </video>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DD5PeHEd2eY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > From the qualifiers up to now, we've maintained a style that's distinct from other countries. We've stuck to showing the song's character through the map itself instead of doing anything too flashy — and judging by the results, it worked.
@@ -45,9 +43,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 ### [Ice - Conclusio Catastropha (Game Ver.)](https://osu.ppy.sh/beatmapsets/2425045) by ::{ flag=KR }:: Team South Korea (Semifinal)
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-11-25-obwc2025-conclusio-catastropha.mp4" type="video/mp4" preload="none">
-    </video>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/vWac6_ZrHiw" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > The map we'd like to talk about is Ice - Conclusio Catastropha (Game Ver.). Going into the semi-finals, we saw Team Taiwan as absolute titans. Acylica was like a broken record, always repeating, "How do we even beat Taiwan?" Honestly, for our team, the semi-finals were our real finals. That was the round where we left everything on the table.
@@ -59,9 +55,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 ### [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2424914) by ::{ flag=US }:: Team United States (Semifinal)
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-11-25-obwc2025-hometown-in-ruins.mp4" type="video/mp4" preload="none">
-    </video>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Oj8n9OEbO9E" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > Going into the semifinals, we knew we had to step up our mapping if we wanted to advance. Our initial decision was to use a top/bottom playfield gimmick, since we hadn't seen much of that in the competition, and the straightforward song name also gave us the idea to use themed sliders. Our first tests were on crumbling house sliders, but they felt weak on their own, so we added growing and wilting flowers and fleshed out other ideas. Once we had phyr's butterfly stream, it started to come together—since we weren't just mapping the "town" in ruins, but also the environment.
@@ -71,9 +65,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 ### [Aoi - azure iris](https://osu.ppy.sh/beatmapsets/2414105) by ::{ flag=FR }:: Team France (Quarterfinal)
 
 <div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/2025-11-25-obwc2025-azure-iris.mp4" type="video/mp4" preload="none">
-    </video>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3YFLDlVcxvM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 > Hi, [Blacky](https://osu.ppy.sh/users/11540165) here! My team and I often work by theme, where the reflection period can take three days or even a week. Since Azure Iris has a double meaning—the pupil of the eye and the flower—we combined these themes with the very mechanical and destructive side of the music by adding "tumors" on our sliders, like petals (or gears) coming out of them.
