@@ -8,7 +8,7 @@ tags:
 
 ![SSR banner](img/ssr-banner.jpeg)
 
-The **Solo Score Rush** (***SSR***) was a one-on-one worldwide double-elimination osu!mania 4-key tournament hosted by ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) and ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657). Instead of using the regular Best of each rounds rules for its scoring, the scoring system will use score gap between each map to determine each winner. It was the first instalment of the Solo Score Rush series.
+The **Solo Score Rush** (***SSR***) was a one-on-one worldwide double-elimination osu!mania 4-key tournament hosted by ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) and ::{ flag=VN }:: [Poity](https://osu.ppy.sh/users/17148657). Instead of using the regular Best of each rounds rules for its scoring, the scoring system used the score gaps between each map to determine each winner. It was the first instalment of the Solo Score Rush series.
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ The **Solo Score Rush** (***SSR***) was a one-on-one worldwide double-eliminatio
 
 ![](img/ssr-winner-badge.jpeg "SSR winner badge")
 
-*The winner may ask for equivalential prizes, such as osu!supporter tag, and or gift cards; however this needs to be discussed with organiser due to taxes in factor. Prize pool was provided by ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222).*
+*The winner may ask for equivalent prizes, such as osu!supporter tag, and/or gift cards; however this needs to be discussed with the organisers due to taxes in factor. Prize pool was provided by ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222).*
 
 ## Organisation
 
@@ -792,23 +792,23 @@ The final standings for the Qualifiers stage can be found in the following [qual
 
 ### General rules
 
-1. Solo Score Rush is a multi-bracket (single, and later double elimination) tournament, played on osu!stable, osu!mania game mode (4K variant).
+1. Solo Score Rush is a multi-bracket (single, and later double-elimination) tournament, played on osu!(stable), osu!mania game mode (4K variant).
 2. Beatmap scoring is based on ScoreV2.
 3. All matches will use Free Mod rules. This means the following mods are allowed: No Fail (NF), Mirror (MR), Fade In (FI), Hidden (HD), Flashlight (FL).
    - As a result of No Fail being allowed, failed scores will be counted in their integrity (ie. failed scores with No Fail are counted, while failed scores without No Fail aren't).
 4. The mappool for each stage will be announced by the mappool selectors on the official stream at appropriate times.
-5. The match schedules for each stage will be announced by the tournament organisers on the Master Sheet, as well as in the Discord Server via a player-only ping, as soon as possible.
-6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
+5. The match schedules for each stage will be announced by the tournament organisers on the master sheet, as well as in the Discord server via a player-only ping, as soon as possible.
+6. Use of the visual settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
-7. If either player is not present at match time, the match can be postponed for up to 10 minutes. If after this period either player is not present, a win by default will be declared for the other player. If neither player is present, the match will be nullified and the player who has the higher Priority Rating (see WIN CONDITIONS, 2.) of the match's round wins by default.
+7. If either player is not present at match time, the match can be postponed for up to 10 minutes. If after this period either player is not present, a win by default will be declared for the other player. If neither player is present, the match will be nullified and the player who has the higher Priority Rating (see [winning conditions](#winning-conditions), section 2) of the match's round wins by default.
 8. Players may ask for a rematch if they encounter technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
    - "Lag spikes" are not considered a valid reason to rematch a beatmap.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 9. If a player disconnects mid-game, their score will not be counted towards their cumulative, unless adequate proof of said score is provided. The following are considered as acceptable proof:
    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-   - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+   - Replay files of the play, taken directly from the "local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-10. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament organisers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+10. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament organisers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour is strictly prohibited, and will be punished accordingly.
 11. Any attempts to manipulate bracket outcomes or future matchups may result in the immediate disqualification of the player from the competition. Examples of manipulative behavior include, but are not limited to:
     - Deliberately playing poorly to lose a game or match.
     - Colluding with other players to force a desired matchup.
@@ -829,11 +829,11 @@ The final standings for the Qualifiers stage can be found in the following [qual
 
 ### Registration
 
-1. Every user interested in playing will be be required to sign up through the Player Registrations form.
-2. To ensure valid registrations, every qualifying participant will be manually checked through the Tournament screening process.
-3. Participants will be briefed on further steps via an announcement message at the end of the Player Registrations form.
-4. Tournament staff members are not allowed to play in the tournament, with the exception of streamers, commentators, and graphic designers. Eliminated players may be enlisted as mappool playtesters and/or replay creators. Note that per conventional Officially supported tournament rules, eliminated players may be enlisted as referees, however this role is not open for such individuals at the moment.
-   - The tournament managers must ensure that such staff members do not have access to priviledged information, e.g. Qualifiers score information, mappool information before the mappool showcase, etc. They are to be treated as regular players whenever possible.
+1. Every user interested in playing will be be required to sign up through the player registrations form.
+2. To ensure valid registrations, every qualifying participant will be manually checked through the tournament screening process.
+3. Participants will be briefed on further steps via an announcement message at the end of the player registrations form.
+4. Tournament staff members are not allowed to play in the tournament, with the exception of streamers, commentators, and graphic designers. Eliminated players may be enlisted as mappool playtesters and/or replay creators. Note that per conventional [officially supported tournament rules](/wiki/Tournaments/Official_support), eliminated players may be enlisted as referees, however this role is not open for such individuals at the moment.
+   - The tournament managers must ensure that such staff members do not have access to privileged information (e.g. Qualifiers score information, mappool information before the mappool showcase). They are to be treated as regular players whenever possible.
 
 ### Stage regulation
 
@@ -847,11 +847,11 @@ The final standings for the Qualifiers stage can be found in the following [qual
 5. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 6. All players will play their qualifiers in the lobby they chose. Multiple players may share the same lobby. It is highly advised that players do not broadcast or share their results publicly to avoid seed manipulation.
 7. The seeding method used for Qualifiers will be weighted rank sum, where each player's map rank will be multiplied by a predetermined weight and then added together to compose that player's final score, which is then sorted from lowest to highest, lowest being seed #1.
-   - The exact formula that will be used for each map is Map score = RANK(Team score) * Map weight, where RANK is the function that ranks the current Team score against all team scores for the current map, and Map weight is the weight for the current map, as defined by the table below.
-   - The final team score to be sorted is defined as Final score = SUM(Map score), i.e. the sum of each map's Map score.
-   - The top 128 seeded players will advance to the Play-offs, providing there are enough players. Otherwise, the number of advancing players will shrink to the closest applicable bracket size, following the sequence of either a power of 2 or 1.5 times a power of 2 (128, 96, 64, 48, 32, 24, 16,...).
+   - The exact formula that will be used for each map is `Map score = RANK(Team score) * Map weight`, where `RANK` is the function that ranks the current `Team score` against all team scores for the current map, and `Map weight` is the weight for the current map, as defined by the table below.
+   - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
+   - The top 128 seeded players will advance to the Play-offs, provided there are enough players. Otherwise, the number of advancing players will shrink to the closest applicable bracket size, following the sequence of either a power of 2 or 1.5 times a power of 2 (128, 96, 64, 48, 32, 24, 16,...).
 
-The weights for the Qualifiers Seeds are as follows:
+The weights for the Qualifiers seeds are as follows:
 Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5: 0.1 ㅣ Stage 6: 0.1 ㅣ Stage 7: 0.05 ㅣ Stage 8: 0.05
 
 #### Bracket stage
@@ -861,25 +861,25 @@ Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5:
 1. The Play-offs stage is a single-elimination stage with specific rules.
 2. After the qualification round, the remaining players will be divided into 2 different groups based on their Qualifiers seeds. Each group will have a different set of protocols to follow.
    - 1st-32nd seeds: The top 32 seeds of the Qualifiers will advance directly into the Round of 64 of the tournament. They do not need to participate in any matches during Play-offs.
-   - 33rd-96th seeds: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player in the 33rd to 96th seed group — more specifically, (129 - the player's seed). Players who win their match in this stage will advance to Group Stage.
+   - 33rd-96th seeds: Players within this group will participate in one match during Playoff Stage. Their opponent will be a player in the 33rd to 96th seed group — more specifically, `129 - the player's seed`. Players who win their match in this stage will advance to Group stage.
 
 ##### Bracket stage onwards
 
-1. The Bracket Stage is a double elimination stage. Players advancing to this stage must lose two matches in this stage to be eliminated from the tournament.
-2. After Play-offs, the remaining players will be seeded based on their performance in Play-offs. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be (65 - the player's seed).
-3. In a winners bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
-4. In a losers bracket match, the player who meets the winning condition in a match will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
+1. The bracket stage is a double-elimination stage. Players advancing to this stage must lose two matches to be eliminated from the tournament.
+2. After Play-offs, the remaining players will be seeded based on their performance in Play-offs. This will be used to determine the remaining players' opponents for the bracket stage. In particular, their opponent for the bracket stage will be `65 - the player's seed`.
+3. In a winners bracket match, the player who meets the winning condition will be declared the winner of the match and will move further into the bracket. The loser of the match will fall into the losers bracket.
+4. In a losers bracket match, the player who meets the winning condition will be declared the winner of the match and will move further into the bracket. The loser of the match will be eliminated from the tournament.
 5. Players who are in the winners bracket are required to play in one match in each stage. The only exception to this is if the player is the sole player in winner bracket in the Grand Finals stage, where if the player were to lose their first match in the Grand Finals stage, they will be required to play in a second match.
 6. Players who are in the losers bracket at the start of the Round of 16 or further are required to play in two matches in a single stage. However, players who lose their first match in the losers bracket in those stages will be eliminated from the tournament, and thus no longer need to play in any further matches.
 
 ##### Match protocol
 
-1. Matches for this stage of the tournament will have players play an amount of picks (and depending on the match situation, a 'Final Scoring' map:
+1. Matches for this stage of the tournament will have players play some amount of picks (and depending on the match situation, a 'Final Scoring' map):
    - Each round has a maximum amount of maps to be picked.
    - For Play-offs, Round of 64, and Round of 32, that amount is 7, including the 'Final Scoring'.
    - For Round of 16 and Quarterfinals, that amount is 9, including the 'Final Scoring'.
    - For Semifinals, Finals, and Grand Finals, that amount is 11, including the 'Final Scoring'.
-   - If the match is x maps away from the maximum amount of maps, and the cumulative score gap of a player is higher than that of the other player by 50,000*x or more, the player with the higher cumulative score gap is declared the winner.
+   - If the match is `x` maps away from the maximum amount of maps, and the cumulative score gap of a player is higher than that of the other player by `50,000 * x` or more, the player with the higher cumulative score gap is declared the winner.
    - If the match has undergone the maximum amount of picks, but the cumulative score gap of a player is less than 50,000 away from that of the other player, the 'Final Scoring' map will be played, and whoever has the higher cumulative score gap after this map is declared the winner.
 2. Draft order will follow the ABBA format, where the higher-roll player (A) and the lower-roll player (B) will take turns picking and banning beatmaps.
 3. Further instructions of each round can be seen below:
@@ -914,7 +914,7 @@ Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5:
 ### Winning conditions
 
 1. In the Qualifiers, players need to place in the top 64 seeded players in order to advance to later rounds.
-2. In other rounds (ie. from Play-offs to Grand Finals), a player needs to be the player with the higher cumulative score gap in the winning condition (see BRACKET STAGE INFORMATION, Match Protocol, 1.) to win the match.
+2. In other rounds (ie. from Play-offs to Grand Finals), a player needs to be the player with the higher cumulative score gap in the winning condition (see [bracket stage information, match protocol](#match-protocol), section 1) to win the match.
    - Note: for the Grand Finals match, the player that is coming from the winners bracket is required to win one match to win the tournament. The player coming from the losers bracket, however, needs to win 2 matches. In other words, when the first match is won, the bracket reset is initiated, and the player coming from the losers bracket must win again to win the tournament.
    - If neither player is present, the match will be nullified and the player who has the higher Priority Rating of the match's round wins by default.
 3. The weights for each round's Priority Rating are as follows:
@@ -929,11 +929,11 @@ Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5:
 
 ### Match procedures
 
-1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
+1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby during that period.
    - The room settings are Game mode: "osu!mania", Team mode: "Head-to-head", and Score mode: "ScoreV2". The room name must follow the pattern of SSR: ({Player 1}) vs. ({Player 2}). The player mentioned first in the room name must occupy the first space in the room's player list, the player mentioned second in the room name must occupy the second space in the room's player list.
-2. Each player must use !roll once in the match's chatroom. After the rolls are set, match protocols will happen as described in BRACKET STAGE INFORMATION, Match Protocol, 3., where the player with the higher roll will be Player A.
+2. Each player must use `!roll` once in the match's chatroom. After the rolls are set, match protocols will happen as described in [bracket stage information, match protocol](#match-protocol), section 3, where the player with the higher roll will be Player A.
 3. Each player will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. The tactical timeout may not be called on the opposing player's pick or ban phase.
-4. Players will be allowed 90 seconds for each pick/ban phase (as described on the bracket stage instructions section), and an additional 90 seconds to press the Ready button on their client before play commences. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
+4. Players will be allowed 90 seconds for each pick/ban phase (as described on the bracket stage instructions section), and an additional 90 seconds to press the 'Ready' button on their client before play commences. If a player takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The player will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the player's tactical timeout to allow for the player to pick.
      - If the player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
