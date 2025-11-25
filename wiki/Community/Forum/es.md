@@ -15,7 +15,7 @@ tags:
 
 [Los **foros** de osu!](https://osu.ppy.sh/community/forums) son un lugar de conversación donde los mensajes se agrupan por temas y no se espera una respuesta rápida. Las discusiones se pueden buscar, se almacenan para siempre y se pueden volver a visitar en cualquier momento, lo que las diferencia de los mensajes casi instantáneos del [chat de osu!](/wiki/Community/Internet_Relay_Chat). Como resultado, los mensajes del foro son más largos, contienen más información y normalmente brindan más detalles que los mensajes del chat.
 
-Los foros de osu! ofrecen funciones similares a las de la mayoría de los foros de Internet: formato [BBCode](/wiki/BBCode), encuestas, pines y suscripciones y [moderación](#moderación).
+Los foros de osu! ofrecen funciones similares a las de la mayoría de los foros de Internet: formato [BBCode](/wiki/BBCode), encuestas, pines, suscripciones y [moderación](#moderación).
 
 ## Estructura
 
