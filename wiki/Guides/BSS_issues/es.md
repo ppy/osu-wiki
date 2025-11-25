@@ -44,7 +44,7 @@ Ya deberías poder subir tu beatmap. Sin embargo, si sigues teniendo problemas, 
 7. Establece el campo `BeatmapID` en `0`.
 8. Establece el campo `BeatmapSetID` en `-1`.
 9. Una vez que hayas terminado, vuelve a empaquetar todos los archivos en un único archivo `.osz`.
-10. Import this file into osu! and try to upload your beatmap.
+10. Importa este archivo a osu! e intenta subir tu beatmap.
 
 ## Error durante la subida: Datos demasiado largos para la columna «xxx» en la fila «xx»
 
