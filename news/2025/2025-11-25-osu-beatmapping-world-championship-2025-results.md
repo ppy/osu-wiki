@@ -77,7 +77,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 
 ## Prizes
 
-![Badge prizes](/wiki/shared/news/2025-11-25-osu-beatmapping-world-championship-2025-results/prizes.jpg)
+![Badge prizes](/wiki/Contests/o!bwc/4/img/prizes.jpg)
 
 This year, we received a total of **$1,000 USD** of donations from a wide range of sponsors! The top 4 teams get a share of the prize pool, and in addition to cash prizes, badge and contest points are also awarded as detailed below.
 

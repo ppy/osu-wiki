@@ -41,6 +41,8 @@ tags:
 | [3rd](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=TW }:: Taiwan | **$200 USD**, profile badge, 1 [contest point](/wiki/Contests/Contest_points) |
 | 4th | ::{ flag=FR }:: France | **$100 USD** |
 
+![Badge prizes](img/prizes.jpg "Badge designs for the top 3 teams")
+
 ## Organisation
 
 | Position | Member(s) |
@@ -150,7 +152,7 @@ tags:
 
 This contest has come to an end and resulted in the following podium:
 
-![Podium of the top 3 winning teams: USA, South Korea and Taiwan](img/podium.jpg)
+![Podium of the top 3 winning teams: USA, South Korea and Taiwan](img/podium.jpg "osu! Beatmapping World Championship 2025 podium")
 
 ## Ruleset
 
