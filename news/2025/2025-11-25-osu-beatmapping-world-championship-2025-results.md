@@ -4,7 +4,7 @@ title: osu! Beatmapping World Championship 2025 Results
 date: 2025-11-25 13:00:00 +0000
 ---
 
-Greetings, osu! community! The [osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/community/forums/topics/2060957) officially [kicked off](https://osu.ppy.sh/home/news/2025-04-07-osu-beatmapping-world-championship-2025) this April. As of mid-September, after five months of intense battles, the winner was finally determined!
+Greetings, osu! community! The [osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/community/forums/topics/2060957) officially [kicked off](https://osu.ppy.sh/home/news/2025-04-07-osu-beatmapping-world-championship-2025) this April. As of mid-September, after five months of intense battles, we finally have a winner!
 
 ![](/wiki/Contests/o!bwc/4/img/banner.jpg)
 
@@ -47,9 +47,9 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 
 > The map we'd like to talk about is Ice - Conclusio Catastropha (Game Ver.). Going into the semi-finals, we saw Team Taiwan as absolute titans. Acylica was like a broken record, always repeating, "How do we even beat Taiwan?" Honestly, for our team, the semi-finals were our real finals. That was the round where we left everything on the table.
 > 
-> To face them, we needed a secret weapon—something completely unexpected. That's how we landed on the crazy idea of making our own Vocaloid cover from scratch. As you can imagine, a lot of the team was against it. We weren't professional composers, and we were on a serious time crunch. But Acylica was so passionate and convincing that we all got on board. The guy even bought the pretty pricey IA2 Vocaloid software just to make it happen. What a legend.
+> To face them, we needed a secret weapon — something completely unexpected. That's how we landed on the crazy idea of making our own Vocaloid cover from scratch. As you can imagine, a lot of the team was against it. We weren't professional composers, and we were on a serious time crunch. But Acylica was so passionate and convincing that we all got on board. The guy even bought the pretty pricey IA2 Vocaloid software just to make it happen. What a legend.
 > 
-> Of course, the lyrics also went through several rewrites, requiring a lot of effort. On the mapping side, it was a brutal grind. Pulling off a map of this level in only two weeks is a monumental challenge—the intro alone took us a solid two to three days. Getting even four hours of sleep a night felt like a lot. I think I was averaging about two and a half hours of sleep a night during that two-week stretch, lol. But it was all worth it. Team Taiwan was an incredible opponent, and they pushed us to our absolute limits. Thanks again for an amazing and unforgettable match.
+> Of course, the lyrics also went through several rewrites, requiring a lot of effort. On the mapping side, it was a brutal grind. Pulling off a map of this level in only two weeks is a monumental challenge — the intro alone took us a solid two to three days. Getting even four hours of sleep a night felt like a lot. I think I was averaging about two and a half hours of sleep a night during that two-week stretch, lol. But it was all worth it. Team Taiwan was an incredible opponent, and they pushed us to our absolute limits. Thanks again for an amazing and unforgettable match.
 
 ### [Kurubukko - Hometown in Ruins](https://osu.ppy.sh/beatmapsets/2424914) by ::{ flag=US }:: Team United States (Semifinal)
 
@@ -57,7 +57,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Oj8n9OEbO9E" frameborder="0" allowfullscreen></iframe>
 </div>
 
-> Going into the semifinals, we knew we had to step up our mapping if we wanted to advance. Our initial decision was to use a top/bottom playfield gimmick, since we hadn't seen much of that in the competition, and the straightforward song name also gave us the idea to use themed sliders. Our first tests were on crumbling house sliders, but they felt weak on their own, so we added growing and wilting flowers and fleshed out other ideas. Once we had phyr's butterfly stream, it started to come together—since we weren't just mapping the "town" in ruins, but also the environment.
+> Going into the semifinals, we knew we had to step up our mapping if we wanted to advance. Our initial decision was to use a top/bottom playfield gimmick, since we hadn't seen much of that in the competition, and the straightforward song name also gave us the idea to use themed sliders. Our first tests were on crumbling house sliders, but they felt weak on their own, so we added growing and wilting flowers and fleshed out other ideas. Once we had phyr's butterfly stream, it started to come together — since we weren't just mapping the "town" in ruins, but also the environment.
 > 
 > In the last kiai, the map ends with a storm or barrage of sliders raining down the screen to represent the cause of the "ruins" which ties things up very nicely. This may have been our most ambitious map in the competition, but I think we're all satisfied with the ideas and concepts we were able to execute given the tight deadline.
 
@@ -67,9 +67,9 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3YFLDlVcxvM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-> Hi, [Blacky](https://osu.ppy.sh/users/11540165) here! My team and I often work by theme, where the reflection period can take three days or even a week. Since Azure Iris has a double meaning—the pupil of the eye and the flower—we combined these themes with the very mechanical and destructive side of the music by adding "tumors" on our sliders, like petals (or gears) coming out of them.
+> Hi, [Blacky](https://osu.ppy.sh/users/11540165) here! My team and I often work by theme, where the reflection period can take three days or even a week. Since Azure Iris has a double meaning — the pupil of the eye and the flower — we combined these themes with the very mechanical and destructive side of the music by adding "tumors" on our sliders, like petals (or gears) coming out of them.
 > 
-> For the second part of the music, we preferred to make a much simpler and more fluid mapping with a lot of kick sliders, as well as a multitude of symmetrical patterns, because the melody of the music becomes clearer here—and this is the key passage of the track.
+> For the second part of the music, we preferred to make a much simpler and more fluid mapping with a lot of kick sliders, as well as a multitude of symmetrical patterns, because the melody of the music becomes clearer here — and this is the key passage of the track.
 > 
 > As for the ending part, which was created by Timevid, it builds on the same concept as before, but with an additional connection between elements: all the slider art is centered in the middle, like the center of an eye.
 > 
@@ -79,7 +79,7 @@ The o!bwc teams have brought an incredible variety of maps to the community. And
 
 ![Badge prizes](/wiki/shared/news/2025-11-25-osu-beatmapping-world-championship-2025-results/prizes.jpg)
 
-This year, we received a total of 1,000 USD of donations from a wide range of sponsors. The top 4 teams get a share of the prize pool, and in addition to cash prizes, badge and contest points are also awarded as detailed below.
+This year, we received a total of **$1,000 USD** of donations from a wide range of sponsors! The top 4 teams get a share of the prize pool, and in addition to cash prizes, badge and contest points are also awarded as detailed below.
 
 | Placement | Team | Awards |
 | :-: | :-- | :-- |
