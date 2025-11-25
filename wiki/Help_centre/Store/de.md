@@ -3,14 +3,8 @@ tags:
   - store
   - product
   - Produkt
-  - keycap
-  - keycaps
-  - Taste
-  - Tasten
-  - deskmat
-  - deskmats
-  - Tischmatte
-  - Unterlage
+  - tablet
+  - osu!tablet
 ---
 
 # osu!store und Merchandise
@@ -38,17 +32,9 @@ Kontaktiere gerne [merch@ppy.sh](mailto:merch@ppy.sh), wenn du noch weitere Frag
 
 ## Ich benötige Hilfe mit einem bestimmten Produkt!
 
-### osu! keycaps {id=osu!-keycaps}
+### osu!tablet {id=osu!tablet}
 
-[osu! keycaps](https://www.thekapco.com/products/osu-pippi-keycap-set) (Tastenkappen) werden von The KapCo hergestellt und vertrieben. Deshalb empfehlen wir bei Problemen mit Keycaps, sich an [ihren Kundensupport](https://www.thekapco.com/pages/faqs) zu wenden.
-
-Sollte der Kundensupport keine zufriedenstellende Antwort liefern, kontaktiere [merch@ppy.sh](mailto:merch@ppy.sh) und wir werden sehen, was wir tun können.
-
-### osu! deskmat {id=osu!-deskmat}
-
-Während viele osu!-Produkte von unserem Warenlager in den Vereinigten Staaten versandt werden, werden [osu! deskmats](https://osu.ppy.sh/store/products/1347) (Tischunterlagen) von verschiedenen Verteilerzentren im Vereinigten Königreich, in den Vereinigten Staaten und in Australien versandt. Das heißt, wir haben nicht über jeden Artikel, der geliefert wird, einen genauen Überblick.
-
-Wenn es mit deinem Produkt ein Problem gibt, kontaktiere uns mit der Bestellnummer und einer Erklärung des Problems über [merch@ppy.sh](mailto:merch@ppy.sh).
+Während viele osu!-Produkte von unserem Warenlager in den Vereinigten Staaten versandt werden, werden [osu!tablets](https://osu.ppy.sh/store/products/1447) von Hong Kong mit Hongkong Post e-Express+ versandt. Aufgrund von Handelsbeschränkungen zwischen Hong Kong und den Vereinigten Staaten sind wir nicht in der Lage, diese Tablets in die Vereinigten Staaten zu liefern.
 
 ## Ich habe ein anderes Problem! {id=none}
 

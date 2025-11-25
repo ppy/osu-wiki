@@ -35,15 +35,15 @@ During this period:
 - Scores in the "Best Performance" on user profiles may be **out of order or not be visible at all**.
 - All player total PP, global ranks, country ranks, and profile ranking graphs **will be frozen** in time until we're done reprocessing things. If we didn't freeze things, users would question their rank and PP jumping all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
-### 🏃 Reprocess total PP values for all users (12 hours)
+### ✅ Reprocess total PP values for all users (12 hours)
 
 Bring everything back in line with expectations.
 
-### ⏳ Re-enabling of global rank history updates
+### ✅ Re-enabling of global rank history updates
 
 Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### ⏳ Reindexing (2 - 3 days)
+### ✅ Reindexing
 
 This will fix scores occasionally being out of order on profiles under "best performance", and in some rare cases not being displayed at all.
 
