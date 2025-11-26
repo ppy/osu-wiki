@@ -57,6 +57,7 @@ Contest points have been used in the following contests:
 | ::{ flag=US }:: [6pXgEj3hc7Umj5H](https://osu.ppy.sh/users/18130046) | 3 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=US }:: [Pandize](https://osu.ppy.sh/users/5490937) | 3 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=US }:: [Weoweet](https://osu.ppy.sh/users/16861790) | 3 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
+| ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | 3 | [PDC 2024](/wiki/Contests/PDC/2024) (2) [o!bwc 2025](/wiki/Contests/o!bwc/4) (1) |
 | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
@@ -67,7 +68,6 @@ Contest points have been used in the following contests:
 | ::{ flag=RU }:: [Frakturehawkens](https://osu.ppy.sh/users/7458583) | 2 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
-| ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | 2 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=KR }:: [milr_](https://osu.ppy.sh/users/4485933) | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340) | 2 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
@@ -96,7 +96,6 @@ Contest points have been used in the following contests:
 | ::{ flag=US }:: [Jayblue](https://osu.ppy.sh/users/19618924) | 1 | [PDC 2024](/wiki/Contests/PDC/2024) |
 | ::{ flag=CN }:: [-YeLing-](https://osu.ppy.sh/users/14726718) | 1 | [MBC](/wiki/Contests/Monthly_Beatmapping_Contest) |
 | ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
-| ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
 | ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997) | 1 | [o!bwc 2025](/wiki/Contests/o!bwc/4) |
