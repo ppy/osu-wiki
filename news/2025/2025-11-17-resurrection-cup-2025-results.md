@@ -9,7 +9,7 @@ Intense matches, jaw-dropping music, and a vibrant production team working behin
 
 ![](/wiki/Tournaments/RESC/2025/img/banner.jpg)
 
-This was a tournament that was [announced back in in May](https://osu.ppy.sh/home/news/2025-05-11-resurrection-cup-2025-registrations-now-open) and had its final match at the end of June. Especially for those who weren't there for the show, let's dive into the results, highlights, and everything that made *Resurrection Cup 2025: Regulus Revolution* unforgettable.
+This was a tournament that was [announced back in May](https://osu.ppy.sh/home/news/2025-05-11-resurrection-cup-2025-registrations-now-open) and had its final match at the end of June. Especially for those who weren't there for the show, let's dive into the results, highlights, and everything that made *Resurrection Cup 2025: Regulus Revolution* unforgettable.
 
 ## Results
 
