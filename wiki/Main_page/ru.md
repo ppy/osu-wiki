@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 ---
 
 <!-- Не добавляйте пустые строки в этот div. -->
@@ -126,7 +128,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#official)
+[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный)
 
 </div>
 <div class="wiki-main-page-panel">
