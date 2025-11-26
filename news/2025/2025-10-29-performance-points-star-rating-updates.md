@@ -43,7 +43,7 @@ Bring everything back in line with expectations.
 
 Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### 🏃 Reindexing (2 - 3 days)
+### ✅ Reindexing
 
 This will fix scores occasionally being out of order on profiles under "best performance", and in some rare cases not being displayed at all.
 
