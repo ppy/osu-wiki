@@ -19,7 +19,7 @@ Conversely, all other songs in this list are not officially licensed by the game
 
 ## Statistics
 
-There is currently a total of **1201** documented songs made within osu!.
+There is currently a total of **1,201** documented songs made within osu!.
 
 ![Graph of bespoke music over time](img/bespoke-music-over-time.png?20251126)
 
