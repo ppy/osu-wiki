@@ -175,6 +175,27 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 23 November 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| sicks wann | 1 | **6** | **Captain's Hometown** | [#1](https://osu.ppy.sh/community/matches/119893362) |
+
+Sunday, 24 November 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Cyclopentanoperhydrophenanthrene | 4 | **6** | **U=ma2=LAB=01** | [#1](https://osu.ppy.sh/community/matches/119902047) |
+| **nagisa fanboys** | **6** | 2 | The Maple Simpers | [#1](https://osu.ppy.sh/community/matches/119902374) |
+| **BALLS** | **6** | 0 | Capoo Fans | [#1](https://osu.ppy.sh/community/matches/119903014) |
+| Skill Issue | 3 | **6** | **New Pigeon** | [#1](https://osu.ppy.sh/community/matches/119902965) |
+| is that team name | 3 | **6** | **Foreclosure Task Rob** | [#1](https://osu.ppy.sh/community/matches/119902976) |
+| Harikitte Ikou! | 4 | **6** | **wedoknowwhatbye** | [#1](https://osu.ppy.sh/community/matches/119903032) |
+| TEAM SEVEN | 4 | **6** | **LEON** | [#1](https://osu.ppy.sh/community/matches/119902985) |
+
+
 ### Round of 16
 
 Saturday, 15 November 2025
@@ -207,7 +228,7 @@ Detailed statistics for this round can be found in [this web page](https://asia-
 2. The tournament is open to all players who have **country flags from Asia and Oceania** in their profiles. Participants must have flags from these regions to be eligible for entry.
 3. Players must sign up through the [website](https://asia-suiji-cup.vercel.app/tournament/2/info/main) and must be in the [Discord server](https://discord.gg/NUd7GyU4Hd). Failure to do so will count your registration as incomplete and not eligible to participate.
 4. Players display names in the Discord server must be the same as their osu! username during the entire duration of the tournament.
-5. A "sandbagging" formula will be used to help determine the true ranks of players to avoid disruptions and highly unbalanced teams that may potentially ruin the Suiji Cup experience. Player seedings and formula details will be revealed right before sign ups close.
+5. A "sandbagging" formula will be used to help determine the true ranks of players to avoid disruptions and highly unbalanced teams that may potentially ruin the Suiji Cup experience. Such formula is attached via following [Google Docs](https://drive.google.com/file/d/1Alfj2-BvdG4uYngT7blnR-R8IiU83756/view).
 6. Participants will be split up into 3 different seeds, "A", "B" and "C". Each team will be formed by a live randomisation process and will consist of 2 players from each seed (a team will have 6 players, A, A, B, B, C, C).
 7. "A" seeded players have the ability to substitute with "B" or "C" seed on their team. "B" seeded players also have the ability to substitute but only with "C" seed on their team.
 8. Teams will be given 5 days to choose a team name and a captain. Failure to submit a team name and a captain will result in an assigned team name chosen by the staff and the highest-ranked player being made captain by default.
