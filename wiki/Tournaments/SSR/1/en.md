@@ -850,9 +850,7 @@ The final standings for the Qualifiers stage can be found in the following [qual
    - The exact formula that will be used for each map is `Map score = RANK(Team score) * Map weight`, where `RANK` is the function that ranks the current `Team score` against all team scores for the current map, and `Map weight` is the weight for the current map, as defined by the table below.
    - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
    - The top 128 seeded players will advance to the Play-offs, provided there are enough players. Otherwise, the number of advancing players will shrink to the closest applicable bracket size, following the sequence of either a power of 2 or 1.5 times a power of 2 (128, 96, 64, 48, 32, 24, 16,...).
-
-The weights for the Qualifiers seeds are as follows:
-Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5: 0.1 ㅣ Stage 6: 0.1 ㅣ Stage 7: 0.05 ㅣ Stage 8: 0.05
+8. The weights for the Qualifiers seeds are specified in the [Winning conditions](#winning-conditions) section.
 
 #### Bracket stage
 
@@ -918,14 +916,17 @@ Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5:
    - Note: for the Grand Finals match, the player that is coming from the winners bracket is required to win one match to win the tournament. The player coming from the losers bracket, however, needs to win 2 matches. In other words, when the first match is won, the bracket reset is initiated, and the player coming from the losers bracket must win again to win the tournament.
    - If neither player is present, the match will be nullified and the player who has the higher Priority Rating of the match's round wins by default.
 3. The weights for each round's Priority Rating are as follows:
-   - Play-offs use the Qualifier Weights (see QUALIFIER INSTRUCTION, 7.).
-   - Round of 64: Stage 1: 0.23ㅣStage 2: 0.14ㅣStage 3: 0.14ㅣStage 4: 0.17ㅣStage 5: 0.12ㅣStage 6: 0.09ㅣStage 7: 0.05ㅣStage 8: 0.05
-   - Round of 32: Stage 1: 0.17ㅣStage 2: 0.09ㅣStage 3: 0.11ㅣStage 4: 0.2ㅣStage 5: 0.15ㅣStage 6: 0.14ㅣStage 7: 0.05ㅣStage 8: 0.09
-   - Round of 16: Stage 1: 0.11ㅣStage 2: 0.04ㅣStage 3: 0.09ㅣStage 4: 0.22ㅣStage 5: 0.18ㅣStage 6: 0.18ㅣStage 7: 0.04ㅣStage 8: 0.13
-   - Quarterfinals: Stage 1: 0.07ㅣStage 2: 0.03ㅣStage 3: 0.06ㅣStage 4: 0.19ㅣStage 5: 0.14ㅣStage 6: 0.24ㅣStage 7: 0.07ㅣStage 8: 0.19
-   - Semifinals: Stage 1: 0.03ㅣStage 2: 0.01ㅣStage 3: 0.02ㅣStage 4: 0.18ㅣStage 5: 0.13ㅣStage 6: 0.3ㅣStage 7: 0.09ㅣStage 8: 0.24
-   - Finals: Stage 1: 0ㅣStage 2: 0ㅣStage 3: 0ㅣStage 4: 0.14ㅣStage 5: 0.11ㅣStage 6: 0.36ㅣStage 7: 0.11ㅣStage 8: 0.29
-   - Grand Finals: Stage 1: 0ㅣStage 2: 0ㅣStage 3: 0ㅣStage 4: 0.08ㅣStage 5: 0.06ㅣStage 6: 0.41ㅣStage 7: 0.12ㅣStage 8: 0.33
+
+| Round | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Stage 5 | Stage 6 | Stage 7 | Stage 8 |
+| :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Qualifiers | 0.25 | 0.15 | 0.15 | 0.15 | 0.1 | 0.1 | 0.05 | 0.05 |
+| Round of 64 | 0.23 | 0.14 | 0.14 | 0.17 | 0.12 | 0.09 | 0.05 | 0.05 |
+| Round of 32 | 0.17 | 0.09 | 0.11 | 0.2 | 0.15 | 0.14 | 0.05 | 0.09 |
+| Round of 16 | 0.11 | 0.04 | 0.09 | 0.22 | 0.18 | 0.18 | 0.04 | 0.13 |
+| Quarterfinals | 0.07 | 0.03 | 0.06 | 0.19 | 0.14 | 0.24 | 0.07 | 0.19 |
+| Semifinals | 0.03 | 0.01 | 0.02 | 0.18 | 0.13 | 0.3 | 0.09 | 0.24 |
+| Finals | 0 | 0 | 0 | 0.14 | 0.11 | 0.36 | 0.11 | 0.29 |
+| Grand Finals | 0 | 0 | 0 | 0.08 | 0.06 | 0.41 | 0.12 | 0.33 |
 
 ### Match procedures
 
@@ -947,7 +948,7 @@ Stage 1: 0.25 ㅣ Stage 2: 0.15 ㅣ Stage 3: 0.15 ㅣ Stage 4: 0.15 ㅣ Stage 5:
 1. Each stage will be held on a single weekend. In the event there are more than 96 qualifying players, Play-offs will be held across two weekends instead.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each player may choose a time slot in which they want to play, or request an EX slot when no timeframes are suitable (EX slot requests may be rejected if there are insufficient referees for the time of the slot), at a time no later than July 20, 20:00 UTC.
    - A player that does not pick a time slot by July 20, 20:00 UTC will be considered disqualified.
-3. All bracket stages are scheduled to be held between Saturday 00:00 and Sunday 23:59 UTC.
+3. All bracket stages are scheduled to be held between Saturday 00:00 and Sunday 23:59 UTC of each week's respective stage dates following the [Tournament schedule](#tournament-schedule).
    - Other times may be available upon request, typically through a reschedule. Consult with the tournament managers for more information.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Monday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
 5. Reschedules may only be considered if both players agree to a time and communicate it to the tournament managers, before the time of the match.
