@@ -88,6 +88,32 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (116 MB)](https://drive.google.com/file/d/11BDqtX70xnV15QxJ-ZjofIju63Znai60/view)**
+
+- Rice
+  1. [t+pazolite - Cheatreal (\[-Leon-\]) \[Remity's Extraneous (220bpm) (edit)\]](https://osu.ppy.sh/beatmapsets/2468991#mania/5406805)
+  2. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD (Cut Ver.) (\[GB\]Oceanus) \[Rivals\]](https://osu.ppy.sh/beatmapsets/2468969#mania/5406759)
+  3. [buelow - Revolver (Sped Up Ver.) (Lott) \[Femme Fatale 1.05x\]](https://osu.ppy.sh/beatmapsets/2435740#mania/5309392)
+  4. [EvOke - Edison (Miaurichesu) \[Challenge (Edit) 1.1x (146bpm)\]](https://osu.ppy.sh/beatmapsets/2050560#mania/4281865)
+  5. [Kei Toriki - Utopia (MyZterioN-) \[dreamscape 1.15x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1685404#mania/3537227)
+  6. [NMIXX - Slingshot (Micleak) \[}--\]](https://osu.ppy.sh/beatmapsets/2468977#mania/5406791)
+  7. [himihike - lumievous (Hytex) \[the darkness that blinds\]](https://osu.ppy.sh/beatmapsets/2468965#mania/5406729)
+- Long Notes
+  1. [Remo Prototype (CV: Hanamori Yumiri) - Sendan Life (Cut Ver.) (Hytex) \[bye bye\]](https://osu.ppy.sh/beatmapsets/2468973#mania/5406763)
+  2. [DJ Sharpnel - Over the Fullereneshift (Cut ver.) (FelixSpade) \[LN Prodigy // Apocalypse\]](https://osu.ppy.sh/beatmapsets/2468976#mania/5406790)
+  3. [Halv - Kyubi (\_Kiruru) \[Life String (ASC edit)\]](https://osu.ppy.sh/beatmapsets/1935389#mania/5406639)
+  4. [Task Horizon (feat. MC Spyda) - Unimpossible (\[Crz\]FolAH1217) \[accable\]](https://osu.ppy.sh/beatmapsets/2468994#mania/5406810)
+- Hybrid
+  1. [Lime - Pixel Planet (Saemitsu) \[Traversing the Cosmos\]](https://osu.ppy.sh/beatmapsets/2183977#mania/4615369)
+  2. [1zm8 & Kaizu - FRACTAL [PULSE] (rikan) \[ETERNAL [INSTANT]\]](https://osu.ppy.sh/beatmapsets/2468974#mania/5406765)
+  3. [Sobrem x Silentroom - Random (\[-Leon-\]) \[cherrychou's Concert (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2468997#mania/5406819)
+- Slider Velocity
+  1. [MILKFISH - CANT GET U OUTTA MY MIND (awdse22) \[VICIOUS GIGANTIC WATERMELON\]](https://osu.ppy.sh/beatmapsets/2468961#mania/5406721)
+- Tiebreaker
+  1. **[NormalM feat. Echo - Resonance of Viscerharma (AelSan) \[Echo of Resonance (ASC Edit)\]](https://osu.ppy.sh/beatmapsets/2468992#mania/5406806)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (109 MB)](https://drive.google.com/file/d/1W9tl9YYSawhEPwK1Pc8j1JjXRIZTg2SD/view)**
@@ -197,7 +223,6 @@ Detailed statistics for this round can be found in [this web page](https://asia-
 ### Schedules
 
 The tournament staff will be responsible for scheduling all matches and informing players when they are scheduled to play. If a player is unable to play with the schedule they will have the option to request a reschedule, details about this topic will be explained further when the tournament begins.
-
 
 1. If no referee is available during the match, the match shall be delayed.
 2. If no streamers are available to broadcast the match, the match will still happen without being broadcast.
