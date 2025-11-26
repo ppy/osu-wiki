@@ -21,7 +21,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Spread
 
-- **Difficulty names must have progression.** 
+- **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
   - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
@@ -147,15 +147,15 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Avoid rapid [kiai](/wiki/Gameplay/Kiai_time) toggles.**
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Avoid slider velocity changes on lower difficulties.**
-- **Each difficulty should follow its respective break length guidelines:**
+- **Each difficulty should follow its respective rest moment guidelines:**
 
-| Difficulty | Break | Chain length |
+| Difficulty | Rest moment | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](img/taiko/muzu1.png "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](img/taiko/muzu2.png?1 "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Break needed every 16–20 beats |
+| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Rest moment needed every 32–36 beats |
+| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Rest moment needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](img/taiko/muzu1.png "3/2") | Rest moment needed every 32–36 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](img/taiko/muzu2.png?1 "3 consecutive 1/1") | Rest moment needed every 32–36 beats |
+| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Rest moment needed every 16–20 beats |
 
 ### osu!catch
 
