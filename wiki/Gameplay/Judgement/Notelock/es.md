@@ -40,4 +40,4 @@ En comparación con osu!(stable), el notelock se hizo más flexible en osu!(laze
 
 ![](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)/img/notelock.gif)
 
-Gracias a este cambio, los jugadores podrán recuperarse más fácilmente de un fallo en un beatmap con [OD](/wiki/Beatmap/Overall_difficulty) bajo, [streams](/wiki/Beatmap/Pattern/osu!/Stream) densos o [jumps](/wiki/Beatmap/Pattern/osu!/Jump).
+Gracias a este cambio, los jugadores ahora podrán recuperarse más fácilmente de un fallo en beatmaps con un [OD](/wiki/Beatmap/Overall_difficulty) bajo, [streams](/wiki/Beatmap/Pattern/osu!/Stream) densos o [jumps](/wiki/Beatmap/Pattern/osu!/Jump).
