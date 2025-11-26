@@ -195,7 +195,6 @@ Sunday, 24 November 2025
 | Harikitte Ikou! | 4 | **6** | **wedoknowwhatbye** | [#1](https://osu.ppy.sh/community/matches/119903032) |
 | TEAM SEVEN | 4 | **6** | **LEON** | [#1](https://osu.ppy.sh/community/matches/119902985) |
 
-
 ### Round of 16
 
 Saturday, 15 November 2025
