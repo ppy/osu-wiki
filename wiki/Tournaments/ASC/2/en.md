@@ -60,10 +60,10 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2134838)
 - [Discord server](https://discord.gg/NUd7GyU4Hd)
 - [Livestream](https://www.twitch.tv/asiasuijicup)
+- [Website](https://asia-suiji-cup.vercel.app/tournament/2/info/main)
+- [X (formerly Twitter)](https://twitter.com/AsiaSuijiCup)
+- [Youtube channel](https://www.youtube.com/@AsiaSuijiCup)
 - [ASC 2 trailer](https://youtu.be/ggCvrdb3V4Y)
-- [ASC website](https://asia-suiji-cup.vercel.app/tournament/2/info/main)
-- [ASC X (formerly Twitter)](https://twitter.com/AsiaSuijiCup)
-- [ASC Youtube channel](https://www.youtube.com/@AsiaSuijiCup)
 
 ## Participants
 
