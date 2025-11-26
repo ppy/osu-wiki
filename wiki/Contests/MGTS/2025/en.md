@@ -9,7 +9,7 @@ tags:
 
 ![MGTS 2025 banner](img/banner.png)
 
-The **Mapping Global Taiko Showdown 2025** (***MGTS 2025***) is a single-round team-based osu!taiko mapping contest where teams of 2 to 3 members will be competing to map 2 out of 3 custom-made songs.
+The **Mapping Global Taiko Showdown 2025** (***MGTS 2025***) was a single-round team-based osu!taiko mapping contest where teams of 2 to 3 members were competing to map 2 out of 3 custom-made songs.
 
 ## Contest schedule
 
@@ -21,29 +21,37 @@ The **Mapping Global Taiko Showdown 2025** (***MGTS 2025***) is a single-round t
 
 ## Organisation
 
-The MGTS 2025 is run by various community members.
+The MGTS 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Hosts | ::{ flag=TN }:: [**Hivie**](https://osu.ppy.sh/users/14102976), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
 | Designer | ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
-| Judges | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=AU }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
+| Judges | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579), ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680), ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
 
 ## Prizes
 
-The top 3 teams will be awarded with the following prizes:
+The top 3 teams were awarded with the following prizes:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (pending), [contest points](/wiki/Contests/Contest_points) (pending), Ranked status[^prizes-ranked] |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [contest points](/wiki/Contests/Contest_points) (pending), Ranked status[^prizes-ranked] |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [contest points](/wiki/Contests/Contest_points) (pending), Ranked status[^prizes-ranked] |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st Place") | Unique profile badge, 3 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd Place") | 2 [contest points](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd Place") | 1 [contest point](/wiki/Contests/Contest_points), Ranked status[^prizes-ranked] |
+
+![](https://assets.ppy.sh/profile-badges/mapping-global-taiko-showdown-2025-winner@2x.png "MGTS 2025 winning team badge")
+
+## Podium
+
+This contest has come to an end and resulted in the following podium:
+
+[![MGTS 2025 podium](img/podium.jpg)](https://osu.ppy.sh/community/contests/248)
 
 ## Links
 
 - [Main website](https://gtsosu.com/2025/mgts/home)
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-06-01-mgts-2025-registrations)
-- [Contest listing](https://osu.ppy.sh/community/contests/248)
+- [Contest listing + results](https://osu.ppy.sh/community/contests/248)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/2086331)
 - [Discord server](https://discord.com/invite/3mGC3HB)
 - [Twitch channel](https://www.twitch.tv/gtsosu)
