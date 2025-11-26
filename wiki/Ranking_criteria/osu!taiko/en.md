@@ -14,7 +14,7 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
 ### Gameplay
 
@@ -34,34 +34,33 @@ This set of **osu!taiko ranking criteria** lays out [rules and guidelines](/wiki
 - **Slider velocity:** Speed at which the notes/drumrolls/spinners/bar lines move horizontally from right to left through the playfield. Base slider velocity can be controlled in the timing panel and additional changes can be made through inherited (green) timing points.
 - **Smooth slider velocity changes:** A mechanic that enables gradual transition from lower to higher / from higher to lower Slider Velocity sections. Transition notes with varying Slider Velocities are used to achieve this effect.
 - **Improvisation:** Having more notes than the actual song is providing.
-- **Taiko template background:** Background images that simulate authentic Taiko no Tatsujin gameplay. They usually include a black bar showing artist and song title in white beneath the playfield.
+- **[Taiko template background](/wiki/Beatmap/Background/Taiko_template_background):** Background images that simulate authentic Taiko no Tatsujin gameplay.
 
-## Overall
+## General
 
-Overall rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
+General rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps with 4/4 time signatures. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
-### General
-
-#### Rules
+### Rules
 
 All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstances.
 
 - **Each note must have its colour clearly distinguishable from the previous and upcoming notes.**
 - **Every note must be clearly assignable to a [musical layer](/wiki/Music_theory/Layer) or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
-- **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
+- **[Taiko template backgrounds](/wiki/Beatmap/Background/Taiko_template_background) must not be used.** They do not work as they were originally intended to in more common aspect ratios.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
 - **If the [drain time](/wiki/Beatmap/Drain_time) of each difficulty is...**
-  - **...lower than 3:30**, the lowest difficulty cannot be harder than a Futsuu.
-  - **...between 3:30 and 4:15**, the lowest difficulty cannot be harder than a Muzukashii.
-  - **...between 4:15 and 5:00**, the lowest difficulty cannot be harder than an Oni.
+  - **...lower than 2:30**, the lowest difficulty cannot be harder than a Futsuu.
+  - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Muzukashii.
+  - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than an Oni.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 - **Do not leave any blank space between the taiko playfield and the background.** If this happens, you should alter the last zero in the `.osu` via notepad in the `0,0,"name_of_background.file_extension",0,0` line under the `[Events]` header. Positive values will lower the background while negative values will move it up.
 
-#### Guidelines
+### Guidelines
 
 Guidelines may be ignored under **exceptional** circumstances. These exceptional circumstances must be justified by an exhaustive explanation as to why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
+- **There should not be any drastically large difficulty gaps between any two difficulties below Inner Oni**, with leniency being applied between guest difficulties to make coordinating a spread between multiple mappers easier.
 - **Avoid covering essential parts of the background with the taiko playfield.**
 - **If slider velocity changes are in use, they should correspond to pacing changes in the song.** That means not speeding up calm parts, or slowing down fast paced parts of a song.
 - **Avoid using smooth slider velocity changes over sections which include variable snapping.** Doing so impacts the readability of these snappings, so keep the variation low enough to avoid overlapping.
@@ -81,25 +80,40 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 
 Difficulty-specific rules and guidelines do only apply to the difficulty level they are listed for and therefore *do not apply to **every** osu!taiko difficulty*. Rhythm-related rules and guidelines apply to approximately 180 BPM beatmaps. If your song is drastically faster or slower, some variables might be different, as detailed in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_criteria/Scaling_BPM).
 
+### Rest moment guidelines
+
+Rest moments are small pauses in gameplay used to separate patterns and provide a break for the player from continuous rhythm chains. They play an important role in reducing player fatigue, especially on denser rhythms.
+
+Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
+
+**Each difficulty should follow its respective rest moment guidelines:**
+
+| Difficulty | Rest moment | Example | Chain length |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 or longer | ![3/1](img/kantan.png "3/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 or longer | ![2/1](img/futsuu.png "2/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 1) | 3/2 or longer | ![3/2](img/muzu1.png "3/2") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 2) | 3 consecutive 1/1 or longer | ![3 consecutive 1/1](img/muzu2.png "3 consecutive 1/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 or longer | ![1/1](img/oni.png "1/1") | Rest moment needed every 16–20 beats |
+
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### Rules
 
-- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Colour changes or finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
+- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a [rest moment](#rest-moment-guidelines).** Colour changes or finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
 - **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
 
-- **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a rest moment.
+- **1/1 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners. Patterns like these should be followed by a [rest moment](#rest-moment-guidelines).
 - **Main snapping should consist of mostly 2/1, 4/1, or slower rhythms.** Occasionally using 1/1 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 3/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes may be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 3 or less.
-- HP Drain Rate should be 8 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 8, and vice versa for lower note counts.
+- HP Drain Rate should be 8 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
@@ -114,11 +128,10 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. These patterns should be followed by a rest moment within 2/1, and patterns that are 1/2 or faster should be avoided during that time.
+- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. These patterns should be followed by a [rest moment](#rest-moment-guidelines) within 2/1, and patterns that are 1/2 or faster should be avoided during that time.
 - **1/2 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 2/1 or longer should be inserted after 32/1 to 36/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Slider velocity changes should be used cautiously.** Changes should only happen for sections of different pacings and slider velocity should not be drastically variable.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it should also follow these guidelines:
@@ -128,7 +141,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 4 or less.
-- HP Drain Rate should be 7 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 7, and vice versa for lower note counts.
+- HP Drain Rate should be 7 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
@@ -140,18 +153,17 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment and avoided at faster BPMs.
+- **1/6 patterns should not be longer than four notes on moderate to low BPM (~140).** Anything longer is very situational and normally too complex. Patterns like this should be followed by a [rest moment](#rest-moment-guidelines) and avoided at faster BPMs.
 - **Main snapping should consist of mostly 1/2, 1/1 or slower rhythms.** Occasionally using 1/4 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment that is 3/2 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using at least 3 consecutive rest moments that are 1/1 is an acceptable substitute if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
 - **Manipulating slider velocity is allowed**, but slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **1/4 patterns with one or more colour changes should be used sparingly.** They should be avoided in conjunction with other patterns of this nature because the target audience of this difficulty level is not used to patterns of this complexity.
-- **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a rest moment.
+- **1/4 patterns which are longer than three notes should consist of one colour change at most which should take place at the start or the end of the pattern.** Patterns more complex than that would be too demanding for intermediate players. These patterns should be followed by a [rest moment](#rest-moment-guidelines).
 
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or less.
-- HP Drain Rate should be 6 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 6, and vice versa for lower note counts.
+- HP Drain Rate should be 6 or more[^hp-note].
 
 ### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
@@ -163,19 +175,18 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **1/8 patterns should not be longer than two notes.** Anything longer is very situational and normally too complex. Patterns like this should be followed by a rest moment.
+- **1/8 patterns should not be longer than two notes.** Anything longer is very situational and normally too complex. Patterns like this should be followed by a [rest moment](#rest-moment-guidelines).
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
 - **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Players may be too strained if there are not enough rests or the rests are too short.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty setting guidelines
 
 - Overall Difficulty should be 5 or more.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- HP Drain Rate should be 5 or more[^hp-note].
 
-### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
 #### Guidelines
 
@@ -184,5 +195,9 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Overall Difficulty should be more than 5.
-- HP Drain Rate should be 5 or more. In cases of higher note count, HP Drain Rate could be slightly adjusted to lower than 5.
+- Overall Difficulty should be 6 or more.
+- HP Drain Rate should be 5 or more[^hp-note].
+
+## Notes
+
+[^hp-note]: In cases of higher note count or song length, HP Drain Rate should be slightly lowered, and vice versa for lower note count or song length.
