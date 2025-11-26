@@ -51,6 +51,6 @@ We want to extend our thanks to all users who have made this possible. From the 
 
 For those who are willing to provide feedback, you'll be able to find a dedicated [channel](https://discord.com/channels/188630481301012481/1440912440224120882) in the [osu! Discord server](https://discord.gg/ppy) as well as a [GitHub discussion](https://github.com/ppy/osu/discussions/35506) in the osu! repository.
 
-Stay tuned for more announcements, change-logs, and news about the system in the coming weeks.
+Stay tuned for more announcements, changelogs, and news about the system in the coming weeks.
 
 —the osu! team
