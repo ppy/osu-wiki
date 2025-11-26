@@ -2,6 +2,7 @@
 layout: post
 title: osu! UK @ EPIC46 Recap
 date: 2025-11-22 12:00:00 +0000
+series: offline_events
 ---
 
 Between Thursday and Sunday three weeks ago, osu!'s UK community put together a bunch of LAN setups, made a tournament bracket, and got ready for another round of the biggest UK meetup in Kettering!
