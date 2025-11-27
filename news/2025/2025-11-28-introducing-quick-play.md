@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Quick Play
 date: 2025-11-23 12:00:00 +0000
+series: game_updates
 ---
 
 Leaves fall rather quickly in the autumn, yet none of them will be as quick as osu!'s brand-new matchmaking system!
