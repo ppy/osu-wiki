@@ -36,7 +36,8 @@ The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament h
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![](img/thmc4-badge-1st.png "CFV winner badge") 
+![](img/CFV WINNER bancho badge.png "CFV winner badge") 
+
 ## Organisation
 
 The Cute Female Vocal 1st is run by various community members.
