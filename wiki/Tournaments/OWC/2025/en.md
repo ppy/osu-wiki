@@ -136,33 +136,35 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | ::{ flag=VN }:: | **Vietnam** | **[Seamie](https://osu.ppy.sh/users/6225096)**, [def](https://osu.ppy.sh/users/21619075), [smthelse](https://osu.ppy.sh/users/13238121), [baoo](https://osu.ppy.sh/users/11021073), [Another Guy](https://osu.ppy.sh/users/4540667), [electrostrike](https://osu.ppy.sh/users/11538640), [\_Casiofx580vnx](https://osu.ppy.sh/users/848961), [realshin](https://osu.ppy.sh/users/8006029) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a667d40bbd88942cd98926e839de5d37).
-
 ## Match schedule: Semifinals
 
 ### Saturday, 29 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 33 | China ::{ flag=CN }:: | ::{ flag=NZ }:: New Zealand | [Nov 29 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T100000&p1=1440&p2=33&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T120000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 33 | China ::{ flag=CN }:: | ::{ flag=NZ }:: New Zealand | [Nov 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T120000&p1=1440&p2=33&p3=264) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 36 | South Korea ::{ flag=KR }:: | ::{ flag=NO }:: Norway | [Nov 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T140000&p1=1440&p2=235&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 34 | Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Nov 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T160000&p1=1440&p2=37&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 39 | Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 29 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T180000&p1=1440&p2=262&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 35 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T170000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 37 | Winner of DE / CL | Winner of CN / NZ | []() |  |  |
+| 38 | Winner of KR / NO | Winner of GB / RU | []() |  |  |
+| SM | Semifinals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 30 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 37d | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T010000&p1=1440&p2=232&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 40 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Nov 30 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T030000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 37a | Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Nov 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T100000&p1=1440&p2=37&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37b | Germany ::{ flag=DE }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T100000&p1=1440&p2=37&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38a | South Korea ::{ flag=KR }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T120000&p1=1440&p2=235&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38b | South Korea ::{ flag=KR }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T120000&p1=1440&p2=235&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 40 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Nov 30 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T040000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 37b | Germany ::{ flag=DE }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T110000&p1=1440&p2=37&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 38a | South Korea ::{ flag=KR }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T133000&p1=1440&p2=235&p3=136) | *TBD* | [^potential-match] |
+| 38b | South Korea ::{ flag=KR }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T133000&p1=1440&p2=235&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 37a | Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Nov 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T140000&p1=1440&p2=37&p3=33) | *TBD* | [^potential-match] |
+| 37d | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T140000&p1=1440&p2=232&p3=264) | *TBD* | [^potential-match] |
 | 37c | Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Nov 30 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T150000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38c | Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T170000&p1=1440&p2=187&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38d | Norway ::{ flag=NO }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T170000&p1=1440&p2=187&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Finals | mappool showcase | [Nov 30 (Sun) 18:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T183000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 39 | Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 30 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T180000&p1=1440&p2=262&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+|  | Finals | mappool showcase | [Nov 30 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Mappools
 
@@ -323,7 +325,7 @@ Saturday, 22 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 19 | **New Zealand** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119891963) | [#1](https://www.twitch.tv/videos/2625094523?t=0h8m55s) |
+| 19 | **New Zealand** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119891963) | [#1](https://www.twitch.tv/videos/2625007086?t=00h04m39s) |
 | 18 | Romania ::{ flag=RO }:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119893306) | [#1](https://www.twitch.tv/videos/2625094523?t=0h8m51s) |
 | 20 | **France** ::{ flag=FR }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/119893254) | [#1](https://www.twitch.tv/videos/2625140573) |
 | 24 | **Philippines** ::{ flag=PH }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119893634) | [#1](https://www.twitch.tv/videos/2625183664) |
