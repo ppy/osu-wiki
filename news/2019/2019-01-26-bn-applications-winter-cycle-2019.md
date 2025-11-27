@@ -2,6 +2,7 @@
 layout: post
 title: "BN Applications: Winter Cycle 2019"
 date: 2019-01-26 05:00:00 +0000
+series: miscellaneous
 ---
 
 Even though the new year is still full of uncertainties about the future of beatmap moderation, the show must go on, and so the Beatmap Nominator applications are opening once again!

@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: November 2017"
 date: 2017-12-20 09:00:00 +0000
+series: beatmap_spotlights
 ---
 
 The November Spotlights are here, and with that my last announcement before Kurokami officially takes charge! Enjoy the best of what the month has to offer, and nab yourself a shiny Spotlight medal in the process!

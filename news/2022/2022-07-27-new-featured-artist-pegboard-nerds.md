@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Pegboard Nerds"
 date: 2022-07-27 10:00:00 +0000
+series: featured_artists
 ---
 
 Welcome aboard our latest Featured Artist, **Pegboard Nerds**! Because we know you can tell talent when you see it.

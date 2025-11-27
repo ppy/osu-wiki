@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: *namirin"
 date: 2017-09-10 08:00:00 +0000
+series: featured_artists
 ---
 
 **\*namirin**, osu!'s favourite utaite, enters the fray as our newest Featured Artist with her newest mini-album, *5colors*!

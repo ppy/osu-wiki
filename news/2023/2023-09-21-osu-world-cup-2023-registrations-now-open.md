@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2023: Registrations Now Open!"
 date: 2023-09-21 13:00:00 +0000
+series: world_cups
 ---
 
 The definitive country-based circle clicking competition is back. The osu! World Cup 2023 is now open for registrations!

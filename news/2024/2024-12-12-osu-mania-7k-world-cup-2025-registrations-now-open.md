@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2025: Registrations Now Open!"
 date: 2024-12-12 19:00:00 +0000
+series: world_cups
 ---
 
 Winter's here, and so is the season of smashing keys. Warm up your fingers and join the holiday rhythm!

@@ -3,6 +3,7 @@ layout: post
 title: "The QAT Gazette #5"
 date: 2017-04-13 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/159522014380/the-qat-gazette-5
+series: qat_gazette
 ---
 
 Hello again! A few weeks ago when I talked about the **Best of 2016 Voting**, I mentioned that I would try to get these delivered on a more regular basis and not leave months between issues, keeping you wondering what we actually do all day.

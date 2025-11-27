@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: YUZUKINGDOM"
 date: 2021-04-10 08:30:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **YUZUKINGDOM** as our latest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MYLK"
 date: 2019-12-31 08:00:00 +0000
+series: featured_artists
 ---
 
 **MYLK** joins the lineup as the last Featured Artist of 2019!

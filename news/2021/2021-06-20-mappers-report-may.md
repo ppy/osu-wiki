@@ -2,6 +2,7 @@
 layout: post
 title: "The Mappers' Report: May"
 date: 2021-06-20 20:00:00 +0000
+series: mappers_report
 ---
 
 Take everything in with the May issue of the Mappers' Report and begin your summer up-to-date with the mapping and modding community!

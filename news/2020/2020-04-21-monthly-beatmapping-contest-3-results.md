@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest #3: Results"
 date: 2020-04-21 09:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Check out the winning submissions from the third monthly beatmapping contest!

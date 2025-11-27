@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: Summer 2025"
 date: 2025-08-22 17:30:00 +0000
+series: beatmap_spotlights
 ---
 
 The Beatmap Spotlights are back for the summer 2025 season! Check out the fresh selection of beatmaps and compete for highest placement in the seasonal rankings!

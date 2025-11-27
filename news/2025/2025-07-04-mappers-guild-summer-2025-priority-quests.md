@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild - Summer 2025 Priority Quests
 date: 2025-07-04 18:00:00 +0000
+series: mappers_guild
 ---
 
 You're a mapper. You know more about this niche side of osu! than anyone else. And now it's time to push your creative bounds with a new batch of Mappers' Guild quests!

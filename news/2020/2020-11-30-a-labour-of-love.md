@@ -2,6 +2,7 @@
 layout: post
 title: A Labour of Love
 date: 2020-11-30 09:00:00 +0000
+series: official_contests
 ---
 
 Are you a mapper? A storyboarder? Or maybe a talented music producer? Show your love for an osu! community favorite in this multi-layered contest!

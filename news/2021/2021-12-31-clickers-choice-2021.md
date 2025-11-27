@@ -2,6 +2,7 @@
 layout: post
 title: "Clicker's Choice: Top 20 osu! Players of 2021"
 date: 2021-12-31 01:00:00 +0000
+series: community_contests
 ---
 
 Take part in helping the community determine the top 20 osu! players of 2021!

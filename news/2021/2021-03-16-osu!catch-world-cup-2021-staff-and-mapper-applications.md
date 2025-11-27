@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2021: Staff and Mapper Applications"
 date: 2021-03-16 14:00:00 +0000
+series: world_cups
 ---
 
 We hope you've been saving up some good fruit puns, because the osu!catch World Cup 2021 is about to begin, and we're looking for mappers, commentators and referees to help make it happen!

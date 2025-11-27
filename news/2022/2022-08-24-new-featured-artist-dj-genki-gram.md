@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: DJ Genki / Gram"
 date: 2022-08-24 10:00:00 +0000
+series: featured_artists
 ---
 
 **DJ Genki** is finally here!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Riya"
 date: 2022-02-19 09:00:00 +0000
+series: featured_artists
 ---
 
 Electronic fanatic **Riya** joins the fray as our newest Featured Artist!

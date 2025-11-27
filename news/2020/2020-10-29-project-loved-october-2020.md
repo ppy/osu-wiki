@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: October 2020"
 date: 2020-10-29 11:40:00 +0000
+series: project_loved
 ---
 
 It's the [Project Loved](https://osu.ppy.sh/community/forums/120) time of the month once again! Come check out the showcase of unranked maps we've put together, and cast your votes to decide which should get leaderboards at last.

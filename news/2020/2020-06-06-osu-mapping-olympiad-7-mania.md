@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #7: osu!mania"
 date: 2020-06-08 12:00:00 +0000
+series: official_contests
 ---
 
 The osu!mania edition of the Mapping Olympiad is back again! Do you have what it takes to become the next Mania Elite Mapper? Join the competition today and find out!

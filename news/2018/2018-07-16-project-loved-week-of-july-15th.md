@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of July 15th"
 date: 2018-07-16 10:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back with another round of beatmaps for the Loved category! Come vote for the ones that you love the most!

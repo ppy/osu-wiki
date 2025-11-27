@@ -2,6 +2,7 @@
 layout: post
 title: 15th Anniversary Art Contest
 date: 2022-08-15 12:00:00 +0000
+series: fanart_contests
 ---
 
 With osu!'s 15th anniversary approaching this September, it's time to take a look back at the past from the future with our latest art contest!

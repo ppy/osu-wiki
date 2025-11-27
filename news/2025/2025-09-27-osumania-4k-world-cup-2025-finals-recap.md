@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Finals Recap"
 date: 2025-09-27 06:00:00 +0000
+series: world_cups
 ---
 
 The final bout is near! Heavy is the crown to burden a king, but heavier is the path to the MWC 4K throne.

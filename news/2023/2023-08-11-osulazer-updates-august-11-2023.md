@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: August 11, 2023"
 date: 2023-08-11 20:00:00 +0000
+series: game_updates
 ---
 
 Tune in for the latest batch of improvements to the game!

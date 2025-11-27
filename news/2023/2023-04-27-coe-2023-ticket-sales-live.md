@@ -2,6 +2,7 @@
 layout: post
 title: COE 2023 Ticket Sales Live
 date: 2023-04-27 09:00:00 +0000
+series: offline_events
 ---
 
 It's about time to get excited for perhaps the biggest offline osu! event of the year!

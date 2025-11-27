@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Yooh"
 date: 2021-11-21 21:45:00 +0000
+series: featured_artists
 ---
 
 Legendary producer and DJ **Yooh** finally storms into our Featured Artist collection!

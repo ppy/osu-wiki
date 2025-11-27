@@ -2,6 +2,7 @@
 layout: post
 title: New Themed Beatmap Packs
 date: 2019-12-28 05:00:00 +0000
+series: game_updates
 ---
 
 A bunch of new beatmap packs are available, and they were created by an open team dubbed the Beatmap Pack Management. Come check it all out!

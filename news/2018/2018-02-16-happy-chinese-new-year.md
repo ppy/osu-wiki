@@ -2,6 +2,7 @@
 layout: post
 title: Happy Chinese New Year!
 date: 2018-02-16 05:00:00 +0000
+series: miscellaneous
 ---
 
 汪汪! The world wags its tail in anticipation of the Year of the Dog. The osu!team would like to wish everyone a year of boundless fortunes, overflowing happiness, and great success in whatever challenges you may face.

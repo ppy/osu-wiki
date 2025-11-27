@@ -2,6 +2,7 @@
 layout: post
 title: "Seasonal Spotlights: Summer 2018"
 date: 2018-11-01 06:00:00 +0000
+series: beatmap_spotlights
 ---
 
 The heat might've come and gone, but the brand new Seasonal Spotlights are bringing the best of Summer 2018 back in beatmap form! Check it out!

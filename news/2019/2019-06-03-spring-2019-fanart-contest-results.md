@@ -2,6 +2,7 @@
 layout: post
 title: Spring 2019 Fanart Contest Results
 date: 2019-06-03 08:00:00 +0000
+series: fanart_contests
 ---
 
 The results are in, and we have **15** glorious new seasonal backgrounds to celebrate Spring from your votes! Check them out!

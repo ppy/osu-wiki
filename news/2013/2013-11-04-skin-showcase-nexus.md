@@ -3,6 +3,7 @@ layout: post
 title: "Skin Showcase: Nexus"
 date: 2013-11-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/66039602799/skin-showcase-nexus
+series: miscellaneous
 ---
 
 Hello there, and welcome to the first skin showcase. The idea behind this showcase is to share some well made skins that deserve to be recognized. I'll post a few facts about each skin as well as a video showing off key parts of the skin.

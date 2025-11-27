@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Monstercat"
 date: 2022-11-09 11:00:00 +0000
+series: featured_artists
 ---
 
 A truckload of new **Monstercat** tracks have been delivered to our Featured Artist collection. Come check what's new!

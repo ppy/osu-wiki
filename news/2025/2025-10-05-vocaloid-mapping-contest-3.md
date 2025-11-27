@@ -2,6 +2,7 @@
 layout: post
 title: "Vocaloid Mapping Contest 3 & Two New Featured Artists: MARETU and mimizu"
 date: 2025-10-05 21:00:00 +0000
+series: featured_artists
 ---
 
 From humble beginnings to a full-scale symphony, VMC returns bigger, louder, and with two new incredible Featured Artists leading the charge!

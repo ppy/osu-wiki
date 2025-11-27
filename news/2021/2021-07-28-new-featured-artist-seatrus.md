@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: seatrus"
 date: 2021-07-28 08:00:00 +0000
+series: featured_artists
 ---
 
 **seatrus** splashes into the Featured Artist lineup!

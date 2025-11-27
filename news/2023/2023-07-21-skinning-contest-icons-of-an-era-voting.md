@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Icons of an Era - Voting Open"
 date: 2023-07-21 21:00:00 +0000
+series: official_contests
 ---
 
 Summer is the best part of the year to indulge in some nostalgia, so why not join us for a trip down memory lane and vote for the best skins that showcase the past 15 years of osu!?

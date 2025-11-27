@@ -3,6 +3,7 @@ layout: post
 title: "Best of 2015: Results"
 date: 2016-02-06 08:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/138781453998/best-of-2015-results
+series: official_contests
 ---
 
 The osu! community never ceases to break new ground in polling turnouts! Per tradition, we asked you guys what YOU thought were the greatest maps of 2015. 44,653 players from around the world responded to the call, casting a record-breaking 401,028 votes on what they thought stood out above all others in the maps ranked in 2015. No amount of words I can fit in this opening paragraph can express our gratitude to everyone who participated!

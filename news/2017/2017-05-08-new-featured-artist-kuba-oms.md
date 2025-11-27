@@ -3,6 +3,7 @@ layout: post
 title: "New Featured Artist: Kuba Oms"
 date: 2017-05-08 09:19:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/160437371993/new-featured-artist-kuba-oms
+series: featured_artists
 ---
 
 A familiar face joins the ranks of the osu!musicians - none other than [**Kuba Oms**](https://osu.ppy.sh/beatmaps/artists/13), the talent behind *My Love*!

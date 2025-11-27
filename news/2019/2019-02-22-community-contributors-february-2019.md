@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: February 2019"
 date: 2019-02-22 07:30:00 +0000
+series: miscellaneous
 ---
 
 At its very heart, osu! is almost entirely driven by its community. And at the heart of our community, the efforts of an outstanding few make themselves known. Today, we take a moment to reflect on some of these people, and award them the recognition they deserve.

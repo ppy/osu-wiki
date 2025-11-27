@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: June 2025"
 date: 2025-06-13 17:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Keyboard smashers rejoice: osu!mania is getting the spotlight in this month's contest!

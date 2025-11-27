@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Azer, the Tournament Titan"
 date: 2025-04-15 17:00:00 +0000
-series: The Followpoint
+series: community_tournaments
 ---
 
 You hear that? That's the sound of a new interview — this time with renowned player and World Cup organiser, Azer!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kurubukko"
 date: 2021-11-17 09:00:00 +0000
+series: featured_artists
 ---
 
 The time is now. Start your mapping journey (or just play some cool maps) with our latest Featured Artist **Kurubukko**!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2018: Round of 16 Recap"
 date: 2018-06-22 12:00:00 +0000
+series: world_cups
 ---
 
 Two weeks of frantic fruit-catching in the osu!catch World Cup 2018 completed, and several more still to look forward to - but who triumphed at the top of the tree, and who fell off the platter of progress in the Round of 16? Read on to find out more!

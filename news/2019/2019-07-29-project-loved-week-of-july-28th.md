@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of July 28th"
 date: 2019-07-30 5:45:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) returns yet again for its (mostly) regularly scheduled programming.

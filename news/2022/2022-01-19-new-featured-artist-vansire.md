@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Vansire"
 date: 2022-01-19 09:00:00 +0000
+series: featured_artists
 ---
 
 **Vansire** permeates both the Featured Artist library and your dreams.

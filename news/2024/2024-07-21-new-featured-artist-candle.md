@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Candle"
 date: 2024-07-21 18:30:00 +0000
+series: featured_artists
 ---
 
 **Candle** might be the spark you need to finally learn how to map.

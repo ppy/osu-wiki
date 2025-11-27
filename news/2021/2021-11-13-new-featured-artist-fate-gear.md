@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: FATE GEAR"
 date: 2021-11-13 15:00:00 +0000
+series: featured_artists
 ---
 
 Immerse your eardrums in the steampunk universe designed by **FATE GEAR**, our newest Featured Artist!

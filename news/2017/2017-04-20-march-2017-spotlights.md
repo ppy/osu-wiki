@@ -3,6 +3,7 @@ layout: post
 title: March 2017 Spotlights
 date: 2017-04-20 09:37:07 +0000
 tumblr_url: http://osunews.tumblr.com/post/159784843033/march-2017-spotlights
+series: beatmap_spotlights
 ---
 
 The Spotlights for March 2017 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1703)! Their respective packs will be soon available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.

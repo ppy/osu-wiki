@@ -2,6 +2,7 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: May 2021 (osu!)"
 date: 2021-06-25 18:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Two competitors rise above the rest in last month's Monthly Beatmapping Contest!

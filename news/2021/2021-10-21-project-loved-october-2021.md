@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: October 2021"
 date: 2021-10-21 15:00:00 +0000
+series: project_loved
 ---
 
 The spookiest month of the year is upon us and Project Loved brings back the best maps from the grave.

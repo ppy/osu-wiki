@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Xeon Diversity"
 date: 2025-09-20 05:00:00 +0000
+series: featured_artists
 ---
 
 Some osu! players click circles, some osu! players create circles to be clicked, and some osu! players like **Xeon Diversity** create music for the rest of the circle-clicking chain.

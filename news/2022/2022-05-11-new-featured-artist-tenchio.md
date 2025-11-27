@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tenchio"
 date: 2022-05-11 12:00:00 +0000
+series: featured_artists
 ---
 
 Sink into the abyss where you'll find **Tenchio**, our newest Featured Artist.

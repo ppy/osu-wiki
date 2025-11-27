@@ -3,6 +3,7 @@ layout: post
 title: February 2015 Monthly Ranking Charts - New Season!
 date: 2015-03-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/113961496833/february-2015-monthly-ranking-charts-new-season
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for February 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1502)! Along with that, the Winter Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit) has concluded and we have our winners! We've also completely overhauled the way the monthly charts are selected, drawing upon the expertise of some of our community members!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: my sound life"
 date: 2022-03-30 09:00:00 +0000
+series: featured_artists
 ---
 
 **my sound life** steps up on stage as our latest Featured Artist!

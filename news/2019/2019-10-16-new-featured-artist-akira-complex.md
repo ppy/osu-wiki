@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Akira Complex"
 date: 2019-10-16 09:00:00 +0000
+series: featured_artists
 ---
 
 Bending the very fabric of time and space, **Akira Complex** plunges into the Featured Artist catalogue!

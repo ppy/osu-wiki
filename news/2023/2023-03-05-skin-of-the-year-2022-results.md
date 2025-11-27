@@ -2,6 +2,7 @@
 layout: post
 title: "Skin of the Year 2022: Results"
 date: 2023-03-05 10:00:00 +0000
+series: official_contests
 ---
 
 The first-ever Skin of the Year poll has concluded in a spectacular down-to-the-wire fashion! Tune in to see the results!

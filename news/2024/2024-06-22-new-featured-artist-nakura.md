@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Nakura"
 date: 2024-06-22 21:00:00 +0000
+series: featured_artists
 ---
 
 At long last, **Nakura** pierces into our Featured Artist library!

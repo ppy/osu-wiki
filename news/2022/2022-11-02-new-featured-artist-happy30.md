@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: happy30"
 date: 2022-11-02 11:00:00 +0000
+series: featured_artists
 ---
 
 From composing circles in the editor to composing his own songs, **happy30** joins our Featured Artists!

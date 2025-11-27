@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Akiri"
 date: 2025-02-01 19:00:00 +0000
+series: featured_artists
 ---
 
 Instead of announcing a new Featured Artist this weekend, we're putting the spotlight on an older one: **Akiri** is back, adding a boatload of new songs to their Featured Artist collection!

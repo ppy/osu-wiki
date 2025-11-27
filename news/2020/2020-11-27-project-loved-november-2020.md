@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: November 2020"
 date: 2020-11-27 8:30:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back yet again! Take a peek at the maps we picked out for you this month and cast your vote to decide their fate!

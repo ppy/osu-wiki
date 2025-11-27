@@ -2,6 +2,7 @@
 layout: post
 title: Spring 2018 Fanart Contest Results
 date: 2018-05-02 16:00:00 +0000
+series: fanart_contests
 ---
 
 The results are in, and after over 25,000 people made their votes, we finally have our fifteen finalists! Check them out, or open up osu! and take a look!

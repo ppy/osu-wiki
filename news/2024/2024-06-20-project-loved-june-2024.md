@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: June 2024"
 date: 2024-06-20 22:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Summer is right around the corner, and these month's Loved picks are just what you need to cool yourself down.

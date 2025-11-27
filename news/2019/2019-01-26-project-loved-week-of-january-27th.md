@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of January 27th"
 date: 2019-01-26 23:05:00 +0000
+series: project_loved
 ---
 
 We're so excited for this week's round of [Project Loved](https://osu.ppy.sh/community/forums/120) that we're releasing it a day early! As always, we've selected a handful of maps that *you* can now vote on to decide whether or not they will be Loved.

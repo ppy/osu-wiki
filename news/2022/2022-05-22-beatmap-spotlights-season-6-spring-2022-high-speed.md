@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 6: Spring 2022 - High Speed"
 date: 2022-05-22 13:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high-speed ride with a fresh set of 240+ BPM beatmaps!

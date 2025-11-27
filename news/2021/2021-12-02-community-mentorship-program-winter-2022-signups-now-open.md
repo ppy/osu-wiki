@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Winter 2022 Signups Now Open
 date: 2021-12-02 08:00:00 +0000
+series: online_events
 ---
 
 The 20th cycle of the Community Mentorship program is upon us! With this new cycle, you can learn just about anything besides rocket science, which is admittedly easier sometimes.

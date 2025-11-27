@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aethoro"
 date: 2021-04-03 08:00:00 +0000
+series: featured_artists
 ---
 
 **Aethoro** joins the lineup as our latest Featured Artist!

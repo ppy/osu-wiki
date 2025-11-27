@@ -2,6 +2,7 @@
 layout: post
 title: Introducing the Loved Captain's Pick
 date: 2017-09-25 10:30:00 +0000
+series: project_loved
 ---
 
 As discussed in the [osu! Coffee Hour dedicated to Loved](https://www.youtube.com/watch?v=JYLITcBYkC4), the community voting has returned for another round, this time featuring hand-picked maps from some of the top players of each gamemode!

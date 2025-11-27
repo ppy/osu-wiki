@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2024: Finals Recap"
 date: 2024-02-22 06:00:00 +0000
+series: world_cups
 ---
 
 The Grand Finals are happening this weekend, and you have no idea what happened last week?! Don't fret, we've got you covered.

@@ -2,6 +2,7 @@
 layout: post
 title: "BN Mentorship: Cycle 3 Sign-ups Open"
 date: 2024-07-24 08:30:00 +0000
+series: online_events
 ---
 
 Ever aspired to leave your impact on the fabled Ranked section? Today might be your lucky day.

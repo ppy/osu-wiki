@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: April 13, 2024"
 date: 2024-04-13 03:00:00 +0000
+series: game_updates
 ---
 
 WARNING: Opening this news post will expose you to severe levels of laser radiation, which may lead to increased consumption of awesome osu!(lazer) updates.

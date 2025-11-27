@@ -2,6 +2,7 @@
 layout: post
 title: meet the medal pioneers
 date: 2025-01-19 15:15:00 +0000
+series: miscellaneous
 ---
 
 Let's take a trip down memory lane and meet the people who were the first to dominate each and every medal in osu! history.

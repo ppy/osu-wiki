@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup 2025 Concludes
 date: 2025-10-07 19:00:00 +0000
+series: world_cups
 ---
 
 The apex of osu!mania 4K tournaments draws to a close. Join us in this nail-biting finale, as one of the most exciting iterations of the series we've witnessed comes to an end!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: aran"
 date: 2022-07-09 10:00:00 +0000
+series: featured_artists
 ---
 
 Are you ready for the challenge that is **aran**, our latest Featured Artist?

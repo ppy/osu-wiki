@@ -3,6 +3,7 @@ layout: post
 title: April 2016 Ranking Charts
 date: 2016-05-17 14:19:04 +0000
 tumblr_url: http://osunews.tumblr.com/post/144503836683/april-2016-ranking-charts
+series: beatmap_spotlights
 ---
 
 Time went by pretty fast! One year ago, we started with giving individual community members the opportunity to select beatmaps for the Monthly Ranking Charts. For this occassion, we prepared a [spreadsheet full of statistics for you](https://docs.google.com/spreadsheets/d/1KIp8VROr59EuECLo5KXjnrcKaH4gQZZrkCGc6vTF8n8/edit?usp=sharing). There you can check the past Ranking Charts and interesting information about them: chosen maps, chart winners, selectors - all at one place! Do you want to have more information about the charts and have ideas what could be added to the overview? Tell us in the comments and we will consider it!

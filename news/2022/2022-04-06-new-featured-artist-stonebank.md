@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Stonebank"
 date: 2022-04-06 09:00:00 +0000
+series: featured_artists
 ---
 
 In collaboration with electronic music's leading independent record label, *Monstercat*, British producer **Stonebank** unveils a new chapter for our Featured Artist library!

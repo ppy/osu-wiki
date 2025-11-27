@@ -3,6 +3,7 @@ layout: post
 title: "BN Test Review #2"
 date: 2017-05-11 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/160532419785/bn-test-review-2
+series: miscellaneous
 ---
 
 Hello!  Our modding community has been hard at work for the past four months, pushing the quality of mapping forward every day in order to give the playerbase new and exciting content to enjoy.

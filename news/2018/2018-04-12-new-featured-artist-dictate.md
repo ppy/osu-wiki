@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Dictate"
 date: 2018-04-12 13:00:00 +0000
+series: featured_artists
 ---
 
 We're always searching for amazing talent to add to the Featured Artist lineup, and it turns out that we didn't have to look far from home - check out Dictate, the latest addition to the roster!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Drazically"
 date: 2025-09-07 22:00:00 +0000
+series: featured_artists
 ---
 
 Rhythm game music is **Drazically**'s bread and butter.

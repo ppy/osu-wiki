@@ -2,6 +2,7 @@
 layout: post
 title: Global Taiko Showdown Ending
 date: 2025-11-20 15:00:00 +0000
+series: community_tournaments
 ---
 
 After one final hectic year of hosting 6 tournaments and a mapping contest between January to August, the Global Taiko Showdown tournament series is finally over on osu!.

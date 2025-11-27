@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: April 2024"
 date: 2024-04-16 16:00:00 +0000
+series: project_loved
 ---
 
 Ah, the smell of fresh Project Loved picks...

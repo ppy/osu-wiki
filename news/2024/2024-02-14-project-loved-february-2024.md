@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: February 2024"
 date: 2024-02-14 14:00:00 +0000
+series: project_loved
 ---
 
 Love is in the air, and so are the pleasant vibes brought to you by the Project Loved team on this adorable day!

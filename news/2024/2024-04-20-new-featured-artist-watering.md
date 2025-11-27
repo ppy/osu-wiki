@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: watering"
 date: 2024-04-20 19:00:00 +0000
+series: featured_artists
 ---
 
 Sprouting from a circle clicker into a full-fledged musician, **watering** has joined our Featured Artists!

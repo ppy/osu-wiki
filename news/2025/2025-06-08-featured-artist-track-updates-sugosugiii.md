@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: sugosugiii"
 date: 2025-06-08 08:00:00 +0000
+series: featured_artists
 ---
 
 Whether you're playing a new tournament or just scrolling through osu!'s [bespoke music list](/wiki/Community/Bespoke_music), you're probably more-than-familiar with **sugosugiii**, who's back with a new batch of music!

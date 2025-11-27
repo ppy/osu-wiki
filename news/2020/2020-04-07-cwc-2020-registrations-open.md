@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2020: Registrations now open!"
 date: 2020-04-07 05:00:00 +0000
+series: world_cups
 ---
 
 Are you tired of being cooped up inside? Not sure what to do with your unspent energy? Do you feel the need to *dash*? The osu!catch World Cup returns for its' 9th installment to provide all of your exercise (and healthy eating!) needs — read on to find out how to register and more!

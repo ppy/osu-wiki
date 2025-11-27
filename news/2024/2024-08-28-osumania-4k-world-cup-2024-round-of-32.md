@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2024: Round of 32 Recap"
 date: 2024-08-28 21:00:00 +0000
+series: world_cups
 ---
 
 The key smashing has officially commenced last weekend, and now is the perfect time to pull out the Round of 32 highlight reel.

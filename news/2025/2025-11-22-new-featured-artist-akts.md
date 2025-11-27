@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Akts"
 date: 2025-11-22 20:30:00 +0000
+series: featured_artists
 ---
 
 Can you really claim you've listened to music until you've heard our new Featured Artist **Akts**?

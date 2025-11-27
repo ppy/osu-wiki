@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: July 2024"
 date: 2024-07-16 18:15:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 It might be too hot to go outside, but at least you can prove you're a top-tier mapper this summer!

@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2020: Results"
 date: 2021-02-05 12:00:00 +0000
+series: official_contests
 ---
 
 You made your voices heard, and we now have both the Community's Favourite and the Mapper's Favourite of 2020 for each game mode! Check it out!

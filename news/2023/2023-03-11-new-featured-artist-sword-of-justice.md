@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: SWORD OF JUSTICE"
 date: 2023-03-11 09:00:00 +0000
+series: featured_artists
 ---
 
 **SWORD OF JUSTICE** slices their way through our Featured Artist library.

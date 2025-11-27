@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2017 Fanart Voting Now Open
 date: 2017-10-24 06:00:00 +0000
+series: fanart_contests
 ---
 
 Prepare to be spooked as the Halloween 2017 Fanart Contest opens its creaking doors for voting! What horrors await within? Well, how about 51 ludicrously good entries, and only 5 votes to spend on them?

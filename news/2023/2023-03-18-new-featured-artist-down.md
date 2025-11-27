@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Down"
 date: 2023-03-18 09:00:00 +0000
+series: featured_artists
 ---
 
 **Down** is living proof that the osu! editor is just a stepping stone towards becoming a music producer.

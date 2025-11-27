@@ -3,6 +3,7 @@ layout: post
 title: osu! community contributors
 date: 2013-08-08 09:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/59476410622/osu-community-contributors
+series: miscellaneous
 ---
 
 Over the past four years, osu!'s community has grown dramatically. Many users from places all over the world and from all walks of life have come together from a common love of rhythm.

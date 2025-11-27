@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: tephe"
 date: 2023-05-24 22:00:00 +0000
+series: featured_artists
 ---
 
 **tephe** has literally two songs. That's it.

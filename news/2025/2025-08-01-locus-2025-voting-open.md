@@ -2,6 +2,7 @@
 layout: post
 title: "Locus 2025: Voting Open"
 date: 2025-08-01 12:00:00 +0000
+series: official_contests
 ---
 
 42 teams have created beatmaps with original songs and visuals, and now is your turn to decide which did it the best!

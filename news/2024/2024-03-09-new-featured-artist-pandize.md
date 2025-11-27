@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Pandize"
 date: 2024-03-09 19:30:00 +0000
+series: featured_artists
 ---
 
 Another week, another Featured Artist. Welcome **Pandize** to our collection!
