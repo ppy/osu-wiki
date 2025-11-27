@@ -171,7 +171,7 @@ The Cute Female Vocal 1st is run by various community members.
   1. [tezuka feat. Onishi Amimi - Bokura no Jikan \[ln\]](https://osu.ppy.sh/b/4317433)
   2. [TUYU - Itsuka Otona ni Nareru to Ii ne. \[Sparsity\]](https://osu.ppy.sh/b/4409732)
   3. [Tezuka feat. Amimi Oonishi - Suisou no kujira \[LN\]](https://osu.ppy.sh/b/2434585)
-- Long Note (Extreme)
+- SV
   1. [Rissyuu feat. Choko - Paa ~PaPaPaPaa ver~ \[d-_-b\]](https://osu.ppy.sh/b/2854762)
 - Tiebreaker
   1. **[Amamiya Kokoro, Eli Conifer, Ratna Petit - Hitorigoto \[Soliloquium\]](https://osu.ppy.sh/b/4409733)**
