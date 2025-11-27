@@ -13,6 +13,23 @@ tags:
 
 The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619). This is an osu!mania 4K solo tournament featuring cute female vocal songs and maps.
 
+# GENERAL INFORMATION
+
+    1.This is an osu!mania 4K solo tournament.
+    2.Discord server will be the only source of latest infomation about the tournament. All staff member and players are required to join, and only players who are in the server can participate in this tournament.
+    3.To be eligible for this tournament, you must:
+    • Not exceed the osu!mania 4 key and total rank of #5000 both when you submit your registration form and until the end of the registration phase.
+    • Not exceed the osu!mania 4 key and total rank of #4000 during all tournament stages.
+    • Already joined Discord server or QQ Group.
+    • Pass screen by osu! Tournament Committee.
+    4.Pools details and Brackets size：
+    Qualifier Stage：6 FreeMod maps, played in a row
+    Round of 32/16：9 FreeMod maps + 1 Tie-Breaker, BO7
+    Quarterfinals/Semifinals: 11 FreeMod maps + 1 Tie-Breaker, BO9.
+    Finals/Grand Finals: 13 FreeMod maps + 1 Tie-Breaker, BO11.
+    5.We reserve the right to refuse any and all suspicious accounts and players from participating in the tournament.
+    6.Players must abide by osu!'s Terms of Service at all times.
+
 ## Tournament schedule
 
 | Event | Timestamp |
