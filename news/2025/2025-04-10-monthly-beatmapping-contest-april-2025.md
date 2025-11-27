@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: April 2025"
 date: 2025-04-10 21:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 If you have hot-blooded passion for fruits and/or pianos, the Monthly Beatmapping Contest is calling your name.

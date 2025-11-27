@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2025: Quarterfinals Recap"
 date: 2025-07-05 00:00:00 +0000
+series: world_cups
 ---
 
 With this year's Quarterfinals behind us, only the most resilient teams remain in their march for glory.

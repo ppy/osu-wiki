@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2024: Finals Recap"
 date: 2024-06-28 12:00:00 +0000
+series: world_cups
 ---
 
 We have our podium finisher of this year's world cup! Let's recap the Finals weekend.

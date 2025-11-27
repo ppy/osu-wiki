@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Archspire"
 date: 2022-04-09 09:00:00 +0000
+series: featured_artists
 ---
 
 Surpass all limits with our newest Featured Artist **Archspire**!

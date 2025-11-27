@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: October 2023"
 date: 2023-10-11 10:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Rumors say that you're the world's #1 mapper. Now's your chance to prove it.

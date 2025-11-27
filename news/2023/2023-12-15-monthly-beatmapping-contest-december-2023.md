@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: December 2023"
 date: 2023-12-15 06:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Everyone knows that the best place to spend a holiday break is in the editor. The Monthly Beatmapping Contest is here to provide yet another reason for you to do that!

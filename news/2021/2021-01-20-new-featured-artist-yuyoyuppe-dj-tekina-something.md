@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Yuyoyuppe / DJ'TEKINA//SOMETHING"
 date: 2021-01-20 08:00:00 +0000
+series: featured_artists
 ---
 
 **Yuyoyuppe** thrashes their way into the Featured Artist roster!

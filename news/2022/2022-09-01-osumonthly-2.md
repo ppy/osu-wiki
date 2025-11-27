@@ -2,6 +2,7 @@
 layout: post
 title: osu!monthly, August 2022
 date: 2022-09-01 10:00:00 +0000
+series: osu_monthly
 ---
 
 Check out a brief overview of what went down in the osu! community for August with the second issue of the osu!monthly!

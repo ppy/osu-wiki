@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of September 29th"
 date: 2019-09-30 01:25:00 +0000
+series: project_loved
 ---
 
 It's [Project Loved](https://osu.ppy.sh/community/forums/120) here again—your one-stop-shop for community favorited maps.

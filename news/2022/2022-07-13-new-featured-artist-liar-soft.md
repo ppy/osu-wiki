@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Liar-soft"
 date: 2022-07-13 10:00:00 +0000
+series: featured_artists
 ---
 
 A flock of *Rita* songs join osu! through **Liar-soft**, the newest addition to our Featured Artists!

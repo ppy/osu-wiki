@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: November 2023"
 date: 2023-11-14 16:20:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Another month passes, and another contest arrives! See if you have what it takes to join the mapping elites, and witness the results of the previous contest!

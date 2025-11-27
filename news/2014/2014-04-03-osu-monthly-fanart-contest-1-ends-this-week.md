@@ -3,6 +3,7 @@ layout: post
 title: "osu! Monthly Fanart Contest #1 - Ends this week!"
 date: 2014-04-03 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/81538849275/osu-monthly-fanart-contest-1-ends-this-week
+series: fanart_contests
 ---
 
 Hello all! Announcing the first Monthly Fanart Contest!

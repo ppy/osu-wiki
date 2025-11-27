@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: January 2023"
 date: 2023-01-31 04:00:00 +0000
+series: project_loved
 ---
 
 Missed us? Come get a taste of this fresh batch of Loved picks made just for you!

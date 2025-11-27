@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: Tournaments"
 date: 2017-10-25 05:00:00 +0000
+series: community_tournaments
 ---
 
 The osu! Coffee Hour returns this week to focus on something dear to many players' hearts - **tournaments**. We'll be sitting down and covering some details on the current community tournament scene, and also the upcoming *osu! World Cup*. Have your questions about osu!'s tournament scene answered, featuring [**deadbeat**](https://osu.ppy.sh/users/128370), [**Toy**](https://osu.ppy.sh/users/2757689), [**Yazzehh**](https://osu.ppy.sh/users/7068973) and [**Loctav**](https://osu.ppy.sh/users/71366)!

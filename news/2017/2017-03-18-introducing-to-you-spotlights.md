@@ -3,6 +3,7 @@ layout: post
 title: "Introducing to you: Spotlights"
 date: 2017-03-18 11:18:47 +0000
 tumblr_url: http://osunews.tumblr.com/post/158544426548/introducing-to-you-spotlights
+series: beatmap_spotlights
 ---
 
 The Ranking Charts has been since always a part of the osu! ecosystem, presenting the community the most noteworthy beatmaps each month where players compete for the top and mappers gain recognition for exceptional work on their beatmaps. However, after all the changes the charts have had to undergo in the past years, they will now encounter their biggest one yet!

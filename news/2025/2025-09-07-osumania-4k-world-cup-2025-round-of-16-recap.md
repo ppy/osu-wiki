@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Round of 16 Recap"
 date: 2025-09-07 21:00:00 +0000
+series: world_cups
 ---
 
 The first elimination round comes to a close with a bang! The bells toll as half of the teams survive the cull.

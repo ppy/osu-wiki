@@ -2,6 +2,7 @@
 layout: post
 title: "The Mappers' Report: May/June"
 date: 2020-07-03 01:00:00 +0000
+series: mappers_report
 ---
 
 Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings from all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!

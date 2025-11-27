@@ -2,6 +2,7 @@
 layout: post
 title: "osu!idol 2019 Finals: Community Voting"
 date: 2019-11-19 22:20:00 +0000
+series: official_contests
 ---
 
 It's been another amazing year for the osu!idol competition! There are three finalists we have for you to enjoy: [aceredshirt13](https://osu.ppy.sh/users/13736238), [moof](https://osu.ppy.sh/users/8457202), and [iamALieee](https://osu.ppy.sh/users/10093980). Go give their entries a listen and vote for your favourite!

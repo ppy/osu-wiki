@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aspect"
 date: 2025-07-26 10:30:00 +0000
+series: featured_artists
 ---
 
 **Aspect**'s music isn't what you'd expect to hear from a rhythm game, but sometimes that's what osu! needs.

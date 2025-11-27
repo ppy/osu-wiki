@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2025: Registrations Now Open!"
 date: 2025-02-15 00:00:00 +0000
+series: world_cups
 ---
 
 Get your drum sticks ready — the osu!taiko World Cup 2025 is just around the corner!

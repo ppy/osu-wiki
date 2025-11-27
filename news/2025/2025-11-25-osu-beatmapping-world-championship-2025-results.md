@@ -2,6 +2,7 @@
 layout: post
 title: osu! Beatmapping World Championship 2025 Results
 date: 2025-11-25 19:00:00 +0000
+series: community_contests
 ---
 
 Greetings, osu! community! The [osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/community/forums/topics/2060957) officially [kicked off](https://osu.ppy.sh/home/news/2025-04-07-osu-beatmapping-world-championship-2025) this April. As of mid-September, after five months of intense battles, we finally have a winner!

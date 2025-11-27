@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Mani and Mari, the New osu!mania Mascots
 date: 2020-09-17 14:00:00 +0000
+series: miscellaneous
 ---
 
 We're excited to introduce Mani and Mari, our two newest official osu!mascots!

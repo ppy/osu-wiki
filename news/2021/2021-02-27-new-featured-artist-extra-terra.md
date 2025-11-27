@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Extra Terra"
 date: 2021-02-27 10:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to announce **Extra Terra** as our latest Featured Artist!

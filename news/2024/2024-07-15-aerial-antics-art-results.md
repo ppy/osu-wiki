@@ -2,6 +2,7 @@
 layout: post
 title: "Aerial Antics Art Contest: Results"
 date: 2024-07-15 13:30:00 +0000
+series: fanart_contests
 ---
 
 The summer breeze brings July, menu art, and you.

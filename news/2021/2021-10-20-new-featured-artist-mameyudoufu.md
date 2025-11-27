@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Mameyudoufu"
 date: 2021-10-20 08:00:00 +0000
+series: featured_artists
 ---
 
 **Mameyudoufu** sweeps in as the latest addition to our Featured Artist library!

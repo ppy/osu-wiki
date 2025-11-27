@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: February Week 2"
 date: 2018-02-12 05:00:00 +0000
+series: project_loved
 ---
 
 This week's [Project Loved](https://osu.ppy.sh/community/forums/120) community voting for osu! and osu!taiko is now live! There's also a special set of Valentine's Day themed picks for osu!, including some long time community favourites, so come check it out!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2025: Round of 16 Recap"
 date: 2025-11-21 18:00:00 +0000
+series: world_cups
 ---
 
 After three weeks of Qualifiers and Group Stage play, the 2025 osu! World Cup reached the bracket stage at long last.

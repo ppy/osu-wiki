@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Round of 32 Recap"
 date: 2025-08-30 19:30:00 +0000
+series: world_cups
 ---
 
 Glory awaits! The osu!mania 4K World Cup bracket stages begin with a loud bang.

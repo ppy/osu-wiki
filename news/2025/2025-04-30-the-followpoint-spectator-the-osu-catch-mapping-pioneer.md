@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Spectator, the osu!catch Mapping Pioneer"
 date: 2025-04-30 09:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Have you ever looked at osu! interviews and thought to yourself: "Hey, aren't there too few mapper interviews?" Well, today is your lucky day, as we are interviewing Spectator, one of the most iconic osu!catch mappers out there!

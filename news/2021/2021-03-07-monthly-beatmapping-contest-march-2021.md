@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: March 2021"
 date: 2021-03-07 09:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Back from hiatus, the Monthly Beatmapping Contest returns with tough design limits and precious prizes — now featuring competition for other modes too!

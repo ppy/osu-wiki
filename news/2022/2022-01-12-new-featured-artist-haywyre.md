@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Haywyre"
 date: 2022-01-12 09:00:00 +0000
+series: featured_artists
 ---
 
 A monument to contemporary dance music, **Haywyre** joins our Featured Artist library!

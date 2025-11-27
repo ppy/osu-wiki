@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: July 2021"
 date: 2021-07-20 14:30:00 +0000
+series: project_loved
 ---
 
 Project Loved is here to cool you off from the summer heat with the freshest picks you've seen yet.

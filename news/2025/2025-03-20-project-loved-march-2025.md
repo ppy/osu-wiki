@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: March 2025"
 date: 2025-03-20 15:30:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Flowers are blooming, and the spring breeze is as stellar as ever. There's no better time for enjoying a fresh dose of Project Loved! 🌺

@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: September Week 1"
 date: 2017-09-20 10:00:00 +0000
+series: scorewatch
 ---
 
 September has finally arrived and players are working hard to keep this scorewatch article lively! A champion above champions, a new score on Atama no Taisou, and Toy's blast from the past play, all in this week's scorewatch article!

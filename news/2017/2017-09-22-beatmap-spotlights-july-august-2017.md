@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: July and August 2017"
 date: 2017-09-22 16:00:00 +0000
+series: beatmap_spotlights
 ---
 
 It's a big month for the Spotlights, with shiny new medals for finishing each set finally making their way into the game client. Additionally, we have TWO months worth of Spotlights to present to you, featuring some of the best maps from both July and August. Read on to find out more!

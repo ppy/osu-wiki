@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #11 Results"
 date: 2015-12-03 12:51:51 +0000
 tumblr_url: http://osunews.tumblr.com/post/134459652408/monthly-beatmapping-contest-11-results
+series: monthly_beatmapping_contest
 ---
 
 With our first ever osu!mania-only Beatmapping Contest coming to a close after a long wait, the results are in and the winner has been decided. This one was an osu!mania mapset only.

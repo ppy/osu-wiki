@@ -2,6 +2,7 @@
 layout: post
 title: Winter is Here!
 date: 2019-12-10 13:00:00 +0000
+series: fanart_contests
 ---
 
 It's time to get *festive*! The end of the year is almost here and with it, **twenty** new wintery backgrounds to welcome it in, plus a brand new Christmas carol inspired track from the original osu!musician himself, **nekodex**!

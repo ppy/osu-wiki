@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: luvlxckdown"
 date: 2022-03-23 09:00:00 +0000
+series: featured_artists
 ---
 
 **luvlxckdown** has joined the meeting.

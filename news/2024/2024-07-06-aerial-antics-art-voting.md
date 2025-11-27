@@ -2,6 +2,7 @@
 layout: post
 title: "Aerial Antics Art Contest: Voting Open"
 date: 2024-07-06 05:00:00 +0000
+series: fanart_contests
 ---
 
 It's time to lock in your **15** votes and decide the fate of **133** stellar entries!

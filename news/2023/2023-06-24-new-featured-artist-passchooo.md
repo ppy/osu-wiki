@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: passchooo"
 date: 2023-06-24 15:00:00 +0000
+series: featured_artists
 ---
 
 **passchooo** joins the lineup of osu!-players-turned-musicians as our latest Featured Artist!

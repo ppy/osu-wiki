@@ -2,6 +2,7 @@
 layout: post
 title: Resurrection Cup 2025 Results
 date: 2025-11-17 18:00:00 +0000
+series: community_tournaments
 ---
 
 Intense matches, jaw-dropping music, and a vibrant production team working behind the scenes. This year's Resurrection Cup had all of this, making it one of the most exciting in the series!

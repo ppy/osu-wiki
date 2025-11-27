@@ -3,6 +3,7 @@ layout: post
 title: "Weekly Report #3"
 date: 2016-09-03 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150075576015/weekly-report-3
+series: osu_weekly
 ---
 
 Hello! These last days have been relatively calmed for us after the new additions to the Beatmap Nominators. On the other hand, the [report thread](https://osu.ppy.sh/community/forums/topics/447428) has been rather active lately with the feedback of the community on qualified beatmaps. Keep up the good job!

@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 7K World Cup - ro16 Recap
 date: 2018-02-23 00:30:00 +0000
+series: world_cups
 ---
 
 osu!mania 7K World Cup is fully underway, with 16 intrepid teams fighting their way to the top! Did you miss out on any of the action? Fear not, as we've got you covered here!

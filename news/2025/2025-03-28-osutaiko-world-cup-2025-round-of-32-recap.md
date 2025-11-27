@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2025: Round of 32 Recap"
 date: 2025-03-28 06:00:00 +0000
+series: world_cups
 ---
 
 The yearly showdown of the best osu!taiko players from around the world is officially underway! Tune in to catch up on all the happenings of the first weekend of the tournament.

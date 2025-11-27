@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2021 Fanart Contest
 date: 2021-11-23 21:00:00 +0000
+series: fanart_contests
 ---
 
 2021 is finally drawing to a close, and what better way to send it off than with an especially festive fanart contest?

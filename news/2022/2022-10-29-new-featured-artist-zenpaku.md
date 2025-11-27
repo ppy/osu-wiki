@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Zenpaku"
 date: 2022-10-29 15:00:00 +0000
+series: featured_artists
 ---
 
 After a decade of releasing remixes under the alias *dj-Jo*, **Zenpaku** launches a new era of original tunes as our newest Featured Artist!

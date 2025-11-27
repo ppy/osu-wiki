@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: yaseta"
 date: 2023-02-18 11:00:00 +0000
+series: featured_artists
 ---
 
 **yaseta** climbs a nearly vertical cliff to enter our Featured Artist collection!

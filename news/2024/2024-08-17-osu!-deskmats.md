@@ -2,6 +2,7 @@
 layout: post
 title: osu! deskmats
 date: 2024-08-17 00:00:00 +0000
+series: merch_runs
 ---
 
 You sit at your desk every day. You play osu! every day. You can see where we're going with this.

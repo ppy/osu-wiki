@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: Global Moderation Team"
 date: 2017-11-16 10:00:00 +0000
+series: coffee_hour
 ---
 
 Always wondered why people seem so fascinated with coconut milk and banelings? How silences work? Who are the Global Moderation Team, and what do they do? Tune in to this week's episode of the _osu! Coffee Hour_ to find out!

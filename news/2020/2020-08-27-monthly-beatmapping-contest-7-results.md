@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest #7: Results"
 date: 2020-08-27 20:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Is it possible to make a decent map with Circle Size 0? Play the winning entries of July's contest and decide for yourself!

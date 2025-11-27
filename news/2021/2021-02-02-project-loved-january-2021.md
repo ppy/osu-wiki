@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: January 2021"
 date: 2021-02-02 18:40:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s picks for the last month are in! Come cast your votes and decide which of these maps should enter the Loved category.

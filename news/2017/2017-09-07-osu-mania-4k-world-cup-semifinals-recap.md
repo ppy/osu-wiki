@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup - Semifinals Recap
 date: 2017-09-07 14:00:00 +0000
+series: world_cups
 ---
 
 With a field of 12 teams being cut in half in this stage of the tournament, the osu!mania 4K World Cup Semifinals proved to bring out some rather intense encounters this week — let's recap all of the highs, lows, and everything in between!

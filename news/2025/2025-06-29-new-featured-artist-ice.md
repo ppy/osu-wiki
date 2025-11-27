@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ice"
 date: 2025-06-29 23:00:00 +0000
+series: featured_artists
 ---
 
 It's about time.

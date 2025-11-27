@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Whispered"
 date: 2023-03-08 09:00:00 +0000
+series: featured_artists
 ---
 
 **Whispered** proves that even a samurai can become a Featured Artist.

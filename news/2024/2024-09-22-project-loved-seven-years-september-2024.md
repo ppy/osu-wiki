@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: Seven Years / September 2024"
 date: 2024-09-22 19:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Another year passes. Happy 7th birthday to Project Loved!

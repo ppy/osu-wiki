@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Community Survey"
 date: 2022-02-27 13:00:00 +0000
+series: project_loved
 ---
 
 With Project Loved going on for several years now, it's time to decide the future of the category.

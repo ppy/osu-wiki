@@ -2,6 +2,7 @@
 layout: post
 title: Aspire V - Finals Stage Voting
 date: 2020-07-22 21:00:00 +0000
+series: official_contests
 ---
 
 You've chosen your favourite beatmaps from the Aspire V categories, now it's time to pick the best of the best!

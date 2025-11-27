@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Getty"
 date: 2021-01-06 09:00:00 +0000
+series: featured_artists
 ---
 
 Dive into the bass-filled tunes of **Getty**, our latest Featured Artist!

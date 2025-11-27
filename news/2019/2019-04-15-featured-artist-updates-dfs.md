@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Updates: Dictate, Fractal Dreamers & sakuraburst"
 date: 2019-04-15 08:00:00 +0000
+series: featured_artists
 ---
 
 We're getting down to earth with some brand new tracks from artists you know and love - namely the Monolithia album from Fractal Dreamers, two new tracks from Dictate, and six songs from sakuraburst!

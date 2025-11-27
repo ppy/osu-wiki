@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: osu!lazer"
 date: 2017-10-11 06:00:00 +0000
+series: coffee_hour
 ---
 
 The osu! Coffee Hour is back again for another sitting, this time showcasing one of the most popular osu!-related topics on everyone's mind - **osu!lazer**. Have your questions about the future of the game's... everything answered in this week's session, featuring **peppy** and **smoogipoo**!

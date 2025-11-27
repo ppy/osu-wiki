@@ -2,6 +2,7 @@
 layout: post
 title: "New Beginnings Art Contest: Voting Open"
 date: 2022-12-24 12:00:00 +0000
+series: fanart_contests
 ---
 
 **121** artists have set forth to end an era in osu! with their masterful creations, and now it falls to us to decide the finalists... with only **15** votes each!

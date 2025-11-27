@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: VINXIS"
 date: 2018-05-08 10:00:00 +0000
+series: featured_artists
 ---
 
 Continuing the recent trend of getting homegrown talent straight from the osu! community, we're proud to announce the latest addition to the Featured Artist - the one and only VINXIS!

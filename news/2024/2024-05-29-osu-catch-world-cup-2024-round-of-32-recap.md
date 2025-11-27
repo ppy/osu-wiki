@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2024: Round of 32 Recap"
 date: 2024-05-29 12:00:00 +0000
+series: world_cups
 ---
 
 Players from around the world brought their A-game, delivering incredible performances and close showdowns that kept viewers at the edge of their seats. Welcome to the recap of the Round of 32!

@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko & osu!catch World Cup 2025 Staff Recruitment
 date: 2025-02-04 09:00:00 +0000
+series: world_cups
 ---
 
 Ever wanted to help craft the maps that define the osu!taiko and osu!catch World Cups? Join the osu!taiko or osu!catch World Cup 2025 mappooling team as a mapper, playtester, or map modder!

@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of August 25th"
 date: 2019-08-26 18:30:00 +0000
+series: project_loved
 ---
 
 Hey kids, have you heard the news? [Project Loved](https://osu.ppy.sh/community/forums/120) just dropped *Now That's What I Call Loved* Vol. 50.

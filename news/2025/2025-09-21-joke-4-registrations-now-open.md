@@ -2,6 +2,7 @@
 layout: post
 title: "Jaye's One Key Event 4: The Great Escape"
 date: 2025-09-21 12:00:00 +0000
+series: community_tournaments
 ---
 
 Only one button required?! That's right, the largest 1-key competition is back again for another year of shenanigans and tomfoolery!

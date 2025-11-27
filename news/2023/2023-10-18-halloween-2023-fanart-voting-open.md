@@ -2,6 +2,7 @@
 layout: post
 title: "Halloween 2023 Fanart Contest: Voting Open!"
 date: 2023-10-18 04:00:00 +0000
+series: fanart_contests
 ---
 
 True terror strikes deep into the hearts of art aficionados everywhere: all **180** Halloween 2023 Fanart entries are in, and there's only **20** votes to be had! DESPAIR BEYOND COMPARE!

@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2019 Fanart Contest
 date: 2019-11-12 09:45:00 +0000
+series: fanart_contests
 ---
 
 The end of the year is rapidly approaching, and while things might be cooling down where you are (or maybe not), the artist's battlefield is just as fiery as ever!

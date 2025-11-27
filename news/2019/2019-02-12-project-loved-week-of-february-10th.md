@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of February 10th"
 date: 2019-02-12 21:00:00 +0000
+series: project_loved
 ---
 
 It's time for [Project Loved](https://osu.ppy.sh/community/forums/120) once again! All four modes, lots of picks—all that's missing is your vote!

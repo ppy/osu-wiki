@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: April 2020"
 date: 2020-04-07 16:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) has been out of action for a while, but today we're back and kicking off a new cycle of getting those sweet, sweet leaderboards added to the unranked maps you love most.

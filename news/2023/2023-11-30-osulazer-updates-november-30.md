@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: November 30, 2023"
 date: 2023-11-30 12:30:00 +0000
+series: game_updates
 ---
 
 Practise your slider artistry in today's osu!(lazer) update!

@@ -2,6 +2,7 @@
 layout: post
 title: osu! World Cup 2017 Round of 16 Recap
 date: 2017-11-30 10:00:00 +0000
+series: world_cups
 ---
 
 Sixteen teams took to the stage last weekend in the trials of the Round of 16! It might be the only round of the tournament where nobody gets knocked out, but the stakes have never been higher with each team sizing one another up for weaknesses and advantage. Here's what went down!

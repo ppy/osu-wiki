@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Cranky"
 date: 2018-05-25 13:00:00 +0000
+series: featured_artists
 ---
 
 The grandfather of rhythm gaming music arrives to osu! in style as our latest Featured Artist, complete with an accompanying set of **8** ranked maps from the Mapper's Guild!

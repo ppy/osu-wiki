@@ -2,6 +2,7 @@
 layout: post
 title: The Roundtable
 date: 2022-07-08 10:00:00 +0000
+series: offline_events
 ---
 
 16 osu! warriors battle in the inaugural edition of **The Roundtable**, osu!'s first major in-person invitational tournament!

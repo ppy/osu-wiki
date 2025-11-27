@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2018: Quarter Finals Recap"
 date: 2018-06-30 01:00:00 +0000
+series: world_cups
 ---
 
 Another week of historic fruit catching action down, just three more to go. This year's osu!catch World Cup Quarter Finals bracket was potentially more hyped than any before. Read to find out who booked an early trip to Finals Week!

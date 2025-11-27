@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: WangleLine"
 date: 2025-07-13 22:15:00 +0000
+series: featured_artists
 ---
 
 If you haven't heard **WangleLine** yet, your day is about to get a lot better.

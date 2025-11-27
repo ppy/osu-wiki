@@ -2,6 +2,7 @@
 layout: post
 title: Changes to Performance Points
 date: 2024-03-19 18:00:00 +0000
+series: ranking_system_updates
 ---
 
 Today peppy has graciously given (almost) everyone more performance points. Read on to find out why!

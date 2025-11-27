@@ -2,6 +2,7 @@
 layout: post
 title: Results - A Labour of Love
 date: 2021-04-27 20:00:00 +0000
+series: official_contests
 ---
 
 Votes are tallied and locked in. Discover who won this contest celebrating one of osu!'s most memorable beatmaps!

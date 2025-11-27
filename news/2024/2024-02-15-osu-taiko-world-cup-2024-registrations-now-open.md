@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2024: Registrations Now Open!"
 date: 2024-02-15 00:00:00 +0000
+series: world_cups
 ---
 
 Attention all drum smashers, the osu!taiko World Cup is back for its 14th instalment!

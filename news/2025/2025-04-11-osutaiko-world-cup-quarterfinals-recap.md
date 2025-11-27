@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2025: Quarterfinals Recap"
 date: 2025-04-11 12:00:00 +0000
+series: world_cups
 ---
 
 Raise your drumsticks and catch up on what went down in the previous week of this year's biggest osu!taiko tournament!

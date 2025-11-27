@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #7: Results"
 date: 2015-03-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/112654662093/monthly-beatmapping-contest-7-results
+series: monthly_beatmapping_contest
 ---
 
 The wait is finally over! The winners of our first multi-mode Monthly Beatmapping Contest have been decided, and what a contest it was. Four different modes, four unique winners, and one amazing beatmap at the end of it all, bundled exclusively with the game client forever more! See the results here.

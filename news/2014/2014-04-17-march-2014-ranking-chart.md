@@ -3,6 +3,7 @@ layout: post
 title: March 2014 Ranking Chart
 date: 2014-04-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/83033256875/march-2014-ranking-chart
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for March 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1403)!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Seraph"
 date: 2021-12-15 09:00:00 +0000
+series: featured_artists
 ---
 
 Gothic rock superstar **Seraph** steps aboard as our latest Featured Artist!

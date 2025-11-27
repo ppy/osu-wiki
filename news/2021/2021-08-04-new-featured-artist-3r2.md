@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 3R2"
 date: 2021-08-04 10:00:00 +0000
+series: featured_artists
 ---
 
 **3R2** joins the ranks as the newest addition to our Featured Artist lineup!
