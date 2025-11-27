@@ -147,9 +147,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | 36 | South Korea ::{ flag=KR }:: | ::{ flag=NO }:: Norway | [Nov 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T140000&p1=1440&p2=235&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 34 | Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Nov 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T160000&p1=1440&p2=37&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 35 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T170000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 37 | Winner of DE / CL | Winner of CN / NZ | []() |  |  |
-| 38 | Winner of KR / NO | Winner of GB / RU | []() |  |  |
-| SM | Semifinals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 30 November 2025
 
