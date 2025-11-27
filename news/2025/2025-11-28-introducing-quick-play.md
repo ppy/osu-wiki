@@ -10,7 +10,7 @@ Leaves fall rather quickly in the autumn, yet none of them will be as quick as o
 
 The demand to add matchmaking to the game has not gone unnoticed. Rising popularity on some community solutions such as auto-hosting bots and full-on external matchmaking services have only reinforced this idea.
 
-As of two weeks ago, however, osu! officially introduced its own version of matchmaking appropriately called [quick play](/wiki/Gameplay/Quick_play) (name pending)!
+As of two weeks ago, however, osu! officially introduced its own version of matchmaking. It was named about as fast as it was made: [quick play](/wiki/Gameplay/Quick_play)!
 
 We hope you'll join us this coming November 29th in a stress-test with the addition of over 120 new maps (including mods) to the pool, global rating leaderboards, randomised voting, and more. Of course, the team will also be participating!
 
