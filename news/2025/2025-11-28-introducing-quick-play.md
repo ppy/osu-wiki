@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Quick Play
-date: 2025-11-23 12:00:00 +0000
+date: 2025-11-28 12:00:00 +0000
 series: game_updates
 ---
 
@@ -13,7 +13,7 @@ The demand to add matchmaking to the game has not gone unnoticed. Rising popular
 
 As of two weeks ago, however, osu! officially introduced its own version of matchmaking. It was named about as fast as it was made: [quick play](/wiki/Gameplay/Quick_play)!
 
-We hope you'll join us this coming November 29th in a stress-test with the addition of over 120 new maps (including mods) to the pool, global rating leaderboards, randomised voting, and more. Of course, the team will also be participating!
+We hope you'll join us this coming November 29th in a stress-test with the addition of over 250 new maps (including mods) to the pool, global rating leaderboards, randomised voting, and more. Of course, the team will also be participating!
 
 ## But what exactly is quick play?
 
