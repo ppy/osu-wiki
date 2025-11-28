@@ -51,7 +51,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
 
 In the nomod pool, the amazing [MetaHumanBoi's](https://osu.ppy.sh/beatmaps/artists/430) [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chat favorite over the weekend.
 
-[![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.png)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
+[![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -259,7 +259,7 @@ Having full creative control can be a blessing and curse at times. On one hand, 
 
 For this particular song, the way Helblinde composed it just left me with such a strong mental image right away, I got chills the first time I heard it. It felt relentless, almost hallucinatory. And with that thought in mind I went straight to kaleidoscopes, where everything is centred, symmetrical and constantly shifting. Right away I knew I wanted the more intense parts of the song to feel like flicking through an endless series of hallucinations. When one of our illustrators drew an eye straight out of a horror scene, it fit the idea of Nástrǫnd so well I just knew we had to keep exploring more of this uneasiness.
 
-[![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/lowgraphics_interview_image.png)](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699)
+![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/lowgraphics_interview_image.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
