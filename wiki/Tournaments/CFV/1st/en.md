@@ -78,6 +78,16 @@ The Cute Female Vocal 1st is run by various community members.
 - [Challonge bracket](https://challonge.com/CFV)
 - [Vod collection (Bilibili)](https://www.bilibili.com/video/BV1Pj411E7c4)
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | KimMui |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | - Sky - |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [GB]ChickenGold |
+
 ## Mappools
 
 ### Grand Finals
