@@ -144,14 +144,6 @@ It was the biggest win in New Zealand's OWC history, securing their first-ever p
         margin-bottom: 2px;
     }
 
-    .news-chat-quote__colour-gmt {
-        color: #99EB47;
-    }
-
-    .news-chat-quote__colour-lvd {
-        color: #FFD1DC;
-    }
-
     .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
@@ -169,7 +161,7 @@ INSERT HELBLINDE INTRO
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 As one of the earliest Featured Artists, I'm sure a lot of older players are very fond of your contributions to the game in the past. How is it for you being able to return after so long?
 
@@ -181,7 +173,7 @@ I'm incredibly thankful, I've mentioned it before but I used to use osu! back in
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 When it comes to the production, you were given a pretty blank slate to make what you wanted. Is there any interesting details about the track, like easter eggs or references?
 
@@ -193,7 +185,7 @@ While I'm not going to name all of them, "oblivion calls you home" refers to the
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 As a player yourself, you probably have a decent understanding about what type of music goes well with the gameplay. Do you ever think of existing maps you've played when trying to compose a song for osu! or have a vision for what the map might look like? What did you think of your experience collaborating with the World Cup design and mapping teams?
 
@@ -205,7 +197,7 @@ Absolutely, I had a clear goal going in but as per usual it ended up nothing lik
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2155578" style="background-image: url('/wiki/shared/avatars/Azer.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-gmt" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2155578">Azer</a></p>
 
 We're seeing more and more osu! players pick up music production and eventually become featured artists themselves. Is there any advice you'd like to give to those looking to do the same?
 
