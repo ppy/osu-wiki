@@ -237,6 +237,100 @@ The Cute Female Vocal 1st is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=1245996702#gid=1245996702).
+
+Saturday, 13 Jan 2024:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| [GB]ChickenGold | 2 | **6** | - Sky - | [#1](https://osu.ppy.sh/community/matches/112174327) | [#1](https://www.bilibili.com/video/BV1GV411R7m5) |
+
+Sunday, 14 Jan 2024:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **KimMui** | **6** | 0 | - Sky - | [#1](https://osu.ppy.sh/community/matches/112198826) | [#1](https://www.bilibili.com/video/BV18e411m7sd) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=642108145#gid=642108145).
+
+Saturday, 6 Jan 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **- Sky -** | **0** | -1 | PolarSwader | *win by default* |  |
+| **kissnolook** | **6** | 2 | AbstractApple | [#1](https://osu.ppy.sh/community/matches/112074678) | [#1](https://www.bilibili.com/video/BV1ot4y1Z71s) |
+| **KimMui** | **6** | 1 | [GB]ChickenGold | [#1](https://osu.ppy.sh/community/matches/112079078) | [#1](https://www.bilibili.com/video/BV1Ge411e7bb) |
+
+Sunday, 7 Jan 2025:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| kissnolook | 2 | **6** | **- Sky -** | [#1](https://osu.ppy.sh/community/matches/112089927) | [#1](https://www.bilibili.com/video/BV1ic411t7LQ) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=817676185#gid=817676185).
+
+Friday, 29 Dec 2023:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Axium0w0** | **6** | 5 | oid45 | [#1](https://osu.ppy.sh/community/matches/111955424) | [#1](https://www.bilibili.com/video/BV1Aa4y1z7qo) |
+
+Saturday, 30 Dec 2023:
+
+| **AbstractApple** | **6** | 5 | frankgh3 | [#1](https://osu.ppy.sh/community/matches/111968112) | [#1](https://www.bilibili.com/video/BV15a4y1z72o) |
+| **PolarSwader** | **6** | 4 | RealF233 | [#1](https://osu.ppy.sh/community/matches/111972479) | [#1](https://www.bilibili.com/video/BV18Q4y1J7Qc) |
+| Chrisse | -1 | **0** | **aabc271** | *win by default* |  |
+| KimMui | **6** | 4 | - Sky - | [#1](https://osu.ppy.sh/community/matches/111972981) | [#1](https://www.bilibili.com/video/BV1xN4y1B7nM) |
+| kissnolook | 3 | **6** | **[GB]ChickenGold** | [#1](https://osu.ppy.sh/community/matches/111973845) | [#1](https://www.bilibili.com/video/BV1QC4y1T7X8) |
+
+Sunday, 31 Dec 2023:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Axium0w0 | 4 | **6** | **AbstractApple** | [#1](https://osu.ppy.sh/community/matches/111985333) | [#1](https://www.bilibili.com/video/BV1kc411k7ou) |
+| aabc271 | 1 | **6** | **PolarSwader** | [#1](https://osu.ppy.sh/community/matches/111990220) | - |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=1348855091#gid=1348855091).
+
+Friday, 22 Dec 2023:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **RealF233** | **5** | 2 | [AR]bfdgbzfhs | [#1](https://osu.ppy.sh/community/matches/111843444) | [#1](https://www.bilibili.com/video/BV1jK411t79M) |
+
+Saturday, 8 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Saemitsu** | **5** | 4 | Endless fare | [#1](https://osu.ppy.sh/community/matches/111861614) | [#1](https://www.bilibili.com/video/BV1764y1H7L6)) |
+| Fuitje | 4 | **5** | **Ballistic** | [#1](https://osu.ppy.sh/mp/111866598) | - |
+| **frankgh3** | **5** | 1 | Crogzy Wogzy | [#1](https://osu.ppy.sh/community/matches/111856750) | [#1](https://www.bilibili.com/video/BV1Wc411C7N5) |
+| noglawitch | -1 | **0** | **mister_Andres** | *win by default* |  |
+| **ILikeTea** | **0** | -1 | --Akane-- | *win by default* |  |
+| GOSChara | -1 | **0** | **oid45** | *win by default* |  |
+
+Sunday, 9 March 2025:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **aabc271** | **0** | -1 | Mon3tr_Miku | *win by default* |  |
+| Saemitsu | -1 | **0** | **RealF233** | *win by default* |  |
+| Ballistic | -1 | **0** | **aabc271** | *win by default* |  |
+| mister_Andres | -1 | **0** | **frankgh3** | *win by default* |  |
+| **oid45** | **0** | -1 | ILikeTea | *win by default* |  |
+| **KimMui** | **5** | 1 | AbstractApple | [#1](https://osu.ppy.sh/community/matches/111875112) | [#1](https://www.bilibili.com/video/BV1Tu4y1T7X8) |
+| Axium0w0 | 1 | **5** | ***- Sky -** | [#1](https://osu.ppy.sh/community/matches/111873960) | [#1](https://www.bilibili.com/video/BV1Ju4y1T7vr) |
+| **kissnolook** | **5** | 1 | PolarSwader | [#1](https://osu.ppy.sh/community/matches/111876705) | [#1](https://www.bilibili.com/video/BV1ne411B7pq) |
+| **[GB]ChickenGold** | **0** | -1 | Chrisse | *win by default* |  |
+
 ## Ruleset
 
 The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K#ruleset) and [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024#ruleset).
