@@ -293,6 +293,8 @@ Friday, 29 Dec 2023:
 
 Saturday, 30 Dec 2023:
 
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
 | **AbstractApple** | **6** | 5 | frankgh3 | [#1](https://osu.ppy.sh/community/matches/111968112) | [#1](https://www.bilibili.com/video/BV15a4y1z72o) |
 | **PolarSwader** | **6** | 4 | RealF233 | [#1](https://osu.ppy.sh/community/matches/111972479) | [#1](https://www.bilibili.com/video/BV18Q4y1J7Qc) |
 | Chrisse | -1 | **0** | **aabc271** | *win by default* |  |
@@ -304,7 +306,7 @@ Sunday, 31 Dec 2023:
 | Team A |  |  | Team B | Match Link | VOD Link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Axium0w0 | 4 | **6** | **AbstractApple** | [#1](https://osu.ppy.sh/community/matches/111985333) | [#1](https://www.bilibili.com/video/BV1kc411k7ou) |
-| aabc271 | 1 | **6** | **PolarSwader** | [#1](https://osu.ppy.sh/community/matches/111990220) | - |
+| aabc271 | 1 | **6** | **PolarSwader** | [#1](https://osu.ppy.sh/community/matches/111990220) |  |
 
 ### Quarterfinals
 
