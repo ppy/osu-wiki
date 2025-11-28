@@ -322,7 +322,7 @@ Saturday, 23 Dec 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Saemitsu** | **5** | 4 | Endless fare | [#1](https://osu.ppy.sh/community/matches/111861614) | [#1](https://www.bilibili.com/video/BV1764y1H7L6)) |
+| **Saemitsu** | **5** | 4 | Endless fare | [#1](https://osu.ppy.sh/community/matches/111861614) | [#1](https://www.bilibili.com/video/BV1764y1H7L6) |
 | Fuitje | 4 | **5** | **Ballistic** | [#1](https://osu.ppy.sh/mp/111866598) | - |
 | **frankgh3** | **5** | 1 | Crogzy Wogzy | [#1](https://osu.ppy.sh/community/matches/111856750) | [#1](https://www.bilibili.com/video/BV1Wc411C7N5) |
 | noglawitch | -1 | **0** | **mister_Andres** | *win by default* |  |
