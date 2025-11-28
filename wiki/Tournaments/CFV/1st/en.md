@@ -306,7 +306,7 @@ Friday, 22 Dec 2023:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **RealF233** | **5** | 2 | [AR]bfdgbzfhs | [#1](https://osu.ppy.sh/community/matches/111843444) | [#1](https://www.bilibili.com/video/BV1jK411t79M) |
 
-Saturday, 8 March 2025:
+Saturday, 23 Dec 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -317,7 +317,7 @@ Saturday, 8 March 2025:
 | **ILikeTea** | **0** | -1 | --Akane-- | *win by default* |  |
 | GOSChara | -1 | **0** | **oid45** | *win by default* |  |
 
-Sunday, 9 March 2025:
+Sunday, 24 Dec 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -330,6 +330,77 @@ Sunday, 9 March 2025:
 | Axium0w0 | 1 | **5** | ***- Sky -** | [#1](https://osu.ppy.sh/community/matches/111873960) | [#1](https://www.bilibili.com/video/BV1Ju4y1T7vr) |
 | **kissnolook** | **5** | 1 | PolarSwader | [#1](https://osu.ppy.sh/community/matches/111876705) | [#1](https://www.bilibili.com/video/BV1ne411B7pq) |
 | **[GB]ChickenGold** | **0** | -1 | Chrisse | *win by default* |  |
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=1011394240#gid=1011394240).
+
+Friday, 15 Dec 2023:
+
+| Team A |  |  | Team B | Match Link | VOD Link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| oitre gouqi233 | -1 | **0** | **oid45** | *win by default* |  |
+
+Saturday, 16 Dec 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Catastrophe | 4 | **5** | **--Akane--** | [#1](https://osu.ppy.sh/community/matches/111749130) | [#1](https://www.bilibili.com/video/BV1bQ4y1g7vU) |
+| qiufeng_xz | 2 | **5** | **mister_Andres** | [#1](https://osu.ppy.sh/community/matches/111746819) | [#1](https://www.bilibili.com/video/BV1Y94y1N7oK) |
+| **Crogzy Wogzy** | **0** | -1 | SpikyPT | *win by default* |  |
+| redhe | -1 | **0** | **Ballistic** | *win by default* |  |
+| **Mon3tr_Miku** | **0** | -1 | RhythmBoii | *win by default* |  |
+| huypham_gm | -1 | **0** | **Endless fare** | *win by default* |  |
+| Jugemu-Jugemu | 1 | **5** | **[AR]bfdgbzfhs** | [#1](https://osu.ppy.sh/community/matches/111748373) | [#1](https://www.bilibili.com/video/BV1J94y1A7wG) |
+| **KimMui** | **5** | 0 | RealF233 | [#1](https://osu.ppy.sh/community/matches/111760525) | [#1](https://www.bilibili.com/video/BV1Su4y1T7NM) |
+| **AbstractApple** | **5** | 0 | Saemitsu | [#1](https://osu.ppy.sh/community/matches/111760525) | [#1](https://www.bilibili.com/video/BV1rG411a78U) |
+| **- Sky -** | **5** | 0 | Fuitje | [#1](https://osu.ppy.sh/community/matches/111755296) |  |
+| **[GB]ChickenGold**  | **5** | 2 | ILikeTea | [#1](https://osu.ppy.sh/community/matches/111750974) | [#1](https://www.bilibili.com/video/BV1BN4y1h7Xw) |
+
+Sunday, 17 Dec 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **Axium0w0** | **5** | 4 | aabc271 | [#1](https://osu.ppy.sh/community/matches/111766440) | [#1](https://www.bilibili.com/video/BV1PQ4y1378L) |
+| **kissnolook** | **5** | -1 | frankgh3 | *win by default* |  |
+| noglawitch | -1 | **0** | **PolarSwader** | *win by default* |  |
+| GOSChara | -1 | **0** | **Chrisse** | *win by default* |  |
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=1373164912#gid=1373164912).
+
+Friday, 8 Dec 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| oid45 | 1 | **4** | **RealF233** | [#1](https://osu.ppy.sh/community/matches/111624822) |  |
+| **Saemitsu** | **4** | 0 | Kuk2Ru | [#1](https://osu.ppy.sh/community/matches/111624765) | [#1](https://www.bilibili.com/video/BV17G411e7tz) |
+
+Saturday, 9 Dec 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| Endless fare | 2 | **4** | **ILikeTea** | [#1](https://osu.ppy.sh/community/matches/111639911) | [#1](https://www.bilibili.com/video/BV11j411W7Rp) |
+| **KimMui** | **4** | 0 | oitre gouqi233 | [#1](https://osu.ppy.sh/community/matches/111641135) | [#1](https://www.bilibili.com/video/BV1wc411q79x/) |
+| Mon3tr_Miku | 1 | **4** | **noglawitch** | [#1](https://osu.ppy.sh/community/matches/111641122) | [#1](https://www.bilibili.com/video/BV1FQ4y1G7QG/) |
+| **Axium0w0** | **4** | 0 | qiufeng_xz | [#1](https://osu.ppy.sh/community/matches/111642859) | [#1](https://www.bilibili.com/video/BV15w41187kd/) |
+
+Saturday, 10 Dec 2023:
+
+| Team A |  |  | Team B | Match link | VOD link |
+| --: | :-: | :-: | :-- | :-- | :-- |
+| **- Sky -** | **4** | 1 | Crogzy Wogzy | [#1](https://osu.ppy.sh/community/matches/111653137) | [#1](https://www.bilibili.com/video/BV1zu4y1G7p5/) |
+| **frankgh3** | **0** | -1 | Ballistic | *win by default* |  |
+| Jugemu-Jugemu | -1 | **0** | **GOSChara** | *win by default* |  |
+| mister_Andres | 0 | **4** | **aabc271** | [#1](https://osu.ppy.sh/community/matches/111657519) | [#1](https://www.bilibili.com/video/BV1wc411q7eo |
+| **AbstractApple** | **4** | 0 | Catastrophe | [#1](https://osu.ppy.sh/community/matches/111657886) | [#1](https://www.bilibili.com/video/BV11w41147LZ) |
+| **PolarSwader** | **4** | 0 | RhythmBoii | [#1](https://osu.ppy.sh/community/matches/111658342) | [#1](https://www.bilibili.com/video/BV1di4y1v77j) |
+| **kissnolook** | **4** | 0 | redhe | [#1](https://osu.ppy.sh/community/matches/111660117) | [#1](https://www.bilibili.com/video/BV1ZQ4y137G3) |
+| [AR]bfdgbzfhs | 1 | **4** | **Chrisse** | [#1](https://osu.ppy.sh/community/matches/111660160) |  |
+| **[GB]ChickenGold** | **4** | 0 | huypham_gm | [#1](https://osu.ppy.sh/community/matches/111660768) | [#1](https://www.bilibili.com/video/BV1qH4y1k7L6) |
+| **Fuitje** | **4** | 1 | SpikyPT | [#1](https://osu.ppy.sh/community/matches/111662780) | [#1](https://www.bilibili.com/video/BV1cj411s73Y) |
+
 
 ## Ruleset
 
