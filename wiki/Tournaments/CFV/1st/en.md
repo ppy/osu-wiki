@@ -405,7 +405,7 @@ Saturday, 10 Dec 2023:
 | **- Sky -** | **4** | 1 | Crogzy Wogzy | [#1](https://osu.ppy.sh/community/matches/111653137) | [#1](https://www.bilibili.com/video/BV1zu4y1G7p5/) |
 | **frankgh3** | **0** | -1 | Ballistic | *win by default* |  |
 | Jugemu-Jugemu | -1 | **0** | **GOSChara** | *win by default* |  |
-| mister_Andres | 0 | **4** | **aabc271** | [#1](https://osu.ppy.sh/community/matches/111657519) | [#1](https://www.bilibili.com/video/BV1wc411q7eo |
+| mister_Andres | 0 | **4** | **aabc271** | [#1](https://osu.ppy.sh/community/matches/111657519) | [#1](https://www.bilibili.com/video/BV1wc411q7eo) |
 | **AbstractApple** | **4** | 0 | Catastrophe | [#1](https://osu.ppy.sh/community/matches/111657886) | [#1](https://www.bilibili.com/video/BV11w41147LZ) |
 | **PolarSwader** | **4** | 0 | RhythmBoii | [#1](https://osu.ppy.sh/community/matches/111658342) | [#1](https://www.bilibili.com/video/BV1di4y1v77j) |
 | **kissnolook** | **4** | 0 | redhe | [#1](https://osu.ppy.sh/community/matches/111660117) | [#1](https://www.bilibili.com/video/BV1ZQ4y137G3) |
