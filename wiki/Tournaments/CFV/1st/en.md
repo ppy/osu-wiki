@@ -11,7 +11,7 @@ tags:
 
 ![Cute Female Vocal 1st banner](img/CFV1st.png)
 
-The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619). This is an osu!mania 4K solo tournament featuring cute female vocal songs and maps.
+The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619). This is an osu!mania 4K solo tournament featuring cute female vocal songs and maps.
 
 # GENERAL INFORMATION
 
@@ -61,6 +61,14 @@ The Cute Female Vocal 1st is run by various community members.
 
 | Position | Member(s) |
 | :-: | :-- |
+| Coordinators | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
+| Mappooler | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619),  ::{ flag=CN }:: [Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=MY }:: [Mochineko](https://osu.ppy.sh/users/11238501), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=TW }:: [Xinhong1003](https://osu.ppy.sh/users/19821902), ::{ flag=US }:: [trooperr](hhttps://osu.ppy.sh/users/32028459), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=SK }:: [Stereotype](https://osu.ppy.sh/users/25311011), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) |
+ Referees | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=UK }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=ES }:: [nekonyo](https://osu.ppy.sh/users/4871211), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
+ | Stream + Commentary | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=UK }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941) |
+ | Stats + Sheet | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994) |
+ | WyBin | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128) |
+ | Design | ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380) |
+ | Wiki | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) |
 
 ## Links
 
