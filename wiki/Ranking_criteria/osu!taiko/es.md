@@ -90,11 +90,11 @@ Es aceptable usar los momentos de descanso con menos frecuencia si el ritmo de l
 
 | Dificultad | Momento de descanso | Ejemplo | Longitud de la cadena del ritmo |
 | :-: | :-: | :-: | :-- |
-| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 o más | ![3/1](img/kantan.png "3/1") | Momento de descanso necesario cada 32-36 pulsaciones |
-| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 o más | ![2/1](img/futsuu.png "2/1") | Momento de descanso necesario cada 32-36 pulsaciones |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 1) | 3/2 or longer | ![3/2](img/muzu1.png "3/2") | Momento de descanso necesario cada 32-36 pulsaciones |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 2) | 3 consecutive 1/1 or longer | ![3 consecutive 1/1](img/muzu2.png "3 consecutive 1/1") | Momento de descanso necesario cada 32-36 pulsaciones |
-| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 o más | ![1/1](img/oni.png "1/1") | Momento de descanso necesario cada 16-20 pulsaciones |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 o más | ![3/1](img/kantan.png "3/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 o más | ![2/1](img/futsuu.png "2/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 1) | 3/2 or longer | ![3/2](img/muzu1.png "3/2") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 2) | 3 consecutive 1/1 or longer | ![3 consecutive 1/1](img/muzu2.png "3 consecutive 1/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 o más | ![1/1](img/oni.png "1/1") | Momento de descanso necesario cada 16-20 pulsos |
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
