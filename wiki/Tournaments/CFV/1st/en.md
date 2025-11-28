@@ -267,7 +267,7 @@ Sunday, 14 Jan 2024:
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0/edit?gid=642108145#gid=642108145).
 
-Saturday, 6 Jan 2025:
+Saturday, 6 Jan 2024:
 
 | Team A |  |  | Team B | Match Link | VOD Link |
 | --: | :-: | :-: | :-- | :-- | :-- |
@@ -275,7 +275,7 @@ Saturday, 6 Jan 2025:
 | **kissnolook** | **6** | 2 | AbstractApple | [#1](https://osu.ppy.sh/community/matches/112074678) | [#1](https://www.bilibili.com/video/BV1ot4y1Z71s) |
 | **KimMui** | **6** | 1 | [GB]ChickenGold | [#1](https://osu.ppy.sh/community/matches/112079078) | [#1](https://www.bilibili.com/video/BV1Ge411e7bb) |
 
-Sunday, 7 Jan 2025:
+Sunday, 7 Jan 2024:
 
 | Team A |  |  | Team B | Match Link | VOD Link |
 | --: | :-: | :-: | :-- | :-- | :-- |
