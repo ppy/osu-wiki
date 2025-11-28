@@ -5,7 +5,7 @@ stub: true
 # Plantilla para los fondo de Taiko
 
 ::: Infobox
-![Plantilla de un fondo de Taiko](img/background.jpg "Example of a Taiko template background")
+![Plantilla de un fondo de Taiko](img/background.jpg "Ejemplo de una plantilla de fondo de Taiko")
 :::
 
 Una plantilla de un fondo de Taiko es una imagen de fondo que se usa para simular la jugabilidad auténtica de Taiko no Tatsujin. Por lo general, incluye una barra negra que muestra el nombre del artista y el título de la canción en blanco debajo del campo de juego.
