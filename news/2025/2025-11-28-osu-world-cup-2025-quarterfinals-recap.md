@@ -15,7 +15,7 @@ As before, be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s vide
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_BHmgpFbYFo" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[!] REPLACE VIDEO ABOVE
+REPLACE VIDEO ABOVE
 
 ## Mappool recap
 
