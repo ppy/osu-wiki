@@ -1,0 +1,60 @@
+---
+layout: post
+title: "New Featured Artist: XenjeS"
+date: 2025-11-30 20:00:00 +0000
+series: featured_artists
+---
+
+From the osu! World Cup's Grand Finals mappool to our Featured Artist library, **XenjeS** is part of osu! forevermore.
+
+![](https://assets.ppy.sh/artists/xxx/header.jpg)
+
+Ukrainian producer **XenjeS** found their start in a familiar fashion: they watched a YouTube video of someone playing [The Big Black](https://osu.ppy.sh/beatmapsets/41823) when they were barely a teen, downloaded the game, and feel in love with the obscure musical niches that make osu! what it is.
+
+Unlike most people however, **XenjeS** took their musical interests a step further by drawing inspiration from artists like [Camellia](https://osu.ppy.sh/beatmaps/artists/31) and [Getty](https://osu.ppy.sh/beatmaps/artists/128) to create their own aural creations in FL Studio. Nearly 10 years after this whole journey, **XenjeS** is here today as one of our Featured Artists!
+
+Mappers are lucky today. They're getting both quality and quantity through **29** tracks offered on [**XenjeS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/482)!
+
+**XenjeS**'s presence reaches deep into osu!'s tournament scene. They've produced original tracks for [Ukrainian osu! Tournament](https://osu.ppy.sh/community/forums/topics/2049490), [3 Digit World Cup](/wiki/Tournaments/3WC/2025), [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025), and [Resurrection Cup 2025](/wiki/Tournaments/RESC/2025), along with official projects like [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest), [osu!catch World Cup 2025](/wiki/Tournaments/CWC/2025), and most recently [osu! World Cup 2025](/wiki/Tournaments/OWC/2025) with *Inorganic Dystopia* below!
+
+### [XenjeS - Inorganic Dystopia](LINK)
+
+Play through [this World Cup map]() created by [USER](LINK)!
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LINK" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### [XenjeS - Planetary Exclusion Zone](LINK)
+
+Or try out [this osu!catch's World Cup map](https://osu.ppy.sh/beatmapsets/2388185) hosted by [-Rustyy](https://osu.ppy.sh/users/16355636)!
+
+<audio controls>
+    <source src="LINK">
+</audio>
+
+### [XenjeS - Organic's Decay](LINK)
+
+While the song wasn't made specifically for the tournament, [this map](https://osu.ppy.sh/beatmapsets/2287939) by [nooj](https://osu.ppy.sh/users/8271086) and [Feiri](https://osu.ppy.sh/users/3214844) found its way to the Grand Finals mappool for osu! World Cup 2024!
+
+<audio controls>
+    <source src="LINK">
+</audio>
+
+### [XenjeS - Night Sky Solitude](LINK)
+
+Tournament maps aren't everyone's cup of tea. Good thing [this difficulty spread](https://osu.ppy.sh/beatmapsets/2348038) by [nik](https://osu.ppy.sh/users/10077264) exists!
+
+<audio controls>
+    <source src="LINK">
+</audio>
+
+---
+
+Enough stalling. Head to [**XenjeS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/482), pick up a `.osz`, and put everything you know into creating your next beatmap.
+
+If you want to see **XenjeS**'s music played by the best of the best circle clickers, check out into [the osulive Twitch channel](https://twitch.tv/osulive) next weekend for the Grand Finals of the biggest tournament of the year!
+
+Stay tuned for another artist reveal in a week too.
+
+—pishifat
