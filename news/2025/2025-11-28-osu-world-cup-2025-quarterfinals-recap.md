@@ -153,7 +153,11 @@ It was the biggest win in New Zealand's OWC history, securing their first-ever p
 
 ::{#helblinde}::
 
-INSERT HELBLINDE INTRO
+### Helblinde
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/owc-2025-qf-helblinde.mp4" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+</div>
 
 <div class="news-chat-quote__text-container">
 
@@ -210,6 +214,8 @@ At some point you will find your little niche where you can start adding individ
 </div>
 
 ---
+
+### LowGraphics
 
 ::{#lowgraphics}::
 
