@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2025: Quarterfinals Recap"
-date: 2025-11-29 20:00:00 +0000
+date: 2025-11-29 22:00:00 +0000
 series: world_cups
 ---
 
