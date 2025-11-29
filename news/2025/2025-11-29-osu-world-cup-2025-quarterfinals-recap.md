@@ -57,7 +57,7 @@ In the nomod pool, the amazing [MetaHumanBoi's](https://osu.ppy.sh/beatmaps/arti
     </audio>
 </div>
 
-And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic featured artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling, yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by [funny](https://osu.ppy.sh/users/8473573), [Mir](https://osu.ppy.sh/users/8688812), and [toybot](https://osu.ppy.sh/users/2848604), in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by [LowGraphics](https://osu.ppy.sh/users/5383942) as well, it's incredibly impressive!
+And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic featured artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling, yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by [funny](https://osu.ppy.sh/users/8473573), [Mir](https://osu.ppy.sh/users/8688812), and [toybot](https://osu.ppy.sh/users/2848604), in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by [LowGraphics](https://osu.ppy.sh/users/5383942) as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
 
 ## Saturday summary
 
