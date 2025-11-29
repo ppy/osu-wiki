@@ -155,6 +155,8 @@ It was the biggest win in New Zealand's OWC history, securing their first-ever p
 
 ### Helblinde
 
+[Helblinde](https://osu.ppy.sh/beatmaps/artists/5), one of the first [Featured Artists](/wiki/People/Featured_Artists), returned by producing [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873) as the tiebreaker for Quarterfinals.
+
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/owc-2025-qf-helblinde.mp4" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
