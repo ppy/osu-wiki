@@ -139,28 +139,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Semifinals
 
-### Saturday, 29 November 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 33 | China ::{ flag=CN }:: | ::{ flag=NZ }:: New Zealand | [Nov 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T120000&p1=1440&p2=33&p3=264) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 36 | South Korea ::{ flag=KR }:: | ::{ flag=NO }:: Norway | [Nov 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T140000&p1=1440&p2=235&p3=187) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 34 | Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Nov 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T160000&p1=1440&p2=37&p3=232) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35 | United Kingdom ::{ flag=GB }:: | ::{ flag=RU }:: Russian Federation | [Nov 29 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251129T170000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 30 November 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 40 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Nov 30 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T040000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 37b | Germany ::{ flag=DE }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T110000&p1=1440&p2=37&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38a | South Korea ::{ flag=KR }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T133000&p1=1440&p2=235&p3=136) | *TBD* | [^potential-match] |
-| 38b | South Korea ::{ flag=KR }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T133000&p1=1440&p2=235&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37a | Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Nov 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T140000&p1=1440&p2=37&p3=33) | *TBD* | [^potential-match] |
-| 37d | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T140000&p1=1440&p2=232&p3=264) | *TBD* | [^potential-match] |
-| 37c | Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Nov 30 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T150000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38c | Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | [Nov 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T170000&p1=1440&p2=187&p3=136) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38d | Norway ::{ flag=NO }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T170000&p1=1440&p2=187&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 37b | Germany ::{ flag=DE }:: | ::{ flag=NZ }:: New Zealand | [Nov 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T110000&p1=1440&p2=37&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 38b | South Korea ::{ flag=KR }:: | ::{ flag=RU }:: Russian Federation | [Nov 30 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T133000&p1=1440&p2=235&p3=166) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 39 | Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 30 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T180000&p1=1440&p2=262&p3=188) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 |  | Finals | mappool showcase | [Nov 30 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251130T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
@@ -308,6 +293,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 29 November 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 33 | China ::{ flag=CN }:: | 3 | **6** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/119951823) | [#1](https://www.twitch.tv/videos/2630838540?t=0h4m40s) |
+| 36 | **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119952773) | [#1](https://www.twitch.tv/videos/2630838540?t=2h4m29s) |
+| 34 | **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119954087) | [#1](https://www.twitch.tv/videos/2631036357) |
+| 35 | United Kingdom ::{ flag=GB }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/119954473) | [#1](https://www.twitch.tv/videos/2631014317?t=0h5m52s) |
 
 ### Quarterfinals
 
@@ -865,5 +861,4 @@ The final bracket configuration will be as follows:
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
