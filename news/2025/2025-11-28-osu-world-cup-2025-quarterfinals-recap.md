@@ -12,10 +12,8 @@ Favorites looked to assert dominance. Underdogs had upsets in their sights. From
 As before, be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s video if you'd like a more visual recap of the past week's matches:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_BHmgpFbYFo" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/KjK2Z6WxDEY" frameborder="0" allowfullscreen></iframe>
 </div>
-
-REPLACE VIDEO ABOVE
 
 ## Mappool recap
 
