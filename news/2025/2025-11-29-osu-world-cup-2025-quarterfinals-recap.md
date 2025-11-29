@@ -5,7 +5,7 @@ date: 2025-11-29 22:00:00 +0000
 series: world_cups
 ---
 
-Favorites looked to assert dominance. Underdogs had upsets in their sights. From full combos, solo carries and last second lead changes to matches that included blowouts, nail-bitingly close battles, and everything in between, the Quarterfinals week of OWC 2025 had it all.
+Favourites looked to assert dominance. Underdogs had upsets in their sights. From full combos, solo carries and last second lead changes to matches that included blowouts, nail-bitingly close battles, and everything in between, the Quarterfinals week of OWC 2025 had it all.
 
 ![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/banner.jpg)
 
@@ -31,9 +31,9 @@ As before, be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s vide
 
 ![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/mappool.png)
 
-This week's pool was a mix of the usual and very unusual. Maps such as [Taeyang's Remote Control](https://osu.ppy.sh/beatmapsets/351630#osu/774965) and [mizto's Prismatix](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892), mainstays in the top plays of many, contrasted with extremely technical or gimmicky maps such as [Pencilina](https://osu.ppy.sh/beatmapsets/755651#osu/1590460) or [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331#osu/5297696), the former a slider aim and precision pick in Hard Rock, the latter a Free Mod tech offering and a familiar map to those who kept up with Locus earlier in the year, having placed second in that contest.
+This week's pool was a mix of the usual and very unusual. Maps such as [Taeyang's map of *Remote Control*](https://osu.ppy.sh/beatmapsets/351630#osu/774965) and [mizto's map of *Prismatix*](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892), mainstays in the top plays of many, contrasted with extremely technical or gimmicky maps such as [Pencilina](https://osu.ppy.sh/beatmapsets/755651#osu/1590460) or [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331#osu/5297696), the former a slider aim and precision pick in Hard Rock, the latter a Free Mod tech offering and a familiar map to those who kept up with [Locus](/wiki/Contests/Locus/2025) earlier in the year, having placed second in that contest.
 
-On the side of customs, a popular pick this week was [Rtyzen's Suminagashi](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931), a CS5 AR8 pick in freemod on the shorter side, which ended up seeing plenty of extra Hard Rock mods by teams. [ULTRA RENDA](https://osu.ppy.sh/beatmapsets/2465421#osu/5396886), a reading-intensive nomod offering, and [Haunted Dance](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), a Hard Rock all-around challenge, were also hotly contested this week. [Previous CWC original Side by Side](https://osu.ppy.sh/beatmapsets/2465424#osu/5396889) and [China LAN original On Seeking U](https://osu.ppy.sh/beatmapsets/2409840#osu/5232210) also blessed this week's pool with their presence.
+On the side of customs, a popular pick this week was [Rtyzen's Suminagashi](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931), a CS 5 AR 8 Free Mod pick on the shorter side, which ended up seeing plenty of extra Hard Rock mods by teams. [ULTRA RENDA](https://osu.ppy.sh/beatmapsets/2465421#osu/5396886), a reading-intensive nomod offering, and [Haunted Dance](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), a Hard Rock all-around challenge, were also hotly contested this week. [Previous CWC original *Side by Side*](https://osu.ppy.sh/beatmapsets/2465424#osu/5396889) and [China LAN original *On Seeking U*](https://osu.ppy.sh/beatmapsets/2409840#osu/5232210) also blessed this week's pool with their presence.
 
 ---
 
@@ -47,7 +47,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
     </audio>
 </div>
 
-In the nomod pool, the amazing [MetaHumanBoi's](https://osu.ppy.sh/beatmaps/artists/430) [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chat favorite over the weekend.
+In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chatr-favourite over the weekend.
 
 [![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
@@ -57,7 +57,7 @@ In the nomod pool, the amazing [MetaHumanBoi's](https://osu.ppy.sh/beatmaps/arti
     </audio>
 </div>
 
-And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic featured artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling, yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by [funny](https://osu.ppy.sh/users/8473573), [Mir](https://osu.ppy.sh/users/8688812), and [toybot](https://osu.ppy.sh/users/2848604), in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by [LowGraphics](https://osu.ppy.sh/users/5383942) as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
+And for the tiebreaker, a familiar face returned to osu!, as one of the earliest and most iconic Featured Artists, [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), gave us a chilling yet epic song in [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873), mapped by [funny](https://osu.ppy.sh/users/8473573), [Mir](https://osu.ppy.sh/users/8688812) and [toybot](https://osu.ppy.sh/users/2848604) in a mechanically heavy, yet still distinctly technical way. Do check out the storyboard by [LowGraphics](https://osu.ppy.sh/users/5383942) as well (maybe through the [commentary video below](#helblinde)), it's incredibly impressive!
 
 ## Saturday summary
 
@@ -80,7 +80,7 @@ And for the tiebreaker, a familiar face returned to osu!, as one of the earliest
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2625094523&parent=osu.ppy.sh&autoplay=false&time=0h8m51s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-The story of Saturday was the #26 seed Taiwan and the ascension of ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050). An unheralded player to many coming into this World Cup, he would make himself into a household name over the course of Taiwan's shocking upset of #12 seed Romania in the Losers' Bracket Round 2.
+The story of Saturday was the #26 seed Taiwan and the ascension of ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050). An unheralded player to many coming into this World Cup, he would make himself into a household name over the course of Taiwan's shocking upset of #12 seed Romania in the losers' bracket round 2.
 
 The match began inauspiciously with the teams trading picks for the first four maps before Romania stole a break point on Taiwan's 3rd pick of [HR1](https://osu.ppy.sh/beatmapsets/2465285#osu/5396555), led by ::{ flag=RO }:: [origin_](https://osu.ppy.sh/users/15095811) and his 608,503 score. Romania consolidated the break point by dominating [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931) next for a 4–2 lead, after which the teams traded points with Romania taking match point advantage at 5–3.
 
@@ -106,7 +106,7 @@ While the remainder of Saturday’s matches were won by the higher seeds in larg
 | Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** |
 | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=BR }:: Brazil |
 
-Sunday's slate featured the remaining two Quarterfinals matches and the Losers' Bracket Round 3 potential matches, in which LB winners from Saturday faced off for the remaining spots in the top 12. In the Winners side of the bracket, Australia sent the defending champions South Korea to the losers bracket by a score of 6–2 including highlights such as [ASecretBox](https://osu.ppy.sh/users/7341183) and [mrekk](https://osu.ppy.sh/users/7562902) dropping double FCs on [FM1](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892) and FM4 with [palr](https://osu.ppy.sh/users/15429006) joining them for a ridiculous triple FC on [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931).
+Sunday's slate featured the remaining two Quarterfinals matches and the losers' bracket Round 3 potential matches, in which LB winners from Saturday faced off for the remaining spots in the top 12. In the Winners side of the bracket, Australia sent the defending champions South Korea to the losers' bracket by a score of 6–2 including highlights such as [ASecretBox](https://osu.ppy.sh/users/7341183) and [mrekk](https://osu.ppy.sh/users/7562902) dropping double FCs on [FM1](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892) and FM4 with [palr](https://osu.ppy.sh/users/15429006) joining them for a ridiculous triple FC on [FM2](https://osu.ppy.sh/beatmapsets/2465435#osu/5396931).
 
 Following this, #1 seed Poland put on a clinic against China with a 6–1 victory in which they won each of their points by 400,000 points or more — though China stole the show with an [unbelievable team score](https://www.twitch.tv/videos/2625999082?t=0h23m32s) on [HR3](https://osu.ppy.sh/beatmapsets/755651#osu/1590460) that's a must-to-watch for all OWC fans.
 
@@ -116,7 +116,7 @@ Following this, #1 seed Poland put on a clinic against China with a 6–1 victor
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2625886328&parent=osu.ppy.sh&autoplay=false&time=1h7m15s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-In the Losers' Bracket, the highlight match featured the New Zealand roster on a quest to make a name for themselves in OWC taking on team France, looking to overcome their demons of the past with a new-look squad. It was a surprise to many to see New Zealand qualify as the #16 seed for this year's World Cup following a placement of #44 in 2024 and an early exit in 25–32nd in 2023, but those keeping close tabs on their roster knew they were on an upward trajectory and that they were capable of proving their Qualifier placement was no fluke. Their opponent in this year's Losers' Bracket Round 3 was seed #15 France, a team with a lengthy history of mixed results in OWC trying to reach the top 12 for the first time since 2022.
+In the losers' bracket, the highlight match featured the New Zealand roster on a quest to make a name for themselves in OWC taking on team France, looking to overcome their demons of the past with a new-look squad. It was a surprise to many to see New Zealand qualify as the #16 seed for this year's World Cup following a placement of #44 in 2024 and an early exit in 25th–32nd in 2023, but those keeping close tabs on their roster knew they were on an upward trajectory and that they were capable of proving their Qualifier placement was no fluke. Their opponent in this year's losers' bracket Round 3 was seed #15 France, a team with a lengthy history of mixed results in OWC trying to reach the top 12 for the first time since 2022.
 
 France got off to an excellent start in the match, opening with a break point and consolidating on their first pick of [HD3](https://osu.ppy.sh/beatmapsets/2218922#osu/4703382), but New Zealand put the pedal to the floor and reeled off five straight picks to take a commanding 5–2 lead, banking multiple match point opportunities. While France was able to put another point on the board on [DT4](https://osu.ppy.sh/beatmapsets/11558#osu/57382), New Zealand was not to be denied, picking and dominating [Remote Control](https://osu.ppy.sh/beatmapsets/351630#osu/774965) for a 6–3 victory.
 
@@ -153,14 +153,16 @@ It was the biggest win in New Zealand's OWC history, securing their first-ever p
 
 ::{#helblinde}::
 
-### Helblinde
+[![Helblinde](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/Helblinde.png)](https://osu.ppy.sh/beatmaps/artists/5)
 
 [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), one of the first [Featured Artists](/wiki/People/Featured_Artists), returned by producing [Nástrǫnd](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873) as the tiebreaker for the Quarterfinals.
 
 Check out a short video commentary or text interview to peek into his thoughts behind the thrilling tunes.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://assets.ppy.sh/media/news/owc-2025-qf-helblinde.mp4" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/owc-2025-qf-helblinde.mp4" type="video/mp4" preload="none">
+    </video>
 </div>
 
 <div class="news-chat-quote__text-container">
@@ -219,9 +221,9 @@ At some point you will find your little niche where you can start adding individ
 
 ---
 
-### LowGraphics
-
 ::{#lowgraphics}::
+
+[![LowGraphics](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/LowGraphics.png)](https://osu.ppy.sh/users/5383942)
 
 When it comes to lyric-driven storyboards, few names stand out in the community quite like [LowGraphics](https://osu.ppy.sh/users/5383942). Recognized for his visual storytelling through text design, LowGraphics left us a lasting impression with his work on [Lies Playing Truth](https://youtu.be/v5ZaTeibemI) in OWC 2024 and [Veil of Ash](https://youtu.be/1a8kmvlpSj4) in CWC 2025. We now see him making a return to take on the Quarterfinals Tiebreaker [Helblinde - Nástrǫnd](https://youtu.be/k0fRmaEWty8), a challenging dark mythological design rooted in Norse lore.
 
@@ -291,7 +293,7 @@ I honestly can't say enough about how lucky we are to have such talented designe
 
 ---
 
-The following week will be explosive. In the Winners Bracket Semifinals, #1 seed Poland looks to continue a dominant run against plucky #4 Canada, while a surging #3 Australia seeks their first-ever win over #2 United States. Meanwhile in the Losers' Bracket, Chile, New Zealand, and Norway, aim to upset historical late-stage lineups, while teams such as Germany and South Korea try to add to their illustrious lists of World Cup top 6 placements.
+The following week will be explosive. In the winners' bracket Semifinals, #1 seed Poland looks to continue a dominant run against plucky #4 Canada, while a surging #3 Australia seeks their first-ever win over #2 United States. Meanwhile in the losers' bracket, Chile, New Zealand, and Norway, aim to upset historical late-stage lineups, while teams such as Germany and South Korea try to add to their illustrious lists of World Cup top 6 placements.
 
 We're coming down to the business end of this year's OWC, so [get your pick'ems set](https://pickem.hwc.hr/tournaments/186), [mark your calendars](/wiki/Tournaments/OWC/2025) with the schedules, and [follow all the action live](https://twitch.tv/osulive) as the osu! World Cup 2025 Semifinals week gets underway!
 
