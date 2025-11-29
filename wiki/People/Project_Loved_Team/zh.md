@@ -2,6 +2,7 @@
 tags:
   - captain
   - captains
+  - 队长
 ---
 
 # Project Loved 团队
