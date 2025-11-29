@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Introducing Quick Play
-date: 2025-11-28 12:00:00 +0000
+date: 2025-11-29 14:00:00 +0000
 series: game_updates
 ---
 
 Leaves fall rather quickly in the autumn, yet none of them will be as quick as osu!'s brand-new matchmaking system!
 
-![](REMEMBER_TO_ADD_BANNER)
+![](/wiki/shared/news/2025-11-29-introducing-quick-play/banner.jpg)
 
 The demand to add matchmaking to the game has not gone unnoticed. Rising popularity on some community solutions such as auto-hosting bots and full-on external matchmaking services have only reinforced this idea.
 
