@@ -23,10 +23,10 @@ The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament h
     • Already joined Discord server or QQ Group.
     • Pass screen by osu! Tournament Committee.
     4.Pools details and Brackets size：
-    Qualifier Stage：6 FreeMod maps, played in a row
-    Round of 32/16：9 FreeMod maps + 1 Tie-Breaker, BO7
-    Quarterfinals/Semifinals: 11 FreeMod maps + 1 Tie-Breaker, BO9.
-    Finals/Grand Finals: 13 FreeMod maps + 1 Tie-Breaker, BO11.
+      -Qualifier Stage：6 FreeMod maps, played in a row
+      -Round of 32：9 FreeMod maps + 1 Tie-Breaker, BO7
+      -Round of 16/Quarterfinals: 11 FreeMod maps + 1 Tie-Breaker, BO9.
+      -Semifinals/Finals/Grand Finals: 13 FreeMod maps + 1 Tie-Breaker, BO11.
     5.We reserve the right to refuse any and all suspicious accounts and players from participating in the tournament.
     6.Players must abide by osu!'s Terms of Service at all times.
 
