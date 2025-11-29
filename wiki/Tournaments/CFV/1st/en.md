@@ -463,12 +463,12 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 #### Qualifiers
 
     1.There are 6 different types of charts in qualifiers:
-    Stage1: SV (Early game)
-    Stage2: Rice Mixed (Early game)
-    Stage3: LN WildCard (Early game)
-    Stage4: Dense JS (Late game)
-    Stage5: LN Density (Late game)
-    Stage6: Hybrid (Late game)
+      -Stage1: SV (Early game)
+      -Stage2: Rice Mixed (Early game)
+      -Stage3: LN WildCard (Early game)
+      -Stage4: Dense JS (Late game)
+      -Stage5: LN Density (Late game)
+      -Stage6: Hybrid (Late game)
     2.Players must play a maximum of two rounds of pools at the designated time, and the players' ranking will be decided by the highest score of every maps. All players must play the full pool at least one time. Players may choose not to play the pool after first round play if they wish.
     3.All maps will be played in the order in which they are presented in the pool. Players may choose to skip some maps in the second round.
     4.Players will have up to 2 minutes to rest between each map. Players will have up to 5 minutes to rest between the first and second rounds of play.
