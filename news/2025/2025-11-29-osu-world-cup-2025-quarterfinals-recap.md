@@ -7,7 +7,7 @@ series: world_cups
 
 Favorites looked to assert dominance. Underdogs had upsets in their sights. From full combos, solo carries and last second lead changes to matches that included blowouts, nail-bitingly close battles, and everything in between, the Quarterfinals week of OWC 2025 had it all.
 
-![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/banner.jpg)
+![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/banner.jpg)
 
 As before, be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s video if you'd like a more visual recap of the past week's matches:
 
@@ -29,7 +29,7 @@ As before, be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s vide
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2620162156&parent=osu.ppy.sh&autoplay=false&time=2h36m24s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/mappool.png)
+![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/mappool.png)
 
 This week's pool was a mix of the usual and very unusual. Maps such as [Taeyang's Remote Control](https://osu.ppy.sh/beatmapsets/351630#osu/774965) and [mizto's Prismatix](https://osu.ppy.sh/beatmapsets/2294086#osu/4898892), mainstays in the top plays of many, contrasted with extremely technical or gimmicky maps such as [Pencilina](https://osu.ppy.sh/beatmapsets/755651#osu/1590460) or [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331#osu/5297696), the former a slider aim and precision pick in Hard Rock, the latter a Free Mod tech offering and a familiar map to those who kept up with Locus earlier in the year, having placed second in that contest.
 
@@ -39,7 +39,7 @@ On the side of customs, a popular pick this week was [Rtyzen's Suminagashi](http
 
 This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
 
-[![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/illustrious_drifters_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699)
+[![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/illustrious_drifters_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -49,7 +49,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
 
 In the nomod pool, the amazing [MetaHumanBoi's](https://osu.ppy.sh/beatmaps/artists/430) [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chat favorite over the weekend.
 
-[![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
+[![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -267,7 +267,7 @@ Having full creative control can be a blessing and curse at times. On one hand, 
 
 For this particular song, the way Helblinde composed it just left me with such a strong mental image right away, I got chills the first time I heard it. It felt relentless, almost hallucinatory. And with that thought in mind I went straight to kaleidoscopes, where everything is centred, symmetrical and constantly shifting. Right away I knew I wanted the more intense parts of the song to feel like flicking through an endless series of hallucinations. When one of our illustrators drew an eye straight out of a horror scene, it fit the idea of Nástrǫnd so well I just knew we had to keep exploring more of this uneasiness.
 
-![](/wiki/shared/news/2025-11-28-osu-world-cup-2025-quarterfinals-recap/lowgraphics_interview_image.jpg)
+![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/lowgraphics_interview_image.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
