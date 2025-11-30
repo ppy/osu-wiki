@@ -47,7 +47,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
     </audio>
 </div>
 
-In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chatr-favourite over the weekend.
+In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chat-favourite over the weekend.
 
 [![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
