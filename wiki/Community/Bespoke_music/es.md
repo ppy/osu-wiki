@@ -925,7 +925,6 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=f5UPRVhTtNM "YouTube") |  | Kushper - Defragmentation | [#1](https://osu.ppy.sh/beatmapsets/2442592) | NM6 de las finales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/naikou_i_guess/tempusaeternum "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yBi8-F4_8i0 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://naikoumusic.bandcamp.com/track/t3mpus-t3rnvm "Bandcamp") |  | Naikou - // T3MPUS AET3RNVM // | [#1](https://osu.ppy.sh/beatmapsets/2445805) | Mapa de desempate de la gran final |
 
-
 #### ![](/wiki/shared/mode/osu.png) [Newcomers World Cup 2025](https://osu.ppy.sh/community/forums/topics/2069075)
 
 | Enlaces |  | Canción | Beatmap | Notas |
