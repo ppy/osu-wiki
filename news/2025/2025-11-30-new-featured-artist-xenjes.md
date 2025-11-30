@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: XenjeS"
-date: 2025-11-30 20:00:00 +0000
+date: 2025-11-30 20:30:00 +0000
 series: featured_artists
 ---
 
