@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aether"
 date: 2021-08-18 08:00:00 +0000
+series: featured_artists
 ---
 
 **Aether** traverses the fog and lands in our Featured Artist roster!

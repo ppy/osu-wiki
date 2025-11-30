@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Alestorm"
 date: 2022-09-21 10:00:00 +0000
+series: featured_artists
 ---
 
 **Alestorm** sails into our pool of Featured Artists!

@@ -3,6 +3,7 @@ layout: post
 title: September 2014 Monthly Ranking Charts
 date: 2014-10-16 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/100168045013/september-2014-monthly-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for September 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1409)! Along with that, we updated the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit) with the new results! Moreover, we published the [vote results here!](https://docs.google.com/spreadsheets/d/1bQQsvecPxgHJtFTMGWjSj25FcCmhGu82M8jvvNoKOic/edit)

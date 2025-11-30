@@ -2,6 +2,7 @@
 layout: post
 title: Performance Points & Star Rating Survey
 date: 2021-08-17 10:00:00 +0000
+series: ranking_system_updates
 ---
 
 We want your feedback on the way performance points and star rating development should proceed in the future, so read on and get involved!

@@ -2,6 +2,7 @@
 layout: post
 title: osu! cookie and pippi plushies are back for round 2!
 date: 2024-11-28 22:30:00 +0000
+series: merch_runs
 ---
 
 Your favourite osu! plushies just came back for one last dance! Come get yours through the crowdfunding campaigns before they're gone for good!

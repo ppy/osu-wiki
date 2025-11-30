@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: litmus*"
 date: 2021-09-22 08:00:00 +0000
+series: featured_artists
 ---
 
 Put your mapping skills to the test with our newest Featured Artist **litmus\***!

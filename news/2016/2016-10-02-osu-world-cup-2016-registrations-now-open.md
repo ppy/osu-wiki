@@ -3,6 +3,7 @@ layout: post
 title: osu! World Cup 2016 - Registrations now open!
 date: 2016-10-02 10:49:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/151233326878/osu-world-cup-2016-registrations-now-open
+series: world_cups
 ---
 
 We'd like to welcome all of you to this year's official osu! World Cup. As in every year, the rules have been adjusted from the previous OWC, so please **[read them carefully](https://osu.ppy.sh/wiki/OWC_2016#Ruleset)** before registering for this tournament.

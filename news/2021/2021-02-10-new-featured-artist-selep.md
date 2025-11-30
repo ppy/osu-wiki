@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: seleP"
 date: 2021-02-10 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **seleP**, the artist behind *Scarlet Rose* aboard as our latest Featured Artist!

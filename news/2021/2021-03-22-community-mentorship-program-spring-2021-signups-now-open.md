@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Spring 2021 Signups Now Open
 date: 2021-03-22 08:00:00 +0000
+series: online_events
 ---
 
 It's time for your mapping spirit to spring back to life, as the 18th cycle of the Community Mentorship program is coming! If you've ever found yourself wanting to expand your current knowledge and skills or help beginner mappers get started, this program will serve as a great opportunity for you!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2024: Quarterfinals Recap"
 date: 2024-06-13 09:00:00 +0000
+series: world_cups
 ---
 
 The osu!catch World Cup Quarterfinals concluded, and there are only 12 teams remaining. Let's take a look at everything that unfolded during this exciting weekend!

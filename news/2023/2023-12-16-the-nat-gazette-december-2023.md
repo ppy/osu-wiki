@@ -2,6 +2,7 @@
 layout: post
 title: "The NAT Gazette: December 2023"
 date: 2023-12-16 13:00:00 +0000
+series: qat_gazette
 ---
 
 Time is a flat circle. The QAT Gazette returns with a new look and goals! Get updated with the latest changes being deployed on the Ranked ecosystem.

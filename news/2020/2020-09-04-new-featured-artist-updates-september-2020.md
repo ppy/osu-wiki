@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: September 2020"
 date: 2020-09-04 08:15:00 +0000
+series: featured_artists
 ---
 
 While first-rate Featured Artists are added every new week, let's not forget about the equally talented artists in our back catalog! We've got **40** brand new tracks from **8** of our current Featured Artists ready for your mapping touch!

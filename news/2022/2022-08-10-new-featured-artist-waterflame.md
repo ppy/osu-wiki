@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Waterflame"
 date: 2022-08-10 10:00:00 +0000
+series: featured_artists
 ---
 
 Douse yourself in an endless selection of spicy tunes by **Waterflame**, our newest Featured Artist!

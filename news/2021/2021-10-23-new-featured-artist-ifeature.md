@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: iFeature"
 date: 2021-10-23 09:00:00 +0000
+series: featured_artists
 ---
 
 Feast your ears on **iFeature**'s hype-filled sound!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: d0tc0mmie"
 date: 2025-08-31 00:00:00 +0000
+series: featured_artists
 ---
 
 Kasane Teto is the new queen of the vocaloid empire, and **d0tc0mmie** is here to spread the news to the masses.

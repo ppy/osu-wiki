@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Dvwnpour"
 date: 2025-09-28 20:30:00 +0000
+series: featured_artists
 ---
 
 From the skies to our Featured Artist catalogue, **Dvwnpour** is here.

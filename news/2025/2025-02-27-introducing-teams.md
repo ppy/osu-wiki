@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Teams
 date: 2025-02-27 19:00:00 +0000
+series: game_updates
 ---
 
 These are not "clans", they're not "subdivisions", nor are they "guilds" — they are **teams**! And they're here to stay.

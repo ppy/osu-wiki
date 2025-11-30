@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Beach Bunny"
 date: 2022-06-22 10:00:00 +0000
+series: featured_artists
 ---
 
 Bouncing onto the osu! shores is **Beach Bunny**, our newest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: January 2022"
 date: 2022-01-24 10:30:00 +0000
+series: project_loved
 ---
 
 With a brand new year underway, Project Loved has returned to bring you your first dose of maps of 2022!

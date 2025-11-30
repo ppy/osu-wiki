@@ -2,6 +2,7 @@
 layout: post
 title: Winter is Here!
 date: 2017-12-15 07:00:00 +0000
+series: fanart_contests
 ---
 
 The snows have truly settled in across most of the world, and with the results of the Winter 2017 Fanart Contest finally in, what better way to celebrate than with some incredible pieces of osu! art? And to top it all off, a brand-new Christmas-themed track from the original composer of osu!'s musical theme, *nekodex*!

@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of June 17th"
 date: 2018-06-17 20:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back with a fresh new set of candidates for the Loved category! Come check them out, and vote for your favourites!

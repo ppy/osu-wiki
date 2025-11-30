@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: February 2022"
 date: 2022-02-18 13:30:00 +0000
+series: project_loved
 ---
 
 Love is in the air, which means it's time for Project Loved to make a move!

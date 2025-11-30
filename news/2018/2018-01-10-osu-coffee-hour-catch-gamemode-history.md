@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: osu!catch Gamemode History"
 date: 2018-01-11 02:00:00 +0000
+series: coffee_hour
 ---
 
 If there's one thing that sets osu! apart from other communities, it's the amount of different stories to be told. This episode of the osu! Coffee Hour will be the first in a series of Gamemode History episodes where we'll dive into the unique story behind each gamemode. First up on the list: osu!catch.

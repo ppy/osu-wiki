@@ -2,6 +2,7 @@
 layout: post
 title: Community Choice 2017 Results
 date: 2018-02-20 14:00:00 +0000
+series: official_contests
 ---
 
 The results are finally in, and so it is time to announce the winners of Community Choice 2017!

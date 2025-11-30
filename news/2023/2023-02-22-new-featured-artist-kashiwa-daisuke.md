@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: KASHIWA Daisuke"
 date: 2023-02-22 11:00:00 +0000
+series: featured_artists
 ---
 
 Renowned composer **KASHIWA Daisuke** marches into our Featured Artist collection!

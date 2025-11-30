@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2019 Fanart Contest Voting Open
 date: 2019-12-03 11:00:00 +0000
+series: fanart_contests
 ---
 
 Like little snowflakes from a winter sky, **152** talented artists have given us the best festive gift of all: agonizing decisions to make over amazing pieces of art. Check it out!

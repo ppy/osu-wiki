@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: PHAZE"
 date: 2023-11-04 16:30:00 +0000
+series: featured_artists
 ---
 
 Our newest Featured Artist **PHAZE** steps into the virtual spotlight!

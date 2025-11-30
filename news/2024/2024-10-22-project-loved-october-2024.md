@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: October 2024"
 date: 2024-10-22 20:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 As Autumn descends upon our lands like the falling leaves, so does another round of Project Loved.

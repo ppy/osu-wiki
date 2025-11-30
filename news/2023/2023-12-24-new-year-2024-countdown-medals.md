@@ -2,6 +2,7 @@
 layout: post
 title: New Year 2024 Countdown Medals
 date: 2023-12-24 14:00:00 +0000
+series: miscellaneous
 ---
 
 The countdown to a new era begins.

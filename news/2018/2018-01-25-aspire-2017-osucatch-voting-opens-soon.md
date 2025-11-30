@@ -2,6 +2,7 @@
 layout: post
 title: "Aspire 2017: osu!catch Voting Opens Soon"
 date: 2018-01-25 09:00:00 +0000
+series: official_contests
 ---
 
 After a long wait of preparation and scrutinisation by our panel of expert judges, **Aspire 2017: osu!catch** is finally ready to step into the spotlight! Join us this **Saturday the 27th of January at 23:00 UTC** for a livestream preview showcasing the final ten submissions, featuring expert commentary from our panel of talented judges; [Ascendance](https://osu.ppy.sh/users/2931883), [Nokashi](https://osu.ppy.sh/users/5431196), [Sartan](https://osu.ppy.sh/users/4100941) and [Zak](https://osu.ppy.sh/users/1375955)!

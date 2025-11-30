@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: August Weeks 1 & 2"
 date: 2017-08-17 07:30:00 +0000
+series: scorewatch
 ---
 
 Two weeks in one! Things are getting settled after many of osu!'s biggest names return from the YACA meetup in China, but there's still sweet scores to be had. Another player has joined the 700pp club, a special SS set on a difficult osu!mania map, and much more in this special fortnightly edition of Scorewatch!

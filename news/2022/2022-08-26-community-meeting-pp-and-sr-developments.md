@@ -2,6 +2,7 @@
 layout: post
 title: "osu! community meeting: Performance Points and Star Rating Development Q&A"
 date: 2022-08-26 10:00:00 +0000
+series: online_events
 ---
 
 Got some questions about the future direction of your game mode's Performance Points or Star Rating development? Ask them live during an upcoming Q&A panel hosted on the osu!dev Discord server!

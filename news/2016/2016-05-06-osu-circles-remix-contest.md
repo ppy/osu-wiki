@@ -3,6 +3,7 @@ layout: post
 title: osu! "circles!" Remix Contest
 date: 2016-05-06 07:40:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/143933020033/osu-circles-remix-contest
+series: community_contests
 ---
 
 Do you like to make music? Do you want to get your creative work out there for others to see? Look no further as we're putting the spotlight on the music creators of the community with osu!'s first ever remix contest! Sound interesting? Read on to see the details!

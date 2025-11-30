@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2024: Round of 24 Recap"
 date: 2024-01-26 15:00:00 +0000
+series: world_cups
 ---
 
 The osu!mania 7K World Cup begins! Stay updated as participants start revving up their engines to maintain their momentum for the remainder of the tournament.

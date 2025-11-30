@@ -3,6 +3,7 @@ layout: post
 title: "osu!weekly #78 (Extra Spooky Edition)"
 date: 2016-10-31 10:32:46 +0000
 tumblr_url: http://osunews.tumblr.com/post/152550487418/osuweekly-78-extra-spooky-edition
+series: osu_weekly
 ---
 
 Do you ever get the feeling the game changes whenever you're not looking at it? I know, spooky right? Thankfully, the osu!weekly has been keeping track of the position of everything on your desk. Want to know where that ghost took your tablet pen? Read on to find out!

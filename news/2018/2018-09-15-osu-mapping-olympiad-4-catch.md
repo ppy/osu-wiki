@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #4: osu!catch"
 date: 2018-09-15 14:00:00 +0000
+series: official_contests
 ---
 
 Last but certainly not least, the Olympiad official beatmapping contest arrives to osu!catch. Do you fancy yourself as a fruit arranger worthy of becoming the first ever osu!catch Mapping Olympian and ascending to the rank of *Elite Mapper*? Read inside for all the details and how to enter!

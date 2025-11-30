@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2017 Fanart Voting Now Open
 date: 2017-12-07 09:00:00 +0000
+series: fanart_contests
 ---
 
 Seven days, sixty-five incredible entries, and only six votes to spend. Help us decide how we decorate our main menu for this year's festive season - vote for your favourite fanart entry now!

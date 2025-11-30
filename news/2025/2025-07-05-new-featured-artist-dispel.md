@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Dispel"
 date: 2025-07-05 20:00:00 +0000
+series: featured_artists
 ---
 
 Send only your warmest welcomes to **Dispel**, our new Featured Artist!

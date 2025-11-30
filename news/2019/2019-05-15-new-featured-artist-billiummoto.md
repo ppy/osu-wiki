@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: BilliumMoto"
 date: 2019-05-15 11:00:00 +0000
+series: featured_artists
 ---
 
 The winner of the first ever osu!remix contest enters the scene as osu!'s latest Featured Artist! Say hello to [**BilliumMoto**](https://osu.ppy.sh/beatmaps/artists/38)!

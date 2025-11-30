@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tanger"
 date: 2025-10-19 21:00:00 +0000
+series: featured_artists
 ---
 
 osu! has been desperately missing one thing until today: **Tanger**.

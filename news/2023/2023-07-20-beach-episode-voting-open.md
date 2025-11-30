@@ -2,6 +2,7 @@
 layout: post
 title: Beach Episode Art Contest Voting Open!
 date: 2023-07-20 17:00:00 +0000
+series: fanart_contests
 ---
 
 It wouldn't be a beach episode if we didn't lead with: IT'S THE SEA! And now it's time for us to *see* what you'll cast your votes for!

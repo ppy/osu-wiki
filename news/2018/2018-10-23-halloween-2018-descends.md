@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2018 Descends!
 date: 2018-10-23 10:30:00 +0000
+series: fanart_contests
 ---
 
 All Hallow's Eve approaches fast, and the darkest night threatens to take over osu! once and for all, starting with the main menu! Spooks, chills and thrills abound with new Hush-Hush medals and more, come check out what's new!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: -45"
 date: 2022-08-31 10:00:00 +0000
+series: featured_artists
 ---
 
 Famed for composing songs for *07th Expansion*'s cult classic *Umineko no Naku Koro ni*, the legend **-45** (a.k.a. Akito Yoshikawa) finally joins our Featured Artists!

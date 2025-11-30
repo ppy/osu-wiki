@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MisoilePunch"
 date: 2022-02-12 09:00:00 +0000
+series: featured_artists
 ---
 
 The combined efforts of two rhythm game masterminds, **MisoilePunch** joins the lineup our latest Featured Artist!

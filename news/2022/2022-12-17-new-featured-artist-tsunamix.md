@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: tsunamix"
 date: 2022-12-17 11:00:00 +0000
+series: featured_artists
 ---
 
 **tsunamix** brings us a whole new batch of *Touhou* arrangements as our newest Featured Artist!

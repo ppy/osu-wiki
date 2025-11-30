@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Unchained - Results"
 date: 2024-07-17 12:00:00 +0000
+series: official_contests
 ---
 
 The voting has concluded, and it's time to put the creativity genie back in the box and check out the voting results.

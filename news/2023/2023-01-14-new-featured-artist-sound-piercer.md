@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Sound piercer"
 date: 2023-01-14 11:00:00 +0000
+series: featured_artists
 ---
 
 **Sound piercer** blasts their way into our Featured Artist library!

@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #8"
 date: 2015-02-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/110718882663/monthly-beatmapping-contest-8
+series: monthly_beatmapping_contest
 ---
 
 Submissions for the 8th Monthly Beatmapping Contest are now open - with a special **winter** theme for this month's contest, and all-new changes to the format of the monthly contests to spice things up a bit!

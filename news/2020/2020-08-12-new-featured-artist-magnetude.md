@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Magnetude"
 date: 2020-08-12 08:00:00 +0000
+series: featured_artists
 ---
 
 **Magnetude** joins the lineup as our latest Featured Artist!
