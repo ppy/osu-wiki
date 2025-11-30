@@ -5,11 +5,11 @@ date: 2025-11-30 20:00:00 +0000
 series: featured_artists
 ---
 
-From the osu! World Cup's Grand Finals mappool to our Featured Artist library, **XenjeS** is part of osu! forevermore.
+From the osu! World Cup's Finals mappool to our Featured Artist library, **XenjeS** is part of osu! until the end of time.
 
 ![](https://assets.ppy.sh/artists/xxx/header.jpg)
 
-Ukrainian producer **XenjeS** found their start in a familiar fashion: they watched a YouTube video of someone playing [The Big Black](https://osu.ppy.sh/beatmapsets/41823) when they were barely a teen, downloaded the game, and feel in love with the obscure musical niches that make osu! what it is.
+Ukrainian producer **XenjeS** found their start in a familiar fashion: they watched a YouTube video of someone playing [The Big Black](https://osu.ppy.sh/beatmapsets/41823) when they were a teenager, downloaded the game, and feel in love with the obscure musical niches that make osu! what it is.
 
 Unlike most people however, **XenjeS** took their musical interests a step further by drawing inspiration from artists like [Camellia](https://osu.ppy.sh/beatmaps/artists/31) and [Getty](https://osu.ppy.sh/beatmaps/artists/128) to create their own aural creations in FL Studio. Nearly 10 years after this whole journey, **XenjeS** is here today as one of our Featured Artists!
 
@@ -55,6 +55,6 @@ Enough stalling. Head to [**XenjeS**'s Featured Artist listing](https://osu.ppy.
 
 If you want to see **XenjeS**'s music played by the best of the best circle clickers, check out into [the osulive Twitch channel](https://twitch.tv/osulive) next weekend for the Grand Finals of the biggest tournament of the year!
 
-Stay tuned for another artist reveal in a week too.
+Stay tuned.
 
 —pishifat
