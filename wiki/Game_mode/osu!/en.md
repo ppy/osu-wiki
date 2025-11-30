@@ -2,7 +2,7 @@
 
 *For other uses, see [osu! (disambiguation)](/wiki/Disambiguation/osu!).*
 
-**osu!**, formerly known as *osu!standard*, is the default game mode in which players are required to aim for and click circles using their *cursor* in tune with the rhythm.
+**osu!**, also known as *osu!standard*, is the default game mode in which players are required to aim for and click circles using their *cursor* in tune with the rhythm.
 
 ## Song selection
 
@@ -14,16 +14,16 @@ To download more beatmaps for osu!, head to the [beatmap listing](https://osu.pp
 
 ## Player control
 
-In osu!, the user is supposed to click circles, guide sliders and spin spinners by using their cursor or touch screen. By default the keys to control the cursor's actions are:
+In osu!, the user clicks circles, guides sliders and spins spinners by using their cursor or touch screen. By default the keys to control the cursor's actions are:
 
-- The `left mouse button` and `right mouse button` or `Z` and `X` to click using cursor.
+- The `left mouse button` and the `right mouse button` or `Z` and `X` keys respectively to click using cursor.
 - The `C` button to draw with smoke.
 
 For touch screen devices, simply tap the hit objects or aim with one hand and tap to the rhythm in the area outside the playfield with the other.
 
-If [relax](/wiki/Gameplay/Game_modifier/Relax) is being used, the in-game cursor will automatically click the hit objects when aimed to the rhythm. Spinners still have to be completed manually.
+If the [relax](/wiki/Gameplay/Game_modifier/Relax) mod is being used, the in-game cursor will automatically click the hit objects when aimed to the rhythm. Spinners still have to be completed manually.
 
-When the [auto pilot](/wiki/Gameplay/Game_modifier/Autopilot) mod is being used, the in-game cursor will automatically aim for all objects, only requiring the user to click to the rhythm. The speed the spinners will spin at is the same as the one in the [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) mod.
+When the [autopilot](/wiki/Gameplay/Game_modifier/Autopilot) mod is being used, the in-game cursor will automatically aim for all objects, only requiring the user to click to the rhythm. The speed the spinners will spin at is the same as the one in the [spun out](/wiki/Gameplay/Game_modifier/Spun_Out) mod.
 
 If the player desires to draw while playing osu!, they can do so using **smoke**. When the player activates the respective key for smoke, the cursor will leave behind a white trail that will last for about 8 seconds after the key's deactivation.
 
@@ -43,9 +43,9 @@ osu! has 3 main [hit objects](/wiki/gameplay/Hit_object) the player interacts wi
 
 **Hit circles** are coloured circles with numbers displayed on them. A thin [approach circle](/wiki/Gameplay/Hit_object/Approach_circle) on the outside of the hit circle will shrink over time. The user is required to aim the cursor onto a hit circle and click it when the approach circle touches the hit circle.
 
-After hitting a hit circle, a number appears indicating the [judgement](/wiki/Gameplay/Judgement/osu!) received for how accurate the timing of the hit was.
+After hitting a hit circle, a word or number appears indicating the [judgement](/wiki/Gameplay/Judgement/osu!) received for how accurate the timing of the hit was.
 
-If the judgement is everything but a `MISS`, the combo will be incremented by 1.
+If the judgement is not a `MISS`, the combo will be incremented by 1. Otherwise, the combo will be reset back to 0.
 
 ### Sliders
 
@@ -59,7 +59,7 @@ Sometimes, the ball may reverse its direction after hitting a *reverse arrow* at
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
 
-**Spinners** fill out the whole playfield in osu!. To clear a spinner, the player needs to hold the respective mouse/keyboard button and spin the cursor around the center as fast as they can. If the spinner was cleared early, they can continue spinning to acquire bonus score and regain more health. Spinners do not have hit windows, but will break combo and grant a `MISS` judgement when not cleared properly.
+**Spinners** fill out most of the playfield in osu!. To clear a spinner, the player needs to hold the respective mouse/keyboard button and spin the cursor around the center as fast as they can. If the spinner was cleared early, they can continue spinning to acquire bonus score and regain more health. Spinners do not have hit windows, but will break combo and grant a `MISS` judgement when not cleared properly.
 
 Below the spinner is a display showing the current spin speed in revolutions per minute (RPM).
 
@@ -84,7 +84,7 @@ Each setting is often referred to as CS, HP, AR, and OD respectively. Click on t
 
 [Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
-- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For hit circles and slider heads, well-timed key presses are valued more, both in terms of score and accuracy. Getting a higher judgement also provides more [health](/wiki/Gameplay/Health) boost.
+- [Judgements](/wiki/Gameplay/Judgement/osu!) determine a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For hit circles and slider heads, well-timed key presses are valued more, both in terms of score and accuracy. Getting a higher judgement also provides more [health](/wiki/Gameplay/Health) boost.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!) is dependant on judgments and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: Clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
@@ -130,7 +130,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
   - The most notable feature difference between v1 and v2 skin behaviour is the spinner.
     - The v1 skin behaviour for a spinner would increment the spinner meter from bottom to top in levels until it is full as per the *Ouendan* series. The timer was also a blue circle inside the spinner which would converge to the core of the spinner. The spinner ends when the timer circle reaches the core of the spinner.
     - The v2 skin behaviour for a spinner would slowly expand the spinner circle to full size and glows when it is completed. The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
-- The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:
+- The first three ranked beatmaps were ranked on the same day, 7th of October 2007, the day when the online leaderboard for osu! went live were:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), which was apparently mapped in around an hour.
   - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3)
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16)
