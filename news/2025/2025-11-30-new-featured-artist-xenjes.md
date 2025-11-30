@@ -15,7 +15,7 @@ Unlike most people however, **XenjeS** took their musical interests a step furth
 
 Mappers are lucky today. They're getting both quality and quantity through **29** tracks offered on [**XenjeS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/482)!
 
-**XenjeS**'s presence reaches deep into osu!'s tournament scene. They've produced original tracks for [Ukrainian osu! Tournament](https://osu.ppy.sh/community/forums/topics/2049490), [3 Digit World Cup](/wiki/Tournaments/3WC/2025), [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025), and [Resurrection Cup 2025](/wiki/Tournaments/RESC/2025), along with official projects like [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest), [osu!catch World Cup 2025](/wiki/Tournaments/CWC/2025), and most recently [osu! World Cup 2025](/wiki/Tournaments/OWC/2025) with *Inorganic Dystopia* below!
+**XenjeS**'s presence reaches deep into osu!'s tournament scene. They've produced original tracks for the [Ukrainian osu! Tournament](https://osu.ppy.sh/community/forums/topics/2049490), [3 Digit World Cup](/wiki/Tournaments/3WC/2025), [COE 2025 1v1 Tournament](/wiki/Tournaments/COE/COE_2025), and [Resurrection Cup 2025](/wiki/Tournaments/RESC/2025), along with official projects like [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest), [osu!catch World Cup 2025](/wiki/Tournaments/CWC/2025), and most recently the [osu! World Cup 2025](/wiki/Tournaments/OWC/2025) with *Inorganic Dystopia* below!
 
 ### [XenjeS - Inorganic Dystopia](https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Inorganic_Dystopia.osz)
 
@@ -27,7 +27,7 @@ Play through [this World Cup map](https://osu.ppy.sh/beatmapsets/2471967#osu/541
 
 ### [XenjeS - Planetary Exclusion Zone](https://assets.ppy.sh/artists/482/Songs/XenjeS%20-%20Planetary%20Exclusion%20Zone.osz)
 
-Or try out [this osu!catch's World Cup map](https://osu.ppy.sh/beatmapsets/2388185) hosted by [-Rustyy](https://osu.ppy.sh/users/16355636)!
+Or try out [this osu!catch World Cup map](https://osu.ppy.sh/beatmapsets/2388185) hosted by [-Rustyy](https://osu.ppy.sh/users/16355636)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/482/Songs/XenjeS%20-%20Planetary%20Exclusion%20Zone.mp3">
@@ -35,7 +35,7 @@ Or try out [this osu!catch's World Cup map](https://osu.ppy.sh/beatmapsets/23881
 
 ### [XenjeS - Organic's Decay](https://assets.ppy.sh/artists/482/Organic%27s%20Decay/XenjeS%20-%20Organic%27s%20Decay.osz)
 
-While the song wasn't made specifically for the tournament, [this map](https://osu.ppy.sh/beatmapsets/2287939) by [nooj](https://osu.ppy.sh/users/8271086) and [Feiri](https://osu.ppy.sh/users/3214844) found its way to the Grand Finals mappool for osu! World Cup 2024!
+While the song wasn't made specifically for the tournament, [this map](https://osu.ppy.sh/beatmapsets/2287939) by [nooj](https://osu.ppy.sh/users/8271086) and [Feiri](https://osu.ppy.sh/users/3214844) found its way to the Grand Finals mappool for the osu! World Cup 2024!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/482/Organic%27s%20Decay/XenjeS%20-%20Organic%27s%20Decay.mp3">
