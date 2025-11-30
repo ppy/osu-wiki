@@ -47,7 +47,7 @@ This week had two [osu! original](/wiki/Community/Bespoke_music) debuts as well!
     </audio>
 </div>
 
-In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chatr-favourite over the weekend.
+In the No Mod pool, the amazing [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430)'s [ILLUSTRIOUS DRIFTERS](https://osu.ppy.sh/beatmapsets/2465328#osu/5396699), an electronic, high-tempo banger mapped as a classic tech map by [Altai](https://osu.ppy.sh/users/5745865) and [Aistre](https://osu.ppy.sh/users/4879380), with an extremely cool storyboard by [Kuroise](https://osu.ppy.sh/users/14547127) accented by the cute design of the original character Aurora, a chat-favourite over the weekend.
 
 [![](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/nastrond_banner.jpg)](https://osu.ppy.sh/beatmapsets/2465411#osu/5396873)
 
@@ -225,7 +225,7 @@ At some point you will find your little niche where you can start adding individ
 
 [![LowGraphics](/wiki/shared/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap/LowGraphics.png)](https://osu.ppy.sh/users/5383942)
 
-When it comes to lyric-driven storyboards, few names stand out in the community quite like [LowGraphics](https://osu.ppy.sh/users/5383942). Recognized for his visual storytelling through text design, LowGraphics left us a lasting impression with his work on [Lies Playing Truth](https://youtu.be/v5ZaTeibemI) in OWC 2024 and [Veil of Ash](https://youtu.be/1a8kmvlpSj4) in CWC 2025. We now see him making a return to take on the Quarterfinals Tiebreaker [Helblinde - Nástrǫnd](https://youtu.be/k0fRmaEWty8), a challenging dark mythological design rooted in Norse lore.
+When it comes to lyric-driven storyboards, few names stand out in the community quite like [LowGraphics](https://osu.ppy.sh/users/5383942). Recognised for his visual storytelling through text design, LowGraphics left us a lasting impression with his work on [Lies Playing Truth](https://youtu.be/v5ZaTeibemI) in OWC 2024 and [Veil of Ash](https://youtu.be/1a8kmvlpSj4) in CWC 2025. We now see him making a return to take on the Quarterfinals Tiebreaker [Helblinde - Nástrǫnd](https://youtu.be/k0fRmaEWty8), a challenging dark mythological design rooted in Norse lore.
 
 <div class="news-chat-quote__text-container">
 
