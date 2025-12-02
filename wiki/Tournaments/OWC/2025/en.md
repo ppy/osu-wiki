@@ -144,7 +144,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 41 | Canada ::{ flag=CA }:: | ::{ flag=KR }:: South Korea | [Dec 06 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251206T040000&p1=1440&p2=188&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 42 | Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Dec 06 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251206T100000&p1=1440&p2=57&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 42 | Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Dec 06 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251206T110000&p1=1440&p2=57&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 7 December 2025
 
@@ -161,7 +161,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ### Finals
 
-**[Download the mappack here (229 MB)](https://packs.ppy.sh/P306%20-%20osu!%20World%20Cup%202025%3A%20Finals.zip?1764541596)**\
+**[Download the mappack here (229 MB)](https://packs.ppy.sh/P306%20-%20osu%21%20World%20Cup%202025%3A%20Finals.zip?1764635997)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2631998127?t=1h43m05s)
 
 - No Mod
@@ -177,7 +177,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 - Hard Rock
   1. [Asriel - Kegare Naki Yume (Beomsan) \[Nasmoeb\]](https://osu.ppy.sh/beatmapsets/2471966#osu/5416105)
   2. [cygnus - The Ruby of Twilight (LMT) \[Pure Ruby\]](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
-  3. [Marmalade butcher - Open Scar Unending (revoh) \[Paragon & perdition\]](https://osu.ppy.sh/beatmapsets/2471983#osu/5416139)
+  3. [Marmalade butcher - Open Scar Unending (revoh) \[Paragon & perdition (OWC)\]](https://osu.ppy.sh/beatmapsets/2471985#osu/5416144)
 - Double Time
   1. [TwoThirds & Feint - Epiphany (feat. Veela) (Aiceo) \[Revelation\]](https://osu.ppy.sh/beatmapsets/307163#osu/687303)
   2. [Decapitated - Homo Sum (Makeli) \[Insane\]](https://osu.ppy.sh/beatmapsets/527496#osu/3557557)
