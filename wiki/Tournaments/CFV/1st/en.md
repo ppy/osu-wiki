@@ -15,20 +15,20 @@ The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament h
 
 # GENERAL INFORMATION
 
-    1.This is an osu!mania 4K solo tournament.
-    2.Discord server will be the only source of latest infomation about the tournament. All staff member and players are required to join, and only players who are in the server can participate in this tournament.
-    3.To be eligible for this tournament, you must:
-    • Not exceed the osu!mania 4 key and total rank of #5000 both when you submit your registration form and until the end of the registration phase.
-    • Not exceed the osu!mania 4 key and total rank of #4000 during all tournament stages.
-    • Already joined Discord server or QQ Group.
-    • Pass screen by osu! Tournament Committee.
-    4.Pools details and Brackets size：
-      -Qualifier Stage：6 FreeMod maps, played in a row
-      -Round of 32：9 FreeMod maps + 1 Tie-Breaker, BO7
-      -Round of 16/Quarterfinals: 11 FreeMod maps + 1 Tie-Breaker, BO9.
-      -Semifinals/Finals/Grand Finals: 13 FreeMod maps + 1 Tie-Breaker, BO11.
-    5.We reserve the right to refuse any and all suspicious accounts and players from participating in the tournament.
-    6.Players must abide by osu!'s Terms of Service at all times.
+1.This is an osu!mania 4K solo tournament.
+2.Discord server will be the only source of latest infomation about the tournament. All staff member and players are required to join, and only players who are in the server can participate in this tournament.
+3.To be eligible for this tournament, you must:
+  • Not exceed the osu!mania 4 key and total rank of #5000 both when you submit your registration form and until the end of the registration phase.
+  • Not exceed the osu!mania 4 key and total rank of #4000 during all tournament stages.
+  • Already joined Discord server or QQ Group.
+  • Pass screen by osu! Tournament Committee.
+4.Pools details and Brackets size：
+  -Qualifier Stage：6 FreeMod maps, played in a row
+  -Round of 32：9 FreeMod maps + 1 Tie-Breaker, BO7
+  -Round of 16/Quarterfinals: 11 FreeMod maps + 1 Tie-Breaker, BO9.
+  -Semifinals/Finals/Grand Finals: 13 FreeMod maps + 1 Tie-Breaker, BO11.
+5.We reserve the right to refuse any and all suspicious accounts and players from participating in the tournament.
+6.Players must abide by osu!'s Terms of Service at all times.
 
 ## Tournament schedule
 
@@ -462,29 +462,29 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
 
 #### Qualifiers
 
-    1.There are 6 different types of charts in qualifiers:
+1.There are 6 different types of charts in qualifiers:
       -Stage1: SV (Early game)
       -Stage2: Rice Mixed (Early game)
       -Stage3: LN WildCard (Early game)
       -Stage4: Dense JS (Late game)
       -Stage5: LN Density (Late game)
       -Stage6: Hybrid (Late game)
-    2.Players must play a maximum of two rounds of pools at the designated time, and the players' ranking will be decided by the highest score of every maps. All players must play the full pool at least one time. Players may choose not to play the pool after first round play if they wish.
-    3.All maps will be played in the order in which they are presented in the pool. Players may choose to skip some maps in the second round.
-    4.Players will have up to 2 minutes to rest between each map. Players will have up to 5 minutes to rest between the first and second rounds of play.
-    5.There is no warm-up phase in this qualifying round.
+2.Players must play a maximum of two rounds of pools at the designated time, and the players' ranking will be decided by the highest score of every maps. All players must play the full pool at least one time. Players may choose not to play the pool after first round play if they wish.
+3.All maps will be played in the order in which they are presented in the pool. Players may choose to skip some maps in the second round.
+4.Players will have up to 2 minutes to rest between each map. Players will have up to 5 minutes to rest between the first and second rounds of play.
+5.There is no warm-up phase in this qualifying round.
 
 #### Elimination Rounds
 
-    1.Players have to be in the lobby with ref within 10mins of match schedule. Past that, it will be deemed as a forfeit.
-    2.Before the start of the match, both players can choose one osu!mania 4K map of no more than 4 minutes each as a warm-up. If both players choose not to warm up, the warm-up phase will be skipped.
-    3.Both players can protect one map and ban one map in every match. Both players can then choose any map in the pool in this match except for the banned maps and Tiebreaker. Before the match starts, both player will roll points. The player with the highest number of roll will decide to be first at ban or protect+pick section, and the other player will automatically choose the other option. Noted that SV and TB cannot be protected or banned.
-    4.Both players will be given 2 minutes to protect, pick, or ban a map. If one takes too long to protect/ban, they will lose their ability to do so. If the timeout is exceeded during picking map, the referee will randomly select an unselected map in the pool to play. Both players will have 2 minutes to ready after map selection.
-    5.The match will be set as Freemod with the following options: MR, HD, FI, FL and NF.
-    6.Tiebreaker will be used for the last map in the case that both players are tied to the last point.
-    7.There will be no restrictions on a player picking or not picking a map, except that the map must be in this round's mappool, and maps that are banned or already picked in one match and Tiebreaker cannot be picked.
-    8.If there is a tie in a map, that map will be played again. A map will not be played more than twice.
-    9.Each player will be allowed a maximum of one abort chance due to lost connection or other technical issue (please notify the referee by sending an in-game message to request). If the play has exceeded 30 seconds or 1/4 of the map, any abort request will be declined. Same mods and maps must be used in the new play. Please be sure to fix any possible problems before the match.
-    10.In the event of a situation where these rules are not established, the corresponding rules in MWC4K will be used to supplement them.
-    11. The referee has the right to enforce the rules at his/her discretion, if necessary, and has the final say on events that occur during the tournament.
+1.Players have to be in the lobby with ref within 10mins of match schedule. Past that, it will be deemed as a forfeit.
+2.Before the start of the match, both players can choose one osu!mania 4K map of no more than 4 minutes each as a warm-up. If both players choose not to warm up, the warm-up phase will be skipped.
+3.Both players can protect one map and ban one map in every match. Both players can then choose any map in the pool in this match except for the banned maps and Tiebreaker. Before the match starts, both player will roll points. The player with the highest number of roll will decide to be first at ban or protect+pick section, and the other player will automatically choose the other option. Noted that SV and TB cannot be protected or banned.
+4.Both players will be given 2 minutes to protect, pick, or ban a map. If one takes too long to protect/ban, they will lose their ability to do so. If the timeout is exceeded during picking map, the referee will randomly select an unselected map in the pool to play. Both players will have 2 minutes to ready after map selection.
+5.The match will be set as Freemod with the following options: MR, HD, FI, FL and NF.
+6.Tiebreaker will be used for the last map in the case that both players are tied to the last point.
+7.There will be no restrictions on a player picking or not picking a map, except that the map must be in this round's mappool, and maps that are banned or already picked in one match and Tiebreaker cannot be picked.
+8.If there is a tie in a map, that map will be played again. A map will not be played more than twice.
+9.Each player will be allowed a maximum of one abort chance due to lost connection or other technical issue (please notify the referee by sending an in-game message to request). If the play has exceeded 30 seconds or 1/4 of the map, any abort request will be declined. Same mods and maps must be used in the new play. Please be sure to fix any possible problems before the match.
+10.In the event of a situation where these rules are not established, the corresponding rules in MWC4K will be used to supplement them.
+11. The referee has the right to enforce the rules at his/her discretion, if necessary, and has the final say on events that occur during the tournament.
 
