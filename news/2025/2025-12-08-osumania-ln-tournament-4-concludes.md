@@ -164,7 +164,7 @@ At the end of the lucky draw, we ended up with 3 extremely lucky winners with ex
 To view the results of Ordeal In Illusion and also get a peek behind the scenes for every original debuted as part of the mappool, feel free to access the document linked below!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/o!mln4-design.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 1 / 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/o!mln4-design.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Interviews
