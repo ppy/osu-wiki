@@ -169,6 +169,33 @@ To view the results of Ordeal In Illusion and also get a peek behind the scenes 
 
 ## Interviews
 
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+
+    .news-chat-quote__colour-tc {
+        color: #FFB969;
+    }
+</style>
+
 ::{#--pavin--}::
 
 ![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/--Pavin--.jpg)
@@ -341,7 +368,7 @@ My goal as a composer is to build and communicate stories through music. Even as
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/Polytetral.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
 
 If I had to sum up the meaning of o!mLN4 to me in one word, it would be a 'journey'. A very long and arduous one at that.
 
