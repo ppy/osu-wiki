@@ -352,7 +352,7 @@ I believe voice acting has great potential in osu! tournaments and community eve
 
 ::{#howtoplayln}::
 
-![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/howtoplayln.jpg)
+![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/HowToPlayLN.jpg)
 
 <div class="news-chat-quote__text-container">
 
