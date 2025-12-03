@@ -11,7 +11,7 @@ tags:
 
 ![Cute Female Vocal 1st banner](img/CFV1st.png)
 
-The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) in which the entirety of the mappool featured cute female vocals. It was the first iteration of the Cute Female Vocal tournament.
+The **Cute Female Vocal 1st** (***CFV 1st***) was a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) in which the entirety of the mappool featured cute female vocals. It was the first iteration of the Cute Female Vocal tournament.
 
 | Event | Timestamp |
 | --: | :-- |
