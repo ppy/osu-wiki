@@ -9,7 +9,7 @@ As o!mLN4 fades into cherished memories, we can reflect on everything that happe
 
 ![](/wiki/shared/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open/banner.jpg)
 
-Let us take a trip down the *Inverse World of Nouille* once more.
+After having witnessed the [start in July](https://osu.ppy.sh/home/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open), matches throughout September and October and the final bout on November 2nd, let's take a trip down the *Inverse World of Nouille* once more.
 
 ## Summary
 
