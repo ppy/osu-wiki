@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Quick Play
-date: 2025-11-29 14:00:00 +0000
+date: 2025-12-05 14:00:00 +0000
 series: game_updates
 ---
 
@@ -37,10 +37,10 @@ Each week, the matchmaking system will switch between **1v1** and **free-for-all
 
 | Dates | Pool type | Matchmaking type |
 | :-: | :-: | :-: |
-| November 29th – December 6th | Manually curated | 1v1 |
-| December 6th – December 13th | Manually curated | FFA |
-| December 13th – December 20th | Randomised | 1v1 |
-| December 20th – December 27th | Randomised | FFA |
+| December 6th – December 13th | Manually curated | 1v1 |
+| December 13th – December 20th | Manually curated | FFA |
+| December 20th – December 27th | Randomised | 1v1 |
+| December 27th – January 3rd | Randomised | FFA |
 
 While the manually curated pools are an expansion of the existing pools players have been able to play so far, we want to experiment with pseudo-randomised pools that would be created on the fly based on a lobby's average skill level (i.e. matchmaking rating or MMR). We'll also be checking how people feel about different lobby sizes.
 
