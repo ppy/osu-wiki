@@ -7,7 +7,7 @@ series: world_cups
 
 One of the greatest Cinderella stories in the history of the osu! World Cup tried to keep dancing while the tournament's strongest teams flexed their muscle in a stunning display of dominance. This was the Semifinals weekend of OWC 2025.
 
-![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/banner.png)
+![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/banner.jpg)
 
 Those who have been following along throughout the tournament will be familiar with the story of New Zealand. With an overall ranking of #32 in the global standings and a base of under 8,000 active players, the heretofore unheralded Kiwis rarely appeared on the radar of casual fans. What's more, in their previous 12 OWC appearances, New Zealand had won a grand total of one match (in 2019), and in 2024, they finished a distant 44th in qualifiers, failing to make it to the bracket stage.
 
@@ -43,7 +43,7 @@ dada yapping
 
 [osu! original](/wiki/Community/Bespoke_music) intro
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/inorganic_dystopia_banner.png)](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/inorganic_dystopia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -53,7 +53,7 @@ dada yapping
 
 xenjes yapping
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/ruby_of_twilight_banner.png)](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/ruby_of_twilight_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -63,7 +63,7 @@ xenjes yapping
 
 cygnus yapping
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/open_scar_unending_banner.png)](https://osu.ppy.sh/beatmapsets/2471983#osu/5416139)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/open_scar_unending_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471983#osu/5416139)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -73,7 +73,7 @@ cygnus yapping
 
 marmalade yapping
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/gumbarlzo_banner.png)](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/gumbarlzo_banner.jpg)](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200)
 
 <div class="osu-md__paragraph">
     <audio controls>
