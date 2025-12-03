@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 - Long Note
   1. [Sayuri - Hana no Tou \[edit\]](https://osu.ppy.sh/b/4417768)
   2. [Naomi Oozora, Nozomi Yamamoto, Ruriko Aoki - Angel Dream \[Heaven ~ Cute Vocal '23 edit\]](https://osu.ppy.sh/b/4417766)
-  3. [Pastel*Palettes - Zettai Sengen ~Recital~ \[LN or Escape!\]](https://osu.ppy.sh/b/2295130)
+  3. [Pastel*Palettes - Zettai Sengen \~Recital\~ \[LN or Escape!\]](https://osu.ppy.sh/b/2295130)
 - SV
   1. [solfa feat. Chata - Miracle infinity \[SV Miracle\]](https://osu.ppy.sh/b/4417762)
 - Tiebreaker
@@ -189,7 +189,7 @@ This competition has come to an end and resulted in the following podium:
   2. [TUYU - Itsuka Otona ni Nareru to Ii ne. \[Sparsity\]](https://osu.ppy.sh/b/4409732)
   3. [Tezuka feat. Amimi Oonishi - Suisou no kujira \[LN\]](https://osu.ppy.sh/b/2434585)
 - SV
-  1. [Rissyuu feat. Choko - Paa ~PaPaPaPaa ver~ \[d-_-b\]](https://osu.ppy.sh/b/2854762)
+  1. [Rissyuu feat. Choko - Paa \~PaPaPaPaa ver\~ \[d-_-b\]](https://osu.ppy.sh/b/2854762)
 - Tiebreaker
   1. **[Amamiya Kokoro, Eli Conifer, Ratna Petit - Hitorigoto \[Soliloquium\]](https://osu.ppy.sh/b/4409733)**
 
