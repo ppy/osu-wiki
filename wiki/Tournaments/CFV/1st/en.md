@@ -11,30 +11,11 @@ tags:
 
 ![Cute Female Vocal 1st banner](img/CFV1st.png)
 
-The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619). This is an osu!mania 4K solo tournament featuring cute female vocal songs and maps.
-
-# GENERAL INFORMATION
-
-    1.This is an osu!mania 4K solo tournament.
-    2.Discord server will be the only source of latest infomation about the tournament. All staff member and players are required to join, and only players who are in the server can participate in this tournament.
-    3.To be eligible for this tournament, you must:
-    • Not exceed the osu!mania 4 key and total rank of #5000 both when you submit your registration form and until the end of the registration phase.
-    • Not exceed the osu!mania 4 key and total rank of #4000 during all tournament stages.
-    • Already joined Discord server or QQ Group.
-    • Pass screen by osu! Tournament Committee.
-    4.Pools details and Brackets size：
-      -Qualifier Stage：6 FreeMod maps, played in a row
-      -Round of 32：9 FreeMod maps + 1 Tie-Breaker, BO7
-      -Round of 16/Quarterfinals: 11 FreeMod maps + 1 Tie-Breaker, BO9.
-      -Semifinals/Finals/Grand Finals: 13 FreeMod maps + 1 Tie-Breaker, BO11.
-    5.We reserve the right to refuse any and all suspicious accounts and players from participating in the tournament.
-    6.Players must abide by osu!'s Terms of Service at all times.
-
-## Tournament schedule
+The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament hosted by ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) and ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) in which the entirety of the mappool featured cute female vocals. It was the first iteration of the Cute Female Vocal tournament.
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-11-01 (08:00 UTC) / 2025-11-19 (08:00 UTC) |
+| Registration phase | 2023-11-01 (08:00 UTC) / 2023-11-19 (08:00 UTC) |
 | Qualifier showcase | 2023-11-25 20:00 (08:00 UTC) |
 | Qualifier stage | 2023-11-26/2023-12-03 |
 | Qualifier results | 2023-12-03 20:00 (08:00 UTC) |
@@ -57,18 +38,18 @@ The **Cute Female Vocal 1st** (***CFV 1st***) is a 1v1 osu!mania 4K tournament h
 
 ## Organisation
 
-The Cute Female Vocal 1st is run by various community members.
+The Cute Female Vocal 1st was run by various community members.
 
 | Position | Member(s) |
 | :-: | :-- |
 | Coordinators | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
 | Mappooler | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619),  ::{ flag=CN }:: [Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=MY }:: [Mochineko](https://osu.ppy.sh/users/11238501), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=TW }:: [Xinhong1003](https://osu.ppy.sh/users/19821902), ::{ flag=US }:: [trooperr](hhttps://osu.ppy.sh/users/32028459), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=SK }:: [Stereotype](https://osu.ppy.sh/users/25311011), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [AelSan](https://osu.ppy.sh/users/14095291) |
- Referees | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=UK }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=ES }:: [nekonyo](https://osu.ppy.sh/users/4871211), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
- | Stream + Commentary | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=UK }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941) |
- | Stats + Sheet | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994) |
- | WyBin | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128) |
- | Design | ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380) |
- | Wiki | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) |
+| Referee | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=UK }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=ES }:: [nekonyo](https://osu.ppy.sh/users/4871211), ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968), ::{ flag=US }:: [aero-](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052) |
+| Stream + Commentary | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=UK }:: [Danielstigman](https://osu.ppy.sh/users/9407594), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Reisen](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994), ::{ flag=CN }:: [Blue\_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676), ::{ flag=CN }:: [Hidden is fun](https://osu.ppy.sh/users/10449071), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941) |
+| Stats + Sheet | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [MidRed](https://osu.ppy.sh/users/17641994) |
+| WyBin | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128) |
+| Design | ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380) |
+| Wiki | ::{ flag=CN }:: [Koyori Chan](https://osu.ppy.sh/users/11238501) |
 
 ## Links
 
@@ -84,9 +65,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | KimMui |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | - Sky - |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [GB]ChickenGold |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [KimMui](https://osu.ppy.sh/users/26090734) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [- Sky -](https://osu.ppy.sh/users/15255368) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) |
 
 ## Mappools
 
@@ -416,24 +397,23 @@ Saturday, 10 Dec 2023:
 
 ## Ruleset
 
-The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K#ruleset) and [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024#ruleset).
+The Cute Female Vocal 1st widely follows the same ruleset that was used in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K#ruleset) and the [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024#ruleset) in addition to the following rules. Any rules not written below but that were in effect in these two tournaments also apply within the Cute Female Vocal 1st.
 
-- Any general rules not shown below but listed in the reference tournament are still valid.
-
-### Tournament rules
-
-1. The Touhou Project Mania Cup 4th (THMC 4th) is a 2 versus 2 double-elimination team tournament played on the osu!mania game mode (4K variant).
-2. If no referee is available at match time, the match will be postponed to a later time.
-3. Players' scores will still count toward the team score, even if they fail.
+### General rules
+ 
+1. Match lobbies across the tournament will adhere to the following room settings: 
+   - Team Mode: `Head-to-head`
+   - Win Condition: `ScoreV2`
+2. The tournament's Discord server will be the only source of all the latest information about the tournament.
+3. If no referee is available during the match time, the match will be postponed to a later time.
 4. Use of visual settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics.
-5. If a game ends in a draw, it will be nullified and the beatmap replayed. This is called a *rematch*.
-6. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+5. If a beatmap ends in a draw, it will be nullified and replayed.
+6. Players may ask for a beatmap to be replayed if they encounter technical difficulties during the match.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
-   - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g., by virtue of a technical issue, *both* teams will be allowed to swap rosters.
-   - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
-7. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
-8. If a player disconnects, their scores will not be counted towards their team's total unless adequate proof of said score is provided. The following are considered acceptable proof:
+   - This rule is not to be abused. Referees may deny a replay request if they find that this is the case.
+7. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) may result in the beatmap being replayed at the referee's discretion as long as the incident is clearly communicated in the chatroom.
+8. If a player disconnects, their scores will not be counted unless adequate proof of said score is provided. The following are considered acceptable proof:
    - Livestream clips or VODs from the player's point of view. The entirety of the play and the results screen must be clearly visible along with the affected player's score.
    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen in the multiplayer match history).
    - Screenshots showing the affected player's score must be taken directly from within the game.
@@ -441,49 +421,60 @@ The ruleset is primarily based on rulesets used in the [osu!mania 4K World Cup 2
      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged, and it may be denied at the referee's discretion if the information provided is not sufficient to determine the player's score.
      - All screenshots **MUST** be taken using the game itself; that is, they must be hosted on the `https://osu.ppy.sh/` domain (using `Shift` + `F12`). Any other form of screenshot will be denied.
      - Player scores may be derived from the official stream as a last resort in cases where the match is streamed.
-9. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-   - The minimum number of players required is defined as the number needed to play a beatmap without any empty spots in the lobby (e.g., at least two participants must be present for the match to start).
-   - In the off chance that both teams have the same amount of players (i.e., each team with 1 player present) but not enough to start the match, the match may be rescheduled to a different time. Otherwise, a *win by default* will be declared to the team with the highest seed.
+9. If a player is not present during the match time, the match can be postponed for up to 10 minutes. If after this period the player is still nowhere to be found, a *win by default* will be declared for the opponent.
 10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited and will be punished accordingly.
-11. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+11. The multiplayer chat rooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chat rooms where the matches will take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 12. Referees may allow, at their discretion, lower or higher tolerances for timers.
-13. Tournament coordinators may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-14. Tournament coordinators will be responsible for receiving and investigating any tournament-related complaints.
-15. Tournament coordinators reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+13. The tournament management may request liveplays or recordings of individual players at any point in the tournament without prior warning.
+14. The tournament management will be responsible for receiving and investigating any tournament-related complaints.
+15. The tournament management reserve the right to modify these rules at any moment, and to refuse any and all suspicious accounts and players from participating in the tournament. Any such decisions will be announced in advance.
 16. Penalties for violating the tournament rules include, but are not limited to:
-    - Specific players will be excluded for one beatmap.
-    - Specific players will be excluded for an entire match.
-    - The match will be declared as forfeited or as a win by default for the other team.
+    - Exclusion from a beatmap.
+    - Exclusion from a portion of the match.
+    - Exclusion from an entire match (e.g. losing the match by default).
     - Disqualification from the entire tournament.
     - A report will be submitted to the [Tournament Committee](/wiki/People/Tournament_Committee), which will result in disqualification from the current and future official tournaments until an appeal is made.
-
+ 
+ 
+### Tournament registration
+ 
+1. Players are required to join the tournament's Discord server in order to participate in the tournament and register individually through [wyBin](https://wybin.xyz/tournaments/cute_female_vocal_4k/home).
+2.	In order to be eligible to play in the tournament, each player must:
+    - Not exceed the global rank of #5000 in the osu!mania (4K) game mode when submitting their registration and during the end of the registration phase.
+    - Not exceed the global rank of #4000 in the osu!mania (4K) game mode at any point during the tournament.
+3.	To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+ 
 ### Stage instructions
-
+ 
 #### Qualifiers
-
-    1.There are 6 different types of charts in qualifiers:
-      -Stage1: SV (Early game)
-      -Stage2: Rice Mixed (Early game)
-      -Stage3: LN WildCard (Early game)
-      -Stage4: Dense JS (Late game)
-      -Stage5: LN Density (Late game)
-      -Stage6: Hybrid (Late game)
-    2.Players must play a maximum of two rounds of pools at the designated time, and the players' ranking will be decided by the highest score of every maps. All players must play the full pool at least one time. Players may choose not to play the pool after first round play if they wish.
-    3.All maps will be played in the order in which they are presented in the pool. Players may choose to skip some maps in the second round.
-    4.Players will have up to 2 minutes to rest between each map. Players will have up to 5 minutes to rest between the first and second rounds of play.
-    5.There is no warm-up phase in this qualifying round.
-
-#### Elimination Rounds
-
-    1.Players have to be in the lobby with ref within 10mins of match schedule. Past that, it will be deemed as a forfeit.
-    2.Before the start of the match, both players can choose one osu!mania 4K map of no more than 4 minutes each as a warm-up. If both players choose not to warm up, the warm-up phase will be skipped.
-    3.Both players can protect one map and ban one map in every match. Both players can then choose any map in the pool in this match except for the banned maps and Tiebreaker. Before the match starts, both player will roll points. The player with the highest number of roll will decide to be first at ban or protect+pick section, and the other player will automatically choose the other option. Noted that SV and TB cannot be protected or banned.
-    4.Both players will be given 2 minutes to protect, pick, or ban a map. If one takes too long to protect/ban, they will lose their ability to do so. If the timeout is exceeded during picking map, the referee will randomly select an unselected map in the pool to play. Both players will have 2 minutes to ready after map selection.
-    5.The match will be set as Freemod with the following options: MR, HD, FI, FL and NF.
-    6.Tiebreaker will be used for the last map in the case that both players are tied to the last point.
-    7.There will be no restrictions on a player picking or not picking a map, except that the map must be in this round's mappool, and maps that are banned or already picked in one match and Tiebreaker cannot be picked.
-    8.If there is a tie in a map, that map will be played again. A map will not be played more than twice.
-    9.Each player will be allowed a maximum of one abort chance due to lost connection or other technical issue (please notify the referee by sending an in-game message to request). If the play has exceeded 30 seconds or 1/4 of the map, any abort request will be declined. Same mods and maps must be used in the new play. Please be sure to fix any possible problems before the match.
-    10.In the event of a situation where these rules are not established, the corresponding rules in MWC4K will be used to supplement them.
-    11. The referee has the right to enforce the rules at his/her discretion, if necessary, and has the final say on events that occur during the tournament.
+ 
+1. The Qualifiers will feature a total of six beatmaps (stages), each testing a different skillset as follows:
+  	- Stage 1: Early-game SV
+  	- Stage 2: Early-game Mixed Rice
+  	- Stage 3: Early-game LN Wildcard
+  	- Stage 4: Late-game Jackstream
+  	- Stage 5: Late-game LN Density
+  	- Stage 6: Late-game Hybrid
+2. Players must play a maximum of two rounds of pools at their chosen lobby, and the players' ranking will be decided by the highest score of each map. All players must play the full pool at least one time. Players may choose not to play the pool after first round play if they wish.
+3. All maps will be played in the order in which they are presented in the pool. Players may choose to skip some maps in the second round.
+4. Players will have up to 2 minutes to rest between each map. Players will have up to 5 minutes to rest between the first and second rounds of play.
+5. There will be no warm-ups in the qualifiers.
+ 
+#### Bracket stage
+ 
+1. The bracket stage will feature mappool sizes and winning conditions as follows:
+  	- Round of 32：9 Free Mod maps + 1 Tiebreaker (Best of 7)
+  	- Round of 16 and Quarterfinals: 11 Free Mod maps + 1 Tiebreaker (Best of 9)
+  	- Semifinals onwards: 11 Free Mod maps + 1 Tiebreaker (Best of 9)
+2. Prior to the start of the match, both players can choose one osu!mania 4K beatmap of no more than 4 minutes each as a warm-up. If both players choose not to warm up, the warm-up phase will be skipped.
+3. Players must protect one beatmap and ban one beatmap in every match. Both players can then pick any beatmap from the pool, except for the banned beatmaps and the Tiebreaker. Before the match starts, both player will roll for points. The player with the highest number of roll will decide to be first at ban or protect/pick section, and the other player will automatically choose the other option. 
+  	- The SV pick and the Tiebreaker may not be protected or banned under any circumstances.
+4. During their turn, players will be given 2 minutes to protect, pick, or ban a beatmap  If the player takes too long to protect/ban, they will lose their ability to do so. If the timeout is exceeded during the picking period, the referee will randomly select an unplayed beatmap in the pool to play. Both players will have 2 minutes to be ready after a beatmap has been selected.
+5. All beatmaps will be played with the `Free Mod` option enabled, with the following options available to the players: Mirror, Hidden, Fade In, and Flashlight.
+6. The tiebreaker will be played in the case that both players are tied to the last point.
+7. There are no restrictions as to which beatmap may or may not be picked, except that the beatmap must be within the round's mappool and that beatmaps that are banned or already picked (as well as the Tiebreaker) cannot be picked.
+8. If there is a score tie, the beatmap will be replayed. If after two replays the scores are still tied, the beatmap will be considered nullified.
+9. Players are allowed a maximum of one abort chance due to connection or other technical issues (please notify the referee by sending an in-game message to request this abort). If the play has exceeded 30 seconds or 1/4 of the map, any abort request will be declined.  
+  	- The same mods and maps must be used when replaying a beatmap that's been aborted.
+10. The referee has the right to enforce the rules at their discretion (if necessary) and has the final say on events that occur during the tournament.
