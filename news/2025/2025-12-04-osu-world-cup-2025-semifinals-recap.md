@@ -9,9 +9,7 @@ One of the greatest Cinderella stories in the history of the osu! World Cup trie
 
 ![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/banner.jpg)
 
-Those who have been following along throughout the tournament will be familiar with the story of New Zealand. With an overall ranking of #32 in the global standings and a base of under 8,000 active players, the heretofore unheralded Kiwis rarely appeared on the radar of casual fans. What's more, in their previous 12 OWC appearances, New Zealand had won a grand total of one match (in 2019), and in 2024, they finished a distant 44th in qualifiers, failing to make it to the bracket stage.
-
-This year's roster, however, set out to write a new story for their tiny nation. Placing 16th in qualifiers and finishing with a 3–0 record in the Group Stage, New Zealand forced the world to sit up and take notice. Though they fell to the Losers Bracket at the hands of the United Kingdom in the Round of 16, they won back-to-back matches in the Quarterfinals week over Sweden and France to solidify a spot for themselves in the top 12 for the first time. A [matchup against #9 seed China](#china-vs.--new-zealand) loomed large with a top 8 placement on the line.
+The #16 seed New Zealand represented a fairytale story the likes of which had rarely been seen before in OWC, while each of the top 4 seeds jockeyed for position at the top of the bracket, competing for the two places in the Winners Bracket Final and guaranteed placement on the podium. Six teams would be sent home over the course of the week's eight matches; six teams would advance onward to the Finals week. Each of the remaining 12 teams had something to fight for, but who would be left alive by the time the dust settled?
 
 [D I O](https://osu.ppy.sh/users/3958619)'s video is once again available for those seeking a more visual recap of the action:
 
@@ -95,6 +93,10 @@ tpaz yapping
 | **Germany** ::{ flag=DE }:: | **6** | 4 | ::{ flag=NZ }:: New Zealand |
 | **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation |
 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CA }:: Canada |
+
+Those who have been following along throughout the tournament will be familiar with the story of New Zealand. With an overall ranking of #32 in the global standings and a base of under 8,000 active players, the heretofore unheralded Kiwis rarely appeared on the radar of casual fans. What's more, in their previous 12 OWC appearances, New Zealand had won a grand total of one match (in 2019), and in 2024, they finished a distant 44th in qualifiers, failing to make it to the bracket stage.
+
+This year's roster, however, set out to write a new story for their tiny nation. Placing 16th in qualifiers and finishing with a 3–0 record in the Group Stage, New Zealand forced the world to sit up and take notice. Though they fell to the Losers Bracket at the hands of the United Kingdom in the Round of 16, they won back-to-back matches in the Quarterfinals week over Sweden and France to solidify a spot for themselves in the top 12 for the first time. A matchup against #9 seed China loomed large with a top 8 placement on the line.
 
 ### ::{ flag=CN }:: China vs. ::{ flag=NZ }:: New Zealand
 
