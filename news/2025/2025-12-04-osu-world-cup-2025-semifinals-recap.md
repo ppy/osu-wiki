@@ -155,10 +155,6 @@ Last but certainly not least, the remaining team to make it to the Finals week f
     .news-chat-quote__colour-no-group {
         color: #FFFFFF;
     }
-
-    .news-chat-quote__colour-fa {
-        color: #00FFFF;
-    }
 </style>
 
 A song's emotions can feel even stronger when its illustrations bring the story to life. For the Semifinals tiebreaker, [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), that responsibility fell to three illustrators: [-pineapple-](https://osu.ppy.sh/users/11523326), [Saturn](https://osu.ppy.sh/users/22001295), and [sooky](https://osu.ppy.sh/users/8397914), each crafting their complete scene inspired by the song's dark fantasy narrative.
