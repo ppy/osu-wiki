@@ -240,9 +240,13 @@ You have had quite the ride in the past few months with not only this tournament
 
 I am unsure if I will be able to play in more tournaments, as I would like to focus on academics and continue into university, but I may consider joining a few tournaments within my capabilities, maybe 1 to 2 of them. However, I guarantee that I will continue to improve in my physical abilities.
 
+</div>
+
 ::{#mappoolers}::
 
 ![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/ImperialTrinity-and-[Crz]Crysarlene.jpg)
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14566000" style="background-image: url('/wiki/shared/avatars/epic_man_2.jpg')"></a>
 
@@ -304,11 +308,15 @@ This tournament is definitely one form of us sharing how the LN competition coul
 
 Have fun with the game, life isn't about the result but the journey. Whatever the next journey awaits for us, we will embrace it with open arms.
 
+</div>
+
 ::{#arcwinolivirus}::
 
 ![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/arcwinolivirus.jpg)
 
 Many may know [arcwinolivirus](https://osu.ppy.sh/users/2039089) as a top osu!mania player from the Philippines since 2014, eventually turning into various avenues of opportunity in the tournament, from participating in the older 7K osu!mania World Cups, to creating some of the community's most popular ranked maps and more importantly, the first of the 4K LN Tiers. Fast forward by a decade and counting, they've contributed a voice acting role in visual novel–esque story sequences in this tournament.
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14566000" style="background-image: url('/wiki/shared/avatars/epic_man_2.jpg')"></a>
 
@@ -338,11 +346,15 @@ Voicing a main character for the o!mLN4 tournament was a challenging yet a memor
 
 I believe voice acting has great potential in osu! tournaments and community events as it brings a brand new experience to everyone. It provides more emotion, personality, and excitement for both players and the audience. I am looking forward to more story-oriented tournaments like this in the future!
 
+</div>
+
 ## Final thoughts from the hosts
 
 ::{#howtoplayln}::
 
 ![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/howtoplayln.jpg)
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10879600" style="background-image: url('/wiki/shared/avatars/HowToPlayLN.jpg')"></a>
 
@@ -362,9 +374,13 @@ Despite all the ideas we started out with, we had been going through a lot of wr
 
 My goal as a composer is to build and communicate stories through music. Even as o!mLN4 ends, the story surrounding Inverse World of Nouille is yet to be concluded. We may have future projects focusing on worldbuilding for Leon and the other characters in this tournament, so stay tuned for the next project that we will embark on!
 
+</div>
+
 ::{#Polytetral}::
 
 ![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/Polytetral.jpg)
+
+<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/Polytetral.jpg')"></a>
 
@@ -385,6 +401,8 @@ Now looking back at the tournament itself, the competition was great, but whenev
 And if all of this does not sound like a journey to you, then I am not sure what is. It was a lot more suffering along the way, waiting for deadlines to be fulfilled or delaying them, creating scopes for every song/design, managing strained finances and logistics, juggling real-life work with the production, emotionally dealing with cancelled projects, etc... but in the end, I can confidently say that I have learned a lot about the techniques involved in production, and that the process is what truly made me a changed person, from mere host to production lead — this tournament is merely the fruit of this 2-year labor.
 
 Coming this far, I do not harbour any regrets for this tournament. It was the best it could have been 2–3 years in the making. And facing the uncertain future, I am sure all the skills I have picked up along the way will continue to shape my identity, wherever I end up in life from here.
+
+</div>
 
 ---
 
