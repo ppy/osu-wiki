@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!mania LN Tournament 4 Concludes
-date: 2025-12-03 12:00:00 +0000
+date: 2025-12-08 12:00:00 +0000
 series: community_tournaments
 ---
 
@@ -13,7 +13,7 @@ Let us take a trip down the *Inverse World of Nouille* once more.
 
 ## Summary
 
-![osu!mania LN Tournament 4 podium](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/podium.jpg)
+![osu!mania LN Tournament 4 podium](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/podium.jpg)
 
 First of all, we present you the LN champions of 2025.
 
@@ -171,7 +171,7 @@ To view the results of Ordeal In Illusion and also get a peek behind the scenes 
 
 ::{#--pavin--}::
 
-![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/--Pavin--.jpg)
+![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/--Pavin--.jpg)
 
 [--Pavin--](https://osu.ppy.sh/users/12046267), a current member of Team Thailand in [4KMWC 2025](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_4K) and part of the winning team in [Touhou Project Mania Cup 4th (THMC4)](https://osu.ppy.sh/wiki/en/Tournaments/TMC/4th), proved himself as one of the best tournament LN players to exist in this current time, clinching the formidable placement of 2nd place for o!mLN4 after his finalist placement last edition.
 
@@ -215,7 +215,7 @@ I am unsure if I will be able to play in more tournaments, as I would like to fo
 
 ::{#mappoolers}::
 
-![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/ImperialTrinity-and-[Crz]Crysarlene.jpg)
+![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/ImperialTrinity-and-[Crz]Crysarlene.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14566000" style="background-image: url('/wiki/shared/avatars/epic_man_2.jpg')"></a>
 
@@ -279,7 +279,7 @@ Have fun with the game, life isn't about the result but the journey. Whatever th
 
 ::{#arcwinolivirus}::
 
-![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/arcwinolivirus.jpg)
+![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/arcwinolivirus.jpg)
 
 Many may know [arcwinolivirus](https://osu.ppy.sh/users/2039089) as a top osu!mania player from the Philippines since 2014, eventually turning into various avenues of opportunity in the tournament, from participating in the older 7K osu!mania World Cups, to creating some of the community's most popular ranked maps and more importantly, the first of the 4K LN Tiers. Fast forward by a decade and counting, they've contributed a voice acting role in visual novel–esque story sequences in this tournament.
 
@@ -315,7 +315,7 @@ I believe voice acting has great potential in osu! tournaments and community eve
 
 ::{#howtoplayln}::
 
-![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/howtoplayln.jpg)
+![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/howtoplayln.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10879600" style="background-image: url('/wiki/shared/avatars/HowToPlayLN.jpg')"></a>
 
@@ -337,7 +337,7 @@ My goal as a composer is to build and communicate stories through music. Even as
 
 ::{#Polytetral}::
 
-![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/Polytetral.jpg)
+![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/Polytetral.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/Polytetral.jpg')"></a>
 
@@ -365,7 +365,7 @@ This rounds up o!mLN4 and everything that went down in the tournament.
 
 To close out, we would like to thank all participants and the audience for supporting the tournament, and highlight the contributions from XXX individuals who made this ambitious collaboration between music, art and mappools even possible to begin with.
 
-![Credits of everyone involved](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/credits.png)
+![Credits of everyone involved](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/credits.png)
 
 See you again in the next edition of o!mLN, or where the production of this tournament will take us!
 
