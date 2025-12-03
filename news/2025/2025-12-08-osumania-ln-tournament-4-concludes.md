@@ -70,7 +70,7 @@ With the late-game fatigue boring down on both players, it came down to a final 
 
 The last pick of the match, [Minerva](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970) (TE3), was an extremely risky move by ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), but nevertheless a necessity with the threat of the remaining easier picks potentially allowing ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) to win by consistency. Insanely enough, ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) ran ahead of ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) by 10,000 points in the first half, before losing the lead entirely to a huge combo break at the midpoint of the map. The 2nd half was nerve-wrackingly close as they were forced to perform on a highly technical minijack section, which eventually ended up with a 7,178 score difference to ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), winning him the match and the tournament.
 
-## Honorable mentions
+## Honourable mentions
 
 ### Finals: ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) vs. ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)
 
