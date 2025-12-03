@@ -44,7 +44,11 @@ Each week, the matchmaking system will switch between **1v1** and **free-for-all
 
 While the manually curated pools are an expansion of the existing pools players have been able to play so far, we want to experiment with pseudo-randomised pools that would be created on the fly based on a lobby's average skill level (i.e. matchmaking rating or MMR). We'll also be checking how people feel about different lobby sizes.
 
+## The future of quick play
+
 The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out what works and what doesn't.
+
+Additionally, it is worth mentioning that the system is due for some **drastic** changes in the coming months. While these initial tests will let us get a small glimpse on how players feel about the system's core ideas, there are many design and gameplay changes currently in the works.
 
 ---
 
