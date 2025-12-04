@@ -2,4 +2,4 @@
 
 Index page for all of the Cute Female Vocal tournament series.
 
-- [Cute Female Vocals 1st](1st)
+- [Cute Female Vocal 1st](1st)
