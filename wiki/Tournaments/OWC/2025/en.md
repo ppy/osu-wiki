@@ -145,7 +145,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 41 | Canada ::{ flag=CA }:: | ::{ flag=KR }:: South Korea | [Dec 06 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251206T040000&p1=1440&p2=188&p3=235) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 42 | Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Dec 06 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251206T110000&p1=1440&p2=57&p3=37) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 43 | Winner of AU / DE | Winner of CA / KR | []() |  |  |
 
 ### Sunday, 7 December 2025
 
