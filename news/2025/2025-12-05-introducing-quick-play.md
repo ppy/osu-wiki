@@ -39,8 +39,8 @@ Each week, the matchmaking system will switch between **1v1** and **free-for-all
 | :-: | :-: | :-: |
 | December 6th – December 13th | Manually curated | 1v1 |
 | December 13th – December 20th | Featured Artist | 1v1 |
-| December 20th – December 27th | Manually curated | 1v1 |
-| December 27th – January 3rd | Featured Artist | 1v1 |
+| December 20th – December 27th | Manually curated | FFA |
+| December 27th – January 3rd | Featured Artist | FFA |
 
 While the manually curated pools are an expansion of the existing pools players have been able to play so far, we want to experiment with pseudo-randomised pools constructed from the [Featured Artist beatmap listing](https://osu.ppy.sh/beatmapsets?c=featured_artists&s=ranked).
 
