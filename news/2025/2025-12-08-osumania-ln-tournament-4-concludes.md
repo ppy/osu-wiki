@@ -75,7 +75,7 @@ The last pick of the match, [Minerva](https://osu.ppy.sh/beatmapsets/2044392#man
 ### Finals: ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) vs. ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtube.com/embed/xaXx-jUi8dk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xaXx-jUi8dk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 In o!mLN4, anything can happen. To those who know ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), this might've been one of the greatest upsets in 1v1 osu!mania history, pulled off by none other than our 3rd-place winner ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805).
