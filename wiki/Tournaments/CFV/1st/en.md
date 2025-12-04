@@ -424,17 +424,17 @@ The Cute Female Vocal 1st widely follows the same ruleset that was used in the [
 9. If a player is not present during the match time, the match can be postponed for up to 10 minutes. If after this period the player is still nowhere to be found, a *win by default* will be declared for the opponent.
 10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited and will be punished accordingly.
 11. The multiplayer chat rooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chat rooms where the matches will take place.
-   - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 12. Referees may allow, at their discretion, lower or higher tolerances for timers.
 13. The tournament management may request liveplays or recordings of individual players at any point in the tournament without prior warning.
 14. The tournament management will be responsible for receiving and investigating any tournament-related complaints.
 15. The tournament management reserve the right to modify these rules at any moment, and to refuse any and all suspicious accounts and players from participating in the tournament. Any such decisions will be announced in advance.
 16. Penalties for violating the tournament rules include, but are not limited to:
-   - Exclusion from a beatmap.
-   - Exclusion from a portion of the match.
-   - Exclusion from an entire match (e.g. losing the match by default).
-   - Disqualification from the entire tournament.
-   - A report will be submitted to the [Tournament Committee](/wiki/People/Tournament_Committee), which will result in disqualification from the current and future official tournaments until an appeal is made.
+    - Exclusion from a beatmap.
+    - Exclusion from a portion of the match.
+    - Exclusion from an entire match (e.g. losing the match by default).
+    - Disqualification from the entire tournament.
+    - A report will be submitted to the [Tournament Committee](/wiki/People/Tournament_Committee), which will result in disqualification from the current and future official tournaments until an appeal is made.
 
 ### Tournament registration
 
