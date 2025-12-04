@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Winter 2025 Fanart Contest: Voting Open"
-date: 2025-12-04 19:15:00 +0000
+date: 2025-12-04 19:45:00 +0000
 series: fanart_contests
 ---
 
