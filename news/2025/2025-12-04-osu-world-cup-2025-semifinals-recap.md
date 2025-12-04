@@ -14,10 +14,8 @@ The #16 seed New Zealand represented a fairytale story the likes of which had ra
 [D I O](https://osu.ppy.sh/users/3958619)'s video is once again available for those seeking a more visual recap of the action:
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/KjK2Z6WxDEY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/dh1T_YEpzWA" frameborder="0" allowfullscreen></iframe>
 </div>
-
-REPLACE VIDEO ABOVE
 
 ## Mappool recap
 
