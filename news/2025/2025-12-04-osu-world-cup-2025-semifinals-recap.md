@@ -35,11 +35,13 @@ REPLACE VIDEO ABOVE
 
 ![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/mappool.png)
 
-dada yapping
+The Semifinals mappool had a lot of interesting maps to choose from. As usual, existing maps made their appearance, and ones such as [Dreadnought](https://osu.ppy.sh/beatmapsets/48356#osu/149559), an old, classic map that went beyond 320 BPM on DT, and [Entangle Night](https://osu.ppy.sh/beatmapsets/2216137#osu/4697634), a recently loved stamina gauntlet, provided the pool its tapping and mechanics base. Other maps, like the famous [Desert](https://osu.ppy.sh/beatmapsets/1417973#osu/2921554), a classic circle tech offering, and [Breathe](https://osu.ppy.sh/beatmapsets/1223323#osu/2544530), a DT map that can be summarized as "osu! for ants", gave the pool some of its more technical and gimmicky aspects.
+
+Of course, new customs also graced the pool this week, and [stairway to the universe](https://osu.ppy.sh/beatmapsets/2468655#osu/5405917) and [GIRL HELL 1999 (bye2 Remix)](https://osu.ppy.sh/beatmapsets/2468634#osu/5405861) are some examples of them. The former is a tough HR precision challenge while the latter is a Freemod offering which can be roughly described as challenging the exact opposite skillset, being CS 2.5. Other maps, such as [STRANGEPROGRAM](https://osu.ppy.sh/beatmapsets/2468641#osu/5405871) and [Wakuwaku Tabemono Land](https://osu.ppy.sh/beatmapsets/2468630#osu/5405851), were more conventional in a way, being a Hidden and Freemod map respectively, both fortifying the mechanical side of the pool.
 
 ---
 
-[osu! original](/wiki/Community/Bespoke_music) intro
+This week also had the debut of not one, not two, but three [osu! originals](/wiki/Community/Bespoke_music)!
 
 [![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/skywired_beatscape_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883)
 
@@ -49,7 +51,7 @@ dada yapping
     </audio>
 </div>
 
-yapping
+The first one, in the showcase order, is the great [steelplus](https://osu.ppy.sh/beatmaps/artists/514)' electronic symphony, [Skywired Beatscape](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883), a floating, rhythmically fun production, which housed an interesting and popular alt and light tech pick by [Azer](https://osu.ppy.sh/users/2155578) and [Megafan](https://osu.ppy.sh/users/6632605). One cannot understate the openness and even nostalgic nature of the song, and we urge you to give it a listen!
 
 [![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/peach_pit_and_cyanide_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
 
@@ -59,7 +61,7 @@ yapping
     </audio>
 </div>
 
-yapping
+The second original was a project by one of our more unique and popular FAs, the amazing folks who comprise [Mili](https://osu.ppy.sh/beatmaps/artists/331). They graced us with their distinctive sound on [Peach Pit and Cyanide](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912), a beautiful classical piece that cannot be missed out on. To tackle the slower composition, the trustworthy [vetoed](https://osu.ppy.sh/users/10909373) was put in charge, with the goal of creating a reading and aim map for the tournament, but also to create another, more conventional map for those outside of the tournament to enjoy as well. If you haven't yet, make sure to give any difficulty a play!
 
 [![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/hexen_noir_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933)
 
@@ -69,7 +71,7 @@ yapping
     </audio>
 </div>
 
-yapping
+As for the third original: it's tiebreaker time! The wonderful people over at [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69) were the ones in charge this time around, and they gave us the epically powerful J-rock song [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), with the intense vocals of Hanatan, a voice immediately recognizable by most in the osu! community to top it all off. With a great, mechanically challenging map by [seros](https://osu.ppy.sh/users/10562853), [moph](https://osu.ppy.sh/users/2233878) and [Garden](https://osu.ppy.sh/users/2849992), which is already in qualified, why not see if you're up for the challenge?
 
 ## Semifinals summary
 
