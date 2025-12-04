@@ -150,10 +150,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
+| 43a | Australia ::{ flag=AU }:: | ::{ flag=CA }:: Canada | [Dec 07 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43b | Australia ::{ flag=AU }:: | ::{ flag=KR }:: South Korea | [Dec 07 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T100000&p1=1440&p2=57&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43d | Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Dec 07 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T100000&p1=1440&p2=37&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 43a | Australia ::{ flag=AU }:: | ::{ flag=CA }:: Canada | [Dec 07 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T150000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 43c | Germany ::{ flag=DE }:: | ::{ flag=CA }:: Canada | [Dec 07 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T160000&p1=1440&p2=37&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43c | Germany ::{ flag=DE }:: | ::{ flag=CA }:: Canada | [Dec 07 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T120000&p1=1440&p2=37&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| SM | Finals | showmatch | [Dec 07 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T163000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 | 44 | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 07 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T180000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 |  | Grand Finals | mappool showcase | [Dec 07 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
@@ -353,6 +354,7 @@ Sunday, 30 November 2025:
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | 40 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/119959585) | [#1](https://www.twitch.tv/videos/2631562645?t=0h4m36s) |
 | 37b | **Germany** ::{ flag=DE }:: | **6** | 4 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/119961432) | [#1](https://www.twitch.tv/videos/2631750667?t=0h4m42s) |
+| 38b | **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/119962407) | [#1](https://www.twitch.tv/videos/2631824455?t=0h4m44s) |
 | 39 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/119964626) | [#1](https://www.twitch.tv/videos/2631998127?t=0h4m29s) |
 
 ### Quarterfinals
@@ -913,3 +915,4 @@ The final bracket configuration will be as follows:
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
+[^showmatch]: All-stars players from eliminated teams
