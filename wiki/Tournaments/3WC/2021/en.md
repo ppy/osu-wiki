@@ -8,7 +8,7 @@ tags:
 
 ![3WC 2021 banner](img/banner.png)
 
-The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournament hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) and ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899). It was the third instalment of the 3 Digit World Cup.
+The **3 Digit World Cup 2021** (***3WC 2021***) was a country-based osu! tournament hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) and ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899). It was the third installment of the 3 Digit World Cup.
 
 ## Tournament schedule
 
