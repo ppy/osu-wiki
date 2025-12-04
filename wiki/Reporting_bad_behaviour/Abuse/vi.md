@@ -52,7 +52,7 @@ Sau đó, hãy liên hệ ngay với quản trị viên của máy chủ bằng 
 
 Nếu hành vi lạm dụng này tiếp tục diễn ra và quản trị viên không làm gì về việc đó, [vui lòng thông báo cho nhóm Discord Trust & Safety bằng cách gửi báo cáo](https://dis.gd/request).
 
-Ngoài ra, nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và mọi thứ sẽ được điều tra kịp thời.
+Ngoài ra, nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và nó sẽ được điều tra kịp thời khi có thời gian. Lưu ý rằng chúng tôi không thể can thiệp vào nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ thực hiện hành động, nhưng chúng tôi sẽ giữ lại bất kỳ ghi chú trong tệp.
 
 ### Trên Twitter được liên kết với tài khoản osu!
 
@@ -62,7 +62,7 @@ Sau đó, chặn hoặc tắt tiếng người dùng đó bằng cách nhấp v�
 
 Xin lưu ý rằng người đó sẽ biết bạn chặn họ nếu họ kiểm tra hồ sơ Twitter của bạn. Nếu bạn lo lắng điều này sẽ làm cho vấn đề trở nên tồi tệ hơn trong tương lai thì hãy chọn tắt tiếng tài khoản đó. Thao tác này sẽ xóa các tweet của họ khỏi dòng thời gian của bạn và ngăn bạn xem thêm bất kỳ nội dung nào từ họ, nhưng họ vẫn có thể xem và bình luận về tất cả các tweet bạn thực hiện.
 
-Nếu tweet đến từ một tài khoản được liên kết với hồ sơ người chơi osu! qua trang web của chúng tôi (nó sẽ xuất hiện dưới ảnh đại diện và ngày tham gia, bên cạnh biểu tượng con chim tweet), vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) kèm theo bản sao của tweet dưới dạng hình ảnh nếu có thể, cùng với bất kỳ thông tin nào bạn có thể nghĩ tới.
+Nếu bạn biết tài khoản osu! của người quấy rối bạn, vui lòng gửi email đến [abuse@ppy.sh](mailto:abuse@ppy.sh) chứa càng nhiều thông tin thì càng tốt và nó sẽ được điều tra kịp thời khi có thời gian. Lưu ý rằng chúng tôi không thể can thiệp vào nội dung trên các dịch vụ của bên thứ ba, vì vậy không có gì đảm bảo rằng chúng tôi sẽ thực hiện hành động, nhưng chúng tôi sẽ giữ lại bất kỳ ghi chú trong tệp.
 
 ## Một thành viên của một trong các nhóm tình nguyện (NAT, GMT) đang tiếp cận/nói chuyện/cư xử với tôi không đúng chuẩn mực!
 
