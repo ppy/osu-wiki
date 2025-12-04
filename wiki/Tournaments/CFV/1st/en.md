@@ -100,7 +100,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! ](https://drive.google.com/file/d/1LEbAwKCzRKooplZT3mGGZ2YuqG1HfSId/view?usp=sharing)**\
+**[Download the mappack here!](https://drive.google.com/file/d/1LEbAwKCzRKooplZT3mGGZ2YuqG1HfSId/view?usp=sharing)**\
 [Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1C94y1g74z)
 
 - Rice
@@ -110,7 +110,6 @@ This competition has come to an end and resulted in the following podium:
   4. [Shan Bao - Ji Ming Yue \[Extra\]](https://osu.ppy.sh/beatmapsets/2112871#mania/4436121)
   5. [Watahana Ame - Yurushite Nyan \[Kawaii DIVE!!\]](https://osu.ppy.sh/beatmapsets/2112888#mania/4436204)
   6. [Camellia feat. Nanahira - Amor De Vero \[Summer Love\]](https://osu.ppy.sh/beatmapsets/2087224#mania/4373668)
-
 - Hybrid
   1. [HHHxMMxST - Follow Tomorrow (STARLiGHT Mix) \[Eternity 1.05x (147bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/2111675#mania/4432969)
   2. [Shigure Ui (9-sai) - Shukusei!! Loli-kami Requiem* \[cut\]](https://osu.ppy.sh/beatmapsets/2113304#mania/4437109)
@@ -401,7 +400,7 @@ Saturday, 10 Dec 2023:
 The Cute Female Vocal 1st widely follows the same ruleset that was used in the [osu!mania 4K World Cup 2024](/wiki/Tournaments/MWC/2024_4K#ruleset) and the [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024#ruleset) in addition to the following rules. Any rules not written below but that were in effect in these two tournaments also apply within the Cute Female Vocal 1st.
 
 ### General rules
- 
+
 1. Match lobbies across the tournament will adhere to the following room settings: 
    - Team Mode: `Head-to-head`
    - Win Condition: `ScoreV2`
@@ -436,20 +435,19 @@ The Cute Female Vocal 1st widely follows the same ruleset that was used in the [
    - Exclusion from an entire match (e.g. losing the match by default).
    - Disqualification from the entire tournament.
    - A report will be submitted to the [Tournament Committee](/wiki/People/Tournament_Committee), which will result in disqualification from the current and future official tournaments until an appeal is made.
- 
- 
+
 ### Tournament registration
- 
+
 1. Players are required to join the tournament's Discord server in order to participate in the tournament and register individually through [wyBin](https://wybin.xyz/tournaments/cute_female_vocal_4k/home).
-2.	In order to be eligible to play in the tournament, each player must:
+2. In order to be eligible to play in the tournament, each player must:
    - Not exceed the global rank of #5000 in the osu!mania (4K) game mode when submitting their registration and during the end of the registration phase.
    - Not exceed the global rank of #4000 in the osu!mania (4K) game mode at any point during the tournament.
-3.	To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
- 
+3. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
+
 ### Stage instructions
- 
+
 #### Qualifiers
- 
+
 1. The Qualifiers will feature a total of six beatmaps (stages), each testing a different skillset as follows:
    - Stage 1: Early-game SV
    - Stage 2: Early-game Mixed Rice
@@ -461,9 +459,9 @@ The Cute Female Vocal 1st widely follows the same ruleset that was used in the [
 3. All maps will be played in the order in which they are presented in the pool. Players may choose to skip some maps in the second round.
 4. Players will have up to 2 minutes to rest between each map. Players will have up to 5 minutes to rest between the first and second rounds of play.
 5. There will be no warm-ups in the qualifiers.
- 
+
 #### Bracket stage
- 
+
 1. The bracket stage will feature mappool sizes and winning conditions as follows:
    - Round of 32：9 Free Mod maps + 1 Tiebreaker (Best of 7)
    - Round of 16 and Quarterfinals: 11 Free Mod maps + 1 Tiebreaker (Best of 9)
@@ -477,5 +475,5 @@ The Cute Female Vocal 1st widely follows the same ruleset that was used in the [
 7. There are no restrictions as to which beatmap may or may not be picked, except that the beatmap must be within the round's mappool and that beatmaps that are banned or already picked (as well as the Tiebreaker) cannot be picked.
 8. If there is a score tie, the beatmap will be replayed. If after two replays the scores are still tied, the beatmap will be considered nullified.
 9. Players are allowed a maximum of one abort chance due to connection or other technical issues (please notify the referee by sending an in-game message to request this abort). If the play has exceeded 30 seconds or 1/4 of the map, any abort request will be declined.  
-  	- The same mods and maps must be used when replaying a beatmap that's been aborted.
+   - The same mods and maps must be used when replaying a beatmap that's been aborted.
 10. The referee has the right to enforce the rules at their discretion (if necessary) and has the final say on events that occur during the tournament.
