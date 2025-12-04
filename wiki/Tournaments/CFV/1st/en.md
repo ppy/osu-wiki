@@ -63,7 +63,7 @@ The Cute Female Vocal 1st was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team |
+| Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [KimMui](https://osu.ppy.sh/users/26090734) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [- Sky -](https://osu.ppy.sh/users/15255368) |
@@ -74,19 +74,19 @@ This competition has come to an end and resulted in the following podium:
 ### Grand Finals
 
 **[Download the mappack here!](https://drive.google.com/file/d/10oKFos0j38Ay6PFn2QJdU_U7jqT028st/view?usp=sharing)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1Q5411v75h)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1Q5411v75h)
 
 - Rice
-  1. [Petit Rabbit's - Hitosaji no Ohimesama Monogatari (Cut Ver.) \[Cappuccino (151bpm)\]](https://osu.ppy.sh/b/4444509)
-  2. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD \[x1.00\]](https://osu.ppy.sh/b/4444549)
-  3. [DJ Sharpnel - URAPARA CORE \[Jumpstreams save the world! 1.1x (220bpm)\]](https://osu.ppy.sh/b/4444606)
-  4. [fhana - Hello!My World!! \[Hello World\]](https://osu.ppy.sh/b/4444516)
-  5. [YUC'e - intro-duck-tion!! \[Quack!!\]](https://osu.ppy.sh/b/4125646)
-  6. [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (short ver.) \[Expert\]](https://osu.ppy.sh/b/4444512)
+  1. [Petit Rabbit's - Hitosaji no Ohimesama Monogatari (Cut Ver.) \[Cappuccino (151bpm)\]](https://osu.ppy.sh/beatmapsets/2116397#mania/4444509)
+  2. [sasakure.UK feat. Shirakami Fubuki - KINGWORLD \[x1.00\]](https://osu.ppy.sh/beatmapsets/2116417#mania/4444549)
+  3. [DJ Sharpnel - URAPARA CORE \[Jumpstreams save the world! 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/2116442#mania/4444606)
+  4. [fhana - Hello!My World!! \[Hello World\]](https://osu.ppy.sh/beatmapsets/2116400#mania/4444516)
+  5. [YUC'e - intro-duck-tion!! \[Quack!!\]](https://osu.ppy.sh/beatmapsets/1945583#mania/4125646)
+  6. [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (short ver.) \[Expert\]](https://osu.ppy.sh/beatmapsets/2050122#mania/4444512)
 - Hybrid
-  1. [ARM x Komso feat. Nanahira - Onegai! Kon Kon Oinarisama \[Matsuri of Furfill (short) (1.05x Rate)\]](https://osu.ppy.sh/b/3874146)
-  2. [rejection - Aimai Attitude (feat. Nakamura Sanso) (Cut Ver.) \[AlleySan's Attitude\]](https://osu.ppy.sh/b/4444539)
-  3. [Aiobahn feat. KOTOKO - INTERNET YAMERO \[hyahya's Extra\]](https://osu.ppy.sh/b/4135596)
+  1. [ARM x Komso feat. Nanahira - Onegai! Kon Kon Oinarisama \[Matsuri of Furfill (short) (1.05x Rate)\]](https://osu.ppy.sh/beatmapsets/1546157#mania/3874146)
+  2. [rejection - Aimai Attitude (feat. Nakamura Sanso) (Cut Ver.) \[AlleySan's Attitude\]](https://osu.ppy.sh/beatmapsets/2116410#mania/4444539)
+  3. [Aiobahn feat. KOTOKO - INTERNET YAMERO \[hyahya's Extra\]](https://osu.ppy.sh/beatmapsets/1962727#mania/4135596)
 - Long Note
   1. [Aiobahn - Towa no Utage (w/ YUC'e) \[Timing Feast\]](https://osu.ppy.sh/b/3976497)
   2. ["t+pazolite feat. Shama (CV: Tanezaki Atsumi) & Milk (CV: Ito Asuka) - TOBIDASE! TO THE COSMIC!! \[TO THE NOODLES!! 1.05x (194bpm) OD7\]](https://osu.ppy.sh/b/4440566)
@@ -99,7 +99,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 **[Download the mappack here! ](https://drive.google.com/file/d/1LEbAwKCzRKooplZT3mGGZ2YuqG1HfSId/view?usp=sharing)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1C94y1g74z)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1C94y1g74z)
 
 - Rice
   1. [Momobako & Aihara Kaori - Senbonzakura \[(edit)\]](https://osu.ppy.sh/b/4437108)
@@ -125,7 +125,7 @@ This competition has come to an end and resulted in the following podium:
 ### Semifinals
 
 **[Download the mappack here!](https://drive.google.com/file/d/18FM_Sym6CeVaGTFhcutJ33vTrxEsEKdh/view?usp=sharing)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1UN4y1z7Hx)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1UN4y1z7Hx)
 
 - Rice
   1. [MOMOIRO CLOVER Z - SANTA SAN (Cut Ver.)\[KOKOKO\]](https://osu.ppy.sh/b/4426824)
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 ### Quarterfinals
 
 **[Download the mappack here!](https://drive.google.com/file/d/1kCIe63FxaV29O3HfCivxcdXai9jFQ6NP/view?usp=sharing)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1oc411m77o)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1oc411m77o)
 
 - Rice
   1. [Yunomi - Akenai yoru, samenai yume (feat. nicamoq) (Cut Ver.) \[....Dream.\]](https://osu.ppy.sh/b/4417767)
@@ -173,7 +173,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 16
 
 **[Download the mappack here! (148 MB)](https://drive.google.com/file/d/1sV2WC1nklhCOf2Vuzn6oMOkXCaEjDltm/view?usp=sharing)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1wu4y1u79N)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1wu4y1u79N)
 
 - Rice
   1. [Dempagumi.inc - Back! to the Future (Cut Ver.) \[Back! to the YuDong\]](https://osu.ppy.sh/b/4368305)
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 ### Round of 32
 
 **[Download the mappack here!](https://drive.google.com/file/d/1cyJvGaW07K1DlI_DJsnPWJOJvxnrAhNI/view?usp=drive_link)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1pN411j7Sp)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1pN411j7Sp)
 
 - Rice
   1. [HappyHappyTwin - ankira!?kyousoukyoku \[Happy Stream\]](https://osu.ppy.sh/b/3252949)
@@ -217,14 +217,14 @@ This competition has come to an end and resulted in the following podium:
 ### Qualifiers
 
 **[Download the mappack here!](https://drive.google.com/file/d/1kYHQd71Aoq1eiztU1Nw4zbly5QearmGN/view?usp=sharing)**\
-[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1Pj411E7c4)
+[Watch the showcase VOD (with Chinese commentary) here!](https://www.bilibili.com/video/BV1Pj411E7c4)
 
-1. [Nanahira - Chikatto Chika Chikattsu \[Stage 1: Don!\]](https://osu.ppy.sh/b/4392493)
-2. [ave;new feat. Sakura Saori - Pure My Voices \[Stage 2: LaLaLaLaLa\]](https://osu.ppy.sh/b/4392482)
-3. [LABYRINTHS - Yumeji Labyrinth (TV Size) \[Stage 3: KUROU?\]](https://osu.ppy.sh/b/4392462)
-4. [*namirin - Amatsu Kitsune (Sped Up Ver.) \[Stage 4: Fox\]](https://osu.ppy.sh/b/4392468)
-5. [DJ Sharpnel feat. Ozera Ai - monochromed (Cut Ver.) \[Stage 5: Koi\]](https://osu.ppy.sh/b/4392484)
-6. [Capchii feat. Hatsune Miku - What's up? Pop! \[Stage 6: Append\]](https://osu.ppy.sh/b/4392506)
+1. [Nanahira - Chikatto Chika Chikattsu \[Stage 1: Don!\]](https://osu.ppy.sh/beatmapsets/2094902#mania/4392493)
+2. [ave;new feat. Sakura Saori - Pure My Voices \[Stage 2: LaLaLaLaLa\]](https://osu.ppy.sh/beatmapsets/2094897#mania/4392482)
+3. [LABYRINTHS - Yumeji Labyrinth (TV Size) \[Stage 3: KUROU?\]](https://osu.ppy.sh/beatmapsets/2094883#mania/4392462)
+4. [*namirin - Amatsu Kitsune (Sped Up Ver.) \[Stage 4: Fox\]](https://osu.ppy.sh/beatmapsets/2094889#mania/4392468)
+5. [DJ Sharpnel feat. Ozera Ai - monochromed (Cut Ver.) \[Stage 5: Koi\]](https://osu.ppy.sh/beatmapsets/2094899#mania/4392484)
+6. [Capchii feat. Hatsune Miku - What's up? Pop! \[Stage 6: Append\]](https://osu.ppy.sh/beatmapsets/2094914#mania/4392506)
 
 ## Match results
 
@@ -304,7 +304,7 @@ Saturday, 23 Dec 2023:
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Saemitsu** | **5** | 4 | Endless fare | [#1](https://osu.ppy.sh/community/matches/111861614) | [#1](https://www.bilibili.com/video/BV1764y1H7L6) |
-| Fuitje | 4 | **5** | **Ballistic** | [#1](https://osu.ppy.sh/mp/111866598) |  |
+| Fuitje | 4 | **5** | **Ballistic** | [#1](https://osu.ppy.sh/community/matches/111866598) |  |
 | **frankgh3** | **5** | 1 | Crogzy Wogzy | [#1](https://osu.ppy.sh/community/matches/111856750) | [#1](https://www.bilibili.com/video/BV1Wc411C7N5) |
 | noglawitch | -1 | **0** | **mister_Andres** | *win by default* |  |
 | **ILikeTea** | **0** | -1 | --Akane-- | *win by default* |  |
@@ -348,7 +348,7 @@ Saturday, 16 Dec 2023:
 | **KimMui** | **5** | 0 | RealF233 | [#1](https://osu.ppy.sh/community/matches/111760525) | [#1](https://www.bilibili.com/video/BV1Su4y1T7NM) |
 | **AbstractApple** | **5** | 0 | Saemitsu | [#1](https://osu.ppy.sh/community/matches/111760525) | [#1](https://www.bilibili.com/video/BV1rG411a78U) |
 | **- Sky -** | **5** | 0 | Fuitje | [#1](https://osu.ppy.sh/community/matches/111755296) |  |
-| **[GB]ChickenGold**  | **5** | 2 | ILikeTea | [#1](https://osu.ppy.sh/community/matches/111750974) | [#1](https://www.bilibili.com/video/BV1BN4y1h7Xw) |
+| **[GB]ChickenGold** | **5** | 2 | ILikeTea | [#1](https://osu.ppy.sh/community/matches/111750974) | [#1](https://www.bilibili.com/video/BV1BN4y1h7Xw) |
 
 Sunday, 17 Dec 2023:
 
@@ -393,7 +393,6 @@ Saturday, 10 Dec 2023:
 | [AR]bfdgbzfhs | 1 | **4** | **Chrisse** | [#1](https://osu.ppy.sh/community/matches/111660160) |  |
 | **[GB]ChickenGold** | **4** | 0 | huypham_gm | [#1](https://osu.ppy.sh/community/matches/111660768) | [#1](https://www.bilibili.com/video/BV1qH4y1k7L6) |
 | **Fuitje** | **4** | 1 | SpikyPT | [#1](https://osu.ppy.sh/community/matches/111662780) | [#1](https://www.bilibili.com/video/BV1cj411s73Y) |
-
 
 ## Ruleset
 
