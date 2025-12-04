@@ -7,13 +7,13 @@ series: fanart_contests
 
 It's December! For the latest and greatest holiday season, **130** artists have come together to draw winter-themed artwork. It's time for **you** to decide which of them will be the winners!
 
-![](/wiki/shared/news/2024-12-03-midnight-moment-art-contest/banner.jpg)
+![](/wiki/shared/news/2025-11-14-winter-2025-fanart-contest/banner.jpg)
 
 Unfortunately you only get **15** votes to pick your favourites. We know, the Halloween horrors were supposed to be over, but fortunately you get a neat showcase video to quickly peruse all the entries to the tune of *Chata - Snow white syndrome*:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/contests/269/winter2025-voting.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/269/winter2025-voting.mp4?1" type="video/mp4" preload="none">
     </video>
 </div>
 
