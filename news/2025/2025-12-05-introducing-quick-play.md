@@ -13,7 +13,7 @@ The demand to add a "matchmaking" system to the game has not gone unnoticed. Ris
 
 As of the late October osu!(lazer) update, it's finally our turn to try dabbling in a similar system, official and integrated within the game client. It was named about as fast as it was made: [quick play](/wiki/Gameplay/Quick_play)!
 
-We hope you'll join over the coming four weeks for a system stress-test, with the addition of over 250 new maps (including mods) to the pool, global rating [leaderboards](https://osu.ppy.sh/rankings/quickplay/osu/1), randomised voting, and more. Of course, the team will also be participating!
+We hope you'll join over the coming four weeks for a system stress-test, with the addition of over 250 new maps (including mods) to the pool, global rating [leaderboards](https://osu.ppy.sh/rankings/quickplay/osu/1), beatmap selection voting, and more. Of course, the team will also be participating!
 
 ## But what exactly is quick play?
 
@@ -50,7 +50,7 @@ While the manually curated pools are an expansion of the existing pools players 
 
 The evolution of this system rests in your hands! While it's still in its early stages, the team is actively reading your feedback and trying to figure out what works and what doesn't.
 
-Importantly, it is worth mentioning that even though we just released this system, there is an ongoing effort to rapidly shape it into something **more competitive**, which will be coming online in the coming months. While these initial tests will allow us get a small glimpse on how players feel about the current system's core ideas, don't get too settled as there are large changes already in the works!!
+More importantly, it is worth mentioning that even though we just released this system, there is an ongoing effort to rapidly shape it into something **more competitive**, which will be coming online in the coming months. While these initial tests will allow us get a small glimpse on how players feel about the current system's core ideas, don't get too settled as there are large changes already in the works!
 
 ![](/wiki/shared/news/2025-12-05-introducing-quick-play/the-vision.jpg)
 
@@ -58,7 +58,7 @@ Importantly, it is worth mentioning that even though we just released this syste
 
 Big thanks to everyone who has already tried out this new feature. Also let's not forget the people in the map pooling community who took on the task of curating the selection maps. Or the community designers that stepped in and helped shape the UI/UX of the system.
 
-For those who are willing to provide feedback, you'll be able to find a dedicated `#quick-play` channel in the [osu! Discord server](https://discord.com/invite/ppy) as well as a [discussion page](https://github.com/ppy/osu/discussions/35506) in osu!'s GitHub repository.
+For those who are willing to provide feedback, you'll be able to find a dedicated [`#quick-play`](https://discord.com/channels/188630481301012481/1440912440224120882) channel in the [osu! Discord server](https://discord.com/invite/ppy) as well as a [discussion page](https://github.com/ppy/osu/discussions/35506) in osu!'s GitHub repository.
 
 Stay tuned for more announcements, changelogs, and news about the system in the coming weeks.
 
