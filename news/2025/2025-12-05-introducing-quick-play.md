@@ -7,7 +7,7 @@ series: game_updates
 
 Leaves fall rather quickly in the autumn, yet none of them will be as quick as osu!'s brand-new matchmaking system!
 
-![](/wiki/shared/news/2025-11-29-introducing-quick-play/banner.jpg)
+![](/wiki/shared/news/2025-12-05-introducing-quick-play/banner.jpg)
 
 The demand to add matchmaking to the game has not gone unnoticed. Rising popularity on some community solutions such as auto-hosting bots and full-on external matchmaking services have only reinforced this idea.
 
@@ -33,16 +33,16 @@ More about the project's inner workings can be found in the [wiki article](/wiki
 
 In an attempt to get more players to try out quick play, the devs have planned four weeks of test runs. These runs will test various versions of the system, and allow the team to gather feedback for its general direction and any future adjustments.
 
-Each week, the matchmaking system will switch between **1v1** and **free-for-all (FFA)** battles, and mappools that are either **manually curated** or **randomised** between all Ranked maps:
+Each week, the matchmaking system will switch between **1v1** and **free-for-all (FFA)** battles, and mappools that are either **manually curated** or **randomised** between all Ranked Featured Artist maps:
 
 | Dates | Pool type | Matchmaking type |
 | :-: | :-: | :-: |
 | December 6th – December 13th | Manually curated | 1v1 |
-| December 13th – December 20th | Manually curated | FFA |
-| December 20th – December 27th | Randomised | 1v1 |
-| December 27th – January 3rd | Randomised | FFA |
+| December 13th – December 20th | Featured Artist | 1v1 |
+| December 20th – December 27th | Manually curated | 1v1 |
+| December 27th – January 3rd | Featured Artist | 1v1 |
 
-While the manually curated pools are an expansion of the existing pools players have been able to play so far, we want to experiment with pseudo-randomised pools that would be created on the fly based on a lobby's average skill level (i.e. matchmaking rating or MMR). We'll also be checking how people feel about different lobby sizes.
+While the manually curated pools are an expansion of the existing pools players have been able to play so far, we want to experiment with pseudo-randomised pools constructed from the Featured Artist beatmap listing.
 
 ## The future of quick play
 
