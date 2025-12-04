@@ -401,7 +401,7 @@ The Cute Female Vocal 1st widely follows the same ruleset that was used in the [
 
 ### General rules
 
-1. Match lobbies across the tournament will adhere to the following room settings: 
+1. Match lobbies across the tournament will adhere to the following room settings:
    - Team Mode: `Head-to-head`
    - Win Condition: `ScoreV2`
 2. The tournament's Discord server will be the only source of all the latest information about the tournament.
@@ -424,7 +424,7 @@ The Cute Female Vocal 1st widely follows the same ruleset that was used in the [
 9. If a player is not present during the match time, the match can be postponed for up to 10 minutes. If after this period the player is still nowhere to be found, a *win by default* will be declared for the opponent.
 10. Players are expected to keep the match running fluently and without delays. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited and will be punished accordingly.
 11. The multiplayer chat rooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chat rooms where the matches will take place.
-    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+   - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 12. Referees may allow, at their discretion, lower or higher tolerances for timers.
 13. The tournament management may request liveplays or recordings of individual players at any point in the tournament without prior warning.
 14. The tournament management will be responsible for receiving and investigating any tournament-related complaints.
