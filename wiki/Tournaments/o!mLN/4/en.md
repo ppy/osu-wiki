@@ -74,7 +74,7 @@ The osu!mania LN Tournament 4 is run by various community members.
 - [Registrations news post](https://osu.ppy.sh/home/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2107840?n=1)
 - [Challonge Bracket](https://challonge.com/5whqliol)
-- [o!mLN Discord Sever](https://discord.gg/SPQtt3s)
+- [o!mLN Discord Sever](https://discord.com/invite/SPQtt3s)
 - [Livestream](https://www.twitch.tv/osumanialive)
 - [YouTube VOD Channel](https://www.youtube.com/@osumanialive)
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Wl3Q41AI0e36sINVWh6qJHtKcCG_fdju2_0CdBm0DGs/edit?usp=sharing)**
@@ -294,7 +294,7 @@ Details can be found on the **[information spreadsheet](https://docs.google.com/
 2. Players will first participate in Qualifiers, before the top 64 players in Qualifiers continue to the double-elimination bracket.
 3. Staff members that meet [official tournament support rules](/wiki/Tournaments/Official_support#staff) are allowed to play.
 4. Players and staff members must have read this ruleset entirely.
-5. Any rule changes or unexpected occurrences will be announced in the [Discord server](https://discord.gg/SPQtt3s).
+5. Any rule changes or unexpected occurrences will be announced in the [Discord server](https://discord.com/invite/SPQtt3s).
 
 ### Mappool format
 
@@ -380,5 +380,5 @@ The maps in this tournament will only consist of long note (LN) oriented maps, a
 
 1. Every staff and player must respect each other and follow the [osu! community rules](/wiki/Rules).
 2. Discussions about sensitive (religion, politics) and other potentially offensive topics are disallowed.
-2. Keep the competition and atmosphere friendly amongst each other, whether it is in the match, in the Twitch chatroom, or on the Discord server. Tournaments are always for us to come together as a community and not engage in pointless arguments.
-3. In the event a player or staff member is found to have conducted themselves inappropriately towards anyone in the server, said individual can be subject to timeouts, warnings, and bans from the tournament and its affiliated Twitch channel based on the severity of the incident.
+3. Keep the competition and atmosphere friendly amongst each other, whether it is in the match, in the Twitch chatroom, or on the Discord server. Tournaments are always for us to come together as a community and not engage in pointless arguments.
+4. In the event a player or staff member is found to have conducted themselves inappropriately towards anyone in the server, said individual can be subject to timeouts, warnings, and bans from the tournament and its affiliated Twitch channel based on the severity of the incident.
