@@ -41,45 +41,35 @@ dada yapping
 
 [osu! original](/wiki/Community/Bespoke_music) intro
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/inorganic_dystopia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/skywired_beatscape_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Inorganic_Dystopia.mp3">
+        <source src="https://assets.ppy.sh/artists/514/Songs/steelplus%20-%20Skywired%20Beatscape.mp3">
     </audio>
 </div>
 
-xenjes yapping
+yapping
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/ruby_of_twilight_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/peach_pit_and_cyanide_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/359/Songs/cygnus_-_The_Ruby_of_Twilight.mp3">
+        <source src="https://assets.ppy.sh/artists/331/Songs/Mili_-_Peach_Pit_and_Cyanide.mp3">
     </audio>
 </div>
 
-cygnus yapping
+yapping
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/open_scar_unending_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471983#osu/5416139)
+[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/hexen_noir_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933)
 
 <div class="osu-md__paragraph">
     <audio controls>
-        <source src="https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_Open_Scar_Unending.mp3">
+        <source src="https://assets.ppy.sh/artists/69/Songs/ELFENSJoN_-_Hexen_Noir.mp3">
     </audio>
 </div>
 
-marmalade yapping
-
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/gumbarlzo_banner.jpg)](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200)
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/396/Songs/tpazolite_-_Gumbarlzo.mp3">
-    </audio>
-</div>
-
-tpaz yapping
+yapping
 
 ## Semifinals summary
 
