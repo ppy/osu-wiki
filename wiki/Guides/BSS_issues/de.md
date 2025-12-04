@@ -27,7 +27,7 @@ Diese Warnung tritt beim Mapping vermutlich am meisten auf und wird oft durch ei
 6. Setze `BeatmapSetID` auf `-1`.
 7. Stelle sicher, dass der Name des Beatmap-Ordners nicht mit einer Zahlenfolge beginnt. Ansonsten ändere den Namen entsprechend ab.
    - Z. B. `1000 - Songname` sollte `ABCDE - Songname` sein.
-8. Lösche alle Dateien im Ordner `SubmissionCache`. Standardmäßig befindet sich dieser im Verzeichnis `Data` des osu!-Installationsordners.
+8. Lösche alle Dateien im Ordner `SubmissionCache`. Standardmäßig befindet sich dieser im ausgeblendeten Verzeichnis `Data` des osu!-Installationsordners.
    - [Dieser Artikel](https://support.microsoft.com/en-au/windows/file-explorer-in-windows-ef370130-1cca-9dc5-e0df-2f7416fe1cb1) erklärt, wie man den Ordner im Dateiexplorer öffnet.
 9. Öffne osu! erneut und versuche, deine Beatmap hochzuladen.
 
