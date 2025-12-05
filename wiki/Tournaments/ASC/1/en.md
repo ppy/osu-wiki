@@ -34,6 +34,8 @@ The **Asia Suiji Cup: Rhythmus Aquarum** (***ASC***) was a three-on-three asian 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, user profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, user profile banner |
 
+![](img/asc-winner-badge.jpeg "ASC winner badge")
+
 Second place's osu!supporter tag was provided by ::{ flag=GB }:: [IncognitoMercy](https://osu.ppy.sh/users/12838922).
 
 ## Organisation
