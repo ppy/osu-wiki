@@ -149,6 +149,8 @@ Last but certainly not least, the remaining team to make it to the Finals week f
     }
 </style>
 
+![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/-pineapple--saturn-and-sooky.png)
+
 A song's emotions can feel even stronger when its illustrations bring the story to life. For the Semifinals tiebreaker, [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), that responsibility fell to three illustrators: [-pineapple-](https://osu.ppy.sh/users/11523326), [Saturn](https://osu.ppy.sh/users/22001295), and [sooky](https://osu.ppy.sh/users/8397914), each crafting their complete scene inspired by the song's dark fantasy narrative.
 
 <div class="news-chat-quote__text-container">
@@ -163,13 +165,17 @@ Welcome to the group interview! You've each taken different paths to get here. B
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11523326">-pineapple-</a></p>
 
-Hi, I'm -pineapple- and I've been making artworks for World Cups since TWC 2023 with [Sigrdrifa](https://osu.ppy.sh/beatmapsets/1981053#taiko/4113613), as well as for other tournaments such as The Perennial, Battle of the Box, GTS and JOKE. You may also know me from the backgrounds of [Echoes of Memoria](https://osu.ppy.sh/beatmapsets/2214238#osu/4691422) by Ludicin or [AKARI BEAM CANNON LAST BOSS](https://osu.ppy.sh/beatmapsets/2095159#osu/4393042) by Kommisar. This is the 18th project I've worked on for osu!, and I feel really lucky to have had so many opportunities. I've been an osu! player for longer than I have been drawing, and I've been using the tablet that I bought specifically for playing osu! to draw. It's been really cool to see how much the production for tournaments have grown within the last few years, and I'll never stop being impressed by the insanely talented artists and musicians that osu! has worked with.
+Hi, I'm -pineapple- and I've been making artworks for World Cups since TWC 2023 with [Sigrdrifa](https://osu.ppy.sh/beatmapsets/1981053#taiko/4113613), as well as for other tournaments such as The Perennial, Battle of the Box, GTS and JOKE. You may also know me from the backgrounds of [Echoes of Memoria](https://osu.ppy.sh/beatmapsets/2214238#osu/4691422) by Ludicin or [AKARI BEAM CANNON LAST BOSS](https://osu.ppy.sh/beatmapsets/2095159#osu/4393042) by Kommisar.
+
+This is the 18th project I've worked on for osu!, and I feel really lucky to have had so many opportunities. I've been an osu! player for longer than I have been drawing, and I've been using the tablet that I bought specifically for playing osu! to draw. It's been really cool to see how much the production for tournaments have grown within the last few years, and I'll never stop being impressed by the insanely talented artists and musicians that osu! has worked with.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/22001295" style="background-image: url('/wiki/shared/avatars/CMDR_Saturn.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/22001295">Saturn</a></p>
 
-Hello! I'm Saturn, and I've been drawing for World Cups for just over two years. Outside of osu!, I work as an artist and contractor for some gacha games and just draw whatever inspires me personally. I've been a big fan of osu! originals, and it was [SICK ROCK CRAZY](https://osu.ppy.sh/beatmapsets/1838305#osu/3774993) from Corsace Open 2022 that really made me think it'd be cool if my art is featured in original songs too. Eventually, [mangomizer](https://osu.ppy.sh/users/1893718) came across my art in a Discord server and invited me to draw for osu! originals. Since then, I've contributed to several projects, including [seatrus - Disanimate](https://osu.ppy.sh/beatmapsets/2137728#mania/5139638), [Kou! - Frost Walker](https://osu.ppy.sh/beatmapsets/2202823#fruits/4662299), [Minstrel - Today is the Day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), and [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294#osu/5238714), with more to come in the future.
+Hello! I'm Saturn, and I've been drawing for World Cups for just over two years. Outside of osu!, I work as an artist and contractor for some gacha games and just draw whatever inspires me personally. I've been a big fan of osu! originals, and it was [SICK ROCK CRAZY](https://osu.ppy.sh/beatmapsets/1838305#osu/3774993) from Corsace Open 2022 that really made me think it'd be cool if my art is featured in original songs too.
+
+Eventually, [mangomizer](https://osu.ppy.sh/users/1893718) came across my art in a Discord server and invited me to draw for osu! originals. Since then, I've contributed to several projects, including [seatrus - Disanimate](https://osu.ppy.sh/beatmapsets/2137728#mania/5139638), [Kou! - Frost Walker](https://osu.ppy.sh/beatmapsets/2202823#fruits/4662299), [Minstrel - Today is the Day](https://osu.ppy.sh/beatmapsets/2281434#osu/4864081), and [Krimek - Dahlia (feat. eili)](https://osu.ppy.sh/beatmapsets/2412294#osu/5238714), with more to come in the future.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8397914" style="background-image: url('/wiki/shared/avatars/sooky.jpg')"></a>
 
@@ -211,7 +217,9 @@ While ELISIA's character design was provided by ELFENSJóN, each of your illustr
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/11523326">-pineapple-</a></p>
 
-My illustration was planned to be used as the last scene, so I wanted to create a more lonely atmosphere with the alter ELISIA resting amongst red flowers in a desolate setting. Initially, I planned to draw the scene in the ruins of the castle in Saturn's illustration, but after a few iterations I decided to go for a more abstract structure which is heavily inspired by [nanomorits](https://x.com/Nan0Mortis), an artist I'm sure every osu! player is super familiar with. The final few lyrics of the song portrayed ELISIA as a red, blooming flower in a hopeless and doomed world, so I wanted the strong red and sharp shapes to push this harshness. My illustration was a lot messier in this project since I wanted to keep the rougher feeling, so I hope players don't zoom in too far to see my mistakes!
+My illustration was planned to be used as the last scene, so I wanted to create a more lonely atmosphere with the alter ELISIA resting amongst red flowers in a desolate setting. Initially, I planned to draw the scene in the ruins of the castle in Saturn's illustration, but after a few iterations I decided to go for a more abstract structure which is heavily inspired by [nanomorits](https://x.com/Nan0Mortis), an artist I'm sure every osu! player is super familiar with.
+
+The final few lyrics of the song portrayed ELISIA as a red, blooming flower in a hopeless and doomed world, so I wanted the strong red and sharp shapes to push this harshness. My illustration was a lot messier in this project since I wanted to keep the rougher feeling, so I hope players don't zoom in too far to see my mistakes!
 
 ![-pineapple-'s illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/pineapple_illustration.jpg)
 
@@ -219,7 +227,9 @@ My illustration was planned to be used as the last scene, so I wanted to create 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/22001295">Saturn</a></p>
 
-I always want my art to be thoughtful, not just a character standing there looking pretty. My first impression of the lyrics was someone who has been stained and cursed by their past, reaching out for someone or something to fill the growing guilt within them. So in my main illustration, I drew a castle with unsettling red accents to set the scene of a fantasy world under a dark spell. I also included books, orbs, candles, things you would associate with curses, longing for the past, etc. I placed floating mirrors all facing each other to symbolize confronting the twisted fragments of one's past. In the center I have ELISIA being grasped by a alter ego version of her past emerging from the mirror, with multiple arms and wings with eyes to show something beyond the mortal plane and apocrypha. In my second illustration, I focused on a close-up of the two characters in front of the mirror.
+I always want my art to be thoughtful, not just a character standing there looking pretty. My first impression of the lyrics was someone who has been stained and cursed by their past, reaching out for someone or something to fill the growing guilt within them. So in my main illustration, I drew a castle with unsettling red accents to set the scene of a fantasy world under a dark spell.
+
+I also included books, orbs, candles, things you would associate with curses, longing for the past, etc. I placed floating mirrors all facing each other to symbolize confronting the twisted fragments of one's past. In the center I have ELISIA being grasped by a alter ego version of her past emerging from the mirror, with multiple arms and wings with eyes to show something beyond the mortal plane and apocrypha. In my second illustration, I focused on a close-up of the two characters in front of the mirror.
 
 ![Saturn's 1st illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/saturn_illustration_1.jpg)
 
@@ -229,7 +239,9 @@ I always want my art to be thoughtful, not just a character standing there looki
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8397914">sooky</a></p>
 
-My illustration was built around the lyrics where ELISIA couldn't look away from the past despite knowing what is done cannot be undone. I wanted to portray ELISIA still treading forward with a burning passion. This is the part I felt most personally connected with as it accurately describes my relationship with creating art. Fire, loneliness, and lingering past were key words I thought about when I was drafting up my piece, which naturally led to the vibrant red colors I used. Overall, I think my drawing was pretty straightforward haha. Usually my art style is pretty messy so I had to really lock in knowing that it would be zoomed in a lot in the [intro video](https://youtu.be/_aiV-u_bMf4) done by [Sakura006](https://osu.ppy.sh/users/10365024) and [dimavh](https://osu.ppy.sh/users/15056040). I hope players can appreciate the details of the hair because I spent a really long time on it :p
+My illustration was built around the lyrics where ELISIA couldn't look away from the past despite knowing what is done cannot be undone. I wanted to portray ELISIA still treading forward with a burning passion. This is the part I felt most personally connected with as it accurately describes my relationship with creating art. Fire, loneliness, and lingering past were key words I thought about when I was drafting up my piece, which naturally led to the vibrant red colors I used.
+
+Overall, I think my drawing was pretty straightforward haha. Usually my art style is pretty messy so I had to really lock in knowing that it would be zoomed in a lot in the [intro video](https://youtu.be/_aiV-u_bMf4) done by [Sakura006](https://osu.ppy.sh/users/10365024) and [dimavh](https://osu.ppy.sh/users/15056040). I hope players can appreciate the details of the hair because I spent a really long time on it :p
 
 ![sooky's illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/sooky_illustration.jpg)
 
