@@ -7,7 +7,7 @@ series: world_cups
 
 One of the greatest Cinderella stories in the history of the osu! World Cup tried to keep dancing while the tournament's strongest teams flexed their muscle in a stunning display of dominance. This was the Semifinals weekend of OWC 2025.
 
-![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/banner.jpg)
+![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/banner.jpg)
 
 The #16 seed New Zealand represented a fairytale story the likes of which had rarely been seen before in OWC, while each of the top 4 seeds jockeyed for position at the top of the bracket, competing for the two places in the winners' bracket Final and guaranteed placement on the podium.
 
@@ -33,7 +33,7 @@ Six teams would be sent home over the course of the week's eight matches; six te
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2626222567&parent=osu.ppy.sh&autoplay=false&time=1h19m3s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/mappool.png)
+![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/mappool.png)
 
 The Semifinals mappool had a lot of interesting maps to choose from. As usual, existing maps made their appearance, and ones such as [Dreadnought](https://osu.ppy.sh/beatmapsets/48356#osu/149559), an old, classic map that went beyond 320 BPM on DT, and [Entangle Night](https://osu.ppy.sh/beatmapsets/2216137#osu/4697634), a recently Loved stamina gauntlet, provided the pool its tapping and mechanics base. Other maps, like the famous [Desert](https://osu.ppy.sh/beatmapsets/1417973#osu/2921554), a classic circle tech offering, and [Breathe](https://osu.ppy.sh/beatmapsets/1223323#osu/2544530), a DT map that can be summarised as "osu! for ants", gave the pool some of its more technical and gimmicky aspects.
 
@@ -43,7 +43,7 @@ Of course, new customs also graced the pool this week, and [stairway to the univ
 
 This week also had the debut of not one, not two, but three [osu! originals](/wiki/Community/Bespoke_music)!
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/skywired_beatscape_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883)
+[![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/skywired_beatscape_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -53,7 +53,7 @@ This week also had the debut of not one, not two, but three [osu! originals](/wi
 
 The first one, in the showcase order, is the great [steelplus](https://osu.ppy.sh/beatmaps/artists/514)' electronic symphony, [Skywired Beatscape](https://osu.ppy.sh/beatmapsets/2468647#osu/5405883), a floating, rhythmically fun production, which housed an interesting and popular alt and light tech pick by [Azer](https://osu.ppy.sh/users/2155578) and [Megafan](https://osu.ppy.sh/users/6632605). One cannot understate the openness and even nostalgic nature of the song, and we urge you to give it a listen!
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/peach_pit_and_cyanide_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
+[![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/peach_pit_and_cyanide_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -63,7 +63,7 @@ The first one, in the showcase order, is the great [steelplus](https://osu.ppy.s
 
 The second original was a project by one of our more unique and popular FAs, the amazing folks who comprise [Mili](https://osu.ppy.sh/beatmaps/artists/331). They graced us with their distinctive sound on [Peach Pit and Cyanide](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912), a beautiful vocal piece that cannot be missed out on. To tackle the slower composition, the trustworthy [vetoed](https://osu.ppy.sh/users/10909373) was put in charge, with the goal of creating a reading and aim map for the tournament, but also to create another, more conventional map for those outside of the tournament to enjoy as well. If you haven't yet, make sure to give any difficulty a play!
 
-[![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/hexen_noir_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933)
+[![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/hexen_noir_banner.jpg)](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -157,7 +157,7 @@ Last but certainly not least, the remaining team to make it to the Finals week f
     }
 </style>
 
-![](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/-pineapple--saturn-and-sooky.png)
+![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/-pineapple--saturn-and-sooky.png)
 
 A song's emotions can feel even stronger when its illustrations bring the story to life. For the Semifinals tiebreaker, [Hexen Noir](https://osu.ppy.sh/beatmapsets/2468665#osu/5405933), that responsibility fell to three illustrators: [-pineapple-](https://osu.ppy.sh/users/11523326), [Saturn](https://osu.ppy.sh/users/22001295), and [sooky](https://osu.ppy.sh/users/8397914), each crafting their complete scene inspired by the song's dark fantasy narrative.
 
@@ -229,7 +229,7 @@ My illustration was planned to be used as the last scene, so I wanted to create 
 
 The final few lyrics of the song portrayed ELISIA as a red, blooming flower in a hopeless and doomed world, so I wanted the strong red and sharp shapes to push this harshness. My illustration was a lot messier in this project since I wanted to keep the rougher feeling, so I hope players don't zoom in too far to see my mistakes!
 
-![-pineapple-'s illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/pineapple_illustration.jpg)
+![-pineapple-'s illustration](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/pineapple_illustration.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/22001295" style="background-image: url('/wiki/shared/avatars/CMDR_Saturn.jpg')"></a>
 
@@ -239,9 +239,9 @@ I always want my art to be thoughtful, not just a character standing there looki
 
 I also included books, orbs, candles, things you would associate with curses, longing for the past, etc. I placed floating mirrors all facing each other to symbolize confronting the twisted fragments of one's past. In the center I have ELISIA being grasped by a alter ego version of her past emerging from the mirror, with multiple arms and wings with eyes to show something beyond the mortal plane and apocrypha. In my second illustration, I focused on a close-up of the two characters in front of the mirror.
 
-![Saturn's 1st illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/saturn_illustration_1.jpg)
+![Saturn's 1st illustration](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/saturn_illustration_1.jpg)
 
-![Saturn's 2nd illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/saturn_illustration_2.jpg)
+![Saturn's 2nd illustration](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/saturn_illustration_2.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8397914" style="background-image: url('/wiki/shared/avatars/sooky.jpg')"></a>
 
@@ -251,7 +251,7 @@ My illustration was built around the lyrics where ELISIA couldn't look away from
 
 Overall, I think my drawing was pretty straightforward haha. Usually my art style is pretty messy so I had to really lock in knowing that it would be zoomed in a lot in the [intro video](https://youtu.be/_aiV-u_bMf4) done by [Sakura006](https://osu.ppy.sh/users/10365024) and [dimavh](https://osu.ppy.sh/users/15056040). I hope players can appreciate the details of the hair because I spent a really long time on it :p
 
-![sooky's illustration](/wiki/shared/news/2025-12-04-osu-world-cup-2025-semifinals-recap/sooky_illustration.jpg)
+![sooky's illustration](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/sooky_illustration.jpg)
 
 </div>
 
