@@ -47,7 +47,7 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
 - ::{ flag=SK }:: [nevqr](https://osu.ppy.sh/users/14269506)
-- ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/4956097)
+- ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
 ### osu!catch curators
