@@ -201,7 +201,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Semifinals
 
 **[Download the mappack here (249 MB)](https://packs.ppy.sh/P305%20-%20osu%21%20World%20Cup%202025%3A%20Semifinals.zip?1763937887)**\
-[View the showcase VOD here](https://youtube.com/watch?v=WbqHJajmqxg&t=28149)
+[View the showcase VOD here](https://www.youtube.com/watch?v=WbqHJajmqxg&t=28149)
 
 - No Mod
   1. [paraoka feat. haru\*nya - Tyranny (toybot) \[melon's KACHOW\]](https://osu.ppy.sh/beatmapsets/2255589#osu/4798382)
@@ -233,7 +233,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Quarterfinals
 
 **[Download the mappack here (200 MB)](https://packs.ppy.sh/P304%20-%20osu%21%20World%20Cup%202025%3A%20Quarterfinals.zip)**\
-[View the showcase VOD here](https://youtube.com/watch?v=E47RdYnUaGM&t=15140)
+[View the showcase VOD here](https://www.youtube.com/watch?v=E47RdYnUaGM&t=15140)
 
 - No Mod
   1. [zebrahead - Falling Apart (piroshki) \[The Perfect Crime (OWC)\]](https://osu.ppy.sh/beatmapsets/2465412#osu/5396874)
@@ -265,7 +265,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Round of 16
 
 **[Download the mappack here (205 MB)](https://packs.ppy.sh/P303%20-%20osu%21%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
-[View the showcase VOD here](https://youtube.com/watch?v=LN6Uwlubqq4&t=28834)
+[View the showcase VOD here](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=28834)
 
 - No Mod
   1. [DIALOGUE+ - Daibouken o Yoroshiku (\_kotachi\_) \[Jet to the Future\]](https://osu.ppy.sh/beatmapsets/2462126#osu/5386789)
@@ -371,32 +371,32 @@ Friday, 22 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 23 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/119886429) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=284) |
+| 23 | **Russian Federation** ::{ flag=RU }:: | **6** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/119886429) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=284) |
 
 Saturday, 22 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 19 | **New Zealand** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119891963) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=4440) |
-| 18 | Romania ::{ flag=RO }:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119893306) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=8319) |
-| 20 | **France** ::{ flag=FR }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/119893254) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=31854) |
+| 19 | **New Zealand** ::{ flag=NZ }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119891963) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=4440) |
+| 18 | Romania ::{ flag=RO }:: | 5 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119893306) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=8319) |
+| 20 | **France** ::{ flag=FR }:: | **6** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/119893254) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=31854) |
 | 24 | **Philippines** ::{ flag=PH }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119893634) | [#1](https://www.twitch.tv/videos/2625183664) |
-| 21 | **Brazil** ::{ flag=BR }:: | **6** | 4 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119894518) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=15299) |
-| 22 | **Norway** ::{ flag=NO }:: | **6** | 2 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/119894490) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=35606) |
-| 30 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/119895668) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=22717) |
-| 17 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119896209) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=157) |
-| 31 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119896553) | [#1](https://youtube.com/watch?v=uaPQC2CIXh0&t=28039) |
+| 21 | **Brazil** ::{ flag=BR }:: | **6** | 4 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119894518) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=15299) |
+| 22 | **Norway** ::{ flag=NO }:: | **6** | 2 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/119894490) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=35606) |
+| 30 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/119895668) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=22717) |
+| 17 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119896209) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=157) |
+| 31 | **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/119896553) | [#1](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=28039) |
 
 Sunday, 23 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 32 | **Australia** ::{ flag=AU }:: | **6** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/119902383) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=3389) |
-| 26a | France ::{ flag=FR }:: | 3 | **6** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/119902659) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=7156) |
-| 29 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/119903989) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=11951) |
-| 25c | Taiwan ::{ flag=TW }:: | 2 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/119904570) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=20158) |
-| 28a | Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/119904521) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=15667) |
-| 27a | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/119906662) | [#1](https://youtube.com/watch?v=WbqHJajmqxg&t=23464) |
+| 32 | **Australia** ::{ flag=AU }:: | **6** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/119902383) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=3389) |
+| 26a | France ::{ flag=FR }:: | 3 | **6** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/119902659) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=7156) |
+| 29 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/119903989) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=11951) |
+| 25c | Taiwan ::{ flag=TW }:: | 2 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/119904570) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=20158) |
+| 28a | Philippines ::{ flag=PH }:: | 3 | **6** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/119904521) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=15667) |
+| 27a | **Norway** ::{ flag=NO }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/119906662) | [#1](https://www.youtube.com/watch?v=WbqHJajmqxg&t=23464) |
 
 ### Round of 16
 
@@ -406,27 +406,27 @@ Saturday, 15 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 7 | **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/119831812) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=283) |
-| 1 | **Poland** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119832663) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=3072) |
-| 14 | Italy ::{ flag=IT }:: | 3 | **5** | ::{ flag=TR }:: **Türkiye** | [#1](https://osu.ppy.sh/community/matches/119834213) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=6311) |
-| 3 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119834569) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=10208) |
-| 8 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119834573) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=10208) |
+| 7 | **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/119831812) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=283) |
+| 1 | **Poland** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/119832663) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=3072) |
+| 14 | Italy ::{ flag=IT }:: | 3 | **5** | ::{ flag=TR }:: **Türkiye** | [#1](https://osu.ppy.sh/community/matches/119834213) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=6311) |
+| 3 | **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119834569) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=10208) |
+| 8 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/119834573) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=10208) |
 
 Sunday, 16 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| 10 | Netherlands ::{ flag=NL }:: | 0 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119842597) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=14296) |
-| 6 | **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/119842870) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=22512) |
-| 12 | Thailand ::{ flag=TH }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/119842823) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=17893) |
-| 2 | Russian Federation ::{ flag=RU }:: | 3 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/119843765) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=26908) |
-| 16 | **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=KZ }:: Kazakhstan | [#1](https://osu.ppy.sh/community/matches/119843979) | [#1](https://youtube.com/watch?v=E47RdYnUaGM&t=2474) |
-| 9 | **Austria** ::{ flag=AT }:: | **5** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/119844472) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=32306) |
-| 11 | **Sweden** ::{ flag=SE }:: | **5** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/119845095) | [#1](https://youtube.com/watch?v=Olm4JYTmhpI&t=36136) |
-| 13 | **Finland** ::{ flag=FI }:: | **5** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119846505) | [#1](https://youtube.com/watch?v=E47RdYnUaGM&t=6127) |
-| 5 | **United States** ::{ flag=US }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/119846783) | [#1](https://youtube.com/watch?v=E47RdYnUaGM&t=8762) |
+| 10 | Netherlands ::{ flag=NL }:: | 0 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/119842597) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=14296) |
+| 6 | **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/119842870) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=22512) |
+| 12 | Thailand ::{ flag=TH }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/119842823) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=17893) |
+| 2 | Russian Federation ::{ flag=RU }:: | 3 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/119843765) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=26908) |
+| 16 | **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=KZ }:: Kazakhstan | [#1](https://osu.ppy.sh/community/matches/119843979) | [#1](https://www.youtube.com/watch?v=E47RdYnUaGM&t=2474) |
+| 9 | **Austria** ::{ flag=AT }:: | **5** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/119844472) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=32306) |
+| 11 | **Sweden** ::{ flag=SE }:: | **5** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/119845095) | [#1](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=36136) |
+| 13 | **Finland** ::{ flag=FI }:: | **5** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119846505) | [#1](https://www.youtube.com/watch?v=E47RdYnUaGM&t=6127) |
+| 5 | **United States** ::{ flag=US }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/119846783) | [#1](https://www.youtube.com/watch?v=E47RdYnUaGM&t=8762) |
 | 15 | **Spain** ::{ flag=ES }:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/119846741) | [#1](https://www.youtube.com/watch?v=E47RdYnUaGM) |
-| 4 | **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/119847337) | [#1](https://youtube.com/watch?v=E47RdYnUaGM&t=11681) |
+| 4 | **Germany** ::{ flag=DE }:: | **5** | 1 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/119847337) | [#1](https://www.youtube.com/watch?v=E47RdYnUaGM&t=11681) |
 
 ### Group stage
 
@@ -436,78 +436,78 @@ Friday, 31 October 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| E4 | Vietnam ::{ flag=VN }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/119701959) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=295) |
+| E4 | Vietnam ::{ flag=VN }:: | 3 | **5** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/119701959) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=295) |
 
 Saturday, 1 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| B5 | **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119709590) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=4334) |
-| E1 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/119710881) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=7628) |
-| F5 | **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119712013) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=11019) |
-| C5 | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119712591) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=14618) |
-| C2 | Chile ::{ flag=CL }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/119713766) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=17078) |
-| D2 | **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119714427) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=20989) |
+| B5 | **New Zealand** ::{ flag=NZ }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119709590) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=4334) |
+| E1 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/119710881) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=7628) |
+| F5 | **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119712013) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=11019) |
+| C5 | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119712591) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=14618) |
+| C2 | Chile ::{ flag=CL }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/119713766) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=17078) |
+| D2 | **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/119714427) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=20989) |
 
 Sunday, 2 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| H2 | **Japan** ::{ flag=JP }:: | **5** | 1 | ::{ flag=GR }:: Greece | [#1](https://osu.ppy.sh/community/matches/119719487) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=24098) |
+| H2 | **Japan** ::{ flag=JP }:: | **5** | 1 | ::{ flag=GR }:: Greece | [#1](https://osu.ppy.sh/community/matches/119719487) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=24098) |
 | A3 | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119720145) | [#1](https://youtu.be/yYhlSxQ1AhA) |
-| D5 | **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/119720150) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=27190) |
-| B6 | **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119720537) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=30778) |
-| E3 | **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119720519) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=17258) |
-| E6 | **Malaysia** ::{ flag=MY }:: | **5** | 1 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119720976) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=34378) |
-| H5 | **Singapore** ::{ flag=SG }:: | **5** | 4 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/119721465) | [#1](https://youtube.com/watch?v=I5ipyUO20SM&t=37892) |
-| C6 | **Spain** ::{ flag=ES }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119722602) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=2724) |
-| C1 | **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/119723171) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=19360) |
-| F3 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119723169) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=6323) |
-| C3 | **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119723660) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=22898) |
-| D3 | **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/119723640) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=25052) |
-| G4 | Ukraine ::{ flag=UA }:: | 3 | **5** | ::{ flag=PT }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/119723675) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=10085) |
-| G6 | Portugal ::{ flag=PT }:: | 3 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/119724770) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=13868) |
+| D5 | **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/119720150) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=27190) |
+| B6 | **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119720537) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=30778) |
+| E3 | **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119720519) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=17258) |
+| E6 | **Malaysia** ::{ flag=MY }:: | **5** | 1 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119720976) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=34378) |
+| H5 | **Singapore** ::{ flag=SG }:: | **5** | 4 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/119721465) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=37892) |
+| C6 | **Spain** ::{ flag=ES }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119722602) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=2724) |
+| C1 | **Chile** ::{ flag=CL }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/119723171) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=19360) |
+| F3 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/119723169) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=6323) |
+| C3 | **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/119723660) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=22898) |
+| D3 | **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/119723640) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=25052) |
+| G4 | Ukraine ::{ flag=UA }:: | 3 | **5** | ::{ flag=PT }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/119723675) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=10085) |
+| G6 | Portugal ::{ flag=PT }:: | 3 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/119724770) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=13868) |
 
 Friday, 7 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| E5 | **Vietnam** ::{ flag=VN }:: | **5** | 3 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119760678) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=26342) |
+| E5 | **Vietnam** ::{ flag=VN }:: | **5** | 3 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119760678) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=26342) |
 
 Saturday, 8 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| A4 | **Norway** ::{ flag=NO }:: | **5** | 0 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119768390) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=10913) |
-| A5 | **Norway** ::{ flag=NO }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119768679) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=32052) |
-| B4 | **New Zealand** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119768654) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=14510) |
-| A2 | **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119769022) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=18117) |
-| A1 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119769529) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=21690) |
-| H3 | **Japan** ::{ flag=JP }:: | **5** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/119769816) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=25084) |
-| E2 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/119770650) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=273) |
-| H1 | **Japan** ::{ flag=JP }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/119770610) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=31042) |
-| D1 | Brazil ::{ flag=BR }:: | 3 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/119771221) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=34599) |
-| G2 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 3 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/119771215) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=3870) |
-| B3 | Romania ::{ flag=RO }:: | 1 | **5** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/119771875) | [#1](https://youtube.com/watch?v=yYhlSxQ1AhA&t=38914) |
-| F2 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/119771859) | [#1](https://youtube.com/watch?v=VmV_uzDAmsI&t=7782) |
+| A4 | **Norway** ::{ flag=NO }:: | **5** | 0 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119768390) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=10913) |
+| A5 | **Norway** ::{ flag=NO }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119768679) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=32052) |
+| B4 | **New Zealand** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119768654) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=14510) |
+| A2 | **China** ::{ flag=CN }:: | **5** | 3 | ::{ flag=AT }:: Austria | [#1](https://osu.ppy.sh/community/matches/119769022) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=18117) |
+| A1 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/119769529) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=21690) |
+| H3 | **Japan** ::{ flag=JP }:: | **5** | 2 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/119769816) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=25084) |
+| E2 | **Taiwan** ::{ flag=TW }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/119770650) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=273) |
+| H1 | **Japan** ::{ flag=JP }:: | **5** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/119770610) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=31042) |
+| D1 | Brazil ::{ flag=BR }:: | 3 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/119771221) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=34599) |
+| G2 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 3 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/119771215) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=3870) |
+| B3 | Romania ::{ flag=RO }:: | 1 | **5** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/119771875) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=38914) |
+| F2 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/119771859) | [#1](https://www.youtube.com/watch?v=VmV_uzDAmsI&t=7782) |
 
 Sunday, 9 November 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| H4 | **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=GR }:: Greece | [#1](https://osu.ppy.sh/community/matches/119779391) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=33281) |
-| B1 | Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/119779688) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=36862) |
-| A6 | **Austria** ::{ flag=AT }:: | **5** | 3 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119780784) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=365) |
-| H6 | Greece ::{ flag=GR }:: | 4 | **5** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/119781345) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=3964) |
-| B2 | **Romania** ::{ flag=RO }:: | **5** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119781605) | [#1](https://youtube.com/watch?v=sCPYxeHZoJo&t=7261) |
-| D4 | Philippines ::{ flag=PH }:: | 3 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/119781933) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=7977) |
-| G3 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119782489) | [#1](https://youtube.com/watch?v=sCPYxeHZoJo&t=4238) |
-| F6 | Uruguay ::{ flag=UY }:: | 4 | **5** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/119783013) | [#1](https://youtube.com/watch?v=sCPYxeHZoJo&t=13130) |
-| G1 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/119783074) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=12655) |
-| C4 | **France** ::{ flag=FR }:: | **5** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/119783601) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=16256) |
-| F1 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/119783585) | [#1](https://youtube.com/watch?v=sCPYxeHZoJo&t=10182) |
-| D6 | Sweden ::{ flag=SE }:: | 3 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/119784200) | [#1](https://youtube.com/watch?v=LN6Uwlubqq4&t=19859) |
-| F4 | **Argentina** ::{ flag=AR }:: | **5** | 4 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/119784197) | [#1](https://youtube.com/watch?v=sCPYxeHZoJo&t=4) |
+| H4 | **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=GR }:: Greece | [#1](https://osu.ppy.sh/community/matches/119779391) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=33281) |
+| B1 | Romania ::{ flag=RO }:: | 3 | **5** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/119779688) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=36862) |
+| A6 | **Austria** ::{ flag=AT }:: | **5** | 3 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119780784) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=365) |
+| H6 | Greece ::{ flag=GR }:: | 4 | **5** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/119781345) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=3964) |
+| B2 | **Romania** ::{ flag=RO }:: | **5** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/119781605) | [#1](https://www.youtube.com/watch?v=sCPYxeHZoJo&t=7261) |
+| D4 | Philippines ::{ flag=PH }:: | 3 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/119781933) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=7977) |
+| G3 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 1 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/119782489) | [#1](https://www.youtube.com/watch?v=sCPYxeHZoJo&t=4238) |
+| F6 | Uruguay ::{ flag=UY }:: | 4 | **5** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/119783013) | [#1](https://www.youtube.com/watch?v=sCPYxeHZoJo&t=13130) |
+| G1 | **Kazakhstan** ::{ flag=KZ }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/119783074) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=12655) |
+| C4 | **France** ::{ flag=FR }:: | **5** | 2 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/119783601) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=16256) |
+| F1 | **Türkiye** ::{ flag=TR }:: | **5** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/119783585) | [#1](https://www.youtube.com/watch?v=sCPYxeHZoJo&t=10182) |
+| D6 | Sweden ::{ flag=SE }:: | 3 | **5** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/119784200) | [#1](https://www.youtube.com/watch?v=LN6Uwlubqq4&t=19859) |
+| F4 | **Argentina** ::{ flag=AR }:: | **5** | 4 | ::{ flag=UY }:: Uruguay | [#1](https://osu.ppy.sh/community/matches/119784197) | [#1](https://www.youtube.com/watch?v=sCPYxeHZoJo&t=4) |
 | G5 | Ukraine ::{ flag=UA }:: | 2 | **5** | ::{ flag=PE }:: **Peru** | [#1](https://osu.ppy.sh/community/matches/119784965) |  |
 
 ### Qualifiers
