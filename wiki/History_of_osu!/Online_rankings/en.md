@@ -30,7 +30,7 @@ As of 1 March 2025, on the [osu!taiko performance rankings](https://osu.ppy.sh/r
 
 *Main page: [osu!catch rankings history](osu!catch)*
 
-As of 2 November 2024, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
+As of 5 November 2025, on the [osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance) the rank #1 player is ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283/fruits).
 
 ## ![][osu!mania] osu!mania
 
