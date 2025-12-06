@@ -454,7 +454,7 @@ Sunday, 2 November 2025:
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | H2 | **Japan** ::{ flag=JP }:: | **5** | 1 | ::{ flag=GR }:: Greece | [#1](https://osu.ppy.sh/community/matches/119719487) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=24098) |
-| A3 | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119720145) | [#1](https://youtu.be/yYhlSxQ1AhA) |
+| A3 | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/119720145) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA) |
 | D5 | **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/119720150) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=27190) |
 | B6 | **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/119720537) | [#1](https://www.youtube.com/watch?v=I5ipyUO20SM&t=30778) |
 | E3 | **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/119720519) | [#1](https://www.youtube.com/watch?v=yYhlSxQ1AhA&t=17258) |
