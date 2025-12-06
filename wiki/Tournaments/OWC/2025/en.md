@@ -53,7 +53,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CA }:: [\-QWIOO\-](https://osu.ppy.sh/users/10253968), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=PL }:: [ananas](https://osu.ppy.sh/users/38491176), ::{ flag=US }:: [Antlion](https://osu.ppy.sh/users/23944286), ::{ flag=DE }:: [Aracium](https://osu.ppy.sh/users/15882740), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=PH }:: [Creameries](https://osu.ppy.sh/users/15851364), ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=UA }:: [dimavh](https://osu.ppy.sh/users/15056040), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=BR }:: [Jhown](https://osu.ppy.sh/users/14772488), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942), ::{ flag=IE }:: [naraicat](https://osu.ppy.sh/users/6419788), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Panthullu](https://osu.ppy.sh/users/12580298), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=US }:: [saturn\_illus](https://osu.ppy.sh/users/22001295), ::{ flag=NZ }:: [sooky](https://osu.ppy.sh/users/8397914), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966), ::{ flag=AR }:: [zeta](https://osu.ppy.sh/users/9336886), *more TBA* |
 | Tournament design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| Content producers | [D I O](https://www.youtube.com/@dios_dong), [n3rdiness](https://www.youtube.com/@n3rdiness), [Pepper Crab](https://www.youtube.com/@PepperCrabOsu)|
+| Content producers | [D I O](https://www.youtube.com/@dios_dong), [n3rdiness](https://www.youtube.com/@n3rdiness), [Pepper Crab](https://www.youtube.com/@PepperCrabOsu) |
 | Musician | [cygnus](https://osu.ppy.sh/beatmaps/artists/359), [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69), [gladde paling](https://linktr.ee/gladdepaling), [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220), [MEMODEMO](https://soundcloud.com/MEMODEMO), [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430), [Mili](https://osu.ppy.sh/beatmaps/artists/331), [steelplus / HAGANE](https://steelplus.bandcamp.com), [t+pazolite](https://osu.ppy.sh/beatmaps/artists/396), [XenjeS](https://osu.ppy.sh/beatmaps/artists/482), *more TBA* |
 
 Group leaders denoted in **bold**.
@@ -201,7 +201,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Semifinals
 
 **[Download the mappack here (249 MB)](https://packs.ppy.sh/P305%20-%20osu%21%20World%20Cup%202025%3A%20Semifinals.zip?1763937887)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2626222567?t=1h19m3s)
+[View the showcase VOD here](https://youtube.com/watch?v=WbqHJajmqxg&t=28149)
 
 - No Mod
   1. [paraoka feat. haru\*nya - Tyranny (toybot) \[melon's KACHOW\]](https://osu.ppy.sh/beatmapsets/2255589#osu/4798382)
@@ -233,7 +233,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Quarterfinals
 
 **[Download the mappack here (200 MB)](https://packs.ppy.sh/P304%20-%20osu%21%20World%20Cup%202025%3A%20Quarterfinals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2620162156?t=2h36m24s)
+[View the showcase VOD here](https://youtube.com/watch?v=E47RdYnUaGM&t=15140)
 
 - No Mod
   1. [zebrahead - Falling Apart (piroshki) \[The Perfect Crime (OWC)\]](https://osu.ppy.sh/beatmapsets/2465412#osu/5396874)
@@ -265,7 +265,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Round of 16
 
 **[Download the mappack here (205 MB)](https://packs.ppy.sh/P303%20-%20osu%21%20World%20Cup%202025%3A%20Round%20of%2016.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2613988017?t=4h44m24s)
+[View the showcase VOD here](https://youtube.com/watch?v=LN6Uwlubqq4&t=28834)
 
 - No Mod
   1. [DIALOGUE+ - Daibouken o Yoroshiku (\_kotachi\_) \[Jet to the Future\]](https://osu.ppy.sh/beatmapsets/2462126#osu/5386789)
@@ -293,7 +293,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Group stage
 
 **[Download the mappack here (127 MB)](https://packs.ppy.sh/P302%20-%20osu%21%20World%20Cup%202025%3A%20Group%20stage.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2602228000?t=2h14m49s)
+[View the showcase VOD here](https://www.youtube.com/watch?v=LV2AzL3ghpg&t=8087)
 
 - No Mod
   1. [mor ve otesi - Forsa (Fursum) \[ft. Skytuna\]](https://osu.ppy.sh/beatmapsets/1729824#osu/3535240)
@@ -321,7 +321,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 ### Qualifiers
 
 **[Download the mappack here (131 MB)](https://packs.ppy.sh/P301%20-%20osu!%20World%20Cup%202025%3A%20Qualifiers.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2596077920?t=0h4m54s)
+[View the showcase VOD here](https://www.youtube.com/watch?v=DiGF1XvdUjE&t=293)
 
 - No Mod
   1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - Stray (Dailycare) \[Afterglow\]](https://osu.ppy.sh/beatmapsets/2451793#osu/5355992)
@@ -513,7 +513,7 @@ Sunday, 9 November 2025:
 ### Qualifiers
 
 The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/d/1pgBRu_hQfn6qjs85de9lZyrCJk0OadFFjXJmu6tQXl0?rm=minimal).\
-[View the Qualifier seed reveal VOD here](https://www.twitch.tv/videos/2602228000?t=0h4m53s)
+[View the Qualifier seed reveal VOD here](https://www.youtube.com/watch?v=LV2AzL3ghpg&t=294)
 
 | Seed | Country | rating[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
@@ -584,6 +584,8 @@ The final standings for the Qualifier stage can be found in the following [sprea
 | #65 | ::{ flag=KG }:: Kyrgyzstan | *DNP* | *DNP* | *DNP* |
 
 ## Groups
+
+[View the Group drawings VOD here](https://www.youtube.com/watch?v=LV2AzL3ghpg&t=6709)
 
 Group A:
 
