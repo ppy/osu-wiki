@@ -155,7 +155,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | 44 | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 07 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T180000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 |  | Grand Finals | mappool showcase | [Dec 07 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
-
 ## Mappools
 
 ### Finals
