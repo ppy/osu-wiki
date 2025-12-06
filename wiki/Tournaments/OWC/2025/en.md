@@ -142,7 +142,6 @@ Captains are denoted in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a667d40bbd88942cd98926e839de5d37).
 
-
 ## Match schedule: Finals
 
 ### Saturday, 6 December 2025
