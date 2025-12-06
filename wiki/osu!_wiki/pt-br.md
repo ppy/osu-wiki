@@ -2,7 +2,7 @@
 
 O **osu! wiki** é uma base de dados de código aberto escrita e mantida por [colaboradores voluntários](https://github.com/ppy/osu-wiki/graphs/contributors). Ela contém uma vasta gama de informação em tópicos relacionados ao osu!, sua comunidade, e atividades e conceitos relacionados. O wiki serve como uma fonte oficial de conhecimento e é considerada como uma documentação da história do osu!.
 
-Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudanças dos artigos, acontece no canal `#osu-wiki` do [servidor oficial do osu! no Discord](/wiki/Community/Discord_servers#official). Para aprender como você pode ajudar o osu! wiki, consulte os seguinte artigos:
+Todas as discussões que abrangem o wiki em geral, seu desenvolvimento, e mudanças dos artigos, acontece no canal `#osu-wiki` do [servidor oficial do osu! no Discord](/wiki/Community/Discord_servers#oficial). Para aprender como você pode ajudar o osu! wiki, consulte os seguinte artigos:
 
 - [Guia de Contribuição](/wiki/osu!_wiki/Contribution_guide)
 - [Maintenance](/wiki/osu!_wiki/Maintenance)

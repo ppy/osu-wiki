@@ -10,7 +10,7 @@ tags:
   - 网页搜索
   - 筛选谱面
 outdated_translation: true
-outdated_since: 2524e524a0eac80212c345f45d4cd96ee3a06f5c
+outdated_since: 08192e65f4c39155136ca0b88b79bf7e959d78e0
 ---
 
 # 谱面搜索
@@ -99,8 +99,11 @@ outdated_since: 2524e524a0eac80212c345f45d4cd96ee3a06f5c
 | `length` | [游玩时间](/wiki/Beatmap/Play_time)（单位为秒） |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
 | `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l`。允许用英文逗号分隔的多个值 (`,`) |
-| `played`, `lastplayed` | 距上次游玩的时间。允许按 `#y#M#d#h#m#s` 格式输入（年月日时分秒）。比如，`2d5s` 表示“2天5秒”。 |
+| `lastplayed` | 距上次游玩的时间。允许按 `#y#M#d#h#m#s` 格式输入（年月日时分秒）。比如，`2d5s` 表示“2天5秒”。 |
+| `played` | 是否游玩过。 对于游玩过的谱面，值为 `yes`、`true` 或 `1` ；对于未游玩过的谱面，值为 `no`、`false` 或者 `0` 。 |
 | `divisor` | [音符时值](/wiki/Client/Beatmap_editor/Beat_snap_divisor)的分母。 |
+| `submitted` | 谱面制作或上传时间 |
+| `ranked` | 谱面上架或达标时间 |
 
 ## 搜索示例
 

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Good Kid"
 date: 2022-02-16 10:00:00 +0000
+series: featured_artists
 ---
 
 Indie rock band **Good Kid** climbs into our Featured Artist catalogue!

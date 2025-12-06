@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: August"
 date: 2020-08-08 11:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Curious how your circle placing prowess holds up? With August comes yet another heated beatmapping competition!

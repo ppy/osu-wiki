@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: March 2021"
 date: 2021-04-01 10:00:00 +0000
+series: project_loved
 ---
 
 It's that time of the month again! [Project Loved](https://osu.ppy.sh/community/forums/120) presents a new batch of Loved nominations, and it's up to you to decide whether or not they make it in!

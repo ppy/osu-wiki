@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
+---
+
 # Турнирный клиент osu!
 
 **Турнирный клиент** — официальное приложение, использующее [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) для отображения дополнительных сведений о турнире и наблюдении за его участниками в ходе трансляции.

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2022: Registrations now open!"
 date: 2022-02-10 10:00:00 +0000
+series: world_cups
 ---
 
 Drum enthusiasts rejoice, the osu!taiko World Cup returns for its twelfth instalment!

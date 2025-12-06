@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Dustvoxx"
 date: 2023-10-28 15:00:00 +0000
+series: featured_artists
 ---
 
 Dive into the bassy depths of our latest Featured Artist, **Dustvoxx**!

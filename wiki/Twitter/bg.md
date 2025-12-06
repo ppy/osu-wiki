@@ -12,7 +12,7 @@ osu! има няколко Twitter акаунта, всеки обслужващ
 | Аватар | Връзка | Описание |
 | :-: | :-: | :-- |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Известия с ниска активност относно уебсайт затруднения и [Bancho](/wiki/Bancho_(server)). |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Помощ за профили и/или обществени проблеми. Управлява се от [екип за поддръжка на профили](/wiki/People/Account_support_team). |
+| ![osu! support avatar](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | Помощ за профили и/или обществени проблеми. Управлява се от [екип за поддръжка на профили](/wiki/People/Account_support_team). |
 
 ## Общност
 

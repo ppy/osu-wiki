@@ -1,26 +1,30 @@
-# Quy định nội dung nhạc
+---
+no_native_review: true
+---
 
-Với nhiều thể loại nhạc khác nhau, hầu hết các bài hát/nhạc cover đều có thể sử dụng trong osu!, nhưng hãy cung cấp các bài nhạc không chứa những nội dung liên quan như :
+# Quy định nội dung bài hát
+
+Với một loạt các thể loại nhạc khác nhau có sẵn, hầu hết các bài hát sẽ được chấp nhận và sử dụng được trong osu!, nhưng hãy cung cấp các bài nhạc không chứa những nội dung liên quan như :
 
 - Liên quan nặng nề đến vấn đề chính trị
 - Phân biệt hoặc chia rẽ chủng tộc
-- Cực kỳ ồn ào và đến mức không thể chịu được 
+- Cực kỳ và quá to đến mức không thể chịu nổi
 - Đã được sửa đổi (chứa âm thanh đã bị cắt) hoặc móp méo (như chỉnh EQ tránh bản quyền) bài nhạc không theo mong muốn của tác giả
 
-Hãy lưu ý rằng các bài nhạc không phù hợp với trẻ em [sẽ phải tuân theo các quy định khác nhau](/wiki/Rules/Explicit_content).
+ Nhưng hãy lưu ý rằng các bài hát với nội dung chứa yếu tố không phù hợp [được điểu chỉnh bởi các quy định khác nhau](/wiki/Rules/Explicit_content).
 
-## Nội dung nào được phân loại là nội dung "mang tính chính trị nặng nề"?
+## Nội dung nào được xem là "chính trị nặng"?
 
-Vì lợi ích của việc giữ một trò chơi về nhịp điệu chỉ liên quan đến nhịp điệu một cách nghiêm khắc và phù hợp với [Quy tắc cộng đồng](/wiki/Rules#nội-quy-cộng-đồng) #3, các nội dung nhạc mà chính quyền cho là liên quan đến mặt chính trị một cách thái quá thì không được phép sử dụng.
+Vì lợi ích của việc giữ gìn một trò chơi về nhịp điệu hoàn toàn về nhịp điệu và vì tuân theo với [Quy tắc cộng đồng](/wiki/Rules#nội-quy-cộng-đồng) #3, nội dung bị xem là quá chính trị bởi chính quyền là không được phép.
 
-Chúng tôi không tuân thủ bất kỳ "chủ định" cụ thể nào liên quan đến phạm vi chính trị - osu! là nơi hoàn toàn phi chính trị và chúng tôi muốn mọi người vui vẻ cùng nhau, chứ không phải nơi để gây ra mối thù hằn hay cãi nhau về chính trị.
+Chúng tôi không tuân theo một cực chính trị cụ thể nào - osu! là nơi hoàn toàn phi chính trị và chúng tôi muốn để chính bản thân mọi người tận hưởng, chứ không phải bắt đầu mâu thuẫn hoặc cãi vã về chính trị.
 
-## Chuyện gì sẽ xảy ra nếu bản nhạc của tôi không ổn hoặc nằm trong diện bị cấm như đã nêu ở trên?
+## Điều gì xảy ra nếu bản nhạc của tôi không ổn?
 
-Bất kỳ beatmap nào có chứa nhạc được nêu như trên sẽ bị xóa khỏi website.
+Bất kỳ beatmap nào chứa đựng một bản nhạc không được phép sẽ bị xóa bỏ khỏi trang wed
 
-Mỗi lần khi bài nhạc của bạn đã bị từ chối và gỡ bỏ, bạn sẽ được giải thích lí do vì sao bởi các thành viên chủ trì của [Nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team)(NAT) hoặc [Nhóm kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team)(GMT) chịu trách nhiệm cho việc gỡ bỏ nó và sẽ đưa ra lí do biện minh cho việc đấy.
+Mỗi lần bài nộp của bạn bị xóa, bạn sẽ được được cung cấp một lời giải thích bởi thành viên điều hành của [Nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team)(NAT) hoặc [Nhóm kiểm duyệt toàn cầu](/wiki/People/Global_Moderation_Team)(GMT) chịu trách nhiệm về việc xóa bỏ cùng với lý do giải thích việc xóa bỏ đấy.
 
-Bạn có thể tranh luận với họ qua PM (chat riêng với họ) nếu bạn muốn, hoặc nghe ý kiến của những người khác để chứng minh được sự phù hợp của bài hát đấy. Nếu bạn vẫn không tìm được một điểm chung nào để đối đầu trong việc này, yêu cầu của bạn có thể sẽ bị đưa lên đến việc các thành viên của NAT phải bỏ phiếu nhất trí, để có được một quyết định chung xem được rằng bài nhạc của bạn có được chấp nhận hay không.
+Bạn có thể phản đối điều đó với họ qua chat riêng nếu bạn muốn, hoặc tìm ý kiến của người khác để làm cơ sở cho yêu cầu của bạn về tính phù hợp của bài nhạc. Nếu bạn vẫn không thể tìm được sự đồng thuận trong vấn đề này,yêu cầu của bạn có thể được nâng lên thành một cuộc bỏ phiếu đồng thuận giữa các thành viên hiện tại của NAT, người sẽ cùng nhau quyết định xem bài nhạc của bạn có chấp nhận được hay không.
 
-Ngoại trừ các bản nhạc hoặc nội dung tải lên không phù hợp đến mức nghiêm trọng, người dùng sẽ bị  **one submission leeway** trước khi hình phạt đưa ra do tính chất không chắc chắn của phán quyết này, sau khi "leeway" đã trôi qua, nếu người dùng vẫn tiếp tục lựa chọn tải lên các bài không phù hợp sẽ đối mặt với một khoảng thời gian [im lặng](/wiki/Silence) lên đến 42 giờ cùng với việc bài nhạc của họ bị gỡ 
+Không bao gồm những bài tải lên cực kỳ không phù hợp, tất cả các người dùng được trao một **ngoại lệ cho một lần gửi** trước khi các hình phạt được áp dụng vì tính không chắc chắn của quyết định này, sau khi ngoại lệ này đã trôi qua, những người dùng liên tục chọn tải lên những bài nhạc không phù hợp sẽ đối mặt với một khoảng thời gian [im lặng](/wiki/Help_centre/Silences) lên đến 43 giờ cùng với việc gỡ bỏ bài gửi của họ.

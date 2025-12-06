@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: P4koo"
 date: 2020-10-14 09:00:00 +0000
+series: featured_artists
 ---
 
 Rhythm game music veteran **P4koo** joins the lineup as our latest Featured Artist!

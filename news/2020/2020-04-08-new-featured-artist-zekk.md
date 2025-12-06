@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Zekk"
 date: 2020-04-08 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome EDM master **Zekk** aboard as our latest Featured Artist!

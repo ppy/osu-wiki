@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Xyris"
 date: 2024-08-10 21:00:00 +0000
+series: featured_artists
 ---
 
 Your ears have been desperately begging for one thing: **Xyris**, our newest Featured Artist!

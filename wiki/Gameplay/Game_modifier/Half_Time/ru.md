@@ -14,10 +14,11 @@ tags:
   - замедление времени
 ---
 
-# Half Time (мод)
+# Half Time
 
 ![Значок мода HT](/wiki/shared/mods/HT.png "Значок мода Half Time (HT)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Half Time (lazer)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

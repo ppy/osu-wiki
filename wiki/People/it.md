@@ -34,5 +34,5 @@ Pagina di indice per gli articoli su persone o gruppi.
 
 - [peppy](peppy)
 - [Log dello Staff](Staff_log)
-- [Gruppo di utenti](User_group)
+- [Gruppi di utenti](User_groups)
 - [Utenti con titoli unici](Users_with_unique_titles)

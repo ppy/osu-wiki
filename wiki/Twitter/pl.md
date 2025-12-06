@@ -12,7 +12,7 @@ osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje.
 | Awatar | Nazwa | Opis |
 | :-: | :-: | :-- |
 | ![Awatar konta osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Informacje o problemach ze stroną lub [Bancho](/wiki/Bancho_(server)). |
-| ![Awatar supportu osu!](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Pomoc w sprawach związanych ze społecznością osu! oraz kontami. Prowadzone przez [zespół wsparcia do spraw związanych z kontami](/wiki/People/Account_support_team). |
+| ![Awatar supportu osu!](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | Pomoc w sprawach związanych ze społecznością osu! oraz kontami. Prowadzone przez [zespół wsparcia do spraw związanych z kontami](/wiki/People/Account_support_team). |
 
 ## Społeczność
 

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: High Tea Music"
 date: 2018-08-13 12:00:00 +0000
+series: featured_artists
 ---
 
 With a massive selection of 49 liquid-bass tracks from nearly a dozen unique artists, we're proud to announce the latest addition to the Featured Artist roster - **High Tea Music**, complete with a pack of **6** introductory maps from the Mappers' Guild!

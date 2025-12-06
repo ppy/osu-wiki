@@ -8,6 +8,8 @@ tags:
   - 滑条头
   - 滑条体
   - 滑条锚点
+outdated_since: b8c04d75ee4f7a06b738c1fdbb36fe5ff0559ef7
+outdated_translation: true
 ---
 
 # 滑条

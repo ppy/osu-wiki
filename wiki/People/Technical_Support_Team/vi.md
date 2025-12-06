@@ -21,9 +21,9 @@ Nếu có ai cần hỗ trợ trong các diễn đàn trên, thành viên của 
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
+| ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Tiếng Italy |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
-| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Tiếng Đức |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tiếng Philippines |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Tiếng Ba Lan |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Tiếng Tây Ban Nha |

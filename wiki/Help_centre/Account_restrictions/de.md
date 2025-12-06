@@ -1,8 +1,3 @@
----
-outdated_since: a7829a7972d112aa1bc8799dd865ef3b5e80a630
-outdated_translation: true
----
-
 # Einschränkungen des Accounts
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
@@ -14,7 +9,7 @@ Wenn ein Account eingeschränkt wird, dann kann dieser nicht mit der Community i
 Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 
 - Möglichkeit zur Teilnahme an offiziellen Wettbewerben
-- Erlaubnis, an offiziell unterstützten Turnieren teilzunehmen und dort als Mitarbeiter tätig zu sein
+- Erlaubnis, an offiziell unterstützten Turnieren sowie Wettbewerben teilzunehmen und dort als Mitarbeiter tätig zu sein
 - Beitritt von Mehrspieler-Räumen
 - Chat im Spiel
 - Private Nachrichten
@@ -76,11 +71,11 @@ Wenn wir uns entscheiden, dich wieder zuzulassen, musst du einigen Bedingungen z
 - **Du solltest deinen Account nicht mit anderen Konten verknüpfen**, einschließlich das Spielen auf gemeinsam genutzten Computern.
 - **Jedes Fehlverhalten wird in einer sofortigen Einschränkung enden**. Dies beinhaltet schwerwiegende Stummschaltungen.
 
-Wieder zugelassene Spieler im Sinne der oben genannten Standardbedingungen sind ebenfalls von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
+Wieder zugelassene Spieler im Sinne der oben genannten Standardbedingungen sind ebenfalls von [offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen](/wiki/Help_centre/Tournament_bans), sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
 
-**Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
+**Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer unbefristeten Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann nach 2 Jahren eine Beschwerde eingelegt werden. Die Sperrung wird aber nur entfernt, wenn der Nutzer einen entscheidenden Aufwand in die Weiterentwicklung von Community-Turnieren steckt.
 
-Der Account einiger Spieler wird vereinzelt wieder eingeschränkt nachdem ihrer Beschwerde Recht gegeben wurde und sie mit dem Spielen begonnen haben. Das ist ein automatischer Prozess und wird generell nach 24 Stunden entfernt. Zögere nicht, Fragen auf Twitter via [@osusupport](https://twitter.com/osusupport) oder durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) zu stellen, falls dir das passiert!
+Der Account einiger Spieler wird vereinzelt wieder eingeschränkt, nachdem ihrer Beschwerde Recht gegeben wurde und sie mit dem Spielen begonnen haben. Das ist ein automatischer Prozess und wird generell nach 24 Stunden entfernt. Zögere nicht, Fragen auf Twitter via [@osusupport](https://twitter.com/osusupport) oder durch das Senden einer E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) zu stellen, falls dir das passiert!
 
 Manche Verstöße führen dazu, dass dein Account bei der Entsperrung zurückgesetzt wird. Das soll unrechtmäßige Scores, die von deinem Account aus **über alle Modi hinweg** eingereicht wurden, sowie erhaltene Medaillen und Profilauszeichnungen entfernen. **Die Spielanzahl und die Spielzeit werden nicht verändert.**
 
@@ -89,7 +84,7 @@ Manche Verstöße führen dazu, dass dein Account bei der Entsperrung zurückges
 Es gibt verschiedene Gründe, warum eine Beschwerde verweigert werden kann.
 
 - **Sie wurde zu früh gesendet.** Wenn die Auszeit für deinen Account noch nicht vorüber ist, dann wird deine Beschwerde abgelehnt. Sofern du unsicher bist, wann du die Beschwerde einreichen kannst, dann antworte bitte auf unsere Antwort - wir werden dir das richtige Datum mitteilen.
-- **Deine Beschwerde war unzureichend oder unvollständig.** Wenn deine Beschwerde nicht ausreichend die 4 oben genannten Punkte abdeckt, fordern wir eine Überarbeitung. Das setzt **nicht** unbedingt die Auszeit für deinen Account zurück und du darfst jederzeit deine neue Beschwerde einreichen! Jedoch wird deine Beschwerde wegen Unwahrheit abgelehnt und deine Auszeit auf mindestens **drei Monate** zurückgestellt, solltest du lügen oder Verstöße (hauptsächlich Multi-Accounting oder Cheaten) verstecken, die du begangen hast. Das ist eine weitere Chance für dich, deine Aktionen zu reflektieren und sicher zu stellen, dass du nichts vergessen hast.
+- **Deine Beschwerde war unzureichend oder unvollständig.** Wenn deine Beschwerde nicht ausreichend die 4 oben genannten Punkte abdeckt, fordern wir eine Überarbeitung. Das setzt **nicht** unbedingt die Auszeit für deinen Account zurück und du darfst jederzeit deine neue Beschwerde einreichen! Jedoch wird deine Beschwerde wegen Unwahrheit abgelehnt und deine Auszeit auf mindestens **drei Monate** zurückgestellt, solltest du lügen oder Verstöße (hauptsächlich Multi-Accounting oder Cheaten) verschweigen, die du begangen hast. Das ist eine weitere Chance für dich, deine Aktionen zu reflektieren und sicher zu stellen, dass du nichts vergessen hast.
 - **Du bist ausgewichen oder hast auf anderen Accounts gespielt.** Einen weiteren Account zu erstellen, um zu spielen, während dein Account eingeschränkt ist, wird als Versuch, die Einschränkung zu umgehen, gewertet und setzt die Auszeit auf mindestens **drei Monate** zurück, ausgehend von dem Erstelldatum des weiteren Accounts. Wenn du zu oft versuchst, die Einschränkung zu umgehen, dann wird deine Beschwerde möglicherweise dauerhaft verweigert. Wenn du noch während der Einschränkung deine Multi-Accounts nutzt, wird die Auszeit ebenfalls zurückgesetzt. Bedenke, dass Multi-Accounting gegen die [Regeln](/wiki/Rules) ist und erwartet wird, dass du nur auf deinem originalen Account spielst. Wenn du unsicher bist, welcher Account als dein originaler zählt, dann sende uns eine E-Mail und wir werden dich informieren!
 - **Du hast weitere Verstöße während einer Einschränkung begangen.** Es gibt keinen Grund, die Einschränkung für jemanden aufzuheben, der fortführend Regeln bricht, obwohl er bereits eingeschränkt wurde. Wenn du weiter Verstöße begehst, dann wird die Auszeit deines Accounts auf das Datum deines letzten Verstoßes zurückgesetzt. Im Falle von extremen oder weiterführenden Verstößen wird deine Beschwerde möglicherweise dauerhaft gesperrt.
 - **Deine Vorgeschichte ist zu schwerwiegend.** Bei extremen Verstößen oder bei Spielern, die nach einer erfolgreichen Beschwerde nochmal eingeschränkt werden, werden wir möglicherweise dein Verhalten als zu massiv einordnen, als dass du das Spiel zum momentanen Zeitpunkt spielen darfst. Sollte das auf dich zutreffen, empfehlen wir dir **eine lange Zeit** zu warten, bevor du eine weitere Beschwerde einreichst. Vergewissere dich, dass du in dieser Zeit keine weiteren Regeln brichst.

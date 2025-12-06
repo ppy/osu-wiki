@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #2 - Submissions Open!"
 date: 2013-10-28 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/65311349854/monthly-beatmapping-contest-2-submissions-open
+series: monthly_beatmapping_contest
 ---
 
 Calling all mappers! After a brief delay, the monthly beatmapping contest is back! Test your mettle against mappers from around the globe in creating the best beatmap you can to this month's theme - **Touhou**!

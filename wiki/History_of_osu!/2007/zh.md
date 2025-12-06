@@ -1,3 +1,8 @@
+---
+outdated_since: 27ab7c703108c7b0b5f066700718dcce34d68524
+outdated_translation: true
+---
+
 # osu! 2007大事记
 
 本文记载了 osu! 自其诞生以来的重大事件。感谢 [Sinistro](https://osu.ppy.sh/users/5530) 编写 2007 年至 2008 年部分的内容。

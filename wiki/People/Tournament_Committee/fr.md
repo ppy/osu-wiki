@@ -5,6 +5,8 @@ tags:
   - Contest Committee
   - CC
   - Comité des concours
+outdated_translation: true
+outdated_since: 89722a56c74c20810e1fa8b375de1042def7971e
 ---
 
 # Comité des tournois
@@ -21,7 +23,7 @@ Les responsabilités du comité des tournois consistent notamment à conseiller 
 En outre, le comité des tournois joue les rôles suivants, indépendamment de l'équipe d'assistance aux comptes :
 
 - Vérifier régulièrement que la page [support officielle aux tournois](/wiki/Tournaments/Official_support) est correctement mise à jour.
-- Enquêter sur les rapports du [formulaire de report des tournois](https://pif.ephemeral.ink/tournament-reports).
+- Enquêter sur les rapports du [formulaire de report des tournois](https://tcomm.hivie.tn/reports/create).
 - Vérifier si les tournois terminés qui demandent un support officiel répondent à ses critères.
 - Conseiller l'équipe de news d'osu! sur l'opportunité d'accorder un [support aux news](/wiki/Tournaments/Official_support#demande-de-soutien-pour-les-bannières-en-jeu-et-les-messages-d'information) pour les tournois.
 - Assurer la communication avec l'ensemble des joueurs en ce qui concerne les modifications des critères de support officiel et le statut de tous les tournois ayant fait l'objet d'une demande de support officiel.
@@ -63,7 +65,7 @@ Une fois qu'un tournoi s'est achevé et qu'il a demandé un prix sous forme de b
 
 Les membres assignés indiqueront les tournois qui ont passé le processus de vérification comme étant éligibles pour les badges. L'équipe de soutien aux comptes appliquera ultérieurement les badges aux profils des gagnants. Si un tournoi ne passe pas la procédure d'examen, les membres chargés de l'examen peuvent conseiller l'équipe d'assistance sur les changements à communiquer aux organisateurs du tournoi. Si ces changements ne sont pas possibles après la fin du tournoi, le comité du tournoi organisera un vote anonyme sur le retrait du soutien officiel.
 
-Les tournois peuvent être signalés pour des violations des critères officiels de soutien via le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports). Pour les tournois terminés qui ont envoyé un e-mail de soutien, le comité du tournoi prendra les mesures suivantes s'il y a des rapports exploitables :
+Les tournois peuvent être signalés pour des violations des critères officiels de soutien via le [formulaire de rapport de tournoi](https://tcomm.hivie.tn/reports/create). Pour les tournois terminés qui ont envoyé un e-mail de soutien, le comité du tournoi prendra les mesures suivantes s'il y a des rapports exploitables :
 
 - Déterminer si les problèmes soulevés dans les rapports sont contraires à l'un des critères officiels de soutien.
 - S'ils sont suffisamment graves pour justifier une action, il convient d'enquêter sur les événements décrits dans les rapports afin de s'assurer de leur validité et de recueillir des éléments de contexte supplémentaires.

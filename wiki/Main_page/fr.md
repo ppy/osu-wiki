@@ -1,6 +1,8 @@
 ---
 no_native_review: true
 layout: main_page
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
 ---
 
 <div class="wiki-main-page__blurb">
@@ -114,7 +116,7 @@ osu! n'aurait pas été possible sans la participation de nombreux utilisateurs 
 
 [L'équipe](/wiki/People/osu!_team) • [Développeurs](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Équipe de support technique](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Contributeurs de la communauté](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Groupe d'utilisateurs](/wiki/People/User_group) • [Utilisateurs avec des titres uniques](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee) • [Maintainers de l'osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Contributeurs de la communauté](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Groupes d'utilisateurs](/wiki/People/User_groups) • [Utilisateurs avec des titres uniques](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee) • [Maintainers de l'osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

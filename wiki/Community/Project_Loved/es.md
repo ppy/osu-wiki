@@ -8,16 +8,18 @@ Los beatmaps son promovidos a la categoría amados por un proceso de nominación
 
 Los miembros del Project Loved Team son llamados **capitanes** y nominan regularmente beatmaps para un modo de juego específico. Estos beatmaps casi siempre son sugeridos por la comunidad.
 
-Para sugerir un beatmap a la categoría Amados, puedes hacerlo desde la [página de envío de beatmaps](https://loved.sh/submit) de la página del Project Loved. Tu sugerencia será añadida a la lista de su respectivo modo de juego junto a las demás. A continuación se encuentran las listas donde se pueden ver estas sugerencias:
+Para sugerir un beatmap a la categoría amados, puedes hacerlo desde la [página de envío de beatmaps](https://loved.sh/submit) de la página del Project Loved. Tu sugerencia será añadida a la lista de su respectivo modo de juego junto a las demás. A continuación se encuentran las listas donde se pueden ver estas sugerencias:
 
 - [Sugerencias para osu!](https://loved.sh/submissions/osu)
 - [Sugerencias para osu!taiko](https://loved.sh/submissions/taiko)
 - [Sugerencias para osu!catch](https://loved.sh/submissions/fruits)
 - [Sugerencias para osu!mania](https://loved.sh/submissions/mania)
 
-Los beatmaps nominados se publican en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea Amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría Amados.
+Los beatmaps nominados se publican en el [foro Project Loved](https://osu.ppy.sh/community/forums/120), donde los miembros de la comunidad pueden votar si quieren que el beatmap sea amado o no. Los mapas que alcancen el 80 % de los votos «Sí» al final de las encuestas serán promovidos a la categoría amados.
 
-Los creadores de estos beatmaps pueden enviar una petición para eliminarlos de la categoría Amados a cualquier miembro del [Project Loved Team](https://osu.ppy.sh/groups/31) o escribiendo un mensaje en el canal `#osu-loved` del [servidor de Discord osu!](https://discord.gg/ppy). El proceso de eliminación tomará al menos una semana y su creador recibirá un mensaje de confirmación cuando se haya realizado.
+Los creadores de dichos mapas **no pueden** solicitar que se eliminen de la categoría amados. Además, las dificultades amadas no se pueden volver a usar directamente en los beatmaps clasificados.
+
+Los mapas pueden seguir siendo eliminados temporalmente de la categoría en caso de que se detecten problemas que afecten a la jugabilidad justo después de haber sido añadidos a amados. Estos problemas pueden reportarse poniéndose en contacto con un miembro del [Project Loved Team](https://osu.ppy.sh/groups/31) o publicándolos en el canal `#osu-loved` del [servidor de Discord osu!](https://discord.gg/ppy).
 
 ## Eligibilidad
 
@@ -77,14 +79,14 @@ Para cualquier consulta sobre qué va en cada categoría, contacta a un [capitá
 
 **Las pautas pueden ignorarse en circunstancias excepcionales.** Estas circunstancias excepcionales deben justificarse mediante una explicación exhaustiva de por qué se ha ignorado la pauta y por qué no ignorarla interferirá con la calidad general de la creación.
 
-- **Todas las reglas y pautas de los criterios de clasificación que no han sido explícitamente mencionadas aquí se consideran pautas.** La aplicación de estas ocurre dependiendo del caso durante el proceso de nominación a Amados, por lo que el creador será contactado en caso de cualquier cambio requerido. Ten en cuenta que contar con dificultades para cada nivel no es necesario, excepto en la categoría de *Ranked Rejects*.
-- **Los metadatos del beatmap deben ser tan precisos como sea posible.** Los beatmaps que son nominados a Amados pasan por una comprobación final por parte de miembros especializados de la comunidad. Tener unos metadatos correctos ayuda a encontrar el beatmap fácilmente. Ante cualquier duda, contacta a un capitán de Project Loved.
+- **Todas las reglas y pautas de los criterios de clasificación que no han sido explícitamente mencionadas aquí se consideran pautas.** La aplicación de estas ocurre dependiendo del caso durante el proceso de nominación a amados, por lo que el creador será contactado en caso de cualquier cambio requerido. Ten en cuenta que contar con dificultades para cada nivel no es necesario, excepto en la categoría de *Ranked Rejects*.
+- **Los metadatos del beatmap deben ser tan precisos como sea posible.** Los beatmaps que son nominados a amados pasan por una comprobación final por parte de miembros especializados de la comunidad. Tener unos metadatos correctos ayuda a encontrar el beatmap fácilmente. Ante cualquier duda, contacta a un capitán de Project Loved.
 - **Los puntos de tiempo no heredados deben ser iguales en todas las dificultades de un mapa.** Esto se puede ignorar en el caso de ciertas mecánicas de juego que involucran cambiar los BPM, velocidad del slider u otros factores que no son relevantes en todas las dificultades.
 - **Todas las dificultades del beatmap deben estar terminadas.** Esto significa completar de principio a fin la canción, excluyendo secciones irrelevantes como intros u outros. Por ejemplo, en una canción de 5 minutos con múltiples dificultades, si las dificultades Hard y Extra duran 4:30, la dificultad Insane no puede durar solo 1 minuto. Si todas las dificultades tienen una gran porción de la cancion sin mapear, el archivo de audio debe ser recortado de manera acorde.
 
 #### Prioridad de nominación
 
-No hay reglas estrictas que establezcan que mapas debe nominar un capitán, pero de manera general los mapas nominados suelen ser conocidos y apreciados por la comunidad (tal y como el título «Amado» implica). Algunas veces un beatmap puede ser preferido por el capitán si es significativamente más antiguo que otros o contiene dificultades con estilos únicos o de alta calidad.
+No hay reglas estrictas que establezcan que mapas debe nominar un capitán, pero de manera general los mapas nominados suelen ser conocidos y apreciados por la comunidad (tal y como el título «amado» implica). Algunas veces un beatmap puede ser preferido por el capitán si es significativamente más antiguo que otros o contiene dificultades con estilos únicos o de alta calidad.
 
 ## Más información
 

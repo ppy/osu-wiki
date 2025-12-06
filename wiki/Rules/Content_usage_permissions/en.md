@@ -301,7 +301,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/140) | [ovEnola](https://osu.ppy.sh/beatmaps/artists/140) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/106) | [P4koo](https://osu.ppy.sh/beatmaps/artists/106) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/55) | [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) | ![][true] |
-|  | PanPanPanic | ![][true] |
+|  | [PanPanPanic](https://www.youtube.com/channel/UCGrEYs4BHutJSqE5fR8WY1g) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/366) | [passchooo](https://osu.ppy.sh/beatmaps/artists/366) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/287) | [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) | ![][true] [^monstercat-gold] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/129) | [Phantom Sage](https://osu.ppy.sh/beatmaps/artists/129) | ![][true] |
@@ -314,6 +314,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/242) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/247) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/270) | [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) | ![][true] [^monstercat-gold] |
+|  | [realjoschi64xd](https://realjoschi64xd.newgrounds.com/) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/91) | [Receptor](https://osu.ppy.sh/beatmaps/artists/91) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/184) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/199) | [rejection](https://osu.ppy.sh/beatmaps/artists/199) | ![][true] |
@@ -392,7 +393,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/149) | [URBANGARDE](https://osu.ppy.sh/beatmaps/artists/149) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/248) | [USAO](https://osu.ppy.sh/beatmaps/artists/248) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/232) | [Vansire](https://osu.ppy.sh/beatmaps/artists/232) | ![][true] |
-|  | veexie | ![][true] |
+|  | [VEEXIE](https://www.youtube.com/@veexie/videos) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/158) | [Vektor](https://osu.ppy.sh/beatmaps/artists/158) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/71) | [Venetian Snares](https://osu.ppy.sh/beatmaps/artists/71) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/22) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) | ![][true] |
@@ -422,12 +423,18 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 #### Allowed, with exceptions
 
+This section was last updated on September 1, 2025.
+
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contact before uploading. Can be reached via [email](mailto:hisaweb_info@yahoo.co.jp) or [Bandcamp](https://a-hisa.bandcamp.com/). |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+|  | Igorrr | ![][partial] | Only collaborative tracks on [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370)'s Featured Artist listing may be used. Do not use or upload any other tracks. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Do not use the track titled "execution_program". |
+|  | MEGAREX (music label) | ![][partial] | Only tracks on relevant artists' Featured Artist listings may be used. Do not use or upload any other tracks. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
@@ -439,15 +446,13 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | Artist | Status |
 | :-- | :-- |
 | 40mP | ![][false] |
-| ak+q | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## Visual

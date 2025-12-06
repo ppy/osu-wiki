@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: BLANKFIELD"
 date: 2020-05-06 04:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **BLANKFIELD** aboard as our latest Featured Artist!

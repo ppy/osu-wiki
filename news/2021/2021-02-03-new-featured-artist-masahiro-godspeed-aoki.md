@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Masahiro \"Godspeed\" Aoki"
 date: 2021-02-03 09:15:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome guitarist extraordinaire **Masahiro "Godspeed" Aoki** aboard as our latest Featured Artist!

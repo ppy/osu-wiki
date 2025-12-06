@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fa3387c9293eb8dd25ea9216e8f13fcd8a33c574
+---
+
 # BN 考试
 
 **BN 考试** 能帮助[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 成员评估想要申请加入[谱面审核团队 (*BN*)](/wiki/People/Beatmap_Nominators) 的玩家。

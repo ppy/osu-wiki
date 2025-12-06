@@ -139,7 +139,7 @@ Es gibt insgesamt 7 Status, die mit dem Befehl `!stats` angezeigt werden können
 
 ### Report
 
-*Für Informationen darüber, was es wert ist, zu melden, siehe: [Melden von schlechtem Verhalten](/wiki/Reporting_bad_behaviour).*
+*Für Informationen darüber, was gemeldet werden soll, siehe: [Schlechtes Verhalten melden](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <Benutzer> <Grund>

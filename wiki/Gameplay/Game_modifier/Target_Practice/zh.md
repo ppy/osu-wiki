@@ -16,6 +16,7 @@ tags:
 
 ![TP 模组图标](/wiki/shared/mods/TP.png "Target Practice (TP) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Target Practice（lazer 模组）](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*\
 *注意：只能在`测试版 (Cutting Edge)`中使用此模组。*
 

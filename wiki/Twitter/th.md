@@ -14,7 +14,7 @@ osu! มีบัญชีทวิตเตอร์หลายบัญชี
 | รูปโปรไฟล์ | ชื่อ | คำบรรยาย |
 | :-: | :-: | :-- |
 | ![รูปโปรไฟล์ osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | แจ้งเตือนเรื่องปัญหาเกี่ยวกับเว็ปไซต์และ [Bancho](/wiki/Bancho_(server)) |
-| ![รูปโปรไฟล์ osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | ช่วยเหลือเรื่องปัญหาเกี่ยวกับบัญชีหรือชุมชน ดูแลโดย [ทีมช่วยเหลือเรื่องบัญชี](/wiki/People/Account_support_team) |
+| ![รูปโปรไฟล์ osu! support](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | ช่วยเหลือเรื่องปัญหาเกี่ยวกับบัญชีหรือชุมชน ดูแลโดย [ทีมช่วยเหลือเรื่องบัญชี](/wiki/People/Account_support_team) |
 
 ## ชุมชน
 

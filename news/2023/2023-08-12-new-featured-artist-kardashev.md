@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kardashev"
 date: 2023-08-12 13:00:00 +0000
+series: featured_artists
 ---
 
 Your fingers quiver as **Kardashev** engulfs our Featured Artist library.

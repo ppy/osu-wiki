@@ -13,7 +13,7 @@ osu! 有數個 Twitter 帳號，分別提供不同的功能。大部分的流量
 | 頭像 | 帳號名稱 | 說明 |
 | :-: | :-: | :-- |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | 在網站或 [Bancho](/wiki/Bancho_(server)) 發生問題時，傳送低流量通知。 |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | 協助帳號和/或社群問題。 由[帳號支援團隊](/wiki/People/Account_support_team)經營。 |
+| ![osu! support avatar](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | 協助帳號和/或社群問題。 由[帳號支援團隊](/wiki/People/Account_support_team)經營。 |
 
 ## 社群
 

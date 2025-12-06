@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MisomyL"
 date: 2022-02-26 09:00:00 +0000
+series: featured_artists
 ---
 
 **MisomyL** adds osu! to their list of rhythm game appearances as our latest Featured Artist!

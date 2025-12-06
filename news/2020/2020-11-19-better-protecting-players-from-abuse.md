@@ -2,6 +2,7 @@
 layout: post
 title: Better protecting players from abuse
 date: 2020-11-19 09:00:00 +0000
+series: miscellaneous
 ---
 
 Hi everyone, peppy here. We are making some minor changes to the terms of service, so let me explain our motivation and reasoning behind them.

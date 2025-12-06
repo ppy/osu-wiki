@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
+---
+
 # 社区
 
 本页列出了来自世界各地的 osu! 玩家互相联系的方式。如果您想要做出贡献，却不知如何开始，请务必阅读[如何协助](/wiki/Community/How_you_can_help!)。
@@ -9,6 +14,7 @@
 - [互联网中继聊天](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 - [线下组织](/wiki/Community/Organisations)
+- [Reddit](/wiki/Community/Reddit)
 
 ## 项目
 

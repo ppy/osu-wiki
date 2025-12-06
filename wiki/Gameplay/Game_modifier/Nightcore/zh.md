@@ -13,6 +13,7 @@ tags:
 
 ![NC 模组图标](/wiki/shared/mods/NC.png "Nightcore (NC) 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[Nightcore（lazer 模组）](/wiki/Gameplay/Game_modifier/Nightcore_(lazer))*\
 *请勿与 [Nightcore（流派）](https://baike.baidu.com/item/Nightcore/3772978)混淆。*\
 *另见：[NC（消歧义）](/wiki/Disambiguation/NC)、[Double Time（模组）](/wiki/Gameplay/Game_modifier/Double_Time)*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*

@@ -13,6 +13,7 @@ no_native_review: true
 
 ![HR Modysmbol](/wiki/shared/mods/HR.png "Hard Rock (HR) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Hard Rock (lazer-Mod)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht

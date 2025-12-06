@@ -95,6 +95,7 @@ osu! offers more relaxed limits on various online features to supporters:
 | Value | Regular limit | osu!supporter limit |
 | :-- | :-: | :-: |
 | [Pending beatmaps](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(ranked beatmaps, 4)`, up to **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, up to **20**[^pending-beatmaps-ref] |
+| Team size | 8 | `8 + 4 * supporters in the team` up to **256** |
 | Online beatmap favourites | 100 | 1000 |
 | Friend count | 500 | 1000 |
 

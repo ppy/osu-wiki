@@ -16,13 +16,27 @@ Estos nombres de dificultad son los más usados para cada modo de juego.
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
+#### Alternativas
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Por debajo de Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Entre Normal y Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Entre Hard e Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternativa para Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Por encima de Expert
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
+
+#### Alternativas
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Por debajo de Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: Alternativa para Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Por encima de Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -32,6 +46,10 @@ Estos nombres de dificultad son los más usados para cada modo de juego.
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### Alternativas
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Por encima de Overdose
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -40,20 +58,9 @@ Estos nombres de dificultad son los más usados para cada modo de juego.
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-### Alternativas aceptadas
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: Por debajo de Easy
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: Por debajo de Kantan
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: Entre un Normal y un Hard
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: Entre un Hard y un Insane
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Alternativa para Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Por encima de Expert
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Por encima de Inner Oni / Ura Oni
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Por encima de Overdose
-
 ## Nombramiento de dificultades de otros juegos
 
-Los mapas de canciones procedentes de otros juegos de ritmo suelen tomar prestado el esquema de nombramiento de dificultades de esos juegos. El uso de estos nombres de dificultad es aceptable para cualquier canción. Algunos de los esquemas de nombramiento más comunes usados en osu! se enumeran a continuación:
+Los mapas de canciones procedentes de otros juegos suelen tomar prestado el esquema de nombramiento de dificultades de esos juegos. El uso de estos nombres de dificultad es aceptable para cualquier canción. Algunos de los esquemas de nombramiento más comunes usados en osu! se enumeran a continuación:
 
 ### Beatmania IIDX
 
@@ -133,6 +140,7 @@ Los mapas de canciones procedentes de otros juegos de ritmo suelen tomar prestad
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea

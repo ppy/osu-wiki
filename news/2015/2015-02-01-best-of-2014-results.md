@@ -3,6 +3,7 @@ layout: post
 title: Best of 2014 - Results
 date: 2015-02-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/109804193683/best-of-2014-results
+series: official_contests
 ---
 
 We compiled the results for the Best of 2014 votings for you and want to share **[the results](https://docs.google.com/spreadsheets/d/1sBXywupY_p9uCEct2degXyK6SORBD5xWsJcpykqZ-lQ/edit#gid=1485307298)** with everyone.

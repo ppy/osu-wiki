@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 8f65b60a8fc0a367c35056db05e590d987067540
+---
+
 # osu!catch (mode de jeu)
 
 ![Gameplay d'osu!catch](/wiki/shared/catch-gameplay.jpg "Interface d'osu!catch")

@@ -76,7 +76,7 @@ Le beatmap che sono state classificate nello stesso mese o che condividono lo st
 Esistono anche fonti secondarie di beatmap, che non sono **né controllate né gestite dal team di osu!**. Tuttavia, sono disponibili sui forum e apprezzate dalla comunità. Tali fonti includono:
 
 - mirror di beatmap di terze parti ospitati su una piattaforma;
-- pacchetti e compilation creati dai giocatori e condivisi tramite [reti p2p](https://en.wikipedia.org/wiki/Peer-to-peer), come BitTorrent.
+- pacchetti e compilation creati dai giocatori e condivisi tramite [reti p2p](https://it.wikipedia.org/wiki/Peer-to-peer), come BitTorrent.
 
 ## Beatmap e community
 

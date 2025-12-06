@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Akiri"
 date: 2024-02-11 18:30:00 +0000
+series: featured_artists
 ---
 
 **Akiri** makes their debut as our latest Featured Artist!

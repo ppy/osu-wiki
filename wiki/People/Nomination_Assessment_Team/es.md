@@ -6,11 +6,11 @@ tags:
 
 # Nomination Assessment Team
 
-*Véase también: [Evaluaciones de Beatmap Nominator](Evaluations)*
+*Véase también: [Evaluaciones de los Beatmap Nominators](Evaluations), [Calificación SEV](SEV_rating)*
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza que el lado del beatmapping de osu! se mantenga funcional.
 
-Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_group) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
+Los miembros del NAT se distinguen por su título de usuario rojo anaranjado, la insignia del [grupo de usuarios](/wiki/People/User_groups) que dice `NAT` y su nombre de usuario rojo en el juego. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en los beatmaps, como los [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
 
 **Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_code_of_conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
@@ -39,8 +39,8 @@ Los miembros del NAT asignados a la categoría estructural no son responsables d
 - **Moderación**: Manejar los reportes de los usuarios y evaluar la conducta inapropiada de los Beatmap Nominators, así como procesar las revisiones de contenido de los beatmaps. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Mantenimiento misceláneo**: Incluye pero no se limita a:
   - Gestionar los [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Mantener el [subforo Beatmap Management](https://osu.ppy.sh/community/forums/115).
-  - Juzgar el impacto de los restablecimientos de nominaciones.[^impact-rating]
+  - Mantener los subforos de [Ranking Criteria](https://osu.ppy.sh/community/forums/87) y [Beatmap Management](https://osu.ppy.sh/community/forums/115).
+  - Juzgar la [severidad](SEV_rating) de los restablecimientos de las nominaciones.
 
 Los miembros del NAT que se ocupan principalmente de esta categoría se aseguran de que los BN y otros miembros de la comunidad de mapping/modding permanezcan informados y se sientan escuchados, además de mantener los componentes necesarios para que todo siga funcionando en la escena del mapping/modding. Los usuarios que pertenecen a esta categoría están formados por miembros del NAT experimentados que prefieren centrarse en asuntos de gestión relacionados con la escena del mapping/modding.
 
@@ -66,9 +66,9 @@ Los miembros del NAT reciben los siguientes beneficios:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Una etiqueta de osu!supporter que dura lo que dure su membresía en el equipo.
 - **Insignia de tenencia**: Una [insignia de perfil](/wiki/Community/Profile_badge) que muestra la cantidad de años que lleva en el NAT.
-  ![Insignia de 1 año en el NAT](https://assets.ppy.sh/profile-badges/NAT1y.png "Insignia de 1 año en el NAT") ![Insignia de 2 años en el NAT](https://assets.ppy.sh/profile-badges/NAT2y.png "Insignia de 2 años en el NAT") ![Insignia de 3 años en el NAT](https://assets.ppy.sh/profile-badges/NAT3y.png "Insignia de 3 años en el NAT") ![Insignia de 4 años en el NAT](https://assets.ppy.sh/profile-badges/NAT4y.png "Insignia de 4 años en el NAT") ![Insignia de 5 años en el NAT](https://assets.ppy.sh/profile-badges/NAT5y.png "Insignia de 5 años en el NAT") ![Insignia de 6 años en el NAT](https://assets.ppy.sh/profile-badges/NAT6y.png "Insignia de 6 años en el NAT") ![Insignia de 7 años en el NAT](https://assets.ppy.sh/profile-badges/NAT7y.png "Insignia de 7 años en el NAT") ![Insignia de 8 años en el NAT](https://assets.ppy.sh/profile-badges/NAT8y.png "Insignia de 8 años en el NAT") ![Insignia de 9 años en el NAT](https://assets.ppy.sh/profile-badges/NAT9y.png "Insignia de 9 años en el NAT") ![Insignia de 10 años en el NAT](https://assets.ppy.sh/profile-badges/NAT10y.png "Insignia de 10 años en el NAT")
+  ![Insignia de 1 año en el NAT](https://assets.ppy.sh/profile-badges/NAT1y.png?20250916 "Insignia de 1 año en el NAT") ![Insignia de 2 años en el NAT](https://assets.ppy.sh/profile-badges/NAT2y.png?20250916 "Insignia de 2 años en el NAT") ![Insignia de 3 años en el NAT](https://assets.ppy.sh/profile-badges/NAT3y.png?20250916 "Insignia de 3 años en el NAT") ![Insignia de 4 años en el NAT](https://assets.ppy.sh/profile-badges/NAT4y.png?20250916 "Insignia de 4 años en el NAT") ![Insignia de 5 años en el NAT](https://assets.ppy.sh/profile-badges/NAT5y.png?20250916 "Insignia de 5 años en el NAT") ![Insignia de 6 años en el NAT](https://assets.ppy.sh/profile-badges/NAT6y.png?20250916 "Insignia de 6 años en el NAT") ![Insignia de 7 años en el NAT](https://assets.ppy.sh/profile-badges/NAT7y.png?20250916 "Insignia de 7 años en el NAT") ![Insignia de 8 años en el NAT](https://assets.ppy.sh/profile-badges/NAT8y.png?20250916 "Insignia de 8 años en el NAT") ![Insignia de 9 años en el NAT](https://assets.ppy.sh/profile-badges/NAT9y.png?20250916 "Insignia de 9 años en el NAT") ![Insignia de 10 años en el NAT](https://assets.ppy.sh/profile-badges/NAT10y.png?20250916 "Insignia de 10 años en el NAT") ![Insignia de 11 años en el NAT](https://assets.ppy.sh/profile-badges/NAT11y.png?20250916 "Insignia de 11 años en el NAT") ![Insignia de 12 años en el NAT](https://assets.ppy.sh/profile-badges/NAT12y.png?20250916 "Insignia de 12 años en el NAT") ![Insignia de 13 años en el NAT](https://assets.ppy.sh/profile-badges/NAT13y.png?20250916 "Insignia de 13 años en el NAT") ![Insignia de 14 años en el NAT](https://assets.ppy.sh/profile-badges/NAT14y.png?20250916 "Insignia de 14 años en el NAT")
 - **Insignia de recuento de [nominaciones](/wiki/Beatmap_ranking_procedure#nominations)**: Una insignia de perfil que se otorga al alcanzar ciertos hitos en el recuento de nominaciones.
-  ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
+  ![Insignia de 100 nominaciones](https://assets.ppy.sh/profile-badges/100_noms.png "Insignia de 100 nominaciones") ![Insignia de 200 nominaciones](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Insignia de 200 nominaciones") ![Insignia de 400 nominaciones](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Insignia de 400 nominaciones") ![Insignia de 600 nominaciones](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Insignia de 600 nominaciones") ![Insignia de 800 nominaciones](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Insignia de 800 nominaciones") ![Insignia de 1000 nominaciones](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Insignia de 1000 nominaciones") ![Insignia de 1500 nominaciones](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Insignia de 1500 nominaciones") ![Insignia de 2000 nominaciones](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Insignia de 2000 nominaciones")
 - **Elegibilidad para [Elite Nominator](/wiki/People/Elite_Nominators)**: Los miembros del NAT que se desempeñen excepcionalmente como nominadores son elegibles para recibir el estatus anual de Nominador Elite.
 
 ## Promoción al NAT
@@ -89,7 +89,7 @@ Antes de realizar dicha adición, se comprueba la validez de la misma con el res
 
 ## Salida del NAT
 
-Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los siguientes beneficios según las circunstancias:
+Una vez que un miembro del NAT decide dejar el equipo de forma amistosa, se le pueden otorgar los siguientes beneficios según las circunstancias:
 
 - **Título de usuario [osu! Alumni](/wiki/People/osu!_Alumni)**: Se otorga a miembros que formaron parte del equipo durante al menos 1 año, o que hayan realizado contribuciones significativas dentro del equipo durante un período de tiempo más corto.
 - **osu!supporter**: Los miembros recibirán una etiqueta osu!supporter que durará el doble del tiempo que pasaron en el NAT, con las mismas condiciones que los osu! Alumni.
@@ -98,11 +98,7 @@ Una vez que un miembro del NAT decide dejar el equipo, se le pueden otorgar los 
 Los antiguos miembros del NAT que actualmente tienen acceso interno son:
 
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
-- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
 - ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926)
 
@@ -135,19 +131,20 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | Sueco |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italiano |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finés |
+| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Sueco |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tailandés |
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
-| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finés |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Coreano |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chino |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
-| ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Rumano |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Ruso |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Alemán |
 
 #### osu!taiko
 
@@ -163,19 +160,20 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
-| ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
 
 #### osu!mania
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
+| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Italiano |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, francés |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalán, español |
 
 ### Estructural
@@ -185,26 +183,17 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | Usuario | Tarea |
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Mantenimiento de [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Mantenimiento de los criterios de clasificación |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del programa BN Mentorship |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Representante interno del NAT en el modo de juego osu![^internal-representatives] |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Representante interno del NAT en el modo de juego osu![^internal-representatives], procesamiento del impacto[^impact-rating] de los restablecimientos de las nominaciones en el modo de juego osu! |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Procesamiento del impacto[^impact-rating] de los restablecimientos de las nominaciones en el modo de juego osu! |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
 Además, el bot del [Nomination Assessment Team](https://osu.ppy.sh/users/6616586) actúa como un proxy para que el NAT entregue mensajes de forma colectiva bajo una cuenta de usuario sin atribuirlo directamente a nadie. Puede ser usado para respuestas de evaluación, evaluaciones simuladas, mediaciones, reportes y revisiones de contenido, entre otros fines diversos.
-
-## Notas
-
-[^internal-representatives]: Los representantes internos ayudan al líder del NAT a supervisar su respectivo modo de juego mediante controles de actividad y haciendo que las cosas funcionen dentro del equipo.
-[^impact-rating]: Este proceso implica verificar cada restablecimiento de nominaciones y asignarle una etiqueta de «menor», «notable» o «severo» para referencia futura en las evaluaciones.

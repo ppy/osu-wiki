@@ -1,8 +1,3 @@
----
-outdated_since: 9fe0e410e3ffd72e438c647c06e7ac1f606896a8
-outdated_translation: true
----
-
 # osu!mania
 
 ![osu!mania 游玩](/wiki/shared/mania-gameplay.jpg "osu!mania 的界面")
@@ -15,7 +10,7 @@ osu!mania 一定程度上与 [osu!taiko](/wiki/Game_mode/osu!taiko) 相似，但
 
 ### 选歌页面
 
-同时按下 `Ctrl`+`4` 转到 osu!mania 游戏模式。
+按下 `Ctrl`+`4` 转到 osu!mania 游戏模式。
 
 也可以点击 `Mode` 按钮并选择 `osu!mania`。
 
@@ -86,6 +81,8 @@ osu!mania 一定程度上与 [osu!taiko](/wiki/Game_mode/osu!taiko) 相似，但
 ## 玩法
 
 *参见[玩法页面的 osu!mania 小节](/wiki/Gameplay/Play_style#osu!mania)。*
+
+*另见：[osu!mania 10K+ 玩法](/wiki/Beatmapping/osu!mania_10K_plus_playstyles)*
 
 ## 控制
 

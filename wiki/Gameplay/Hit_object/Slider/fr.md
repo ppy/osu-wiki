@@ -5,13 +5,16 @@ tags:
   - sliderbody
   - slideranchor
   - objets
+no_native_review: true
 ---
 
 # Slider
 
-Un *slider* est un [objet](/wiki/Gameplay/Hit_object) dans le mode de jeu [osu!](/wiki/Game_mode/osu!), qui consiste en un sliderhead, un sliderbody et une slidertail. Une fois que le cercle d'approche atteint le sliderhead, comme avec les [cercles](/wiki/Gameplay/Hit_object/Hit_circle), le joueur doit cliquer/taper sur le début du slider, puis, en maintenant le bouton enfoncé, suivre une boule mobile (appelée slider ball) le long du chemin jusqu'à ce que la slidertail soit atteinte. S'il y a une flèche inversée, le joueur doit suivre la slider ball sur le même chemin. Les sliders avec des flèches inversées sont appelés [reverse sliders](/wiki/Gameplay/Hit_object/Slider/Reverse_slider). La vitesse d'un slider est définie par la [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) et le multiplicateur de slider velocity de la section de timing en cours.
+Un *slider* est un [objet](/wiki/Gameplay/Hit_object) dans le mode de jeu [osu!](/wiki/Game_mode/osu!), qui consiste en un [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead), un [sliderbody](/wiki/Gameplay/Hit_object/Slider/Sliderbody) et une [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail). Une fois que le [cercle d'approche](/wiki/Gameplay/Hit_object/Approach_circle) atteint le sliderhead, comme avec les [cercles](/wiki/Gameplay/Hit_object/Hit_circle), le joueur doit cliquer/taper sur le début du slider, puis, en maintenant le bouton enfoncé, suivre une boule mobile (appelée slider ball) le long du chemin jusqu'à ce que la slidertail soit atteinte. S'il y a une flèche inversée, le joueur doit suivre la slider ball sur le même chemin. Les sliders avec des flèches inversées sont appelés [reverse sliders](/wiki/Gameplay/Hit_object/Slider/Reverse_slider). La vitesse d'un slider est définie par la [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) et le multiplicateur de slider velocity de la section de timing en cours.
 
-Les slider ticks sont de petits cercles qui apparaissent à intervalles réguliers le long du sliderbody. Le joueur ne parvient pas à dégager complètement un slider si le curseur se trouve en dehors de la portée de la slider ball (définie par le cercle autour de la boule) ou si le bouton de la souris n'est pas enfoncé alors que le slider ball passe au-dessus d'un slider tick. Le fait d'être en dehors de la portée de la slider ball ou de ne pas appuyer sur le bouton à tout autre moment n'entraînera aucune pénalité (bien que cela ne soit pas conseillé car cela pourrait facilement entraîner un sliderbreak). Le fait de passer au-dessus d'une slidertail ou d'un slider tick donne une petite augmentation de santé, généralement juste assez pour maintenir la barre de santé où elle est.
+![Sliders](/wiki/shared/osu_slider.jpg "osu! slider")
+
+Les [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) sont de petits cercles qui apparaissent à intervalles réguliers le long du sliderbody. Le joueur ne parvient pas à dégager complètement un slider si le curseur se trouve en dehors de la portée de la slider ball (définie par le cercle autour de la boule) ou si le bouton de la souris n'est pas enfoncé alors que le slider ball passe au-dessus d'un slider tick. Le fait d'être en dehors de la portée de la slider ball ou de ne pas appuyer sur le bouton à tout autre moment n'entraînera aucune pénalité (bien que cela ne soit pas conseillé car cela pourrait facilement entraîner un sliderbreak). Le fait de passer au-dessus d'une slidertail ou d'un slider tick donne une petite augmentation de santé, généralement juste assez pour maintenir la barre de santé où elle est.
 
 ## Éditeur
 

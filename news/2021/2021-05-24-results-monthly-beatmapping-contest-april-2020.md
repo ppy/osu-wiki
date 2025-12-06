@@ -2,6 +2,7 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: April 2021"
 date: 2021-05-24 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 See what osu!'s coolest mappers have conjured up and say hello to our newest Elite Mapper!

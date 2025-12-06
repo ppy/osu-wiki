@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2017 Fanart Contest
 date: 2017-10-09 06:00:00 +0000
+series: fanart_contests
 ---
 
 Spooks, chills, and thrills abound! Halloween is drawing close again, and you know what that means - a fanart contest! Two hectic weeks to pen any of the osu! mascots (or community mascots) in a delightfully spooky Halloween setting, for a chance at getting your work added to the game as a seasonal background!

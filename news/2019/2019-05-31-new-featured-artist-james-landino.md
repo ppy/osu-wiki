@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: James Landino"
 date: 2019-05-31 08:00:00 +0000
+series: featured_artists
 ---
 
 [**James Landino**](https://osu.ppy.sh/beatmaps/artists/39) of rhythm gaming fame joins the lineup as osu!'s latest Featured Artist with **6** brand new tracks, made especially for use in osu!. And as an added bonus, three fully storyboarded beatmap creations from the Mappers' Guild are available for play right now!

@@ -3,6 +3,7 @@ layout: post
 title: osu!mania 4K World Cup 2017 - Registrations now open!
 date: 2017-07-10 12:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162818010978/osumania-4k-world-cup-2017-registrations-now-open
+series: world_cups
 ---
 
 It is time again for this year's official osu!mania 4K World Cup. As in every year, the rules have been adjusted from the previous MWC 4K, so please **[read them carefully](/wiki/Tournaments/MWC/2017_4K)** before registering for this tournament.

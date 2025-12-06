@@ -3,6 +3,7 @@ layout: post
 title: October 2016 Ranking Charts
 date: 2016-12-01 22:33:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/153921090753/october-2016-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for October 2016 have been just released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1610)!

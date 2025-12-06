@@ -23,6 +23,7 @@ tags:
 
 ![1K 模组图标](/wiki/shared/mods/1K.png "1K 模组图标") ![2K 模组图标](/wiki/shared/mods/2K.png "2K 模组图标") ![3K 模组图标](/wiki/shared/mods/3K.png "3K 模组图标") ![4K 模组图标](/wiki/shared/mods/4K.png "4K 模组图标") ![5K 模组图标](/wiki/shared/mods/5K.png "5K 模组图标") ![6K 模组图标](/wiki/shared/mods/6K.png "6K 模组图标") ![7K 模组图标](/wiki/shared/mods/7K.png "7K 模组图标") ![8K 模组图标](/wiki/shared/mods/8K.png "8K 模组图标") ![9K 模组图标](/wiki/shared/mods/9K.png "9K 模组图标")
 
+*对于本文章的 [lazer](/wiki/Client/Release_stream/Lazer) 版本，参见：[按键模组（lazer 模组）](/wiki/Gameplay/Game_modifier/Key_mods_(lazer))*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于

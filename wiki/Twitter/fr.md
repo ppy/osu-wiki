@@ -11,7 +11,7 @@ osu! possède plusieurs comptes Twitter, ayant chacun des objectifs spécifiques
 | Avatar | Compte | Description |
 | :-: | :-: | :-- |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Notifications de problèmes liés au site web et à l'utilisation du site. [Bancho](/wiki/Bancho_(server)). |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Aide pour les problèmes de compte et/ou de communauté. Géré par l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team). |
+| ![osu! support avatar](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | Aide pour les problèmes de compte et/ou de communauté. Géré par l'[équipe d'assistance aux comptes](/wiki/People/Account_support_team). |
 
 ## Communauté
 

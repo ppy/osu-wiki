@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kou!"
 date: 2023-10-07 17:00:00 +0000
+series: featured_artists
 ---
 
 osu!'s Featured Artist catalogue has been missing one thing until now: **Kou!**

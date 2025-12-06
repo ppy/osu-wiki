@@ -12,6 +12,7 @@ tags:
 
 ![FL-Modsymbol](/wiki/shared/mods/FL.png "Flashlight (FL) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Flashlight (lazer-Mod)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Hidden (Mod)](/wiki/Gameplay/Game_modifier/Hidden).*
 

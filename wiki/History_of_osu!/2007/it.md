@@ -8,7 +8,7 @@ Quelli che seguono sono alcuni degli eventi più importanti della storia di osu!
 
 osu! ha inizio come una prova di concetto chiamata "ouentest".[^ouentest] La prima versione è stata rilasciata il 1 luglio 2007 per un piccolo gruppo di amici intimi di [peppy](https://osu.ppy.sh/users/2) e presentava un [editor di beatmap](/wiki/Client/Beatmap_editor) e una modalità di gioco molto semplici. L'editor poteva creare solo [beatmaps](/wiki/Beatmap) *molto* semplici, senza funzioni di ricerca o [snapping](/wiki/Beatmapping/Snapping) disponibili e non c'erano sliders o spinners, solo cerchi e un conteggio di punteggio/combo di base. Il primo rilascio ha richiesto circa 16 ore di codifica ed è stato realizzato in un'unica *notte*. `pUpdater` (presto conosciuto come `osume`)[^osume] è stato introdotto per gestire l'aggiornamento alla versione più recente.
 
-![](img/2007-07_01.jpg "Selezione di brani")
+![](img/2007-07_01.jpg "Selezione dei brani")
 
 ![](img/2007-07_02.jpg "Prova di gioco")
 
@@ -20,7 +20,7 @@ Entro la fine di luglio, il sistema menu è stato modificato per aggiungere un p
 
 ![](img/2007-07_05.jpg "L'editor")
 
-![](img/2007-07_06.jpg "Selezione del brano per la modalità modifica")
+![](img/2007-07_06.jpg "Selezione dei brani")
 
 ![](img/2007-07_07.jpg "Creazione degli Slider nell'editor")
 
@@ -30,13 +30,13 @@ Entro la fine di luglio, il sistema menu è stato modificato per aggiungere un p
 
 Il menu principale è stato aggiornato con un nuovo aspetto e l'editor ha ricevuto molte nuove funzionalità, incluso il supporto per il copia-e-incolla. Sono stati aggiunti la scheda menu e il menu contestuale, rendendo le funzionalità dell'editor più accessibili rispetto a prima; gli slider erano supportati più ampiamente con la presenza dei [tick degli slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick); era presente un [impilamento](/wiki/Beatmapping/Mapping_techniques/Stack) dei [cerchi colpiti](/wiki/Gameplay/Hit_object/Hit_circle); i punteggi più alti a livello locale erano meglio supportati; e il formato del file `.osu` è stato rivisto e completamente rinnovato, ma includeva la conversione dei file più vecchi nel nuovo formato.
 
-![](img/2007-08_01.jpg "Schermata di selezione del brano per la modalità di riproduzione")
+![](img/2007-08_03.jpg "Schermata di selezione dei brani per la Modalità di Riproduzione, modifica iniziale")
+
+![](img/2007-08_01.jpg "Schermata di selezione dei brani per la Modalità di Riproduzione, nuovo aspetto")
 
 ![](img/2007-08_02.jpg "Evoluzione delle raffiche di colpi")
 
 Il gameplay è stato migliorato con il debutto del [combo fire](/wiki/Gameplay/Combo_fire), la barra della [vita](/wiki/Gameplay/Health), il percorso del cursore e sliders dall'aspetto migliore. A questo punto, osu! aveva una umile raccolta di decine di beatmap realizzate dal team di test, composto da circa cinque persone.
-
-![](img/2007-08_03.jpg "Selezione dei brani per la modalità modifica")
 
 ![](img/2007-08_04.jpg "Gioco")
 

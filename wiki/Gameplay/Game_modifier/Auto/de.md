@@ -15,6 +15,7 @@ tags:
 
 ![AT Modsymbol](/wiki/shared/mods/AT.png "Auto (AT) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Autoplay (lazer-Mod)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Autopilot (Mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 

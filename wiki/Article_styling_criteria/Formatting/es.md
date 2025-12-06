@@ -1,7 +1,7 @@
 # Formato
 
 *Para los estándares de escritura, véase: [Criterios de estilo para artículos/Redacción](../Writing)*\
-*Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
+*Aviso: Este artículo usa [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
 ## Configuraciones regionales
 
@@ -91,6 +91,8 @@ Al desactualizar las traducciones, también deben recibir una etiqueta `outdated
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 ```
 
+Estas etiquetas se añaden automáticamente después de fusionar un cambio, lo que también puede [omitirse para traducciones que no las necesiten](/wiki/osu!_wiki/Maintenance#traducciones-obsoletas).
+
 ### Etiquetar artículos
 
 Las etiquetas ayudan al motor de búsqueda del sitio web a consultar mejor los artículos. Las etiquetas deben estar escritas en el mismo idioma que el artículo e incluir la lista original de etiquetas. Las etiquetas deben usar letras minúsculas cuando corresponda.
@@ -131,7 +133,7 @@ Los títulos de los artículos deben coincidir con el nombre de la carpeta en la
 
 ---
 
-Los artículos de concursos y torneos son una excepción. El nombre de la carpeta debe utilizar abreviaturas, siglas o iniciales. El título del artículo debe ser el nombre completo del concurso o torneo.
+Los artículos de concursos y torneos son una excepción. El nombre de la carpeta debe usar abreviaturas, siglas o iniciales. El título del artículo debe ser el nombre completo del concurso o torneo.
 
 ## Estructura de carpetas y archivos
 
@@ -167,7 +169,7 @@ Los artículos vinculados desde un artículo de desambiguación deben tener una 
 
 ## HTML
 
-No se debe utilizar HTML, con excepción de los [comentarios](#comentarios). La estructura del artículo debe rehacerse si se utiliza HTML.
+No se debe usar HTML, con excepción de los [comentarios](#comentarios). La estructura del artículo debe rehacerse si se usa HTML.
 
 ### Comentarios
 
@@ -213,11 +215,11 @@ Los saltos de línea deben usarse con moderación.
 
 Las notas de navegación son notas breves situadas en la parte superior de un artículo o sección para ayudar a los lectores a navegar hacia artículos relacionados o informarles sobre temas afines.
 
-Las notas de navegación deben estar en cursiva y colocarse inmediatamente después del encabezamiento. Si se utilizan varias notas de navegación, deben estar en el mismo párrafo separados por un salto de línea.
+Las notas de navegación deben estar en cursiva y colocarse inmediatamente después del encabezamiento. Si se usan varias notas de navegación, deben estar en el mismo párrafo separados por un salto de línea.
 
 ### Página principal
 
-Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación solo debe tener un enlace. Deben tener el siguiente formato:
+Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se usa esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación solo debe tener un enlace. Deben tener el siguiente formato:
 
 ```markdown
 *Página principal: {artículo}*
@@ -237,7 +239,7 @@ Las notas de navegación *Véase también* sugieren a los lectores otros puntos 
 
 ### Para véase
 
-Las notas de navegación *Para véase* son similares a las notas de navegación *Véase también*, pero suelen ser más descriptivas y directas. Esta nota de navegación puede utilizar más de un enlace si es necesario. Deben tener el siguiente formato:
+Las notas de navegación *Para véase* son similares a las notas de navegación *Véase también*, pero suelen ser más descriptivas y directas. Esta nota de navegación puede usar más de un enlace si es necesario. Deben tener el siguiente formato:
 
 ```markdown
 *Para {descripción}, véase: {artículo}*
@@ -247,7 +249,7 @@ Las notas de navegación *Para véase* son similares a las notas de navegación 
 
 ### No debe confundirse con
 
-Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos o secciones de artículos ambiguos o malinterpretados. Esta nota de navegación puede utilizar más de un enlace si es necesario. Deben tener el siguiente formato:
+Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos o secciones de artículos ambiguos o malinterpretados. Esta nota de navegación puede usar más de un enlace si es necesario. Deben tener el siguiente formato:
 
 ```markdown
 *No debe confundirse con {artículo}.*
@@ -360,7 +362,7 @@ El encabezamiento del título debe estar en la primera línea, a menos que se es
 
 ### Secciones
 
-Los encabezamientos de sección deben utilizar los niveles 2 a 5. El encabezamiento de sección que precede al [encabezamiento de título](#títulos) debe ser un encabezamiento de nivel 2. A diferencia de los títulos, los encabezamientos de sección pueden tener pequeños iconos de imagen.
+Los encabezamientos de sección deben usar los niveles 2 a 5. El encabezamiento de sección que precede al [encabezamiento de título](#títulos) debe ser un encabezamiento de nivel 2. A diferencia de los títulos, los encabezamientos de sección pueden tener pequeños iconos de imagen.
 
 Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es decir, no deben pasar de un encabezamiento de nivel 2 a un encabezamiento de nivel 4) y no deben contener formato ni enlaces.
 
@@ -368,7 +370,7 @@ Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es
 
 ### Identificadores personalizados
 
-Es posible redefinir el identificador de una sección, que se utiliza para enlazar directamente con ella. Los identificadores personalizados deben utilizarse en caso de que los generados automáticamente sean demasiado largos o contengan signos de puntuación complicados o imágenes:
+Es posible redefinir el identificador de una sección, que se usa para enlazar directamente con ella. Los identificadores personalizados deben usarse en caso de que los generados automáticamente sean demasiado largos o contengan signos de puntuación complicados o imágenes:
 
 ```markdown
 ## Ya ha pasado el tiempo de espera. ¿Cómo puedo apelar? {id=appeal}
@@ -376,7 +378,7 @@ Es posible redefinir el identificador de una sección, que se utiliza para enlaz
 ## Varios ejemplos de la jugabilidad de osu! {id=osu!-gameplay}
 ```
 
-Esta función también puede utilizarse para etiquetar una parte específica del artículo que no tiene encabezamiento. Úsala con moderación:
+Esta función también puede usarse para etiquetar una parte específica del artículo que no tiene encabezamiento. Úsala con moderación:
 
 ```markdown
 > Eso es todo! ¡Estás en camino de convertirte en un campeón del ritmo!
@@ -557,7 +559,7 @@ Los enlaces deben usar el estilo en línea si solo se les hace referencia una ve
 
 #### Enlaces de la wiki
 
-Todos los enlaces que apuntan a un artículo de la wiki deben comenzar con `/wiki/` seguido de la ruta para llegar al artículo al que se dirige. También se pueden utilizar enlaces relativos. Algunos ejemplos incluyen lo siguiente:
+Todos los enlaces que apuntan a un artículo de la wiki deben comenzar con `/wiki/` seguido de la ruta para llegar al artículo al que se dirige. También se pueden usar enlaces relativos. Algunos ejemplos incluyen lo siguiente:
 
 ```markdown
 [Preguntas frecuentes](/wiki/FAQ)
@@ -610,7 +612,7 @@ La URL de la barra de direcciones del navegador web debe copiarse tal como está
 
 Todos los nombres de usuario deben estar vinculados en la primera aparición. Otras ocurrencias son opcionales, pero deben ser consistentes a lo largo de todo el artículo para todos los nombres de usuario. Si es difícil determinar la identificación del usuario, se puede omitir.
 
-Al vincular a un perfil de usuario, se debe utilizar el número identificador del usuario. Usa el nuevo sitio web (`https://osu.ppy.sh/users/{nombre de usuario}`) para obtener el ID del usuario.
+Al vincular a un perfil de usuario, se debe usar el número identificador del usuario. Usa el nuevo sitio web (`https://osu.ppy.sh/users/{nombre de usuario}`) para obtener el ID del usuario.
 
 El texto del enlace de usuario debe ser el nombre actual del usuario.
 
@@ -648,7 +650,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
 
 *Aviso: Enlaces externos se refiere a los enlaces que salen del dominio `https://osu.ppy.sh/`.*
 
-Se debe utilizar el protocolo `https`, a menos que el sitio no lo admita. Los enlaces externos deben ser un enlace limpio y directo a una fuente confiable. La URL de la barra de direcciones de tu navegador web debe copiarse tal como está cuando se vincula a otras páginas externas.
+Se debe usar el protocolo `https`, a menos que el sitio no lo admita. Los enlaces externos deben ser un enlace limpio y directo a una fuente confiable. La URL de la barra de direcciones de tu navegador web debe copiarse tal como está cuando se vincula a otras páginas externas.
 
 No hay diferencias visuales entre los enlaces web externos y osu!. Debido a esto, el nombre del sitio web debe incluirse en el texto del título. Véase el siguiente ejemplo:
 
@@ -680,7 +682,7 @@ Todas las imágenes de bloque en la página (que no tienen nada más en la misma
 
 ### Título y texto alternativo
 
-El texto en el primer par de corchetes (*texto alternativo*) debe describir la imagen literalmente. Lo utilizan los lectores de pantalla o cuando la imagen no se carga. Se puede omitir si es idéntico al texto del título o si la imagen se incluye solo con fines decorativos.
+El texto en el primer par de corchetes (*texto alternativo*) debe describir la imagen literalmente. Lo usan los lectores de pantalla o cuando la imagen no se carga. Se puede omitir si es idéntico al texto del título o si la imagen se incluye solo con fines decorativos.
 
 El texto entre comillas (*texto de título*) debe dar contexto adicional a la imagen o indicar su significado. Se muestra como tooltip al pasar el ratón sobre la imagen y se usa como título, si corresponde. No es compatible con ningún formato de markdown.
 
@@ -712,7 +714,7 @@ Las imágenes deben usar el formato JPG en calidad 8 (80 u 80 %, según el pro
 
 Las imágenes deben ser de menos de 1 megabyte, de lo contrario no se cargarán. Reducir la escala y usar JPG al 80 % de calidad casi siempre está por debajo del límite de tamaño.
 
-Todas las imágenes deben optimizarse tanto como sea posible. Utiliza [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, usa el siguiente comando para jpeg-archive:
+Todas las imágenes deben optimizarse tanto como sea posible. Usa [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) para comprimir imágenes JPEG. Para mantener la coherencia, usa el siguiente comando para jpeg-archive:
 
 ```
 jpeg-recompress -am smallfry <entrada> <salida>
@@ -726,7 +728,7 @@ Alternativamente, [ezgif.com](https://ezgif.com/) se puede usar para convertir y
 
 Usa guiones (`-`) para espaciar las palabras. Al nombrar una imagen, el nombre del archivo debe ser significativo o descriptivo pero breve.
 
-Las imágenes deben colocarse en una carpeta llamada `img` bajo la carpeta del artículo. Las imágenes que se utilizan en varios artículos deben almacenarse en la carpeta `/wiki/shared`.
+Las imágenes deben colocarse en una carpeta llamada `img` bajo la carpeta del artículo. Las imágenes que se usan en varios artículos deben almacenarse en la carpeta `/wiki/shared`.
 
 ### Ancho máximo de imagen
 
@@ -833,13 +835,13 @@ Solo se permiten niveles de encabezamiento 4 y 5 dentro de una caja de informaci
 
 ## Notas al pie
 
-Las notas al pie son notas cortas ubicadas al final de la página. Se utilizan para citar fuentes o proporcionar información de fondo que, de lo contrario, interrumpiría el flujo del artículo. Las notas al pie pueden contener formato de texto y enlaces.
+Las notas al pie son notas cortas ubicadas al final de la página. Se usan para citar fuentes o proporcionar información de fondo que, de lo contrario, interrumpiría el flujo del artículo. Las notas al pie pueden contener formato de texto y enlaces.
 
 En la osu! wiki, las notas al pie se implementan usando una sintaxis especial (`[^identificador]`). Las notas al pie pueden usar cualquier identificador, pero se representarán automáticamente como superíndices con números crecientes en el orden de su primera aparición. Las traducciones no deben modificar los identificadores de las notas al pie.
 
 Las referencias al pie se colocan directamente después de las palabras, frases u oraciones que explican, sin espacio entre ellas. Estas referencias deben colocarse después de la puntuación, excepto los paréntesis, cuando correspondan al contenido interior y las rayas.
 
-Las notas al pie en sí deben colocarse en un encabezamiento separado de segundo nivel al final del artículo. Dependiendo del contenido, el encabezamiento utilizado puede ser `Referencias`, `Notas` o `Notas y referencias`.
+Las notas al pie en sí deben colocarse en un encabezamiento separado de segundo nivel al final del artículo. Dependiendo del contenido, el encabezamiento usado puede ser `Referencias`, `Notas` o `Notas y referencias`.
 
 Ejemplos de uso correcto:
 
@@ -855,7 +857,7 @@ La osu! wiki es un proyecto destinado a reemplazar el antiguo sistema de pregunt
 
 ### Citas
 
-Las citas o referencias se utilizan para identificar una fuente de información. Las citas a través de notas al pie deben preferirse a los enlaces en línea.
+Las citas o referencias se usan para identificar una fuente de información. Las citas a través de notas al pie deben preferirse a los enlaces en línea.
 
 Cuando corresponda, las referencias deben especificar el autor, la fecha, el servicio/plataforma y el título. El formato exacto puede variar según el material de referencia con preferencia por la brevedad.
 
@@ -874,7 +876,7 @@ La primera versión de la osu!api estuvo disponible el 2 de julio de 2013.[^api-
 
 ### Notas
 
-Las notas al pie se pueden utilizar para almacenar explicaciones o comentarios tangenciales que no se pueden colocar sin empeorar la legibilidad del artículo, o que son menos significativos que el artículo mismo. Tales notas al pie pueden usar texto de forma libre.
+Las notas al pie se pueden usar para almacenar explicaciones o comentarios tangenciales que no se pueden colocar sin empeorar la legibilidad del artículo, o que son menos significativos que el artículo mismo. Tales notas al pie pueden usar texto de forma libre.
 
 Ejemplo:
 

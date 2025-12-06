@@ -5,17 +5,6 @@ Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) d
 - **Las reglas no deben romperse bajo ninguna circunstancia.**
 - **Las pautas pueden ignorarse y romperse en circunstancias excepcionales.** Al hacerlo, el mapper debe proporcionar una explicación adecuada, ya sea por adelantado o cuando se le solicite durante el proceso de modding.
 
-## Cómo proponer cambios
-
-Los cambios en cualquier parte de los criterios de clasificación se proponen a través del [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).
-
-1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
-2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
-3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
-4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
-
-Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
-
 ## Índice
 
 Algunas partes de los criterios de clasificación tienen sus propios artículos, pero siguen aplicándose a todos los beatmaps, independientemente del modo de juego, la duración o cualquier otra restricción.
@@ -44,6 +33,17 @@ Cada [modo de juego](/wiki/Game_mode) tiene criterios de clasificación específ
 - **[osu!catch](osu!catch)**
 - **[osu!mania](osu!mania)**
 
+## Cómo proponer cambios
+
+Los cambios en cualquier parte de los criterios de clasificación se proponen a través del [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).
+
+1. **Crea una propuesta en el [foro Ranking Criteria](https://osu.ppy.sh/community/forums/87).** Intenta ser lo más detallado posible al explicar tu idea y el impacto del cambio.
+2. **Llega a un consenso.** Si crees que estás en ese punto, ponte en contacto con un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) para ver si tu propuesta puede implementarse. Hasta cierto punto, el NAT puede actuar como árbitro en casos contenciosos, pero es probable que las propuestas que no cuenten con un consenso general no se aprueben.
+3. **Crea una solicitud de cambios en el repositorio de la osu! wiki en GitHub.** Por lo general, esto lo hace un miembro del NAT que participa en la finalización de la discusión.
+4. **Espera la aprobación de [peppy](https://osu.ppy.sh/users/2).**
+
+Los cambios que no alteren el significado o la intención de los criterios de clasificación, como las mejoras ortográficas, gramaticales o de organización, pueden no necesitar una propuesta en el foro. Sin embargo, es recomendable que consultes con los miembros más experimentados de la comunidad si los cambios son útiles y bienvenidos.
+
 ## Herramientas
 
 Se recomienda encarecidamente usar [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) como ayuda para comprobar estos criterios. [AiMod](/wiki/Client/Beatmap_editor/AiMod) del antiguo cliente (estable) está desactualizado y sin mantenimiento, y la verificación de beatmaps en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) está [en progreso](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
@@ -61,6 +61,7 @@ Importante entender antes de usar:
 - **No se pueden poner dos objetos en el mismo instante.** Esto incluye los círculos y las duraciones de los sliders y spinners. Las dificultades de osu!mania están exentas de esto.
 - **Debe haber al menos 10 milisegundos entre un círculo y el siguiente objeto, y al menos 20 milisegundos entre el final de un slider y el siguiente objeto.** Las dificultades de osu!mania y osu!catch están exentas de esto.
 - **Todo el contenido de un beatmap debe estar autorizado según los [permisos de uso de contenido](/wiki/Rules/Content_usage_permissions#permisos-de-los-artistas).** Para los artistas o pistas que figuran como no permitidos en la página, sus canciones solo pueden clasificarse si se otorga un permiso explícito para la pista al anfitrión del beatmap. La prueba del permiso debe presentarse en la descripción del beatmap o en la página de discusión.
+- **Los objetos, los hitsounds y la temporización de los beatmaps deben crearse exclusivamente por intervención humana directa, sin usar ninguna herramienta generativa.** La creación de beatmaps es un proceso fundamentalmente creativo, por lo que usar atajos como la IA generativa es inaceptable para la clasificación.
 - **No debe haber imágenes obscenas en el [fondo](/wiki/Beatmap/Background), storyboard o contenido del vídeo.** Esto incluye desnudez, casi desnudez, referencias sexuales, violencia, abuso de drogas, etc. Véase las [consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations) para obtener reglas más detalladas.
 - **Las dificultades que contengan efectos estroboscópicos repetitivos, imágenes pulsantes o cambios rápidos de contraste, brillo o color en el storyboard o el vídeo deben usar una advertencia de epilepsia.** Si la advertencia interfiere con el juego, la entrada de audio debe ser más larga. Los efectos estroboscópicos a 3 Hz (es decir, 3 destellos por segundo) e inferiores no suelen causar problemas. En caso de duda, añade la advertencia y confirma su necesidad durante el proceso de modding.
 - **En la carpeta del beatmap no debe haber archivos sin usar ni archivos de 0 bytes.** Los archivos de 0 bytes impiden que otros archivos de la carpeta de un beatmap se carguen correctamente. Los archivos `thumbs.db` generados automáticamente son las únicas excepciones.
@@ -73,7 +74,7 @@ Importante entender antes de usar:
 
 - **Los creadores de los contenidos multimedia usados en un beatmap deben ser acreditados en la descripción del beatmap.** De acuerdo con las [directrices de uso de contenido](/wiki/Rules/Content_usage_guidelines), los contenidos multimedia usados en los beatmaps deben estar permitidos para su uso en osu!, y su licencia probablemente detallará cómo acreditar a sus creadores. Entre las razones más comunes para omitir los créditos de la descripción se incluyen la excesiva dificultad en la búsqueda de fuentes, el deseo de los creadores de permanecer sin créditos y la presencia de créditos en los campos de artista, título o fuente.
   - Los contenidos multimedia generados por IA en los beatmaps deben atribuirse explícitamente como generados por IA, no ilustrados o de otro modo. Esto se hace para evitar que se tergiverse el proceso de creación.
-- **Se desaconseja la reutilización directa de tus propias dificultades ya clasificadas en otros beatmaps clasificados.** Esto se hace para evitar la sobrecarga innecesaria de contenido clasificado.
+- **Se desaconseja la reutilización directa de tus propias dificultades ya clasificadas o amadas en otros beatmaps clasificados.** Esto se hace para evitar la sobrecarga innecesaria de contenido clasificado.
 - **La [tasa de marcas del slider](/wiki/Beatmapping/Slider_tick_rate) no debe modificarse a través del archivo `.osu`.** La mayoría de los valores personalizados resultan en marcas del slider desancladas; sin embargo, las tasas de marcas 0.5, 1.333, y 1.5 tienen un uso práctico y pueden ser aplicadas solo cuando no causen que las marcas del slider se desajusten.
 - **El [kiai](/wiki/Gameplay/Kiai_time) debe comenzar con un sonido de la música.** De lo contrario, el flash del kiai no guardará relación con la canción.
 - **El ajuste `Enable countdown` debe ser consistente entre dificultades del mismo modo.** Si una dificultad no tiene un periodo de introducción lo suficientemente largo para que se produzca la cuenta atrás, no es necesario que este ajuste sea consistente.
@@ -92,8 +93,6 @@ Importante entender antes de usar:
   - La dificultad más alta de cada modo de juego.
   - Las dificultades más altas de cada modo de juego con un nivel de dificultad similar, aplicándose solo a las dificultades Insane y Extra (por ejemplo, las dificultades Insane de un conjunto ENHIIII o las dificultades Extra de un conjunto ENHIIXXX).
 - **Los nombres de dificultad personalizados de un beatmap deben seguir un tema o patrón común relacionado con la canción o dificultad y no deben ser tergiversados.** Un nombre de dificultad es engañoso si implica un nivel de dificultad diferente (por ejemplo, nombrar una dificultad «Expert» como «Normal»).
-- **El nombre de una dificultad no debe consistir únicamente de uno o más nombres de usuario.** Las palabras que sean nombres de usuario son aceptables en los nombres de las dificultades siempre que estén relacionadas con la canción.
-- **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) no puede indicar posesión en el nombre de una dificultad.** (por ejemplo, Beatmap Host's Insane). Las únicas excepciones son los conflictos causados por el beatmapping de varias canciones con los mismos metadatos y las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations). Las [dificultades de invitado](/wiki/Beatmap/Guest_difficulty), sin embargo, pueden indicar posesión con el nombre de usuario o apodo de sus creadores.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) debe haber mapeado igual o más dificultades que cualquier creador de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty).** Esto se hace para dar crédito a quien lo merece. Las [dificultades colaborativas](/wiki/Beatmap/Beatmap_collaborations) solo se consideran dificultades parciales, y el [tiempo de drenaje](/wiki/Beatmap/Drain_time) se usará para determinar la cantidad de contribución cuando un invitado haya mapeado significativamente más que el anfitrión.
 - **Un [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host) y los creadores de [dificultades de invitado](/wiki/Beatmap/Guest_difficulty) pueden hacer cambios en sus respectivas dificultades como deseen.** En caso de desacuerdo entre ambos, el anfitrión del beatmap deberá eliminar la contribución del invitado si así lo solicita. Si no se puede contactar con el creador de una dificultad de invitado durante un mes, se asumirá que está de acuerdo con cualquier cambio.
 - **Los beatmaps no pueden contener partes significativas de dificultades pertenecientes a otros usuarios sin su participación o permiso explícitos.**
@@ -101,8 +100,9 @@ Importante entender antes de usar:
 ### Pautas
 
 - **La dificultad más alta de un beatmap debe corresponder a la sensación general de la canción.** Las dificultades Easy/Normal pueden usarse como dificultad única de un beatmap si sus ritmos no están demasiado simplificados. En caso contrario, debe incluirse una dificultad Hard o superior.
-- **Evita las combinaciones incomprensibles de nombres de usuario para indicar la posesión de una [dificultad colaborativa](/wiki/Beatmap/Beatmap_collaborations).** Si no está claro de quienes son los nombres de usuario combinados, es recomendable simplificarlos.
-- **Evita los nombres de dificultad con elementos descriptivos que no estén claramente relacionados con el creador de una [dificultad de invitado](/wiki/Beatmap/Guest_difficulty) o con un nivel de dificultad.** (por ejemplo, Beatmap Creator's Tragic Love Extra).
+- **Los nombres de las dificultades no deben ser confusos.**  
+  - **Los nombres descriptivos de las dificultades deben tener relación con la canción.** Al añadir otros términos como `Tragic Love` al nombre de una dificultad, debe estar relacionado con la canción.
+  - **Al combinar varios nombres de usuario en un único nombre para una [dificultad de invitado](/wiki/Beatmap/Guest_difficulty), asegúrate de que el nombre siga siendo comprensible.** Por ejemplo, `Mamayucha` al ser una [dificultad colaborativa](/wiki/Beatmap/Beatmap_collaborations) entre `Mani`, `Mari`, `Yuzu` y `Mocha` pierde muchas de las características de los colaboradores en comparación con listar sus nombres de usuario completos. Reemplazar el nombre de usuario colectivo por `Collab` o un descriptor como `osu! Mascots' Expert` puede resultar más claro.
 - **Los nombres de usuario que indican la posesión de una [dificultad de invitado](/wiki/Beatmap/Guest_difficulty) deben ser consistentes entre varios beatmaps.** Los apodos diferentes para un usuario hacen que la interpretación de quién creó una dificultad sea ambigua o engañosa.
 - **Evita los caracteres unicode no alfanuméricos en el nombre de una dificultad.** Estos pueden causar errores con el [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission) y problemas para ciertos usuarios cuando aparecen en el chat.
 
@@ -131,8 +131,9 @@ Importante entender antes de usar:
 - **El archivo de audio de un beatmap debe...**
   - **... estar codificado en MP3 (`.mp3`) u [Ogg Vorbis](https://es.wikipedia.org/wiki/Vorbis) (`.ogg`).**
   - **... tener una tasa de bits media no superior a 192 kbps para archivos MP3, o 208 kbps para archivos Ogg Vorbis.**
+  - **... tener una frecuencia de muestreo no superior a 48 kHz.**
   - **... tener una tasa de bits media no inferior a 128 kbps**, si existe tal fuente. En caso contrario, usa la calidad más alta disponible.
-  - **... no ser codificado a partir de una tasa de bits inferior.**
+  - **... no ser codificado a partir de una tasa de bits o frecuencia de muestreo inferior.**
 - **Un beatmap solo puede contener un archivo de canción usado por todas las dificultades.** No se admiten varios archivos de canciones dentro de un mismo beatmap, lo que provocaría un comportamiento inesperado con los tiempos de previsualización, los metadatos, etc.
 - **Los beatmaps deben estar [hitsoundeados](/wiki/Beatmapping/Hitsound).** Los hitnormals proporcionan información al jugador, y las adiciones (whistles, claps y finishes) acentúan las partes más importantes de la música.[^normal-vs-addition]
   - **Los beatmaps de osu!mania no requieren de adiciones de hitsounds.**[^normal-vs-addition] Esto es para permitir una mayor accesibilidad a los mappers de osu!mania de diferentes tipos. Sigue siendo muy recomendable usar adiciones de hitsounds para mejorar la sensación de tus beatmaps.
@@ -143,14 +144,17 @@ Importante entender antes de usar:
 - **Los hitsounds deben ser audibles.** Su propósito es proporcionar feedback, por lo que los hitsounds con un volumen extremadamente bajo o las muestras que se mezclan con las muestras las muestras de una canción son inaceptables. Los modos de juego específicos incluyen excepciones a esta regla en sus respectivos criterios de clasificación.
 - **Los puntos de previsualización deben establecerse y ser consistentes entre todas las dificultades de un beatmap.** Esto se usa tanto para el menú de selección de canciones como para la vista previa en línea.
 - **Cada archivo de hitsound debe tener una duración mínima de 25 ms.** Los archivos más cortos pueden hacer que no se reproduzca ningún sonido en el juego.
-- **Los archivos de sonido completamente en silencio deben usar [este archivo de 44 bytes](https://up.ppy.sh/files/blank.wav).** Otros archivos tienen tamaños innecesariamente grandes y los archivos de 0 bytes no funcionan.
+- **Los archivos de sonido completamente en silencio deben usar [este archivo de 44 bytes](https://assets.ppy.sh/media/blank.wav).** Otros archivos tienen tamaños innecesariamente grandes y los archivos de 0 bytes no funcionan.
 - **Los [hitsounds del storyboard](/wiki/Beatmapping/Hitsound#storyboards-con-hitsounds) no pueden ser usados como sustituto de los [hitsounds activos](/wiki/Beatmapping/Hitsound#hitsound-activo).** Estos proporcionan un feedback inexacto al jugador. Los hitsounds del storyboard en otras situaciones son aceptables, pero se desaconsejan. osu!mania está exento de esta norma.
 
 ### Pautas
 
 - **El archivo de audio y los archivos de hitsounds de un beatmap no deben presentar distorsiones de sonido audibles e injustificadas**, como recortes, silenciamientos o crujidos que claramente no han sido intencionados por el artista ni forman parte de la identidad de la canción. Esto se determina mejor escuchando el audio que usando un programa informático.
 - **El archivo de audio de una canción no debe ampliarse artificialmente con el fin de cumplir con una limitación de tiempo en la sección de beatmap de estos criterios.** Esto puede incluir (pero no se limita a) la reproducción en bucle de secciones del archivo de audio, reducir los [BPM](/wiki/Music_theory/Tempo) de la canción o de una sección de esta o la adición de pequeñas cantidades de música a la canción sin incorporarla a lo largo de la canción. Esto no se aplica a las [compilaciones de canciones](/wiki/Beatmap/Song_compilation) o archivos de audio de menos de la longitud mínima del beatmap clasificable.
-- **Si el final del beatmap dura más del 20% del archivo de audio del beatmap, deberás cortarlo.** No se incluye la introducción. Esto no se aplica si más del 20% de la outro está ocupado por un storyboard/vídeo o si más del 20% del audio de la canción no se puede mapear debido a un fundido de salida o a problemas de temporización.
+- **Si no mapeas el último 20 % del archivo de audio de tu beatmap, deberás cortarlo.**
+  - Esto no se aplica si...
+    - el final está ocupado por un vídeo o un storyboard.
+    - mapear el final daría lugar a una mala experiencia de juego, como problemas de desvanecimiento o temporización.
 - **Las [compilaciones de canciones](/wiki/Beatmap/Song_compilation) u otras pistas tipo popurrí deben mezclarse limpiamente con transiciones adecuadas, y no deben incluir pausas bruscas ni fundidos largos entre diferentes canciones.** Las canciones usadas para la compilación deben ser similares en cuanto a calidad de audio, volumen y duración. Esto es para garantizar que las compilaciones ofrezcan la misma experiencia de juego que otros beatmaps. Las transiciones cruzadas son aceptables, pero deben usarse con moderación y, por lo general, no deben durar más de 5 segundos. Las transiciones con el mismo ritmo y bien planificadas son siempre una mejor opción que el fundido cruzado.
 - **La combinación de 2 canciones deben estar claramente y estrechamente relacionadas.** Ejemplos de esto incluye, pero no se limita a, que sean iteraciones de la misma serie de canciones, que estén relacionadas en letra o motivos, que sean similares en tono y/o género, etc.
 - **Las canciones cortadas deben mantener la impresión general y la intensidad de la canción completa.** Los cortes que cambien la estructura de la canción completa (como excluir o reorganizar la introducción/verso/estribillo/outro de una canción) pueden dar lugar a una representación errónea de la misma y, a menudo, provocar experiencias de jugabilidad insatisfactorias. Esto no se aplica a los cortes oficiales ni a las recreaciones de cortes oficiales.
@@ -167,7 +171,7 @@ Importante entender antes de usar:
   - **Altura mínima**: 120 px
   - **Ancho máximo**: 2560 px[^maximum-dimensions]
   - **Altura máxima**: 1440 px[^maximum-dimensions]
-  - **Tamaño máximo del archivo**: 2.5 MB
+  - **Tamaño máximo del archivo**: 2,5 MB
 - **Las dimensiones de un vídeo no deben superar un ancho de 1280 y una altura de 720 píxeles.** Además, debe evitarse la conversión de vídeos de baja resolución a una resolución superior. Así se evita que los archivos de vídeo sean excesivamente grandes o consuman demasiados recursos.
 - **El vídeo debe estar codificado en H.264.**
 - **El desplazamiento de un vídeo debe ser correcto si se sincroniza con la canción.** Un desplazamiento incorrecto puede dar lugar a una representación visual engañosa de la canción. Si el mismo vídeo aparece en varias dificultades, debe tener siempre el mismo desplazamiento.

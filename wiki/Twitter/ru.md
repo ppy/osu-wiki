@@ -7,7 +7,7 @@
 | Аватар | Имя аккаунта | Описание |
 | :-: | :-: | :-- |
 | ![Аватар osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Периодические сообщения о сбоях в работе веб-сайта или [Bancho](/wiki/Bancho_(server)). |
-| ![Аватар osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Помощь с проблемами, которые относятся к аккаунту или сообществу в целом. Управляется [службой поддержки](/wiki/People/Account_support_team). |
+| ![Аватар osu! support](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | Помощь с проблемами, которые относятся к аккаунту или сообществу в целом. Управляется [службой поддержки](/wiki/People/Account_support_team). |
 
 ## Сообщество
 

@@ -98,6 +98,7 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 | Valor | Límite regular | Límite de osu!supporter |
 | :-- | :-: | :-: |
 | [Beatmaps pendientes](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(beatmaps clasificados, 4)`, hasta **8**[^pending-beatmaps-ref] | `8 + min(beatmaps clasificados, 12)`, hasta **20**[^pending-beatmaps-ref] |
+| Tamaño de los equipos | 8 | `8 + 4 * supporters en el equipo` hasta **256** |
 | Beatmaps favoritos | 100 | 1000 |
 | Amigos | 500 | 1000 |
 

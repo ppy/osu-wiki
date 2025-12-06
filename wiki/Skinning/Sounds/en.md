@@ -107,8 +107,8 @@ The following gameplay sounds are all beatmap skinnable.
 ### Countdown
 
 - `count.wav`:
-  - This replaces the | `count{n}s` sounds (if one sound is wanted).
-  - This is also the metronome for the target practice mod.
+  - This replaces the `count{n}s` sounds (if one sound is wanted).
+  - This is also the metronome for the [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) mod.
 - `count1s.wav`
 - `count2s.wav`
 - `count3s.wav`
@@ -130,7 +130,7 @@ Notes:
 - `comboburst.wav`:
   - For multiple sounds, use `comboburst-{n}.wav`.
   - In the [skin.ini](/wiki/Skinning/skin.ini), if `CustomComboBurstSounds` is set to `1`, `comboburst-{n}.wav` must be used.
-- `failsound.wav`：
+- `failsound.wav`:
   - Not intended to last longer than the fail animation (about 5 seconds).
   - Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
 

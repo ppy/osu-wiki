@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2018: Registrations now open!"
 date: 2018-03-08 13:00:00 +0000
+series: world_cups
 ---
 
 Once more the drumfest of the osu!taiko World Cup is back for its 8th installment! Some minor tweaks to the ScoreV2 system alongside a fresh map selection team are our premises for an exciting tournament! The Registration Phase has already started, no time to waste!

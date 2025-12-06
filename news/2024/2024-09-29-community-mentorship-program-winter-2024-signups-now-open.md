@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Winter 2024 Signups Now Open
 date: 2024-09-29 14:00:00 +0000
+series: online_events
 ---
 
 The 28th cycle of the Community Mentorship Program is upon us! Get ready to delve deep into the world of mapping, modding, or storyboarding.

@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Indonesia Presents: Ascaveth Invitational Tournament 2023"
 date: 2023-12-03 12:30:00 +0000
+series: community_tournaments
 ---
 
 Join in the excitement as Indonesia's flagship LAN tournament kicks off for a second season next weekend on Saturday, December 9th!

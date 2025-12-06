@@ -13,6 +13,7 @@ tags:
 
 ![FI Modsymbol](/wiki/shared/mods/FI.png "Fade In (FI) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Fade In (lazer-Mod)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Hidden (Mod)](/wiki/Gameplay/Game_modifier/Hidden) oder [Flashlight (Mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 

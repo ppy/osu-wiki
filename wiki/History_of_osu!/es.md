@@ -27,4 +27,4 @@ Registros de la historia de osu!, todo en la osu! wiki.
 - [Historial de las clasificaciones en línea](Online_rankings)
 - [Registro del personal](/wiki/People/Staff_log)
 - [Historial de los torneos de osu!](/wiki/Tournaments)
-- [Productos anteriores de la osu!store](/wiki//Past_osu!store_items)
+- [Productos anteriores de la osu!store](/wiki/Past_osu!store_items)

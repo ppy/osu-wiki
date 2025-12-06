@@ -22,7 +22,7 @@ On 18 June 2014, [peppy](https://osu.ppy.sh/users/2) announced that the download
 
 ## August
 
-On 21 August 2014, a [newspost](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) was released announcing a new restructuring of the [Beatmap Appreciation Team (BAT)](/wiki//Modding/Beatmap_Appreciation_Team), which detailed the separation of the original team into the Beatmap Appreciation Team and the [Quality Assurance Team (QAT)](/wiki//Modding/Quality_Assurance_Team).[^bat]
+On 21 August 2014, a [newspost](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) was released announcing a new restructuring of the [Beatmap Appreciation Team (BAT)](/wiki/Modding/Beatmap_Appreciation_Team), which detailed the separation of the original team into the Beatmap Appreciation Team and the [Quality Assurance Team (QAT)](/wiki/Modding/Quality_Assurance_Team).[^bat]
 
 ## October
 

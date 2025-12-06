@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Supire"
 date: 2023-07-29 14:00:00 +0000
+series: featured_artists
 ---
 
 Breakcore extraordinaire **Supire** climbs their way into our Featured Artist library!

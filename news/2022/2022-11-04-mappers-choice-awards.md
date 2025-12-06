@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Choice Awards / A Year In Mapping 2021
 date: 2022-11-04 10:00:00 +0000
+series: community_contests
 ---
 
 Celebrate the best Ranked maps of the previous year with the Mappers' Choice Awards, and check out some mapping-related milestones and crazy records from 2021 with A Year In Mapping!

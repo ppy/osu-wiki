@@ -97,7 +97,7 @@ Estos banners aparecen en muchas relaciones de aspecto diferentes en distintos l
 
 ![Referencia de la relación de aspecto del banner de una noticia](img/banner-sizes-ES.png "Referencia de la relación de aspecto del banner de una noticia. Ten en cuenta que los dispositivos móviles pueden situarse en cualquier lugar dentro o incluso ligeramente fuera de los rangos comunes aquí especificados.")
 
-Usa [esta herramienta de visualización](https://tanza.me/tools/osu-vis/) para comprobar cómo aparecerá el banner en diferentes partes del sitio web.
+Usa [esta herramienta de visualización](https://tcomm.hivie.tn/assets-previewer?tab=news-banners) para comprobar cómo aparecerá el banner en diferentes partes del sitio web.
 
 Los banners deben tener un tamaño base mínimo de 1000x200 píxeles. Se debe proporcionar una versión con cada dimensión duplicada si la imagen de origen es lo suficientemente grande como para ser compatible (lo que da como resultado `banner.jpg` y `banner@2x.jpg`). Las imágenes de los banners que aparecen en varias noticias deben colocarse en el directorio [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
@@ -123,6 +123,22 @@ Vídeo incrustado alojado en YouTube:
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
+```
+
+Vídeo incrustado alojado en Twitch:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+```
+
+Vista previa de un audio:
+
+```html
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
+</audio>
 ```
 
 ## Diseño

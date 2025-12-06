@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: onumi"
 date: 2019-01-14 10:00:00 +0000
+series: featured_artists
 ---
 
 Drawing deep from the sounds of the underground, the Featured Artist project welcomes **onumi** into the mix!

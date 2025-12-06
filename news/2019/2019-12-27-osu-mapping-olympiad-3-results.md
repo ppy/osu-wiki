@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #3 Results (osu!mania)"
 date: 2019-12-27 16:15:00 +0000
+series: official_contests
 ---
 
 The judging for the first [osu!mania Mapping Olympiad contest](https://osu.ppy.sh/community/contests/67) has been completed! Congratulations to **[PianoLuigi](https://osu.ppy.sh/users/9665915)**, the first osu!mania Mapping Olympian and our newest *Elite Mapper*!

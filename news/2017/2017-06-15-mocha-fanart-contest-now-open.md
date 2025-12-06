@@ -3,6 +3,7 @@ layout: post
 title: Mocha in Summer Fanart Contest Begins!
 date: 2017-06-14 18:00:50 +0900
 tumblr_url: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
+series: fanart_contests
 ---
 
 With [our newest osu! mascot](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here) stealing everyone's hearts, what better way to celebrate her arrival is there than a brand new fan art contest?

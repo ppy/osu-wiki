@@ -3,6 +3,7 @@ layout: post
 title: Are huge sets a problem?
 date: 2016-08-26 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149506493485/are-huge-sets-a-problem
+series: miscellaneous
 ---
 
 Hi there! I would like to use this blog to throw a few thoughts about difficulty spreads in general at the community.

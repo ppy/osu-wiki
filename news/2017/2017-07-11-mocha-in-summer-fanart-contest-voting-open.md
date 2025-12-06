@@ -3,6 +3,7 @@ layout: post
 title: Mocha in Summer Fanart Contest Voting Open
 date: 2017-07-10 15:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/162823962248/mocha-in-summer-fanart-contest-voting-open
+series: fanart_contests
 ---
 
 The turnout for Mocha's first ever fanart contest has been massive, [with over 60 entries now available for voting](https://osu.ppy.sh/community/contests/48). Make a splash with your five favourite entries, and help us choose ten talented winners!

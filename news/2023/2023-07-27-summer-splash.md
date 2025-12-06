@@ -2,6 +2,7 @@
 layout: post
 title: 2023 Summer Splash!
 date: 2023-07-27 12:00:00 +0000
+series: fanart_contests
 ---
 
 When you see this post, you'll know for sure that our latest Summer Seasonal update is here! Check out all the details on the Beach Episode Art Contest winners (plus some peppy picks), new Hush-Hush medals, and an all-new main-menu track!

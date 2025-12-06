@@ -2,6 +2,7 @@
 layout: post
 title: osu!monthly returns, July 2022
 date: 2022-08-01 10:00:00 +0000
+series: osu_monthly
 ---
 
 The weekly newsletter returns in a monthly format — find out about happenings around the community!

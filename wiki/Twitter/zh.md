@@ -12,7 +12,7 @@ osu! 有数个 Twitter 账号，每个都有其特定的用途。大多数账号
 | 头像 | 账号 | 描述 |
 | :-: | :-: | :-- |
 | ![osu!status 头像](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | 在网站或 [Bancho](/wiki/Bancho_(server)) 出现问题时，发出低流量通知。 |
-| ![osu! support 头像](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | 帮助解决账号和/或社区问题。由[账户支持团队](/wiki/People/Account_support_team)管理。 |
+| ![osu! support 头像](img/osu-support.png) | [@osusupport](https://twitter.com/osusupport) | 帮助解决账号和/或社区问题。由[账户支持团队](/wiki/People/Account_support_team)管理。 |
 
 ## 社区
 

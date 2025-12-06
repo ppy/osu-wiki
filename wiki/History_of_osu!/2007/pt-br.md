@@ -44,8 +44,6 @@ O menu principal foi atualizado com um novo visual e o editor recebeu muitas fun
 
 A jogabilidade foi melhorada com o a estreia do [combo fire](/wiki/Gameplay/Combo_fire), a [barra de vida (ou HP)](/wiki/Gameplay/Health), rastros de cursor, e sliders mais bonitos. Nesse ponto, osu! tinha uma humilde coleção de cerca de dez beatmaps feitos pela equipe de testagem que possuia ao redor de cinco pessoas.
 
-![](img/2007-08_03.jpg "Song Selection for Edit Mode")
-
 ![](img/2007-08_04.jpg "Gameplay")
 
 ## Setembro

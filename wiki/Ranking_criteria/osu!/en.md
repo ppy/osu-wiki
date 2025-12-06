@@ -127,7 +127,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Avoid more than three actively clicked 1/2 rhythms in a row.**
 - **Include a 1/1 or longer gap in rhythm for every two measures of gameplay.** Leniency is permitted for sections of beatmaps with extremely long sliders, such as sliders longer than 2 measures.
 - **Avoid more than four consecutive 1/2 sliders.** This includes 1/2 reversing sliders.
-- **Objects making up actively clicked 1/2 rhythms should [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap) each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such a sliderend followed by a circle, are acceptable.
+- **Objects making up actively clicked 1/2 rhythms should [overlap](/wiki/Beatmapping/Mapping_techniques/Overlap) each other on the playfield.** Passively played 1/2 rhythms that do not overlap, such as sliderends followed by a circle, are acceptable.
 - **Avoid [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) above 1.3.**
 
 #### Difficulty setting guidelines
@@ -191,7 +191,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
-  - The slider path is allowed to be ambiguous if the cursor can stay inside the slider's follow circle without any movement away from the slider head.
+  - Ambiguous slider paths are allowed if a 300 can be achieved on the slider without any movement away from the slider head.
 
 #### Guidelines
 

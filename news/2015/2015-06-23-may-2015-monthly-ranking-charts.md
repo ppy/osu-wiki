@@ -3,6 +3,7 @@ layout: post
 title: May 2015 Monthly Ranking Charts
 date: 2015-06-23 10:44:01 +0000
 tumblr_url: http://osunews.tumblr.com/post/122243601028/may-2015-monthly-ranking-charts
+series: beatmap_spotlights
 ---
 
 With a slight delay due to some technical difficulties, the Ranking Charts for May 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1505)!

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
 ---
 
 # Klien turnamen osu!

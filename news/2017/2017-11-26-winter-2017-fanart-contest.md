@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2017 Fanart Contest
 date: 2017-11-26 23:00:00 +0000
+series: fanart_contests
 ---
 
 It's that time of year again - half the world is enjoying the coming of winter, and the other half of the world wishes they were too. You've got **ten days** of scribbling to get your winter-themed osu! (or community) mascots onto paper and into voting, for a chance to have them included as a seasonal in-game background!

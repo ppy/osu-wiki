@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #5 - Submissions Now Open!"
 date: 2014-05-07 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/85034669678/monthly-beatmapping-contest-5-submissions-now
+series: monthly_beatmapping_contest
 ---
 
 Calling all mappers! After a brief hiatus, the Monthly Beatmapping Contest is back! With our heckles warmed from W h i t e's record breaking performance in our last MBC, it's time for a new track to spur our mappers to new heights of creativity!

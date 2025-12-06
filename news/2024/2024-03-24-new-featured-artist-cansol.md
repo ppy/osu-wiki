@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Cansol"
 date: 2024-03-24 23:59:00 +0000
+series: featured_artists
 ---
 
 **Cansol** takes the plunge into our Featured Artists!

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0ea790250344a95c352ee0241b94ddc44a06c5b0
+---
+
 # 竞赛
 
 本页面专门用来记录整个 osu! 社区举办的竞赛。
@@ -37,7 +42,7 @@
 - 参赛谱师现在只需提交单个难度，而无需提交整个谱面集。
 - 参赛谱师现在需要遵守规则集合中的某个作图主题和/或限制要求，例如“星数评价不得超过 4.00★”，或是“每个物件之间都应重叠”。
 
-| 竞赛届数 | 精选艺术家 | 游戏模式 | ![金皇冠][GCrown] | ![银皇冠][SCrown] | ![铜皇冠][BCrown] | 审查Screening Crew's #1 | 结果 |
+| 竞赛届数 | 精选艺术家 | 游戏模式 | ![金皇冠][GCrown] | ![银皇冠][SCrown] | 审查团 #1 | 结果 |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [2020年 1 月](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [2020 年 2 月](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -78,7 +83,7 @@
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 | [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)、::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392)、::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | **:3** (::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157)、::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
 
-### [osu! 作图奥运会](A_Labour_of_Love_Contest)
+### [osu! 作图奥运会](Mapping_Olympiad)
 
 **osu! 作图奥运会 (osu! Mapping Olympiad)** 是一个作图竞赛，在精神上继承了之前（2020 年前）的月度作图竞赛。在这个竞赛中，参赛谱师要从当届竞赛给出的歌曲中任选一首，可以创建从 Easy 或 Normal 开始、[难度分布](/wiki/Beatmap/Difficulty#难度等级)适宜的谱面，也可以制作出一定数目的难度。
 

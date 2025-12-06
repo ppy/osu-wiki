@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tanchiky"
 date: 2021-03-03 09:00:00 +0000
+series: featured_artists
 ---
 
 **Tanchiky** joins the lineup as our latest Featured Artist!

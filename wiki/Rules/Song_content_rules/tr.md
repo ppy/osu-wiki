@@ -42,4 +42,4 @@ Gönderinizin kaldırıldığı her seferde, kaldırılma gerekçesinin dayanağ
 
 İsterseniz bunu onlarla özel mesaj yoluyla tartışabilirsiniz, veya parçanın uygun olduğu iddianızı tasdik etmek için diğerlerinin görüşlerini edinebilirsiniz. Eğer halen daha bu cephede ortak bir zemin bulamıyorsanız, iddianız, parçanızın uygun olup olmadığına ortaklaşa bir karar verecek olan, şu anki NAT üyelerine bir fikir birliği oluşturulması için bildirilebilir.
 
-Ağır derecede uygunsuz yüklemeler hariç, tüm kullanıcılara bu hükümlerin belirsiz doğası gereği cezai işlem uygulanmadan önce **bir gönderi serbestisi** tanınır. Bu serbesti geçtiğinde, uygunsuz parçaları devamlı karşıya yüklemeyi tercih eden kullanıcılar gönderilerinin kaldırılmasıyla birlikte 42 saatlik bir ceza ile karşılaşacaktır.
+Ağır derecede uygunsuz yüklemeler hariç, tüm kullanıcılara bu hükümlerin belirsiz doğası gereği cezai işlem uygulanmadan önce **bir gönderi serbestisi** tanınır. Bu serbesti geçtiğinde, uygunsuz parçaları devamlı karşıya yüklemeyi tercih eden kullanıcılar gönderilerinin kaldırılmasıyla birlikte 43 saatlik bir ceza ile karşılaşacaktır.

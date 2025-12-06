@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: March & April 2018"
 date: 2018-06-06 06:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Two Spotlights for the price of one, and a brief announcement about the future of the project, plus a bunch of awesome beatmaps to play and two shiny new medals!

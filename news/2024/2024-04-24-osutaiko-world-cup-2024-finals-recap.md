@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2024: Finals Recap"
 date: 2024-04-24 21:30:00 +0000
+series: world_cups
 ---
 
 Get prepared for the upcoming Grand Finals by refreshing your memory of the previous week's osu!taiko drum-smashing madness!

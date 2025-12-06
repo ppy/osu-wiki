@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: April 2021"
 date: 2021-04-20 12:00:00 +0000
+series: project_loved
 ---
 
 With a fresh batch of maps from the grave, [Project Loved](https://osu.ppy.sh/community/forums/120) returns with your monthly dose of maps to vote on!

@@ -35,3 +35,11 @@
 | 400,000 Keys | Hit a total of 400,000 keys in osu!mania. | Four hundred thousand and still not even close. |
 | 4,000,000 Keys | Hit a total of 4,000,000 keys in osu!mania. | Is this the end of the rainbow? |
 | 40,000,000 Keys | Hit a total of 40,000,000 keys in osu!mania | When someone asks which keys you play, the answer is now 'yes'. |
+
+## Daily Challenge
+
+| Medal name | Requirement | Description |
+| :-- | :-- | :-- |
+| Daily Sprout | Achieve a 1-day streak in [Daily Challenge](/wiki/Gameplay/Daily_challenge). | Ready for anything. |
+| Weekly Sapling | Achieve a 7-day streak in [Daily Challenge](/wiki/Gameplay/Daily_challenge). | Circadian rhythm calibrated. |
+| Monthly Shrub | Achieve a 30-day streak in [Daily Challenge](/wiki/Gameplay/Daily_challenge). | In for the grind. |

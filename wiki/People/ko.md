@@ -34,5 +34,5 @@
 
 - [peppy](peppy)
 - [스태프 로그](Staff_log)
-- [유저 그룹](User_group)
+- [유저 그룹들](User_groups)
 - [특별한 칭호를 가진 유저](Users_with_unique_titles)

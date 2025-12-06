@@ -17,7 +17,9 @@ To submit a beatmap for Loved, please visit the [beatmap submission page](https:
 
 Nominated beatmaps are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the beatmap to be Loved or not. Maps reaching 80% "Yes" votes at their polls' end time will be moved to the Loved category.
 
-Creators of said beatmaps are also able to request them to be removed from the Loved category by reaching out to a [Project Loved Team](https://osu.ppy.sh/groups/31) member or by posting in `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy). The removal process will take a minimum of 1 week and creator will receive a follow-up when it is finished.
+Creators of said maps **cannot** request them to be removed from the Loved category. Moreover, Loved difficulties cannot directly be reused in Ranked beatmaps.
+
+Maps may still be removed from the category temporarily in the event gameplay-breaking issues are discovered right after being added to Loved. These problems can be reported by reaching out to a [Project Loved Team](https://osu.ppy.sh/groups/31) member or by posting in `#osu-loved` channel of the [osu! Discord server](https://discord.gg/ppy).
 
 ## Eligibility
 
@@ -50,7 +52,7 @@ Every month, beatmaps are chosen according to 9 categories, with the goal of ens
 | Category | Explanation |
 | :-: | :-- |
 | Popular Playcounts | Popular beatmaps in the community, with at least 100,000 playcount. |
-| Outstanding Oldies | Beatmaps submitted more than six years ago. |
+| Outstanding Oldies | Beatmaps submitted in the first half of osu!'s lifespan. |
 | Small Spectacles | Outstanding beatmaps as determined by the captains, with less than 5,000 playcount. |
 | Daredevil Difficulties | Beatmaps known for extreme difficulty, nominated with the goal of fostering competition among top players. |
 | Ranked Rejects | Beatmaps with full spreads that follow ranking criteria, yet never reached Ranked status. |

@@ -14,6 +14,7 @@ no_native_review: true
 
 ![RL Modsymbol](/wiki/shared/mods/RL.png "Relax (RL) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Relax (lazer-Mod)](/wiki/Gameplay/Game_modifier/Relax_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht

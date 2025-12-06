@@ -13,15 +13,16 @@ tags:
 
 ![Icono del mod PF](/wiki/shared/mods/PF.png "Icono del mod Perfect (PF)")
 
-*Para una lista completa de mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
-*Ver también: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
+*Para la versión de [lazer](/wiki/Client/Release_stream/Lazer) de este artículo, véase: [Perfect (mod de lazer)](/wiki/Gameplay/Game_modifier/Perfect_(lazer))*\
+*Para la lista completa de los mods, véase: [Modificador del juego](/wiki/Gameplay/Game_modifier)*\
+*Véase también: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
-## Acerca de
+## Resumen
 
 - Abreviatura: PF
 - Tipo: Aumento de dificultad
-- Multiplicador de puntuación: 1.00x
-- Tecla de acceso directo predeterminada: `S` `S` o `Shift` + `S`
+- Multiplicador de puntuación: 1,00x
+- Tecla de acceso directo predeterminada: `S` `S` o `Mayús` + `S`
 - Descripción: `SS o nada.`
 - Modos de juego compatibles: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Variante: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
@@ -34,8 +35,8 @@ Cualquiera de las siguientes acciones **provocará** que el mod Perfect reinicie
 
 - Fallar una nota
 - Obtener un OK o MEH
-- Fallar un spinner
-- Perder la [cola](/wiki/Gameplay/Hit_object/Slider/Slidertail) de un slider o [romper un slider](/wiki/Gameplay/Judgement/Slider_break)
+- No oompletar un spinner
+- Soltar la [cola](/wiki/Gameplay/Hit_object/Slider/Slidertail) de un slider o [romper un slider](/wiki/Gameplay/Judgement/Slider_break)
 
 Cualquiera de las siguientes acciones **no provocará** que el mod Perfect reinicie el beatmap:
 
@@ -48,7 +49,7 @@ Este mod tiene el mismo efecto en todos los [modos de juego](/wiki/Game_mode).
 
 ## Curiosidades
 
-- Si hay un prólogo que se puede omitir, el mod Perfect no lo omitirá automáticamente, ya que utiliza la funcionalidad de reinicio en lugar de una repetición rápida.
+- Si hay un prólogo que se puede omitir, el mod Perfect no lo omitirá automáticamente, ya que usa la funcionalidad de reinicio en lugar de una repetición rápida.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

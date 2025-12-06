@@ -27,6 +27,7 @@
 - **Cuando hay varias opciones para los metadatos:**
   - Intenta que coincidan con los de los beatmaps clasificados. Sigue lo más reciente y común, luego verifica que los metadatos sean correctos y corrige lo que sea necesario.
     - Los nombres de los artistas también deben ser consistentes, siempre que no usen alias diferentes intencionalmente.
+    - La capitalización de los marcadores se puede cambiar libremente si se hace para que coincida con el estilo del título y del artista.
   - Se prefieren las romanizaciones/traducciones oficiales para los campos romanizados, siempre que sean fáciles de encontrar y comúnmente reconocidas.
   - En caso de opciones conflictivas, debe realizarse una discusión para determinar cuál sería la mejor opción.
 
@@ -49,7 +50,7 @@
 
   Esto no se aplica si el artista usa a propósito símbolos de manera que no sugieran espacios. Por ejemplo, `。✰302？ionwan2go✰。` sería `.*302?ionwan2go*.` y no `. * 302 ? ionwan2go * .`. Los demás tipos de caracteres se tratan según el caso.
 
-- **En los campos romanizados, los símbolos especiales deben cambiarse por su equivalente imprimible ASCII más cercano o eliminarse.** Los caracteres especiales distintos de los indicados a continuación deben modificarse o eliminarse según el caso. Cuando existan varias opciones, la que se use para la romanización dependerá del contexto.
+- **En los campos romanizados, los símbolos deben cambiarse por su equivalente imprimible [ASCII](https://es.wikipedia.org/wiki/ASCII) más cercano o eliminarse.** La siguiente tabla enumera las romanizaciones recomendadas que deben tenerse en cuenta al encontrarse con estos símbolos. Cualquier otro símbolo debe discutirse según el caso.
 
   | Símbolo | Romanización recomendada |
   | :-- | :-- |

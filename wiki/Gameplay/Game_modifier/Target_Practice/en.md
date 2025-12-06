@@ -12,6 +12,7 @@ tags:
 
 ![TP mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
 
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Target Practice (lazer mod)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer))*\
 *For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
 *Notice: the Target Practice mod is only accessible in the `Cutting Edge` build.*
 

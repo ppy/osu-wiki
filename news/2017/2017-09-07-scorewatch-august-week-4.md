@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: August Week 4"
 date: 2017-09-07 15:00:00 +0200
+series: scorewatch
 ---
 
 Scorewatch wraps up the month of August with some crazy DragonForce scores, an old rrtyui score and 2 Japanese osu!taiko giants going head to head on Infected Mushroom! Read on to find out more!

@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 509c538fba6a848cf044b98104f2a8466b38bf83 Doryan
+outdated_translation: true
+outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
 ---
 
 # Conditions de déverrouillage des médailles : Dedication

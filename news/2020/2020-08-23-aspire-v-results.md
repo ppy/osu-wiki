@@ -2,6 +2,7 @@
 layout: post
 title: Aspire V - Final Results
 date: 2020-08-23 12:00:00 +0000
+series: official_contests
 ---
 
 Aspire V closes, and amidst the wake of the most creative maps this contest series has ever seen, we welcome not one, but two new Elite Mapper: Aspirants!

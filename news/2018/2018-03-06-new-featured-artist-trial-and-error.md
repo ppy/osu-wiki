@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Trial & Error"
 date: 2018-03-06 11:00:00 +0000
+series: featured_artists
 ---
 
 The search for new musical talent never ends, and we're proud to announce the next addition to osu!'s Featured Artist lineup - **Trial & Error**!

@@ -1,6 +1,8 @@
 # SEV rating
 
-SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as *Obviousness/Severity*. Both values range from 0 to 2, making it a simple to understand and a quick-to-use system.
+SEV is an internal measurement system used by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). This measurement is split up into two values and displayed as *Obviousness/Severity*. Obviousness ranges from 0 to 2 and severity ranges from 0 to 3, making it a quick-to-use system.
+
+SEV ratings are only visible to NAT members given they only serve as internal documentation and reference for the evaluations of the nominating BNs.
 
 ## Obviousness and severity
 
@@ -21,6 +23,7 @@ SEV is a measurement system used by the [Nomination Assessment Team](/wiki/Peopl
 | 0 | Negligible | Does not or hardly affects gameplay. |
 | 1 | Worth noting | Impacts gameplay negatively but not significantly. |
 | 2 | Moderate design flaw | Harms gameplay to the point where it is typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, such as being both too difficult to read and an unwarranted difficulty spike. |
+| 3 | Severe design flaw | Harms gameplay to the point where the issue is considered game-breaking, e.g. concurrent hit objects. |
 
 Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
 
@@ -33,7 +36,8 @@ Below are examples of SEV ratings and how they are roughly interpreted by evalua
 | 1/2 | Often means many things went wrong, but all require experience to spot easily. |
 | 2/0 | Some glaring issue in the map's settings, like metadata, was somehow missed. |
 | 2/1 | Some glaring issue in the map's gameplay, like no hitsounding, was missed. |
-| 2/2 | An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
+| 2/2 | A severe issue that spans the majority of the map, like a big jump in a low difficulty, was missed. |
+| 2/3 | An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
 
 ## Usage
 
@@ -159,3 +163,9 @@ Resets related to beatmap files almost never have a severity above 0, as they us
   - Bad hitsounding, e.g. unwarranted claps/snares/cymbals on every beat or similar
 - **1/1:** (6%)
   - Silenced active objects
+
+## History
+
+- SEV ratings were introduced in 20 May 2020 and were publicly visible.<!-- internal reference: https://discord.com/channels/316154420591067136/316586967171203075/712448434770018424 -->
+- In 16 December 2023, SEV ratings were deprecated in favor if a simpler impact system that assigned a "minor", "notable" or "severe" label to each reset.<!-- internal reference: https://discord.com/channels/90072389919997952/299846395031060480/1184280021448273930 -->
+- The SEV rating system was reintroduced on 19 April 2025<!-- internal reference: https://discord.com/channels/90072389919997952/299846395031060480/1363112346272272484 --> following concerns about impact ratings being too vague. However, it was not made public again given its main purpose is to serve as internal documentation.

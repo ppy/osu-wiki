@@ -12,6 +12,7 @@ tags:
 
 ![DT Modsymbol](/wiki/shared/mods/DT.png "Double Time (DT) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Double Time (lazer-Mod)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Siehe auch: [Nightcore (Mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 

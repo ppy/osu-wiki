@@ -1,54 +1,54 @@
 # Usuarios con títulos únicos
 
-Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones. La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
+Los títulos de usuario normalmente se asocian con los [grupos de usuarios](/wiki/People/User_group), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones. La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
 
 ## Campeones actuales de la World Cup
 
 Cada año, los ganadores de las [World Cups oficiales](/wiki/Tournaments#world-cups-oficiales) reciben el título de usuario **osu!/osu!taiko/osu!catch/osu!mania Champion**, que dura hasta la conclusión de la siguiente iteración de la World Cup correspondiente.
 
-Ganadores de la [OWC 2023](/wiki/Tournaments/OWC/2023) con el título de usuario **osu! Champion**:
+Ganadores de la [OWC 2024](/wiki/Tournaments/OWC/2024) con el título de usuario **osu! Champion**:
 
-- ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270)
-- ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
-- ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211)
-- ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150)
-- ::{ flag=US }:: [WindowLife](https://osu.ppy.sh/users/4108547)
-- ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257)
+- ::{ flag=KR }:: [\[Karcher\]](https://osu.ppy.sh/users/11443437)
+- ::{ flag=KR }:: [Allegrissimo](https://osu.ppy.sh/users/9052194)
+- ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839)
+- ::{ flag=KR }:: [hyeok2044](https://osu.ppy.sh/users/8472976)
+- ::{ flag=KR }:: [Doomsday fanboy](https://osu.ppy.sh/users/4511522)
+- ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078)
+- ::{ flag=KR }:: [fragranceofpage](https://osu.ppy.sh/users/11399348)
+- ::{ flag=KR }:: [worst hr player](https://osu.ppy.sh/users/14106450)
 
-Ganadores de la [TWC 2023](/wiki/Tournaments/TWC/2023) con el título de usuario **osu!taiko Champion**: 
+Ganadores de la [TWC 2025](/wiki/Tournaments/TWC/2025) con el título de usuario **osu!taiko Champion**: 
 
-- ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501)
+- ::{ flag=JP }:: [\_Kan2](https://osu.ppy.sh/users/7160196)
+- ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311)
 - ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073)
-- ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357)
-- ::{ flag=JP }:: [kotohira\_06](https://osu.ppy.sh/users/22444525)
-- ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562)
-- ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950)
+- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
+- ::{ flag=JP }:: [My Angel Eru](https://osu.ppy.sh/users/26454214)
+- ::{ flag=JP }:: [Nekomusya7563](https://osu.ppy.sh/users/1382717)
 
-Ganadores de la [CWC 2023](/wiki/Tournaments/CWC/2023) con el título de usuario **osu!catch Champion**:
+Ganadores de la [CWC 2025](/wiki/Tournaments/CWC/2025) con el título de usuario **osu!catch Champion**:
 
-- ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057)
-- ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951)
-- ::{ flag=KR }:: [OYG](https://osu.ppy.sh/users/7547506)
-- ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
-- ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)
-- ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549)
+- ::{ flag=AR }:: [\[225\]SirAlex](https://osu.ppy.sh/users/17738253)
+- ::{ flag=AR }:: [\[225\]Zeus](https://osu.ppy.sh/users/8329151)
+- ::{ flag=AR }:: [Naarkz](https://osu.ppy.sh/users/19490380)
+- ::{ flag=AR }:: [SirGonzaxz](https://osu.ppy.sh/users/17309439)
+- ::{ flag=AR }:: [Story](https://osu.ppy.sh/users/8172283)
+- ::{ flag=AR }:: [VelperK](https://osu.ppy.sh/users/348467)
 
-Ganadores de la [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) con el título de usuario **osu!mania 4K Champion**:
+Ganadores de la [MWC 4K 2024](/wiki/Tournaments/MWC/2024_4K) con el título de usuario **osu!mania 4K Champion**:
 
-- ::{ flag=US }:: [\[LS\]Dev](https://osu.ppy.sh/users/16407268)
-- ::{ flag=US }:: [cafesito](https://osu.ppy.sh/users/7794488)
+- ::{ flag=US }:: [beta carotene](https://osu.ppy.sh/users/22839620)
 - ::{ flag=US }:: [Hello\_Son](https://osu.ppy.sh/users/17308009)
 - ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)
 - ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
+- ::{ flag=US }:: [Reshiram](https://osu.ppy.sh/users/7794488)
 - ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
-Ganadores de la [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) con el título de usuario **osu!mania 7K Champion**:
+Ganadores de la [MWC 7K 2025](/wiki/Tournaments/MWC/2025_7K) con el título de usuario **osu!mania 7K Champion**:
 
+- ::{ flag=KR }:: [Crusher](https://osu.ppy.sh/users/7304158)
 - ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)
-- ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586)
-- ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803)
+- ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649)
 - ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)
 
 ## Poseedores anteriores de títulos de la World Cup
@@ -72,6 +72,7 @@ Ganadores de las osu! World Cups anteriores con el título de usuario **Former o
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603) |
 | [OWC 2021](/wiki/Tournaments/OWC/2021) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153) |
 | [OWC 2022](/wiki/Tournaments/OWC/2022) | Former osu! Champion: 2022 | ::{ flag=US }:: [decaten](https://osu.ppy.sh/users/5645231), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013), ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848), ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553) |
+| [OWC 2023](/wiki/Tournaments/OWC/2023) | Former osu! Champion: 2023 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Kama](https://osu.ppy.sh/users/13380270), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [tekkito](https://osu.ppy.sh/users/7075211), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150), ::{ flage=US }:: [hotdog4000](https://osu.ppy.sh/users/4108547), ::{ flag=US }:: [wudci](https://osu.ppy.sh/users/2590257) |
 
 Ganadores de las osu!taiko World Cups anteriores con el título de usuario **Former osu!taiko Champion**:
 
@@ -89,6 +90,8 @@ Ganadores de las osu!taiko World Cups anteriores con el título de usuario **For
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
 | [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
 | [TWC 2022](/wiki/Tournaments/TWC/2022) | Former osu!taiko Champion: 2022 | ::{ flag=JP }:: [nameless\_ll](https://osu.ppy.sh/users/11199742), ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) |
+| [TWC 2023](/wiki/Tournaments/TWC/2023) | Former osu!taiko Champion: 2023 | ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950), ::{ flag=JP }:: [kotohira_06](https://osu.ppy.sh/users/22444525), ::{ flag=JP }:: [Nanas3](https://osu.ppy.sh/users/17015562) |
+| [TWC 2024](/wiki/Tournaments/TWC/2024) | Former osu!taiko Champion: 2024 | ::{ flag=JP }:: [kanten\_07](https://osu.ppy.sh/users/11680357), ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757) |
 
 Ganadores de las osu!catch World Cups anteriores con el título de usuario **Former osu!catch Champion**:
 
@@ -105,6 +108,8 @@ Ganadores de las osu!catch World Cups anteriores con el título de usuario **For
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |
 | [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304) |
 | [CWC 2022](/wiki/Tournaments/CWC/2022) | Former osu!catch Champion: 2022 | ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) |
+| [CWC 2023](/wiki/Tournaments/CWC/2023) | Former osu!catch Champion: 2023 | ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057), ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951), ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506), ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520), ::{ flag=KR }:: [YesMyDarknesss](https://osu.ppy.sh/users/4158549) |
+| [CWC 2024](/wiki/Tournaments/CWC/2024) | Former osu!catch Champion: 2024 | ::{ flag=US }:: [Colin](https://osu.ppy.sh/users/5502521), ::{ flag=US }:: [Dahcreeper](https://osu.ppy.sh/users/6926006), ::{ flag=US }:: [Lexii](https://osu.ppy.sh/users/7226149), ::{ flag=US }:: [rostld](https://osu.ppy.sh/users/4365562), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Trent](https://osu.ppy.sh/users/3438241) |
 
 Ganadores de las osu!mania World Cups anteriores con el título de usuario **Former osu!mania Champion**:
 
@@ -126,11 +131,14 @@ Ganadores de las osu!mania World Cups anteriores con el título de usuario **For
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697) |
 | [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
 | [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) | Former osu!mania 7K Champion: 2023 | ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405), ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664), ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011), ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439) |
+| [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) | Former osu!mania 4K Champion: 2023 | ::{ flag=US }:: [ERA Dev](https://osu.ppy.sh/users/16407268) |
+| [MWC 7K 2024](/wiki/Tournaments/MWC/2024_7K) | Former osu!mania 7K Champion: 2024 | ::{ flag=KR }:: [HanJaeHun](https://osu.ppy.sh/users/2402586), ::{ flag=KR }:: [OutLast](https://osu.ppy.sh/users/5402803) |
 
 ## Ganadores de los concursos de mapping oficiales
 
 La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Mapper** a través de los [puntos de los concursos](/wiki/Contests/Contest_points). Los concursos antiguos daban el título como premio al ganador.
 
+- ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
@@ -143,8 +151,10 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
 - ::{ flag=TW }:: [Firce777](https://osu.ppy.sh/users/274072)
+- ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
+- ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
@@ -185,19 +195,22 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 Desde 2020, los miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deje el equipo.
 
-- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)[^elite-note]
-- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
-- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
-- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
-- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)[^elite-note]
-- ::{ flag=KR }:: [SecxcscX](https://osu.ppy.sh/users/13543418)
-- ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
-- ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127)
+- ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)[^elite-note]
+- ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+- ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285)
+- ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741)
+- ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090)
+- ::{ flag=US }:: [Gorou](https://osu.ppy.sh/users/12157130)
+- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)[^elite-note]
+- ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303)
+- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)[^elite-note]
+- ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664)[^elite-note]
+- ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534)
+- ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598)
 
 ## Ganadores de los concursos Aspire mapping
 
@@ -227,6 +240,44 @@ Los concursos [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) otorgan a su e
 - ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621)
 - ::{ flag=US }:: [Codazen](https://osu.ppy.sh/users/18291144)
 - ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207)
+
+## Ganadores del concurso Locus
+
+A estos usuarios se les otorgó un título como premio según la función que desempeñaron en su equipo durante el concurso de mapping [Locus](/wiki/Contests/Locus/2025).
+
+Los miembros de un equipo que contribuyeron al mapping en Locus recibieron el título de **Mapping Architect**:
+
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- ::{ flag=MY }:: [Etsuko Marvia](https://osu.ppy.sh/users/13893348)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315)
+- ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023)
+- ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
+- ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
+- ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992)
+
+Los miembros de un equipo que contribuyeron a la creación del material visual en Locus recibieron el título de **Visual Architect**:
+
+- ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499)
+- ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233)
+- ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127)
+- ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323)
+- ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)
+- ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910)
+- ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223)
+- ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534)
+- ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337)
+
+Los miembros de un equipo que contribuyeron a la creación de la música de Locus recibieron el título de **Musical Architect**:
+
+- ::{ flag=US }:: [Akiri-](https://osu.ppy.sh/users/19587411)
+- ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313)
+- ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357)
+- ::{ flag=KR }:: [Kawashiro](https://osu.ppy.sh/users/1533796)
+- ::{ flag=CA }:: [KiAme](https://osu.ppy.sh/users/37416442)
+- ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678)
+- ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794)
+- ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088)
 
 ## osu!musician
 
@@ -276,14 +327,16 @@ Estos jugadores recibieron sus respectivos títulos a través de un logro de jue
 | Usuario | Título | Logro |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Consiguió el primer NoMod FC en [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 15 de marzo de 2023 |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Consiguió FC en todos los mapas clasificados de osu!taiko a partir del 3 de noviembre de 2019 |
-| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 11 de agosto de 2021 |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Jugó todos los mapas clasificados de osu! disponibles hasta la fecha (15 de marzo de 2023) |
+| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Consiguió FC en todos los mapas clasificados de osu!taiko disponibles hasta la fecha (3 de noviembre de 2019) |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jugó todos los mapas clasificados de osu! disponibles hasta la fecha (11 de agosto de 2021) |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Otorgado por ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) a finales de 2008 por alcanzar el puesto 104 en 1 semana, como referencia a [*The World Ends with You*](https://es.wikipedia.org/wiki/The_World_Ends_with_You) |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! hasta el 27 de abril de 2019 |
+| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! disponibles hasta la fecha (27 de abril de 2019) |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Fue la [primera persona en desbloquear la medalla *Girl in the Forest*](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | Fue la [primera persona en desbloquear la medalla *Internment*](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Logró la puntuación máxima posible en [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) para obtener un lugar imbatible en el puesto #1 en la tabla de clasificación |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [Superó el límite del tamaño entero de 16 bits de 32 767 del contador de puntos de rendimiento en osu!(stable)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | Medal Hunter | Fue la primera persona en desbloquear todas las medallas disponibles hasta la fecha (16 de octubre de 2025) en los cuatro modos de juego |
 
 ## Contribuidores
 
@@ -328,7 +381,7 @@ Estos usuarios recibieron sus respectivos títulos por diversas razones.
 ## Notas
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) recibió el título **Elite Mapper II** en su lugar por haber obtenido con éxito el título Elite Mapper a través de dos medios diferentes: ganando el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) y superando el umbral de 6 puntos en el nuevo sistema de [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
-[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) recibieron el título **Elite Nominator II** en su lugar por haber sido nombrados Elite Nominators durante dos años seguidos.
+[^elite-note]: ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), y ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) recibieron el título de **Elite Nominator II** por haber sido nombrados Elite Nominators durante dos años en total. ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) recibió el título de **Elite Nominator III** por haber sido nombrado Elite Nominator durante tres años en total.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) recibió el título **Elite Mapper II: Aspirant** por haber ganado tanto [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) como [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) recibió el título **osu!mixer II** por haber ganado tanto [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) como el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) recibió el título **Elite Storyboarder II** por haber [recibido el título](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) debido a sus destacadas contribuciones a la escena del storyboarding, además de haber ganado el concurso [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

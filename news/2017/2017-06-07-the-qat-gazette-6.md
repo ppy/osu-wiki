@@ -3,6 +3,7 @@ layout: post
 title: "The QAT Gazette #6"
 date: 2017-06-07 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/161544954160/the-qat-gazette-6
+series: qat_gazette
 ---
 
 **Hello!** Even though I recently wrote about the osu!taiko, osu!catch and osu!mania Beatmap Nominator test results and feedback (with some assistance from OnosakiHito and Feerum), it's been a busy few weeks for us here at the Quality Assurance Team, so I wanted to bring you all up to speed with a more general-purpose article as well.

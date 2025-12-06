@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: fcc126a8a09fb621b09bb9f2ddbe5d5a390fa7fc
+---
+
 # Communauté
 
 Cette page répertorie les moyens par lesquels les utilisateurs de tout le site d'osu! peuvent entrer en contact les uns avec les autres. Si vous êtes à la recherche d'opportunités de contribution, mais ne savez pas par où commencer, assurez-vous de lire [Comment vous pouvez aider !](/wiki/Community/How_you_can_help!).
@@ -9,6 +14,7 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 - [Organisations hors ligne](/wiki/Community/Organisations)
 - [Serveur Discord osu!](/wiki/Community/Discord_servers#officielle)
 - [Serveurs Discord communautaires](/wiki/Community/Discord_servers)
+- [Reddit](/wiki/Community/Reddit)
 
 ## Projets
 

@@ -1,6 +1,6 @@
 ---
+outdated_since: 3beefe4f5a50484b1a97ebdf019fd3581d4ca0c4
 outdated_translation: true
-outdated_since: 2e5cd7cbb4e6f9cc07089d481e1b5b8b27d9a842
 ---
 
 # .osr (Dateiformat)
@@ -81,7 +81,7 @@ Dies wird auch in der Dokumentation der [osu!-API](https://github.com/ppy/osu-ap
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | Immer mit DT in Verwendung: 512 + 64 = 576 |
+| Nightcore | 512 (9) | Immer mit DT in Verwendung: 512 + 64 = 576. Ersetzt ungenutzte Taiko Mod. |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Irreversible Mechanism"
 date: 2021-01-30 09:30:00 +0000
+series: featured_artists
 ---
 
 **Irreversible Mechanism** crashes into the Featured Artist roster!

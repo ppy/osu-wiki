@@ -12,6 +12,8 @@ tags:
   - "rang #1"
   - classements
   - meilleur joueur
+outdated_translation: true
+outdated_since: 47380e1c3c6a414c437cd093bf205643f0278ba6
 ---
 
 # L'histoire des classements
@@ -32,11 +34,11 @@ En date du 19 juin 2024, sur [l'osu!taiko performance rankings](https://osu.ppy.
 
 ## ![][osu!catch] osu!catch
 
-En date du 21 juillet 2024, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626/fruits).
+En date du 2 novembre 2024, sur [l'osu!catch performance rankings](https://osu.ppy.sh/rankings/fruits/performance), le joueur #1 est ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits).
 
 ## ![][osu!mania] osu!mania
 
-En date du 13 avril 2023, sur [l'osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+En date du 31 décembre 2024, sur [l'osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) le joueur #1 est ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

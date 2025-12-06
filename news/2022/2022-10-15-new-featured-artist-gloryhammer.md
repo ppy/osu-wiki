@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: GLORYHAMMER"
 date: 2022-10-15 10:00:00 +0000
+series: featured_artists
 ---
 
 Power metal unit **GLORYHAMMER**'s intergalactic journey takes a pit stop in our osu! Featured Artist collection.

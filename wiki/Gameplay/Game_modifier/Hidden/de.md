@@ -13,6 +13,7 @@ no_native_review: true
 
 ![HD Modsymbol](/wiki/shared/mods/HD.png "Hidden (HD) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Hidden (lazer-Mod)](/wiki/Gameplay/Game_modifier/Hidden_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Fade In (Mod)](/wiki/Gameplay/Game_modifier/Fade_In) oder [Flashlight (Mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
