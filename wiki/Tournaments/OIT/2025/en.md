@@ -25,7 +25,7 @@ The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-e
 
 ## Prizes
 
-The osu! Indonesia Tournament #15 (2025) offers an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool may be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #15 (2025) ft. Stella offers an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool may be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -37,7 +37,7 @@ As with all the previous osu! Indonesia Tournament iterations and other osu! tou
 
 ## Organisation
 
-The osu! Indonesia Tournament #15 (2025) is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -134,7 +134,7 @@ The osu! Indonesia Tournament #15 (2025) is run by various osu! community member
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby**. Players who are looking to warm up before the match are expected to do so by their own before the match commences.
 4. Players are expected to exercise common sense in pick time windows.
    - If a player is unable to come up with a pick within a 90-second time window of their picking turn, the pick will be given to the other player.
-5. **There will be no dedicated Free Mod pick at any stage of the tournament**. However, In the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
+5. **There will be no dedicated Free Mod pick at any stage of the tournament**. However, in the case of a tiebreaker, the tiebreaker map will be played with the Free Mod option enabled.
    - Playing the tiebreaker map with mods is *not* mandatory.
    - Should any player wish to play the tiebreaker map with mods, allowed mods are Easy, Hard Rock, Hidden, or any possible combination of the three.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
