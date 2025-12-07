@@ -142,20 +142,55 @@ Captains are denoted in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a667d40bbd88942cd98926e839de5d37).
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 6 December 2025
-
-### Sunday, 7 December 2025
+### Saturday, 13 December 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 43a | Australia ::{ flag=AU }:: | ::{ flag=CA }:: Canada | [Dec 07 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T010000&p1=1440&p2=57&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| SM | Finals | showmatch | [Dec 07 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T163000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| 44 | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 07 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T180000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-|  | Grand Finals | mappool showcase | [Dec 07 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251207T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 45 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Dec 13 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251213T040000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^lbf-match] |
+| SM | Grand Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) |  |
+
+### Sunday, 14 December 2025
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 46b | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Dec 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T180000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (230 MB)](https://packs.ppy.sh/P307%20-%20osu%21%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
+[View the showcase VOD here](https://www.twitch.tv/videos/2637864390?t=3h42m0s)
+
+- No Mod
+  1. [Falcom Sound Team jdk - Azure Destiny (Deca, jonathanlfj) \[Grand Reset\]](https://osu.ppy.sh/beatmapsets/2475209#osu/5425903)
+  2. [STARKILL - Be Dead or Die (ItsWinter) \[404 EDEN\]](https://osu.ppy.sh/beatmapsets/2475322#osu/5426127)
+  3. [Cansol - Out of Place (bob, Wispy, oatmilk) \[Stray\]](https://osu.ppy.sh/beatmapsets/2475329#osu/5426137)
+  4. [Billain - Afterburner (Cut Ver.) (Azrulk, Ishtiaq) \[Azrulk x Ishtiaq | Void Shift\]](https://osu.ppy.sh/beatmapsets/2475334#osu/5426152)
+  5. [Kikuo - Mono wo Parapara Kowasu (Icekalt) \[Amalgamate\]](https://osu.ppy.sh/beatmapsets/2475336#osu/5426154)
+- Hidden
+  1. [youman - R.I.P. (Petal) \[M.E.M.O.R.I.A.M.\]](https://osu.ppy.sh/beatmapsets/2475339#osu/5426162)
+  2. [Kenshi Yonezu - Shitodo Seiten Daimeiwaku (iljaaz, Ryuusei Aika) \[Helter-skelter\]](https://osu.ppy.sh/beatmapsets/2475153#osu/5425751)
+  3. [BlackY - PANAGIA (Callionet, yf\_bmp) \[Effulgence (OWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182)
+- Hard Rock
+  1. [Ave Mujica - DIVINE (Plus4j) \[CLAIRVOYANCE\]](https://osu.ppy.sh/beatmapsets/2474841#osu/5424868)
+  2. [METAROOM - EMBRYOGLYPH (Mysty, Pyo) \[MYSTERMINAL PYTHESIS\]](https://osu.ppy.sh/beatmapsets/2475349#osu/5426187)
+  3. [tuki. - Guilty (iljaaz) \[Punishment\]](https://osu.ppy.sh/beatmapsets/2475358#osu/5426197)
+- Double Time
+  1. [fhana - Wonder Stella (sukiNathan) \[Marvel\]](https://osu.ppy.sh/beatmapsets/361790#osu/794750)
+  2. [airportexpress feat.Itsuneko - BIRTH (Chloe) \[Insane\]](https://osu.ppy.sh/beatmapsets/175241#osu/422762)
+  3. [DJ SHARPNEL - Pacific girls (m1ts) \[jumpstream\]](https://osu.ppy.sh/beatmapsets/2475323#osu/5426129)
+  4. [Aiobahn - resonance feat. KOCHO (KARUT Remix) (Lince Cosmico, Mysty) \[dual tone\]](https://osu.ppy.sh/beatmapsets/2475370#osu/5426228)
+- Free Mod
+  1. [DJ SHARPNEL - Mmmmmmm (alden, netnesanya) \[Chaos Collab!!\]](https://osu.ppy.sh/beatmapsets/2475283#osu/5426056)
+  2. [beatMARIO - Night of Knights (dectopia) \[Perfect Maid\]](https://osu.ppy.sh/beatmapsets/2475212#osu/5425907)
+  3. [Inferi - The Abhorrent Art (riot1133) \[Massacre\]](https://osu.ppy.sh/beatmapsets/2475340#osu/5426165)
+  4. [Kobaryo - Kick To The Sky (Mismagius) \[Revolution\]](https://osu.ppy.sh/beatmapsets/2475377#osu/5426252)
+- Tiebreaker
+  1. **[Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est. - (Camo, ItsWinter, LMT, piroshki, ravensong) \[Melodia Caelestis Immortalis\]](https://osu.ppy.sh/beatmapsets/2475379#osu/5426254)**
 
 ### Finals
 
@@ -334,12 +369,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ### Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1lm6xzNVoDKEL7gxV2ftw1ZUKI5JAXcOrfweSqXgWGHo?rm=minimal).
+
 Saturday, 6 December 2025:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | 41 | **Canada** ::{ flag=CA }:: | **7** | 4 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/120006218) | [#1](https://www.twitch.tv/videos/2636586969?t=0h4m54s) |
 | 42 | **Australia** ::{ flag=AU }:: | **7** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/120008210) | [#1](https://www.twitch.tv/videos/2636776575?t=0h5m0s) |
+
+Sunday, 7 December 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 43a | **Australia** ::{ flag=AU }:: | **7** | 3 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/120015136) | [#1](https://www.twitch.tv/videos/2637358489?t=0h4m58s) |
+| SM | **Finals** | **7** | 4 | showmatch | [#1](https://osu.ppy.sh/community/matches/120020776) | [#1](https://www.twitch.tv/videos/2637864390?t=0h4m43s) |
+| 44 | **Poland** ::{ flag=PL }:: | **7** | 6 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/120021463) | [#1](https://www.twitch.tv/videos/2637864390?t=1h36m55s) |
 
 ### Semifinals
 
@@ -919,7 +964,5 @@ The final bracket configuration will be as follows:
 [^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
-[^showmatch]: All-stars players from eliminated teams
+[^lbf-match]: Losers bracket Finals match
+[^gf-match]: Grand Finals match – final matchup depends on the preceding losers bracket Finals match
