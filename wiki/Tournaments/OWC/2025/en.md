@@ -156,7 +156,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 46b | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Dec 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T180000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) |
+| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T180000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
