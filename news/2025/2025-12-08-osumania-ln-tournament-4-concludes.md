@@ -142,7 +142,7 @@ We would also like to introduce the entire production team behind the scenes for
 
 | Area | Contributors |
 | :-- | :-- |
-| Music | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/u/4468239), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/u/1388767), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/u/15118952), ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794), ::{ flag=PH }:: [THE BEAT WIZARD](https://osu.ppy.sh/u/17529207), ::{ flag=VN }:: [trung-nova](https://osu.ppy.sh/u/14927934), ::{ flag=SG }:: [XH](https://soundcloud.com/xh_comps) |
+| Music | ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794), ::{ flag=PH }:: [THE BEAT WIZARD](https://osu.ppy.sh/users/17529207), ::{ flag=VN }:: [trung-nova](https://osu.ppy.sh/users/14927934), ::{ flag=SG }:: [XH](https://soundcloud.com/xh_comps) |
 | Mapping | ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351) ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=US }:: [ImperialTrinity](https://osu.ppy.sh/users/5066305), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [Yuiesta](https://osu.ppy.sh/users/13953619) |
 | Voice acting | ::{ flag=PH }:: [arcwinolivirus](https://osu.ppy.sh/users/2039089), ::{ flag=GB }:: [Ethereal_Winter](https://osu.ppy.sh/users/9780417) |
 | Translation | ::{ flag=JP }:: [eternalize](https://osu.ppy.sh/users/18288958), ::{ flag=JP }:: [Noko_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=CN }:: [EagleMD](https://osu.ppy.sh/users/7336424) |
@@ -200,7 +200,7 @@ To view the results of Ordeal In Illusion and also get a peek behind the scenes 
 
 ![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/--Pavin--.jpg)
 
-[--Pavin--](https://osu.ppy.sh/users/12046267), a current member of Team Thailand in [4KMWC 2025](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_4K) and part of the winning team in [Touhou Project Mania Cup 4th (THMC4)](https://osu.ppy.sh/wiki/en/Tournaments/TMC/4th), proved himself as one of the best tournament LN players to exist in this current time, clinching the formidable placement of 2nd place for o!mLN4 after his finalist placement last edition.
+[--Pavin--](https://osu.ppy.sh/users/12046267), a current member of Team Thailand in [4KMWC 2025](/wiki/Tournaments/MWC/2025_4K) and part of the winning team in [Touhou Project Mania Cup 4th (THMC4)](/wiki/Tournaments/TMC/4th), proved himself as one of the best tournament LN players to exist in this current time, clinching the formidable placement of 2nd place for o!mLN4 after his finalist placement last edition.
 
 <div class="news-chat-quote__text-container">
 
