@@ -5,7 +5,7 @@ date: 2025-12-04 19:45:00 +0000
 series: fanart_contests
 ---
 
-It's December! For the latest and greatest holiday season, **130** artists have come together to draw winter-themed artwork. It's time for **you** to decide which of them will be the winners!
+It's December! For the latest and greatest holiday season, **129** artists have come together to draw winter-themed artwork. It's time for **you** to decide which of them will be the winners!
 
 ![](/wiki/shared/news/2025-11-14-winter-2025-fanart-contest/banner.jpg)
 
