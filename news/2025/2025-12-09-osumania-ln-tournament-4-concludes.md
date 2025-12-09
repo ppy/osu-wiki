@@ -13,7 +13,7 @@ After having witnessed the [start in July](https://osu.ppy.sh/home/news/2025-07-
 
 ## Summary
 
-![osu!mania LN Tournament 4 podium](/wiki/Tournaments/o!mLN/4/img/podium.jpg)
+![osu!mania LN Tournament 4 podium](/wiki/shared/news/2025-12-09-osumania-ln-tournament-4-concludes/podium.jpg)
 
 First of all, we present to you the LN champions of 2025.
 
