@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
+---
+
 # Турниры
 
 Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
