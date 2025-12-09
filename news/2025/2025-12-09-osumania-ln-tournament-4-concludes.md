@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!mania LN Tournament 4 Concludes
-date: 2025-12-09 18:00:00 +0000
+date: 2025-12-09 21:00:00 +0000
 series: community_tournaments
 ---
 
