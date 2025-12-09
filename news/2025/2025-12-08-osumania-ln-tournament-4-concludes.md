@@ -5,7 +5,7 @@ date: 2025-12-08 12:00:00 +0000
 series: community_tournaments
 ---
 
-As o!mLN4 fades into cherished memories, we can reflect on everything that happened in the course of the tournament. With mind-shattering player performances to a plethora of new original music releases, the noodle galore ends off with a bang.
+As o!mLN4 fades into cherished memories, we can reflect on everything that happened in the course of the tournament. From mind-shattering player performances to a plethora of new original music releases, the noodle galore ends off with a bang.
 
 ![](/wiki/shared/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open/banner.jpg)
 
@@ -15,9 +15,9 @@ After having witnessed the [start in July](https://osu.ppy.sh/home/news/2025-07-
 
 ![osu!mania LN Tournament 4 podium](/wiki/Tournaments/o!mLN/4/img/podium.jpg)
 
-First of all, we present you the LN champions of 2025.
+First of all, we present to you the LN champions of 2025.
 
-Finally beating his contender run as finalist from the past edition, ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) not only took home the awe-inspiring 1st seed for every qualifier map, but eventually rose above all competition to take home the Champion title for osu!mania LN Tournament 4, only dropping a total of 4 maps in Grand Finals for his run through the entire bracket.
+After finally overcoming his previous finalist run, ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) not only took home the awe-inspiring 1st seed for every qualifier map, but eventually rose above all competition to take home the Champion title for osu!mania LN Tournament 4, only dropping a total of 4 maps in Grand Finals for his run through the entire bracket.
 
 ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) and ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), the two LN powerhouses for Thailand in [MWC 4K](/wiki/Tournaments/MWC#osu!mania-4k-world-cup), took home the equally spectacular positions of second and third place respectively, beating out even the most respectable of tournament veterans in o!mLN4.
 
@@ -31,15 +31,15 @@ There was no shortage of exciting matches. Let's recap some of them:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/8J0a9xXyqsE" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The Grand Finals weekend opened up with the 2 Thai long note powerhouses, ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) and ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), going up against each other in a revenge game since their spar in the Quarterfinals.
+The Grand Finals weekend opened up with the 2 Thai LN powerhouses, ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) and ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), going up against each other in a revenge game since their spar in the Quarterfinals.
 
-The match began with both players opting with safer options within the pool, competing on what you could call the last real consistency battles on this pool. The match opened with ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267)'s selection, [Code Name: Sierra (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2455623#mania/5366692) (DE1). As one of the easier maps, the back and forth between both players trading misses with each other amounted to a small but significant 364 points to ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267). This was determined by literally a miss in the last 20 notes!
+The match began with both players opting for safer options within the pool, competing on what you could call the last real consistency battles on this pool. The match opened with ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267)'s selection, [Code Name: Sierra (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2455623#mania/5366692) (DE1). As one of the easier maps, the back and forth between both players trading misses with each other amounted to a small but significant 364 points to ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267). This was determined by literally a miss in the last 20 notes!
 
 This set the first point to a 5-point streak, where ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) took convincing leads by steering clear of misses and leveraging his consistency level, including a pick on the notoriously difficult chart of the pool, [Dead Aire](https://osu.ppy.sh/beatmapsets/2455636#mania/5366710) (TE4).
 
-However, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) showed up with a few tricks under his sleeve. Utilising his protects and performing well at a vital time, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) managed to dominate by 23,745 points on [See you soon](https://osu.ppy.sh/beatmapsets/2455632#mania/5366705) (CO1) and won another point by a 7,127 score difference on [TIMING HELL \~The Perpetual Chaotically Unsynced Pendulum\~](https://osu.ppy.sh/beatmapsets/2455661#mania/5366777) (CO3) with a lucky full combo.
+However, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) showed up with a few tricks up his sleeve. Utilising his protects and performing well at a vital time, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) managed to dominate by 23,745 points on [See you soon](https://osu.ppy.sh/beatmapsets/2455632#mania/5366705) (CO1) and won another point by a 7,127 score difference on [TIMING HELL \~The Perpetual Chaotically Unsynced Pendulum\~](https://osu.ppy.sh/beatmapsets/2455661#mania/5366777) (CO3) with a lucky full combo.
 
-Despite the 2 points, it seemed that ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)'s physical cap had caught on. He eventually conceded 2 points to ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) by score differences of 6,085 and 10,191 on [Lemming Ming (kemu Remix)](https://osu.ppy.sh/beatmapsets/2040875#mania/4257678) (TE2) and [Oxalis (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2455631#mania/5366703) (DE2) respectively, clinching 3rd place in the tournament and allowing ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) to face ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) one more time in the championship.
+Despite the 2 points, it seemed that ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)'s physical cap had caught up to him. He eventually conceded 2 points to ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) by score differences of 6,085 and 10,191 on [Lemming Ming (kemu Remix)](https://osu.ppy.sh/beatmapsets/2040875#mania/4257678) (TE2) and [Oxalis (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2455631#mania/5366703) (DE2) respectively, clinching 3rd place in the tournament and allowing ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) to face ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) one more time in the championship.
 
 ### Championship match: ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) vs. ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267)
 
@@ -66,7 +66,7 @@ In the race to the championship, both players achieved impossibly difficult feat
 
 As the match progressed into a best of 5, ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) threw a spanner in the works by switching contexts into a high accuracy competition on the low-density pick [See you soon](https://osu.ppy.sh/beatmapsets/2455632#mania/5366705) (CO1), which he managed to emerge victorious with a convincing 5,360 point difference.
 
-With the late-game fatigue boring down on both players, it came down to a final battle of who had the mental and physical stamina to close out the match. Despite the out-of-left-field pick, [Lemming Ming (kemu Remix)](https://osu.ppy.sh/beatmapsets/2040875#mania/4257678) (TE2) from ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267), a high amount of misses caused the point to go towards ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), with a score difference of 23,481.
+With the late-game fatigue bearing down on both players, it came down to a final battle of who had the mental and physical stamina to close out the match. Despite the out-of-left-field pick, [Lemming Ming (kemu Remix)](https://osu.ppy.sh/beatmapsets/2040875#mania/4257678) (TE2) from ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267), a high amount of misses caused the point to go towards ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), with a score difference of 23,481.
 
 The last pick of the match, [Minerva](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970) (TE3), was an extremely risky move by ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), but nevertheless a necessity with the threat of the remaining easier picks potentially allowing ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) to win by consistency. Insanely enough, ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) ran ahead of ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) by 10,000 points in the first half, before losing the lead entirely to a huge combo break at the midpoint of the map. The 2nd half was nerve-wrackingly close as they were forced to perform on a highly technical minijack section, which eventually ended up with a 7,178 score difference to ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), winning him the match and the tournament.
 
@@ -90,7 +90,7 @@ Following this break in momentum, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/u
 - 988,473 on [Inutilia](https://osu.ppy.sh/beatmapsets/2175016#mania/5341643) (TE1)
 - 985,176 on [Kislorod](https://osu.ppy.sh/beatmapsets/2452314#mania/5357437) (TE3), with only a single sliderbreak on a technical map focusing on shield control
 
-With a final valiant attempt to overcome the huge scoreline debt, ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) risked the pick on arguably the most difficult map of the pool, [Somniomancer [null set]](https://osu.ppy.sh/beatmapsets/2452340#mania/5357496) (TE2), and by a monumental collapse from ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) scored 983,430 on the map and won the pick by a whopping 45,222 score difference. Not wanting to lose to the competition entirely, ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) additionally picked up an additional point against ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) after fiercely trading misses and ending up with a 4,270 score lead on [Breach](https://osu.ppy.sh/beatmapsets/2452341#mania/5357499) (TE4).
+With a final valiant attempt to overcome the huge scoreline debt, ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) risked the pick on arguably the most difficult map of the pool, [Somniomancer [null set]](https://osu.ppy.sh/beatmapsets/2452340#mania/5357496) (TE2), and after a monumental collapse from ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) scored 983,430 on the map and won the pick by a whopping 45,222 score difference. Not wanting to lose to the competition entirely, ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) additionally picked up an additional point against ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) after fiercely trading misses and ending up with a 4,270 score lead on [Breach](https://osu.ppy.sh/beatmapsets/2452341#mania/5357499) (TE4).
 
 With ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)'s usual habit of catching up in the 2nd half of the match, the turning of the tables felt imminent. However, ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) managed to gather the match point on ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)'s pick, [Last Journey (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2452231#mania/5357229) (WC2), scoring 991,088 with a full combo, securing their position in the stars as the top 3 of o!mLN4.
 
@@ -100,7 +100,7 @@ With ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)'s usual habit
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/ThhTCJ65hWQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-This losers' bracket Semifinals match might be one of the most interesting in terms of dynamics, where both players brought to the table a difference of physicality versus consistency, and had a fight to the death for it.
+This losers' bracket Semifinals match might be one of the most interesting in terms of dynamics, where both players brought to the table a clash between physicality versus consistency, and had a fight to the death for it.
 
 Both players began with a rough start having barely practised the pool, with ::{ flag=PH }:: [Plana_](https://osu.ppy.sh/users/24776314) initially taking the lead on [19ZZ](https://osu.ppy.sh/beatmapsets/2226646#mania/4723502) (TE1) with a score difference of 6,513 and ::{ flag=GB }:: [spanner dude](https://osu.ppy.sh/users/12489832) instantly taking back the break point on [Veauty and Violence](https://osu.ppy.sh/beatmapsets/2080079#mania/4355866) (WC4) with a score difference of 8,197.
 
