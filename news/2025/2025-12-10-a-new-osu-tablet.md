@@ -47,9 +47,7 @@ What's necessary to start playing maps with the [pro tablet](https://osu.ppy.sh/
 
 ---
 
-One more thing to note: **the [pro tablet](https://osu.ppy.sh/store/products/1448) will not be restocked**.
-
-This isn't a ploy to pressure you into buying a tablet. We won't run out of inventory any time soon, especially since we're too late for much of the holiday rush. Rather, we hope to be working with **Wacom** on production for a different tablet by the time stock hits zero!
+Note that the [pro tablet](https://osu.ppy.sh/store/products/1448) will not be restocked. We have plans for future production batches but they will not be the same model/design as this release, so consider this a once-off production run!
 
 Whenever you're ready to grab a tablet (or simply support the game), head to [**the store page**](https://osu.ppy.sh/store/products/1448). 
 
