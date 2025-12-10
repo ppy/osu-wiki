@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a new osu!tablet
-date: 2025-12-10 05:00:00 +0000
+date: 2025-12-10 06:00:00 +0000
 series: merch_runs
 ---
 
