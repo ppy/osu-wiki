@@ -47,7 +47,7 @@ The osu!mania 7K World Cup 2026 offers a $1,200 prize pool, along with limited-e
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is December 25, 23:59 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
 
-*Notice: you may only participate if your position in the osu!mania 7K global ranking is #10,000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
+*Notice: To participate, you must be ranked #5000 or higher on the osu!mania 7K global ranking and must not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
