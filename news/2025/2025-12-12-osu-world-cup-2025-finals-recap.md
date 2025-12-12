@@ -28,7 +28,7 @@ Be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s video too for a
 **[Download the pool here! (232 MB)](https://osu.ppy.sh/beatmaps/packs/P306)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2637864390&parent=osu.ppy.sh&autoplay=false&time=3h42m0s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2631998127&parent=osu.ppy.sh&autoplay=false&time=1h43m05s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
 ![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/mappool.png)
