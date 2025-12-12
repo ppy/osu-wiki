@@ -15,7 +15,7 @@ As 2026 approaches, we are updating the tournament's design language (which look
 
 For the 10th edition of MWC 7K, we are adding staggered bans to bracket stage matches. Teams now receive one extra ban (two total), to be used when the match is well underway. These bans occur after the 4th map is played in Best-of 9 matches, after the 5th for Best-of 11, and after the 6th for Best-of 13s. One of the aims of this new system is to give the teams more chances to strategize in real time. You can check the specifics of this new format on the [wiki article, match instructions](/wiki/Tournaments/MWC/2026_7K#match-instructions).
 
-We are also expanding mappool sizes to include the Extreme (EX) maps that were previously exclusive to Finals and Grand Finals for a total of three extra beatmaps for every pool besides Qualifiers, which will have one EX slot (9 maps total). We have also taken the liberty of swapping slots for some categories, such as **LN1 (Inverse)** to **LN4** -- this will be clearer as the mappools are released.
+We are also expanding mappool sizes to include the Extreme (EX) maps that were previously exclusive to Finals and Grand Finals for a total of three extra beatmaps for every pool besides Qualifiers, which will have one EX slot (9 maps total). We have also taken the liberty of swapping slots for some categories, such as **LN1 (Inverse)** to **LN4** – this will be clearer as the mappools are released.
 
 As always, for more details regarding the tournament, please refer to the **[osu!mania 7K World Cup 2026 wiki article](/wiki/Tournaments/MWC/2026_7K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)** or the public **[community server](https://discord.com/invite/0Vxo9AsejDkGlk3H)**.
 
@@ -23,7 +23,7 @@ As always, for more details regarding the tournament, please refer to the **[osu
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | Dec 11 (12:00 UTC) — Dec 26 (23:59 UTC) |
+| Registration phase | Dec 11 (12:00 UTC) – Dec 26 (23:59 UTC) |
 | Qualifier showcase | Jan 4 |
 | Qualifier stage | Jan 10 & Jan 11 |
 | Round of 32 | Jan 17 & Jan 18 |

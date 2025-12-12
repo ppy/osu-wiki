@@ -16,7 +16,7 @@ The **osu!mania 7K World Cup 2026** (***MWC 7K 2026***) is a country-based osu!m
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2025-12-11 (12:00 UTC) — 2025-12-26 (23:59 UTC) |
+| Registration phase | 2025-12-11 (12:00 UTC) – 2025-12-26 (23:59 UTC) |
 | Qualifier showcase | 2026-01-04 (14:00 UTC) |
 | Qualifier stage | 2026-01-10/2026-01-11 |
 | Round of 32 | 2026-01-17/2026-01-18 |
