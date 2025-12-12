@@ -2,6 +2,8 @@
 tags:
   - BSC
   - beatmap spotlight curator
+outdated_translation: true
+outdated_since: 538ee050de0cbff316b9c194db200d95dbec6a8f
 ---
 
 # Beatmap Spotlight Curators
