@@ -19,4 +19,4 @@ Explicación:
 
 ## Bonificación de pp 
 
-El sistema de ponderación permite a un jugador ganar hasta 416,6667 puntos de rendimiento adicionales por establecer una gran cantidad de puntuaciones. La cantidad máxima se logra con aproximadamente 25 397 puntuaciones totales.
+El sistema de ponderación permite a un jugador ganar hasta 413,894 puntos de rendimiento adicionales por establecer una gran cantidad de puntuaciones. La cantidad máxima se logra con aproximadamente 1000 puntuaciones totales.

@@ -12,6 +12,8 @@ tags:
   - UR convertido
   - error de golpeo
   - sincronización
+outdated_translation: true
+outdated_since: 02a69b3c9db494a4b8f41347369cb594f5844f56
 ---
 
 # Tasa inestable

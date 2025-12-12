@@ -2,6 +2,8 @@
 tags:
   - OWC
   - OWC2024
+outdated_translation: true
+outdated_since: 7e1814dc41cb9f2aa112439f8fb55f4d7822532b
 ---
 
 # osu! World Cup 2024

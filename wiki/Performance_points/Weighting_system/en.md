@@ -18,4 +18,4 @@ Explanation:
 
 ## Bonus pp
 
-The weighting system allows a player to gain up to 416.6667 bonus performance points for setting a large number of scores. The maximum amount is achieved at approximately 25397 total scores.
+The weighting system allows a player to gain up to 413.894 bonus performance points for setting a large number of scores. The maximum amount is achieved at 1000 total scores.
