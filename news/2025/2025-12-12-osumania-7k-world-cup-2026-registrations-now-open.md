@@ -43,7 +43,7 @@ The osu!mania 7K World Cup 2026 offers a $1,200 prize pool, along with limited-e
 
 ## How do I register?
 
-![[Click here to register for MWC 7K 2026](https://osu.ppy.sh/community/tournaments/53)](/wiki/shared/news/2025-12-12-osumania-7k-world-cup-2026-registrations-now-open/register.png)
+[![Click here to register for MWC 7K 2026](/wiki/shared/news/2025-12-12-osumania-7k-world-cup-2026-registrations-now-open/register.png)](https://osu.ppy.sh/community/tournaments/53)
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is December 25, 23:59 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
 
