@@ -148,7 +148,7 @@ A match tinged with inevitability had at long last reached its thrilling climax:
 
 ::{#raybean}::
 
-![](/wiki/shared/news/2025-12-05-osu-world-cup-2025-semifinals-recap/-pineapple--saturn-and-sooky.png)
+insert banner
 
 This year's OWC, we welcome the debut of a new World Cup storyboarder. [Raybean](https://osu.ppy.sh/users/16676388) took on the Finals Tiebreaker [Gumbarlzo!](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200) and produced an outstanding storyboard for the showcase. However, this isn't their first rodeo contributing to osu! originals. Their past work includes the graphic design for [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) in MWC 7K 2025 and the illustration for [Resonance of Ice Stalactites](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199) in LGA 2025.
 
