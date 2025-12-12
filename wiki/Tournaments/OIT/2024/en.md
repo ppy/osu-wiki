@@ -62,7 +62,7 @@ The osu! Indonesia Tournament #14 (2024) was run by various osu! community membe
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1968598)
 - [Discord server](https://discord.gg/FJgtKEqypY)
 - [Challonge brackets](https://challonge.com/oit14)
-- [Livestream channel](https://www.twitch.tv/osumalaysia)
+- [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
 ## Participants
 
