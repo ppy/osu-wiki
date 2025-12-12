@@ -13,9 +13,9 @@ As 2026 approaches, we are updating both the match format and the tournament's d
 
 ## Format changes
 
-For the 10th edition of MWC 7K, we are adding staggered bans to bracket stage matches. Teams now receive one extra ban (two total), to be used when the match is well underway. These bans occur after the 4th map is played in Best-of 9 matches, after the 5th for Best-of 11, and after the 6th for Best-of 13s. One of the aims of this new system is to give the teams more chances to strategize in real time. You can check the specifics of this new format on the [wiki article, match instructions](/wiki/Tournaments/MWC/2026_7K#match-instructions).
+For the 10th edition of MWC 7K, we are adding staggered bans to bracket stage matches. Teams now receive one extra ban (two total), to be used when the match is well underway. These bans occur after the 4th map is played in best-of-9 matches, after the 5th for best of 11, and after the 6th when it's best of 13. One of the aims of this new system is to give the teams more chances to strategise in real time. You can check the specifics of this new format on the [wiki article](/wiki/Tournaments/MWC/2026_7K#match-instructions).
 
-We are also expanding mappool sizes to include the Extreme (EX) maps that were previously exclusive to Finals and Grand Finals for a total of three extra beatmaps for every pool besides Qualifiers, which will have one EX slot (9 maps total). We have also taken the liberty of swapping slots for some categories, such as **LN1 (Inverse)** to **LN4** – this will be clearer as the mappools are released.
+We are also expanding mappool sizes to include the Extreme (EX) maps that were previously exclusive to the Finals and Grand Finals, for a total of three extra beatmaps for every pool besides the Qualifiers, which in turn will have one EX slot (9 maps total). We have also taken the liberty of swapping slots for some categories, such as **LN1 (Inverse)** to **LN4** — this will be clearer as the mappools are released.
 
 As always, for more details regarding the tournament, please refer to the **[osu!mania 7K World Cup 2026 wiki article](/wiki/Tournaments/MWC/2026_7K)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)** or the public **[community server](https://discord.com/invite/0Vxo9AsejDkGlk3H)**.
 
@@ -47,7 +47,7 @@ The osu!mania 7K World Cup 2026 offers a $1,200 prize pool, along with limited-e
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is December 25, 23:59 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
 
-*Notice: To participate, you must be ranked #5000 or higher on the osu!mania 7K global ranking and must not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.*
+*Notice: To participate, you must be ranked #5,000 or higher on the osu!mania 7K global ranking and must not have violated the [osu! community rules](/wiki/Rules) within the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
