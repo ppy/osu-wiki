@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Billain"
 date: 2019-08-20 10:40:00 +0000
+series: featured_artists
 ---
 
 [**Billain**](https://osu.ppy.sh/beatmaps/artists/46) descends onto the scene as osu!'s latest Featured Artist, complete with a selection of tracks from his latest album, *Nomad's Revenge*!

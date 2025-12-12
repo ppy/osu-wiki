@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Draper"
 date: 2024-02-24 22:00:00 +0000
+series: featured_artists
 ---
 
 Pull the curtains back to reveal the latest addition to our Featured Artist library!

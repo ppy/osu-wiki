@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Atavistia"
 date: 2022-02-05 09:00:00 +0000
+series: featured_artists
 ---
 
 Traverse unknown territory with our latest Featured Artist **Atavistia**!

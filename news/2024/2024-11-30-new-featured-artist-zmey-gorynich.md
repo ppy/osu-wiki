@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Zmey Gorynich"
 date: 2024-11-30 20:40:00 +0000
+series: featured_artists
 ---
 
 A new species of metal music crawled into our Featured Artist library, courtesy of **Zmey Gorynich**!

@@ -2,6 +2,7 @@
 layout: post
 title: osu! at TwitchCon 2018
 date: 2018-10-26 03:30:00 +0000
+series: offline_events
 ---
 
 For the first time ever, the osu!team has a presence at TwitchCon! Drop by and meet the developers, chat with some osu! players in the flesh, and show off your skills for swag!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ardolf"
 date: 2022-05-04 09:00:00 +0000
+series: featured_artists
 ---
 
 **Ardolf** strides onstage as the newest addition to our Featured Artist library!

@@ -2,6 +2,7 @@
 layout: post
 title: Performance Points & Star Rating Updates
 date: 2021-07-27 10:00:00 +0000
+series: ranking_system_updates
 ---
 
 A brand new set of changes to the performance points and star rating algorithms have just gone live - read on to discover what's new, and where things are headed in the future!

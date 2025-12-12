@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: EPICA"
 date: 2020-09-23 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome aboard Featured Artist #100: **EPICA!**

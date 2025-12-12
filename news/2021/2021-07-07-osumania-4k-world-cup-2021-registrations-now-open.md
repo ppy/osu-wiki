@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2021: Registrations now open!"
 date: 2021-07-07 12:00:00 +0000
+series: world_cups
 ---
 
 With the conclusion of the osu!catch World Cup, it is time for the yearly keyboard smashing competition — the osu!mania 4K World Cup is back in its eighth instalment, continue reading for more info!

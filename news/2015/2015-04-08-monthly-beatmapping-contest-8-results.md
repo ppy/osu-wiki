@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #8: Results"
 date: 2015-04-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/115885774698/monthly-beatmapping-contest-8-results
+series: monthly_beatmapping_contest
 ---
 
 After all the mappers had been working hard away at their mapsets for this slower paced song, the results are in and the winner has been decided. This one was a osu!standard map only, so no taiko, ctb or mania difficulties this time around!

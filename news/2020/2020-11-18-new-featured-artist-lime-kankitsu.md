@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Lime / Kankitsu"
 date: 2020-11-18 09:00:00 +0000
+series: featured_artists
 ---
 
 **Lime / Kankitsu** hops on board as our latest Featured Artist!

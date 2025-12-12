@@ -3,6 +3,7 @@ layout: post
 title: November 2013 Ranking Chart
 date: 2013-12-22 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/70815393190/november-2013-ranking-chart
+series: beatmap_spotlights
 ---
 
 Here is the November Ranking Chart! Like in the previous month, four of the maps were selected by the [CAT](https://osu.ppy.sh/groups/21) and [BAT](https://osu.ppy.sh/groups/7). Additionally, two of the picks were done by you, the community! This was calculated based on the online favourites, user ratings and number of plays on the maps ranked in November. You can see the new chart [here](https://osu.ppy.sh/p/chart).

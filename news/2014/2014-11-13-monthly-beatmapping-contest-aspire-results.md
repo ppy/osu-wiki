@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest: Aspire Results!"
 date: 2014-11-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102534475143/monthly-beatmapping-contest-aspire-results
+series: monthly_beatmapping_contest
 ---
 
 After several months of intense deliberation, the winner of the Aspire Monthly Beatmapping Contest has finally been declared, in what is possibly one of our closest (and most surprising) results so far!

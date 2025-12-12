@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kitazawa Kyouhei"
 date: 2021-05-15 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome modern VOCALOID talent **Kitazawa Kyouhei** aboard as our latest Featured Artist!

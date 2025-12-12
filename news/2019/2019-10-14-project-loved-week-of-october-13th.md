@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of October 13th"
 date: 2019-10-14 22:30:00 +0000
+series: project_loved
 ---
 
 Good day. [Project Loved](https://osu.ppy.sh/community/forums/120) is knocking at your doorstep yet again.

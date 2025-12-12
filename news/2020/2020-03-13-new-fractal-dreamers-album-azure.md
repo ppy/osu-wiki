@@ -2,6 +2,7 @@
 layout: post
 title: "New Fractal Dreamers Album: Azure of the Horizon"
 date: 2020-03-13 09:00:00 +0000
+series: featured_artists
 ---
 
 Prepare for a journey beyond the skyline with **Fractal Dreamers** latest album, *Azure of the Horizon*!

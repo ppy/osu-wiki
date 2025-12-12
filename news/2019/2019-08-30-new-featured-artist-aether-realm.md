@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Æther Realm"
 date: 2019-08-30 14:00:00 +0000
+series: featured_artists
 ---
 
 Filling out their entry in the annals of osu!, [**Æther Realm**](https://osu.ppy.sh/beatmaps/artists/47) journeys towards the glory of the Featured Artist roster!

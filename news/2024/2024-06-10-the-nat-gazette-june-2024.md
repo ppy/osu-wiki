@@ -2,6 +2,7 @@
 layout: post
 title: "The NAT Gazette: June 2024"
 date: 2024-06-10 19:00:00 +0000
+series: qat_gazette
 ---
 
 The NAT Gazette returns with a big bang and a bigger list of changes to cover!

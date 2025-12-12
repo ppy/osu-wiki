@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: October 2024"
 date: 2024-10-02 20:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 For the first time in Monthly Beatmapping Contest history, collabs are allowed. See if you and a friend have what it takes to become osu!'s next mapping victors!

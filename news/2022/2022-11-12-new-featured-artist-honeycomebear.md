@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: HoneyComeBear"
 date: 2022-11-12 11:00:00 +0000
+series: featured_artists
 ---
 
 **HoneyComeBear** brings a new brand of J-pop to our Featured Artist library.

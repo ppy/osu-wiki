@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: February 19, 2024"
 date: 2024-02-19 16:30:00 +0000
+series: game_updates
 ---
 
 There is something else besides love in the air... it's another osu!(lazer) update!

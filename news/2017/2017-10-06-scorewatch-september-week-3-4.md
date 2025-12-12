@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: September Week 3 & 4"
 date: 2017-10-06 13:00:00 +0000
+series: scorewatch
 ---
 
 Two for one! Chocobo, Road of Resistance, Kikoku Doukoku Jigokuraku, Milk Crown on Sonnetica and more! Check out what some of osu!'s best have been up to with this special combined issue of Scorewatch!

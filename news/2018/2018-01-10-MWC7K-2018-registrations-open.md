@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2018: Registrations now open!"
 date: 2018-01-10 01:00:00 +0000
+series: world_cups
 ---
 
 It's an exciting new year, and with that, our first announcement - osu!mania 7K World Cup is back for its 4th installment! Introducing a new host alongside an improved set of rules, this year's tournament promises to be more competitive than ever before. Registrations are now open, so what are you waiting for?

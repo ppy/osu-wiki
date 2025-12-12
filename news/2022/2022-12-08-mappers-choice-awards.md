@@ -2,6 +2,7 @@
 layout: post
 title: Results - Mappers' Choice Awards 2021
 date: 2022-12-08 10:00:00 +0000
+series: community_contests
 ---
 
 The community has spoken, and we're here to present the podium for each category of the 2021 Mappers' Choice Awards!

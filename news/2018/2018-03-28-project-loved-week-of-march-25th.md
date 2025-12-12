@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of March 25th"
 date: 2018-03-29 12:00:00 +0000
+series: project_loved
 ---
 
 We're back with another installment of the [Project Loved](https://osu.ppy.sh/community/forums/120) voting, featuring maps for all four game modes! With tons of quality maps up for vote, there's something for everyone, so come check it out!

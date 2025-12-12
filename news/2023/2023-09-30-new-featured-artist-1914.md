@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 1914"
 date: 2023-09-30 11:00:00 +0000
+series: featured_artists
 ---
 
 **1914** makes history as the latest addition to our Featured Artists!

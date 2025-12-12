@@ -2,6 +2,7 @@
 layout: post
 title: Summer 2019 Fanart Contest Results
 date: 2019-08-08 11:30:00 +0000
+series: fanart_contests
 ---
 
 You voted, and the results are in! **15** brand new scathingly spectacular summer scenes now grace the main menu with their scorching presence!

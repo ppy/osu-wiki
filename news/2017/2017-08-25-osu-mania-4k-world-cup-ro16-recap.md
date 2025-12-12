@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup - Round of 16 Recap
 date: 2017-08-25 08:00:00 +0000
+series: world_cups
 ---
 
 This past Sunday saw the conclusion of the Round of 16 stage, featuring many highlights and more than a few surprises! It's time to follow up on the latest escapades of our manic keysmashers in the osu!mania 4K World Cup!

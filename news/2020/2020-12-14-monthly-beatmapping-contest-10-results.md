@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest #10: Results"
 date: 2020-12-14 20:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Results of the year's final mapping contest are in! See who's on top and what we have planned for next year!

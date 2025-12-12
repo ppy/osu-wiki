@@ -2,6 +2,7 @@
 layout: post
 title: osu!monthly, October 2022
 date: 2022-11-01 10:00:00 +0000
+series: osu_monthly
 ---
 
 BOO! Did we get ya? No? Oh well, we still have the monthly news that you can read through to catch up with the community.

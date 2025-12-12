@@ -2,10 +2,10 @@
 
 默认情况下， osu!(lazer) 将谱面、皮肤、成绩回放文件存储于以下目录：
 
-- `%appdata%/osu/files` (Windows),
-- `~/.local/share/osu/files` (Linux),
-- `~/Library/Application Support/osu/files` (macOS),
-- `Android/data/sh.ppy.osulazer/files/files` (Android).
+- `%appdata%/osu` (Windows),
+- `~/.local/share/osu` (Linux),
+- `~/Library/Application Support/osu` (macOS),
+- `Android/data/sh.ppy.osulazer/files` (Android).
 
 在桌面平台，通过使用客户端设置中的`改变文件夹位置...`按钮，可以将文件存储整体移动到另一个位置。
 

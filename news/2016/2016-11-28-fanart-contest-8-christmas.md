@@ -3,6 +3,7 @@ layout: post
 title: "Fanart Contest #8: Christmas!"
 date: 2016-11-28 10:14:46 +0000
 tumblr_url: http://osunews.tumblr.com/post/153770859513/fanart-contest-8-christmas
+series: fanart_contests
 ---
 
 With Christmas just around the corner, preparations for the coming cheer are in full swing. To celebrate, we're hosting another Fanart Contest - with a theme you can probably already guess!

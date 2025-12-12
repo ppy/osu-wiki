@@ -3,6 +3,7 @@ layout: post
 title: "Weekly Report #2"
 date: 2016-08-22 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149339716305/weekly-report-2
+series: osu_weekly
 ---
 
 Hello! New additions to the Beatmap Nomination Group are always an interesting topic amongst the modding and mapping community, mostly because that is generally a synonym for more qualified mapsets in the next days. Be sure to check out the results!

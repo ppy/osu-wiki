@@ -3,6 +3,7 @@ layout: post
 title: "Aspire 2017: osu!taiko Voting Opens Soon"
 date: 2017-07-21 10:10:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163212166448/aspire-2017-osutaiko-voting-opens-soon
+series: official_contests
 ---
 
 After a long period of preparation, **Aspire 2017: osu!taiko** is ready to begin! Join us this **Saturday the 22nd July at 14:00 UTC** for a livestreamed preview of the final twelve entries, including the expert commentary of our talented judges, namely mangomizer, Unmei Muma, and Nwolf!

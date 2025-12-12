@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: technoplanet"
 date: 2021-08-25 09:00:00 +0000
+series: featured_artists
 ---
 
 **technoplanet** traverses the galaxy and lands in our collection of Featured Artists!

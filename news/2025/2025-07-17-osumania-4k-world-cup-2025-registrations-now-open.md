@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Registrations Now Open!"
 date: 2025-07-17 22:00:00 +0000
+series: world_cups
 ---
 
 Keysmashers, rejoice! The wait is over as the osu!mania 4K World Cup 2025 returns for its twelfth edition.

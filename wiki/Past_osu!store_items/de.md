@@ -74,7 +74,11 @@ Die Kollektion bestand aus einer Breite an Produkten wie zum Beispiel:
 
 Das **osu!tablet** war ein offizielles, von osu! vertriebenes Grafiktablett, das in Zusammenarbeit mit der Elektronikfirma [HUION](https://www.huion.com/) entstand. Es wurde von ::{ flag=MY }:: [flyte](https://osu.ppy.sh/users/3103765) entworfen und als eine erschwingliche Alternative für die, die einfach ein Grafiktablett für osu! haben wollten, herausgebracht.
 
-Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", welches zuerst 2013 verkauft wurde. Das verbesserte [osu!tablet v2](/wiki/Guides/Tablet_purchase#osu!store) kam ab 2016 auf den Markt, bevor es im Jahre 2017 im Rahmen einer [Anpassung der Entwicklungsschwerpunkte](https://twitter.com/ppy/status/846190076853870592) eingestellt wurde.
+Das Produkt wurde in zwei Ausführungen angeboten: Das originale "[osu!tablet v1](https://www.youtube.com/watch?v=27RkPY5lWBw)", welches zuerst 2013 verkauft wurde. Das verbesserte [osu!tablet v2](https://twitter.com/ppy/status/744778218524160000) kam ab 2016 auf den Markt, bevor es im Jahre 2017 im Rahmen einer [Anpassung der Entwicklungsschwerpunkte](https://twitter.com/ppy/status/846190076853870592) eingestellt wurde.
+
+![osu! tablet v2](img/osu-tablet-v2.jpg)
+
+Die erste Version aus dem Jahre 2013 enthielt das osu!tablet (weiß), einen Stift mit einer Spitze, 3 Ersatzspitzen, jedoch benötigte der Stift eine AA-Batterie (war im Kauf enthalten, aber erhöhte das Gewicht des Stiftes). Die zweite Version aus dem Jahre 2016 enthielt das osu!tablet (schwarz), einen Stift mit einer Spitze, 3 Ersatzspitzen, allerdings musste der Stift über USB geladen werden (ebenfalls im Kauf enthalten).
 
 ## osu! beatmap blueprints
 

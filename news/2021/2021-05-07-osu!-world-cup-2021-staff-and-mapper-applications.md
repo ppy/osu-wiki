@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2021: Staff and Mapper Applications"
 date: 2021-05-07 16:00:00 +0000
+series: world_cups
 ---
 
 osu! World Cup 2021 may be over 5 months away, but we are already looking to prepare and plan ahead. For anyone who is interested in helping out behind the scenes -- read on to find out more!

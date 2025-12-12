@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #6: osu!catch"
 date: 2020-02-15 20:30:00 +0000
+series: official_contests
 ---
 
 Fruit artists assemble as the Mapping Olympiad returns to osu!catch! Do you have what it takes to ascend the pantheon of osu! Mapping Olympians? Read inside for all the juicy contest details and how to participate!

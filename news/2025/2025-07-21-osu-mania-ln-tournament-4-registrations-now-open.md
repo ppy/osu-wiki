@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania LN Tournament 4: Registrations now open!"
 date: 2025-07-21 14:00:00 +0000
+series: community_tournaments
 ---
 
 Join us in the 4th installment of the osu!mania Long Note Tournament series — a cutthroat competition where the spiciest of noodles and strongest of players await!

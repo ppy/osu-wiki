@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild - More Priority Quests
 date: 2024-01-16 21:30:00 +0000
+series: mappers_guild
 ---
 
 You've mastered the art of placing circles and sliders in the editor. Now it's time to put those skills to the test through this new batch of quests from the **Mappers' Guild**!

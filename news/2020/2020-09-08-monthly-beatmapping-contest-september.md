@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: September"
 date: 2020-09-08 07:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Have what it takes to stand above other mappers? Put your skills to the test in this month's overlap-themed contest!

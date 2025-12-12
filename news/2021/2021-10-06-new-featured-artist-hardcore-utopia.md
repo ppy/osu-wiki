@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: HARDCORE UTOPIA"
 date: 2021-10-06 09:00:00 +0000
+series: featured_artists
 ---
 
 While it's not quite right to call the **HARDCORE UTOPIA** albums a "Featured Artist", we're nonetheless happy to add **50** blood-pumping new tracks to our Featured Artist library!

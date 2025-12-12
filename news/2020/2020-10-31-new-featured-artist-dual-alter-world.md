@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Dual Alter World"
 date: 2020-10-31 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Dual Alter World** aboard as our latest Featured Artist!

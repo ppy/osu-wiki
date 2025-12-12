@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2024: Voting Open"
 date: 2025-01-30 16:00:00 +0000
+series: official_contests
 ---
 
 One of the 17 full years of mapping ended just last month, and this will be the moment to pick its most memorable maps!

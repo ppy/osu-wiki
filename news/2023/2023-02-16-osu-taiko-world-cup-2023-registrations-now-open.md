@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2023: Registrations Now Open!"
 date: 2023-02-16 00:00:00 +0000
+series: world_cups
 ---
 
 Bring along your favourite percussion instrument as we once again drum to the beat, as the osu!taiko World Cup is back for its 13th instalment!

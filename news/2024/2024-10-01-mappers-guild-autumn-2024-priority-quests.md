@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild - Autumn 2024 Priority Quests
 date: 2024-10-01 22:00:00 +0000
+series: mappers_guild
 ---
 
 osu! is more than just a circle clicking game. If you were a mapper, you'd know why.

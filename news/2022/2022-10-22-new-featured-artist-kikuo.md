@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artists: Kikuo"
 date: 2022-10-22 10:00:00 +0000
+series: featured_artists
 ---
 
 **Kikuo** brings nightmares into reality as our newest Featured Artist.

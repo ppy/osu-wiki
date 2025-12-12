@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Doomsday"
 date: 2024-06-16 23:00:00 +0000
+series: featured_artists
 ---
 
 osu! has been around for nearly two decades. In that time, countless community members have come and gone, but one name has been here since the very beginning: **Doomsday**, our newest Featured Artist!

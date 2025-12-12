@@ -2,6 +2,7 @@
 layout: post
 title: "Project Prism 2024: Registrations Now Open!"
 date: 2024-04-19 12:00:00 +0000
+series: community_tournaments
 ---
 
 Welcome to Project Prism, a 1v1 open-ranked osu!taiko tournament with a unique Raid Battle mechanic!

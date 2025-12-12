@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: ikaruga_nex"
 date: 2024-11-16 20:30:00 +0000
+series: featured_artists
 ---
 
 It's about time **ikaruga_nex** joined our Featured Artist catalogue.

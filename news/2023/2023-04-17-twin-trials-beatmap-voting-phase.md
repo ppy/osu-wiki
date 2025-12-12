@@ -2,6 +2,7 @@
 layout: post
 title: Twin Trials - Beatmap Voting Phase
 date: 2023-04-17 00:00:00 +0000
+series: official_contests
 ---
 
 Mapping duos are finally ready to debut their masterpieces. Find your favourites and vote for them in the **Twin Trials beatmapping contest**!

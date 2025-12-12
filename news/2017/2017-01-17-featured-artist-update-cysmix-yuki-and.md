@@ -3,6 +3,7 @@ layout: post
 title: "Featured Artist Update: cYsmix, yuki. and Helblinde"
 date: 2017-01-17 15:44:12 +0000
 tumblr_url: http://osunews.tumblr.com/post/155994951623/featured-artist-update-cysmix-yuki-and
+series: featured_artists
 ---
 
 In our journey to continue feeding the creative mapping community of osu!, we have added **over twenty new tracks** to the Featured Artist catalog.

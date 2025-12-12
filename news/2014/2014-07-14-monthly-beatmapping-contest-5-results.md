@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #5 Results"
 date: 2014-07-14 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/91735660223/monthly-beatmapping-contest-5-results
+series: monthly_beatmapping_contest
 ---
 
 The judging is finally complete - and a clear winner has been chosen. With the another perfect score awarded and one of the largest number of entries yet, MBC #5 has been utterly full of surprises!

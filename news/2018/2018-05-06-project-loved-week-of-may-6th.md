@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of May 6th"
 date: 2018-05-06 12:00:00 +0000
+series: project_loved
 ---
 
 Another Sunday marks another [Project Loved](https://osu.ppy.sh/community/forums/120) voting on the horizon! Come and vote for your favourite beatmaps nominated from all four game modes!

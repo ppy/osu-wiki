@@ -2,6 +2,7 @@
 layout: post
 title: osu! World Cup 2017 Quarterfinals Recap
 date: 2017-12-08 14:00:00 +0000
+series: world_cups
 ---
 
 The eliminations have started and everything is to play for. While some teams still have their safety net up and ready, others don't have that luxury and risk going home. So while we wait eagerly for the Semifinals to begin, let's look back at what transpired during the Quarterfinals.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: D I O, the Charismatic Caster"
 date: 2024-09-30 22:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Hey there, do you like osu! tournaments? Then this interview might just be for you!

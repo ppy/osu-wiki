@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: Winter 2020"
 date: 2020-04-09 07:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Even though it's already getting warmer outside, we still have a collection of cool beatmaps for you to enjoy these sunny days. Be sure to check them out and earn a fancy medal for playing them all!

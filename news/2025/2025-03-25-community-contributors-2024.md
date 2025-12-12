@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: 2024"
 date: 2025-03-25 19:30:00 +0000
+series: miscellaneous
 ---
 
 Let's roll the drumrolls and prepare the stage for osu!'s exceptional Community Contributors!

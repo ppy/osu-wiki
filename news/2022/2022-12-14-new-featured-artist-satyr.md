@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Satyr"
 date: 2022-12-14 11:00:00 +0000
+series: featured_artists
 ---
 
 Our Featured Artist collection has been missing one thing: **Satyr**.

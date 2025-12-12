@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Joe Ford"
 date: 2020-10-24 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Joe Ford** aboard as our latest addition to the Featured Artist lineup!

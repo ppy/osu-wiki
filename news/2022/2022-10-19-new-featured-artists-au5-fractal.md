@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artists: Au5 & Fractal"
 date: 2022-10-19 10:00:00 +0000
+series: featured_artists
 ---
 
 Iconic duo **Au5** and **Fractal** crash-land into our Featured Artist collection.

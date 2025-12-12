@@ -3,6 +3,7 @@ layout: post
 title: BN Test Review (osu!taiko, catch and mania)
 date: 2016-11-27 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/153726142390/bn-test-review-osutaiko-catch-and-mania
+series: miscellaneous
 ---
 
 Hello! As you're probably all aware, we have recently welcomed a new batch of promising modders from osu!taiko, osu!catch and osu!mania to the Beatmap Nomination Group!

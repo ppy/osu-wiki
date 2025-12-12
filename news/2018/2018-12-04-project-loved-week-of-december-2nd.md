@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of December 2nd"
 date: 2018-12-04 01:20:00 +0000
+series: project_loved
 ---
 
 Who's ready to get some more maps Loved? [Project Loved](https://osu.ppy.sh/community/forums/120) is bringing yet another batch of beatmaps to the table, and it's up to you to decide which ones will make it into the Loved category!

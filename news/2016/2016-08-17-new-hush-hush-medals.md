@@ -3,6 +3,7 @@ layout: post
 title: New Hush-Hush Medals!
 date: 2016-08-17 11:04:29 +0000
 tumblr_url: http://osunews.tumblr.com/post/149074719383/new-hush-hush-medals
+series: miscellaneous
 ---
 
 The first set of new "Hush-Hush" style medals are here at long last. Medal hunters unite!

@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko Mapping World Cup 2024 concludes!
 date: 2024-12-02 18:00:00 +0000
+series: world_cups
 ---
 
 Welcome to the recap of the osu!taiko Mapping World Cup 2024!
