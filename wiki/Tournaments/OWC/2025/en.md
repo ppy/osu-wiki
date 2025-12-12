@@ -162,7 +162,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ### Grand Finals
 
-**[Download the mappack here (230 MB)](https://packs.ppy.sh/P307%20-%20osu%21%20World%20Cup%202025%3A%20Grand%20Finals.zip)**\
+**[Download the mappack here (230 MB)](https://packs.ppy.sh/P307%20-%20osu!%20World%20Cup%202025%3A%20Grand%20Finals.zip?1765413881)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2637864390?t=3h42m0s)
 
 - No Mod
