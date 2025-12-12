@@ -9,7 +9,7 @@ Key smashing awesomeness is once again upon us. It's the 10th edition of the osu
 
 ![](/wiki/Tournaments/MWC/2026_7K/img/mwc7k2026-banner.jpg)
 
-As 2026 approaches, we are updating the tournament's design language (which looks amazing, by the way) and tweaking the format. Here is what we have in store:
+As 2026 approaches, we are updating both the match format and the tournament's design language (which looks amazing, by the way), huge shoutout to our design team of [AlexDunk](https://osu.ppy.sh/users/9194799), [ChillierPear](https://osu.ppy.sh/users/9501251), [Detristy](https://osu.ppy.sh/users/38325708), and [LeeNarie](https://osu.ppy.sh/users/2667849) for this one. Here is what we have in store:
 
 ## Format changes
 

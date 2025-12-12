@@ -50,7 +50,7 @@ The osu!mania 7K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team
 | Commentators | *TBA* |
 | Referees | *TBA* |
 | Statisticians | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
+| Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 
 Group leaders denoted in **bold**.
 
