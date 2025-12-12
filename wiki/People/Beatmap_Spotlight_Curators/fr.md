@@ -2,8 +2,6 @@
 tags:
   - BSC
   - beatmap spotlight curator
-outdated_translation: true
-outdated_since: 538ee050de0cbff316b9c194db200d95dbec6a8f
 ---
 
 # Beatmap Spotlight Curators
@@ -54,7 +52,7 @@ Chaque publication des Beatmap Spotlights est assemblée par une équipe de cura
 
 ### Curateurs osu!catch
 
-- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)** 
+- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898)
 - ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
 - ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462)
