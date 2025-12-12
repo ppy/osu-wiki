@@ -59,8 +59,6 @@ Group leaders denoted in **bold**.
 - **[Sign up here](https://osu.ppy.sh/community/tournaments/53)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)
-- *Challonge bracket*
-- *Pick'ems page*
 
 ## Ruleset
 
@@ -121,7 +119,7 @@ Group leaders denoted in **bold**.
    - **Teams that do not send their team list by January 4, 12:00 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every valid registrant will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be ranked #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully accepted on the list, players are required to be ranked #5,000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 2 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
@@ -205,4 +203,4 @@ Group leaders denoted in **bold**.
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played.
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
-5. Captains are chiefly responsible for their team's availability, and will be held accountable for any mismanagement in this regard. Captains that do not observe deadlines, act in bad faith when rescheduling matches, or similar offenses, are subject to the sanctions listed on the Tournament Rules section, rule 15.
+5. Captains are chiefly responsible for their team's availability, and will be held accountable for any mismanagement in this regard. Captains that do not observe deadlines, act in bad faith when rescheduling matches, or similar offenses, are subject to the sanctions listed on the [tournament rules section](#tournament-rules), rule 15.
