@@ -14,7 +14,6 @@
 - [Как решить проблемы с BSS?](BSS_issues)
 - [Настройка оффсета и BPM](Setting_the_offset_on_the_correct_beat)
 - [Настройка тайминга](How_to_time_songs)
-- [Пользовательская библиотека хитсаундов](Custom_hitsound_library)
 - [Руководство по редактированию аудио](Audio_editing)
 - [Сжатие файлов](Compressing_files)
 - [Нестандартные хитсаунды](Custom_sample_overrides)
