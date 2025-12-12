@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2026: Registrations Now Open!"
-date: 2025-12-12 12:00:00 +0000
+date: 2025-12-12 16:00:00 +0000
 series: world_cups
 ---
 
