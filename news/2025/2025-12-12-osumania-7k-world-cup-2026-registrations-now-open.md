@@ -23,7 +23,7 @@ As always, for more details regarding the tournament, please refer to the **[osu
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | Dec 11 (12:00 UTC) – Dec 26 (23:59 UTC) |
+| Registration phase | Dec 11 (12:00 UTC) – Dec 25 (23:59 UTC) |
 | Qualifier showcase | Jan 4 |
 | Qualifier stage | Jan 10 & Jan 11 |
 | Round of 32 | Jan 17 & Jan 18 |
