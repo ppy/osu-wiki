@@ -30,3 +30,4 @@ Index page for all of the osu!mania World Cup series.
 - [osu!mania 7K World Cup 2023](2023_7K)
 - [osu!mania 7K World Cup 2024](2024_7K)
 - [osu!mania 7K World Cup 2025](2025_7K)
+- [osu!mania 7K World Cup 2026](2026_7K)
