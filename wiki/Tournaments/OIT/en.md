@@ -7,3 +7,4 @@ Index page for all of the osu! Indonesia Tournament series.
 - [osu! Indonesia Tournament #12 (2022)](2022)
 - [osu! Indonesia Tournament #13 (2023)](2023)
 - [osu! Indonesia Tournament #14 (2024)](2024)
+- [osu! Indonesia Tournament #15 (2025) ft. Stella](2025)
