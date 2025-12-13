@@ -6,7 +6,7 @@ outdated_since: 4726aee80ebfa659ad7552ec1a6db04c51331c75
 
 # Báo cáo lạm dụng
 
-## Tôi không biết liệu mình nên có nên báo cáo điều này hay không
+## Tôi không biết liệu mình có nên báo cáo điều này hay không
 
 Nếu bạn vẫn đang băn khoăn thì tốt nhất là nên báo cáo.
 
@@ -14,7 +14,9 @@ Nếu bạn cảm thấy không thoải mái đến mức phải đọc trang n�
 
 Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý hoặc tiếp cận tình dục không mong muốn nào trong cộng đồng này
 
-Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi), không có gì bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ được chia sẻ với bất kỳ ai khác ngoài anh ta.
+Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
+
+mọi báo cáo bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai khác ngoài anh ta.
 
 ## Ai đó đã có những hành vi hoặc lời nói khiếm nhã mang tính quấy rối tình dục đối với tôi!
 
