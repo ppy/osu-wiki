@@ -54,16 +54,6 @@ Information about your tournament ban status may be provided to tournament organ
 | Utilising private/confidential tournament information to gain or confer an unfair advantage | Indefinite | May also cause a restriction |
 | Severe abuse towards or harassment of tournament organisers/staff/participants | Indefinite | May also cause a restriction |
 
-## Staffing bans
-
-A staffing ban prevents a user from staffing in officially supported tournaments, with the exception of streaming, commentating, or graphic design.
-
-## Hosting bans
-
-A hosting ban prevents a user from being the primary organiser or admin of any officially supported tournament. They may, however, engage in other roles which do not involve organisation.
-
-The Tournament Committee reserves the right to bypass the [hosting probation](#hosting-probations) punishment in cases of severe violations of the [official support rules](/wiki/Tournaments/Official_support), especially in cases where competitive integrity is a concern.
-
 ## Hosting probations
 
 A hosting probation is enforced as a result of an [official support](/wiki/Tournaments/Official_support) rule violation that cannot be resolved via communication to the host after the tournament's conclusion. When a hosting probation is applied to a user, the next tournament they organise that applies for official support will be heavily scrutinised by the Tournament Committee both during the tournament and after it finishes. Minor issues which would typically be resolved via email communication without further incident would instead extend the hosting probation. Significant violations of official support rules while on probation will result in a [hosting ban](#hosting-bans) or greater punishment, as determined by the committee.
@@ -79,9 +69,19 @@ Users who consistently have minor issues which require correction by the committ
 
 If a user faces harsher punishment, such as a hosting ban, their probation will also expire once their punishment is lifted.
 
+## Hosting bans
+
+A hosting ban prevents a user from being the primary organiser or admin of any officially supported tournament. They may, however, engage in other roles which do not involve organisation.
+
+The Tournament Committee reserves the right to bypass the [hosting probation](#hosting-probations) punishment in cases of severe violations of the [official support rules](/wiki/Tournaments/Official_support), especially in cases where competitive integrity is a concern.
+
+## Staffing bans
+
+A staffing ban prevents a user from staffing in officially supported tournaments, with the exception of streaming, commentating, or graphic design.
+
 ## Can I appeal a tournament sanction? {id=appeal}
 
-Tournament sanctions as applied via means other than standard appeal terms include a 72 hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
+Tournament sanctions as applied via means other than standard appeal terms include a 72-hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
 
 Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
 
