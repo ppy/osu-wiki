@@ -15,7 +15,7 @@ tags:
 
 [osu!](/wiki/Game_mode/osu!)では、サークルサイズは[サークル](/wiki/Gameplay/Hit_object/Hit_circle)と[スライダー](/wiki/Gameplay/Hit_object/Slider)のサイズを変更し、値を大きくするとヒットオブジェクトが小さくなります。[スピナー](/wiki/Gameplay/Hit_object/Spinner)はサークルサイズの影響を受けません。ヒットオブジェクトの大きさは次の式で求められます。
 
-`r = 54.4 - 4.48 * CS`<!-- 古いリプレイのバグを解消するためには最後に 1.00041 を掛けます -->
+`r = (54.4 - 4.48 * CS) * 1.00041`<!-- 古いリプレイのバグを解消するためには最後に 1.00041 を掛けます -->
 
 `r`は[osu!pixels](/wiki/Client/Beatmap_editor/osu!_pixel)あたりのピクセル数を表し、`CS`はサークルサイズを表します。
 
