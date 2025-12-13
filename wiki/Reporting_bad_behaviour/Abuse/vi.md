@@ -16,7 +16,7 @@ Chúng tôi không khoan nhượng đối với bất kỳ hình thức chú ý 
 
 Địa chỉ email lạm dụng chỉ có thể được xem bởi [peppy](https://osu.ppy.sh/users/2)(người tạo ra trò chơi).
 
-mọi báo cáo bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai khác ngoài anh ta.
+Mọi báo cáo bạn gửi đến [abuse@ppy.sh](mailto:abuse@ppy.sh) sẽ không được chia sẻ với bất kỳ ai khác ngoài anh ấy.
 
 ## Ai đó đã có những hành vi hoặc lời nói khiếm nhã mang tính quấy rối tình dục đối với tôi!
 
