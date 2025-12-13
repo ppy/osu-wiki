@@ -144,20 +144,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
 
 ## Match schedule: Grand Finals
 
-### Saturday, 13 December 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 45 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Dec 13 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251213T040000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^lbf-match] |
-| SM-a | Grand Finals | showmatch | [Dec 13 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251213T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
 ### Sunday, 14 December 2025
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 46b | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Dec 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T190000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 | SM-b | Grand Finals | showmatch | [Dec 14 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T190000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
 
 ## Mappools
 
@@ -965,6 +957,5 @@ The final bracket configuration will be as follows:
 [^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^lbf-match]: Losers bracket Finals match
 [^gf-match]: Grand Finals match – final matchup depends on the preceding losers bracket Finals match
-[^showmatch]: Grand Finals showmatch (OWC playtesters) – final matchup depends on the preceding losers bracket Finals match
+[^showmatch]: Grand Finals showmatch – OWC playtesters
