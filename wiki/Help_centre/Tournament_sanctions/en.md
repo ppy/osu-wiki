@@ -85,6 +85,6 @@ Tournament sanctions as applied via means other than standard appeal terms inclu
 
 Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
 
-Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside of writing an appeal should be expected for any earnest chance of success.
+Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside of writing an appeal should be expected for any earnest chance of success. A list of all users who have successfully appealed an indefinite tournament ban can be found [on this forum thread](https://osu.ppy.sh/community/forums/topics/1798871).
 
 In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
