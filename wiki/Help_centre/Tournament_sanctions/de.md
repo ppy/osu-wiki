@@ -32,16 +32,6 @@ Das beinhaltet Situationen wie:
 - das Missbrauchen einer Vertrauensstellung, um einen Vorteil zu erhalten (Zeitpläne manipulieren, die Zusammensetzung der Teams unfair verändern oder Teilnehmer ohne Grund und Veranlassung disqualifizieren)
 - das Organisieren gezielter Missbrauchskampagnen gegen Teilnehmer oder Veranstalter weit außerhalb des Bereichs der Kritik
 
-### Kann ich gegen eine Turniersperre eine Beschwerde einreichen? {id=appeal}
-
-Gegen vorübergehende Turniersperren, die über die üblichen Beschwerdebedingungen oder aus anderen Gründen verhängt werden, können keine Beschwerden eingereicht werden.
-
-Gegen unbefristete Turniersperren dürfen Beschwerden eingereicht werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung der Beschwerde muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit der letzten Beschwerde warten, bevor die Sperre erneut angefochten werden kann.
-
-Obwohl es wie oben beschrieben möglich ist, unbefristete Turniersperren anzufechten, sollte betont werden, dass für eine ernsthafte Aussicht auf Erfolg erhebliche Anstrengungen in der Community außerhalb des Beschwerdeschreibens erwartet werden.
-
-In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
-
 ### Was kann ich tun, während ich von Turnieren gesperrt bin? {id=while-banned}
 
 Du darfst weiter in Turnieren von der Community spielen, die keine offizielle Unterstützung anfordern oder eine Überprüfung benötigen, was im Ermessen der Veranstalter dieser Events liegt.
@@ -64,16 +54,6 @@ Informationen über den Status deiner Turniersperre können Turnierveranstaltern
 | Verwendung privater/vertraulicher Informationen zum Turnier, um einen unfairen Vorteil zu erlangen | Unbefristet | Kann auch zu einer Einschränkung führen |
 | Schwerwiegender Missbrauch gegenüber oder Belästigung von Turnierveranstaltern/-teilnehmern | Unbefristet | Kann auch zu einer Einschränkung führen |
 
-## Aushilfssperren
-
-Eine Aushilfssperre verhindert es einem Nutzer, in offiziellen oder offiziell unterstützen Turnieren mitzuhelfen. Ausgenommen hiervon sind Streaming, Kommentierung und Grafikdesign.
-
-## Veranstaltungsverbote
-
-Ein Veranstaltungsverbot verhindert es einem Nutzer, ein Hauptorganisator oder Administrator in einer offiziell unterstützten Turnier zu sein. Betroffene Nutzer dürfen aber in offiziell unterstützte Turniere aushelfen, wenn diese Aushilfe kein Bezug auf Organisation hat.
-
-Das Turnierkomitee behält sich das Recht vor, direkt Veranstaltungsverbote zu verhängen anstatt eine [Veranstalter auf Probe zu setzen](#aufprobesetzung-von-veranstaltern) in Fällen von gröbliche Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support), insbesondere dann, wenn die Wettbewerbsintegrität der Turnier gefährdet wurde.
-
 ## Aufprobesetzung von Veranstaltern
 
 Veranstalter werden auf Probe gesetzt, wenn sie die [offizielle Unterstützungsregeln](/wiki/Tournaments/Official_support) in eine Weise verletzen, dass nicht nach der Turnier korrigiert werden kann. Wenn eine Nutzer auf Probe gesetzt wird, wird die nächste Turnier dieser Nutzer während und nach ihrer Ablauf durch das Turnierkomitee gründlich kontrolliert. Kleine Fehler, die sonst durch Kontaktaufnahme mit der Veranstalter gelöst würden, werden stattdessen die Probezustand verlängern. Erhebliche Verletzungen der offiziellen Unterstützungsregeln durch eine Veranstalter auf Probe werden nach Ermessen des Turnierkomitees zu eine [Veranstaltungsverbot](#veranstaltungsverbote) oder schwerwiegender Strafen führen.
@@ -88,3 +68,23 @@ Die Probezustand einer Veranstalter kann aufgehoben werden, indem dieser eine Tu
 Veranstalter, deren Turniere ständig kleine Fehler haben, die vom Turnierkomitee berichtigt werden müssen durch Emailkontakte, bleiben auf unbestimmter Zeit auf Probe. Gegen Veranstalter, die sich gar nicht bemühen, ihre Turniere zu verbessern, können härtere Strafen nach Ermessen des Komitees verhängt werden. Die Probe einer Veranstalter lauft nicht automatisch ab.
 
 Wenn eine Nutzer eine schwerwiegendere Sanktion (wie eine Veranstaltungsverbot) bekommt, wird die Probe dieser Nutzer aufgehoben, wenn die Sanktion beendet wird.
+
+## Veranstaltungsverbote
+
+Ein Veranstaltungsverbot verhindert es einem Nutzer, ein Hauptorganisator oder Administrator in einer offiziell unterstützten Turnier zu sein. Betroffene Nutzer dürfen aber in offiziell unterstützte Turniere aushelfen, wenn diese Aushilfe kein Bezug auf Organisation hat.
+
+Das Turnierkomitee behält sich das Recht vor, direkt Veranstaltungsverbote zu verhängen anstatt eine [Veranstalter auf Probe zu setzen](#aufprobesetzung-von-veranstaltern) in Fällen von gröbliche Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support), insbesondere dann, wenn die Wettbewerbsintegrität der Turnier gefährdet wurde.
+
+## Aushilfssperren
+
+Eine Aushilfssperre verhindert es einem Nutzer, in offiziellen oder offiziell unterstützen Turnieren mitzuhelfen. Ausgenommen hiervon sind Streaming, Kommentierung und Grafikdesign.
+
+### Kann ich gegen eine Turniersanktion eine Beschwerde einreichen? {id=appeal}
+
+Gegen Turniersanktionen, die nicht über die üblichen Beschwerdebedingungen verhängt worden sind, können Beschwerden innerhalb von 72 Stunden eingereicht werden. Nach dieser Frist können keine Beschwerden gegen Turniersanktionen außer unbefristete Turniersperren eingereicht werden.
+
+Gegen unbefristete Turniersperren dürfen Beschwerden eingereicht werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung der Beschwerde muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit der letzten Beschwerde warten, bevor die Sperre erneut angefochten werden kann.
+
+Obwohl es wie oben beschrieben möglich ist, unbefristete Turniersperren anzufechten, sollte betont werden, dass für eine ernsthafte Aussicht auf Erfolg erhebliche Anstrengungen in der Community außerhalb des Beschwerdeschreibens erwartet werden. Eine Liste aller Nutzer, die eine unbefristete Turniersperre angefochten haben, ist [auf dieser Forum-Thread verfügbar](https://osu.ppy.sh/community/forums/topics/1798871).
+
+In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
