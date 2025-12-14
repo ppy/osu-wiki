@@ -970,5 +970,3 @@ The final bracket configuration will be as follows:
 [^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^gf-match]: Grand Finals match – final matchup depends on the preceding losers bracket Finals match
-[^showmatch]: Grand Finals showmatch – OWC playtesters
