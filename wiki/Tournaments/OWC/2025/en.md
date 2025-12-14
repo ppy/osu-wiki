@@ -26,7 +26,7 @@ The **osu! World Cup 2025** (***OWC 2025***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2025 offers a $10,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2025 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -38,7 +38,7 @@ The osu! World Cup 2025 offers a $10,000 cash prize pool and limited-edition mer
 
 ## Organisation
 
-The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu! World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
