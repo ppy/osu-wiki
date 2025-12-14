@@ -307,8 +307,8 @@ The full body and chibi concept arts were quite different. Hiro originally made 
 
 ---
 
-The culmination of the osu! World Cup 2025 is upon us. Can Poland complete their long-awaited climb back to the top and become just the third nation to win multiple Cups? Will the United States prove that 2024 was just a hiccup for OWC's greatest dynasty? Or, perhaps, could it be time for a new champion in the form of Australia, with mrekk cementing his tournament legacy on osu!'s grandest stage?
+The culmination of the osu! World Cup 2025 is upon us. Can Poland complete their long-awaited climb back to the top and become just the third nation to win multiple Cups? Will the United States prove that 2024 was just a hiccup for OWC's greatest dynasty?
 
-Tune in to [watch the action live](https://twitch.tv/osulive), with the showmatch today at 17:00 UTC and the final showdown of United States vs. Australia at 19:00 UTC!
+Tune in to [watch the action live](https://twitch.tv/osulive), with the showmatch today at 17:00 UTC and the final showdown of Poland vs. United States at 19:00 UTC!
 
 —Dada, D I O, Kuroise, Sakura006, shdewz & this1neguy
