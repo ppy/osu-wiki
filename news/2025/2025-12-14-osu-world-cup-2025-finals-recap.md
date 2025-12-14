@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu! World Cup 2025: Finals Recap"
-date: 2025-12-12 20:00:00 +0000
+date: 2025-12-14 06:30:00 +0000
 series: world_cups
 ---
 
 Excitement and anticipation were through the roof for the osu! World Cup 2025 Finals. For the first time ever, the top 6 seeds made up the last 6 of the bracket, set to face off in a match week that was unprecedented in scope. One question remained to be answered: would it live up to the hype?
 
-![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/banner.jpg)
+![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/banner.jpg)
 
 In the winners' Finals, #1 seed Poland faced off against #2 seed United States. The former was seeking their first Grand Final since 2017, having already achieved their first podium since that same year. The latter was looking for redemption after failing to win the tournament in 2024 for the first time in 7 years. Meanwhile, Australia, Canada, Germany, and South Korea would fight tooth and nail in the losers' bracket for the coveted final spot on the podium. All had glory in their sights, but only one team could win the two matches required to reach Grand Finals week.
 
@@ -31,7 +31,7 @@ Be sure to check out [D I O](https://osu.ppy.sh/users/3958619)'s video too for a
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2631998127&parent=osu.ppy.sh&autoplay=false&time=1h43m05s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/mappool.png)
+![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/mappool.png)
 
 This week's mappool had a lot of... maps. In the pool... The mappool...
 
@@ -45,7 +45,7 @@ As for the notable customs, there were quite a few. [Sparkle Dancer](https://osu
 
 We also had a grand total of **four** [osu! originals](/wiki/Community/Bespoke_music) this week, so let's tackle each one of them from top to bottom.
 
-[![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/inorganic_dystopia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113)
+[![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/inorganic_dystopia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -55,7 +55,7 @@ We also had a grand total of **four** [osu! originals](/wiki/Community/Bespoke_m
 
 Firstly, new featured artist [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) gave us an aggressive, hard-hitting electronic banger in [Inorganic Dystopia](https://osu.ppy.sh/beatmapsets/2471967#osu/5416113). Mapped by [9ami](https://osu.ppy.sh/users/1499997), [ralsricat](https://osu.ppy.sh/users/12318332) and [Matsuyuki Ame](https://osu.ppy.sh/users/12763959), this is one truly crazy tech experience.
 
-[![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/ruby_of_twilight_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
+[![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/ruby_of_twilight_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -65,7 +65,7 @@ Firstly, new featured artist [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) g
 
 Second on the list, returning from 2023, it's our old friend [cygnus](https://osu.ppy.sh/beatmaps/artists/359), bringing us an active yet still somber electronic piece in [The Ruby of Twilight](https://osu.ppy.sh/beatmapsets/2471980#osu/5416133). Mapped by [LMT](https://osu.ppy.sh/users/7262798), the map used the song's 1/8 rhythms mixed with a precision challenge in Hard Rock to make for an extremely unique challenge. The map also features a really cool storyboard, so check it out!
 
-[![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/open_scar_unending_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471983#osu/5416139)
+[![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/open_scar_unending_banner.jpg)](https://osu.ppy.sh/beatmapsets/2471983#osu/5416139)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -75,7 +75,7 @@ Second on the list, returning from 2023, it's our old friend [cygnus](https://os
 
 Next up, it was finally OWC's turn for a [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220) song, as the band has so far produced an original for every other world cup this year. [Open Scar Unending](https://osu.ppy.sh/beatmapsets/2471985#osu/5416144) plays with guitar, distortion and rhythm in a way only Marmalade butcher can, which made for a very active song and for an aggressive and dissonant map (aesthetically) from [revoh](https://osu.ppy.sh/users/8165181), which only became more emphasized through being a forced Hard Rock pick.
 
-[![](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/gumbarlzo_banner.jpg)](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200)
+[![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/gumbarlzo_banner.jpg)](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -151,7 +151,7 @@ A match tinged with inevitability had at long last reached its thrilling climax:
 
 ::{#raybean}::
 
-![Raybean](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/Raybean.png)
+![Raybean](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/Raybean.png)
 
 This year's OWC, we welcome the debut of a new World Cup storyboarder. [Raybean](https://osu.ppy.sh/users/16676388) took on the Finals Tiebreaker [Gumbarlzo!](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200) and produced an outstanding storyboard for the showcase. However, this isn't their first rodeo contributing to osu! originals. Their past work includes the graphic design for [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) in MWC 7K 2025 and the illustration for [Resonance of Ice Stalactites](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199) in LGA 2025.
 
@@ -205,7 +205,7 @@ Because of my background in graphic design, I'd say I already understood the aes
 
 ::{#illustrators}::
 
-![RedcXca, [celes], Kourihase & HiROdoge](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/mascot-designers.png)
+![RedcXca, [celes], Kourihase & HiROdoge](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/mascot-designers.png)
 
 Since [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) in OWC 2024, we're once again greeted with all five osu! mascots in a tiebreaker. With four illustrators working across multiple scenes, this project grew into a huge collection of festival moments and character interactions.
 
