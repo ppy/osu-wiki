@@ -148,7 +148,7 @@ A match tinged with inevitability had at long last reached its thrilling climax:
 
 ::{#raybean}::
 
-insert banner
+![Raybean](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/Raybean.png)
 
 This year's OWC, we welcome the debut of a new World Cup storyboarder. [Raybean](https://osu.ppy.sh/users/16676388) took on the Finals Tiebreaker [Gumbarlzo!](https://osu.ppy.sh/beatmapsets/2472011#osu/5416200) and produced an outstanding storyboard for the showcase. However, this isn't their first rodeo contributing to osu! originals. Their past work includes the graphic design for [FOXGLOVE](https://osu.ppy.sh/beatmapsets/2318030#mania/4964416) in MWC 7K 2025 and the illustration for [Resonance of Ice Stalactites](https://osu.ppy.sh/beatmapsets/2373140#osu/5124199) in LGA 2025.
 
@@ -202,7 +202,7 @@ Because of my background in graphic design, I'd say I already understood the aes
 
 ::{#illustrators}::
 
-insert banner
+![RedcXca, [celes], Kourihase & HiROdoge](/wiki/shared/news/2025-12-12-osu-world-cup-2025-finals-recap/mascot-designers.png)
 
 Since [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992#osu/4881796) in OWC 2024, we're once again greeted with all five osu! mascots in a tiebreaker. With four illustrators working across multiple scenes, this project grew into a huge collection of festival moments and character interactions.
 
