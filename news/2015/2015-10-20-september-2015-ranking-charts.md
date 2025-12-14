@@ -3,6 +3,7 @@ layout: post
 title: September 2015 Ranking Charts
 date: 2015-10-20 19:59:22 +0000
 tumblr_url: http://osunews.tumblr.com/post/131572139128/september-2015-ranking-charts
+series: beatmap_spotlights
 ---
 
 With some delay, the Ranking Charts for September 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1509)!

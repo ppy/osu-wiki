@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: January 2018"
 date: 2018-02-23 11:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Mapping is off to a strong start in 2018, and here we come again with our selection of maps the previous month! Swing by and check out the Beatmap Spotlights for January!

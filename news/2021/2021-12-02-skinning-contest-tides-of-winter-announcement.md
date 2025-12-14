@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Tides of Winter"
 date: 2021-12-02 12:00:00 +0000
+series: official_contests
 ---
 
 The Skinning Contest returns as winter cracks the door open. Grab a cup of hot chocolate and tune in for all the details!

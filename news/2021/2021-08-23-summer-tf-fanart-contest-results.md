@@ -2,6 +2,7 @@
 layout: post
 title: Summer 2021 Track and Field Fanart Contest Results
 date: 2021-08-23 12:00:00 +0000
+series: fanart_contests
 ---
 
 The race is over — now witness the podium finish in all its glory with 15 new Summer seasonal backgrounds!

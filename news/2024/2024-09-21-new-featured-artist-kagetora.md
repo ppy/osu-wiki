@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kagetora."
 date: 2024-09-21 17:00:00 +0000
+series: featured_artists
 ---
 
 A legend joins the ranks: welcome **Kagetora.** to our Featured Artists!

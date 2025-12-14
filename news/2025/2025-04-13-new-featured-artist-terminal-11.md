@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Terminal 11"
 date: 2025-04-13 15:45:00 +0000
+series: featured_artists
 ---
 
 You've reached the end of the line. A new realm of music is here.

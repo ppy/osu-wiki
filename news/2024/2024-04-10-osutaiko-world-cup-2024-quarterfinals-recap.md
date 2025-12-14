@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2024: Quarterfinals Recap"
 date: 2024-04-10 12:00:00 +0000
+series: world_cups
 ---
 
 A lot of things happened in the osu!taiko World Cup between the 6th and 7th of April 2024.

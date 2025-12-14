@@ -2,6 +2,7 @@
 layout: post
 title: The Perennial Concludes
 date: 2024-07-28 19:00:00 +0000
+series: community_tournaments
 ---
 
 With our hiatus gone and the tournament finished, [the Perennial](https://theperennial.net/) has crowned another champion!

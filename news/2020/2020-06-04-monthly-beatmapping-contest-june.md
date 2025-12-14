@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: June"
 date: 2020-06-04 22:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Jumping into June with more competitive beatmapping! Last month's finalists are ready for your votes and put your best foot forward for this month's contest!

@@ -2,6 +2,7 @@
 layout: post
 title: "Journey into a Beatmap World Art Contest: Results"
 date: 2023-05-01 07:00:00 +0000
+series: fanart_contests
 ---
 
 We've travelled across the (beatmapping) world to get you these results, now showing on a main menu near you!

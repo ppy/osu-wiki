@@ -3,6 +3,7 @@ layout: post
 title: osu!catch World Cup 2016 - Registrations open!
 date: 2016-04-12 11:30:20 +0000
 tumblr_url: http://osunews.tumblr.com/post/142680619968/osucatch-world-cup-2016-registrations-open
+series: world_cups
 ---
 
 We'd like to welcome all of you to this year's official osu!catch World Cup. As usual, the rules have been adjusted from the previous CWC, so please **[read them carefully](https://osu.ppy.sh/wiki/CWC_2016#Ruleset)** before registering for this tournament.

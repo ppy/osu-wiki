@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: OISHII"
 date: 2017-08-30 08:00:00 +0000
+series: featured_artists
 ---
 
 What do chiptunes and food have in common? They're both **OISHII**! No, really, they're the favourite things of osu!'s latest Featured Artist, blasting soon to a beatmap near you!

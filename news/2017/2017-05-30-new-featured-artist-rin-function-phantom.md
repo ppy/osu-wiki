@@ -3,6 +3,7 @@ layout: post
 title: "New Featured Artist: Rin / Function Phantom"
 date: 2017-05-29 17:46:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161207732693/new-featured-artist-rin-function-phantom
+series: featured_artists
 ---
 
 The talent behind *Function Phantom* and a dozen other aliases to boot, **Rin** joins us from the Kuroneko Lounge as a Featured Artist!

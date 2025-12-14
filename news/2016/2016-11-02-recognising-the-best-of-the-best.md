@@ -3,6 +3,7 @@ layout: post
 title: Recognising the Best of the Best
 date: 2016-11-02 10:54:11 +0000
 tumblr_url: http://osunews.tumblr.com/post/152637359823/recognising-the-best-of-the-best
+series: official_contests
 ---
 
 The osu! community is comprised of hundreds of thousands of people. Among this huge number are a selection of incredible individuals who go far beyond the rest in their contributions to the community, and make the game better for everyone as a result. To celebrate November, we're announcing a new round of Community Contributor Badges and a new entrant into the osu! Hall of Fame.

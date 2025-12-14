@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Innocent Key"
 date: 2022-11-26 11:00:00 +0000
+series: featured_artists
 ---
 
 Desperate for more *Touhou* music? **Innocent Key** has it.

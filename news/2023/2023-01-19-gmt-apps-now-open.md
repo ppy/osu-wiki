@@ -2,6 +2,7 @@
 layout: post
 title: Global Moderation Team applications now open!
 date: 2023-01-19 12:00:00 +0000
+series: miscellaneous
 ---
 
 Been an active community member for a while? Felt an inner urge to chase after some osu! troublemakers? Now it's your time to shine! The Global Moderation Team is seeking new members.

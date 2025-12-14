@@ -2,6 +2,7 @@
 layout: post
 title: Performance Points Updates
 date: 2021-01-16 05:00:00 +0000
+series: ranking_system_updates
 ---
 
 Thanks to the effort of a number of public contributors, we're excited to announce a new set of changes to osu!'s performance points (pp) algorithm that should help freshen things up at high levels of play. Read on for more details!

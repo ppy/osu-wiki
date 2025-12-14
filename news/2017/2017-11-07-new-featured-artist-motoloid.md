@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MOtOLOiD"
 date: 2017-11-07 12:00:00 +0000
+series: featured_artists
 ---
 
 Featuring some living legends of the Japanese music scene, we're proud to announce the latest addition to the roster of osu! Featured Artists - **MOtOLOiD!** This is a particularly special release, with six brand new, already Ranked beatmaps available for you to enjoy, and a brand new medal to hunt!

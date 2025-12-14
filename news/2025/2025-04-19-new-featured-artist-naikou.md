@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Naikou"
 date: 2025-04-19 20:00:00 +0000
+series: featured_artists
 ---
 
 **Naikou** journeys from tournament mappools to our Featured Artist library!

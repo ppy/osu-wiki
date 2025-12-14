@@ -3,6 +3,7 @@ layout: post
 title: Community Mentorship Program Fall 2017 Signups Now Open
 date: 2017-07-18 15:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163075746433/community-mentorship-program-fall-2017-signups-now-open
+series: online_events
 ---
 
 Have you ever thought about getting more involved in mapping and modding, but have no idea where to begin? The Community Mentorship Program might be the place for you! Read on to find out how to apply!

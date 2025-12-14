@@ -3,6 +3,7 @@ layout: post
 title: June 2014 Ranking Chart
 date: 2014-07-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/92131524533/june-2014-ranking-chart
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for June 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1406)! Along with that, we want to introduce you some changes to make the Monthly Ranking Charts more attractive for everyone!

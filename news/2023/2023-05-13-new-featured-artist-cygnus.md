@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: cygnus"
 date: 2023-05-13 12:00:00 +0000
+series: featured_artists
 ---
 
 Do you believe in simulation theory? If not, disregard this message and carry on with your day. Otherwise, you might want to check out our newest Featured Artist.

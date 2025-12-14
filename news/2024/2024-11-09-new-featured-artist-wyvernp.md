@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: WyvernP"
 date: 2024-11-09 21:00:00 +0000
+series: featured_artists
 ---
 
 **WyvernP** settles into our Featured Artist library.

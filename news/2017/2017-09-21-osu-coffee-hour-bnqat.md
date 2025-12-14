@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: Beatmap Nominators and the QAT"
 date: 2017-09-21 09:30:00 +0000
+series: coffee_hour
 ---
 
 The osu! Coffee Hour's back for its third sitting, featuring everything **Beatmap Nominators (BN)** / **Quality Assurance Team (QAT)** related, and the overhaul of the whole system that's on the horizon. Get your questions answered and see where the future of the game's beatmapping scene is heading!

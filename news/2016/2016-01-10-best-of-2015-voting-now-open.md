@@ -3,6 +3,7 @@ layout: post
 title: Best of 2015 Voting Now Open!
 date: 2016-01-10 15:35:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/137019258158/best-of-2015-voting-now-open
+series: official_contests
 ---
 
 With 2015 finally over and the new year well under way, it's time to take a moment to nominate your favorite maps from last year - from every mode!

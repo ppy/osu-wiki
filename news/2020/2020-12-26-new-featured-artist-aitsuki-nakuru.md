@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aitsuki Nakuru"
 date: 2020-12-26 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to introduce renowned vocalist **Aitsuki Nakuru** as our latest Featured Artist!

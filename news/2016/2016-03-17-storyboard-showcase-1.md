@@ -3,6 +3,7 @@ layout: post
 title: "Storyboard Showcase #1"
 date: 2016-03-17 02:43:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/141179581633/storyboard-showcase-1
+series: miscellaneous
 ---
 
 A good storyboard can bring a map to life in ways we have never thought possible. Today, we show our appreciation to one of the members of the community who bring us expertly crafted animations rendered at the same frame rate the game is running at. That's right, Storyboard Showcases are back!

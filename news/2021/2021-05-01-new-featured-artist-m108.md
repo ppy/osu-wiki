@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: m108"
 date: 2021-05-01 08:00:00 +0000
+series: featured_artists
 ---
 
 **m108** joins the ranks as our latest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: City Girl"
 date: 2022-03-05 09:00:00 +0000
+series: featured_artists
 ---
 
 **City Girl**'s unorthodox charm graces our Featured Artist library.

@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors 2024: Elite Nominators"
 date: 2025-03-24 14:00:00 +0000
+series: miscellaneous
 ---
 
 It's about time we take part in our yearly tradition of recognising our top Beatmap Nominators who've dedicated their sweat and tears to the Ranked section in 2024.

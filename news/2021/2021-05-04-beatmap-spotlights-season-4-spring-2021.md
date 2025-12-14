@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 4: Spring 2021 & Applications"
 date: 2021-05-04 01:45:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights rivals assemble! As many of you might've already known, the Winter Season 2021 is over, and we are finally here to announce the start of the **Spring Season** for 2021!

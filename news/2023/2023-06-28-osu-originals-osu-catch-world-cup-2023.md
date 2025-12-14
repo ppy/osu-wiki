@@ -2,6 +2,7 @@
 layout: post
 title: osu! originals - osu!catch World Cup 2023
 date: 2023-06-28 11:00:00 +0000
+series: world_cups
 ---
 
 If you happened to miss last weekend's [osu!catch World Cup](/wiki/Tournaments/CWC/2023) Grand Finals, you not only missed South Korea's thrilling turnaround after their 7–5 defeat against the United States, but also the **five brand-new songs** created exclusively for the event.

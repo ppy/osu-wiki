@@ -3,6 +3,7 @@ layout: post
 title: Skin Showcase - Nightcore HD
 date: 2014-01-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73755762190/skin-showcase-nightcore-hd
+series: miscellaneous
 ---
 
 Hey guys, and welcome to the first skin showcase for 2014! And to kick off the new year, I'm going to showcase one of the biggest skins I know of, the Nightcore HD skin.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: WhiteCat, the Cat Who Dominated osu!"
 date: 2024-07-14 23:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Dive into an interview with [WhiteCat](https://osu.ppy.sh/users/4504101), a legendary *cat* and an osu! player!

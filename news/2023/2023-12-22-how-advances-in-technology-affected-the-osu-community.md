@@ -2,6 +2,7 @@
 layout: post
 title: How Advances in Technology Affected the osu! Community
 date: 2023-12-22 12:00:00 +0000
+series: miscellaneous
 ---
 
 Let's take a stroll through the past 15 years of osu!, and see how various new technologies affected the game and the community.

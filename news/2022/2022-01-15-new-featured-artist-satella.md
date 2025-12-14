@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: satella"
 date: 2022-01-15 10:00:00 +0000
+series: featured_artists
 ---
 
 **satella** makes a grand entrance as the latest addition to our Featured Artist collection!

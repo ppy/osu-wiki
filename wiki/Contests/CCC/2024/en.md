@@ -37,7 +37,7 @@ The **Chinese Charting Contest 2024** (***CCC2024***) was an osu!mania mapping c
 | Organiser | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) |
 | Manager | ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229), ::{ flag=CN }:: [mafumafu](https://osu.ppy.sh/users/3076909) |
 | Designer | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
-| Judge | ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=CN }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
+| Judge | ::{ flag=MY }:: [_Kobii](https://osu.ppy.sh/users/6209713), ::{ flag=SG }:: [Evening](https://osu.ppy.sh/users/2193881), ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
 | Statistician | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) |
 
 ## Links

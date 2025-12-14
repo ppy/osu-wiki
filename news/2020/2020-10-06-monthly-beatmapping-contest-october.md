@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: October"
 date: 2020-10-06 18:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Are you a slider art connoisseur? Participate in this month's slider-only mapping contest to *really* find out!

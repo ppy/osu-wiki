@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: February 2024"
 date: 2024-02-21 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 You already know you're the world's #1 mapper, but this contest can make everyone else realise it too.

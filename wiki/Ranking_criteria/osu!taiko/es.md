@@ -14,7 +14,7 @@ Este conjunto de **criterios de clasificación de osu!taiko** establece [reglas 
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
 ### Jugabilidad
 
@@ -34,34 +34,33 @@ Este conjunto de **criterios de clasificación de osu!taiko** establece [reglas 
 - **Velocidad de los sliders:** Velocidad a la que se mueven horizontalmente las notas/redobles de tambor/spinners/líneas de compás de derecha a izquierda por el campo de juego. La velocidad base de los sliders se puede controlar en el panel de la temporización y se pueden realizar cambios adicionales a través de los puntos de tiempo heredados (verdes).
 - **Cambios suaves en la velocidad de los sliders:** Una mecánica que permite una transición gradual desde secciones de menor a mayor/de mayor a menor en la velocidad de los sliders. Para conseguir este efecto, se usan notas de transición con diferentes velocidades de los sliders.
 - **Improvisación:** Tener más notas de las que proporciona la canción real.
-- **Plantilla del fondo de Taiko:** Imágenes de fondo que simulan la auténtica jugabilidad de *Taiko no Tatsujin*. Suelen incluir una barra negra que muestra el artista y el título de la canción en blanco debajo del campo de juego.
+- **[Plantillas para los fondos de Taiko](/wiki/Beatmap/Background/Taiko_template_background):** Imágenes de fondo que simulan la auténtica jugabilidad de *Taiko no Tatsujin*.
 
-## Universal
+## General
 
 Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!taiko. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
-### General
-
-#### Reglas
+### Reglas
 
 Todas las reglas son exactamente eso: **reglas**. **No** son pautas y **no** deben incumplirse bajo **ninguna** circunstancia.
 
 - **Cada nota debe tener un color claramente distinguible de las notas anteriores y posteriores.**
 - **Cada nota debe ser claramente asignable a una [capa musical](/wiki/Music_theory/Layer) o a una unidad de capa que intente representar, ya sea para mejorar una capa que la canción proporciona, o ya sea una capa adicional improvisada por el mapper.** No improvises de manera que cambies el ritmo, contradigas el movimiento general de la música o malinterpretes la intensidad actual de la canción. La improvisación debe mejorar una capa actual de la canción o añadir una nueva. De lo contrario, se pierde la relación con la canción, lo que contradice el objetivo principal de un juego de ritmo.
 - **La opción `Omit first bar line` de un punto de tiempo no heredado debe usarse cuando un cambio de BPM/reinicio del metrónomo dificultaría estéticamente la experiencia de juego al añadir líneas de compás innecesarias.**
-- **No deben usarse plantillas de fondos de taiko.** Debido a las distintas resoluciones de pantalla habituales, no funcionan como se pretendía en un principio.
+- **No deben usarse [plantillas para los fondos de taiko](/wiki/Beatmap/Background/Taiko_template_background).** No funcionan como se pretendía originalmente en las relaciones de aspecto más comunes.
 - **Las colas de los sliders no deben ajustarse erróneamente para corregir la ausencia de las marcas de los sliders.** Este comportamiento no es intencionado y se corregirá en el futuro.
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
-  - **... menos de 3:30**, la dificultad más baja no puede ser más difícil que un Futsuu.
-  - **... entre 3:30 y 4:15**, la dificultad más baja no puede ser más difícil que un Muzukashii.
-  - **... entre 4:15 y 5:00**, la dificultad más baja no puede ser más difícil que un Oni.
+  - **... menos de 2:30**, la dificultad más baja no puede ser más difícil que un Futsuu.
+  - **... entre 2:30 y 3:15**, la dificultad más baja no puede ser más difícil que un Muzukashii.
+  - **... entre 3:15 y 4:00**, la dificultad más baja no puede ser más difícil que un Oni.
   - **Los [descansos](/wiki/Beatmap/Break) pueden combinarse con el [tiempo de drenaje](/wiki/Beatmap/Drain_time) para cumplir los umbrales mencionados**. Para la dificultad más alta, esto se limita a un máximo de 30 segundos de descanso. Esto no se aplica a las dificultades con menos de 30 segundos de tiempo de drenaje.
 - **No dejes ningún espacio en blanco entre el campo de juego de taiko y el fondo.** Si esto ocurre, debes modificar el último cero del `.osu` mediante el bloc de notas en la línea `0,0,«nombre_del_fondo.extensión_del_archivo»,0,0` en `[Events]`. Los valores positivos bajarán el fondo mientras que los negativos lo subirán.
 
-#### Pautas
+### Pautas
 
 Las pautas pueden ignorarse en **circunstancias excepcionales**. Estas circunstancias excepcionales deben justificarse con una explicación detallada de por qué se ha ignorado la pauta y por qué no ignorarla interferirá en la calidad general de la creación.
 
+- **No debería haber diferencias drásticas entre dos niveles de dificultad por debajo de Inner Oni**, aunque se puede permitir cierta tolerancia entre las [dificultades de invitados](/wiki/Beatmap/Guest_difficulty) para facilitar la coordinación entre varios mappers.
 - **Evita cubrir partes esenciales del fondo con el campo de juego de taiko.**
 - **Si se usan cambios en la velocidad de los sliders, deben coincidir con los cambios en el ritmo de la canción.** Eso significa no acelerar las partes tranquilas ni ralentizar las partes rápidas de una canción.
 - **Evita usar cambios uniformes en la velocidad de los sliders en secciones que incluyan un snapping variable.** Hacerlo afecta a la legibilidad de estos snaps, así que mantén la variación lo suficientemente baja como para evitar que se superpongan.
@@ -81,25 +80,40 @@ Las pautas pueden ignorarse en **circunstancias excepcionales**. Estas circunsta
 
 Las reglas y pautas específicas de cada dificultad solo se aplican al nivel de dificultad para el que se indican y, por lo tanto, *no se aplican a **todas** las dificultades de osu!taiko*. Las reglas y pautas relacionadas con el ritmo se aplican a los beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado del BPM según los criterios de clasificación](/wiki/Ranking_criteria/Scaling_BPM).
 
+### Pautas de los momentos de descanso
+
+Los momentos de descanso son pequeñas pausas dentro de los beatmaps que se usan para separar patrones y darle un respiro al jugador de las cadenas de ritmo continuas. Desempeñan un papel importante en la reducción de la fatiga de los jugadores, especialmente en ritmos más densos.
+
+Es aceptable usar los momentos de descanso con menos frecuencia si el ritmo de la música hace que los momentos de descanso sean poco intuitivos o si la parte mapeada de forma continua es, en general, más tolerante con el jugador.
+
+**Cada dificultad debe seguir sus respectivas pautas para los momentos de descanso:**
+
+| Dificultad | Momento de descanso | Ejemplo | Longitud de la cadena del ritmo |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 o más | ![3/1](img/kantan.png "3/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 o más | ![2/1](img/futsuu.png "2/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 1) | 3/2 o más | ![3/2](img/muzu1.png "3/2") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 2) | Tres 1/1 consecutivos o más | ![Tres 1/1 consecutivos](img/muzu2.png "Tres 1/1 consecutivos") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 o más | ![1/1](img/oni.png "1/1") | Momento de descanso necesario cada 16-20 pulsos |
+
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### Reglas
 
-- **Si se usa un patrón de 1/2, los patrones deben seguir siendo simples e ir seguidos de una pausa entre las notas.** Los cambios de color o las notas finalizadoras no deben usarse en los patrones como si lo fueran. Para las canciones que siguen un ritmo de swing, este límite es de 1/3.
+- **Si se usa un patrón de 1/2, los patrones deben seguir siendo simples e ir seguidos de un [momento de descanso](#pautas-de-los-momentos-de-descanso) entre las notas.** Los cambios de color o las notas finalizadoras no deben usarse en los patrones como si lo fueran. Para las canciones que siguen un ritmo de swing, este límite es de 1/3.
 - **Las notas deben estar separadas por al menos 1/2 pulso.** Cualquier cosa más rápida es demasiado compleja para los jugadores principiantes. En cambio, para las canciones que siguen un ritmo de swing, este límite es de 1/3.
 
 #### Pautas
 
-- **Los patrones de 1/1 no deben tener más de siete notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para los jugadores principiantes. Los patrones de este tipo deben ir seguidos de una pausa entre las notas.
+- **Los patrones de 1/1 no deben tener más de siete notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para los jugadores principiantes. Los patrones de este tipo deben ir seguidos de un [momento de descanso](#pautas-de-los-momentos-de-descanso) entre las notas.
 - **El snapping principal debe consistir principalmente en 2/1, 4/1 o ritmos más lentos.** En ocasiones, es aceptable usar ritmos de 1/1.
 - **Debe haber al menos 1/2 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
-- **Al menos se debe insertar una pausa de 3/1 o más entre las notas después de un mapeo continuo de 32/1 a 36/1.** Usar pausas entre las notas con menos frecuencia es aceptable si el ritmo de la música hace que las pausas entre las notas sean poco intuitivas o si la parte mapeada continuamente es en general más permisiva para el jugador.
 - **Los cambios en la velocidad de los sliders deben usarse con precaución.** Los cambios solo deben producirse en secciones con ritmos diferentes y la velocidad de los sliders no debe variar drásticamente.
 
 #### Pautas para la configuración de la dificultad
 
 - La dificultad general debería ser de 3 o menos.
-- La tasa de drenaje de HP debería ser de 8 o más. En los casos en los que el número de notas sea mayor, la tasa de drenaje de HP podría ajustarse ligeramente por debajo de 8, y viceversa para los casos en los que el número de notas sea menor.
+- La tasa de drenaje de HP debería ser de 8 o más[^hp-note].
 
 ### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
@@ -114,11 +128,10 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 
 #### Pautas
 
-- **Los patrones de 1/3 no deben tener más de dos notas.** Todo lo que sea más largo depende mucho de la situación y suele ser demasiado complejo para los nuevos jugadores. Estos patrones deben ir seguidos de una pausa entre las notas de 2/1, y los patrones que son de 1/2 o más rápidos deben evitarse durante esta pausa.
+- **Los patrones de 1/3 no deben tener más de dos notas.** Todo lo que sea más largo depende mucho de la situación y suele ser demasiado complejo para los nuevos jugadores. Estos patrones deben ir seguidos de un [momento de descanso](#pautas-de-los-momentos-de-descanso) dentro de 2/1, y los patrones que son de 1/2 o más rápidos deben evitarse durante ese tiempo.
 - **Los patrones de 1/2 no deben tener más de siete notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para los jugadores principiantes.
 - **El snapping principal debe consistir principalmente en ritmos de 1/1, 2/1 o más lentos.** En ocasiones, es aceptable usar ritmos de 1/2.
 - **Debe haber al menos 1/2 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
-- **Al menos se debe insertar una pausa de 2/1 o más entre las notas después de un mapeo continuo de 32/1 a 36/1.** Usar pausas entre las notas con menos frecuencia es aceptable si el ritmo de la música hace que las pausas entre las notas sean poco intuitivas o si la parte mapeada continuamente es en general más permisiva para el jugador.
 - **Los cambios en la velocidad de los sliders deben usarse con precaución.** Los cambios solo deben producirse en secciones con ritmos diferentes y la velocidad de los sliders no debe variar drásticamente.
 
 Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de un beatmap, también debe seguir estas pautas:
@@ -128,7 +141,7 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 #### Pautas para la configuración de la dificultad
 
 - La dificultad general debería ser de 4 o menos.
-- La tasa de drenaje de HP debería ser de 7 o más. En los casos en los que el número de notas sea mayor, la tasa de drenaje de HP podría ajustarse ligeramente por debajo de 7, y viceversa para los casos en los que el número de notas sea menor.
+- La tasa de drenaje de HP debería ser de 7 o más[^hp-note].
 
 ### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
@@ -140,18 +153,17 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 
 #### Pautas
 
-- **Los patrones de 1/6 no deben tener más de cuatro notas en un BPM moderado a bajo (alrededor de 140 BPM).** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de una pausa entre las notas y deben evitarse a un BPM más rápido.
+- **Los patrones de 1/6 no deben tener más de cuatro notas en un BPM moderado a bajo (alrededor de 140 BPM).** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de un [momento de descanso](#pautas-de-los-momentos-de-descanso) entre las notas y deben evitarse a un BPM más elevado.
 - **El snapping principal debe consistir principalmente en 1/2, 1/1 o ritmos más lentos.** En ocasiones, es aceptable usar ritmos de 1/4.
 - **Debe haber al menos 1/2 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
-- **Al menos se debe insertar una pausa de 3/2 o más entre las notas después de un mapeo continuo de 16/1 a 20/1.** Usar al menos 3 pausas consecutivas entre las notas que sean de 1/1 es un buen reemplazo si el ritmo de la música hace que las pausas sean poco intuitivas o si la parte mapeada continuamente es en general más permisiva para el jugador.
 - **Manipular la velocidad de los sliders está permitido**, pero la velocidad de los sliders solo debe cambiarse para las secciones de la música con ritmos diferentes y no debe ser drásticamente variable.
 - **Los patrones de 1/4 con uno o más cambios de color deben usarse con moderación.** Deben evitarse junto con otros patrones de esta naturaleza porque el público objetivo de este nivel de dificultad no está acostumbrado a los patrones de esta complejidad.
-- **Los patrones de 1/4 de más de tres notas deben constar de un cambio de color como máximo, que debe tener lugar al principio o al final del patrón.** Los patrones más complejos serían demasiado exigentes para los jugadores de nivel intermedio. Estos patrones deben ir seguidos de una pausa entre las notas.
+- **Los patrones de 1/4 de más de tres notas deben constar de un cambio de color como máximo, que debe tener lugar al principio o al final del patrón.** Los patrones más complejos serían demasiado exigentes para los jugadores de nivel intermedio. Estos patrones deben ir seguidos de un [momento de descanso](#pautas-de-los-momentos-de-descanso) entre las notas.
 
 #### Pautas para la configuración de la dificultad
 
 - La dificultad general debería ser de 5 o menos.
-- La tasa de drenaje de HP debería ser de 6 o más. En los casos en los que el número de notas sea mayor, la tasa de drenaje de HP podría ajustarse ligeramente por debajo de 6, y viceversa para los casos en los que el número de notas sea menor.
+- La tasa de drenaje de HP debería ser de 6 o más[^hp-note].
 
 ### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
@@ -163,19 +175,18 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 
 #### Pautas
 
-- **Los patrones de 1/8 no deben tener más de dos notas.** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de una pausa entre las notas.
+- **Los patrones de 1/8 no deben tener más de dos notas.** Todo lo que sea más largo es muy situacional y normalmente demasiado complejo. Los patrones de este tipo deben ir seguidos de un [momento de descanso](#pautas-de-los-momentos-de-descanso) entre las notas.
 - **Los patrones de 1/4 no deben tener más de nueve notas.** Todo lo que sea más largo es probable que resulte demasiado agotador para el público objetivo de este nivel de dificultad.
 - **El snapping principal debe consistir principalmente en ritmos de 1/2 y ocasionalmente de 1/1.** Los ritmos de 1/4 pueden usarse con más frecuencia en este nivel de dificultad.
 - **Debe haber al menos 1/4 de distancia entre un spinner y la siguiente nota.** De este modo se garantiza que no se superpongan de manera excesiva y se asegure la legibilidad.
-- **Al menos se debe insertar una pausa de 1/1 o más entre las notas después de un mapeo continuo de 16/1 a 20/1.** Los jugadores pueden agotarse demasiado si no hay suficientes pausas entre las notas o si estas son demasiado cortas.
 - **Los patrones de 1/4 de más de cinco notas deben evitar los cambios de color complicados.** Los patrones más largos con tal complejidad serían demasiado exigentes para el público objetivo de este nivel de dificultad.
 
 #### Pautas para la configuración de la dificultad
 
 - La dificultad general debería ser de 5 o más.
-- La tasa de drenaje de HP debería ser de 5 o más. En los casos en los que el número de notas sea mayor, la tasa de drenaje de HP podría ajustarse ligeramente por debajo de 5.
+- La tasa de drenaje de HP debería ser de 5 o más[^hp-note].
 
-### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
 #### Pautas
 
@@ -184,5 +195,9 @@ Si se requiere una dificultad Futsuu y se usa como la *dificultad más baja* de 
 
 #### Pautas para la configuración de la dificultad
 
-- La dificultad general debería ser más de 5.
-- La tasa de drenaje de HP debería ser de 5 o más. En los casos en los que el número de notas sea mayor, la tasa de drenaje de HP podría ajustarse ligeramente por debajo de 5.
+- La dificultad general debería ser de 6 o más.
+- La tasa de drenaje de HP debería ser de 5 o más[^hp-note].
+
+## Notas
+
+[^hp-note]: En los casos en que el número de notas o la duración de la canción sean mayores, se debe reducir ligeramente la tasa de drenaje de HP, y viceversa cuando el número de notas o la duración de la canción sean menores.

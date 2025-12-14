@@ -3,6 +3,7 @@ layout: post
 title: January & February 2014 Ranking Chart
 date: 2014-03-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/80471375728/january-february-2014-ranking-chart
+series: beatmap_spotlights
 ---
 
 Due to an internal change with the way charts are created, the two past charts have had delayed releases. Therefore, we have decided to release two monthly charts at the same time!

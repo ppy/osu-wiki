@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
+---
+
 # Турниры
 
 Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
@@ -27,6 +32,7 @@
 | [osu! World Cup 2022](OWC/2022) | 15.10.2022 | 27.11.2022 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=DE }:: Германия |
 | [osu! World Cup 2023](OWC/2023) | 21.10.2023 | 03.12.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=AU }:: Австралия |
 | [osu! World Cup 2024](OWC/2024) | 26.10.2024 | 08.12.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AU }:: Австралия |
+| [osu! World Cup 2025](OWC/2025) | 25.10.2025 | 07.12.2025 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -71,7 +77,7 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!mania World Cup 2014](MWC/2014) (4K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филлипины | ::{ flag=MY }:: Малайзия |
+| [osu!mania World Cup 2014](MWC/2014) (4K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филиппины | ::{ flag=MY }:: Малайзия |
 | [osu!mania World Cup 2014](MWC/2014) (7K) | 01.07.2014 | 14.09.2014 | ::{ flag=KR }:: Республика Корея | ::{ flag=TH }:: Тайланд | ::{ flag=MY }:: Малайзия |
 | [osu!mania 4K World Cup 2015](MWC/2015) | 13.07.2015 | 27.09.2015 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания |
 | [osu!mania 7K World Cup 2016](MWC/2016_7K) | 01.12.2015 | 14.02.2016 | ::{ flag=CN }:: Китай | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
@@ -80,18 +86,18 @@
 | [osu!mania 4K World Cup 2017](MWC/2017_4K) | 10.07.2017 | 17.09.2017 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
 | [osu!mania 7K World Cup 2018](MWC/2018_7K) | 10.02.2018 | 18.03.2018 | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия | ::{ flag=CN }:: Китай |
 | [osu!mania 4K World Cup 2018](MWC/2018_4K) | 01.09.2018 | 07.10.2018 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=BR }:: Бразилия |
-| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 09.02.2019 | 17.03.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филлипины | ::{ flag=CN }:: Китай |
+| [osu!mania 7K World Cup 2019](MWC/2019_7K) | 09.02.2019 | 17.03.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=PH }:: Филиппины | ::{ flag=CN }:: Китай |
 | [osu!mania 4K World Cup 2019](MWC/2019_4K) | 21.09.2019 | 27.10.2019 | ::{ flag=KR }:: Республика Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15.08.2020 | 20.09.2020 | ::{ flag=BR }:: Бразилия | ::{ flag=JP }:: Япония | ::{ flag=KR }:: Республика Корея |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31.07.2021 | 19.09.2021 | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты | ::{ flag=MY }:: Малайзия |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16.12.2021 | 20.02.2022 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=MY }:: Малайзия |
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | ::{ flag=KR }:: Республика Корея | ::{ flag=BR }:: Бразилия | ::{ flag=US }:: Соединённые Штаты |
-| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15.12.2022 | 18.02.2023 | ::{ flag=PH }:: Филлипины | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
+| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15.12.2022 | 18.02.2023 | ::{ flag=PH }:: Филиппины | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия |
 | [osu!mania 4K World Cup 2023](MWC/2023_4K) | 13.07.2023 | 24.09.2023 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=ID }:: Индонезия |
-| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия | ::{ flag=PH }:: Филлипины |
+| [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15.12.2023 | 25.02.2024 | ::{ flag=KR }:: Республика Корея | ::{ flag=MY }:: Малайзия | ::{ flag=PH }:: Филиппины |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18.07.2024 | 29.09.2024 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай | ::{ flag=TH }:: Тайланд |
-| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=PH }:: Филлипины |
-| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17.07.2025 | 28.09.2025 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
+| [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай | ::{ flag=PH }:: Филиппины |
+| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17.07.2025 | 28.09.2025 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=CN }:: Китай |
 
 ## Неофициальные турниры
 
@@ -171,6 +177,16 @@
 | Aus/NZ osu!standard Tournament 11 - Summer | 27.01.2024 | 11.03.2024 | santa deniers | jelqmaxxers | ASecretDozer |
 | Aus/NZ osu!standard Tournament 11 - Winter | 15.07.2024 | 08.09.2024 | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | ::{ flag=AU }:: [cyo](https://osu.ppy.sh/users/8195473) | ::{ flag=AU }:: [Zyntex](https://osu.ppy.sh/users/11806306) |
 | Aus/NZ osu!standard Tournament 12 - Summer | 25.01.2025 | 23.03.2025 | DELCHORAN ESPORTS | ChungusGlorp69420 | THE HOUSE |
+
+#### Azu's Tourneys
+
+| Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Vanilla vs Chocolate | 23.09.2019 | 20.10.2019 | Vanilla | Chocolate | N/A |
+| Cats vs Dogs | 04.11.2019 | 22.12.2019 | Cats | Dogs | N/A |
+| owo vs uwu | 19.01.2020 | 21.03.2020 | uwu | owo | N/A |
+| Coffee vs Tea | 18.04.2020 | 27.06.2020 | Tea | Coffee | N/A |
+| Summer vs Winter | 15.03.2021 | 16.05.2021 | Summer | Winter | N/A |
 
 #### BubblyQT
 
@@ -257,7 +273,7 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Индонезияn Draft Cup 2020](IDC/2020) | 29.08.2020 | 03.10.2020 | Бразилия | Pondokers | awan fanclub 2 |
+| [Indonesian Draft Cup 2020](IDC/2020) | 29.08.2020 | 03.10.2020 | Бразилия | Pondokers | awan fanclub 2 |
 
 #### Jogja Fun Cup
 
@@ -293,11 +309,11 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Old Map Fantasy World Cup](OMF/WC) | 14.08.2021 | 03.10.2021 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=KR }:: Республика Корея | ::{ flag=PL }:: Польша |
 
-#### osu! Amateur Solo Индонезия Showdown
+#### osu! Amateur Solo Indonesia Showdown
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Amateur Solo Индонезия Showdown](oASIS/1) | 06.02.2023 | 21.03.2023 | ::{ flag=ID }:: [im  cute bunny](https://osu.ppy.sh/users/12578000) | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) |
+| [osu! Amateur Solo Indonesia Showdown](oASIS/1) | 06.02.2023 | 21.03.2023 | ::{ flag=ID }:: [im  cute bunny](https://osu.ppy.sh/users/12578000) | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) |
 
 #### osu! Asia Oceania Tournament
 
@@ -306,12 +322,12 @@
 | [osu! Asia Oceania Tournament](o!AOT/1) | 26.07.2019 | 22.09.2019 | 進撃のバブルティー | 黃建智 | 과로사 |
 | [osu! Asia Oceania Tournament 2](o!AOT/2) | 03.07.2020 | 16.08.2020 | Floating up | PUPU | :peepolaughpoint: |
 
-#### osu! Battle Archive Малайзия
+#### osu! Battle Archive Malaysia
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Battle Archive Малайзия](o!BAM/1) | 10.08.2021 | 17.10.2021 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
-| [osu! Battle Archive Малайзия 2022](o!BAM/2) | 19.08.2022 | 06.11.2022 | Miyu Archive | RUDOLF ENJOYRS | Diggas in paris |
+| [osu! Battle Archive Malaysia](o!BAM/1) | 10.08.2021 | 17.10.2021 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
+| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 19.08.2022 | 06.11.2022 | Miyu Archive | RUDOLF ENJOYRS | Diggas in paris |
 
 #### osu! European Tournament
 
@@ -326,23 +342,24 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15.09.2024 | - | - | - | - |
+| [osu! FumoFumo Cup: cirno](OFFC/cirno) | 15.09.2024 | 02.11.2024 | 这是什么 | 沟槽的烤翅还在开战舰追我 | Bingo! |
+| [osu! FumoFumo Cup: Summer Lights](OFFC/summer-lights) | 05.07.2025 | 01.09.2025 | 多啦A梦 | zako psc | 不是夏天我不草 |
 
 #### osu! Indonesia Tournament
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Индонезия Tournament #10 (2020)](OIT/2020) | 03.02.2020 | 12.04.2020 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! Индонезия Tournament #11 (2021)](OIT/2021) | 04.01.2021 | 28.03.2021 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| [osu! Индонезия Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
-| [osu! Индонезия Tournament #13 (2023)](OIT/2023) | 19.06.2023 | 30.07.2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
-| [osu! Индонезия Tournament #14 (2024)](OIT/2024) | 23.09.2024 | 03.11.2024 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 03.02.2020 | 12.04.2020 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
+| [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04.01.2021 | 28.03.2021 | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+| [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+| [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19.06.2023 | 30.07.2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #14 (2024)](OIT/2024) | 23.09.2024 | 03.11.2024 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 
 #### osu! Malasiya Tournament
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu! Малайзия Tournament X](OMT/X) | 26.08.2024 | 13.10.2024 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
+| [osu! Malaysia Tournament X](OMT/X) | 26.08.2024 | 13.10.2024 | ::{ flag=MY }:: [wuhua](https://osu.ppy.sh/users/2932510) | ::{ flag=MY }:: [Rampax](https://osu.ppy.sh/users/3995630) | ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446) |
 
 #### osu! Romania Tournament
 
@@ -439,7 +456,7 @@
 | Resurrection Cup: Cataclysm Contest | 04.11.2022 | 18.12.2022 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596) |
 | [Resurrection Cup 2023](RESC/2023) | 16.06.2023 | 30.07.2023 | ESSA | fresh off the boat | Sleep accommodation |
 | [Resurrection Cup 2024](RESC/2024) | 14.06.2024 | 28.07.2024 | kotomiler | fresh off the boat | Bobik |
-| [Resurrection Cup 2025](RESC/2025) | 18.05.2025 | 27.07.2025 | *TBD* | *TBD* | *TBD* |
+| [Resurrection Cup 2025](RESC/2025) | 18.05.2025 | 10.08.2025 | tarczynski esports | Monkey Business | FIAT MULTIPLA |
 
 #### ROI PRO Tournament
 
@@ -568,11 +585,11 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Индонезияn Taiko Showdown](AOTS/IDTS_1) | 06.05.2017 | 11.06.2017 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| [Indonesian Taiko Showdown](AOTS/IDTS_1) | 06.05.2017 | 11.06.2017 | ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) | ::{ flag=ID }:: [pmriva](https://osu.ppy.sh/users/2180885) | ::{ flag=ID }:: [Nishizumi](https://osu.ppy.sh/users/2496768) |
 | [Asian Taiko Showdown 2018](AOTS/ATS_2018) | 02.06.2018 | 08.07.2018 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) |
 | [Asian-Oceanian Taiko Showdown](AOTS/AOTS_1) | 09.08.2019 | 15.09.2019 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
-| [Индонезияn Taiko Showdown 2](AOTS/IDTS_2) | 03.12.2021 | 09.01.2022 | ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317) | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301) | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
-| [Индонезияn Taiko Beginner Showdown](AOTS/ITBS_1) | 16.04.2022 | 05.06.2022 | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549) | ::{ flag=ID }:: [WeebReen](https://osu.ppy.sh/users/10129901) | ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564) |
+| [Indonesian Taiko Showdown 2](AOTS/IDTS_2) | 03.12.2021 | 09.01.2022 | ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317) | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301) | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
+| [Indonesian Taiko Beginner Showdown](AOTS/ITBS_1) | 16.04.2022 | 05.06.2022 | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549) | ::{ flag=ID }:: [WeebReen](https://osu.ppy.sh/users/10129901) | ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564) |
 
 #### Ausu!Taiko Tournament
 
@@ -713,30 +730,31 @@
 | [Catch French Intermediate Cup 3](CFC/CFIC_3) | 11.09.2021 | 17.10.2021 | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
 | [Catch French Dual Tournament 2](CFC/CFDT_2) | 16.08.2022 | 02.10.2022 | 5€ (::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | :pleading_face: (::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) | French Penguins (::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510), ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
 
-#### Catch the Beat Индонезия Cup
+#### Catch the Beat Indonesia Cup
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat Индонезия Tournament](CIC/2012) | 28.04.2012 | 28.06.2012 | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422) |
-| [Catch the Beat Индонезия Cup 2013](CIC/2013) | 26.04.2013 | 18.06.2013 | ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [FakeShield21](https://osu.ppy.sh/users/1739225) | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710) |
-| [Catch the Beat Индонезия Cup 2014](CIC/2014) | 02.06.2014 | 06.07.2014 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ::{ flag=ID }:: [Ex-Rei](https://osu.ppy.sh/users/1929336) |
-| Catch the Beat Индонезия Cup 2016 | 15.07.2016 | 06.08.2016 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Time-](https://osu.ppy.sh/users/2917987) |
-| Catch the Beat Индонезия Cup 2017 | 07.08.2017 | 10.09.2017 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) |
-| [Catch the Beat Индонезия Cup 2018](CIC/2018) | 28.07.2018 | 10.09.2018 | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988) | ::{ flag=ID }:: [Toka-](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) |
-| [Catch the Beat Индонезия Cup 2019](CIC/2019) | 18.08.2019 | 13.10.2019 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
-| [Catch the Beat Индонезия Cup 2020](CIC/2020) | 10.07.2020 | 06.09.2020 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) |
-| [Catch the Beat Индонезия Cup 2021](CIC/2021) | 01.06.2021 | 01.08.2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
-| [Catch the Beat Индонезия Cup 2022](CIC/2022) | 04.03.2022 | 10.04.2022 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
-| [Catch the Beat Индонезия Cup 2023](CIC/2023) | 15.07.2023 | 27.08.2023 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
-| [Catch the Beat Индонезия Cup Open 2024](CIC/Open_2024) | 08.07.2024 | 01.09.2024 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
+| [Catch the Beat Indonesia Tournament](CIC/2012) | 28.04.2012 | 28.06.2012 | ::{ flag=ID }:: [Rey-volution](https://osu.ppy.sh/users/883990) | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) | ::{ flag=ID }:: [Intel21](https://osu.ppy.sh/users/1272422) |
+| [Catch the Beat Indonesia Cup 2013](CIC/2013) | 26.04.2013 | 18.06.2013 | ::{ flag=ID }:: [\_Tokage\_](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [FakeShield21](https://osu.ppy.sh/users/1739225) | ::{ flag=ID }:: [El SolarBeam](https://osu.ppy.sh/users/1074710) |
+| [Catch the Beat Indonesia Cup 2014](CIC/2014) | 02.06.2014 | 06.07.2014 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [DodyJesayaSinaga98](https://osu.ppy.sh/users/1380645) | ::{ flag=ID }:: [Ex-Rei](https://osu.ppy.sh/users/1929336) |
+| Catch the Beat Indonesia Cup 2016 | 15.07.2016 | 06.08.2016 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Time-](https://osu.ppy.sh/users/2917987) |
+| Catch the Beat Indonesia Cup 2017 | 07.08.2017 | 10.09.2017 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) |
+| [Catch the Beat Indonesia Cup 2018](CIC/2018) | 28.07.2018 | 10.09.2018 | ::{ flag=ID }:: [-Hex-](https://osu.ppy.sh/users/8630988) | ::{ flag=ID }:: [Toka-](https://osu.ppy.sh/users/1595221) | ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235) |
+| [Catch the Beat Indonesia Cup 2019](CIC/2019) | 18.08.2019 | 13.10.2019 | ::{ flag=ID }:: [Deceitful](https://osu.ppy.sh/users/1396447) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Nana Hiragi](https://osu.ppy.sh/users/13377985) |
+| [Catch the Beat Indonesia Cup 2020](CIC/2020) | 10.07.2020 | 06.09.2020 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) |
+| [Catch the Beat Indonesia Cup 2021](CIC/2021) | 01.06.2021 | 01.08.2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [CamXDanna](https://osu.ppy.sh/users/3243148) | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) |
+| [Catch the Beat Indonesia Cup 2022](CIC/2022) | 04.03.2022 | 10.04.2022 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+| [Catch the Beat Indonesia Cup 2023](CIC/2023) | 15.07.2023 | 27.08.2023 | ::{ flag=ID }:: [EpanPan](https://osu.ppy.sh/users/13194580) | ::{ flag=TH }:: [EzyS](https://osu.ppy.sh/users/EzyS) | ::{ flag=ID }:: [Keita](https://osu.ppy.sh/users/3355617) |
+| [Catch the Beat Indonesia Cup Open 2024](CIC/Open_2024) | 08.07.2024 | 01.09.2024 | ::{ flag=ID }:: [Nekuro](https://osu.ppy.sh/users/3222638) | ::{ flag=TW }:: [DoDoEbi](https://osu.ppy.sh/users/1177233) | ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) |
+| [Catch the Beat Indonesia Cup Open 2025](CIC/Open_2025) | 28.07.2025 | 14.09.2025 | ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936) | ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) |
 
 #### Indonesia Convert Cup
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Индонезия Convert Cup 2020](ICC/2020) | 13.09.2020 | 08.11.2020 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
-| [Индонезия Convert Cup 2021](ICC/2021) | 16.08.2021 | 11.10.2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
-| [Индонезия Convert Cup Open 2022](ICC/2022) | 10.10.2022 | 27.11.2022 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+| [Indonesia Convert Cup 2020](ICC/2020) | 13.09.2020 | 08.11.2020 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
+| [Indonesia Convert Cup 2021](ICC/2021) | 16.08.2021 | 11.10.2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
+| [Indonesia Convert Cup Open 2022](ICC/2022) | 10.10.2022 | 27.11.2022 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 
 #### International Convert Cup
 
@@ -774,9 +792,9 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [4 Digit osu!mania World Cup](4DM/1) | 07.06.2019 | 27.07.2019 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PH }:: Филлипины |
-| [4 Digit osu!mania World Cup 2](4DM/2) | 15.02.2020 | 28.03.2020 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PH }:: Филлипины |
-| [4 Digit osu!mania World Cup 3](4DM/3) | 23.01.2021 | 07.03.2021 | ::{ flag=PH }:: Филлипины | ::{ flag=MY }:: Малайзия | ::{ flag=BR }:: Бразилия |
+| [4 Digit osu!mania World Cup](4DM/1) | 07.06.2019 | 27.07.2019 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PH }:: Филиппины |
+| [4 Digit osu!mania World Cup 2](4DM/2) | 15.02.2020 | 28.03.2020 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PH }:: Филиппины |
+| [4 Digit osu!mania World Cup 3](4DM/3) | 23.01.2021 | 07.03.2021 | ::{ flag=PH }:: Филиппины | ::{ flag=MY }:: Малайзия | ::{ flag=BR }:: Бразилия |
 | [4 Digit osu!mania World Cup 4](4DM/4) | 08.01.2022 | 20.02.2022 | ::{ flag=FR }:: Франция | ::{ flag=TH }:: Тайланд | ::{ flag=PE }:: Перу |
 | [4 Digit osu!mania World Cup 2023](4DM/2023) | 14.01.2023 | 04.03.2023 | ::{ flag=CN }:: Китай | ::{ flag=SG }:: Сингапур | ::{ flag=CA }:: Канада |
 | [4 Digit osu!mania World Cup 2024](4DM/2024) | 13.01.2024 | 25.02.2024 | ::{ flag=VN }:: Вьетнам | ::{ flag=US }:: Соединённые Штаты | ::{ flag=TW }:: Тайвань |
@@ -845,7 +863,9 @@
 | [Jaye's One Key Event](JOKE/1) | 11.07.2020 | 23.08.2020 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972) | ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 2: Spacebar Jam](JOKE/2) | 06.11.2021 | 19.12.2021 | ::{ flag=US }:: [[LS]Ham](https://osu.ppy.sh/users/17523947) | ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910) | ::{ flag=BR }:: [Бразилия](https://osu.ppy.sh/users/3949268) |
 | [Jaye's One Key Event 3: paradigm//SHIFT](JOKE/3) | 28.10.2023 | 17.12.2023 | ::{ flag=JP }:: [Grape_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043) | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
-| [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания | ::{ flag=AU }:: Австралия- |
+| [One Key World Cup 2024](JOKE/1KWC_2024) | 04.05.2024 | 16.06.2024 | ::{ flag=JP }:: Япония | ::{ flag=GB }:: Великобритания | ::{ flag=AU }:: Австралия |
+| [One Key World Cup 2025](JOKE/1KWC_2025) | 26.04.2025 | 08.06.2025 | ::{ flag=JP }:: Япония | ::{ flag=US }:: Соединённые Штаты | ::{ flag=GB }:: Великобритания |
+| [Jaye's One Key Event 4: The Great Escape](JOKE/4) | 25.10.2025 | 07.12.2025 | *Подлежит уточнению* | *Подлежит уточнению* | *Подлежит уточнению* |
 
 #### Mania Beginner's Showdown
 
@@ -894,7 +914,7 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!mania 4K Индонезия Cup 2019](OMIC/2019_4K) | 26.05.2019 | 25.08.2019 | ::{ flag=ID }:: [Kevin-sama](https://osu.ppy.sh/users/6991664) | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) |
+| [osu!mania 4K Indonesia Cup 2019](OMIC/2019_4K) | 26.05.2019 | 25.08.2019 | ::{ flag=ID }:: [Kevin-sama](https://osu.ppy.sh/users/6991664) | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) |
 
 #### osu!mania LN Tournament
 
@@ -908,10 +928,10 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Малайзия Tournament | 14.05.2021 | 27.06.2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
-| osu!mania Малайзия Tournament 2 | 27.05.2022 | 10.07.2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
-| [osu!mania Малайзия Tournament 3](OMMT/3) | 01.07.2023 | 13.08.2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
-| [osu!mania Малайзия Tournament 4](OMMT/4) | 06.07.2024 | 18.08.2024 | leon's waifuus!! (::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)) | Gon and LongGone (::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)) | Re:Zuna (::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=VN }:: [Rxizuna](https://osu.ppy.sh/users/16055641)) |
+| osu!mania Malaysia Tournament | 14.05.2021 | 27.06.2021 | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [\[MY\]xRay](https://osu.ppy.sh/users/8287005) | ::{ flag=MY }:: [\[MY\]Kibitz](https://osu.ppy.sh/users/7418493) |
+| osu!mania Malaysia Tournament 2 | 27.05.2022 | 10.07.2022 | ::{ flag=MY }:: [\[MY\]Sol](https://osu.ppy.sh/users/12054898) | ::{ flag=MY }:: [Neokje](https://osu.ppy.sh/users/7727987) | ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493) |
+| [osu!mania Malaysia Tournament 3](OMMT/3) | 01.07.2023 | 13.08.2023 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447) | ::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209) |
+| [osu!mania Malaysia Tournament 4](OMMT/4) | 06.07.2024 | 18.08.2024 | leon's waifuus!! (::{ flag=MY }:: [JayLye](https://osu.ppy.sh/users/14892447), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805)) | Gon and LongGone (::{ flag=MY }:: [Tosai\_](https://osu.ppy.sh/users/3760209), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)) | Re:Zuna (::{ flag=MY }:: [ReJust](https://osu.ppy.sh/users/20670028), ::{ flag=VN }:: [Rxizuna](https://osu.ppy.sh/users/16055641)) |
 
 #### osu!mania South East Asia Champion 2020
 
@@ -930,6 +950,12 @@
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 26.10.2020 | 28.11.2020 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Solo Score Rush
+
+| Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Solo Score Rush](SSR/1) | 19.07.2025 | 14.09.2025 | ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857) | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) | ::{ flag=MX }:: [HomuAkemi](https://osu.ppy.sh/users/17668607) |
 
 #### Sparxe's Two Key Event
 
@@ -1011,15 +1037,15 @@
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [osu!Филлипины Holiday Friendlies 2018](oPHF/2018) | 03.11.2018 | 16.12.2018 | ::{ flag=KR }:: [Stereo](https://osu.ppy.sh/users/1499137) (osu!), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (osu!taiko), ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) (osu!catch), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) (osu!mania 4K), ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) (osu!mania 7K) | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) (osu!taiko), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463) (osu!mania 4K), ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) (osu!mania 7K) | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796) (osu!), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) (osu!), ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) (osu!taiko), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) (osu!catch), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) (osu!mania 4K), ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) (osu!mania 7K) |
+| [osu!Philippines Holiday Friendlies 2018](oPHF/2018) | 03.11.2018 | 16.12.2018 | ::{ flag=KR }:: [Stereo](https://osu.ppy.sh/users/1499137) (osu!), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (osu!taiko), ::{ flag=PH }:: [- Kielzu -](https://osu.ppy.sh/users/6221114) (osu!catch), ::{ flag=PH }:: [arge-](https://osu.ppy.sh/users/9919550) (osu!mania 4K), ::{ flag=PH }:: [Nikana](https://osu.ppy.sh/users/4345491) (osu!mania 7K) | ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ::{ flag=PH }:: [Rimazii](https://osu.ppy.sh/users/3831514) (osu!taiko), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ::{ flag=PH }:: [Baltz](https://osu.ppy.sh/users/6083463) (osu!mania 4K), ::{ flag=PH }:: [fer789](https://osu.ppy.sh/users/8901267) (osu!mania 7K) | ::{ flag=PH }:: [ededed028](https://osu.ppy.sh/users/3932796) (osu!), ::{ flag=PH }:: [zonelouise](https://osu.ppy.sh/users/1492995) (osu!), ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) (osu!taiko), ::{ flag=PH }:: [Crowley](https://osu.ppy.sh/users/6341006) (osu!catch), ::{ flag=PH }:: [Shiyui-](https://osu.ppy.sh/users/9374607) (osu!mania 4K), ::{ flag=PH }:: [Cielo Day](https://osu.ppy.sh/users/2722489) (osu!mania 7K) |
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Filipinnes Summer Tournament
 
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Филлипины 4K Summer Tournament 2016 | 23.04.2016 | 28.05.2016 | ::{ flag=PH }:: [Tokiiwa](https://osu.ppy.sh/users/4029511) | ::{ flag=PH }:: [Muttsulinii](https://osu.ppy.sh/users/4345491) | ::{ flag=AU }:: [scissorsf](https://osu.ppy.sh/users/6378800) |
-| osu!mania Филлипины Summer Tournament 2017 | 06.05.2017 | 25.06.2017 | ::{ flag=PH }:: [Niro-](https://osu.ppy.sh/users/6443899) (osu!mania 4K), ::{ flag=PH }:: [Dadots](https://osu.ppy.sh/users/3525251) (osu!mania 7K) | ::{ flag=AU }:: [scissorsf](https://osu.ppy.sh/users/6378800) (osu!mania 4K), ::{ flag=PH }:: [JztCallMeRon](https://osu.ppy.sh/users/2471512) (osu!mania 7K) | ::{ flag=PH }:: [Jsee](https://osu.ppy.sh/users/6573652) (osu!mania 4K), ::{ flag=PH }:: [SanniSanni](https://osu.ppy.sh/users/3036686) (osu!mania 7K) |
-| [osu!Филлипины Summer Tournament 2018](oPHST/2018) | 14.04.2018 | 17.06.2018 | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715) (osu!), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439) (osu!mania 4K), ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489) (osu!mania 7K) | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427) (osu!), ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) (osu!catch), ::{ flag=PH }:: [exodia3000](https://osu.ppy.sh/users/10500797) (osu!mania 4K), ::{ flag=PH }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) (osu!mania 7K) | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723) (osu!), ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ::{ flag=PH }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) (osu!mania 4K), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) (osu!mania 7K) |
+| osu!mania Philippines 4K Summer Tournament 2016 | 23.04.2016 | 28.05.2016 | ::{ flag=PH }:: [Tokiiwa](https://osu.ppy.sh/users/4029511) | ::{ flag=PH }:: [Muttsulinii](https://osu.ppy.sh/users/4345491) | ::{ flag=AU }:: [scissorsf](https://osu.ppy.sh/users/6378800) |
+| osu!mania Philippines Summer Tournament 2017 | 06.05.2017 | 25.06.2017 | ::{ flag=PH }:: [Niro-](https://osu.ppy.sh/users/6443899) (osu!mania 4K), ::{ flag=PH }:: [Dadots](https://osu.ppy.sh/users/3525251) (osu!mania 7K) | ::{ flag=AU }:: [scissorsf](https://osu.ppy.sh/users/6378800) (osu!mania 4K), ::{ flag=PH }:: [JztCallMeRon](https://osu.ppy.sh/users/2471512) (osu!mania 7K) | ::{ flag=PH }:: [Jsee](https://osu.ppy.sh/users/6573652) (osu!mania 4K), ::{ flag=PH }:: [SanniSanni](https://osu.ppy.sh/users/3036686) (osu!mania 7K) |
+| [osu!Philippines Summer Tournament 2018](oPHST/2018) | 14.04.2018 | 17.06.2018 | ::{ flag=CA }:: [Dunois](https://osu.ppy.sh/users/4581715) (osu!), ::{ flag=PH }:: [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ::{ flag=PH }:: [joseee-](https://osu.ppy.sh/users/10083439) (osu!mania 4K), ::{ flag=PH }:: [cieloday05](https://osu.ppy.sh/users/2722489) (osu!mania 7K) | ::{ flag=PH }:: [-Marika](https://osu.ppy.sh/users/2199427) (osu!), ::{ flag=PH }:: [-Nicotine](https://osu.ppy.sh/users/4818935) (osu!catch), ::{ flag=PH }:: [exodia3000](https://osu.ppy.sh/users/10500797) (osu!mania 4K), ::{ flag=PH }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) (osu!mania 7K) | ::{ flag=PH }:: [Varsagus](https://osu.ppy.sh/users/3885723) (osu!), ::{ flag=PH }:: [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ::{ flag=PH }:: [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ::{ flag=PH }:: [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) (osu!mania 4K), ::{ flag=PH }:: [MapleSyrup-](https://osu.ppy.sh/users/1192936) (osu!mania 7K) |
 
 ## См. также
 

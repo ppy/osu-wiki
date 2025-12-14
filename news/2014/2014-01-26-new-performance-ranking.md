@@ -3,6 +3,7 @@ layout: post
 title: New Performance Ranking
 date: 2014-01-26 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/74631045581/new-performance-ranking
+series: ranking_system_updates
 ---
 
 Some of you might already know me as the guy who made osu!tp, a third party osu! ranking site. In the recent past peppy and I started to write with each other which eventually lead to me getting involved with pp.

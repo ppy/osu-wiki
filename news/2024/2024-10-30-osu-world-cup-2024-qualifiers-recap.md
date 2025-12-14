@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2024: Qualifiers Recap"
 date: 2024-10-30 12:00:00 +0000
+series: world_cups
 ---
 
 October is here! The osu! World Cup is back, and so are weekly recaps!

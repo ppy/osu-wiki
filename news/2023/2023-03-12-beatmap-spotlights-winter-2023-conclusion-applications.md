@@ -2,6 +2,7 @@
 layout: post
 title: Beatmap Spotlights Winter 2023 Conclusion & Applications
 date: 2023-03-12 13:00:00 +0000
+series: beatmap_spotlights
 ---
 
 The Winter 2023 season of the Beatmap Spotlights has come to an end⁠, so come check out the top 50 for each game mode and vote on your favourite beatmaps from the season! We're also looking for people interested in helping make the Beatmap Spotlights team more awesome!

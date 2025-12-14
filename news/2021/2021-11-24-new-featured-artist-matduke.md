@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Matduke"
 date: 2021-11-24 09:00:00 +0000
+series: featured_artists
 ---
 
 **Matduke** blasts into the foreground as our newest Featured Artist!

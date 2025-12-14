@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Exyl"
 date: 2022-07-20 10:00:00 +0000
+series: featured_artists
 ---
 
 @everyone **Exyl** is officially an osu! Featured Artist.

@@ -2,6 +2,7 @@
 layout: post
 title: "BN Mentorship: Cycle 1 Sign-ups Open"
 date: 2023-09-19 20:00:00 +0000
+series: online_events
 ---
 
 Ever aspired to be one of the pillars that hold the Ranked section together? Now's your chance to make that dream a reality!

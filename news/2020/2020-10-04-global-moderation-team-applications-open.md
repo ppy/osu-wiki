@@ -2,6 +2,7 @@
 layout: post
 title: Global Moderation Team Applications Open
 date: 2020-10-04 14:00:00 +0000
+series: miscellaneous
 ---
 
 Are you interested in helping keep the osu! community clean and enjoyable for everyone? The Global Moderation Team is now accepting applications for new members!

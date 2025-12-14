@@ -7,6 +7,8 @@ tags:
   - insignias
   - torneo con insignia
   - torneos con insignias
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Soporte oficial para torneos
@@ -15,7 +17,7 @@ tags:
 
 El [osu! team](/wiki/People/osu!_team) dirige un programa en el que puede optar por proporcionar un soporte extra a los torneos organizados por la comunidad que cumplan una serie de criterios y expectativas, según su criterio.
 
-Este artículo se actualizó por última vez el 13 de mayo de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Este artículo se actualizó por última vez el 9 de octubre de 2025. Para ver la lista completa de cambios, consulta el [hilo de actualizaciones sobre el soporte oficial para torneos](https://osu.ppy.sh/community/forums/topics/1715676). Para cualquier duda o aclaración, consulta el canal `#tournaments` en el [servidor de Discord osu!](https://discord.com/invite/ppy) o envía un correo electrónico al [equipo de soporte de cuentas](/wiki/People/Account_support_team) a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Beneficios
 
@@ -215,6 +217,7 @@ Las imágenes de las insignias de perfil deben cumplir los siguientes estándare
 - Debe mostrar claramente el logotipo, diseño o nombre de tu torneo.
 - Debe tener un diseño limpio y una calidad visual razonable.
 - No debe incluir ningún tipo de patrocinio ni promocionar nada que no sea el torneo.
+- No debe incluir ningún elemento generado por IA.
 - Cualquier elemento debe crearse específicamente para el torneo y cumplir las [pautas de uso de contenido](/wiki/Rules/Content_usage_permissions).
   - Esto no incluye los elementos de código abierto o de uso público (por ejemplo, fuentes, iconos, etc.).
   - Si en un diseño se usan elementos que no entran en la categoría anterior, deberá obtenerse la aprobación explícita del artista original antes de su aprobación.

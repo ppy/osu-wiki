@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2024: Round of 16 Recap"
 date: 2024-06-05 22:00:00 +0000
+series: world_cups
 ---
 
 It's that time of the week again. Grab yourself a fruit of your choice and join us in remembering everything that happened in the osu!catch World Cup 2024 Round of 16!

@@ -2,6 +2,7 @@
 layout: post
 title: "BN Applications: Autumn Cycle 2018"
 date: 2018-09-25 12:00:00 +0000
+series: miscellaneous
 ---
 
 "You always wanted to be a Beatmap Nominator? Now is your time to shine!" You probably have not read that sentence for a while, though after a small hiatus we are proud to announce the reopening of the BN Applications! Keep reading for all the details and how to apply!

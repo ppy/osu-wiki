@@ -2,6 +2,7 @@
 layout: post
 title: Corsace Closed, Closed!
 date: 2024-06-09 08:00:00 +0000
+series: community_tournaments
 ---
 
 This year's [Corsace Closed](https://corsace.io/) tournament comes to a... close. Find out how the fierce battle ended, read up on the tournament's parallel narrative in manga format, and listen to new bops entering osu!'s original music library.

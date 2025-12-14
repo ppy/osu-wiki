@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Chromatic Alteration - Results"
 date: 2022-10-20 11:30:00 +0000
+series: official_contests
 ---
 
 The time has come to unveil the long-awaited results of our skinning contest the third!

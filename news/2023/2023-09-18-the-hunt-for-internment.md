@@ -2,6 +2,7 @@
 layout: post
 title: The Hunt for Internment
 date: 2023-09-18 09:00:00 +0000
+series: miscellaneous
 ---
 
 Just what is a **Medal Hunter**, and what was the big deal recently about some new medal? Find out today in this sneak peek into the madness!

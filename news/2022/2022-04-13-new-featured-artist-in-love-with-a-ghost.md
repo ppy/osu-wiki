@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: in love with a ghost"
 date: 2022-04-13 09:00:00 +0000
+series: featured_artists
 ---
 
 Take a break with our newest Featured Artist **in love with a ghost**.

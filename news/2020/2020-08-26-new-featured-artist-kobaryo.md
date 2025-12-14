@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kobaryo"
 date: 2020-08-26 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome speedcore sensation **Kobaryo** aboard as our latest Featured Artist!

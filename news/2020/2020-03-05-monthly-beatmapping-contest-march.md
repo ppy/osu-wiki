@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: March"
 date: 2020-03-05 09:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 A new month is on the horizon, and with it arrives yet another mapping contest. Check out the finalists of last month and compete within this month's limitation!

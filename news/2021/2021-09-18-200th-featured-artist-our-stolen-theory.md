@@ -2,6 +2,7 @@
 layout: post
 title: "200th Featured Artist: Our Stolen Theory"
 date: 2021-09-18 09:30:00 +0000
+series: featured_artists
 ---
 
 We're celebrating a massive milestone with the official inclusion of **Our Stolen Theory - United (L.A.O.S Remix)** in the Featured Artist program!

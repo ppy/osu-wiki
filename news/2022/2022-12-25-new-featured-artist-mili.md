@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Mili"
 date: 2022-12-25 08:30:00 +0000
+series: featured_artists
 ---
 
 **Mili** is here.

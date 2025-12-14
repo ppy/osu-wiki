@@ -3,6 +3,7 @@ layout: post
 title: "A History of osu!: Episode One"
 date: 2016-11-04 08:37:41 +0000
 tumblr_url: http://osunews.tumblr.com/post/152720784003/a-history-of-osu-episode-one
+series: miscellaneous
 ---
 
 As osu! slowly plods along towards its 10 year anniversary and the coming of osu!next, the academy team have decided to take some time to dial it right back, and take a good look at osu! as it has developed throughout the years. Come see for yourself how osu! has grown in this new multi-part series by the osu!academy.

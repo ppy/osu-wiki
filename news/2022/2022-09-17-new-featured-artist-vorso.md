@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Vorso"
 date: 2022-09-17 10:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Vorso** aboard as our latest Featured Artist!

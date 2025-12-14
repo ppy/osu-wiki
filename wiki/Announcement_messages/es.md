@@ -9,7 +9,7 @@ tags:
 
 # Mensajes de anuncio
 
-![Notificación de anuncio](img/notification.png "Una notificación de un mensaje de anuncio")
+![Notificación de anuncio](img/notification-ES.png "Una notificación de un mensaje de anuncio")
 
 Un **mensaje de anuncio** es un tipo especial de mensaje destinado a enviar mensajes más largos y formateados a varios usuarios a la vez. Las diferencias clave entre los mensajes de anuncio y los mensajes de chat regulares son:
 
@@ -38,7 +38,7 @@ El [equipo de soporte de cuentas](/wiki/People/Account_support_team) revisará l
 
 Para enviar un anuncio de chat, abre la [página de chat](https://osu.ppy.sh/community/chat) y haz clic en el botón `crear anuncio`. Ingresa el nombre del canal, descripción[^note-desc], lista de destinatarios, y el mensaje deseado. Finalmente, haz clic en el botón `crear` para enviar el anuncio.
 
-![Página de creación de anuncios](img/page.jpg "La página de creación de anuncios")
+![Página de creación de anuncios](img/page-ES.png "La página de creación de anuncios")
 
 ## Curiosidades
 

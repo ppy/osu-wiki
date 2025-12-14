@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kenneyon"
 date: 2023-03-22 11:00:00 +0000
+series: featured_artists
 ---
 
 **Kenneyon** proudly steps into our Featured Artist library!

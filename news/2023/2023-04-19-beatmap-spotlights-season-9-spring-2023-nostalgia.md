@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 9: Spring 2023 - Nostalgia"
 date: 2023-04-19 19:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights enthusiasts and competitors, wake up for a brand new Spring 2023 season! This time, we will take you through a winding path covering the history of some of the most revolutionary and breaking beatmaps of the past!

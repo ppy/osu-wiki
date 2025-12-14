@@ -2,6 +2,7 @@
 layout: post
 title: New Featured Artist Tracks Available
 date: 2018-10-12 15:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to announce a new slew of additions to the Featured Artist catalogue — namely **three** new albums of awesome tracks, one from [\*namirin](https://osu.ppy.sh/beatmaps/artists/18), one from [Dictate](https://osu.ppy.sh/beatmaps/artists/21), and one from [LukHash](https://osu.ppy.sh/beatmaps/artists/12)!

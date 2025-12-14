@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2024: Round of 16 Recap"
 date: 2024-11-14 16:00:00 +0000
+series: world_cups
 ---
 
 The first OWC elimination round has concluded — who survived, and who's going home? Tune in to find out!

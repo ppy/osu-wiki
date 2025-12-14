@@ -1,6 +1,6 @@
 # Reportar mala conducta
 
-osu! tiene [un equipo de moderadores](/wiki/People/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observas una conducta que infringe las reglas o es contenido inapropiado, repórtala utilizando uno de los métodos que se describen a continuación. Alternativamente, puedes comunicarte directamente con cualquiera de los moderadores en línea si tu reporte no se manejó correctamente dentro de un período de tiempo razonable, hazlo solo como último recurso.
+osu! tiene un equipo de moderadores, el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), que se encarga de mantener el juego y sus ecosistemas limpios y seguros. Si observas una conducta que infringe las reglas o es contenido inapropiado, repórtala utilizando uno de los métodos que se describen a continuación. Alternativamente, puedes comunicarte directamente con cualquiera de los moderadores en línea si tu reporte no se manejó correctamente dentro de un período de tiempo razonable, hazlo solo como último recurso.
 
 Los reportes accidentales se ignoran. Los usuarios que envían deliberadamente reportes no válidos pueden correr el riesgo de ser [silenciados](/wiki/Silence).
 
@@ -8,13 +8,14 @@ Los reportes accidentales se ignoran. Los usuarios que envían deliberadamente r
 
 | Naturaleza de la infracción | Punto de contacto |
 | :-- | :-- |
-| Estafas/Phishing en mensajes privados | Enviar un reporte regular |
+| Estafas/phishing en mensajes privados | Enviar un reporte regular |
 | Otros mensajes privados ofensivos/inapropiados | **Ninguno**: [ignorar al usuario](/wiki/Client/Interface/Chat_console#lista-de-comandos) en su lugar. Para un efecto permanente, usa la lista de ignorados en el juego ubicada en las [opciones](/wiki/Client/Options) o bloquéalos en el sitio web con el botón ubicado en su perfil de usuario. |
-| Conducta inapropiada de un [BN](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), a través del sitio web de [gestión del NAT/BN](https://bn.mappersguild.com/reports) |
+| Contenido inapropiado en beatmaps [clasificados](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) o [GMT](/wiki/People/Global_Moderation_Team), a través del sitio web de [gestión de los BN](https://bn.mappersguild.com/reports) |
+| Conducta inapropiada por parte de un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), a través del sitio web de [gestión de los BN](https://bn.mappersguild.com/reports) |
 | Conducta inapropiada de un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) o del [GMT](/wiki/People/Global_Moderation_Team) | [Equipo de soporte de cuentas](/wiki/People/Account_support_team) en [support@ppy.sh](mailto:support@ppy.sh) |
-| Abuso sexual o mala conducta extrema | Consulte [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse) |
+| Abuso sexual o mala conducta extrema | Consulta [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse) |
 
-Para cualquier otra cosa, véase las instrucciones a continuación.
+Para cualquier otra cosa, sigue las instrucciones que aparecen a continuación.
 
 ## Chat en el juego
 
@@ -22,7 +23,7 @@ Para cualquier otra cosa, véase las instrucciones a continuación.
 
 ![](img/report-command.jpg "Ejemplo de uso del comando !report")
 
-La mala conducta en el chat es la infracción más común. Para reportarla, usa el comando [`!report`](https://osu.ppy.sh/community/forums/topics/34843), preferiblemente en el canal donde ocurrió la infracción. No te sientas estresado: si tu mensaje empieza con `!report` y un espacio, **solo será visible para los moderadores** y nadie más en el chat. También puedes usar la función de reporte a través de la [superposición en el juego](#superposición-en-el-juego) como se muestra a continuación si todavía estás preocupado.
+La mala conducta en el chat es la infracción más común. Para reportarla, usa [el comando `!report`](https://osu.ppy.sh/community/forums/topics/34843), preferiblemente en el canal donde se produjo la infracción o infracciones. No te sientas estresado: si tu mensaje empieza con `!report` y un espacio, **solo será visible para los moderadores** y nadie más en el chat. También puedes usar la función de reporte a través de la [superposición en el juego](#superposición-en-el-juego) como se muestra a continuación si todavía estás preocupado.
 
 La sintaxis del comando tiene dos formas:
 
@@ -105,3 +106,7 @@ Esta opción funciona si el usuario infractor está a la vista:
 1. Pasa el cursor sobre la puntuación.
 2. En el lado derecho de la puntuación, presiona el botón con tres puntos verticales y selecciona `Reportar puntuación`.
 3. Selecciona la categoría y agrega detalles (opcional).
+
+## Referencias
+
+[^invalid-reports]: A diferencia de otras categorías de beatmaps, los beatmaps clasificados no se pueden reportar a través del sitio web.

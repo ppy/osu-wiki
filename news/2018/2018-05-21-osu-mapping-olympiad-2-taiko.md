@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #2: osu!taiko"
 date: 2018-05-21 14:00:00 +0000
+series: official_contests
 ---
 
 As osu!'s iteration of the Mapping Olympiad is wrapping up, it is time to bring another mode into the spotlight: osu!taiko! For the second contest in this series, we bring you an opportunity to become osu!taiko's first ever Mapping Olympian and also claim the title of Elite Mapper!

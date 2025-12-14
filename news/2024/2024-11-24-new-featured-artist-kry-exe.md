@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kry.exe"
 date: 2024-11-24 20:30:00 +0000
+series: featured_artists
 ---
 
 **Kry.exe** launches into our Featured Artist collection!

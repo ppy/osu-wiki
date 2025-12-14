@@ -3,6 +3,7 @@ layout: post
 title: Aspire Returns (Beatmap Contest)
 date: 2016-05-17 07:16:56 +0000
 tumblr_url: http://osunews.tumblr.com/post/144493773648/aspire-returns-beatmap-contest
+series: official_contests
 ---
 
 Aspire returns for a second round. Mappers from around the world, prepare yourselves!
