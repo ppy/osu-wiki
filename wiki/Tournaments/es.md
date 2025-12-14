@@ -27,7 +27,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=DE }:: Alemania |
 | [osu! World Cup 2023](OWC/2023) | 21/10/2023 | 3/12/2023 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=AU }:: Australia |
 | [osu! World Cup 2024](OWC/2024) | 26/10/2024 | 8/12/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia |
-| [osu! World Cup 2025](OWC/2025) | 25/10/2025 | 14/12/2025 | *Por decidirse* | *Por decidirse* | *Por decidirse* |
+| [osu! World Cup 2025](OWC/2025) | 25/10/2025 | 14/12/2025 | ::{ flag=PL }:: Polonia | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 

@@ -34,6 +34,8 @@ The osu! World Cup 2025 offers a $10,000 cash prize pool and limited-edition mer
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/owc2025-badge-1st.png "OWC 2025 winner badge") ![](img/owc2025-badge-2nd.png "OWC 2025 2nd-place badge") ![](img/owc2025-badge-3rd.png "OWC 2025 3rd-place badge")
+
 ## Organisation
 
 The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
@@ -142,14 +144,9 @@ Captains are denoted in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a667d40bbd88942cd98926e839de5d37).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Sunday, 14 December 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| SM-b | Grand Finals | showmatch | [Dec 14 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T190000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
+![](img/owc2025-podium.jpg "OWC 2025 podium")
 
 ## Mappools
 
@@ -359,6 +356,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 13 December 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 45 | **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120062857) | [#1](https://www.twitch.tv/videos/2642591487) |
+| SM | Grand Finals | 7 | 7 | showmatch | [#1](https://osu.ppy.sh/community/matches/120077197) | [#1](https://www.twitch.tv/videos/2643897931) |
+
+Sunday, 14 December 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 46a | Poland ::{ flag=PL }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/120078133) | [#1](https://www.twitch.tv/videos/2644048589) |
+| 47 | United States ::{ flag=US }:: | 3 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/120078716) | [#1](https://www.twitch.tv/videos/2644048589?t=1h17m8s) |
 
 ### Finals
 
