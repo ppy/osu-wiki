@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: January 2021"
 date: 2021-01-02 01:30:00 +0000
+series: featured_artists
 ---
 
 Our older talent is here to kick off the new year! We've added **over 50** songs from **10** of our current Featured Artists, all prepped and ready for mapping!

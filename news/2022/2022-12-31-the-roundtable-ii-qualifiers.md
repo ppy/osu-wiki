@@ -2,6 +2,7 @@
 layout: post
 title: The Roundtable II Qualifier Tournament
 date: 2022-12-31 05:00:00 +0000
+series: community_tournaments
 ---
 
 The second iteration of **The Roundtable** is on the horizon. Earn your seat by crossing swords with osu!'s best players in this qualifier tournament!

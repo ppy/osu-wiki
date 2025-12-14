@@ -3,6 +3,7 @@ layout: post
 title: "Scorewatch: July Week 3"
 date: 2017-07-25 15:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/163396613988/scorewatch-july-week-3
+series: scorewatch
 ---
 
 It might've been a bit calmer this week, but that hasn't stopped players from going nuts with scores! From crazy SS plays, to some osu!taiko insanity, and even some fruit-catching madness - we've got it all in this week's issue of Scorewatch!

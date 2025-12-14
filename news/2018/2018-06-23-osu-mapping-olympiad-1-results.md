@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #1 Results"
 date: 2018-06-23 16:00:00 +0000
+series: official_contests
 ---
 
 The very first osu! Mapping Olympiad has just concluded, and the results are in! See who emerged on top amongst the mappers who competed on three exciting songs by Kuba Oms, cYsmix and OISHII!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Alkome"
 date: 2021-09-01 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Alkome** aboard as our latest Featured Artist!

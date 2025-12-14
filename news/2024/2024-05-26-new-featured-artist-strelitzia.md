@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Strelitzia"
 date: 2024-05-26 09:00:00 +0000
+series: featured_artists
 ---
 
 Inspired by a mix of math rock and emo tunes, **Strelitzia** emerged in 2015 and made a name for themselves alongside some of our own Featured Artists like [glass beach](https://osu.ppy.sh/beatmaps/artists/113) and [Michael Cera Palin](https://osu.ppy.sh/beatmaps/artists/182). Today, that name is spreading to osu!.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Origami Angel"
 date: 2022-05-25 13:00:00 +0000
+series: featured_artists
 ---
 
 **Origami Angel** joins the fold as latest our Featured Artist!

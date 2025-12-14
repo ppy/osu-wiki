@@ -2,6 +2,7 @@
 layout: post
 title: osu!idol 2020 Auditions Now Open!
 date: 2020-09-01 17:00:00 +0000
+series: official_contests
 ---
 
 Remember that time when people were singing and our ears were ringing with joy? It's happening once again! If you are interested in singing and competing to become the osu!'s next idol, you should grab a mic and join us on our singing adventure!

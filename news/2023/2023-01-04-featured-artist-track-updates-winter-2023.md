@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Winter 2023"
 date: 2023-01-04 13:00:00 +0000
+series: featured_artists
 ---
 
 Your New Year's resolution is to learn how to map, right? We've picked up over **60** new songs from **18** of our Featured Artists for you to try out!

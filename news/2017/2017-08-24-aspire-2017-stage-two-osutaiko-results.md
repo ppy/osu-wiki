@@ -2,6 +2,7 @@
 layout: post
 title: "Aspire 2017 Stage Two: osu!taiko Results"
 date: 2017-08-24 05:00:00 +0000
+series: official_contests
 ---
 
 The drums of war fade, and in the lingering silence, we find our winner. Triumphant among the twelve, one stands supreme in osu!taiko's first official contest of creative wills. Read on to find out more!

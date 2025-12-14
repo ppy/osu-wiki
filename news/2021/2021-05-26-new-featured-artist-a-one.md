@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: A-One"
 date: 2021-05-26 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to introduce the Touhou Eurobeat superstar **A-One** to the Featured Artist roster!

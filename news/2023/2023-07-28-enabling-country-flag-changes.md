@@ -2,6 +2,7 @@
 layout: post
 title: Enabling Country Flag Changes
 date: 2023-07-28 03:00:00 +0000
+series: game_updates
 ---
 
 In need of a flag change? Look no further.

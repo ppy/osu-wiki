@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: 2022 & 2023"
 date: 2023-11-19 21:00:00 +0000
+series: miscellaneous
 ---
 
 Join us in our yearly tradition of celebrating some of osu!'s most influential and exceptional community pillars!

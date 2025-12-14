@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Trina Lydia"
 date: 2024-10-06 18:00:00 +0000
+series: featured_artists
 ---
 
 You don't need synesthesia to see why **Trina Lydia**'s music is worth mapping.

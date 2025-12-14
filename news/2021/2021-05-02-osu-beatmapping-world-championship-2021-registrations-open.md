@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Beatmapping World Championship 2021: Registrations Open"
 date: 2021-05-02 12:00:00 +0000
+series: community_contests
 ---
 
 Attention to all mappers! osu! Beatmapping World Championship 2021 is on the horizon!

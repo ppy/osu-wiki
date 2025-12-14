@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2018: Grand Finals Recap"
 date: 2018-07-16 09:00:00 +0000
+series: world_cups
 ---
 
 Of our three fruit-obsessed finalists, only one team could be crowned this year's osu!catch World Cup Champions. Chile, China and the United States – through the fire and the falling, which would reign supreme? All the juicy details can be found within!

@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: 3 February to 16 February"
 date: 2019-02-20 02:00:00 +0000
+series: scorewatch
 ---
 
 Round two of Scorewatch! This time, we've got more scores, more videos and more hype to showcase more of the best from osu!'s top players in all modes. Check out the feats these guys have been pulling off!

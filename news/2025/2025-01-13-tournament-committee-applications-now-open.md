@@ -2,6 +2,7 @@
 layout: post
 title: Tournament Committee Applications Now Open!
 date: 2025-01-13 17:00:00 +0000
+series: community_tournaments
 ---
 
 Calling all tournament goers! We're excited to announce that, for the first time ever, formal applications for the [Tournament Committee (TC)](/wiki/People/Tournament_Committee) are now open!

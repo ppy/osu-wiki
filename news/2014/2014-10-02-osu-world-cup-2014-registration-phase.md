@@ -3,6 +3,7 @@ layout: post
 title: osu! World Cup 2014 - Registration Phase
 date: 2014-10-02 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98965605173/osu-world-cup-2014-registration-phase
+series: world_cups
 ---
 
 We'd like to welcome all of you to this year's official osu! World Cup. The rules have been adjusted from the previous OWC, so please [read them carefully](/wiki/Tournaments/OWC/2014#ruleset) before registering for this tournament.

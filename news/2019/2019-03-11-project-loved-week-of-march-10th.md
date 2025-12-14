@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of March 10th"
 date: 2019-03-11 17:30:00 +0000
+series: project_loved
 ---
 
 It's time again for [Project Loved](https://osu.ppy.sh/community/forums/120)! We have twenty new maps for you to try, and now it's your turn to decide whether or not they should be moved to the Loved category!

@@ -2,6 +2,7 @@
 layout: post
 title: "Results - Twin Trials: Beatmapping phase"
 date: 2023-05-15 21:00:00 +0000
+series: official_contests
 ---
 
 After months of mapping, judging, and voting, the first half of Twin Trials is coming to a close! It's time to see which duos take home the gold for every game mode.

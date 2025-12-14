@@ -12,7 +12,7 @@ tags:
 
 Durch die **offizielle Turnierunterstützung** können von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, im Ermessen des [osu!-Teams](/wiki/People/osu!_team) zusätzlich unterstützt werden.
 
-Dieser Artikel wurde zuletzt am 13. Mai 2025 aktualisiert. Alle Änderungen werden im Thread ["tournament support updates"](https://osu.ppy.sh/community/forums/topics/1715676) bekanntgegeben. Bitte ziehe bei jeglichen Rückfragen oder Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Dieser Artikel wurde zuletzt am 9. Oktober 2025 aktualisiert. Alle Änderungen werden im Thread ["tournament support updates"](https://osu.ppy.sh/community/forums/topics/1715676) bekanntgegeben. Bitte ziehe bei jeglichen Rückfragen oder Klarstellungen den Kanal `#tournaments` auf dem [osu! Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an das [Account-Support-Team](/wiki/People/Account_support_team) über [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 
@@ -203,7 +203,7 @@ Nur Spieler, die am Turnier teilnehmen **oder** die im Laufe des Turniers als Er
 
 ### Profilabzeichen
 
-Offiziell unterstützte Turniere, die die [oben genannten Erwartungen](#erwartungen) erfüllen, können nach ihrem Abschluss Profilabzeichenpreise anfragen. Wir empfehlen ausdrücklich, die Profilabzeichenpreise so schnell wie möglich nach dem Ende des Turniers zu beantragen, da dies den [Überprüfungsprozess](/wiki/People/Tournament_Committee#tournament-review) einfacher gestaltet. **Die Abzeichen werden niemals vor Beendigung des Turniers akzeptiert.**
+Offiziell unterstützte Turniere, die die [oben genannten Erwartungen](#erwartungen) erfüllen, können nach ihrem Abschluss Profilabzeichenpreise anfragen. Wir empfehlen ausdrücklich, die Profilabzeichenpreise so schnell wie möglich nach dem Ende des Turniers zu beantragen, da dies den [Überprüfungsprozess](/wiki/People/Tournament_Committee#überprüfung-von-turnieren) einfacher gestaltet. **Die Abzeichen werden niemals vor Beendigung des Turniers akzeptiert.**
 
 Bilder für Profilabzeichen müssen die folgenden Standards einhalten:
 
@@ -212,6 +212,7 @@ Bilder für Profilabzeichen müssen die folgenden Standards einhalten:
 - Das Logo, das Motiv oder der Name deines Turniers muss darauf klar sichtbar sein.
 - Das Bild muss ordentlich gestaltet sein und eine angemessene visuelle Qualität haben.
 - Das Bild darf kein Sponsoring enthalten oder etwas anderes als das Turnier bewerben.
+- Die Verwendung von Inhalten, die mit [KI](https://de.wikipedia.org/wiki/K%C3%BCnstliche_Intelligenz) generiert wurden, ist untersagt.
 - Inhalte müssen speziell für das Turnier angefertigt werden und müssen sich an die [Richtlinien für die Inhaltsnutzung](/wiki/Rules/Content_usage_permissions) halten.
   - Davon ausgenommen sind Inhalte, die quelloffen oder zur öffentlichen Nutzung freigegeben sind (d.h. Schriftarten, Symbole usw.).
   - Wenn Inhalte verwendet werden, die nicht der obigen Kategorie entsprechen, ist die Nutzung nur mit einer expliziten Genehmigung des Erstellers erlaubt.

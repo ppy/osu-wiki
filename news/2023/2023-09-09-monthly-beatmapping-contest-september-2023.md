@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: September 2023"
 date: 2023-09-09 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 This classic contest makes a comeback yet again! See if you have what it takes to take home the gold and make your way towards the coveted Elite Mapper title.

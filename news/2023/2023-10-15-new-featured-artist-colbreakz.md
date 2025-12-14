@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: ColBreakz"
 date: 2023-10-15 02:50:00 +0000
+series: featured_artists
 ---
 
 EDM legend **ColBreakz** drops into our Featured Artist catalogue!

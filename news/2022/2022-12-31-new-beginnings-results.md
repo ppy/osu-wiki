@@ -2,6 +2,7 @@
 layout: post
 title: "New Beginnings Art Contest: Results"
 date: 2022-12-31 15:00:00 +0000
+series: fanart_contests
 ---
 
 Welcome in 2023 with the results of the New Beginnings Art Contest, now available on a main menu near you!

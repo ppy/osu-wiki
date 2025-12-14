@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2024: Registrations Now Open!"
 date: 2024-07-18 10:00:00 +0000
+series: world_cups
 ---
 
 Calling all key smashers — the osu!mania 4K World Cup is back for 2024!

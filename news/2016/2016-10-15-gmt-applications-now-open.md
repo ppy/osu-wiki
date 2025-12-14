@@ -3,6 +3,7 @@ layout: post
 title: GMT Applications Now Open
 date: 2016-10-15 18:01:21 +0000
 tumblr_url: http://osunews.tumblr.com/post/151845561968/gmt-applications-now-open
+series: miscellaneous
 ---
 
 Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.

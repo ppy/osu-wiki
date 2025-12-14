@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: AAAA"
 date: 2022-09-11 16:30:00 +0000
+series: featured_artists
 ---
 
 WELCOME **AAAA** TO OUR FEATURED ARTIST LIBRARY.

@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Announcement"
 date: 2021-03-08 12:00:00 +0000
+series: official_contests
 ---
 
 Skinners, this one is for you! Create your finest skin! Why? Because it is your time to shine!

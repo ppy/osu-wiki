@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Fall 2018 Signups Now Open
 date: 2018-07-04 12:00:00 +0000
+series: online_events
 ---
 
 Are you an experienced mapper, or perhaps only recently opened the editor for the first time? Do you like helping others, or are in need of a helping hand in mapping or modding? The Community Mentorship Program has a place for both of you!

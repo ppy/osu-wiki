@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2022: Registrations now open!"
 date: 2022-09-15 00:00:00 +0000
+series: world_cups
 ---
 
 All good things must eventually come to an end. With the osu!mania 4K World Cup coming to its conclusion we look towards our annual circle clicking championship to close the year off with a bang! The osu! World Cup 2022 is now open for registrations!

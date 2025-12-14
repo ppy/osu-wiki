@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: rejection"
 date: 2021-09-15 09:00:00 +0000
+series: featured_artists
 ---
 
 Treat yourself to the latest addition to our Featured Artist catalogue: **rejection**!

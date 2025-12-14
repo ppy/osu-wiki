@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ekcle"
 date: 2022-12-07 11:00:00 +0000
+series: featured_artists
 ---
 
 Originality is the most highly valued commodity in the mapping world, and our newest Featured Artist **Ekcle** is here to provide it.

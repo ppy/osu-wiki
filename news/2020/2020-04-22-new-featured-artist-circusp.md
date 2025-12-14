@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: CircusP"
 date: 2020-04-22 08:00:00 +0000
+series: featured_artists
 ---
 
 **CircusP** arrives to thunderous applause as our newest Featured Artist!

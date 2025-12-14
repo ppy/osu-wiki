@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Anamanaguchi"
 date: 2024-12-21 20:00:00 +0000
+series: featured_artists
 ---
 
 **Anamanaguchi** rounds out the year as our final Featured Artist of 2024!

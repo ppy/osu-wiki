@@ -2,6 +2,7 @@
 layout: post
 title: "Touhou Project Mania Cup 4th: Registrations Now Open!"
 date: 2024-12-23 11:00:00 +0000
+series: community_tournaments
 ---
 
 With the celebration of the Touhou Project's 30th birthday, the Touhou Project Mania Cup is returning for its 4th iteration, bringing tons of improvement in competitiveness and player enjoyment!

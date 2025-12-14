@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Neuro-sama, the AI VTuber that invaded osu!"
 date: 2024-07-01 17:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Read about [Vedal](https://osu.ppy.sh/users/9713367)'s (and Neuro's) origins in osu! and perspective of their explosion into stardom!

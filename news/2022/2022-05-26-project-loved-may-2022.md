@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: May 2022"
 date: 2022-05-26 09:10:00 +0000
+series: project_loved
 ---
 
 With the great hurdles of spring overcome, take a break from studies with Project Loved!

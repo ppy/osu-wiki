@@ -2,6 +2,7 @@
 layout: post
 title: "The First osu! Manga: osu! Combat Championship"
 date: 2023-11-20 13:00:00 +0000
+series: miscellaneous
 ---
 
 WhiteCat immerses himself in a once-in-a-lifetime combat tournament. The stakes are high as he battles it out to claim the coveted #1 title and have his wish granted!

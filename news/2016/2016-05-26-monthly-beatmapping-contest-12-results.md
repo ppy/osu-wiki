@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #12 Results"
 date: 2016-05-26 01:23:09 +0000
 tumblr_url: http://osunews.tumblr.com/post/144933230753/monthly-beatmapping-contest-12-results
+series: monthly_beatmapping_contest
 ---
 
 With a bit of delay, the winner of the 12th Monthly Beatmapping Contest has been decided! Interested in the results? Read on!

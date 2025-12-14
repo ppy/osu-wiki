@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: October 9, 2024"
 date: 2024-10-09 12:00:00 +0000
+series: game_updates
 ---
 
 Tune in for your latest non-pp-related osu!(lazer) updates!

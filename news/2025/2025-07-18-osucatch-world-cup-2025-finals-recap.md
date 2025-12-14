@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2025: Finals Recap"
 date: 2025-07-18 21:30:00 +0000
+series: world_cups
 ---
 
 This past week marked the conclusion of a long-fought battle for the podium, with Argentina, the United States, and Finland making it through. One final round remains to decide who will be crowned the osu!catch World Cup champions.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: glass beach"
 date: 2020-11-07 21:00:00 +0000
+series: featured_artists
 ---
 
 We're off to new musical shores with our latest addition to the Featured Artist lineup, **glass beach**!

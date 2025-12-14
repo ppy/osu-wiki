@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MIMI"
 date: 2020-04-15 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to pull back the curtain and welcome **MIMI** aboard as our latest Featured Artist!

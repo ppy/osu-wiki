@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: goreshit"
 date: 2019-11-27 15:45:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **goreshit** as our latest addition to the Featured Artist lineup!

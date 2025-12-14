@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - mention
   - highlight
@@ -8,14 +9,14 @@ tags:
 
 # Highlight
 
-**Highlight** (biasanya disingkat **HL**, kadang-kadang disebut **mention** atau **ping**) adalah cara untuk menarik perhatian seseorang ke chat jika mereka sedang online. Secara default, highlight dipicu ketika nama pengguna pemain ditulis dalam chat. Daftar kata yang disorot dapat disesuaikan di [pilihan chat dalam game](/wiki/Client/Options#in-game-chat).
+**Highlight** atau **sorotan** (atau yang pada umumnya disingkat sebagai **HL**, dan terkadang disebut juga sebagai **mention** atau **ping**) merupakan suatu cara untuk menarik perhatian seseorang yang sedang online ke layar chat. Secara bawaan, highlight akan terpicu pada saat nama pengguna seseorang disebutkan oleh orang lain di dalam chat. Daftar kata yang memicu highlight ini dapat disesuaikan pada [pengaturan chat osu!](/wiki/Client/Options#in-game-chat).
 
-Untuk dapat mengabaikan highlight dari pengguna tertentu, tambahkan nama pengguna ke dalam [daftar pengabaian](/wiki/Client/Options/Ignore_list) dengan `@h` sebagai sisipan.
+Highlight dari pengguna tertentu dapat diabaikan dengan cara menambahkan nama pengguna mereka ke [daftar abai](/wiki/Client/Options/Ignore_list) yang diikuti oleh akhiran `@h`.
 
 ## Tampilan
 
-::: Infobox
-![](img/hl-notification.png "Sebuah contoh notifikasi dari highlight")
+:::Infobox
+![](img/hl-notification.png "Contoh notifikasi highlight")
 :::
 
-Ketika pesan chat memicu highlight, nama pengguna pengirim pada baris tersebut menjadi hijau, dan pesan ditambahkan ke tab chat `#highlight`. Selain itu, jika window osu! tidak aktif, ikonnya akan berkedip di taskbar.
+Pada saat terdapat pesan yang memicu highlight, nama pengirim pesan pada baris percakapan ini akan menjadi hijau, dan pesan ini akan ditambahkan ke tab chat `#highlight`. Di samping itu, apabila jendela osu! sedang tidak aktif, ikon permainan osu! akan berkedip pada taskbar.

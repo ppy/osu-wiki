@@ -2,6 +2,7 @@
 layout: post
 title: "COE 1v1 Tournament: Registrations Are Live!"
 date: 2024-07-20 06:00:00 +0000
+series: offline_events
 ---
 
 It has never been a better time to showcase your osu! skills in a LAN than the annual COE 1v1 tournament!

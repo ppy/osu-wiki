@@ -2,6 +2,7 @@
 layout: post
 title: "Journey into a Beatmap World Art Contest: Voting Open"
 date: 2023-04-21 11:00:00 +0000
+series: fanart_contests
 ---
 
 The stars have aligned — now behold a whole new fantastical world of beatmap background–themed art! Wield your **15** votes of prophecy and defeat the demon king of indecision, for you are the chosen one!

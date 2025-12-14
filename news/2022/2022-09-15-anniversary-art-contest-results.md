@@ -2,6 +2,7 @@
 layout: post
 title: 15th Anniversary Art Contest Results
 date: 2022-09-16 06:00:00 +0000
+series: fanart_contests
 ---
 
 After some of the largest voting turnout we've seen in a long time, the results of the 15th Anniversary Art Contest have made their way into a main menu near you!

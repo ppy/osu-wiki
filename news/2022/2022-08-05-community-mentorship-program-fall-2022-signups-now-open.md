@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Fall 2022 Signups Now Open
 date: 2022-08-05 10:00:00 +0000
+series: online_events
 ---
 
 The 22nd cycle of the Community Mentorship program has arrived! Snatch the opportunity to delve deep into the world of mapping, modding, or storyboarding.

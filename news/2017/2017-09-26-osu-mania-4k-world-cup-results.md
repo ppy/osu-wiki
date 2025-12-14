@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup - Results
 date: 2017-09-26 11:00:00 +0000
+series: world_cups
 ---
 
 At long last, we've finally reached the end of the osu!mania 4K World Cup! Here's to another year of keysmashing, as we dive right into the thrilling conclusion!

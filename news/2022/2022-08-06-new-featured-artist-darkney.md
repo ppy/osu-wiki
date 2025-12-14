@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Darkney"
 date: 2022-08-06 18:00:00 +0000
+series: featured_artists
 ---
 
 Step into the light with our newest Featured Artist, **Darkney**!

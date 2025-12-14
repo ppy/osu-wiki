@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2024: Semifinals Recap"
 date: 2024-02-16 21:00:00 +0000
+series: world_cups
 ---
 
 Catch up with the latest MWC7K happenings, and join us in preparations for the upcoming Finals weekend!

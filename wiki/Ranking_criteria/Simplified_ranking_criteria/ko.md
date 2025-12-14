@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ---
 
 # 랭킹 크리테리아 요약

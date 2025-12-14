@@ -3,6 +3,7 @@ layout: post
 title: "Skin Showcase: Oxygen"
 date: 2013-11-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/67430735234/skin-showcase-oxygen
+series: miscellaneous
 ---
 
 Hey guys, and welcome back to another skin showcase. This time, we'll be looking at the Oxygen skin created by Lespedeza.

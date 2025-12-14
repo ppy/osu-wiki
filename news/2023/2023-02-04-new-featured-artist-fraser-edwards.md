@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: FRASER EDWARDS"
 date: 2023-02-04 11:00:00 +0000
+series: featured_artists
 ---
 
 A certain power metal band may not be a Featured Artist yet, but **FRASER EDWARDS** is.

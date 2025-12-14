@@ -3,6 +3,7 @@ layout: post
 title: "Flash Fanart Contest #7: Halloween"
 date: 2016-10-19 11:58:14 +0000
 tumblr_url: http://osunews.tumblr.com/post/152021157083/flash-fanart-contest-7-halloween
+series: fanart_contests
 ---
 
 Halloween draws near. A time of spooks and thrills, and most of all - a new FLASH fanart contest! The winner gets to spook (or amaze, preferably amaze) osu! worldwide from the main menu and more!

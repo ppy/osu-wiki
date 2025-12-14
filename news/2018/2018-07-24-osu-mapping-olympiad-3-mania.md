@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #3: osu!mania"
 date: 2018-07-24 10:00:00 -0400
+series: official_contests
 ---
 
 Third in line, it's time for osu!mania to enter the limelight with an official beatmapping contest. Read on for details about the rules and prizes which include the Elite Mapper title and chance to be osu!mania's first Mapping Olympian!

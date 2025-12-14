@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Summer 2022"
 date: 2022-07-02 16:00:00 +0000
+series: featured_artists
 ---
 
 We're taking a break from new Featured Artists to highlight some older talents! More than **50** new songs have been added and **new osu!(lazer) Featured Artists playlists** have been published, so check everything out!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MUZZ"
 date: 2022-04-27 09:00:00 +0000
+series: featured_artists
 ---
 
 Through help from independent electronic label [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255), **MUZZ** enters the limelight as our latest Featured Artist!

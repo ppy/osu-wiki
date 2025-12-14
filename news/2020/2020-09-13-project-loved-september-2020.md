@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: September 2020"
 date: 2020-09-13 09:15:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back with your monthly dose of the best that the unranked category has to offer. Check out this month's picks for the category and leave your mark on Loved!

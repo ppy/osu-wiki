@@ -3,6 +3,7 @@ layout: post
 title: Introducing the osu! academy
 date: 2013-12-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/70504430082/introducing-the-osu-academy
+series: miscellaneous
 ---
 
 New players often have a hard time adjusting to osu! gameplay, the editor, and even vocabulary specific to the game. Fortunately, we now have [a Youtube channel](https://www.youtube.com/user/osuacademy/videos) featuring videos that go over these points in a helpful and educational way.

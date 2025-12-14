@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: II-L"
 date: 2021-06-09 08:00:00 +0000
+series: featured_artists
 ---
 
 Begin your voyage into the endless unknown with our latest Featured Artist **II-L**!

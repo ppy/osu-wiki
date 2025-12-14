@@ -2,10 +2,10 @@
 
 De forma predeterminada, osu!(lazer) almacena beatmaps, skins y archivos de repetición de puntuaciones en los siguientes directorios:
 
-- `%appdata%/osu/files` (Windows),
-- `~/.local/share/osu/files` (Linux),
-- `~/Library/Application Support/osu/files` (macOS),
-- `Android/data/sh.ppy.osulazer/files/files` (Android).
+- `%appdata%/osu` (Windows),
+- `~/.local/share/osu` (Linux),
+- `~/Library/Application Support/osu` (macOS),
+- `Android/data/sh.ppy.osulazer/files` (Android).
 
 En las plataformas de escritorio, el almacén de archivos también se puede mover en su totalidad a otra ubicación, usando el botón `Cambiar ubicación de carpeta...` en la configuración del cliente.
 

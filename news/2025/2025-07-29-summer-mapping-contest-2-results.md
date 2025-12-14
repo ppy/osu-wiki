@@ -2,6 +2,7 @@
 layout: post
 title: "Summer Mapping Contest #2: Results"
 date: 2025-07-29 20:00:00 +0000
+series: community_contests
 ---
 
 The second year of our Summer Mapping Contest has come to an end!

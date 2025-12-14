@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ata"
 date: 2022-10-08 10:00:00 +0000
+series: featured_artists
 ---
 
 There's only one word to describe the sensation of knowing **Ata**, our latest Featured Artist: euphoria.

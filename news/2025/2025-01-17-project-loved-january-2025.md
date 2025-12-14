@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: January 2025"
 date: 2025-01-17 14:15:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Happy Project Loved New Year!

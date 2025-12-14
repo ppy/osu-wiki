@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: PUP"
 date: 2020-04-29 08:00:00 +0000
+series: featured_artists
 ---
 
 **PUP** is here and making a statement as our latest Featured Artist!

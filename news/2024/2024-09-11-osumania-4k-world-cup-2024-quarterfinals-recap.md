@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2024: Quarterfinals Recap"
 date: 2024-09-11 21:30:00 +0000
+series: world_cups
 ---
 
 With the Quarterfinals weekend freshly concluded, now is the ideal time to join us in reviewing the best moments and prepare for the upcoming Semifinals.
