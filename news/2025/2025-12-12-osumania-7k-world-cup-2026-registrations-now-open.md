@@ -13,7 +13,7 @@ As 2026 approaches, we are updating both the match format and the tournament's d
 
 ## Format changes
 
-For the 10th edition of MWC 7K, we are adding staggered bans to bracket stage matches. Teams now receive one extra ban (two total), to be used when the match is well underway. These bans occur after the 4th map is played in best-of-9 matches, after the 5th for best of 11, and after the 6th when it's best of 13. One of the aims of this new system is to give the teams more chances to strategise in real time. You can check the specifics of this new format on the [wiki article](/wiki/Tournaments/MWC/2026_7K#match-instructions).
+For the 10th edition of MWC 7K, we are adding staggered bans to bracket stage matches. Teams now receive one extra ban (two total), to be used when the match is well underway. These bans occur after the 4th map is played in best-of-9 and best-of-11 matches, and after the 6th map in best-of-13s. One of the aims of this new system is to give the teams more chances to strategise in real time. You can check the specifics of this new format on the [wiki article](/wiki/Tournaments/MWC/2026_7K#match-instructions).
 
 We are also expanding mappool sizes to include the Extreme (EX) maps that were previously exclusive to the Finals and Grand Finals, for a total of three extra beatmaps for every pool besides the Qualifiers, which in turn will have one EX slot (9 maps total). We have also taken the liberty of swapping slots for some categories, such as **LN1 (Inverse)** to **LN4** — this will be clearer as the mappools are released.
 
