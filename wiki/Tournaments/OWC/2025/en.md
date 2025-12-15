@@ -64,7 +64,7 @@ Group leaders denoted in **bold**.
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal)**
-- [Weekly statistics sheets](https://drive.google.com/drive/folders/1HBibLBldvKv5ig2WXpEfq5n6t8GotWDa) / [Tournament statistics (overall)](https://docs.google.com/spreadsheets/d/1Ho40YG74D_GyVTaL5Orcwak2kt_fAoLAEih7SzlYb8s?rm=minimal)
+- [Weekly statistics](https://drive.google.com/drive/folders/1HBibLBldvKv5ig2WXpEfq5n6t8GotWDa) / [overall statistics](https://docs.google.com/spreadsheets/d/1Ho40YG74D_GyVTaL5Orcwak2kt_fAoLAEih7SzlYb8s?rm=minimal)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2133817)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/52)
