@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2025 banner](img/owc2025-banner.jpg)
 
-The **osu! World Cup 2025** (***OWC 2025***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the sixteenth instalment of the osu! World Cup.
+The **osu! World Cup 2025** (***OWC 2025***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
