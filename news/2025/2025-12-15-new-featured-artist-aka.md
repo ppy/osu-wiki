@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: AKA"
-date: 2025-12-15 18:00:00 +0000
+date: 2025-12-15 22:30:00 +0000
 series: featured_artists
 ---
 
