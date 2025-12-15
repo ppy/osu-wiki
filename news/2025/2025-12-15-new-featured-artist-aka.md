@@ -13,7 +13,7 @@ Inspired by the likes of [*Annabel*](https://osu.ppy.sh/beatmaps/artists/234), *
 
 To an osu! player, the most familiar of those places is [**AKA**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/516), where **8** tracks are pre-timed and ready for mapping!
 
-**AKA** actually made a subtle debut in [*0 K*'s catalogue](https://osu.ppy.sh/beatmaps/artists/424) with *Panorama*, however more osu! players may recognize her from a couple recently Ranked maps:
+**AKA** actually made a subtle debut in [*0 K*'s catalogue](https://osu.ppy.sh/beatmaps/artists/424) with *Panorama*, but more osu! players may recognise her from a couple recently Ranked maps:
 
 ### [Sweet Dove feat. AKA - Omoide Kakera](https://assets.ppy.sh/artists/516/re%27LOAD/Sweet%20Dove%20feat.%20AKA%20-%20Omoide%20Kakera.osz)
 
