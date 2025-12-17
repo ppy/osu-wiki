@@ -142,7 +142,7 @@ This feels like an everyday scene at a Christmas market in Japan. So cosy.
 
 </div>
 
-[![](https://assets.ppy.sh/contests/269/banners/lustorium.jpg)](https://assets.ppy.sh/contests/269/winners/lustorium.png)
+[![](https://assets.ppy.sh/contests/269/banners/lustorium.jpg)](https://assets.ppy.sh/contests/269/winners/lustorium.jpeg)
 
 <div class="news-chat-quote__text-container">
 
