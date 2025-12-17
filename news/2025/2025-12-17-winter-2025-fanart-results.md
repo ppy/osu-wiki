@@ -26,11 +26,11 @@ voters. Such a stellar performance has net them the top spot once again!
 
 [![](https://assets.ppy.sh/contests/269/banners/Kleinne%20Lui.jpg)](https://assets.ppy.sh/contests/269/winners/Kleinne%20Lui.png)
 
-[**Kleinne Lui**](https://osu.ppy.sh/users/27725651) drew pippi and Mocha in a snowy forest, where **1080** outdoor-goers were captivated by the cute snowball bunny. Improving upon their winning performance in 2023’s spring contest, they enter the podium for the first time!
+[**Kleinne Lui**](https://osu.ppy.sh/users/27725651) drew pippi and Mocha in a snowy forest, where **1080** outdoor-goers were captivated by the cute snowball bunny. Improving upon their winning performance in 2023's spring contest, they enter the podium for the first time!
 
 [![](https://assets.ppy.sh/contests/269/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/269/winners/Triantafyllia.png)
 
-[**Triantafyllia**](https://osu.ppy.sh/users/17084594)’s magical reindeer Mocha and venerable sidekick Don were here to deliver presents, reaching **1074** excited children who get to enjoy a fantastic illustration on osu!’s main menu *and* as a default profile banner!
+[**Triantafyllia**](https://osu.ppy.sh/users/17084594)'s magical reindeer Mocha and venerable sidekick Don were here to deliver presents, reaching **1074** excited children who get to enjoy a fantastic illustration on osu!'s main menu *and* as a default profile banner!
 
 [![](https://assets.ppy.sh/contests/269/banners/year-bear.jpg)](https://assets.ppy.sh/contests/269/winners/year-bear.png)
 
@@ -46,15 +46,15 @@ voters. Such a stellar performance has net them the top spot once again!
 
 [![](https://assets.ppy.sh/contests/269/banners/Ferineon.jpg)](https://assets.ppy.sh/contests/269/winners/Ferineon.png)
 
-[**Ferineon**](https://osu.ppy.sh/users/23930728)’s painting of a reindeer Mocha in a Christmas clockwork dream world sparked the imagination of **1045** art connoisseurs, who admired the classic combination of red and green colours with a dash of a golden bauble.
+[**Ferineon**](https://osu.ppy.sh/users/23930728)'s painting of a reindeer Mocha in a Christmas clockwork dream world sparked the imagination of **1045** art connoisseurs, who admired the classic combination of red and green colours with a dash of a golden bauble.
 
 [![](https://assets.ppy.sh/contests/269/banners/Son%20Goku.jpg)](https://assets.ppy.sh/contests/269/winners/Son%20Goku.png)
 
-[**Son Goku**](https://osu.ppy.sh/users/14991975) captured the hearts of **1023** pippi fanatics with a rendition of her glancing over a radiant sky beaming over a snowy lake, featuring a Don who’s definitely *chilling* in more ways than one.
+[**Son Goku**](https://osu.ppy.sh/users/14991975) captured the hearts of **1023** pippi fanatics with a rendition of her glancing over a radiant sky beaming over a snowy lake, featuring a Don who's definitely *chilling* in more ways than one.
 
 [![](https://assets.ppy.sh/contests/269/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/269/winners/Kwms024.png)
 
-Chinese New Year 2026 marks the beginning of the Year of the Fire Horse, and [**Kwms024**](https://osu.ppy.sh/users/11516014) didn’t waste a second in bringing fire horse girl pippi to life. **1003**
+Chinese New Year 2026 marks the beginning of the Year of the Fire Horse, and [**Kwms024**](https://osu.ppy.sh/users/11516014) didn't waste a second in bringing fire horse girl pippi to life. **1003**
 people in the Chinese New Year waiting room exclaimed that this was a brilliant idea, cheering pippi on as she dashed straight to victory in this contest.
 
 [![](https://assets.ppy.sh/contests/269/banners/69maow.jpg)](https://assets.ppy.sh/contests/269/winners/69maow.png)
@@ -63,7 +63,7 @@ people in the Chinese New Year waiting room exclaimed that this was a brilliant 
 
 [![](https://assets.ppy.sh/contests/269/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/269/winners/-%20Y%20u%20m%20i%20J%20i-.png)
 
-[**- Y u m i J i-**](https://osu.ppy.sh/users/7656048) brought a rather peculiar set of ornaments encapsulating the main osu! cast enjoying wintery activities, which **878** of you simply couldn’t resist wanting the same set decorating your living room.
+[**- Y u m i J i-**](https://osu.ppy.sh/users/7656048) brought a rather peculiar set of ornaments encapsulating the main osu! cast enjoying wintery activities, which **878** of you simply couldn't resist wanting the same set decorating your living room.
 
 [![](https://assets.ppy.sh/contests/269/banners/Kourihase.jpg)](https://assets.ppy.sh/contests/269/winners/Kourihase.png)
 
