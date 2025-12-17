@@ -53,8 +53,7 @@ You can click on any of the banners to view the full image.
 
 [![](https://assets.ppy.sh/contests/269/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/269/winners/Kwms024.png)
 
-Chinese New Year 2026 marks the beginning of the Year of the Fire Horse, and [**Kwms024**](https://osu.ppy.sh/users/11516014) didn't waste a second in bringing fire horse girl pippi to life. **1003**
-people in the Chinese New Year waiting room exclaimed that this was a brilliant idea, cheering pippi on as she dashed straight to victory in this contest.
+Chinese New Year 2026 marks the beginning of the Year of the Fire Horse, and [**Kwms024**](https://osu.ppy.sh/users/11516014) didn't waste a second in bringing fire horse girl pippi to life. **1003** people in the Chinese New Year waiting room exclaimed that this was a brilliant idea, cheering pippi on as she dashed straight to victory in this contest.
 
 [![](https://assets.ppy.sh/contests/269/banners/69maow.jpg)](https://assets.ppy.sh/contests/269/winners/69maow.png)
 
