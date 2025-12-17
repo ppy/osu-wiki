@@ -104,6 +104,8 @@ Here's what he had to say about the entries he picked:
     }
 </style>
 
+#### [charro](https://osu.ppy.sh/users/13445197)
+
 [![](https://assets.ppy.sh/contests/269/banners/charro.jpg)](https://assets.ppy.sh/contests/269/winners/charro.png)
 
 <div class="news-chat-quote__text-container">
@@ -115,6 +117,8 @@ Here's what he had to say about the entries he picked:
 This is one of the cutest fanart entries I've seen in my life. I can't help but smile every time I look at it.
 
 </div>
+
+#### [Pyo](https://osu.ppy.sh/users/6641784)
 
 [![](https://assets.ppy.sh/contests/269/banners/Pyo.jpg)](https://assets.ppy.sh/contests/269/winners/Pyo.png)
 
@@ -128,6 +132,8 @@ The team aren't just decorating a Christmas tree, they be decorating a whole for
 
 </div>
 
+#### [Alptraum](https://osu.ppy.sh/users/26496648)
+
 [![](https://assets.ppy.sh/contests/269/banners/Alptraum.jpg)](https://assets.ppy.sh/contests/269/winners/Alptraum.png)
 
 <div class="news-chat-quote__text-container">
@@ -139,6 +145,8 @@ The team aren't just decorating a Christmas tree, they be decorating a whole for
 This feels like an everyday scene at a Christmas market in Japan. So cosy.
 
 </div>
+
+#### [lustorium](https://osu.ppy.sh/users/10066998)
 
 [![](https://assets.ppy.sh/contests/269/banners/lustorium.jpg)](https://assets.ppy.sh/contests/269/winners/lustorium.jpeg)
 
@@ -152,6 +160,8 @@ Love the postcard vibe and unique art style of this one.
 
 </div>
 
+#### [Darkuna](https://osu.ppy.sh/users/8734089)
+
 [![](https://assets.ppy.sh/contests/269/banners/Darkuna.jpg)](https://assets.ppy.sh/contests/269/winners/Darkuna.png)
 
 <div class="news-chat-quote__text-container">
@@ -163,6 +173,8 @@ Love the postcard vibe and unique art style of this one.
 We are apparently in solar maxima. So it makes sense that there was no short of six entries featuring aurora lights. This one felt the most magical to me.
 
 </div>
+
+#### [Kirb2](https://osu.ppy.sh/users/35911207)
 
 [![](https://assets.ppy.sh/contests/269/banners/Kirb2.jpg)](https://assets.ppy.sh/contests/269/winners/Kirb2.png)
 
