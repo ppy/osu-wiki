@@ -59,7 +59,7 @@ people in the Chinese New Year waiting room exclaimed that this was a brilliant 
 
 [![](https://assets.ppy.sh/contests/269/banners/69maow.jpg)](https://assets.ppy.sh/contests/269/winners/69maow.png)
 
-{{ 69maow description }}
+While Santa is known to go down a chimney, that’s not really Aiko's style! [**69maow**](https://osu.ppy.sh/users/2169329)'s cute drawing of the aforementioned mascot impressed a staggering amount of **959** users. Just remember to close down the window, as heating isn't particularly cheap at this time of the year.
 
 [![](https://assets.ppy.sh/contests/269/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/269/winners/-%20Y%20u%20m%20i%20J%20i-.png)
 
@@ -67,15 +67,15 @@ people in the Chinese New Year waiting room exclaimed that this was a brilliant 
 
 [![](https://assets.ppy.sh/contests/269/banners/Kourihase.jpg)](https://assets.ppy.sh/contests/269/winners/Kourihase.png)
 
-{{ Kourihase description }}
+[**Kourihase**](https://osu.ppy.sh/users/13298982)'s artsy, chibi interpretation of the osu! mascot squad in Christmas attire left a long-lasting impression on the community, with **845** users offering their support to this cutesy piece of art. 
 
 [![](https://assets.ppy.sh/contests/269/banners/konchaan.jpg)](https://assets.ppy.sh/contests/269/winners/konchaan.png)
 
-{{ konchaan description }}
+[**konchaan**](https://osu.ppy.sh/users/30003504) reached the hearts of **813** onlookers with their cozy and heart-warming artwork of Alisa. A sight that for many people was an early Christmas present!
 
 [![](https://assets.ppy.sh/contests/269/banners/Kibuuuun.jpg)](https://assets.ppy.sh/contests/269/winners/Kibuuuun.png)
 
-{{ Kibuuuun description }}
+Last but most definitely not least [**Kibuuuun**](https://osu.ppy.sh/users/12320713)'s jaw-dropping rendition of pippi in the cold, lit streets of a city made **809** cast their votes on what is, unarguably, the best cityscape we've seen drawn in a long while.
 
 ### peppy's Picks
 
