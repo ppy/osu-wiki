@@ -5,11 +5,11 @@ date: 2025-12-17 10:00:00 +0000
 series: fanart_contests
 ---
 
-{{ intro }}
+The Winter 2025 contest comes to a close, with an early Christmas present for all of you in the form of the jolliest, merriest of artworks!
 
 ![](/wiki/shared/news/2025-12-17-winter-2025-fanart-results/banner.jpg)
 
-With a whopping **3,108** of you casting a total of **35,886** votes, it's very clear that {{ TODO: finish this sentence }}. And without further ado, let's unveil the finalists!
+With a whopping **3,108** of you casting a total of **35,886** votes, it's very clear that seasonal backgrounds have not gone out of fashion. Quite the opposite in fact, as engagement from artists and community members alike keeps rising! And without further ado, let's unveil the finalists!
 
 You can click on any of the banners to view the full image.
 
@@ -20,7 +20,7 @@ You can click on any of the banners to view the full image.
 [**Dreamxiety**](https://osu.ppy.sh/users/13103233) (a.k.a. *KAITO thighs*) brought us a delectable catering of cookie treats and Vespera cake, to the astonishment of pippi and  **1556**
 voters. Such a stellar performance has net them the top spot once again!
 
-[![](https://assets.ppy.sh/contests/269/banners/h3p0.jpg)](https://assets.ppy.sh/contests/269/winners/h3p0.png)
+[![](https://assets.ppy.sh/contests/269/banners/h3p0.jpg)](https://assets.ppy.sh/contests/269/winners/h3p0.jpg)
 
 [**h3p0**](https://osu.ppy.sh/users/15875092) joined the fray with pippi and friends in the middle of a snowball fight, wowing **1427** reindeer enthusiasts and earning them a returning spot to the podium since last summer!
 
@@ -40,11 +40,11 @@ voters. Such a stellar performance has net them the top spot once again!
 
 [**Du11Knight**](https://osu.ppy.sh/users/24631771) stunned **1062** onlookers with a uniquely styled winter festival drawing of pippi with Mocha in the background. Just like how the colours pop sky-high, this entry by a new face to the contest shot all the way up into the 5th place. Congrats!
 
-[![](https://assets.ppy.sh/contests/269/banners/3292829622.jpg)](https://assets.ppy.sh/contests/269/winners/3292829622.png)
+[![](https://assets.ppy.sh/contests/269/banners/3292829622.jpg)](https://assets.ppy.sh/contests/269/winners/3292829622.jpg)
 
 [**3292829622**](https://osu.ppy.sh/users/18080775) (a.k.a. yanmaizhou329) crafted an expert blend of colours for a winter fair scene that left **1060** jaws dropped.
 
-[![](https://assets.ppy.sh/contests/269/banners/Ferineon.jpg)](https://assets.ppy.sh/contests/269/winners/Ferineon.png)
+[![](https://assets.ppy.sh/contests/269/banners/Ferineon.jpg)](https://assets.ppy.sh/contests/269/winners/Ferineon.jpg)
 
 [**Ferineon**](https://osu.ppy.sh/users/23930728)'s painting of a reindeer Mocha in a Christmas clockwork dream world sparked the imagination of **1045** art connoisseurs, who admired the classic combination of red and green colours with a dash of a golden bauble.
 
@@ -61,19 +61,19 @@ people in the Chinese New Year waiting room exclaimed that this was a brilliant 
 
 While Santa is known to go down a chimney, that’s not really Aiko's style! [**69maow**](https://osu.ppy.sh/users/2169329)'s cute drawing of the aforementioned mascot impressed a staggering amount of **959** users. Just remember to close down the window, as heating isn't particularly cheap at this time of the year.
 
-[![](https://assets.ppy.sh/contests/269/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/269/winners/-%20Y%20u%20m%20i%20J%20i-.png)
+[![](https://assets.ppy.sh/contests/269/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/269/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
 
 [**- Y u m i J i-**](https://osu.ppy.sh/users/7656048) brought a rather peculiar set of ornaments encapsulating the main osu! cast enjoying wintery activities, which **878** of you simply couldn't resist wanting the same set decorating your living room.
 
 [![](https://assets.ppy.sh/contests/269/banners/Kourihase.jpg)](https://assets.ppy.sh/contests/269/winners/Kourihase.png)
 
-[**Kourihase**](https://osu.ppy.sh/users/13298982)'s artsy, chibi interpretation of the osu! mascot squad in Christmas attire left a long-lasting impression on the community, with **845** users offering their support to this cutesy piece of art. 
+[**Kourihase**](https://osu.ppy.sh/users/13298982)'s artsy, chibi interpretation of the osu! mascot squad in Christmas attire left a long-lasting impression on the community, with **845** users offering their support to this cutesy piece of art.
 
 [![](https://assets.ppy.sh/contests/269/banners/konchaan.jpg)](https://assets.ppy.sh/contests/269/winners/konchaan.png)
 
 [**konchaan**](https://osu.ppy.sh/users/30003504) reached the hearts of **813** onlookers with their cozy and heart-warming artwork of Alisa. A sight that for many people was an early Christmas present!
 
-[![](https://assets.ppy.sh/contests/269/banners/Kibuuuun.jpg)](https://assets.ppy.sh/contests/269/winners/Kibuuuun.png)
+[![](https://assets.ppy.sh/contests/269/banners/Kibuuuun.jpg)](https://assets.ppy.sh/contests/269/winners/Kibuuuun.jpg)
 
 Last but most definitely not least [**Kibuuuun**](https://osu.ppy.sh/users/12320713)'s jaw-dropping rendition of pippi in the cold, lit streets of a city made **809** cast their votes on what is, unarguably, the best cityscape we've seen drawn in a long while.
 
