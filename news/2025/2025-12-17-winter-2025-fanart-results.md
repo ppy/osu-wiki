@@ -5,11 +5,11 @@ date: 2025-12-17 10:00:00 +0000
 series: fanart_contests
 ---
 
-intro
+{{ intro }}
 
 ![](/wiki/shared/news/2025-12-17-winter-2025-fanart-results/banner.jpg)
 
-With a whopping **3,108** of you casting a total of **35,886** votes, it's very clear that {{ TODO finish this sentence }}. And without further ado, let's unveil the finalists!
+With a whopping **3,108** of you casting a total of **35,886** votes, it's very clear that {{ TODO: finish this sentence }}. And without further ado, let's unveil the finalists!
 
 You can click on any of the banners to view the full image.
 
@@ -18,63 +18,64 @@ You can click on any of the banners to view the full image.
 [![](https://assets.ppy.sh/contests/269/banners/KAITO%20thighs.jpg)](https://assets.ppy.sh/contests/269/winners/KAITO%20thighs.png)
 
 [**Dreamxiety**](https://osu.ppy.sh/users/13103233) (a.k.a. *KAITO thighs*) brought us a delectable catering of cookie treats and Vespera cake, to the astonishment of pippi and  **1556**
-voters.
+voters. Such a stellar performance has net them the top spot once again!
 
 [![](https://assets.ppy.sh/contests/269/banners/h3p0.jpg)](https://assets.ppy.sh/contests/269/winners/h3p0.png)
 
-h3p0 description
+[**h3p0**](https://osu.ppy.sh/users/15875092) joined the fray with pippi and friends in the middle of a snowball fight, wowing **1427** reindeer enthusiasts and earning them a returning spot to the podium since last summer!
 
 [![](https://assets.ppy.sh/contests/269/banners/Kleinne%20Lui.jpg)](https://assets.ppy.sh/contests/269/winners/Kleinne%20Lui.png)
 
-Kleinne Lui description
+[**Kleinne Lui**](https://osu.ppy.sh/users/27725651) drew pippi and Mocha in a snowy forest, where **1080** outdoor-goers were captivated by the cute snowball bunny. Improving upon their winning performance in 2023’s spring contest, they enter the podium for the first time!
 
 [![](https://assets.ppy.sh/contests/269/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/269/winners/Triantafyllia.png)
 
-Triantafyllia description
+[**Triantafyllia**](https://osu.ppy.sh/users/17084594)’s magical reindeer Mocha and venerable sidekick Don were here to deliver presents, reaching **1074** excited children who get to enjoy a fantastic illustration on osu!’s main menu *and* as a default profile banner!
 
 [![](https://assets.ppy.sh/contests/269/banners/year-bear.jpg)](https://assets.ppy.sh/contests/269/winners/year-bear.png)
 
-year-bear description
+[**year-bear**](https://osu.ppy.sh/users/12178754) managed to collect an assorted set of cute mascot stickers, as showcased by Mocha, pippi, Don and Chirou, that all of the **1074** sticker-bombers in the audience wish were real. This one tied with the previous entry at 4th place, so it *also* gets default banner privileges.
 
 [![](https://assets.ppy.sh/contests/269/banners/Du11Knight.jpg)](https://assets.ppy.sh/contests/269/winners/Du11Knight.png)
 
-Du11Knight description
+[**Du11Knight**](https://osu.ppy.sh/users/24631771) stunned **1062** onlookers with a uniquely styled winter festival drawing of pippi with Mocha in the background. Just like how the colours pop sky-high, this entry by a new face to the contest shot all the way up into the 5th place. Congrats!
 
 [![](https://assets.ppy.sh/contests/269/banners/3292829622.jpg)](https://assets.ppy.sh/contests/269/winners/3292829622.png)
 
-3292829622 description
+[**3292829622**](https://osu.ppy.sh/users/18080775) (a.k.a. yanmaizhou329) crafted an expert blend of colours for a winter fair scene that left **1060** jaws dropped.
 
 [![](https://assets.ppy.sh/contests/269/banners/Ferineon.jpg)](https://assets.ppy.sh/contests/269/winners/Ferineon.png)
 
-Ferineon description
+[**Ferineon**](https://osu.ppy.sh/users/23930728)’s painting of a reindeer Mocha in a Christmas clockwork dream world sparked the imagination of **1045** art connoisseurs, who admired the classic combination of red and green colours with a dash of a golden bauble.
 
 [![](https://assets.ppy.sh/contests/269/banners/Son%20Goku.jpg)](https://assets.ppy.sh/contests/269/winners/Son%20Goku.png)
 
-[**Son Goku**](https://osu.ppy.sh/users/14991975) captured the hearts of **1022** pippi fanatics with a rendition of her glancing over a radiant sky beaming over a snowy lake, featuring a Don who's definitely *chilling* in more ways than one.
+[**Son Goku**](https://osu.ppy.sh/users/14991975) captured the hearts of **1023** pippi fanatics with a rendition of her glancing over a radiant sky beaming over a snowy lake, featuring a Don who’s definitely *chilling* in more ways than one.
 
 [![](https://assets.ppy.sh/contests/269/banners/Kwms024.jpg)](https://assets.ppy.sh/contests/269/winners/Kwms024.png)
 
-Kwms024 description
+Chinese New Year 2026 marks the beginning of the Year of the Fire Horse, and [**Kwms024**](https://osu.ppy.sh/users/11516014) didn’t waste a second in bringing fire horse girl pippi to life. **1003**
+people in the Chinese New Year waiting room exclaimed that this was a brilliant idea, cheering pippi on as she dashed straight to victory in this contest.
 
 [![](https://assets.ppy.sh/contests/269/banners/69maow.jpg)](https://assets.ppy.sh/contests/269/winners/69maow.png)
 
-69maow description
+{{ 69maow description }}
 
 [![](https://assets.ppy.sh/contests/269/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/269/winners/-%20Y%20u%20m%20i%20J%20i-.png)
 
-[**- Y u m i J i-**](https://osu.ppy.sh/users/7656048) brought a rather peculiar set of ornaments encapsulating the main osu! cast enjoying wintery activities, which **878** of you simply couldn't resist wanting the same set decorating your living room.
+[**- Y u m i J i-**](https://osu.ppy.sh/users/7656048) brought a rather peculiar set of ornaments encapsulating the main osu! cast enjoying wintery activities, which **878** of you simply couldn’t resist wanting the same set decorating your living room.
 
 [![](https://assets.ppy.sh/contests/269/banners/Kourihase.jpg)](https://assets.ppy.sh/contests/269/winners/Kourihase.png)
 
-Kourihase description
+{{ Kourihase description }}
 
 [![](https://assets.ppy.sh/contests/269/banners/konchaan.jpg)](https://assets.ppy.sh/contests/269/winners/konchaan.png)
 
-konchaan description
+{{ konchaan description }}
 
 [![](https://assets.ppy.sh/contests/269/banners/Kibuuuun.jpg)](https://assets.ppy.sh/contests/269/winners/Kibuuuun.png)
 
-Kibuuuun description
+{{ Kibuuuun description }}
 
 ### peppy's Picks
 
@@ -189,4 +190,4 @@ Don't forget to check the [contest page](https://osu.ppy.sh/community/contests/2
 
 See you next year! <3
 
-—Hivie & Walavouchey
+—Hivie, Walavouchey, and RandomeLoL
