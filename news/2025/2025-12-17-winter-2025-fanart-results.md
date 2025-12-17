@@ -17,8 +17,7 @@ You can click on any of the banners to view the full image.
 
 [![](https://assets.ppy.sh/contests/269/banners/KAITO%20thighs.jpg)](https://assets.ppy.sh/contests/269/winners/KAITO%20thighs.png)
 
-[**Dreamxiety**](https://osu.ppy.sh/users/13103233) (a.k.a. *KAITO thighs*) brought us a delectable catering of cookie treats and Vespera cake, to the astonishment of pippi and  **1556**
-voters. Such a stellar performance has net them the top spot once again!
+[**Dreamxiety**](https://osu.ppy.sh/users/13103233) (a.k.a. *KAITO thighs*) brought us a delectable catering of cookie treats and Vespera cake, to the astonishment of pippi and  **1556** voters. Such a stellar performance has net them the top spot once again!
 
 [![](https://assets.ppy.sh/contests/269/banners/h3p0.jpg)](https://assets.ppy.sh/contests/269/winners/h3p0.jpg)
 
