@@ -112,7 +112,7 @@ Here's what he had to say about the entries he picked:
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2" style="background-image: url('/wiki/shared/avatars/peppy.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/14102976">peppy</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/2">peppy</a></p>
 
 This is one of the cutest fanart entries I've seen in my life. I can't help but smile every time I look at it.
 
@@ -124,7 +124,7 @@ This is one of the cutest fanart entries I've seen in my life. I can't help but 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2" style="background-image: url('/wiki/shared/avatars/peppy.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/14102976">peppy</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/2">peppy</a></p>
 
 The team aren't just decorating a Christmas tree, they be decorating a whole forest! Way to go.
 
@@ -136,7 +136,7 @@ The team aren't just decorating a Christmas tree, they be decorating a whole for
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2" style="background-image: url('/wiki/shared/avatars/peppy.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/14102976">peppy</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/2">peppy</a></p>
 
 This feels like an everyday scene at a Christmas market in Japan. So cosy.
 
@@ -148,7 +148,7 @@ This feels like an everyday scene at a Christmas market in Japan. So cosy.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2" style="background-image: url('/wiki/shared/avatars/peppy.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/14102976">peppy</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/2">peppy</a></p>
 
 Love the postcard vibe and unique art style of this one.
 
@@ -160,7 +160,7 @@ Love the postcard vibe and unique art style of this one.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2" style="background-image: url('/wiki/shared/avatars/peppy.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/14102976">peppy</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/2">peppy</a></p>
 
 We are apparently in solar maxima. So it makes sense that there was no short of six entries featuring aurora lights. This one felt the most magical to me.
 
@@ -172,7 +172,7 @@ We are apparently in solar maxima. So it makes sense that there was no short of 
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2" style="background-image: url('/wiki/shared/avatars/peppy.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/14102976">peppy</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-ppy" href="https://osu.ppy.sh/users/2">peppy</a></p>
 
 Simple, but feels like it should be an osu! storyboard. I like gingerbread, what can I say?
 
