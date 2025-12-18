@@ -143,7 +143,7 @@ In case you missed any previous weeks, here's a little refresher of all the prev
 
 | Match | Stage | Links |
 | :-- | :-- | :-- |
-| ::{ flag=IT }:: Italy vs. ::{ flag=TR }:: Türkiye | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2025-11-21-osu-world-cup-2025-round-of-16-recap#italy-vs.--t%C3%BCrkiye), [VOD](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=6311) |
+| ::{ flag=IT }:: Italy vs. ::{ flag=TR }:: Türkiye | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2025-11-21-osu-world-cup-2025-round-of-16-recap#italy-turkiye), [VOD](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=6311) |
 | ::{ flag=TH }:: Thailand vs. ::{ flag=JP }:: Japan | Round of 16 | [Text summary](https://osu.ppy.sh/home/news/2025-11-21-osu-world-cup-2025-round-of-16-recap#thailand-vs.--japan), [VOD](https://www.youtube.com/watch?v=Olm4JYTmhpI&t=17893) |
 | ::{ flag=RO }:: Romania vs. ::{ flag=TW }:: Taiwan | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap#romania-vs.--taiwan), [VOD](https://www.youtube.com/watch?v=uaPQC2CIXh0&t=8319) |
 | ::{ flag=FR }:: France vs. ::{ flag=NZ }:: New Zealand | Quarterfinals | [Text summary](https://osu.ppy.sh/home/news/2025-11-29-osu-world-cup-2025-quarterfinals-recap#france-vs.--new-zealand), [VOD](https://www.youtube.com/watch?v=WbqHJajmqxg&t=7156) |
