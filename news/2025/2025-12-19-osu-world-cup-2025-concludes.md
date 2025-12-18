@@ -7,7 +7,7 @@ series: world_cups
 
 Three teams enter with dreams of glory, their eyes set on victory. Only one could leave with the two most coveted words on their profile: *osu! champion*. Poland. The United States. Australia.
 
-![](/wiki/shared/news/2025-12-14-osu-world-cup-2025-finals-recap/banner.jpg)
+![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/banner.jpg)
 
 These were the combatants for the greatest prize osu! has to offer: the World Cup. The game's grandest stage was set; all that was left was the battle of these teams' lives.
 
