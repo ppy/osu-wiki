@@ -19,14 +19,14 @@ The third iteration of the contest introduces a *multi-phase format* featuring t
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2025-10-05 |
-| PARALLEL round submission deadline | 2025-11-13 |
+| PARALLEL submission deadline | 2025-11-13 |
 | Screening | 2025-11-13/2025-11-15 |
-| SWAP round submission deadline | 2025-12-07 |
-| Judging | 2025-12-08/2025-12-19 |
-| Results livestream | 2025-12-21 |
-| DUET round submission deadline | 2026-02-22 |
+| SWAP submission deadline | 2025-12-07 |
+| Judging | 2025-12-19/2025-01-02 |
+| Results livestream | 2026-01-04 (18:00 UTC) |
+| DUET submission deadline | 2026-03-08 (23:59 UTC) |
 | Judging | 2026-02-22/2026-03-13 |
-| Results livestream | 2026-03-15 |
+| Results livestream | 2026-03-29 |
 
 All deadlines end at 23:59 UTC.
 
@@ -104,12 +104,12 @@ In Phase 1, each map for Song A is scored individually in Relevance, Creativity,
 | Special thanks | ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | Designer | ::{ flag=CA }:: [Kaetwo](https://osu.ppy.sh/users/1997719) |
 
-| Game mode | Judges | Screeners |
-| :-: | :-- | :-- |
-| osu! | *TBD* | *TBD* |
-| osu!catch | *TBD* | *TBD* |
-| osu!taiko | *TBD* | *TBD* |
-| osu!mania | *TBD* | *TBD* |
+| Game mode | Judges |
+| :-: | :-- |
+| osu! | ::{ flag=CN }}:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=US }}:: [squishyguppy](https://osu.ppy.sh/users/4116573), ::{ flag=US }}:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=RU }}:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664), ::{ flag=CN }}:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=BY }}:: [Flins](https://osu.ppy.sh/users/11119539), ::{ flag=CA }}:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=BE }}:: [yaspo](https://osu.ppy.sh/users/4945926) | *TBD* |
+| osu!taiko | ::{ flag=GB }}:: [aceticke](https://osu.ppy.sh/users/8838763), ::{ flag=US }}:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=US }}:: [meiqth](https://osu.ppy.sh/users/12565402), ::{ flag=RU }}:: [_HeLLFly_](https://osu.ppy.sh/users/14225226) |
+| osu!catch | ::{ flag=NL }}:: [Chatie](https://osu.ppy.sh/users/6524765), ::{ flag=PH }}:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }}:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=ES }}:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AT }}:: [Daletto](https://osu.ppy.sh/users/7592136) |
+| osu!mania | ::{ flag=ID }}:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }}:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=DO }}:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=AU }}:: [Decku](https://osu.ppy.sh/users/13360768), ::{ flag=CN }}:: [Carpihat](https://osu.ppy.sh/users/10085090) |
 
 ## Contest format
 
