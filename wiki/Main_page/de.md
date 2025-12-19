@@ -87,7 +87,7 @@ Antworten zu häufig gestellten Fragen und Lösungen zu alltäglichen Problemen 
 
 [Hilfecenter](/wiki/Help_centre) • [Problemlösung bei der Leistung](/wiki/Performance_troubleshooting) • [Account Support Team](/wiki/People/Account_support_team) • [Hilfeforum](https://osu.ppy.sh/forum/5)
 
-Profilbeschränkungen: [Silences](/wiki/Help_centre/Silences) • [Kontoeinschränkungen](/wiki/Help_centre/Account_restrictions) • [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions#turniersperren)
+Profilbeschränkungen: [Silences](/wiki/Help_centre/Silences) • [Kontoeinschränkungen](/wiki/Help_centre/Account_restrictions) • [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions)
 
 Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) • [Melde schlechtes Verhalten](/wiki/Reporting_bad_behaviour) • [Melde Missbrauch](/wiki/Reporting_bad_behaviour/Abuse) • [Melde Betrug](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
