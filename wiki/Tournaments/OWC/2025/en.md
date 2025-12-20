@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2025 banner](img/owc2025-banner.jpg)
 
-The **osu! World Cup 2025** (***OWC 2025***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the sixteenth instalment of the osu! World Cup.
+The **osu! World Cup 2025** (***OWC 2025***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2025** (***OWC 2025***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2025 offers a $10,000 cash prize pool and limited-edition merch.
+The osu! World Cup 2025 offered a $10,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2025 offers a $10,000 cash prize pool and limited-edition mer
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/owc2025-badge-1st.png "OWC 2025 winner badge") ![](img/owc2025-badge-2nd.png "OWC 2025 2nd-place badge") ![](img/owc2025-badge-3rd.png "OWC 2025 3rd-place badge")
+
 ## Organisation
 
-The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu! World Cup 2025 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -53,6 +55,7 @@ The osu! World Cup 2025 is run by the [osu! team](/wiki/People/osu!_team) and va
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=SI }:: [\- Arisu \-](https://osu.ppy.sh/users/33795284), ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=US }:: [\[celes\]](https://osu.ppy.sh/users/9108428), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=GB }:: [Amphy](https://osu.ppy.sh/users/10762223), ::{ flag=US }:: [Antlion](https://osu.ppy.sh/users/23944286), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=MY }:: [bruh\_shen](https://osu.ppy.sh/users/20581305), ::{ flag=US }:: [CMDR Saturn](https://osu.ppy.sh/users/22001295), ::{ flag=PH }:: [Creameries](https://osu.ppy.sh/users/15851364), ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=UA }:: [dimavh](https://osu.ppy.sh/users/15056040), ::{ flag=CA }:: [Enkrypton](https://osu.ppy.sh/users/5178122), ::{ flag=DE }:: [Herazu](https://osu.ppy.sh/users/19857248), ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366), ::{ flag=MY }:: [HiROdoge](https://osu.ppy.sh/users/15251809), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=BR }:: [Jhown](https://osu.ppy.sh/users/14772488), ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233), ::{ flag=FR }:: [Kheops](https://osu.ppy.sh/users/18607342), ::{ flag=MY }:: [Kourihase](https://osu.ppy.sh/users/13298982), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=CA }:: [Kylerius](https://osu.ppy.sh/users/10253968), ::{ flag=FR }:: [Kyuare](https://osu.ppy.sh/users/2705312), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942), ::{ flag=FR }:: [Mimiliaa](https://osu.ppy.sh/users/7117621), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=IE }:: [naraicat](https://osu.ppy.sh/users/6419788), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601), ::{ flag=ID }:: [RianaRei](https://osu.ppy.sh/users/30314534), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=US }:: [sardines](https://osu.ppy.sh/users/16247587), ::{ flag=DE }:: [ShiohriMyHero](https://osu.ppy.sh/users/15882740), ::{ flag=NZ }:: [sooky](https://osu.ppy.sh/users/8397914), ::{ flag=SG }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534), ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
 | Tournament design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799) |
+| News team | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | Content producers | [D I O](https://www.youtube.com/@dios_dong), [n3rdiness](https://www.youtube.com/@n3rdiness), [Pepper Crab](https://www.youtube.com/@PepperCrabOsu) |
 | Musician | [BlackY](https://osu.ppy.sh/beatmaps/artists/150), [Cansol](https://osu.ppy.sh/beatmaps/artists/407), [cygnus](https://osu.ppy.sh/beatmaps/artists/359), [ELFENSJóN](https://osu.ppy.sh/beatmaps/artists/69), [gladde paling](https://linktr.ee/gladdepaling), [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Imperial Circus Dead Decadence](https://osu.ppy.sh/beatmaps/artists/35), [Marmalade butcher](https://osu.ppy.sh/beatmaps/artists/220), [MEMODEMO](https://soundcloud.com/MEMODEMO), [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430), [Mili](https://osu.ppy.sh/beatmaps/artists/331), [steelplus / HAGANE](https://steelplus.bandcamp.com), [t+pazolite](https://osu.ppy.sh/beatmaps/artists/396), [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 
@@ -61,7 +64,7 @@ Group leaders denoted in **bold**.
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1QM6MUJzZFW-mtD7r1ExRBQOCjs2eWoOmWNDDG-n2PHE?rm=minimal)**
-- [Weekly statistics sheets](https://drive.google.com/drive/folders/1HBibLBldvKv5ig2WXpEfq5n6t8GotWDa)
+- [Weekly statistics](https://drive.google.com/drive/folders/1HBibLBldvKv5ig2WXpEfq5n6t8GotWDa) / [overall statistics](https://docs.google.com/spreadsheets/d/1Ho40YG74D_GyVTaL5Orcwak2kt_fAoLAEih7SzlYb8s?rm=minimal)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2133817)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/52)
@@ -142,22 +145,9 @@ Captains are denoted in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a667d40bbd88942cd98926e839de5d37).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 13 December 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 45 | United States ::{ flag=US }:: | ::{ flag=AU }:: Australia | [Dec 13 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251213T040000&p1=1440&p2=263&p3=57) | [osulive](https://twitch.tv/osulive) | [^lbf-match] |
-| SM-a | Grand Finals | showmatch | [Dec 13 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251213T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
-### Sunday, 14 December 2025
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 46b | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Dec 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T120000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| 46a | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Dec 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T190000&p1=1440&p2=262&p3=263) | [osulive](https://twitch.tv/osulive) | [^gf-match] |
-| SM-b | Grand Finals | showmatch | [Dec 14 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20251214T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+![](img/owc2025-podium.jpg "OWC 2025 podium")
 
 ## Mappools
 
@@ -367,6 +357,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a66
   3. [Susumu Hirasawa - Niwashi King (an3) \[:steamhappy:\]](https://osu.ppy.sh/beatmapsets/2451796#osu/5355995)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ahCmJLUswfIIDXgOSYOrAFB6bJlzBZG76HMANzyD7Ds?rm=minimal).
+
+Saturday, 13 December 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 45 | **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120062857) | [#1](https://www.twitch.tv/videos/2642591487) |
+| SM | Grand Finals | 7 | 7 | showmatch | [#1](https://osu.ppy.sh/community/matches/120077197) | [#1](https://www.twitch.tv/videos/2643897931) |
+
+Sunday, 14 December 2025:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 46a | Poland ::{ flag=PL }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/120078133) | [#1](https://www.twitch.tv/videos/2644048589) |
+| 47 | United States ::{ flag=US }:: | 3 | **7** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/120078716) | [#1](https://www.twitch.tv/videos/2644048589?t=1h17m8s) |
 
 ### Finals
 
@@ -965,6 +973,3 @@ The final bracket configuration will be as follows:
 [^groups-seed]: Qualifier seeding. Used as the second tiebreaker for the group
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^lbf-match]: Losers bracket Finals match
-[^gf-match]: Grand Finals match – final matchup depends on the preceding losers bracket Finals match
-[^showmatch]: Grand Finals showmatch (OWC playtesters) – final matchup depends on the preceding losers bracket Finals match

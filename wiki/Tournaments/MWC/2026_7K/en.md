@@ -166,8 +166,7 @@ Group leaders denoted in **bold**.
    2. The **roll loser bans one beatmap**, followed by a ban from **roll winner**.
    3. The **roll winner picks** the first beatmap of the match.
    4. After bans are decided, both teams will take turns picking a beatmap from the mappool. **After a specific number of maps is picked**, captains will once again use `!roll`, after which the **roll winner will ban one beatmap first**, **followed by the roll loser banning one beatmap**. The phase in which the second bans take place varies according to the tournament stage as follows:
-   - Round of 32 and Round of 16: After the fourth map is played 
-   - Quarterfinals and Semifinals: After the fifth map is played
+   - Round of 32, Round of 16, Quarterfinals, and Semifinals: After the fourth map is played
    - Finals and Grand Finals: After the sixth map is played
 4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:

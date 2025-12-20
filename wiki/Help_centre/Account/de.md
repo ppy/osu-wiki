@@ -24,6 +24,8 @@ tags:
   - Löschung
   - Flagge ändern
   - Falsche Flagge
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Account
