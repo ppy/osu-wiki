@@ -4,7 +4,7 @@ title: "BN Mentorship: Cycle 6 Sign-ups Open"
 date: 2025-12-21 10:00:00 +0000
 ---
 
-It's that time of the year again! Your go-to place to get learn the ropes of being a Beatmap Nominator is here once again, one last time this year.
+It's that time of the year again! Your go-to place to get learn the ropes to become a Beatmap Nominator is here once again, one last time this year.
 
 ![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
