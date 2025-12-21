@@ -26,7 +26,7 @@ Below you'll find a list of mentors for the available game modes, alongside thei
 | ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | UTC+1 |
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | UTC+2 |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) | UTC+3 |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) & ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | UTC+4 - UTC+8 |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) & ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | UTC+4 & UTC+8 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | UTC+1 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) & ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) | UTC-5 |
 
