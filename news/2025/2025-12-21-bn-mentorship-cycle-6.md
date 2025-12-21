@@ -8,7 +8,7 @@ It's that time of the year again! Your go-to place to get learn the ropes to bec
 
 ![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
-For the unitiated, this is the 6th cycle of the BN Mentorship Program, an ongoing project led by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) in order to facilitate the learning process for any up-and-coming modders who wish to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
+For the uninitiated, this is the 6th cycle of the BN Mentorship Program, an ongoing project led by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) in order to facilitate the learning process for any up-and-coming modders who wish to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
 This time around, **we are also reopening the osu! side of mentorship**, which was paused for the previous cycle, alongside some minor reworks on how direct additions work. This means all modes are welcome to get in and learn!
 
