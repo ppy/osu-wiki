@@ -1472,9 +1472,9 @@ Notes:
 
 ![](img/score-pp.png)
 
-| Versions |  Animatable  | Beatmap Skinnable | Blend Mode |  Origin  | Suggested SD Size |
-| :------: | :----------: | :---------------: | :--------: | :------: | :---------------: |
-|   All    | ![No][false] |   ![Yes][true]    |   Normal   | (Varies) |         -         |
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
 
 Notes:
 
