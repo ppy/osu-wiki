@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: e6b303766ae7d7ea29c4eab6fe2de73199593193
 ---
 
 # Izin penggunaan konten
