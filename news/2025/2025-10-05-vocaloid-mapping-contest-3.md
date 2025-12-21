@@ -54,9 +54,9 @@ Full rules, judging criteria, and song downloads are available on the [contest w
 | PARALLEL submission deadline | November 13, 2025 (23:59 UTC) |
 | Screening | November 14 – November 15, 2025 |
 | SWAP submission deadline | December 7, 2025 (23:59 UTC) |
-| SWAP results stream | December 21, 2025 (18:00 UTC) |
-| DUET submission deadline | February 22, 2026 (23:59 UTC) |
-| DUET results stream | March 15, 2026 (23:59 UTC) |
+| SWAP results stream | January 4, 2026 (18:00 UTC) |
+| DUET submission deadline | March 8, 2026 (23:59 UTC) |
+| DUET results stream | March 29, 2026 |
 
 Results will be streamed live with commentary on the [*Vocaloid Appreciation Team* Twitch channel](https://www.twitch.tv/vocaloidappreciationteam), and posted afterwards on YouTube.
 
