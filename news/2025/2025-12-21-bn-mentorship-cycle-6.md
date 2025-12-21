@@ -4,13 +4,13 @@ title: "BN Mentorship: Cycle 6 Sign-ups Open"
 date: 2025-12-21 10:00:00 +0000
 ---
 
-It's that time of the year again! Your go-to place to get learn the ropes to become a Beatmap Nominator is here once again, one last time this year.
+It's that time of the year again! Your go-to place to learn the ropes to become a Beatmap Nominator is back for one final time this year.
 
 ![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
 For the uninitiated, this is the 6th cycle of the BN Mentorship Program, an ongoing project led by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) in order to facilitate the learning process for any up-and-coming modders who wish to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
-This time around, **we are also reopening the osu! side of mentorship**, which was paused for the previous cycle, alongside some minor reworks on how direct additions work. This means all modes are welcome to get in and learn!
+This time around, **we are also reopening the osu! side of mentorship**, which was paused for the previous cycle, alongside some minor reworks to how direct additions work. This means all modes are welcome to get in and learn!
 
 Mentorship cycles last around 2 months, with this cycle being planned to run from **START_MONTH START_DAY 2026** to **END_MONTH END_DAY 2026**.
 
