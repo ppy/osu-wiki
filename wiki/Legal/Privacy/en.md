@@ -12,7 +12,7 @@ In addition to this policy, please also make sure to visit and understand our [T
 
 osu! is run by an Australian entity (ppy Pty Ltd), with the majority of servers operating from the United States.
 
-osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, replay comments.
+osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, and replay comments.
 
 In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possible in every aspect of running osu!, and this privacy policy should bring us even closer to that goal.
 
@@ -40,7 +40,7 @@ When building up your user profile (which is publicly visible to all other users
 - Your current location
 - Your interests
 - Your occupation
-- Your social media presence (twitter, discord, skype, website)
+- Your social media presence (Twitter, Discord, website)
 - Your avatar and profile cover images
 - Your signature
 
@@ -48,13 +48,13 @@ All the above fields are publicly visible but can be withdrawn immediately and p
 
 ### On uploading user submitted content
 
-When posting on the forums, participating in chat or uploading content to our service such as a beatmap, you are expressly publicising all submitted content. In most cases, it can be edited and deleted after submission at your discretion, but in certain sometimes this functionality may be locked to maintain relevance and provisioning of service to our user base.
+When posting on the forums, participating in chat or uploading content to our service such as a beatmap, you are expressly publicising all submitted content. In most cases, it can be edited and deleted after submission at your discretion, but in certain cases, this functionality may be locked to maintain relevance and provisioning of service to our user base.
 
-As an example, if you upload a beatmap and it is "ranked", it becomes the basis for the user base at large to achieve scores on. At this point the option to delete a submission will be revoked.
+As an example, if you upload a beatmap and it is "ranked", it becomes the basis for the user base at large to achieve scores on. At this point, the option to delete a submission will be revoked.
 
 ### On logging in to the game client
 
-When connecting to our service from the osu! game client, a client-specific string is submitted to help us identify your current play environment. It is created based off a combination of identifiers from your hardware and software configuration and hashed in such a way that it contains no personally identifiable information, but can be used to track your access across logins to our service.
+When connecting to our service from the osu! game client, a client-specific string is submitted to help us identify your current play environment. It is created based on a combination of identifiers from your hardware and software configuration and hashed in such a way that it contains no personally identifiable information, but can be used to track your access across logins to our service.
 
 The main purpose of this is to maintain a fair ranking system and help us enforce account security should your account be accessed from a compromised location. This is considered private and only stored as long as it is deemed relevant. It is also non-transferable, and has no meaning outside the osu! ecosystem.
 
@@ -66,7 +66,7 @@ When completing a game session (passing or failing a beatmap), details on your p
 
 osu! contains executable code that is used to detect the usage of cheat software. The aim of osu!'s anti-cheat is to maintain a fair and competitive gaming environment for all players, while not affecting gameplay performance or user privacy.
 
-- Cheat detection occurs on your device and no unnecessary data is sent to our server during the detection process.
+- Cheat detection occurs on your device, and no unnecessary data is sent to our server during the detection process.
 - If the anti-cheat determines you are cheating, then this fact in addition to proof in the form of diagnostics and metadata are sent to our servers for verification. If you are not cheating, no anti-cheat data will be transmitted.
 - Even on detection, a best effort attempt is made to never send any information outside of the osu! ecosystem which could be used to personally identify you.
 - Transmitted metadata is only retained on our server for the duration it is useful. This is generally hours to days while we analyse the reported content.
@@ -89,14 +89,14 @@ We may share your personal data with third parties in very specific cases:
 - Where you have expressly made information public
 - To fulfil your store orders
 - To process payments via payment processing providers like Paypal and Xsolla
-- To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
+- To process your customer service tickets, (we use [Enchant](https://enchant.com))
+- In order to improve our service via error logging, (we use [Sentry](https://sentry.io))
 
 ## Your rights and control
 
-As a user you have the right to migrate, update or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In cases you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
+As a user, you have the right to migrate, update, or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In case you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
 
-In many cases, user submissions such as forum posts and beatmaps can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
+In many cases, user submissions, such as forum posts and beatmaps, can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
 
 You have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect".
 
