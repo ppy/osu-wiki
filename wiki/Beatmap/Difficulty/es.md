@@ -65,7 +65,7 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 
 Desde el 27 de julio de 2021, el sitio web de osu! asigna automáticamente un color al nivel de dificultad de un beatmap según su calificación por estrellas, de acuerdo con el siguiente espectro:
 
-![Espectro de colores de la calificación de dificultad de osu!](/wiki/shared/star-rating/spectrum-ES.png)
+![Espectro de colores de la calificación de dificultad de osu!](img/spectrum-ES.png)
 
 En algunos casos, como [AIMod](/wiki/Client/Beatmap_editor/AiMod), la dificultad se clasifica en seis rangos de nivel según la calificación por estrellas de la siguiente manera:
 
