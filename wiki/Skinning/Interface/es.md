@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: fff05b2e9de482aa8c120458641e0492c88568b2
----
-
 # Skinning de la interfaz
 
 *Véase también: [Interfaz](/wiki/Client/Interface)*
@@ -1470,6 +1465,21 @@ Notas:
 - El modo de mezcla varía:
   - Si se usa para el contador del combo:
     - Aditivo para las imágenes posteriores a la expansión.
+
+---
+
+`score-pp.png`
+
+![](img/score-pp.png)
+
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | - |
+
+Notas:
+
+- Este elemento solo está disponible en [Lazer](/wiki/Client/Release_stream/Lazer).
+- Este elemento es para los [puntos de rendimiento](/wiki/Performance_points).
 
 ## Grados
 
