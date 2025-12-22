@@ -222,7 +222,7 @@ Ranging from mid 6 stars to a daredevil level of 9.9 stars, if you're ready for 
 105 BPM, 3:05 | 5.53★\
 *description written by [chmekoe](https://osu.ppy.sh/users/7807444)*
 
-From the studio that brought you "[sasakure.UK - Ruins \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)", a new low scroll speed challenge by [HiroK](https://osu.ppy.sh/users/4050738) is here!
+From the studio that brought you "[sasakure.UK - Ruins [Golden Flowers]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)", a new low scroll speed challenge by [HiroK](https://osu.ppy.sh/users/4050738) is here!
 
 [t+pazolite - Seedy Try](https://osu.ppy.sh/beatmapsets/816696#taiko) is finally being nominated for Loved, with a special edition which not only includes a brand-new online leaderboard, but also a special figure from the OSU!TAIKO BRAZIL™ series of collectable toys. You might find the Golden Skid if you're lucky enough!
 
@@ -236,7 +236,7 @@ You can play this beatmap RIGHT NOW for FREE, with the special edition including
 240 BPM, 3:57 | 9.39★\
 *description written by [chmekoe](https://osu.ppy.sh/users/7807444)*
 
-[Katagiri - Taboo Assembly](https://osu.ppy.sh/beatmapsets/1632872#taiko) is a 240 BPM map filled to the brim with 1/6, sv and streams, made by non other than [7\_7](https://osu.ppy.sh/users/7491106), a very familiar face when it comes to breakcore and bursts in the loved section.
+[Katagiri - Taboo Assembly](https://osu.ppy.sh/beatmapsets/1632872#taiko) is a 240 BPM map filled to the brim with 1/6, sv and streams, made by non other than [7_7](https://osu.ppy.sh/users/7491106), a very familiar face when it comes to breakcore and bursts in the loved section.
 
 This dopamine rush of a marathon map was custom mapped for [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021) and is one of the most memorable picks of the Grand Finals pool.
 
@@ -280,7 +280,7 @@ Pomegranate is great fun and a challenge truly deserving of a late-stage tiebrea
 350 BPM, 3:49 | 5.02★, 8.66★\
 *description written by [Roxy-](https://osu.ppy.sh/users/11931563)*
 
-Hello. It's time for everyone's favorite Speed Map! This time, we're introducing [TrySail - Adrenaline!!! (J-Core Remix)](https://osu.ppy.sh/beatmapsets/674549#taiko/1427256) made by [\_mp1506](https://osu.ppy.sh/beatmapsets/674549#taiko/1427256)!!
+Hello. It's time for everyone's favorite Speed Map! This time, we're introducing [TrySail - Adrenaline!!! (J-Core Remix)](https://osu.ppy.sh/beatmapsets/674549#taiko/1427256) made by [_mp1506](https://osu.ppy.sh/beatmapsets/674549#taiko/1427256)!!
 
 If you're a fan of Speed Maps, you've probably heard of this one! This is a 350 BPM double-BPM map where a storm of 1/4 patterns will hit you hard! The notes density is high, but the patterns are relatively easy to hit, making it a good practice map for speed maps!
 
@@ -306,7 +306,7 @@ So, are you ready to take on Skopje's Final Boss? You didn't get it from me, but
 180 BPM, 2:16 | 7.45★\
 *description written by [nevqr](https://osu.ppy.sh/users/14269506)*
 
-[The Map](https://osu.ppy.sh/beatmapsets/1850669#taiko) is **[i]THE[/i]** map that should be familiar to everyone who has a taste for difficult tech maps.
+[The Map](https://osu.ppy.sh/beatmapsets/1850669#taiko) is ***THE*** map that should be familiar to everyone who has a taste for difficult tech maps.
 
 Originally mapped for the [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022), the map has some of the most ridiculous, unique tech patterns and colouring. *The Map* is a very eerie and atmospheric song, and [uone](https://osu.ppy.sh/users/5321719) absolutely nails the song rendition to a tee. Prepare to have your eyes glued to your monitor: one mistake in the map and it's all over.
 
