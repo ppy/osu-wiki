@@ -58,9 +58,9 @@ Informationen über den Status deiner Turniersperre können Turnierveranstaltern
 
 Veranstalter werden auf Probe gesetzt, wenn sie die [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support) in einer Weise verletzen, die nach dem Ende des Turniers nicht durch Kommunikation mit dem Veranstalter korrigiert werden kann. Wenn ein Nutzer auf Probe gesetzt wird, wird das nächste Turnier, das von diesem Nutzer organisiert wird und sich auf offizielle Unterstützung bewirbt, während und nach seinem Ablauf gründlich durch das Turnierkomitee kontrolliert. Kleine Fehler, die sonst durch Kontaktaufnahme mit dem Veranstalter gelöst würden, führen stattdessen zu einer Verlängerung der Probezeit. Erhebliche Verletzungen der offiziellen Unterstützungsregeln während der Probezeit führen nach dem Ermessen des Turnierkomitees zu einem [Veranstaltungsverbot](#veranstaltungsverbote) oder schwerwiegenderen Strafen.
 
-Die Probezustand einer Veranstalter kann aufgehoben werden, indem dieser eine Turnier mit **keine** Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support) organisiert. Dies beinhaltet auch kleine Probleme, die eine Email an der Veranstalter benötigen, um korrigiert zu werden. Beispiele derartige Fehler inkludieren:
+Die Probezeit eines Veranstalters kann aufgehoben werden, indem dieser ein Turnier mit **keinen** Verletzungen der [offiziellen Unterstützungsregeln](/wiki/Tournaments/Official_support) organisiert. Dies beinhaltet auch kleine Probleme, die zur Behebung eine E-Mail an den Veranstalter benötigen. Beispiele derartiger Fehler sind:
 
-- Fehlende Aushelfer auf die Liste im Forumbeitrag
+- Fehlende Aushelfer auf der Liste im Forumsbeitrag
 - Nichtveröffentlichung von Ergebnissen der Qualifikationsrunde
 - Nichtaktualisierung von öffentlichen Listen mit Spielergebnissen
 - Sonstige ähnliche einfache Probleme
