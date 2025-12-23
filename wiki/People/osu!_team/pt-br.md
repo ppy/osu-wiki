@@ -39,24 +39,24 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Desenvolvedor do osu!, suporte técnico |
 | ::{ flag=UK }:: [Tanza](https://osu.ppy.sh/users/10379965) | Designer |
 | ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) | Desenvolvedor da infraestrutura do osu! |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, suporte de torneio e O OPERADOR
-| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Faxineiro geral, varredor de vassoura
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, suporte de torneio e O OPERADOR |
+| ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Faxineiro geral, varredor de vassoura |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [Moderador](https://osu.ppy.sh/wiki/en/People/Global_Moderation_Team) e gerente do [Beatmap Spotlights](https://osu.ppy.sh/wiki/en/Beatmap_Spotlights) |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Mantenedor da wiki](https://osu.ppy.sh/wiki/en/People/osu%21_wiki_maintainers) e editor de notícias 
-| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espécie ameaçada de extinção
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Mantenedor da wiki](https://osu.ppy.sh/wiki/en/People/osu%21_wiki_maintainers) e editor de notícias |
+| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espécie ameaçada de extinção |
 
 ## Membros do time principal inativos
 
 | Nome | Função |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Faxineiro geral e ajudante, artista chibi |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderador](https://osu.ppy.sh/wiki/en/People/Global_Moderation_Team) e consultor da comunidade
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderador](https://osu.ppy.sh/wiki/en/People/Global_Moderation_Team) e consultor da comunidade |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Designer de audio, [Artista em Destaque](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Desenvolvedor do [storyboard](https://osu.ppy.sh/wiki/en/Storyboard)
+| ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Desenvolvedor do [storyboard](https://osu.ppy.sh/wiki/en/Storyboard) |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | Artista do osu! |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Organizador e administrador da World Cup |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Faxineiro geral, gerente de comunidade |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) [Moderador](https://osu.ppy.sh/wiki/en/People/Global_Moderation_Team)
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) [Moderador](https://osu.ppy.sh/wiki/en/People/Global_Moderation_Team) |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Desenvolvedor do osu!, provedor da integração de protocolo IRC para o chat dentro do jogo, mantenedor do site. [Blog](http://blog.echo.sh/) |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/431) | Mantenedor da comunidade, do projeto e divulgador dos [Artistas em Destaque](https://osu.ppy.sh/wiki/en/People/Featured_Artists)
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Host do osu! Coffee Hour, streamer da World Cup, organizador de torneios |
