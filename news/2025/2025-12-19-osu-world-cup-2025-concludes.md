@@ -364,7 +364,7 @@ The Yap Cost [returns from 2024](https://osu.ppy.sh/home/news/2024-12-14-osu-wor
 
 ::{#mint}::
 
-INSERT MINT BANNER
+![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/-mint-.png)
 
 Many in the community know [-mint-](https://osu.ppy.sh/users/8976576) for her contributions as the mappooler and advisor for MWC 4K, where she has helped shape the competitive side of World Cups. This year, she also played a key role in the production of osu! originals by taking on the responsibility of translating Japanese lyrics into English. Her involvement this year includes [Veil of Ash](https://www.youtube.com/watch?v=1a8kmvlpSj4) from CWC Quarterfinals tiebreaker, [Hexen Noir](https://www.youtube.com/watch?v=_aiV-u_bMf4) from OWC Semifinals tiebreaker, and of course, OWC Grand Finals tiebreaker [Yuuaku no Inori - Anima immortalis est. -](https://www.youtube.com/watch?v=d5b9JtprsV8). For anyone who's interested in taking a closer look at these fully singable English lyrics, the translation of all three songs can [be found in this sheet](https://docs.google.com/spreadsheets/d/1BXGf97ivzVmNf_OowDBDFEh9MiT1bOno7eyvf60naCQ).
 
@@ -466,7 +466,7 @@ Overall though, I think I'm still largely influenced by the Japanese vocal music
 
 ::{#iyouka}::
 
-INSERT IYOUKA BANNER
+![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/Iyouka.png)
 
 If anyone is a jack of all trades on the World Cup design team, it's Iyouka. Over the past two years, Iyouka has taken on every creative role across osu! original designs. He has worked on illustration, graphic design, storyboarding, and is mostly known for his visual effects work on video showcases. His contributions span over a dozen World Cup projects, including the Grand Finals tiebreaker [Yuuaku no Inori - Anima immortalis est. -](https://youtu.be/d5b9JtprsV8).
 
@@ -568,7 +568,7 @@ By the end of this year, I've achieved many things that I never thought would be
 
 A well-earned congratulations is due to Poland on a long-awaited return to glory. After toiling through roster changes and meta changes for 7 years following their win all the way back in 2017, their efforts finally paid off as they became the third country to win multiple osu! World Cup titles. Thank you to them and the rest of the teams in this year’s tournament for putting on an unforgettable iteration of OWC, and additional thanks go out to the entire tournament staff for the countless hours put in to make this event happen. Finally, thank you to the viewers, the readers, and everyone else who joined us for another amazing year of World Cups. Without you all, none of this would be possible.
 
-INSERT CREDITS IMAGE
+![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/owc2025-credits.png)
 
 Next up, the 2026 World Cup season gets under way with the [osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K)! Registrations are already open and qualifiers take place in just a few short weeks, so if VSRG gameplay is your jam, make sure to stay tuned for all the action!
 
