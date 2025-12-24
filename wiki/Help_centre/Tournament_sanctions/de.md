@@ -81,7 +81,7 @@ Eine Aushilfssperre verhindert es einem Nutzer, in offiziellen oder offiziell un
 
 ## Kann ich gegen eine Turniersanktion eine Beschwerde einreichen? {id=appeal}
 
-Gegen Turniersanktionen, die nicht über die üblichen Beschwerdebedingungen verhängt worden sind, können Beschwerden innerhalb von 72 Stunden eingereicht werden. Nach dieser Frist können keine Beschwerden gegen Turniersanktionen außer unbefristete Turniersperren eingereicht werden.
+Gegen Turniersanktionen, die nicht in Kombination mit den [üblichen Beschwerdebedingungen](/wiki/Help_centre/Account_restrictions#appeal-granted) verhängt worden sind, können Beschwerden innerhalb von 72 Stunden eingereicht werden. Nach Ablauf dieser Frist dürfen, mit der Ausnahme von unbefristeten Turniersperren, keine Beschwerden gegen Turniersanktionen eingereicht werden.
 
 Gegen unbefristete Turniersperren dürfen Beschwerden eingereicht werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung der Beschwerde muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit der letzten Beschwerde warten, bevor die Sperre erneut angefochten werden kann.
 
