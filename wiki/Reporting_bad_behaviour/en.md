@@ -21,6 +21,8 @@ For anything else, see the instructions below.
 
 ### The !report command
 
+*Caution: Reporting bad behaviour via the `!report` command **does not work** in osu!(lazer), and such messages will be visible to everyone! In order to report a user misbehaving in chat via osu!(lazer), see [Chat reporting in osu!(lazer)](#lazer-report).*
+
 ![](img/report-command.jpg "Example of using the !report command")
 
 Chat misbehaviour is the most common infringement. To report it, use [the `!report` command](https://osu.ppy.sh/community/forums/topics/34843), preferably in the channel where the infringement(s) took place. Don't feel stressed: if your message starts with `!report` and a space, **it is only visible to moderators** and no one else in the chat. You can also use the report function via the [in-game overlay](#in-game-overlay) as depicted below if you are still concerned.
@@ -38,7 +40,7 @@ If there are spaces in the username, replace them with underscores:
 !report bad_user spamming in #osu
 ```
 
-### In-game overlay
+### In-game overlay in osu!(stable) {id=stable-reports}
 
 ![](img/report-user-1.png "User action menu with the report button")
 
@@ -46,8 +48,17 @@ If there are spaces in the username, replace them with underscores:
 
 This option works if the offending user is in sight:
 
-1. Click their username and press the red button titled `Report User...`
+1. Click their username and press the red button titled `Report User...`.
 2. Select the category and add details (optional).
+
+### Chat reporting in osu!(lazer) {id=lazer-reports}
+
+![](img/lazer-report-1.png "Chat action menu with the report dialog")
+
+![](img/lazer-report-2.png "In-game report dialog")
+
+1. Right click the offending user's username and press the red button titled `Report`.
+2. Select the category and add details (optional unless the chosen category is `Other (type below)`).
 
 ## Website
 
