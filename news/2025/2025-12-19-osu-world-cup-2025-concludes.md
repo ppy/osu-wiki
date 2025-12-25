@@ -155,6 +155,8 @@ In case you missed any previous weeks, here's a little refresher of all the prev
 
 Amidst all the chaos and action, the osu! World Cup 2025 also brought in 14 brand-new tracks to join the ever-growing catalogue of [osu! originals](/wiki/Community/Bespoke_music)!
 
+Fans of osu's expansive list of genres will discover something for everyone: whether it's a well-known rhythm game producer like t+pazolite's "Gumbarlzo!" at the helm or the over-the-top metal represented by Grand Finals tiebreaker "Yuuaku no Inori - Anima immortalis est. -" by Imperial Circus Dead Decadence, this year's lineup of originals highlight an incredible variety of song choices complete with all-new original backgrounds, storyboards, and videos expertly crafted by the talented team behind the World Cups.
+
 ### Group Stage
 
 [![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/showoff_showdown_banner.jpg)](https://osu.ppy.sh/beatmapsets/2455348#osu/5365995)
