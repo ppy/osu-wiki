@@ -141,7 +141,7 @@ After a straightforward U.S. victory on [DT4](https://osu.ppy.sh/beatmapsets/247
 
 ## Match highlights
 
-In case you missed any previous weeks, here's a little refresher of all the previous matches that earned themselves a highlight in the osu World Cup 2025!
+In case you missed any previous weeks, here's a little refresher of all the previous matches that earned themselves a highlight in the osu! World Cup 2025!
 
 | Match | Stage | Links |
 | :-- | :-- | :-- |
