@@ -21,6 +21,8 @@ For the last time this year, [D I O](https://osu.ppy.sh/users/3958619)'s video i
 
 ![](/wiki/Tournaments/OWC/2025/img/owc2025-podium.jpg "OWC 2025 podium")
 
+Congratulations to ::{ flag=PL }:: Poland for being the third country to win the osu! World Cup multiple times, repeating their Grand Finals victory over the ::{ flag=US }:: United States all the way back in 2017. Rounding out the podium at 3rd place is ::{ flag=AU }:: Australia with their third top 3 finish in a row.
+
 ## Mappool recap
 
 <style>
