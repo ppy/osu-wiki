@@ -134,7 +134,7 @@ El comité de torneos recurre con frecuencia a votaciones para tomar decisiones 
 
 ## Duración de los vetos de los torneos
 
-Las duraciones comunes de los vetos de los torneos se pueden encontrar en la página de la wiki [Sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions#reasons).
+Las duraciones comunes de los vetos de los torneos se pueden encontrar en la página de la wiki [sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions#reasons).
 
 ## Preguntas frecuentes
 
