@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Krimek"
 date: 2025-05-04 21:00:00 +0000
+series: featured_artists
 ---
 
 From a regular in osu!'s [music production scene](/wiki/Community/Bespoke_music) to one of osu!'s Featured Artists, **Krimek** returns with a new batch of tracks!

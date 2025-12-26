@@ -2,6 +2,7 @@
 layout: post
 title: Beatmap Spotlights Spring 2022 Conclusion & Players' Pick Voting
 date: 2022-07-28 17:00:00 +0000
+series: beatmap_spotlights
 ---
 
 The Spring 2022 season of the Beatmap Spotlights has come to an end⁠ — come check out the top 50 for each game mode, and vote on your favourite beatmaps from the season! Join us on the Summer 2022 season launch livestream as well.

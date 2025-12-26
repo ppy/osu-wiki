@@ -2,6 +2,7 @@
 layout: post
 title: "Fantasy World Art Contest: Voting Open"
 date: 2025-06-28 07:00:00 +0000
+series: fanart_contests
 ---
 
 While our osu! mascots are having extravagant adventures, it's *your* duty to decide which portrayals of them are the most splendid!

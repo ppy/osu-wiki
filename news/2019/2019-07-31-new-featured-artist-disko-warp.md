@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Disko Warp"
 date: 2019-07-31 11:00:00 +0000
+series: featured_artists
 ---
 
 Coming straight at you from 2004, [**Disko Warp**](https://osu.ppy.sh/beatmaps/artists/44) blasts into the Featured Artist lineup!

@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: August 2022"
 date: 2022-08-21 00:00:00 +0000
+series: project_loved
 ---
 
 Grab a seat, and get ready for some epic Loved nominations!

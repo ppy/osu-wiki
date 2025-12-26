@@ -3,6 +3,7 @@ layout: post
 title: "New Featured Artist: Fractal Dreamers"
 date: 2017-06-02 12:45:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161358080313/new-featured-artist-fractal-dreamers
+series: featured_artists
 ---
 
 Descend into the Kingdom of Silence with the latest talent to join the Featured Artist roster - the **Fractal Dreamers**!

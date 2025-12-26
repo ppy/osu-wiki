@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2024: Quarterfinals Recap"
 date: 2024-11-20 23:59:00 +0000
+series: world_cups
 ---
 
 Another week has passed and another elimination round is over. Read on for the most exciting matchups, the teams leaving the world cup stage, and where the pick'ems crumbled.

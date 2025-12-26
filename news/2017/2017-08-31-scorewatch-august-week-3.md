@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: August Week 3"
 date: 2017-08-31 09:00:00 +0000
+series: scorewatch
 ---
 
 Scorewatch is back with more crazy plays from the community! We got a 700pp score, we got Rafis domination, and we got a new osu!catch number one! Are you as excited as we are? Read on!

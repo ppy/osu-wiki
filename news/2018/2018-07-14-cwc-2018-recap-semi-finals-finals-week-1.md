@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2018: Semi Finals & Finals Week 1 Recap"
 date: 2018-07-14 17:00:00 +0000
+series: world_cups
 ---
 
 A double-header of news and reviews from the osu!catch World Cup 2018 this week – which three teams clinched their crucial places in Finals Week 2, and when is it all coming to a head? All the information you need is right here!

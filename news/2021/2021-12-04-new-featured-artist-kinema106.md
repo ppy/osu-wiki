@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: KINEMA106"
 date: 2021-12-04 09:00:00 +0000
+series: featured_artists
 ---
 
 Dive into a crowd of *Kantai Collection*-inspired tracks created by **KINEMA106**, our newest Featured Artist!

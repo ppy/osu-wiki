@@ -2,6 +2,7 @@
 layout: post
 title: osu! t-shirts (and a hoodie)
 date: 2025-10-03 17:15:00 +0000
+series: merch_runs
 ---
 
 You're obviously an osu! player, but do your friends know? Do your neighbors know? Does every person you pass on the street know? If you wear a new osu! t-shirt (or an osu! hoodie), they will.

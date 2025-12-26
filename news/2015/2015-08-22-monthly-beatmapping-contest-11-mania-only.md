@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #11 - Mania Only"
 date: 2015-08-22 22:24:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/127344497068/monthly-beatmapping-contest-11-mania-only
+series: monthly_beatmapping_contest
 ---
 
 We just opened the submissions for the 11th Monthly Beatmapping Contest! This will be the first mania only mapping contest and with the awesome song "Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)".

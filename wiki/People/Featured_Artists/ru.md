@@ -41,7 +41,7 @@ tags:
 
 Во всех соревнованиях по маппингу, указанных на [странице конкурсов сообщества](https://osu.ppy.sh/community/contests), — например, [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) и [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), — фигурируют только песни из программы Featured Artists. Это же требование есть и в некоторых неофициальных конкурсах.
 
-Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
+Для популяризации программы Featured Artists был создан проект [Mappers' Guild](/wiki/Community/Mappers_Guild), где мапперы могут совместно поучаствовать в прохождении квестов в стиле MMORPG. За публикацию и ранкинг карт полагаются призы (включая три уровня значков для профиля). Вступить в Mappers' Guild можно на [сайте проекта](https://mappersguild.com/). Начиная с [апреля 2023 г.](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), всё, что относится к Featured Artists, можно обсудить в канале `#featured-artists` [дискорд-сервера osu!](/wiki/Community/Discord_servers#официальный).
 
 Если вы обнаружили какие-то ошибки в затаймленных файлах `.osz` из базы Featured Artists, пожалуйста, сообщите о них в [специальном треде](https://osu.ppy.sh/community/forums/topics/783985).
 
@@ -64,6 +64,7 @@ tags:
 | ::{ flag=US }:: [ERA Akiri](https://osu.ppy.sh/users/19587411) | [Akiri](https://osu.ppy.sh/beatmaps/artists/401) |
 | ::{ flag=AU }:: [aquellex](https://osu.ppy.sh/users/3137790) | [Aquellex](https://osu.ppy.sh/beatmaps/artists/380) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
+| ::{ flag=CL }:: [Akts](https://osu.ppy.sh/users/6309660) | [Akts](https://osu.ppy.sh/beatmaps/artists/513) |
 | ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (участник) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=BR }:: [BrayanKitsn](https://osu.ppy.sh/users/34744443) | [BrayanKitsn](https://osu.ppy.sh/beatmaps/artists/506) |
@@ -95,6 +96,7 @@ tags:
 | ::{ flag=AR }:: [KryDotExe](https://osu.ppy.sh/users/1229195) | [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
 | ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
+| ::{ flag=RU }:: [lexxndr](https://osu.ppy.sh/users/11789442) | [lexxndr](https://osu.ppy.sh/beatmaps/artists/510) |
 | ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=US }:: [Memodemo](https://osu.ppy.sh/users/7393582) | [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508) |
@@ -139,7 +141,9 @@ tags:
 | ::{ flag=DE }:: [WangleLine](https://osu.ppy.sh/users/7994819) | [WangleLine](https://osu.ppy.sh/beatmaps/artists/427) |
 | ::{ flag=DK }:: [water](https://osu.ppy.sh/users/11671515) | [watering](https://osu.ppy.sh/beatmaps/artists/416) |
 | ::{ flag=PH }:: [WEARY](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
+| ::{ flag=JP }:: [WhiteSakata](https://osu.ppy.sh/users/15400295) | [WhiteSakata](https://osu.ppy.sh/beatmaps/artists/512) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
+| ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (участник) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

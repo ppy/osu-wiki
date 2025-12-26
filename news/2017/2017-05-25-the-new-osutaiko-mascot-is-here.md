@@ -3,6 +3,7 @@ layout: post
 title: The new osu!taiko mascot is here!
 date: 2017-05-25 08:39:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/161051842473/the-new-osutaiko-mascot-is-here
+series: miscellaneous
 ---
 
 After almost a year in the making, the new osu!taiko mascot is finally ready to enter the scene. Say hello to **Mocha!**

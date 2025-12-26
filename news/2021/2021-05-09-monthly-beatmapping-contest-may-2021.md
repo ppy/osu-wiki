@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contests: May 2021"
 date: 2021-05-09 18:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Try your hand at this month's slow-slider-themed contest with a chance to become osu!'s next *Elite Mapper*!

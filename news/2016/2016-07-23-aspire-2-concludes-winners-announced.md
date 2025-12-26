@@ -3,6 +3,7 @@ layout: post
 title: "Aspire 2 Concludes: Winners Announced"
 date: 2016-07-23 09:07:43 +0000
 tumblr_url: http://osunews.tumblr.com/post/147838862138/aspire-2-concludes-winners-announced
+series: official_contests
 ---
 
 The judges have made their decisions, and the winner of the second Aspire contest has been declared!

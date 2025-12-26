@@ -3,6 +3,7 @@ layout: post
 title: osu!idol 2015 Sign-ups are live!
 date: 2015-07-30 18:44:57 +0000
 tumblr_url: http://osunews.tumblr.com/post/125447383718/osuidol-2015-sign-ups-are-live
+series: official_contests
 ---
 
 Ever find yourself singing along to your favourite tunes? How about taking it to the next level and showing your talent to the world? Sing your way to the top to become osu!'s next superstar!

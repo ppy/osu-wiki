@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: HyuN"
 date: 2019-02-06 08:04:00 +0000
+series: featured_artists
 ---
 
 Bursting onto the scene with the sounds of digital punk, **HyuN** joins the fray as osu!'s newest Featured Artist!

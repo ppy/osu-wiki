@@ -3,6 +3,7 @@ layout: post
 title: Commentating Circle-Clicking Competitions
 date: 2013-07-31 06:05:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56949459622/commentating-circle-clicking-competitions
+series: miscellaneous
 ---
 
 As competitions start blooming all over osu! and their popularity skyrockets, streaming matches has begun to be a major part of these tournaments. Nowadays, the biggest competitions even provide live commentary on said streams. As a commentator for both the osu! World Cup 2013 and the Taiko World Cup 2013, I will cover in this article my personal interest in commentating, how I do it and why I like it.

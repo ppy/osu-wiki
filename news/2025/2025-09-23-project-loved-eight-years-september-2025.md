@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: Eight Years / September 2025"
 date: 2025-09-23 14:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 We made it through yet another earth orbit — happy 8th birthday to Project Loved!

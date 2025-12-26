@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko World Cup 2025 Concludes
 date: 2025-05-04 14:00:00 +0000
+series: world_cups
 ---
 
 The champion has ascended to the throne once again!

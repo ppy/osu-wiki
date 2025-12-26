@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tedjimo yomigY"
 date: 2021-12-08 09:00:00 +0000
+series: featured_artists
 ---
 
 In the mood for an authentic rhythm game sound combined with jazzy bossa nova music? Our newest Featured Artist **Tedjimo yomigY** *somehow* has you covered.

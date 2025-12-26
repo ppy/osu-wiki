@@ -2,6 +2,7 @@
 layout: post
 title: "Skin of the Year 2024: Voting Open"
 date: 2025-02-11 18:00:00 +0000
+series: official_contests
 ---
 
 Let's take another look back at 2024 and pick our favourite skins to immortalise in the hall of fame!

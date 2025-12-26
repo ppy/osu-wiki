@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: T & Sugah"
 date: 2021-08-07 09:00:00 +0000
+series: featured_artists
 ---
 
 Dive into the liquid beats by our latest Featured Artist **T & Sugah**!

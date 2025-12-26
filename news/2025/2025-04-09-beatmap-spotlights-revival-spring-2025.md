@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Revival: Spring 2025"
 date: 2025-04-09 02:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Haven't heard this name for a while? Check out all the major changes to Beatmap Spotlights! This time, we are also seeking fresh blood to ensure the project can run smoothly for many seasons to come!

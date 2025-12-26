@@ -2,6 +2,7 @@
 layout: post
 title: Performance Points & Star Rating Updates
 date: 2025-10-29 15:00:00 +0000
+series: ranking_system_updates
 ---
 
 That's right, we're back again!

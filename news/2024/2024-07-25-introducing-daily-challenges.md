@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Daily Challenges
 date: 2024-07-25 01:30:00 +0000
+series: game_updates
 ---
 
 A new way to play the game!

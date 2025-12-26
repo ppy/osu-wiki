@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: takehirotei"
 date: 2024-06-29 20:00:00 +0000
+series: featured_artists
 ---
 
 It's about time **takehirotei** joined our Featured Artist collection.

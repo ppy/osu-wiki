@@ -2,6 +2,7 @@
 layout: post
 title: Fall Time Mania Mapping Contest 2025
 date: 2025-10-30 18:00:00 +0000
+series: community_contests
 ---
 
 The first iteration of FTMC is on its way with the chilly autumn air! Are you ready to start your holiday mapping?
@@ -21,8 +22,8 @@ Please note that any schedule changes will be made known in the contest's [Disco
 | Event | Dates |
 | --: | :-- |
 | Beatmapping (3.5 weeks) | October 30th – November 24th (16:00 UTC) |
-| Judging (2 weeks) | November 24th – December 8th (16:00 UTC) |
-| Results | December 15th |
+| Judging (5 weeks) | November 24th – January 1st (16:00 UTC) |
+| Results | January 3rd |
 
 Results will be made public through the Discord server as well as through a conclusion news post.
 

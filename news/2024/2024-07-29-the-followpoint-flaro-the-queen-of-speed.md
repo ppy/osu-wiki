@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Flaro, the Queen of Speed"
 date: 2024-07-29 17:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 A new top player interview just dropped. This time: speed meta opinions and the cosplay buff.

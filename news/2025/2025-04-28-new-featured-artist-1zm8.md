@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 1zm8"
 date: 2025-04-28 19:00:00 +0000
+series: featured_artists
 ---
 
 Bow before **1zm8**, the latest addition to our Featured Artists!

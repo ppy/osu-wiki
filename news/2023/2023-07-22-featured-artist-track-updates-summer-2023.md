@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Summer 2023"
 date: 2023-07-22 14:00:00 +0000
+series: featured_artists
 ---
 
 Ever considered mapping **100** songs at once? Hopefully not, but that's about how many new songs are part of our Featured Artist library.

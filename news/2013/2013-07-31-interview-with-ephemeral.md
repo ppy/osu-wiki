@@ -3,6 +3,7 @@ layout: post
 title: Interview with Ephemeral
 date: 2013-07-31 05:38:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56947685704/interview-with-ephemeral
+series: miscellaneous
 ---
 
 Ephemeral, joining the game in August of 2009, has taken an active part in the development of osu!, hitting a large amount of milestones in the game. He has made one of the game's most popular beatmaps, acted as a key role in the development of the Mapping Assistance Team (MAT), and even developed many key features in the game that are still used today! Now, he has a new role as the Community Manager. We've decided to interview him, to learn more about this well-accomplished member of this game.

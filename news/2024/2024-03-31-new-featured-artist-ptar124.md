@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: ptar124"
 date: 2024-03-31 20:50:00 +0000
+series: featured_artists
 ---
 
 osu!taiko veteran **ptar124** has gone from digital drumming to... well, still digital drumming, but with more than just Dons and Kats as our latest Featured Artist!

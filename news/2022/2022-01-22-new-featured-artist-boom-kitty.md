@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Boom Kitty"
 date: 2022-01-22 09:00:00 +0000
+series: featured_artists
 ---
 
 **Boom Kitty** pounces into our Featured Artist collection!

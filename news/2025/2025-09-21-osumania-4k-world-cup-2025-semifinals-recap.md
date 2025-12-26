@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Semifinals Recap"
 date: 2025-09-21 04:00:00 +0000
+series: world_cups
 ---
 
 While the tournament enters its final spurt, we're steadily reaching the peak of osu!mania 4K competition. Join us, as we retell this week's epic, now with an extra side of jam!

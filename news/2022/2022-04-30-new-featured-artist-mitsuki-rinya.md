@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Mitsuki / RINYA"
 date: 2022-04-30 09:00:00 +0000
+series: featured_artists
 ---
 
 **Mitsuki** (a.k.a. **RINYA**) rises to the throne as our newest Featured Artist!

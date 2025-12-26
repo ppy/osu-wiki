@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild - Winter 2025 Priority Quests
 date: 2025-11-07 19:00:00 +0000
+series: mappers_guild
 ---
 
 Once upon a time, you opened the osu! editor. Now look at how far you've come: you're exploring a niche within a niche within a niche by participating in this new batch of Mappers' Guild quests!
@@ -58,7 +59,7 @@ Rank a map from any of your [Monthly Beatmapping Contest](/wiki/Contests/Monthly
 
 If you've never made a map for the Monthly Beatmapping Contest, the next iteration will likely happen before this quest's deadline!
 
-### [Building bridges](https://mappersguild.com/missions?id=690be404c83d944d73db432c) ![gold icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/gold-small.png)
+### [Building bridges](https://mappersguild.com/missions?id=690be404c83d944d73db432c) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
 The Mappers' Guild began as a way for mappers to collaborate, and we're still sticking to that all these years later. This time however, it's with people across mode boundaries.
 

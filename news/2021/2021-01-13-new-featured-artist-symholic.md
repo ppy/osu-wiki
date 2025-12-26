@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Symholic"
 date: 2021-01-13 10:00:00 +0000
+series: featured_artists
 ---
 
 An addiction stronger than circle clicking, **Symholic** takes the stage as our latest Featured Artist!

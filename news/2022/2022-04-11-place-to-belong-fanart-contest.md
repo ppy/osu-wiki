@@ -2,6 +2,7 @@
 layout: post
 title: A Place To Belong Fanart Contest
 date: 2022-04-11 14:00:00 +0000
+series: fanart_contests
 ---
 
 Inspired by recent artistic showings in the world and beyond, the first instalment of 2022's themed fanart contests arrives in style! If you like to draw for fun and prizes, check this out!

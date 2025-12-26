@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2021 Fanart Contest Voting Open
 date: 2021-10-19 10:00:00 +0000
+series: fanart_contests
 ---
 
 The horror begins again with **150** wickedly talented submissions now up for voting, do your part and help us figure out the best of the best!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: SEBii"
 date: 2021-07-31 09:00:00 +0000
+series: featured_artists
 ---
 
 Channeling a new species of music, **SEBii** invades the Featured Artist lineup!

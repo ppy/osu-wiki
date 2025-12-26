@@ -2,6 +2,7 @@
 layout: post
 title: Aspire V - A New Format
 date: 2020-04-09 11:00:00 +0000
+series: official_contests
 ---
 
 Welcome to Aspire V! The wildest beatmapping event on osu! returns with a new host, a new format, and limitless possibilities.

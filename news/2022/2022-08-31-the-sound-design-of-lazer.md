@@ -2,6 +2,7 @@
 layout: post
 title: The Sound Design of osu!(lazer)
 date: 2022-08-14 08:00:00 +0000
+series: miscellaneous
 ---
 
 Delve into the inner workings behind the future of sound design in osu!(lazer), featuring an interview with nekodex, the mind behind it all!

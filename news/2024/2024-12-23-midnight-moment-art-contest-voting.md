@@ -2,6 +2,7 @@
 layout: post
 title: "Midnight Moment Art Contest: Voting Open"
 date: 2024-12-23 18:00:00 +0000
+series: fanart_contests
 ---
 
 This is *your moment* to decide which new winter artworks shall welcome the latter half of the decade.

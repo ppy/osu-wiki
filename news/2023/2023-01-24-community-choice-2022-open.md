@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2022: Voting Open"
 date: 2023-01-24 09:00:00 +0000
+series: official_contests
 ---
 
 Look back on 2022 and pick out your favourite maps in all four game modes in one of the year's biggest polls!

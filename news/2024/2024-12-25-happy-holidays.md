@@ -2,6 +2,7 @@
 layout: post
 title: happy holidays!
 date: 2024-12-25 03:30:00 +0000
+series: miscellaneous
 ---
 
 Merry osumas! Come unpack your gifts and enjoy a limited-time festive client theme, alongside a fresh batch of medals! 🎄🎁

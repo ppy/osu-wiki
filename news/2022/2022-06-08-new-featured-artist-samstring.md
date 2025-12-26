@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: SAMString"
 date: 2022-06-08 13:00:00 +0000
+series: featured_artists
 ---
 
 Player turned musician, **SAMString** joins osu! as our newest Featured Artist!

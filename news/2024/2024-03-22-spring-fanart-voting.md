@@ -2,6 +2,7 @@
 layout: post
 title: "Spring 2024 Fanart Contest: Voting Open"
 date: 2024-03-22 05:00:00 +0000
+series: fanart_contests
 ---
 
 The delightful scent of spring fills the air as visual appreciators (that's **you**!) must arduously choose between the most floral of creations.

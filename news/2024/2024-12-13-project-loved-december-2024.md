@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: December 2024"
 date: 2024-12-13 14:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 Hop by the fireplace and enjoy some toasty Project Loved picks!

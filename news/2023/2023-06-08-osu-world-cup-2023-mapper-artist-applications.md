@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2023: Mapper & Artist Applications"
 date: 2023-06-08 10:00:00 +0000
+series: world_cups
 ---
 
 Calling out any osu! mappers who think they have what it takes – the registrations for mapper and artist contributions for the osu! World Cup 2023 are now open!

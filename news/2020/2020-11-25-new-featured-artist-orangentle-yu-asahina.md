@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: orangentle / Yu_Asahina"
 date: 2020-11-25 09:30:00 +0000
+series: featured_artists
 ---
 
 **orangentle / Yu_Asahina** squeezes in as our newest Featured Artist!

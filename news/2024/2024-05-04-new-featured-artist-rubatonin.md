@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rubatonin"
 date: 2024-05-04 21:30:00 +0000
+series: featured_artists
 ---
 
 **Rubatonin** delivers a truckload of songs to our Featured Artist library!

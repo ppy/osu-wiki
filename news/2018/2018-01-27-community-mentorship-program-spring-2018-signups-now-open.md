@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Spring 2018 Signups Now Open
 date: 2018-01-27 12:00:00 +0000
+series: online_events
 ---
 
 Have you ever opened up the editor and just looked at everything it offers in confusion? Do you have no idea where to even begin beatmapping? Worry no further, the Community Mentorship Program might be the place for you!

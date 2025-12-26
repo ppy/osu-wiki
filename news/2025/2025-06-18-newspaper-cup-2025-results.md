@@ -2,6 +2,7 @@
 layout: post
 title: "Newspaper Cup 2025: Results"
 date: 2025-06-18 16:00:00 +0000
+series: community_contests
 ---
 
 The longest-running annual beatmapping contest for novice mappers, the Newspaper Cup (NPC), has closed its doors and is ready to present its winners!

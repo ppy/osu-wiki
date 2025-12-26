@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Pratanallis"
 date: 2021-06-19 10:00:00 +0000
+series: featured_artists
 ---
 
 **Pratanallis** slips into the lineup as the latest Featured Artist!

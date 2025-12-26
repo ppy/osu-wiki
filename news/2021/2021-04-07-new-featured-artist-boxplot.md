@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Boxplot"
 date: 2021-04-07 08:00:00 +0000
+series: featured_artists
 ---
 
 Serving up his own flavour of drum & bass, **Boxplot** joins the Featured Artist lineup!

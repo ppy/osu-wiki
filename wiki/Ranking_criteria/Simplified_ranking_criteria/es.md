@@ -21,7 +21,7 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 
 ### Distribución
 
-- **Los nombres de las dificultades deben tener progresión.** 
+- **Los nombres de las dificultades deben tener progresión.**
   - Easy -> Normal -> Hard -> Insane -> Expert es el predeterminado.
   - Los esquemas lógicos de nombramiento como Semilla -> Brote -> Árbol también están bien.
   - **Excepción:** La dificultad más difícil puede usar un nombre personalizado, como Normal -> Hard -> *Melancholy*.
@@ -147,15 +147,15 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 - **Evita los cambios rápidos del [kiai](/wiki/Gameplay/Kiai_time).**
 - **En ritmos de 1/4 o más rápidos, usa notas grandes solo al final de los patrones.**
 - **Evita los cambios de velocidad de los sliders en las dificultades más bajas.**
-- **Cada dificultad debe seguir sus respectivas pautas para la duración de las pausas:**
+- **Cada dificultad debe seguir sus respectivas pautas para los momentos de descanso:**
 
-| Dificultad | Pausa | Longitud de la cadena |
+| Dificultad | Momento de descanso | Longitud de la cadena del ritmo |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Se necesita una pausa cada 32-36 pulsos |
-| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Se necesita una pausa cada 32-36 pulsos |
-| **Muzukashii** (opción 1) | ![3/2](img/taiko/muzu1.png "3/2") | Se necesita una pausa cada 16-20 pulsos |
-| **Muzukashii** (opción 2) | ![Tres 1/1 consecutivos](img/taiko/muzu2.png?1 "Tres 1/1 consecutivos") | Se necesita una pausa cada 16-20 pulsos |
-| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Se necesita una pausa cada 16-20 pulsos |
+| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Momento de descanso necesario cada 32-36 pulsos |
+| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Momento de descanso necesario cada 32-36 pulsos |
+| **Muzukashii** (opción 1) | ![3/2](img/taiko/muzu1.png "3/2") | Momento de descanso necesario cada 16-20 pulsos |
+| **Muzukashii** (opción 2) | ![Tres 1/1 consecutivos](img/taiko/muzu2.png?1 "Tres 1/1 consecutivos") | Momento de descanso necesario cada 16-20 pulsos |
+| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Momento de descanso necesario cada 16-20 pulsos |
 
 ### osu!catch
 

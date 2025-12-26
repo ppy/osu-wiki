@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 69 de 74"
 date: 2022-05-21 13:00:00 +0000
+series: featured_artists
 ---
 
 **69 de 74** joins the line-up as our latest Featured Artist!
