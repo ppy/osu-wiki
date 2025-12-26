@@ -81,7 +81,7 @@ Un veto como miembro del personal impide a un usuario formar parte del personal 
 
 ## ¿Puedo apelar una sanción? {id=appeal}
 
-Las sanciones de los torneos aplicadas por medios distintos a los términos de apelación estándar incluyen un plazo de apelación de 72 horas antes de que la sanción surta efecto. Una vez vencido el plazo de apelación, estas sanciones, con excepción de los vetos indefinidos para participar en torneos, no podrán ser apeladas.
+Las sanciones de los torneos aplicadas por medios distintos a los [términos de apelación estándar](/wiki/Help_centre/Account_restrictions#appeal-granted) tienen un plazo de apelación de 72 horas durante el cual se puede impugnar la sanción. Una vez vencido el plazo de apelación, estas sanciones, con excepción de los vetos indefinidos para participar en torneos, no podrán ser apeladas.
 
 Los vetos indefinidos de los torneos pueden ser apelados una vez transcurridos al menos **dos años** (24 meses) desde su aplicación inicial. Los usuarios que quieran apelar el veto indefinido tendrán que demostrar que han hecho una contribución positiva a la comunidad de osu!, ya sea en torneos o de otra manera, y que no han tenido ningún problema de conducta durante ese tiempo. En el caso de que la apelación sea rechazada, el usuario deberá esperar al menos **un año** (12 meses) desde la fecha de su última apelación antes de volver a presentar otra.
 
