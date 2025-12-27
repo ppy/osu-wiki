@@ -86,6 +86,8 @@ Sunday brought forth the majority of the week's matches, getting started early a
 
 Several other losers' bracket matchups took place with victors eventually including Indonesia, Austria, Sweden, Finland, and Spain. Sunday's afternoon window featured three top 8 seeds getting their tournament underway, as the United States took down France, Germany defeated Brazil, and the Russian Federation became the lone top 8 seed to lose their round of 16 match, with the #9 seed China taking them out in a closely fought 5–3 match.
 
+::{#italy-turkiye}::
+
 ### ::{ flag=IT }:: Italy vs. ::{ flag=TR }:: Türkiye
 
 <div align="center" class="osu-md__paragraph">
