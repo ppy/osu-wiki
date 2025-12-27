@@ -49,7 +49,7 @@ During the Qualified stage, problems are hoped to be reported to members of the 
 
 ### Nomination resets
 
-Nominations can be reset when a beatmap is updated by its creator, or when a member of the BN or NAT finds a problem in a nominated beatmap. They can also be reset by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) when the reason involves inappropriate content. If a beatmap is qualified when its nominations are reset, it will be *disqualified*(commonly abbreviated as *DQ*) and removed from the [ranking queue](Ranking_queue) back to Pending. All nominations from the beatmap will also be removed.
+Nominations can be reset when a beatmap is updated by its creator, or when a member of the BN or NAT finds a problem in a nominated beatmap. They can also be reset by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) for moderation purposes. If the nomination is reset while a beatmap is Qualified, it will be *disqualified* (commonly abbreviated as *DQ*) and removed from the [ranking queue](Ranking_queue) back to Pending. All nominations from the beatmap will also be removed. Only BN, NAT, and GMT members are allowed to disqualify Qualified beatmaps.
 
 Nomination resets allow the host to make changes to the beatmap before requesting a re-nomination. It also helps to ensure that modders, BNs, and NAT members check over the most up-to-date version of a beatmap before it enters the [ranking queue](Ranking_queue).
 
