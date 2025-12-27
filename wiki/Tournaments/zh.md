@@ -98,6 +98,7 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | [osu!mania 4K 世界杯 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 | ::{ flag=TH }:: 泰国 |
 | [osu!mania 7K 世界杯 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=PH }:: 菲律宾 |
 | [osu!mania 4K 世界杯 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 |
+| [osu!mania 7K 世界杯 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | *TBD* | *TBD* | *TBD* |
 
 ## 社区锦标赛
 
@@ -855,6 +856,16 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-15 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
 | [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 2022-10-15 | 2022-12-18 | 猫猫面馆 | 黎曼猜想 | 均衡教派 |
+| [GB Cup 2023 Spring](GBC/GBC_2023_Spring) | 2023-03-25 | 2023-06-11 | ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321) | ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096) | ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073) |
+| [GB Cup 2023 Autumn (QQ div.)](GBC/GBC_2023_Autumn) | 2023-10-14 | 2023-12-17 | Q12: Team 12 | Q3: 兰州拉面专业培训班 | Q16: DWG.BurgerkingReisen |
+| [GB Cup 2023 Autumn (Discord div.)](GBC/GBC_2023_Autumn) | 2023-10-14 | 2023-12-17 | D9: 麦当劳护肤 | D2: viets sing | D12: Sunaookami Shiroko |
+| [GB Cup 2024 Spring (QQ div.)](GBC/GBC_2024_Spring) | 2024-03-23 | 2024-06-09 | ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511) | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [\[Crz\]ChenXi](https://osu.ppy.sh/users/23890527) |
+| [GB Cup 2024 Spring (Discord div.)](GBC/GBC_2024_Spring) | 2024-03-23 | 2024-06-09 | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) | ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
+| [GB Cup 2024 IRL](GBC/GBC_2024_IRL) | 2023-07-13 | 2023-07-28 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) | ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424) |
+| [GB Cup 2024 Autumn (QQ div.)](GBC/GBC_2024_Autumn) | 2024-10-26 | 2025-01-05 | Q17: 雾雨魔法小萝莉 | Q5: 我已进入天空之城 | Q3: 漏勺挖洞, Q24: Make PLANA Great Againn |
+| [GB Cup 2024 Autumn (Discord div.)](GBC/GBC_2024_Autumn) | 2024-10-26 | 2025-01-05 | D16: okay² | D12: Photon Worshippers | D13: bol |
+| [GB Cup 2025 Spring (QQ div.)](GBC/GBC_2025_Spring) | 2025-03-22 | 2025-06-08 | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) |
+| [GB Cup 2025 Spring (Discord div.)](GBC/GBC_2025_Spring) | 2025-03-22 | 2025-06-14 | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730) |
 
 #### Jaye's One Key Event
 
