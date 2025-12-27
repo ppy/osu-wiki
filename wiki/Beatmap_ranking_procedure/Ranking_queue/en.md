@@ -11,7 +11,7 @@ The **ranking queue** manages moving [beatmaps](/wiki/Beatmap) from [Qualified](
 
 A timer counts how many days a beatmap should stay in Qualified before it can be ranked. When the timer of a beatmap reaches zero, it is eligible to be ranked on that day. The time of day that beatmaps get ranked is random.
 
-7 days is the default waiting time that is set when the beatmap enters Qualified. But beatmaps may be [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) if issues are found during their time in Qualified, which will change the timer.
+7 days is the default waiting time that is set when a beatmap enters Qualified. But beatmaps may be [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) if issues are found during their time in Qualified, which may change the timer.
 
 ## Disqualification and re-qualification {id=dq-and-re-qualification}
 
