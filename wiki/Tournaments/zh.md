@@ -98,6 +98,7 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | [osu!mania 4K 世界杯 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 | ::{ flag=TH }:: 泰国 |
 | [osu!mania 7K 世界杯 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=PH }:: 菲律宾 |
 | [osu!mania 4K 世界杯 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 |
+| [osu!mania 7K 世界杯 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | *TBD* | *TBD* | *TBD* |
 
 ## 社区锦标赛
 
