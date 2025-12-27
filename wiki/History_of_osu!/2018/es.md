@@ -66,7 +66,7 @@ Enlaces:
 
 ## Marzo
 
-Trial & Error fue presentado como nuevo artista destacado.
+Trial & Error fue presentado como nuevo Artista Destacado.
 
 En la versión [lazer](/wiki/Client/Release_stream/Lazer) de osu!, se implementó el soporte básico para el skinning. Se redujo el efecto de paralaje durante el juego.
 

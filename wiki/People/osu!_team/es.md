@@ -28,13 +28,13 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Desarrollador de osu! |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Encargado general, líder del [NAT](/wiki/People/Nomination_Assessment_Team), gerente del [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizador y administrador de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgación de [artistas destacados](/wiki/People/Featured_Artists), secretario de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgación de [Artistas Destacados](/wiki/People/Featured_Artists), secretario de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desarrollador de osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Encargado general, asesor de moderación |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Artesano de efectos especiales, [artista destacado](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Artesano de efectos especiales, [Artista Destacado](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desarrollador de osu!web |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Asesor de la escena de modding y mapping |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Anfitrión del [canal de YouTube osu!](https://www.youtube.com/@osugame), organizador del [Mappers' Guild](/wiki/Community/Mappers_Guild), divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Anfitrión del [canal de YouTube osu!](https://www.youtube.com/@osugame), organizador del [Mappers' Guild](/wiki/Community/Mappers_Guild), divulgación de [Artistas Destacados](/wiki/People/Featured_Artists) |
 | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | Coordinador de diseño de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Encargado general |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Desarrollador de osu!, amante de osu!mania, destructor de errores |
@@ -57,14 +57,14 @@ Además del núcleo del osu! team, hay [muchos otros equipos de voluntarios](/wi
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Encargado general y ayudante general, artista chibi |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | [Moderador](/wiki/People/Global_Moderation_Team), asesor de la comunidad |
-| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Diseñador de audio, [artista destacado](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Diseñador de audio, [Artista Destacado](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | Desarrollador de los [storyboards](/wiki/Storyboard) |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Organizador y administrador de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Encargado general, administrador de la comunidad |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderador](/wiki/People/Global_Moderation_Team) |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Desarrollador de osu!, proveedor de la integración del IRC para el chat en el juego, mantenedor del sitio |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Mantenedor de los proyectos y de la comunidad, divulgación de [artistas destacados](/wiki/People/Featured_Artists) |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Mantenedor de los proyectos y de la comunidad, divulgación de [Artistas Destacados](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Anfitrión de la osu! Coffee Hour, organizador, administrador y streamer de las [World Cups](/wiki/Tournaments#world-cups-oficiales) |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Desarrollador de osu!, proveedor de backend osz2 y p2p |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Exlíder del [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) |
@@ -88,8 +88,8 @@ Además del núcleo del osu! team, hay [muchos otros equipos de voluntarios](/wi
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Líder y administrador de la comunidad inicial, redactor de reuniones y contribuidor de las preguntas frecuentes |
 | ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Desarrollador de [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Desarrollador de osu! y de los [puntos de rendimiento](/wiki/Performance_points) |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Gerente del Project Loved, asesor de la comunidad, divulgación de artistas destacados |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Artista destacado](https://osu.ppy.sh/beatmaps/artists/22), asesor de la escena de modding y mapping |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Gerente del Project Loved, asesor de la comunidad, divulgación de Artistas Destacados |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Artista Destacado](https://osu.ppy.sh/beatmaps/artists/22), asesor de la escena de modding y mapping |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Encargado general, organizador y administrador de las [World Cups](/wiki/Tournaments#world-cups-oficiales), [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Desarrollador de osu!, creador de osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Gerente de la [osu!store](https://osu.ppy.sh/store/listing) |

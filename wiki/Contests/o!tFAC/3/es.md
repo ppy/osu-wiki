@@ -14,7 +14,7 @@ tags:
 
 ![Banner de la o!tfac](img/banner.jpg)
 
-La **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de uno de los [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!, esta vez con un pequeño cambio: **los mappers debían formar equipos de 2**.
+La **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de uno de los [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) de osu!, esta vez con un pequeño cambio: **los mappers debían formar equipos de 2**.
 
 ## Cronograma del concurso
 
@@ -74,7 +74,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 - **Los envíos deben ser únicamente del modo de juego osu!taiko.**
 - **Los envíos deben estar en formato `.osz`.**
-- **Los concursantes deben enviar UNA dificultad de cualquier canción que elijan de la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists).**
+- **Los concursantes deben enviar UNA dificultad de cualquier canción que elijan de la [biblioteca de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists).**
 - **Los envíos no deben exceder el tiempo de drenaje de 7 minutos.** Habrá un poco de margen en los casos en los que el tiempo de drenaje esté muy cerca de la marca de los 7 minutos.
 - **Los envíos deben respetar los [criterios de clasificación](/wiki/Ranking_criteria).** Los errores ocurren y se restarán puntos por ellos, pero los envíos que no puedan clasificarse sin cambios importantes serán descalificados. Las siguientes categorías de los criterios de clasificación pueden ignorarse por el bien de este concurso:
   - Audio

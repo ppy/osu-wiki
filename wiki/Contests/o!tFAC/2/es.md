@@ -14,7 +14,7 @@ tags:
 
 ![Logo de la o!tfac](img/logo.jpg)
 
-La **osu!taiko Featured Artist Cup: 2nd Edition** (***o!tfac #2***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de una lista específica de **44** [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!.
+La **osu!taiko Featured Artist Cup: 2nd Edition** (***o!tfac #2***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de una lista específica de **44** [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) de osu!.
 
 ## Limitación especial
 
@@ -70,7 +70,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Reglas del concurso
 
-- **Los concursantes enviarán un mapa de cualquier canción con licencia que elijan de [esta lista](https://bns.are-la.me/2XSGmvB.txt) de [artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu!.**
+- **Los concursantes enviarán un mapa de cualquier canción con licencia que elijan de [esta lista](https://bns.are-la.me/2XSGmvB.txt) de [Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) de osu!.**
 - **Las canciones no deben exceder una duración de 4:30.** Habrá un poco de margen en los casos en que la canción esté muy cerca de la marca de 4:30.
 - **El mapa debe ser un mapa de osu!taiko.**
 - **El mapa debe incluir DOS dificultades: la dificultad principal y una dificultad Muzukashii.** Cualquier envío al que le falte una dificultad será descalificado.

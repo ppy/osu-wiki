@@ -69,7 +69,7 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 
 - **Añade los nombres de usuario de cualquiera que contribuya al mapa.** Esto no incluye modders.
 - **Añade el [género e idioma](/wiki/Beatmap/Genre_and_language) de la canción.**
-- **Añade `featured artist` si la canción está en el [catálogo de artistas destacados](https://osu.ppy.sh/beatmaps/artists).**
+- **Añade `featured artist` si la canción está en el [catálogo de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists).**
 - **Otras etiquetas deben ser relevantes para la canción/mapa.**
 
 ### Título

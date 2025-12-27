@@ -60,7 +60,7 @@ Esta lista no incluye todos los motivos posibles de un restablecimiento, y el NA
 Los restablecimientos por metadatos *nunca* tienen una severidad superior a 0, ya que no afectan a la jugabilidad.
 
 - **0/0:** (70 %)
-  - Añadir etiquetas a un nuevo artista destacado
+  - Añadir etiquetas a un nuevo Artista Destacado
   - Añadir a los mappers invitados a las etiquetas debido a un cambio en sus nombres de usuario
   - Añadir etiquetas que sean más descriptivas pero que no sean obligatorias según los criterios de clasificación.
   - Restablecimiento debido a la incorporación de una nueva regla

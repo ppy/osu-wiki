@@ -344,7 +344,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 
 ### February
 
-- **8/2/2018:** El [Mappers' Guild](/wiki/Community/Mappers_Guild) se abrió a aplicaciones públicas para la creación generalizada de beatmaps de los [artistas destacados](/wiki/People/Featured_Artists).
+- **8/2/2018:** El [Mappers' Guild](/wiki/Community/Mappers_Guild) se abrió a aplicaciones públicas para la creación generalizada de beatmaps de los [Artistas Destacados](/wiki/People/Featured_Artists).
 
 ### Marzo
 
@@ -407,7 +407,7 @@ Los sistemas de mapping y modding están mejorando constantemente. La **cronolog
 ### Marzo
 
 - **1/3/2019:** El [Mappers' Guild](/wiki/Community/Mappers_Guild) pasó de la entrada basada en aplicaciones a la entrada automática para cualquier persona con 3 mapas clasificados.
-  - Los beatmaps de [artistas destacados](/wiki/People/Featured_Artists) se crearon y clasificaron con mayor frecuencia.
+  - Los beatmaps de [Artistas Destacados](/wiki/People/Featured_Artists) se crearon y clasificaron con mayor frecuencia.
   - El canal `#mappers-guild` se creó en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 - **13/3/2019:** Se eliminó la regla que exige que las nominaciones consecutivas se establezcan con al menos 24 horas de diferencia entre sí.
   - Esta regla fue una de las principales quejas de los mappers y Beatmap Nominators porque parecía que estaba haciendo perder el tiempo a todos innecesariamente. Si se encontraba un problema después de la primera nominación, el segundo nominador a menudo evitaba señalarlo para evitar una espera adicional de 24 horas.

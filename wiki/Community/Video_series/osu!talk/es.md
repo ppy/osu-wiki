@@ -58,7 +58,7 @@ La serie de podcasts está preparada para que cualquiera pueda participar en la 
 | 44 | [pishifat](https://osu.ppy.sh/users/3178418) | QAT | [Enlace](https://www.youtube.com/watch?v=YseljuHjmLo) |
 | 45 | [Rafis](https://osu.ppy.sh/users/2558286) | Jugador pro de osu! | [Enlace](https://www.youtube.com/watch?v=wKhuovIMa8k) |
 | 46 | [Spare](https://osu.ppy.sh/users/2204373) | Jugador pro de osu! | [Enlace](https://www.youtube.com/watch?v=MTWgwsIxPRc) |
-| 47 | [Helblinde](https://osu.ppy.sh/users/48053) | Artista destacado | [Enlace](https://www.youtube.com/watch?v=cviwU4xkM-w) |
+| 47 | [Helblinde](https://osu.ppy.sh/users/48053) | Artista Destacado | [Enlace](https://www.youtube.com/watch?v=cviwU4xkM-w) |
 | 48 | [MatsumotoRise](https://osu.ppy.sh/users/672726) | Jugador pro de osu! | [Enlace](https://www.youtube.com/watch?v=8-3d2ZHw2O4) |
 | 49 | [Toy](https://osu.ppy.sh/users/2757689) | Jugador pro de osu! | [Enlace](https://www.youtube.com/watch?v=lI8mIJLOu_k) |
 

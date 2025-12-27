@@ -6,7 +6,7 @@ Los puntos de los concursos también pueden concederse como beneficio del [sopor
 
 ## Distribución de los puntos
 
-Para los concursos individuales, los puntos se basan en el número de envíos válidos creados. Estas son las pautas generales para la distribución de los puntos, y se pueden hacer excepciones dependiendo de cada caso y a discreción del [comité de concursos](/wiki/People/Tournament_Committee#comité-de-concursos) cuando se solicite soporte oficial para concursos de beatmapping.
+Para los concursos individuales, los puntos se basan en el número de envíos válidos creados. Estas son las pautas generales para la distribución de los puntos, y se pueden hacer excepciones dependiendo de cada caso y a discreción del [Comité de Concursos](/wiki/People/Tournament_Committee#comité-de-concursos) cuando se solicite soporte oficial para concursos de beatmapping.
 
 | Número de envíos | Puntos del 1er lugar | Puntos del 2do lugar | Puntos del 3er lugar |
 | :-- | :-- | :-- | :-- |
