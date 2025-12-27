@@ -307,7 +307,7 @@ A lot can be put into numbers in this year's OWC as usual. Here are some statist
 | #4 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | Finals | DT1 | **854pp** |
 | #5 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Grand Finals | DT1 | **853pp** |
 
-::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902)'s 968pp score on the Finals DT1, [Epiphany](https://osu.ppy.sh/beatmapsets/307163#osu/687303), is the new OWC pp record, surpassing the previous best of set 828pp by ::{ flag=US }:: [rektygon](https://osu.ppy.sh/users/7813296) in 2024.
+::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902)'s 968pp score on the Finals DT1, [Epiphany](https://osu.ppy.sh/beatmapsets/307163#osu/687303), is the new OWC pp record, surpassing the previous record set by ::{ flag=US }:: [rektygon](https://osu.ppy.sh/users/7813296) in 2024 — a 828pp play on the Grand Finals HR1, [Bad for me (Dz'Xa's Amenpunk)](https://osu.ppy.sh/beatmapsets/1392496#osu/2874944).
 
 ### Grand Finals closest maps
 
