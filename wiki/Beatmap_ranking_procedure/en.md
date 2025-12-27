@@ -55,7 +55,6 @@ Nomination resets allow the host to make changes to the beatmap before requestin
 
 ### Vetoes
 
-
 A [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows a BN or NAT member to withhold a beatmap from the [Ranked](/wiki/Beatmap/Category#ranked) section if they feel there are significant issues with its quality. It allows seeking further discussion or clarification over any kind of subjective issues which need to be addressed before the map can proceed with [qualification](#qualification).
 
 ## Rank
