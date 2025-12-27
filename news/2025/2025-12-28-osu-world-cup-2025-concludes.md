@@ -1,13 +1,13 @@
 ---
 layout: post
 title: osu! World Cup 2025 Concludes
-date: 2025-12-19 12:00:00 +0000
+date: 2025-12-28 06:00:00 +0000
 series: world_cups
 ---
 
 Three teams enter with dreams of glory, their eyes set on victory. Only one could leave with the two most coveted words on their profile: *osu! champion*. Poland. The United States. Australia.
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/banner.jpg)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/banner.jpg)
 
 These were the combatants for the greatest prize osu! has to offer: the World Cup. The game's grandest stage was set; all that was left was the battle of these teams' lives.
 
@@ -37,7 +37,7 @@ Congratulations to ::{ flag=PL }:: Poland for being the third country to win the
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2631998127&parent=osu.ppy.sh&autoplay=false&time=1h43m05s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/mappool.png)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/mappool.png)
 
 The last pool of this year's OWC was 90% custom. There were only two existing maps present, both on DT: [Wonder Stella](https://osu.ppy.sh/beatmapsets/361790#osu/794750) provided the high-end fast aim in the DT pool, while [BIRTH](https://osu.ppy.sh/beatmapsets/175241#osu/422762) stood in for a more rounded map with a big stamina requirement on the second half.
 
@@ -49,7 +49,7 @@ As for maps we didn't end up seeing, [DIVINE](https://osu.ppy.sh/beatmapsets/247
 
 As the last pool of the tournament, the plethora of [osu! originals](/wiki/Community/Bespoke_music) is something of a given. Three brand-new songs debuted in the pool this week, which we'll tackle in showcase order:
 
-[![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/out_of_place_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475329#osu/5426137)
+[![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/out_of_place_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475329#osu/5426137)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -59,7 +59,7 @@ As the last pool of the tournament, the plethora of [osu! originals](/wiki/Commu
 
 The great [Cansol](https://osu.ppy.sh/beatmaps/artists/407) started the proceedings this week with their signature jazzy sound, giving us the frantic, yet still cool [Out of Place](https://osu.ppy.sh/beatmapsets/2475329#osu/5426137), turned into a rhythmically active, challenging alt and flow aim map by [Wispy](https://osu.ppy.sh/users/11106929), [bob](https://osu.ppy.sh/users/5346261), and [oatmilk](https://osu.ppy.sh/users/16516525). With amazing storyboarding and graphics by the design team (all credited in the description), this original would not feel "out of place" in your favorites list!
 
-[![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/panagia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182)
+[![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/panagia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -69,7 +69,7 @@ The great [Cansol](https://osu.ppy.sh/beatmaps/artists/407) started the proceedi
 
 Following that up, the illustrious [BlackY](https://osu.ppy.sh/beatmaps/artists/150) provided us with a fittingly intense, chilling track in [PANAGIA](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182). The Chinese duo of [yf_bmp](https://osu.ppy.sh/users/1243669) and [Callionet](https://osu.ppy.sh/users/3072921) were put in charge of mapping it, making one of the toughest Hidden challenges in OWC history. This map also has a storyboard you'll surely want to check out, plus a set linked in the description with a full spread for whatever difficulty range you might prefer playing, so do give it a try!
 
-[![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/anima_immortalis_est_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475379#osu/5426254)
+[![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/anima_immortalis_est_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475379#osu/5426254)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -259,7 +259,7 @@ Fans of osu's expansive list of genres will discover something for everyone: whe
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/out_of_place_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475329#osu/5426137)
+[![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/out_of_place_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475329#osu/5426137)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -267,7 +267,7 @@ Fans of osu's expansive list of genres will discover something for everyone: whe
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/panagia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182)
+[![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/panagia_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475347#osu/5426182)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -275,7 +275,7 @@ Fans of osu's expansive list of genres will discover something for everyone: whe
     </audio>
 </div>
 
-[![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/anima_immortalis_est_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475379#osu/5426254)
+[![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/anima_immortalis_est_banner.jpg)](https://osu.ppy.sh/beatmapsets/2475379#osu/5426254)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -368,7 +368,7 @@ The Yap Cost [returns from 2024](https://osu.ppy.sh/home/news/2024-12-14-osu-wor
 
 ::{#mint}::
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/-mint-.png)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/-mint-.png)
 
 Many in the community know [-mint-](https://osu.ppy.sh/users/8976576) for her contributions as the mappooler and advisor for MWC 4K, where she has helped shape the competitive side of World Cups. This year, she also played a key role in the production of osu! originals by taking on the responsibility of translating Japanese lyrics into English. Her involvement this year includes [Veil of Ash](https://www.youtube.com/watch?v=1a8kmvlpSj4) from CWC Quarterfinals tiebreaker, [Hexen Noir](https://www.youtube.com/watch?v=_aiV-u_bMf4) from OWC Semifinals tiebreaker, and of course, OWC Grand Finals tiebreaker [Yuuaku no Inori - Anima immortalis est. -](https://www.youtube.com/watch?v=d5b9JtprsV8). For anyone who's interested in taking a closer look at these fully singable English lyrics, the translation of all three songs can [be found in this sheet](https://docs.google.com/spreadsheets/d/1BXGf97ivzVmNf_OowDBDFEh9MiT1bOno7eyvf60naCQ).
 
@@ -470,7 +470,7 @@ Overall though, I think I'm still largely influenced by the Japanese vocal music
 
 ::{#iyouka}::
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/Iyouka.png)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/Iyouka.png)
 
 If anyone is a jack of all trades on the World Cup design team, it's Iyouka. Over the past two years, Iyouka has taken on every creative role across osu! original designs. He has worked on illustration, graphic design, storyboarding, and is mostly known for his visual effects work on video showcases. His contributions span over a dozen World Cup projects, including the Grand Finals tiebreaker [Yuuaku no Inori - Anima immortalis est. -](https://youtu.be/d5b9JtprsV8).
 
@@ -492,7 +492,7 @@ I started my design journey with Photoshop. It was fun and all until I began to 
 
 I joined the osu! World Cup Design Team in early 2024 and have worked on multiple projects since then. Going into all of them here would get super long and boring so feel free to check out my [portfolio site](https://iyouka.carrd.co/) to see all of my visual creations from the beginning of my design career up until now.
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/iyouka_image1.jpg)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/iyouka_image1.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -516,7 +516,7 @@ That said, being the visual director of my own project did have its advantages. 
 
 Thanks to the knowledge and experience I gained from working on multiple World Cup projects, I was able to enhance the overall design of [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331#osu/5297696) and managed to win first place in the visual category and second place overall at Locus this year. One of the things I learned from this experience is that having multiple skill sets can indeed improve your designs. However, the most important part is how all these skills are used to form a single piece of beautiful harmony, rather than just gluing assets together to call it a day and hope it will enhance the visual. While wishful thinking might work in some cases, it often takes extra touch-ups to truly make everything shine.
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/iyouka_image2.jpg)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/iyouka_image2.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -536,7 +536,7 @@ First things first, Sakura usually holds a planning meeting in the design team s
 
 Honestly, there isn't much to break down when it comes to execution, since the two of us have worked together so many times we already knew how to approach our individual shots. That familiarity just magically made our collaboration fast and smooth. What happened behind the scenes was just constant back and forth communication between me and Sakura where we exchanged VFX assets and gave each other feedback so each of our shots could be refined further. Considering how limited the production time was, I think we can both agree that we're satisfied with how the video eventually turned out. Once again, a huge shoutout to everyone who worked on this Grand Finals tiebreaker to make it happen.
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/iyouka_image3.jpg)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/iyouka_image3.jpg)
 
 | Area | Contributors |
 | :-- | :-- |
@@ -572,7 +572,7 @@ By the end of this year, I've achieved many things that I never thought would be
 
 A well-earned congratulations is due to Poland on a long-awaited return to glory. After toiling through roster changes and meta changes for 7 years following their win all the way back in 2017, their efforts finally paid off as they became the third country to win multiple osu! World Cup titles. Thank you to them and the rest of the teams in this year’s tournament for putting on an unforgettable iteration of OWC, and additional thanks go out to the entire tournament staff for the countless hours put in to make this event happen. Finally, thank you to the viewers, the readers, and everyone else who joined us for another amazing year of World Cups. Without you all, none of this would be possible.
 
-![](/wiki/shared/news/2025-12-19-osu-world-cup-2025-concludes/owc2025-credits.png)
+![](/wiki/shared/news/2025-12-28-osu-world-cup-2025-concludes/owc2025-credits.png)
 
 Next up, the 2026 World Cup season gets under way with the [osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K)! Registrations are already open and qualifiers take place in just a few short weeks, so if VSRG gameplay is your jam, make sure to stay tuned for all the action!
 
