@@ -39,9 +39,9 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Qualification is a process where beatmaps that receive enough nominations are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Beatmaps with only one primary [game mode](/wiki/Game_mode) among all [difficulties](/wiki/Beatmap#difficulty) need two nominations for the primary game mode, while hybrid sets[^hybrid-sets] need two nominations for the main game mode[^main-game-mode] and one for each subsidiary one.
+Qualification is a process where beatmaps that receive enough nominations are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Beatmaps with only one primary [game mode](/wiki/Game_mode) among all [difficulties](/wiki/Beatmap#difficulty) only need two nominations, while hybrid sets[^hybrid-sets] need two nominations for the main game mode[^main-game-mode] and one for each subsidiary one.
 
-The [Qualified](/wiki/Beatmap/Category#qualified) category exists to provide beatmaps wider exposure to the osu! community with the hopes of discovering potential problems. This is the most common stage for beatmaps to receive wide support, feedback and sometimes meet [obstructions](#obstruction).
+The [Qualified](/wiki/Beatmap/Category#qualified) category exists to provide beatmaps wider exposure to the osu! community in the hopes of discovering potential problems before they are permanently [Ranked](/wiki/Beatmap/Category#ranked). This is the most common stage for beatmaps to receive wide support, feedback, and sometimes meet [obstructions](#obstruction).
 
 ## Obstruction
 
@@ -51,17 +51,16 @@ During the Qualified stage, problems are hoped to be reported to members of the 
 
 Nominations can be reset when a beatmap is updated by its creator, or when a member of the BN or NAT finds a problem in a nominated beatmap. They can also be reset by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) when the reason involves inappropriate content. If a beatmap is qualified when its nominations are reset, it will be *disqualified*(commonly abbreviated as *DQ*) and removed from the [ranking queue](Ranking_queue) back to Pending. All nominations from the beatmap will also be removed.
 
-Nomination resets allow creator to make changes to the beatmap and then request a re-nomination. It also helps ensure that modders, BNs and NAT members check over the most up-to-date version of a beatmap before it enters the [ranking queue](Ranking_queue).
+Nomination resets allow the host to make changes to the beatmap before requesting a re-nomination. It also helps to ensure that modders, BNs, and NAT members check over the most up-to-date version of a beatmap before it enters the [ranking queue](Ranking_queue).
 
 ### Vetoes
 
-Members of the BN and NAT occasionally [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) beatmaps they believe have quality issues that are unrelated to the Ranking Criteria.
 
-[Beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows a BN or NAT member to withhold a beatmap from ranking if they feel there are significant issues regarding beatmap quality which make it unfit for the [Ranked](/wiki/Beatmap/Category#ranked) section. It allows seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with [Qualification](#qualification).
+A [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) allows a BN or NAT member to withhold a beatmap from the [Ranked](/wiki/Beatmap/Category#ranked) section if they feel there are significant issues with its quality. It allows seeking further discussion or clarification over any kind of subjective issues which need to be addressed before the map can proceed with [qualification](#qualification).
 
 ## Rank
 
-When a beatmap stays in Qualified for at least 7 days without any open [Problems or Suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](/wiki/Beatmap/Category#ranked). If it has been through disqualification and re-qualification, the time for it to move from Qualified to Ranked should be [recalculated](Ranking_queue#dq-and-re-qualification). Ranked beatmaps have [score leaderboards](/wiki/Ranking) and reward players with performance points.
+When a beatmap stays in Qualified for at least 7 days without any open [problems or suggestions](/wiki/Modding#types-of-mod-posts), the [ranking queue](Ranking_queue) is able to move it to [Ranked](/wiki/Beatmap/Category#ranked). If it has been re-qualified after a disqualification, the time for it to move from Qualified to Ranked may be [recalculated](Ranking_queue#dq-and-re-qualification). Ranked beatmaps have [score leaderboards](/wiki/Ranking) and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.
 

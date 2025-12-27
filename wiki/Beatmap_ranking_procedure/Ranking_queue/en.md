@@ -15,8 +15,8 @@ A timer counts how many days a beatmap should stay in Qualified before it can be
 
 ## Disqualification and re-qualification {id=dq-and-re-qualification}
 
-When a beatmap is [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets), its time spent in Qualified so far is saved. If it gets re-qualified, it will enter the queue as if it had been in the queue for that duration already. This ability to "skip" time spent in the queue caps at 6 days to ensure that beatmaps always stay in Qualified for at least a full day after re-qualification.
+When a beatmap is [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets), its time spent in Qualified is saved. If it gets re-qualified, it will enter the queue as if it had been in the queue for that duration already. This ability to "skip" time spent in the queue caps at 6 days to ensure that beatmaps always stay in Qualified for at least a full day after being re-qualified.
 
 Additionally, for every week a beatmap stays disqualified, the timer will increase by 1 day, up to a maximum of 14 days.
 
-If a beatmap is re-qualified with either new difficulties added or if the two nominators processing the new qualification do not include any of the two original nominators, the ranked timer will be reset to 7 days instead of the saved time.
+If a beatmap is re-qualified with either new difficulties added or is nominated by new beatmap nominators, the ranked timer will be reset to 7 days instead of the saved time.
