@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Memme"
-date: 2025-12-28 19:30:00 +0000
+date: 2025-12-28 19:15:00 +0000
 series: featured_artists
 ---
 
