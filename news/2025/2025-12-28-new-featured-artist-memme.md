@@ -209,7 +209,7 @@ The last one! Check out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/155
 
 Congrats, you made it. Give your scroll wheel a break, or head to [**Memme**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/518) and start from the top.
 
-That's all for 2025's Featured Artists!
+That's all for 2025's Featured Artists! A grand total of **64** musicians made their way into osu!'s Featured Artist library this year. That's a lot of music.
 
 Thanks for keeping your ears peeled for everything from these weekly artist announcements to the outstanding efforts showcased in our World Cups' [original song productions](https://www.youtube.com/playlist?list=PLIYfYZCsR-6HxVFIqAq6S19ntngP3XT9t). It's not going to be easy to top what was accomplished this year, but rest assured: *much more* hype music is on the horizon for osu!.
 
