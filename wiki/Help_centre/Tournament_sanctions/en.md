@@ -81,7 +81,7 @@ A staffing ban prevents a user from staffing in officially supported tournaments
 
 ## Can I appeal a tournament sanction? {id=appeal}
 
-Tournament sanctions as applied via means other than standard appeal terms include a 72-hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
+Tournament sanctions as applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) come with a 72-hour appeal window during which the sanction can be disputed. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
 
 Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
 

@@ -7,8 +7,6 @@ tags:
   - insignias
   - torneo con insignia
   - torneos con insignias
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Soporte oficial para torneos
@@ -159,9 +157,9 @@ En cuanto a las funciones del personal, se aplican las siguientes reglas:
 - El personal con cualquier rol que no figure en esta lista no puede jugar en un torneo con insignia. Si tienes alguna duda, ponte en contacto con el equipo de soporte de cuentas a través de [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - Todo el personal que participe en el funcionamiento de un torneo, sea cual sea su función, no debe estar restringido en ese momento.
 
-Se espera que los usuarios con un veto activo para participar en torneos revelen su estado de veto a cualquier torneo con soporte oficial en el que pretendan ayudar. Pueden ser incluidos como streamers, comentaristas o diseñadores gráficos a discreción del organizador, pero recomendamos una cuidadosa consideración de tales elecciones, ya que dichos individuos ya han infringido las reglas una vez (o más). No podrán desempeñar ninguna otra función del personal A MENOS QUE el organizador solicite una exención para ellos al enviar su solicitud inicial de soporte. El equipo de soporte de cuentas las evaluará caso por caso teniendo en cuenta el historial del usuario.
+Se espera que los usuarios con un [veto activo para participar en torneos](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos) o con un [veto para formar parte del personal](/wiki/Help_centre/Tournament_sanctions#vetos-como-miembro-del-personal-de-los-torneos) revelen el estado de su veto a cualquier torneo con soporte oficial en el que pretendan ayudar. Pueden ser incluidos como streamers, comentaristas o diseñadores gráficos a discreción del organizador, pero recomendamos una cuidadosa consideración de tales elecciones, ya que dichos individuos ya han infringido las reglas una vez (o más). No podrán desempeñar ninguna otra función del personal A MENOS QUE el organizador solicite una exención para ellos al enviar su solicitud inicial de soporte. El equipo de soporte de cuentas las evaluará caso por caso teniendo en cuenta el historial del usuario.
 
-A discreción del equipo de soporte, los miembros del personal cuya conducta provoque directamente que un torneo pierda su soporte oficial no podrán desempeñar las mismas funciones ni ser organizadores o administradores de otro torneo con soporte oficial durante al menos 4 meses. En caso de que se aplique un veto para participar como parte del personal en los torneos a un usuario, se le informará directamente a través del [equipo del torneo](mailto:tournaments@ppy.sh).
+A discreción del equipo de soporte, los organizadores que cometan errores graves que incumplan las reglas de elegibilidad o las expectativas del soporte oficial podrán ser sujetos a un [veto para organizar torneos](/wiki/Help_centre/Tournament_sanctions#vetos-para-organizar-torneos). Los vetos para organizar torneos pueden usarse en lugar de retirar el soporte oficial cuando un torneo ya no sería elegible para recibirlo, pero se ha mantenido la integridad competitiva. Los usuarios sancionados con un veto para organizar torneos no podrán ser organizadores principales ni administradores de ningún torneo con soporte oficial. Sin embargo, pueden desempeñar otras funciones que no impliquen la organización. Los errores menos graves pueden dar lugar a que se aplique un [periodo de probación](/wiki/Help_centre/Tournament_sanctions#periodos-de-probación) en su lugar.
 
 Una lista de todo el personal del torneo debe estar a la vista del público en un lugar de fácil acceso. Esta lista puede estar incluida en la publicación del torneo en el foro, en una página de la wiki, en un sitio web o en una hoja de cálculo. Si hay varias listas del personal, todas deben estar actualizadas y sincronizadas entre sí.
 
@@ -173,7 +171,7 @@ Se espera que los participantes en los torneos con soporte oficial cumplan las [
 
 Además, se espera que los jugadores hayan participado en un torneo determinado para poder optar a los premios que pueda otorgar; no basta con clasificarse como miembro de un equipo ganador. Debido a que existen contribuciones intangibles a los equipos que los jugadores suelen hacer sin jugar mapas, solo a los jugadores que *no jueguen ningún mapa* durante el transcurso de un torneo se les podrá negar el premio de la insignia.
 
-A discreción del equipo de soporte de cuentas, los jugadores infractores pueden recibir [vetos](/wiki/Help_centre/Tournament_bans) temporales o indefinidos dependiendo de la gravedad de su conducta. Los infractores reincidentes pueden arriesgarse a recibir un veto por tiempo indefinido o una restricción.
+A discreción del equipo de soporte de cuentas, los jugadores infractores pueden recibir [vetos](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos) temporales o indefinidos dependiendo de la gravedad de su conducta. Los infractores reincidentes pueden arriesgarse a recibir un veto por tiempo indefinido o una restricción.
 
 ## Otros procedimientos
 
