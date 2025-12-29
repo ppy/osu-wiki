@@ -134,17 +134,17 @@ El Comité de Torneos recurre con frecuencia a votaciones para tomar decisiones 
 | Soporte de insignia para los tres primeros | 4 | 80 % | 100 % |
 | Incorporación de nuevos miembros | 4 | 80 % | 100 % |
 
-## Duración de las restricciones de los torneos
+## Duración de los vetos de los torneos
 
-Las duraciones comunes de las restricciones de los torneos se pueden encontrar en la página de la wiki [Restricciones de torneos](/wiki/Help_centre/Tournament_bans).
+Las duraciones comunes de los vetos de los torneos se pueden encontrar en la página de la wiki [sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions#reasons).
 
 ## Preguntas frecuentes
 
-### ¿Quién administra las restricciones de los torneos?
+### ¿Quién administra los vetos de los torneos?
 
 El equipo de soporte de cuentas administra las restricciones de los torneos. El Comité de Torneos asesora al equipo de soporte de cuentas en muchas restricciones de torneos, pero en última instancia es únicamente un comité de asesoramiento cuando se trata de las restricciones de los torneos.
 
-### ¿Quién hace el screening?
+### ¿Quién hace el proceso de selección?
 
 El equipo de soporte de cuentas hace el screening. El Comité de Torneos no participa en absoluto en este proceso.
 
