@@ -4,8 +4,6 @@ tags:
   - Contest Committee
   - CC
   - Comité de Concursos
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Comité de Torneos
@@ -142,11 +140,11 @@ Las duraciones comunes de los vetos de los torneos se pueden encontrar en la pá
 
 ### ¿Quién administra los vetos de los torneos?
 
-El equipo de soporte de cuentas administra las restricciones de los torneos. El Comité de Torneos asesora al equipo de soporte de cuentas en muchas restricciones de torneos, pero en última instancia es únicamente un comité de asesoramiento cuando se trata de las restricciones de los torneos.
+El equipo de soporte de cuentas administra los vetos de los torneos. El Comité de Torneos asesora al equipo de soporte de cuentas en muchas restricciones de torneos, pero en última instancia es únicamente un comité de asesoramiento cuando se trata de las restricciones de los torneos.
 
 ### ¿Quién hace el proceso de selección?
 
-El equipo de soporte de cuentas hace el screening. El Comité de Torneos no participa en absoluto en este proceso.
+El equipo de soporte de cuentas hace el proceso de selección. El Comité de Torneos no participa en absoluto en este proceso.
 
 ### ¿Quién aplica las insignias de perfil?
 
