@@ -54,17 +54,15 @@ Silences may also be given to users for other reasons, such as (but not limited 
 
 ## Appealing
 
-While silences are implemented to maintain a positive community environment, errors can occur. If you believe that the silence issued to you was an error or unjustified, kindly contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain the situation.
+While silences are implemented to maintain a positive community environment, errors can occur. If you believe that the silence issued to you was an error or unjustified, kindly contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain the situation. You can also ask them for clarification about the reasons for your silence.
 
 Keep in mind that you must use the email address associated with your osu! account and mention your username to confirm it's you.
 
 ## How can I avoid being silenced?
 
-Carefully read and follow the [rules](/wiki/Rules), [visual content considerations](/wiki/Rules/Visual_content_considerations), [song content rules](/wiki/Rules/Song_content_rules), and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). If you're not sure whether something you want to do or say would violate the rules, ask a member of the [Global Moderation Team](/wiki/People/Global_Moderation_Team). If you're not sure who to ask, [click here](https://osu.ppy.sh/users/5999631).
+Carefully read and follow the [rules](/wiki/Rules), [visual content considerations](/wiki/Rules/Visual_content_considerations), [song content rules](/wiki/Rules/Song_content_rules), and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). If you're not sure whether something you want to do or say would violate the rules, ask [a member of the Global Moderation Team](https://osu.ppy.sh/groups/4).
 
-If you were silenced and want to avoid breaking the rules again, you can ask a member of the Global Moderation Team for the reasoning behind your silence.
-
-Additionally, if you have an old forum post, beatmap, comment, or similar that you think contains inappropriate content, it is also recommended to simply delete or edit out said content if you can. If you cannot edit or delete the content for any reason, contact a member of the Global Moderation Team to have them remove it. Doing so will generally result in a significantly lower punishment for the offence, if any.
+Additionally, if you have an old forum post, beatmap, comment, or similar that you think contains inappropriate content, it is also recommended to simply delete or edit out said content if you can. If you cannot edit or delete the content for any reason, contact a member of the Global Moderation Team to have them remove it.
 
 ## References
 
