@@ -8,7 +8,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like aim-assist programs, timescale modifications, and so on. Macros, keybinds, or hardware where a physical action (e.g. pressing a key down) does not correspond to the same in-game action are similarly disallowed.[^macros] If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
 3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
-5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here.
+5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here. Excluding private messages, any images, videos, or links uploaded to or made visible from osu! **must** follow the [visual content considerations](Visual_Content_Considerations).
 6. **Keep it clean.** osu! is not the place for dating or flirting. Using sexual language, imagery or making unwanted advances on other members of the community in public or private is NOT okay. If you ever feel uncomfortable with how someone is talking to you, [report it to us confidentially](/wiki/Reporting_bad_behaviour/Abuse) so we can help you (and potentially prevent others from being affected).
 7. **Where the rules do not prevail, common sense shall.** The administration has explicit discretion to apply their judgment on this as they see fit.
 
@@ -43,7 +43,7 @@ These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submis
 1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content usage permissions](Content_usage_permissions) for more information.
 2. **Stay on topic in [beatmap discussions](/wiki/Beatmap_discussion).** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
-4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
+4. **Follow the [song content rules](Song_Content_Rules) and [visual content considerations](Visual_Content_Considerations).**
 
 ## What happens if I break the rules?
 
@@ -60,9 +60,9 @@ These bad things may include (*but are not limited to*):
 
 Certain offences carry a minimum duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
-If after several infringements you continue to break the rules, your account may be [permanently and irrevocably restricted](/wiki/Help_centre/Account_restrictions).
+If, after several infringements, you continue to break the rules, or if you break the rules in an especially severe manner (such as by cheating), your account may be [permanently and irrevocably restricted](/wiki/Help_centre/Account_restrictions).
 
-Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restriction for community rule violation can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_centre/Account_restrictions#reasons)).
+Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restrictions for community rule violations can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_centre/Account_restrictions#reasons)).
 
 Severe offences that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offences, such as the distribution of child pornography or other material of abuse.
 
