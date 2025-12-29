@@ -422,7 +422,7 @@ Todas las pistas que aparecen en cualquier [lista de los Artistas Destacados](ht
 
 #### Artistas permitidos, con excepciones
 
-Esta sección se actualizó por última vez el 1 de septiembre de 2025.
+Esta sección se actualizó por última vez el 22 de diciembre de 2025.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
