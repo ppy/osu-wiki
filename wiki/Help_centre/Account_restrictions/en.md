@@ -54,11 +54,11 @@ If an account has been found to be rightfully restricted, we will ask that the u
 
 ## My cooldown has passed. How do I appeal? {id=appeal}
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject line `Restriction Appeal: <username>`. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email — there is a chance we may not have received it.
+You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject line `Restriction Appeal: <username>`. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within two weeks. If you have not received one by then, please contact us on Twitter or by email — there is a chance we may not have received it.
 
 When appealing, we expect the following points to be covered:
 
-- **Account history.** It does not need to be too detailed. This should include all your breaches of the major rules (multi-accounting, account sharing, cheating, or major silences). You do not need to remember every date, every silence, or every account you created, as long as you are honest with what you did. This includes any rules you have broken while restricted, if applicable.
+- **Account history.** It does not need to be too detailed. This should include all your breaches of the major rules (multi-accounting, account sharing, cheating, or major silences). You do not need to remember every date, every silence, or every account you created, as long as you are honest about what you did. This includes any rules you have broken while restricted, if applicable.
 - **Why you broke the rules.** An explanation as to what led you to decide to create new accounts, give your account away, cheat, etc. will help us (and you) determine whether or not you are at risk of offending again. If you continued offending while restricted, we are also interested in knowing why.
 - **How you obtained the means to do so.** This applies mostly to cheating — we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
 - **Why we should allow you back.** Most of the time, this ties into the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
@@ -69,7 +69,7 @@ If we decide to let you return, we will require that you agree to some terms bef
 
 - **You will not offend again.** This includes cheating and account sharing.
 - **You will not create another account, be it for yourself or someone else.**
-- **You should not associate with other accounts** including playing on shared computers.
+- **You should not associate with other accounts**, including playing on shared computers.
 - **Any major misbehaviour will result in immediate restriction**. This includes major silences.
 
 Appeal returnees under the standard terms above are also [banned from official and badged tournaments](/wiki/Help_centre/Tournament_sanctions#tournament-bans), both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
@@ -94,7 +94,7 @@ There are several reasons why an appeal might be denied.
 
 In most cases, each restriction on your account doubles the length of the next restriction and the cooldown associated with it.
 
-For example, if you are restricted for cheating, return on appeal, then cheat again, you will be restricted for a minimum of 12 months (double the six months base) before we will review any kind of appeal from you. If you return after this and cheat once again, you will be restricted for a minimum of 24 months.
+For example, if you are restricted for cheating, return on appeal, then cheat again, you will be restricted for a minimum of 12 months (double the base six months) before we will review any kind of appeal from you. If you return after this and cheat once again, you will be restricted for a minimum of 24 months.
 
 As an additional note, it becomes progressively harder to return on any kind of appeal after your first offense, as we must consider your past actions and whether unrestricting you is worth the time and risk involved at all. Very few (if any) players successfully return to the community after their third restriction.
 
@@ -109,7 +109,7 @@ In the event that you feel your emails are not being read or addressed properly 
 
 All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
 
-Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
+Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal; it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
 
 **We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact the support team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy — they cannot help you.
 

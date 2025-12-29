@@ -18,8 +18,8 @@ These rules are the basis from which we help keep the osu! community a fun and w
 2. **Let the moderators handle issues in the chat.** You can point things out to them with [the `!report` command](/wiki/Reporting_bad_behaviour) and they'll handle the rest.
 3. **If someone gets silenced or restricted, leave them be and don't start talking about them.** If someone is restricted, their case involves only them and the game administration — absolutely nobody else!
 4. **Encourage fair play, and don't give attention to cheaters or other toxic users.** These people unfortunately do exist, and giving them attention can encourage them to continue, or provoke others to act as they do. Report them via the chat command `!report` or the buttons on their profile page and move on.
-5. **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
-6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
+5. **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason), but keep the public channels squeaky clean for everyone's sake.
+6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material, and keep the [visual content considerations](Visual_Content_Considerations) in mind.
 7. **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
 8. **Don't advertise third-party chat servers of any kind, including Discord or Teamspeak servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
 9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated, it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
@@ -54,17 +54,17 @@ These bad things may include (*but are not limited to*):
 - The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Help_centre/Silences)).
 - The removal of any infringing content from your userpage, profile or uploaded beatmaps.
 - The loss of the privilege to edit or alter your userpage or profile details.
-- The loss of the privilege to play or qualify in officially hosted tournaments.
+- The loss of the privilege to play or staff in officially hosted tournaments (known as a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans)).
 
-[Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offence — repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
+[Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration exponentially with each infringement. Repeat offenders will find themselves locked out of their privileges for increasingly lengthy periods of time.
 
-Certain offences carry a minimum duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
+Certain offences carry a minimum silence duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
 If, after several infringements, you continue to break the rules, or if you break the rules in an especially severe manner (such as by cheating), your account may be [permanently and irrevocably restricted](/wiki/Help_centre/Account_restrictions).
 
-Restricted accounts cannot play online, set scores, chat with other users and are for all intents and purposes "banned" from interaction with the community. Restrictions for community rule violations can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_centre/Account_restrictions#reasons)).
+Restricted accounts cannot play online, set scores, or chat with other users, and are for all intents and purposes "banned" from interaction with the community. Restrictions for community rule violations can only be removed upon appeal to the support staff after 3 months have passed ([more conditions may apply](/wiki/Help_centre/Account_restrictions#reasons)).
 
-Severe offences that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offences, such as the distribution of child pornography or other material of abuse.
+Extreme offences that go well beyond the scope of our rules and into the jurisdiction of illegal content as per international common law will result in immediate account termination. This applies nearly exclusively to extremely graphic or otherwise abhorrent offences, such as the distribution of child pornography or other material of abuse.
 
 ## Notes
 
