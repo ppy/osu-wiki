@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu! World Cup 2025 Concludes"
+title: osu! World Cup 2025 Concludes
 date: 2025-12-28 06:00:00 +0000
 series: world_cups
 ---
