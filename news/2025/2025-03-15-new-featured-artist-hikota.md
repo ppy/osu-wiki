@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: hikota"
 date: 2025-03-15 20:30:00 +0000
+series: featured_artists
 ---
 
 Blend a bit of drum, a pinch of bass, and some amphibian wit together to create **hikota**, our newest Featured Artist!

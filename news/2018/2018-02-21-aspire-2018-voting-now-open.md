@@ -2,6 +2,7 @@
 layout: post
 title: Aspire 2018 Voting Now Open
 date: 2019-02-21 00:00:00 +0000
+series: official_contests
 ---
 
 Bringing a whole new meaning to fashionably late, the voting for Aspire 2018 is now open - help us decide which of the final twelve is the most imaginative take on Culprate's Acid Rain!

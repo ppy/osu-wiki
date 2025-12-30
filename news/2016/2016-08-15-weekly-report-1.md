@@ -3,6 +3,7 @@ layout: post
 title: "Weekly Report #1"
 date: 2016-08-15 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/148998065655/weekly-report-1
+series: osu_weekly
 ---
 
 Hello! We will be bringing you the latest internal topics that came up inside the Quality Assurance Team. We would like to keep this in a regular basis (and weekly if possible) to let you stay tuned about our whereabouts!

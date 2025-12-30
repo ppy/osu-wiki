@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: March 2022"
 date: 2022-03-22 16:00:00 +0000
+series: project_loved
 ---
 
 Celebrate spring with us on this new round of Project Loved!

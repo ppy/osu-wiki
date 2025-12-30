@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2018: Results"
 date: 2019-02-04 10:30:00 +0000
+series: official_contests
 ---
 
 You've had your say, and we have our winners! Check out the new Community Favourites of 2018, featuring some of the closest voting we've ever seen!

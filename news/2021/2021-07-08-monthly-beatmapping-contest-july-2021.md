@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: July 2021"
 date: 2021-07-08 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Design two super short maps in this month's contrast-themed mapping contest!

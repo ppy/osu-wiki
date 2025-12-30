@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Dreamxiety, the osu! Artist Extraordinaire"
 date: 2024-09-02 13:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 The Followpoint is back with another interview! This time it will be very artistic so to say.

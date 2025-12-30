@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aethral"
 date: 2022-04-20 09:00:00 +0000
+series: featured_artists
 ---
 
 **Aethral** is prepared to blast eardrums with non-stop bass as our latest Featured Artist!

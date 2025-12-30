@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: nora2r"
 date: 2021-02-20 09:15:00 +0000
+series: featured_artists
 ---
 
 A savant of anything and everything about bass, **nora2r** joins the lineup as our latest Featured Artist!

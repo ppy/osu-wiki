@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: unfeeling"
 date: 2025-11-01 18:00:00 +0000
+series: featured_artists
 ---
 
 Ready or not, **unfeeling** is here.

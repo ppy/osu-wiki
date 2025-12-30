@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko and osu!catch World Cup 2024 Staff Applications
 date: 2024-01-15 12:00:00 +0000
+series: world_cups
 ---
 
 As the 2024 osu! World Cup kicks off with the osu!mania 7K World Cup, preparations for the next World Cups are already underway. Read on to find out how you can contribute!

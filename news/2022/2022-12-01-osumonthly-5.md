@@ -2,6 +2,7 @@
 layout: post
 title: osu!monthly, November 2022
 date: 2022-12-05 09:00:00 +0000
+series: osu_monthly
 ---
 
 Catch up with community happenings in November's edition of osu!monthly!

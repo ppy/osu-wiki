@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2025: Finals Recap"
 date: 2025-04-25 12:30:00 +0000
+series: world_cups
 ---
 
 The last remaining teams approached the summit. One final step to the ultimate battle!

@@ -2,6 +2,7 @@
 layout: post
 title: "Aspire Stage Three: osu!catch Begins"
 date: 2017-09-21 22:00:00 +0100
+series: official_contests
 ---
 
 With the osu! and osu!taiko communities flexing their creative muscles in the past two Aspire contests, the time is ripe for the fruit-catchers to take the spotlight, to the sound our very own Featured Artist, **OISHII**!

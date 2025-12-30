@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2025: Round of 16 Recap"
 date: 2025-11-21 18:00:00 +0000
+series: world_cups
 ---
 
 After three weeks of Qualifiers and Group Stage play, the 2025 osu! World Cup reached the bracket stage at long last.
@@ -30,7 +31,7 @@ For those who prefer a visual recap of the week's action, you can once more chec
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2613988017&parent=osu.ppy.sh&autoplay=false&time=4h44m24s" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.jpg)
+![](/wiki/shared/news/2025-11-21-osu-world-cup-2025-round-of-16-recap/mappool.png?2)
 
 This Round of 16 mappool had some quite interesting maps to offer, with plenty of unique ones chosen. From the already existing maps, some selections stood out, such as [CWC 2024](/wiki/Tournaments/CWC/2024)'s [osu! original](/wiki/Community/Bespoke_music) [step by step](https://osu.ppy.sh/beatmapsets/2298768#osu/5167719), as well as [Oboetete Ii Yo](https://osu.ppy.sh/beatmapsets/53791#osu/163836). *step by step* was a swing offering with interesting flow and slider aim tests, while [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)'s *Oboetete Ii Yo* map was a nostalgic, mechanically intense fast pick on DT, and an interesting view into 13-year-old mapping.
 
@@ -84,6 +85,8 @@ None would disappoint, as the four teams combined to lose a total of just one ma
 Sunday brought forth the majority of the week's matches, getting started early and featuring action throughout the day to the tune of nearly 10 hours of gameplay. While the day started off inauspiciously with Taiwan sweeping the Netherlands, things would heat up over the course of the morning. New Zealand challenged the 7th-seeded United Kingdom, with the UK eventually coming out on top 5–3. Meanwhile, Japan and Thailand [engaged in a fierce battle leading to the week's only tiebreaker](#thailand-vs.--japan).
 
 Several other losers' bracket matchups took place with victors eventually including Indonesia, Austria, Sweden, Finland, and Spain. Sunday's afternoon window featured three top 8 seeds getting their tournament underway, as the United States took down France, Germany defeated Brazil, and the Russian Federation became the lone top 8 seed to lose their round of 16 match, with the #9 seed China taking them out in a closely fought 5–3 match.
+
+::{#italy-turkiye}::
 
 ### ::{ flag=IT }:: Italy vs. ::{ flag=TR }:: Türkiye
 

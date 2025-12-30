@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2018: Grand Finals Recap"
 date: 2018-12-20 11:00:00 +0000
+series: world_cups
 ---
 
 For over a month and a half, some of osu!'s best players embarked on the journey of the year in search of glory in the osu! World Cup 2018. Thirty-two teams from across the globe competed to showcase their skills for the championship, and over time, only three were left standing in the Grand Finals weekend – Germany, the United Kingdom, and the United States. From there, it was a grand showdown between three of osu!'s most titanic teams for the crown, and boy was it a battle!

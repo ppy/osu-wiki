@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: DraGonis"
 date: 2025-08-04 12:30:00 +0000
+series: featured_artists
 ---
 
 Whether you're at home or at a certain osu! event, you'll appreciate the sound of **DraGonis**, our newest Featured Artist!

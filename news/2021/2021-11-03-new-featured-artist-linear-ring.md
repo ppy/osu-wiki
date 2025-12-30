@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: linear ring"
 date: 2021-11-03 08:00:00 +0000
+series: featured_artists
 ---
 
 Grace your eardrums with music by **linear ring** — our newest Featured Artist!

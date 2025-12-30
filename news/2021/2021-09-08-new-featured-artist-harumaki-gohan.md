@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Harumaki Gohan"
 date: 2021-09-08 09:00:00 +0000
+series: featured_artists
 ---
 
 **Harumaki Gohan** takes center stage as the latest addition to the Featured Artist lineup!

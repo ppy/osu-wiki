@@ -2,6 +2,7 @@
 layout: post
 title: Yuzu's New Look Contest
 date: 2017-08-21 09:00:00 +0000
+series: community_contests
 ---
 
 Intimidated by Mocha's explosive popularity, Yuzu is putting out a call for intrepid artists to help him discover his new look! Like to draw? Think you can make Yuzu shine like a diamond? Read on to find out more!

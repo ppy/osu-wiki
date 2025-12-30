@@ -3,6 +3,7 @@ layout: post
 title: March 2016 Ranking Charts
 date: 2016-04-26 22:44:26 +0000
 tumblr_url: http://osunews.tumblr.com/post/143450713603/march-2016-ranking-charts
+series: beatmap_spotlights
 ---
 
 With some delay, the Ranking Charts for March 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1603)!

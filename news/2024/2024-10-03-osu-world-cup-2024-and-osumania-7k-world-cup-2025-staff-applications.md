@@ -2,6 +2,7 @@
 layout: post
 title: osu! World Cup 2024 and osu!mania 7K World Cup 2025 Staff Applications
 date: 2024-10-03 20:00:00 +0000
+series: world_cups
 ---
 
 Looking for osu!mania 7K playtesters, as well as referees for the current osu! World Cup. Think you have what it takes to help?

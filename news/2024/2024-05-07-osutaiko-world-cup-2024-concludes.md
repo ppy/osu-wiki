@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko World Cup 2024 Concludes
 date: 2024-05-07 12:00:00 +0000
+series: world_cups
 ---
 
 And your osu!taiko World Cup champion is...

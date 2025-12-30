@@ -2,6 +2,7 @@
 layout: post
 title: Aspire 2018 Results
 date: 2019-07-22 12:00:00 +0000
+series: official_contests
 ---
 
 The wait is finally over, and the winner officially revealed! Aspire 2018 concludes at last to the tunes of Culprate's Acid Rain. But where does the contest go from here, and most importantly, who takes home the prize?

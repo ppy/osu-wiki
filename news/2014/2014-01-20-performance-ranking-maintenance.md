@@ -3,6 +3,7 @@ layout: post
 title: Performance Ranking Maintenance
 date: 2014-01-20 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/73929298672/performance-ranking-maintenance
+series: ranking_system_updates
 ---
 
 Hey peoples. Just a quick note that I have completely disabled the Performance Points as they were not calculating correctly over the last few months.

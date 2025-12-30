@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2025: Registrations Now Open!"
 date: 2025-09-26 15:30:00 +0000
+series: world_cups
 ---
 
 It's that time of the year once again. Prepare your banners, warm up your fingers, and get ready to cheer for your country as we unveil the 16th edition of the osu! World Cup!

@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest March 2017: osu!catch"
 date: 2017-03-01 15:44:33 +0000
 tumblr_url: http://osunews.tumblr.com/post/157864915928/monthly-beatmapping-contest-march-2017-osucatch
+series: monthly_beatmapping_contest
 ---
 
 Another month rolls by, another contest to test your mettle on. Ever tried catching fruits for fun? How about arranging them for once?

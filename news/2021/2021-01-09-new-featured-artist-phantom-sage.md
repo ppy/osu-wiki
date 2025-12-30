@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Phantom Sage"
 date: 2021-01-09 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to introduce **Phantom Sage** as our latest Featured Artist!

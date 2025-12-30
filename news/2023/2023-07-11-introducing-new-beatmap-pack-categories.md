@@ -2,6 +2,7 @@
 layout: post
 title: Introducing New Beatmap Pack Categories
 date: 2023-07-11 09:00:00 +0000
+series: game_updates
 ---
 
 The beatmap pack scene is taking off in 2023 with a number of all-new categories and some new talent to boot!

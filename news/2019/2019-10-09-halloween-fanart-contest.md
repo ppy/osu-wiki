@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2019 Fanart Contest
 date: 2019-10-09 11:00:00 +0000
+series: fanart_contests
 ---
 
 Don't be alarmed, but things are about to get a little SPOOKY around here at the end of the month, and you know what that means - Halloween fanart contest time!

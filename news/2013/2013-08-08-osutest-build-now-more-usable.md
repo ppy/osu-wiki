@@ -3,6 +3,7 @@ layout: post
 title: osu!test build now more usable
 date: 2013-08-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/57687830738/osutest-build-now-more-usable
+series: game_updates
 ---
 
 From now on, the osu! test build (supporter only) will now connect to the main bancho server, and allow for ranking and playing with normal users!

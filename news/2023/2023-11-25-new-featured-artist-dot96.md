@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: DOT96"
 date: 2023-11-25 19:00:00 +0000
+series: featured_artists
 ---
 
 **DOT96** makes their mark on our Featured Artist collection!

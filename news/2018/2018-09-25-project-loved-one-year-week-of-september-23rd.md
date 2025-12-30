@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: One Year / Week of September 23rd"
 date: 2018-09-25 01:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is celebrating its first birthday today! Like always, we have a wide selection of beatmaps up for vote this week; don't forget to show them some love!

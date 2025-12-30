@@ -2,6 +2,7 @@
 layout: post
 title: osu!monthly, January 2023
 date: 2023-02-10 19:00:00 +0000
+series: osu_monthly
 ---
 
 New year, new osu!, right? Catch up with all that's changed since last year!

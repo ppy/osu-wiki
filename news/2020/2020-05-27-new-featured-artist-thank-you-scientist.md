@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Thank You Scientist"
 date: 2020-05-27 08:00:00 +0000
+series: featured_artists
 ---
 
 **Thank You Scientist** adds some method to the madness as our latest addition to the Featured Artist lineup!

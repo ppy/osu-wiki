@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Silentroom"
 date: 2020-07-29 08:00:00 +0000
+series: featured_artists
 ---
 
 Make some noise for **Silentroom**, our latest Featured Artist!

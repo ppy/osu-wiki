@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Tides of Winter - Voting Open"
 date: 2022-01-16 12:00:00 +0000
+series: official_contests
 ---
 
 Now that winter's getting nice and comfortable, we've packed some of the *coolest* skins of all time into a contest-shaped icebox for you all to enjoy. Come check them out, and help us decide which ones are the best!

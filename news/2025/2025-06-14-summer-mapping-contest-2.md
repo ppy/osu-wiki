@@ -2,6 +2,7 @@
 layout: post
 title: "Summer Mapping Contest #2"
 date: 2025-06-14 00:00:00 +0000
+series: community_contests
 ---
 
 Summer is back, and so is the Summer Mapping Contest! 🌞

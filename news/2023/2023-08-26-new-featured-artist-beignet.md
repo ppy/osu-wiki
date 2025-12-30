@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: beignet"
 date: 2023-08-26 12:00:00 +0000
+series: featured_artists
 ---
 
 [YUC'e](https://osu.ppy.sh/beatmaps/artists/372) and [Aice room / Nor](https://osu.ppy.sh/beatmaps/artists/360) return to expand our Featured Artist library under the joint alias **beignet**!

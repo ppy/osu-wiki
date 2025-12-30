@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: August 2025"
 date: 2025-08-06 20:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Circles and sliders have infinite potential. It's your task to convert that potential into a map that's actually good (and earn some fancy prizes along the way).

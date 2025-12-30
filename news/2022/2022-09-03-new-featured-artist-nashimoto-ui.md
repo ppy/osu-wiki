@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Nashimoto Ui"
 date: 2022-09-03 10:00:00 +0000
+series: featured_artists
 ---
 
 **Nashimoto Ui** seeps into our Featured Artist library.

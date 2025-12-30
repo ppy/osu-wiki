@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: Autumn 2019"
 date: 2020-01-17 08:00:00 +0000
+series: beatmap_spotlights
 ---
 
 A new decade has dawned, and even though the chilly winds are behind us, we've got a brand new set of 2019's hottest maps to welcome in the new season! Check them out, and earn a fancy new medal for yourself!

@@ -2,6 +2,7 @@
 layout: post
 title: Bespoke Music in osu!
 date: 2024-03-20 06:00:00 +0000
+series: miscellaneous
 ---
 
 Delve into the origins and behind-the-scenes of how a music scene has not-so-quietly taken shape within osu!.

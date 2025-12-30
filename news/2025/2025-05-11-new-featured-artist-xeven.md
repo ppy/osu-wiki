@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Xeven"
 date: 2025-05-11 22:00:00 +0000
+series: featured_artists
 ---
 
 **Xeven** is here with a double debut! Experience a new track created specifically for this year's [Lazer Grand Arena](/wiki/Tournaments/LGA/2025), along with the rest of what **Xeven** has to offer as our newest Featured Artist.

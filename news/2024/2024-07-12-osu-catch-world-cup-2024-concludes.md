@@ -2,6 +2,7 @@
 layout: post
 title: osu!catch World Cup 2024 Concludes
 date: 2024-07-12 23:00:00 +0000
+series: world_cups
 ---
 
 After years of South Korean domination, this year we finally crown a new osu!catch World Cup champion!

@@ -2,6 +2,7 @@
 layout: post
 title: Spring Indoors 2020 Fanart Contest
 date: 2020-04-02 08:00:00 +0000
+series: fanart_contests
 ---
 
 Spring is here, and though a lot of us are currently stuck indoors for the most part, we're not going to let that dampen our artistic spirit!

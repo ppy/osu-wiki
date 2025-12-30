@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #7"
 date: 2014-10-01 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/98300571848/monthly-beatmapping-contest-7
+series: monthly_beatmapping_contest
 ---
 
 Announcing the 7th installment of the Monthly Beatmapping Contest - but this time across all game modes. Celebrating the anniversary of mode-specific BATs, we opened this Monthly Beatmapping Contest for osu!, Taiko, Catch the Beat and osu!mania.

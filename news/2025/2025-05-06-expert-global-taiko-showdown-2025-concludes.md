@@ -2,6 +2,7 @@
 layout: post
 title: Expert Global Taiko Showdown 2025 Concludes
 date: 2025-05-06 20:00:00 +0000
+series: community_tournaments
 ---
 
 After two months of some of the highest levels of tournament matches osu!taiko has ever seen, the final chapter of EGTS has come to a conclusion! Please join us to see what went down in the most ambitious osu!taiko tournament yet.

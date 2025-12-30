@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Knife"
 date: 2023-12-02 20:00:00 +0000
+series: featured_artists
 ---
 
 **Knife**'s Touhou-themed tunes slip into our Featured Artist catalogue!

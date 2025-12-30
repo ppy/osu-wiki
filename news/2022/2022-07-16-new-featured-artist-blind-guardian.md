@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Blind Guardian"
 date: 2022-07-16 10:00:00 +0000
+series: featured_artists
 ---
 
 **Blind Guardian** stands vigil between you and our Featured Artist library, what will you do? Listen to some new sick metal tunes, of course!

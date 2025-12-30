@@ -2,6 +2,7 @@
 layout: post
 title: osu! originals - osu!mania 4K World Cup 2023
 date: 2023-10-03 08:00:00 +0000
+series: world_cups
 ---
 
 The [osu!mania 4K World Cup](/wiki/Tournaments/MWC/2023_4K) is done for the year, but **7 new songs** debuted in the tournament will stick around forever!

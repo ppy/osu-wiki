@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Asa"
 date: 2023-12-10 18:00:00 +0000
+series: featured_artists
 ---
 
 **Asa** has subtlely reached into every corner of osu! throughout the last decade, and at long last, they're part of our Featured Artists!

@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmap Contest #10 Results CtB"
 date: 2015-08-06 20:47:11 +0000
 tumblr_url: http://osunews.tumblr.com/post/126037472723/monthly-beatmap-contest-10-results-ctb
+series: community_contests
 ---
 
 With our first ever CtB only mapping contest coming to a close, the results are in and the winner has been decided. This one was a CtB mapset only, so no standard, taiko or mania difficulties this time around!

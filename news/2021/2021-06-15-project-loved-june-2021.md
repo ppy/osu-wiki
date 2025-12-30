@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: June 2021"
 date: 2021-06-15 11:00:00 +0000
+series: project_loved
 ---
 
 Project Loved is here to kick off the summer with the hottest new selection of maps for you to vote on!

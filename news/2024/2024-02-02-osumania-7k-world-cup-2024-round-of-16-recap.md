@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2024: Round of 16 Recap"
 date: 2024-02-02 17:00:00 +0000
+series: world_cups
 ---
 
 No one has been eliminated yet, but consistency is the name of the game as teams decide who will keep fighting among the winners and who will be cast down to the losers' bracket!

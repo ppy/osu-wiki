@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of April 21st"
 date: 2019-04-22 16:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s cycle continues! The captains have nominated a new batch of maps for the Loved section, but it's only up to you whether or not they'll make it! Come check out the selection and vote for the maps that you'd like to see Loved.

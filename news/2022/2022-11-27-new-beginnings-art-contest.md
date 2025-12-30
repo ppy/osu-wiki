@@ -2,6 +2,7 @@
 layout: post
 title: New Beginnings Art Contest
 date: 2022-11-27 10:00:00 +0000
+series: fanart_contests
 ---
 
 The end of the year approaches, and with it, so too does an era in osu!'s history. Grab your drawing implement of choice and look to the future in our latest art contest!

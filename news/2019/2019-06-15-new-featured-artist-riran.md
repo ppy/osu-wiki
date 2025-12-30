@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: RiraN"
 date: 2019-06-15 04:30:00 +0000
+series: featured_artists
 ---
 
 osu!'s latest Featured Artist enters the scene in style - hardstyle in fact! Meet [**RiraN**](https://osu.ppy.sh/beatmaps/artists/40), one of Asia's up and coming hardstyle artists!

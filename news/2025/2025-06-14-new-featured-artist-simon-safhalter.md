@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Simon Safhalter"
 date: 2025-06-14 18:30:00 +0000
+series: featured_artists
 ---
 
 **Simon Safhalter** slips into our Featured Artist library!

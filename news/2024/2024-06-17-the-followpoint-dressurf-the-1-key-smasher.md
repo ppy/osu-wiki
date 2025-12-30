@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: dressurf, The #1 Key Smasher"
 date: 2024-06-17 17:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 The last in a series of top player interviews features [dressurf](https://osu.ppy.sh/users/758406), osu!mania's #1 keyboard smasher!

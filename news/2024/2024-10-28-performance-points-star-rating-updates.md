@@ -2,6 +2,7 @@
 layout: post
 title: Performance Points & Star Rating Updates
 date: 2024-10-28 11:16:34 +0000
+series: ranking_system_updates
 ---
 
 The time for change is finally here!

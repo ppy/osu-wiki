@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: February"
 date: 2020-02-03 11:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 New month, new mapping contest! Vote on last month's submissions and compete to become the next Elite Mapper!

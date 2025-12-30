@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2024: Finals Recap"
 date: 2024-12-05 23:30:00 +0000
+series: world_cups
 ---
 
 The dust has finally settled, and only 3 teams are left standing. Join us to refresh your memory, and prepare yourselves for an unparalleled showcase of skill this weekend.

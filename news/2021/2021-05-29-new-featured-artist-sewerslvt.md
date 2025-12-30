@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Sewerslvt"
 date: 2021-05-29 08:00:00 +0000
+series: featured_artists
 ---
 
 **Sewerslvt** joins the Featured Artist roster.

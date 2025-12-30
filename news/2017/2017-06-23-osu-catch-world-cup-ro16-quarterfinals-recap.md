@@ -3,6 +3,7 @@ layout: post
 title: osu!catch World Cup - RO16/Quarterfinals Recap
 date: 2017-06-23 05:03:49 +0000
 tumblr_url: http://osunews.tumblr.com/post/162149460298/osucatch-world-cup-ro16quarterfinals-recap
+series: world_cups
 ---
 
 A double recap is available this week for both the Round of 16 and the Quarter Finals of osu!catch World Cup! Read on to get up to speed on what to expect for the battle of the top 8 these coming weekends.

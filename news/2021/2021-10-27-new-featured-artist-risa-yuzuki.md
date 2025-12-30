@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Risa Yuzuki"
 date: 2021-10-27 09:00:00 +0000
+series: featured_artists
 ---
 
 Serenade yourself in the vocal talents of **Risa Yuzuki**, our latest Featured Artist!

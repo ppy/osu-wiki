@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2021 Fanart Contest Results
 date: 2021-10-27 15:30:00 +0000
+series: fanart_contests
 ---
 
 The height of spooky night is nearly upon us, and to celebrate, we've got twenty new finalists from our latest Halloween fanart contest to help set the mood!

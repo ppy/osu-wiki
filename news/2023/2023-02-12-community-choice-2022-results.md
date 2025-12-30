@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2022: Results"
 date: 2023-02-12 08:00:00 +0000
+series: official_contests
 ---
 
 You've had your say, and the results are in! Find out which maps are the Community Choice and Mapper's Favourite from 2022 for each mode!

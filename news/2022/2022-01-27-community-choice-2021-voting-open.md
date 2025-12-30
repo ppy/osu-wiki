@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2021: Voting Open"
 date: 2022-01-27 13:00:00 +0000
+series: official_contests
 ---
 
 2021 sure was something! Help us decide your Community Favourite in all four game modes by voting for your ten most-liked maps of 2021 today!

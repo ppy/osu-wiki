@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: USAO"
 date: 2022-03-16 09:00:00 +0000
+series: featured_artists
 ---
 
 **USAO** IS HERE.

@@ -76,7 +76,7 @@ Los concursos que cumplan los siguientes criterios podrán recibir soporte ofici
 - **Un usuario no puede participar en más de un envío para el concurso.**
 - **Los envíos para el concurso deben ser anónimos.** De esta forma se evita juzgar la asociación de nombres entre un mapper y su mapa. Esta regla solo podrá ignorarse si en un concurso concurren circunstancias especiales que justifiquen la eliminación del anonimato.
 - **Los organizadores del concurso no deben participar en el mismo.** Esto incluye tanto el envío de un mapa *como* la selección y evaluación de los mismos. Se considera como «organizador del concurso» a cualquier persona que tenga acceso a la información de selección/evaluación o a los envíos no anonimizados.
-- **El personal que participe en el concurso, sea cual sea su función, no debe estar [restringido](/wiki/Help_centre/Account_restrictions) o [vetado de los torneos](/wiki/Help_centre/Tournament_bans).**
+- **El personal que participe en el concurso, sea cual sea su función, no debe estar [restringido](/wiki/Help_centre/Account_restrictions) o [vetado de los torneos](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos).**
 
 Además de los criterios anteriores, los concursos que cumplan estas reglas podrán ser elegibles para el soporte oficial de los **[puntos de los concursos](/wiki/Contests/Contest_points) para ganar el título de usuario *Elite Mapper:***
 

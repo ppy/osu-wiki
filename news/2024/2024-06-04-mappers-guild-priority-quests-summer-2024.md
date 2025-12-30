@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild - Summer 2024 Priority Quests
 date: 2024-06-04 22:00:00 +0000
+series: mappers_guild
 ---
 
 The only thing better than clicking circles is *creating* circles to click. Through the **Mappers' Guild**, you can put your mapping mastery to the test with a new batch of quests!
