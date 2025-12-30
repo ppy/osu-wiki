@@ -22,7 +22,7 @@ Peripherals such as tablets and touchscreens are fine. Anything which decreases 
 
 Each user may only use **one** account. Creating new accounts is strictly forbidden. First offences may be punished with a silence of varying length depending on the number of accounts made. Users that continue creating new accounts despite previous warnings will be restricted. Note that creating an additional account to participate in a tournament is considered an especially serious offence and will result in an immediate restriction, as well as an indefinite [ban from any officially supported tournaments and contests](/wiki/Help_centre/Tournament_sanctions#tournament-bans) if the offence pertains to such an event.
 
-Allowing another person to use a different user's account is also strictly forbidden, and will generally cause a restriction for the first offence. This is in order to prevent highly skilled players "boosting" other users' accounts or using them to participate in tournaments outside their skill range, as well as preventing users from circumventing penalties issued to their original accounts. If you have allowed another user to play on your account by accident, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) as soon as possible.
+Allowing another person to use a different user's account is also strictly forbidden, and will generally cause a restriction for the first offence. This is in order to prevent highly skilled players "boosting" other users' accounts or using them to participate in tournaments outside their skill range, as well as to prevent users from circumventing penalties issued to their original accounts. If you have allowed another user to play on your account by accident, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) as soon as possible.
 
 ## I have been restricted for foul play, but I was following the rules! {id=false-restriction}
 
@@ -62,7 +62,7 @@ In beatmap pages, you can report a user in the top leaderboards by clicking the 
 
 This way of reporting is **not encouraged** because in-game reports are mostly chat-related.
 
-Use the `!report` command in any channel to inform the chat moderators. Other players will not see your reports in chat **unless you are using osu!(lazer)**.
+Use the `!report` command in any channel to inform the chat moderators. If you are using osu!(lazer), right click or long press the offender's username instead. Other players will not see your reports in chat.
 
 ```
 Format: !report <username> <reason>

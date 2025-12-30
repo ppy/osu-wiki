@@ -22,7 +22,9 @@ A user who has an active silence cannot do the following:
 ![](img/silence-ingame.png "Silence warning in the chat")
 :::
 
-Once a silence is issued to a user, all of their messages in chat are removed and an alert will be displayed in the place of the chat input field containing the duration of the active silence.[^chat-cleanup] Silences are publicly visible under the `Account Standing` tab of the silenced user's profile for 28 days after being applied.
+Once a silence is issued to a user, all of their messages in chat are removed and an alert will be displayed in the place of the chat input field containing the duration of the active silence.[^chat-cleanup]
+
+Silences are publicly visible under the `Account Standing` tab of the silenced user's profile for 28 days after being applied. If the silence is currently active, its remaining duration will also be displayed in this tab.
 
 ## Durations
 
