@@ -88,6 +88,62 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (273 MB)](https://drive.google.com/file/d/1Mq90pg5lKTXt2DdJZ7agTYGqg_APMLfI/view)**
+
+- Rice
+  1. [Noah - The Wheel of Fortune Turning Over (OxalicAcid) \[Reverse\]](https://osu.ppy.sh/beatmapsets/2476179#mania/5429020)
+  2. [Lime - Beyond (\[GB\]Oceanus) \[Aurora\]](https://osu.ppy.sh/beatmapsets/2476170#mania/5428996)
+  3. [sakanaction - Shin Takarajima (\[GS\]hina) \[Aurealis (ASC2 Edit)\]](https://osu.ppy.sh/beatmapsets/2476181#mania/5429022)
+  4. [Camellia - Towards the Horizon (RyuOn) \[Ryuon's Fantasia (edit) x1.1\]](https://osu.ppy.sh/beatmapsets/2476171#mania/5428998)
+  5. [YZYX - Dysnomia (0DZ0) \[Paradise Lost\]](https://osu.ppy.sh/beatmapsets/2310573#mania/4942998)
+  6. [THE BEAT WIZARD - Close Cutter (Hylotl) \[Scissors\]](https://osu.ppy.sh/beatmapsets/2476185#mania/5429051)
+  7. [Nekomata Master feat. Shimotsuki Haruka - Element of SPADA (Game Ver.) (\[GS\]hina) \[Serment 1.05x (179bpm)\]](https://osu.ppy.sh/beatmapsets/2476184#mania/5429037)
+  8. [Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) \[Alice's First Law 1.1x (no mini-LNs)\]](https://osu.ppy.sh/beatmapsets/1438897#mania/3114628)
+- Long Notes
+  1. [KAF - Montage (Hytex) \[Delusion\]](https://osu.ppy.sh/beatmapsets/2476193#mania/5429076)
+  2. [Gram vs. Yooh - Apocalypse (Toaph Daddy) \[Meteor Flare\]](https://osu.ppy.sh/beatmapsets/2476167#mania/5428989)
+  3. [sasakure.UK - LIN NE KRO NE feat. lasah (\[HD\]Erina) \[.\*\<Expressionless\>\*.\]](https://osu.ppy.sh/beatmapsets/2476199#mania/5429118)
+  4. [Reol - Minazoko Yuuhodou (\[Crz\]Crysarlene) \[Beneath The Silence\]](https://osu.ppy.sh/beatmapsets/1893942#mania/3902883)
+  5. [Demetori - Last Remote ~ Type A Personality (Castella) \[Requiem of Koishi od7\]](https://osu.ppy.sh/beatmapsets/2048331#mania/4276650)
+- Hybrid
+  1. [BilliumMoto - Sentinel (AelSan) \[Dismay, Dismay! Light has faded and left us in dismay! 1.05x (243bpm)\]](https://osu.ppy.sh/beatmapsets/2218561#mania/4702582)
+  2. [Ichika Nito - Metaphor feat. Feryquitous (ImperialTrinity) \[Expert | Ethereal Resonance.\]](https://osu.ppy.sh/beatmapsets/2329261#mania/4994642)
+  3. [NormalM - Radiant Spectrala (Muses, OxalicAcid) \[Prism\]](https://osu.ppy.sh/beatmapsets/2476188#mania/5429065)
+- Slider Velocity
+  1. [Kolaa & Kumako - Ichirin (Mafufu) \[..\*\<\| Existence \<=\> Nihility //\*\\\ You & Me //\*\\\ Instant <=> Eternity \|\>\*..\]](https://osu.ppy.sh/beatmapsets/2476177#mania/5429010)
+- Tiebreaker
+  1. **[ASC Sound Team ''Wandering Travelers'' - Fortuitous Voyage (\[Crz\]FolAH1217, \[GB\]Oceanus, \[-Leon-\], \[GS\]hina, rikan) \[Maple's Long Journey Home\]](https://osu.ppy.sh/beatmapsets/2476204#mania/5429125)**
+
+### Finals
+
+**[Download the mappack here! (203 MB)](https://drive.google.com/file/d/1YJb8qkUQlczf9Za1RsRzTD3vjTyD3BR7/view)**
+
+- Rice
+  1. [DJ SHARPNEL - THE POWER OF UNDERGROUND (MyZterioN-) \[thrive 1.25x (244bpm)\]](https://osu.ppy.sh/beatmapsets/2014292#mania/4191812)
+  2. [kommisar - Hyper Weaboo Vodka Shots (0DZ0) \[Hyper 1.05x (268bpm)\]](https://osu.ppy.sh/beatmapsets/1841524#mania/3782333)
+  3. [sakanaction - Aoi (Cut ver.) (Hylotl) \[Azure\]](https://osu.ppy.sh/beatmapsets/2472326#mania/5416912)
+  4. [NU-KO - SHINE TO SHINE (Doshowz) \[SHINE (ASC ver.)\]](https://osu.ppy.sh/beatmapsets/2472319#mania/5416885)
+  5. [Memme - Acid Burst (hna) \[Nuclear\]](https://osu.ppy.sh/beatmapsets/2061819#mania/4310401)
+  6. [Kou! - Sanzui (ICECAKE) \[NSV 1.1x (220bpm) OD8\]](https://osu.ppy.sh/beatmapsets/2187661#mania/4711829)
+  7. [Ashrount - Bleary Vagary (AutotelicBrown) \[Muzzy\]](https://osu.ppy.sh/beatmapsets/2472335#mania/5416931)
+  8. [Taishi feat. Noriko Mitose - The Personalizer (ERA Imperial) \[Chain your Heart (cut) 1.05x (145bpm) OD8.5\]](https://osu.ppy.sh/beatmapsets/2134248#mania/4501616)
+- Long Notes
+  1. [Giga-P feat. GUMI, KYO - Ooedo Ranvu (Hylotl) \[corruption\]](https://osu.ppy.sh/beatmapsets/1888225#mania/3888702)
+  2. [DJ Raisei vs Setca. feat. nayuta - Utakata no Sekai de (\[-Leon-\]) \[YuEast 2018's Fragments. (ASC edit)\]](https://osu.ppy.sh/beatmapsets/2472372#mania/5416982)
+  3. [Sakuzyo feat. Enoa (CV: Hikaru Tono) - NotToNotice(); (Saemitsu, ImperialTrinity) \[// DesireToComprehend();\]](https://osu.ppy.sh/beatmapsets/2445692#mania/5338306)
+  4. [Lusumi - /data\_eraser.wav (\[-Leon-\]) \[error\]](https://osu.ppy.sh/beatmapsets/2472376#mania/5416987)
+  5. [rejection - Aimai Attitude (feat. Nakamura Sanso) (\[HD\]Erina) \[Please notice me...\]](https://osu.ppy.sh/beatmapsets/2472322#mania/5416897)
+- Hybrid
+  1. [Kamikoto - Sabotage (V1do-) \[DISMANTLE\]](https://osu.ppy.sh/beatmapsets/2472344#mania/5416946)
+  2. [TAKIO feat. tug - Extradimensional Cosmic Phenomenon (Saemitsu) \[Prismatic Azure\]](https://osu.ppy.sh/beatmapsets/2472346#mania/5416949)
+  3. [Camellia - Final Flash Flight (Merian) \[Last Prism\]](https://osu.ppy.sh/beatmapsets/1765167#mania/3613128)
+- Slider Velocity
+  1. [JACKNIFE - EXO (Nightcore Ver.) (Evirir) \[hiding in my exoskeleton\]](https://osu.ppy.sh/beatmapsets/2472323#mania/5416900)
+- Tiebreaker
+  1. **[HYOUKA - Transmission\_Of\_Radionuclides\_In\_Geosynchronous\_Heights\_\<moduleGLACIER-X471\> (OxalicAcid, \[-Leon-\], \[GS\]hina) \[Oscillation\]](https://osu.ppy.sh/beatmapsets/2472371#mania/5416981)**
+
 ### Semifinals
 
 **[Download the mappack here! (116 MB)](https://drive.google.com/file/d/11BDqtX70xnV15QxJ-ZjofIju63Znai60/view)**
