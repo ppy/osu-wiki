@@ -86,6 +86,10 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 | **U=ma2=LAB=01** | ::{ flag=PH }:: **[Silicosis](https://osu.ppy.sh/users/15548876)**, ::{ flag=TH }:: [\[GS\]Thanachot](https://osu.ppy.sh/users/23509758), ::{ flag=CN }:: [Kirchhoff123](https://osu.ppy.sh/users/29546640), ::{ flag=TH }:: [MatchaLatte-](https://osu.ppy.sh/users/15944956), ::{ flag=KR }:: [sunnyyeonny](https://osu.ppy.sh/users/29340816), ::{ flag=VN }:: [Vlinaesant](https://osu.ppy.sh/users/33280967) |
 | **wedoknowwhatbye** | ::{ flag=ID }:: **[\[LS\]Robi](https://osu.ppy.sh/users/21900872)**, ::{ flag=KR }:: [Aaronzzang](https://osu.ppy.sh/users/15862779), ::{ flag=CN }:: [Idontknowwhathi](https://osu.ppy.sh/users/32379983), ::{ flag=HK }:: [Popy](https://osu.ppy.sh/users/30829023), ::{ flag=KR }:: [Rei\_O9](https://osu.ppy.sh/users/12388151), ::{ flag=VN }:: [Rip\_MsCr7](https://osu.ppy.sh/users/33675196) |
 
+## Podium
+
+![ASC 2 podium](img/asc-2-podium.jpg)
+
 ## Mappools
 
 ### Grand Finals
