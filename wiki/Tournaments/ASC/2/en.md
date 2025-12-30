@@ -231,6 +231,57 @@ The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 13 December 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| U=ma2=LAB=01 | 4 | **7** | **BALLS** | [#1](https://osu.ppy.sh/community/matches/120064549) |
+
+Sunday, 14 December 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nagisa fanboys | 4 | **7** | **BALLS** | [#1](https://osu.ppy.sh/community/matches/120074228) |
+| **BALLS** | **7** | 5 | nagisa fanboys | [#1](https://osu.ppy.sh/community/matches/120074579) |
+
+### Finals
+
+Saturday, 6 December 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| New Pigeon | 3 | **7** | **wedoknowwhatbye** | [#1](https://osu.ppy.sh/community/matches/120008360) |
+| **BALLS** | **7** | 4 | The Maple Simpers | [#1](https://osu.ppy.sh/community/matches/120008534) |
+
+Sunday, 7 December 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **BALLS** | **7** | 5 | wedoknowwhatbye | [#1](https://osu.ppy.sh/community/matches/120018023) |
+| U=ma2=LAB=01 | 1 | **7** | **nagisa fanboys** | [#1](https://osu.ppy.sh/community/matches/120018710) |
+
+### Semifinals
+
+Saturday, 29 November 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Skill Issue | 2 | **6** | Captain's Hometown | [#1](https://osu.ppy.sh/community/matches/119951219) |
+| **nagisa fanboys** | **6** | 1 | New Pigeon | [#1](https://osu.ppy.sh/community/matches/119951500) |
+| Capoo Fans | 4 | **6** | **wedoknowwhatbye** | [#1](https://osu.ppy.sh/community/matches/119951767) |
+| **The Maple Simpers** | **6** | 4 | Foreclosure Task Rob | [#1](https://osu.ppy.sh/community/matches/119951744) |
+| **U=ma2=LAB=01** | **6** | 1 | BALLS | [#1](https://osu.ppy.sh/community/matches/119951843) |
+
+Sunday, 30 November 2025
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Cyclopentanoperhydrophenanthrene** | **6** | 5 | LEON | [#1](https://osu.ppy.sh/community/matches/119961465) |
+| **wedoknowwhatbye** | **6** | 0 | Cyclopentanoperhydrophenanthrene | [#1](https://osu.ppy.sh/community/matches/119962144) |
+| Captain's Hometown | 1 | **6** | **The Maple Simpers** | [#1](https://osu.ppy.sh/community/matches/119962328) |
+
 ### Quarterfinals
 
 Saturday, 23 November 2025
