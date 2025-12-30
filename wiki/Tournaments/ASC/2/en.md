@@ -9,7 +9,7 @@ tags:
 
 ![ASC 2 banner](img/asc-2-banner.jpg)
 
-The **Asia Suiji Cup 2: Autumn Rhythm** (***ASC 2***) is a three-on-three asian and oceanian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=MY }:: [rantable](https://osu.ppy.sh/users/13630137). Each participant registered individually and was assigned to a random team. It is the second instalment of the Asia Suiji Cup, its successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
+The **Asia Suiji Cup 2: Autumn Rhythm** (***ASC 2***) was a three-on-three asian and oceanian countries restricted double-elimination osu!mania 4-key tournament hosted by ::{ flag=MY }:: [\[-Leon-\]](https://osu.ppy.sh/users/13382147), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=MY }:: [rantable](https://osu.ppy.sh/users/13630137). Each participant registered individually and was assigned to a random team. It was the second instalment of the Asia Suiji Cup, its successor, and inspired by the [Asian's Campionships](/wiki/Tournaments/o!mAC) and [SEA Champion](/wiki/Tournaments/SEAC) series.
 
 ## Tournament schedule
 
@@ -37,7 +37,7 @@ Donations to the prize pool can be made through [ASC's Ko-fi page](https://ko-fi
 
 ## Organisation
 
-The Asia Suiji Cup 2: Autumn Rhythm is run by various community members.
+The Asia Suiji Cup 2: Autumn Rhythm was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
