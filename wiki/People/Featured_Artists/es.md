@@ -30,7 +30,8 @@ Nuevos lanzamientos de un Artista Destacado por año:
 - **2022:** 104
 - **2023:** 65
 - **2024:** 58
-- **2025:** *por determinar*
+- **2025:** 64
+- **2026:** *por determinar*
 
 Los nuevos Artistas Destacados son anunciados semanalmente en el [sitio de noticias](https://osu.ppy.sh/home/news) de osu!. La mayoría de los anuncios incluyen una lista de las canciones licenciadas del artista y un enlace a su página de Artista Destacado, aunque algunos anuncios se emparejan con concursos de mapping o beatmaps creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
