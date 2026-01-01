@@ -1,6 +1,6 @@
 # Reporting abuse
 
-## I don't know if I should report this or not
+## I don't know if I should report this or not {id=reportworthiness}
 
 Please do.
 
@@ -12,35 +12,37 @@ The abuse email address is only seen by [peppy](https://osu.ppy.sh/users/2) (the
 
 Nothing you send to [abuse@ppy.sh](mailto:abuse@ppy.sh) will ever be shared with anybody else other than him.
 
-## Someone's made inappropriate sexual advances or remarks towards me!
+## Someone's made inappropriate sexual advances or remarks towards me! {id=sexual-advances}
 
 Scroll through the sub-headings below to find out what to do, depending on where this all happened.
 
-### In the in-game chat
+### In the in-game chat {id=chat}
+
+*Caution: The `!report` command **does not work** in osu!(lazer), and such reports will be visible to everyone! Use [the report menu](/wiki/Reporting_bad_behaviour#lazer-reports) instead.* 
 
 Immediately block the user by right-clicking their username and selecting `Ignore User`.
 
 You should also report them immediately by clicking the `Report User` button and filling in the prompts.
 
-You can also report the user by typing `!report <person> <problem>`, where  `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
+You can also report the user by typing `!report <person> <problem>`, where `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
 
 If you feel the remarks/advances were highly inappropriate or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
-### In a public post on the osu! forums
+### In a public post on the osu! forums {id=forums}
 
 [Report the post](/wiki/Reporting_bad_behaviour#forum) to our [Global Moderation Team](/wiki/People/Global_Moderation_Team) as soon as possible.
 
 To do so, click the `Report post` button in the top right corner of the forum post.
 
-Alternatively, click the username of any GMT member in the list on that page. This will take you to their profile. If you are unsure of who to click, just use [this link instead](https://osu.ppy.sh/users/5999631).
+If the post isn't gone within a reasonable timeframe, click the username of any GMT member in the list on that page. This will take you to their profile. Alternatively, you can use [this link instead](https://osu.ppy.sh/groups/4) and click on any currently online user.
 
 Click the button with an envelope in it just below the user's country flag. This will take you to the chat screen.
 
-Paste a link to the forum post that contains the problematic content and tell the GMT a little bit about what's going on. They will remove the post for you as soon as they are able.
+Paste a link to the forum post that contains the problematic content and tell the GMT member a little bit about what's going on. They will remove the post for you as soon as they are able to.
 
 If the post still isn't gone within a reasonable timeframe, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
-### On a public osu!–related Discord server
+### On a public osu!–related Discord server {id=discord}
 
 Immediately block the user by right-clicking their username and selecting `Block` in the drop-down list that appears.
 
@@ -50,7 +52,7 @@ Should this abuse continue and the administrators do nothing about it, [please n
 
 If you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated as time allows. Note that we cannot act on content on third party services, so there is no guarantee that we will take action, but we will keep any notes on file.
 
-### On a Twitter linked to an osu! user's profile
+### On a Twitter linked to an osu! user's profile {id=twitter}
 
 Click the three dots in the top right of the problem tweet and click 'Report Tweet'. Make sure to follow the prompts and read them carefully. You might also want to read [Twitter's guide on reporting abusive behaviour](https://help.twitter.com/en/safety-and-security/report-abusive-behavior) for more information on the process.
 
@@ -60,19 +62,27 @@ Please be aware that the person will see you have blocked them if they check you
 
 If you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated as time allows. Note that we cannot act on content on third party services, so there is no guarantee that we will take action, but we will keep any notes on file.
 
-## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
+## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately! {id=volunteer}
 
-Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**. This includes screenshots, chat logs, basically anything you can attach to an email.
+Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**. This includes screenshots, chat logs, and basically anything else you can attach to an email.
+
+If you can't find the messages for any reason, but remember at least roughly when they were sent and are sure they were sent in osu!'s chat, include this information instead — the abuse team has full access to public and private chat logs.
 
 If anything you want to include makes you feel embarrassed, please blank it out. 
 
 We'll look into it as soon as we can.
 
-## Someone I know is being abused by a member of the volunteer teams (NAT, GMT) but is too afraid to speak up!
+## Someone I know is being abused by a member of the volunteer teams (NAT, GMT) but is too afraid to speak up! {id=friend}
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing everything you know with as much evidence as you can get.
 
-If you don't have any evidence but only stories or rumours that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.
+If you don't have any evidence, but only stories or rumours that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.
+
+## I think I have acted inappropriately towards someone and want to admit it {id=own-advances}
+
+Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) detailing any of your behaviour that you think may have been inappropriate. Include as many screenshots and chat logs as you can, and try to explain the context for why the behaviour was inappropriate if it is relevant.
+
+Your honesty and help in solving such cases is heavily appreciated, but given the inherent severity of harassment and sexual misconduct, a reduced punishment cannot be guaranteed.
 
 ## My email has been ignored!
 
