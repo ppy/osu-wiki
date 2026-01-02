@@ -67,7 +67,7 @@ Pembatasan bersyarat yang ada dapat dicabut dengan menyelenggarakan turnamen yan
 
 Pengguna yang berulang kali melakukan kesalahan kecil yang perlu dikoreksi oleh Komite Turnamen melalui email akan terus berada dalam masa percobaan hingga batas waktu yang tidak ditentukan. Di sisi lain, pengguna yang tidak berusaha untuk meningkatkan kualitas turnamen mereka pada saat mereka sedang dibatasi dapat dijatuhkan dengan hukuman yang lebih berat sebagaimana yang ditentukan oleh Komite Turnamen.
 
- Sanksi ini tidak kedaluwarsa secara otomatis. Apabila pengguna yang telah dibatasi sebelumnya dijatuhkan dengan hukuman yang lebih berat (seperti larangan penyelenggaraan turnamen), masa pembatasan bersyarat mereka akan ikut kedaluwarsa seiring dengan diangkatnya larangan ini.
+Sanksi ini tidak kedaluwarsa secara otomatis. Apabila pengguna yang telah dibatasi sebelumnya dijatuhkan dengan hukuman yang lebih berat (seperti larangan penyelenggaraan turnamen), masa pembatasan bersyarat mereka akan ikut kedaluwarsa seiring dengan diangkatnya larangan ini.
 
 ## Larangan penyelenggaraan turnamen
 
