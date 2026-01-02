@@ -5,23 +5,23 @@ outdated_translation: true
 outdated_since: 77e06f056c0289eb7b864d007a52c4fe7edca762
 ---
 
-# Artistas destacados
+# Artistas Destacados
 
-Los **artistas destacados** (abreviado en inglés como ***FA***) son artistas musicales que han colaborado con osu! para que una selección de sus pistas estén disponibles para su uso en [beatmaps](/wiki/Beatmap) y música de fondo en las transmisiones en vivo de la [osu! World Cup](/wiki/Tournaments#osu!-world-cup)
+Los **Artistas Destacados** (abreviado en inglés como ***FA***) son artistas musicales que han colaborado con osu! para que una selección de sus pistas estén disponibles para su uso en [beatmaps](/wiki/Beatmap) y música de fondo en las transmisiones en vivo de la [osu! World Cup](/wiki/Tournaments#osu!-world-cup)
 
-La [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado. La página de cada artista contiene información general acerca de su música y una lista de sus pistas licenciadas para su uso en osu! junto a un archivo `.osz` pre-temporizado para el beatmapping.
+La [lista de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado. La página de cada artista contiene información general acerca de su música y una lista de sus pistas licenciadas para su uso en osu! junto a un archivo `.osz` pre-temporizado para el beatmapping.
 
-El [osu! team](/wiki/People/osu!_team) a veces colabora con artistas para crear nuevas pistas para usar en osu!, llamadas [osu! originals](/wiki/osu!_originals). Estas son etiquetadas como tal en el catálogo de los artistas destacados.
+El [osu! team](/wiki/People/osu!_team) a veces colabora con artistas para crear nuevas pistas para usar en osu!, llamadas [osu! originals](/wiki/osu!_originals). Estas son etiquetadas como tal en el catálogo de los Artistas Destacados.
 
 ## Selección
 
-Las adiciones a la librería de los artistas destacados son seleccionadas indirectamente por la comunidad de osu!. Si los mappers crean y clasifican beatmaps con la música de un artista, el osu! team puede ponerse en contacto con dicho artista para hablar sobre el programa de artista destacado. Sin embargo, algunos artistas son ocasionalmente invitados a convertirse en artistas destacados basándose en otros factores, como el atractivo que puedan tener para la audiencia de mappers de osu!.
+Las adiciones a la librería de los Artistas Destacados son seleccionadas indirectamente por la comunidad de osu!. Si los mappers crean y clasifican beatmaps con la música de un artista, el osu! team puede ponerse en contacto con dicho artista para hablar sobre el programa de Artista Destacado. Sin embargo, algunos artistas son ocasionalmente invitados a convertirse en Artistas Destacados basándose en otros factores, como el atractivo que puedan tener para la audiencia de mappers de osu!.
 
-Todas las canciones del programa de artista destacado tienen licencia no exclusiva para su uso en osu!. Más detalles para músicos que deseen unirse a los artistas destacados pueden ser encontrados en el artículo de [licenciamiento de música](/wiki/Legal/Music_licensing).
+Todas las canciones del programa de Artista Destacado tienen licencia no exclusiva para su uso en osu!. Más detalles para músicos que deseen unirse a los Artistas Destacados pueden ser encontrados en el artículo de [licenciamiento de música](/wiki/Legal/Music_licensing).
 
 ## Lanzamientos
 
-Nuevos lanzamientos de un artista destacado por año:
+Nuevos lanzamientos de un Artista Destacado por año:
 
 - **2016:** 8
 - **2017:** 11
@@ -32,25 +32,26 @@ Nuevos lanzamientos de un artista destacado por año:
 - **2022:** 104
 - **2023:** 65
 - **2024:** 58
-- **2025:** *por determinar*
+- **2025:** 64
+- **2026:** *por determinar*
 
-Los nuevos artistas destacados son anunciados semanalmente en el [sitio de noticias](https://osu.ppy.sh/home/news) de osu!. La mayoría de los anuncios incluyen una lista de las canciones licenciadas del artista y un enlace a su página de artista destacado, aunque algunos anuncios se emparejan con concursos de mapping o beatmaps creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild).
+Los nuevos Artistas Destacados son anunciados semanalmente en el [sitio de noticias](https://osu.ppy.sh/home/news) de osu!. La mayoría de los anuncios incluyen una lista de las canciones licenciadas del artista y un enlace a su página de Artista Destacado, aunque algunos anuncios se emparejan con concursos de mapping o beatmaps creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
 ## Uso de la comunidad
 
-Se anima a los beatmappers a crear mapas para las pistas de los artistas destacados. Estas pistas se suministran con datos de [temporización](/wiki/Client/Beatmap_editor/Timing) y ya están autorizadas para su uso en osu!, permitiendo a los usuarios pasar inmediatamente al mapping sin preocupaciones. El cliente en desarrollo de osu!, apodado [osu!(lazer)](/wiki/Client/Release_stream/Lazer), marcará estos mapas prominentemente en el juego.
+Se anima a los beatmappers a crear mapas para las pistas de los Artistas Destacados. Estas pistas se suministran con datos de [temporización](/wiki/Client/Beatmap_editor/Timing) y ya están autorizadas para su uso en osu!, permitiendo a los usuarios pasar inmediatamente al mapping sin preocupaciones. El cliente en desarrollo de osu!, apodado [osu!(lazer)](/wiki/Client/Release_stream/Lazer), marcará estos mapas prominentemente en el juego.
 
-Todos los concursos de mapping publicados en el [listado de concursos de la comunidad](https://osu.ppy.sh/community/contests), tales como el [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) y el [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), requieren que los participantes creen mapas con canciones de un artista destacado. Algunos concursos dirigidos por la comunidad también usan estas canciones.
+Todos los concursos de mapping publicados en el [listado de concursos de la comunidad](https://osu.ppy.sh/community/contests), tales como el [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) y el [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), requieren que los participantes creen mapas con canciones de un Artista Destacado. Algunos concursos dirigidos por la comunidad también usan estas canciones.
 
-Para promocionar el mapping del contenido de los artistas destacados, los miembros de la comunidad crearon el [Mappers' Guild](/wiki/Community/Mappers_Guild), dándole a los mappers un sistema de misiones estilo MMO en el cual pueden participar junto a otros mappers. Los premios se conceden por crear y clasificar beatmaps, incluyendo tres niveles de insignias de perfil. Los mappers pueden unirse al gremio visitando el [sitio web del Mappers' Guild](https://mappersguild.com/). A partir de [abril de 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), los mappers también pueden discutir todo lo relacionado a la creación de beatmaps de artistas destacados en el canal `#featured-artists` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
+Para promocionar el mapping del contenido de los Artistas Destacados, los miembros de la comunidad crearon el [Mappers' Guild](/wiki/Community/Mappers_Guild), dándole a los mappers un sistema de misiones estilo MMO en el cual pueden participar junto a otros mappers. Los premios se conceden por crear y clasificar beatmaps, incluyendo tres niveles de insignias de perfil. Los mappers pueden unirse al gremio visitando el [sitio web del Mappers' Guild](https://mappersguild.com/). A partir de [abril de 2023](https://osu.ppy.sh/home/news/2023-04-09-new-featured-artist-chon), los mappers también pueden discutir todo lo relacionado a la creación de beatmaps de Artistas Destacados en el canal `#featured-artists` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!).
 
-Si un `.osz` pre-temporizado del listado de los artistas destacados tiene errores de cualquier tipo, pueden ser reportados en este [hilo del foro](https://osu.ppy.sh/community/forums/topics/783985).
+Si un `.osz` pre-temporizado del listado de los Artistas Destacados tiene errores de cualquier tipo, pueden ser reportados en este [hilo del foro](https://osu.ppy.sh/community/forums/topics/783985).
 
-## Artistas destacados con cuentas de osu!
+## Artistas Destacados con cuentas de osu!
 
-Los artistas destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_groups) que dice `FA` para exhibir su participación.
+Los Artistas Destacados con una cuenta de osu! pueden ser identificados por un [título de usuario](/wiki/Community/User_title) cian «Featured Artist» y una insignia de [grupo de usuario](/wiki/People/User_groups) que dice `FA` para exhibir su participación.
 
-La [página de grupo de los artistas destacados](https://osu.ppy.sh/groups/35) enumera todas estas cuentas, mientras que el [listado de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) enumera a todos los artistas destacados.
+La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) enumera todas estas cuentas, mientras que el [listado de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) enumera a todos los Artistas Destacados.
 
 | Usuario | Artista |
 | :-- | :-- |
