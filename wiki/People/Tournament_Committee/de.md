@@ -136,7 +136,7 @@ Das Turnierkomitee hält regelmäßig Abstimmungen bei wichtigen Entscheidungen 
 
 ## Zeitspannen für Turniersperren
 
-Häufige Zeitspannen für Turniersperren können auf der Wikiseite [Turniersperren](/wiki/Help_centre/Tournament_bans) nachgelesen werden.
+Häufige Zeitspannen für Turniersperren können auf der Wikiseite [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions#reasons) nachgelesen werden.
 
 ## Häufig gestellte Fragen
 
