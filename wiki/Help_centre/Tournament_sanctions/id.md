@@ -36,7 +36,7 @@ Hal ini meliputi situasi seperti:
 
 Kamu dapat tetap bermain pada turnamen komunitas yang tidak didukung secara resmi atau yang tidak melibatkan proses penyaringan peserta (*screening*) sesuai dengan kebijakan panitia masing-masing turnamen.
 
-Kamu juga dapat berperan sebagai penyiar, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam hal lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) kemudian akan dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
+Kamu juga dapat berperan sebagai streamer, komentator, atau desainer grafis dalam turnamen yang didukung secara resmi apabila kamu diizinkan oleh host turnamen yang bersangkutan. Apabila kamu ingin membantu dalam hal lainnya, host turnamen ini HARUS meminta pengecualian khusus dalam permohonan dukungan turnamen mereka. [Tim dukungan akun](/wiki/People/Account_support_team) kemudian akan dapat mengabulkan permintaan ini dengan menimbang alasan pelanggaranmu serta rekam jejak akunmu.
 
 Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat diberikan kepada panitia turnamen yang kamu ikuti, terlepas dari apakah turnamen ini didukung secara resmi ataupun tidak.
 
@@ -58,7 +58,7 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 
 Pembatasan penyelenggaraan turnamen bersyarat (*hosting probation*) merupakan sanksi yang dijatuhkan kepada host turnamen sebagai dampak dari pelanggaran [peraturan dukungan resmi turnamen](/wiki/Tournaments/Official_support) yang tidak dapat diselesaikan secara kekeluargaan setelah turnamen ini selesai dilangsungkan. Pada saat pembatasan ini diberlakukan kepada pengguna, turnamen selanjutnya milik pengguna ini yang diajukan untuk didukung secara resmi akan diperiksa secara ketat oleh Komite Turnamen baik pada saat dan setelah turnamen ini terlaksana. Masa pembatasan ini dapat diperpanjang apabila terdapat masalah kecil pada turnamen yang pada umumnya perlu diselesaikan melalui komunikasi email. Di sisi lain, pembatasan ini langsung dapat diubah menjadi [larangan penyelenggaraan turnamen](#larangan-penyelenggaraan-turnamen) atau hukuman yang lebih berat (sebagaimana yang ditentukan oleh Komite Turnamen) apabila pengguna yang sedang dibatasi diketahui melakukan pelanggaran berat terhadap peraturan dukungan resmi yang berlaku.
 
-Pembatasan bersyarat yang ada dapat dicabut dengan menyelenggarakan turnamen yang **tidak** melanggar peraturan [dukungan resmi](/wiki/Tournaments/Official_support) mana pun, termasuk berbagai masalah kecil yang memerlukan email untuk diselesaikan. Contoh masalah kecil ini meliputi antara lain:
+Pembatasan ini dapat dicabut dengan menyelenggarakan turnamen yang **tidak** melanggar peraturan [dukungan resmi](/wiki/Tournaments/Official_support) mana pun, termasuk berbagai masalah kecil yang memerlukan email untuk diselesaikan. Contoh masalah kecil ini meliputi antara lain:
 
 - Tidak menuliskan anggota staf tertentu pada postingan forum
 - Tidak merilis hasil Kualifikasi turnamen secara publik
@@ -67,7 +67,7 @@ Pembatasan bersyarat yang ada dapat dicabut dengan menyelenggarakan turnamen yan
 
 Pengguna yang berulang kali melakukan kesalahan kecil yang perlu dikoreksi oleh Komite Turnamen melalui email akan terus berada dalam masa percobaan hingga batas waktu yang tidak ditentukan. Di sisi lain, pengguna yang tidak berusaha untuk meningkatkan kualitas turnamen mereka pada saat mereka sedang dibatasi dapat dijatuhkan dengan hukuman yang lebih berat sebagaimana yang ditentukan oleh Komite Turnamen.
 
-Sanksi ini tidak kedaluwarsa secara otomatis. Apabila pengguna yang telah dibatasi sebelumnya dijatuhkan dengan hukuman yang lebih berat (seperti larangan penyelenggaraan turnamen), masa pembatasan bersyarat mereka akan ikut kedaluwarsa seiring dengan diangkatnya larangan ini.
+Sanksi ini tidak kedaluwarsa secara otomatis. Apabila pengguna yang telah dibatasi sebelumnya dijatuhkan dengan hukuman yang lebih berat (seperti larangan penyelenggaraan turnamen), masa pembatasan mereka akan ikut kedaluwarsa seiring dengan diangkatnya larangan ini.
 
 ## Larangan penyelenggaraan turnamen
 
