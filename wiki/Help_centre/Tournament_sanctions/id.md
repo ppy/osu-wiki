@@ -4,7 +4,7 @@
 
 ## Larangan turnamen
 
-Larangan turnamen (*tournament ban*) merupakan hukuman yang mencegah pemain untuk bermain di dalam turnamen resmi atau yang didukung secara resmi. Hukuman ini juga membatasi sejauh mana pemain ini dapat membantu atau berpartisipasi sebagai staf dalam rangkaian turnamen ini.
+Larangan turnamen (*tournament ban*) merupakan sanksi yang mencegah pemain untuk bermain di dalam turnamen resmi atau yang didukung secara resmi. Hukuman ini juga membatasi sejauh mana pemain ini dapat membantu atau berpartisipasi sebagai staf dalam rangkaian turnamen ini.
 
 Larangan turnamen biasanya tidak dijatuhkan secara terpisah, namun pada umumnya pemain yang [pembatasan akunnya](/wiki/Help_centre/Account_restrictions) baru saja dicabut dengan ketentuan banding standar (*standard appeal term*) akan dihadapkan dengan larangan turnamen selama setidaknya satu tahun.
 
@@ -56,7 +56,7 @@ Apabila diminta oleh host, informasi seputar status larangan turnamenmu dapat di
 
 ## Pembatasan penyelenggaraan turnamen bersyarat
 
-Pembatasan penyelenggaraan turnamen bersyarat (*hosting probation*) merupakan sanksi yang dijatuhkan kepada host turnamen sebagai dampak dari pelanggaran [peraturan dukungan resmi turnamen](/wiki/Tournaments/Official_support) yang tidak dapat diselesaikan secara kekeluargaan setelah turnamen ini selesai dilangsungkan. Pada saat pembatasan ini diberlakukan kepada pengguna, turnamen selanjutnya milik pengguna ini yang diajukan untuk didukung secara resmi akan diperiksa secara ketat oleh Komite Turnamen baik pada saat dan setelah turnamen ini terlaksana. Masa pembatasan ini dapat diperpanjang apabila terdapat masalah kecil pada turnamen yang pada umumnya perlu diselesaikan melalui komunikasi email. Di sisi lain, pembatasan ini langsung dapat diubah menjadi [larangan penyelenggaraan turnamen](#hosting-bans) atau hukuman yang lebih berat (sebagaimana yang ditentukan oleh Komite Turnamen) apabila pengguna yang sedang dibatasi diketahui melakukan pelanggaran berat terhadap peraturan dukungan resmi yang berlaku.
+Pembatasan penyelenggaraan turnamen bersyarat (*hosting probation*) merupakan sanksi yang dijatuhkan kepada host turnamen sebagai dampak dari pelanggaran [peraturan dukungan resmi turnamen](/wiki/Tournaments/Official_support) yang tidak dapat diselesaikan secara kekeluargaan setelah turnamen ini selesai dilangsungkan. Pada saat pembatasan ini diberlakukan kepada pengguna, turnamen selanjutnya milik pengguna ini yang diajukan untuk didukung secara resmi akan diperiksa secara ketat oleh Komite Turnamen baik pada saat dan setelah turnamen ini terlaksana. Masa pembatasan ini dapat diperpanjang apabila terdapat masalah kecil pada turnamen yang pada umumnya perlu diselesaikan melalui komunikasi email. Di sisi lain, pembatasan ini langsung dapat diubah menjadi [larangan penyelenggaraan turnamen](#larangan-penyelenggaraan-turnamen) atau hukuman yang lebih berat (sebagaimana yang ditentukan oleh Komite Turnamen) apabila pengguna yang sedang dibatasi diketahui melakukan pelanggaran berat terhadap peraturan dukungan resmi yang berlaku.
 
 Pembatasan bersyarat yang ada dapat dicabut dengan menyelenggarakan turnamen yang **tidak** melanggar peraturan [dukungan resmi](/wiki/Tournaments/Official_support) mana pun, termasuk berbagai masalah kecil yang memerlukan email untuk diselesaikan. Contoh masalah kecil ini meliputi antara lain:
 
