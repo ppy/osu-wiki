@@ -31,7 +31,7 @@ The mentee signups are currently open, and close on the 11th of January!
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | UTC-6 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3:30 |
-| ::{ flag=UK }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | UTC |
+| ::{ flag=UK }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | UTC+0 |
 | ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | UTC+1 |
 | ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596) | UTC+1 |
 | ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508) | UTC+1 |
@@ -75,8 +75,7 @@ You can find more information on these mentors in their [detailed overview](http
 | Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | osu! | UTC-10 |
-| ::{ flag=US }:: [pankacespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-8 |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | osu! | UTC-7 |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pankacespk](https://osu.ppy.sh/users/26131645)  | osu! | UTC-7 & UTC-8 |
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | osu! | UTC-6 |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-3 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! | UTC+1 |
