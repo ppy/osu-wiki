@@ -18,7 +18,7 @@ Scroll through the sub-headings below to find out what to do, depending on where
 
 ### In the in-game chat {id=chat}
 
-*Caution: The `!report` command **does not work** in osu!(lazer), and such reports will be visible to everyone! Use [the report menu](/wiki/Reporting_bad_behaviour#lazer-reports) instead.* 
+*Caution: Reporting a user via the `!report` command **does not work** in osu!(lazer), and such messages will be visible to everyone! Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
 
 Immediately block the user by right-clicking their username and selecting `Ignore User`.
 
@@ -81,8 +81,6 @@ If you don't have any evidence, but only stories or rumours that you believe are
 ## I think I have acted inappropriately towards someone and want to admit it {id=own-advances}
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) detailing any of your behaviour that you think may have been inappropriate. Include as many screenshots and chat logs as you can, and try to explain the context for why the behaviour was inappropriate if it is relevant.
-
-Your honesty and help in solving such cases is heavily appreciated, but given the inherent severity of harassment and sexual misconduct, a reduced punishment cannot be guaranteed.
 
 ## My email has been ignored!
 
