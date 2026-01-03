@@ -28,8 +28,8 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 - Sử dụng nhiều tài khoản để tham gia giải đấu
 - Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác
 - Chia sẻ tài khoản trong suốt/trong lúc tham gia một giải đấu hỗ trợ chính thức
-- Kết hợp để thu thập hoặc theo cách khác để sử dụng thông tin riêng tư nhằm giành được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
-- Lạm dụng các vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
+- Âm mưu để thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
+- Lạm dụng vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
 - Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức vượt xa phạm vi chỉ trích.
 
 ## Tôi có thể làm gì sau khi đã bị cấm thi đấu? {id=while-banned}
@@ -42,11 +42,11 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 
 ## Những lý do cấm thi đấu phổ biến và thời lượng lệnh cấm {id=reasons}
 
-| Lý do cấm thi đấu | Thời gian | Các ghi chú |
+| Lý do cấm thi đấu | Thời gian | Ghi chú |
 | :-- | :-- | :-- |
 | Vi phạm quy tắc cộng đồng trong một giải đấu. | 1 tháng hoặc hơn | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
 | Thô tục với nhân viên hoặc lãng phí thời gian. | 1 tháng hoặc hơn |  |
-| Hỗ trợ người chơi khác sử dụng nhiều tài khoản hoặc gian lận trong suốt giải đấu | 6 tháng hoặc hơn |  |
+| Hỗ trợ người khác gian lận hoặc sử dụng nhiều tài khoản trong giải đấu | 6 tháng hoặc hơn |  |
 | Hành vi sai trái của người chơi trong một giải đấu được hỗ trợ chính thức | 1-2 năm |  |
 | Quay lại theo điều khoản kháng cáo tiêu chuẩn | 1-2 năm | Có thể kéo dài hơn tùy theo quyết định của đội ngũ hỗ trợ tài khoản |
 | Sử dụng nhiều tài khoản hoặc chia sẻ tài khoản trong giải đấu hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
