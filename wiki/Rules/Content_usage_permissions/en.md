@@ -422,7 +422,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 #### Allowed, with exceptions
 
-This section was last updated on September 1, 2025.
+This section was last updated on December 22, 2025.
 
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |

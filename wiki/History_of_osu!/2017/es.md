@@ -2,7 +2,7 @@
 
 ## Enero
 
-[Ephemeral](https://osu.ppy.sh/users/102335) publicó una noticia sobre el nuevo año para asegurar que sucederán muchas cosas importantes en 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) y [nanobii](https://osu.ppy.sh/beatmaps/artists/10) fueron anunciados como nuevos artistas destacados de osu!. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) y [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) lanzaron cada uno un nuevo álbum dando a osu! 26 nuevas canciones para mapear. Aspire regresa para 2017.
+[Ephemeral](https://osu.ppy.sh/users/102335) publicó una noticia sobre el nuevo año para asegurar que sucederán muchas cosas importantes en 2017. [S3RL](https://osu.ppy.sh/beatmaps/artists/9) y [nanobii](https://osu.ppy.sh/beatmaps/artists/10) fueron anunciados como nuevos Artistas Destacados de osu!. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2), [yuki.](https://osu.ppy.sh/beatmaps/artists/4) y [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) lanzaron cada uno un nuevo álbum dando a osu! 26 nuevas canciones para mapear. Aspire regresa para 2017.
 
 Enlaces:
 
@@ -12,7 +12,7 @@ Enlaces:
 
 ## Febrero
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) fue anunciado como otro artista destacado. ¡La primera compilación de [lazer](/wiki/Client/Release_stream/Lazer) de osu! fue lanzada!
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) fue anunciado como otro Artista Destacado. ¡La primera compilación de [lazer](/wiki/Client/Release_stream/Lazer) de osu! fue lanzada!
 
 Enlaces:
 
@@ -21,7 +21,7 @@ Enlaces:
 
 ## Marzo
 
-Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro artista destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Spotlights coexistiría los gráficos de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
+Ha comenzado el Monthly Beatmapping Contest que gira en torno a osu!catch. [LukHash](https://osu.ppy.sh/beatmaps/artists/12) fue anunciado como otro Artista Destacado. La votación de Aspire 2017 ha comenzado. Se anunció que Spotlights coexistiría los gráficos de clasificación. Se abrió el noveno concurso de fanart con temática de primavera.
 
 Enlaces:
 
@@ -45,7 +45,7 @@ Enlaces:
 
 ## Mayo
 
-Se abrieron las inscripciones para la osu!catch World Cup 2017. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) apareció como otro artista de osu!. osu! anunció que estaría en la Anime Expo 2017. En casi más de un año, se anunció la mascota de osu!taiko. [Mocha](/wiki/Mascots#mocha) ha entrado en escena con [pippi](/wiki/Mascots#pippi), [Yuzu](/wiki/Mascots#yuzu), y [María](/wiki/Mascots#mani-&-mari). Por último, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) fue anunciado como parte de los artistas destacados de osu!. Se abrió la votación para los concursos de mapping de osu!mania y osu!catch.
+Se abrieron las inscripciones para la osu!catch World Cup 2017. [Kuba Oms](https://osu.ppy.sh/beatmaps/artists/13) apareció como otro artista de osu!. osu! anunció que estaría en la Anime Expo 2017. En casi más de un año, se anunció la mascota de osu!taiko. [Mocha](/wiki/Mascots#mocha) ha entrado en escena con [pippi](/wiki/Mascots#pippi), [Yuzu](/wiki/Mascots#yuzu), y [María](/wiki/Mascots#mani-&-mari). Por último, [Rin / Function Phantom](https://osu.ppy.sh/beatmaps/artists/14) fue anunciado como parte de los Artistas Destacados de osu!. Se abrió la votación para los concursos de mapping de osu!mania y osu!catch.
 
 Enlaces:
 
@@ -79,7 +79,7 @@ Enlaces:
 
 ## Agosto
 
-[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) y [OISHII](https://osu.ppy.sh/beatmaps/artists/17) fueron anunciados como nuevos artistas destacados. Se abren las audiciones para osu!idol 2017. La osu! Coffee Hour se presentó como un pódcast. Se abrió una revisión para el nuevo aspecto de [Yuzu](/wiki/Mascots#yuzu) como un concurso de fanart.
+[Wisp X](https://osu.ppy.sh/beatmaps/artists/16) y [OISHII](https://osu.ppy.sh/beatmaps/artists/17) fueron anunciados como nuevos Artistas Destacados. Se abren las audiciones para osu!idol 2017. La osu! Coffee Hour se presentó como un pódcast. Se abrió una revisión para el nuevo aspecto de [Yuzu](/wiki/Mascots#yuzu) como un concurso de fanart.
 
 Enlaces:
 
@@ -113,7 +113,7 @@ Enlaces:
 
 ## Noviembre
 
-[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) fue anunciado como otro artista destacado. peppy abrió un hilo en el foro para centralizar sus pensamientos sobre las pantallas táctiles; junto con algunas respuestas a las soluciones propuestas con frecuencia. El canal `#osu-performance` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) se abrió para permitir una discusión abierta. Se abrió el Winter 2017 Fanart Contest.
+[MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) fue anunciado como otro Artista Destacado. peppy abrió un hilo en el foro para centralizar sus pensamientos sobre las pantallas táctiles; junto con algunas respuestas a las soluciones propuestas con frecuencia. El canal `#osu-performance` en el [servidor de Discord osu!](/wiki/Community/Discord_servers#servidor-oficial-de-osu!) se abrió para permitir una discusión abierta. Se abrió el Winter 2017 Fanart Contest.
 
 Enlaces:
 
