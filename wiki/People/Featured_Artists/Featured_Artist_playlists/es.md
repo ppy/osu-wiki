@@ -3,25 +3,25 @@ tags:
   - FA
 ---
 
-# Listas de juego de artistas destacados
+# Listas de juego de Artistas Destacados
 
-Las **listas de juego de artistas destacados** se publican en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) y resaltan el contenido de los [artistas destacados](/wiki/People/Featured_Artists) en todos los [modos de juego](/wiki/Game_mode). Las listas de juego evitan un formato estricto, por lo que los parámetros de la lista de juego, las selecciones de beatmaps y los criterios de premios varían en cada lista de juego.
+Las **listas de juego de Artistas Destacados** se publican en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) y resaltan el contenido de los [Artistas Destacados](/wiki/People/Featured_Artists) en todos los [modos de juego](/wiki/Game_mode). Las listas de juego evitan un formato estricto, por lo que los parámetros de la lista de juego, las selecciones de beatmaps y los criterios de premios varían en cada lista de juego.
 
-![Sala de una lista de juego de artistas destacados](img/playlist.jpg "osu!(lazer) Sala de una lista de juego de artistas destacados")
+![Sala de una lista de juego de Artistas Destacados](img/playlist.jpg "osu!(lazer) Sala de una lista de juego de Artistas Destacados")
 
 Accede a las listas de juego a través del menú para jugar en osu!(lazer) y filtrando por **Featured Artist** en la esquina superior derecha.
 
-![Listado de las listas de juego de artistas destacados](img/playlist-listing.jpg)
+![Listado de las listas de juego de Artistas Destacados](img/playlist-listing.jpg)
 
 ## Premios
 
 Los jugadores pueden obtener insignias de perfil específicas del modo según la **clasificación acumulativa** a continuación.
 
-![Insignia de perfil de artista destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Insignia de perfil de artista destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Insignia de perfil de artista destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![Insignia de perfil de artista destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
+![Insignia de perfil de Artista Destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Insignia de perfil de Artista Destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Insignia de perfil de Artista Destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![Insignia de perfil de Artista Destacado](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
 ## Clasificación acumulativa
 
-A partir de junio de 2023, las insignias anteriores se otorgan a cualquier usuario que alcance 10 puntos en una **clasificación acumulativa** que abarque las listas de juego de artistas destacados. Las puntuaciones en diferentes listas de juego de artistas destacados se transfieren entre listas de juego, excluyendo [septiembre de 2022](#septiembre-de-2022) y [marzo de 2023](#marzo-de-2023).
+A partir de junio de 2023, las insignias anteriores se otorgan a cualquier usuario que alcance 10 puntos en una **clasificación acumulativa** que abarque las listas de juego de Artistas Destacados. Las puntuaciones en diferentes listas de juego de Artistas Destacados se transfieren entre listas de juego, excluyendo [septiembre de 2022](#septiembre-de-2022) y [marzo de 2023](#marzo-de-2023).
 
 ### Puntuación base
 
@@ -270,25 +270,25 @@ Para obtener detalles completos de las listas de juego, consulta el [listado de 
 
 ### Mayo de 2023
 
-- 6 beatmaps de los lanzamientos de artistas destacados de mayo de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- 6 beatmaps de los lanzamientos de Artistas Destacados de mayo de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Solo aplicable a los modos de juego osu! y osu!mania
 - [Premios](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa), con modificaciones relacionadas con los cambios en el algoritmo de puntuación, tal y como se explica en el anuncio de los resultados
 
 ### Junio/Julio de 2023
 
-- 6 beatmaps de los lanzamientos de artistas destacados de junio y julio de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- 6 beatmaps de los lanzamientos de Artistas Destacados de junio y julio de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Todos los modos de juego
 - [Premios](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa)
 
 ### Agosto de 2023
 
-- 6 beatmaps de los lanzamientos de artistas destacados de agosto de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- 6 beatmaps de los lanzamientos de Artistas Destacados de agosto de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Solo aplicable a los modos de juego osu!, osu!taiko y osu!mania
 - [Premios](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou#featured-artist-playlists) según la [clasificación acumulativa](#clasificación-acumulativa)
 
 ### Septiembre/Octubre de 2023
 
-- 6 beatmaps de los lanzamientos de artistas destacados de septiembre y octubre de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
+- 6 beatmaps de los lanzamientos de Artistas Destacados de septiembre y octubre de 2023 creados por el [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - Todos los modos de juego
 - Premios según la [clasificación acumulativa](#clasificación-acumulativa)
 
