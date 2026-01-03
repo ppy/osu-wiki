@@ -18,7 +18,7 @@ Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ
 
 Tất cả người dùng quay lại trò chơi sau khi bị hạn chế theo điều kiện kháng cáo tiêu chuẩn đều kèm theo một [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons). Điều này có thể được kéo dài tùy chọn theo quyết định của [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
-### Nguyên nhân gì gây ra khiến ai đó nhận được cấm thi đấu vô thời hạn? {id=why-permanent}
+### Điều gì gì gây ra khiến ai đó nhận được cấm thi đấu vô thời hạn? {id=why-permanent}
 
 Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc các phương pháp khác để đạt được lợi thế không công bằng so với các người tham gia khác trong một giải đấu hỗ trợ chính thức sẽ dẫn đến một lệnh cấm tham gia giải đấu vô thời hạn. Trong một số tình huống, đặc biệt là những trường hợp lạm dụng quá mức, cũng có thể dẫn đến hình phạt này tùy theo quyết định của nhóm hỗ trợ.
 
@@ -34,7 +34,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 ## Tôi có thể làm gì sau khi đã bị cấm thi đấu? {id=while-banned}
 
-Bạn có thể tiếp tục chơi trong các giải đấu cộng đồng mà không yêu cầu sự hỗ trợ chính thức hoặc cần phải xét duyệt theo quyết định của người tổ chức những sự kiện đó.
+Bạn có thể tiếp tục chơi trong các giải đấu cộng đồng mà không yêu cầu sự hỗ trợ chính thức hoặc cần phải xét duyệt theo quyết định của những người tổ chức sự kiện đó.
 
 Bạn vẫn có thể làm nhân viên trong các giải đấu được hỗ trợ chính thức bằng cách phát trực tiếp, bình luận hoặc thiết kế đồ họa theo quyết định của người tổ chức, nếu bạn muốn giúp đỡ với các công việc khác. Người tổ chức giải đấu mà bạn muốn trong giúp đỡ PHẢI yêu cầu miễn trừ trong yêu cầu hỗ trợ ban đầu của họ, tùy thuộc vào lý do và mức độ nghiêm trọng của vi phạm, cùng với lịch sử của bạn, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) sau đó mới có thể cho phép điều này.
 
@@ -56,7 +56,7 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 
 ## Giám sát việc tổ chức 
 
-Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc của [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không thể được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi ủy ban Giải đấu cả trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát áp dụng sẽ dẫn đến tới việc [cấm người tổ chức](#Cấm-người-tổ-chức) hoặc hình phạt lớn hơn, theo quyết định bởi ủy ban giải đấu.
+Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc của [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không thể được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi ủy ban Giải đấu cả trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát áp dụng sẽ dẫn đến tới việc [cấm người tổ chức](#cấm-người-tổ-chức) hoặc hình phạt lớn hơn, theo quyết định bởi ủy ban giải đấu.
 
 Giám sát việc tổ chức có thể được gỡ bỏ bởi tổ chức giải đấu với **không** vi phạm quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support), điều này bao gồm các vấn đề nhỏ mà cần gửi email cho người tổ chức để sửa chúng. Các ví dụ về những vấn đề này bao gồm:
 
@@ -71,9 +71,9 @@ Nếu một người dùng đối mặt với hình phạt nặng hơn, chẳng 
 
 ## Cấm người tổ chức 
 
-Cấm người tổ chức ngăn cản người dùng trở thành người tổ chức chính hoặc quản lý đối với bất kỳ giải đấu hỗ trợ chính thức nào. Họ có thể, tuy nhiên, họ chỉ được tham gia vào các vai trò khác không liên quan đến việc tổ chức.
+Cấm người tổ chức ngăn cản người dùng trở thành người tổ chức chính hoặc quản lý đối với bất kỳ giải đấu hỗ trợ chính thức nào. Tuy nhiên, họ chỉ có thể được tham gia vào các vai trò khác không liên quan đến việc tổ chức.
 
-Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#Giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại
+Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại
 
 ## Cấm nhân viên 
 
@@ -87,4 +87,4 @@ Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít 
 
 Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, nhưng cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công. Danh sách tất cả người dùng đã kháng cáo thành công một lệnh cấm thi đấu vô thời hạn có thể tìm thấy trên [chủ để diễn đàn này](https://osu.ppy.sh/community/forums/topics/1798871)
 
-Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cá nhân theo đánh giá của họ và quyết định gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
+Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cụ thể theo đánh giá của họ và quyết định gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
