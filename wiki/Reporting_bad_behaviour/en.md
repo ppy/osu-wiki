@@ -13,7 +13,7 @@ Accidental reports are ignored. Users who deliberately send invalid reports can 
 | Inappropriate content in [Ranked](/wiki/Beatmap/Category#ranked) beatmaps[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) or [GMT](/wiki/People/Global_Moderation_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
 | Inappropriate conduct from a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
 | Inappropriate conduct from a member of the [NAT](/wiki/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) | [Account support team](/wiki/People/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
-| Beatmap plagiarism or other copyright infringement | Refer to the [osu! copyright policy](/wiki/Legal/Copyright) |
+| Beatmap plagiarism or other copyright infringement | File a DMCA claim to [copyright@ppy.sh](mailto:copyright@ppy.sh) as per the [osu! copyright policy](/wiki/Legal/Copyright) |
 | Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse) |
 
 For anything else, see the instructions below.
