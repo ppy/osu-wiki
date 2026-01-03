@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 77563f2f23ddf07bc9fc1abbba04b76943364682
 layout: main_page
 ---
 
@@ -41,7 +39,7 @@ Tất cả mọi thứ về bấm vòng, đánh trống, bắt quả và đánh 
 
 [Các chế độ chơi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Màn chơi](/wiki/Beatmap/Difficulty) • [Vật thể](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Điểm số](/wiki/Gameplay/Score) • [Phát lại](/wiki/Gameplay/Replay) • [Huy Chương](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Màn chơi](/wiki/Beatmap/Difficulty) • [Vật thể](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Điểm số](/wiki/Gameplay/Score) • [Phát lại](/wiki/Gameplay/Replay) • [Huy Chương](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -65,7 +63,7 @@ Xếp hạng là quá trình một beatmap có được một bảng xếp hạn
 
 [Đăng tải beatmap](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Quá trình xếp hạng](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Tiêu chuẩn xếp hạng](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Tiêu chuẩn xếp hạng](/wiki/Ranking_criteria): [Tiêu chí đơn giản](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -115,9 +113,9 @@ Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự trợ giúp, bảo trì và quản lý cộng đồng từ mọi người. Những nỗ lực, thời gian và cống hiến của họ giúp trò chơi tồn tại và trở nên thành công.
 
-[Đội ngũ của osu!](/wiki/People/osu!_team): [Lập trình viên (DEV)](/wiki/People/Developers) • [Đội ngũ Kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ Hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team) • [Đội ngũ Đánh giá Đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Đề cử viên (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Giám tuyển Beatmap Tiêu điểm (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
+[Đội ngũ của osu!](/wiki/People/osu!_team): [Lập trình viên (DEV)](/wiki/People/Developers) • [Đội ngũ Kiểm duyệt (GMT)](/wiki/People/Global_Moderation_Team) • [Đội ngũ Hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team) • [Đội ngũ Đánh giá Đề cử (NAT)](/wiki/People/Nomination_Assessment_Team) • [Đề cử viên (BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/Project_Loved_Team) • [Giám tuyển Beatmap Tiêu điểm (BSC)](/wiki/People/Beatmap_Spotlight_Curators) • [Ban phụ trách Giải đấu](/wiki/People/Tournament_Committee)
 
-[Cộng tác viên](/wiki/People/Community_Contributors) • [Đề cử viên ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_groups) • [Những người dùng với danh hiệu đặc biệt](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Ban phụ trách Giải đấu](/wiki/People/Tournament_Committee) • [Ban phụ trách Điểm Hiệu suất](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Cộng tác viên](/wiki/People/Community_Contributors) • [Đề cử viên ưu tú](/wiki/People/Elite_Nominators) • [Nhóm người dùng](/wiki/People/User_groups) • [Những người dùng với danh hiệu đặc biệt](/wiki/People/Users_with_unique_titles) • [Centurions](/wiki/People/Centurions) • [Completionists](/wiki/People/Completionists) • [Ban phụ trách Điểm Hiệu suất](/wiki/People/Performance_Points_Committee) • [Những người bảo trì osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -126,7 +124,7 @@ osu! có lẽ sẽ không thể trở thành hiện thực nếu không có sự
 
 Tương tác với osu! thông qua các ứng dụng và phương tiện khác, hoặc giúp trò chơi phát triển hơn nữa.
 
-[API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/Discord_servers#official)
+[Tin nhắn thông báo](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Tài khoản Bot](/wiki/Bot_account) • [Bộ quy chuẩn thương hiệu](/wiki/Brand_identity_guidelines) • [osu!discord](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
