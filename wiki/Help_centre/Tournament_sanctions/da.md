@@ -7,7 +7,7 @@
 
 Et turneringsforbud (*tournament ban* på engelsk) forhindrer en spiller i at spille i officielle eller officielt støttede turneringer. Det begrænser også, i hvilken grad spilleren kan være medhjælper, eller ellers yde støtte til, sådanne turneringer.
 
-Turneringsforbud bliver meget sjældent udstedt alene, men som regel får næsten alle spillere, som kommer tilbage efter en almindelig anmodning for ophævelse af en [kontobegrænsing](/wiki/Help_centre/Account_restrictions) et turneringsforbud, som er mindst et år langt.
+Turneringsforbud bliver meget sjældent udstedt alene, men som regel får næsten alle spillere, som kommer tilbage efter en almindelig anmodning for ophævelse af en [kontobegrænsing](/wiki/Help_centre/Account_restrictions), et turneringsforbud, som er mindst et år langt.
 
 Grundet den høje standard af kompetitivitet i turneringer bliver turneringsforbud taget meget seriøst, og bliver ikke behandlet med samme grad af mildhed som kontobegrænsninger.
 
@@ -37,7 +37,7 @@ Dette inkluderer situationer som:
 
 Du må fortsætte med at spille i fællesskabsorganiserede turneringer, som ikke anmoder om officiel støtte eller screening, i skønnet af disse turneringers arrangører.
 
-Du må blive ved med at hjælpe til i officielt understøttede turneringer ved at streame, kommentere og designe grafikken. Hvis du vil hjælpe med andre opgaver, SKAL arrangøren af den turnering, du vil hjælpe med, anmode om en undtagelse i deres oprindelige anmodning om officiel støtte. [Kontostøtteholdet](/wiki/People/Account_support_team) kan godkende dette alt efter grovheden og grunden af overtrædelsen og din historik.
+Du må blive ved med at hjælpe til i officielt understøttede turneringer ved at streame, kommentere og designe grafikken. Hvis du vil hjælpe med andre opgaver, SKAL arrangøren af turneringen, som du vil hjælpe med, anmode om en undtagelse i deres oprindelige anmodning om officiel støtte. [Kontostøtteholdet](/wiki/People/Account_support_team) kan godkende dette alt efter grovheden og grunden af overtrædelsen og din historik.
 
 Oplysninger om, hvorvidt du har et turneringsforbud, kan videregives til turneringsarrangører efter anmodning, uafhængigt af, om de modtager officiel støtte eller ej.
 
@@ -57,7 +57,7 @@ Oplysninger om, hvorvidt du har et turneringsforbud, kan videregives til turneri
 
 ## Betingede arrangørforbud
 
-En bruger bliver sat på prøve, hvis de organiserer en turnering med en overtrædelse af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), som ikke kan blive rettet ved kommunikation til arrangøren, efter turneringen ender. Hvis en bruger kommer på prøve, bliver brugerens næste turnering grundigt gransket, både mens den bliver afviklet, og efter den er afsluttet. Mindre mangler, som ellers bare ville være løst ved kontakt til arrangøren per email, vil forlænge prøveperioden. Betydelige overtrædelser af betingelserne for officiel støtte vil føre til et arrangørforbud eller mere indgribende straf efter turneringskomitéens skøn.
+En bruger bliver sat på prøve, hvis de organiserer en turnering med en overtrædelse af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), som ikke kan blive rettet ved kommunikation til arrangøren, efter turneringen ender. Hvis en bruger kommer på prøve, bliver brugerens næste turnering grundigt gransket, både mens den bliver afviklet, og efter den er afsluttet. Mindre mangler, som ellers bare ville have været løst ved kontakt til arrangøren per email, vil forlænge prøveperioden. Betydelige overtrædelser af betingelserne for officiel støtte vil føre til et arrangørforbud eller mere indgribende straf efter turneringskomitéens skøn.
 
 Et betinget arrangørforbud (*hosting probation* på engelsk) kan ophæves ved at organisere en turnering med ingen overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support) **overhovedet**, inklusive mindre problemer, der ville kræve en mail til arrangøren for at fikse. Eksempler inkluderer:
 
@@ -84,7 +84,7 @@ Et medhjælperforbud (*staffing ban* på engelsk) forhindrer en bruger i at hjæ
 
 Der kan klages over turneringssanktioner, som har blevet pålagt en bruger på andre måder end de [almindelige anmodningsbetingelser](/wiki/Help_centre/Account_restrictions#appeal-granted), indenfor en 72-timers frist, før sanktionen træder i kraft. Efter denne frist udløber, er det ikke muligt at klage over turneringssanktioner, med undtagelse af tidsubestemte turneringsforbud.
 
-Brugere kan anmode om ophævelse af et tidsubestemt turneringsforbud, hvis der er gået mindst **to år** (24 måneder), siden det trådte i kraft. Brugere, der prøver at få et tidsubestemt turneringsforbud ophævet, forventes at have involveret sig positivt i det bredere osu!-fællesskab, i turneringer eller andetsteds, og at have udvist intet problematisk adfærd i denne periode. Hvis en anmodning nægtes, skal brugeren vente mindst **et år** efter datoen for deres sidste anmodning, før de anmoder igen.
+Brugere kan anmode om ophævelse af et tidsubestemt turneringsforbud, hvis der er gået mindst **to år** (24 måneder), siden det trådte i kraft. Brugere, der prøver at få et tidsubestemt turneringsforbud ophævet, forventes at have involveret sig positivt i det bredere osu!-fællesskab, i turneringer eller andetsteds, og at have udvist intet problematisk adfærd i denne periode. Hvis en anmodning nægtes, skal brugeren vente mindst **et år** (12 måneder) efter datoen for deres sidste anmodning, før de anmoder igen.
 
 Selvom det er muligt at anmode om ophævelse af tidsubestemte turneringsforbud som beskrevet, skal det understreges, at der forventes betydelige anstrengelser i fællesskabet udenfor at skrive en anmodning for at have nogen realistisk chance for succes. En liste af alle brugere, der har fået deres tidsubestemte turneringsforbud ophævet efter anmodning, kan findes [på dette forumemne](https://osu.ppy.sh/community/forums/topics/1798871).
 
