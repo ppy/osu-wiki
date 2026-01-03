@@ -77,13 +77,13 @@ Hvis vi beslutter, at du godt må komme tilbage, kræver vi, at du accepterer no
 - **Du skal ikke benytte andres konti eller lignende,** inklusiv at spille på delte computere.
 - **Enhver grov overtrædelse af reglerne vil medføre en begrænsning**. Dette inkluderer lange silences.
 
-Brugere, der kommer tilbage under standardbetingelserne ovenfor, er også [udelukkede fra officielle og badgede turneringer](/wiki/Help_centre/Tournament_bans), både som spiller og som medhjælper/arrangør. Varigheden af dette forbud er 1 år for hver overtrædelse (hvis en bruger får sin begrænsning ophævet for anden gang, vil forbuddet vare 2 år). Ophævelsesmailen specificerer varigheden af forbuddet.
+Brugere, der kommer tilbage under standardbetingelserne ovenfor, er også [udelukkede fra officielle og badgede turneringer](/wiki/Help_centre/Tournament_sanctions#tournament-bans), både som spiller og som medhjælper/arrangør. Varigheden af dette forbud er 1 år for hver overtrædelse (hvis en bruger får sin begrænsning ophævet for anden gang, vil forbuddet vare 2 år). Ophævelsesmailen specificerer varigheden af forbuddet.
 
 **Snyd eller kontodeling i en officiel eller badged turnering medfører brugerens tidsubestemte udelukkelse fra sådanne turneringer i fremtiden.** Der kan anmodes om ophævelse af dette forbud efter to år, men den bliver kun ophævet, hvis brugeren har ydet betydelig hjælp i at forbedre fællesskabets turneringer.
 
 Nogle spilleres konti bliver begrænset igen, når de starter med at spille, efter deres anmodning blev godkendt. Dette er en automatisk proces, og fjernes som regel indenfor 24 timer. Stil gerne spørgsmål per Twitter til [@osusupport](https://twitter.com/osusupport) eller ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh), hvis dette sker for dig!
 
-Nogle overtrædelser medfører, at din konto bliver rullet tilbage, når begrænsningen fjernes. Dette er for at fjerne uretfærdigt opnåede scores på din konto **på tværs af alle modui**, såvel som medaljer og badges. **Spilletid og antal forsøgte maps bliver ikke ændret.**
+Nogle overtrædelser medfører, at din konto bliver rullet tilbage, når begrænsningen fjernes. Dette er for at fjerne uretfærdigt opnåede scores på din konto **på tværs af alle modi**, såvel som medaljer og badges. **Spilletid og antal forsøgte maps bliver ikke ændret.**
 
 ## Min anmodning blev nægtet! {id=appeal-denied}
 
