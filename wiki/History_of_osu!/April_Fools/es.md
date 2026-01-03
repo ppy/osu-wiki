@@ -171,9 +171,9 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 
 ## 2020
 
-### MillhioreF se une a los artistas destacados
+### MillhioreF se une a los Artistas Destacados
 
-[MillhioreF](https://osu.ppy.sh/users/941094) —un moderador de osu! desde hace mucho tiempo, jugador y desarrollador del [mod Easy](/wiki/Gameplay/Game_modifier/Easy)— anunció en [una publicación de noticia](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) que se «unió» a la lista de [artistas destacados](/wiki/People/Featured_Artists) como «Millhiore Firianno Biscotti» el 1 de abril de 2020 con una selección de cinco canciones para empezar:[^irish-fa]
+[MillhioreF](https://osu.ppy.sh/users/941094) —un moderador de osu! desde hace mucho tiempo, jugador y desarrollador del [mod Easy](/wiki/Gameplay/Game_modifier/Easy)— anunció en [una publicación de noticia](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) que se «unió» a la lista de [Artistas Destacados](/wiki/People/Featured_Artists) como «Millhiore Firianno Biscotti» el 1 de abril de 2020 con una selección de cinco canciones para empezar:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

@@ -12,9 +12,9 @@ tags:
 
 # Música hecha a medida
 
-Este artículo enumera las canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists).
+Este artículo enumera las canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [Artistas Destacados](/wiki/People/Featured_Artists).
 
-Si bien no todas estas canciones tienen licencia oficial y están incluidas en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1), las canciones que sí la tienen se llaman «osu! originals», y se distinguen por la etiqueta ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! original") en las páginas de sus respectivos artistas (![osu! original](/wiki/shared/link/original.png "osu! original") en este artículo). Están autorizadas para su uso en osu! bajo términos no exclusivos según la [política de licenciamiento de música de osu!](/wiki/Legal/Music_licensing).
+Si bien no todas estas canciones tienen licencia oficial y están incluidas en la [biblioteca de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1), las canciones que sí la tienen se llaman «osu! originals», y se distinguen por la etiqueta ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! original") en las páginas de sus respectivos artistas (![osu! original](/wiki/shared/link/original.png "osu! original") en este artículo). Están autorizadas para su uso en osu! bajo términos no exclusivos según la [política de licenciamiento de música de osu!](/wiki/Legal/Music_licensing).
 
 Por el contrario, el resto de canciones de esta lista no tienen licencia oficial del juego y pueden requerir permiso para su uso. Véase los [permisos de uso de contenido](/wiki/Rules/Content_usage_permissions) para más información.
 
@@ -46,7 +46,7 @@ Actualmente, hay un total de **1201** canciones documentadas hechas dentro de os
 |  |  | Peter Lambert - osu! tutorial | Antigua canción del tutorial |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/beachballs "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UjIDAYsPZ8M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2NV4RNqgC3FKKfn3txA3Cy "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Redside&query=%22beachballs%21%22 "osu! original") | Redside - beachballs\! | Tema de osu! para el verano de 2023 |
 
-### Lanzamientos exclusivos de los artistas destacados
+### Lanzamientos exclusivos de los Artistas Destacados
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
@@ -2648,5 +2648,5 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 ## Notas
 
-[^fa]: Esta canción está hecha por un artista destacado, pero no forma parte del catálogo de artistas destacados.
-[^fa-feature]: Esta canción cuenta con un artista destacado, pero no forma parte del catálogo de artistas destacados.
+[^fa]: Esta canción está hecha por un Artista Destacado, pero no forma parte del catálogo de Artistas Destacados.
+[^fa-feature]: Esta canción cuenta con un Artista Destacado, pero no forma parte del catálogo de Artistas Destacados.

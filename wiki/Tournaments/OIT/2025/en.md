@@ -51,7 +51,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 | Commentator | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Raddie](https://osu.ppy.sh/users/27491379), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [lortAro](https://osu.ppy.sh/users/28854272), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
 | Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
-| Character design | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa) |
+| Character designer | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa) |
 | Spreadsheet manager | ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
@@ -62,6 +62,27 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 - [Discord server](https://discord.gg/rv6BgCtdvk)
 - [Challonge brackets](https://challonge.com/oit2025)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia)
+
+## Mappools
+
+### Qualifiers
+
+- No Mod
+  1. [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
+  2. [xi - over the top (Rino Inosaki) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/2298941#osu/4912108)
+  3. [hitorie - Nichijou to Chikyuu no Gakubuchi (wowaka x Hatsune Miku Edit) (flake) \[take care.\]](https://osu.ppy.sh/beatmapsets/1985060#osu/4122999)
+  4. [seatrus - ILLEGAL LEGACY (IntegerTempest) \[colicen's EXPERT\]](https://osu.ppy.sh/beatmapsets/1932951#osu/4057648)
+  5. [Annabel - wormhole (NBA YOUNGBOY) \[adham njegur got\]](https://osu.ppy.sh/beatmapsets/2367621#osu/5107430)
+- Hidden
+  1. [Dua Lipa - Levitating (Axarious) \[AR9\]](https://osu.ppy.sh/beatmapsets/1688321#osu/3450301)
+  2. [Nor - RE Aoharu (FAW) \[The Blue Spring REturns\]](https://osu.ppy.sh/beatmapsets/2155302#osu/4542964)
+- Hard Rock
+  1. [marasy feat. Hatsune Miku - SnowMix (Tuffiii) \[AuroraFantasy\]](https://osu.ppy.sh/beatmapsets/1910869#osu/4886589)
+  2. [Ryokuoushoku Shakai - inori (Miy) \[pray\]](https://osu.ppy.sh/beatmapsets/1915271#osu/4428001)
+- Double Time
+  1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3162593)
+  2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
+  3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
 
 ## Ruleset
 

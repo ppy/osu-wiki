@@ -33,11 +33,11 @@ Los concursos oficiales son organizados (o reconocidos como oficiales) por el [o
 
 Después de una larga pausa, el Monthly Beatmapping Contest se reinició en enero de 2020 con un cronograma, un conjunto de reglas, un procedimiento de votación, y un esquema de recompensas completamente nuevos. Muchos aspectos de la competencia se modificaron drásticamente para que los concursos fueran más interesantes y atractivos, algunos de los cuales fueron los siguientes:
 
-- En lugar de una sola canción, el concurso ahora ofrece una selección de canciones de diferentes [artistas destacados](/wiki/People/Featured_Artists) cada mes, en la que todos los mappers participantes son libres de mapear y enviar sus entradas.
+- En lugar de una sola canción, el concurso ahora ofrece una selección de canciones de diferentes [Artistas Destacados](/wiki/People/Featured_Artists) cada mes, en la que todos los mappers participantes son libres de mapear y enviar sus entradas.
 - Los mappers participantes ahora solo tienen que enviar una sola dificultad en lugar de un conjunto de mapas completo.
 - Los mappers participantes ahora deben adherirse a un cierto tema de mapping y/o limitación establecida en el conjunto de reglas, como «la calificación por estrellas no puede exceder 4.00★» o «cada objeto debe superponerse a otro objeto».
 
-| Iteración del concurso | Artista destacado | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | Equipo de screening #1 | Resultados |
+| Iteración del concurso | Artista Destacado | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | Equipo de screening #1 | Resultados |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [Enero de 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [Febrero de 2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -66,11 +66,11 @@ Después de una larga pausa, el Monthly Beatmapping Contest se reinició en ener
 | [#2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest) | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3) | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=JP }:: [Asahina Momoko](https://osu.ppy.sh/users/3650145) | ::{ flag=HK }:: [Regou](https://osu.ppy.sh/users/419954) | [#1](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) |
 | [#3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmaps/artists/5) | ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ::{ flag=HK }:: [MinG3012](https://osu.ppy.sh/users/1583218) | ::{ flag=SG }:: [emilia](https://osu.ppy.sh/users/2003326) | [#1](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
-| [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Cualquier canción disponible en la [Lista de artistas destacados](https://osu.ppy.sh/beatmaps/artists) según abril de 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(ganador de la elección de la comunidad)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(ganador de la selección del mapper)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
+| [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Cualquier canción disponible en la [Lista de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) según abril de 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(ganador de la elección de la comunidad)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(ganador de la selección del mapper)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
 ### [osu!taiko Featured Artist Cup](o!tFAC)
 
-**osu!taiko Featured Artist Cup** es un concurso de mapping de osu!taiko en el que simplemente se les pide a los concursantes que mapeen una canción de uno de los artistas destacados de osu!. El concurso a veces presenta limitaciones/trucos específicos para poner a prueba las habilidades de los concursantes.
+**osu!taiko Featured Artist Cup** es un concurso de mapping de osu!taiko en el que simplemente se les pide a los concursantes que mapeen una canción de uno de los Artistas Destacados de osu!. El concurso a veces presenta limitaciones/trucos específicos para poner a prueba las habilidades de los concursantes.
 
 | Concurso núm. | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
@@ -297,7 +297,7 @@ El objetivo de este concurso es simple: los concursantes deben crear un mapa que
 
 <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-**osu! Beatmapping World Championship** es un concurso de mapping por equipos en el que los equipos participantes formados por mappers del mismo país, región o incluso continente (hasta cierto punto) luchan entre sí con sus habilidades de mapping en múltiples canciones y fases de mapping. El concurso es conocido por hacer uso exclusivo de las canciones disponibles en la biblioteca de [artistas destacados](/wiki/People/Featured_Artists) durante su ejecución.
+**osu! Beatmapping World Championship** es un concurso de mapping por equipos en el que los equipos participantes formados por mappers del mismo país, región o incluso continente (hasta cierto punto) luchan entre sí con sus habilidades de mapping en múltiples canciones y fases de mapping. El concurso es conocido por hacer uso exclusivo de las canciones disponibles en la biblioteca de [Artistas Destacados](/wiki/People/Featured_Artists) durante su ejecución.
 
 | Concurso núm. | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- |
@@ -378,7 +378,7 @@ Aunque la pending cup inicialmente estaba destinada principalmente a los miembro
 
 | Categoría | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Artista destacado[^pending-cup-8-fa] | ![osu!][osu!] | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Artista Destacado[^pending-cup-8-fa] | ![osu!][osu!] | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 | Vocal[^pending-cup-8-vocal] | ![osu!][osu!] | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 | Instrumental[^pending-cup-8-instrumental] | ![osu!][osu!] | ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421) | ::{ flag=ID }:: [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 
@@ -448,7 +448,7 @@ Aunque la pending cup inicialmente estaba destinada principalmente a los miembro
 
 ## Notas
 
-[^pending-cup-8-fa]: La categoría de Artista destacado ofrece a los mappers la opción de dos canciones diferentes para mapear: Zekk - Re\_construct y Shuu no Hazama \[Rainshower\].
+[^pending-cup-8-fa]: La categoría de Artista Destacado ofrece a los mappers la opción de dos canciones diferentes para mapear: Zekk - Re\_construct y Shuu no Hazama \[Rainshower\].
 [^pending-cup-8-vocal]: La categoría Vocal ofrece a los mappers la opción de dos canciones diferentes para mapear: nonoc - memento y DUSTCELL - DERO.
 [^pending-cup-8-instrumental]: La categoría Instrumental ofrece a los mappers la opción de dos canciones diferentes para mapear: onoken - Felys final remix y Nekomata Master - The Sky of Sadness.
 [^newspaper-cup-6-vocal]: La categoría Vocal ofrece a los mappers la opción de dos canciones diferentes para mapear: Isekai Joucho - Kyoukankaku Obake y Kenshi Yonezu - Shunrai.
