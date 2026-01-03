@@ -41,11 +41,14 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 Qualification is a process where beatmaps that receive enough nominations are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Beatmaps with only one primary [game mode](/wiki/Game_mode) among all [difficulties](/wiki/Beatmap#difficulty) only need two nominations, while hybrid sets[^hybrid-sets] need two nominations for the main game mode[^main-game-mode] and one for each subsidiary one.
 
-The [Qualified](/wiki/Beatmap/Category#qualified) category exists to provide beatmaps wider exposure to the osu! community in the hopes of discovering potential problems before they are permanently [Ranked](/wiki/Beatmap/Category#ranked). This is the most common stage for beatmaps to receive wide support, feedback, and sometimes meet [obstructions](#obstruction).
+Qualified beatmaps receive wider exposure to the osu! community as a final **quality assurance** step before becoming permanently [Ranked](/wiki/Beatmap/Category#ranked). This is the most common stage for beatmaps to receive wide support, feedback, and undergo improvements if issues are found. During this period:
 
-## Obstruction
+- Community members can test or mod a beatmap, and then provide feedback and report issues[^report-correctly] through the beatmap's discussion page.
+- The BN and NAT teams are automatically notified of all suggestions and problems. Users who have enabled notification for new problems on qualified beatmaps will also be notified.
+- Suggestions and problems can be discussed and resolved collaboratively between the community and the beatmap's creator.
+- Qualified beatmaps cannot be directly updated by its creators.
 
-During the Qualified stage, problems are hoped to be reported to members of the BN and NAT from a beatmap's discussion page. Unlike Pending beatmaps, Qualified beatmaps cannot be updated by their creators, so feedback can only be applied after requesting a [nomination reset](#nomination-resets).
+When issues are identified that require changes, the beatmap may undergo a [nomination reset](#nomination-resets), allowing the creator to address feedback while maintaining the integrity of the ranking procedure.
 
 ### Nomination resets
 
@@ -67,3 +70,4 @@ Ranked beatmaps are only unranked under exceptional circumstances when issues ar
 
 [^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between 2+ modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If neither of those conditions are met, then the main game mode will be the one which gets nominated first.
 [^hybrid-sets]: Hybrid sets are beatmaps with difficulties across multiple game modes.
+[^report-correctly]: About how to report issues correctly, see: [Behaviour and conduct](/wiki/Code_of_conduct_for_modding_and_mapping#Behaviour-and-conduct) along with [Beatmap discussion - Submission field](/wiki/Beatmap_discussion#Submission-field)
