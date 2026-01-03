@@ -93,11 +93,11 @@ Group leaders denoted in **bold**.
 | ::{ flag=NO }:: | **Norway** | **[masaya](https://osu.ppy.sh/users/5818319)**, [Endroma](https://osu.ppy.sh/users/10340462), [Zekronz](https://osu.ppy.sh/users/7220725), [Ziquids](https://osu.ppy.sh/users/10972799) |
 | ::{ flag=PK }:: | **Pakistan** | **[Axos](https://osu.ppy.sh/users/32097633)**, [FurinaLover](https://osu.ppy.sh/users/34864324), [nico-](https://osu.ppy.sh/users/15206217), [Frank\_WhyNot](https://osu.ppy.sh/users/27213915) |
 | ::{ flag=PE }:: | **Peru** | **[shioo-](https://osu.ppy.sh/users/23731514)**, [diviza](https://osu.ppy.sh/users/14579257), [josiaxarg](https://osu.ppy.sh/users/13018117) |
-| ::{ flag=PH }:: | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)** |
+| ::{ flag=PH }:: | **Philippines** | **[arcwinolivirus](https://osu.ppy.sh/users/2039089)**, [Ojisan-](https://osu.ppy.sh/users/11420405), [bojii](https://osu.ppy.sh/users/10083439), [sanni666](https://osu.ppy.sh/users/3036686) |
 | ::{ flag=PL }:: | **Poland** | **[bagjettka](https://osu.ppy.sh/users/18338179)**, [Wolfu\_\_](https://osu.ppy.sh/users/34643106), [Szyszqu](https://osu.ppy.sh/users/24193502), [- SzymeQ -](https://osu.ppy.sh/users/26646233) |
 | ::{ flag=PT }:: | **Portugal** | **[SUNec4\_](https://osu.ppy.sh/users/26228192)**, [Rodrig0v](https://osu.ppy.sh/users/138866), [bat5231](https://osu.ppy.sh/users/16090188), [Warp](https://osu.ppy.sh/users/18649724) |
 | ::{ flag=RU }:: | **Russian Federation** | **[Meiju](https://osu.ppy.sh/users/5527957)**, [karayss](https://osu.ppy.sh/users/7156634), [timebuka](https://osu.ppy.sh/users/6857841), [X\_Devil](https://osu.ppy.sh/users/6694908) |
-| ::{ flag=SG }:: | **Singapore** | **[origamibest](https://osu.ppy.sh/users/16192531)** |
+| ::{ flag=SG }:: | **Singapore** | **[origamibest](https://osu.ppy.sh/users/16192531)**, [doggythatsucks](https://osu.ppy.sh/users/26236177), [QuailLover](https://osu.ppy.sh/users/26383230), [skythedumbdumb](https://osu.ppy.sh/users/21749745) |
 | ::{ flag=KR }:: | **South Korea** | **[dressurf](https://osu.ppy.sh/users/758406)** |
 | ::{ flag=ES }:: | **Spain** | **[Luqas](https://osu.ppy.sh/users/26688450)**, [Summit\_](https://osu.ppy.sh/users/7860283), [Manolo\_](https://osu.ppy.sh/users/23244116), [Scritshell](https://osu.ppy.sh/users/18525126) |
 | ::{ flag=SE }:: | **Sweden** | **[Craty](https://osu.ppy.sh/users/3918056)**, [venyez](https://osu.ppy.sh/users/15927535), [erased self](https://osu.ppy.sh/users/8856244), [Encreepment](https://osu.ppy.sh/users/24048074) |
@@ -111,7 +111,7 @@ Group leaders denoted in **bold**.
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)** |
 | ::{ flag=VN }:: | **Vietnam** | **[LivCat](https://osu.ppy.sh/users/36370211)**, [Khoak](https://osu.ppy.sh/users/33976283), [\_Moni\_](https://osu.ppy.sh/users/9710653), [\_Hitori\_](https://osu.ppy.sh/users/16297375) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **4 January 2026, 23:59 UTC**. This list was last updated on **2 January 2026**.
+Captains are listed in **bold**. Individual team compositions subject to change until **4 January 2026, 23:59 UTC**. This list was last updated on **3 January 2026**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e282b9f0a2f2e973c62537763db0c2).
 
@@ -171,7 +171,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - Users responsible for organising their country's tryouts are encouraged to contact [LeoFLT](https://osu.ppy.sh/users/3668779) to be added to the list of eligible users for the role of provisional captains for their team. 
-   - **Teams that do not send their team list by January 4, 12:00 UTC will be disqualified from the competition.**
+   - **Teams that do not send their team list by January 4, 23:59 UTC will have all members selected by the tournament organisers.**
+     - Teams created in this manner will be selected primarily by descending osu!mania 7K global rank until all spots are filled, possibly excluding the provisional captain that failed to submit the team roster, to be decided on a case-by-case basis. 
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every valid registrant will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be ranked #5,000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
