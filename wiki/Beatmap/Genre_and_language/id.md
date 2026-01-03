@@ -23,14 +23,14 @@ Halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets) memiliki filter pencari
 
 ## Mengubah aliran dan bahasa beatmap
 
-Aliran dan bahasa beatmap dapat diubah pada situs web osu! dengan cara mengeklik ikon pensil yang muncul pada saat melayangkan kursor di atas rincian beatmap. Beatmap mana saja yang aliran dan bahasanya dapat diubah akan bergantung pada [kelompok pengguna](/wiki/People/User_group) dan [kategori beatmap](/wiki/Beatmap/Category#present-categories) yang bersangkutan sebagai berikut:
+Aliran dan bahasa beatmap dapat diubah pada situs web osu! dengan cara mengeklik ikon pensil yang muncul pada saat melayangkan kursor di atas rincian beatmap. Beatmap mana saja yang aliran dan bahasanya dapat diubah akan bergantung pada [kelompok pengguna](/wiki/People/User_group) dan [kategori beatmap](/wiki/Beatmap/Category#kategori-yang-ada-saat-ini) yang bersangkutan sebagai berikut:
 
-- Pemilik beatmap dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard) serta tidak memiliki [nominasi](/wiki/Beatmap_ranking_procedure#nominations).
+- Pemilik beatmap dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard) serta tidak memiliki [nominasi](/wiki/Beatmap_ranking_procedure#nominasi).
 - [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), WIP, atau Pending.
 - Anggota [tim Project Loved](/wiki/People/Project_Loved_Team) dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [Loved](/wiki/Beatmap/Category#loved).
 - Anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan [Global Moderation Team](/wiki/People/Global_Moderation_Team) dapat mengubah aliran dan bahasa beatmap mana pun terlepas dari kategori beatmap ini.
 
-Suatu beatmap tidak dapat [dinominasikan](/wiki/Beatmap_ranking_procedure#nominations) apabila aliran atau bahasa beatmap ini masih diatur ke `Belum Ditentukan`.
+Suatu beatmap tidak dapat [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) apabila aliran atau bahasa beatmap ini masih diatur ke `Belum Ditentukan`.
 
 ## Daftar aliran
 
@@ -46,7 +46,7 @@ Suatu beatmap tidak dapat [dinominasikan](/wiki/Beatmap_ranking_procedure#nomina
 | Hip Hop | "Musik ritmik bergaya yang pada umumnya mengiringi penampilan rap", yang terkadang "mencuplik irama atau delik bass dari rekaman lain" (per [*Hip hop music* di Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
 | Elektronik | Lagu yang diciptakan secara digital atau dengan instrumen elektronik. |
 | Metal | Lagu yang mengusung suara yang keras, dengan gitar dan bass elektrik yang bising dan terdistorsi, serta mengandung ritme drum yang kencang atau padat. |
-| Klasik | Lagu yang bernuansa formal, terstruktur berdasarkan teori musik lanjutan, serta berakar dari (atau mengambil inspirasi dari) budaya Barat klasik. |
+| Klasik | Lagu yang bersifat formal, terstruktur berdasarkan teori musik lanjutan, serta berakar dari (atau mengambil inspirasi dari) budaya Barat klasik. |
 | Folk | Lagu yang bersifat tradisional atau personal, bernuansa sederhana, serta mencerminkan identitas budaya atau kelompok masyarakat tertentu. |
 | Jazz | Lagu yang berfokus pada improvisasi dan elemen musik yang diambil dari gaya ritme Afrika dan Kuba, yang pada umumnya menampilkan piano dan instrumen yang lazim digunakan dalam marching band. |
 
