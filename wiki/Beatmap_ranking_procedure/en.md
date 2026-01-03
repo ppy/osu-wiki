@@ -70,4 +70,4 @@ Ranked beatmaps are only unranked under exceptional circumstances when issues ar
 
 [^main-game-mode]: A beatmap's game mode is considered its "main" if it contains the most difficulties. In the event the amount of difficulties is the same between 2+ modes, the main game mode will be the one with the most difficulties mapped by the beatmap's host. If neither of those conditions are met, then the main game mode will be the one which gets nominated first.
 [^hybrid-sets]: Hybrid sets are beatmaps with difficulties across multiple game modes.
-[^report-correctly]: About how to report issues correctly, see: [Behaviour and conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#Behaviour-and-conduct) along with [Beatmap discussion - Submission field](/wiki/Beatmap_discussion#Submission-field)
+[^report-correctly]: About how to report issues correctly, see: [Behaviour and conduct](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#behaviour-and-conduct) along with [Beatmap discussion - Submission field](/wiki/Beatmap_discussion#submission-field)
