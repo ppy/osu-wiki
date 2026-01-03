@@ -63,9 +63,9 @@ El periodo de probación para los organizadores puede retirarse si se organiza u
 - Personal faltante en la publicación del foro del torneo
 - No disponer de resultados públicos de la fase de clasificación
 - No actualizar las listas públicas de los partidos, como los cruces de las llaves
-- Otros errores básicos de características similares
+- Otros errores básicos con características similares
 
-Los usuarios que tengan constantemente problemas menores que requieran la intervención del comité por correo electrónico permanecerán en periodo de probación indefinidamente. Los usuarios que no hagan ningún esfuerzo por mejorar la calidad de sus eventos durante el período de probación podrán ser sujetos a sanciones más severas, según lo determine el comité. Los periodos de probación para los organizadores no expiran automáticamente.
+Los usuarios que tengan problemas menores constantemente que requieran la intervención del comité por correo electrónico permanecerán en periodo de probación indefinidamente. Los usuarios que no hagan ningún esfuerzo por mejorar la calidad de sus eventos durante el período de probación podrán ser sujetos a sanciones más severas, según lo determine el comité. Los periodos de probación para los organizadores no expiran automáticamente.
 
 Si un usuario recibe un castigo más severo, como un veto para organizar torneos, su periodo de probación también expirará una vez que se levante el castigo.
 
@@ -81,7 +81,7 @@ Un veto como miembro del personal impide a un usuario formar parte del personal 
 
 ## ¿Puedo apelar una sanción? {id=appeal}
 
-Las sanciones de los torneos aplicadas por medios distintos a los [términos de apelación estándar](/wiki/Help_centre/Account_restrictions#appeal-granted) tienen un plazo de apelación de 72 horas durante el cual se puede impugnar la sanción. Una vez vencido el plazo de apelación, estas sanciones, con excepción de los vetos indefinidos para participar en torneos, no podrán ser apeladas.
+Las sanciones de los torneos aplicadas por medios distintos a los [términos de apelación estándar](/wiki/Help_centre/Account_restrictions#appeal-granted) tienen un plazo de apelación de 72 horas durante el cual se puede recurrir la sanción. Una vez vencido el plazo de apelación, estas sanciones, con excepción de los vetos indefinidos para participar en torneos, no podrán ser apeladas.
 
 Los vetos indefinidos de los torneos pueden ser apelados una vez transcurridos al menos **dos años** (24 meses) desde su aplicación inicial. Los usuarios que quieran apelar el veto indefinido tendrán que demostrar que han hecho una contribución positiva a la comunidad de osu!, ya sea en torneos o de otra manera, y que no han tenido ningún problema de conducta durante ese tiempo. En el caso de que la apelación sea rechazada, el usuario deberá esperar al menos **un año** (12 meses) desde la fecha de su última apelación antes de volver a presentar otra.
 
