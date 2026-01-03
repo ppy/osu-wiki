@@ -62,7 +62,7 @@ El periodo de probación para los organizadores puede retirarse si se organiza u
 
 - Personal faltante en la publicación del foro del torneo
 - No disponer de resultados públicos de la fase de clasificación
-- No actualizar las listas públicas de los partidos, como los cruces de las llaves
+- No actualizar las listas públicas de los partidos, como los brackets del torneo
 - Otros errores básicos con características similares
 
 Los usuarios que tengan problemas menores constantemente que requieran la intervención del comité por correo electrónico permanecerán en periodo de probación indefinidamente. Los usuarios que no hagan ningún esfuerzo por mejorar la calidad de sus eventos durante el período de probación podrán ser sujetos a sanciones más severas, según lo determine el comité. Los periodos de probación para los organizadores no expiran automáticamente.
