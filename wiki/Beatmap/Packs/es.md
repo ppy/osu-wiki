@@ -12,7 +12,7 @@ Los paquetes de beatmaps se nombran según su contenido, categoría y orden de s
 F2 - Rohi Pack.zip
 ```
 
-`F2` indica que es el segundo paquete de beatmaps disponible en la categoría Artista destacado, mientras que `Rohi Pack` se refiere al nombre del paquete que aparece en el [listado de paquetes de beatmaps](https://osu.ppy.sh/beatmaps/packs/F2). En concreto, este paquete contiene exclusivamente mapas de las canciones de [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
+`F2` indica que es el segundo paquete de beatmaps disponible en la categoría Artista Destacado, mientras que `Rohi Pack` se refiere al nombre del paquete que aparece en el [listado de paquetes de beatmaps](https://osu.ppy.sh/beatmaps/packs/F2). En concreto, este paquete contiene exclusivamente mapas de las canciones de [Rohi](https://osu.ppy.sh/beatmaps/artists/82).
 
 Algunos paquetes de beatmaps, especialmente en la categoría Standard, también están numerados por orden de subida. Por ejemplo, el [osu! Beatmap Pack #1000](https://osu.ppy.sh/beatmaps/packs/S1000) (paquete `S1000`) es el paquete número 1000 que contiene beatmaps [clasificados](/wiki/Beatmap/Category#ranked) y [aprobados](/wiki/Beatmap/Category#approved) para el [modo de juego osu!](/wiki/Game_mode/osu!).
 
@@ -23,7 +23,7 @@ Los paquetes de beatmaps se dividen en 7 categorías con un indicador de letra e
 | Indicador | Categoría | Tipos de beatmaps |
 | :-: | :-- | :-- |
 | **S** | Standard | Beatmaps [clasificados](/wiki/Beatmap/Category#ranked) y [aprobados](/wiki/Beatmap/Category#approved) |
-| **F** | Artista destacado | Canciones de [artistas destacados](/wiki/People/Featured_Artists) |
+| **F** | Artista Destacado | Canciones de [Artistas Destacados](/wiki/People/Featured_Artists) |
 | **P** | Torneo | Mappools de [torneos oficiales](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Beatmaps elegidos por la comunidad en el [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Destacados | Paquetes de desafíos de beatmaps de temporada de [Beatmap Spotlights](/wiki/Beatmap_Spotlights), anteriormente conocidos como *Charts* |
