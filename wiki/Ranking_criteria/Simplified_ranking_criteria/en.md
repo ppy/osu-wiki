@@ -29,17 +29,23 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **A [guest mapper](/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
 - **Minimum requirement for lowest difficulty by mode and length:**
 
-| [Drain time](/wiki/Beatmap/Drain_time) | osu! | osu!taiko |
-| :-- | :-: | :-: |
-| **0:30 to 3:30** | Normal | Futsuu |
-| **3:30 to 4:15** | Hard | Muzukashii |
-| **4:15 to 5:00** | Insane | Oni |
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
+| :-- | :-: |
+| **0:30 to 3:30** | Normal |
+| **3:30 to 4:15** | Hard |
+| **4:15 to 5:00** | Insane |
 
-| [Drain time](/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
 | :-- | :-: | :-: |
-| **0:30 to 2:30** | Salad | Normal |
-| **2:30 to 3:15** | Platter | Hard |
-| **3:15 to 4:00** | Rain | Insane |
+| **0:30 to 2:30** | Futsuu | Salad |
+| **2:30 to 3:15** | Muzukashii | Platter |
+| **3:15 to 4:00** | Oni | Rain |
+
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
+| :-- | :-: |
+| **0:30 to 2:00** | Normal |
+| **2:00 to 2:45** | Hard |
+| **2:45 to 3:30** | Insane |
 
 ### Hitsounds
 
