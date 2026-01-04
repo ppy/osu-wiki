@@ -56,9 +56,9 @@ This option works if the offending user is in sight:
 
 ### Chat reporting menu in osu!(lazer) {id=lazer-reports}
 
-![](img/lazer-report-1.png "Chat action menu with the report dialog")
+![](img/report-lazer-1.png "Chat action menu with the report dialog")
 
-![](img/lazer-report-2.png "In-game report dialog")
+![](img/report-lazer-2.png "In-game report dialog")
 
 1. Right click or long press the offending user's username and press the red button titled `Report`.
 2. Select the category and add details (optional unless the chosen category is `Other (type below)`).
@@ -120,6 +120,13 @@ This option works if the offending user is in sight:
 1. Hover the cursor over the score.
 2. At the right side of the score, press the button with three vertical dots and select `Report Score`.
 3. Select the category and add details.
+
+### Team
+
+![](img/report-team.png "The report button on a team listing")
+
+1. Press the button with three vertical dots and select `Report Team`.
+2. Select the category and add details.
 
 ## References
 
