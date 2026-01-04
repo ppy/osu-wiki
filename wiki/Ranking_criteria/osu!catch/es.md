@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
----
-
 # Criterios de clasificación de osu!catch
 
 ***Aviso: Este artículo es una extensión de los [criterios de clasificación generales](/wiki/Ranking_criteria).***
@@ -33,8 +28,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!catch.
 - **La última [fruta](/wiki/Gameplay/Hit_object/Fruit) de un [slider](/wiki/Gameplay/Hit_object/Juice_stream) debería [ajustarse](/wiki/Beatmapping/Snapping) según la estructura rítmica de la canción.** Por ejemplo, si la canción usa un compás cuaternario, se deberían usar ajustes de 1/4, 1/8 o 1/16. Si la canción usa un compás ternario, se deberían usar ajustes de 1/6 o 1/12.
 - **No se deberían usar [dashes](/wiki/Gameplay/Dash) e [hiperdashes](/wiki/Gameplay/Hyperdash) cuando el destino del dash o hiperdash esté cerca del borde izquierdo o derecho del campo de juego.** Esto crea un movimiento incómodo, ya que el catcher se detiene bruscamente al alcanzar el borde del campo de juego (x:16 a la izquierda y x:496 a la derecha).
 - **Los [combos](/wiki/Beatmapping/Combo) no deberían ser extremadamente largos.** Esto garantiza que la vista del jugador no se vea obstruida por las [frutas](/wiki/Gameplay/Hit_object/Fruit) apiladas en el plato.
-- La **[dificultad general](/wiki/Beatmap/Overall_difficulty) debería tener el mismo valor que la [velocidad de aproximación](/wiki/Beatmap/Approach_rate).** Este es solo un valor estandarizado, ya que la dificultad general solo afecta a la puntuación máxima de una dificultad con [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch).
-  - Si una dificultad usa una velocidad de aproximación más baja que cualquiera de los niveles de dificultad inferiores, entonces su dificultad general debería coincidir con la dificultad general más alta entre esas dificultades inferiores.
+- **La [dificultad general](/wiki/Beatmap/Overall_difficulty) debe tener el mismo valor que la [velocidad de aproximación](/wiki/Beatmap/Approach_rate).** En caso de que se produzca un desbordamiento en la puntuación, se debe usar un valor más bajo.
 - **La [tasa de las marcas de los sliders](/wiki/Beatmapping/Slider_tick_rate) debería ajustarse según la canción.** Por ejemplo, si tu canción contiene una sección que usa solo un ritmo de 1/3, usar una tasa de 2 no encajaría en todo el beatmap.
 - **Evita usar [colores de combo](/wiki/Beatmapping/Combo_colour) con una luminosidad de ~50 o menor.** Los colores oscuros influyen en la visibilidad de las [frutas](/wiki/Gameplay/Hit_object/Fruit) usando un fondo oscuro.
 - **Evita usar [colores de combo](/wiki/Beatmapping/Combo_colour) con una luminosidad de ~220 o mayor si se usa un [Kiai time](/wiki/Gameplay/Kiai_time).** Los colores luminosos crean pulsaciones brillantes en los Kiai time, lo cual puede ser incómodo para la vista.

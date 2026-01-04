@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
+---
+
 # Criterios de clasificación simplificados
 
 *Para conocer los criterios de clasificación completos, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*

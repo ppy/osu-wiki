@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
+---
+
 # Iconos nucleares
 
 Los **iconos nucleares** fueron una herramienta de moderación para los [beatmaps](/wiki/Beatmap) en los primeros años de osu! y el sistema de [modding en los foros](/wiki/Modding/Forum_modding). Cualquier beatmap que se considerara que incumplía las reglas (o que el creador ignoraba el [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)) podría ser destruido por el [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) o el [Global Moderation Team (GMT)](/wiki/People/Global_Moderation_Team).
