@@ -96,7 +96,7 @@ We may share your personal data with third parties in very specific cases:
 
 As a user, you have the right to migrate, update, or delete your personal information. This can be done primarily from the [user settings](https://osu.ppy.sh/home/account/edit), or where not available from a localised "Edit" feature on the relevant section of our site. In case you wish to programmatically retrieve your full account data, please use our [public API](https://github.com/ppy/osu-api/wiki).
 
-In many cases, user submissions, such as forum posts and beatmaps, can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
+In many cases, user submissions — such as forum posts and beatmaps — can be deleted on an individual basis. You will find delete buttons directly associated with the items that can be deleted.
 
 You have the option of deleting your account from our service. Please note that this is currently a manual process and may take several days to complete ([contact us](mailto:privacy@ppy.sh) to file a request). In the case of account deletion, portions of your public contributions may remain intact, as detailed in "Information we collect".
 
