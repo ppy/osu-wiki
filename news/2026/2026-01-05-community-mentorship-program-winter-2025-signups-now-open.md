@@ -47,7 +47,6 @@ You can find more information on these mentors in their [detailed overview](http
 | :-- | :-- |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
 | ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) | UTC-5 |
-| ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+1 |
 | ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | UTC+1 | 
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+1 |
 | ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) | UTC+3 |
