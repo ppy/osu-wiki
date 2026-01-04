@@ -52,7 +52,7 @@ When issues are identified that require changes, the beatmap may undergo a [nomi
 
 ### Determining the main game mode {id=main-mode}
 
-For hybrid sets, the main game mode is determined by the following order of priority:
+For hybrid sets[^hybrid-sets], the main game mode is determined by the following order of priority:
 
 1. The game mode containing the most difficulties in the beatmapset.
 2. If two or more modes have the same amount of difficulties, the main game mode is instead the game mode which the beatmapset host mapped the most difficulties of.
