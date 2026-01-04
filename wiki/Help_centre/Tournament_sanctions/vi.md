@@ -4,9 +4,9 @@
 
 ## Lệnh cấm thi đấu
 
-Lệnh cấm thi đấu ngăn cản một người chơi từ việc tham gia các giải đấu chính thức hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
+Lệnh cấm thi đấu ngăn cản một người chơi từ việc tham gia các giải đấu chính thức hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc cung cấp hỗ trợ các giải đấu này.
 
-Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời gian kéo ít nhất một năm.
+Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời hạn kéo dài ít nhất một năm.
 
 Do tính chất quan trọng của việc chơi các giải đấu, các lệnh cấm giải đấu được xử lý rất nghiêm túc và sẽ không nhận được sự khoan nhượng như những hạn chế tài khoản thông thường có thể nhận được.
 
