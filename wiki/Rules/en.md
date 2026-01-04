@@ -54,7 +54,7 @@ These bad things may include (*but are not limited to*):
 - The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Help_centre/Silences)).
 - The removal of any infringing content from your userpage, profile or uploaded beatmaps.
 - The loss of the privilege to edit or alter your userpage or profile details.
-- The loss of the privilege to play or staff in officially hosted tournaments (known as a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans)).
+- The loss of the privilege to play or staff in officially supported tournaments (known as a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans)).
 
 [Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration exponentially with each infringement. Repeat offenders will find themselves locked out of their privileges for increasingly lengthy periods of time.
 
