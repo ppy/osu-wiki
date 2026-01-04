@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2024: Semifinals Recap"
 date: 2024-11-29 23:45:00 +0000
+series: world_cups
 ---
 
 As the brackets shrink, titans are forced to clash and fight for survival. Join us for an exciting recap of last week's world cup stage!

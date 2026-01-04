@@ -3,6 +3,7 @@ layout: post
 title: October 2014 Monthly Ranking Charts
 date: 2014-11-18 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102991101183/october-2014-monthly-ranking-charts
+series: beatmap_spotlights
 ---
 
 With a slight delay due to the osu! World Cup 2014, the Ranking Charts for October 2014 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1410)! Along with that, we updated the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/edit) with the new results! Moreover, we published the [vote results here!](https://docs.google.com/spreadsheets/d/1bQQsvecPxgHJtFTMGWjSj25FcCmhGu82M8jvvNoKOic/edit)

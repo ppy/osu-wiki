@@ -3,6 +3,7 @@ layout: post
 title: Taiko World Cup 2014 - Last Man Standing
 date: 2014-04-23 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/83610164656/taiko-world-cup-2014-last-man-standing
+series: world_cups
 ---
 
 Welcome! We would like to welcome you a spin-off of the official World Cups: the Taiko World Cup - Last Man Standing. Compared to the official Taiko World Cup, we have decided to change the rules up a little to create a different setting, so read them up [in our forum thread](https://osu.ppy.sh/community/forums/topics/192614/start=0).

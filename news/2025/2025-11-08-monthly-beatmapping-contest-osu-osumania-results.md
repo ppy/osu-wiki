@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: osu! & osu!mania Results"
 date: 2025-11-08 18:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 How did the latest contests pan out? What happens when someone wins the Monthly Beatmapping Contest 6 times? Is osu!mania still breathing? It's time for answers.

@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: August 2021"
 date: 2021-08-09 22:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Remember how your earliest mapping days were spent creating an endless supply of messy blankets? It's time to put that skill to the test through this month's mapping contest!

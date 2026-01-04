@@ -2,6 +2,7 @@
 layout: post
 title: osu!(lazer) Updates & The Path to Ranked Play
 date: 2023-09-08 12:00:00 +0000
+series: game_updates
 ---
 
 Exciting steps have been taken, with even more exciting steps yet to come!

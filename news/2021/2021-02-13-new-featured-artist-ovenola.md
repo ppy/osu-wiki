@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: ovEnola"
 date: 2021-02-13 09:30:00 +0000
+series: featured_artists
 ---
 
 Channeling only the harshest of harsh sounds, **ovEnola** joins the lineup as our latest Featured Artist!

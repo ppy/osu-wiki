@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: November 2023"
 date: 2023-11-22 09:00:00 +0000
+series: project_loved
 ---
 
 The Christmas clock may be still ticking, but Project Loved has already prepared some presents for you!

@@ -2,6 +2,7 @@
 layout: post
 title: Featured Artist Beatmap Updates from the Mappers' Guild
 date: 2020-03-23 01:00:00 +0000
+series: mappers_guild
 ---
 
 There's a ton of new beatmaps, completed quests, and medals from the Mappers' Guild celebrating osu!'s featured artists!

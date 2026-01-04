@@ -3,6 +3,7 @@ layout: post
 title: "Mapping Analysis #1 - Flow"
 date: 2013-09-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/61334266941/mapping-analysis-1-flow
+series: miscellaneous
 ---
 
 Hello everyone, I'm Shiro, and here is the first post of a map analysis series in which I will go over common mistakes I've found through my modding history, explaining why they are mistakes and how to fix them.

@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Predominador, the Grandmaster of SS ranks"
 date: 2024-10-21 19:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Have you ever wondered what's going on inside a score farmer's head? Today's your chance to find out in our latest interview!

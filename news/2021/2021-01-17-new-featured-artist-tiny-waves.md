@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tiny Waves"
 date: 2021-01-17 09:00:00 +0000
+series: featured_artists
 ---
 
 Electronic record label **Tiny Waves** joins the Featured Artist lineup!

@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest #5 & #6: Results"
 date: 2020-07-24 21:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 The jury is in! The best of the best mapping contest entries have been chosen and prizes are delivered!

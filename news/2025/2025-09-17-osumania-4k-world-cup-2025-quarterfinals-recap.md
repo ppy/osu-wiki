@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Quarterfinals Recap"
 date: 2025-09-17 12:00:00 +0000
+series: world_cups
 ---
 
 At long last, we've reached the tournament's mid-way point! Join us for the Quarterfinals recap as we enter the latter, and arguably most competitive, half of the tournament.

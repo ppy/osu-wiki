@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Frums"
 date: 2020-02-12 08:00:00 +0000
+series: featured_artists
 ---
 
 **Frums** waltzes on stage as our latest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: La prière"
 date: 2021-06-16 10:00:00 +0000
+series: featured_artists
 ---
 
 **La prière** blends the vocal talents of *nayuta*, *Natsume Itsuki*, and [*Aitsuki Nakuru*](https://osu.ppy.sh/beatmaps/artists/127) as the latest addition to our Featured Artists!

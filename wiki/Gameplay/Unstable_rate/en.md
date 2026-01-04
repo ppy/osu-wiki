@@ -12,7 +12,7 @@ tags:
 
 # Unstable rate
 
-**Unstable rate** (***UR***) is a measurement of variation of hit errors<!-- TODO: link --> throughout a play. It is calculated as the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) of hit errors, displayed in tenths of a millisecond. A lower UR indicates that the player's hits have more similar errors, while a higher UR indicates they are more spread apart.
+**Unstable rate** (***UR***) is a measurement of variation of hit errors<!-- TODO: link --> throughout a play. It is calculated as the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) of hit errors in milliseconds, multiplied by 10. A lower UR indicates that the player's hits have more similar errors, while a higher UR indicates they are more spread apart.
 
 Players specialising in high [accuracy](/wiki/Gameplay/Accuracy) often achieve URs that are significantly below what is required to get an [SS](/wiki/Gameplay/Grade). Unstable rate can be a particularly useful metric to help judge these scores in finer detail than regular [judgements](/wiki/Gameplay/Judgement).
 

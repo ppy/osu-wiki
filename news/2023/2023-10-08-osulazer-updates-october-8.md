@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: October 8, 2023"
 date: 2023-10-08 09:00:00 +0000
+series: game_updates
 ---
 
 The rules of the game are rapidly changing, with even more revisions in the making.

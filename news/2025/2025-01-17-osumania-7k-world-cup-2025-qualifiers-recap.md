@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2025: Qualifiers Recap"
 date: 2025-01-17 21:00:00 +0000
+series: world_cups
 ---
 
 The stage is set, and our contestants are about to take on the challenge. Join us along and witness the birth of a 7K hero's journey!

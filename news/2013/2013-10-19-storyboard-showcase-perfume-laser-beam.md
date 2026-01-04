@@ -3,6 +3,7 @@ layout: post
 title: "Storyboard Showcase: Perfume - Laser Beam"
 date: 2013-10-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/64444482131/storyboard-showcase-perfume-laser-beam
+series: miscellaneous
 ---
 
 Apologies for the delay, but better late than never, right? Our second storyboard showcase features a beatmap that has been ranked just recently.

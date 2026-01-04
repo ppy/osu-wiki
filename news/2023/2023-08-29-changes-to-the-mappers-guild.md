@@ -2,6 +2,7 @@
 layout: post
 title: Changes to the Mappers' Guild
 date: 2023-08-29 00:00:00 +0000
+series: mappers_guild
 ---
 
 The doors are wide open. Contribute to Featured Artist mapping and earn some cool stuff in the process through the **Mappers' Guild**!

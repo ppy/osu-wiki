@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2025: Qualifiers Recap"
 date: 2025-08-23 22:15:00 +0000
+series: world_cups
 ---
 
 The osu!mania 4K World Cup has officially begun. The rise of a new legend is upon us, so join us as our favourite teams begin their ascent to the very top of the podium!

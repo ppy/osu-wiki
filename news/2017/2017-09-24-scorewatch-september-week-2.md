@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: September Week 2"
 date: 2017-09-24 15:00:00 +0200
+series: scorewatch
 ---
 
 Scorewatch continues to thrive with more incredible plays from the community! We got a crazy -GN play on HELIX, \_yu68 snatching the highest pp play in osu!taiko from an interesting source, and a SapphireGhost throwback score all in this week's article! Read on to find out more!

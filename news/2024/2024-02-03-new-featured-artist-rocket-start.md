@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rocket Start"
 date: 2024-02-03 18:00:00 +0000
+series: featured_artists
 ---
 
 There's a pun here about **Rocket Start** launching their career in our Featured Artists, but we'll let you work out the details.

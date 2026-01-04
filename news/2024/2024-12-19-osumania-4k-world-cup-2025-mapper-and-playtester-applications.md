@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup 2025 Mapper and Playtester Applications
 date: 2024-12-19 00:00:00 +0000
+series: world_cups
 ---
 
 Recruiting helpers for the 2025 osu!mania 4K World Cup!

@@ -2,6 +2,7 @@
 layout: post
 title: "Mapper's Choice Awards 2024: Results"
 date: 2025-05-18 21:00:00 +0000
+series: community_contests
 ---
 
 After much anticipation, the community has spoken! Join us as we unveil the winners of this year's Mapper's Choice Awards.

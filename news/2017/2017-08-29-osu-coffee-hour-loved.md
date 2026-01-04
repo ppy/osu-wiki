@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: Loved"
 date: 2017-08-29 20:30:00 +0000
+series: coffee_hour
 ---
 
 Time for a second serving as the osu! Coffee Hour podcast returns once again, this time focusing on the Loved beatmap category - what happened to it, where is it going, and what is even going on? Join HappyStick, pishifat and Ephemeral as they discuss it all this coming Friday, the 1st of September, at 11PM UTC!

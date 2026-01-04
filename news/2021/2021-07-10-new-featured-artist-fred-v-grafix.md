@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Fred V & Grafix"
 date: 2021-07-10 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to introduce our latest Featured Artists **Fred V & Grafix**!

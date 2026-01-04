@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Chromatic Alteration - Voting Open"
 date: 2022-09-08 00:00:00 +0000
+series: official_contests
 ---
 
 The canvases are painted, all the brushes are worn out, and the skins have been prepared for your eyes to see. Now is your chance to vote for your favourite entry in the latest iteration of the Skinning Contest!

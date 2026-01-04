@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: December 2024"
 date: 2024-12-06 23:55:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 It's time to create your last map of the year.

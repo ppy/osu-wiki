@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Hamu"
 date: 2022-08-03 11:00:00 +0000
+series: featured_artists
 ---
 
 Experience a new world of emotive tracks with our latest Featured Artist, **Hamu!**

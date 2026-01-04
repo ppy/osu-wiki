@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: July 10, 2025"
 date: 2025-07-12 21:00:00 +0000
+series: game_updates
 ---
 
 The warm summer breeze, a nice cold drink, the sounds of the sea waves hitting the beach, and osu!(lazer) updates — truly a perfect combination for these hot summer days.

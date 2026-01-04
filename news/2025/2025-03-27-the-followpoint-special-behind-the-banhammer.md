@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint Special: Behind the Banhammer"
 date: 2025-03-27 17:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Ever wanted to get some insight into how Global Moderation Team works? Then now is your chance as we've interviewed the GMT leaders themselves, so come and have a look at our (sometimes silly) questions!

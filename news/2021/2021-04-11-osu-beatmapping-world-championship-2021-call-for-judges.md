@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Beatmapping World Championship 2021: Call for Judges"
 date: 2021-04-11 14:00:00 +0000
+series: community_contests
 ---
 
 With the Spring season comes the next iteration of osu! Beatmapping World Championship! If you're excited and eager to help us out, here's your chance, because we're looking for judges!

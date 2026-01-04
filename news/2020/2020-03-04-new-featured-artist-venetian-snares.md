@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Venetian Snares"
 date: 2020-03-04 11:00:00 +0000
+series: featured_artists
 ---
 
 **Venetian Snares** is the latest producer to join our **Featured Artists** lineup!

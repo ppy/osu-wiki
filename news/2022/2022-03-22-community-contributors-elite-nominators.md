@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors 2021: Elite Nominators"
 date: 2022-03-22 20:00:00 +0000
+series: miscellaneous
 ---
 
 Take a moment with us to acknowledge some of the truly exceptional Beatmap Nominators that keep the modding and mapping scenes alive.

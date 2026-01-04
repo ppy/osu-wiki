@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2022: Registrations now open!"
 date: 2022-07-07 10:00:00 +0000
+series: world_cups
 ---
 
 With the yearly osu!catch World Cup concluded, we hope you all saved some room for rice and noodles as the main course! The osu!mania 4K World Cup 2022 is now here!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2019: Registrations now open!"
 date: 2019-10-16 16:00:00 +0000
+series: world_cups
 ---
 
 It's that time of the year again. The OWC 2019 is on the horizon and registrations are now open! The 10th installment and thus also our 10th anniversary of the OWC is community driven and focused as never before! There will be some big changes, as this year's OWC was preceded by a discussion and feedback phase which involved players from the previous OWC.

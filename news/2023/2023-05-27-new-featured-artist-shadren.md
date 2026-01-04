@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Shadren"
 date: 2023-05-27 16:00:00 +0000
+series: featured_artists
 ---
 
 **Shadren** expands their creativity from mapping to music production as our latest Featured Artist!

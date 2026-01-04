@@ -2,6 +2,7 @@
 layout: post
 title: "Fantasy World Art Contest: Results"
 date: 2025-07-08 17:00:00 +0000
+series: fanart_contests
 ---
 
 Our world has collided with another, with pippi and the gang taking charge in exploring the new frontier!

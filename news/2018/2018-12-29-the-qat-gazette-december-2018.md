@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: December 2018"
 date: 2018-12-29 14:00:00 +0000
+series: qat_gazette
 ---
 
 Behold, the Christmas gift of mapping and modding news for all! With major changes to the Quality Assurance Team on the horizon, what will the final days of 2018 bring as a new dawn prepares to rise?

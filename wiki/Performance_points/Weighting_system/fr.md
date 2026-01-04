@@ -18,4 +18,4 @@ Précision :
 
 ## Bonus pp
 
-Le weighting system permet à un joueur de gagner jusqu'à 416,6667 points de performance supplémentaires pour avoir réalisé un grand nombre de scores. Le montant maximum est atteint à 25397 scores totaux.
+Le weighting system permet à un joueur de gagner jusqu'à 413,894 points de performance supplémentaires pour avoir réalisé un grand nombre de scores. Le montant maximum est atteint à 1000 scores totaux.

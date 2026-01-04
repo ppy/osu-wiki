@@ -2,6 +2,7 @@
 layout: post
 title: Yuzu's New Look Voting Now Open
 date: 2017-09-29 09:00:00 +0000
+series: fanart_contests
 ---
 
 Our amazingly talented community artists have delivered twenty-five takes on Yuzu's brand new look - which is your favourite?

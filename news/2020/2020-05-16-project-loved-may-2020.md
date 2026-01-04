@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: May 2020"
 date: 2020-05-16 01:20:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) has assembled yet another collection of awesome unranked maps, and now it's your turn to decide what makes it into the Loved category. Come make your voice heard in the May 2020 cycle!

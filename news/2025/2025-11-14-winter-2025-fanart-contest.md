@@ -2,7 +2,7 @@
 layout: post
 title: Winter 2025 Fanart Contest
 date: 2025-11-14 16:00:00 +0000
-series: Fanart Contests
+series: fanart_contests
 ---
 
 As the year draws to a close, it's time to celebrate the season of joy and togetherness with a fanart contest!

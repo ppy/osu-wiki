@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest #9: Results"
 date: 2020-10-31 00:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Don't think it's possible to make a map where each object overlaps another? osu!'s newest Elite Mapper wants to have a word with you.

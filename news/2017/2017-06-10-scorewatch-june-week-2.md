@@ -3,6 +3,7 @@ layout: post
 title: "Scorewatch: June Week 2"
 date: 2017-06-10 12:45:50 +0000
 tumblr_url: http://osunews.tumblr.com/post/161653411533/scorewatch-june-week-2
+series: scorewatch
 ---
 
 Light it up with this week's Scorewatch, featuring some crazy plays on Blue Zenith, United DT, squartatrice and more!

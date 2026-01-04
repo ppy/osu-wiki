@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: ALEPH"
 date: 2020-10-17 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **ALEPH** aboard as our latest Featured Artist!

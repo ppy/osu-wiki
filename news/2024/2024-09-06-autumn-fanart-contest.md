@@ -2,6 +2,7 @@
 layout: post
 title: Autumn 2024 Fanart Contest
 date: 2024-09-06 19:45:00 +0000
+series: fanart_contests
 ---
 
 Embrace the cozy vibes of autumn and let your creativity shine in the Autumn 2024 Fanart Contest!

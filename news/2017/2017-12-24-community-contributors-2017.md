@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: 2017"
 date: 2017-12-24 10:00:00 +0000
+series: miscellaneous
 ---
 
 Among the osu! community, there are a select assortment of amazing individuals who go above and beyond to help make osu! better for everyone. As is tradition, every year we take a moment to reflect on some particularly outstanding contributors.

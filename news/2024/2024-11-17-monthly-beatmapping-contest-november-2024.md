@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: November 2024"
 date: 2024-11-17 20:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 If you're dedicated to the art of designing digital drums and/or fruit, this month's contest was created just for you.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: cute girls doing cute things"
 date: 2020-10-10 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **cute girls doing cute things** aboard as our latest addition to the Featured Artist lineup!

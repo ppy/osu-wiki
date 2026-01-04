@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: September 24, 2023"
 date: 2023-09-25 21:30:00 +0000
+series: game_updates
 ---
 
 Marvel at the never-ending stream of usability improvements.

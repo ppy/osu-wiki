@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: December 2017"
 date: 2017-12-13 09:00:00 +0000
+series: qat_gazette
 ---
 
 An update to the Beatmap Nominator applications process and more clarity on the Beatmap Nominator probation phase, adjustments to beatmap Hype, as well as how to apply and contribute as a Metadata Team Helper - all in store for this month's issue of the QAT Gazette!

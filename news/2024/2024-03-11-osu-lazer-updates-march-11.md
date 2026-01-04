@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: March 11, 2024"
 date: 2024-03-11 19:00:00 +0000
+series: game_updates
 ---
 
 Medals? New hitsounds? Better storyboard performance? Read all about it here!

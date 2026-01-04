@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: BrayanKitsn"
 date: 2025-10-11 21:45:00 +0000
+series: featured_artists
 ---
 
 Artcore is a staple of rhythm game music, and few make it with the same skill as **BrayanKitsn**.

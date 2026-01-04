@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of May 19th"
 date: 2019-05-21 15:25:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s back in the spotlight with yet another selection of awesome unranked maps! Come take a look, and cast your votes for whether or not these maps should enter the Loved category!

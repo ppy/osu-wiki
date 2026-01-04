@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Amidst"
 date: 2021-03-27 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Amidst** on board as our latest Featured Artist!

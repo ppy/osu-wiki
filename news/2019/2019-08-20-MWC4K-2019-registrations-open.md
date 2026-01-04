@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2019: Registrations now open!"
 date: 2019-08-20 10:30:00 +0000
+series: world_cups
 ---
 
 Is that time of the year again. Keyboards will be tested, limits will not exist, ETs will rise and, as always, we will [blame juan](https://osu.ppy.sh/users/443656)! The osu!mania 4K World Cup registration phase is now open!

@@ -2,6 +2,7 @@
 layout: post
 title: "new featured artist: bill wurtz"
 date: 2022-02-02 09:00:00 +0000
+series: featured_artists
 ---
 
 hello.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Shirobon"
 date: 2025-06-21 20:00:00 +0000
+series: featured_artists
 ---
 
 The weekend is here, and with it comes a new Featured Artist!

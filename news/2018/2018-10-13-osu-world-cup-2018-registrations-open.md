@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2018: Registrations now open!"
 date: 2018-10-13 13:00:00 +0000
+series: world_cups
 ---
 
 Circle it on your calendars, because OWC 2018 registrations are now open!

@@ -2,6 +2,7 @@
 layout: post
 title: osu! World Cup 2024 Concludes
 date: 2024-12-14 23:00:00 +0000
+series: world_cups
 ---
 
 They've all come so far, but there can only be one champion.

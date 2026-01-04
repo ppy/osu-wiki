@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Abuse"
 date: 2022-08-20 10:00:00 +0000
+series: featured_artists
 ---
 
 **Abuse** diversifies our Featured Artist catalogue with a collection of unorthodox tracks!

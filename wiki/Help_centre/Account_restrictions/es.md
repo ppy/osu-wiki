@@ -71,7 +71,7 @@ Si decidimos dejarte regresar, te solicitaremos que aceptes algunos términos an
 - **No deberás asociarte con otras cuentas.** Incluye jugar en ordenadores compartidos.
 - **Cualquier mala conducta mayor resultará en una restricción inmediata.** Esto incluye silencios importantes.
 
-Los jugadores que regresen al juego mediante una apelación, según los términos estándar anteriores, también [estarán vetados de los torneos oficiales y con insignia](/wiki/Help_centre/Tournament_bans), tanto como competidores como miembros del equipo organizador del torneo. La duración de este veto es de un año (si es la segunda apelación del usuario, el veto dura 2 años). El correo electrónico del levantamiento de la restricción aclarará la duración de esta prohibición.
+Los jugadores que regresen al juego mediante una apelación, según los términos estándar anteriores, también [estarán vetados de los torneos oficiales y con insignia](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos), tanto como competidores como miembros del equipo organizador del torneo. La duración de este veto es de un año (si es la segunda apelación del usuario, el veto dura 2 años). El correo electrónico del levantamiento de la restricción aclarará la duración de esta prohibición.
 
 **Hacer trampa o compartir una cuenta durante un torneo oficial o torneo con insignia llevará al veto indefinido del usuario en futuros torneos.** Este veto podrá ser apelado después de dos años, pero solo se le otorgará el perdón de esta condición si ha demostrado un esfuerzo significante para mejorar los torneos de la comunidad.
 

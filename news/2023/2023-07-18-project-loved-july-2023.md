@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: July 2023"
 date: 2023-07-18 17:00:00 +0000
+series: project_loved
 ---
 
 A hot summer day is never complete without a refreshing batch of Project Loved!
