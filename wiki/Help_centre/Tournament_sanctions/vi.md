@@ -71,7 +71,7 @@ Nếu một người dùng đối mặt với hình phạt nặng hơn, chẳng 
 
 ## Cấm người tổ chức 
 
-Cấm người tổ chức ngăn cản người dùng trở thành người tổ chức chính hoặc quản lý đối với bất kỳ giải đấu hỗ trợ chính thức nào. Tuy nhiên, họ chỉ có thể được tham gia vào các vai trò khác không liên quan đến việc tổ chức.
+Cấm người tổ chức ngăn cản người dùng trở thành người tổ chức chính hoặc quản lý đối với bất kỳ giải đấu hỗ trợ chính thức nào. Tuy nhiên, họ vẫn có thể tham gia vào các vai trò khác không liên quan đến việc tổ chức.
 
 Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại
 
