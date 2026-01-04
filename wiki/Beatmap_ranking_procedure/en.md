@@ -39,7 +39,7 @@ It is recommended to receive mods before requesting nominations from BNs, howeve
 
 ## Qualification
 
-Qualification is a process where beatmaps that receive enough nominations are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Beatmaps with only one primary [game mode](/wiki/Game_mode) among all [difficulties](/wiki/Beatmap#difficulty) only need two nominations, while hybrid sets[^hybrid-sets] need two nominations for the **main game mode** (talked about below) and one for each subsidiary one.
+Qualification is a process where beatmaps that receive enough nominations are moved to the [Qualified](/wiki/Beatmap/Category#qualified) beatmap category. Beatmaps with only one primary [game mode](/wiki/Game_mode) among all [difficulties](/wiki/Beatmap#difficulty) only need two nominations, while hybrid sets[^hybrid-sets] need two nominations for the [main game mode](#main-mode) and one for each subsidiary one.
 
 Qualified beatmaps receive wider exposure to the osu! community as a final **quality assurance** step before becoming permanently [Ranked](/wiki/Beatmap/Category#ranked). This is the most common stage for beatmaps to receive wide support, feedback, and undergo improvements if issues are found. During this period:
 
@@ -50,13 +50,13 @@ Qualified beatmaps receive wider exposure to the osu! community as a final **qua
 
 When issues are identified that require changes, the beatmap may undergo a [nomination reset](#nomination-resets), allowing the creator to address feedback while maintaining the integrity of the ranking procedure.
 
-### Determining the main game mode
+### Determining the main game mode {id=main-mode}
 
-For hybrid sets, the **main game mode** is determined by the following order of priority:
+For hybrid sets, the main game mode is determined by the following order of priority:
 
 1. The game mode containing the most difficulties in the beatmapset.
 2. If two or more modes have the same amount of difficulties, the main game mode is instead the game mode which the beatmapset host mapped the most difficulties of.
-3. If the previous two rules do not produce a result, the main game mode is any game mode meeting the previous two criteria.
+3. If the previous two rules do not produce a result, the main game mode will be the one that gets nominated first.
 
 ### Nomination resets
 
