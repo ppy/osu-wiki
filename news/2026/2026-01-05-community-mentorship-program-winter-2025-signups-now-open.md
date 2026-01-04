@@ -27,7 +27,8 @@ The mentee signups are currently open, and close on the 11th of January!
 | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | UTC-10 |
 | ::{ flag=US }:: [IllusionB](https://osu.ppy.sh/users/13292488) | UTC-8 |
-| ::{ flag=US }:: [\-White](https://osu.ppy.sh/users/16276548) & ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | UTC-8 |
+| ::{ flag=US }:: [\-White](https://osu.ppy.sh/users/16276548) & ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | UTC-8 |
+| ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784)  | UTC-8 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | UTC-6 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3:30 |
@@ -84,7 +85,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! | UTC+1 |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | osu! | UTC+3 |
 | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | osu! | UTC+8 |
-| ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) | UTC-5 |
+| ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) | osu!mania | UTC-5 |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | osu!mania | UTC-4 |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | UTC+1 |
 | ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | osu!mania | UTC+1 | 
@@ -95,6 +96,7 @@ You can find more information on these mentors in their [detailed overview](http
 For modding, each game mode has their separate overview: 
 
 - [osu! mentors](https://docs.google.com/spreadsheets/d/1hXMTAFDdhjpQP72WyfDkjOnZECf6DO_Ba5sxjpowUKw/edit?gid=2064960339#gid=2064960339)
+- [osu!catch mentors](https://docs.google.com/spreadsheets/d/16J1nxWgHadycR2Qu232VufdcmHKPXWb6MFPixO-ehlg/edit?gid=103718965#gid=103718965)
 - [osu!mania mentors](https://docs.google.com/spreadsheets/d/1AcZHY7OylKGEgzgfryqLr9FOI6-oXdNqPT2Zistz3Yo/edit?gid=2064960339#gid=2064960339)
 - [osu!taiko mentors](https://docs.google.com/spreadsheets/d/1cjhM_wRE-BmH5v1iVF_uP1Jp6uLNamS7aCnjAQmEQb4/edit?gid=2064960339#gid=2064960339)
 
