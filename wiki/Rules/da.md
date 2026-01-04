@@ -62,7 +62,7 @@ Disse konsekvenser kan inkludere (*men er ikke begrænset til*):
 
 [Silences](/wiki/Help_centre/Silences) og andre straffe forøges **automatisk** eksponentielt i varighed med hver overtrædelse. Brugere, der gentagne gange overtræder reglerne, vil miste deres privilegier i længere og længere perioder.
 
-Visse overtrædelser har en mindstestraf (oftest en silence, som varer 43 timer eller mere), hvis de er særligt alvorlige. De er dog næsten udelukkende forbeholdt alvorlige overtrædelser, såsom deling af grafisk indhold eller chikane af andre brugere.
+Visse overtrædelser har en mindstestraf (oftest en silence, som varer 43 timer eller mere); mindstestraffe er dog næsten udelukkende forbeholdt alvorlige overtrædelser, såsom deling af grafisk indhold eller chikane af andre brugere.
 
 Hvis du fortsætter med at bryde reglerne efter flere overtrædelser, eller hvis du bryder reglerne på en særlig alvorlig måde (som ved at snyde), kan din konto muligvis være permanent og uigenkaldeligt begrænset.
 
