@@ -25,7 +25,7 @@ The mentee signups are currently open, and close on the 11th of January!
 | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | UTC-10 |
 | ::{ flag=US }:: [IllusionB](https://osu.ppy.sh/users/13292488) | UTC-8 |
-| ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784)  | UTC-8 |
+| ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | UTC-8 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | UTC-7 |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) & ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | UTC-5 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
