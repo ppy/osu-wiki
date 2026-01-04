@@ -45,7 +45,8 @@ Der er flere grunde til, at en konto kan blive begrænset.
 - **Det er ikke din første konto.** Multiaccounting (at oprette eller bruge flere konti) er imod reglerne. Alle konti undtagen en spillers første bliver permanent begrænset, men deres oprindelige konto bliver som regel ikke påvirket, og brugeren opfordres til at blive ved med at spille på den. Hvis multiaccountingen er grov eller misbrugsagtig, kan den oprindelige konto blive silenced som en advarsel imod oprettelse af flere konti. Hvis spilleren bliver ved med at lave flere konti, bliver deres oprindelige konto også begrænset. Hvis din konto er begrænset, og du ved, at du har andre konti, skal du ikke bruge de andre konti — spil kun på din oprindelige konto. Hvis du har problemer med at logge ind eller verificere din konto, burde du sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh), så vi kan hjælpe dig med at få adgang til den igen.
 - **Du har tilladt nogen at spille på din konto.** Kontodeling er også imod reglerne. Hvis du lader nogen bruge din konto, bliver den begrænset, og den anden spillers konto bliver sandsynligvis også begrænset eller silenced. Hvis dette skete ved en fejl, skal du hurtigst muligt informere os ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **Du har snydt.** Brug af eksterne programmer, makroer eller andre slags uretfærdige fordele vil altid medføre en begrænsning.
-- **Andre grunde.** Kontoholdet forbeholder sig retten til at begrænse en konto af grunde udenfor de forrige tre.
+- **Du blev ved med at bryde reglerne eller poste upassende indhold.** Brugere, der kontinuerligt bliver [silenced](/wiki/Help_centre/Silences) for at overtræde reglerne i chat, kommentarer, beatmap-diskussioner, på osu!s fora eller under andre omstændigheder, bliver begrænset for det. [Det Globale Moderationshold](/wiki/People/Global_Moderation_Team) giver ofte en sidste advarsel til brugere, der nærmer sig en begrænsning på grund af deres nylige historik af silences og regelovertrædelser.
+- **Andre grunde.** Kontoholdet forbeholder sig retten til at begrænse en konto af grunde udenfor de ovennævnte fire.
 
 Hvis en konto blev retfærdigt begrænset, beder vi brugeren om at vente et stykke tid, før de anmoder om ophævelse. Denne tid hedder en *nedkølingsperiode*, og varigheden varierer alt efter overtrædelserne.
 
@@ -59,7 +60,7 @@ Hvis en konto blev retfærdigt begrænset, beder vi brugeren om at vente et styk
 
 ## Min nedkølingsperiode er forbi. Hvordan anmoder jeg om at komme tilbage? {id=appeal}
 
-Du kan anmode om at få din begrænsning ophævet ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh), der inkluderer din kontos brugernavn. Vær sikker på, at du sender anmodningen fra mailadressen, der er tilknyttet din konto. Du kan forvente et svar indenfor en uge, efter du har sendt os denne mail. Hvis du ikke har fået et svar efter en uge, så kontakter os venligst per Twitter eller mail — det er muligt, at vi ikke har modtaget den.
+Du kan anmode om at få din begrænsning ophævet ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh) med emnet `Restriction Appeal: <brugernavn>`. Vær sikker på, at du sender anmodningen fra mailadressen, der er tilknyttet din konto. Du kan forvente et svar indenfor to uger, efter du har sendt os denne mail. Hvis du ikke har fået et svar efter en uge, så kontakter os venligst per Twitter eller mail — det er muligt, at vi ikke har modtaget den.
 
 Når du anmoder om ophævelse, forventer vi, at den indeholder forklaringer om følgende:
 
