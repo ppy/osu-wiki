@@ -39,7 +39,7 @@ Tất cả mọi thứ về bấm vòng, đánh trống, bắt quả và đánh 
 
 [Các chế độ chơi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Màn chơi](/wiki/Beatmap/Difficulty) • [Vật thể](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Điểm số](/wiki/Gameplay/Score) • [Phát lại](/wiki/Gameplay/Replay) • [Huy Chương](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Màn chơi](/wiki/Beatmap/Difficulty) • [Vật thể](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Điểm số](/wiki/Gameplay/Score) • [Phát lại](/wiki/Gameplay/Replay) • [Huy Chương](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Thử thách hằng ngày](/wiki/Gameplay/Daily_challenge) • [Chơi nhanh](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -87,22 +87,24 @@ Giải đáp các câu hỏi và tìm ra giải pháp cho những vấn đề th
 
 [Trung tâm trợ giúp](/wiki/Help_centre) • [Xử lý sự cố hiệu suất](/wiki/Performance_troubleshooting) • [Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) • [Diễn đàn trợ giúp](https://osu.ppy.sh/forum/5)
 
-Hạn chế: [Im lặng](/wiki/Silence) • [Lệnh hạn chế tài khoản](/wiki/Help_centre/Account_restrictions)
+Hạn chế: [Im lặng](/wiki/Silence) • [Lệnh hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) • [Lệnh xử phạt giải đấu](/wiki/Help_centre/Tournament_sanctions)
 
 Làm những gì có thể: [Những gì bạn có thể giúp](/wiki/Community/How_you_can_help!) • [Báo cáo hành vi xấu](/wiki/Reporting_bad_behaviour) • [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse) • [Báo cáo gian lận](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Cộng đồng và dự án
+# [Cộng đồng](/wiki/Community) và [dự án](/wiki/Community/Projects)
 
 Tương tác trong cộng đồng là một trong những điều đã thúc đẩy người chơi osu! trên toàn thế giới tham gia nhiều hơn vào cộng đồng của trò chơi này. Hãy khám phá các hoạt động và cuộc thi, tiếp xúc với mọi người hoặc giúp tổ chức những sự kiện lớn trong tương lai!
 
 Các kênh giao tiếp: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Máy chủ Discord](/wiki/Community/Discord_servers)
 
-[Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Chương trình Cố vấn](/wiki/Community/Community_Mentorship_Program)
+Sáng kiến: [Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Chương trình Cố vấn](/wiki/Community/Community_Mentorship_Program)
 
-[Dự án](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
+[Dự án](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly) 
+
+Phương tiện truyền thông: [Âm nhạc độc quyền](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Chuỗi video](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Cập nhật lazer](/wiki/Community/Video_series/lazer_updates)
 
 Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
