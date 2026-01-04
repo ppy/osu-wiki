@@ -5,9 +5,7 @@ date: 2026-01-05 11:00:00 +0000
 series: online_events
 ---
 
-Happy new year! 
-
-The 32nd cycle of the Community Mentorship Program is about to begin! Get ready to delve deep into the world of mapping, modding, or storyboarding.
+Happy new year! The 32nd cycle of the Community Mentorship Program is about to begin! Get ready to delve deep into the world of mapping, modding, or storyboarding.
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
@@ -47,7 +45,7 @@ You can find more information on these mentors in their [detailed overview](http
 | :-- | :-- |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
 | ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) | UTC-5 |
-| ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | UTC+1 | 
+| ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | UTC+1 |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+1 |
 | ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) | UTC+3 |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | UTC+7 |
@@ -78,7 +76,7 @@ You can find more information on these mentors in their [detailed overview](http
 | Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | osu! | UTC-10 |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pankacespk](https://osu.ppy.sh/users/26131645)  | osu! | UTC-7 & UTC-8 |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pankacespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-7 & UTC-8 |
 | ::{ flag=CL }:: [melleganol](https://osu.ppy.sh/users/16452371) | osu! | UTC-3 |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-3 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | osu! | UTC+1 |
@@ -87,7 +85,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) | osu!mania | UTC-5 |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | osu!mania | UTC-4 |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | UTC+1 |
-| ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | osu!mania | UTC+1 | 
+| ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | osu!mania | UTC+1 |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | osu!mania | UTC+7 |
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania | UTC+9 |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
@@ -104,7 +102,7 @@ You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwa
 
 | Mentor | Timezone |
 | :-- | :-- |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | UTC-5 | 
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | UTC-5 |
 | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSewCsK_L1pTr2vAMYiLtQZIfRMjqYLuepsBJNwEIYFDBM0P1A/viewform).
