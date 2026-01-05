@@ -13,15 +13,15 @@ The Community Mentorship Program serves as a place for upcoming mappers, modders
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events such as speedmapping contests, organise guest difficulties for your mapsets on our job board, and more! 
 
-On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, the guest difficulty job board and more! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
+On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, and the guest difficulty job board! We also annmapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
 
 If you're interested in the program, please read the [forum post](https://osu.ppy.sh/community/forums/topics/2159814?n=1) for a full rundown on how to apply. 
 
-The mentee signups are currently open, and close on the 11th of January!
+The mentee signups are currently open, and close on the **11th of January**!
 
 ### osu! 
 
-| Mentor | Time zone |
+| Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | UTC-10 |
 | ::{ flag=US }:: [IllusionB](https://osu.ppy.sh/users/13292488) | UTC-8 |
@@ -29,7 +29,6 @@ The mentee signups are currently open, and close on the 11th of January!
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | UTC-7 |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) & ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | UTC-5 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
-| ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3:30 |
 | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | UTC+0 |
 | ::{ flag=ES }:: [flouah](https://osu.ppy.sh/users/8030129) | UTC+1 |
 | ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596) | UTC+1 |
@@ -51,29 +50,29 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | UTC+7 |
 | ::{ flag=CN }:: [[GB]R\-Trigger](https://osu.ppy.sh/users/25308131) | UTC+8 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1g2KhhmBqiqNAe2I2PJPicaSFtWPQ5sScRluC9oQzFGg/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSeVdfghHjpjOiGJ1rw167rOsuAczWgub0sYYX_wYCP1_kwrTw/viewform).
 
 ### osu!taiko
 
-| Mentor | Time zone |
+| Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) | UTC-4 |
 | ::{ flag=DE }:: [Undead Alice](https://osu.ppy.sh/users/17415683) | UTC+1 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1_bMj04v4kUhdBd_JS6yiex9pBSFcxh_Uunn--n7Ugt8/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSfb7Am7-lX0IzFNCCpY7gsACNzv9gcc_5KAEAK5wYVNiNFk4w/viewform).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1_bMj04v4kUhdBd_JS6yiex9pBSFcxh_Uunn--n7Ugt8/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSfb7Am7-lX0IzFNCCpY7gsACNzv9gcc_5KAEAK5wYVNiNFk4w/viewform).
 
 ### osu!catch
 
-| Mentor | Time zone |
+| Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/16J1nxWgHadycR2Qu232VufdcmHKPXWb6MFPixO-ehlg/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSdoi7VNJNfEv6V3aJ953255smnpBBqRX5XzUcOmACWeq3bG6Q/viewform).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/16J1nxWgHadycR2Qu232VufdcmHKPXWb6MFPixO-ehlg/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSdoi7VNJNfEv6V3aJ953255smnpBBqRX5XzUcOmACWeq3bG6Q/viewform).
 
 ### Modding
 
-| Mentor | Game mode | Time zone |
+| Mentor | Game mode | Timezone |
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | osu! | UTC-10 |
 | ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pankacespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-7 & UTC-8 |
@@ -87,7 +86,6 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | UTC+1 |
 | ::{ flag=DE }:: [ababa](https://osu.ppy.sh/users/8599070) | osu!mania | UTC+1 |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | osu!mania | UTC+7 |
-| ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | osu!mania | UTC+9 |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
 
 For modding, each game mode has their separate overview: 
@@ -96,7 +94,7 @@ For modding, each game mode has their separate overview:
 - [osu!mania mentors](https://docs.google.com/spreadsheets/d/1AcZHY7OylKGEgzgfryqLr9FOI6-oXdNqPT2Zistz3Yo/edit?gid=2064960339#gid=2064960339)
 - [osu!taiko mentors](https://docs.google.com/spreadsheets/d/1cjhM_wRE-BmH5v1iVF_uP1Jp6uLNamS7aCnjAQmEQb4/edit?gid=2064960339#gid=2064960339)
 
-You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwaUWRPZ_AeP_bMr3GNsWMy62MpVwHQfyPtQfeSxXw/viewform).
+You can apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwaUWRPZ_AeP_bMr3GNsWMy62MpVwHQfyPtQfeSxXw/viewform).
 
 ### Storyboarding
 
@@ -105,7 +103,7 @@ You can apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwa
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | UTC-5 |
 | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSewCsK_L1pTr2vAMYiLtQZIfRMjqYLuepsBJNwEIYFDBM0P1A/viewform).
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/18vLaEyRnsfc2hpUb53EpggRwY6Vg7PqTScbs2qI6otc/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSewCsK_L1pTr2vAMYiLtQZIfRMjqYLuepsBJNwEIYFDBM0P1A/viewform).
 
 ---
 
