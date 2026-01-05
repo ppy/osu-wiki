@@ -40,7 +40,7 @@ Thành viên NAT nằm trong bộ phận tổ chức sẽ không phụ trách m�
 - **Công tác bảo trì chung**: Bao gồm nhưng không giới hạn ở những việc sau:
   - Xử lý [các yêu cầu từ chối đề cử](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Duy trì [Tiêu chí xếp hạng](https://osu.ppy.sh/community/forums/87) và diễn đàn phụ [Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
-  - Đánh giá [mức độ ảnh hưởng](SEV_rating) của những đợt đặt lại đề cử.[^đánh-giá-mức-độ]
+  - Đánh giá [mức độ ảnh hưởng](SEV_rating) của những đợt đặt lại đề cử.
 
 Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và ý kiến của họ được lắng nghe, đồng thời việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường. Những người thuộc bộ phận này là những người đánh giá nhiều kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding.
 
