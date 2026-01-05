@@ -1,4 +1,4 @@
-﻿# Turneringssanktioner
+# Turneringssanktioner
 
 *Hovedside: [Help centre](/wiki/Help_centre)*
 
