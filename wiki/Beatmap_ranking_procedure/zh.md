@@ -75,7 +75,7 @@ tags:
 
 ## 上架
 
-谱面在过审状态停留至少七天且没有出现仍未解决的[问题或建议](/wiki/Modding#摸图帖种类)后，[上架队列 (Ranking queue)](Ranking_queue) 就能够将其移动到[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。如果这期间谱面被 DQ 并重新过审，那么其上架所需要花费的时间可能会被[重新计算](Ranking_queue#取消过审-(DQ)-与重新过审)。上架后，谱面开放全新的[排行榜](/wiki/Ranking)，且玩家也可以从谱面内获取到[表现分 (pp)](/wiki/Performance_Points)。
+谱面在过审状态停留至少七天且没有出现仍未解决的[问题或建议](/wiki/Modding#摸图帖种类)后，[上架队列 (Ranking queue)](Ranking_queue) 就能够将其移动到[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。如果这期间谱面被 DQ 并重新过审，那么其上架所需要花费的时间可能会被[重新计算](Ranking_queue#取消过审-(dq)-与重新过审)。上架后，谱面开放全新的[排行榜](/wiki/Ranking)，且玩家也可以从谱面内获取到[表现分 (pp)](/wiki/Performance_Points)。
 
 只有在特殊情况下，在上架后的短期内发现了问题，上架状态的谱面才会被下架 (unrank) 处理。
 
