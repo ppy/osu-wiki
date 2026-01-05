@@ -2,6 +2,7 @@
 layout: post
 title: "Community Mentorship Program Summer 2023: Signups Now Open"
 date: 2023-06-05 17:00:00 +0000
+series: online_events
 ---
 
 The 24th cycle of the Community Mentorship program is on its way! Get ready to delve deep into the world of mapping, modding, or storyboarding.

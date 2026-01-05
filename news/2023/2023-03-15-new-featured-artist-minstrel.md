@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Minstrel"
 date: 2023-03-15 09:00:00 +0000
+series: featured_artists
 ---
 
 *Touhou* arrangements and high-tempo rock. They're the only two things you need, and **Minstrel** delivers both.

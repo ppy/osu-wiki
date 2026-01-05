@@ -3,6 +3,7 @@ layout: post
 title: November 2016 Ranking Charts
 date: 2016-12-20 21:41:17 +0000
 tumblr_url: http://osunews.tumblr.com/post/154735514953/november-2016-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for November 2016 have been just released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1611)! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.

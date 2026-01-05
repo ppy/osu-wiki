@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artists: Rootkit & Grant"
 date: 2022-07-06 10:00:00 +0000
+series: featured_artists
 ---
 
 Two flagship members of the [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255) repertoire sail into our Featured Artist collection!

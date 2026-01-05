@@ -2,6 +2,7 @@
 layout: post
 title: Spring 2019 Fanart Contest
 date: 2019-05-10 12:00:00 +0000
+series: fanart_contests
 ---
 
 Better late than never! Spring might be on the way out, but talent is *always* in season, so whip out your drawing implement of choice and draw any of the osu! mascots enjoying spring for fun and prizes!

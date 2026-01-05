@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #10 (CtB only)"
 date: 2015-06-15 12:01:43 +0000
 tumblr_url: http://osunews.tumblr.com/post/121583979808/monthly-beatmapping-contest-10-ctb-only
+series: monthly_beatmapping_contest
 ---
 
 We just opened the submissions for the 10th Monthly Beatmapping Contest  - for the first time only for the Catch the Beat game mode and with the awesome song "Hylian Lemon - Foresight Is for Losers".

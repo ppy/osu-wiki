@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rising Sun Traxx"
 date: 2019-06-30 17:00:00 +0000
+series: featured_artists
 ---
 
 [**Rising Sun Traxx**](https://osu.ppy.sh/beatmaps/artists/41) blasts on to the scene as osu!'s latest partner per the Featured Artist program! 48 brand new tracks from dozens of talented artists, ranging from hardstyle to psytrance and more!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2024: Round of 16 Recap"
 date: 2024-04-03 12:00:00 +0000
+series: world_cups
 ---
 
 Nothing happened in the osu!taiko World Cup between the 30th and 31st of March 2024.

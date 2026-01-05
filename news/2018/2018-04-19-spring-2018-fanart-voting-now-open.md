@@ -2,6 +2,7 @@
 layout: post
 title: Spring 2018 Fanart Voting Now Open
 date: 2018-04-19 14:00:00 +0000
+series: fanart_contests
 ---
 
 Seventy-six amazing entries, and only ten days to judge them all! Talent is absolutely in bloom this year, with one of our most fiercely competitive fanart contests yet!

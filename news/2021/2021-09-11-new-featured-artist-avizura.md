@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Avizura"
 date: 2021-09-11 09:00:00 +0000
+series: featured_artists
 ---
 
 We're thrilled to announce **Avizura** aboard as our newest Featured Artist!

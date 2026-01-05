@@ -2,6 +2,7 @@
 layout: post
 title: Summer 2018 Fanart Contest Results
 date: 2018-08-09 02:00:00 +0000
+series: fanart_contests
 ---
 
 The voting was among the closest it's ever been this year, but you've had your say, and we've got **fifteen** winners to share!

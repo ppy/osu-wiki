@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 7_7"
 date: 2023-04-23 07:00:00 +0000
+series: featured_artists
 ---
 
 Anarchy enters our Featured Artist library through top-tier osu!taiko player **7\_7**'s chaotic sound.

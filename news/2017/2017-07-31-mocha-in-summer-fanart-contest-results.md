@@ -3,6 +3,7 @@ layout: post
 title: Mocha in Summer Fanart Contest Results
 date: 2017-07-31 10:45:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/163633704738/mocha-in-summer-fanart-contest-results
+series: fanart_contests
 ---
 
 With over sixty blisteringly hot entries, the competition was fierce in Mocha's first ever fanart contest. Check out the winning ten entries, now available in an osu! client near you!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Imperial Circus Dead Decadence"
 date: 2019-03-07 09:00:00 +0000
+series: featured_artists
 ---
 
 Decadence descends upon osu! with the latest addition to the Featured Artist lineup - Imperial Circus Dead Decadence!

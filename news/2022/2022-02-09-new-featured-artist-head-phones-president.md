@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: HEAD PHONES PRESIDENT"
 date: 2022-02-09 09:00:00 +0000
+series: featured_artists
 ---
 
 **HEAD PHONES PRESIDENT** crashes into the scene as our latest Featured Artist!

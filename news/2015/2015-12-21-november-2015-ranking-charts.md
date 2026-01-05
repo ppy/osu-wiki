@@ -3,6 +3,7 @@ layout: post
 title: November 2015 Ranking Charts
 date: 2015-12-21 21:47:39 +0000
 tumblr_url: http://osunews.tumblr.com/post/135664577013/november-2015-ranking-charts
+series: beatmap_spotlights
 ---
 
 Hello everyone! The Ranking Charts for November 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1511)!

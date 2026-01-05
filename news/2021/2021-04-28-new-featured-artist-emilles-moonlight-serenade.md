@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Emille's Moonlight Serenade"
 date: 2021-04-28 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to pull **Emille's Moonlight Serenade** into the Featured Artist lineup!

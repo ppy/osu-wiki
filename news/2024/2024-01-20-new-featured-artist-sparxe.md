@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Sparxe"
 date: 2024-01-20 19:30:00 +0000
+series: featured_artists
 ---
 
 Homegrown musician **Sparxe** makes their way from osu!'s leaderboards to osu!'s Featured Artist listing!

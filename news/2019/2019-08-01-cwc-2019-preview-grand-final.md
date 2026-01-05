@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2019: Grand Final Preview"
 date: 2019-08-01 02:00:00 +0000
+series: world_cups
 ---
 
 Five weeks of frantic fruit catching have been and gone, and the field has been whittled down to the final three. From thirty-two teams, only Chile, China and South Korea remain. All have stood on the top step of the podium before, but who will rise to the occasion to claim this year's greatest prize in osu!catch?

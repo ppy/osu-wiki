@@ -2,6 +2,7 @@
 layout: post
 title: "The Mappers' Report: Fall"
 date: 2020-12-31 00:00:00 +0800
+series: mappers_report
 ---
 
 We are back with the Mappers' Report! This time covering a whole season full of news about happenings in the mapping and modding scene of osu! I hope you are ready because there is a lot of stuff to cover. So let's jump right into it!

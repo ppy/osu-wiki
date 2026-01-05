@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #13 Results"
 date: 2017-04-02 16:28:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/159115994138/monthly-beatmapping-contest-13-results
+series: monthly_beatmapping_contest
 ---
 
 MBC#13 judging is finally concluded, and we have a winner!

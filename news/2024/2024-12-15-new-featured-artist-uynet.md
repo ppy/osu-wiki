@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: uynet"
 date: 2024-12-15 20:00:00 +0000
+series: featured_artists
 ---
 
 Simply put, our latest Featured Artist **uynet** (pronounced "yuinet") is a lover of piano and all things cute.

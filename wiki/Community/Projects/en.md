@@ -107,7 +107,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 |  | [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool that translates hand-drawn shapes into sliders |
 |  | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool for silencing slider ends automatically |
 |  | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Tool for ensuring [perfect stacks](/wiki/Beatmapping/Mapping_techniques/Stack) between objects |
-| ![](img/logo_osucad.png) | [osu!cad](https://osucad.com) | ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Browser-based collaborative beatmap editor |
+| ![](img/logo_osucad.png) | [osucad](https://osucad.com) | ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Browser-based collaborative beatmap editor |
 |  | [osu!trace](https://osu.ppy.sh/community/forums/topics/303844) | ::{ flag=US }:: [HedonicKnight](https://osu.ppy.sh/users/4834671) | Cursor tracing program for analysing beatmap flow |
 
 #### osu!taiko

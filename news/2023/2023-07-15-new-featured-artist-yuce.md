@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: YUC'e"
 date: 2023-07-15 17:00:00 +0000
+series: featured_artists
 ---
 
 osu!'s Featured Artist library is officially 200% sweeter.

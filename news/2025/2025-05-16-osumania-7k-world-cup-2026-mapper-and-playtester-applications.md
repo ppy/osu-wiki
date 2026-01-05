@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 7K World Cup 2026 Mapper and Playtester Applications
 date: 2025-05-16 22:00:00 +0000
+series: world_cups
 ---
 
 The osu!mania 7K Mappooling team is looking for mappers and playtesters for the next iteration of the tournament. Interested? Apply now!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2024: Round of 16 Recap"
 date: 2024-09-04 21:00:00 +0000
+series: world_cups
 ---
 
 The best moments of MWC 4K's Round of 16 have been packaged and delivered straight to your front page.

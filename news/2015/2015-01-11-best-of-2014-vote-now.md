@@ -3,6 +3,7 @@ layout: post
 title: Best of 2014 - Vote now!
 date: 2015-01-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107825388293/best-of-2014-vote-now
+series: official_contests
 ---
 
 The year 2014 passed and the entire osu!staff would like to wish everyone a happy new year again! Along with that, we opened the traditional Best of 2014 votings.

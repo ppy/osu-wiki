@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contests: April 2021"
 date: 2021-04-08 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Compete with other mappers to find out who holds the crown in this slidershape-themed mapping contest!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: PaceMKR"
 date: 2024-04-13 22:00:00 +0000
+series: featured_artists
 ---
 
 **PaceMKR**'s sound has crawled its way into our Featured Artist library!

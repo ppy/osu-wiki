@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild Quests Completed
 date: 2019-09-24 17:20:00 +0000
+series: mappers_guild
 ---
 
 The Mappers' Guild has been hard at work creating beatmaps for your favourite Featured Artist tracks. If you haven't been following, come check them out!

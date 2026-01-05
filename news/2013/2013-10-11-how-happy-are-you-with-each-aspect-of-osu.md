@@ -3,6 +3,7 @@ layout: post
 title: How happy are you with each aspect of osu!?
 date: 2013-10-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63694687391/how-happy-are-you-with-each-aspect-of-osu
+series: miscellaneous
 ---
 
 We want to know what you, the community, think we should focus on more. To this end, we have set up a quick, 2-minute survey for willing players.

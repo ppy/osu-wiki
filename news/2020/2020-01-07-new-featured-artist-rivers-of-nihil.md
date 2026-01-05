@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rivers of Nihil"
 date: 2020-01-07 12:00:00 +0000
+series: featured_artists
 ---
 
 Left alone on a dying planet, **Rivers of Nihil** crash into the Featured Artist lineup!

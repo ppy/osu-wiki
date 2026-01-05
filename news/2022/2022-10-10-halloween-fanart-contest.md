@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2022 Fanart Contest
 date: 2022-10-11 16:00:00 +0000
+series: fanart_contests
 ---
 
 Spooky month has arrived. This means one thing: time for the artists of the osu! community to demonstrate their frightening skill!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: uselet"
 date: 2024-02-17 19:00:00 +0000
+series: featured_artists
 ---
 
 A new batch of breakcore has landed on our doorstep thanks to our latest Featured Artist: **uselet**!

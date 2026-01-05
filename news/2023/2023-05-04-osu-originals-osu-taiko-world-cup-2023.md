@@ -2,6 +2,7 @@
 layout: post
 title: osu! originals - osu!taiko World Cup 2023
 date: 2023-05-04 11:00:00 +0000
+series: world_cups
 ---
 
 Japan may have won the [osu!taiko World Cup](/wiki/Tournaments/TWC) for the 10th year in a row, but this is the first TWC with **5 brand-new songs** created specifically for the tournament!

@@ -3,6 +3,7 @@ layout: post
 title: "osu! Monthly Beatmapping Contest #1"
 date: 2013-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60440803370/osu-monthly-beatmapping-contest-1
+series: monthly_beatmapping_contest
 ---
 
 Calling all mappers! Come show off your mapping skills to the community with the chance of having your beatmap **bundled with the game client!**

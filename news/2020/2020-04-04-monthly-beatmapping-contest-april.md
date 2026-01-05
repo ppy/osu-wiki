@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: April"
 date: 2020-04-04 07:15:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 We're back again for another month of mapping! Vote on the top 5 finalists from last month's contest and see if you can create a map within this month's limitation!

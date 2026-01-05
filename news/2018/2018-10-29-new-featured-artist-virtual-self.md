@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Virtual Self"
 date: 2018-10-29 12:00:00 +0000
+series: featured_artists
 ---
 
 𝐴𝑤𝑎𝑘𝑒𝑛 𝑡ℎ𝑒 𝑝𝑎𝑟𝑡𝑖𝑐𝑙𝑒 𝑚𝑦𝑡ℎ. Porter Robinson's concept project joins the Featured Artist project with 6 brand new tracks, including video! To celebrate, we're holding a special Olympiad beatmapping contest - check it all out!

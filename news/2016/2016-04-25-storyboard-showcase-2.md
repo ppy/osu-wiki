@@ -3,6 +3,7 @@ layout: post
 title: "Storyboard Showcase #2"
 date: 2016-04-25 04:07:06 +0000
 tumblr_url: http://osunews.tumblr.com/post/143359597258/storyboard-showcase-2
+series: miscellaneous
 ---
 
 It was almost to be expected, but an overwhelming majority of people who submitted a storyboard for us to showcase picked the same one! This month, we'll be taking a look at the swan song of the retired Community Contributor Charles445.

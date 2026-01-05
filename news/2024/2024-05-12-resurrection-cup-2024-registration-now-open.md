@@ -2,6 +2,7 @@
 layout: post
 title: "Resurrection Cup 2024: Registrations Now Open!"
 date: 2024-05-12 12:00:00 +0000
+series: community_tournaments
 ---
 
 Resurrecting all osu! players! Resurrection Cup is back for a 2024 iteration — now with tons of improvements behind the scenes, focusing on competitiveness and enjoyment for everyone!

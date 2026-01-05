@@ -2,7 +2,7 @@
 
 ## Enero
 
-Más artistas se unieron al programa de [artistas destacados](/wiki/People/Featured_Artists) a principios de año, siendo estos: [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228), [DGK](https://osu.ppy.sh/beatmaps/artists/229), [Haywyre](https://osu.ppy.sh/beatmaps/artists/230), [satella](https://osu.ppy.sh/beatmaps/artists/231), [Vansire](https://osu.ppy.sh/beatmaps/artists/232), [Boom Kitty](https://osu.ppy.sh/beatmaps/artists/233), [Annabel](https://osu.ppy.sh/beatmaps/artists/234) y [Maduk](https://osu.ppy.sh/beatmaps/artists/235).
+Más artistas se unieron al programa de [Artistas Destacados](/wiki/People/Featured_Artists) a principios de año, siendo estos: [NIWASHI](https://osu.ppy.sh/beatmaps/artists/228), [DGK](https://osu.ppy.sh/beatmaps/artists/229), [Haywyre](https://osu.ppy.sh/beatmaps/artists/230), [satella](https://osu.ppy.sh/beatmaps/artists/231), [Vansire](https://osu.ppy.sh/beatmaps/artists/232), [Boom Kitty](https://osu.ppy.sh/beatmaps/artists/233), [Annabel](https://osu.ppy.sh/beatmaps/artists/234) y [Maduk](https://osu.ppy.sh/beatmaps/artists/235).
 
 El 9 de enero, el [osu! team](/wiki/People/osu!_team) realizó una [reunión con la comunidad](/wiki/Community/osu!_community_meetings), en la que se abordaron las mecánicas de HP y otras cuestiones generales con miembros de la comunidad.[^community-meeting-hp] En particular, muchos jugadores de osu!mania comentaron que querían que el drenaje de HP de osu!(lazer) fuera menos severo, ya que osu!mania en osu!(stable) no tenía drenaje pasivo, al contrario que osu!(lazer) en aquel momento. [peppy](https://osu.ppy.sh/users/2) mencionó que le gustaría estandarizar el drenaje de HP entre todos los modos de juego para simplificar la experiencia para los recién llegados a lazer. Dos semanas después, el 22 de enero, se realizó otra reunión con el osu! team detallando el continuo desarrollo y contestando a varias preguntas de la comunidad.[^community-meeting-dev]
 
@@ -12,9 +12,9 @@ En la página, los usuarios son ahora capaces de anclar cualquiera de sus puntua
 
 ## Febrero
 
-[bill wurtz](https://osu.ppy.sh/beatmaps/artists/236), [Atavistia](https://osu.ppy.sh/beatmaps/artists/237), [HEAD PHONES PRESIDENT](https://osu.ppy.sh/beatmaps/artists/238), [MisoilePunch](https://osu.ppy.sh/beatmaps/artists/239), [Good Kid](https://osu.ppy.sh/beatmaps/artists/240), [Riya](https://osu.ppy.sh/beatmaps/artists/241), [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) y [MisomyL](https://osu.ppy.sh/beatmaps/artists/243) se convirtieron en artistas destacados.
+[bill wurtz](https://osu.ppy.sh/beatmaps/artists/236), [Atavistia](https://osu.ppy.sh/beatmaps/artists/237), [HEAD PHONES PRESIDENT](https://osu.ppy.sh/beatmaps/artists/238), [MisoilePunch](https://osu.ppy.sh/beatmaps/artists/239), [Good Kid](https://osu.ppy.sh/beatmaps/artists/240), [Riya](https://osu.ppy.sh/beatmaps/artists/241), [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) y [MisomyL](https://osu.ppy.sh/beatmaps/artists/243) se convirtieron en Artistas Destacados.
 
-En enero, el osu! team abrió una [encuesta para osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) para determinar qué es lo que la comunidad espera de los puntos de rendimiento y el sistema de calificación por estrellas. Los resultados de la encuesta, visibles [aquí para osu!taiko](https://assets.ppy.sh/surveys/2022-pp-taiko/viewer.htm?v=9) y [aquí para osu!mania](https://assets.ppy.sh/surveys/2022-pp-mania/viewer.htm?v=2),[^pp-survey] impulsaron la formación de un panel para osu!mania y osu!taiko en el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) más tarde ese mismo año.
+En enero, el osu! team abrió una [encuesta para osu!taiko y osu!mania](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) para determinar qué es lo que la comunidad espera de los puntos de rendimiento y el sistema de calificación por estrellas. Los resultados de la encuesta, visibles [aquí para osu!taiko](https://assets.ppy.sh/surveys/2022-pp-taiko/viewer.htm?v=9) y [aquí para osu!mania](https://assets.ppy.sh/surveys/2022-pp-mania/viewer.htm?v=2),[^pp-survey] impulsaron la formación de un panel para osu!mania y osu!taiko en el [Comité de Puntos de Rendimiento](/wiki/People/Performance_Points_Committee) más tarde ese mismo año.
 
 El 6 de febrero se realizó la tercera reunión con la comunidad del año, dedicada a diversas preguntas de la comunidad.[^community-meeting-questions] El 20 de febrero, se llevó a cabo otra reunión con la comunidad sobre los multiplicadores y la puntuación de los mods, debido a que osu!(lazer) permite ajustes de tasa variable para algunos mods. Por ejemplo, Double Time puede ser ajustado para dar una velocidad de 1,01x, en lugar de solo 1,5x como en stable. Esto le daría a los jugadores una ventaja injusta en las tablas de clasificación, ya que los jugadores aún recibirían el multiplicador de puntuación fijo de 1,12x. Como consecuencia, los multiplicadores de los mods se desactivaron temporalmente. El osu! team quiere trabajar en una solución más sólida en el futuro.[^community-meeting-mod]
 
@@ -24,7 +24,7 @@ Después de la primera iteración en mayo del año pasado, hubo otro concurso de
 
 ## Marzo
 
-En este mes, [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244), [City Girl](https://osu.ppy.sh/beatmaps/artists/245), [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246), [Raimukun](https://osu.ppy.sh/beatmaps/artists/247), [USAO](https://osu.ppy.sh/beatmaps/artists/248), [Plum](https://osu.ppy.sh/beatmaps/artists/249), [luvlxckdown](https://osu.ppy.sh/beatmaps/artists/250), [Never Say Die Records](https://osu.ppy.sh/beatmaps/artists/251) y [my sound life](https://osu.ppy.sh/beatmaps/artists/252) se unieron a osu! como artistas destacados.
+En este mes, [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244), [City Girl](https://osu.ppy.sh/beatmaps/artists/245), [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246), [Raimukun](https://osu.ppy.sh/beatmaps/artists/247), [USAO](https://osu.ppy.sh/beatmaps/artists/248), [Plum](https://osu.ppy.sh/beatmaps/artists/249), [luvlxckdown](https://osu.ppy.sh/beatmaps/artists/250), [Never Say Die Records](https://osu.ppy.sh/beatmaps/artists/251) y [my sound life](https://osu.ppy.sh/beatmaps/artists/252) se unieron a osu! como Artistas Destacados.
 
 El 6 de marzo se llevó a cabo otra reunión con la comunidad para determinar cómo se gestionarían las tablas de clasificación y la visualización de puntuaciones. La solución implementada fue mostrar puntuaciones de stable en lazer con el mod Classic aplicado. Sin embargo, no se resolvió la posibilidad de mostrar puntuaciones de lazer en stable, ya que los nuevos mods de lazer definitivamente no se implementarían en stable y, por lo tanto, mostrar dichas puntuaciones en stable solo sería posible con ciertas restricciones. Para integrar a la comunidad en este proceso, se realizó una [encuesta sobre marcadores en lazer](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics). Si bien preservar la historia era y sigue siendo una prioridad, la cuestión de dividir o fusionar las tablas de clasificación antiguas y nuevas se dejó en manos de la comunidad.[^community-meeting-leaderboard] El 20 de marzo se organizó otra reunión con la comunidad para dar a conocer el desarrollo en curso.[^community-meeting-dev-2]
 
@@ -34,7 +34,7 @@ Se implementaron dos mods en osu!(lazer): Adaptive Speed y Strict Tracking. Adap
 
 ## Abril
 
-9 nuevos artistas formaron parte del programa de los artistas destacados: [A.SAKA](https://osu.ppy.sh/beatmaps/artists/253), [Stonebank](https://osu.ppy.sh/beatmaps/artists/254), [Archspire](https://osu.ppy.sh/beatmaps/artists/256), [in love with a ghost](https://osu.ppy.sh/beatmaps/artists/257), [Mage](https://osu.ppy.sh/beatmaps/artists/258), [Aethral](https://osu.ppy.sh/beatmaps/artists/259), [Nile](https://osu.ppy.sh/beatmaps/artists/260), [MUZZ](https://osu.ppy.sh/beatmaps/artists/261) y [Mitsuki / RINYA](https://osu.ppy.sh/beatmaps/artists/262). Además, la discográfica [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) también se unió a osu!, aportando muchos artistas nuevos a la comunidad.[^monstercat]
+9 nuevos artistas formaron parte del programa de los Artistas Destacados: [A.SAKA](https://osu.ppy.sh/beatmaps/artists/253), [Stonebank](https://osu.ppy.sh/beatmaps/artists/254), [Archspire](https://osu.ppy.sh/beatmaps/artists/256), [in love with a ghost](https://osu.ppy.sh/beatmaps/artists/257), [Mage](https://osu.ppy.sh/beatmaps/artists/258), [Aethral](https://osu.ppy.sh/beatmaps/artists/259), [Nile](https://osu.ppy.sh/beatmaps/artists/260), [MUZZ](https://osu.ppy.sh/beatmaps/artists/261) y [Mitsuki / RINYA](https://osu.ppy.sh/beatmaps/artists/262). Además, la discográfica [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) también se unió a osu!, aportando muchos artistas nuevos a la comunidad.[^monstercat]
 
 La encuesta que comenzó en marzo sobre los marcadores de lazer se completó y se discutió en una reunión con la comunidad. Los [resultados](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics) mostraron que los usuarios votaron por la visualización de puntuaciones en las tablas de clasificación de los beatmaps, los puntos de rendimiento otorgados y el rendimiento de lazer como las principales prioridades.[^community-meeting-survey-1][^community-meeting-survey-2]
 
@@ -44,7 +44,7 @@ Después de 5 años, [Reddit](https://www.reddit.com/) organizó por segunda vez
 
 ## Mayo
 
-En este mes, [Ardolf](https://osu.ppy.sh/beatmaps/artists/263), [Allegaeon](https://osu.ppy.sh/beatmaps/artists/264), [Tenchio](https://osu.ppy.sh/beatmaps/artists/265), [Neko Hacker](https://osu.ppy.sh/beatmaps/artists/266), [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267), [69 de 74](https://osu.ppy.sh/beatmaps/artists/268), [Origami Angel](https://osu.ppy.sh/beatmaps/artists/269) y [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) se unieron a osu! como artistas destacados.
+En este mes, [Ardolf](https://osu.ppy.sh/beatmaps/artists/263), [Allegaeon](https://osu.ppy.sh/beatmaps/artists/264), [Tenchio](https://osu.ppy.sh/beatmaps/artists/265), [Neko Hacker](https://osu.ppy.sh/beatmaps/artists/266), [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267), [69 de 74](https://osu.ppy.sh/beatmaps/artists/268), [Origami Angel](https://osu.ppy.sh/beatmaps/artists/269) y [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) se unieron a osu! como Artistas Destacados.
 
 En el concurso de arte de fans [A Place To Belong](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest), a los artistas se les pidió que dibujaran a las mascotas de osu! yendo de aventuras a lugares a los que nunca habían ido. [Dreamxiety](https://osu.ppy.sh/users/13103233) ganó el concurso con 3713 votos.[^aptb-results]
 
@@ -54,7 +54,7 @@ osu!(lazer) recibió importantes actualizaciones este mes, una de ellas siendo u
 
 ## June
 
-osu! dio la bienvenida a [Ponchi](https://osu.ppy.sh/beatmaps/artists/271), [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272), [SAMString](https://osu.ppy.sh/beatmaps/artists/273), [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274), [:Poin7less](https://osu.ppy.sh/beatmaps/artists/275), [Tokyo Machine](https://osu.ppy.sh/beatmaps/artists/276), [Beach Bunny](https://osu.ppy.sh/beatmaps/artists/277), [NILFRUITS](https://osu.ppy.sh/beatmaps/artists/278) y [Toromaru](https://osu.ppy.sh/beatmaps/artists/279) como artistas destacados.
+osu! dio la bienvenida a [Ponchi](https://osu.ppy.sh/beatmaps/artists/271), [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272), [SAMString](https://osu.ppy.sh/beatmaps/artists/273), [Kanpyohgo](https://osu.ppy.sh/beatmaps/artists/274), [:Poin7less](https://osu.ppy.sh/beatmaps/artists/275), [Tokyo Machine](https://osu.ppy.sh/beatmaps/artists/276), [Beach Bunny](https://osu.ppy.sh/beatmaps/artists/277), [NILFRUITS](https://osu.ppy.sh/beatmaps/artists/278) y [Toromaru](https://osu.ppy.sh/beatmaps/artists/279) como Artistas Destacados.
 
 osu!(lazer) también recibió el mod Repel, que funciona de manera completamente opuesta a Magnetised. Al activarlo, se *repelerán* los objetos desde el cursor, haciendo que sea más difícil dirigir el cursor hacia los objetos.[^repel]
 
@@ -62,7 +62,7 @@ Varios contribuidores voluntarios fueron premiados con una insignia por su asomb
 
 ## Julio
 
-9 artistas más se unieron al programa de los artistas destacados, siendo estos: [Rootkit](https://osu.ppy.sh/beatmaps/artists/280), [Grant](https://osu.ppy.sh/beatmaps/artists/281), [aran](https://osu.ppy.sh/beatmaps/artists/282), [Liar-soft](https://osu.ppy.sh/beatmaps/artists/283), [Blind Guardian](https://osu.ppy.sh/beatmaps/artists/284), [Exyl](https://osu.ppy.sh/beatmaps/artists/285), [NOISZ](https://osu.ppy.sh/beatmaps/artists/286), [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) y [ZxNX](https://osu.ppy.sh/beatmaps/artists/288).
+9 artistas más se unieron al programa de los Artistas Destacados, siendo estos: [Rootkit](https://osu.ppy.sh/beatmaps/artists/280), [Grant](https://osu.ppy.sh/beatmaps/artists/281), [aran](https://osu.ppy.sh/beatmaps/artists/282), [Liar-soft](https://osu.ppy.sh/beatmaps/artists/283), [Blind Guardian](https://osu.ppy.sh/beatmaps/artists/284), [Exyl](https://osu.ppy.sh/beatmaps/artists/285), [NOISZ](https://osu.ppy.sh/beatmaps/artists/286), [Pegboard Nerds](https://osu.ppy.sh/beatmaps/artists/287) y [ZxNX](https://osu.ppy.sh/beatmaps/artists/288).
 
 osu!weekly era un boletín informativo con artículos sobre todo tipo de acontecimientos en la comunidad.[^osu-weekly] Un equipo de contribuidores voluntarios trabajó para publicar el [osu!monthly](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1), reviviendo osu!weekly después de 5 años en un formato mensual, convirtiéndose también en el homónimo de las primeras y segundas ediciones de [osu!monthly](/wiki/Community/osu!monthly) publicadas por última vez hace 4 años en los foros de osu!. Estos presentaban actualizaciones de desarrollo de osu!(lazer), eventos de la comunidad, puntuaciones de los top players, entre otras cosas, además de ofrecer un cuestionario comunitario, premiando al usuario más rápido en responder con osu!supporter.[^monthly-quiz]
 
@@ -72,7 +72,7 @@ El mod Single Tap fue implementado para el modo de juego osu! en osu!(lazer), de
 
 ## Agosto
 
-En este mes, osu! logró contar con la colaboración de [Hamu](https://osu.ppy.sh/beatmaps/artists/289), [Darkney](https://osu.ppy.sh/beatmaps/artists/290), [Waterflame](https://osu.ppy.sh/beatmaps/artists/291), [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292), [Koven](https://osu.ppy.sh/beatmaps/artists/293), [Abuse](https://osu.ppy.sh/beatmaps/artists/294), [DJ Genki / Gram](https://osu.ppy.sh/beatmaps/artists/295), [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) y [-45](https://osu.ppy.sh/beatmaps/artists/297) para convertirse en artistas destacados.
+En este mes, osu! logró contar con la colaboración de [Hamu](https://osu.ppy.sh/beatmaps/artists/289), [Darkney](https://osu.ppy.sh/beatmaps/artists/290), [Waterflame](https://osu.ppy.sh/beatmaps/artists/291), [Mitsukiyo](https://osu.ppy.sh/beatmaps/artists/292), [Koven](https://osu.ppy.sh/beatmaps/artists/293), [Abuse](https://osu.ppy.sh/beatmaps/artists/294), [DJ Genki / Gram](https://osu.ppy.sh/beatmaps/artists/295), [Aiyru](https://osu.ppy.sh/beatmaps/artists/296) y [-45](https://osu.ppy.sh/beatmaps/artists/297) para convertirse en Artistas Destacados.
 
 En el [cavoe's osu! event (COE)](/wiki/Community/cavoe's_osu!_event) de 2022, una de las convenciones más grandes de osu!, peppy presentó una charla técnica junto con [ThePoon](https://osu.ppy.sh/users/718454) sobre cómo es la infraestructura de osu! detrás de cámaras. Abordaron temas como el costo del servidor, el almacenamiento de la base de datos y cómo se usa software de contenerización como Docker y Kubernetes para implementar la infraestructura como código.[^coe-osu-infra]
 
@@ -80,7 +80,7 @@ osu!(lazer) recibió una función adicional, permitiendo la creación de preajus
 
 ## Septiembre
 
-[Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), [Rezonate](https://osu.ppy.sh/beatmaps/artists/300), [AAAA](https://osu.ppy.sh/beatmaps/artists/301), [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) y [Feint](https://osu.ppy.sh/beatmaps/artists/306) se unieron a osu! como artistas destacados.
+[Nashimoto Ui](https://osu.ppy.sh/beatmaps/artists/298), [Nitro Fun](https://osu.ppy.sh/beatmaps/artists/299), [Rezonate](https://osu.ppy.sh/beatmaps/artists/300), [AAAA](https://osu.ppy.sh/beatmaps/artists/301), [Andy Gillion](https://osu.ppy.sh/beatmaps/artists/302), [Vorso](https://osu.ppy.sh/beatmaps/artists/303), [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) y [Feint](https://osu.ppy.sh/beatmaps/artists/306) se unieron a osu! como Artistas Destacados.
 
 Desde sus 15 años de existencia, osu! ha cultivado una comunidad animada con muchos contribuidores voluntarios. A raíz de este evento, el osu! team organizó un concurso de arte en celebración del aniversario. El concurso consistía en crear dibujos de las mascotas de osu! en momentos históricos. El primer, segundo y tercer lugar fueron para [Dreamxiety](https://osu.ppy.sh/users/13103233), [illuminae2005](https://osu.ppy.sh/users/29866964) y [urgutz](https://osu.ppy.sh/users/11731553) respectivamente. Entre los resultados, peppy también compartió algunos de sus favoritos personales.[^15-anniversary-results]
 
@@ -96,7 +96,7 @@ Se agregaron varias medallas Hush-Hush, junto con 3 nuevas medallas de paquetes 
 
 ## Octubre
 
-En este mes, [Mono.](https://osu.ppy.sh/beatmaps/artists/307), [Tokyo.MeltiMelt](https://osu.ppy.sh/beatmaps/artists/308), [Ata](https://osu.ppy.sh/beatmaps/artists/309), [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310), [GLORYHAMMER](https://osu.ppy.sh/beatmaps/artists/311), [Au5](https://osu.ppy.sh/beatmaps/artists/312), [Fractal](https://osu.ppy.sh/beatmaps/artists/313), [Kikuo](https://osu.ppy.sh/beatmaps/artists/314), [Hinkik](https://osu.ppy.sh/beatmaps/artists/315) y [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) fueron anunciados como los nuevos artistas destacados.
+En este mes, [Mono.](https://osu.ppy.sh/beatmaps/artists/307), [Tokyo.MeltiMelt](https://osu.ppy.sh/beatmaps/artists/308), [Ata](https://osu.ppy.sh/beatmaps/artists/309), [Hybrid Minds](https://osu.ppy.sh/beatmaps/artists/310), [GLORYHAMMER](https://osu.ppy.sh/beatmaps/artists/311), [Au5](https://osu.ppy.sh/beatmaps/artists/312), [Fractal](https://osu.ppy.sh/beatmaps/artists/313), [Kikuo](https://osu.ppy.sh/beatmaps/artists/314), [Hinkik](https://osu.ppy.sh/beatmaps/artists/315) y [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) fueron anunciados como los nuevos Artistas Destacados.
 
 El concurso de beatmapping y storyboarding [triangles](https://osu.ppy.sh/home/news/2022-05-31-triangles) concluyó este mes, con el equipo Crazy Thursday formado por [yf_bmp](https://osu.ppy.sh/users/1243669), [TtmnZk](https://osu.ppy.sh/users/2495509), [Yugu](https://osu.ppy.sh/users/3161834), [Chaoslitz](https://osu.ppy.sh/users/3621552) y [Yumeno Himiko](https://osu.ppy.sh/users/1806962) llevándose el primer lugar. Su beatmap se incluirá en cada instalación de osu!(lazer) como el gran premio del concurso.[^triangles-results]
 
@@ -114,7 +114,7 @@ Para Halloween de este año, hubo un [concurso de arte de fans](https://osu.ppy.
 
 ## Noviembre
 
-osu! dio la bienvenida a 8 nuevos artistas destacados, siendo estos: [happy30](https://osu.ppy.sh/beatmaps/artists/317), [Massive New Krew](https://osu.ppy.sh/beatmaps/artists/318), [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319), [Ensou](https://osu.ppy.sh/beatmaps/artists/320), [Crywolf](https://osu.ppy.sh/beatmaps/artists/321), [E0ri4](https://osu.ppy.sh/beatmaps/artists/322), [Innocent Key](https://osu.ppy.sh/beatmaps/artists/323) y [Noisestorm](https://osu.ppy.sh/beatmaps/artists/324).
+osu! dio la bienvenida a 8 nuevos Artistas Destacados, siendo estos: [happy30](https://osu.ppy.sh/beatmaps/artists/317), [Massive New Krew](https://osu.ppy.sh/beatmaps/artists/318), [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319), [Ensou](https://osu.ppy.sh/beatmaps/artists/320), [Crywolf](https://osu.ppy.sh/beatmaps/artists/321), [E0ri4](https://osu.ppy.sh/beatmaps/artists/322), [Innocent Key](https://osu.ppy.sh/beatmaps/artists/323) y [Noisestorm](https://osu.ppy.sh/beatmaps/artists/324).
 
 Se agregaron 3 medallas Hush-Hush, 3 medallas de paquetes de beatmaps y 3 nuevas medallas skill.[^medals-november]
 
@@ -122,7 +122,7 @@ Se agregaron 3 medallas Hush-Hush, 3 medallas de paquetes de beatmaps y 3 nuevas
 
 ## Diciembre
 
-En este mes, [LilyPichu](https://osu.ppy.sh/beatmaps/artists/325), [Ekcle](https://osu.ppy.sh/beatmaps/artists/326), [LandRoot](https://osu.ppy.sh/beatmaps/artists/327), [Satyr](https://osu.ppy.sh/beatmaps/artists/328), [tsunamix](https://osu.ppy.sh/beatmaps/artists/329), [nyankobrq](https://osu.ppy.sh/beatmaps/artists/330) y [Mili](https://osu.ppy.sh/beatmaps/artists/331) se convirtieron en artistas destacados.
+En este mes, [LilyPichu](https://osu.ppy.sh/beatmaps/artists/325), [Ekcle](https://osu.ppy.sh/beatmaps/artists/326), [LandRoot](https://osu.ppy.sh/beatmaps/artists/327), [Satyr](https://osu.ppy.sh/beatmaps/artists/328), [tsunamix](https://osu.ppy.sh/beatmaps/artists/329), [nyankobrq](https://osu.ppy.sh/beatmaps/artists/330) y [Mili](https://osu.ppy.sh/beatmaps/artists/331) se convirtieron en Artistas Destacados.
 
 En colaboración con makeship, este año se han creado 3 diseños diferentes de peluches de osu!, la propia pippi, la osu! cookie y el Taikonator 3000, disponibles en una oferta por tiempo limitado.[^makeship]
 

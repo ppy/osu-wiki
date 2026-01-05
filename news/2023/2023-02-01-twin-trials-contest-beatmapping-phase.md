@@ -2,6 +2,7 @@
 layout: post
 title: Twin Trials - Beatmapping Phase
 date: 2023-02-01 09:00:00 +0000
+series: official_contests
 ---
 
 Craving to prove your unmatched beatmapping prowess? This multi-phase contest is open to all game modes, so it might be exactly what you're looking for!

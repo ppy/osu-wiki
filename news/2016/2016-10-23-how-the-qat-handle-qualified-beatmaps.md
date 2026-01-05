@@ -3,6 +3,7 @@ layout: post
 title: How the QAT handle Qualified Beatmaps
 date: 2016-10-23 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps
+series: miscellaneous
 ---
 
 Hi there! Feerum here! This is the first time you guy's will see a blog post by your beloved osu!mania QAT. But don't worry, it will be not the last!

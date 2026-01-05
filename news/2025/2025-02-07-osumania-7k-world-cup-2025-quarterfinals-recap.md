@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2025: Quarterfinals Recap"
 date: 2025-02-07 12:00:00 +0000
+series: world_cups
 ---
 
 Only a few weeks ahead of us remain! As the teams continue to fight for a chance to stay on top, let's take a moment to remember this week's fallen heroes.

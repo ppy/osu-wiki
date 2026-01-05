@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of December 1st"
 date: 2019-12-04 01:30:00 +0000
+series: project_loved
 ---
 
 It's [Project Loved](https://osu.ppy.sh/community/forums/120) time again! Come help us put leaderboards on your favourite unranked maps.

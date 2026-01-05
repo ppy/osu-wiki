@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: May 2023"
 date: 2023-05-21 13:00:00 +0000
+series: project_loved
 ---
 
 Summer's around the corner, and Project Loved is sure to bring some much-needed sunshine into your life!

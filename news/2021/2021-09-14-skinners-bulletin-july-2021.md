@@ -2,6 +2,7 @@
 layout: post
 title: "Skinners' Bulletin: July 2021"
 date: 2021-09-14 13:20:00 +0000
+series: mappers_report
 ---
 
 Fellow skinning enthusiasts, we are delighted to present you with the very first issue of the **Skinners' Bulletin**. Be sure to tune right in and have a read!

@@ -87,7 +87,7 @@ Temukan jawaban atas berbagai pertanyaan umum beserta solusinya di bawah ini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Penyelesaian masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Forum Help](https://osu.ppy.sh/forum/5)
 
-Pembatasan profil: [Silence](/wiki/Help_centre/Silences) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions) • [Larangan turnamen](/wiki/Help_centre/Tournament_bans)
+Pembatasan profil: [Silence](/wiki/Help_centre/Silences) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions) • [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions)
 
 Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_help!) • [Melaporkan perilaku yang tidak pantas](/wiki/Reporting_bad_behaviour) • [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) • [Melaporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

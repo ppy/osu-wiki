@@ -2,6 +2,7 @@
 layout: post
 title: "Autumn 2024 Fanart Contest: Voting Open"
 date: 2024-09-27 17:00:00 +0000
+series: fanart_contests
 ---
 
 Autumn is here, and with it **181** appropriately themed artworks to celebrate the occasion!

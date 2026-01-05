@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2025: Group Stage Recap"
 date: 2025-11-15 15:00:00 +0000
+series: world_cups
 ---
 
 *And for our next number, we'd like to return to the classics*. OWC 2025 got underway with a visit to a seemingly bygone era, reintroducing the Group Stage format — but now with a modern twist.
@@ -32,7 +33,7 @@ If you prefer a more detailed recap, check out the video recap by [D I O](https:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LV2AzL3ghpg?start=8086" frameborder="0" allowfullscreen></iframe>
 </div>
 
-![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/mappool.png)
+![](/wiki/shared/news/2025-11-15-osu-world-cup-2025-group-stage-recap/mappool.png?1)
 
 For the first head-to-head pool of the tournament, the Group Stage pool was mostly focused on easier maps and consistency. For starters, we had a couple of interesting customs, such as [rollpan](https://osu.ppy.sh/users/3062998)'s [Kyokugen BON Odori](https://osu.ppy.sh/beatmapsets/2455340#osu/5365982) and [Flask](https://osu.ppy.sh/users/959763)'s [Glass](https://osu.ppy.sh/beatmapsets/2455024#osu/5364986), the former being a speedy endeavour with a tapping focus (and an adorable storyboard to boot!), while the latter was a Chinese pop DT pick focused on flow and alt patterns, with a fairly tough solo section that made for many interesting points. Maps such as the technical [Heliosphere](https://osu.ppy.sh/beatmapsets/2455343#osu/5365985) and the streamy [NIGHTMARE INVITATION](https://osu.ppy.sh/beatmapsets/2454994#osu/5364927) are also new, showcasing [osu! originals](/wiki/Community/Bespoke_music) that debuted in other modes' world cups, something that the team has talked about being more keen to do this year.
 

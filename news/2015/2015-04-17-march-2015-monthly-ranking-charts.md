@@ -3,6 +3,7 @@ layout: post
 title: March 2015 Monthly Ranking Charts
 date: 2015-04-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/116637580923/march-2015-monthly-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for March 2015 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1503)! Along with that, we updated the Spring Season of the [Ranking Charts long-term leaderboard](https://docs.google.com/spreadsheets/d/1rgaKVJj_MDo0PwGrGXbKRVzjE9fhOUb4XZXRsOjTaoQ/pubhtml)! This month [Kyshiro](https://osu.ppy.sh/users/640611), [\_Gezo\_](https://osu.ppy.sh/users/481582), [alienflybot](https://osu.ppy.sh/users/636114) and [Fullerene-](https://osu.ppy.sh/users/2531335) picked the maps for the Monthly Ranking Charts.

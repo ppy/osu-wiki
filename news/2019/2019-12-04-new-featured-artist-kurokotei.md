@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kurokotei"
 date: 2019-12-04 10:00:00 +0000
+series: featured_artists
 ---
 
 **Kurokotei** soars in from a collapsed galaxy to join the Featured Artist lineup!

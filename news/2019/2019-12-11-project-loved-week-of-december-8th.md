@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of December 8th"
 date: 2019-12-11 06:45:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s playing a little catch-up with its schedule, so we've got another round for you already! Check out the picks and tell us which you want in the Loved category. This will be the last round for a little while, so make sure to get your fill in!

@@ -2,7 +2,7 @@
 layout: post
 title: "Project Loved: October 2025"
 date: 2025-10-14 20:00:00 +0000
-series: Project Loved
+series: project_loved
 ---
 
 As the leaves start to fall and the pumpkin spice wafts through the air, Project Loved brings you some much needed warmth!
