@@ -18,7 +18,7 @@ Los problemas o sugerencias publicados en la página de discusión de un beatmap
 
 Además, los beatmaps pueden ser [descalificados](/wiki/Beatmap_ranking_procedure#restablecimiento-de-nominaciones) si se detectan problemas que deben solucionarse, lo que puede alterar el temporizador.
 
-## Descalificación y recalificación
+## Descalificación y recalificación {id=dq-and-re-qualification}
 
 Cuando un beatmap es [descalificado](/wiki/Beatmap_ranking_procedure#restablecimiento-de-nominaciones), se guarda el tiempo que ha pasado calificado hasta el momento. Si se vuelve a calificar, ingresará a la cola como si ya hubiera estado en la cola durante ese tiempo. Esta capacidad de «saltarse» el tiempo pasado en la cola tiene un límite de 6 días para garantizar que los beatmaps siempre permanezcan calificados durante al menos un día completo después de ser recalificados.
 
