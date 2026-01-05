@@ -13,7 +13,7 @@ The Community Mentorship Program serves as a place for upcoming mappers, modders
 
 Over the course of a cycle, you'll have the opportunity to learn from your mentor, participate in various mentorship events such as speedmapping contests, organise guest difficulties for your mapsets on our job board, and more! 
 
-On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, and the guest difficulty job board! We also annmapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
+On the public side of things, [our Discord server](https://discord.com/invite/Ft2FtXmBgx) offers general mapping discussion, feedback channels, and the guest difficulty job board! We also announce mapping opportunities for tournaments and other relevant events on the server. If you happen to be running an event that you feel is relevant, feel free to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing)!
 
 If you're interested in the program, please read the [forum post](https://osu.ppy.sh/community/forums/topics/2159814?n=1) for a full rundown on how to apply. 
 
@@ -21,7 +21,7 @@ The mentee signups are currently open, and close on the **11th of January**!
 
 ### osu! 
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | UTC-10 |
 | ::{ flag=US }:: [IllusionB](https://osu.ppy.sh/users/13292488) | UTC-8 |
@@ -36,11 +36,11 @@ The mentee signups are currently open, and close on the **11th of January**!
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | UTC+1 |
 | ::{ flag=NL }:: [Vivyanne](https://osu.ppy.sh/users/3789276) | UTC+1 |
 
-You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1PrL5cXwU-EMIkUaRKPHbRsi-AUeicQhZZR2QkjVDevM/edit) and apply to them [here](https://docs.google.com/forms/d/e/1FAIpQLSfs10qNps9y4DrTcUjZEc5u28bpqUdHXaxDrcUDWGhmufN9eA/viewform). 
+You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1PrL5cXwU-EMIkUaRKPHbRsi-AUeicQhZZR2QkjVDevM/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSfs10qNps9y4DrTcUjZEc5u28bpqUdHXaxDrcUDWGhmufN9eA/viewform). 
 
 ### osu!mania 
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | UTC-4 |
 | ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) | UTC-5 |
@@ -54,7 +54,7 @@ You can find more information on these mentors in their [detailed overview](http
 
 ### osu!taiko
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) | UTC-4 |
 | ::{ flag=DE }:: [Undead Alice](https://osu.ppy.sh/users/17415683) | UTC+1 |
@@ -63,7 +63,7 @@ You can find more information on these mentors in their [detailed overview](http
 
 ### osu!catch
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) | UTC+2 |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | UTC+9 |
@@ -72,7 +72,7 @@ You can find more information on these mentors in their [detailed overview](http
 
 ### Modding
 
-| Mentor | Game mode | Timezone |
+| Mentor | Game mode | Time zone |
 | :-- | :-- | :-- |
 | ::{ flag=JP }:: [Mentai](https://osu.ppy.sh/users/8554786) | osu! | UTC-10 |
 | ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pankacespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-7 & UTC-8 |
@@ -98,7 +98,7 @@ You can apply to them [through this form](https://docs.google.com/forms/d/e/1FAI
 
 ### Storyboarding
 
-| Mentor | Timezone |
+| Mentor | Time zone |
 | :-- | :-- |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | UTC-5 |
 | ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051) | UTC+8 |
