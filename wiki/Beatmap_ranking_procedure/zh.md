@@ -15,7 +15,7 @@ tags:
 
 # 谱面上架流程
 
-*参见： [Rank（消歧义页）](/wiki/Disambiguation/Rank)* 以及 [上架队列 (Ranking queue)](Ranking_queue)*
+*参见： [Rank（消歧义页）](/wiki/Disambiguation/Rank) 以及 [上架队列 (Ranking queue)](Ranking_queue)*
 *有关下文提及的谱面类别，请参见： [谱面类别](/wiki/Beatmap/Category)*
 
 想要将一张谱面更好地推向社区，谱面作者（以下简称谱师）需要遵循以下谱面审核流程，并让[谱面](/wiki/Beatmap)进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。
@@ -38,17 +38,17 @@ tags:
 
 **提名 (Nomination，俗称 nom 或点图)** 是对谱面质量的认可，表示该谱面已准备好进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。提名者将根据谱面的质量和完成度进行评估，并给出提名。作为最低要求，这些谱面必须符合[上架标准 (Ranking Criteria，简称 RC)](/wiki/Ranking_criteria)，并且获得至少 5 个[推荐](/wiki/Beatmap/Hype)。
 
-提名由一群经验丰富的摸图者——[谱面提名者 (Beatmap Nominators，简称 BN)](/wiki/People/Beatmap_Nominators) 给予。[提名评估小组 (Nomination Assessment Team，简称 NAT)](/wiki/People/Nomination_Assessment_Team) 的成员也可以提名谱面，但这并不是他们的主要职责。
+提名由一群经验丰富的摸图者——[谱面审核成员 (俗称 BN)](/wiki/People/Beatmap_Nominators) 给予。[审核评估团队 (俗称 NAT)](/wiki/People/Nomination_Assessment_Team) 的成员也可以提名谱面，但这并不是他们的主要职责。
 
 建议在请求 BN 提名之前先进行充分的摸图，但获得 5 个推荐是唯一的前置条件。
 
 ## 过审
 
-过审是这样一个流程，即当谱面获得足够的提名后，谱面就会被移动到[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 状态。对于仅包含单一[游戏模式](/wiki/Game_mode) 的谱面集，只需要两个提名；而跨多个模式的谱面集[^hybrid-sets] 则需要为[主模式](#main-mode) 获得两个提名，为每个附属模式各获得一个提名。
+过审是这样一个流程，即当谱面获得足够的提名后，谱面就会被移动到[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 状态。对于仅包含单一[游戏模式](/wiki/Game_mode)的谱面集，只需要两个提名；而跨多个模式的谱面集则需要为[主模式](#main-mode)获得两个提名，为每个附属模式各获得一个提名。
 
-过审谱面在进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态之前，作为最后的**质量保证**步骤，会获得更广泛的社区曝光。这是谱面获得广泛支持、反馈以及在发现问题时进行改进的最常见阶段。在此期间：
+过审阶段保证了过审谱面在进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态之前，作为最后的**质量保证**步骤，获得更广泛的社区曝光。这是谱面获得广泛支持、反馈以及发现问题并进行改进的很好阶段。在此期间：
 
-- 社区成员可以试玩或摸图，然后通过谱面讨论页提供反馈和报告问题[^report-correctly]。
+- 社区成员可以测试谱面或进行摸图，然后通过谱面讨论页提供反馈和报告问题[^report-correctly]。
 - BN 和 NAT 团队会自动收到所有建议和问题的通知。启用了对新过审谱面问题的通知的用户也会收到通知。
 - 建议和问题可以由社区和谱师协作讨论并解决。
 - 谱师通常无法自己直接更新过审谱面。
@@ -57,15 +57,15 @@ tags:
 
 ### 确定主模式 {id=main-mode}
 
-对于跨多个模式的谱面集[^hybrid-sets]，主模式的确定依据以下优先顺序：
+对于跨多个模式的谱面集，主模式的确定依据以下优先顺序：
 
-1. 包含谱面集中难度数量最多的游戏模式。
+1. 谱面集中包含的难度数量最多的游戏模式。
 2. 如果两个或更多模式的难度数量相同，则主模式将是各模式中由谱面集的创建者 (host) 所创作的难度最多的那个。
 3. 如果前两条规则仍然无法确定主模式，则主模式将是第一个获得提名的模式。
 
 ### 提名重置
 
-当其创建者更新了谱面，或者在 BN 或 NAT 在已被提名的铺面中发现了问题时，提名将被重置。[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 成员也可以为了保证社区内容合适的目的 (moderation) 而重置谱面的提名。提名重置会取消谱面的过审状态，俗称 DQ (disqualify)，并将谱面从[上架队列 (Ranking queue)](Ranking_queue) 中移回待定状态。与此同时，谱面的所有提名也会被移除。只有 BN、NAT 和 GMT 成员才有权限取消过审谱面的资格。
+当其创建者更新了谱面，或者在 BN 或 NAT 在已被提名的铺面中发现了问题时，提名将被重置。[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 成员也可以为了保证社区内容合适的目的 (moderation) 而重置谱面的提名。提名重置会取消谱面的过审状态，俗称 DQ (disqualify)，并将谱面从[上架队列 (Ranking queue)](Ranking_queue) 中移回待定状态。与此同时，谱面的所有提名也会被移除。只有 BN、NAT 和 GMT 成员才有权限 DQ 谱面。
 
 提名重置允许谱师修改谱面以解决反馈问题，并重新请求提名。提名重置还能确保在进入[上架队列 (Ranking queue)](Ranking_queue) 之前，摸图者（modders）、BN 和 NAT 审核的是谱面的最新版本。
 
@@ -81,5 +81,4 @@ tags:
 
 ## 备注
 
-[^hybrid-sets]: 指跨多个游戏模式的谱面集。
-[^report-correctly]: 有关如何正确报告问题，请参见：[行为准则](/wiki/Rules/Code_of_Conduct_for_modding_and_mapping#behaviour-and-conduct), 以及[谱面讨论区 - 发布评论](/wiki/Beatmap_discussion#submission-field)。
+[^report-correctly]: 有关如何正确报告问题，请参见：[行为准则](/wiki/Rules/Code_of_Conduct_for_modding_and_mapping#behaviour-and-conduct), 以及[谱面讨论区 - 发布评论](/wiki/Beatmap_discussion#submission-field)
