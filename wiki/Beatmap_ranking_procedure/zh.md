@@ -44,7 +44,7 @@ tags:
 
 ## 过审
 
-过审是这样一个流程，即当谱面获得足够的提名后，谱面就会被移动到[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 状态。对于仅包含单一[游戏模式](/wiki/Game_mode) 的谱面集，只需要两个提名；而跨多个模式的谱面集[^hybrid-sets] 则需要为[主模式](#确定主模式) 获得两个提名，为每个附属模式各获得一个提名。
+过审是这样一个流程，即当谱面获得足够的提名后，谱面就会被移动到[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 状态。对于仅包含单一[游戏模式](/wiki/Game_mode) 的谱面集，只需要两个提名；而跨多个模式的谱面集[^hybrid-sets] 则需要为[主模式](#main-mode) 获得两个提名，为每个附属模式各获得一个提名。
 
 过审谱面在进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态之前，作为最后的**质量保证**步骤，会获得更广泛的社区曝光。这是谱面获得广泛支持、反馈以及在发现问题时进行改进的最常见阶段。在此期间：
 
@@ -75,7 +75,7 @@ tags:
 
 ## 上架
 
-谱面在过审状态停留至少七天且没有出现仍未解决的[问题或建议](/wiki/Modding#types-of-mod-posts)后，[上架队列 (Ranking queue)](Ranking_queue) 就能够将其移动到[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。如果这期间谱面被 DQ 并重新过审，那么其上架所需要花费的时间可能会被[重新计算](Ranking_queue#dq-and-re-qualification)。上架后，谱面开放全新的[排行榜](/wiki/Ranking)，且玩家也可以从谱面内获取到[表现分 (pp)](/wiki/Performance_Points)。
+谱面在过审状态停留至少七天且没有出现仍未解决的[问题或建议](/wiki/Modding#摸图帖种类)后，[上架队列 (Ranking queue)](Ranking_queue) 就能够将其移动到[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 状态。如果这期间谱面被 DQ 并重新过审，那么其上架所需要花费的时间可能会被[重新计算](Ranking_queue#取消过审-(DQ)-与重新过审)。上架后，谱面开放全新的[排行榜](/wiki/Ranking)，且玩家也可以从谱面内获取到[表现分 (pp)](/wiki/Performance_Points)。
 
 只有在特殊情况下，在上架后的短期内发现了问题，上架状态的谱面才会被下架 (unrank) 处理。
 
