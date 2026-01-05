@@ -8,7 +8,7 @@
 
 - [Гайд по маппингу в osu!mania](osu!mania_mapping_guide)
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
-- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#изменение-текста-заголовка)
+- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#настройка)
 - [Как изменить исполнителя или название карты](Changing_the_artist_or_title)
 - [Как начать свой маппинг-проект?](Starting_a_beatmap_project)
 - [Как решить проблемы с BSS?](BSS_issues)
