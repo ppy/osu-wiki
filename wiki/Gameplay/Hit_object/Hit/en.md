@@ -22,3 +22,5 @@ When the Dons & Kats overlap with this white circle, the player is required to s
 Upon hitting a note, the game awards a [judgement](/wiki/Gameplay/Judgement) based on how accurate the timing is, and the player may receive a small boost to the [health bar](/wiki/Gameplay/Health). Hitting Finisher notes perfectly will give double the score compared to regular notes, and award a `BONUS` judgement.
 
 A miss will occur if the player fails to hit the proper colour in a timely manner. Hitting the wrong colour, or both red and blue at the same time, will also be considered a miss.
+
+A series of consecutive successful hits builds a [combo](/wiki/Gameplay/Combo_(score_multiplier)), which multiplies the base score of subsequent notes.
