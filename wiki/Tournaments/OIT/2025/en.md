@@ -67,7 +67,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 
 Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-sum across all twelve Qualifier beatmaps) out of 70 participating players in total.
 
-The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1XrNWNociftOmxXhE0jkwVytql5B9AOJ2la9V4xK2dsc/edit?gid=1495602475#gid=1495602475).
+The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?gid=1137664518#gid=1137664518).
 
 | Seed no. | Player | Z-sum |
 | :-- | :-- | :-- |
