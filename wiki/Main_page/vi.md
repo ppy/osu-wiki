@@ -100,7 +100,7 @@ Tương tác trong cộng đồng là một trong những điều đã thúc đ�
 
 Các kênh giao tiếp: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Máy chủ Discord](/wiki/Community/Discord_servers)
 
-Sáng kiến: [Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Chương trình Cố vấn](/wiki/Community/Community_Mentorship_Program)
+Chương trình: [Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Chương trình Cố vấn](/wiki/Community/Community_Mentorship_Program)
 
 [Dự án](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly) 
 
