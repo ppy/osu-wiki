@@ -60,7 +60,7 @@ Silakan rujuk halaman [Pembatasan akun](/wiki/Help_centre/Account_restrictions) 
 
 Sesuai dengan namanya, larangan turnamen (*tournament ban*) merupakan larangan bagi pengguna untuk dapat berpartisipasi dalam seluruh turnamen yang didukung secara resmi.
 
-Silakan rujuk halaman [Larangan turnamen](/wiki/Help_centre/Tournament_bans) untuk informasi lebih lanjut seputar topik ini.
+Silakan rujuk halaman [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions) untuk informasi lebih lanjut seputar topik ini.
 
 ## Entri masuk {id=sign-in}
 
