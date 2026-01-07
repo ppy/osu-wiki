@@ -47,7 +47,7 @@ Please also note, that you might not see the **Daily Challenges** or the **Beatm
 
 Check out the osu!wrapped recaps here from [Walavouchey](https://osu.ppy.sh/wrapped/5773079?share=9c956c5228131e241b1cdf961f9ffa8b), [ChillierPear](https://osu.ppy.sh/wrapped/9501251?share=59fa044960d4d860996067197e9bbf8a) and [Yasuho](https://osu.ppy.sh/wrapped/8458835?share=303244a081eb179d5515dbe57d36f651) as a few examples.
 
-We wanted to also take the chance, to reflect on other areas of the game. Please read on, to find out what has happened in **[tournaments](#tournaments)**, **[world cups](#world-cups)**, **[bespoke music](#bespoke-osu-music)**, and **[featured artists](#featured-artists)** during 2025. We have prepared a sweet runthrough of all the things you might have missed out on or to simply enjoy one more time before you start into your new osu! year.
+We wanted to also take the chance, to reflect on other areas of the game. Please read on, to find out what has happened in **[tournaments](#tournaments)**, **[world cups](#world-cups)**, **[bespoke music](#bespoke-music)**, and **[featured artists](#featured-artists)** during 2025. We have prepared a sweet runthrough of all the things you might have missed out on or to simply enjoy one more time before you start into your new osu! year.
 
 ## Tournaments
 
@@ -65,7 +65,7 @@ And as always in the competitive scene, we have the **World Cups**! In osu!mania
 
 As always though, we end the year with the highly-anticipated [osu! World Cup](https://osu.ppy.sh/home/news/2025-12-28-osu-world-cup-2025-concludes). With more teams than ever competing for glory, and group stages making a triumphant return, we dare say that the **osu! World Cup 2025** was one of the absolute highlights of the year. At the end of all the blood, sweat and tears, we saw ::{ flag=PL }:: Poland securing the win in bracket reset. Congratulations to all of our osu! champions this year! Now it's time to see who comes out on top in 2026.
 
-## Bespoke osu! music
+## Bespoke music
 
 This year has been a blessing for the osu! [bespoke music](/wiki/Community/Bespoke_music) repertoire! In 2025 alone, **54 osu! original songs** were featured throughout the World Cup series of tournaments. While it may not seem like much when compared to 2024's output with 58 original tracks, being able to keep up the cadence of releases by bolstering our ever-expanding [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) of licensed tracks has been a great achievement. We can only hope to keep up with the pace during 2026, much to the delight of the community!
 
