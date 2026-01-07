@@ -16,8 +16,8 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2025-10-17/2026-01-11 |
-| Qualifiers | 2026-01-12/2026-01-26 |
-| Screening phase | 2026-01-26/2026-02-09 |
+| Qualifiers | 2026-01-12/2026-02-09 |
+| Screening phase | 2026-02-10/2026-02-20 |
 | Round of 32, Round of 16, Quarterfinals | 2026-03-14 |
 | Semifinals, Finals, Grand Finals | 2026-03-15 |
 
