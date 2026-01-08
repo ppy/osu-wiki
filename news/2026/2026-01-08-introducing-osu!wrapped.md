@@ -55,7 +55,7 @@ Make sure to also use the hashtag `#osuwrapped25` for when you share your osu!wr
 
 ---
 
-We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [mapping & modding](#mapping-&-modding), [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), [Featured Artist additions](#featured-artists), [osu!(lazer)](#osu!(lazer)), and [IRL events](#irl-events) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
+We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [mapping & modding](#mapping-&-modding), [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), [Featured Artist additions](#featured-artists), [osu!(lazer)](#osu!(lazer)), [storyboarding](#storyboarding), and [IRL events](#irl-events) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
 
 ## Mapping & Modding
 
@@ -113,6 +113,30 @@ osu!(lazer)'s development has been on full throttle this year. With more and mor
 
 ![Lazer User Migarion Chart](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/lazer_user_migration.png)
 
+## Storyboarding
+
+The storyboarding scene in 2025 was interesting.
+
+Continuing from the previous year, a lot of storyboarding effort has gone into World Cups and community tournaments. Within World Cups, 2024 had just ended with OWC debuting [Operation: Zenithfall](https://osu.ppy.sh/beatmapsets/2287992), which featured a scale of storyboard (and design) production led by ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) that had not quite been seen before in the game.
+
+This level of production continued for the other World Cups of 2025 with standout Grand Finals tiebreaker productions in [Lost Requiem](https://osu.ppy.sh/beatmapsets/2325151) for MWC 7K, [Eternity](https://osu.ppy.sh/beatmapsets/2402789) for CWC, [BUZZ CUTS](https://osu.ppy.sh/beatmapsets/2367508) and [Yuuaku no Inori - Anima immortalis est. -](https://osu.ppy.sh/beatmapsets/2475379) for OWC, which continued to wow the community.
+
+Involved in these storyboards, we had ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=US }:: [binarie](https://osu.ppy.sh/users/15632854), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334), ::{ flag=CA }:: [Enkrypton](https://osu.ppy.sh/users/5178122) and ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942).
+
+We didn't have any storyboarding-specific contests in 2025, but we did have [Locus](https://osu.ppy.sh/home/news/2025-08-21-locus-2025-results), where teams formed to create maps with original music and visuals, including storyboarding. The winning storyboards, namely [Haiboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331), [Of Our Time](https://osu.ppy.sh/beatmapsets/2412232), [Locus Amoenus](https://osu.ppy.sh/beatmapsets/2412292), as well as peppy's pick [Rift Walker](https://osu.ppy.sh/beatmapsets/2412244) with storyboarding by World Cup design team members Iyouka, Noffy, Kuroise, and [VenerableNyanta](https://osu.ppy.sh/users/12243368) respectively, notably received the prize of being bundled in new osu! installations, adding to the collection of soon-to-be nostalgic maps for new players.
+
+On the more niche end of storyboarding, we saw ::{ flag=NO }:: [YokesPai](https://osu.ppy.sh/users/6399568) host another edition of their "YEAST" tournament, or "YokesPai's Extravagant Accuracy Sightread Tournament", during this year's COE event in the Netherlands. This was for another niche side of the osu! community, the reading players, to compete on, where players had to witness storyboards with unique gameplay gimmicks for the first time and sightread them on stage.
+
+The entirely storyboarded mappool made players experience [a chaotic mashup of both songs and rhythm game mechanics](https://osu.ppy.sh/beatmapsets/2416126) by YokesPai, [osu! moving in four directions at once](https://osu.ppy.sh/beatmapsets/2411431) by ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) and ::{ flag=US }:: [Vox](https://osu.ppy.sh/users/14258211), [osu! Touhou](https://osu.ppy.sh/beatmapsets/2414723) by ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581), [osu! but switching between four rhythm games in splitscreen](https://osu.ppy.sh/beatmapsets/2416231) and [WarioWare minigames](https://osu.ppy.sh/beatmapsets/2416110) by ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619), [a mirrored Hidden mod](https://osu.ppy.sh/beatmapsets/2442118) by ::{ flag=US }:: [Aery](https://osu.ppy.sh/users/3994671), and lastly, a map of [all gimmicks combined](https://osu.ppy.sh/beatmapsets/2416155#osu/5251678) with everyone in the team involved.
+
+The gameplay storyboarding scene isn't limited to the osu! mode, because ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096) has been quietly leading the "modcharting" scene in osu!mania. In 2025, they demonstrated capability for impressive visuals and entirely custom storyboard gameplay in [METAROOM - .ANGEL](https://osu.ppy.sh/beatmapsets/2373873): [Wooden - (tau) extended](https://osu.ppy.sh/beatmapsets/2373873). Good luck to those who attempt play.
+
+Another undermentioned name to look out for in the scene is ::{ flag=US }:: [S2VX](https://osu.ppy.sh/users/1472763), known for their one-of-a-kind [storyboard with rotoscope animation](https://osu.ppy.sh/beatmapsets/685539) in collaboration with ::{ flag=US }:: [niseboi](https://osu.ppy.sh/users/2747929) back in 2017. They came back in 2025 with another [creation that tops the charts for technical storyboard of the year](https://osu.ppy.sh/beatmapsets/2344967), featuring solid triangle meshes rendered entirely in the osu! storyboard engine, forming an artistic music video.
+
+You could say that every type of storyboarder has been refining their craft, and by teaming up with designers, illustrators and musicians, they've been able to realise greater ambitions than ever before.
+
+Next time when you see the storyboard icon on a map download page, try playing with storyboards on and lower the background dim a little. You might be surprised by how people are making beatmaps come to life in new ways.
+
 ## IRL events
 
 We had a number of offline events this year. Here's what you were up to:
@@ -159,7 +183,7 @@ See you again sometime in 2026!
 
 ---
 
-And this wraps up 2025! Big shout-out to the **1,780,031 new users** that joined this amazing community in the previous year. And with a total of **206 news posts** released in 2025, we can't wait to update you on the newest of posts in 2026 as well, so stay tuned! <3
+And this wraps up 2025! Big shout-out to the **1,780,031 new users** that joined our amazing community in the previous year. And with a total of **206 news posts** released in 2025, we can't wait to update you on the newest of posts in 2026 as well, so stay tuned! <3
 
 ---
 
