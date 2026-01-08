@@ -55,6 +55,24 @@ While the current osu!wrapped page may be rough around the edges, we're looking 
 
 We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), and [Featured Artist additions](#featured-artists) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
 
+## Mapping & Modding
+
+The mapping scene has boomed during 2025, to a point where words alone cannot convey it. As such, we've decided to put it into numbers! Here are some of the most interesting statistics we've gathered so far:
+
+- **27,496 difficulties ranked across 6,772 beatmap sets.** If our math is correct, around half of which are Sidetracked Day and Harumachi Clover covers.
+  - **105 of these ranked sets were originally uploaded before 2018.** Talk about mappers having love for their old creations!
+- **272,117 total difficulties uploaded across 133,555 beatmap sets.** We cannot begin to imagine how many more maps would be uploaded, were the Pending limits not exist...
+- **1,145 difficulties loved across 324 beatmap sets.**
+- **1,467,534 beatmap discussion posts sent.** Modders have been working overtime just for a couple of scraps and extra kudosu.
+
+All in all, the mapping scene has been more alive than ever before. After all it is the living blood of the game, offering players a wide variety of songs (and challenges!) to enjoy throughout the year.
+
+Another standout this year has been the sheer amount of beatmapping contests held by the community. Some of which include [Pending Cup 2025](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025), [Newspaper Cup 2025](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025), and how could we forget about the return of the [osu! Beatmapping World Championship](https://osu.ppy.sh/home/news/2025-04-07-osu-beatmapping-world-championship-2025). Suffice to say, osu! mappers have been eating good this year!
+
+Not to stay behind from the rise of community-made contests, the osu! team worked hard to bring one of the most novel and popular mapping contests up to date. Almost a year ago on the clock, [Locus](https://osu.ppy.sh/home/news/2025-01-31-locus) was first announced. By merging visual, sound, and mapping creativity all into one, Locus managed to produce some of the unique and interesting mapping experiences we've seen coming out of a contest so far! We strongly suggest checking its [results](https://osu.ppy.sh/home/news/2025-08-21-locus-2025-results) to judge for yourself.
+
+Finally, [Mappers' Guild](https://mappersguild.com/) continued being an amazing entry point for new mappers via their priority quests, as well as a good source of points and goodies for those mappers undertaking normal quests and ranking their favourite Featured Artists' tracks. During 2025, a staggering amount of **X normal quests** and **Y priority quests** were completed, with over **Z Featured Artist beatmaps** submitted during that same time.
+
 ## Tournaments
 
 Just like in previous years, the tournament scene remained vibrant in 2025. With a whopping **255 supported tournaments** happening this year across all modes, there was plenty of competition for everyone.
@@ -84,6 +102,14 @@ Speaking of original tracks, 2025 has had the most community original songs ever
 Last but definitely not least, this year has seen the arrival of **64 brand-new Featured Artists** — a full stack! With that also came the addition of **1206 new licensed tracks**. Only time can tell what surprises await ahead of us in 2026. For the time being, however, let us enjoy all the songs we've been able to enjoy throughout 2025, of which there have been more than plenty.
 
 { Graph with the number of licensed FA tracks added throughout the year }
+
+## osu!(lazer)
+
+osu!(lazer)'s development has been on full throttle this year. With more and more features — both new and returning ones — being added, players have flocked to the new and improved client.
+
+2025 saw one of the biggest increases in active users and score submissions to date, in no small part thanks to the addition of [Quick Play](https://osu.ppy.sh/home/news/2025-12-05-introducing-quick-play) and the website's brand-new [download page](https://osu.ppy.sh/home/download). While both changes may seem small, those two alone **almost doubled** the number of active users and score submissions in the span of a couple months!
+
+{ Graph with the Scores/Users in osu!lazer }
 
 ---
 
