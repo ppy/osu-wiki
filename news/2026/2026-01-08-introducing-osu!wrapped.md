@@ -129,9 +129,9 @@ In July, [Chinese osu! players competed at China LAN 2025](https://osu.ppy.sh/ho
 
 They took group photos for both event days, so to include everyone, here's both:
 
-![Group picture at China LAN 2025 (day 1)](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-group-picture.jpg)
+![Group picture at China LAN 2025 (day 1)](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-group-picture-day-1.jpg)
 
-![Group picture at China LAN 2025 (day 2)](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-group-picture.jpg)
+![Group picture at China LAN 2025 (day 2)](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-group-picture-day-2.jpg)
 
 A little later in July, [over 450 osu! players visited the Moscow osu! Event](https://osu.ppy.sh/home/news/2025-10-08-moscow-osu-event-2025-recap), complete with a cosplay event and booths for various other rhythm games too.
 
