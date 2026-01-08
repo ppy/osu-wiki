@@ -1,6 +1,6 @@
 # Pengelola osu! wiki
 
-**Pengelola osu! wiki** (*osu! wiki maintainers*) merupakan orang-orang yang mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori proyek osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
+**Pengelola osu! wiki** (*osu! wiki maintainer*) merupakan orang-orang yang mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori proyek osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 Tim pengelola ini secara rutin memperhatikan [pelacak masalah milik repositori](https://github.com/ppy/osu-wiki/issues) dan meninjau pull request (permintaan edit) dari para kontributor. Tidak seperti kontributor lainnya, mereka dapat menyunting pull request dan menggabungkan pull request ini ke branch `master` milik repositori, yang membuat perubahan yang ada menjadi publik.
 
