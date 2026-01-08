@@ -49,13 +49,13 @@ If you don't see the **Daily Challenges** or the **beatmapping** tab, then you h
 
 Check out the osu!wrapped recaps here from [Walavouchey](https://osu.ppy.sh/wrapped/5773079?share=9c956c5228131e241b1cdf961f9ffa8b), [ChillierPear](https://osu.ppy.sh/wrapped/9501251?share=59fa044960d4d860996067197e9bbf8a), and [Yasuho](https://osu.ppy.sh/wrapped/8458835?share=303244a081eb179d5515dbe57d36f651) as a few examples.
 
-While the current osu!wrapped page may be rough around the edges, we're looking to add more features, statistics and polish in the future. 
+While the current osu!wrapped page may be rough around the edges, we're looking to add more features, statistics and polish in the future.
 
 Make sure to also use the hashtag `#osuwrapped25` for when you share your osu!wrapped on X/Twitter!
 
 ---
 
-We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [mapping & modding](#mapping--modding), [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), [Featured Artist additions](#featured-artists), [osu!(lazer)](#osulazer), and [IRL events](#irl-events) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
+We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [mapping & modding](#mapping-&-modding), [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), [Featured Artist additions](#featured-artists), [osu!(lazer)](#osu!(lazer)), and [IRL events](#irl-events) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
 
 ## Mapping & Modding
 
