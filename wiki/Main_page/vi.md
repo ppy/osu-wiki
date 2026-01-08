@@ -104,7 +104,7 @@ Chương trình: [Giải đấu](/wiki/Tournaments) • [Beatmap Tiêu điểm](
 
 [Dự án](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly) 
 
-Phương tiện truyền thông: [Âm nhạc độc quyền](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Chuỗi video](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Cập nhật lazer](/wiki/Community/Video_series/lazer_updates)
+Phương tiện truyền thông: [Âm nhạc độc quyền](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Video series](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [Cập nhật lazer](/wiki/Community/Video_series/lazer_updates)
 
 Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
