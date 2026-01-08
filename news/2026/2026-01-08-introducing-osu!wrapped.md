@@ -57,7 +57,7 @@ Make sure to also use the hashtag `#osuwrapped25` for when you share your osu!wr
 
 We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [mapping & modding](#mapping-&-modding), [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), [Featured Artist additions](#featured-artists), [osu!(lazer)](#osu!(lazer)), [storyboarding](#storyboarding), and [IRL events](#irl-events) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
 
-## Mapping & Modding
+## Mapping & modding
 
 The mapping scene has boomed during 2025, to a point where words alone cannot convey it. As such, we've decided to put it into numbers! Here are some of the most interesting statistics we've gathered so far:
 
@@ -95,15 +95,17 @@ As always though, we end the year with the highly anticipated [osu! World Cup](h
 
 This year has been a blessing for the osu! [bespoke music](/wiki/Community/Bespoke_music) repertoire! In 2025 alone, **54 osu! original songs** were featured throughout the World Cup series of tournaments. While it may not seem like much when compared to 2024's output with 58 original tracks, being able to keep up the cadence of releases by bolstering our ever-expanding [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) of licensed tracks has been a great achievement. We can only hope to keep up with the pace during 2026, much to the delight of the community!
 
-Speaking of original tracks, 2025 has had the most community original songs ever featured in the platform. With the introduction of the [osu! community music](https://osu.ppy.sh/beatmaps/artists/462) in the Featured Artist listing, a total of **131 community originals** were featured during the year. This wouldn't have been possible without the combined efforts of our community, both throughout contest, tournament, and mapping spheres alike!
+Speaking of original tracks, 2025 has had the most community original songs ever featured in the platform. With the introduction of the [osu! community music page](https://osu.ppy.sh/beatmaps/artists/462) in the Featured Artist listing, **131** community originals were licensed during the year. This wouldn't have been possible without the combined efforts of our community, both throughout contest, tournament, and mapping spheres alike!
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/bespoke-music-in-2025.png)
+![Graph of songs made by the osu! community in 2025](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/bespoke-music-in-2025.png)
+
+By our bookkeeping, we've seen **389 community-made tracks** in 2025. osu! is becoming more and more a platform for original music.
 
 ## Featured Artists
 
 Last but definitely not least, this year has seen the arrival of **64 brand-new Featured Artists** — a full stack! With that also came the addition of **1206 new licensed tracks**. Only time can tell what surprises await ahead of us in 2026. For the time being, however, let us enjoy all the songs we've been able to enjoy throughout 2025, of which there have been more than plenty.
 
-{ Graph with the number of licensed FA tracks added throughout the year }
+![Graph of licensed FA tracks added throughout the year](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/fa-track-additions.png)
 
 ## osu!(lazer)
 
@@ -111,7 +113,7 @@ osu!(lazer)'s development has been on full throttle this year. With more and mor
 
 2025 saw one of the biggest increases in active users and score submissions to date, in no small part thanks to the addition of [Quick Play](https://osu.ppy.sh/home/news/2025-12-05-introducing-quick-play) and the website's brand-new [download page](https://osu.ppy.sh/home/download). While both changes may seem small, those two alone **almost doubled** the number of active users and score submissions in the span of a couple months!
 
-![Lazer User Migarion Chart](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/lazer_user_migration.png)
+![osu!(lazer) user migration chart](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/lazer_user_migration.png)
 
 ## Storyboarding
 
@@ -205,7 +207,7 @@ And this wraps up 2025! Big shout-out to the **1,780,031 new users** that joined
 
 One more thing. We've been working on something you might be interested in:
 
-{ hoodie }
+![Teaser of new osu! hoodie](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/pippi-hoodie.jpg)
 
 We're out of news post real estate so you'll have to find out more in the future.
 
