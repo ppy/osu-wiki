@@ -23,37 +23,39 @@ To help you understand what to expect from osu!wrapped, we've prepared a set of 
 
 The first tab, **summary**, is a breakdown of your overall stats from the previous year, as well as a quick summary of your **favourite mappers** and **top plays**.
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-summary.png)
+![summary tab of osu!wrapped](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-summary.png)
 
 Next, we have the **top plays** tab, which shows you the top scores you've achieved in the last year. Now, in much more detail as opposed to your player profile!
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-topplays.png)
+![top plays tab of osu!wrapped](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-topplays.png)
 
 Grinding Daily Challenges during 2025? The **Daily Challenges** tab is here to give you an overview of your cleared challenges, placements, as well as your longest streak.
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-dailychallenge.png)
+![Daily Challenges tab of osu!wrapped](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-dailychallenge.png)
 
 An overview of your **favourite mappers** can be found in the next tab. In there, you'll find your top 10 mappers of 2025, whose maps you've played the most.
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-favmappers.png)
+![favourite mappers tab of osu!wrapped](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-favmappers.png)
 
 You can take a look at the artists you keep coming back to in the **favourite artists** tab. A nice way to appreciate your favourite musicians throughout the year.
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-favartists.png)
+![favourite artists tab of osu!wrapped](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-favartists.png)
 
 Last but not least, if you're a beatmapper or modder, the **beatmapping** tab will excite you with a breakdown of your mapping and modding stats from the previous year. We even got a stat for how many beatmaps you've nominated!
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-beatmapping.png)
+![beatmapping tab of osu!wrapped](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/wrapped-beatmapping.png)
 
 If you don't see the **Daily Challenges** or the **beatmapping** tab, then you haven't played Daily Challenges or haven't mapped or modded anything in 2025. But who knows? Maybe you'll be inspired to try in 2026!
 
 Check out the osu!wrapped recaps here from [Walavouchey](https://osu.ppy.sh/wrapped/5773079?share=9c956c5228131e241b1cdf961f9ffa8b), [ChillierPear](https://osu.ppy.sh/wrapped/9501251?share=59fa044960d4d860996067197e9bbf8a), and [Yasuho](https://osu.ppy.sh/wrapped/8458835?share=303244a081eb179d5515dbe57d36f651) as a few examples.
 
-While the current osu!wrapped page may be rough around the edges, we're looking to add more features, statistics and polish in the future.
+While the current osu!wrapped page may be rough around the edges, we're looking to add more features, statistics and polish in the future. 
+
+Make sure to also use the hashtag `#osuwrapped25` for when you share your osu!wrapped on X/Twitter!
 
 ---
 
-We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), and [Featured Artist additions](#featured-artists) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
+We wanted to also take the chance to reflect on other areas of the game. Read on for stats and reflections around [mapping & modding](#mapping--modding), [tournaments](#tournaments), [World Cups](#world-cups), [the osu! music scene](#bespoke-music), [Featured Artist additions](#featured-artists), [osu!(lazer)](#osulazer), and [IRL events](#irl-events) during 2025. We have prepared a (somewhat) short and sweet run-through of all the things that happened around the community, in case you wanted to catch up or reminisce before starting your new osu! year.
 
 ## Mapping & Modding
 
@@ -109,17 +111,61 @@ osu!(lazer)'s development has been on full throttle this year. With more and mor
 
 2025 saw one of the biggest increases in active users and score submissions to date, in no small part thanks to the addition of [Quick Play](https://osu.ppy.sh/home/news/2025-12-05-introducing-quick-play) and the website's brand-new [download page](https://osu.ppy.sh/home/download). While both changes may seem small, those two alone **almost doubled** the number of active users and score submissions in the span of a couple months!
 
-{ Graph with the Scores/Users in osu!lazer }
+![Lazer User Migarion Chart](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/lazer_user_migration.png)
+
+## IRL events
+
+We had a number of offline events this year. Here's what you were up to:
+
+In February, [Polish players gathered at the KEL LAN event](https://osu.ppy.sh/home/news/2025-04-29-kel-lan-tournament-3-recap), with a hectic tournament bracket where rounds had all matches playing simultaneously.
+
+![WubWubWolf and Bartek playing a map of "Can't Defeat Airman"](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/www-and-bartek.jpg)
+
+![Group picture of KEL LAN attendees](/wiki/shared/news/2025-04-29-kel-lan-tournament-3-recap/group-photo.jpg)
+
+In July, [Chinese osu! players competed at China LAN 2025](https://osu.ppy.sh/home/news/2025-05-30-china-lan-2025), with ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) won the tournament against ::{ flag=CN }:: [lolol235](https://osu.ppy.sh/users/6090175) in the Finals. You can check out the [VODS on bilibili](https://space.bilibili.com/3546939226327250)!
+
+![osu! players at China LAN 2025](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-venue.jpg)
+
+They took group photos for both event days, so to include everyone, here's both:
+
+![Group picture at China LAN 2025 (day 1)](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-group-picture.jpg)
+
+![Group picture at China LAN 2025 (day 2)](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/china-lan-2025-group-picture.jpg)
+
+A little later in July, [over 450 osu! players visited the Moscow osu! Event](https://osu.ppy.sh/home/news/2025-10-08-moscow-osu-event-2025-recap), complete with a cosplay event and booths for various other rhythm games too.
+
+![Taiko no Tatsujin booth at MOE2025](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/gamezone-taiko.jpg)
+
+![Megacollab picture of MOE2025 attendees](/wiki/shared/news/2025-10-08-moscow-osu-event-2025-recap/megacollab.jpg)
+
+At the end of July and into the start of August, another large number of people went to cavoe's osu! event in the Netherlands. There were tournaments, rhythm game booths, side events and everything in between. ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), the #1 ranked player in the game, flew in and [won the tournament](https://www.youtube.com/watch?v=wDR2AsTFCDw).
+
+::{ flag=US }:: [BTMC](https://osu.ppy.sh/3171691) made an excellent [video covering COE 2025](https://www.youtube.com/watch?v=GmDG_dzi_JQ), go check it out! Also, the event was apparently even [covered on Dutch television](https://www.reddit.com/r/osugame/comments/1mdg92h/coe_in_dutch_news/).
+
+![Overhead drone group picture at COE 2025](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/coe-2025-group-picture.jpg)
+
+At the end of October and a bit into November, [British players went to EPIC46 in the UK](https://osu.ppy.sh/home/news/2025-11-22-osu-uk-epic46-recap), and you probably would never believe that pro osu! tournament player ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) won the bracket.
+
+![osu! group picture](/wiki/shared/news/2025-11-22-osu-uk-epic46-recap/group-picture.jpg)
+
+In December, [Malaysian osu! players gathered at Comic Fiesta 2025](https://twitter.com/osumalaysia/status/2003411903444582447).
+
+![Group picture of Malaysian players at Comic Fiesta 2025](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/cf-2025-group-picture.jpg)
+
+...and there were many more meetups and LAN events of course, but we'd be here all day covering them. We've observed a recurring talking point in recent years about osu!'s local tournament scene growing, and although we haven't done any comprehensive analysis, we're inclined to believe that it's a real trend.
+
+See you again sometime in 2026!
 
 ---
 
-And this wraps up 2025! With a total of 206 news posts released in 2025, we can't wait to update you on the newest of posts in 2026 as well, so stay tuned!
+And this wraps up 2025! Big shout-out to the **1,780,031 new users** that joined this amazing community in the previous year. And with a total of **206 news posts** released in 2025, we can't wait to update you on the newest of posts in 2026 as well, so stay tuned! <3
 
 ---
 
 One more thing. We've been working on something you might be interested in:
 
-![](/wiki/shared/news/2026-01-08-introducing-osu!wrapped/pippi-hoodie.jpg)
+{ hoodie }
 
 We're out of news post real estate so you'll have to find out more in the future.
 
