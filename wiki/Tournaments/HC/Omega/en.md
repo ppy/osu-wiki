@@ -77,8 +77,8 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Finney](https://osu.ppy.sh/users/11393702) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/4539930) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) |
 
 ## Mappools
 
