@@ -70,6 +70,16 @@ A list of all participants before seeding can be found [here](https://docs.googl
 | 49–56 | ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659) |
 | 57–64 | ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=NO }:: [Finney](https://osu.ppy.sh/users/11393702) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/4539930) |
+
 ## Mappools
 
 ### Qualifiers
@@ -119,6 +129,60 @@ A list of all participants before seeding can be found [here](https://docs.googl
   - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Akitoshi's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/1797548)
 - Tiebreaker
   - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
+
+### Quarterfinals
+
+- NoMod
+  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
+  - [Elijah Martin - Harumachi Clover (Metal Cover) (Digitalyzed) [Intense!]](https://osu.ppy.sh/beatmapsets/1375300#osu/2842868)
+- Hidden
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Maximum Clover Power]](https://osu.ppy.sh/beatmapsets/652412#osu/1383389)
+- HardRock
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Happy Ending]](https://osu.ppy.sh/beatmapsets/662120#osu/1401608)
+- DoubleTime
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Karen) [MoeMoe]](https://osu.ppy.sh/beatmapsets/557733#osu/1180037)
+- FreeMod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Foxy's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/2030431)
+- Tiebreaker
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)
+
+### Semifinals
+
+- NoMod
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)
+  - [Elijah Martin - Harumachi Clover (Metal Cover) (Digitalyzed) [Intense!]](https://osu.ppy.sh/beatmapsets/1375300#osu/2842868)
+- Hidden
+  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
+- HardRock
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461)
+- DoubleTime
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Hanasaka Yui]](https://osu.ppy.sh/beatmapsets/933554#osu/1948941)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Mkppyshiro's Insane]](https://osu.ppy.sh/beatmapsets/662120#osu/1432899)
+- FreeMod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [A r M i N's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/1797542)
+- Tiebreaker
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (VINXIS Dopamine Hit) (Orkay) [This Song Is About Tragic Love]](https://osu.ppy.sh/beatmapsets/1817125#osu/3727989)
+
+### Grand Finals
+
+- NoMod
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (VINXIS Dopamine Hit) (Orkay) [This Song Is About Tragic Love]](https://osu.ppy.sh/beatmapsets/1817125#osu/3727989)
+  - [ModlesS_Flash - Harumachi the Madness (3mplify) [OneDrop]](https://osu.ppy.sh/beatmapsets/949164#osu/1982039)
+- Hidden
+  - [Lord Icy & Will Stetson - Harumachi Clover (Drip Arrangement) (ImBooshi) [Mimikyu's Drip]](https://osu.ppy.sh/beatmapsets/1405281#osu/2899053)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)
+- HardRock
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -blooming mix- (Naotoshi) [Spring Breeze]](https://osu.ppy.sh/beatmapsets/627085#osu/1321495)
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Foxy's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/2030431)
+- DoubleTime
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Hanasaka Yui]](https://osu.ppy.sh/beatmapsets/933554#osu/1948941)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Happy Ending]](https://osu.ppy.sh/beatmapsets/662120#osu/1401608)
+- FreeMod
+  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
+- Tiebreaker
+  - [BilliumMoto - Harumachi clip your face off (Nao Tomori) [Expert]](https://osu.ppy.sh/beatmapsets/1817218#osu/3728149)
 
 ## Ruleset
 
