@@ -61,7 +61,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ### Conduct
 
-1. All spaces affiliated with 3WC (including this page) are subject to the [osu! community rules](/wiki/Rules) as well as the rules of the respective platforms themselves.
+1. All spaces affiliated with 3WC are subject to the [osu! community rules](/wiki/Rules) as well as the rules of the respective platforms themselves.
 2. Players are expected to uphold a competitive and friendly environment, and to treat tournament staff and other players with respect.
    - This includes keeping matches running smoothly and avoiding deliberate delays.
 3. Any foul play, including but not limited to: cheating, bracket manipulation, or failure to cooperate in match rescheduling, is strictly prohibited.
@@ -78,7 +78,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 2. The tournament begins with a qualifier stage, followed by a 16-team double-elimination bracket.
 3. Beatmap scoring is based on ScoreV2.
 4. The minimum size for a team is 3 players, and the maximum is 6.
-5. The mappool, matchups, and match schedules will be announced by the tournament organisers on this site, as well as on the spreadsheet, on the Sunday before the matches take place.
+5. The mappool, matchups, and match schedules will be announced by the tournament organisers on the spreadsheet on the Sunday before the matches take place.
    - These announcements may be delayed to ensure higher quality or to accommodate commentators for the mappool showcase. Any delays will be communicated clearly to all participants.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
@@ -139,7 +139,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific mappool designed by the mappool selectors.
-2. The mappool will feature 10 beatmaps, organized as such:
+2. The mappool will feature 10 beatmaps, organised as such:
    - 4 No Mod beatmaps
    - 2 Hidden beatmaps
    - 2 Hard Rock beatmaps
@@ -154,16 +154,16 @@ The 3 Digit World Cup 2026 is run by various community members.
    - An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 6. All teams will play their qualifiers in separate rooms. It is suggested that teams do not broadcast or share their results publicly to avoid seed manipulation.
 7. Cumulative Z-score, scaled to 0–100, will be used to seed the teams.
-8. Only the top 16 seeded teams will advance to the next stage, and based on the above formula will be placed in a double elimination bracket.
+8. Only the top 16 seeded teams will advance to the next stage, and based on the above method will be placed in a double elimination bracket.
 
 ### Bracket stage instructions
 
-1. Following the Qualifier stage, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
-2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Semifinals.
+1. Following the Qualifier stage, a double-elimination bracket will be played — for teams in the winners' bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers' bracket, where any further defeats will eliminate the team from the competition.
+2. Teams in the losers' bracket must play up to 2 matches each weekend, starting from the Semifinals.
 3. Win conditions
    - In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
    - In the Semifinals, Finals, and Grand Finals, teams need to win 7 maps to win a match (best of 13).
-   - Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets. This second set is commonly referred to as the "bracket reset".
+   - Note: for the Grand Finals match, the team that is coming from the winners' bracket is required to win one "set", that is, one best-of-13, to win the tournament. The team coming from the losers' bracket, however, needs to win 2 sets. This second set is commonly referred to as the "bracket reset".
 
 ### Match format
 
@@ -193,7 +193,7 @@ The 3 Digit World Cup 2026 is run by various community members.
      - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
    - On subsequent occurrences:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where `X` is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
-     - For a ready timer: the referee will issue the `!mp start 15` command, regardless of how many players from each team are present in the lobby. Should a team have too many players in the lobby, the scores from their 3 worst performing players will be counted.
+     - For a ready timer: the referee will issue the `!mp start 15` command, regardless of how many players from each team are present in the lobby. Should a team have too many players in the lobby, the scores from their 3 worst-performing players will be counted.
    - Repeat offenders may receive further sanctions from the tournament organisers.
 6. In the case of a team starting a map with less than the permitted number of players on their roster due to an unforeseen circumstance (e.g. a technical issue or unavoidable player absence), the team in question will be granted the right to fill their roster before play commences. The remainder of the original roster must stay the same, only player additions are allowed.
 7. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. The tactical timeout is optional.
