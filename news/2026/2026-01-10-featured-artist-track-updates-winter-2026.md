@@ -37,6 +37,7 @@ Click on any artist's banner to head to their full music listing, where you can 
 - [**ZxNX**](#zxnx)
 
 ## [Culprate](https://osu.ppy.sh/beatmaps/artists/29)
+
 [![](https://assets.ppy.sh/artists/29/header.jpg)](https://osu.ppy.sh/beatmaps/artists/29)
 
 [**Culprate**](https://osu.ppy.sh/beatmaps/artists/29) might be one of our oldest Featured Artists, but their music is undoubtedly timeless. We picked up two tracks that osu!catch players may be familiar with: *Lightfold* and *Jalaana*, both of which were part of [2025's osu!catch World Cup mappools](/wiki/Tournaments/CWC/2025#mappools)!
@@ -56,6 +57,7 @@ If you're up to a challenge, try the maps yourself:
 </audio>
 
 ## [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246)
+
 [![](https://assets.ppy.sh/artists/246/header.jpg)](https://osu.ppy.sh/beatmaps/artists/246)
 
 Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/artists/246)'s listing in-part because of [2025's osu!catch World Cup mappools](/wiki/Tournaments/CWC/2025#mappools)! *Ready for Breakdown* was used early in the tournament, and while we were at it, we also snagged *Love Pills* for... reasons. You'll understand when you're older.
@@ -73,6 +75,7 @@ Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/
 </audio>
 
 ## [Good Kid](https://osu.ppy.sh/beatmaps/artists/240)
+
 [![](https://assets.ppy.sh/artists/240/header.jpg)](https://osu.ppy.sh/beatmaps/artists/240)
 
 [**Good Kid**](https://osu.ppy.sh/beatmaps/artists/240) makes good music. You probably already knew that, and that's why osu! has more of it. Neither of these are Ranked (yet), but they should give you some inspiration for your own maps:
@@ -90,6 +93,7 @@ Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/
 </audio>
 
 ## [Helblinde](https://osu.ppy.sh/beatmaps/artists/5)
+
 [![](https://assets.ppy.sh/artists/5/header.jpg)](https://osu.ppy.sh/beatmaps/artists/5)
 
 [**Helblinde**](https://osu.ppy.sh/beatmaps/artists/5) was osu!'s ***fifth*** Featured Artist. That means he's old, but not too old to create awesome music. 
@@ -109,6 +113,7 @@ When we received [*Nastrond*](https://osu.ppy.sh/beatmapsets/2465411) (the song 
 </audio>
 
 ## [hikota](https://osu.ppy.sh/beatmaps/artists/463)
+
 [![](https://assets.ppy.sh/artists/463/header.jpg)](https://osu.ppy.sh/beatmaps/artists/463)
 
 It's purely coincidental that every artist so far has had only 2 song additions. [**hikota**](https://osu.ppy.sh/beatmaps/artists/463) is breaking the mold by adding an entire new album to osu!: *Childhood's End*, featuring **8** new songs! Here are a few samples:
@@ -132,6 +137,7 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 </audio>
 
 ## [Kobaryo](https://osu.ppy.sh/beatmaps/artists/96)
+
 [![](https://assets.ppy.sh/artists/96/header.jpg)](https://osu.ppy.sh/beatmaps/artists/96)
 
 [**Kobaryo**](https://osu.ppy.sh/beatmaps/artists/96) takes the gold for having the longest title out of all of today's new songs.
@@ -143,6 +149,7 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 </audio>
 
 ## [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448)
+
 [![](https://assets.ppy.sh/artists/448/header.jpg)](https://osu.ppy.sh/beatmaps/artists/448)
 
 [**Kry.exe**](https://osu.ppy.sh/beatmaps/artists/448)'s track [*Rift Walker*](https://osu.ppy.sh/beatmapsets/2412244) won peppy's pick in [Locus 2025](/wiki/Contests/Locus/2025). peppy might have liked **Kry.exe**'s music enough to grab a few more tracks too!
@@ -166,6 +173,7 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 </audio>
 
 ## [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86)
+
 [![](https://assets.ppy.sh/artists/86/header.jpg)](https://osu.ppy.sh/beatmaps/artists/86)
 
 Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) to return to osu! with new music, but here we are. **5** tracks from their newest album *Exul* are part of osu!'s Featured Artist library! Play through three of them below, and visit [the band's listing](https://osu.ppy.sh/beatmaps/artists/86) to start mapping the rest.
@@ -189,6 +197,7 @@ Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/b
 </audio>
 
 ## [SiLiS](https://osu.ppy.sh/beatmaps/artists/434)
+
 [![](/wiki/shared/news/2025-02-08-new-featured-artist-silis/header.jpg?1)](https://osu.ppy.sh/beatmaps/artists/434)
 
 [**SiLiS**](https://osu.ppy.sh/beatmaps/artists/434) joined our Featured Artist library less than a year ago, but between then and now, they've released more music than some artists have in their entire discography! **10** of those tracks are part of osu! as of today. 3 are below, and the rest are on [**SiLiS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/434)!
@@ -212,6 +221,7 @@ Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/b
 </audio>
 
 ## [Simon Safhalter](https://osu.ppy.sh/beatmaps/artists/481)
+
 [![](https://assets.ppy.sh/artists/481/header.jpg)](https://osu.ppy.sh/beatmaps/artists/481)
 
 You might've already played [*Always a cycle (Hyper)*](https://osu.ppy.sh/beatmapsets/2330718), but have you played [*Always a cycle (GLB Toxic Remix)*](https://osu.ppy.sh/beatmapsets/2429529)? [**Simon Safhalter**](https://osu.ppy.sh/beatmaps/artists/481) is here to ensure every version of *Always a cycle* is available to circle clickers.
@@ -234,6 +244,7 @@ This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/user
 </audio>
 
 ## [Terminal 11](https://osu.ppy.sh/beatmaps/artists/470)
+
 [![](https://assets.ppy.sh/artists/470/header.jpg)](https://osu.ppy.sh/beatmaps/artists/470)
 
 "You are an entire refrigerator", claims [Pizza69](https://osu.ppy.sh/users/25285704), the mapper of [**Terminal 11**](https://osu.ppy.sh/beatmaps/artists/470)'s [*Cold Storage*](https://osu.ppy.sh/beatmapsets/2421224) for [osu!mania 4K World Cup 2025](/wiki/Tournaments/MWC/2025_4K).
@@ -268,6 +279,7 @@ If you were [**unfeeling**](https://osu.ppy.sh/beatmaps/artists/509), you would 
 </audio>
 
 ## [WangleLine](https://osu.ppy.sh/beatmaps/artists/427)
+
 [![](https://assets.ppy.sh/artists/427/header.jpg)](https://osu.ppy.sh/beatmaps/artists/427)
 
 Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabbit has gone to outer space, documented by [**WangleLine**](https://osu.ppy.sh/beatmaps/artists/427) through the aural chapters in *Rabbit's Journey*! **8** tracks are on [their listing](https://osu.ppy.sh/beatmaps/artists/427), 6 of which come from that new album, plus two more extras!
@@ -297,6 +309,7 @@ Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabb
 </audio>
 
 ## [Waterflame](https://osu.ppy.sh/beatmaps/artists/291)
+
 [![](https://assets.ppy.sh/artists/291/header.jpg)](https://osu.ppy.sh/beatmaps/artists/291)
 
 [**Waterflame**](https://osu.ppy.sh/beatmaps/artists/291)'s unmistakable style has been present on osu! for over a decade, and even more of it is coming through **5** new tracks! Preview a couple of them below, and find the others [here](https://osu.ppy.sh/beatmaps/artists/291).
@@ -314,6 +327,7 @@ Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabb
 </audio>
 
 ## [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
+
 [![](https://assets.ppy.sh/artists/288/header.jpg)](https://osu.ppy.sh/beatmaps/artists/288)
 
 Ending things with a bang, [**ZxNX**](https://osu.ppy.sh/beatmaps/artists/288) presents a whopping **10** additions to [their library here on osu!](https://osu.ppy.sh/beatmaps/artists/288). Something very special from **ZxNX** is on the horizon, and we refuse to fully explain what that means.
