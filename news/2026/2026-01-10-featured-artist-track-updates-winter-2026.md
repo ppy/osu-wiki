@@ -47,13 +47,13 @@ If you're up to a challenge, try the maps yourself:
 ### [Culprate - Lightfold](https://osu.ppy.sh/beatmapsets/2391796) mapped by [wwwww](https://osu.ppy.sh/users/8434466)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/29/Songs/Culprate_-_Lightfold.mp3" type="audio/mpeg">
 </audio>
 
 ### [Jalaana (osu! ver.)](https://osu.ppy.sh/beatmapsets/2398911#fruits/5199078) mapped by [wwwww](https://osu.ppy.sh/users/8434466)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/29/Songs/Culprate_-_Jalaana_osu_ver..mp3" type="audio/mpeg">
 </audio>
 
 ## [EmoCosine](https://osu.ppy.sh/beatmaps/artists/246)
@@ -65,13 +65,13 @@ Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/
 ### [EmoCosine - Ready for Breakdown](https://osu.ppy.sh/beatmapsets/2388341#fruits/5168359) mapped by [Xinnoh](https://osu.ppy.sh/users/4236057)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/246/Songs/EmoCosine_-_Ready_for_Breakdown.mp3" type="audio/mpeg">
 </audio>
 
 ### [EmoCosine - Love Pills](https://osu.ppy.sh/beatmapsets/1798875) mapped by [Rycy](https://osu.ppy.sh/users/7394522)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/246/Songs/EmoCosine_-_Love_Pills.mp3" type="audio/mpeg">
 </audio>
 
 ## [Good Kid](https://osu.ppy.sh/beatmaps/artists/240)
@@ -83,13 +83,13 @@ Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/
 ### [Good Kid - Wall](https://osu.ppy.sh/beatmapsets/2447203) mapped by [Among Us](https://osu.ppy.sh/users/13473514)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3" type="audio/mpeg">
 </audio>
 
 ### [Good Kid - Rift](https://osu.ppy.sh/beatmapsets/2467271) mapped by [_ethan](https://osu.ppy.sh/users/16345483)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3" type="audio/mpeg">
 </audio>
 
 ## [Helblinde](https://osu.ppy.sh/beatmaps/artists/5)
@@ -103,13 +103,13 @@ When we received [*Nastrond*](https://osu.ppy.sh/beatmapsets/2465411) (the song 
 ### Helblinde - Mortal Coil
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/5/Songs/Helblinde_-_Mortal_Coil.mp3" type="audio/mpeg">
 </audio>
 
 ### Helblinde - Herald of Dissonance
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/5/Songs/Helblinde_-_Herald_of_Dissonance.mp3" type="audio/mpeg">
 </audio>
 
 ## [hikota](https://osu.ppy.sh/beatmaps/artists/463)
@@ -121,19 +121,19 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 ### hikota - swamp.wav
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/463/Childhood%27s End/hikota - swamp.wav.mp3" type="audio/mpeg">
 </audio>
 
 ### hikota - toy castle
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/463/Childhood%27s End/hikota - toy castle.mp3" type="audio/mpeg">
 </audio>
 
 ### hikota - our own constellation
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/463/Childhood%27s End/hikota - our own constellation.mp3" type="audio/mpeg">
 </audio>
 
 ## [Kobaryo](https://osu.ppy.sh/beatmaps/artists/96)
@@ -145,7 +145,7 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 ### Kobaryo - HARD-COREMATA (feat. Matatabi Sound System, DJ NECOJITA, Shinonome Interface & blaxervant) (HVS ver.)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/96/Songs/Kobaryo__Matatabi_Sound_System__DJ_NECOJITA__Shinonome_IF__blaxervant_-_HARD-COREMATA_HVS_VER..mp3" type="audio/mpeg">
 </audio>
 
 ## [Kry.exe](https://osu.ppy.sh/beatmaps/artists/448)
@@ -157,19 +157,19 @@ It's purely coincidental that every artist so far has had only 2 song additions.
 ### [Kry.exe - GEOLOGICAL//IRRESOLUTION](https://osu.ppy.sh/beatmapsets/2340140) mapped by [Eyenine](https://osu.ppy.sh/users/1259391)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_GEOLOGICALIRRESOLUTION.mp3" type="audio/mpeg">
 </audio>
 
 ### [Kry.exe - MUZAN](https://osu.ppy.sh/beatmapsets/2406537) mapped by [XK2238](https://osu.ppy.sh/users/1139209)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_MUZAN.mp3" type="audio/mpeg">
 </audio>
 
 ### [Kry.exe - IMPERIA](https://osu.ppy.sh/beatmapsets/2430040) mapped by [Lott](https://osu.ppy.sh/users/13821222)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_IMPERIA.mp3" type="audio/mpeg">
 </audio>
 
 ## [Ne Obliviscaris](https://osu.ppy.sh/beatmaps/artists/86)
@@ -181,19 +181,19 @@ Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/b
 ### [Ne Obliviscaris - Equus](https://osu.ppy.sh/beatmapsets/2023758) mapped by [Sayuka](https://osu.ppy.sh/users/11322604) and [Dabbe_1](https://osu.ppy.sh/users/12172073)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Equus.mp3" type="audio/mpeg">
 </audio>
 
 ### [Ne Obliviscaris - Misericorde I - As The Flesh Falls](https://osu.ppy.sh/beatmapsets/2382902) mapped by [le pauvre bil](https://osu.ppy.sh/users/12437546)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Misericorde I - As The Flesh Falls.mp3" type="audio/mpeg">
 </audio>
 
 ### [Ne Obliviscaris - Graal](https://osu.ppy.sh/beatmapsets/2031536) mapped by [Roupus](https://osu.ppy.sh/users/11117670)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Graal.mp3" type="audio/mpeg">
 </audio>
 
 ## [SiLiS](https://osu.ppy.sh/beatmaps/artists/434)
@@ -205,19 +205,19 @@ Pinch yourself. You weren't expecting [**Ne Obliviscaris**](https://osu.ppy.sh/b
 ### [SiLiS - Ryuu no Koukyoukyoku](https://osu.ppy.sh/beatmapsets/2321386) mapped by [Gamelan4](https://osu.ppy.sh/users/9856910)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Ryuu no Koukyoukyoku.mp3" type="audio/mpeg">
 </audio>
 
 ### [SiLiS - hopeful hyle](https://osu.ppy.sh/beatmapsets/2352047) mapped by [Wavewy](https://osu.ppy.sh/users/17352850)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - hopeful hyle.mp3" type="audio/mpeg">
 </audio>
 
 ### [SiLiS - Algernon -till the final breath-](https://osu.ppy.sh/beatmapsets/2399406) mapped by [SurfChu85](https://osu.ppy.sh/users/4469895)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Algernon -till the final breath-.mp3" type="audio/mpeg">
 </audio>
 
 ## [Simon Safhalter](https://osu.ppy.sh/beatmaps/artists/481)
@@ -229,7 +229,7 @@ You might've already played [*Always a cycle (Hyper)*](https://osu.ppy.sh/beatma
 ### [Simon Safhalter - Always a cycle (GLB Toxic Remix)](https://osu.ppy.sh/beatmapsets/2429529) mapped by [Djulus](https://osu.ppy.sh/users/4960893)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/481/Songs/Simon_Safhalter_-_Always_a_cycle_GLB_Toxic_Remix.mp3" type="audio/mpeg">
 </audio>
 
 ## [Supire](https://osu.ppy.sh/beatmaps/artists/373)
@@ -241,7 +241,7 @@ This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/user
 ### Supire - KUKRI
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/373/Songs/Supire_-_KUKRI.mp3" type="audio/mpeg">
 </audio>
 
 ## [Terminal 11](https://osu.ppy.sh/beatmaps/artists/470)
@@ -253,7 +253,7 @@ This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/user
 ### Terminal 11 - Cold Storage
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/470/Songs/Terminal_11_-_Cold_Storage.mp3" type="audio/mpeg">
 </audio>
 
 ## [unfeeling](https://osu.ppy.sh/beatmaps/artists/509)
@@ -265,19 +265,19 @@ If you were [**unfeeling**](https://osu.ppy.sh/beatmaps/artists/509), you would 
 ### unfeeling - bright impulse of emotions
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/509/Songs/unfeeling_-_bright_impulse_of_emotions.mp3" type="audio/mpeg">
 </audio>
 
 ### unfeeling - once a bottle of water saved my life
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/509/Songs/unfeeling_-_once_a_bottle_of_water_saved_my_life.mp3" type="audio/mpeg">
 </audio>
 
 ### unfeeling - sedative
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/509/Songs/unfeeling_-_sedative.mp3" type="audio/mpeg">
 </audio>
 
 ## [WangleLine](https://osu.ppy.sh/beatmaps/artists/427)
@@ -289,25 +289,25 @@ Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabb
 ### WangleLine - Building the Spaceship
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Building the Spaceship.mp3" type="audio/mpeg">
 </audio>
 
 ### WangleLine - Through the Lunar Marketplace
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Through the Lunar Marketplace.mp3" type="audio/mpeg">
 </audio>
 
 ### [WangleLine - Strange Relic](https://osu.ppy.sh/beatmapsets/2297377) mapped by [Malai](https://osu.ppy.sh/users/4863096)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine_-_Strange_Relic.mp3" type="audio/mpeg">
 </audio>
 
 ### [Reload feat. Aran P. Ink (WangleLine's "MEGATON MISSILE" Remix)](https://osu.ppy.sh/beatmapsets/1901755) mapped by [hehe](https://osu.ppy.sh/users/2123087)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/427/Songs/queenjazz_-_Reload_feat._Aran_P._Ink_WangleLines_MEGATON_MISSILE_Remix.mp3" type="audio/mpeg">
 </audio>
 
 ## [Waterflame](https://osu.ppy.sh/beatmaps/artists/291)
@@ -319,13 +319,13 @@ Some rabbits gnaw on carrots. Some rabbits chew up lettuce. A very specific rabb
 ### Waterflame - Rampart
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Rampart.mp3" type="audio/mpeg">
 </audio>
 
 ### Waterflame - Clutterfunk 2.2
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Clutterfunk_2.2.mp3" type="audio/mpeg">
 </audio>
 
 ## [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
@@ -337,19 +337,19 @@ Ending things with a bang, [**ZxNX**](https://osu.ppy.sh/beatmaps/artists/288) p
 ### [Xomu & ZxNX - Spiritworks](https://osu.ppy.sh/beatmapsets/2186482) mapped by [Puribi](https://osu.ppy.sh/users/16527257)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/288/Songs/Xomu__ZxNX_-_Spiritworks.mp3" type="audio/mpeg">
 </audio>
 
 ### [Nordius Dystancius - Luxvinore](https://osu.ppy.sh/beatmapsets/2395747) mapped by [Mir](https://osu.ppy.sh/users/8688812)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/288/Songs/Nordius_Dystancius_-_Luxvinore.mp3" type="audio/mpeg">
 </audio>
 
 ### [ZxNX+Delaina - False Fairy Tale](https://osu.ppy.sh/beatmapsets/2032331) mapped by [Raids](https://osu.ppy.sh/users/15640966)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/288/Songs/ZxNXDelaina_-_False_Fairy_Tale.mp3" type="audio/mpeg">
 </audio>
 
 ---
