@@ -233,9 +233,10 @@ You might've already played [*Always a cycle (Hyper)*](https://osu.ppy.sh/beatma
 </audio>
 
 ## [Supire](https://osu.ppy.sh/beatmaps/artists/373)
+
 [![](https://assets.ppy.sh/artists/373/header.jpg)](https://osu.ppy.sh/beatmaps/artists/373)
 
-This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/users/4007649) commissioned a song from breakcore extraordinaire [**Supire**](https://osu.ppy.sh/beatmaps/artists/373) for [osu!taiko Mapping World Cup 2025](/wiki/Contests/TMWC/2025). Afterwards, **Supire** offered the track to his Featured Artist listing! Check out [any of these maps](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Supire%22%20title%3D%22KUKRI%22&s=any), or preview the song below.
+This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/users/4007649) commissioned a song from breakcore extraordinaire [**Supire**](https://osu.ppy.sh/beatmaps/artists/373) for the [osu!taiko Mapping World Cup 2025](/wiki/Contests/TMWC/2025). Afterwards, **Supire** offered the track to his Featured Artist listing! Check out [any of these maps](https://osu.ppy.sh/beatmapsets?q=artist%3D%22Supire%22%20title%3D%22KUKRI%22&s=any), or preview the song below.
 
 ### Supire - KUKRI
 
@@ -247,7 +248,7 @@ This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/user
 
 [![](https://assets.ppy.sh/artists/470/header.jpg)](https://osu.ppy.sh/beatmaps/artists/470)
 
-"You are an entire refrigerator", claims [Pizza69](https://osu.ppy.sh/users/25285704), the mapper of [**Terminal 11**](https://osu.ppy.sh/beatmaps/artists/470)'s [*Cold Storage*](https://osu.ppy.sh/beatmapsets/2421224) for [osu!mania 4K World Cup 2025](/wiki/Tournaments/MWC/2025_4K).
+"You are an entire refrigerator", claims [Pizza69](https://osu.ppy.sh/users/25285704), the mapper of [**Terminal 11**](https://osu.ppy.sh/beatmaps/artists/470)'s [*Cold Storage*](https://osu.ppy.sh/beatmapsets/2421224) for the [osu!mania 4K World Cup 2025](/wiki/Tournaments/MWC/2025_4K).
 
 ### Terminal 11 - Cold Storage
 
@@ -256,6 +257,7 @@ This one is for osu!taiko mappers. Last year, [ikin5050](https://osu.ppy.sh/user
 </audio>
 
 ## [unfeeling](https://osu.ppy.sh/beatmaps/artists/509)
+
 [![](https://assets.ppy.sh/artists/509/header.jpg)](https://osu.ppy.sh/beatmaps/artists/509)
 
 If you were [**unfeeling**](https://osu.ppy.sh/beatmaps/artists/509), you would be producing breakcore every second of the day too. **9** new tracks are part of [**unfeeling**'s Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists/509) today, including the masterpieces below!
