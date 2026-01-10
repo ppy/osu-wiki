@@ -4,7 +4,7 @@
 
 ## Lệnh cấm thi đấu
 
-Lệnh cấm thi đấu ngăn cản một người chơi từ việc tham gia các giải đấu chính thức hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc cung cấp hỗ trợ các giải đấu này.
+Lệnh cấm thi đấu ngăn cản một người chơi từ việc tham gia các giải đấu chính thức hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi có thể tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
 
 Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời hạn kéo dài ít nhất một năm.
 
@@ -12,7 +12,7 @@ Do tính chất quan trọng của việc chơi các giải đấu, các lệnh 
 
 ### Điều gì gây ra khiến ai đó nhận lệnh cấm thi đấu tạm thời? {id=why-temporary} 
 
-Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) cũng có thể gây ra lệnh cấm tham gia giải đấu, ngay cả khi hành vi đó thường chỉ bị xử phạt nhẹ hơn khi xảy ra ngoài phạm vi giải đấu.
+Bất kỳ vi phạm nghiêm trọng nào đối với các [quy tắc cộng đồng](/wiki/Rules) xảy ra trong suốt một [giải đấu hỗ trợ chính thức](/wiki/Tournaments/Official_support) cũng có thể gây ra lệnh cấm thi đấu, ngay cả khi hành vi đó thường chỉ bị xử nhẹ hơn khi xảy ra ngoài phạm vi giải đấu.
 
 Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ hoặc viết các từ ngữ miệt thị/lời lẽ xúc phạm (như swastika, v.v.) bằng khói con trỏ trong các trận đấu phát trực tiếp.
 
@@ -28,7 +28,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 - Sử dụng nhiều tài khoản để tham gia giải đấu
 - Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác
 - Chia sẻ tài khoản trong suốt/trong lúc tham gia một giải đấu hỗ trợ chính thức
-- Âm mưu để thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
+- Kết hợp thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
 - Lạm dụng vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
 - Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức vượt xa phạm vi chỉ trích.
 
