@@ -31,7 +31,7 @@ Once again, reigning champions ::{ flag=KR }:: South Korea managed to take down 
 
 ## How do I register?
 
-![[Click here to register!](https://3wc.shdewz.me/register)](/wiki/shared/news/2026-01-11-3-digit-world-cup-2026-registrations-now-open/register.png)
+[![Click here to register!](/wiki/shared/news/2026-01-11-3-digit-world-cup-2026-registrations-now-open/register.png)](https://3wc.shdewz.me/register)
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is January 25, 18:00 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
 
