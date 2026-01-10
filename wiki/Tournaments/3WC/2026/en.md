@@ -50,8 +50,9 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ## Links
 
-- **Information spreadsheet (PENDING LINK)**
-- Discussion thread (PENDING LINK)
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/17tQOAKWcZsZwJaRJP-3JVEcQJP-16WfaSxVexhYVuDM)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2169669?n=1)
+- [Challonge bracket](https://challonge.com/3WC2026)
 - [Livestream](https://www.twitch.tv/3wc_osu)
 - [VOD collection (YouTube)](https://www.youtube.com/@3wc_osu)
 - [Discord server](https://discord.gg/ZjPs7ya)
