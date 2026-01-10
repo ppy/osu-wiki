@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2023 Fanart Contest
 date: 2023-11-07 11:00:00 +0000
+series: fanart_contests
 ---
 
 The end of the year soon approaches, and what better way to send it off in style than with a feast-themed fanart contest!

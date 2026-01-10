@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2024: Semifinals Recap"
 date: 2024-06-19 20:00:00 +0000
+series: world_cups
 ---
 
 The osu!catch World Cup Semifinals concluded, and we are down to the last 6 teams. Let's summarise what went down during the weekend!

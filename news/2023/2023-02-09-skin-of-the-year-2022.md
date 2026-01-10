@@ -2,6 +2,7 @@
 layout: post
 title: "Skin of the Year 2022: Voting Open"
 date: 2023-02-09 10:00:00 +0000
+series: official_contests
 ---
 
 Do you think you've got what it takes to help select the *best* skins of 2022? Get involved and cast your votes today!

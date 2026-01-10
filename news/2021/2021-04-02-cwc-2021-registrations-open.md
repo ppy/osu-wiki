@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2021: Registrations now open!"
 date: 2021-04-02 16:00:00 +0000
+series: world_cups
 ---
 
 We'd like to welcome all of you to the yearly fruit catching event - the osu!catch World Cup returns for its **tenth** instalment! If you think you've got what it takes and you're a top 5000+ fruit catcher, the registration phase is now in progress, so sign up today!

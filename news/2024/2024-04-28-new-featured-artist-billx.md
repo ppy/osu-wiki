@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Billx"
 date: 2024-04-28 16:00:00 +0000
+series: featured_artists
 ---
 
 **Billx**'s bass-pounding tunes have defined nightlife — initially through shaking the walls of nightclubs after dark, but now through shaking the desks of osu! players at 3:00 AM.

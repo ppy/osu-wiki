@@ -2,6 +2,7 @@
 layout: post
 title: osu! Malaysia @ AniManGaki 2023
 date: 2023-08-22 08:00:00 +0000
+series: offline_events
 ---
 
 The osu! Malaysia community proudly presents its first community-run space happening at [AniManGaki 2023](https://www.animangaki.com/)!

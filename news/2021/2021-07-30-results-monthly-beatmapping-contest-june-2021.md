@@ -2,6 +2,7 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: June 2021 (osu!)"
 date: 2021-07-30 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Is it possible to make a decent map with mainly square patterns? The finalists of the latest Monthly Beatmapping Contest seem to think so. Check the entries out yourself and see who wears the crown!

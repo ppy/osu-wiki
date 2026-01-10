@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: WINTERHORDE"
 date: 2023-01-25 11:00:00 +0000
+series: featured_artists
 ---
 
 Melodic black/death metal band **WINTERHORDE** takes a step into our library of Featured Artists.

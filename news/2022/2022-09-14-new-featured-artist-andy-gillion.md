@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Andy Gillion"
 date: 2022-09-14 10:00:00 +0000
+series: featured_artists
 ---
 
 Guitarist **Andy Gillion** shines onto our Featured Artist collection!

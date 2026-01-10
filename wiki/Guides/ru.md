@@ -8,7 +8,7 @@
 
 - [Гайд по маппингу в osu!mania](osu!mania_mapping_guide)
 - [Добавление нестандартных хитсаундов](Using_custom_hitsounds)
-- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#changing-title-text)
+- [Изменение текста заголовка карты](/wiki/Beatmap/Title_text#настройка)
 - [Как изменить исполнителя или название карты](Changing_the_artist_or_title)
 - [Как начать свой маппинг-проект?](Starting_a_beatmap_project)
 - [Как решить проблемы с BSS?](BSS_issues)
@@ -32,7 +32,6 @@
 ## Игра
 
 - [Как использовать мастер настройки оффсета](How_to_use_the_Offset_Wizard)
-- [Руководство по покупке планшета](Tablet_purchase)
 - [Туториал для начинающих](Beginner's_tutorial)
 
 ## Создание скинов

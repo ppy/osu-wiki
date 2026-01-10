@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2021: Results"
 date: 2022-02-10 10:00:00 +0000
+series: official_contests
 ---
 
 The community has voted, and the results are in! Behold, the Community and Mapper's Favourites of 2021 for each game mode!

@@ -3,6 +3,7 @@ layout: post
 title: osu!taiko mascot voting
 date: 2016-08-22 13:26:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/149319979048/osutaiko-mascot-voting
+series: fanart_contests
 ---
 
 Over the course of a month, we received 67 entries and there have been some amazing submissions, and now, their fates are in your hands.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Carpool Tunnel"
 date: 2019-07-10 02:00:00 +0000
+series: featured_artists
 ---
 
 Splashing into osu! with its own brand of indie surf rock, [**Carpool Tunnel**](https://osu.ppy.sh/beatmaps/artists/42) joins the Featured Artist lineup!

@@ -2,6 +2,7 @@
 layout: post
 title: "The Mappers' Report: April"
 date: 2021-05-13 08:00:00 +0000
+series: mappers_report
 ---
 
 And here we are again, full of news, Ranking Criteria changes and contests. Want to know more? Then grab a seat, have a tea and enjoy your monthly dose of the Mappers’ Report!

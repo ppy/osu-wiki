@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2019: Group Stage Recap"
 date: 2019-07-03 15:00:00 +0000
+series: world_cups
 ---
 
 Summer is upon us and the time is ripe for another fruity fiesta! Featuring the finest catchers and dashers from around the world, the 2019 edition of the osu!catch World Cup is underway! Read on to find out what went down in the Group Stages, and how you can keep up with all of the tournament's delicious developments!

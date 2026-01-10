@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Teminite"
 date: 2020-01-15 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to announce the latest addition to the Featured Artist lineup — the one and only **Teminite**!

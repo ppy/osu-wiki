@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: February 2023"
 date: 2023-02-24 10:00:00 +0000
+series: project_loved
 ---
 
 Come vote on this month's carefully curated selection of beatmaps for the Loved section!

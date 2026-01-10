@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rose Quartz"
 date: 2024-07-06 21:45:00 +0000
+series: featured_artists
 ---
 
 Our pink circle game is only becoming more pink thanks to **Rose Quartz**, our latest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: December 2020"
 date: 2020-12-21 19:40:00 +0000
+series: project_loved
 ---
 
 Check out the December picks for [Project Loved](https://osu.ppy.sh/community/forums/120)! Cast your votes and get some of these bad boys leaderboards as we go into the new year.

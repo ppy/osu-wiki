@@ -4,7 +4,7 @@
 
 Администраторы следят за [трекером задач](https://github.com/ppy/osu-wiki/issues) osu! wiki, а также проверяют правки (пулл-реквесты) от всех желающих. В отличие от остальных пользователей, администраторы могут редактировать чужие пулл-реквесты и применять их к ветке `master`, чтобы изменения были всем видны.
 
-Если у вас есть вопросы по редактированию вики, или вам нужно ревью, обращайтесь в канал `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official), и вам ответит кто-нибудь из участников (все администраторы знают английский).
+Если у вас есть вопросы по редактированию вики, или вам нужно ревью, обращайтесь в канал `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#официальный), и вам ответит кто-нибудь из участников (все администраторы знают английский).
 
 ## Администраторы вики
 
@@ -23,6 +23,7 @@
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | Неактивен | Немецкий |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **Активен** | Японский |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | Неактивен |  |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [MChecaH](https://github.com/MChecaH) | **Активен** | Испанский |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | Неактивен | Испанский |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Неактивен | Французский |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Активен** | Русский |

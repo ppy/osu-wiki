@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: June 2024"
 date: 2024-06-12 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 If you've stared at digital drums or fruits for longer than the average person, you're a perfect fit for this mapping contest. Set your sights on making a top-tier osu!taiko or osu!catch map, then maybe one day you can join the fabled *Elite Mappers*!

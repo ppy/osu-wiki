@@ -21,7 +21,7 @@ tags:
 
 ## Коммуникация
 
-Члены комитета по большей части общаются в [дискорд-сервере Performance Points](https://discord.gg/aqPCnXu), а также в дискорд-серверах, [посвящённых конкретным режимам](/wiki/Community/Discord_servers#community-development). Кроме того, у комитета есть свой [твиттер](https://x.com/pp_committee), где можно прочесть официальные объявления и новости, связанные с алгоритмами оценки сложности.
+Члены комитета по большей части общаются в [дискорд-сервере Performance Points](https://discord.gg/aqPCnXu), а также в дискорд-серверах, [посвящённых конкретным режимам](/wiki/Community/Discord_servers#развитие-сообщества). Кроме того, у комитета есть свой [твиттер](https://x.com/pp_committee), где можно прочесть официальные объявления и новости, связанные с алгоритмами оценки сложности.
 
 ## Мейнтейнеры
 
@@ -85,7 +85,6 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 октября 2023 г. |
 | ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 апреля 2025 г. |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 октября 2023 г. |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 октября 2023 г. |
 
 #### Прошлые участники
@@ -94,6 +93,7 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 октября 2023 г. | 11 декабря 2024 г. |
 | ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 14 октября 2023 г. | 11 декабря 2024 г. |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | 14 октября 2023 г. | 3 сентября 2025 г. |
 
 ### osu!mania
 

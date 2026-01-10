@@ -2,6 +2,7 @@
 layout: post
 title: "A Labour of Love: Voting Open!"
 date: 2021-03-26 09:00:00 +0000
+series: official_contests
 ---
 
 Parade your love for a timeless osu! classic. Vote for your favourite submissions in this multi-layered contest!

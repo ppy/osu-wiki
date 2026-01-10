@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ruby My Dear"
 date: 2023-07-01 11:00:00 +0000
+series: featured_artists
 ---
 
 We don't need an introduction. This is **Ruby My Dear**.

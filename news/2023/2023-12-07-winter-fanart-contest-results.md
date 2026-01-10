@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2023 Fanart Contest Results
 date: 2023-12-07 11:30:00 +0000
+series: fanart_contests
 ---
 
 Winter cheer is finally here, and you're to thank for it!

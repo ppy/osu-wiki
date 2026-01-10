@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: E0ri4"
 date: 2022-11-23 11:00:00 +0000
+series: featured_artists
 ---
 
 **E0ri4** bounces into our Featured Artist catalogue!

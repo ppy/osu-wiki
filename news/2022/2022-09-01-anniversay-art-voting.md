@@ -2,6 +2,7 @@
 layout: post
 title: 15th Anniversary Art Contest Voting Open
 date: 2022-09-01 12:00:00 +0000
+series: fanart_contests
 ---
 
 The artists of the osu! community have put forward **86** amazing pieces of fan art, and with only **15** votes to go around, difficult choices lie ahead!

@@ -27,6 +27,7 @@
 - **Cuando hay varias opciones para los metadatos:**
   - Intenta que coincidan con los de los beatmaps clasificados. Sigue lo más reciente y común, luego verifica que los metadatos sean correctos y corrige lo que sea necesario.
     - Los nombres de los artistas también deben ser consistentes, siempre que no usen alias diferentes intencionalmente.
+    - La capitalización de los marcadores se puede cambiar libremente si se hace para que coincida con el estilo del título y del artista.
   - Se prefieren las romanizaciones/traducciones oficiales para los campos romanizados, siempre que sean fáciles de encontrar y comúnmente reconocidas.
   - En caso de opciones conflictivas, debe realizarse una discusión para determinar cuál sería la mejor opción.
 
@@ -194,7 +195,7 @@ Cuando todo el campo está en mayúsculas o minúsculas, los marcadores pueden u
 - **Los nombres con espacios entre caracteres como `-[M o c h a]-` deben etiquetarse como `-[M_o_c_h_a]-`.**
 - **Las etiquetas deben incluir los siguientes elementos cuando sea necesario:**
   - **Creadores de las [dificultades de invitados](/wiki/Beatmap/Guest_difficulty), storyboarders, skinners y hitsounders.**
-  - **`Featured Artist`, si la canción figura en el [catálogo de los artistas destacados](https://osu.ppy.sh/beatmaps/artists).** No debes usar la etiqueta si la canción no está en el catálogo de los artistas destacados.
+  - **`Featured Artist`, si la canción figura en el [catálogo de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists).** No debes usar la etiqueta si la canción no está en el catálogo de los Artistas Destacados.
   - **Al menos una etiqueta del género de la canción y una etiqueta de idioma.**
     - Para las pistas instrumentales, `instrumental` es la etiqueta de idioma.
     - Para las pistas en idiomas creados artificialmente, añade `conlang` a las etiquetas y usa el nombre del conlang como etiqueta de idioma.

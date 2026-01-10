@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Coffee Hour: osu!taiko Gamemode History"
 date: 2018-03-28 00:00:00 +0000
+series: coffee_hour
 ---
 
 If there's one thing that sets osu! apart from other communities, it's the amount of different stories to be told. This episode of the osu! Coffee Hour will be the second in our Gamemode History series, where we dive into the unique story behind each one. We're dedicating this installment to osu!taiko, the second mode to join the osu! ranks nearly 10 years ago.

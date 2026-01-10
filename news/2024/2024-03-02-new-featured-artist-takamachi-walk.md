@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Takamachi Walk"
 date: 2024-03-02 17:30:00 +0000
+series: featured_artists
 ---
 
 Touhou arrangements are the foundation of niche music scenes. Thanks to **Takamachi Walk**, even more Touhou arrangements are now part of our Featured Artist library!

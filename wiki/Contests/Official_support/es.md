@@ -76,11 +76,11 @@ Los concursos que cumplan los siguientes criterios podrán recibir soporte ofici
 - **Un usuario no puede participar en más de un envío para el concurso.**
 - **Los envíos para el concurso deben ser anónimos.** De esta forma se evita juzgar la asociación de nombres entre un mapper y su mapa. Esta regla solo podrá ignorarse si en un concurso concurren circunstancias especiales que justifiquen la eliminación del anonimato.
 - **Los organizadores del concurso no deben participar en el mismo.** Esto incluye tanto el envío de un mapa *como* la selección y evaluación de los mismos. Se considera como «organizador del concurso» a cualquier persona que tenga acceso a la información de selección/evaluación o a los envíos no anonimizados.
-- **El personal que participe en el concurso, sea cual sea su función, no debe estar [restringido](/wiki/Help_centre/Account_restrictions) o [vetado de los torneos](/wiki/Help_centre/Tournament_bans).**
+- **El personal que participe en el concurso, sea cual sea su función, no debe estar [restringido](/wiki/Help_centre/Account_restrictions) o [vetado de los torneos](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos).**
 
 Además de los criterios anteriores, los concursos que cumplan estas reglas podrán ser elegibles para el soporte oficial de los **[puntos de los concursos](/wiki/Contests/Contest_points) para ganar el título de usuario *Elite Mapper:***
 
-- **El concurso debe usar exclusivamente canciones que figuren en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists) de osu! u otras canciones explícitamente autorizadas para su uso en osu!.**
+- **El concurso debe usar exclusivamente canciones que figuren en la [biblioteca de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) de osu! u otras canciones explícitamente autorizadas para su uso en osu!.**
 - **El anuncio inicial del concurso debe publicarse en la [página frontal de noticias de osu!](https://osu.ppy.sh/home/news) y en el [listado de concursos](https://osu.ppy.sh/community/contests).** Para la posibilidad de obtener el título de *Elite Mapper*, un concurso debe tener la máxima visibilidad posible.
 
 ## Solicitar soporte
@@ -122,8 +122,8 @@ Si bien es posible hacer publicidad y compartir el resultado del concurso a trav
 - Los responsables de redactarlas deben cumplir las reglas de redacción exigidas por nuestros [criterios de estilo para las noticias](/wiki/News_styling_criteria). Por el momento, no se permiten más noticias.
 - Si tu concurso se limita a una región específica, solo podrá recibir soporte de noticias si se trata de una LAN (es decir, un encuentro en persona).
 
-Tanto el comité de concursos como el equipo de noticias de osu! revisarán la idoneidad de las solicitudes para el soporte de noticias.
+Tanto el Comité de Concursos como el equipo de noticias de osu! revisarán la idoneidad de las solicitudes para el soporte de noticias.
 
 ## Notas
 
-[^exception-note]: Se podrán hacer excepciones dependiendo de cada caso y a discreción del [comité de concursos](/wiki/People/Tournament_Committee#comité-de-concursos).
+[^exception-note]: Se podrán hacer excepciones dependiendo de cada caso y a discreción del [Comité de Concursos](/wiki/People/Tournament_Committee#comité-de-concursos).

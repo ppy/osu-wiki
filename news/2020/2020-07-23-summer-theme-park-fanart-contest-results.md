@@ -2,6 +2,7 @@
 layout: post
 title: Summer Theme Park 2020 Fanart Contest Results
 date: 2020-07-23 11:00:00 +0000
+series: fanart_contests
 ---
 
 You voted, and the results are in - check out our winning Summer Theme Park 2020 Fanart Contest entries, now showing in a main menu near you!

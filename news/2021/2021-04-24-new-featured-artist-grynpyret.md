@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Grynpyret"
 date: 2021-04-24 08:00:00 +0000
+series: featured_artists
 ---
 
 **Grynpyret** makes waves as our latest Featured Artist!

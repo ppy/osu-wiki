@@ -3,6 +3,7 @@ layout: post
 title: December 2016 Ranking Charts
 date: 2017-01-19 21:01:49 +0000
 tumblr_url: http://osunews.tumblr.com/post/156093490568/december-2016-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for December 2016 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1612)! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.

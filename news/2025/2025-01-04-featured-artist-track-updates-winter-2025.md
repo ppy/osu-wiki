@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Winter 2025"
 date: 2025-01-04 21:00:00 +0000
+series: featured_artists
 ---
 
 If your New Year's resolution is to become a mapper, a solid first step would be experimenting with any of the **40** songs we added to our Featured Artist library today!

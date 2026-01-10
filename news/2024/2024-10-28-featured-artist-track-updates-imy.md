@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Imy"
 date: 2024-10-28 00:00:00 +0000
+series: featured_artists
 ---
 
 When **Imy** joined our Featured Artist catalogue [4 years ago](https://osu.ppy.sh/home/news/2020-09-16-new-featured-artist-imy), they had [one Ranked map](https://osu.ppy.sh/beatmapsets/1015203). As of now, they have [over 20](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D99), and you can expect that count to increase further now that more songs are officially part of osu!.

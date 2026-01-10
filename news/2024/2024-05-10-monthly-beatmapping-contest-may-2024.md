@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: May 2024"
 date: 2024-05-10 07:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Today marks the start of a new contest, plus two new additions to osu!'s *Elite Mappers*!

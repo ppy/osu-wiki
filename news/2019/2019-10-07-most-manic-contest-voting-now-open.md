@@ -2,6 +2,7 @@
 layout: post
 title: A Most Manic Art Contest Voting Now Open!
 date: 2019-10-07 17:00:00 +0000
+series: fanart_contests
 ---
 
 **85** brave artists have stepped up to the plate with their twin takes on our forthcoming osu!mania mascot revision, and we need YOUR votes to help us figure out who you like the most!

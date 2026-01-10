@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Koven"
 date: 2022-08-17 10:00:00 +0000
+series: featured_artists
 ---
 
 Pairing forces of stellar labels *Liquicity* and [*Monstercat*](https://osu.ppy.sh/beatmaps/artists/255), **Koven** climbs onstage as our newest Featured Artist!

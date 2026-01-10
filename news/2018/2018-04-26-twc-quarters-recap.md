@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko World Cup - Quarterfinals Recap
 date: 2018-04-26 18:00:00 +0000
+series: world_cups
 ---
 
 The osu!taiko World Cup 2018 is well underway as the best of the best face off among themselves for the title of Champion! Missed the matches? Join Eiuh in this handy recap of the Group Stage and Round of 16 to catch up!

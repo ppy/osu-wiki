@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Annabel"
 date: 2022-01-26 09:00:00 +0000
+series: featured_artists
 ---
 
 Vocalist **Annabel** serenades our Featured Artist library!

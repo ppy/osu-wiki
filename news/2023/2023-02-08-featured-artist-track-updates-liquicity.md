@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Liquicity"
 date: 2023-02-08 11:00:00 +0000
+series: featured_artists
 ---
 
 174 BPM never sounded *truly* smooth until **Liquicity** stepped in.

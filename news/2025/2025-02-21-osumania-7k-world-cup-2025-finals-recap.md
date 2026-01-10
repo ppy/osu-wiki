@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2025: Finals Recap"
 date: 2025-02-21 23:59:00 +0000
+series: world_cups
 ---
 
 The last purge before Grand Finals has finished. With only three teams remaining, let us see how we got up to this point!

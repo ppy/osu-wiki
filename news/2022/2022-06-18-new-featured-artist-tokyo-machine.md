@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tokyo Machine"
 date: 2022-06-18 10:00:00 +0000
+series: featured_artists
 ---
 
 **Tokyo Machine** leaps from the [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255) catalogue into our Featured Artists!

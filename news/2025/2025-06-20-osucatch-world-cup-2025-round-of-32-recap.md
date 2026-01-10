@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2025: Round of 32 Recap"
 date: 2025-06-20 22:30:00 +0000
+series: world_cups
 ---
 
 Weekly CWC recaps are back! Tune in to check out everything that's happened, starting with the Round of 32 and its exciting matches.

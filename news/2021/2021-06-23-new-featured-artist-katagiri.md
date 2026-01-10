@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: katagiri"
 date: 2021-06-23 08:00:00 +0000
+series: featured_artists
 ---
 
 **katagiri** breaks through the doors to the Featured Artist lineup!

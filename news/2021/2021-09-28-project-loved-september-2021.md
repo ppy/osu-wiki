@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: September 2021"
 date: 2021-09-28 20:00:00 +0000
+series: project_loved
 ---
 
 With a new season comes the September iteration of Project Loved!

@@ -4,6 +4,8 @@ tags:
   - beatmap submission system issues
   - Я не могу отправить свою карту на рассмотрение!
   - проблемы с beatmap submission system
+outdated_translation: true
+outdated_since: 325c441d7a67e45daa10ec8d91295e17c1f54999
 ---
 
 # Как решить проблемы с BSS?

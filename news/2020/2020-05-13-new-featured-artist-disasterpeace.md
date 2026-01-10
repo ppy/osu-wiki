@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Disasterpeace"
 date: 2020-05-13 04:00:00 +0000
+series: featured_artists
 ---
 
 We're setting off on a new adventure with **Disasterpeace**, our latest Featured Artist!

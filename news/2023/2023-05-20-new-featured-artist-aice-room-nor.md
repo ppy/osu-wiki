@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aice room / Nor"
 date: 2023-05-20 11:00:00 +0000
+series: featured_artists
 ---
 
 Renovations are complete. The newest branch of our Featured Artist library, **Aice room**, is ready for visitors!

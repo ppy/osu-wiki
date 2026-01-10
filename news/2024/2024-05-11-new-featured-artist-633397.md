@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 633397"
 date: 2024-05-11 20:00:00 +0000
+series: featured_artists
 ---
 
 This isn't part of an address or a postal code. **633397** is our latest Featured Artist!

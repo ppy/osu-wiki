@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: UNDEAD CORPORATION"
 date: 2019-08-10 12:00:00 +0000
+series: featured_artists
 ---
 
 The Empress beckons. [**UNDEAD CORPORATION**](https://osu.ppy.sh/beatmaps/artists/45) shambles into the Featured Artist line-up with over a hundred tracks to choose from!

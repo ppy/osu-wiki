@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of November 10th"
 date: 2019-11-12 22:00:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) is back on the menu. Make yourself feel right at home!

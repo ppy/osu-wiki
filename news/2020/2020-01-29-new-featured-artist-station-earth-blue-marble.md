@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Station Earth / Blue Marble"
 date: 2020-01-29 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome the auditory artisans behind **Station Earth** and **Blue Marble** aboard as our latest combined Featured Artist!

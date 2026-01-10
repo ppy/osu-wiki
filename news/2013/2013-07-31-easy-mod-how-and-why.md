@@ -3,6 +3,7 @@ layout: post
 title: "Easy Mod: How and Why"
 date: 2013-07-31 05:50:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/56948486143/easy-mod-how-and-why
+series: miscellaneous
 ---
 
 The Easy mod is notorious for actually making most maps harder, creating massive overlaps and unreadable patterns, all in exchange for nearly halving your final score. But if you take the time to learn it and take advantage of its special features, is it really that useless?

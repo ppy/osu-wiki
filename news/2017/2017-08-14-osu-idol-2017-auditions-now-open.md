@@ -2,6 +2,7 @@
 layout: post
 title: osu!idol 2017 Auditions Now Open
 date: 2017-08-14 03:50:00 +0000
+series: official_contests
 ---
 
 Do you like singing? How about taking part in a singing competition? Show your talent to the osu!world and become this year's osu!idol!

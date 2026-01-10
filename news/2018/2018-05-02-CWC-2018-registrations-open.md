@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2018: Registrations now open!"
 date: 2018-05-03 01:00:00 +0000
+series: world_cups
 ---
 
 Fruits dropping, catchers dashing and commentators making _juicy_ puns on every single match. Here comes this time of the year again as the osu!catch World Cup 2018 registration phase begins!

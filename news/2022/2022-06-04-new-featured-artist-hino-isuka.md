@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Hino Isuka"
 date: 2022-06-04 13:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to pull **Hino Isuka** into our ever-growing Featured Artist collection!

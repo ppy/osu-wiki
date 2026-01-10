@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: ELFENSJoN"
 date: 2025-03-02 20:15:00 +0000
+series: featured_artists
 ---
 
 There are more songs being produced every minute than you could possible listen to. Lucky for you, **ELFENSJoN**'s latest batch of J-Rock tracks is all any mapper could ask for.

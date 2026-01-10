@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: 17 February to 2 March"
 date: 2019-03-06 22:50:00 +0000
+series: scorewatch
 ---
 
 It's Scorewatch time! With an abundance of scores from the past weeks, this post showcases the best of the plays from osu!'s top talents. Check it out!

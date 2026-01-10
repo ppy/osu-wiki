@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: KOAN Sound"
 date: 2019-09-20 01:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **KOAN Sound** aboard as our latest Featured Artist! 16 tracks now available, including all of their latest album, *Intervals Above*!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2024: Finals Recap"
 date: 2024-09-25 22:00:00 +0000
+series: world_cups
 ---
 
 Tune in to see the results of last weekend's matches, get familiar with the podium finishers, and get ready for the Grand Finale spectacle!

@@ -2,7 +2,7 @@
 
 El **desafío diario** es un modo multijugador de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) en el que los jugadores pueden acumular una racha al pasar beatmaps diarios consecutivos con una dificultad creciente, la cual se reinicia cada 7 días.
 
-Los beatmaps del desafío diario son seleccionados por un grupo de contribuidores y se componen principalmente de temas de los [artistas destacados](/wiki/People/Featured_Artists). En ciertas ocasiones, estos beatmaps pueden venir con un mod impuesto a los usuarios, lo que les obliga a pasar el beatmap con el mod seleccionado.
+Los beatmaps del desafío diario son seleccionados por un grupo de contribuidores y se componen principalmente de temas de los [Artistas Destacados](/wiki/People/Featured_Artists). En ciertas ocasiones, estos beatmaps pueden venir con un mod impuesto a los usuarios, lo que les obliga a pasar el beatmap con el mod seleccionado.
 
 Los desafíos diarios actuales y todos los anteriores pueden verse en la [página de las tablas de clasificación de los desafíos diarios en el sitio web](https://osu.ppy.sh/rankings/daily-challenge).
 
@@ -42,9 +42,9 @@ Las rachas de juego se muestran en el perfil del usuario con diferentes colores 
 
 El proyecto está organizado por ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). Los siguientes miembros de la comunidad son responsables de elegir los beatmaps:
 
+- ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
 - ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)

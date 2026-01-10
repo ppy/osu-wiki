@@ -4,11 +4,11 @@ tags:
   - comité de pp
 ---
 
-# Comité de puntos de rendimiento
+# Comité de Puntos de Rendimiento
 
-El **comité de puntos de rendimiento** es un panel de jugadores y desarrolladores expertos que facilitan y aprueban las actualizaciones de los [puntos de rendimiento](/wiki/Performance_points) y algoritmos de la [calificación por estrellas](/wiki/Beatmap/Star_rating). Su objetivo es ayudar a los [desarrolladores de osu!](/wiki/People/Developers) a impulsar los cambios más rápido y con más coordinación comunitaria.
+El **Comité de Puntos de Rendimiento** es un panel de jugadores y desarrolladores expertos que facilitan y aprueban las actualizaciones de los [puntos de rendimiento](/wiki/Performance_points) y algoritmos de la [calificación por estrellas](/wiki/Beatmap/Star_rating). Su objetivo es ayudar a los [desarrolladores de osu!](/wiki/People/Developers) a impulsar los cambios más rápido y con más coordinación comunitaria.
 
-Las responsabilidades del comité de puntos de rendimiento incluyen:
+Las responsabilidades del Comité de Puntos de Rendimiento incluyen:
 
 - Organizar el desarrollo y ayudar a los contribuidores
 - Revisar y desarrollar cambios en los algoritmos de cálculo de las dificultades, garantizando la satisfacción de la comunidad
@@ -17,11 +17,11 @@ Las responsabilidades del comité de puntos de rendimiento incluyen:
 
 ## Flujo de trabajo
 
-Cuando se propone un nuevo cambio en el cálculo de las dificultades en [GitHub](https://github.com/ppy/osu), se solicita a los miembros del comité de puntos de rendimiento responsables del [modo de juego](/wiki/Game_mode) correspondiente que lo revisen. Luego, esos miembros del comité revisan y prueban la propuesta y escriben sus comentarios en dicha página de GitHub. Si el comité decide aprobar los cambios, la propuesta pasará a los mantenedores de puntos de rendimiento para una revisión final antes de que se fusione en el juego.
+Cuando se propone un nuevo cambio en el cálculo de las dificultades en [GitHub](https://github.com/ppy/osu), se solicita a los miembros del Comité de Puntos de Rendimiento responsables del [modo de juego](/wiki/Game_mode) correspondiente que lo revisen. Luego, esos miembros del comité revisan y prueban la propuesta y escriben sus comentarios en dicha página de GitHub. Si el comité decide aprobar los cambios, la propuesta pasará a los mantenedores de puntos de rendimiento para una revisión final antes de que se fusione en el juego.
 
 ## Comunicación
 
-El comité de puntos de rendimiento opera principalmente en el [servidor de Discord Performance Points](https://discord.gg/aqPCnXu), aunque algunos modos de juego también cuentan con [servidores independientes](/wiki/Community/Discord_servers#servidores-relacionados-con-el-desarrollo-de-la-comunidad). El comité también tiene una cuenta de [Twitter](https://x.com/pp_committee) que se usa para anuncios oficiales y noticias relacionadas con el cálculo de las dificultades.
+El Comité de Puntos de Rendimiento opera principalmente en el [servidor de Discord Performance Points](https://discord.gg/aqPCnXu), aunque algunos modos de juego también cuentan con [servidores independientes](/wiki/Community/Discord_servers#desarrollo-de-la-comunidad). El comité también tiene una cuenta de [Twitter](https://x.com/pp_committee) que se usa para anuncios oficiales y noticias relacionadas con el cálculo de las dificultades.
 
 ## Mantenedores de puntos de rendimiento
 
@@ -83,7 +83,6 @@ El comité de osu!catch se formó el 14 de octubre de 2023.
 | :-- | :-- | :-- |
 | ::{ flag=FR }:: [bastoo0](https://osu.ppy.sh/users/4864877) | [bastoo0](https://github.com/bastoo0) | 14 de octubre de 2023 |
 | ::{ flag=RU }:: [KitsunIvy](https://osu.ppy.sh/users/7055384) | [wulpine](https://github.com/wulpine) | 23 de abril de 2025 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [SecreOsu](https://github.com/SecreOsu) | 14 de octubre de 2023 |
 | ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) | [Flawnpiece](https://github.com/Flawnpiece) | 14 de octubre de 2023 |
 
 #### Miembros anteriores
@@ -92,6 +91,7 @@ El comité de osu!catch se formó el 14 de octubre de 2023.
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [Sorceress](https://osu.ppy.sh/users/1913190) | 14 de octubre de 2023 | 11 de diciembre de 2024 |
 | ::{ flag=GB }:: [Zoggoth](https://osu.ppy.sh/users/2799946) | 14 de octubre de 2023 | 11 de diciembre de 2024 |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | 14 de octubre de 2023 | 3 de septiembre de 2025 |
 
 ### osu!mania
 

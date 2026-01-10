@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: GYZE"
 date: 2021-03-17 09:00:00 +0000
+series: featured_artists
 ---
 
 Legendary metal act **GYZE** crashlands into the Featured Artist lineup!

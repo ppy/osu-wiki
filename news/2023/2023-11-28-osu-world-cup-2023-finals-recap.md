@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2023: Finals Recap"
 date: 2023-11-28 21:00:00 +0000
+series: world_cups
 ---
 
 The strongest teams have had their runs, yet before the end face an ultimatum to decide who will compete on the final stage.

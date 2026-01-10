@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: March 2024"
 date: 2024-03-17 23:30:00 +0000
+series: project_loved
 ---
 
 Celebrate St. Patrick's Day with some jolly Loved picks!

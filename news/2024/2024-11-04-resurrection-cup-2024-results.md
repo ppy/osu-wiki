@@ -2,6 +2,7 @@
 layout: post
 title: Resurrection Cup 2024 Results
 date: 2024-11-04 21:00:00 +0000
+series: community_tournaments
 ---
 
 Let's take a look back at one of the great tournaments of the year.

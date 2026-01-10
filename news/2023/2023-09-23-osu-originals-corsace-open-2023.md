@@ -2,6 +2,7 @@
 layout: post
 title: osu! originals - Corsace Open 2023
 date: 2023-09-23 12:00:00 +0000
+series: featured_artists
 ---
 
 **Corsace** — the powerhouse behind years of community tournaments and events — is making its mark in our Featured Artist catalogue with **9** original tracks!

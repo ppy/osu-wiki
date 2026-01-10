@@ -2,6 +2,7 @@
 layout: post
 title: "KEL LAN Tournament 3: Signups Now Open!"
 date: 2024-11-18 12:00:00 +0000
+series: offline_events
 ---
 
 Attention, circle clickers! Join us in Poland for the third edition of the KEL Tournament — an exciting in-person major event featuring special guests!
