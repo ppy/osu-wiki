@@ -46,7 +46,7 @@ Se recomienda recibir mods antes de solicitar nominaciones de BN, pero el único
 
 La calificación es un proceso mediante el cual los beatmaps que reciben suficientes nominaciones se trasladan a la categoría [calificados](/wiki/Beatmap/Category#qualified). Los beatmaps con un solo [modo de juego](/wiki/Game_mode) principal entre todas las [dificultades](/wiki/Beatmap#dificultad) solo necesitan dos nominaciones, mientras que los beatmaps híbridos[^hybrid-sets] necesitan dos nominaciones para el [modo de juego principal](#main-mode) y una para cada modo secundario.
 
-Los beatmaps calificados reciben una mayor exposición ante la comunidad de osu! como paso final de **control de calidad** antes de pasar a ser [clasificados](/wiki/Beatmap/Category#ranked) de forma permanente. Esta es la etapa más habitual en la que los beatmaps reciben un amplio seguimiento, opiniones y mejoras si se detectan problemas. Durante este periodo:
+Los beatmaps calificados reciben una mayor exposición ante la comunidad de osu! como paso final del **control de calidad** antes de pasar a ser [clasificados](/wiki/Beatmap/Category#ranked) de forma permanente. Esta es la etapa más habitual en la que los beatmaps reciben un amplio seguimiento, opiniones y mejoras si se detectan problemas. Durante este periodo:
 
 - Los miembros de la comunidad pueden probar o modear un beatmap, y luego proporcionar su opinión e informar de problemas[^report-correctly] a través de la página de discusión del beatmap.
 - Los BN y el NAT reciben automáticamente notificaciones de todas las sugerencias y problemas. Los usuarios que hayan habilitado las notificaciones para nuevos problemas en los beatmaps calificados también recibirán una notificación.
@@ -65,7 +65,7 @@ En el caso de los beatmaps híbridos[^hybrid-sets], el modo de juego principal s
 
 ### Restablecimiento de nominaciones
 
-Las nominaciones pueden restablecerse cuando el creador actualiza su beatmap o cuando un miembro de los BN o el NAT detecta un problema en un beatmap nominado. También pueden ser restablecidas por los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) con fines de moderación. Si la nominación se restablece mientras un beatmap está calificado, será *descalificado* (comúnmente abreviado como *DQ*) y eliminado de la [cola de clasificación](Ranking_queue) para volver a Pendiente. Todas las nominaciones del beatmap también serán eliminadas. Solo los miembros de los BN, NAT y GMT pueden descalificar beatmaps calificados.
+Las nominaciones pueden restablecerse cuando el creador actualiza su beatmap o cuando un miembro de los BN o el NAT detecta un problema en un beatmap nominado. También pueden ser restablecidas por los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) con fines de moderación. Si la nominación se restablece mientras un beatmap está calificado, será *descalificado* (comúnmente abreviado como *DQ*) y eliminado de la [cola de clasificación](Ranking_queue) para volver a la categoría pendiente. Todas las nominaciones del beatmap también serán eliminadas. Solo los miembros de los BN, NAT y GMT pueden descalificar beatmaps calificados.
 
 Los restablecimientos de las nominaciones permiten al anfitrión realizar cambios en el beatmap antes de solicitar una nueva nominación. También ayuda a garantizar que los modders, BN y miembros del NAT comprueben la versión más actualizada de un beatmap antes de que entre en la [cola de clasificación](Ranking_queue).
 
@@ -82,4 +82,4 @@ Los beatmaps clasificados solo se desclasifican en circunstancias excepcionales,
 ## Notas
 
 [^hybrid-sets]: Los beatmaps híbridos son beatmaps con dificultades en múltiples modos de juego.
-[^report-correctly]: Para saber cómo informar correctamente sobre algún problema, véase: [Comportamiento y conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#comportamiento-y-conducta) junto con [Discusión de beatmaps - Campo de envío](/wiki/Beatmap_discussion#campo-de-envío)
+[^report-correctly]: Para saber cómo reportar correctamente algún problema, véase: [Comportamiento y conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#comportamiento-y-conducta) junto con [Discusión de beatmaps - Campo de envío](/wiki/Beatmap_discussion#campo-de-envío)
