@@ -12,7 +12,7 @@ tags:
 
 La **cola de clasificación** gestiona el movimiento de [beatmaps](/wiki/Beatmap) de [calificados](/wiki/Beatmap/Category#qualified) a [clasificados](/wiki/Beatmap/Category#ranked). Cada día, alrededor de 16 beatmaps de cada [modo de juego](/wiki/Game_mode) pueden pasar de ser calificados a ser clasificados.
 
-Se establece un temporizador de 7 días cuando un beatmap es calificado. Cuenta cuántos días debe permanecer un beatmap calificado antes de que pueda ser clasificado. Cuando el temporizador de un beatmap llega a cero, es elegible para ser clasificado ese día. La hora exacta del día en que se clasifican los beatmaps es aleatoria.
+Un temporizador de 7 días se establece cuando un beatmap es calificado. Cuenta cuántos días debe permanecer un beatmap calificado antes de que pueda ser clasificado. Cuando el temporizador de un beatmap llega a cero, es elegible para ser clasificado ese día. La hora exacta del día en que se clasifican los beatmaps es aleatoria.
 
 Los problemas o sugerencias publicados en la página de discusión de un beatmap no detendrán el contador, pero impedirán que se clasifique una vez que el contador llegue a cero en 7 días. Una vez que se hayan resuelto todos los problemas y sugerencias, el beatmap podrá ser clasificado.
 
