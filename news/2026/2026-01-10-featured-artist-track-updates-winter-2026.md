@@ -25,7 +25,7 @@ Click on any artist's banner to head to their full music listing, where you can 
 - [**Helblinde**](#helblinde)
 - [**hikota**](#hikota)
 - [**Kobaryo**](#kobaryo)
-- [**Kry.exe**](#kryexe)
+- [**Kry.exe**](#kry.exe)
 - [**Ne Obliviscaris**](#ne-obliviscaris)
 - [**SiLiS**](#silis)
 - [**Simon Safhalter**](#simon-safhalter)
