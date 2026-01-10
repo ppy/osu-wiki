@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: Winter 2026"
-date: 2026-01-10 05:00:00 +0000
+date: 2026-01-10 20:10:00 +0000
 series: featured_artists
 ---
 
