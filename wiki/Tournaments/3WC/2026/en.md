@@ -60,7 +60,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ### Conduct
 
-1. All spaces affiliated with 3WC (including this page) are subject to the [osu! community rules](https://osu.ppy.sh/wiki/Rules) as well as the rules of the respective platforms themselves.
+1. All spaces affiliated with 3WC (including this page) are subject to the [osu! community rules](/wiki/Rules) as well as the rules of the respective platforms themselves.
 2. Players are expected to uphold a competitive and friendly environment, and to treat tournament staff and other players with respect.
    - This includes keeping matches running smoothly and avoiding deliberate delays.
 3. Any foul play, including but not limited to: cheating, bracket manipulation, or failure to cooperate in match rescheduling, is strictly prohibited.
