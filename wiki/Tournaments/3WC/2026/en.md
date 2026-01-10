@@ -50,8 +50,8 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ## Links
 
-- **[Information spreadsheet](PENDING LINK)**
-- [Discussion thread](PENDING LINK)
+- **Information spreadsheet (PENDING LINK)**
+- Discussion thread (PENDING LINK)
 - [Livestream](https://www.twitch.tv/3wc_osu)
 - [VOD collection (YouTube)](https://www.youtube.com/@3wc_osu)
 - [Discord server](https://discord.gg/ZjPs7ya)
@@ -112,7 +112,7 @@ The 3 Digit World Cup 2026 is run by various community members.
    - Captains are encouraged to, should there be more than 6 signups for their country, conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - Users responsible for organising their country's tryouts are encouraged to contact the tournament organisers to be elected as provisional captains for their team.
-3. To ensure valid registrations, every prospective participant will go through [tournament screening](https://osu.ppy.sh/wiki/Tournaments/Official_support#tournament-screening); violation of the [osu! community rules](https://osu.ppy.sh/wiki/Rules) within the previous 12 months or an active tournament ban may void a player's eligibility to participate.
+3. To ensure valid registrations, every prospective participant will go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening); violation of the [osu! community rules](/wiki/Rules) within the previous 12 months or an active tournament ban may void a player's eligibility to participate.
    - Individuals who are unhappy with the results of screening should contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request more information about their case.
 4. Tournament staff members are not allowed to play in the tournament, with the exception of commentators, streamers, and designers.
    - The tournament organisers must ensure that such staff members do not have access to any privileged data, e.g. qualifier score information, or mappool information before the mappool showcase.
@@ -120,7 +120,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool will consist of 5 brackets: [No Mod](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier#no-mod), [Hidden](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Hidden), [Hard Rock](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Hard_Rock), [Double Time](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Double_Time), and [Free Mod](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier#free-mod).
+2. Each mappool will consist of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [Free Mod](/wiki/Gameplay/Game_modifier#free-mod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
    - Group stage and Round of 16: 15 beatmaps
@@ -132,7 +132,7 @@ The 3 Digit World Cup 2026 is run by various community members.
    - Easy scores will be multiplied with a per-beatmap custom multiplier. These will be noted in the comments of the mappool page next to each map.
 6. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirement.
    - Tiebreakers will not feature custom Easy multipliers.
-7. Failed scores will be counted in their entirety. To that end, the [No Fail](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+7. Failed scores will be counted in their entirety. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that disregard this instruction by choosing to play without at least one No Fail and fail as a result will forfeit the map.
 
 ### Qualifier instructions
