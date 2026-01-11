@@ -12,11 +12,11 @@ Welcome to the recap of the osu!taiko Mapping World Cup 2025!
 The osu!taiko Mapping World Cup 2025 was the 2nd iteration, following in the footsteps of the already successful [osu!taiko Mapping World Cup](https://osu.ppy.sh/home/news/2024-12-02-osutaiko-mapping-world-cup-2024-concludes) back in 2024.
 This country-based, multi-stage osu!taiko mapping contest aims to crown which nation is the best at creating osu!taiko beatmaps.
 
-Find out more about the **osu!taiko Mapping World Cup 2025** on the [wiki page](https://osu.ppy.sh/wiki/en/Contests/TMWC/2025).
+Find out more about the **osu!taiko Mapping World Cup 2025** on the [wiki page](/wiki/Contests/TMWC/2025/en.md).
 
 ## Summary
 
-![osu!taiko Mapping World Cup 2025 Podium](/wiki/shared/news/2026-01-12-osutaiko-mapping-world-cup-2025-concludes/TMWC25_podium.jpg)
+![osu!taiko Mapping World Cup 2025 Podium](/wiki/shared/news/2026-01-12-osutaiko-mapping-world-cup-2025-concludes/TMWC25_Podium.jpg)
 
 Please give a round of applause to the winners of the osu!taiko Mapping World Cup 2025!
 
