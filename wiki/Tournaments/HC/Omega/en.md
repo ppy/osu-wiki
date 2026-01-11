@@ -110,7 +110,7 @@ This competition has come to an end and resulted in the following podium:
 - Free Mod
   - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Expert]](https://osu.ppy.sh/beatmapsets/859783#osu/1849505)
 
-## Group Heats results
+## Group heats results
 
 | Heat | Players |
 | :-: | :-- |
