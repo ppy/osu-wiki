@@ -27,7 +27,7 @@ Wenn man mit der Maus über die Leistungskurve in der [Ergebnisanzeige](/wiki/Cl
 
 ## Mit geschwindigkeitsändernden Mods
 
-Während des Spiels werden die zur Berechnung der Streuung genutzten Trefferfehler nicht anhand der Echtzeit, sondern anhand der Zeit in der [Beatmap](wiki/Beatmap) gemessen. Wenn man also [Mods](/wiki/Gameplay/Game_modifier), die die Geschwindigkeit der Beatmap verändern, verwendet (wie zum Beispiel [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) oder [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)), wird im Endeffekt die Streuung der Echtzeiteingaben mit dieser Geschwindigkeitsänderung multipliziert.
+Während des Spiels werden die zur Berechnung der Streuung genutzten Trefferfehler nicht anhand der Echtzeit, sondern anhand der Zeit in der [Beatmap](/wiki/Beatmap) gemessen. Wenn man also [Mods](/wiki/Gameplay/Game_modifier), die die Geschwindigkeit der Beatmap verändern, verwendet (wie zum Beispiel [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) oder [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)), wird im Endeffekt die Streuung der Echtzeiteingaben mit dieser Geschwindigkeitsänderung multipliziert.
 
 Viele Leute verlassen sich beim Vergleichen der Streuungswerte von mehreren Spielen mit verschiedenen Mods auf das inoffizielle Konzept der **konvertierten Streuung** (im Englischen **converted unstable rate** oder kurz ***cv. UR***), bei der die Geschwindigkeitsänderung durch die Mods herausgerechnet wird.
 
