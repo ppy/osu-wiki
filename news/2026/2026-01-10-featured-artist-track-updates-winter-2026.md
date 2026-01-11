@@ -60,7 +60,7 @@ If you're up to a challenge, try the maps yourself:
 
 [![](https://assets.ppy.sh/artists/246/header.jpg)](https://osu.ppy.sh/beatmaps/artists/246)
 
-Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/artists/246)'s listing in-part because of [2025's osu!catch World Cup mappools](/wiki/Tournaments/CWC/2025#mappools)! *Ready for Breakdown* was used early in the tournament, and while we were at it, we also snagged *Love Pills* for... reasons. You'll understand when you're older.
+Just like **Culprate**, we expanded [**EmoCosine**](https://osu.ppy.sh/beatmaps/artists/246)'s listing in part because of [2025's osu!catch World Cup mappools](/wiki/Tournaments/CWC/2025#mappools)! *Ready for Breakdown* was used early in the tournament, and while we were at it, we also snagged *Love Pills* for... reasons. You'll understand when you're older.
 
 ### [EmoCosine - Ready for Breakdown](https://osu.ppy.sh/beatmapsets/2388341#fruits/5168359) mapped by [Xinnoh](https://osu.ppy.sh/users/4236057)
 
