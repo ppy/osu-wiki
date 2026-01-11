@@ -27,8 +27,6 @@ Let's see how they did! And if you're only here for the epic new Featured Artist
 
 After 4 weeks of judging, here are your finalists of each game mode! In a huge surprise, osu!taiko actually had the most valid entries of any game mode. 
 
-Note: "Team Names" are the name of the first anonymised mapper as seen in the list below. The order of the anonymised names corresponds to the revealed mapper name.
-
 ### Livestream showcase
 
 Today, on January 11, we hosted a Twitch livestream to showcase all of the maps of the contest, with judge commentary for much of it! If you missed it, you can watch the full VOD below, featuring commentary from the judges and host!
@@ -108,9 +106,9 @@ All difficulties must be 100% collaborative. Contributions to each difficulty sh
 
 If you were to come up with a list of the most standout new VOCALOID producers of 2025, ePiaeon would certainly come to mind, thanks to his most recent song, *FLOP ERA*, absolutely topping the VOCALOID music charts at the end of 2025.
 
-A composer of dreamy tunes that hails from Indonesia, ePiaeon is a relatively newer VOCALOID producer, having released their first song that featured a vocal synthesizer, *A r g o T r a i n*, in 2023. Since then, they've released a variety of songs showcasing their ability to tune nearly any vocal synthesizer, from known ones like Hatsune Miku, to ***completel::{ flag=US }:: [y u](https://osu.ppy.sh/users/30360950)nheard*** of ones like Kasane Teto!
+A composer of dreamy tunes that hails from Indonesia, ePiaeon is a relatively newer VOCALOID producer, having released their first song that featured a vocal synthesizer, *A r g o T r a i n*, in 2023. Since then, they've released a variety of songs showcasing their ability to tune nearly any vocal synthesizer, from known ones like Hatsune Miku, to ***completely unheard*** of ones like Kasane Teto!
 
-Check out all **4** of the available tracks on [**ePiaeon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/519), each pre-timed to help you start mapping right away (especiall::{ flag=US }:: [y u](https://osu.ppy.sh/users/30360950)seful if you're one of the above VMC3 contestants!)
+Check out all **4** of the available tracks on [**ePiaeon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/519), each pre-timed to help you start mapping right away (especially useful if you're one of the above VMC3 contestants!)
 
 Check out [Ryuusei Aika](https://osu.ppy.sh/users/7777875)'s [mapset of *FLOP ERA*](https://osu.ppy.sh/beatmapsets/2448751#osu/5352303) in this cool video!
 
