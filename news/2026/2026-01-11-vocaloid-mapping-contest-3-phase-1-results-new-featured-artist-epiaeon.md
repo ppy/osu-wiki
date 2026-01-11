@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vocaloid Mapping Contest 3 Phase 1 Results & New Featured Artist: ePiaeon"
-date: 2026-01-10 20:15:00 +0000
+date: 2026-01-11 20:15:00 +0000
 series: featured_artists
 ---
 
