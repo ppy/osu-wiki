@@ -6,7 +6,7 @@ tags:
 
 # Vocaloid Mapping Contest 3
 
-![VMC banner](/wiki/shared/news/2025-10-05-vocaloid-mapping-contest-3/banner.jpg)
+![VMC banner](img/banner.jpg)
 
 The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team (VAT). Its purpose is to *promote VOCALOID, UTAU, and other vocal synth music*, giving both popular and overlooked songs a chance to shine.
 
