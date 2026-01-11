@@ -97,10 +97,11 @@ If you were listed above... congratulations! You have progressed to *phase 2*!
 You and your teammate are now tasked with creating a full, rankable spread for our third (and final) brand-new Featured Artist: **[ePiaeon](https://osu.ppy.sh/beatmaps/artists/519)**! **ePiaeon** gave us early insight to his most recent song, *FLOP ERA*, for use within this contest. Many may already know of it, as it blew up in popularity!
 
 Your submission will need to include a full spread for *FLOP ERA*. Specifically, the submission must include...
- - **osu!:** 4 difficulties in total (Normal, Hard, Insane and Extra)
- - **osu!taiko:** 3 difficulties in total (Muzukashii, Oni and Inner Oni)
- - **osu!catch:** 3 difficulties in total (Platter, Rain, Overdose or provide a proper spread containing at least 3 difficulties)
- - **osu!mania**: 3 difficulties in total (where each key mode and play style must either include a difficulty at Hard or lower, or provide a proper spread containing at least 3 difficulties)
+
+- **osu!:** 4 difficulties in total (Normal, Hard, Insane and Extra)
+- **osu!taiko:** 3 difficulties in total (Muzukashii, Oni and Inner Oni)
+- **osu!catch:** 3 difficulties in total (Platter, Rain, Overdose or provide a proper spread containing at least 3 difficulties)
+- **osu!mania**: 3 difficulties in total (where each key mode and play style must either include a difficulty at Hard or lower, or provide a proper spread containing at least 3 difficulties)
 
 All difficulties must be 100% collaborative. Contributions to each difficulty should be approximately evenly split 50/50. Difficulties in excess of the required spread as seen above are not permitted. Any excessive spread gaps created as a result of this can be ignored, so as to not restrict the mapping of higher difficulties.
 
