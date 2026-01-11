@@ -35,68 +35,61 @@ Today, on January 11, we hosted a Twitch livestream to showcase all of the maps 
 
 ### osu! results
 
-You can see the final standardised results [here](https://osu.ppy.sh/community/contests/261).
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/261)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
-| 1st | Garden and iBell | [Everything will be broken. & Darling](https://assets.ppy.sh/contests/261/entries/osz/Everything%20will%20be%20broken.%20%26%20Darling%20%28Garden%20and%20iBell%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66694/results) |
-| 2nd | CebollaVladimir and Kyle Y | [Umitagari & imperfect person](https://assets.ppy.sh/contests/261/entries/osz/Umitagari%20%26%20imperfect%20person%20%28CebollaVladimir%20and%20Kyle%20Y%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66692/results) |
-| 3rd | alvearia and Daycore | [Magical Doctor & Tatakina](https://assets.ppy.sh/contests/261/entries/osz/Magical%20Doctor%20%26%20Tatakina%20%28alvearia%20and%20Daycore%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66689/results) |
-| 4th | nominomu and Amefystol | [imperfect person & Magical Doctor](https://assets.ppy.sh/contests/261/entries/osz/imperfect%20person%20%26%20Magical%20Doctor%20%28nominomu%20and%20Amefystol%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66695/results) |
-| 5th | Evil- and Cris- | [New Darling & End Of Fake!](https://assets.ppy.sh/contests/261/entries/osz/New%20Darling%20%26%20End%20Of%20Fake%21%20%28Evil-%20and%20Cris-%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66693/results) |
-| 6th | Alty and Phten02 | [imperfect person & Darling](https://assets.ppy.sh/contests/261/entries/osz/imperfect%20person%20%26%20Darling%20%28Alty%20and%20Phten02%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66688/results) |
-| 7th | AndAda and Sharqosity | [New Darling & imperfect person](https://assets.ppy.sh/contests/261/entries/osz/New%20Darling%20%26%20imperfect%20person%20%28AndAda%20and%20Sharqosity%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66690/results) |
-| 8th | Asai Rumi and TetoTeTeto | [Mind Brand & Tatakina](https://assets.ppy.sh/contests/261/entries/osz/Mind%20Brand%20%26%20Tatakina%20%28Asai%20Rumi%20and%20TetoTeTeto%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/261/entries/66691/results) |
- 
-Complete judging comments and individual map scoring is available [here]().
+| 1st | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) and ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072) | [Everything will be broken. & Darling](https://assets.ppy.sh/contests/261/entries/osz/Everything%20will%20be%20broken.%20%26%20Darling%20%28Garden%20and%20iBell%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66694/results) |
+| 2nd | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238) and ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | [Umitagari & imperfect person](https://assets.ppy.sh/contests/261/entries/osz/Umitagari%20%26%20imperfect%20person%20%28CebollaVladimir%20and%20Kyle%20Y%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66692/results) |
+| 3rd | ::{ flag=RU }:: [alvearia](https://osu.ppy.sh/users/6248691) and ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | [Magical Doctor & Tatakina](https://assets.ppy.sh/contests/261/entries/osz/Magical%20Doctor%20%26%20Tatakina%20%28alvearia%20and%20Daycore%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66689/results) |
+| 4th | ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380) and ::{ flag=LT }:: [Amefystol](https://osu.ppy.sh/users/26748801) | [imperfect person & Magical Doctor](https://assets.ppy.sh/contests/261/entries/osz/imperfect%20person%20%26%20Magical%20Doctor%20%28nominomu%20and%20Amefystol%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66695/results) |
+| 5th | ::{ flag=CL }:: [Evil-](https://osu.ppy.sh/users/10234313) and ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | [New Darling & End Of Fake!](https://assets.ppy.sh/contests/261/entries/osz/New%20Darling%20%26%20End%20Of%20Fake%21%20%28Evil-%20and%20Cris-%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66693/results) |
+| 6th | ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988) and ::{ flag=JP }:: [Phten02](https://osu.ppy.sh/users/16678364) | [imperfect person & Darling](https://assets.ppy.sh/contests/261/entries/osz/imperfect%20person%20%26%20Darling%20%28Alty%20and%20Phten02%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66688/results) |
+| 7th | ::{ flag=US }:: [AndAda](https://osu.ppy.sh/users/10574844) and ::{ flag=US }:: [Sharqosity](https://osu.ppy.sh/users/6292234) | [New Darling & imperfect person](https://assets.ppy.sh/contests/261/entries/osz/New%20Darling%20%26%20imperfect%20person%20%28AndAda%20and%20Sharqosity%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66690/results) |
+| 8th | ::{ flag=GB }:: [Asai Rumi](https://osu.ppy.sh/users/3399877) and ::{ flag=KR }:: [TetoTeTeto](https://osu.ppy.sh/users/17006877) | [Mind Brand & Tatakina](https://assets.ppy.sh/contests/261/entries/osz/Mind%20Brand%20%26%20Tatakina%20%28Asai%20Rumi%20and%20TetoTeTeto%29.osz) | [View](https://osu.ppy.sh/community/contests/261/entries/66691/results) |
 
 ### osu!taiko results
 
-You can see the final standardised results [here](https://osu.ppy.sh/community/contests/262).
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/262)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
-| 1rd | _gt and Irone OSU | [SIU & Everything will be broken.](https://assets.ppy.sh/contests/262/entries/osz/SIU%20%26%20Everything%20will%20be%20broken.%20%28_gt%20and%20Irone%20OSU%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66703/results) |
-| 2nd | Jaltzu and SN707 | [Tatakina & White Happy](https://assets.ppy.sh/contests/262/entries/osz/Tatakina%20%26%20White%20Happy%20%28Jaltzu%20and%20SN707%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66699/results) |
-| 3rd | Molybdenum and Kin | [White Happy & feel empty!](https://assets.ppy.sh/contests/262/entries/osz/White%20Happy%20%26%20feel%20empty%21%20%28Molybdenum%20and%20Kin%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66700/results) |
-| 4th | Cynplytholowazy and MTNTWarz | [imperfect person & Magical Doctor](https://assets.ppy.sh/contests/262/entries/osz/imperfect%20person%20%26%20Magical%20Doctor%20%28Cynplytholowazy%20and%20MTNTWarz%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66697/results) |
-| 5th | chmekoe and uone | [White Happy & Tatakina](https://assets.ppy.sh/contests/262/entries/osz/White%20Happy%20%26%20Tatakina%20%28chmekoe%20and%20uone%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66696/results) |
-| 6th | Solor and Nintendo 64 | [End Of Fake! & Umitagari](https://assets.ppy.sh/contests/262/entries/osz/End%20Of%20Fake%21%20%26%20Umitagari%20%28Solor%20and%20Nintendo%2064%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66701/results) |
-| 7th | Foco_ and Gamelan4 | [Packet Hero & Everything will be broken.](https://assets.ppy.sh/contests/262/entries/osz/Packet%20Hero%20%26%20Everything%20will%20be%20broken.%20%28Foco_%20and%20Gamelan4%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66698/results) |
-| 8th | _wholesome and h3oCharles | [Tatakina & Packet Hero](https://assets.ppy.sh/contests/262/entries/osz/Tatakina%20%26%20Packet%20Hero%20%28_wholesome%20and%20h3oCharles%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66704/results) |
-| 9th | tasuke912 and miyagishima | [Packet Hero & Tatakina](https://assets.ppy.sh/contests/262/entries/osz/Packet%20Hero%20%26%20Tatakina%20%28tasuke912%20and%20miyagishima%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/262/entries/66702/results) |
+| 1rd | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) and ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | [SIU & Everything will be broken.](https://assets.ppy.sh/contests/262/entries/osz/SIU%20%26%20Everything%20will%20be%20broken.%20%28_gt%20and%20Irone%20OSU%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66703/results) |
+| 2nd | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) and ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | [Tatakina & White Happy](https://assets.ppy.sh/contests/262/entries/osz/Tatakina%20%26%20White%20Happy%20%28Jaltzu%20and%20SN707%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66699/results) |
+| 3rd | ::{ flag=US }:: [Molybdenum](https://osu.ppy.sh/users/14708449) and ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | [White Happy & feel empty!](https://assets.ppy.sh/contests/262/entries/osz/White%20Happy%20%26%20feel%20empty%21%20%28Molybdenum%20and%20Kin%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66700/results) |
+| 4th | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825) | [imperfect person & Magical Doctor](https://assets.ppy.sh/contests/262/entries/osz/imperfect%20person%20%26%20Magical%20Doctor%20%28Cynplytholowazy%20and%20MTNTWarz%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66697/results) |
+| 5th | ::{ flag=IT }:: [chmekoe](https://osu.ppy.sh/users/7807444) and ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | [White Happy & Tatakina](https://assets.ppy.sh/contests/262/entries/osz/White%20Happy%20%26%20Tatakina%20%28chmekoe%20and%20uone%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66696/results) |
+| 6th | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) and ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748) | [End Of Fake! & Umitagari](https://assets.ppy.sh/contests/262/entries/osz/End%20Of%20Fake%21%20%26%20Umitagari%20%28Solor%20and%20Nintendo%2064%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66701/results) |
+| 7th | ::{ flag=EC }:: [Foco\_](https://osu.ppy.sh/users/11481057) and ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) | [Packet Hero & Everything will be broken.](https://assets.ppy.sh/contests/262/entries/osz/Packet%20Hero%20%26%20Everything%20will%20be%20broken.%20%28Foco_%20and%20Gamelan4%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66698/results) |
+| 8th | ::{ flag=US }:: [\_wholesome](https://osu.ppy.sh/users/19119172) and ::{ flag=PL }:: [h3oCharles](https://osu.ppy.sh/users/8712289) | [Tatakina & Packet Hero](https://assets.ppy.sh/contests/262/entries/osz/Tatakina%20%26%20Packet%20Hero%20%28_wholesome%20and%20h3oCharles%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66704/results) |
+| 9th | ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767) and ::{ flag=JP }:: [miyagishima](https://osu.ppy.sh/users/8027517) | [Packet Hero & Tatakina](https://assets.ppy.sh/contests/262/entries/osz/Packet%20Hero%20%26%20Tatakina%20%28tasuke912%20and%20miyagishima%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66702/results) |
  
 Complete judging comments and individual map scoring is available [here]().
 
 ### osu!catch results
 
-You can see the final standardised results [here](https://osu.ppy.sh/community/contests/263).
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/263)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
-| 1st | Unlucky_w and -Ken | [Magical Doctor & Tatakina](https://assets.ppy.sh/contests/263/entries/osz/Magical%20Doctor%20%26%20Tatakina%20%28Unlucky_w%20and%20-Ken%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/263/entries/66707/results) |
-| 2nd | Mniam and Spectator | [End Of Fake! & New Darling](https://assets.ppy.sh/contests/263/entries/osz/End%20Of%20Fake%21%20%26%20New%20Darling%20%28Mniam%20and%20Spectator%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/263/entries/66705/results) |
-| 3rd | Snow_summer_ and SadEgg | [New Darling & Tatakina](https://assets.ppy.sh/contests/263/entries/osz/New%20Darling%20%26%20Tatakina%20%28Snow_summer_%20and%20SadEgg%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/263/entries/66706/results) |
- 
-Complete judging comments and individual map scoring is available [here]().
+| 1st | ::{ flag=CA }:: [Unlucky\_w](https://osu.ppy.sh/users/4820793) and ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | [Magical Doctor & Tatakina](https://assets.ppy.sh/contests/263/entries/osz/Magical%20Doctor%20%26%20Tatakina%20%28Unlucky_w%20and%20-Ken%29.osz) | [View](https://osu.ppy.sh/community/contests/263/entries/66707/results) |
+| 2nd | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) and ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | [End Of Fake! & New Darling](https://assets.ppy.sh/contests/263/entries/osz/End%20Of%20Fake%21%20%26%20New%20Darling%20%28Mniam%20and%20Spectator%29.osz) | [View](https://osu.ppy.sh/community/contests/263/entries/66705/results) |
+| 3rd | ::{ flag=TW }:: [Snow\_summer\_](https://osu.ppy.sh/users/15037158) and ::{ flag=CA }:: [SadEgg](https://osu.ppy.sh/users/10278243) | [New Darling & Tatakina](https://assets.ppy.sh/contests/263/entries/osz/New%20Darling%20%26%20Tatakina%20%28Snow_summer_%20and%20SadEgg%29.osz) | [View](https://osu.ppy.sh/community/contests/263/entries/66706/results) |
 
 ### osu!mania results
 
-You can see the final standardised results [here](https://osu.ppy.sh/community/contests/264).
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/264)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
-| 1st | Lott and Micleak | [Everything will be broken. & PINK](https://assets.ppy.sh/contests/264/entries/osz/Everything%20will%20be%20broken.%20%26%20PINK%20%28Lott%20and%20Micleak%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66711/results) |
-| 2nd | xstra and Reihynn | [Magical Doctor & imperfect person](https://assets.ppy.sh/contests/264/entries/osz/Magical%20Doctor%20%26%20imperfect%20person%20%28xstra%20and%20Reihynn%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66712/results) |
-| 3rd | Kurisu Makise and Hoshimegu Mio | [Everything will be broken. & White Happy](https://assets.ppy.sh/contests/264/entries/osz/Everything%20will%20be%20broken.%20%26%20White%20Happy%20%28Kurisu%20Makise%20and%20Hoshimegu%20Mio%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66710/results) |
-| 4th | y u and Kanomi | [Tatakina & Scrumize](https://assets.ppy.sh/contests/264/entries/osz/Tatakina%20%26%20Scrumize%20%28y%20u%20and%20Kanomi%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66713/results) |
-| 5th | Znow and N4iveDx | [imperfect person & Coin Locker Baby](https://assets.ppy.sh/contests/264/entries/osz/imperfect%20person%20%26%20Coin%20Locker%20Baby%20%28Znow%20and%20N4iveDx%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66714/results) |
-| 6th | GamerChris and jazzman123 | [Coin Locker Baby & imperfect person](https://assets.ppy.sh/contests/264/entries/osz/Coin%20Locker%20Baby%20%26%20imperfect%20person%20%28GamerChris%20and%20jazzman123%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66708/results) |
-| 7th | Hydria and -Enma- | [Coin Locker Baby & imperfect person](https://assets.ppy.sh/contests/264/entries/osz/Coin%20Locker%20Baby%20%26%20imperfect%20person%20%28Hydria%20and%20-Enma-%29.osz) | [Scores and comments](https://osu.ppy.sh/community/contests/264/entries/66709/results) |
-
+| 1st | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) and ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | [Everything will be broken. & PINK](https://assets.ppy.sh/contests/264/entries/osz/Everything%20will%20be%20broken.%20%26%20PINK%20%28Lott%20and%20Micleak%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66711/results) |
+| 2nd | ::{ flag=CA }:: [xstra](https://osu.ppy.sh/users/13106165) and ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) | [Magical Doctor & imperfect person](https://assets.ppy.sh/contests/264/entries/osz/Magical%20Doctor%20%26%20imperfect%20person%20%28xstra%20and%20Reihynn%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66712/results) |
+| 3rd | ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) and ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | [Everything will be broken. & White Happy](https://assets.ppy.sh/contests/264/entries/osz/Everything%20will%20be%20broken.%20%26%20White%20Happy%20%28Kurisu%20Makise%20and%20Hoshimegu%20Mio%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66710/results) |
+| 4th | ::{ flag=US }:: [y u](https://osu.ppy.sh/users/30360950) and ::{ flag=JP }:: [Kanomi](https://osu.ppy.sh/users/37694048) | [Tatakina & Scrumize](https://assets.ppy.sh/contests/264/entries/osz/Tatakina%20%26%20Scrumize%20%28y%20u%20and%20Kanomi%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66713/results) |
+| 5th | ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) and ::{ flag=MX }:: [N4iveDx](https://osu.ppy.sh/users/21340543) | [imperfect person & Coin Locker Baby](https://assets.ppy.sh/contests/264/entries/osz/imperfect%20person%20%26%20Coin%20Locker%20Baby%20%28Znow%20and%20N4iveDx%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66714/results) |
+| 6th | ::{ flag=VN }:: [GamerChris](https://osu.ppy.sh/users/36042814) and ::{ flag=US }:: [jazzman123](https://osu.ppy.sh/users/31943070) | [Coin Locker Baby & imperfect person](https://assets.ppy.sh/contests/264/entries/osz/Coin%20Locker%20Baby%20%26%20imperfect%20person%20%28GamerChris%20and%20jazzman123%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66708/results) |
+| 7th | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) and ::{ flag=RU }:: [-Enma-](https://osu.ppy.sh/users/34587251) | [Coin Locker Baby & imperfect person](https://assets.ppy.sh/contests/264/entries/osz/Coin%20Locker%20Baby%20%26%20imperfect%20person%20%28Hydria%20and%20-Enma-%29.osz) | [View](https://osu.ppy.sh/community/contests/264/entries/66709/results) |
  
-Complete judging comments and individual map scoring is available [here]().
-
 ## VMC3 phase 2: DUET
 
 If you were listed above... congratulations! You have progressed to *phase 2*!
@@ -115,9 +108,9 @@ All difficulties must be 100% collaborative. Contributions to each difficulty sh
 
 If you were to come up with a list of the most standout new VOCALOID producers of 2025, ePiaeon would certainly come to mind, thanks to his most recent song, *FLOP ERA*, absolutely topping the VOCALOID music charts at the end of 2025.
 
-A composer of dreamy tunes that hails from Indonesia, ePiaeon is a relatively newer VOCALOID producer, having released their first song that featured a vocal synthesizer, *A r g o T r a i n*, in 2023. Since then, they've released a variety of songs showcasing their ability to tune nearly any vocal synthesizer, from known ones like Hatsune Miku, to ***completely unheard*** of ones like Kasane Teto!
+A composer of dreamy tunes that hails from Indonesia, ePiaeon is a relatively newer VOCALOID producer, having released their first song that featured a vocal synthesizer, *A r g o T r a i n*, in 2023. Since then, they've released a variety of songs showcasing their ability to tune nearly any vocal synthesizer, from known ones like Hatsune Miku, to ***completel::{ flag=US }:: [y u](https://osu.ppy.sh/users/30360950)nheard*** of ones like Kasane Teto!
 
-Check out all **4** of the available tracks on [**ePiaeon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/519), each pre-timed to help you start mapping right away (especially useful if you're one of the above VMC3 contestants!)
+Check out all **4** of the available tracks on [**ePiaeon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/519), each pre-timed to help you start mapping right away (especiall::{ flag=US }:: [y u](https://osu.ppy.sh/users/30360950)seful if you're one of the above VMC3 contestants!)
 
 Check out [Ryuusei Aika](https://osu.ppy.sh/users/7777875)'s [mapset of *FLOP ERA*](https://osu.ppy.sh/beatmapsets/2448751#osu/5352303) in this cool video!
 
