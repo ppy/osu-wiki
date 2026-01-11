@@ -52,15 +52,13 @@ Today, on January 11, we hosted a Twitch livestream to showcase all of the maps 
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
-| 1rd | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) and ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | [SIU & Everything will be broken.](https://assets.ppy.sh/contests/262/entries/osz/SIU%20%26%20Everything%20will%20be%20broken.%20%28_gt%20and%20Irone%20OSU%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66703/results) |
+| 1st | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) and ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | [SIU & Everything will be broken.](https://assets.ppy.sh/contests/262/entries/osz/SIU%20%26%20Everything%20will%20be%20broken.%20%28_gt%20and%20Irone%20OSU%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66703/results) |
 | 2nd | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) and ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | [Tatakina & White Happy](https://assets.ppy.sh/contests/262/entries/osz/Tatakina%20%26%20White%20Happy%20%28Jaltzu%20and%20SN707%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66699/results) |
 | 3rd | ::{ flag=US }:: [Molybdenum](https://osu.ppy.sh/users/14708449) and ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | [White Happy & feel empty!](https://assets.ppy.sh/contests/262/entries/osz/White%20Happy%20%26%20feel%20empty%21%20%28Molybdenum%20and%20Kin%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66700/results) |
 | 4th | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825) | [imperfect person & Magical Doctor](https://assets.ppy.sh/contests/262/entries/osz/imperfect%20person%20%26%20Magical%20Doctor%20%28Cynplytholowazy%20and%20MTNTWarz%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66697/results) |
 | 5th | ::{ flag=IT }:: [chmekoe](https://osu.ppy.sh/users/7807444) and ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | [White Happy & Tatakina](https://assets.ppy.sh/contests/262/entries/osz/White%20Happy%20%26%20Tatakina%20%28chmekoe%20and%20uone%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66696/results) |
 | 6th | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) and ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748) | [End Of Fake! & Umitagari](https://assets.ppy.sh/contests/262/entries/osz/End%20Of%20Fake%21%20%26%20Umitagari%20%28Solor%20and%20Nintendo%2064%29.osz) | [View](https://osu.ppy.sh/community/contests/262/entries/66701/results) |
  
-Complete judging comments and individual map scoring is available [here]().
-
 ### osu!catch results
 
 [**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/263)
