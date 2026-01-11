@@ -96,6 +96,8 @@ Your submission will need to include a full spread for *FLOP ERA*. Specifically,
 
 All difficulties must be 100% collaborative. Contributions to each difficulty should be approximately evenly split 50/50. Difficulties in excess of the required spread as seen above are not permitted. Any excessive spread gaps created as a result of this can be ignored, so as to not restrict the mapping of higher difficulties.
 
+Your submissions for this round are due on **22 February 2026 @ 11:59pm UTC**. Good luck!
+
 ## New Featured Artist: ePiaeon
 
 If you were to come up with a list of the most standout new VOCALOID producers of 2025, ePiaeon would certainly come to mind, thanks to his most recent song, *FLOP ERA*, absolutely topping the VOCALOID music charts at the end of 2025.
