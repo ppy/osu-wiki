@@ -7,7 +7,7 @@ series: featured_artists
 
 We've all been waiting for the results of the first phase of the Vocaloid Mapping Contest, and they're finally here!
 
-![]()
+![](/wiki/shared/news/2026-01-11-vocaloid-mapping-contest-3-phase-1-results-new-featured-artist-epiaeon/banner.jpg)
 
 Just in case you missed it, the Vocaloid Mapping Contest is a [two-phase contest that started in September](https://osu.ppy.sh/home/news/2025-10-05-vocaloid-mapping-contest-3) to highlight two new Featured Artists.
 
