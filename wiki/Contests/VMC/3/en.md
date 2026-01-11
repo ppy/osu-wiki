@@ -63,7 +63,8 @@ Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the con
 
 ### osu! results
 
-View the [results and scores on the contest page](https://osu.ppy.sh/community/contests/261).
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/261).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/1LU46D4zfCN5QDLqe1qMmUhar5pkSc3-cIOu2X_g7_GQ/edit?usp=sharing).
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
@@ -78,7 +79,8 @@ View the [results and scores on the contest page](https://osu.ppy.sh/community/c
 
 ### osu!taiko results
 
-View the [results and scores on the contest page](https://osu.ppy.sh/community/contests/262).
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/262).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/1Xjw1uGK5_Ful_Dr9KCS6h7xVUyVxKNAjogMnjYBV7ss/edit?usp=sharing).
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
@@ -94,7 +96,8 @@ View the [results and scores on the contest page](https://osu.ppy.sh/community/c
 
 ### osu!catch results
 
-View the [results and scores on the contest page](https://osu.ppy.sh/community/contests/263).
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/263).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/18kNgoiH1mHng1Yx0TQjcIVqTaLwgU9euGobwzvgtmMI/edit?usp=sharing).
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
@@ -104,7 +107,8 @@ View the [results and scores on the contest page](https://osu.ppy.sh/community/c
 
 ### osu!mania results
 
-View the [results and scores on the contest page](https://osu.ppy.sh/community/contests/264).
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/264).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/1sPpcx49bUitY2oC-zrvR3SCN6dnE_t6gdRMqJVIhR3w/edit?usp=sharing).
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |

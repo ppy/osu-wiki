@@ -31,9 +31,14 @@ After 4 weeks of judging, here are your finalists of each game mode! In a huge s
 
 Today, on January 11, we hosted a Twitch livestream to showcase all of the maps of the contest, with judge commentary for much of it! If you missed it, you can watch the full VOD below, featuring commentary from the judges and host!
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2667414653&t=00h04m20s" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+
 ### osu! results
 
-[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/261)
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/261)\
+[**Click here to view all judge comments!**](https://docs.google.com/spreadsheets/d/1LU46D4zfCN5QDLqe1qMmUhar5pkSc3-cIOu2X_g7_GQ/edit?usp=sharing)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
@@ -48,7 +53,8 @@ Today, on January 11, we hosted a Twitch livestream to showcase all of the maps 
 
 ### osu!taiko results
 
-[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/262)
+[**Click here to view the full results and download the maps!**](https://osu.ppy.sh/community/contests/262)\
+[**Click here to view all judge comments!**](https://docs.google.com/spreadsheets/d/1Xjw1uGK5_Ful_Dr9KCS6h7xVUyVxKNAjogMnjYBV7ss/edit?usp=sharing)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
@@ -61,7 +67,8 @@ Today, on January 11, we hosted a Twitch livestream to showcase all of the maps 
  
 ### osu!catch results
 
-[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/263)
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/263)\
+[**Click here to view all judge comments!**](https://docs.google.com/spreadsheets/d/18kNgoiH1mHng1Yx0TQjcIVqTaLwgU9euGobwzvgtmMI/edit?usp=sharing)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
@@ -71,7 +78,8 @@ Today, on January 11, we hosted a Twitch livestream to showcase all of the maps 
 
 ### osu!mania results
 
-[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/264)
+[**Click here to view the full results and scores!**](https://osu.ppy.sh/community/contests/264)\
+[**Click here to view all judge comments!**](https://docs.google.com/spreadsheets/d/1sPpcx49bUitY2oC-zrvR3SCN6dnE_t6gdRMqJVIhR3w/edit?usp=sharing)
 
 | # | Team | Entry | Results |
 | :-: | :-- | :-- | :-- |
