@@ -29,7 +29,7 @@ Für die Nutzung des Dienstes war keine Registrierung erforderlich und jeder kon
 - `#video`
 - `#wallpaper`
 
-Sobald eine Datei veröffentlicht wurde, wurde sie zu einem festen Teil der Plattform und konnte vom hochladenden Nutzer weder gelöscht noch bearbeitet werden. Genauso wie auf [Reddit](/wiki/Community/Reddit) konnten diese Beiträge von anderen Nutzern kommentiert sowie hoch- oder runtergewählt werden.
+Sobald eine Datei veröffentlicht wurde, wurde sie zu einem festen Teil der Plattform und konnte vom hochladenden Nutzer weder gelöscht noch bearbeitet werden. Genauso wie auf [Reddit](/wiki/Community/Reddit) konnten Nutzer unter diesen Beiträgen Kommentare hinterlassen sowie eine positive oder negative Bewertung vergeben.
 
 ## Stilllegung
 
