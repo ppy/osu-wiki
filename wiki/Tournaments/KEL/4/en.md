@@ -58,6 +58,25 @@ tags:
 - [YouTube channel](https://www.youtube.com/@KELtournaments)
 - [Tournament bracket](https://liquipedia.net/osu/KEL/4#Results)
 
+## Mappools
+
+### Qualifiers
+
+- No Mod
+  1. [USAO - TAPIOCA (Realazy) [Fury]](https://osu.ppy.sh/beatmapsets/1267298#osu/2633754)
+  2. [xi - Jackknife (Akali) [Throatslitter]](https://osu.ppy.sh/beatmapsets/560660#osu/1185587)
+  3. [Itou Miku - Shocking Blue (My Angel Jeremy) [Radiant Resonance]](https://osu.ppy.sh/beatmapsets/2123966#osu/4463730)
+  4. [BEMANI Sound Team "L.E.D." - GRAVITON (Ishtiaq) [Nulspace perihelion]](https://osu.ppy.sh/beatmapsets/1846696#osu/3793473)
+- Hidden
+  1. [FELT - Summer Fever (Camo) [Shimmering Sky]](https://osu.ppy.sh/beatmapsets/1888937#osu/4133726)
+  2. [FLAVOR FOLEY - WEIWARD ROMANCE (Ixcors) [SHANGHAI MOONLIGHT]](https://osu.ppy.sh/beatmapsets/2451807#osu/5356021)
+- Hard Rock
+  1. [sumika - Kagen No Tsuki (-Kirigiri) [Crescent]](https://osu.ppy.sh/beatmapsets/1925697#osu/3976196)
+  2. [Magnetude - Signals (Firebool) [1 GHz]](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)
+- Double Time
+  1. [Kano - Stella-rium (Moeka) [Starlight]](https://osu.ppy.sh/beatmapsets/356821#osu/785097)
+  2. [EPICA - Wings of Freedom (Luscent) [Alis Libertatis]](https://osu.ppy.sh/beatmapsets/1774219#osu/3632759)
+
 ## Ruleset
 
 ### General information
