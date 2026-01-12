@@ -207,7 +207,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [View the showcase VOD here](https://www.twitch.tv/videos/2667622438?t=1h31m26s)
 
 - Rice
-  1. *Hino Isuka - Wonderful Paradise (pwhk) \[Another\] (link pending)*
+  1. [Hino Isuka - Wonderful Paradise (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/2491965#mania/5475207)
   2. [cygnus - Bloody Mary (Kurisu Makise) \[Bloody Brackets\]](https://osu.ppy.sh/beatmapsets/2491942#mania/5475146)
   3. [sana - Sayounara, Hanadorobou-san (Cut ver.) (ExNeko) \[Farewell\]](https://osu.ppy.sh/beatmapsets/2491925#mania/5475117)
   4. *KORDHELL x VALORANT - VYSE (Slowpoke104) \[WITH ME\] (link pending)*
@@ -215,9 +215,9 @@ The final standings for the Qualifier stage can be found in the following [sprea
 - Long Note
   1. [hotpotatoes & eva gomi tenshi - Endless Summer (SurfChu85) \[Everlasting Warmth\]](https://osu.ppy.sh/beatmapsets/2491940#mania/5475144)
   2. [Lin Xiao An - Tan Yun Xi (ExNeko) \[fate\]](https://osu.ppy.sh/beatmapsets/2491926#mania/5475120)
-  3. *Kitamura Eri - Happy Girl (MapleSyrup-) \[Eternal Happiness (MWC ver.)\] (link pending)*
+  3. [Kitamura Eri - Happy Girl (MapleSyrup-) \[Eternal Happiness (MWC ver.)\]](https://osu.ppy.sh/beatmapsets/2491963#mania/5475201)
 - Hybrid
-  1. *yassu feat. Komiya Mao - Midnight Driving (swlie) \[0w0(MWC Edit)\] (link pending)*
+  1. [yassu feat. Komiya Mao - Midnight Driving (swlie) \[0w0(MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2491969#mania/5475219)
   2. [SUGAR RUSH - Irodori Canvas (\_Kobii) \[Colorful\]](https://osu.ppy.sh/beatmapsets/2491927#mania/5475122)
   3. [katagiri - Higashi (Kurisu Makise) \[Extra (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2491943#mania/5475147)
 - Extreme
@@ -225,7 +225,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [Qutabire - Stone pavement and Signposts (Lung\_P) \[New start!! (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2491958#mania/5475187)
   3. [SHIKI - SEPIA -Ver.BM9820A- (sankansuki) \[Distant Shore\]](https://osu.ppy.sh/beatmapsets/2491934#mania/5475135)
 - Tiebreaker
-  1. *Kanpyohgo - Mannen Okigasa ni Gochui o -Festive Extended- (\_Yiiiii) \[Really Not Scary\] (temporary link)*
+  1. **[Kanpyohgo - Mannen Okigasa ni Gochui o -Festive Extended- (\_Yiiiii) \[Really Not Scary\]](https://osu.ppy.sh/beatmapsets/2491959#mania/5475197)**
 
 ### Qualifiers
 
