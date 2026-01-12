@@ -204,13 +204,14 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Round of 32
 
+**[Download the mappack here (71 MB)](https://packs.ppy.sh/P309%20-%20osu%21mania%207K%20World%20Cup%202026%3A%20Round%20of%2032.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2667622438?t=1h31m26s)
 
 - Rice
   1. [Hino Isuka - Wonderful Paradise (pwhk) \[Another\]](https://osu.ppy.sh/beatmapsets/2491965#mania/5475207)
   2. [cygnus - Bloody Mary (Kurisu Makise) \[Bloody Brackets\]](https://osu.ppy.sh/beatmapsets/2491942#mania/5475146)
   3. [sana - Sayounara, Hanadorobou-san (Cut ver.) (ExNeko) \[Farewell\]](https://osu.ppy.sh/beatmapsets/2491925#mania/5475117)
-  4. *KORDHELL x VALORANT - VYSE (Slowpoke104) \[WITH ME\] (link pending)*
+  4. [KORDHELL x VALORANT - VYSE (Slowpoke104) \[WITH ME\]](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288)
   5. [yukitani - Amusing Colorful Pudding. (Rurvker) \[Sweetness (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2491946#mania/5475161)
 - Long Note
   1. [hotpotatoes & eva gomi tenshi - Endless Summer (SurfChu85) \[Everlasting Warmth\]](https://osu.ppy.sh/beatmapsets/2491940#mania/5475144)
