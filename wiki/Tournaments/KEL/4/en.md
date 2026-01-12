@@ -16,8 +16,8 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2025-10-17/2026-01-11 |
-| Qualifiers | 2026-01-12/2026-01-26 |
-| Screening phase | 2026-01-26/2026-02-09 |
+| Qualifiers | 2026-01-12/2026-02-09 |
+| Screening phase | 2026-02-10/2026-02-20 |
 | Round of 32, Round of 16, Quarterfinals | 2026-03-14 |
 | Semifinals, Finals, Grand Finals | 2026-03-15 |
 
@@ -72,7 +72,7 @@ tags:
 
 1. Players must select a lobby from the sign-up spreadsheet. Lobbies are open to anyone as long as there's an empty slot.
    - Players must notify hosts of their lobby choice in the Discord channel using the pinned prompt.
-2. The final Qualifier lobby must begin no later than January 26th.
+2. The final Qualifier lobby must begin no later than February 9th.
 3. If a player does not show up to their scheduled Qualifier lobby, they may play in any other lobby.
 4. Maps will be played in the listed order as shown on the mappool spreadsheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
 5. Players have 120 seconds to ready up before each map.

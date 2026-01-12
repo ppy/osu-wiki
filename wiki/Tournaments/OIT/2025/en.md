@@ -44,7 +44,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 | Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
 | Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
 | Mappool selector | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
-| Custom mapper | *to be announced* |
+| Custom mapper | ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), *more to be announced* |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
 | Playtester | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
@@ -63,7 +63,56 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 - [Challonge brackets](https://challonge.com/oit2025)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
+## Participants
+
+Listed below are the players who managed to qualify into the Round of 16 (along with their respective seed number and aggregated Z-sum across all twelve Qualifier beatmaps) out of 70 participating players in total.
+
+The complete list of player registrations can be found [here](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?gid=1137664518#gid=1137664518).
+
+| Seed no. | Player | Z-sum |
+| :-- | :-- | :-- |
+| 1 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | 11.32 |
+| 2 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | 11.23 |
+| 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | 10.92 |
+| 4 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | 10.70 |
+| 5 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.62 |
+| 6 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | 10.36 |
+| 7 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | 10.27 |
+| 8 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | 9.67 |
+| 9 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | 9.03 |
+| 10 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | 8.91 |
+| 11 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | 8.73 |
+| 12 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | 8.59 |
+| 13 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | 8.40 |
+| 14 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | 8.27 |
+| 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
+| 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
+
 ## Mappools
+
+### Round of 16
+
+- No Mod
+  1. [KOKO - Watashi o Matou (Dailycare) \[Vernal\]](https://osu.ppy.sh/beatmapsets/2272223#osu/4840263)
+  2. [Kevin Sherwood - 115 (Cut Ver.) (fieryrage) \[Aetherium\]](https://osu.ppy.sh/beatmapsets/1457103#osu/2994682)
+  3. [Tsukuyomi - Noisy Rainy (Petal) \[Ame\]](https://osu.ppy.sh/beatmapsets/2254451#osu/4795591)
+  4. [Nanahira - Twinkle.Password (tukamoto7km) \[xbopost & tukamoto7km\]](https://osu.ppy.sh/beatmapsets/1184159#osu/2468593)
+  5. [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Shizuku's Expert\]](https://osu.ppy.sh/beatmapsets/932654#osu/1989990)
+- Hidden
+  1. [Kinoko Teikoku - Kokudou Slope (3y3s) \[January\]](https://osu.ppy.sh/beatmapsets/1989175#osu/5393040)
+  2. [paraoka feat. haru\*nya - Manimani (Cut ver.) (Cellina) \[Hananoiro\]](https://osu.ppy.sh/beatmapsets/2008891#osu/4179280)
+  3. [REDALiCE feat. MONICO - Breakin' Chain (Heilia) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/1863044#osu/3947753)
+- Hard Rock
+  1. [sheirara - -ERROR (Nakazawa) \[404 (Tournament Edit)\]](https://osu.ppy.sh/beatmapsets/2488667#osu/5465321)
+  2. [Dormir - Cookie Bouquets (dsco) \[Fanzhen's Extra\]](https://osu.ppy.sh/beatmapsets/675125#osu/1453416)
+  3. [dj MAX STEROID - Arabian Rave Night (Kojio) \[Axarious' ANOTHER\]](https://osu.ppy.sh/beatmapsets/2312645#osu/5054490)
+- Double Time
+  1. [Elaine Celestia feat. Ayunda Risu - Cat Loving (revemayuzumi Remix) (ArXe) \[Icikiwir Aselole\]](https://osu.ppy.sh/beatmapsets/2488623#osu/5465242)
+  2. [-45 - Millarca (228) \[Insane\]](https://osu.ppy.sh/beatmapsets/1978407#osu/4108775)
+  3. [Boom Kitty - Deo Volente (Ralsricat) \[Pisapou's Insane\]](https://osu.ppy.sh/beatmapsets/1733078#osu/3843920)
+  4. [Krimek - HyperColor (nik) \[Insane\]](https://osu.ppy.sh/beatmapsets/2248565#osu/4781121)
+- Tiebreaker
+  1. **[Imperial Circus Dead Decadence - Uta (Kite) \[Himei\]](https://osu.ppy.sh/beatmapsets/410162#osu/890190)**
 
 ### Qualifiers
 
