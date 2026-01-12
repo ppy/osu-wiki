@@ -16,7 +16,7 @@ tags:
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2025-10-17/2026-01-11 |
-| Qualifiers | 2026-01-12/2026-02-09 |
+| Qualifiers | 2026-01-13/2026-02-09 |
 | Screening phase | 2026-02-10/2026-02-20 |
 | Round of 32, Round of 16, Quarterfinals | 2026-03-14 |
 | Semifinals, Finals, Grand Finals | 2026-03-15 |
@@ -42,8 +42,9 @@ tags:
 | Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
 | Developer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
+| Playtesters | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
-| Referees | *TBA* |
+| Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [Chantivy](https://osu.ppy.sh/users/29021628), ::{ flag=AR }:: [KlBBY](https://osu.ppy.sh/users/12182138), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604) |
 | Commentators | *TBA* |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
@@ -56,6 +57,25 @@ tags:
 - [Livestream](https://www.twitch.tv/keltournaments)
 - [YouTube channel](https://www.youtube.com/@KELtournaments)
 - [Tournament bracket](https://liquipedia.net/osu/KEL/4#Results)
+
+## Mappools
+
+### Qualifiers
+
+- No Mod
+  1. [USAO - TAPIOCA (Realazy) [Fury]](https://osu.ppy.sh/beatmapsets/1267298#osu/2633754)
+  2. [xi - Jackknife (Akali) [Throatslitter]](https://osu.ppy.sh/beatmapsets/560660#osu/1185587)
+  3. [Itou Miku - Shocking Blue (My Angel Jeremy) [Radiant Resonance]](https://osu.ppy.sh/beatmapsets/2123966#osu/4463730)
+  4. [BEMANI Sound Team "L.E.D." - GRAVITON (Ishtiaq) [Nulspace perihelion]](https://osu.ppy.sh/beatmapsets/1846696#osu/3793473)
+- Hidden
+  1. [FELT - Summer Fever (Camo) [Shimmering Sky]](https://osu.ppy.sh/beatmapsets/1888937#osu/4133726)
+  2. [FLAVOR FOLEY - WEIWARD ROMANCE (Ixcors) [SHANGHAI MOONLIGHT]](https://osu.ppy.sh/beatmapsets/2451807#osu/5356021)
+- Hard Rock
+  1. [sumika - Kagen No Tsuki (-Kirigiri) [Crescent]](https://osu.ppy.sh/beatmapsets/1925697#osu/3976196)
+  2. [Magnetude - Signals (Firebool) [1 GHz]](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)
+- Double Time
+  1. [Kano - Stella-rium (Moeka) [Starlight]](https://osu.ppy.sh/beatmapsets/356821#osu/785097)
+  2. [EPICA - Wings of Freedom (Luscent) [Alis Libertatis]](https://osu.ppy.sh/beatmapsets/1774219#osu/3632759)
 
 ## Ruleset
 
