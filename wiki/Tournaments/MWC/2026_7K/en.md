@@ -119,18 +119,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 ## Match schedule: Round of 32
 
+### Thursday, 15 January 2026
+
+| 3 | Australia ::{ flag=AU }:: | ::{ flag=IE }:: Ireland | [Jan 15 (Thu) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260115T090000&p1=1440&p2=57) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 17 January 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 8 | Venezuela ::{ flag=VE }:: | ::{ flag=TW }:: Taiwan | [Jan 17 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T030000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 5 | Indonesia ::{ flag=ID }:: | ::{ flag=MO }:: Macau | [Jan 17 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T080000&p1=1440&p2=108) | [osulive](https://twitch.tv/osulive) |
 | 6 | Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Jan 17 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T090000&p1=1440&p2=166&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 3 | Australia ::{ flag=AU }:: | ::{ flag=IE }:: Ireland | [Jan 17 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T100000&p1=1440&p2=57) | [osulive](https://twitch.tv/osulive) |
 | 7 | Japan ::{ flag=JP }:: | ::{ flag=NO }:: Norway | [Jan 17 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T110000&p1=1440&p2=248&p3=187) | [osulive](https://twitch.tv/osulive) |
 | 1 | South Korea ::{ flag=KR }:: | ::{ flag=DK }:: Denmark | [Jan 17 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T120000&p1=1440&p2=235&p3=69) | [osulive](https://twitch.tv/osulive) |
-| 4 | United States ::{ flag=US }:: | ::{ flag=NL }:: Netherlands | [Jan 17 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T170000&p1=1440&p2=263&p3=16) | [osulive](https://twitch.tv/osulive) |
-| 2 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jan 17 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T180000&p1=1440&p2=195&p3=188) | [osulive](https://twitch.tv/osulive) |
+| 8 | Venezuela ::{ flag=VE }:: | ::{ flag=TW }:: Taiwan | [Jan 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T140000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
+| 12 | Thailand ::{ flag=TH }:: | ::{ flag=PT }:: Portugal | [Jan 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T140000&p1=1440&p2=28&p3=133) | [osulive_2](https://twitch.tv/osulive_2) |
+| 2 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jan 17 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T160000&p1=1440&p2=195&p3=188) | [osulive](https://twitch.tv/osulive) |
+| 4 | United States ::{ flag=US }:: | ::{ flag=NL }:: Netherlands | [Jan 17 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T200000&p1=1440&p2=263&p3=16) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 18 January 2026
 
@@ -139,10 +142,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | 9 | Philippines ::{ flag=PH }:: | ::{ flag=SG }:: Singapore | [Jan 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T100000&p1=1440&p2=145&p3=236) | [osulive](https://twitch.tv/osulive) |
 | 13 | China ::{ flag=CN }:: | ::{ flag=IT }:: Italy | [Jan 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T110000&p1=1440&p2=33&p3=215) | [osulive](https://twitch.tv/osulive) |
 | 16 | Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Jan 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T120000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) |
-| 12 | Thailand ::{ flag=TH }:: | ::{ flag=PT }:: Portugal | [Jan 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T130000&p1=1440&p2=28&p3=133) | [osulive](https://twitch.tv/osulive) |
+| 5 | Indonesia ::{ flag=ID }:: | ::{ flag=MO }:: Macau | [Jan 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T130000&p1=1440&p2=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 10 | Spain ::{ flag=ES }:: | ::{ flag=SE }:: Sweden | [Jan 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T140000&p1=1440&p2=141&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 11 | Hong Kong ::{ flag=HK }:: | ::{ flag=BR }:: Brazil | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=102&p3=45) | [osulive](https://twitch.tv/osulive) |
-| 15 | Peru ::{ flag=PE }:: | ::{ flag=GB }:: United Kingdom | [Jan 18 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T170000&p1=1440&p2=131&p3=136) | [osulive](https://twitch.tv/osulive) |
+| 15 | Peru ::{ flag=PE }:: | ::{ flag=GB }:: United Kingdom | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=131&p3=136) | [osulive_2](https://twitch.tv/osulive_2) |
 | 14 | Germany ::{ flag=DE }:: | ::{ flag=MX }:: Mexico | [Jan 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T180000&p1=1440&p2=37&p3=155) | [osulive](https://twitch.tv/osulive) |
 |  | Round of 16 | mappool showcase | [Jan 18 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
@@ -155,49 +158,49 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 | Seed | Country | Rank[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Lobby link |
 | :-: | :-- | --: | --: | --: |
-| #1 | ::{ flag=KR }:: South Korea | 10 | 1,980,643 | [#1](https://osu.ppy.sh/community/matches/120286587) |
-| #2 | ::{ flag=PH }:: Philippines | 26 | 1,965,757 | [#1](https://osu.ppy.sh/community/matches/120286285) |
-| #3 | ::{ flag=CN }:: China | 28 | 1,968,368 | [#1](https://osu.ppy.sh/community/matches/120277674) |
-| #4 | ::{ flag=ID }:: Indonesia | 40 | 1,959,173 | [#1](https://osu.ppy.sh/community/matches/120284487) |
-| #5 | ::{ flag=JP }:: Japan | 60 | 1,953,021 | [#1](https://osu.ppy.sh/community/matches/120279459) |
-| #6 | ::{ flag=PE }:: Peru | 60 | 1,946,384 | [#1](https://osu.ppy.sh/community/matches/120278496) |
-| #7 | ::{ flag=HK }:: Hong Kong | 62 | 1,950,067 | [#1](https://osu.ppy.sh/community/matches/120283906) |
-| #8 | ::{ flag=AU }:: Australia | 82 | 1,934,315 | [#1](https://osu.ppy.sh/community/matches/120281452) |
-| #9 | ::{ flag=US }:: United States | 99 | 1,929,976 | [#1](https://osu.ppy.sh/community/matches/120287291) |
-| #10 | ::{ flag=TH }:: Thailand | 103 | 1,936,569 | [#1](https://osu.ppy.sh/community/matches/120279490) |
-| #11 | ::{ flag=PL }:: Poland | 103 | 1,927,569 | [#1](https://osu.ppy.sh/community/matches/120287720) |
-| #12 | ::{ flag=VE }:: Venezuela | 119 | 1,922,440 | [#1](https://osu.ppy.sh/community/matches/120287809) |
-| #13 | ::{ flag=RU }:: Russian Federation | 128 | 1,917,392 | [#1](https://osu.ppy.sh/community/matches/120277710) |
-| #14 | ::{ flag=DE }:: Germany | 133 | 1,917,579 | [#1](https://osu.ppy.sh/community/matches/120288246) |
-| #15 | ::{ flag=ES }:: Spain | 133 | 1,911,772 | [#1](https://osu.ppy.sh/community/matches/120288198) |
-| #16 | ::{ flag=FR }:: France | 136 | 1,917,809 | [#1](https://osu.ppy.sh/community/matches/120279512) |
-| #17 | ::{ flag=CA }:: Canada | 140 | 1,909,112 | [#1](https://osu.ppy.sh/community/matches/120280505) |
-| #18 | ::{ flag=SE }:: Sweden | 155 | 1,902,436 | [#1](https://osu.ppy.sh/community/matches/120283876) |
-| #19 | ::{ flag=MX }:: Mexico | 162 | 1,903,082 | [#1](https://osu.ppy.sh/community/matches/120285553) |
-| #20 | ::{ flag=NZ }:: New Zealand | 165 | 1,900,508 | [#1](https://osu.ppy.sh/community/matches/120287286) |
-| #21 | ::{ flag=TW }:: Taiwan | 186 | 1,887,040 | [#1](https://osu.ppy.sh/community/matches/120286021) |
-| #22 | ::{ flag=VN }:: Vietnam | 189 | 1,889,915 | [#1](https://osu.ppy.sh/community/matches/120289135) |
-| #23 | ::{ flag=PT }:: Portugal | 194 | 1,879,349 | [#1](https://osu.ppy.sh/community/matches/120280542) |
-| #24 | ::{ flag=NL }:: Netherlands | 231 | 1,850,985 | [#1](https://osu.ppy.sh/community/matches/120280531) |
-| #25 | ::{ flag=IE }:: Ireland | 233 | 1,845,671 | [#1](https://osu.ppy.sh/community/matches/120281492) |
-| #26 | ::{ flag=BR }:: Brazil | 245 | 1,826,634 | [#1](https://osu.ppy.sh/community/matches/120281463) |
-| #27 | ::{ flag=GB }:: United Kingdom | 253 | 1,837,520 | [#1](https://osu.ppy.sh/community/matches/120281440) |
-| #28 | ::{ flag=NO }:: Norway | 253 | 1,834,573 | [#1](https://osu.ppy.sh/community/matches/120286871) |
-| #29 | ::{ flag=MO }:: Macau | 255 | 1,825,180 | [#1](https://osu.ppy.sh/community/matches/120277200) |
-| #30 | ::{ flag=IT }:: Italy | 263 | 1,823,766 | [#1](https://osu.ppy.sh/community/matches/120278462) |
-| #31 | ::{ flag=SG }:: Singapore | 279 | 1,803,559 | [#1](https://osu.ppy.sh/community/matches/120279513) |
-| #32 | ::{ flag=DK }:: Denmark | 282 | 1,795,580 | [#1](https://osu.ppy.sh/community/matches/120288205) |
-| #33 | ::{ flag=LT }:: Lithuania | 286 | 1,790,505 | [#1](https://osu.ppy.sh/community/matches/120286920) |
-| #34 | ::{ flag=FI }:: Finland | 288 | 1,806,578 | [#1](https://osu.ppy.sh/community/matches/120287338) |
-| #35 | ::{ flag=UA }:: Ukraine | 307 | 1,766,451 | [#1](https://osu.ppy.sh/community/matches/120282407) |
-| #36 | ::{ flag=CL }:: Chile | 323 | 1,747,820 | [#1](https://osu.ppy.sh/community/matches/120288630) |
-| #37 | ::{ flag=CO }:: Colombia | 324 | 1,748,565 | [#1](https://osu.ppy.sh/community/matches/120287337) |
-| #38 | ::{ flag=MY }:: Malaysia | 336 | 1,720,946 | [#1](https://osu.ppy.sh/community/matches/120287808) |
-| #39 | ::{ flag=CZ }:: Czechia | 350 | 1,621,636 | [#1](https://osu.ppy.sh/community/matches/120286287) |
-| #40 | ::{ flag=PK }:: Pakistan | 363 | 1,489,210 | [#1](https://osu.ppy.sh/community/matches/120278426) |
-| #41 | ::{ flag=KZ }:: Kazakhstan | 367 | 1,446,707 | [#1](https://osu.ppy.sh/community/matches/120289177) |
-| #42 | ::{ flag=BY }:: Belarus | 376 | 1,350,358 | [#1](https://osu.ppy.sh/community/matches/120288238) |
-| #43 | ::{ flag=CH }:: Switzerland | 389 | 1,208,465 | [#1](https://osu.ppy.sh/community/matches/120280530) |
+| #1 | ::{ flag=KR }:: South Korea | 10 | 1,980,643 | [#1](https://osu.ppy.sh/community/matches/120286041) |
+| #2 | ::{ flag=PH }:: Philippines | 26 | 1,965,757 | [#1](https://osu.ppy.sh/community/matches/120286587) |
+| #3 | ::{ flag=CN }:: China | 28 | 1,968,368 | [#1](https://osu.ppy.sh/community/matches/120286285) |
+| #4 | ::{ flag=ID }:: Indonesia | 40 | 1,959,173 | [#1](https://osu.ppy.sh/community/matches/120277674) |
+| #5 | ::{ flag=JP }:: Japan | 60 | 1,953,021 | [#1](https://osu.ppy.sh/community/matches/120284487) |
+| #6 | ::{ flag=PE }:: Peru | 60 | 1,946,384 | [#1](https://osu.ppy.sh/community/matches/120279459) |
+| #7 | ::{ flag=HK }:: Hong Kong | 62 | 1,950,067 | [#1](https://osu.ppy.sh/community/matches/120278496) |
+| #8 | ::{ flag=AU }:: Australia | 82 | 1,934,315 | [#1](https://osu.ppy.sh/community/matches/120283906) |
+| #9 | ::{ flag=US }:: United States | 99 | 1,929,976 | [#1](https://osu.ppy.sh/community/matches/120281452) |
+| #10 | ::{ flag=TH }:: Thailand | 103 | 1,936,569 | [#1](https://osu.ppy.sh/community/matches/120287291) |
+| #11 | ::{ flag=PL }:: Poland | 103 | 1,927,569 | [#1](https://osu.ppy.sh/community/matches/120279490) |
+| #12 | ::{ flag=VE }:: Venezuela | 119 | 1,922,440 | [#1](https://osu.ppy.sh/community/matches/120287720) |
+| #13 | ::{ flag=RU }:: Russian Federation | 128 | 1,917,392 | [#1](https://osu.ppy.sh/community/matches/120287809) |
+| #14 | ::{ flag=DE }:: Germany | 133 | 1,917,579 | [#1](https://osu.ppy.sh/community/matches/120277710) |
+| #15 | ::{ flag=ES }:: Spain | 133 | 1,911,772 | [#1](https://osu.ppy.sh/community/matches/120288246) |
+| #16 | ::{ flag=FR }:: France | 136 | 1,917,809 | [#1](https://osu.ppy.sh/community/matches/120288198) |
+| #17 | ::{ flag=CA }:: Canada | 140 | 1,909,112 | [#1](https://osu.ppy.sh/community/matches/120279512) |
+| #18 | ::{ flag=SE }:: Sweden | 155 | 1,902,436 | [#1](https://osu.ppy.sh/community/matches/120280505) |
+| #19 | ::{ flag=MX }:: Mexico | 162 | 1,903,082 | [#1](https://osu.ppy.sh/community/matches/120283876) |
+| #20 | ::{ flag=NZ }:: New Zealand | 165 | 1,900,508 | [#1](https://osu.ppy.sh/community/matches/120285553) |
+| #21 | ::{ flag=TW }:: Taiwan | 186 | 1,887,040 | [#1](https://osu.ppy.sh/community/matches/120287286) |
+| #22 | ::{ flag=VN }:: Vietnam | 189 | 1,889,915 | [#1](https://osu.ppy.sh/community/matches/120286021) |
+| #23 | ::{ flag=PT }:: Portugal | 194 | 1,879,349 | [#1](https://osu.ppy.sh/community/matches/120289135) |
+| #24 | ::{ flag=NL }:: Netherlands | 231 | 1,850,985 | [#1](https://osu.ppy.sh/community/matches/120280542) |
+| #25 | ::{ flag=IE }:: Ireland | 233 | 1,845,671 | [#1](https://osu.ppy.sh/community/matches/120280531) |
+| #26 | ::{ flag=BR }:: Brazil | 245 | 1,826,634 | [#1](https://osu.ppy.sh/community/matches/120281492) |
+| #27 | ::{ flag=GB }:: United Kingdom | 253 | 1,837,520 | [#1](https://osu.ppy.sh/community/matches/120281463) |
+| #28 | ::{ flag=NO }:: Norway | 253 | 1,834,573 | [#1](https://osu.ppy.sh/community/matches/120281440) |
+| #29 | ::{ flag=MO }:: Macau | 255 | 1,825,180 | [#1](https://osu.ppy.sh/community/matches/120286871) |
+| #30 | ::{ flag=IT }:: Italy | 263 | 1,823,766 | [#1](https://osu.ppy.sh/community/matches/120277200) |
+| #31 | ::{ flag=SG }:: Singapore | 279 | 1,803,559 | [#1](https://osu.ppy.sh/community/matches/120278462) |
+| #32 | ::{ flag=DK }:: Denmark | 282 | 1,795,580 | [#1](https://osu.ppy.sh/community/matches/120279513) |
+| #33 | ::{ flag=LT }:: Lithuania | 286 | 1,790,505 | [#1](https://osu.ppy.sh/community/matches/120288205) |
+| #34 | ::{ flag=FI }:: Finland | 288 | 1,806,578 | [#1](https://osu.ppy.sh/community/matches/120286920) |
+| #35 | ::{ flag=UA }:: Ukraine | 307 | 1,766,451 | [#1](https://osu.ppy.sh/community/matches/120287338) |
+| #36 | ::{ flag=CL }:: Chile | 323 | 1,747,820 | [#1](https://osu.ppy.sh/community/matches/120282407) |
+| #37 | ::{ flag=CO }:: Colombia | 324 | 1,748,565 | [#1](https://osu.ppy.sh/community/matches/120288630) |
+| #38 | ::{ flag=MY }:: Malaysia | 336 | 1,720,946 | [#1](https://osu.ppy.sh/community/matches/120287337) |
+| #39 | ::{ flag=CZ }:: Czechia | 350 | 1,621,636 | [#1](https://osu.ppy.sh/community/matches/120287808) |
+| #40 | ::{ flag=PK }:: Pakistan | 363 | 1,489,210 | [#1](https://osu.ppy.sh/community/matches/120286287) |
+| #41 | ::{ flag=KZ }:: Kazakhstan | 367 | 1,446,707 | [#1](https://osu.ppy.sh/community/matches/120278426) |
+| #42 | ::{ flag=BY }:: Belarus | 376 | 1,350,358 | [#1](https://osu.ppy.sh/community/matches/120289177) |
+| #43 | ::{ flag=CH }:: Switzerland | 389 | 1,208,465 | [#1](https://osu.ppy.sh/community/matches/120288238) |
 | #44 | ::{ flag=TR }:: Türkiye | 394 | 1,009,788 | [#1](https://osu.ppy.sh/community/matches/120280530) |
 
 ## Mappools
