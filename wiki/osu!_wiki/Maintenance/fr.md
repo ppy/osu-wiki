@@ -146,7 +146,7 @@ Une traduction peut être merge sans être reviewée par un natif s'il s'est éc
 
 ### Expansion du stub
 
-*Pour l'étendue possible du travail, voir : [Liste des stubs existants (anglais)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Pour l'étendue possible du travail, voir : [Liste des stubs existants (anglais)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Certains articles du wiki d'osu! sont incomplets et manquent d'informations. Ces articles sont marqués comme *stubs*, ce qui signifie qu'ils sont suffisamment importants pour exister en tant que pages individuelles, mais qu'ils seront complétés plus tard. Si vous êtes familier avec le sujet de l'article, contribuez-y et partagez vos connaissances.
 
