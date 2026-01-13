@@ -86,7 +86,7 @@ Terjemahan dapat digabungkan tanpa ulasan dari penutur bahasa asli jika sudah le
 
 ### Pengembangan rintisan
 
-*Untuk kemungkinan lingkup pekerjaan, lihat: [Daftar rintisan yang ada (Bahasa Inggris)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
+*Untuk kemungkinan lingkup pekerjaan, lihat: [Daftar rintisan yang ada (Bahasa Inggris)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
 Beberapa artikel dari osu! wiki belum lengkap dan mmeerlukan lebih banyak informasi. Artikel tersebut ditandai sebagai *rintisan*, yang berarti artikel tersebut cukup penting untuk ada sebagai halaman individual, tetapi akan diselesaikan nanti. Jika Anda sudah familiar dengan topik artikel tersebut, berkontribusi dan bagilah pengetahuanmu.
 
