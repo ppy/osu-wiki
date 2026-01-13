@@ -121,6 +121,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 ### Thursday, 15 January 2026
 
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
 | 3 | Australia ::{ flag=AU }:: | ::{ flag=IE }:: Ireland | [Jan 15 (Thu) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260115T090000&p1=1440&p2=57) | [osulive](https://twitch.tv/osulive) |
 
 ### Saturday, 17 January 2026
@@ -143,9 +145,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | 13 | China ::{ flag=CN }:: | ::{ flag=IT }:: Italy | [Jan 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T110000&p1=1440&p2=33&p3=215) | [osulive](https://twitch.tv/osulive) |
 | 16 | Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Jan 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T120000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) |
 | 5 | Indonesia ::{ flag=ID }:: | ::{ flag=MO }:: Macau | [Jan 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T130000&p1=1440&p2=108) | [osulive_2](https://twitch.tv/osulive_2) |
-| 10 | Spain ::{ flag=ES }:: | ::{ flag=SE }:: Sweden | [Jan 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T140000&p1=1440&p2=141&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 11 | Hong Kong ::{ flag=HK }:: | ::{ flag=BR }:: Brazil | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=102&p3=45) | [osulive](https://twitch.tv/osulive) |
 | 15 | Peru ::{ flag=PE }:: | ::{ flag=GB }:: United Kingdom | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=131&p3=136) | [osulive_2](https://twitch.tv/osulive_2) |
+| 10 | Spain ::{ flag=ES }:: | ::{ flag=SE }:: Sweden | [Jan 18 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T170000&p1=1440&p2=141&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 14 | Germany ::{ flag=DE }:: | ::{ flag=MX }:: Mexico | [Jan 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T180000&p1=1440&p2=37&p3=155) | [osulive](https://twitch.tv/osulive) |
 |  | Round of 16 | mappool showcase | [Jan 18 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
