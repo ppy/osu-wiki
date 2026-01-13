@@ -47,7 +47,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 | Custom mapper | ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), *more to be announced* |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
 | Playtester | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
-| Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
+| Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
 | Commentator | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Raddie](https://osu.ppy.sh/users/27491379), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [lortAro](https://osu.ppy.sh/users/28854272), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
 | Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
@@ -90,7 +90,35 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (131 MB)](https://mappack.sah.moe/download/i7FvzcV5)**
+
+- No Mod
+  1. [sweet ARMS - Trust in you (CXu) \[Zafkiel\]](https://osu.ppy.sh/beatmapsets/346218#osu/764310)
+  2. [Starkill - Until We Fall (Roupus) \[Uri's Extreme\]](https://osu.ppy.sh/beatmapsets/1956762#osu/4119388)
+  3. [Kabocha - Draw me a map, Let me feel the tap (toybot) \[gazimal's Extra\]](https://osu.ppy.sh/beatmapsets/2051856#osu/4608517)
+  4. [TWICE - Alcohol-Free (Halgoh) \[For Eli\]](https://osu.ppy.sh/beatmapsets/2031370#osu/4233972)
+  5. [Jun Ishikawa - Green Greens (Fatfan Kolek) \[emilia's Kirby Super Star Ultra\]](https://osu.ppy.sh/beatmapsets/2341780#osu/5037176)
+- Hidden
+  1. [Mizuki Nana x T.M.Revolution - Kakumei Dualism (Dailycare) \[Fujirin's Expert\]](https://osu.ppy.sh/beatmapsets/2008892#osu/4723219)
+  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#osu/4788639)
+  3. [Xceon - Fuyutsubaki feat. Kanae Asaba (yf\_bmp) \[+Leggendaria\]](https://osu.ppy.sh/beatmapsets/1022180#osu/2138603)
+- Hard Rock
+  1. [Ayaka Ohashi - Wagamama MIRROR HEART (Amamya) \[Revenge\]](https://osu.ppy.sh/beatmapsets/2052377#osu/4286644)
+  2. [Dark PHOENiX - Hiroari Kechou o Iru Koto (Camo) \[Shurelia's Expert\]](https://osu.ppy.sh/beatmapsets/2128728#osu/4620902)
+  3. [USAO - Extra Mode (Otosaka-Yu) \[Rhythm Technique\]](https://osu.ppy.sh/beatmapsets/811948#osu/1703048)
+- Double Time
+  1. [Nakamura Meiko - revolution (LandoriK) \[Space\]](https://osu.ppy.sh/beatmapsets/1687781#osu/3457130)
+  2. [Shoji Meguro - The Battle for Everyone's Souls (Wekkl) \[Battle Hymn\]](https://osu.ppy.sh/beatmapsets/2196805#osu/4648514)
+  3. [AVTechNO! x Treow - boku-boku II feat. Hatsune Miku (Chaoslitz) \[Laurier's Insane\]](https://osu.ppy.sh/beatmapsets/2271970#osu/4839686)
+  4. [-45 - Ena (allein) \[Insane\]](https://osu.ppy.sh/beatmapsets/1882400#osu/3875572)
+- Tiebreaker
+  1. **[King Gizzard & The Lizard Wizard - Robot Stop (olc) \[REDLIGHT (VIP)\]](https://osu.ppy.sh/beatmapsets/1610231#osu/3287767)**
+
 ### Round of 16
+
+**[Download the mappack here! (114 MB)](https://mappack.sah.moe/download/QkyjFAPW)**
 
 - No Mod
   1. [KOKO - Watashi o Matou (Dailycare) \[Vernal\]](https://osu.ppy.sh/beatmapsets/2272223#osu/4840263)
@@ -116,6 +144,8 @@ The complete list of player registrations can be found [here](https://docs.googl
 
 ### Qualifiers
 
+**[Download the mappack here! (90 MB)](https://mappack.sah.moe/download/XuoBxj3Z)**
+
 - No Mod
   1. [ELFENSJoN - Hyousou wa Hakuen wo Matoite (Yusomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/1312064#osu/2719302)
   2. [xi - over the top (Rino Inosaki) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/2298941#osu/4912108)
@@ -132,6 +162,33 @@ The complete list of player registrations can be found [here](https://docs.googl
   1. [Chino (CV: Inori Minase) - Mirai Puzzle (My Angel Ram) \[Cappuchino\]](https://osu.ppy.sh/beatmapsets/1547564#osu/3162593)
   2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
   3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
+
+## Match Results
+
+### Round of 16
+
+Saturday, 10 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | [#1](https://osu.ppy.sh/community/matches/120277659) |
+| Upper | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | [#1](https://osu.ppy.sh/community/matches/120277604) |
+| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Azasapag](https://osu.ppy.sh/users/18347666) | [#1](https://osu.ppy.sh/community/matches/120278054) |
+| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | [#1](https://osu.ppy.sh/community/matches/120278102) |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/120278972) |
+
+Sunday, 11 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Stixe](https://osu.ppy.sh/users/18351160) ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **[Rosemi Lovelock](https://osu.ppy.sh/users/1987591)** | [#1](https://osu.ppy.sh/community/matches/120286574) |
+| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | [#1](https://osu.ppy.sh/community/matches/120287756) |
+
+Monday, 12 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Fuma](https://osu.ppy.sh/users/1501956) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Skydiver](https://osu.ppy.sh/users/4750008)** | [#1](https://osu.ppy.sh/community/matches/120294772) |
 
 ## Ruleset
 
