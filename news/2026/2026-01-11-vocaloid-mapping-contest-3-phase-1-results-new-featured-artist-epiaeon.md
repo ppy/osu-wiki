@@ -32,7 +32,7 @@ After 4 weeks of judging, here are your finalists of each game mode! In a huge s
 Today, on January 11, we hosted a Twitch livestream to showcase all of the maps of the contest, with judge commentary for much of it! If you missed it, you can watch the full VOD below, featuring commentary from the judges and host!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2667414653&t=00h04m20s" allowfullscreen="true" scrolling="no"></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7em6QqlrP9Q?start=295" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### osu! results
