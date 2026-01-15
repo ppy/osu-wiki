@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: b87dafa50b19fb17120132dc4c6dbaca32283aa5
 ---
 
 <div class="wiki-main-page__blurb">
@@ -74,7 +72,7 @@ Lee los procedimientos y normas que garantizan la seguridad de osu! y su comunid
 
 [Reglas](/wiki/Rules) • [Código de conducta para contribuyentes](/wiki/Rules/Contributor_code_of_conduct) • [Código de conducta para modding y mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Regulación de medios: [Pautas de uso de contenido](/wiki/Rules/Content_usage_guidelines) • [Proceso de votación de contenido](/wiki/Rules/Content_voting_process) • [Contenido explícito](/wiki/Rules/Explicit_content) • [Reglas de contenido musical](/wiki/Rules/Song_content_rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
+Regulación de medios: [Permisos de uso de contenido](/wiki/Rules/Content_usage_permissions) • [Proceso de votación de contenido](/wiki/Rules/Content_voting_process) • [Contenido explícito](/wiki/Rules/Explicit_content) • [Reglas de contenido musical](/wiki/Rules/Song_content_rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
 
 [Páginas legales](/wiki/Legal): [Términos del servicio](/wiki/Legal/Terms) • [Privacidad](/wiki/Legal/Privacy) • [Derechos de autor (DMCA)](/wiki/Legal/Copyright) • [Licenciamiento de música](/wiki/Legal/Music_licensing)
 
