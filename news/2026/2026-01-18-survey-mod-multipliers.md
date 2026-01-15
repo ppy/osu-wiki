@@ -51,7 +51,7 @@ Your answer would likely depend on whether osu!(stable) scores should be equal t
 | 0.96x | Scoring would favour osu!(lazer) scores most of the time (favouring around 30% of osu!(stable) scores). |
 | ≤0.95x | Scoring would favour osu!(lazer) scores almost all the time (favouring less than 30% of osu!(stable) scores, or ~15% of them when going as low as 0.9x). |
 
-The **second section** will ask you to compare a bunch of scores with the Hidden, Hard Rock, Double Time, Flashlight mods (and their combinations) or no mods by determining how much accuracy the other would need for them to be equal.
+The **second section** will ask you to compare a bunch of scores with Hidden, Hard Rock, Double Time, Flashlight (and their combinations) or no mods by determining how much accuracy the other would need for them to be equal.
 
 The **last section** is a lot shorter and will ask you to place two Easy and Half Time scores in a hypothetical leaderboard of Nomod scores, as comparing accuracies between those two and other mods would be fairly difficult.
 
