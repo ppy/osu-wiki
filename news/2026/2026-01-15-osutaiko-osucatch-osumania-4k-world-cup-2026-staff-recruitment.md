@@ -9,9 +9,11 @@ We are calling on all individuals interested in shaping the upcoming osu! World 
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
-**Mappers** will be responsible for creating beatmaps, often tailor-made and featuring yet-to-be-released [osu! originals](/wiki/osu!_originals), based on specifications provided by the mappool selectors. As a mapper, you will participate in an iterative process, incorporating feedback from mappoolers and playtesters to refine your work until it is stage-ready.
+**Mappers** are be responsible for creating beatmaps, often tailor-made and featuring yet-to-be-released [osu! originals](/wiki/osu!_originals), based on specifications provided by the mappool selectors. As a mapper, you will participate in an iterative process, incorporating feedback from mappoolers and playtesters to refine your work until it is stage-ready.
 
-**Playtesters** will be responsible for playing and critiquing a variety of beatmaps as requested by the mappooling team. Your role involves evaluating difficulty, slot suitability, and skill representation. While workflows vary between teams, playtesters are expected to possess considerable skill in their respective game mode.
+**Modders** take charge of Quality Assurance. You will check custom beatmaps for technical details such as timings, snapping, and metadata, to ensure a baseline consistent level of quality.
+
+**Playtesters** are be tasked with playing and critiquing a variety of beatmaps as requested by the mappooling team. Your role involves evaluating difficulty, slot suitability, and skill representation. While workflows vary between teams, playtesters are expected to possess considerable skill in their respective game mode.
 
 **Please note:** If you are accepted into any of the teams listed below, *you will not be eligible to participate as a player in the corresponding tournament.*
 
