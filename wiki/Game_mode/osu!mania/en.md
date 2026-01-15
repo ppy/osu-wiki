@@ -4,7 +4,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check 
 
 # osu!mania
 
-![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania Interface")
+![Gameplay of osu!mania](/wiki/shared/Maina-gameplay-lazer.png "osu!mania Interface")
 
 The mode has been widely used in almost all of the major rhythm games. It requires good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyor. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
@@ -68,7 +68,7 @@ Health bar is located at the right side of the conveyor belt. Please note that h
 
 #### Notes
 
-![osu!mania's notes](/wiki/shared/Mania_notes.jpg "osu!mania notes")
+![osu!mania's notes](/wiki/shared/Mania_notes-lazer.jpg "osu!mania notes")
 
 Notes are the hit circles of osu!mania. The falling notes must be tapped on the judgement line, with correct key corresponding to each of the note it falls to. More keys corresponding to the falling notes must be tapped simultaneously if the notes fall simultaneously.
 
@@ -76,7 +76,7 @@ A score burst will be given when tapped a correct key corresponding to the note 
 
 #### Hold notes
 
-![osu!mania's hold notes](/wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes")
+![osu!mania's hold notes](/wiki/shared/Mania_holdnotes-lazer.jpg "osu!mania hold notes")
 
 Hold notes are the sliders and spinners of osu!mania. When the hold note reaches the judgement line, tap the starting note in time with correct key, hold, and release it at the ending note of the hold note.
 
@@ -90,7 +90,7 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 ## Controls
 
-![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
+![Options keyboard section](/wiki/shared/Maina-Options_keyboard.jpg "Options Input icon, Keyboard section")
 
 Do note that the controls information provided below refers to the *old* key settings used in Options where the keys are mapped relatively and applied to all key settings.
 
