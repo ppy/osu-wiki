@@ -5,7 +5,7 @@ date: 2026-01-15 10:00:00 +0000
 series: world_cups
 ---
 
-We are calling on all mappers and playtesters interested in shaping the upcoming osu! World Cup season!
+We are calling on all individuals interested in shaping the upcoming osu! World Cup season!
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
