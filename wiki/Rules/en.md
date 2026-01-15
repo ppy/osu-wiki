@@ -42,7 +42,7 @@ These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submis
 
 1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content usage permissions](Content_usage_permissions) for more information.
 2. **Stay on topic in [beatmap discussions](/wiki/Beatmap_discussion).** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
-3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
+3. **Do not plagiarise or attempt to steal the work of others.** Also, do not upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 4. **Follow the [song content rules](Song_Content_Rules) and [visual content considerations](Visual_Content_Considerations).**
 
 ## What happens if I break the rules?
@@ -52,8 +52,8 @@ If you do find yourself on the wrong end of our community rules, bad things will
 These bad things may include (*but are not limited to*):
 
 - The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Help_centre/Silences)).
-- The removal of any infringing content from your userpage, profile or uploaded beatmaps.
-- The loss of the privilege to edit or alter your userpage or profile details.
+- The removal of any infringing content from your userpage, profile, or uploaded beatmaps.
+- The loss of the privilege to edit or alter your userpage, avatar, or profile details.
 - The loss of the privilege to play or staff in officially supported tournaments (known as a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans)).
 
 [Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration exponentially with each infringement. Repeat offenders will find themselves locked out of their privileges for increasingly lengthy periods of time.
