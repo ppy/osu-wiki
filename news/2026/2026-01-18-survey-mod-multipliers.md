@@ -24,17 +24,17 @@ This pushes osu!(stable) scores below roughly equivalent scores set in osu!(laze
 
 The top 1-miss score ranks above the #2 FC due to the Classic mod multiplier, a phenomenon which has caused contention over the past few years (with not just this leaderboard).
 
-While this 0.96x multiplier was chosen by community vote with precisely this intention (mainly since it's harder to get good accuracy on osu!(lazer) with its [slider accuracy mechanic](/wiki/Help_centre/Upgrading_to_lazer#slider-head-circles-require-accuracy-when-hitting)), there are a lot more players playing on osu!(lazer) nowadays (~34% of active playerbase). Because of that, there's cause for re-evaluating how stable and lazer scores should coexist.
+While this 0.96x multiplier was chosen by community vote with precisely this intention (mainly since it's harder to get good accuracy on osu!(lazer) with its [slider accuracy mechanic](/wiki/Help_centre/Upgrading_to_lazer#slider-head-circles-require-accuracy-when-hitting)), there are a lot more players playing on osu!(lazer) nowadays (~34% of the active playerbase). Because of that, there's cause for re-evaluating how stable and lazer scores should coexist.
 
-Also, while we're talking about Classic mod, our community mathematicians and scoring developers are also interested in gauging people's interest in whether the current multipliers for other mods need any adjustments, given that they have largely stayed the same for the entire history of the game.
+Also, while we're talking about the Classic mod, our community mathematicians and scoring developers are also interested in gauging people's interest in whether the current multipliers for other mods need any adjustments, given that they have largely stayed the same for the entire history of the game.
 
-That's the background anyway, but it leads us to...
+That's the background, anyway, but it leads us to...
 
 ## The survey
 
 [![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-08-survey-the-future-of-mod-multipliers/survey-link.png)](FORM_LINK)
 
-This is a survey about how the mod multipliers should be adjusted, if at all. Note that it concerns the osu! game mode only
+This is a survey about how the mod multipliers should be adjusted, if at all. Note that it concerns the osu! game mode only.
 
 There are three main sections:
 
@@ -77,6 +77,6 @@ The remaining tabs will then show a comparison of how leaderboards would change 
 
 Many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey and programming the spreadsheet.
 
-The survey will be open for two weeks and close on **1 February 2026**.
+The survey will be open for two weeks, and closes on **1 February 2026**.
 
 —Walavouchey
