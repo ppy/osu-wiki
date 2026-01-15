@@ -1,6 +1,6 @@
 # Handling foul play
-
-## What is considered foul play? {id=what-violates}
+<!-- Avoid using the word "cheat" in section titles or IDs, as this will make chat filtering break the links -->
+## What is considered foul play? {id=what}
 
 The following is considered foul play and will generally cause a user to be restricted:
 
@@ -8,7 +8,7 @@ The following is considered foul play and will generally cause a user to be rest
 - [Creating multiple accounts or sharing an account with another person](#when-multi-share).
 - Using an account other than their first one to participate in a tournament.
 
-## What is considered cheating? {id=when-cheating}
+## What is considered cheating? {id=what-foul}
 
 The [rules](/wiki/Rules) state that any form of manipulation of the client such as score hacking, macro-enabled full-combo sequences, auto-aim, and anything else that plays the game for the player is considered cheating.
 
@@ -18,7 +18,7 @@ This is a one-strike rule. Cheaters will be restricted on their first offence fo
 
 Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play (e.g. using fidget spinners on a tablet) or cancels out/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
-## What is considered multi-accounting or account sharing? {id=when-multi-share}
+## What is considered multi-accounting or account sharing? {id=multi-share}
 
 Each user may only use **one** account. Creating new accounts is strictly forbidden. First offences may be punished with a silence of varying length depending on the number of accounts made. Users that continue creating new accounts despite previous warnings will be restricted. Note that creating an additional account to participate in a tournament is considered an especially serious offence and will result in an immediate restriction, as well as an indefinite [ban from any officially supported tournaments and contests](/wiki/Help_centre/Tournament_sanctions#tournament-bans) if the offence pertains to such an event.
 
@@ -28,17 +28,17 @@ Allowing another person to use a different user's account is also strictly forbi
 
 *See also: [Account restrictions § My account has been restricted! What do I do?](/wiki/Help_centre/Account_restrictions#what)*
 
-osu! uses automated metrics combined with manual confirmation. If you don't know why you are restricted, contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
+osu! uses automated metrics combined with manual confirmation to detect foul play. If you don't know why you are restricted, contact [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## Prove that I/they were cheating/breaking the rules! Tell us how you know! {id=prove-cheats}
+## Prove that I/they were cheating/breaking the rules! Tell us how you know! {id=prove}
 
 The support team will not provide any "proof" regarding reasons for restrictions, but all are placed with well-founded suspicion. Normal users are extremely unlikely to be targeted by such actions.
 
-## I'll make a video to prove my innocence! {id=prove-own-innocence}
+## I'll make a video to prove my innocence! {id=innocent}
 
 Sorry, but if you have been restricted, the support team is already sure you are cheating. A video will not help, because even these can be doctored.
 
-## I found someone who is definitely cheating/not playing fair. I can tell by their replay/score! What should I do? {id=found-cheater}
+## I found someone who is definitely cheating/not playing fair. I can tell by their replay/score! What should I do? {id=report}
 
 Stay calm and **don't discuss their plays in public chat** — doing so is against the [chat rules](/wiki/Rules#in-game-chat-rules) and may cause you to be [silenced](/wiki/Help_centre/Silences). Don't give them undue attention or ask others to spectate them.
 
@@ -81,11 +81,11 @@ The support team expects users to give a full history of their actions and give 
 
 *It might take time for us to reply to your appeal, but no appeals will be ignored.*
 
-## What can I do if I've broken the rules? {id=own-violation}
+## What can I do if I've broken the rules? {id=admit}
 
 If you've broken the rules and you'd like to come clean, please contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and explain what you've done. Honesty is very much appreciated, and this will likely not result in a permanent punishment.
 
-## How can I avoid being silenced or restricted for foul play? {id=avoid-violation}
+## How can I avoid being silenced or restricted for foul play? {id=how-follow}
 
 Carefully read and follow the [rules](/wiki/Rules). If you're not sure whether something you want to do, such as a specific hardware configuration you want to use, would break the rules, ask the [account support team](mailto:accounts@ppy.sh).
 
