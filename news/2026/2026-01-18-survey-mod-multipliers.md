@@ -22,7 +22,7 @@ This pushes osu!(stable) scores below roughly equivalent scores set in osu!(laze
 
 ![Current leaderboard of the top difficulty of "xi - Blue Zenith (Asphyxia) [FOUR DIMENSIONS]" with wuhua at the top](/wiki/shared/news/2026-01-18-survey-mod-multipliers/leaderboard.png)
 
-The top 1-miss score ranks above the #2 FC due to the Classic mod multiplier, a phenomenon which has caused contention over the past few years (with not just this leaderboard).
+With the current Classic mod multiplier, the top 1-miss score ranks above the #2 FC, a phenomenon which has caused contention over the past few years (with not just this leaderboard).
 
 While this 0.96x multiplier was chosen by community vote with precisely this intention (mainly since it's harder to get good accuracy on osu!(lazer) with its [slider accuracy mechanic](/wiki/Help_centre/Upgrading_to_lazer#slider-head-circles-require-accuracy-when-hitting)), there are a lot more players playing on osu!(lazer) nowadays (~34% of the active playerbase). Because of that, there's cause for re-evaluating how stable and lazer scores should coexist.
 
@@ -38,7 +38,7 @@ This is a survey about how the mod multipliers should be adjusted, if at all. No
 
 There are three main sections:
 
-For the **Classic mod multiplier** section, there's only one question: What score multiplier should osu!(stable) scores have in osu!'s combined lazer-stable leaderboards?
+For the **Classic mod multiplier section**, the main question is: what score multiplier should osu!(stable) scores have in osu!'s combined lazer-stable leaderboards?
 
 Your answer would likely depend on whether osu!(stable) scores should be equal to osu!(lazer) scores on average, or whether either should get an advantage on leaderboards. You can check the following table (which is also included in the survey form) to get an idea of what different multipliers would mean:
 
@@ -51,9 +51,9 @@ Your answer would likely depend on whether osu!(stable) scores should be equal t
 | 0.96x | Scoring would favour osu!(lazer) scores most of the time (favouring around 30% of osu!(stable) scores). |
 | ≤0.95x | Scoring would favour osu!(lazer) scores almost all the time (favouring less than 30% of osu!(stable) scores, or ~15% of them when going as low as 0.9x). |
 
-The **second section** will ask you to compare a bunch of scores with different mods by determining how much accuracy the other would need for them to be equal.
+The **second section** will ask you to compare a bunch of scores with the Hidden, Hard Rock, Double Time, Flashlight mods (and their combinations) or no mods by determining how much accuracy the other would need for them to be equal.
 
-The **last section** is a lot shorter and will ask you to place two scores in a hypothetical leaderboard of scores.
+The **last section** is a lot shorter and will ask you to place two Easy and Half Time scores in a hypothetical leaderboard of Nomod scores, as comparing accuracies between those two and other mods would be fairly difficult.
 
 ---
 
