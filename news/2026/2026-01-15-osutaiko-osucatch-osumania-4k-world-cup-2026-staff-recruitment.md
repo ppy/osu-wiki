@@ -40,7 +40,6 @@ Our current mentor roster, which may expand in the future, includes the followin
 
 More information can be found on the application forms themselves. For any questions regarding the application process or MWC 4K in general, please contact a mapselector ([guden](https://osu.ppy.sh/users/11626065), [-mint-](https://osu.ppy.sh/users/8976576), [elexire](https://osu.ppy.sh/users/9206093), [MyZterioN-](https://osu.ppy.sh/users/8521723), [Paturages](https://osu.ppy.sh/users/1375479), [rikan](https://osu.ppy.sh/users/25263357)).
 
-
 To sign up as a mapper, follow [this link](https://leoflt.com/forms/mwc4k2026-mapper-apps).\
 To sign up as a playtester, follow [this link](https://leoflt.com/forms/mwc4k2026-playtester-apps).
 
