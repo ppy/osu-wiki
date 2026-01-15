@@ -1,5 +1,7 @@
 # Handling foul play
+
 <!-- Avoid using the word "cheat" in section titles or IDs, as this will make chat filtering break the links -->
+
 ## What is considered foul play? {id=what}
 
 The following is considered foul play and will generally cause a user to be restricted:
