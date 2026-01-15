@@ -119,12 +119,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 ## Match schedule: Round of 32
 
-### Thursday, 15 January 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 3 | Australia ::{ flag=AU }:: | ::{ flag=IE }:: Ireland | [Jan 15 (Thu) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260115T090000&p1=1440&p2=57) | [osulive](https://twitch.tv/osulive) |
-
 ### Saturday, 17 January 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -134,6 +128,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | 1 | South Korea ::{ flag=KR }:: | ::{ flag=DK }:: Denmark | [Jan 17 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T120000&p1=1440&p2=235&p3=69) | [osulive](https://twitch.tv/osulive) |
 | 8 | Venezuela ::{ flag=VE }:: | ::{ flag=TW }:: Taiwan | [Jan 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T140000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
 | 12 | Thailand ::{ flag=TH }:: | ::{ flag=PT }:: Portugal | [Jan 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T140000&p1=1440&p2=28&p3=133) | [osulive_2](https://twitch.tv/osulive_2) |
+| 11 | Hong Kong ::{ flag=HK }:: | ::{ flag=BR }:: Brazil | [Jan 17 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T150000&p1=1440&p2=102&p3=45) | [osulive](https://twitch.tv/osulive) |
 | 2 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jan 17 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T160000&p1=1440&p2=195&p3=188) | [osulive](https://twitch.tv/osulive) |
 | 4 | United States ::{ flag=US }:: | ::{ flag=NL }:: Netherlands | [Jan 17 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T200000&p1=1440&p2=263&p3=16) | [osulive](https://twitch.tv/osulive) |
 
@@ -144,14 +139,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | 9 | Philippines ::{ flag=PH }:: | ::{ flag=SG }:: Singapore | [Jan 18 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T100000&p1=1440&p2=145&p3=236) | [osulive](https://twitch.tv/osulive) |
 | 13 | China ::{ flag=CN }:: | ::{ flag=IT }:: Italy | [Jan 18 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T110000&p1=1440&p2=33&p3=215) | [osulive](https://twitch.tv/osulive) |
 | 16 | Poland ::{ flag=PL }:: | ::{ flag=VN }:: Vietnam | [Jan 18 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T120000&p1=1440&p2=262&p3=95) | [osulive](https://twitch.tv/osulive) |
-| 5 | Indonesia ::{ flag=ID }:: | ::{ flag=MO }:: Macau | [Jan 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T130000&p1=1440&p2=108) | [osulive_2](https://twitch.tv/osulive_2) |
-| 11 | Hong Kong ::{ flag=HK }:: | ::{ flag=BR }:: Brazil | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=102&p3=45) | [osulive](https://twitch.tv/osulive) |
-| 15 | Peru ::{ flag=PE }:: | ::{ flag=GB }:: United Kingdom | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=131&p3=136) | [osulive_2](https://twitch.tv/osulive_2) |
+| 5 | Indonesia ::{ flag=ID }:: | ::{ flag=MO }:: Macau | [Jan 18 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T130000&p1=1440&p2=108) | [osulive](https://twitch.tv/osulive) |
+| 15 | Peru ::{ flag=PE }:: | ::{ flag=GB }:: United Kingdom | [Jan 18 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T150000&p1=1440&p2=131&p3=136) | [osulive](https://twitch.tv/osulive) |
 | 10 | Spain ::{ flag=ES }:: | ::{ flag=SE }:: Sweden | [Jan 18 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T170000&p1=1440&p2=141&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 14 | Germany ::{ flag=DE }:: | ::{ flag=MX }:: Mexico | [Jan 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T180000&p1=1440&p2=37&p3=155) | [osulive](https://twitch.tv/osulive) |
 |  | Round of 16 | mappool showcase | [Jan 18 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260118T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
+
+### Round of 32
+
+Thursday, 15 January 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 3 | Australia ::{ flag=AU }:: | 3 | **5** | ::{ flag=IE }:: **Ireland** | [#1](https://osu.ppy.sh/community/matches/120312559) | [#1](https://www.twitch.tv/videos/2670616579) |
 
 ### Qualifiers
 
