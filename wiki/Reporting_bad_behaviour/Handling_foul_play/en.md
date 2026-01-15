@@ -6,8 +6,8 @@
 
 The following is considered foul play and will generally cause a user to be restricted:
 
-- [Cheating or hacking](#when-cheating).
-- [Creating multiple accounts or sharing an account with another person](#when-multi-share).
+- [Cheating or hacking](#what-foul).
+- [Creating multiple accounts or sharing an account with another person](#multi-share).
 - Using an account other than their first one to participate in a tournament.
 
 ## What is considered cheating? {id=what-foul}
