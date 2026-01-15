@@ -58,7 +58,7 @@ These bad things may include (*but are not limited to*):
 
 [Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration exponentially with each infringement. Repeat offenders will find themselves locked out of their privileges for increasingly lengthy periods of time.
 
-Certain offences carry a minimum silence duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
+Certain offences carry a minimum silence duration (usually 43 hours or more), although these increased penalties are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 
 If, after several infringements, you continue to break the rules, or if you break the rules in an especially severe manner (such as by cheating), your account may be [permanently and irrevocably restricted](/wiki/Help_centre/Account_restrictions).
 
