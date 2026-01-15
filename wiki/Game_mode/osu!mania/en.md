@@ -4,7 +4,7 @@ needs_cleanup: true  # https://github.com/ppy/osu-wiki/issues/9918, also, check 
 
 # osu!mania
 
-![Gameplay of osu!mania](/wiki/shared/Maina-gameplay-lazer.png "osu!mania Interface")
+![Gameplay of osu!mania](/wiki/shared/Maina-gameplay-lazer.jpg "osu!mania Interface")
 
 The mode has been widely used in almost all of the major rhythm games. It requires good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyor. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
