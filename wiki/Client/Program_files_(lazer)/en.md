@@ -19,19 +19,25 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 ## Folders
 
 ### cache
+
 The cache folder holds osu!'s cache, like fonts and shaders.
 
 ### client.realm.management
+
 This folder is empty.
 
 ### exports
+
 The exports folder holds any exported files, including logs and beatmaps.
 
 ### files
+
 The files folder holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information.
 
 ### logs
+
 Stores the following game logs:
+
 - ID.auth.log
 - ID.database.log
 - ID.input.log
@@ -41,9 +47,11 @@ Stores the following game logs:
 - ID.runtime.log
 
 ### rulesets
+
 The rulesets folder holds custom ruleset files (.dll). These can be downloaded [here](https://github.com/ppy/osu/discussions/13096).
 
 ### screenshots
+
 The screenshots folder holds screenshots the player has created in osu!. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
 
 *Note: To create a screenshot, press the screenshot key (F12 by default).*
@@ -51,6 +59,7 @@ The screenshots folder holds screenshots the player has created in osu!. By defa
 The file name structure is `osu_YYYY-MM-DD_HH-MM-SS`.
 
 ## Storage structure
+
 osu!(stable)'s storage structure, where data was directly accessible to users as standard files, resulted in a lot of teething issues due to having to explicitly handle unwanted modifications of key files. To avoid this, osu!(lazer) employs a more stringent method of file storage. As such, there is no equivalent of the `Songs` and `Skins` folders. All files that are imported to lazer are stored under filenames that reflect their [SHA-256 hashes](https://en.wikipedia.org/wiki/SHA-2). Mappings to these files are held inside a client database.
 
 For example, a file with the SHA-256 hash of
