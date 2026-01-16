@@ -7,7 +7,7 @@ series: beatmap_spotlights
 
 With a happy new year, there is a happy new season of Beatmap Spotlights! Catch up on the latest news and check out a brand new selection of beatmaps for you to compete on.
 
-![](/wiki/shared/news/2025-08-22-beatmap-spotlights-winter-2026/banner.jpg)
+![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/banner.jpg)
   
 The **Beatmap Spotlights Curators** went above and beyond again to put together a fantastic range of the most popular and highly anticipated beatmaps of the season. Get ready to compete for the highest placement in the seasonal rankings and dance away the cold winter days in the newly opened Beatmap Spotlights arena!
 
@@ -42,9 +42,9 @@ Check out the respective game mode seasonal rankings:
 | --: | :-- |
 | Season start | Jan 16, 2026 |
 | Playlist A | Jan 16 – Jan 30, 2026 |
-| Playlist B | Jan 30 – Feb 13, 2026|
+| Playlist B | Jan 30 – Feb 13, 2026 |
 | Playlist C | Feb 13 – Feb 27, 2026 |
-| Playlist A | Feb 27 – Mar 6, 2026  |
+| Playlist A | Feb 27 – Mar 6, 2026 |
 | Playlist B | Mar 6 – Mar 13, 2026 |
 | Playlist C | Mar 13 – Mar 20, 2026 |
 | Season conclusion | Mar 20, 2026 |
@@ -57,7 +57,7 @@ The preview videos for each of the playlists were provided by [Noffy](https://os
 
 #### Beatmap of the Season - Curators' Pick
 
-[![](/wiki/shared/news/2025-08-22-beatmap-spotlights-winter-2026/2301567.jpg)](https://osu.ppy.sh/beatmapsets/2301567#osu/4918832)
+[![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2301567.jpg)](https://osu.ppy.sh/beatmapsets/2301567#osu/4918832)
 
 **[SHIKI - Angelic layer (Kurubukko Remix) \[Astral Voyager\]](https://osu.ppy.sh/beatmapsets/2301567#osu/4918832)**, created by [Lince Cosmico](https://osu.ppy.sh/users/6070370)\
 *primarily suggested and described by [Boolin](https://osu.ppy.sh/users/10664409)*
@@ -88,12 +88,12 @@ Lince Cosmico's clean aesthetics and masterful playfield usage, combined with im
 
 #### Beatmap of the Season - Curators' Pick
 
-[![](/wiki/shared/news/2025-08-22-beatmap-spotlights-winter-2026/2343891.jpg)](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
+[![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2343891.jpg)](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)
 
 **[Slax - Body to the Drum \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)**, created by [Waribashi](https://osu.ppy.sh/users/2250574) and [ler1211](https://osu.ppy.sh/users/19901680)\
 *primarily suggested and described by [nevqr](https://osu.ppy.sh/users/14269506)*\
 
-Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the taiko community, and when he was tasked with making an osu!original for the [osu!taiko World Cup 2025](https://osu.ppy.sh/wiki/en/Tournaments/TWC/2025), he definitely delivered.
+Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the taiko community, and when he was tasked with making an osu!original for the [osu!taiko World Cup 2025](/wiki/en/Tournaments/TWC/2025), he definitely delivered.
 
 [Body to the Drum](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601) is made by none other than [ler1211](https://osu.ppy.sh/users/19901680). If you're familiar with traditional taiko tournament slots, NM1 is the name of the game. Prepare yourself for an absolute bundle of consistency, offbeat doublets, even-numbered patterns that will keep you on your toes (or fingers, in this case!), and, last but not least, streams coming right at you at 230 BPM! All while listening to an absolute banger of a track. 
 
@@ -121,7 +121,7 @@ So what's the hold-up? Go try the map out in our seasonal spotlights and move yo
 
 #### Beatmap of the Season - Curators' Pick
 
-[![](/wiki/shared/news/2025-08-22-beatmap-spotlights-winter-2026/2337191.jpg)](https://osu.ppy.sh/beatmapsets/2337191#fruits/5018068)
+[![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2337191.jpg)](https://osu.ppy.sh/beatmapsets/2337191#fruits/5018068)
 
 **[Polyphia - Ego Death feat. Steve Vai \[Lost Sense of Personal Identity\]](https://osu.ppy.sh/beatmapsets/2337191#fruits/5018068)**, created by [AnApple7](https://osu.ppy.sh/users/12567935)\
 *primarily suggested by [Morusya](https://osu.ppy.sh/users/13681464)*\
@@ -153,7 +153,7 @@ Sorry, the letter P had gotten stuck there; BUT what was said is fairly much tru
 
 #### Beatmap of the Season - Curators' Pick
 
-[![](/wiki/shared/news/2025-08-22-beatmap-spotlights-winter-2026/2129944.jpg)](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
+[![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2129944.jpg)](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
 
 **[](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)**, created by [tyrcs](https://osu.ppy.sh/users/13026904)\
 *primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
@@ -162,7 +162,7 @@ This beatmap, created through the collaboration of composers [Dustvoxx and Locte
 
 Above all, this chart challenges players with an unending flow of rice patterns aligned with the song over the course of five minutes demanding extreme finger independence, technical proficiency, and stamina. Experience the diverse music and immersive patterning that persist throughout the entire chart, and take on the extreme difficulty as you feel the intense buildup of notes maintained from the first kiai all the way to the very end.
 
-This chart was included in the map pool for the [osu!mania 7K Chinese National Cup 2024](https://osu.ppy.sh/wiki/en/Tournaments/MCNC/7K2024) Finals. While it was not played on match day, its inclusion in a finals-level map pool speaks to the chart's quality.
+This chart was included in the map pool for the [osu!mania 7K Chinese National Cup 2024](/wiki/en/Tournaments/MCNC/7K2024) Finals. While it was not played on match day, its inclusion in a finals-level map pool speaks to the chart's quality.
 
 With its demanding structure and sustained intensity, this chart stands as a fitting representation of the season. Players looking for a true test of control and endurance will find a deeply rewarding experience from start to finish, and we are pleased to present it as this season's Beatmap of the Season.
 
