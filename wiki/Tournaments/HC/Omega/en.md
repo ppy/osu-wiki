@@ -114,14 +114,14 @@ This competition has come to an end and resulted in the following podium:
 
 | Heat | Players |
 | :-: | :-- |
-| 1 |::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167), ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092), ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=BG }:: [Arthus](https://osu.ppy.sh/users/1869492), ::{ flag=DE }:: [TobisawaMisaki](https://osu.ppy.sh/users/11393715), ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957)
-| 2 | ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626), ::{ flag=US }:: [ZephyrCo](https://osu.ppy.sh/users/7516954), ::{ flag=FR }:: [TotorPotate 2](https://osu.ppy.sh/users/10325072), ::{ flag=RU }:: [Verneo](https://osu.ppy.sh/users/6842477), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797)
-| 3 | ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590), ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=PT }:: [uatzap](https://osu.ppy.sh/users/16509171), ::{ flag=US }:: [Wikip3dia](https://osu.ppy.sh/users/17299001), ::{ flag=GB }:: [rubrub](https://osu.ppy.sh/users/16764402), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022)
-| 4 | ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=AU }:: [Cereal](https://osu.ppy.sh/users/6541627), ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [Luqkay](https://osu.ppy.sh/users/16538717), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852)
-| 5 | ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126), ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=PL }:: [LewusekX44](https://osu.ppy.sh/users/9997359), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [Aureola](https://osu.ppy.sh/users/4929497), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=CL }:: [suntan](https://osu.ppy.sh/users/19998548), ::{ flag=TR }:: [y4kr3b](https://osu.ppy.sh/users/10991434)
-| 6 | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930), ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910), ::{ flag=HK }:: [Legitted](https://osu.ppy.sh/users/12387359), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)
-| 7 | ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539), ::{ flag=CZ }:: [Silver Tail](https://osu.ppy.sh/users/13334570), ::{ flag=SK }:: [TenIdiotZTelky](https://osu.ppy.sh/users/10069181), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=KR }:: [Piper](https://osu.ppy.sh/users/10592853), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166)
-| 8 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471), ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139), ::{ flag=NZ }:: [pii](https://osu.ppy.sh/users/13588932), ::{ flag=PL }:: [xMatrix382](https://osu.ppy.sh/users/12047601), ::{ flag=BG }:: [hlanden](https://osu.ppy.sh/users/4934554), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026)
+| 1 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167), ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092), ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=BG }:: [Arthus](https://osu.ppy.sh/users/1869492), ::{ flag=DE }:: [TobisawaMisaki](https://osu.ppy.sh/users/11393715), ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957) |
+| 2 | ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626), ::{ flag=US }:: [ZephyrCo](https://osu.ppy.sh/users/7516954), ::{ flag=FR }:: [TotorPotate 2](https://osu.ppy.sh/users/10325072), ::{ flag=RU }:: [Verneo](https://osu.ppy.sh/users/6842477), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797) |
+| 3 | ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590), ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=PT }:: [uatzap](https://osu.ppy.sh/users/16509171), ::{ flag=US }:: [Wikip3dia](https://osu.ppy.sh/users/17299001), ::{ flag=GB }:: [rubrub](https://osu.ppy.sh/users/16764402), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
+| 4 | ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=AU }:: [Cereal](https://osu.ppy.sh/users/6541627), ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [Luqkay](https://osu.ppy.sh/users/16538717), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852) |
+| 5 | ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126), ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=PL }:: [LewusekX44](https://osu.ppy.sh/users/9997359), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [Aureola](https://osu.ppy.sh/users/4929497), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=CL }:: [suntan](https://osu.ppy.sh/users/19998548), ::{ flag=TR }:: [y4kr3b](https://osu.ppy.sh/users/10991434) |
+| 6 | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930), ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910), ::{ flag=HK }:: [Legitted](https://osu.ppy.sh/users/12387359), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741) |
+| 7 | ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539), ::{ flag=CZ }:: [Silver Tail](https://osu.ppy.sh/users/13334570), ::{ flag=SK }:: [TenIdiotZTelky](https://osu.ppy.sh/users/10069181), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=KR }:: [Piper](https://osu.ppy.sh/users/10592853), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) |
+| 8 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471), ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139), ::{ flag=NZ }:: [pii](https://osu.ppy.sh/users/13588932), ::{ flag=PL }:: [xMatrix382](https://osu.ppy.sh/users/12047601), ::{ flag=BG }:: [hlanden](https://osu.ppy.sh/users/4934554), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026) |
 
 ### Round of 16
 
@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Round of 16 results
 
-| Player 1 | Score | Score | Player 2 |  Match Link |
+| Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 2 | ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) | [#1](https://osu.ppy.sh/community/matches/102346589) | 
 | **::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186)** | 4 | 0 | ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539) | [#2](https://osu.ppy.sh/community/matches/102293991) |
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Quarterfinals results
 
-| Player 1 | Score | Score | Player 2 |  Match Link |
+| Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 0 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/102476742) |
 | ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186) | -1 | 0 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | *win by default** |
@@ -199,7 +199,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Semifinals results
 
-| Player 1 | Score | Score | Player 2 |  Match Link |
+| Player 1 | Score | Score | Player 2 | Match Link |
 | :-- | :-: | :-: | --: | :-: |
 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | 4 | 5 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102714522) |
 | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) | 3 | 5 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#2](https://osu.ppy.sh/community/matches/102690311) |
@@ -225,7 +225,7 @@ This competition has come to an end and resulted in the following podium:
   - **[BilliumMoto - Harumachi clip your face off (Nao Tomori) [Expert]](https://osu.ppy.sh/beatmapsets/1817218#osu/3728149)**
 
 ## Grand Finals results
-| Player 1 | Score | Score | Player 2 |  Match Link |
+| Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 6 | 1 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | [#1](https://osu.ppy.sh/community/matches/102717581) |
 | ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702) | 4 | 6 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#2](https://osu.ppy.sh/community/matches/102716217) |
