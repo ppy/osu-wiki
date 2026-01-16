@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fall Time Mania Mapping Contest 2025 Results
-date: 2026-01-16 21:00:00 +0000
+date: 2026-01-16 12:00:00 +0000
 series: community_contests
 ---
 
