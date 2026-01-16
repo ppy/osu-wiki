@@ -11,7 +11,7 @@ The chill winds signify the wrap up of a season as well as this contest! It's ti
 
 This contest was [announced back in October](https://osu.ppy.sh/home/news/2025-10-30-fall-time-mania-mapping-contest) as a predecessor to its close seasonal partner, [STMI](https://osu.ppy.sh/community/forums/topics/2050785?n=1). The aim was to give mappers a nice holiday session and win some goodies along with it. There was a very simple gimmick so as to not deter the mappers too much from entering by constraints of mapping style.
 
-Anyway, 79 maps later, we're going straight to the point and have prepared a rather small and *humble* results showcase video: enjoy!
+Anyway, 77 maps later, we're going straight to the point and have prepared a rather small and *humble* results showcase video: enjoy!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -23,9 +23,9 @@ And here's the podium:
 
 | Placement | Mapper | Map |
 | :-: | :-- | :-- |
-| 1st | ::{ flag=US }:: [shychu](https://osu.ppy.sh/users/24457999) | [Frums - HALL](https://osu.ppy.sh/beatmapsets/2489112#mania/5466707) |
-| 2nd | ::{ flag=CN }:: [chy030\_ft\_pH5\_6](https://osu.ppy.sh/users/9492856) | [Supire - Helios](https://osu.ppy.sh/beatmapsets/2489234#mania/5467185) |
-| 3rd | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | [WangleLine - Goodbye to Your Vicious Cycle](https://osu.ppy.sh/beatmapsets/2489140#mania/5466814) |
+| 1st | ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904) | [WangleLine - Goodbye to Your Vicious Cycle](https://osu.ppy.sh/beatmapsets/2489140#mania/5466814) |
+| 2nd | ::{ flag=US }:: [wolfyou](https://osu.ppy.sh/users/12565254) | [Camellia - Circles of Death](https://osu.ppy.sh/beatmapsets/2489165#mania/5466923) |
+| 3rd | ::{ flag=KR }:: [Stereotype](https://osu.ppy.sh/users/25311011) | [Billain - Transhumanist](https://osu.ppy.sh/beatmapsets/2489203#mania/5467095) |
 
 [![**Click here to view the full results!**](/wiki/shared/news/2026-01-06-fall-time-mania-mapping-contest-2025-results/results-link.png)](https://osu.ppy.sh/community/contests/268)
 
