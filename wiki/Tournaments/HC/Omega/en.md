@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
-| **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 2 | ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) | [#1](https://osu.ppy.sh/community/matches/102346589) | 
+| **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 2 | ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) | [#1](https://osu.ppy.sh/community/matches/102346589) |
 | **::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186)** | 4 | 0 | ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539) | [#2](https://osu.ppy.sh/community/matches/102293991) |
 | **::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590)** | 4 | 0 | ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910) | [#3](https://osu.ppy.sh/community/matches/102350725) |
 | ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392) | 1 | 4 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#4](https://osu.ppy.sh/community/matches/102320253) |
@@ -225,6 +225,7 @@ This competition has come to an end and resulted in the following podium:
   - **[BilliumMoto - Harumachi clip your face off (Nao Tomori) [Expert]](https://osu.ppy.sh/beatmapsets/1817218#osu/3728149)**
 
 ## Grand Finals results
+
 | Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 6 | 1 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | [#1](https://osu.ppy.sh/community/matches/102717581) |
