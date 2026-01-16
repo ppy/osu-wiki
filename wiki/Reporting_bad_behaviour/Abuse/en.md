@@ -20,13 +20,13 @@ Scroll through the sub-headings below to find out what to do, depending on where
 
 ### In the in-game chat {id=chat}
 
-*Caution: Reporting a user via the `!report` command **does not work** in osu!(lazer), and such messages will be visible to everyone! Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
+*Caution: Reporting a user via the `!report` command in osu!(lazer) or via the website will cause the report to be **visible to everyone!** Instead, [use the report menu](#lazer-reports) or report them via [their profile page](#profile-page).*
 
 Immediately block the user by right-clicking their username and selecting `Ignore User`.
 
 You should also report them immediately by clicking the `Report User` button and filling in the prompts.
 
-You can also report the user by typing `!report <person> <problem>`, where `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
+If you are using osu!(stable) or an IRC client, you can also report the user by typing `!report <person> <problem>`, where `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
 
 If you feel the remarks/advances were highly inappropriate, it isn't the first time that the user has made inappropriate remarks towards you, or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
