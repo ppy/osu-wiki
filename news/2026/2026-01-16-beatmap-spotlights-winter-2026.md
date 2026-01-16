@@ -93,7 +93,7 @@ Lince Cosmico's clean aesthetics and masterful playfield usage, combined with im
 **[Slax - Body to the Drum \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)**, created by [Waribashi](https://osu.ppy.sh/users/2250574) and [ler1211](https://osu.ppy.sh/users/19901680)\
 *primarily suggested and described by [nevqr](https://osu.ppy.sh/users/14269506)*\
 
-Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the taiko community, and when he was tasked with making an osu!original for the [osu!taiko World Cup 2025](/wiki/en/Tournaments/TWC/2025), he definitely delivered.
+Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the taiko community, and when he was tasked with making an osu!original for the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025), he definitely delivered.
 
 [Body to the Drum](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601) is made by none other than [ler1211](https://osu.ppy.sh/users/19901680). If you're familiar with traditional taiko tournament slots, NM1 is the name of the game. Prepare yourself for an absolute bundle of consistency, offbeat doublets, even-numbered patterns that will keep you on your toes (or fingers, in this case!), and, last but not least, streams coming right at you at 230 BPM! All while listening to an absolute banger of a track. 
 
@@ -162,7 +162,7 @@ This beatmap, created through the collaboration of composers [Dustvoxx and Locte
 
 Above all, this chart challenges players with an unending flow of rice patterns aligned with the song over the course of five minutes demanding extreme finger independence, technical proficiency, and stamina. Experience the diverse music and immersive patterning that persist throughout the entire chart, and take on the extreme difficulty as you feel the intense buildup of notes maintained from the first kiai all the way to the very end.
 
-This chart was included in the map pool for the [osu!mania 7K Chinese National Cup 2024](/wiki/en/Tournaments/MCNC/7K2024) Finals. While it was not played on match day, its inclusion in a finals-level map pool speaks to the chart's quality.
+This chart was included in the map pool for the [osu!mania 7K Chinese National Cup 2024](/wiki/Tournaments/MCNC/7K2024) Finals. While it was not played on match day, its inclusion in a finals-level map pool speaks to the chart's quality.
 
 With its demanding structure and sustained intensity, this chart stands as a fitting representation of the season. Players looking for a true test of control and endurance will find a deeply rewarding experience from start to finish, and we are pleased to present it as this season's Beatmap of the Season.
 
