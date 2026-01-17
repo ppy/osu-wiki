@@ -18,45 +18,15 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 
 ## Folders
 
-### cache
-
-The cache folder holds osu!'s cache, like fonts and shaders.
-
-### client.realm.management
-
-This folder is empty.
-
-### exports
-
-The exports folder holds any exported files, including logs and beatmaps.
-
-### files
-
-The files folder holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information.
-
-### logs
-
-Stores the following game logs:
-
-- ID.auth.log
-- ID.database.log
-- ID.input.log
-- ID.nauth.log
-- ID.network.log
-- ID.performance.log
-- ID.runtime.log
-
-### rulesets
-
-The rulesets folder holds custom ruleset files (.dll). These can be downloaded [here](https://github.com/ppy/osu/discussions/13096).
-
-### screenshots
-
-The screenshots folder holds screenshots the player has created in osu!. By default, the saved screenshot's file extension is `.jpg`, however this can be changed to `.png` in the Options menu.
-
-*Note: To create a screenshot, press the screenshot key (F12 by default).*
-
-The file name structure is `osu_YYYY-MM-DD_HH-MM-SS`.
+| Name | Usage |
+| ---- | ----- |
+| cache | Holds osu!'s cache, like fonts and shaders |
+| client.realm.management |  |
+| exports | Holds any exported files, including logs and beatmaps |
+| files | Holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information. |
+| logs | Holds game logs |
+| rulesets | Holds custom rulesets (`.dll` files). There is a [listing of them on the osu! GitHub repository](https://github.com/ppy/osu/discussions/13096). |
+| screenshots | Holds screenshots taken in osu! |
 
 ## Storage structure
 
