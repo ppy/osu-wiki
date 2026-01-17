@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 502953c245f58ddf62c5a1eed56e5ba70f388066
----
-
 # 内容使用规范
 
 osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作品。因此，玩家需要确保自己已经被授权，标明这些作品的归属，才能在新的创作中，使用其他任何创作者的作品。
@@ -355,7 +350,6 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | [Shawn Wasabi](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | [siqlo](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | [siromaru](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] |
@@ -428,7 +422,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 
 #### 部分允许，有例外
 
-这一段最后更新于 2025 年 3 月 30 日。
+这一段最后更新于 2025 年 11 月 22 日。
 
 | 艺术家 |  | 可用状态 | 备注 |
 | :-- | :-- | :-- | :-- |
@@ -436,10 +430,13 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
+|  | Igorrr | ![][partial] | 仅包含在 [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) 的精选艺术家列表中的合作曲目可以使用。请勿使用或上传任何其他音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | 请勿使用含有 "execution_program" 标识的音频。 |
+|  | MEGAREX (音乐厂牌) | ![][partial] | 仅厂牌相关创作者的精选艺术家列表中包含的音频可以被使用，请勿使用或上传任何其他音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | 请勿使用或上传*东方 Project* 主题的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
@@ -454,7 +451,6 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
 | kozato | ![][false] |
 | NOMA | ![][false] |

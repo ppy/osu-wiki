@@ -2,7 +2,7 @@
 
 *Para conocer los criterios de clasificación completos, véase: [Criterios de clasificación](/wiki/Ranking_criteria)*
 
-La lista completa de [criterios de clasificación](/wiki/Ranking_criteria) es complicada. Explica todas las reglas y pautas necesarias para crear un [beatmap](/wiki/Beatmap) digno de ser [clasificado](/wiki/Beatmap_ranking_procedure#clasificados), incluidas *muchas* situaciones específicas que la mayoría de los mappers nunca encuentran.
+La lista completa de [criterios de clasificación](/wiki/Ranking_criteria) es complicada. Explica todas las reglas y pautas necesarias para crear un [beatmap](/wiki/Beatmap) digno de ser [clasificado](/wiki/Beatmap_ranking_procedure#clasificación), incluidas *muchas* situaciones específicas que la mayoría de los mappers nunca encuentran.
 
 Los **criterios de clasificación simplificados** tienen como objetivo brindar a los mappers una perspectiva más clara sobre lo que se requiere para crear un mapa clasificable a través de lo siguiente:
 
@@ -29,17 +29,23 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 - **Un [mapper invitado](/wiki/Beatmap/Guest_difficulty) no puede crear más dificultades que el [anfitrión](/wiki/Beatmap/Beatmap_host).**
 - **Requisito mínimo para la dificultad más baja por modalidad y longitud:**
 
-| [Tiempo de drenaje](/wiki/Beatmap/Drain_time) | osu! | osu!taiko |
-| :-- | :-: | :-: |
-| **De 0:30 a 3:30** | Normal | Futsuu |
-| **De 3:30 a 4:15** | Hard | Muzukashii |
-| **De 4:15 a 5:00** | Insane | Oni |
+| [Tiempo de drenaje](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
+| :-- | :-: |
+| **De 0:30 a 3:30** | Normal |
+| **De 3:30 a 4:15** | Hard |
+| **De 4:15 a 5:00** | Insane |
 
-| [Tiempo de drenaje](/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
+| [Tiempo de drenaje](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
 | :-- | :-: | :-: |
-| **De 0:30 a 2:30** | Salad | Normal |
-| **De 2:30 a 3:15** | Platter | Hard |
-| **De 3:15 a 4:00** | Rain | Insane |
+| **De 0:30 a 2:30** | Futsuu | Salad |
+| **De 2:30 a 3:15** | Muzukashii | Platter |
+| **De 3:15 a 4:00** | Oni | Rain |
+
+| [Tiempo de drenaje](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
+| :-- | :-: |
+| **De 0:30 a 2:00** | Normal |
+| **De 2:00 a 2:45** | Hard |
+| **De 2:45 a 3:30** | Insane |
 
 ### Hitsounds
 
@@ -149,13 +155,13 @@ Los **criterios de clasificación simplificados** tienen como objetivo brindar a
 - **Evita los cambios de velocidad de los sliders en las dificultades más bajas.**
 - **Cada dificultad debe seguir sus respectivas pautas para los momentos de descanso:**
 
-| Dificultad | Momento de descanso | Longitud de la cadena del ritmo |
-| --: | :-: | :-: |
-| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Momento de descanso necesario cada 32-36 pulsos |
-| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Momento de descanso necesario cada 32-36 pulsos |
-| **Muzukashii** (opción 1) | ![3/2](img/taiko/muzu1.png "3/2") | Momento de descanso necesario cada 16-20 pulsos |
-| **Muzukashii** (opción 2) | ![Tres 1/1 consecutivos](img/taiko/muzu2.png?1 "Tres 1/1 consecutivos") | Momento de descanso necesario cada 16-20 pulsos |
-| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Momento de descanso necesario cada 16-20 pulsos |
+| Dificultad | Momento de descanso | Ejemplo | Longitud de la cadena del ritmo |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 o más | ![3/1](img/taiko/kantan.png "3/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 o más | ![2/1](img/taiko/futsuu.png "2/1") | Momento de descanso necesario cada 32-36 pulsos |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 1) | 3/2 o más | ![3/2](img/taiko/muzu1.png "3/2") | Momento de descanso necesario cada 16-20 pulsos |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (opción 2) | Tres 1/1 consecutivos o más | ![Tres 1/1 consecutivos](img/taiko/muzu2.png "Tres 1/1 consecutivos") | Momento de descanso necesario cada 16-20 pulsos |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 o más | ![1/1](img/taiko/oni.png "1/1") | Momento de descanso necesario cada 16-20 pulsos |
 
 ### osu!catch
 
