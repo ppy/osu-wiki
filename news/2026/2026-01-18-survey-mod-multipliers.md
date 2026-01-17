@@ -77,6 +77,11 @@ The remaining tabs will then show a comparison of how leaderboards would change 
 
 Many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey and programming the spreadsheet.
 
-The survey will be open for two weeks, and closes on **1 February 2026**.
+There are a few notable things that this survey doesn't cover as directly:
+
+- Even though the *Blue Zenith* example is a good illustration of how the Classic mod multiplier affects leaderboards currently, Classic scores with accuracies above 99% would be less affected by a mod multiplier change than a scoring formula change. This is why the survey only asks about scores with 99% accuracy or below.
+- Mods new to osu!(lazer) are not covered since (it would make the survey too long, and) most players haven't tried them enough yet.
+
+In any case, the current survey will be open for **two weeks**, and closes on **1 February 2026**.
 
 —Walavouchey
