@@ -5,7 +5,7 @@ date: 2026-01-17 21:30:00 +0000
 series: featured_artists
 ---
 
-You've reached the end of the line. A new realm of music is here.
+osu! mappers know how to make osu! music.
 
 ![](https://assets.ppy.sh/artists/520/header.jpg)
 
