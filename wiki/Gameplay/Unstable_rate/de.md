@@ -32,8 +32,8 @@ Während des Spiels werden die zur Berechnung der Streuung genutzten Trefferfehl
 Viele Leute verlassen sich beim Vergleichen der Streuungswerte von mehreren Spielen mit verschiedenen Mods auf das inoffizielle Konzept der **konvertierten Streuung** (im Englischen **converted unstable rate** oder kurz ***cv. UR***), bei der die Geschwindigkeitsänderung durch die Mods herausgerechnet wird.
 
 ```
-cv. UR für Double Time = UR / 1.5
-cv. UR für Half Time   = UR / 0.75
+cv. UR für Double Time = UR / 1,5
+cv. UR für Half Time   = UR / 0,75
 ```
 
 ### In lazer
