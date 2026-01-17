@@ -119,19 +119,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 ## Match schedule: Round of 32
 
-### Saturday, 17 January 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 6 | Russian Federation ::{ flag=RU }:: | ::{ flag=NZ }:: New Zealand | [Jan 17 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T090000&p1=1440&p2=166&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 7 | Japan ::{ flag=JP }:: | ::{ flag=NO }:: Norway | [Jan 17 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T110000&p1=1440&p2=248&p3=187) | [osulive](https://twitch.tv/osulive) |
-| 1 | South Korea ::{ flag=KR }:: | ::{ flag=DK }:: Denmark | [Jan 17 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T120000&p1=1440&p2=235&p3=69) | [osulive](https://twitch.tv/osulive) |
-| 8 | Venezuela ::{ flag=VE }:: | ::{ flag=TW }:: Taiwan | [Jan 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T140000&p1=1440&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 12 | Thailand ::{ flag=TH }:: | ::{ flag=PT }:: Portugal | [Jan 17 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T140000&p1=1440&p2=28&p3=133) | [osulive_2](https://twitch.tv/osulive_2) |
-| 11 | Hong Kong ::{ flag=HK }:: | ::{ flag=BR }:: Brazil | [Jan 17 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T150000&p1=1440&p2=102&p3=45) | [osulive](https://twitch.tv/osulive) |
-| 2 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jan 17 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T160000&p1=1440&p2=195&p3=188) | [osulive](https://twitch.tv/osulive) |
-| 4 | United States ::{ flag=US }:: | ::{ flag=NL }:: Netherlands | [Jan 17 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260117T200000&p1=1440&p2=263&p3=16) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 18 January 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -154,6 +141,17 @@ Thursday, 15 January 2026:
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | 3 | Australia ::{ flag=AU }:: | 3 | **5** | ::{ flag=IE }:: **Ireland** | [#1](https://osu.ppy.sh/community/matches/120312559) | [#1](https://www.twitch.tv/videos/2670616579) |
+
+Saturday, 17 January 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 6 | **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/120326982) | [#1](https://www.twitch.tv/videos/2672518546) |
+| 7 | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/120327568) | [#1](https://www.twitch.tv/videos/2672519731) |
+| 1 | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/120327785) | [#1](https://www.twitch.tv/videos/2672519733) |
+| 8 | **Venezuela** ::{ flag=VE }:: | **5** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/120328610) | [#1](https://www.twitch.tv/videos/2672521566) |
+| 12 | **Thailand** ::{ flag=TH }:: | **5** | 4 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/120328601) | [#1](https://www.twitch.tv/videos/2672515862) |
+| 11 | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/120329057) | [#1](https://www.twitch.tv/videos/2672527357) |
 
 ### Qualifiers
 
