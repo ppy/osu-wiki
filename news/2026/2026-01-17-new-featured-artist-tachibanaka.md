@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "New Featured Artist: tachibanaka"
-date: 2026-01-17 16:00:00 +0000
+date: 2026-01-17 21:30:00 +0000
 series: featured_artists
 ---
 
 You've reached the end of the line. A new realm of music is here.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/520/header.jpg)
 
 **tachibanaka** is no stranger to osu!. Better known in the community as [Tachibana_](https://osu.ppy.sh/users/13069714), a circle clicker and mapper quickly approaching the status of [Centurion](https://osu.ppy.sh/wiki/en/People/Centurions) with 78 Ranked maps and counting, **tachibanaka** launched their music career in a way you could've easily guessed: by listening to music through the osu!editor. 
 
@@ -23,7 +23,7 @@ Hybrid maps are a rarity these days, but [Daycore](https://osu.ppy.sh/users/5596
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/520/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -32,7 +32,7 @@ Hybrid maps are a rarity these days, but [Daycore](https://osu.ppy.sh/users/5596
 Sink your keys into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2283380) hosted by [Ryxliee](https://osu.ppy.sh/users/15823344)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Subsidence.mp3">
 </audio>
 
 ### hellfly, tachibanaka - cute things
@@ -40,7 +40,7 @@ Sink your keys into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2283380)
 Combining music and mapping knowledge resulted in [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2379637) created by the artists, [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) and [Tachibana_](https://osu.ppy.sh/users/13069714)!
 
 <audio controls class="osu-md__paragraph">
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/hellfly%2C%20tachibanaka%20-%20cute%20things.mp3">
 </audio>
 
 If you're looking for more maps, here are a bunch that'll hopefully be Ranked one day:
@@ -48,49 +48,43 @@ If you're looking for more maps, here are a bunch that'll hopefully be Ranked on
 ### [tachibanaka - pink sunset](https://osu.ppy.sh/beatmapsets/2403644)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20pink%20sunset.mp3">
 </audio>
 
 ### [tachibanaka - Spark](https://osu.ppy.sh/beatmapsets/2306844)
 
 <audio controls>
-    <source src="LINK">
-</audio>
-
-### [tachibanaka - far out](https://osu.ppy.sh/beatmapsets/2489371)
-
-<audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Spark.mp3">
 </audio>
 
 ### [tachibanaka - HOMICIDE](https://osu.ppy.sh/beatmapsets/2442147)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Homicide.mp3">
 </audio>
 
 ### [tachibanaka - Soaring in the Sky](https://osu.ppy.sh/beatmapsets/2189551)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Soaring%20in%20the%20Sky.mp3">
 </audio>
 
 ### [tachibanaka - Sorrow](https://osu.ppy.sh/beatmapsets/2422610)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Sorrow.mp3">
 </audio>
 
 ### [tachibanaka - unsigned memories](https://osu.ppy.sh/beatmapsets/2435068)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Unsigned%20Memories.mp3">
 </audio>
 
 ### [tachibanaka - Lost](https://osu.ppy.sh/beatmapsets/2398895)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/520/Songs/tachibanaka%20-%20Lost.mp3">
 </audio>
 
 ---
