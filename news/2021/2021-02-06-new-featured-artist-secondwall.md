@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: SECONDWALL"
 date: 2021-02-06 10:00:00 +0000
+series: featured_artists
 ---
 
 **SECONDWALL** jumps in as our newest Featured Artist!

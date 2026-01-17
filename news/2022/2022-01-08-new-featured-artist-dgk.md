@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: DGK"
 date: 2022-01-08 09:00:00 +0000
+series: featured_artists
 ---
 
 A musician with more aliases than you'd expect, **DGK** joins the lineup as our latest Featured Artist!

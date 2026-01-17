@@ -3,6 +3,7 @@ layout: post
 title: osu!catch Spread Problem
 date: 2016-09-19 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/150614301470/osucatch-spread-problem
+series: miscellaneous
 ---
 
 Hello guys! **I'm about to speak a little about the gap between Salads and Platters**.

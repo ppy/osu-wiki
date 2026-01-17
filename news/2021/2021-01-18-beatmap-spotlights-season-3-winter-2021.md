@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 3: Winter 2021 & Applications"
 date: 2021-01-18 10:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights rivals assemble! As many of you might've already known, the Autumn Season 2020 is over, and after a little bit of a delay, we're finally here to announce the start of the **Winter Season** for 2021!

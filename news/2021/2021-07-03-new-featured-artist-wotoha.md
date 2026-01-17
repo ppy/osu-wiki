@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: wotoha"
 date: 2021-07-03 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **wotoha** aboard as our latest Featured Artist!

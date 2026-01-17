@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2024: Round of 32 Recap"
 date: 2024-11-07 12:00:00 +0000
+series: world_cups
 ---
 
 Tune in and check out the Round of 32 results, recaps of the most exciting matches, player interviews, and much more!

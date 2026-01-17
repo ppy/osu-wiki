@@ -2,6 +2,7 @@
 layout: post
 title: osu! Beatmapping World Championship 2020 Concludes!
 date: 2020-10-22 17:50:00 +0000
+series: community_tournaments
 ---
 
 After 5 months of intense competition among a total of 32 teams enlisted in this contest, the results are finally out!

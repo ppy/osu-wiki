@@ -69,7 +69,7 @@ For reference, below is a table of all CI checks in order:
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Whether Markdown syntax is correct and consistent in wiki articles and news posts. | Add `SKIP_REMARK` anywhere in the pull request description. To permanently suppress a specific error, add `<!-- lint ignore rule-name -->` above the offending line, where `rule-name` is the rule to ignore. |
 | 3 | YAML | `check-yaml` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether YAML syntax is correct and consistent in the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file and in [front matter](/wiki/Article_styling_criteria/Formatting#front-matter) | None. |
 | 4 | Broken wiki links | `check-links` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether internal [wiki links](/wiki/Article_styling_criteria/Formatting#wiki-links) point to an actual article, news post (for news post links), or section thereof. | Add `SKIP_WIKILINK_CHECK` anywhere in the pull request description. |
-| 5 | Outdated translations | `check-outdated-articles` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether translations are properly [marked as outdated](/wiki/Article_styling_criteria/Formatting#outdated-translations) when updating an English article. | Add `SKIP_OUTDATED_CHECK` anywhere in the pull request description. |
+| 5 | Outdated translations | The ["Post-merge outdate processing"](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/post-merge-outdate.yml) GitHub action | After merge, automatically mark unedited translations of English articles [as outdated](/wiki/Article_styling_criteria/Formatting#outdated-translations). | See [Outdated translations](#outdated-translations). |
 
 ##### Markdown [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) remark lint rule
 
@@ -107,11 +107,23 @@ Contributors are encouraged to fix broken links while updating articles. That sa
 - Section links to a translation where the section does not exist
 - Moving files around (for links already broken not as a result from this)
 
-##### Outdated translation check
+##### Outdated translations
 
 *See also: [Article styling criteria/Formatting § Outdated translations](/wiki/Article_styling_criteria/Formatting#outdated-translations) and [Article styling criteria/Writing § Content parity](/wiki/Article_styling_criteria/Writing#content-parity)*
 
-Skipping the outdated translation check (and not marking translations as outdated) may be done for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
+Translations do not need to be marked as outdated for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article. In these cases, the automatic step of marking translations as outdated can be bypassed.
+
+To do so, specify which files or articles should **not** be outdated by adding one or several instructions below to the description of a pull request, each on a separate line. The following formats are supported:
+
+| Instruction | Meaning |
+| :-- | :-- |
+| `DO_NOT_OUTDATE: wiki/Path/To/Article/es.md` | Skip one translation. |
+| `DO_NOT_OUTDATE: wiki/Article` | Skip all translations of `Article`. |
+| `DO_NOT_OUTDATE: wiki/*/es.md` | Skip all Spanish translations. |
+| `DO_NOT_OUTDATE: wiki/{Article,Other_article}/{es,jp}.md` | Skip Spanish and Japanese translations of `Article` and `Other article`. |
+| `DO_NOT_OUTDATE: wiki/Article + wiki/Other_article/es.md` | Combine several rules on a single line. |
+
+The `wiki/` prefix may be skipped for convenience.
 
 ### Development
 
@@ -144,7 +156,7 @@ A translation may be merged without a native review if it has been more than one
 
 ### Stub expansion
 
-*For possible scope of work, see: [List of existing stubs (English)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*For possible scope of work, see: [List of existing stubs (English)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Some articles of the osu! wiki are incomplete and lack information. Such articles are marked as *stubs*, which means that they are important enough to exist as individual pages, but will be completed later. If you are familiar with the topic of the article, contribute to it and share your knowledge.
 
@@ -158,6 +170,6 @@ osu! is an ever-changing environment: the community makes new beatmaps, invents 
 
 ### Updates
 
-*For possible scope of work, see: [List of untracked TODOs (English)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*For possible scope of work, see: [List of untracked TODOs (English)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Existing articles need maintenance too. If you have found a factual error, or there are details missing, or if you simply want to rewrite/expand the article according to the reality, step forward and make the osu! wiki a better place. In case the change you plan is large or significant enough, make sure to bring it up for discussion in the `#osu-wiki` channel, or [create a tracking issue](https://github.com/ppy/osu-wiki/issues/new).

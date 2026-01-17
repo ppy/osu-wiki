@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: miraie"
 date: 2021-05-05 08:00:00 +0000
+series: featured_artists
 ---
 
 osu! player and modern music pioneer **miraie** rolls in as our latest Featured Artist!

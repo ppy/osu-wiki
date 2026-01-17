@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: yukitani"
 date: 2021-05-22 08:00:00 +0000
+series: featured_artists
 ---
 
 **yukitani** joins the lineup as our latest addition to the Featured Artist roster!

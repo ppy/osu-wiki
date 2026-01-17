@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2022 Fanart Contest Results
 date: 2022-10-29 09:00:00 +0000
+series: fanart_contests
 ---
 
 The ghoulishly-difficult voting has finished, and we emerge now into the moonlight with our latest Halloween-themed finalists!

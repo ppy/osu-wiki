@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: January 19, 2025"
 date: 2025-01-19 12:00:00 +0000
+series: game_updates
 ---
 
 New year, new osu!(lazer) updates.

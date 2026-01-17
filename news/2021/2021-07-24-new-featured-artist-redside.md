@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Redside"
 date: 2021-07-24 10:00:00 +0000
+series: featured_artists
 ---
 
 **Redside** enters the stage as our latest Featured Artist!

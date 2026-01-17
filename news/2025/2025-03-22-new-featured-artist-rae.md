@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: rae"
 date: 2025-03-22 22:00:00 +0000
+series: featured_artists
 ---
 
 If a new type of sound is what you're looking for, **rae** is here to deliver.

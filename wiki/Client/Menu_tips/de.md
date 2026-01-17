@@ -103,7 +103,7 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Unterstützung für Multithreading bedeutet, dass selbst bei geringen "FPS" deine Eingaben und Beurteilungen präzise sein werden!
 - Probiere, in der Modauswahl nach rechts zu scrollen, um einen Haufen neuer spaßiger Mods zu entdecken!
 - Die meisten Webinhalte (Profile, Ranglisten etc.) sind über die Symbole in der Symbolleiste direkt im Spiel verfügbar!
-- Erhalte mehr Details, verstecke oder lösche eine Beatmap, indem du mit der rechten Maustaste auf ihr Dialogfeld in der Songauswahl klickst!
+- Klicke in der Songauswahl mit der rechten Maustaste auf das Dialogfeld einer Beatmap, um sie auszublenden, zu löschen oder um weitere Details zu erhalten!
 - Alle Löschoperationen sind bis zum Verlassen des Spiels nur vorübergehend. Stelle versehentlich gelöschte Inhalte in den Wartungseinstellungen wieder her!
 - Probiere das "Playlists"-System aus, das Nutzer ihre eigenen, bleibenden Bestenlisten kreieren lässt!
 - Mit `Strg` + `F11` kannst du Statistiken über Frames und Threads erhalten!
@@ -121,6 +121,8 @@ Diese Tipps erscheinen unten im Hauptmenü von [osu!(lazer)](/wiki/Client/Releas
 - Klicke mit der rechten Maustaste auf einen Score in der Rangliste, um dieselben Mods zu aktivieren!
 - `Strg` + `Eingabe` in der Songauswahl startet eine Beatmap im automatischen Modus!
 - "Lazer" ist kein englisches Wort. Das grelle Licht schreibt sich "laser".
+- Klicke mit der rechten Maustaste nahe dem Beatmap-Karussell, um schnell an eine absolute Position zu scrollen!
+- Klicke mit der Shift-Taste auf ein Beatmap-Panel in der Beatmap-Auflistung, um die Beatmap schnell herunterzuladen oder in der Songauswahl anzuzeigen!
 
 ## Siehe auch
 

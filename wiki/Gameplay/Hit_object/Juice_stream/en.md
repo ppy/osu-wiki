@@ -6,7 +6,7 @@ stub: true
 
 *See also: [Score](/wiki/Gameplay/Score)*
 
-**Juice streams** are an element in [osu!catch](/wiki/Game_mode/osu!catch) which include both drops and droplets. Juice streams get generated when a [slider](/wiki/Gameplay/Hit_object/Slider) is placed in the editor.
+**Juice streams** are an element in [osu!catch](/wiki/Game_mode/osu!catch) which include both drops and droplets. Juice streams are generated when a [slider](/wiki/Gameplay/Hit_object/Slider) is placed in the editor.
 
 ## Drop
 
@@ -16,10 +16,12 @@ Successfully catching a drop will earn the player a [score](/wiki/Gameplay/Score
 
 ## Droplet
 
-*Droplets* are small coloured [hit objects](/wiki/Gameplay/Hit_object) present in [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap).
+*Droplets* are small coloured objects present in [osu!catch](/wiki/Game_mode/osu!catch) [beatmaps](/wiki/Beatmap). They are automatically generated as part of juice streams and are not classified as [hit objects](/wiki/Gameplay/Hit_object).
 
 Successfully catching a droplet will earn the player a [score](/wiki/Gameplay/Score) of 10, provide a small boost to the [health bar](/wiki/Client/Interface/Health_bar), and is treated as 50 in the result screen. If the player fails to catch a droplet it will result in a loss in [health](/wiki/Gameplay/Health) and the player will maintain their [combo](/wiki/Gameplay/Combo_(score_multiplier)).
 
-<!-- TODO: Explain how droplets get generated -->
+Droplets are generated to fill long gaps between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit) or drops. They are only created when the time difference between two fruits or drops exceeds 80 milliseconds. In such cases, the gap is subdivided into evenly spaced intervals no greater than 100 milliseconds, and droplets are placed at each interval between the two objects.
+
+Each droplet is placed along the slider body between the surrounding fruit or drop, following the slider’s shape. Their position is however randomized within a certain range to add variety to their placement.
 
 <!-- TODO: Add images -->

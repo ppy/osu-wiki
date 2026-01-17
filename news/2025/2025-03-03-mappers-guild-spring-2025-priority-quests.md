@@ -2,6 +2,7 @@
 layout: post
 title: Mappers' Guild - Spring 2025 Priority Quests
 date: 2025-03-03 20:15:00 +0000
+series: mappers_guild
 ---
 
 Creativity thrives on constraints, and the creative side of osu! mapping is no exception. Rethink how you map with the Mappers' Guild's newest quests!

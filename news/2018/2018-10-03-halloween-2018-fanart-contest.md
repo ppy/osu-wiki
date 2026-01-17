@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2018 Fanart Contest
 date: 2018-10-03 16:00:00 +0000
+series: fanart_contests
 ---
 
 You're walking in the woods. There's no one around, and your phone is dead. Out of the corner of your eye, you spot it - another osu! Halloween-themed Fanart Contest. Oh no! Draw for your life, and sweet prizes!

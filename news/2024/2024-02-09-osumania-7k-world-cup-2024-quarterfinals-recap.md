@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2024: Quarterfinals Recap"
 date: 2024-02-09 20:00:00 +0000
+series: world_cups
 ---
 
 The stakes are getting higher and higher as the 1st elimination phase of the tournament concludes! Tune in to see whether your favourite team made the cut!

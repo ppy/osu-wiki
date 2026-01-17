@@ -2,6 +2,7 @@
 layout: post
 title: osu!tablets return
 date: 2025-02-12 03:30:00 +0000
+series: merch_runs
 ---
 
 While mouse can (do) everything, it wouldn't hurt to try out the most iconic input method osu! has to offer.
@@ -12,7 +13,7 @@ Over 10 years ago, we offered a series of tablets on [the osu! store](https://os
 
 And they had problems.
 
-Those [old school osu!tablets](/wiki/Guides/Tablet_purchase#osu!store) had input detection issues and a *heavy* battery inside the pen, leading to less-than-ideal circle clicking conditions. Also if anyone still has one in active use, very sorry about the degrading rubberised coating on the pen which has become a sticky mess!
+Those [old school osu!tablets](/wiki/Past_osu!store_items#osu!tablet) had input detection issues and a *heavy* battery inside the pen, leading to less-than-ideal circle clicking conditions. Also if anyone still has one in active use, very sorry about the degrading rubberised coating on the pen which has become a sticky mess!
 
 Despite their downsides, early osu!tablets were still popular among first-time tablet users. Tablets often recommended by pro players were more expensive, and beginners naturally wanted to test the waters before diving in with a pricey peripheral.
 

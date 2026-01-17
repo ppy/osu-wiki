@@ -46,4 +46,4 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
 
 ### [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
-- Solicitudes de [soporte oficial para torneos](/wiki/Tournaments/Official_support) y consultas generales sobre torneos en consulta con el [comité de torneos](/wiki/People/Tournament_Committee).
+- Solicitudes de [soporte oficial para torneos](/wiki/Tournaments/Official_support) y consultas generales sobre torneos en consulta con el [Comité de Torneos](/wiki/People/Tournament_Committee).

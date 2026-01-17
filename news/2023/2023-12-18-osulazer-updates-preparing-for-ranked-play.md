@@ -2,6 +2,7 @@
 layout: post
 title: osu!(lazer) Updates & Preparing For Ranked Play
 date: 2023-12-18 16:00:00 +0000
+series: game_updates
 ---
 
 For this last update of the year, the transition to ranked play in the new client is about to begin its final ascent.

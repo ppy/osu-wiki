@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Receptor"
 date: 2020-07-22 08:00:00 +0000
+series: featured_artists
 ---
 
 We're excited to welcome **Receptor** aboard as our latest Featured Artist!

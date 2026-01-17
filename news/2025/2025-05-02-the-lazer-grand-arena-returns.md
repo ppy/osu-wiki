@@ -2,6 +2,7 @@
 layout: post
 title: The Lazer Grand Arena Returns
 date: 2025-05-02 15:00:00 +0000
+series: world_cups
 ---
 
 The Lazer Grand Arena is back for its 2025 edition, with a new format and streamlined entry! 
@@ -16,10 +17,11 @@ As always, for more details pertaining to the tournament, please refer to the **
 
 | Event | Timestamp |
 | --: | :-- |
-| Qualifier and tournament format showcase | 2025-05-04 (15:00 UTC) |
-| Qualifier stage | 2025-05-04 (19:00 UTC) – 2025-05-11 (19:00 UTC) |
-| Bracket stage (single elimination) | 2025-05-17 & 2025-05-18 |
-| Top 8 (double elimination) | 2025-05-24 & 2025-05-25 |
+| Qualifier and tournament format showcase | May 4 (15:00 UTC) |
+| Qualifier stage | May 4 (19:00 UTC) – May 11 (19:00 UTC) |
+| Bracket stage (single elimination) | May 17 & May 18 |
+| Top 8 (double elimination) | May 24 & May 25 |
+| Top 3 | May 30 & May 31 |
 
 ## Tournament format showcase
 

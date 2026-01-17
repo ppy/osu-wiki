@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kanpyohgo"
 date: 2022-06-11 13:00:00 +0000
+series: featured_artists
 ---
 
 **Kanpyogho** shuffles into our deck of Featured Artists!

@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Hivie, the Man of Many Things"
 date: 2024-12-05 10:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 Sometimes in order to keep the cogs turning, you need someone who does a little bit of everything. In this anniversary interview of The Followpoint, you'll learn more about such a person!

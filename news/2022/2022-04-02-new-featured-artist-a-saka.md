@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: A.SAKA"
 date: 2022-04-02 09:00:00 +0000
+series: featured_artists
 ---
 
 **A.SAKA** whirlwinds their way into our Featured Artist collection!

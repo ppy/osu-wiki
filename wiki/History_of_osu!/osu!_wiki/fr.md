@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ede52e09b17e9c37acfcdbf6c3b0f18240afa66d
 no_native_review: true
 needs_cleanup: true
 ---

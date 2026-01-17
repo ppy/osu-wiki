@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: February Week 1"
 date: 2018-02-05 09:00:00 +0000
+series: project_loved
 ---
 
 Bringing you the latest from the [Project Loved](https://osu.ppy.sh/community/forums/120) community voting, now in a handy newspost format! Check out what's up for vote this week, and cast yours now!

@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contest: July"
 date: 2020-07-04 04:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Competitive beatmapping makes its return for yet another month! See the new way winners are chosen and participate for sweet prizes!

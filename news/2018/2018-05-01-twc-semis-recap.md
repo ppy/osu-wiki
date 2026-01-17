@@ -2,6 +2,7 @@
 layout: post
 title: osu!taiko World Cup - Semifinals Recap
 date: 2018-05-05 10:30:00 +0000
+series: world_cups
 ---
 
 Did you miss the past weekend of matches in the osu!taiko World Cup? Don't worry, as Eiuh helps you catch up on what went down in the Semifinals!

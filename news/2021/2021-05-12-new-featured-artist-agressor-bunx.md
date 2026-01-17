@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Agressor Bunx"
 date: 2021-05-12 09:00:00 +0000
+series: featured_artists
 ---
 
 **Agressor Bunx** joins the lineup as our newest Featured Artist!

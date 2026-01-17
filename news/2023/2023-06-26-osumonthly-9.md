@@ -2,6 +2,7 @@
 layout: post
 title: osu!monthly, March 2023
 date: 2023-06-26 10:00:00 +0000
+series: osu_monthly
 ---
 
 Get up to speed on the month of... March?

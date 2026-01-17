@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2020 Fanart Contest Voting Open!
 date: 2020-10-03 01:00:00 +0000
+series: fanart_contests
 ---
 
 AHHH! Largest fanart contest showing ever, for reals this time! Too many entries, too few votes, read on for more info.

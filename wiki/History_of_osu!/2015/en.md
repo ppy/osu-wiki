@@ -139,7 +139,7 @@ A few days later (19 November 2015), peppy updated users on the situation in [an
 [^osu-weekly-8]: [News post by Tasha (2015-05-01) "osu!weekly #8"](https://osu.ppy.sh/home/news/2015-05-01-osuweekly-8)
 [^realtime-bn-ranking]: [Forum thread by p3n (2015-06-04) "Realtime Beatmap Nominator Ranking"](https://osu.ppy.sh/community/forums/topics/334994)
 [^osu-weekly-14]: [News post by Tasha (2015-06-13) "osu!weekly #14"](https://osu.ppy.sh/home/news/2015-06-13-osuweekly-14)
-[^osu-weekly-9]: [News post by Tahsa (2015-05-08) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
+[^osu-weekly-9]: [News post by Tasha (2015-05-08) "osu!weekly #9"](https://osu.ppy.sh/home/news/2015-05-08-osuweekly-9)
 [^osu-news-welcome]: [YouTube video by osu!news (2015-05-08) "Welcome to the osu!news"](https://www.youtube.com/watch?v=iAhKcQK5Iw8)
 [^osu-weekly-12]: [News post by Tasha (2015-05-30) "osu!weekly 12"](https://osu.ppy.sh/home/news/2015-05-30-osuweekly-12)
 [^ppy-tweet-osu-keyboards]: [Tweet by @ppy (2015-05-28)](https://twitter.com/ppy/status/603797988742336512)

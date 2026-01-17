@@ -452,7 +452,7 @@ osu! строится вокруг свободы творчества и воз
 | Hatsuki Yura | ![][false] |
 | Igorrr | ![][false] |
 | kamome sano | ![][false] |
-| Kozato | ![][false] |
+| kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## Визуальное содержимое

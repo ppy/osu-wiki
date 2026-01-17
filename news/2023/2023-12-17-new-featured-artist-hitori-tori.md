@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Hitori Tori"
 date: 2023-12-17 17:30:00 +0000
+series: featured_artists
 ---
 
 Choose one: a fulfilling and longlasting life, or the world-shattering sounds of **Hitori Tori**.

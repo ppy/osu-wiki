@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Yokomin"
 date: 2023-04-16 09:00:00 +0000
+series: featured_artists
 ---
 
 VOCALOID beatmaps are rooted in the early days of osu!, and **Yokomin** is here to keep those origins alive.

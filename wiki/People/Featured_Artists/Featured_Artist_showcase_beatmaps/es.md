@@ -1,8 +1,8 @@
-# Beatmaps de exhibición de un artista destacado
+# Beatmaps de exhibición de un Artista Destacado
 
-Ocasionalmente, los miembros del [Mappers' Guild](/wiki/Community/Mappers_Guild) pueden crear «beatmaps de exhibición» exclusivos usando canciones y otro material inédito de los [artistas destacados](/wiki/People/Featured_Artists). Tras el anuncio del artista destacado correspondiente, estos beatmaps son destacados en el [sitio de noticias](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
+Ocasionalmente, los miembros del [Mappers' Guild](/wiki/Community/Mappers_Guild) pueden crear «beatmaps de exhibición» exclusivos usando canciones y otro material inédito de los [Artistas Destacados](/wiki/People/Featured_Artists). Tras el anuncio del Artista Destacado correspondiente, estos beatmaps son destacados en el [sitio de noticias](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
 
-Para participar en la creación de beatmaps de exhibición de un artista destacado, un miembro del Mappers' Guild debe aceptar una [misión misteriosa de tiempo limitado](/wiki/Community/Mappers_Guild#misiones), ser directamente invitado por ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), o tener la opción `FA showcase mapper` activada en el [sitio web del Mappers' Guild](https://mappersguild.com/).
+Para participar en la creación de beatmaps de exhibición de un Artista Destacado, un miembro del Mappers' Guild debe aceptar una [misión misteriosa de tiempo limitado](/wiki/Community/Mappers_Guild#misiones), ser directamente invitado por ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), o tener la opción `FA showcase mapper` activada en el [sitio web del Mappers' Guild](https://mappersguild.com/).
 
 Este artículo enumera todos los beatmaps de exhibición que han sido creados por los miembros del Mappers' Guild a lo largo del tiempo.
 
@@ -785,11 +785,11 @@ Este artículo enumera todos los beatmaps de exhibición que han sido creados po
 
 ## Historia
 
-Desde sus inicios, el Mappers' Guild ha establecido como uno de sus principales objetivos «crear paquetes de beatmaps promocionales para los próximos artistas destacados». Esto se vio reflejado en su primer gran proyecto, en el cual sus miembros prepararon y clasificaron seis beatmaps con [canciones licenciadas de MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) mucho antes del [anuncio del artista correspondiente](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
+Desde sus inicios, el Mappers' Guild ha establecido como uno de sus principales objetivos «crear paquetes de beatmaps promocionales para los próximos Artistas Destacados». Esto se vio reflejado en su primer gran proyecto, en el cual sus miembros prepararon y clasificaron seis beatmaps con [canciones licenciadas de MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19) mucho antes del [anuncio del artista correspondiente](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-Como el propio gremio funcionaba en sus inicios con una entrada cerrada basada en solicitudes, el acceso al próximo contenido de un artista destacado solía estar restringido únicamente a un puñado de mappers que eran predominantes en el modo de juego [osu!](/wiki/Game_mode/osu!). Sin embargo, a medida que el gremio comenzó a convertirse en un sistema abierto y automatizado [a principios de 2019](/wiki/History_of_osu!/Mapping_and_modding_timeline#marzo.5), cada vez más mappers se vieron atraídos por la creación de beatmaps de exhibición para futuros artistas destacados, independientemente de su modo de juego.
+Como el propio gremio funcionaba en sus inicios con una entrada cerrada basada en solicitudes, el acceso al próximo contenido de un Artista Destacado solía estar restringido únicamente a un puñado de mappers que eran predominantes en el modo de juego [osu!](/wiki/Game_mode/osu!). Sin embargo, a medida que el gremio comenzó a convertirse en un sistema abierto y automatizado [a principios de 2019](/wiki/History_of_osu!/Mapping_and_modding_timeline#marzo.5), cada vez más mappers se vieron atraídos por la creación de beatmaps de exhibición para futuros Artistas Destacados, independientemente de su modo de juego.
 
-Empezando desde [el anuncio de artista destacado de MYUKKE](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en diciembre de 2020, las nuevas publicaciones de anuncio de artistas destacados comenzaron a presentar vídeos cortos a manera de previsualizaciones, a menudo usando estos beatmaps de exhibición como su titular.
+Empezando desde [el anuncio de Artista Destacado de MYUKKE](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en diciembre de 2020, las nuevas publicaciones de anuncio de Artistas Destacados comenzaron a presentar vídeos cortos a manera de previsualizaciones, a menudo usando estos beatmaps de exhibición como su titular.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

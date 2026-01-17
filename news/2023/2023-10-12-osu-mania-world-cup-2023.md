@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup 2023 Concludes
 date: 2023-10-12 21:00:00 +0000
+series: world_cups
 ---
 
 The osu!mania 4K World Cup concluded as fast as it started. Get up to speed with the tournament's most memorable highlights!

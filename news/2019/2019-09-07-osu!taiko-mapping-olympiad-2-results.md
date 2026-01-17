@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #2 Results"
 date: 2019-09-05 13:45:00 +0000
+series: official_contests
 ---
 
 The judging for the first [osu!taiko Mapping Olympiad contest](https://osu.ppy.sh/community/contests/65) has been completed, and the results are in: congratulations to **[Nofool](https://osu.ppy.sh/users/672430)**, the first osu!taiko Mapping Olympian and our newest *Elite Mapper*!

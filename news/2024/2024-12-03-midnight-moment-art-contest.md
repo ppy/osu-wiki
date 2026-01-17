@@ -2,6 +2,7 @@
 layout: post
 title: Midnight Moment Art Contest
 date: 2024-12-03 13:00:00 +0000
+series: fanart_contests
 ---
 
 What better way to prepare for the New Year than sharing cozy late-night moments with friends?

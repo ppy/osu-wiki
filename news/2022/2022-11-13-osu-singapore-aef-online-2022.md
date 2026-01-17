@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Singapore: AEF Online 2022"
 date: 2022-11-13 04:00:00 +0000
+series: offline_events
 ---
 
 Hot off the heels of DreamJam (as recently featured in the osu!monthly), the osu! Singapore community is back for more with the third iteration of GST:LIVE!

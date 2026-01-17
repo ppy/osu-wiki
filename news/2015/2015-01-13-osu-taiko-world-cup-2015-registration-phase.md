@@ -3,6 +3,7 @@ layout: post
 title: osu! Taiko World Cup 2015 - Registration Phase
 date: 2015-01-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107977834958/osu-taiko-world-cup-2015-registration-phase
+series: world_cups
 ---
 
 We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them carefully](/wiki/Tournaments/TWC/2015#ruleset) before registering for this tournament.

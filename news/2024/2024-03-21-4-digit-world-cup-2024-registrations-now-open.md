@@ -2,6 +2,7 @@
 layout: post
 title: "4 Digit World Cup 2024: Registrations Now Open!"
 date: 2024-03-21 12:00:00 +0000
+series: community_tournaments
 ---
 
 Attention all 4 digit osu! players! The 4 Digit World Cup is back with its 2024 iteration — and a larger focus on competitiveness and player enjoyment!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: Performance Points Now Live"
 date: 2024-01-30 12:00:00 +0000
+series: game_updates
 ---
 
 The next client is ready for worldwide competition. Read on and decide whether you'll be taking it on today!

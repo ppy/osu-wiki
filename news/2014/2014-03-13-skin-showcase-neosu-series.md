@@ -3,6 +3,7 @@ layout: post
 title: "Skin Showcase: NeOsu series"
 date: 2014-03-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/79496003745/skin-showcase-neosu-series
+series: miscellaneous
 ---
 
 It was only a matter of time until this skin got showcased, and here it is at last. I present to you, the NeOsu series.

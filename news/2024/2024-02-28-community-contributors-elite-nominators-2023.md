@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors 2023: Elite Nominators"
 date: 2024-02-28 14:30:00 +0000
+series: miscellaneous
 ---
 
 Let's take a moment to recognise and celebrate our top community pillars who've vitalised the Ranked section in 2023.

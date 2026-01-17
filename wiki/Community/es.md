@@ -25,6 +25,7 @@ Esta página enumera las formas en que las personas de todo osu! pueden ponerse 
 
 - [Eventos de los Beatmap Nominators](/wiki/Community/Beatmap_Nominator_events)
 - [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
+- [Moscow osu! Event](/wiki/Community/Moscow_osu!_Event)
 - [Reuniones con la comunidad](/wiki/Community/osu!_community_meetings)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 

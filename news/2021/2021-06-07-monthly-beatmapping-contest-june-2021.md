@@ -2,6 +2,7 @@
 layout: post
 title: "Monthly Beatmapping Contests: June 2021"
 date: 2021-06-07 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Aiming to become osu!'s next *Elite Mapper*? Whip out your creative muscles in this month's square-pattern themed mapping contest!

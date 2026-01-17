@@ -2,6 +2,7 @@
 layout: post
 title: osu! Spooktacular Halloween Special
 date: 2019-10-30 13:00:00 +0000
+series: fanart_contests
 ---
 
 All Hallow's Eve is upon us, the blood moon has risen, devilishly delightful depictions and murderous medals abound—this can only mean one thing... **HALLOWEEN IS HERE!**

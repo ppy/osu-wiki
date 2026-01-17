@@ -1,8 +1,3 @@
----
-outdated_since: 3139de4953a023c1fa4d36c863bec1da90a88853
-outdated_translation: true
----
-
 # Información general para los Beatmap Nominators
 
 ¿Eres un [Beatmap Nominator](/wiki/People/Beatmap_Nominators) *(BN)* o estás interesado en convertirte en uno? Si es así, ¡has venido al lugar adecuado! En este artículo encontrarás toda la información general que necesitas saber como un nuevo Beatmap Nominator.
@@ -23,7 +18,7 @@ Las nominaciones y el restablecimiento de nominaciones son la prueba del trabajo
 
 ![Botón para nominar un mapa](img/nominate-ES.png)
 
-**Este botón te permite nominar beatmaps.** Para nominar un beatmap, el mapset debe tener al menos 5 [hypes](/wiki/Beatmap/Hype) y ningún problema o sugerencia sin resolver. Asegúrate de que estás satisfecho con todas las dificultades, incluyendo otros modos de juego, antes de colocar esto. Si el beatmap ha sido vetado previamente, debes asegurarte de que el veto se ha resuelto antes de hacer avanzar un mapset. Cuando un beatmap tiene 2 nominaciones, será [calificado](/wiki/Beatmap/Category#qualified) e ingresará a la [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue).
+**Este botón te permite nominar beatmaps.** Para nominar un beatmap, el mapset debe tener al menos 5 [hypes](/wiki/Beatmap/Hype) y ningún problema o sugerencia sin resolver. Asegúrate de que estás satisfecho con todas las dificultades, incluyendo otros modos de juego, antes de colocar esto. Si el beatmap ha sido vetado previamente, debes asegurarte de que el veto se ha resuelto antes de hacer avanzar un mapset. Cuando un beatmap tiene 2 nominaciones (o más si es un [conjunto híbrido](/wiki/Beatmap_ranking_procedure#notas)), será [calificado](/wiki/Beatmap/Category#qualified) e ingresará a la [cola de clasificación](/wiki/Beatmap_ranking_procedure/Ranking_queue).
 
 ### Descalificar o restablecer la nominación
 

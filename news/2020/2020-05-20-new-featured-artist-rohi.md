@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Rohi"
 date: 2020-05-20 02:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Rohi** aboard as our latest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MetaHumanBoi"
 date: 2024-07-13 20:00:00 +0000
+series: featured_artists
 ---
 
 If you think 200 BPM streams are fast, you haven't considered what **MetaHumanBoi** has to offer.

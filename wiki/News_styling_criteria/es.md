@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: eb6df07f028e91f9d8ba7b3df24fb3151f825836
+---
+
 # Criterios de estilo para las noticias
 
 *Para los artículos de la wiki, véase: [Criterios de estilo para los artículos](/wiki/Article_styling_criteria)*
@@ -123,6 +128,22 @@ Vídeo incrustado alojado en YouTube:
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
+```
+
+Vídeo incrustado alojado en Twitch:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+```
+
+Vista previa de un audio:
+
+```html
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
+</audio>
 ```
 
 ## Diseño

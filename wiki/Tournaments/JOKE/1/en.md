@@ -294,168 +294,168 @@ This competition has come to an end and resulted in the following podium:
 Saturday, 22 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Brasil** ::{ flag=BR }:: | **7** | 0 | ::{ flag=BR }:: SillyFanGirl | [#1](https://osu.ppy.sh/community/matches/65792850) |
-| **Jakads** ::{ flag=KR }:: | **7** | 0 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/65796111) |
+| --: | :-: | :-: | :-- | :-: |
+| **Brasil** ::{ flag=BR }:: | **7** | 0 | ::{ flag=BR }:: SillyFanGirl | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65792850) |
+| **Jakads** ::{ flag=KR }:: | **7** | 0 | ::{ flag=BR }:: Brasil | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65796111) |
 
  Sunday, 23 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Blerargh ::{ flag=SG }:: | 5 | **7** | ::{ flag=KR }:: **Jakads** | [#1](https://osu.ppy.sh/community/matches/65839224) |
-| **Jakads** ::{ flag=KR }:: | **7** | 5 | ::{ flag=SG }:: Blerargh | [#1](https://osu.ppy.sh/community/matches/65839224) |
+| --: | :-: | :-: | :-- | :-: |
+| Blerargh ::{ flag=SG }:: | 5 | **7** | ::{ flag=KR }:: **Jakads** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65839224) |
+| **Jakads** ::{ flag=KR }:: | **7** | 5 | ::{ flag=SG }:: Blerargh | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65839224) |
 
 ### Semifinals
 
 Saturday, 15 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | r1chyy ::{ flag=AU }:: | 0 | **6** | ::{ flag=BR }:: **Brasil** | *win by default* |
-| Paturages ::{ flag=FR }:: | 1 | **6** | ::{ flag=BR }:: **SillyFanGirl** | [#1](https://osu.ppy.sh/community/matches/65468823) |
+| Paturages ::{ flag=FR }:: | 1 | **6** | ::{ flag=BR }:: **SillyFanGirl** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65468823) |
 
  Sunday, 16 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Sparxe ::{ flag=NZ }:: | 2 | **6** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/65502967) |
-| **Blerargh** ::{ flag=SG }:: | **6** | 5 | ::{ flag=KR }:: Jakads | [#1](https://osu.ppy.sh/community/matches/65504265) |
-| AlvaroYL ::{ flag=ES }:: | 1 | **6** | ::{ flag=BR }:: **SillyFanGirl** | [#1](https://osu.ppy.sh/community/matches/65523941) |
+| --: | :-: | :-: | :-- | :-: |
+| Sparxe ::{ flag=NZ }:: | 2 | **6** | ::{ flag=BR }:: **Brasil** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65502967) |
+| **Blerargh** ::{ flag=SG }:: | **6** | 5 | ::{ flag=KR }:: Jakads | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65504265) |
+| AlvaroYL ::{ flag=ES }:: | 1 | **6** | ::{ flag=BR }:: **SillyFanGirl** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65523941) |
 
 ### Quarterfinals
 
 Saturday, 8 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| xChose ::{ flag=ID }:: | 0 | **6** | ::{ flag=MY }:: **Cryolien** | [#1](https://osu.ppy.sh/community/matches/65148510) |
-| Sparxe ::{ flag=NZ }:: | 2 | **6** | ::{ flag=SG }:: **Blerargh** | [#1](https://osu.ppy.sh/community/matches/65155361) |
-| Malox ::{ flag=DE }:: | 0 | **6** | ::{ flag=GB }:: **Teezel** | [#1](https://osu.ppy.sh/community/matches/65163310) |
-| **spamblock** ::{ flag=BE }:: | **6** | 1 | ::{ flag=CA }:: Lime717 | [#1](https://osu.ppy.sh/community/matches/65165178) |
+| --: | :-: | :-: | :-- | :-: |
+| xChose ::{ flag=ID }:: | 0 | **6** | ::{ flag=MY }:: **Cryolien** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65148510) |
+| Sparxe ::{ flag=NZ }:: | 2 | **6** | ::{ flag=SG }:: **Blerargh** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65155361) |
+| Malox ::{ flag=DE }:: | 0 | **6** | ::{ flag=GB }:: **Teezel** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65163310) |
+| **spamblock** ::{ flag=BE }:: | **6** | 1 | ::{ flag=CA }:: Lime717 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65165178) |
 
  Sunday, 9 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Jakads** ::{ flag=KR }:: | **6** | 3 | ::{ flag=ES }:: AlvaroYL | [#1](https://osu.ppy.sh/community/matches/65189697) |
-| **r1chyy** ::{ flag=AU }:: | **6** | 5 | ::{ flag=GB }:: Teezel | [#1](https://osu.ppy.sh/community/matches/65190162) |
-| **Paturages** ::{ flag=FR }:: | **6** | 2 | ::{ flag=MY }:: Cryolien | [#1](https://osu.ppy.sh/community/matches/65193498) |
-| arpia97 ::{ flag=CA }:: | 0 | **6** | ::{ flag=FR }:: **Adri** | [#1](https://osu.ppy.sh/community/matches/65195153) |
-| **SillyFanGirl** ::{ flag=BR }:: | **6** | 1 | ::{ flag=BE }:: spamblock | [#1](https://osu.ppy.sh/community/matches/65204653) |
-| **Brasil** ::{ flag=BR }:: | **6** | 3 | ::{ flag=FR }:: Adri | [#1](https://osu.ppy.sh/community/matches/65205084) |
+| --: | :-: | :-: | :-- | :-: |
+| **Jakads** ::{ flag=KR }:: | **6** | 3 | ::{ flag=ES }:: AlvaroYL | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65189697) |
+| **r1chyy** ::{ flag=AU }:: | **6** | 5 | ::{ flag=GB }:: Teezel | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65190162) |
+| **Paturages** ::{ flag=FR }:: | **6** | 2 | ::{ flag=MY }:: Cryolien | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65193498) |
+| arpia97 ::{ flag=CA }:: | 0 | **6** | ::{ flag=FR }:: **Adri** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65195153) |
+| **SillyFanGirl** ::{ flag=BR }:: | **6** | 1 | ::{ flag=BE }:: spamblock | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65204653) |
+| **Brasil** ::{ flag=BR }:: | **6** | 3 | ::{ flag=FR }:: Adri | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/65205084) |
 
 ### Round of 16
 
 Saturday, 1 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Jakads** ::{ flag=KR }:: | **5** | 0 | ::{ flag=AU }:: r1chyy | [#1](https://osu.ppy.sh/community/matches/64839507) |
-| **jackylam5** ::{ flag=NL }:: | **5** | 0 | ::{ flag=AU }:: PingLaw | [#1](https://osu.ppy.sh/community/matches/64843621) |
+| --: | :-: | :-: | :-- | :-: |
+| **Jakads** ::{ flag=KR }:: | **5** | 0 | ::{ flag=AU }:: r1chyy | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64839507) |
+| **jackylam5** ::{ flag=NL }:: | **5** | 0 | ::{ flag=AU }:: PingLaw | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64843621) |
 | Skull Kid ::{ flag=BR }:: | 0 | **5** | ::{ flag=AU }:: **AmateurMonkeyYT** | *win by default* |
-| **2fast4you98** ::{ flag=NL }:: | **5** | 0 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/64848533) |
-| SillyFanGirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=SG }:: **Blerargh** | [#1](https://osu.ppy.sh/community/matches/64848468) |
-| **AlvaroYL** ::{ flag=ES }:: | **5** | 4 | ::{ flag=BR }:: Brasil | [#1](https://osu.ppy.sh/community/matches/64848588) |
+| **2fast4you98** ::{ flag=NL }:: | **5** | 0 | ::{ flag=GB }:: Doomsday | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64848533) |
+| SillyFanGirl ::{ flag=BR }:: | 0 | **5** | ::{ flag=SG }:: **Blerargh** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64848468) |
+| **AlvaroYL** ::{ flag=ES }:: | **5** | 4 | ::{ flag=BR }:: Brasil | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64848588) |
 | **Kaionacho** ::{ flag=DE }:: | **5** | 0 | ::{ flag=AR }:: BossPlays | *win by default* |
 | \[GS\]Teo ::{ flag=US }:: | 0 | **5** | ::{ flag=NO }:: **prebert123** | *win by default* |
 | Panda_0ne ::{ flag=FR }:: | 0 | **5** | ::{ flag=RU }:: **GromOFanAniS** | *win by default* |
-| **spamblock** ::{ flag=BE }:: | **5** | 2 | ::{ flag=BR }:: Coryn | [#1](https://osu.ppy.sh/community/matches/64856939) |
-| **Sparxe** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=FR }:: Paturages | [#1](https://osu.ppy.sh/community/matches/64856805) |
-| _Riley ::{ flag=US }:: | 0 | **5** | ::{ flag=GB }:: **Teezel** | [#1](https://osu.ppy.sh/community/matches/64859125) |
+| **spamblock** ::{ flag=BE }:: | **5** | 2 | ::{ flag=BR }:: Coryn | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64856939) |
+| **Sparxe** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=FR }:: Paturages | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64856805) |
+| _Riley ::{ flag=US }:: | 0 | **5** | ::{ flag=GB }:: **Teezel** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64859125) |
 
  Sunday, 2 August 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | NightNarumi ::{ flag=NL }:: | 0 | **5** | ::{ flag=BE }:: **spamblock** | *win by default* |
-| **arpia97** ::{ flag=CA }:: | **5** | 4 | ::{ flag=NL }:: 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/64886862) |
-| **xChose** ::{ flag=ID }:: | **5** | 2 | ::{ flag=NO }:: prebert123 | [#1](https://osu.ppy.sh/community/matches/64888385) |
-| **Adri** ::{ flag=FR }:: | **5** | 0 | ::{ flag=AU }:: AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/64890153) |
-| **Cryolien** ::{ flag=MY }:: | **5** | 1 | ::{ flag=NL }:: jackylam5 | [#1](https://osu.ppy.sh/community/matches/64890277) |
-| **Malox** ::{ flag=DE }:: | **5** | 3 | ::{ flag=DE }:: Kaionacho | [#1](https://osu.ppy.sh/community/matches/64892272) |
-| **Lime717** ::{ flag=CA }:: | **5** | 1 | ::{ flag=RU }:: GromOFanAniS | [#1](https://osu.ppy.sh/community/matches/64898322) |
-| Bubbleman ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Teezel** | [#1](https://osu.ppy.sh/community/matches/64905103) |
+| **arpia97** ::{ flag=CA }:: | **5** | 4 | ::{ flag=NL }:: 2fast4you98 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64886862) |
+| **xChose** ::{ flag=ID }:: | **5** | 2 | ::{ flag=NO }:: prebert123 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64888385) |
+| **Adri** ::{ flag=FR }:: | **5** | 0 | ::{ flag=AU }:: AmateurMonkeyYT | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64890153) |
+| **Cryolien** ::{ flag=MY }:: | **5** | 1 | ::{ flag=NL }:: jackylam5 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64890277) |
+| **Malox** ::{ flag=DE }:: | **5** | 3 | ::{ flag=DE }:: Kaionacho | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64892272) |
+| **Lime717** ::{ flag=CA }:: | **5** | 1 | ::{ flag=RU }:: GromOFanAniS | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64898322) |
+| Bubbleman ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Teezel** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64905103) |
 
 ### Round of 32
 
 Thursday, 23 July 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | ChromaBlast ::{ flag=GB }:: | 0 | **5** | ::{ flag=GB }:: **Teezel** | *win by default* |
 
 Saturday, 25 July 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Coryn** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [#1](https://osu.ppy.sh/community/matches/64530397) |
+| --: | :-: | :-: | :-- | :-: |
+| **Coryn** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NZ }:: NutAndGo | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64530397) |
 | **r1chyy** ::{ flag=AU }:: | **5** | 0 | ::{ flag=NL }:: NightNarumi | *win by default* |
-| **AlvaroYL** ::{ flag=ES }:: | **5** | 1 | ::{ flag=MY }:: Cryolien | [#1](https://osu.ppy.sh/community/matches/64543790) |
+| **AlvaroYL** ::{ flag=ES }:: | **5** | 1 | ::{ flag=MY }:: Cryolien | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64543790) |
 | **AmateurMonkeyYT** ::{ flag=AU }:: | **5** | 0 | ::{ flag=NL }:: DannyPX | *win by default* |
-| xChose ::{ flag=ID }:: | 1 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/64555225) |
-| **GromOFanAniS** ::{ flag=RU }:: | **5** | 1 | ::{ flag=GB }:: w1ll | [#1](https://osu.ppy.sh/community/matches/64552555) |
+| xChose ::{ flag=ID }:: | 1 | **5** | ::{ flag=BR }:: **Brasil** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64555225) |
+| **GromOFanAniS** ::{ flag=RU }:: | **5** | 1 | ::{ flag=GB }:: w1ll | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64552555) |
 | ketiduran ::{ flag=ID }:: | 0 | **5** | ::{ flag=DE }:: **Kaionacho** | *win by default* |
 | LelPop ::{ flag=CA }:: | 0 | **5** | ::{ flag=FR }:: **Panda_0ne** | *win by default* |
 | **BossPlays** ::{ flag=AR }:: | **5** | 0 | ::{ flag=EC }:: Gato2499 | *win by default* |
-| **Sparxe** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=FR }:: Adri | [#1](https://osu.ppy.sh/community/matches/64559089) |
-| **_Riley** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Ethaaaan | [#1](https://osu.ppy.sh/community/matches/64560872) |
+| **Sparxe** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=FR }:: Adri | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64559089) |
+| **_Riley** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: Ethaaaan | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64560872) |
 | **jackylam5** ::{ flag=NL }:: | **5** | 0 | ::{ flag=BR }:: Konohana Lucia | *win by default* |
 
  Sunday, 26 July 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | LordAverage ::{ flag=AU }:: | 0 | **5** | ::{ flag=BR }:: **Skull Kid** | *win by default* |
 | Ammy ::{ flag=MX }:: | 0 | **5** | ::{ flag=AU }:: **PingLaw** | *win by default* |
-| **Jakads** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CA }:: Lime717 | [#1](https://osu.ppy.sh/community/matches/64577049) |
-| **Paturages** ::{ flag=FR }:: | **5** | 2 | ::{ flag=CA }:: arpia97 | [#1](https://osu.ppy.sh/community/matches/64583020) |
-| **2fast4you98** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Harvey | [#1](https://osu.ppy.sh/community/matches/64587154) |
-| **spamblock** ::{ flag=BE }:: | **5** | 0 | ::{ flag=US }:: \[GS\]Croniken | [#1](https://osu.ppy.sh/community/matches/64588456) |
-| **Blerargh** ::{ flag=SG }:: | **5** | 0 | ::{ flag=DE }:: Malox | [#1](https://osu.ppy.sh/community/matches/64589843) |
-| **SillyFanGirl** ::{ flag=BR }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [#1](https://osu.ppy.sh/community/matches/64591880) |
-| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=RU }:: Delete | [#1](https://osu.ppy.sh/community/matches/64595627) |
-| **\[GS\]Teo** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: ccaamm112 | [#1](https://osu.ppy.sh/community/matches/64610830) |
+| **Jakads** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CA }:: Lime717 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64577049) |
+| **Paturages** ::{ flag=FR }:: | **5** | 2 | ::{ flag=CA }:: arpia97 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64583020) |
+| **2fast4you98** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Harvey | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64587154) |
+| **spamblock** ::{ flag=BE }:: | **5** | 0 | ::{ flag=US }:: \[GS\]Croniken | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64588456) |
+| **Blerargh** ::{ flag=SG }:: | **5** | 0 | ::{ flag=DE }:: Malox | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64589843) |
+| **SillyFanGirl** ::{ flag=BR }:: | **5** | 0 | ::{ flag=GB }:: Bubbleman | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64591880) |
+| **Doomsday** ::{ flag=GB }:: | **5** | 0 | ::{ flag=RU }:: Delete | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64595627) |
+| **\[GS\]Teo** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: ccaamm112 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64610830) |
 
 ### Round of 64
 
 Saturday, 18 July 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: |
 | LordAverage ::{ flag=AU }:: | 0 | **4** | ::{ flag=CA }:: **Lime717** | *win by default* |
-| **Jakads** ::{ flag=KR }:: | **4** | 0 | ::{ flag=AU }:: AmateurMonkeyYT | [#1](https://osu.ppy.sh/community/matches/64241355) |
-| animexamera ::{ flag=AT }:: | 0 | **4** | ::{ flag=AU }:: **PingLaw** | [#1](https://osu.ppy.sh/community/matches/64247481) |
-| **r1chyy** ::{ flag=AU }:: | **4** | 0 | ::{ flag=GB }:: Doomsday | [#1](https://osu.ppy.sh/community/matches/64250318) |
-| **Sparxe** ::{ flag=NZ }:: | **4** | 0 | ::{ flag=RU }:: GromOFanAniS | [#1](https://osu.ppy.sh/community/matches/64251947) |
+| **Jakads** ::{ flag=KR }:: | **4** | 0 | ::{ flag=AU }:: AmateurMonkeyYT | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64241355) |
+| animexamera ::{ flag=AT }:: | 0 | **4** | ::{ flag=AU }:: **PingLaw** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64247481) |
+| **r1chyy** ::{ flag=AU }:: | **4** | 0 | ::{ flag=GB }:: Doomsday | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64250318) |
+| **Sparxe** ::{ flag=NZ }:: | **4** | 0 | ::{ flag=RU }:: GromOFanAniS | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64251947) |
 | BossPlays ::{ flag=AR }:: | 0 | **4** | ::{ flag=ID }:: **xChose** | *win by default* |
 | **Blerargh** ::{ flag=SG }:: | **4** | 0 | ::{ flag=ES }:: BirdElPollo | *win by default* |
 | Haryume ::{ flag=MY }:: | 0 | **4** | ::{ flag=US }:: **Ethaaaan** | *win by default* |
 | Pythia ::{ flag=GB }:: | 0 | **4** | ::{ flag=NL }:: **DannyPX** | *win by default* |
 | Hipnois ::{ flag=SG }:: | 0 | **4** | ::{ flag=FR }:: **Panda_0ne** | *win by default* |
-| **Adri** ::{ flag=FR }:: | **4** | 3 | ::{ flag=CA }:: LelPop | [#1](https://osu.ppy.sh/community/matches/64260759) |
-| **Paturages** ::{ flag=FR }:: | **4** | 0 | ::{ flag=BR }:: Coryn | [#1](https://osu.ppy.sh/community/matches/64260234) |
+| **Adri** ::{ flag=FR }:: | **4** | 3 | ::{ flag=CA }:: LelPop | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64260759) |
+| **Paturages** ::{ flag=FR }:: | **4** | 0 | ::{ flag=BR }:: Coryn | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64260234) |
 | d4niel- ::{ flag=US }:: | 0 | **4** | ::{ flag=BR }:: **Skull Kid** | *win by default* |
 | **SillyFanGirl** ::{ flag=BR }:: | **4** | 0 | ::{ flag=MX }:: Ammy | *win by default* |
 
  Sunday, 19 July 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Cryolien** ::{ flag=MY }:: | **4** | 1 | ::{ flag=US }:: _Riley | [#1](https://osu.ppy.sh/community/matches/64278386) |
-| A secret ::{ flag=US }:: | 1 | **4** | ::{ flag=EC }:: **Gato2499** | [#1](https://osu.ppy.sh/community/matches/64281514) |
+| --: | :-: | :-: | :-- | :-: |
+| **Cryolien** ::{ flag=MY }:: | **4** | 1 | ::{ flag=US }:: _Riley | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64278386) |
+| A secret ::{ flag=US }:: | 1 | **4** | ::{ flag=EC }:: **Gato2499** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64281514) |
 | lolmeep1 ::{ flag=SG }:: | 0 | **4** | ::{ flag=GB }:: **Teezel** | *win by default* |
-| **arpia97** ::{ flag=CA }:: | **4** | 0 | ::{ flag=BE }:: spamblock | [#1](https://osu.ppy.sh/community/matches/64287091) |
+| **arpia97** ::{ flag=CA }:: | **4** | 0 | ::{ flag=BE }:: spamblock | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64287091) |
 | **Delete** ::{ flag=RU }:: | **4** | 0 | ::{ flag=SG }:: helios44 | *win by default* |
-| - ease - ::{ flag=AU }:: | 0 | **4** | ::{ flag=NZ }:: **NutAndGo** | [#1](https://osu.ppy.sh/community/matches/64288471) |
-| **NightNarumi** ::{ flag=NL }:: | **4** | 3 | ::{ flag=NL }:: 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/64291019) |
-| RayRaivern ::{ flag=BD }:: | 0 | **4** | ::{ flag=GB }:: **w1ll** | [#1](https://osu.ppy.sh/community/matches/64295018) |
+| - ease - ::{ flag=AU }:: | 0 | **4** | ::{ flag=NZ }:: **NutAndGo** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64288471) |
+| **NightNarumi** ::{ flag=NL }:: | **4** | 3 | ::{ flag=NL }:: 2fast4you98 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64291019) |
+| RayRaivern ::{ flag=BD }:: | 0 | **4** | ::{ flag=GB }:: **w1ll** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64295018) |
 | s2kings ::{ flag=CA }:: | 0 | **4** | ::{ flag=NL }:: **Harvey** | *win by default* |
-| **AlvaroYL** ::{ flag=ES }:: | **4** | 0 | ::{ flag=GB }:: ChromaBlast | [#1](https://osu.ppy.sh/community/matches/64296593) |
-| **Brasil** ::{ flag=BR }:: | **4** | 1 | ::{ flag=ID }:: ketiduran | [#1](https://osu.ppy.sh/community/matches/64298503) |
-| **Bubbleman** ::{ flag=GB }:: | **4** | 3 | ::{ flag=NL }:: jackylam5 | [#1](https://osu.ppy.sh/community/matches/64300620) |
-| MyAngelRanko ::{ flag=SE }:: | 0 | **4** | ::{ flag=BR }:: **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/64300582) |
-| SsparnniF ::{ flag=GB }:: | 0 | **4** | ::{ flag=NO }:: **prebert123** | [#1](https://osu.ppy.sh/community/matches/64302411) |
-| **Malox** ::{ flag=DE }:: | **4** | 3 | ::{ flag=US }:: \[GS\]Teo | [#1](https://osu.ppy.sh/community/matches/64309209) |
+| **AlvaroYL** ::{ flag=ES }:: | **4** | 0 | ::{ flag=GB }:: ChromaBlast | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64296593) |
+| **Brasil** ::{ flag=BR }:: | **4** | 1 | ::{ flag=ID }:: ketiduran | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64298503) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 3 | ::{ flag=NL }:: jackylam5 | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64300620) |
+| MyAngelRanko ::{ flag=SE }:: | 0 | **4** | ::{ flag=BR }:: **Konohana Lucia** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64300582) |
+| SsparnniF ::{ flag=GB }:: | 0 | **4** | ::{ flag=NO }:: **prebert123** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64302411) |
+| **Malox** ::{ flag=DE }:: | **4** | 3 | ::{ flag=US }:: \[GS\]Teo | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/64309209) |
 
 ### Qualifiers
 

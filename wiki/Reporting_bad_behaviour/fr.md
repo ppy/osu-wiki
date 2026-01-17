@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 508a002bf0586beff3ba1c9ee3fb052d97898029
+---
+
 # Signaler un mauvais comportement
 
 osu! a [une équipe de modérateurs](/wiki/People/Global_Moderation_Team) qui s'efforcent de garder le jeu et son écosystème propres et sûrs. Si vous constatez un comportement contraire aux règles ou un contenu inapproprié, signalez-le en utilisant l'une des méthodes décrites ci-dessous. Vous pouvez également contacter directement l'un des modérateurs en ligne si votre signalement n'a pas été traité correctement dans un délai raisonnable, mais uniquement en dernier recours.

@@ -2,6 +2,7 @@
 layout: post
 title: Halloween 2018 Fanart Voting Now Open
 date: 2018-10-18 08:00:00 +0000
+series: fanart_contests
 ---
 
 The artists of the osu! community have spoken, and they have decreed that we shall suffer. With over one-hundred and sixty entries to choose from and only fifteen votes and five days to go around, join in our torment as we scream through the entries of the Halloween 2018 Fanart Contest!

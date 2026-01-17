@@ -6,7 +6,7 @@
 
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Reddit](/wiki/Community/Reddit)
-- [Дискорд-сервер osu!](/wiki/Community/Discord_servers#official)
+- [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный)
 - [Дискорд-серверы](/wiki/Community/Discord_servers)
 - [Оффлайн-организации](/wiki/Community/Organisations)
 - [Форум](/wiki/Community/Forum)
@@ -24,6 +24,7 @@
 ## Активности
 
 - [cavoe's osu! event](/wiki/Community/cavoe's_osu!_event)
+- [Moscow osu! Event](/wiki/Community/Moscow_osu!_Event)
 - [osu! Talk Event](/wiki/Community/osu!_Talk_Event)
 - [Встречи сообщества osu!](/wiki/Community/osu!_community_meetings)
 - [Ивенты среди номинаторов](/wiki/Community/Beatmap_Nominator_events)

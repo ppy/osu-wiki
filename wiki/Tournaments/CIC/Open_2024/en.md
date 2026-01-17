@@ -8,7 +8,7 @@ tags:
 
 ![Catch the Beat Indonesia Cup Open 2024 logo](img/logo.png)
 
-The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament was open to all players from Asia and Oceania with a global rank of #100,000 or higher in the osu!catch game mode. It was the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
+The **Catch the Beat Indonesia Cup Open 2024** (***CICO 2024***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422), ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), ::{ flag=ID }:: [Constantine](https://osu.ppy.sh/users/3221898), and ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157). Despite its name, the tournament was open to all players from the Asia-Pacific region with a global rank of #100,000 or higher in the osu!catch game mode. It was the twelfth iteration of the Catch the Beat Indonesia Cup, as well as the second one to be held under the "Open" format.
 
 ## Tournament schedule
 
@@ -476,7 +476,7 @@ Monday, 22 July 2024:
 ### Tournament registration
 
 1. In order to participate, players are required to register into the tournament through [the tournament's website](https://wybin.xyz/tournaments/catch-indonesia-cup-open-2024/home).
-   - Each player is required to be geographically based in or around the regions of [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania).
+   - Each player is required to be geographically based in or around the Asia-Pacific region, namely the continents of [Asia](https://en.wikipedia.org/wiki/Asia) or [Oceania](https://en.wikipedia.org/wiki/Oceania).
    - For the sake of simplification, regions of certain transcontinental countries such as ::{ flag=AZ }:: Azerbaijan or ::{ flag=RU }:: Russia that extend to the Asian continent are considered as a part of Asia.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
@@ -491,13 +491,13 @@ Monday, 22 July 2024:
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifier, players will be ranked based on their average rank combined from each individual Qualifier beatmap.
-6. 32 players with the **highest average rank** according to the above criteria will advance to the knock-out stages.
+6. The 32 players with the **highest average rank** according to the above criteria will advance to the knock-out stages.
    - If there are two (or more) teams that share the same average rank, the teams will be ordered based on their average score across all ten Qualifier beatmaps.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 #### Knock-out stage rules
 
-1. The 32 players who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
+1. Players who got through from the Qualifiers will be matched against each other based on their Qualifier seeding (e.g. Seed #1 vs. Seed #32, Seed #2 vs. Seed #31, and so on).
 2. Players will compete against each other using the double-elimination system.
 3. The double-elimination system works as follows:
    - Players who lose in the upper bracket can still play again in the lower bracket.

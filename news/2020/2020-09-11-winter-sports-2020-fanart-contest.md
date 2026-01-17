@@ -2,6 +2,7 @@
 layout: post
 title: Winter Sports 2020 Fanart Contest
 date: 2020-11-09 09:00:00 +0000
+series: fanart_contests
 ---
 
 Do you like to draw? Do you like winter sports? If the answer to both of those questions is a firm YES, then you're a prime contestant for our last fanart contest of the year!

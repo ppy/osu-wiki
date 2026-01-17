@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Maduk"
 date: 2022-01-29 09:00:00 +0000
+series: featured_artists
 ---
 
 Our latest Featured Artist **Maduk** is here to fully submerge your eardrums in liquid drum & bass!

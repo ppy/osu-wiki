@@ -2,6 +2,7 @@
 layout: post
 title: A Most Manic Art Contest
 date: 2019-09-06 04:00:00 +0000
+series: fanart_contests
 ---
 
 We need your help designing a new set of mascots for osu!mania. But here's the big catch: they're going to be **twins!** Brother and sister, specifically.

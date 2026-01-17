@@ -2,6 +2,7 @@
 layout: post
 title: Community Mentorship Program Winter 2021 Signups Now Open
 date: 2020-11-26 08:00:00 +0000
+series: online_events
 ---
 
 With holiday cheer and an upcoming new year, the 17th cycle of the Community Mentorship program is on its way! If you've ever found yourself wanting to expand your current knowledge and skills or help beginner mappers get started, this program will serve as a great opportunity for you!

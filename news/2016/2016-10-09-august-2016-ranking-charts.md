@@ -3,6 +3,7 @@ layout: post
 title: August 2016 Ranking Charts
 date: 2016-10-09 12:28:30 +0000
 tumblr_url: http://osunews.tumblr.com/post/151558446353/august-2016-ranking-charts
+series: beatmap_spotlights
 ---
 
 The Ranking Charts for August 2016 have been just released and [can be found here](https://osu.ppy.sh/p/chart/?ch=MONTH1608)! As we are still searching for more volunteers to help out with preparing future monthly ranking charts, their appearance has to wait for just a little longer. Stay tuned!

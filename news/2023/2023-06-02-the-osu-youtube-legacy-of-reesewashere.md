@@ -2,6 +2,7 @@
 layout: post
 title: The osu! YouTube legacy of ReeseWasHere
 date: 2023-06-02 22:00:00 +0000
+series: miscellaneous
 ---
 
 Before livestreaming and player YouTube channels were widespread, you could rely only on one man with a camera...

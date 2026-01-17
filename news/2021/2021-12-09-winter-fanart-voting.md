@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2021 Fanart Contest Voting Open
 date: 2021-12-09 18:00:00 +0000
+series: fanart_contests
 ---
 
 The festivities of year's end are nearly upon us, so help us pick a few shiny backgrounds for the occasion from a selection of **117** entries!

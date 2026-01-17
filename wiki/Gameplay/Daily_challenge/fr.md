@@ -16,7 +16,7 @@ Depuis la page principale du jeu, le menu des défis du jour est accessible en s
 1. Cliquez sur l’icône `jouer` ou appuyez sur `P`.
 2. Cliquez sur l’icône `défi du jour` ou appuyez sur `D`.
 
-![](img/daily-challenge-menu.png "Capture d'écran du menu du défi du 7 novembre 2024.")
+![](img/daily-challenge-menu.png?20250824 "Capture d'écran du menu du défi du 24 août 2024.")
 
 En entrant, une introduction est présentée au joueur, montrant la beatmap à passer ainsi que les mods imposés.
 

@@ -26,6 +26,8 @@ tags:
   - suppression
   - changement de drapeau
   - mauvais drapeau
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Compte

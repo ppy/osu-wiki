@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: WEARY"
 date: 2025-02-22 18:00:00 +0000
+series: featured_artists
 ---
 
 Once upon a time, **WEARY** produced his first piece of music. Half a decade later, he landed in our Featured Artist library!

@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: April 2023"
 date: 2023-04-20 17:00:00 +0000
+series: project_loved
 ---
 
 Enjoy this spring's breeze with some joyful Loved picks!

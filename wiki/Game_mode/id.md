@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d685bfe83f7122680c9cd6f03302682063de11ce
+---
+
 # Mode permainan
 
 osu! memiliki empat **mode permainan** bawaan dengan mekanika permainannya masing-masing, yang pada awalnya terinspirasi dari permainan ritme lainnya:

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: soowamisu"
 date: 2023-08-19 11:00:00 +0000
+series: featured_artists
 ---
 
 A living, breathing collection of breakcore samples (a.k.a. **soowamisu**) is now part of our Featured Artists!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aiyru"
 date: 2022-08-27 10:00:00 +0000
+series: featured_artists
 ---
 
 **Aiyru** pops into our Featured Artist library!

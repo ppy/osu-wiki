@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania World Cup 7K 2024 Concludes
 date: 2024-02-29 12:00:00 +0000
+series: world_cups
 ---
 
 As the last keys are unpressed, the grand winner is revealed... Come and take a guided tour throughout the last month of pure, high-octane, top-of-the-line key smashing gameplay.

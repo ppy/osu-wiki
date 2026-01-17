@@ -48,7 +48,7 @@ Afterwards, contact the administrators of the server at once by looking for some
 
 Should this abuse continue and the administrators do nothing about it, [please notify the Discord Trust & Safety team by filing out a report](https://dis.gd/request).
 
-In addition, if you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated promptly.
+If you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated as time allows. Note that we cannot act on content on third party services, so there is no guarantee that we will take action, but we will keep any notes on file.
 
 ### On a Twitter linked to an osu! user's profile
 
@@ -58,7 +58,7 @@ Afterwards, either block or mute the user in question by clicking the three dots
 
 Please be aware that the person will see you have blocked them if they check your Twitter profile. If you are worried this will make the problem worse elsewhere, mute them instead. This will remove their tweets from your timeline and prevent you from seeing any more content from them, but they will still be able to see and comment on all the tweets you make.
 
-If the tweet is from an account which is linked to an osu! player's profile via our website (it will appear underneath their avatar and join date beside a stylised bird icon), please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing a copy of the tweet in image form wherever possible, and any other information you can think of.
+If you know the osu! username of the person bothering you, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible and it will be investigated as time allows. Note that we cannot act on content on third party services, so there is no guarantee that we will take action, but we will keep any notes on file.
 
 ## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately!
 

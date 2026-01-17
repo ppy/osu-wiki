@@ -30,7 +30,7 @@ These shortcuts work anywhere:
 | `Shift` + `F12` | Take a screenshot and upload to the server for sharing. The screenshot will also be saved locally. This will open the screenshot on your web browser. |
 | `Insert` | This is the [boss key](https://en.wikipedia.org/wiki/Boss_key). Minimise the game client into the notification area. This will also mute the game. |
 | `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus) on your web browser. (Only when a connection error appears.) |
-| `Ctrl` + `O` | Open the options sidebar. Can not enter the offset wizard if you are not in the main menu. |
+| `Ctrl` + `O` | Open the options sidebar. Can not enter the [offset wizard](/wiki/Client/Options/Offset_Wizard) if you are not in the main menu. |
 
 ## Main menu
 

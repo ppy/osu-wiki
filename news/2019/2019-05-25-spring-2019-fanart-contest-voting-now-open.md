@@ -2,6 +2,7 @@
 layout: post
 title: Spring 2019 Fanart Contest Voting Now Open!
 date: 2019-05-25 20:00:00 +0000
+series: fanart_contests
 ---
 
 With over 130 bloomin' entries to choose from in the Spring 2019 Fanart Contest, talent really IS in season. Head on over now and cast your 15 votes—but be quick about it, the votes are only open for **7 days!**

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
 ---
 
 # Kategori beatmap
@@ -22,7 +24,7 @@ Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan
 
 ### Qualified {id=qualified}
 
-Qualified merupakan tahapan terakhir dalam [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure). Beatmap dalam kategori ini telah dinominasikan oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators), yang memastikan bahwa beatmap ini telah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) yang berlaku. Beatmap yang memasuki kategori Qualified akan ditempatkan pada [antrean ranking](/wiki/Beatmap_ranking_procedure/Ranking_queue) dan akan berubah status menjadi [Ranked](#ranked) seiring waktu apabila beatmap tersebut tidak [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi-(nomination-reset)) hingga akhir masa antreannya. Oleh karenanya, kategori ini berfungsi sebagai ujung tombak yang menjaga agar segala kesalahan yang masih terdapat pada beatmap dapat diperbaiki sebelum terlambat.
+Qualified merupakan tahapan terakhir dalam [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure). Beatmap dalam kategori ini telah dinominasikan oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators), yang memastikan bahwa beatmap ini telah memenuhi standar [kriteria ranking](/wiki/Ranking_criteria) yang berlaku. Beatmap yang memasuki kategori Qualified akan ditempatkan pada [antrean ranking](/wiki/Beatmap_ranking_procedure/Ranking_queue) dan akan berubah status menjadi [Ranked](#ranked) seiring waktu apabila beatmap tersebut tidak [didiskualifikasi](/wiki/Beatmap_ranking_procedure#penganuliran-nominasi) hingga akhir masa antreannya. Oleh karenanya, kategori ini berfungsi sebagai ujung tombak yang menjaga agar segala kesalahan yang masih terdapat pada beatmap dapat diperbaiki sebelum terlambat.
 
 Beatmap Qualified memiliki papan peringkatnya tersendiri, namun tidak akan memberikan [*performance point*](/wiki/Performance_points) dan seluruh skor yang ada akan dihapus pada saat beatmap ini keluar dari kategori Qualified. Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/status/qualified.png)) pada layar pemilihan lagu.
 

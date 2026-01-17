@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Fellowship"
 date: 2023-01-07 11:00:00 +0000
+series: featured_artists
 ---
 
 We found something you've been seeking.

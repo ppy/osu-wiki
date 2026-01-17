@@ -21,13 +21,13 @@ These rules are the basis from which we help keep the osu! community a fun and w
 5. **Keep the chat clean and appropriate for an all-ages community, avoiding NSFW topics where possible.** NSFW stuff really isn't appropriate for an all-ages community. Do what you like in private messages (within reason) but keep the public channels squeaky clean for everyone's sake.
 6. **Be mindful of what you share with others, especially if the content is potentially disturbing or very graphic in nature.** If you have to think twice about whether something is appropriate to link, it probably isn't okay. Avoid things with fast, strobing lights, gore, images of abuse or other graphic material.
 7. **Keep links to relevant and legal websites.** Bootleg streaming websites (officially licensed ones like Animelab and Crunchyroll are OK) and anything related to "warez" or pirated software of any kind aren't okay, and we don't want them in our chat. Advertising Twitch links for other video games is okay, but ONLY in `#videogames`.
-8. **Don't advertise third-party chat servers of any kind, including Discord, Teamspeak or Skype servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
+8. **Don't advertise third-party chat servers of any kind, including Discord or Teamspeak servers/groups.** The osu! chat is about osu! foremost and not about sharing links to your personal servers. Do it via PM if you absolutely have to.
 9. **In language-specific channels, you must speak the dominant language (English for `#english`, Thai for `#thai`, etc) if you are participating in discussion.** Where the language for a channel is not explicitly stated, it is always English. The `#lobby` and `#help` channels can be used with any and every language, unlike other channels. *Members of the [moderation staff](/wiki/People/Global_Moderation_Team) do not need to follow this rule when doing their work.*
 
 ## Forum-wide rules
 
 1. **Post only meaningful, interesting or otherwise engaging content/topics.** Forums are about discussions foremost, so make sure to put the effort in to make it worth everyone's time.
-2. **Keep your posts and replies suitable for people of all-ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
+2. **Keep your posts and replies suitable for people of all ages.** NSFW content isn't appropriate for an all-ages community, though there's nothing stopping you from discussing these sorts of things in private messages.
 3. **Be productive with your criticism without resorting to personal attacks.** Criticism is a wonderful thing when done properly, but if you're resorting to personal attacks to make your point, you're doing it wrong and you should feel bad.
 4. **Keep threads relevant, and avoid resurrecting older topics if the conversation has died out.** If a topic has been dead for years, it isn't really relevant any more, so just let it fade away. Post a new one, or maybe search and see if someone has answered your question already.
 5. **Keep your signatures and avatars reasonable.** If they're animated, they shouldn't strobe or flash excessively. The images should also be of a filesize small enough for users with slower connections to not feel their presence on the page, ideally under half a megabyte (500 kilobytes) where possible.
@@ -40,7 +40,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 
 These rules apply strictly to beatmaps submitted via the in-game [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission). These threads/discussions are created via the osu! client when a beatmap is submitted through the [editor](/wiki/Client/Beatmap_editor).
 
-1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content Usage Guidelines](Content_Usage_Guidelines) for more information.
+1. **Make sure you have permission to use any content involved in your beatmap.** This includes songs, videos, hitsounds, graphics, and any other content that isn't your own creation. If you are unsure of where to find content that is free to use, check out our growing [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library for music 100% licensed for use in osu! and the [Content usage permissions](Content_usage_permissions) for more information.
 2. **Stay on topic in [beatmap discussions](/wiki/Beatmap_discussion).** These threads/discussions are about the beatmap in question, and nothing else. If you have an issue with something not directly pertaining to the beatmap, post it in the appropriate forum.
 3. **Do not plagiarise or attempt to steal the work of others.** Do not also upload or use other people's work without their explicit permission (including, but not limited to, skins and guest difficulties).
 4. **Follow the [Song Content Rules](Song_Content_Rules) and [Visual Content Considerations](Visual_Content_Considerations).**
@@ -56,7 +56,7 @@ These bad things may include (*but are not limited to*):
 - The loss of the privilege to edit or alter your userpage or profile details.
 - The loss of the privilege to play or qualify in officially hosted tournaments.
 
-[Silences](/wiki/Help_centre/Silences) and other infringements **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offence — repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
+[Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration near-exponentially with each infringement. Moderators do not control the length of time you are silenced for an offence — repeat offenders will find themselves locked out of the game for increasingly longer periods of time.
 
 Certain offences carry a minimum duration (usually 43 hours or more) if they are particularly severe, though they are almost exclusively reserved for severe infractions, such as sharing graphic content or unrepentant harassment of other users.
 

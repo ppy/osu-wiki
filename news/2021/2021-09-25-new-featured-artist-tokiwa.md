@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: tokiwa"
 date: 2021-09-25 09:00:00 +0000
+series: featured_artists
 ---
 
 **tokiwa** steals the spotlight as our newest Featured Artist!

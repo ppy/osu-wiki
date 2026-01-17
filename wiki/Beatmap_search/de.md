@@ -8,14 +8,14 @@ tags:
   - Beatmaps suchen
   - Beatmaps finden
 outdated_translation: true
-outdated_since: 4388ad41d9ff65c510c86b306b872f5660fe7ea3
+outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 ---
 
 # Beatmap-Suche
 
 *Siehe auch: [Beatmap § Beatmaps herunterladen](/wiki/Beatmap#beatmaps-herunterladen)*
 
-Standardmäßig wird jeder Text, der in der [Songauswahl](/wiki/Client/Interface#songauswahl) oder im Suchfeld auf der Webseite eingeben wird, mit dem Künstler, dem Titel, dem Ersteller, dem Namen, der Quelle und den Tags der Beatmap abgeglichen. Die Angabe einer einzelnen Zahl zeigt Beatmaps und Schwierigkeitsgrade mit einer bestimmten [Kennung](/wiki/Beatmap#identifizierung) an. Bei allen Suchanfragen wird die Groß- und Kleinschreibung nicht berücksichtigt.
+Standardmäßig wird jeder Text, der in der [Songauswahl](/wiki/Client/Interface#songauswahl) oder im Suchfeld auf der Webseite eingeben wird, mit dem Künstler, dem Titel, dem Ersteller, dem Namen, der Quelle, den [Mapper-Tags](/wiki/Beatmap/Beatmap_tags#mapper-tags) sowie den [Nutzertags](/wiki/Beatmap/Beatmap_tags#user-tags) der Beatmap abgeglichen. Die Angabe einer einzelnen Zahl zeigt Beatmaps und Schwierigkeitsgrade mit einer bestimmten [Kennung](/wiki/Beatmap#identifizierung) an. Bei allen Suchanfragen wird die Groß- und Kleinschreibung nicht berücksichtigt.
 
 Metadaten von Beatmaps können für eine genauere Filterung über die folgenden Operatoren mit bestimmten Werten verglichen werden:
 
@@ -79,6 +79,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `created` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
 | `updated` | Datum, an dem die Beatmap zuletzt aktualisiert wurde |
 | `ranked` | Datum, an dem die Beatmap gerankt/approved wurde |
+| `tag` | Bestimmter [Nutzer-Tag](/wiki/Beatmap/Beatmap_tags#user-tags) |
 
 ## Client (lazer)[^lazer-filters]
 
@@ -102,6 +103,7 @@ Metadaten von Beatmaps können für eine genauere Filterung über die folgenden 
 | `divisor` | Der Nenner des [Taktteilers](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `submitted` | Erstellungsdatum der Beatmap (Datum, an dem sie hochgeladen wurde) |
 | `ranked` | Datum, an dem die Beatmap den Status "Ranked" erhielt |
+| `tag` | Bestimmter [Nutzer-Tag](/wiki/Beatmap/Beatmap_tags#user-tags) (nur in der integrierten Beatmap-Auflistung verfügbar) |
 
 ## Beispielhafte Suchbegriffe
 
@@ -145,6 +147,12 @@ lastplayed>1y
 
 ```
 status=r,l
+```
+
+(Lazer, Webseite) Finde Beatmaps mit dem Mapper-Tag J-pop sowie dem Nutzer-Tag "meta/custom skin":
+
+```
+j-pop tag="meta/custom skin"
 ```
 
 ## Referenzen

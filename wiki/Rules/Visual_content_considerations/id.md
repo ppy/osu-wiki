@@ -1,68 +1,73 @@
 ---
+no_native_review: true
 tags:
   - vcc
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # Pertimbangan konten visual
 
-Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semua konten visual yang dikirimkan atau diunggah ke osu! wajib memenuhi kriteria untuk aman di segala kalangan usia.
+Sesuai dengan [Peraturan Komunitas #5](/wiki/Rules#peraturan-komunitas), seluruh konten visual yang dikirim atau diunggah ke layanan osu! harus dianggap layak pakai untuk permainan yang terbuka bagi segala umur.
 
-Hal ini termasuk:
+Hal ini meliputi:
 
-- beatmap yang telah diunggah, **bahkan beatmap yang memiliki tag [eksplisit](/wiki/Rules/Explicit_content)**
-- detail profil (avatar, sampul profil)
+- beatmap yang diunggah, **termasuk beatmap yang ditandai sebagai [eksplisit](/wiki/Rules/Explicit_content)**
+- rincian profil (avatar, gambar profil)
 - lampiran atau tautan lainnya (postingan forum, komentar, postingan diskusi beatmap)
 
-Demi menjaga segala sesuatu sebersih mungkin, Peraturan Komunitas no. 5 berlaku untuk semua hal yang dianggap sebagai sesuatu yang "dipertanyakan".
+Demi menjaga agar segala sesuatunya sebersih mungkin, Peraturan Komunitas #5 ini berlaku kepada hal apa pun yang dapat dianggap "meragukan" dalam batas wajar.
 
 ## Hal penting untuk dipertimbangkan
 
-Semua gambar harus dinilai sebagaimana adanya, tanpa memperhitungkan kasus lain sebelumnya. Putuskan berdasarkan apa yang Anda lihat.
+Seluruh gambar harus dinilai sebagaimana adanya, tanpa mempertimbangkan kasus lain yang melibatkan gambar ini sebelumnya. Putuskanlah segala sesuatunya berdasarkan apa yang kamu lihat.
 
-Harap dipahami bahwa kami adalah sebuah komunitas global dan multikultural dengan pemikiran, opini, dan nilai yang sangat beragam tentang topik apa saja yang diperbolehkan dan tidak diperbolehkan.
+Dalam menilai gambar, mohon dicamkan juga bahwa kami adalah komunitas yang global dan multikultural, di mana masing-masing orang dapat memiliki pemikiran, pendapat, dan pandangan yang berbeda seputar apa yang dianggap layak dan apa yang tidak.
 
-Jika ragu, usahakan untuk mengambil nilai secara kolektif yang dibagikan oleh sebagian besar pengguna di komunitas osu! secara umum.
+Apabila kamu ragu, cobalah untuk mengakomodir nilai budaya yang paling banyak dianut oleh komunitas osu! secara umum.
 
 ## Kriteria
 
-Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini **tidak diperbolehkan**:
+Gambar atau elemen visual yang mengandung unsur mana pun di bawah ini **tidak diperkenankan**:
 
 - **konten seksual yang melibatkan atau ditargetkan kepada anak di bawah umur**
-- **kekerasan yang berlebihan, konten yang mengandung darah (gore), pemenggalan kepala, atau memotong/melukai bagian tubuh**
-- **sindiran seksual yang signifikan**
-- **sikap atau ajakan seksual**
-- **konten erotis atau tampilan grafis seksualitas**
-- **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**[^drug-nature]
-- **penggambaran konten politik, budaya, agama, atau sosial yang bertujuan untuk menghasut**
-- **gambaran perilaku bunuh diri atau melukai diri sendiri, termasuk persiapan atau upaya yang akan segera dilakukan**
+- **kekerasan yang berlebihan, adegan berdarah, mutilasi, pemenggalan, atau penganiayaan**
+- **kiasan dengan unsur seksual yang signifikan**
+- **perilaku atau rayuan seksual**
+- **konten erotis atau peragaan seksual yang bersifat vulgar**
+- **contoh penggunaan, penyiapan, atau pengenalan obat-obatan terlarang**[^drug-nature]
+- **penggambaran konten politik, budaya, agama, atau sosial yang sengaja dibuat untuk memicu provokasi**
+- **gambar yang menampilkan perilaku bunuh diri atau melukai diri sendiri, yang meliputi persiapan atau upaya bunuh diri**
 
-Sebagai tambahan, gambar atau elemen visual yang dinilai berkualitas buruk (baik secara obyektif yaitu kualitas gambar maupun secara subyektif yaitu komposisi/penciptaan) juga dapat dicegah penggunaannya dalam beatmap jika gambar atau elemen visual tidak berhubungan langsung dengan beatmap.
+Di samping itu, gambar atau elemen visual yang dapat secara wajar dinilai buruk (baik secara objektif dari segi kualitas gambar atau secara subjektif dari segi komposisi/rupa gambar) juga dapat dilarang untuk digunakan pada beatmap meskipun gambar ini tidak melanggar kriteria mana pun.
 
 ## Pengecualian
 
-Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini mungkin dapat diterima:
+Gambar atau elemen visual yang mengandung contoh dari unsur di bawah ini dapat dianggap layak pakai:
 
-- penggambaran kekerasan ringan hingga sedang (darah dengan jumlah yang sedikit, luka ringan atau tidak kritis)
-- ketelanjangan artistik (dalam konteks karya seni klasik, atau karya yang terkait dengan elemen tersebut, seperti seni album dengan sedikit ketelanjangan)
-- asmara, rayuan atau kasih sayang yang intim dalam jumlah yang sedikit (berpelukan, merangkul, berciuman tanpa konotasi seksual, berpegangan tangan, dll.)
-- pakaian renang dengan desain yang masuk akal (pakaian renang standar dengan cakupan umum, seperti bikini pada umumnya)
+- penggambaran kekasaran dalam skala ringan hingga sedang (percikan darah dalam jumlah yang sedikit, luka yang ringan atau tidak kritis)
+- ketelanjangan artistik (dalam konteks karya seni klasik, atau karya seni yang berhubungan dengan elemen beatmap, seperti gambar sampul album yang mengandung sedikit ketelanjangan)
+- romantisme, rayuan, atau kasih sayang intim yang tidak berlebihan (pelukan, rangkulan, ciuman tanpa konotasi seksual, berpegangan tangan, dll.)
+- baju renang dengan rancangan yang wajar (pakaian renang standar yang menutupi bagian tubuh secara umum, bikini pada umumnya)
 
-Pada keadaan tertentu, beberapa pengecualian dapat diterapkan pada konten yang mengandung unsur estetika seni *artisitic use*, seperti storyboard atau konten video. Hal tersebut harus diberikan secara langsung oleh tim support. Siapapun yang ingin diberikan hal tersebut dapat mengontak mereka secara langsung melalui [support@ppy.sh](mailto:support@ppy.sh).
+Dalam situasi tertentu, pengecualian terhadap hal ini dapat diberikan dalam kaidah artistik bagi konten yang dibuat dengan usaha lebih, seperti storyboard atau konten video yang diciptakan khusus untuk beatmap (*bespoke content*). Pengecualian ini harus diberikan secara langsung oleh tim dukungan akun. Para pengguna yang ingin meminta pengecualian ini dapat menghubungi tim ini secara langsung melalui [support@ppy.sh](mailto:support@ppy.sh).
 
-## Menilai gambar Anda
+## Menilai gambar yang kamu gunakan
 
-*Lihat: [Proses pengkajian konten](/wiki/Rules/Content_voting_process).*
+*Lihat juga: [Proses pengkajian konten](/wiki/Rules/Content_voting_process)*
 
-Gambar-gambar yang berada di situs osu! yang terdapat diluar beatmap (avatar, sampul profil, halaman pengguna, dll) tidak mengikuti prosedur pemungutan suara yang dijelaskan di bawah ini dan dapat dihapus kapan saja atas kebijaksanaan Global Moderation Team.
+Gambar yang digunakan di mana pun di situs osu! selain dari yang digunakan pada beatmap (avatar. sampul profil, halaman pengguna, dll.) **tidak** tunduk pada prosedur pemungutan suara di bawah ini dan dapat dihapus kapan saja sesuai dengan kebijaksanaan [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 
-Jika Anda tidak yakin terhadap gambar yang akan dimasukkan ke dalam beatmap, **silahkan kirimkan permintaan melalui [halaman Beatmap Nominator Report Submission](https://bn.mappersguild.com/reports).** Gambar tersebut akan diangkat dan kemudian dilakukan pemungutan suara dimana gambar tersebut akan lolos jika disetujui oleh banyak pihak, atau secara otomatis akan ditolak.
+Untuk gambar yang ingin digunakan pada beatmap, apabila kamu tidak yakin terhadap gambar ini dari segi apa pun, **silakan kirim permintaan kajian melalui [halaman pengiriman laporan Beatmap Nominator](https://bn.mappersguild.com/reports).** Gambar ini akan dibawa ke pemungutan suara yang mengharuskan gambar ini untuk dianggap layak pakai oleh mayoritas pemberi suara.
 
-**Hasil pemungutan suara adalah final**, kecuali gambar diubah secara signifikan dalam upaya untuk menyelesaikan setiap elemen yang berpotensi bermasalah yang diangkat selama diskusi.
+**Hasil dari pemungutan suara ini tidak dapat diganggu gugat**, kecuali apabila gambar ini kemudian diubah secara signifikan untuk menutupi unsur bermasalah yang dibahas selama proses diskusi.
 
-Setiap saat, [tim inti osu!](/wiki/People/osu!_team) berhak untuk menyatakan valid atau tidak terhadap konten apapun secara sepihak atas kebijakan mereka, terlepas dari pemungutan suara yang sebelumnya telah diadakan terkait masalah tersebut.
+[Tim osu!](/wiki/People/osu!_team) memiliki hak untuk menyatakan apakah suatu konten layak pakai atau tidak kapan saja, terlepas dari hasil pemungutan suara mana pun yang diadakan sebelumnya.
+
+## Apa yang akan terjadi apabila gambar saya tidak layak pakai?
+
+Segala gambar, video, atau konten visual yang dianggap tidak layak pakai oleh GMT akan dihapus dari situs web osu!. Di samping itu, pengguna yang menggunggah konten visual ini dapat di-[silence](/wiki/Help_centre/Silences) selama 43 jam tergantung dari seberapa parah konten ini dan rekam jejak pengguna yang terkait.
+
+Untuk konten visual tidak layak pakai yang terdapat pada beatmap, hukuman silence pada umumnya tidak akan dijatuhkan selama konten visual ini tidak terlewat parah dan pengguna ini menghapus konten yang melanggar dalam jangka waktu yang wajar.
 
 ## Catatan
 
-[^drug-nature]: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).
+[^drug-nature]: Pengecualian untuk hal ini dapat diberikan tergantung dari sifat, pemakaian, dan subkultur pengguna obat-obatan ini, terutama untuk obat-obatan yang sedang mengalami proses pelegalan (dekriminalisasi) dan perundang-undangan (regulasi) secara cepat di berbagai belahan dunia seperti ganja. Permintaan pengecualian khusus ini hanya dapat diajukan dengan menghubungi [tim layanan dukungan](/wiki/People/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).

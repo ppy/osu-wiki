@@ -1,47 +1,70 @@
 ---
+tags:
+  - qualification
+  - nomination
+  - nomination
+  - nom
+  - ranking
+  - ranked
+  - kualifikasi
+  - nominasi
 no_native_review: true
 outdated_translation: true
-outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
+outdated_since: d4570db54d702a658533de09df41a391035da453
 ---
 
 # Prosedur ranking beatmap
 
 *Lihat juga: [Rank (disambiguasi)](/wiki/Disambiguation/Rank)*
 
-Suatu [beatmap](/wiki/Beatmap) dapat memperoleh status [Ranked](/wiki/Beatmap/Category#ranked) dan diperkenalkan kepada khalayak luas dengan mengikuti prosedur ranking beatmap yang berlaku.
+Suatu [beatmap](/wiki/Beatmap) dapat dipromosikan ke hadapan komunitas dengan mengikuti prosedur ranking beatmap dan memasuki kategori [Ranked](/wiki/Beatmap/Category#ranked).
 
-## Modding
+## Umpan balik
 
-Pada saat mengunggah suatu beatmap, para mapper diberikan pilihan untuk dapat menandai beatmap yang bersangkutan dengan status `Work in Progress` atau `Pending`. Kedua status ini merupakan indikator bahwa beatmap yang dimaksud sedang menerima kajian dan masukan dari para pengguna lain.
+Pada saat mengunggah beatmap, pembuat beatmap ini dapat menandai kiriman mereka sebagai `Work in Progress` atau `Pending`. Beatmap yang ditandai ke dalam kedua kategori ini dimaksudkan untuk menerima umpan balik dari komunitas osu!.
 
-Proses pengkajian ini dikenal dengan istilah [modding](/wiki/Modding). Meskipun tidak diwajibkan, proses ini dapat membantu para mapper untuk membenahi berbagai masalah yang ada serta menyempurnakan beatmap yang bersangkutan.
+Proses pemberian umpan balik ini dikenal sebagai [modding](/wiki/Modding), yang sangat penting untuk meningkatkan kualitas beatmap ini. Pengguna lain sering kalinya akan memberikan tanggapan mereka pada [halaman diskusi beatmap](/wiki/Beatmap_discussion) atau membahas masalah yang ada dengan pembuat beatmap ini secara langsung.
 
-Apabila kamu merupakan seorang mapper pemula, kamu disarankan untuk benar-benar memperhatikan segala masukan yang kamu terima dari para mapper yang lebih berpengalaman agar beatmap milikmu dapat memenuhi standar kualitas yang osu! miliki. Jangan takut untuk merombak ulang beatmap milikmu dari awal apabila dirasa perlu.
+Pembuat beatmap yang lebih pemula pada umumnya membutuhkan banyak mod sebelum mereka dapat membuat beatmap yang memenuhi standar kualitas Ranked, dan sering kalinya akan perlu untuk membuat ulang beatmap mereka dari awal.
+
+Sebelum dapat dinominasikan, suatu beatmap harus terlebih dahulu memperoleh setidaknya lima [hype](/wiki/Beatmap/Hype) dari lima pengguna yang berbeda.
 
 ## Nominasi
 
-Beatmap-beatmap yang telah memenuhi standar kualitas dan telah sepenuhnya patuh pada [Ranking Criteria](/wiki/Ranking_criteria) dapat kemudian dinominasikan oleh para anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*). Beatmap Nominator sendiri merupakan gugus pengguna (*usergroup*) yang tugas utamanya adalah menominasikan beatmap-beatmap yang dirasa telah siap untuk di-*rank*.
+:::Infobox
+![](img/nomination-progress-beatmapset2293010.jpg "Status ranking beatmap yang terdapat pada halaman diskusi, dengan bilah hype yang terisi penuh")
+:::
 
-Suatu beatmap juga dapat dinominasikan oleh para anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*), walaupun para anggota NAT pada umumnya tidak seproaktif para anggota BN dalam memberikan nominasi mengingat tugas utama NAT bukanlah untuk menominasikan beatmap.
+**Nominasi** merupakan tanda persetujuan yang menandakan bahwa suatu beatmap telah siap untuk di-[rank](/wiki/Beatmap/Category#ranked). Nominasi ini diberikan kepada beatmap yang telah rampung dengan kualitas yang memadai, sebagaimana yang dinilai oleh pengguna yang memberikan nominasi. Sebagai persyaratan, beatmap ini harus patuh terhadap [kriteria ranking](/wiki/Ranking_criteria) dan memiliki lima atau lebih [hype](/wiki/Beatmap/Hype) sebelum dapat dinominasikan.
 
-Harap dicatat bahwa sebelum dapat dinominasikan, suatu beatmap harus terlebih dahulu memperoleh setidaknya lima [hype](/wiki/Beatmap/Hype) dari para pengguna lain.
+Nominasi diberikan oleh kelompok modder berpengalaman yang dikenal sebagai [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*). Para anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) juga dapat menominasikan beatmap, namun hal ini bukan merupakan tugas utama mereka.
+
+Kamu disarankan untuk menerima mod sebelum meminta nominasi dari BN; meskipun demikian, hal ini tidak wajib, dan satu-satunya syarat agar beatmap kamu dapat dinominasikan adalah dengan memperoleh lima hype ini.
 
 ## Kualifikasi
 
-Beatmap-beatmap yang telah memperoleh dua nominasi per mode permainan yang dimilikinya akan secara otomatis berpindah ke kategori [Qualified](/wiki/Beatmap/Category#qualified). Meskipun mereka memiliki *leaderboard*-nya tersendiri, beatmap-beatmap yang berstatus Qualified tidak memberikan [performance point](/wiki/Performance_points) apapun ketika dimainkan. Ketika suatu beatmap telah mencapai akhir [antrian ranking](Ranking_queue), barulah beatmap tersebut akan berstatus [Ranked](#ranking).
+Beatmap yang telah memperoleh dua nominasi pada mode permainan utamanya[^main-game-mode] akan dipindahkan ke kategori [Qualified](/wiki/Beatmap/Category#qualified)[^hybrid-sets]. Beatmap Qualified memiliki papan peringkatnya tersendiri, namun tidak akan memberikan [performance point](/wiki/Performance_points) bagi pemain. Pada saat suatu beatmap telah berada di Qualified selama setidaknya 7 hari tanpa [masalah atau saran](/wiki/Modding#jenis-postingan-mod) yang belum terjawab, beatmap ini akan dapat dipindahkan oleh [antrean ranking](Ranking_queue) ke kategori [Ranked](#ranked).
 
-Kategori Qualified sendiri dirintis agar komunitas osu! dapat mengevaluasi beatmap-beatmap yang telah dinyatakan siap untuk di-*rank* secara lebih luas. Apabila suatu beatmap yang telah berstatus Qualified ternyata bermasalah, nominasi yang telah diberikan kepada beatmap tersebut akan [dianulir](#penganuliran-nominasi-(nomination-reset)) dan beatmap yang bersangkutan akan kembali ditarik ke Pending oleh anggota BN atau NAT.
+Apabila suatu beatmap didiskualifikasi, waktu 7 hari ini akan diatur ulang apabila beatmap ini memperoleh tingkat kesulitan baru atau dikualifikasikan ulang oleh Beatmap Nominator yang berbeda. Selain itu, untuk setiap minggunya beatmap ini didiskualifikasi, waktu ini juga akan bertambah selama 1 hari hingga maksimal 14 hari.
 
-## Penganuliran nominasi (nomination reset)
+Kategori beatmap ini ditujukan agar beatmap ini dapat lebih diperhatikan oleh komunitas dan agar masalah yang masih tersisa dapat diselesaikan sebelum terlambat. Masalah ini dapat dilaporkan ke para anggota BN dan NAT melalui halaman diskusi beatmap. Tidak seperti pada beatmap Pending, beatmap Qualified tidak dapat diperbarui oleh pembuatnya, sehingga satu-satunya cara untuk menyelesaikan masalah ini adalah dengan meminta [penganuliran nominasi](#penganuliran-nominasi).
 
-Penganuliran nominasi (*nomination reset*) merupakan bagian dari prosedur ranking beatmap yang memastikan agar para modder, BN, dan NAT dapat senantiasa memeriksa versi beatmap yang paling baru sebelum memasuki antrian ranking.
+## Penganuliran nominasi
 
-Apabila suatu beatmap yang telah dinominasikan sebelumnya diperbaharui oleh mapper yang terkait, nominasi tersebut akan secara otomatis teranulir. Nominasi-nominasi yang ada juga dapat dianulir secara manual oleh para anggota BN atau NAT apabila mereka menemukan suatu masalah serta oleh para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) apabila mereka menemukan konten-konten yang tidak sepantasnya pada beatmap yang bersangkutan.
+Penganuliran nominasi (*nomination reset*) memastikan bahwa para modder, BN, dan NAT akan selalu memeriksa versi beatmap yang paling terkini sebelum beatmap ini memasuki antrean ranking.
 
-Di samping itu, para anggota BN dan NAT juga memiliki [hak veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) yang dapat mereka gunakan untuk memberhentikan proses nominasi yang sedang berlangsung pada beatmap yang mengandung masalah-masalah yang tidak tercakup oleh Ranking Criteria.
+Nominasi yang telah diberikan dapat dianulir apabila beatmap ini diperbarui oleh pembuatnya, atau apabila anggota BN atau NAT menemukan masalah pada beatmap. Nominasi ini juga dapat dianulir oleh para anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) apabila hal ini menyangkut konten yang tidak pantas. Apabila suatu beatmap dikualifikasikan pada saat nominasinya sedang dianulir, beatmap ini akan secara otomatis didiskualifikasi dan dikeluarkan dari antrean ranking.
 
-## Ranking
+Terkadang, para anggota BN dan NAT dapat menempatkan [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) pada beatmap yang mereka yakini memiliki masalah kualitas di luar dari yang apa yang diatur oleh kriteria ranking.
 
-Pada akhirnya, beatmap-beatmap yang telah melewati prosedur ranking beatmap yang berlaku akan dianugerahi dengan status Ranked. Beatmap-beatmap ini akan memiliki *leaderboard*-nya tersendiri dan memberikan performance point ketika dimainkan.
+## Ranked
 
-Adapun status Ranked ini sendiri pada umumnya bersifat permanen, di mana beatmap-beatmap yang telah berstatus Ranked hanya dapat di-*unrank* pada situasi-situasi tertentu.
+Suatu beatmap dinyatakan telah menyelesaikan prosedur ranking apabila beatmap ini telah melewati tahapan kualifikasi. Beatmap yang telah Ranked akan memiliki [papan peringkatnya](/wiki/Ranking) tersendiri dan memberikan performance point bagi pemain.
+
+Beatmap Ranked hanya dapat dilepas dari kategorinya (di-*unrank*) dalam situasi khusus apabila terdapat masalah fatal yang ditemukan tidak lama setelah beatmap ini di-rank.
+
+## Catatan
+
+[^main-game-mode]: Suatu mode permainan pada beatmap akan dianggap sebagai "mode utama" apabila mode ini mengandung jumlah tingkat kesulitan yang terbanyak di antara seluruh tingkat kesulitan yang ada. Apabila terdapat 2+ mode permainan dengan jumlah tingkat kesulitan yang sama, mode di mana pemilik beatmap ini membuat tingkat kesulitan yang terbanyak akan menjadi mode permainan utama. Apabila tidak ada satu pun dari kondisi ini yang terpenuhi, mode yang dinominasikan pertama kali akan menjadi mode permainan utama.
+
+[^hybrid-sets]: Untuk beatmap yang memiliki tingkat kesulitan pada lebih dari satu mode permainan, beatmap ini akan memerlukan dua nominasi untuk mode permainan utamanya dan satu nominasi untuk masing-masing mode permainan lainnya.

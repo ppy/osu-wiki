@@ -25,23 +25,23 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | DirectX / Metal | ![Teilweise][partial][^compatibility-mode] | ![Ja][true] |
 | Unterstützung für mobile Geräte | ![Nein][false] | ![Ja][true] |
 | Multithreading-Architektur | ![Nein][false] | ![Ja][true] |
-| Hardware-beschleunigtes Video | ![Nein][false] | ![Ja][true] |
+| Hardware-beschleunigte Videografik | ![Nein][false] | ![Ja][true] |
 | Skalierung der Benutzeroberfläche | ![Nein][false] | ![Ja][true] |
-| Eigene Rulesets (Spielmodi) | ![Nein][false] | ![Teilweise][partial][^dll] |
+| Benutzerdefinierte Spielmodi (Rulesets) | ![Nein][false] | ![Teilweise][partial][^dll] |
 | Deduplizierter Dateispeicher | ![Nein][false] | ![Ja][true][^share-files] |
 | Anpassung des Tablet-Bereichs | ![Nein][false] | ![Ja][true] |
-| Unterstützung für viele Seitenverhältnisse | ![Nein][false] | ![Ja][true] |
+| Unterstützung für viele Bildschirmformate | ![Nein][false] | ![Ja][true] |
 
 ### UI und Skinning
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Skin-Unterstützung | ![Ja][true] | ![Teilweise][partial][^gameplay-only] |
-| Gruppierungsmodi in der Songauswahl | ![Ja][true] | ![Nein][false] |
+| Gruppierungsmodi in der Songauswahl | ![Ja][true] | ![Ja][true] |
 | Skin im Spiel / Bearbeitung des UI-Layouts | ![Nein][false] | ![Ja][true] |
 | Dynamische, anpassbare Skinning-Komponenten | ![Nein][false] | ![Ja][true] |
 
-### Interface
+### Benutzeroberfläche
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
@@ -55,7 +55,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Akkurate Performance-Punkte-Anzeige | ![Teilweise][partial][^online] | ![Ja][true] |
+| Detaillierte Performance-Punkte-Anzeige | ![Teilweise][partial][^online] | ![Ja][true] |
 | Anpassung der Schwierigkeit | ![Nein][false] | ![Ja][true][^difficulty-adjust] |
 | Mod-Voreinstellungen | ![Nein][false] | ![Ja][true] |
 | Einstellungen für Mods | ![Nein][false] | ![Ja][true] |
@@ -76,7 +76,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Score-Einreichung | ![Ja][true] | ![Ja][true] |
 | Beatmap-Ranglisten | ![Ja][true] | ![Ja][true] |
 | Profilstatistiken | ![Ja][true] | ![Ja][true] |
-| Medaillen | ![Ja][true] | ![Teilweise][partial][^medals-lazer] |
+| Medaillen | ![Teilweise][partial][^medals-stable] | ![Teilweise][partial][^medals-lazer] |
 | Performance-Punkte | ![Ja][true] | ![Ja][true] |
 | Chat in Echtzeit | ![Teilweise][partial][^stable-chat] | ![Ja][true] |
 | Wiki / Neuigkeiten / Änderungsprotokoll / Ranglisten | ![Nein][false] | ![Ja][true][^online-content] |
@@ -108,7 +108,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Pattern-Skalierung | ![Nein][false] | ![Ja][true] |
 | Beatmap-Einreichung | ![Ja][true] | ![Ja][true] |
 | Storyboard-Editor | ![Ja][true] | ![Nein][false] |
-| Cross-Kompatibilität | ![Ja][true] | ![Teilweise][partial][^incompatibilities] |
+| Cross-Kompatibilität | ![Ja][true] | ![Ja][true] |
 
 ## lazer ausprobieren
 
@@ -249,7 +249,7 @@ Wir werden dies wahrscheinlich aufgrund von hoher Nachfrage in Zukunft wieder un
 
 #### Warum kann ich keine unbegrenzten FPS einstellen?
 
-Ab einer bestimmten Grenze gibt es keinen Grund, höhere Bildraten zu haben. Lazer setzt verschiedene neue Technologien ein, die sicherstellen, dass die geringste Latenzzeit erreicht wird, ohne dass hohe Bildwiederholraten benötigt werden. Dies wird sich in Zukunft noch weiter verbessern, da noch einige Verbesserungen anstehen.
+Ab einer bestimmten Grenze bilden höhere Bildraten keinen Mehrwert mehr. Lazer setzt verschiedene neue Technologien ein, die sicherstellen, dass die geringste Latenzzeit erreicht wird, ohne dass hohe Bildwiederholraten benötigt werden. Dies wird sich in Zukunft noch weiter verbessern, da noch einige Verbesserungen anstehen.
 
 Lazer fragt Eingaben mit 1.000 Hz unabhängig vom FPS-Limit ab. Das ist der Grund, warum die maximale Einstellung bei 1.000 FPS liegt.
 
@@ -269,7 +269,7 @@ Während auf den meisten modernen Geräten lazer besser abschneidet als stable, 
 
 #### Eine Funktion, auf die ich angewiesen bin, fehlt! / Etwas hat sich geändert und mir gefällt es nicht. / Ich habe einen Fehler gefunden. Wie kann ich ihn am besten melden?
 
-Es ist sehr wahrscheinlich, dass wir uns dessen bereits bewusst sind und es für die zukünftige Umsetzung einplanen! Bitte suche im [Issue-Tracker](https://github.com/ppy/osu/issues) und der [Diskussionsseite](https://github.com/ppy/osu/discussions). Wenn du keine passenden Threads finden kannst, darfst du gerne [eine Diskussion öffnen](https://github.com/ppy/osu/discussions/new).
+Es ist sehr wahrscheinlich, dass wir uns dessen bereits bewusst sind und es für die zukünftige Umsetzung einplanen! Bitte suche im [Issue-Tracker](https://github.com/ppy/osu/issues) und der [Diskussionsseite](https://github.com/ppy/osu/discussions). Wenn du keine passenden Beiträge finden kannst, darfst du gerne [eine Diskussion öffnen](https://github.com/ppy/osu/discussions/new).
 
 Bedenke, dass wir bereits über 1.000 Issues mit unterschiedlichen Prioritäten verfolgen und es kann einige Zeit dauern, Fehler zu beheben, die nur einen kleinen Teil der Nutzer beeinträchtigt.
 
@@ -285,7 +285,7 @@ Auch wenn osu! wie ein einfaches Spiel aussieht, gibt es Hunderte von Funktionen
 
 Ein weiterer Bereich, der einen großen Teil der Arbeit einnimmt, ist die historische Erhaltung — es wird sichergestellt, dass die Beatmaps sich genauso verhalten, wie sie es sollen, einschließlich der Randfälle, die ursprünglich nicht eingeplant waren. osu! ist ein dynamisches Ökosystem und die Nutzer haben sich die Freiheit genommen, das Spiel weit über den geplanten Umfang hinaus zu erweitern. Wir versuchen unser Bestes, um das in Zukunft zu fördern und zu unterstützen.
 
-Zu guter Letzt investieren wir im Gegensatz zur letzten Iteration viel Zeit und Sorgfalt, um sicherzustellen, dass die Codebasis uns auch in Zukunft noch gute Dienste leisten wird. Wir haben die Voraussetzungen dafür geschaffen, dass neue Funktionen in Zukunft in rasantem Tempo online gehen können. Das beinhaltet neue UI-Komponenten, neue Möglichkeiten das Spiel zu verschönern, neue Mehrspieler-Systeme und nicht zu vergessen die Fähigkeit, alle deine existierenden Beatmaps in neuen Spielmodi (auch bekannt als Rulesets) zu spielen!
+Zu guter Letzt investieren wir im Gegensatz zur letzten Iteration viel Zeit und Sorgfalt, um sicherzustellen, dass die Codebasis uns auch in Zukunft noch gute Dienste leisten wird. Wir haben die Voraussetzungen dafür geschaffen, dass neue Funktionen in Zukunft in rasantem Tempo online gehen können. Das beinhaltet neue UI-Komponenten, neue Optionen das Spiel zu verschönern, neue Mehrspieler-Systeme und nicht zu vergessen die Möglichkeit, alle deine existierenden Beatmaps in neuen Spielmodi (auch bekannt als Rulesets) zu spielen!
 
 #### Was kommt als nächstes?
 
@@ -341,7 +341,6 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^multi-room-max]: Maximal 16 Spieler.
 [^map-only]: Nur die Beatmap.
 [^all-files]: Alle Dateien.
-[^incompatibilities]: Einige Editor-Features führen zu einer inkorrekten Wiedergabe von Beatmaps in stable — wird bald behoben.
 [^stable-chat]: Es kann bis zu 15 Sekunden dauern, bis eine Nachricht ankommt.
 [^countdown-timers-stable]: Stelle einen Countdown mit einem Befehl ein, kein automatischer Start.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
@@ -349,6 +348,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^freestyle]: In diesem Mehrspielermodus können Spieler die Schwierigkeitsstufe der aktuellen Beatmap frei wählen.
 [^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl über die Mod "Difficulty Adjust".
 [^medals-lazer]: Manche [Hush-Hush Medaillen](/wiki/Medals#hush-hush) sind noch nicht verfügbar.
+[^medals-stable]: Einige Medaillen sind nur in lazer verfügbar.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

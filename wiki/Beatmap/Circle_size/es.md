@@ -17,9 +17,11 @@ El **tamaño del círculo** (***CS***) es una configuración de dificultad de un
 
 En [osu!](/wiki/Game_mode/osu!), el tamaño del círculo cambia el tamaño de los [círculos](/wiki/Gameplay/Hit_object/Hit_circle) y los [sliders](/wiki/Gameplay/Hit_object/Slider), con valores más altos creando objetos más pequeños. Los [spinners](/wiki/Gameplay/Hit_object/Spinner) no se ven afectados por el tamaño del círculo. El tamaño del círculo se obtiene mediante la siguiente fórmula:
 
-`r = 54.4 - 4.48 * CS`
+`r = (54,4 - 4,48 * CS) * 1,00041`
 
 Donde `r` es el radio medido en [osu!pixels](/wiki/Client/Beatmap_editor/osu!_pixel), y `CS` es el valor del tamaño del círculo.
+
+El multiplicador `1,00041` se usa para compensar un error en las repeticiones antiguas que causaba cálculos incorrectos del radio en pantallas anchas. <!-- fuente: https://github.com/ppy/osu/blob/2606f3a0b593440c114ad9a0514d339b0dc48a0d/osu.Game/Rulesets/Objects/Legacy/LegacyRulesetExtensions.cs#L46 -->
 
 ## osu!taiko
 

@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: May 2018"
 date: 2018-06-13 23:00:00 +0000
+series: qat_gazette
 ---
 
 An upcoming public Quality Assurance Team meeting, the arrival of Beatmap Nominator Badges, and a brand new QAT Leader are in the focus this month! Another month’s worth of your osu! mapping and modding news is right here!

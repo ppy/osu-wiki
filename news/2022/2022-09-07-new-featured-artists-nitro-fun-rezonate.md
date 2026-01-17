@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artists: Nitro Fun & Rezonate"
 date: 2022-09-07 10:00:00 +0000
+series: featured_artists
 ---
 
 A duo of [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255) talents have made their homes in our Featured Artists library!
