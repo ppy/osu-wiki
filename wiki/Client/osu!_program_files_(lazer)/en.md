@@ -62,6 +62,7 @@ For now, the correct procedure to manually modify skins or beatmaps outside of t
 It is strongly advised to **not** manually modify files in the osu!(lazer) directory.
 
 ## Backing up files
+
 If you want to back up or delete your game files, you need to back up your **entire** `osu` directory, not just the `files/` directory. If you copy only the `files/` directory, you will lose data.
 
 ## Migration from osu!(stable)
