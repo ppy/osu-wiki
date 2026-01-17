@@ -7,9 +7,9 @@ tags:
 
 # Project Loved 团队
 
-**Project Loved 团队** 是来自 osu! 社区的成员组成的团队，他们负责管理 [Project Loved](/wiki/Community/Project_Loved)，在第三方投票平台上帮助受欢迎的[谱面](/wiki/Beatmap)过渡到 [Loved](/wiki/Beatmap/Category#loved) 类别。这些成员拥有独特的糖果粉色[用户组徽章](/wiki/People/User_groups)，标识为 `LVD`。
+**Project Loved 团队** 是由来自 osu! 社区的成员组成的团队，负责管理 [Project Loved](/wiki/Community/Project_Loved)，一个用于推动受欢迎的[谱面](/wiki/Beatmap)进入 [Loved](/wiki/Beatmap/Category#loved) 类别的投票平台。这些成员拥有独特的糖果粉色[用户组](/wiki/People/User_groups)徽章，标识为 `LVD`。
 
-The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组成。队长负责代表社区把谱面提名为 Loved 类别，并作为社区代表，凭借良好的判断力来筛选合适的谱面。他们还会撰写了有关提名谱面的简短说明，以帮助玩家感受以前从未看过或玩过的谱面。这些说明可以在 Project Loved 的新闻帖子中看到。
+Project Loved 团队主要由每个[游戏模式](/wiki/Game_mode)的**队长**组成。队长负责代表社区，凭借良好的判断力选择合适的谱面，将它们提名至“社区喜爱”（Loved）类别。他们还会撰写有关提名谱面的简短说明，以帮助玩家感受以前从未看过或玩过的谱面。这些说明可以在 Project Loved 的新闻帖子中看到。
 
 Project Loved 团队中的其他重要职位包括：
 
@@ -21,11 +21,11 @@ Project Loved 团队中的其他重要职位包括：
 
 ## 加入 Project Loved 团队
 
-新的团队成员大多通过针对特定职位的申请流程选拔，以填补空缺的职位或协助分担工作量。申请表格会在 Project Loved 的[新闻帖子](https://osu.ppy.sh/home/news)中公布，成功申请者将在次月的帖子中对外公布。
+大多数新团队成员由针对团队中特定职位的申请流程选拔而来，以填补空缺的职位或协助分担工作量。申请表格会在 Project Loved 的[新闻帖](https://osu.ppy.sh/home/news)中公布，成功申请者将在次月的新闻帖中对外公布。
 
 部分团队成员可能会根据具体情况被手动添加，以填补需要特定技能或权限的职位（例如内容审核员职位，该职位仅限[全局管理团队](/wiki/People/Global_Moderation_Team)成员和[谱面审核成员](/wiki/People/Nomination_Assessment_Team)担任）。
 
-加入团队的标准因职位而异，但专业上的能力和社区活跃度始终是重要的考量因素。
+加入团队的标准因职位而异，但专业能力和社区活跃度始终是重要的考量因素。
 
 ## 特权
 
@@ -33,7 +33,7 @@ Project Loved 团队成员将获得一个显示其加入 Project Loved 年限的
 
 ![1 年 LVD 徽章](https://assets.ppy.sh/profile-badges/loved1y.png "1 年 LVD 徽章") ![2 年 LVD 徽章](https://assets.ppy.sh/profile-badges/loved2y.png "2 年 LVD 徽章") ![3 年 LVD 徽章](https://assets.ppy.sh/profile-badges/loved3y.png "3 年 LVD 徽章") ![4 年 LVD 徽章](https://assets.ppy.sh/profile-badges/loved4y.png "4 年 LVD 徽章") ![5 年 LVD 徽章](https://assets.ppy.sh/profile-badges/loved5y.png "5 年 LVD 徽章") ![6 年 LVD 徽章](https://assets.ppy.sh/profile-badges/loved6y.png "6 年 LVD 徽章")
 
-## 其他
+## 琐闻
 
 - ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 于 2017 年 9 月创建了最初的队长团队，并建立了[队长精选](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present))系统，该系统后来更名为 Project Loved。直到 2019 年底，他一直都监督和管理着整个项目。
 - 在 2021 年 4 月 28 日之前，[Project Loved 团队页面](https://osu.ppy.sh/groups/31)并未公开，仅用于管理目的。目前，此页面已公开。
