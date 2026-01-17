@@ -11,7 +11,7 @@ osu! mappers know how to make osu! music.
 
 **tachibanaka** is no stranger to osu!. Better known in the community as [Tachibana_](https://osu.ppy.sh/users/13069714), a circle clicker and mapper quickly approaching the status of [Centurion](/wiki/People/Centurions) with 78 Ranked maps and counting, **tachibanaka** launched their music career in a way you could've easily guessed: by listening to music through the osu!editor. 
 
-Influenced by the likes of *DVRST*, *ANGUISH*, and [*Shadren*](https://osu.ppy.sh/beatmaps/artists/362) (another musician + mapper combo!), **tachibanaka** has taken a liking to variety by producing a multitude of electronic genres. As someone well-versed in osu!'s map catalogue, he hopes to bring more genres to the osu! sphere, such as *phonk*, which you'll discover to be the backbone of some of his music!
+Influenced by the likes of *DVRST*, *ANGUISH*, and [*Shadren*](https://osu.ppy.sh/beatmaps/artists/362) (another musician + mapper combo!), **tachibanaka** has taken a liking to variety by producing a multitude of electronic genres. As someone well versed in osu!'s map catalogue, he hopes to bring more genres to the osu! sphere, such as *phonk*, which you'll discover to be the backbone of some of his music!
 
 Let's cut to the good stuff. A grand total of **17** new tracks are forever living on [**tachibanaka**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/520), pre-timed by us and post-mapped by you.
 
@@ -37,7 +37,7 @@ Sink your keys into [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2283380)
 
 ### hellfly, tachibanaka - cute things
 
-Combining music and mapping knowledge resulted in [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2379637) created by the artists, [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) and [Tachibana_](https://osu.ppy.sh/users/13069714)!
+Combining music and mapping knowledge resulted in [this osu!taiko map](https://osu.ppy.sh/beatmapsets/2379637) created by two artists, [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) and [Tachibana_](https://osu.ppy.sh/users/13069714)!
 
 <audio controls class="osu-md__paragraph">
     <source src="https://assets.ppy.sh/artists/520/Songs/hellfly%2C%20tachibanaka%20-%20cute%20things.mp3">
