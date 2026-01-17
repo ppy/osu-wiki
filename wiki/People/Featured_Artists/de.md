@@ -30,7 +30,8 @@ Einbindungen neuer gesponserter Künstler pro Jahr:
 - **2022:** 104
 - **2023:** 65
 - **2024:** 58
-- **2025:** *noch ausstehend*
+- **2025:** 64
+- **2026:** *noch ausstehend*
 
 Neue gesponserte Künstler werden wöchentlich im [Newsfeed](https://osu.ppy.sh/home/news) von osu! bekanntgegeben. Die meisten Ankündigungen enthalten eine Liste der lizenzierten Songs des Künstlers und einen Link zur Künstlerseite. Einige Ankündigungen sind auch mit Mapping-Wettbewerben oder von der [Mappers' Guild](/wiki/Community/Mappers_Guild) erstellten Beatmaps gepaart.
 
@@ -142,6 +143,7 @@ Die [Gruppenseite für Featured Artists](https://osu.ppy.sh/groups/35) listet al
 | ::{ flag=PH }:: [WEARY](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=JP }:: [WhiteSakata](https://osu.ppy.sh/users/15400295) | [WhiteSakata](https://osu.ppy.sh/beatmaps/artists/512) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
+| ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (Mitglied) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

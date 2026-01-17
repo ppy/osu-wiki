@@ -26,7 +26,7 @@ Wähle den Abschnitt, der deinem Problem am meisten ähnelt, damit du eine passe
 | [Mapping und Editor](/wiki/Help_centre/Beatmapping) | Deine Beatmaps pflegen, Beatmap-Eigentümerschaft, Beatmap-Slots |
 | [Store](/wiki/Help_centre/Store) | Merchandise |
 | [Stummschaltungen](/wiki/Help_centre/Silences) | Alles über Stummschaltungen: Übersicht, Beschwerdeverfahren und häufige Gründe |
-| [Turniersperren](/wiki/Help_centre/Tournament_bans) | Alles über Turniersperren: Übersicht, häufige Gründe und Auszeiten |
+| [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions) | Alles über Turniersanktionen: Übersicht, häufige Gründe und Auszeiten |
 | [Umstellung auf lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migration zur [nächsten Hauptversion](/wiki/Client/Release_stream/Lazer) von osu! |
 | [Webseite](/wiki/Help_centre/Website) | Benutzer blockieren, den Support kontaktieren, Erscheinungsbild der Website |
 

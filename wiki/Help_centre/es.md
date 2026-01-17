@@ -28,7 +28,7 @@ Elige la sección que mejor se ajuste a tu problema para encontrar una solución
 | [Instalación y registro](/wiki/Help_centre/Installation_and_registration) | Descarga del juego, creación de cuenta |
 | [Silencios](/wiki/Help_centre/Silences) | Todo sobre los silencios: descripción general, proceso de apelación, razones comunes |
 | [Tienda](/wiki/Help_centre/Store) | Mercancía |
-| [Prohibiciones de torneos](/wiki/Help_centre/Tournament_bans) | Todo sobre las prohibiciones de torneos: descripción general, razones comunes y tiempos de espera |
+| [Sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions) | Todo sobre las sanciones de los torneos: descripción general, razones comunes y tiempos de espera |
 | [Actualización a lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migración a la [próxima versión principal](/wiki/Client/Release_stream/Lazer) de osu! |
 | [Sitio web](/wiki/Help_centre/Website) | Bloquear usuarios, contacto con el soporte, apariencia del sitio |
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: fff05b2e9de482aa8c120458641e0492c88568b2
 ---
 
 # Skinning de l'interface

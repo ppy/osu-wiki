@@ -2,6 +2,8 @@
 no_native_review: true
 tags:
   - FA
+outdated_translation: true
+outdated_since: 77e06f056c0289eb7b864d007a52c4fe7edca762
 ---
 
 # Featured Artists
@@ -143,6 +145,7 @@ La [page du groupe des Featured Artist](https://osu.ppy.sh/groups/35) répertori
 | ::{ flag=PH }:: [WEARY](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=JP }:: [WhiteSakata](https://osu.ppy.sh/users/15400295) | [WhiteSakata](https://osu.ppy.sh/beatmaps/artists/512) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
+| ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | (membre de) [Symholic](https://osu.ppy.sh/beatmaps/artists/130) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

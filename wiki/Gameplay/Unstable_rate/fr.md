@@ -13,6 +13,8 @@ tags:
   - UR converti
   - erreur
   - erreur de hit
+outdated_translation: true
+outdated_since: 02a69b3c9db494a4b8f41347369cb594f5844f56
 ---
 
 # Unstable rate

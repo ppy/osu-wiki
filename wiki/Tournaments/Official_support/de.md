@@ -4,6 +4,8 @@ tags:
   - badges
   - badged
   - Abzeichen
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Offizielle Turnierunterstützung
@@ -168,7 +170,7 @@ Von Teilnehmern in offiziell unterstützten Turnieren wird erwartet, dass sie si
 
 Des Weiteren wird von den Spielern erwartet, dass sie an einem bestimmten Turnier teilgenommen haben, um sich für etwaige Preise zu qualifizieren — sich einfach als Mitglied eines Siegerteams zu qualifizieren ist nicht ausreichend. Aufgrund von nicht erfassbaren Beiträgen für die Teams, die die Spieler oft machen ohne selbst Beatmaps zu spielen, wird möglicherweise nur Spielern ein Abzeichenpreis verwehrt, die *im gesamten Turnier überhaupt keine Beatmap gespielt haben*.
 
-Nach dem Ermessen des Account-Support-Teams können beleidigenden Spielern abhängig von der Schwere ihres Verhaltens zeitlich befristete oder unbegrenzte [Turniersperren](/wiki/Help_centre/Tournament_bans) erteilt werden. Wiederholungstäter riskieren, eine permanente Turniersperre oder eine [Einschränkung](/wiki/Help_centre/Account_restrictions) zu bekommen.
+Nach dem Ermessen des Account-Support-Teams können beleidigenden Spielern abhängig von der Schwere ihres Verhaltens zeitlich befristete oder unbegrenzte [Turniersperren](/wiki/Help_centre/Tournament_sanctions#turniersperren) erteilt werden. Wiederholungstäter riskieren, eine permanente Turniersperre oder eine [Einschränkung](/wiki/Help_centre/Account_restrictions) zu bekommen.
 
 ## Weitere Prozesse
 

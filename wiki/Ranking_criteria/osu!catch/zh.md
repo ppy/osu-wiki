@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
+---
+
 # osu!catch 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***

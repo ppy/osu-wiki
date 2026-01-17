@@ -30,7 +30,8 @@ New Featured Artist releases per year:
 - **2022:** 104
 - **2023:** 65
 - **2024:** 58
-- **2025:** *to be determined*
+- **2025:** 64
+- **2026:** *to be determined*
 
 New Featured Artists are announced weekly on osu!'s [news feed](https://osu.ppy.sh/home/news). Most announcements include a list of the artist's licensed songs and a link to their Featured Artist page, though some announcements are paired with mapping contests or beatmaps created by the [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
@@ -142,6 +143,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=PH }:: [WEARY](https://osu.ppy.sh/users/31900423) | [WEARY](https://osu.ppy.sh/beatmaps/artists/460) |
 | ::{ flag=JP }:: [WhiteSakata](https://osu.ppy.sh/users/15400295) | [WhiteSakata](https://osu.ppy.sh/beatmaps/artists/512) |
 | ::{ flag=KR }:: [WyvernP](https://osu.ppy.sh/users/3611701) | [WyvernP](https://osu.ppy.sh/beatmaps/artists/445) |
+| ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) | [XenjeS](https://osu.ppy.sh/beatmaps/artists/482) |
 | ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (member of) |
 | ::{ flag=ID }:: [Xuande](https://osu.ppy.sh/users/23032672) | [Xeon Diversity](https://osu.ppy.sh/beatmaps/artists/499) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |

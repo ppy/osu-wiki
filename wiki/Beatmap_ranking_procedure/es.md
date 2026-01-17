@@ -15,7 +15,8 @@ tags:
 
 # Procedimiento de clasificación de beatmaps
 
-*Véase también: [Rango (desambiguación)](/wiki/Disambiguation/Rank)*
+*Véase también: [Rango (desambiguación)](/wiki/Disambiguation/Rank) y [Cola de clasificación de beatmaps](Ranking_queue)*
+*Para las categorías de beatmaps mencionadas a continuación, véase: [Categorías de beatmaps](/wiki/Beatmap/Category)*
 
 Los [beatmaps](/wiki/Beatmap) se pueden promocionar en la comunidad siguiendo el procedimiento de clasificación de beatmaps e ingresando a la categoría [clasificados](/wiki/Beatmap/Category#ranked).
 
@@ -43,27 +44,42 @@ Se recomienda recibir mods antes de solicitar nominaciones de BN, pero el único
 
 ## Calificación
 
-Los beatmaps que reciben dos nominaciones para el modo de juego principal[^main-game-mode] pasan a la categoría de beatmaps [calificados](/wiki/Beatmap/Category#qualified)[^hybrid-sets]. Los beatmaps calificados tienen una tabla de clasificación de puntuación, pero no recompensan a los jugadores con [puntos de rendimiento](/wiki/Performance_points). Cuando un beatmap permanece calificado durante al menos 7 días sin ningún [problema o sugerencia](/wiki/Modding#tipos-de-publicaciones-de-mods) abierto, la [cola de clasificación](Ranking_queue) puede moverlo a la categoría [clasificados](#clasificados).
+La calificación es un proceso mediante el cual los beatmaps que reciben suficientes nominaciones se trasladan a la categoría [calificados](/wiki/Beatmap/Category#qualified). Los beatmaps con un solo [modo de juego](/wiki/Game_mode) principal entre todas las [dificultades](/wiki/Beatmap#dificultad) solo necesitan dos nominaciones, mientras que los beatmaps híbridos[^hybrid-sets] necesitan dos nominaciones para el [modo de juego principal](#main-mode) y una para cada modo secundario.
 
-Si se descalifica un beatmap, su fecha de clasificación se restablecerá a 7 días si se añaden nuevas dificultades o si el beatmap se califica de nuevo sin ninguno de los dos Beatmap Nominators originales. Además, por cada semana que un beatmap permanezca descalificado, se prolongará un día más su fecha de clasificación, hasta un máximo de 14 días.
+Los beatmaps calificados reciben una mayor exposición ante la comunidad de osu! como paso final del **control de calidad** antes de pasar a ser [clasificados](/wiki/Beatmap/Category#ranked) de forma permanente. Esta es la etapa más habitual en la que los beatmaps reciben un amplio seguimiento, opiniones y mejoras si se detectan problemas. Durante este periodo:
 
-Esta categoría de beatmaps existe para dar a los beatmaps una mayor exposición a la comunidad de osu! con la esperanza de descubrir problemas potenciales. Los problemas se pueden informar a los miembros de BN y NAT desde la página de discusión del beatmap. A diferencia de los beatmaps pendientes, los creadores no pueden actualizar los beatmaps calificados, por lo tanto, los comentarios solo se pueden aplicar después de solicitar un [restablecimiento de nominaciones](#restablecimientos-de-nominaciones).
+- Los miembros de la comunidad pueden probar o modear un beatmap, y luego proporcionar su opinión e informar de problemas[^report-correctly] a través de la página de discusión del beatmap.
+- Los BN y el NAT reciben automáticamente notificaciones de todas las sugerencias y problemas. Los usuarios que hayan habilitado las notificaciones para nuevos problemas en los beatmaps calificados también recibirán una notificación.
+- Las sugerencias y los problemas pueden discutirse y resolverse de forma colaborativa entre la comunidad y el creador del beatmap.
+- Los beatmaps calificados no pueden ser actualizados directamente por sus creadores.
 
-## Restablecimientos de nominaciones
+Cuando se identifican problemas que requieren cambios, el beatmap puede someterse a un [restablecimiento de nominaciones](#restablecimiento-de-nominaciones), lo que le permite al creador atender los comentarios y mantener la integridad del procedimiento de clasificación.
 
-Los restablecimientos de nominaciones aseguran que los modders, los BN y miembros del NAT verifiquen la versión más reciente de un beatmap antes de que ingrese a la cola de clasificación.
+### Determinar el modo de juego principal {id=main-mode}
 
-Las nominaciones se pueden restablecer cuando el creador actualiza su beatmap, o cuando un miembro de los BN o el NAT encuentra un problema en un beatmap nominado. Las nominaciones también pueden ser restablecidas por los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) cuando el motivo tenga que ver con contenido inapropiado. Si se califica un beatmap cuando sus nominaciones están restablecidas, será descalificado y eliminado de la cola de clasificación.
+En el caso de los beatmaps híbridos[^hybrid-sets], el modo de juego principal se determina según el siguiente orden de prioridad:
 
-Los miembros de los BN y el NAT a veces [vetan](/wiki/People/Beatmap_Nominators/Beatmap_Veto) beatmaps que creen que presentan problemas de calidad que no están relacionados con los criterios de clasificación.
+1. El modo de juego que contiene más dificultades en el beatmap.
+2. Si dos o más modos tienen la misma cantidad de dificultades, el modo de juego principal es aquel en el que el anfitrión del beatmap ha mapeado la mayor cantidad de dificultades.
+3. Si las dos reglas anteriores no producen ningún resultado, el modo de juego principal será el primero que se haya nominado.
 
-## Clasificados
+### Restablecimiento de nominaciones
 
-Los beatmaps que pasaron la etapa de calificación, han completado el proceso de clasificación. Tienen [tablas de clasificación de puntuación](/wiki/Ranking) y recompensan a los jugadores con puntos de rendimiento.
+Las nominaciones pueden restablecerse cuando el creador actualiza su beatmap o cuando un miembro de los BN o el NAT detecta un problema en un beatmap nominado. También pueden ser restablecidas por los miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) con fines de moderación. Si la nominación se restablece mientras un beatmap está calificado, será *descalificado* (comúnmente abreviado como *DQ*) y eliminado de la [cola de clasificación](Ranking_queue) para volver a la categoría pendiente. Todas las nominaciones del beatmap también serán eliminadas. Solo los miembros de los BN, NAT y GMT pueden descalificar beatmaps calificados.
+
+Los restablecimientos de las nominaciones permiten al anfitrión realizar cambios en el beatmap antes de solicitar una nueva nominación. También ayuda a garantizar que los modders, BN y miembros del NAT comprueben la versión más actualizada de un beatmap antes de que entre en la [cola de clasificación](Ranking_queue).
+
+### Vetos
+
+Un [veto a un beatmap](/wiki/People/Beatmap_Nominators/Beatmap_Veto) es una medida que le permite a un miembro de los BN o NAT no dejar que un beatmap entre en la sección de [clasificados](/wiki/Beatmap/Category#ranked) si creen que tiene problemas importantes de calidad. Esto permite buscar una mayor discusión o aclaración sobre cualquier tipo de problemas subjetivos que deban abordarse antes de que el mapa pueda continuar con la [calificación](#calificación).
+
+## Clasificación
+
+Cuando un beatmap permanece calificado durante al menos 7 días sin ningún [problema o sugerencia](/wiki/Modding#tipos-de-publicaciones-de-mods) abierta, la [cola de clasificación](Ranking_queue) puede moverlo a la categoría [clasificado](/wiki/Beatmap/Category#ranked). Si ha sido recalificado tras una descalificación, el tiempo que tarda en pasar de la calificación a la clasificación puede [recalcularse](Ranking_queue#dq-and-re-qualification). Los beatmaps clasificados tienen [tablas de clasificación por puntuación](/wiki/Ranking) y recompensan a los jugadores con [puntos de rendimiento](/wiki/Performance_points).
 
 Los beatmaps clasificados solo se desclasifican en circunstancias excepcionales, cuando se descubren problemas poco después de haber alcanzado el estado Clasificado.
 
 ## Notas
 
-[^main-game-mode]: El modo de juego de un beatmap se considera «principal» si contiene el mayor número de dificultades. En el caso de que la cantidad de dificultades sea la misma entre 2 o más modos, el modo de juego principal será el que tenga más dificultades mapeadas por el anfitrión del beatmap. Si no se cumple ninguna de estas condiciones, el modo de juego principal será el que se nomine primero.
-[^hybrid-sets]: Para los beatmaps con dificultades en varios modos de juego, se necesitan dos nominaciones para el modo de juego principal y una para cada uno de los otros modos.
+[^hybrid-sets]: Los beatmaps híbridos son beatmaps con dificultades en múltiples modos de juego.
+[^report-correctly]: Para saber cómo reportar correctamente algún problema, véase: [Comportamiento y conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping#comportamiento-y-conducta) junto con [Discusión de beatmaps - Campo de envío](/wiki/Beatmap_discussion#campo-de-envío)

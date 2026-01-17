@@ -1466,6 +1466,21 @@ Notas:
   - Si se usa para el contador del combo:
     - Aditivo para las imágenes posteriores a la expansión.
 
+---
+
+`score-pp.png`
+
+![](img/score-pp.png)
+
+| Versiones | Animable | Personalizable para los beatmaps | Modo de mezcla | Origen | Tamaño SD sugerido |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Todas | ![No][false] | ![Sí][true] | Normal | Variado | - |
+
+Notas:
+
+- Este elemento solo está disponible en [Lazer](/wiki/Client/Release_stream/Lazer).
+- Este elemento es para los [puntos de rendimiento](/wiki/Performance_points).
+
 ## Grados
 
 `ranking-XH.png`
