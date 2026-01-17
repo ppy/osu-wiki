@@ -21,7 +21,7 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 | Name | Functionality |
 | :-- | :-- |
 | `cache` | Holds osu!'s cache, like fonts and shaders. |
-| `client.realm.management` | Internal state management for realm (database library that osu! uses). |
+| `client.realm.management` | Internal state management for realm (database library that osu! uses).[^realm-files] |
 | `exports` | Holds any exported files, including logs and beatmaps. |
 | `files` | Holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information. |
 | `logs` | Holds game logs. |
@@ -32,11 +32,11 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 
 | Name | Functionality |
 | :-- | :-- |
-| `client.realm` | Contains mappings for the data in the files/ folder. |
-| `client.realm.lock` | Keeps track of which versions of data in in the files folder are actively in use. |
+| `client.realm` | Contains mappings for the data in the `files` folder. |
+| `client.realm.lock` | Keeps track of which versions of data in the `files` folder are actively in use.[^realm-files] |
 | `framework.ini` | Contains [osu!framework](https://github.com/ppy/osu-frameworks) specific settings. |
 | `game.ini` | Contains most user settings. |
-| `IMPORTANT READ ME.txt` | Warning about modifying/backing-up the directory. |
+| `IMPORTANT READ ME.txt` | Warning about modifying or [backing up](#backing-up-files) the directory. |
 | `input.json` | Contains input settings |
 
 ## Storage structure
@@ -88,3 +88,7 @@ As hard links are a filesystem-level feature, it is required that the hard-linke
 ### Via file copy
 
 On other operating systems and filesystems where hard links are not available (or the functionality to create them has not been implemented yet), the migration from stable to lazer works by copying all files across from the old installation to the new. Both installs are therefore fully separated, but also consume up to twice the disk space.
+
+## References
+
+[^realm-files]: [Documentation file on the `realm/realm-dotnet` GitHub repository (2025-09-23) "Configure & Open a Realm - .NET SDK"](https://github.com/realm/realm-dotnet/blob/113c01264fc00f6cedf3c829caa9cfb30b963914/Guides/realm-files/realms.md#auxiliary-realm-files)
