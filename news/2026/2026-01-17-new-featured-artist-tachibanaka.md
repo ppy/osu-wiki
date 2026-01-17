@@ -9,7 +9,7 @@ You've reached the end of the line. A new realm of music is here.
 
 ![](https://assets.ppy.sh/artists/520/header.jpg)
 
-**tachibanaka** is no stranger to osu!. Better known in the community as [Tachibana_](https://osu.ppy.sh/users/13069714), a circle clicker and mapper quickly approaching the status of [Centurion](https://osu.ppy.sh/wiki/en/People/Centurions) with 78 Ranked maps and counting, **tachibanaka** launched their music career in a way you could've easily guessed: by listening to music through the osu!editor. 
+**tachibanaka** is no stranger to osu!. Better known in the community as [Tachibana_](https://osu.ppy.sh/users/13069714), a circle clicker and mapper quickly approaching the status of [Centurion](/wiki/People/Centurions) with 78 Ranked maps and counting, **tachibanaka** launched their music career in a way you could've easily guessed: by listening to music through the osu!editor. 
 
 Influenced by the likes of *DVRST*, *ANGUISH*, and [*Shadren*](https://osu.ppy.sh/beatmaps/artists/362) (another musician + mapper combo!), **tachibanaka** has taken a liking to variety by producing a multitude of electronic genres. As someone well-versed in osu!'s map catalogue, he hopes to bring more genres to the osu! sphere, such as *phonk*, which you'll discover to be the backbone of some of his music!
 
