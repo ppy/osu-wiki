@@ -32,7 +32,7 @@ That's the background, anyway, but it leads us to...
 
 ## The survey
 
-[![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-08-survey-the-future-of-mod-multipliers/survey-link.png)](FORM_LINK)
+[![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-08-survey-the-future-of-mod-multipliers/survey-link.png)](https://form-auth.ppy.sh/form/2025-the-future-of-osu-mod-multipliers)
 
 This is a survey about how the mod multipliers should be adjusted, if at all. Note that it concerns the osu! game mode only.
 
@@ -67,7 +67,7 @@ This is an **interactive spreadsheet** which allows you to compare how your surv
 
 To get started, there's a three-step process:
 
-1. Read through the [survey](FORM_LINK) and answer the questions according to your opinion. For parts where you have no idea, just leave the answer blank.
+1. Read through the [survey](https://form-auth.ppy.sh/form/2025-the-future-of-osu-mod-multipliers) and answer the questions according to your opinion. For parts where you have no idea, just leave the answer blank.
 2. Open [the spreadsheet](https://docs.google.com/spreadsheets/d/1Exs5MN_jnBmMrTmTGJ2OT13FPwrubrZ1s3vB7G6-Hvk) and make your own editable copy with **File > Make a copy**. If the spreadsheet asks for permission to "send and receive data from external parties" (access the osu! api for calculating leaderboards), click **Allow access**.
 3. Go to the second tab (named **Settings**) and copy your survey answers onto the corresponding *green cells*.
 
