@@ -65,7 +65,7 @@ Consulta *[Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)* par
 
 Los vetos de los torneos son, como su nombre indica, un veto que impide la participación en todos los torneos con soporte oficial.
 
-Consulta el artículo [Vetos de los torneos](/wiki/Help_centre/Tournament_bans) para obtener más información sobre el tema.
+Consulta el artículo [sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions) para obtener más información sobre el tema.
 
 ## Inicio de sesión {id=sign-in}
 

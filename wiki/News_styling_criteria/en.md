@@ -72,6 +72,7 @@ Content
 - `title` must represent the article's full title. Markdown formatting is disallowed in this string. News post titles, unlike wiki article titles and other headings, should be in title case. Note that surrounding quotes (`"`) may be necessary if the title contains colons (`:`) or number signs (`#`).
 - `date` must represent a combined string displaying a calendar date in ISO 8601 format (`2017-08-17`), followed by a 24-hour time string (`03:00:00`), followed by a time offset from UTC (`+0000`). This is the publication date used to determine when the news post becomes visible on the website.
 - The preview paragraph is what will be shown on the front page, news archive, and the osu!(lazer) in-game news listing, in addition to being the first paragraph of the news post.
+- All news posts should include and link a cover image in the [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news) folder. In the rare case where one isn't desired, use the default image: `https://osu.ppy.sh/images/headers/news-show-default.jpg`.
 
 ### Markdown
 

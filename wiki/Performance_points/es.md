@@ -143,4 +143,4 @@ El 28 de octubre de 2024, se implementaron más cambios. Los detalles concretos 
 - osu!mania
   - Ajustar la escala de valores de las LN para solucionar los mapas de LN que otorgaban demasiado pp
 
-El ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.
+El ppv2 está actualmente en servicio activo, con actualizaciones en forma de noticias publicadas por el [Comité de Puntos de Rendimiento](/wiki/People/Performance_Points_Committee) cada vez que se implementan nuevos cambios.

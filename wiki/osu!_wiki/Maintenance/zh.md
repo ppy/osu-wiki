@@ -152,7 +152,7 @@ wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护
 
 ### 扩写
 
-*有关可能的工作范围，请参阅：[需要扩写的文章列表（英语）](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*有关可能的工作范围，请参阅：[需要扩写的文章列表（英语）](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 有些 osu! wiki 文章可能并不完整且缺乏关键信息。这些文章会标记为 *stubs*，这代表了这些文章虽然足够重要，可以写成一篇独立的文章，但是只可能在未来完成。如果你熟悉这篇文章所描述的内容，就贡献并分享出你的知识吧。
 

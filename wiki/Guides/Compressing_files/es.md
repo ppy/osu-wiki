@@ -89,7 +89,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -
 
 En general, OGG (Vorbis) ofrece una mejor calidad que MP3 para una tasa de bits determinada.
 
-**Los [criterios de clasificación](/wiki/Ranking_criteria#audio) especifican que la tasa de bits media debe estar entre 192 kbps y 128 kbps para el formato MP3, y entre 208 kbps y 128 kbps para el formato OGG (Vorbis).** Como referencia, las canciones de los [artistas destacados](/wiki/People/Featured_Artists) incluidas en las plantillas están codificadas en MP3 con una tasa de bits constante de 192 kbps.
+**Los [criterios de clasificación](/wiki/Ranking_criteria#audio) especifican que la tasa de bits media debe estar entre 192 kbps y 128 kbps para el formato MP3, y entre 208 kbps y 128 kbps para el formato OGG (Vorbis).** Como referencia, las canciones de los [Artistas Destacados](/wiki/People/Featured_Artists) incluidas en las plantillas están codificadas en MP3 con una tasa de bits constante de 192 kbps.
 
 ### Usar Audacity
 
