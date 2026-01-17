@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated_translation: true
+outdated_since: 72c456d7c6d274acf8c573b9bf0cbb2ec9bd94f1
 ---
 
 # Juice stream
