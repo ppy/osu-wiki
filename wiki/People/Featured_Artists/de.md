@@ -30,7 +30,8 @@ Einbindungen neuer gesponserter Künstler pro Jahr:
 - **2022:** 104
 - **2023:** 65
 - **2024:** 58
-- **2025:** *noch ausstehend*
+- **2025:** 64
+- **2026:** *noch ausstehend*
 
 Neue gesponserte Künstler werden wöchentlich im [Newsfeed](https://osu.ppy.sh/home/news) von osu! bekanntgegeben. Die meisten Ankündigungen enthalten eine Liste der lizenzierten Songs des Künstlers und einen Link zur Künstlerseite. Einige Ankündigungen sind auch mit Mapping-Wettbewerben oder von der [Mappers' Guild](/wiki/Community/Mappers_Guild) erstellten Beatmaps gepaart.
 

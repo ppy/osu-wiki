@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
+---
+
 # Nuke
 
 **Nuke** merupakan suatu ikon pada sistem [forum modding](/wiki/Modding/Forum_modding) terdahulu yang digunakan untuk menandai [beatmap-beatmap](/wiki/Beatmap) yang bermasalah. Ikon ini pada umumnya disematkan oleh para anggota [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) atau [Global Moderation Team (GMT)](/wiki/People/Global_Moderation_Team) pada beatmap-beatmap yang dianggap telah mengabaikan aturan dan [kode etik](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) yang berlaku.

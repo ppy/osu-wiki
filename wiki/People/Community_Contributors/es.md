@@ -245,11 +245,11 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Excelente contribución al diseño gráfico en innumerables proyectos de la comunidad |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Excelente contribución al aseguramiento de la calidad de los beatmaps |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Excelente contribución a eventos de osu! en la vida real |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
 
 ### 2024
 

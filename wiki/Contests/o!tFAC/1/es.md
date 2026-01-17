@@ -14,7 +14,7 @@ tags:
 
 ![Logo de la o!tfac](img/logo.png)
 
-La **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de uno de los artistas destacados de osu!.
+La **osu!taiko Featured Artist Cup #1** (***o!tfac #1***) fue un concurso de mapping de osu!taiko en el que simplemente se le pedía a los concursantes que mapearan una canción de uno de los Artistas Destacados de osu!.
 
 ## Cronograma del concurso
 
@@ -65,7 +65,7 @@ Esta competición ha llegado a su fin y ha dado lugar al siguiente podio:
 
 ### Reglas del concurso
 
-- **Los concursantes presentarán UNA dificultad de cualquier canción con licencia que elijan de la [biblioteca de los artistas destacados](https://osu.ppy.sh/beatmaps/artists).**
+- **Los concursantes presentarán UNA dificultad de cualquier canción con licencia que elijan de la [biblioteca de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists).**
 - **Tu mapa debe ser un mapa de osu!taiko.**
 - **Todos los envíos deben ser clasificables.** Ningún beatmap enviado debe ser intencionalmente no clasificable. Los errores ocurren y se restarán puntos por ellos, pero esto es un concurso de mapping normal, no [Aspire](/wiki/Contests/Aspire). (Se permite ignorar las reglas de distribución por el bien de este concurso).
 - **Los mapas NO deben subirse ni compartirse con otras personas antes de que se anuncien los resultados.** Si compartes tu mapa públicamente por cualquier medio antes de que se anuncien los resultados, tu mapa será descalificado, sin derecho a reclamación.
