@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
+---
+
 # 核弹
 
 **核弹** 是早期的 osu! [论坛摸图](/wiki/Modding/Forum_modding)系统中使用的摸[图](/wiki/Beatmap)工具。任何被认为是无视规则（或者谱师无视[行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)）的谱面，都可能被[谱面评估团队 (BAT)](/wiki/People/Beatmap_Appreciation_Team) 或者[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 用核弹标记（俗称被核）。
