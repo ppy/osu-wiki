@@ -35,6 +35,7 @@ Beatmap metadata fields can be compared against specific values for more granula
 | `artist` | Name of the artist |
 | `creator` | Name of the difficulty creator |
 | `title` | Name of the song |
+| `source` | The medium, such as a video game, movie, series, or event, where the song originated from or which it is best associated with |
 | `difficulty` | Name of the beatmap difficulty |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
