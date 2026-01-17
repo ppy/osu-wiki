@@ -18,15 +18,24 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 
 ## Folders
 
-| Name | Usage |
+| Name | Functionality |
 | :-- | :-- |
-| cache | Holds osu!'s cache, like fonts and shaders |
-| client.realm.management |  |
-| exports | Holds any exported files, including logs and beatmaps |
+| cache | Holds osu!'s cache, like fonts and shaders. |
+| client.realm.management | Internal state management for realm (database library that osu! uses). |
+| exports | Holds any exported files, including logs and beatmaps. |
 | files | Holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information. |
-| logs | Holds game logs |
+| logs | Holds game logs. |
 | rulesets | Holds custom rulesets (`.dll` files). There is a [listing of them on the osu! GitHub repository](https://github.com/ppy/osu/discussions/13096). |
-| screenshots | Holds screenshots taken in osu! |
+| screenshots | Holds screenshots taken in-game. |
+
+## Top-level files
+| Name | Functionality |
+| client.realm | Contains mappings for the data in the files folder. |
+| client.realm.lock | Keeps track of which versions of data in in the files folder are actively in use. |
+| framework.ini | Contains [osu!framework](https://github.com/ppy/osu-frameworks) specific settings. |
+| game.ini | Contains most user settings. |
+| IMPORTANT READ ME.txt | Warning about modifying/backing-up the directory. |
+| input.json | Contains input settings |
 
 ## Storage structure
 
