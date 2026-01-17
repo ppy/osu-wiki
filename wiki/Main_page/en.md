@@ -74,7 +74,7 @@ Read about procedures and regulations that keep osu! and its community safe, fro
 
 [Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Rules/Contributor_code_of_conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Media regulations: [Content usage guidelines](/wiki/Rules/Content_usage_guidelines) • [Content voting process](/wiki/Rules/Content_voting_process) • [Explicit content](/wiki/Rules/Explicit_content) • [Song content rules](/wiki/Rules/Song_content_rules) • [Visual content considerations](/wiki/Rules/Visual_content_considerations)
+Media regulations: [Content usage permissions](/wiki/Rules/Content_usage_permissions) • [Content voting process](/wiki/Rules/Content_voting_process) • [Explicit content](/wiki/Rules/Explicit_content) • [Song content rules](/wiki/Rules/Song_content_rules) • [Visual content considerations](/wiki/Rules/Visual_content_considerations)
 
 [Legal pages](/wiki/Legal): [Terms of Service](/wiki/Legal/Terms) • [Privacy](/wiki/Legal/Privacy) • [Copyright (DMCA)](/wiki/Legal/Copyright) • [Music licensing](/wiki/Legal/Music_licensing)
 
