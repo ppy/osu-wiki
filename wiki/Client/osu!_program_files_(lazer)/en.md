@@ -1,4 +1,4 @@
-# osu!(lazer) program files
+# osu! program files (lazer)
 
 *For the osu!(stable) version of this article, see: [osu! program files](/wiki/Client/Program_files)*\
 *See also: [osu! File Formats](/wiki/Client/File_formats)*
