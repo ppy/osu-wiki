@@ -145,11 +145,11 @@ Zusätzlich zu den oben zu Programmen aufgeführten Punkten müssen automatisier
 - Ein menschlicher Schiedsrichter muss immer für Anfragen von Teilnehmern innerhalb eines bestimmten Zeitrahmens zur Verfügung stehen (2 bis 5 Minuten) und über den Befehl `!panic` in der jeweiligen Lobby erreichbar sein. Jegliche Automatisierung sollte bei der Verwendung des Befehls gestoppt werden, bis sie von einem menschlichen Schiedsrichter manuell wieder aktiviert wird.
 - Schiedsrichter sollten Räume, in denen Spiele stattfinden, mit möglichst wenig Beeinträchtigungen verwalten können. Des Weiteren sollten bisherige Logs der Spiele und des Chats aufbewahrt werden.
 
-### Aushelfern
+### Aushelfer
 
 Von Turnierveranstaltern wird erwartet, dass das Turnier reibungslos abläuft und so wenige Störungen wie möglich hat.
 
-In Bezug auf die Rolle der Aushelfern gelten folgende Regeln:
+In Bezug auf die Rolle der Aushelfer gelten folgende Regeln:
 
 - Streamer, Kommentatoren und Grafikdesigner dürfen im Turnier mitspielen.
 - Ausgeschiedene Spieler dürfen sich als Schiedsrichter, Mappool-Spieltester und/oder Replay-Ersteller beteiligen.
@@ -158,9 +158,9 @@ In Bezug auf die Rolle der Aushelfern gelten folgende Regeln:
 
 Von Benutzern mit einer aktiven [Turniersperre](/wiki/Help_centre/Tournament_sanctions#turniersperren) oder [Aushilfssperre](/wiki/Help_centre/Tournament_sanctions#aushilfssperren) wird erwartet, dass sie den Status ihrer Sperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie dürfen sich nach dem Ermessen des Veranstalters als Streamer, Kommentatoren oder Grafikdesigner beteiligen, aber wir empfehlen eine sorgfältige Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal (oder mehrmals) gegen die Regeln verstoßen haben. Sie dürfen keine andere Aushilfsrolle ausüben, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren früheres Verhalten im Einzelfall prüfen.
 
-Veranstalter, die grobe Fehler begehen, die gegen die Zulassungsanforderungen verstoßen oder nicht den Erwartungen für eine offizielle Unterstützung entsprechen, bekommen im Ermessen des Support-Teams möglicherweise ein [Veranstaltungsverbot](/wiki/Help_centre/Tournament_sanctions#aushilfssperren). Wenn ein Turnier seinen Anspruch auf Unterstützung verliert, ohne Probleme mit der kompetitiven Integrität zu haben, können Veranstaltungsverbote anstelle des Entzugs der offiziellen Unterstützung eingesetzt werden. Nutzer mit einem aktiven Veranstaltungsverbot dürfen nicht der Hauptorganisator oder Administrator eines offiziell unterstützen Turniers sein. Sie dürfen jedoch möglicherweise andere Rollen übernehmen, die nichts mit der Organisation zu tun haben. Minder schweren Fehler können dazu führen, dass die verantwortliche [Veranstaltern auf Probe gesetzt werden](/wiki/Help_centre/Tournament_sanctions#aufprobesetzung-von-veranstaltern).
+Veranstalter, die grobe Fehler begehen, die gegen die Zulassungsanforderungen verstoßen oder nicht den Erwartungen für eine offizielle Unterstützung entsprechen, bekommen im Ermessen des Support-Teams möglicherweise ein [Veranstaltungsverbot](/wiki/Help_centre/Tournament_sanctions#veranstaltungsverbote). Wenn ein Turnier seinen Anspruch auf Unterstützung verliert, ohne Probleme mit der kompetitiven Integrität zu haben, können Veranstaltungsverbote anstelle des Entzugs der offiziellen Unterstützung eingesetzt werden. Nutzer mit einem aktiven Veranstaltungsverbot dürfen nicht der Hauptorganisator oder Administrator eines offiziell unterstützen Turniers sein. Sie dürfen jedoch möglicherweise andere Rollen übernehmen, die nichts mit der Organisation zu tun haben. Minder schwere Fehler können dazu führen, dass die verantwortlichen [Veranstalter auf Probe gesetzt werden](/wiki/Help_centre/Tournament_sanctions#aufprobesetzung-von-veranstaltern).
 
-Eine vollständige Liste der Turnieraushelfern muss öffentlich einsehbar und leicht zugänglich sein. Diese Liste darf im Forenbeitrag, der Wikiseite, der Webseite oder des Datenblatts des Turniers enthalten sein. Falls es mehrere Aushelferlisten gibt, muss sichergestellt sein, dass diese aktuell sind und es keine Diskrepanzen zwischen den Listen gibt.
+Eine vollständige Liste aller Turnieraushelfer muss öffentlich einsehbar und leicht zugänglich sein. Diese Liste darf im Forenbeitrag, der Wikiseite, der Webseite oder des Datenblatts des Turniers enthalten sein. Falls es mehrere Aushelferlisten gibt, muss sichergestellt sein, dass diese aktuell sind und es keine Diskrepanzen zwischen den Listen gibt.
 
 ### Spieler
 
