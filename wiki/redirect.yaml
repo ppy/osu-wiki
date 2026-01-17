@@ -448,6 +448,7 @@ client/release_stream/lazer/file_storage: Client/osu!_program_files_(lazer)#stor
 
 client/program_files: Client/osu!_program_files
 program_files: Client/osu!_program_files
+client/program_files/user_configuration_file: Client/osu!_program_files/User_configuration_file
 
 user_configuration_file:                    Client/osu!_program_files/User_configuration_file
 user_configuration:                         Client/osu!_program_files/User_configuration_file
