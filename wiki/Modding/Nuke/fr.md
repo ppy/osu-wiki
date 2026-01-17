@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
+---
+
 # Nuke
 
 Les **nukes** étaient un outil de modération des [beatmaps](/wiki/Beatmap) dans les premières années d'osu!. Toute beatmap qui était considérée comme ne respectant pas les règles (ou dont le créateur ne respectait pas le [code de conduite](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)) pouvait être "nuked" par la [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) ou la [Global Moderation Team (GMT)](/wiki/People/Global_Moderation_Team).

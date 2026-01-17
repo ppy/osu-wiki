@@ -2,7 +2,7 @@
 
 Los **iconos nucleares** fueron una herramienta de moderación para los [beatmaps](/wiki/Beatmap) en los primeros años de osu! y el sistema de [modding en los foros](/wiki/Modding/Forum_modding). Cualquier beatmap que se considerara que incumplía las reglas (o que el creador ignoraba el [código de conducta](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)) podría ser destruido por el [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) o el [Global Moderation Team (GMT)](/wiki/People/Global_Moderation_Team).
 
-Cuando un beatmap era destruido, aparecía un icono nuclear ![](/wiki/shared/icon/nuke.gif) en el hilo del beatmap. Este servía para indicarles a los demás miembros del BAT/GMT que el beatmap no se consideraría para ser [clasificado](/wiki/Beatmap_ranking_procedure#clasificados) hasta que se hubieran realizado cambios significativos. Si un beatmap hiciera los cambios correspondientes, el icono se eliminaría y podría continuar con el [proceso de clasificación](/wiki/Beatmap_ranking_procedure).
+Cuando un beatmap era destruido, aparecía un icono nuclear ![](/wiki/shared/icon/nuke.gif) en el hilo del beatmap. Este servía para indicarles a los demás miembros del BAT/GMT que el beatmap no se consideraría para ser [clasificado](/wiki/Beatmap_ranking_procedure#clasificación) hasta que se hubieran realizado cambios significativos. Si un beatmap hiciera los cambios correspondientes, el icono se eliminaría y podría continuar con el [proceso de clasificación](/wiki/Beatmap_ranking_procedure).
 
 ::: Infobox
 ![](img/forum-listing-nuke.png "Beatmaps con el icono nuclear y sus hilos en el subforo Graveyard")
