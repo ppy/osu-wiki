@@ -27,7 +27,7 @@ Once you're done installing and logging into your account, head over to the `pla
 
 Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — it'll be whatever game mode you played last on osu!(lazer) by default.
 
-Once you have submitted a play on any of the beatmaps featured in the playlist, you will be able to check your placement in the seasonal rankings, as well as enjoy your shiny assigned division badge on the top of your user profile.
+Once you have submitted a play on any of the beatmaps featured in the playlist, you will be able to check your placement in the seasonal rankings, as well as enjoy your shiny assigned division badge at the top of your user profile.
 
 Check out the respective game mode seasonal rankings:
 
@@ -93,11 +93,11 @@ Lince Cosmico's clean aesthetics and masterful playfield usage, combined with im
 **[Slax - Body to the Drum \[Taiko to the Beat\]](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601)**, created by [Waribashi](https://osu.ppy.sh/users/2250574) and [ler1211](https://osu.ppy.sh/users/19901680)\
 *primarily suggested and described by [nevqr](https://osu.ppy.sh/users/14269506)*\
 
-Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the taiko community, and when he was tasked with making an osu!original for the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025), he definitely delivered.
+Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the osu!taiko community, and when he was tasked with making an osu!original for the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025), he definitely delivered.
 
 [Body to the Drum](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601) is made by none other than [ler1211](https://osu.ppy.sh/users/19901680). If you're familiar with traditional taiko tournament slots, NM1 is the name of the game. Prepare yourself for an absolute bundle of consistency, offbeat doublets, even-numbered patterns that will keep you on your toes (or fingers, in this case!), and, last but not least, streams coming right at you at 230 BPM! All while listening to an absolute banger of a track. 
 
-So what's the hold-up? Go try the map out in our seasonal spotlights and move your body to the drum to keep yourself warm during this chilly winter season!
+So what's the hold-up? Go try out the map and move your body to the drum to keep yourself warm during this chilly winter season!
 
 #### Playlist A
 
@@ -129,7 +129,7 @@ So what's the hold-up? Go try the map out in our seasonal spotlights and move yo
 
 Polyphia's "Ego Death" presents precise, powerful polyrhythmic patterns produced purely punishing, persistent patterns; providing pure pain. AnApple provides a polished, playful, and pleasing perspective.
 
-Sorry, the letter P had gotten stuck there; BUT what was said is fairly much true. Out of the few maps that pass through my radar, there are ones that show clear signs of uniqueness that are hard to implement easily or correctly (or at all at times). AnApple, on the other hand, has brought control movement into a separate category of theory as a whole that came not just as a surprise, but a welcome one at that.
+Sorry, the letter P had gotten stuck there; BUT what was said is fairly much true. Out of the few maps that pass through our radar, there are ones that show clear signs of uniqueness that are hard to implement easily or correctly (or at all at times). AnApple, on the other hand, has brought control movement into a separate category of theory as a whole that came not just as a surprise, but a welcome one at that.
 
 #### Playlist A
 
@@ -158,9 +158,9 @@ Sorry, the letter P had gotten stuck there; BUT what was said is fairly much tru
 **[](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)**, created by [tyrcs](https://osu.ppy.sh/users/13026904)\
 *primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
 
-This beatmap, created through the collaboration of composers [Dustvoxx and Loctek](https://osu.ppy.sh/beatmaps/artists/386), whose music sets listeners' hearts racing and mapper [tyrcs](https://osu.ppy.sh/users/13026904), known for crafting fantastic charts built upon top-level playability, has been selected as this season's Beatmap of the Season.
+This beatmap, created through the collaboration of composers [Dustvoxx and Loctek](https://osu.ppy.sh/beatmaps/artists/386), whose music sets listeners' hearts racing and mapper [tyrcs](https://osu.ppy.sh/users/13026904), known for crafting fantastic charts built upon top-level playability, has been selected as this season's Curator's Pick.
 
-Above all, this chart challenges players with an unending flow of rice patterns aligned with the song over the course of five minutes demanding extreme finger independence, technical proficiency, and stamina. Experience the diverse music and immersive patterning that persist throughout the entire chart, and take on the extreme difficulty as you feel the intense buildup of notes maintained from the first kiai all the way to the very end.
+Above all, this chart challenges players with an unending flow of rice patterns over the course of five minutes, demanding extreme finger independence, technical proficiency, and stamina. Experience the diverse music and immersive patterning that persist throughout the entire chart, and take on the extreme difficulty as you feel the intense buildup of notes maintained from the first kiai all the way to the very end.
 
 This chart was included in the map pool for the [osu!mania 7K Chinese National Cup 2024](/wiki/Tournaments/MCNC/7K2024) Finals. While it was not played on match day, its inclusion in a finals-level map pool speaks to the chart's quality.
 
@@ -186,14 +186,14 @@ With its demanding structure and sustained intensity, this chart stands as a fit
 
 ## Inside the Spotlights Team
 
-This season, we'd like to say farawell to two of the Spotlights Team Curators, thanks for your hard efforts towards making Beatmap Spotlights a better project!
+This season, we'd like to say farawell to two of the Spotlights Team Curators. Thanks for your hard efforts towards making Beatmap Spotlights a better project!
 
 - **osu!catch**:[Morusya](https://osu.ppy.sh/users/13681464)
 - **osu!taiko**: [Horiiizon](https://osu.ppy.sh/users/8071438)
 
 ---
 
-Join the [osu! Discord server](https://discord.com/invite/ppy) and head over to `#osu-spotlights` to talk about everything related to Beatmap Spotlights. You can also opt in to receive updates about seasons, playlists, and general announcements by assigning yourself the appropriate ping role in the `#welcome` channel. You can also find out more about the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
+Join the [osu! Discord server](https://discord.com/invite/ppy) and head over to `#osu-spotlights` to talk about everything related to Beatmap Spotlights. You can also opt in to receive updates about seasons, playlists, and general announcements by assigning yourself the appropriate ping role in the `#welcome` channel. Additionally, you can find out more about the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) on the osu! wiki.
 
 See you in the playlist lobbies!
 
