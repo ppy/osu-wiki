@@ -20,22 +20,24 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 
 | Name | Functionality |
 | :-- | :-- |
-| cache | Holds osu!'s cache, like fonts and shaders. |
-| client.realm.management | Internal state management for realm (database library that osu! uses). |
-| exports | Holds any exported files, including logs and beatmaps. |
-| files | Holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information. |
-| logs | Holds game logs. |
-| rulesets | Holds custom rulesets (`.dll` files). There is a [listing of them on the osu! GitHub repository](https://github.com/ppy/osu/discussions/13096). |
-| screenshots | Holds screenshots taken in-game. |
+| `cache` | Holds osu!'s cache, like fonts and shaders. |
+| `client.realm.management` | Internal state management for realm (database library that osu! uses). |
+| `exports` | Holds any exported files, including logs and beatmaps. |
+| `files` | Holds beatmaps, skins, and score replay files. These are stored under filenames that reflect their SHA-256 hashes. See [this section](#storage-structure) for more information. |
+| `logs` | Holds game logs. |
+| `rulesets` | Holds custom rulesets (`.dll` files). There is a [listing of them on the osu! GitHub repository](https://github.com/ppy/osu/discussions/13096). |
+| `screenshots` | Holds screenshots taken in-game. |
 
 ## Top-level files
+
 | Name | Functionality |
-| client.realm | Contains mappings for the data in the files folder. |
-| client.realm.lock | Keeps track of which versions of data in in the files folder are actively in use. |
-| framework.ini | Contains [osu!framework](https://github.com/ppy/osu-frameworks) specific settings. |
-| game.ini | Contains most user settings. |
-| IMPORTANT READ ME.txt | Warning about modifying/backing-up the directory. |
-| input.json | Contains input settings |
+| :-- | :-- |
+| `client.realm` | Contains mappings for the data in the files/ folder. |
+| `client.realm.lock` | Keeps track of which versions of data in in the files folder are actively in use. |
+| `framework.ini` | Contains [osu!framework](https://github.com/ppy/osu-frameworks) specific settings. |
+| `game.ini` | Contains most user settings. |
+| `IMPORTANT READ ME.txt` | Warning about modifying/backing-up the directory. |
+| `input.json` | Contains input settings |
 
 ## Storage structure
 
@@ -56,6 +58,11 @@ files/1/1a/1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 This allows for saving storage space by preventing duplicates of the same file from being persisted to disk, and prevents users (or other applications) from easily tampering with files that should not be tampered with. All inconveniences compared to stable that arise from this choice have been addressed by either allowing exports or adding new in-game management features, or will be addressed in due time by new features.
 
 For now, the correct procedure to manually modify skins or beatmaps outside of the facilities available in-game is to export the item, update it, and then reimport it again with the desired changes.
+
+It is strongly advised to **not** manually modify files in the osu!(lazer) directory.
+
+## Backing up files
+If you want to back up or delete your game files, you need to back up your **entire** `osu` directory, not just the `files/` directory. If you copy only the `files/` directory, you will lose data.
 
 ## Migration from osu!(stable)
 
