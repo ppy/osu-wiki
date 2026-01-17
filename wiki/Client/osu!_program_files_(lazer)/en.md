@@ -1,6 +1,6 @@
 # osu! program files (lazer)
 
-*For the osu!(stable) version of this article, see: [osu! program files](/wiki/Client/Program_files)*\
+*For the osu!(stable) version of this article, see: [osu! program files](/wiki/Client/osu!_program_files)*\
 *See also: [osu! File Formats](/wiki/Client/File_formats)*
 
 ![The file structure of osu!'s data folder on Windows](img/file_structure.png "The file structure of osu!'s data folder on Windows")
