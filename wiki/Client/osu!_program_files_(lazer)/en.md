@@ -19,7 +19,7 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 ## Folders
 
 | Name | Usage |
-| ---- | ----- |
+| :-- | :-- |
 | cache | Holds osu!'s cache, like fonts and shaders |
 | client.realm.management |  |
 | exports | Holds any exported files, including logs and beatmaps |
