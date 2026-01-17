@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pengelola osu! wiki
 
 **Pengelola osu! wiki** (*osu! wiki maintainer*) merupakan orang-orang yang mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori proyek osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
