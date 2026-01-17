@@ -444,9 +444,10 @@ osu!_file_formats/osz:               Client/File_formats/osz_(file_format)
 .osz:                                Client/File_formats/osz_(file_format)
 osz:                                 Client/File_formats/osz_(file_format)
 
-wiki/client/release_stream/lazer/file_storage: Client/osu!_program_files_(lazer)#storage-structure
+client/release_stream/lazer/file_storage: Client/osu!_program_files_(lazer)#storage-structure
 
-client/Program_files: Client/osu!_program_files
+client/program_files: Client/osu!_program_files
+program_files: Client/osu!_program_files
 
 user_configuration_file:                    Client/osu!_program_files/User_configuration_file
 user_configuration:                         Client/osu!_program_files/User_configuration_file
