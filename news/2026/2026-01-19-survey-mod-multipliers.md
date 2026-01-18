@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Survey: Mod Multipliers"
-date: 2026-01-18 12:00:00 +0000
+date: 2026-01-19 12:00:00 +0000
 series: ranking_system_updates
 ---
 
 Let's talk about lazer leaderboards.
 
-![](/wiki/shared/news/2026-01-18-survey-mod-multipliers/banner.jpg)
+![](/wiki/shared/news/2026-01-19-survey-mod-multipliers/banner.jpg)
 
 The new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the stable release. To name a few:
 
@@ -20,7 +20,7 @@ You can [read about all of the changes on the wiki](/wiki/Help_centre/Upgrading_
 
 This pushes osu!(stable) scores below roughly equivalent scores set in osu!(lazer). A good example was [brought up on Reddit](https://www.reddit.com/r/osugame/comments/1q95993/osu_lazer_scoring_is_a_joke/) recently — consider the [xi - Blue Zenith (Asphyxia) [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/292301/#osu/658127) leaderboard:
 
-![Current leaderboard of the top difficulty of "xi - Blue Zenith (Asphyxia) [FOUR DIMENSIONS]" with wuhua at the top](/wiki/shared/news/2026-01-18-survey-mod-multipliers/leaderboard.png)
+![Current leaderboard of the top difficulty of "xi - Blue Zenith (Asphyxia) [FOUR DIMENSIONS]" with wuhua at the top](/wiki/shared/news/2026-01-19-survey-mod-multipliers/leaderboard.png)
 
 With the current Classic mod multiplier, the top 1-miss score ranks above the #2 FC, a phenomenon which has caused contention over the past few years (with not just this leaderboard).
 
@@ -32,7 +32,7 @@ That's the background, anyway, but it leads us to...
 
 ## The survey
 
-[![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-18-survey-mod-multipliers/survey-link.png)](https://form-auth.ppy.sh/form/2025-the-future-of-osu-mod-multipliers)
+[![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-19-survey-mod-multipliers/survey-link.png)](https://form-auth.ppy.sh/form/2025-the-future-of-osu-mod-multipliers)
 
 This is a survey about how the mod multipliers should be adjusted, if at all. Note that it concerns the osu! game mode only.
 
@@ -61,7 +61,7 @@ Depending on whether you want to answer every question, this survey may take you
 
 ## A helpful spreadsheet
 
-[![Click here to view the leaderboard comparison spreadsheet!](/wiki/shared/news/2026-01-18-survey-mod-multipliers/spreadsheet.png)](https://docs.google.com/spreadsheets/d/1Exs5MN_jnBmMrTmTGJ2OT13FPwrubrZ1s3vB7G6-Hvk)
+[![Click here to view the leaderboard comparison spreadsheet!](/wiki/shared/news/2026-01-19-survey-mod-multipliers/spreadsheet.png)](https://docs.google.com/spreadsheets/d/1Exs5MN_jnBmMrTmTGJ2OT13FPwrubrZ1s3vB7G6-Hvk)
 
 This is an **interactive spreadsheet** which allows you to compare how your survey answers would affect some popular leaderboards.
 
@@ -77,6 +77,6 @@ The remaining tabs will then show a comparison of how leaderboards would change 
 
 Many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey and programming the spreadsheet.
 
-The survey will be open for two weeks, and closes on **1 February 2026**.
+The survey will be open for two weeks, and closes on **2 February 2026**.
 
 —Walavouchey
