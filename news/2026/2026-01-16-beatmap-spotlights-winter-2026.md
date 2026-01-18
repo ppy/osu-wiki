@@ -186,7 +186,7 @@ With its demanding structure and sustained intensity, this chart stands as a fit
 
 ## Inside the Spotlights Team
 
-This season, we'd like to say farawell to two of the Spotlights Team Curators. Thanks for your hard efforts towards making Beatmap Spotlights a better project!
+This season, we'd like to say farewell to two of the Spotlights Team Curators. Thanks for your hard efforts towards making Beatmap Spotlights a better project!
 
 - **osu!catch**:[Morusya](https://osu.ppy.sh/users/13681464)
 - **osu!taiko**: [Horiiizon](https://osu.ppy.sh/users/8071438)
