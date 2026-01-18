@@ -243,22 +243,22 @@ The final standings for the Qualifier stage can be found in the following [sprea
   1. [AAAA - reach for your victory!!! (TakJun) [VictoryJun]](https://osu.ppy.sh/beatmapsets/2495149#mania/5484225)
   2. [momone chinoi - DENNO MIENMIEN MAO (ExNeko) [Nemunemu Chordstream]](https://osu.ppy.sh/beatmapsets/2495154#mania/5484242)
   3. [69 de 74 - RTTR (Carpihat) [Extra (189 BPM MWC Edit Ver.)]](https://osu.ppy.sh/beatmapsets/2495151#mania/5484230)
-  4. *K4Y5 - soyosoyo (pwhk) [90.69%] (link pending)*
-  5. *Kolaa - Amaama Toutetsu Bonbon feat. Kasane Teto & Zundamon (pwhk) [Saccharin] (link pending)*
+  4. *K4Y5 - soyosoyo (pwhk) \[90.69%\] (link pending)*
+  5. *Kolaa - Amaama Toutetsu Bonbon feat. Kasane Teto & Zundamon (pwhk) \[Saccharin\] (link pending)*
 - Long Note
   1. [Dionela - Marilag (MapleSyrup-) [Heavenly Muse]](https://osu.ppy.sh/beatmapsets/2495166#mania/5484301)
   2. [Yin Lin & Yun Zhi Qi - Jin Li Chao (Cut ver.) (ExNeko) [wish]](https://osu.ppy.sh/beatmapsets/2495155#mania/5484243)
   3. [dj TAKA feat. AiMEE - True Blue (Cut Ver.) (kaulpakka) [Repentance (MWC Edit)]](https://osu.ppy.sh/beatmapsets/2495171#mania/5484335)
 - Hybrid
-  1. *Shigure Ui - Tetoris (VividCycle) [T. (MWC Edit)] (link pending)*
-  2. *bibuko - Reizouko Mitara Pudding ga Nai (_Yiiiii) [Okotta.] (link pending)*
+  1. *Shigure Ui - Tetoris (VividCycle) \[T. (MWC Edit)\] (link pending)*
+  2. *bibuko - Reizouko Mitara Pudding ga Nai (_Yiiiii) \[Okotta.\] (link pending)*
   3. [NIWASHI - Sapphire On Fire (Rocma) [Al2O3]](https://osu.ppy.sh/beatmapsets/2495159#mania/5484255)
 - Extreme
   1. [EmoCosine - Love Pills ([GS]hina) [_KB vs. Tera's Emotional Intoxication]](https://osu.ppy.sh/beatmapsets/2495158#mania/5484254)
-  2. *Mili - world.execute(me); (_Yiiiii) [Kurisu Makise's sys.exit(1)] (link pending)*
+  2. *Mili - world.execute(me); (_Yiiiii) \[Kurisu Makise's sys.exit(1)\] (link pending)*
   3. [Akiri - Symphony Of The Frozen Cacophony (Blocko) [Elsa]](https://osu.ppy.sh/beatmapsets/2495170#mania/5484333)
 - Tiebreaker
-  1. *Kagetora. - Time to beat the odds (Extended Ver.) (Akasha-) [Seize the Chance] (link pending)*
+  1. **Kagetora. - Time to beat the odds (Extended Ver.) (Akasha-) \[Seize the Chance\] (link pending)**
 
 ### Round of 32
 
