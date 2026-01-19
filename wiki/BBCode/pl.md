@@ -145,7 +145,7 @@ Długie cytaty są zazwyczaj stosowane w tekstach formalnych, gdy cytat zajmuje 
 
 ### Kod wewnątrztekstowy (Inline code)
 
-*Nie mylić z [Blokiem kodu](#code-block).*
+*Nie mylić z [Blokiem kodu](#blok_kodu_(code_block).*
 
 ```
 [c]tekst[/c]
@@ -157,7 +157,7 @@ Na forum osu! jest to przydatne do podkreślania np. skrótów klawiszowych lub 
 
 ### Blok kodu (Code block)
 
-*Nie mylić z [Kodem wewnątrztekstowym](#inline-code).*
+*Nie mylić z [Kodem wewnątrztekstowym](#kod_wewnątrztekstowy_(inline_code).*
 
 ```
 [code]
