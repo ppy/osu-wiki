@@ -252,7 +252,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [Yin Lin & Yun Zhi Qi - Jin Li Chao (Cut ver.) (ExNeko) [wish]](https://osu.ppy.sh/beatmapsets/2495155#mania/5484243)
   3. [dj TAKA feat. AiMEE - True Blue (Cut Ver.) (kaulpakka) [Repentance (MWC Edit)]](https://osu.ppy.sh/beatmapsets/2495171#mania/5484335)
 - Hybrid
-  1. Shigure Ui - Tetoris (VividCycle) [T. (MWC Edit)] (link pending)
+  1. Shigure Ui - Tetoris (VividCycle) \[T. (MWC Edit)\] (link pending)
   2. [bibuko - Reizouko Mitara Pudding ga Nai (_Yiiiii) [Okotta.]](https://osu.ppy.sh/beatmapsets/2495252#mania/5484507)
   3. [NIWASHI - Sapphire On Fire (Rocma) [Al2O3]](https://osu.ppy.sh/beatmapsets/2495159#mania/5484255)
 - Extreme
@@ -260,7 +260,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [Mili - world.execute(me); (_Yiiiii) [Kurisu Makise's sys.exit(1)]](https://osu.ppy.sh/beatmapsets/2495253#mania/5484508)
   3. [Akiri - Symphony Of The Frozen Cacophony (Blocko) [Elsa]](https://osu.ppy.sh/beatmapsets/2495170#mania/5484333)
 - Tiebreaker
-  1. **Kagetora. - Time to beat the odds (Extended Ver.) (Akasha-) [Seize the Chance] (link pending)**
+  1. **Kagetora. - Time to beat the odds (Extended Ver.) (Akasha-) \[Seize the Chance\] (link pending)**
 
 ### Round of 32
 
