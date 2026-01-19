@@ -40,18 +40,18 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 ### Kategoria beatmapy
 
-*Główny artykuł: [Kategoria beatmap](/wiki/Beatmap_category)*
+*Główny artykuł: [Kategoria beatmap](Category)*
 
 Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się zmieniać w czasie:
 
-- [Graveyard](Category#graveyard)
-- [W toku / Oczekujące](Category#wip-and-pending)
+- [Nieaktualizowane](Category#graveyard)
+- [Oczekujące](Category#wip-and-pending)
 - [Zakwalifikowane](Category#qualified)
 - [Rankingowe](Category#ranked)
 - [Zatwierdzone](Category#approved)
-- [Loved](Category#loved)
+- [Ulubione społeczności](Category#loved)
 
-Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#tablice-wyników). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [loved](Category#loved).
+Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#tablice-wyników). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [Ulubioną społeczności](Category#loved).
 
 ## Pobieranie beatmap
 
