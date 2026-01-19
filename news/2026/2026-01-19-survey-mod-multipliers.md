@@ -76,7 +76,7 @@ This is an **interactive spreadsheet** which allows you to compare how your surv
 
 To get started, there's a three-step process:
 
-1. Read through the [survey](https://form-auth.ppy.sh/form/2025-the-future-of-osu-mod-multipliers) and answer the questions according to your opinion. For parts where you have no idea, just leave the answer blank.
+1. Read through the [survey](https://form-auth.ppy.sh/form/2026-the-future-of-osu-mod-multipliers) and answer the questions according to your opinion. For parts where you have no idea, just leave the answer blank.
 2. Open [the spreadsheet](https://docs.google.com/spreadsheets/d/1Exs5MN_jnBmMrTmTGJ2OT13FPwrubrZ1s3vB7G6-Hvk) and make your own editable copy with **File > Make a copy**. A dialogue asking for permission to "send and receive data from external parties" may appear at the top — this is for displaying beatmap backgrounds and player avatars, so you can click **Allow access** for that.
 3. Go to the second tab (named **Settings**) and copy your survey answers onto the corresponding *green cells*.
 
