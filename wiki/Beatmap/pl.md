@@ -9,7 +9,7 @@ tags:
 **Beatmap** (czasami nazywana *beatmapset*) to zestaw poziomów gry ([trudnośći](#trudność)) złożony z różnych [objektów uderzeń](/wiki/Gameplay/Hit_object), które niemal zawsze odpowiada jednej piosence. Zawiera również inne elementy, wszystkie spakowane w plik z [rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - sama piosenka, przechowywana w formacie MP3 lub Ogg,
-- [obrazy tła](/wiki/Beatmap/Background) lub wideo, pełniące rolę planszy gry,  
+- [obrazy tła](/wiki/Beatmap/Background) lub wideo, pełniące rolę planszy gry,
 - [niestandardowe hitsounds](/wiki/Beatmapping/Hitsound) dla aranżacji i lepszego odbioru dźwiękowego (opcjonalne),
 - [storyboard](/wiki/Storyboard) z animacjami i efektami specjalnymi, stanowiący tło fabularne lub temat piosenki (opcjonalne),
 - [niestandardowy skin](/wiki/Skinning), zmieniający wygląd interfejsu i elementów rozgrywki (opcjonalny).
@@ -44,14 +44,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się zmieniać w czasie:
 
-- [Graveyard](Category#graveyard)  
-- [W toku / Oczekujące](Category#wip-and-pending)  
-- [Zakwalifikowane](Category#qualified)  
-- [Rankingowe](Category#ranked)  
-- [Zatwierdzone](Category#approved)  
-- [Loved](Category#loved)  
+- [Graveyard](Category#graveyard)
+- [W toku / Oczekujące](Category#wip-and-pending)
+- [Zakwalifikowane](Category#qualified)
+- [Rankingowe](Category#ranked)
+- [Zatwierdzone](Category#approved)
+- [Loved](Category#loved)
 
-Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#Tablice-wyników). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [loved](Category#loved).
+Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#tablice-wyników). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [loved](Category#loved).
 
 ## Pobieranie beatmap
 
@@ -75,8 +75,8 @@ Beatmapy, które zostały zrankowane w tym samym miesiącu lub mają wspólny te
 
 Istnieją również źródła beatmap, które **nie są sprawdzane ani obsługiwane przez zespół osu!**, ale są dostępne na forum i cenione przez społeczność. Należą do nich:
 
-- kopie beatmap hostowane poza platformą,  
-- paczki i kompilacje tworzone przez graczy, udostępniane przez [sieci p2p](https://en.wikipedia.org/wiki/Peer-to-peer), np. BitTorrent.  
+- kopie beatmap hostowane poza platformą,
+- paczki i kompilacje tworzone przez graczy, udostępniane przez [sieci p2p](https://en.wikipedia.org/wiki/Peer-to-peer), np. BitTorrent.
 
 ## Beatmapy a społeczność
 
@@ -84,10 +84,10 @@ Istnieją również źródła beatmap, które **nie są sprawdzane ani obsługiw
 
 Gracze osu! we wszystkich trybach używają beatmap, aby [awansować globalnie](/wiki/Performance_points) i [rywalizować ze sobą](/wiki/Ranking). Każda beatmapa ma kilka rodzajów tablic wyników: pierwsza z nich jest dostępna dla wszystkich graczy, natomiast pozostałe można przeglądać tylko będąc [osu!supporterem](/wiki/osu!supporter).
 
-- globalna rankingowa, obejmująca wszystkich aktywnych graczy,  
-- globalna rankingowa dla każdej kombinacji [modyfikatorów gry](/wiki/Gameplay/Game_modifier),  
-- ranking krajowy, uwzględniający graczy z wynikami z tego samego kraju,  
-- ranking znajomych, pokazujący wynik gracza w porównaniu z jego znajomymi.  
+- globalna rankingowa, obejmująca wszystkich aktywnych graczy,
+- globalna rankingowa dla każdej kombinacji [modyfikatorów gry](/wiki/Gameplay/Game_modifier),
+- ranking krajowy, uwzględniający graczy z wynikami z tego samego kraju,
+- ranking znajomych, pokazujący wynik gracza w porównaniu z jego znajomymi.
 
 Top 1000 wyników na każdej trudności beatmapy zapewnia dostęp do [powtórek](/wiki/Gameplay/Replay), które można oglądać online lub zapisać lokalnie.
 
