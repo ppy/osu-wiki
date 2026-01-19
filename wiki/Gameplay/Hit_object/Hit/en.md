@@ -1,3 +1,8 @@
+---
+tags:
+  - hit objects
+---
+
 # Don & Kat
 
 *Not to be confused with: [Katu judgement](/wiki/Gameplay/Judgement/Katu)*
