@@ -1,6 +1,7 @@
 ---
 tags:
   - wiki standards
+  - standardy wiki
 ---
 
 # Kryteria stylizacji artykułów
