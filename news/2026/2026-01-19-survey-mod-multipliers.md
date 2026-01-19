@@ -44,16 +44,17 @@ Your answer would likely depend on whether osu!(stable) scores should be equal t
 
 | Multiplier | Effect on the lazer–stable score balance |
 | :-: | :-- |
-| 1.00x | osu!(stable) and osu!(lazer) scores would give the same score for the same accuracy, even though slider accuracy was added in osu!(lazer). This would effectively make FCs with the same accuracy worth the same amount of score with or without the Classic mod. |
-| 0.99x | Scoring would still favour osu!(stable) scores most of the time (favouring around 75% of osu!(stable) scores). |
-| 0.98x | Scoring would still favour osu!(stable) slightly more often than not (favouring around 60% of osu!(stable) scores). |
-| 0.97x | Scoring would average no advantage to either on most maps (50/50 split). |
-| 0.96x | Scoring would favour osu!(lazer) scores most of the time (favouring around 30% of osu!(stable) scores). |
-| ≤0.95x | Scoring would favour osu!(lazer) scores almost all the time (favouring less than 30% of osu!(stable) scores, or ~15% of them when going as low as 0.9x). |
+| 1.00x | osu!(stable) and osu!(lazer) scores would give the same score for the same accuracy, even though slider accuracy was added in osu!(lazer). |
+| 0.99x | Scoring would favour osu!(lazer) scores \~50% of the time. |
+| 0.98x | Scoring would favour osu!(lazer) scores \~65% of the time. |
+| 0.96x | Scoring would favour osu!(lazer) scores \~80% of the time. |
+| 0.90x | Scoring would favour osu!(lazer) scores \~90% of the time. |
+
+For more details on where these numbers come from, you can check [this spreadsheet](https://docs.google.com/spreadsheets/d/1n5FzHBTsvfJjfs4nAxb2s6pgF3YkUkTVglrI2uY-tH4/edit?gid=171545806#gid=171545806).
 
 The **second section** will ask you to compare a bunch of scores with Hidden, Hard Rock, Double Time, Flashlight (and their combinations) or no mods by determining how much accuracy the other would need for them to be equal.
 
-The **last section** is a lot shorter and will ask you to place two Easy and Half Time scores in a hypothetical leaderboard of Nomod scores, as comparing accuracies between those two and other mods would be fairly difficult.
+The **last section** is a lot shorter and will ask you to place two Easy and Half Time scores in a hypothetical leaderboard of No Mod scores, as comparing accuracies between those two and other mods would be fairly difficult.
 
 ---
 
@@ -75,7 +76,7 @@ The remaining tabs will then show a comparison of how leaderboards would change 
 
 ---
 
-Many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey and programming the spreadsheet.
+Many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey and programming the spreadsheet. Also big thanks to ::{ flag=GB }:: [Tanza](https://osu.ppy.sh/users/10379965) for the cool banner.
 
 The survey will be open for two weeks, and closes on **2 February 2026**.
 
