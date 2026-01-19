@@ -280,7 +280,7 @@ ID filmu znajduje się w jego adresie URL i jest to ciąg 11 znaków występują
 [audio]URL[/audio]
 ```
 
-Tag `[audio]` służy do osadzania odtwarzacza audio [HTML5](https://pl.wikipedia.org/wiki/HTML5). Pliki mogą pochodzić z dowolnego źródła w sieci, o ile istnieje bezpośredni adres URL do pliku. Lokalne ścieżki plików, tak jak w sekcji [Obrazy](#images),  **nie będą działać**
+Tag `[audio]` służy do osadzania odtwarzacza audio [HTML5](https://pl.wikipedia.org/wiki/HTML5). Pliki mogą pochodzić z dowolnego źródła w sieci, o ile istnieje bezpośredni adres URL do pliku. Lokalne ścieżki plików, tak jak w sekcji [Obrazy](#obrazy),  **nie będą działać**
 
 *Ostrzeżenie: Nie wszystkie serwisy zezwalają na bezpośrednie odtwarzanie swoich plików audio ze względu na ochronę praw autorskich. osu! nie ponosi odpowiedzialności za jakiekolwiek naruszenia praw autorskich przez użytkowników.*
 
