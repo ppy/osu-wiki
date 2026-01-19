@@ -157,7 +157,7 @@ Na forum osu! jest to przydatne do podkreślania np. skrótów klawiszowych lub 
 
 ### Blok kodu (Code block)
 
-*Nie mylić z [Kodem wewnątrztekstowym](#kod_wewnątrztekstowy_inline_code).*
+*Nie mylić z [Kodem wewnątrztekstowym](#kod-wewnątrztekstowy-inline-code).*
 
 ```
 [code]
