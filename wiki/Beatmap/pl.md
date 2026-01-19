@@ -1,11 +1,109 @@
 ---
-outdated_translation: true
+tags:
+  - mapset
+  - beatmapset
 ---
 
-# Beatmapy
+# Beatmap
 
-**Beatmapy** w [osu!](/wiki/Game_mode/osu!) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Gameplay/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
+**Beatmap** (czasami nazywana *beatmapset*) to zestaw poziomów gry ([difficulties](#difficulty)) złożony z różnych [objektów uderzeń](/wiki/Gameplay/Hit_object), które niemal zawsze odpowiada jednej piosence. Zawiera również inne elementy, wszystkie spakowane w plik z [rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
-Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Beatmapping/Beatmap_submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
+- sama piosenka, przechowywana w formacie MP3 lub Ogg,
+- [obrazy tła](/wiki/Beatmap/Background) lub wideo, pełniące rolę planszy gry,  
+- [niestandardowe hitsounds](/wiki/Beatmapping/Hitsound) dla aranżacji i lepszego odbioru dźwiękowego (opcjonalne),
+- [storyboard](/wiki/Storyboard) z animacjami i efektami specjalnymi, stanowiący tło fabularne lub temat piosenki (opcjonalne),
+- [niestandardowy skin](/wiki/Skinning), zmieniający wygląd interfejsu i elementów rozgrywki (opcjonalny).
 
-Beatmapy można znaleźć na [liście beatmap](https://osu.ppy.sh/beatmapsets) na stronie internetowej osu!
+*Uwaga: niektóre wizualne i dźwiękowe funkcje beatmapy można wyłączyć w nakładce [ustawień wizualnych](/wiki/Client/Interface/Visual_settings).*
+
+## Trudność
+
+*Główny artykuł: [Trudność](/wiki/Beatmap/Difficulty)*
+
+*Trudność* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który opisuje rozmieszczenie objektów uderzeń, hitsoundów oraz efektów specjalnych, takich jak [kiai time](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#difficulty) i inne parametry bezpośrednio wpływające na rozgrywkę. Trudności beatmapy mogą różnić się strukturą i czasem być dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
+
+## Upublicznianie Beatmapy
+
+*Główny artykuł: [Upublicznianie Beatmap](/wiki/Beatmapping/Beatmap_submission)*
+
+Twórcy beatmap mogą [upubliczniać](/wiki/Beatmapping/Beatmap_submission) swoje mapy do publicznej [listy beatmap](https://osu.ppy.sh/beatmapsets). Choć każda beatmapa jest przypisana do [jednej osoby](/wiki/Beatmap/Beatmap_host), często jest efektem pracy zespołowej: niektóre trudności mogą być tworzone przez innych w ramach [współpracy](/wiki/Beatmap/Beatmap_collaborations) lub [osobno](/wiki/Beatmap/Guest_difficulty).
+
+Po zgłoszeniu, beatmapa otrzymuje dodatkowe pola metadanych, takie jak opis, język, gatunek oraz oznaczenie treści eksplicytnych, które twórca może zmienić na stronie. Beatmapa zyskuje też [tytuł](/wiki/Beatmap/Title_text), którego wygląd może być modyfikowany przy udziale [Zespole Nominacji](/wiki/People/Nomination_Assessment_Team).
+
+### Identyfikacja
+
+Każdej zgłoszonej beatmapie przypisywany jest numer identyfikacyjny (`BeatmapSetID`), według którego można ją śledzić na stronie i przez [osu!api](/wiki/osu!api). Trudności beatmap mają własne numery identyfikacyjne (`BeatmapID`). URL prowadzący do konkretnej trudności na stronie beatmapy ma format:
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
+
+### Kategoria beatmapy
+
+*Główny artykuł: [Kategoria beatmap](/wiki/Beatmap_category)*
+
+Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się zmieniać w czasie:
+
+- [Graveyard](Category#graveyard)  
+- [W toku / Oczekujące](Category#wip-and-pending)  
+- [Zakwalifikowane](Category#qualified)  
+- [Rankingowe](Category#ranked)  
+- [Zatwierdzone](Category#approved)  
+- [Loved](Category#loved)  
+
+Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#leaderboards). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [loved](Category#loved).
+
+## Pobieranie beatmap
+
+Beatmapy można uzyskać na kilka sposobów:
+
+### Lista beatmap
+
+Beatmapy z różnych kategorii są dostępne w [liście beatmap](https://osu.ppy.sh/beatmapsets) na stronie. Można je filtrować według filtrów (np. beatmapy z [osu!taiko](/wiki/Game_mode/osu!taiko) stworzone przez konkretnego mappera) i pobierać pojedynczo. [osu!supporterzy](/wiki/osu!supporter) mają dostęp do rozszerzonych filtrów, np. możliwość sprawdzenia beatmap, na których zdobyli określony wynik.
+
+### osu!direct
+
+osu!direct to lista beatmap wbudowana w klienta gry, zapewniająca szybki dostęp i funkcje podobne do listy na stronie. Jest dostępna tylko dla [osu!supporterów](/wiki/osu!supporter).
+
+### Paczki beatmap
+
+*Główny artykuł: [Beatmap packs](Packs)*
+
+Beatmapy, które zostały zrankowane w tym samym miesiącu lub mają wspólny temat (np. tego samego artystę), są pakowane w archiwa do pobrania zbiorczego. Lista wszystkich oficjalnych paczek jest dostępna na [stronie paczek](https://osu.ppy.sh/beatmaps/packs).
+
+### Nieoficjalne źródła
+
+Istnieją również źródła beatmap, które **nie są sprawdzane ani obsługiwane przez zespół osu!**, ale są dostępne na forum i cenione przez społeczność. Należą do nich:
+
+- kopie beatmap hostowane poza platformą,  
+- paczki i kompilacje tworzone przez graczy, udostępniane przez [sieci p2p](https://en.wikipedia.org/wiki/Peer-to-peer), np. BitTorrent.  
+
+## Beatmapy a społeczność
+
+### Tablice wyników
+
+Gracze osu! we wszystkich trybach używają beatmap, aby [awansować globalnie](/wiki/Performance_points) i [rywalizować ze sobą](/wiki/Ranking). Każda beatmapa ma kilka rodzajów tablic wyników: pierwsza z nich jest dostępna dla wszystkich graczy, natomiast pozostałe można przeglądać tylko będąc [osu!supporterem](/wiki/osu!supporter).
+
+- globalna rankingowa, obejmująca wszystkich aktywnych graczy,  
+- globalna rankingowa dla każdej kombinacji [modyfikatorów gry](/wiki/Gameplay/Game_modifier),  
+- ranking krajowy, uwzględniający graczy z wynikami z tego samego kraju,  
+- ranking znajomych, pokazujący wynik gracza w porównaniu z jego znajomymi.  
+
+Top 1000 wyników na każdej trudności beatmapy zapewnia dostęp do [powtórek](/wiki/Gameplay/Replay), które można oglądać online lub zapisać lokalnie.
+
+### Rankingi i wyróżnienia
+
+*Główny artykuł: [Wyróżnienia Beatmap](/wiki/Beatmap_Spotlights)*
+
+Społeczność od początku miała różne sposoby na wyróżnianie wyjątkowych map. Jednym z pierwszych były miesięczne i sezonowe rankingi, obejmujące niewielki podzbiór zrankowanych beatmap, gdzie najlepsi gracze zdobywali nagrody w postaci [osu!supporter](/wiki/osu!supporter).
+
+System rankingów ewoluował później w projekt [Wyróżnienia Beatmap](/wiki/Beatmap_Spotlights), który działa na podobnych zasadach, ale odbywa się w playlistach [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
+
+### Konkursy beatmap
+
+*Główny artykuł: [Konkursy](/wiki/Contests)*
+
+Społeczność osu! regularnie organizuje konkursy, aby promować kreatywność i nagradzać najlepszych mapperów. Konkursy mogą mieć lokalny lub globalny zasięg, często z atrakcyjnymi nagrodami. Zwycięzcy otrzymują nagrody w postaci [osu!supporter tags](/wiki/osu!supporter) oraz tematycznych [odznak profilowych](/wiki/Community/Profile_badge).
+
+### Wyróżnieni Artyści
+
+*Główny artykuł: [Wyróżnieni Artyści](/wiki/People/Featured_Artists)*
+
+Wyróżnieni Artyści to program społecznościowy [zespołu osu!](/wiki/People/osu!_team), skupiający się na licencjonowaniu muzyki różnych artystów do osu! i udostępnianiu jej do mapowania. Lista [Wyróżnionych Artystów](https://osu.ppy.sh/beatmaps/artists) zawiera wszystkich uczestników i zapewnia gotowe szablony czasowe do tworzenia beatmap.
