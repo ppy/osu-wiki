@@ -32,7 +32,7 @@ That's the background, anyway, but it leads us to...
 
 ## The survey
 
-[![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-19-survey-mod-multipliers/survey-link.png)](https://form-auth.ppy.sh/form/2025-the-future-of-osu-mod-multipliers)
+[![Click here to fill out the mod multiplier survey!](/wiki/shared/news/2026-01-19-survey-mod-multipliers/survey-link.png)](https://form-auth.ppy.sh/form/2026-the-future-of-osu-mod-multipliers)
 
 This is a survey about how the mod multipliers should be adjusted, if at all. Note that it concerns the osu! game mode only.
 
