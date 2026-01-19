@@ -36,7 +36,15 @@ That's the background, anyway, but it leads us to...
 
 This is a survey about how the mod multipliers should be adjusted, if at all. Note that it concerns the osu! game mode only.
 
-There are three main sections:
+The latest [osu!(lazer) update video](https://www.youtube.com/watch?v=ZS3EucVtfB8) contains a quick overview:
+
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2026-01-19-multiplier-survey.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
+For those who don't mind reading, you get to know in advance that there are three sections to the survey:
 
 For the **Classic mod multiplier section**, the main question is: what score multiplier should osu!(stable) scores have in osu!'s combined lazer-stable leaderboards?
 
