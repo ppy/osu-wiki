@@ -8,7 +8,7 @@ tags:
 
 *W przypadku wiadomości, zobacz: [Kryteria stylizacji wiadomości](/wiki/News_styling_criteria)*
 
-Kryteria stylizacji artykułów (zwykle nazywana ASC) stanowią obowiązujące standardy stylizacji wiki osu!, które mają na celu zachowanie spójności czytelności, formatowania i układu wszystkich artykułów orac pomóc w dążeniu do poprawnośći gramatycznej, ortograficznej i informacyjnej.
+Kryteria stylizacji artykułów (zwykle nazywane ASC) stanowią obowiązujące standardy stylizacji wiki osu!, które mają na celu zachowanie spójności czytelności, formatowania i układu wszystkich artykułów oraz pomóc w dążeniu do poprawności gramatycznej, ortograficznej i informacyjnej.
 
 Poniższe artykuły służą głównie jako pomoc dla recenzentów i odzwierciedlają konsensus społeczności współtworzącej wiki osu!, wypracowany przez lata. Ponieważ wiki osu! jest współtworzone przede wszystkim poprzez proces recenzji, nie jest wymagane przeczytanie ani zapamiętanie wszystkich kryteriów naraz. Jeżeli chcesz współtworzyć wiki, przeczytaj [przewodnik współtworzenia](/wiki/osu!_wiki/Contribution_guide).
 
