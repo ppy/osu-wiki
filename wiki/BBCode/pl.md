@@ -1,12 +1,12 @@
 # BBCode
 
-**BBCode** to [język znaczników](https://pl.wikipedia.org/wiki/J%C4%99zyk_znacznik%C3%B3w) używany na forach osu! oraz, w szerszym zakresie, na większości forów internetowych. Służy do formatowania tekstu i składa się z tagów otaczających treść, które odpowiadają za formatowanie, atrybuty, osadzanie multimediów i wiele innych funkcji. BBCode jest wykorzystywany w różnych miejscach na stronie osu!, takich jak posty na forum, sygnatury, strony użytkownika oraz opisy beatmap.
+**BBCode** to [język znaczników](https://pl.wikipedia.org/wiki/J%C4%99zyk_znacznik%C3%B3w) używany na forach osu! oraz, w szerszym zakresie, na większości forów internetowych. Służy do formatowania tekstu i składa się z tagów otaczających treść, które umożliwiają formatowanie tekstu, oznaczanie atrybutów, osadzanie multimediów i wiele innych funkcji. BBCode jest wykorzystywany w różnych miejscach na stronie osu!, takich jak posty na forum, sygnatury, strony użytkownika oraz opisy beatmap.
 
 ![Edytor postów na forum wraz z przyciskami](img/editor.jpg?1 "Pole edycji na forum")
 
 ## Zachowanie
 
-Kliknięcie przycisku formatowania bez zaznaczenia żadnego tekstu spowoduje utworzenie pary otwierającego i zamykającego tagu w miejscu kursora w edytorze. Zaznaczenie tekstu przed kliknięciem przycisku spowoduje otoczenie go wybranymi tagami.
+Kliknięcie przycisku formatowania bez zaznaczenia żadnego tekstu spowoduje utworzenie pary tagów, otwierającego i zamykającego, w pozycji kursora w edytorze. Zaznaczenie tekstu przed kliknięciem przycisku spowoduje otoczenie go wybranymi tagami.
 
 Użytkownicy chcący połączyć kilka rodzajów formatowania dla jednej sekcji tekstu mogą to zrobić, umieszczając tagi BBCode jeden w drugim (zagnieżdżanie). Przy łączeniu tagów **należy przestrzegać** kolejności ich otwierania i zamykania. Nieprzestrzeganie tej zasady spowoduje błędy w wyświetlaniu formatowania.
 
@@ -29,7 +29,7 @@ Tagi BBCode wspierane na stronie osu! zostały wymienione i szczegółowo opisan
 [b]tekst[/b]
 ```
 
-Tag `[b]` służy do silnego podkreślenia tekstu poprzez jego pogrubienie. Pogrubienie BBCode nie wpływa na rozmiar czcionki.
+Tag `[b]` służy do silnego wyróżnienia tekstu poprzez jego pogrubienie. Pogrubienie BBCode nie wpływa na rozmiar czcionki.
 
 Przycisk na pasku narzędzi: ![Bold button](img/bold.png "Pogrubienie")
 
@@ -39,7 +39,7 @@ Przycisk na pasku narzędzi: ![Bold button](img/bold.png "Pogrubienie")
 [i]tekst[/i]
 ```
 
-Tag `[i]` służy do lekkiego podkreślenia tekstu poprzez jego pochylenie (kursywę).
+Tag `[i]` służy do lekkiego wyróżnienia tekstu poprzez jego pochylenie (kursywę).
 
 Przycisk na pasku narzędzi: ![Italic button](img/italic.png "Kursywa")
 
@@ -49,7 +49,7 @@ Przycisk na pasku narzędzi: ![Italic button](img/italic.png "Kursywa")
 [u]tekst[/u]
 ```
 
-Tag `[u]` służy do wyróżnienia tekstu poprzez narysowanie pod nim poziomej linii. Na linię tę wpływają inne tagi, takie jak pogrubienie czy kursywa.
+Tag `[u]` służy do wyróżnienia tekstu poprzez narysowanie pod nim poziomej linii (podkreślenie go). Na linię tę wpływają inne tagi, takie jak pogrubienie czy kursywa.
 
 ### Przekreślenie (Strikethrough)
 
@@ -81,7 +81,7 @@ Wspomniany argument nie wymaga cudzysłowu (`"`) i nie posiada domyślnego kolor
 [size=NUMER]tekst[/size]
 ```
 
-Tag `[size]` służy do zmiany rozmiaru czcionki tekstu. Obecnie strona osu! wspiera cztery rozmiary: 50, 85, 100 oraz 150. Wewnętrznie są one określane odpowiednio jako „tiny” (bardzo małe), „small” (małe), „normal” (normalne) oraz „large” (duże).
+Tag `[size]` służy do zmiany rozmiaru czcionki tekstu. Obecnie strona osu! wspiera cztery rozmiary: 50, 85, 100 oraz 150. Wewnętrznie są one określane odpowiednio jako „tiny” (malutka), „small” (mała), „normal” (normalna) oraz „large” (duża).
 
 Argument `NUMER` nie akceptuje cudzysłowu i przyjmuje tylko jedną z czterech wspieranych wartości. Jeśli zostanie wpisana inna liczba, tekst powróci do domyślnego rozmiaru.
 
@@ -139,7 +139,7 @@ Tag `[quote]` służy do formatowania długich cytatów (tzw. cytatów blokowych
 
 *Uwaga: Argument `NAZWA` musi być ujęty w cudzysłów (`"`).*
 
-Długie cytaty są zazwyczaj stosowane w tekstach formalnych, gdy cytat zajmuje trzy lub więcej linii. Na forach osu! najczęściej służą do odpowiadania na komentarze innych użytkowników, co można zrobić automatycznie za pomocą przycisku `Quote reply` w prawym górnym rogu wybranego posta. Przycisk ten **pojawia się tylko wtedy, gdy kursor znajduje się w pobliżu posta**.
+Długie cytaty są zazwyczaj stosowane w tekstach formalnych, gdy cytat zajmuje trzy lub więcej linii. Na forach osu! najczęściej służą do odpowiadania na komentarze innych użytkowników, co można zrobić automatycznie za pomocą przycisku `Zacytuj we własnej odpowiedzi` w prawym górnym rogu wybranego posta. Przycisk ten **pojawia się tylko wtedy, gdy kursor znajduje się w pobliżu posta**.
 
 ![Przycisk Quote reply](img/quotereply.png)
 
@@ -197,7 +197,7 @@ Przycisk na pasku narzędzi: ![Przycisk URL](img/url.png "URL")
 [profile=userid]nazwa_użytkownika[/profile]
 ```
 
-Tag `[profile]` służy do linkowania profilu użytkownika osu! za pomocą jego nazwy lub identyfikatora (ID). Różni się on od tagu `[url]` tym, że po najechaniu kursorem na link wyświetla kartę użytkownika.
+Tag `[profile]` służy do linkowania profilu użytkownika osu! za pomocą jego nazwy lub identyfikatora (ID). Różni się on od tagu `[url]` tym, że po najechaniu kursorem na link wyświetla się karta użytkownika.
 
 *Uwaga: User ID to ciąg cyfr znajdujący się bezpośrednio po `/users/` w adresie URL profilu osu!.*
 
@@ -213,7 +213,7 @@ W przypadku podawania tylko identyfikatora użytkownika, wymagany jest tekst zas
 [/list]
 ```
 
-Tag `[list]` służy do automatycznego tworzenia dwóch rodzajów list. Nowy element listy oznacza się gwiazdką w nawiasach kwadratowych (`[*]`). Domyślnie tworzy to zwykłą listę punktowaną.
+Tag `[list]` służy do automatycznego tworzenia jednego z dwóch rodzajów list. Nowy element listy oznacza się gwiazdką w nawiasach kwadratowych (`[*]`). Domyślnie tworzy to zwykłą listę punktowaną.
 
 Jeśli podasz argument `TYP` (sama wartość nie ma znaczenia), powstanie lista numerowana.
 
@@ -306,7 +306,7 @@ tekst
 
 Tag `[notice]` służy do umieszczania akapitów w dużej ramce z ciemnym tłem. Jest on używany głównie do zamieszczania ważnych ogłoszeń lub ostrzeżeń na stronie.
 
-## Tagi archiwalne (Legacy)
+## Tagi archiwalne
 
 Poniższe tagi BBCode były niegdyś używane w różnych miejscach na stronie osu!, ale obecnie są niedostępne. Ich opisy zachowano w celach historycznych.
 
