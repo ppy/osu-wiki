@@ -33,9 +33,11 @@ Po zgłoszeniu, beatmapa otrzymuje dodatkowe pola metadanych, takie jak opis, j�
 ### Identyfikacja
 
 Każdej zgłoszonej beatmapie przypisywany jest numer identyfikacyjny (`BeatmapSetID`), według którego można ją śledzić na stronie i przez [osu!api](/wiki/osu!api). Trudności beatmap mają własne numery identyfikacyjne (`BeatmapID`). URL prowadzący do konkretnej trudności na stronie beatmapy ma format:
+
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
+
 ### Kategoria beatmapy
 
 *Główny artykuł: [Kategoria beatmap](/wiki/Beatmap_category)*
