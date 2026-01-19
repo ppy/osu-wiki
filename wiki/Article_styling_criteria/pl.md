@@ -10,7 +10,7 @@ tags:
 
 Kryteria stylizacji artykułów (zwykle nazywana ASC) stanowią obowiązujące standardy stylizacji wiki osu!, które mają na celu zachowanie spójności czytelności, formatowania i układu wszystkich artykułów orac pomóc w dążeniu do poprawnośći gramatycznej, ortograficznej i informacyjnej.
 
-Artykuły te służą głównie jako narzędzia pomocne w przeglądaniu i odzwierciedlają konsensus społecznośći współtworzącej wiki osu!, wypracowany przez lata. Ponieważ wiki osu! jest projektem współpracy opartym na procesie recenzji, nie trzeba czytać ani zapamiętywać całego kryterium na raz. Jeżeli chcesz współtworzyć, przeczytaj [przewodnik współtworzenia](/wiki/osu!_wiki/Contribution_guide).
+Poniższe artykuły służą głównie jako pomoc dla recenzentów i odzwierciedlają konsensus społeczności współtworzącej wiki osu!, wypracowany przez lata. Ponieważ wiki osu! jest współtworzone przede wszystkim poprzez proces recenzji, nie jest wymagane przeczytanie ani zapamiętanie wszystkich kryteriów naraz. Jeżeli chcesz współtworzyć wiki, przeczytaj [przewodnik współtworzenia](/wiki/osu!_wiki/Contribution_guide).
 
 Aby zasugerować zmiany dotyczące kryteriów stylu artykułu, [otwórz zgłoszenie na GitHubie](https://github.com/ppy/osu-wiki/issues/new).
 
