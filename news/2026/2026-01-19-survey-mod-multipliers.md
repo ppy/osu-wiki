@@ -53,7 +53,7 @@ Your answer would likely depend on whether osu!(stable) scores should be equal t
 | Multiplier | Effect on the lazer–stable score balance |
 | :-: | :-- |
 | 1.00x | osu!(stable) and osu!(lazer) scores would give the same score for the same accuracy, even though osu!(lazer) requires accurate clicks on slider heads. |
-| 0.99x | Scoring would give no advantage to osu!(lazer) and osu!(stable) scores (50/50 split). |
+| 0.99x | Scoring would give no advantage to either osu!(lazer) or osu!(stable) scores (50/50 split). |
 | 0.98x | Scoring would favour osu!(lazer) scores \~65% of the time. |
 | 0.96x | Scoring would favour osu!(lazer) scores \~80% of the time. |
 | 0.90x | Scoring would favour osu!(lazer) scores \~90% of the time. |
