@@ -18,7 +18,7 @@ osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作
 
 *注意：在其他网站上发布视频、音频、或直播游戏时，可能会受到不同的许可要求的约束，这些要求需要您协商或理解。直播游戏时，请多加留意。*
 
-我们通过[精选艺术家](/wiki/People/Featured_Artists)项目，为谱师提供了众多已授权曲目，所有在[列表](https://osu.ppy.sh/beatmaps/artists)内展示的歌曲，均已被授权任意在 osu! 中使用，且没有被移除的风险。
+我们通过[精选艺术家](/wiki/People/Featured_Artists)项目，为谱师提供了众多已授权曲目，所有在[列表](https://osu.ppy.sh/beatmaps/artists)内展示的歌曲，均已被授权自由在 osu! 中使用，且没有被移除的风险。
 
 在 osu! 的精选艺术家曲库之外寻找想要作图的歌曲时，需要留意作者是否明确注明了使用条款，这些信息通常可以在曲师的音乐发行平台上（比如 Bandcamp、 Soundcloud、 Youtube 等）或他们的个人网站上找到。如果一首歌使用[知识共享许可协议](https://creativecommons.org/about/cclicenses/)，或允许非商业使用，那么使用它作图就是安全的。
 
