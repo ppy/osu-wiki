@@ -48,7 +48,7 @@ Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się
 - [Zatwierdzone](Category#approved)  
 - [Loved](Category#loved)  
 
-Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#leaderboards). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [loved](Category#loved).
+Niektóre kategorie mają [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom tymczasowe lub stałe [tablice wyników](#Tablice_wyników). Najpopularniejszym sposobem jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [loved](Category#loved).
 
 ## Pobieranie beatmap
 
