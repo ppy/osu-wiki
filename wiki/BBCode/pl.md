@@ -151,7 +151,7 @@ Długie cytaty są zazwyczaj stosowane w tekstach formalnych, gdy cytat zajmuje 
 [c]tekst[/c]
 ```
 
-Tag `[c]` pozwala na wyróżnienie fragmentu tekstu wewnątrz linii za pomocą czcionki o stałej szerokości znaków (monospace). Na stronie osu! tekst ten zostanie otoczony szarą ramką. W przeciwieństwie do [bloków kodu](#blok_kodu_(code_block)), tag ten może być używany tylko w pojedynczych liniach.
+Tag `[c]` pozwala na wyróżnienie fragmentu tekstu wewnątrz linii za pomocą czcionki o stałej szerokości znaków (monospace). Na stronie osu! tekst ten zostanie otoczony szarą ramką. W przeciwieństwie do [bloków kodu](#Blok_kodu_(Code_block)), tag ten może być używany tylko w pojedynczych liniach.
 
 Na forum osu! jest to przydatne do podkreślania np. skrótów klawiszowych lub nazw przycisków.
 
