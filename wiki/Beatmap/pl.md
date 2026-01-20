@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-**Beatmap** (czasami nazywana *beatmapset*) to zestaw poziomów gry ([trudnośći](#trudność)) złożony z różnych [obiektów uderzeń](/wiki/Gameplay/Hit_object), które niemal zawsze odpowiada jednej piosence. Zawiera również inne elementy, wszystkie spakowane w plik z [rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+**Beatmap** (czasami nazywana *beatmapset*) to zestaw poziomów gry ([trudnośći](#poziomy-trudności)) złożony z różnych [obiektów uderzeń](/wiki/Gameplay/Hit_object), które niemal zawsze odpowiada jednej piosence. Zawiera również inne elementy, wszystkie spakowane w plik z [rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - sama piosenka, przechowywana w formacie MP3 lub Ogg,
 - [obrazy tła](/wiki/Beatmap/Background) lub wideo, pełniące rolę planszy gry,
