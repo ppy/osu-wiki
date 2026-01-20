@@ -44,7 +44,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się zmieniać w czasie:
 
-- [Nieaktualizowane](Category#graveyard)
+- [Porzucone](Category#graveyard)
 - [Oczekujące](Category#wip-and-pending)
 - [Zakwalifikowane](Category#qualified)
 - [Rankingowe](Category#ranked)
