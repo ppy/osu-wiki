@@ -1,16 +1,12 @@
----
-outdated_translation: true
----
+# Kategorie Beatmap
 
-# Beatmapy
-
-[Beatmapy](/wiki/Beatmap) w osu! są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/iNiS_games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/Gameplay/Hit_object) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/Storyboard).
+[Beatmapy](wiki/Beatmap) opublikowane online są podzielone na kategorie w zależności od ich ostatniej aktywności, statusu [nominacji](/wiki/Beatmap_ranking_procedure#qualification) oraz popularności.
 
 Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Beatmapping/Beatmap_submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
 Beatmapy można znaleźć na [liście beatmap](https://osu.ppy.sh/beatmapsets) na stronie internetowej osu!
 
-## Statusy
+## Aktywne kategorie
 
 Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#wip-and-pending) oraz [porzuconych](#graveyard).
 
@@ -19,12 +15,6 @@ Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynaj
 ![Symbol dwóch strzałek w górę](/wiki/shared/status/ranked.png) Na ekranie wyboru piosenek rankingowe beatmapy są oznaczane symbolem dwóch strzałek w górę.
 
 Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ranking_criteria). Status rankingowej oznacza, że beatmapa spełnia ściśle określone standardy.
-
-### Zatwierdzone {id=approved}
-
-![Znak potwierdzenia](/wiki/shared/status/approved.png) Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia.
-
-Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Beatmap/Drain_time) niż 5 minut (znane także jako [maratony](/wiki/Beatmap/Marathon)). Większość zatwierdzonych beatmap nie posiada łatwego ani normalnego poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
 ### Zakwalifikowane {id=qualified}
 
