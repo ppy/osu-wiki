@@ -63,6 +63,7 @@ tags:
 | `artist` | 作曲家的名字 |
 | `title` | 歌曲名 |
 | `source` | 歌曲的媒体，比如电子游戏、电影、系列、活动，也就是歌曲的来源或最相关的东西 |
+| `favourites` | 谱面集的收藏数 |
 | `featured_artist` | [精选艺术家](/wiki/People/Featured_Artists) 的标识符 |
 | `creator` | 谱面难度的作者 |
 | `difficulty` | 谱面难度的名字 |
@@ -73,14 +74,15 @@ tags:
 | `star`, `stars` | [星数](/wiki/Beatmap/Star_rating) |
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
 | `length` | [游玩时间](/wiki/Beatmap/Play_time) （单位为秒） |
+| `divisor` | [音符时值](/wiki/Client/Beatmap_editor/Beat_snap_divisor) 的分母。 |
 | `circles` | 圆圈数量 |
 | `sliders` | 滑条数量 |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
 | `status` | 谱面状态；值为 `ranked`、`approved`、`pending`、`notsubmitted`、`unknown`、`loved` 其一，或者简写为 `r`/`a`/`p`/`n`/`u`/`l` 。 |
-| `created` | 谱面制作时间 |
+| `created`, `submitted` | 谱面制作时间 |
 | `updated` | 谱面上次更新时间 |
 | `ranked` | 谱面上架或达标时间 |
-| `tag` | 特定的 [用户标签](/wiki/Beatmap/Beatmap_tags#user-tags) |
+| `tag` | 特定的[用户标签](/wiki/Beatmap/Beatmap_tags#user-tags) |
 
 ## 客户端 (lazer)[^lazer-filters]
 
@@ -88,13 +90,14 @@ tags:
 | :-: | :-- |
 | `artist` | 作曲家的名字 |
 | `title` | 歌曲的名字 |
-| `creator` | 谱面难度的作者 |
+| `source` | 歌曲的媒体，比如电子游戏、电影、系列、活动，也就是歌曲的来源或最相关的东西 |
+| `creator`, `author`, `mapper` | 谱面难度的作者 |
 | `diff` | 谱面难度的名字 |
 | `ar` | [缩圈速度](/wiki/Beatmap/Approach_rate) |
 | `cs` | [圆圈大小](/wiki/Beatmap/Circle_size) |
 | `od` | [判定严度](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [掉血速度](/wiki/Beatmap/HP_drain_rate) |
-| `star`, `stars` | [星数](/wiki/Beatmap/Star_rating) |
+| `star`, `stars`, `sr` | [星数](/wiki/Beatmap/Star_rating) |
 | `bpm` | [歌曲速度](/wiki/Music_theory/Tempo) |
 | `length` | [游玩时间](/wiki/Beatmap/Play_time)（单位为秒） |
 | `key`, `keys` | 按键数量（osu!mania 以及该模式的转谱特有） |
@@ -103,9 +106,9 @@ tags:
 | `lastplayed` | 距上次游玩的时间。允许按 `#y#M#d#h#m#s` 格式输入（年月日时分秒）。比如，`2d5s` 表示“2天5秒”。 |
 | `played` | 是否游玩过。 对于游玩过的谱面，值为 `yes`、`true` 或 `1` ；对于未游玩过的谱面，值为 `no`、`false` 或者 `0` 。 |
 | `divisor` | [音符时值](/wiki/Client/Beatmap_editor/Beat_snap_divisor)的分母。 |
-| `submitted` | 谱面制作或上传时间 |
+| `created`, `submitted` | 谱面制作或上传时间 |
 | `ranked` | 谱面上架或达标时间 |
-| `tag` | 特定的 [用户标签](/wiki/Beatmap/Beatmap_tags#user-tags)（仅游戏内置的谱面搜索列表支持） |
+| `tag` | 特定的[用户标签](/wiki/Beatmap/Beatmap_tags#user-tags)（仅游戏内置的谱面搜索列表支持） |
 
 ## 搜索示例
 
@@ -159,8 +162,8 @@ J-pop tag="meta/custom skin"
 
 ## 参考
 
-[^website-filters]: [osu!web 源代码](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [osu!(lazer) 源代码](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [osu!web 源代码](https://github.com/ppy/osu-web/blob/c31fa1db6802efbdbb3842c7df087b273cfa3c4a/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [osu!(lazer) 源代码](https://github.com/ppy/osu/blob/ae1402c9cd6644709b6c7c65703fecee55592061/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
