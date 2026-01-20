@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 85884faf3c55f4909a718caf3489f02a2908e59b
+---
+
 # Evaluaciones de los Beatmap Nominators
 
 *Véase también: [Convertirse en Beatmap Nominator § Proceso de solicitud](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#proceso-de-solicitud)*
