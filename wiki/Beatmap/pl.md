@@ -48,7 +48,6 @@ Zgłoszona beatmapa należy do jednej z poniższych kategorii, które mogą się
 - [Oczekujące](Category#wip-and-pending)
 - [Zakwalifikowane](Category#qualified)
 - [Rankingowe](Category#ranked)
-- [Zatwierdzone](Category#approved)
 - [Ulubione społeczności](Category#loved)
 
 Niektóre kategorie mają określone [kryteria zgłoszeń](/wiki/Ranking_criteria) i umożliwiają beatmapom posiadanie tymczasowej lub stałej [tablicy wyników](#tablice-wyników). Najpopularniejszym sposobem uzyskania jednej z takich kategorii jest [procedura rankingu beatmap](/wiki/Beatmap_ranking_procedure), a alternatywnie można uczynić beatmapę [ulubioną społeczności](Category#loved).
