@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-**Beatmap** (czasami nazywana *beatmapset*) to zestaw poziomów gry ([trudnośći](#trudność)) złożony z różnych [objektów uderzeń](/wiki/Gameplay/Hit_object), które niemal zawsze odpowiada jednej piosence. Zawiera również inne elementy, wszystkie spakowane w plik z [rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+**Beatmap** (czasami nazywana *beatmapset*) to zestaw poziomów gry ([trudnośći](#trudność)) złożony z różnych [obiektów uderzeń](/wiki/Gameplay/Hit_object), które niemal zawsze odpowiada jednej piosence. Zawiera również inne elementy, wszystkie spakowane w plik z [rozszerzeniem `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - sama piosenka, przechowywana w formacie MP3 lub Ogg,
 - [obrazy tła](/wiki/Beatmap/Background) lub wideo, pełniące rolę planszy gry,
@@ -16,19 +16,19 @@ tags:
 
 *Uwaga: niektóre wizualne i dźwiękowe funkcje beatmapy można wyłączyć w nakładce [ustawień wizualnych](/wiki/Client/Interface/Visual_settings).*
 
-## Trudność
+## Poziomy Trudności
 
-*Główny artykuł: [Trudność](/wiki/Beatmap/Difficulty)*
+*Główny artykuł: [Poziomy Trudności](/wiki/Beatmap/Difficulty)*
 
 *Trudność* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który opisuje rozmieszczenie obiektów uderzeń, hitsoundów oraz efektów specjalnych, takich jak [kiai time](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#difficulty) i inne parametry bezpośrednio wpływające na rozgrywkę. Trudności beatmapy mogą różnić się strukturą i czasem być dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
 
-## Upublicznianie Beatmapy
+## Publikowanie Beatmapy
 
-*Główny artykuł: [Upublicznianie Beatmap](/wiki/Beatmapping/Beatmap_submission)*
+*Główny artykuł: [Publikowanie Beatmap](/wiki/Beatmapping/Beatmap_submission)*
 
 Twórcy beatmap mogą [upubliczniać](/wiki/Beatmapping/Beatmap_submission) swoje mapy do publicznej [listy beatmap](https://osu.ppy.sh/beatmapsets). Choć każda beatmapa jest przypisana do [jednej osoby](/wiki/Beatmap/Beatmap_host), często jest efektem pracy zespołowej: niektóre trudności mogą być tworzone przez innych w ramach [współpracy](/wiki/Beatmap/Beatmap_collaborations) lub [osobno](/wiki/Beatmap/Guest_difficulty).
 
-Po zgłoszeniu, beatmapa otrzymuje dodatkowe pola metadanych, takie jak opis, język, gatunek oraz oznaczenie treści eksplicytnych, które twórca może zmienić na stronie. Beatmapa zyskuje też [tytuł](/wiki/Beatmap/Title_text), którego wygląd może być modyfikowany przy udziale [Zespole Nominacji](/wiki/People/Nomination_Assessment_Team).
+Po zgłoszeniu, beatmapa otrzymuje dodatkowe pola metadanych, takie jak opis, język, gatunek oraz oznaczenie treści dla pełnoletnich, które twórca może zmienić na stronie. Beatmapa zyskuje też [tytuł](/wiki/Beatmap/Title_text), którego wygląd może być modyfikowany przy udziale [Zespole Nominacji](/wiki/People/Nomination_Assessment_Team).
 
 ### Identyfikacja
 
@@ -103,7 +103,7 @@ System rankingów ewoluował później w projekt [Wyróżnienia Beatmap](/wiki/B
 
 *Główny artykuł: [Konkursy](/wiki/Contests)*
 
-Społeczność osu! regularnie organizuje konkursy, aby promować kreatywność i nagradzać najlepszych mapperów. Konkursy mogą mieć lokalny lub globalny zasięg, często z atrakcyjnymi nagrodami. Zwycięzcy otrzymują nagrody w postaci [osu!supporter tags](/wiki/osu!supporter) oraz tematycznych [odznak profilowych](/wiki/Community/Profile_badge).
+Społeczność osu! regularnie organizuje konkursy, aby promować kreatywność i nagradzać najlepszych twórców. Konkursy mogą mieć lokalny lub globalny zasięg, często z atrakcyjnymi nagrodami. Zwycięzcy otrzymują nagrody w postaci [osu!supporter tags](/wiki/osu!supporter) oraz tematycznych [odznak profilowych](/wiki/Community/Profile_badge).
 
 ### Wyróżnieni Artyści
 
