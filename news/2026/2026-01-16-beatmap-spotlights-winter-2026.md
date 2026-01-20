@@ -156,7 +156,7 @@ Sorry, the letter P had gotten stuck there, BUT what was said is pretty much tru
 [![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2129944.jpg)](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
 
 **[Dustvoxx, Loctek - Labyrinth of Mind \[\[7K\] Diffusion\]](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)**, created by [tyrcs](https://osu.ppy.sh/users/13026904)\
-*primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
+*primarily suggested and described by [Seulgi](https://osu.ppy.sh/users/4918394)*
 
 The beatmap selected for this season's Curators' Pick was created through the collaboration of composers [Dustvoxx and Loctek](https://osu.ppy.sh/beatmaps/artists/386), whose music sets listeners' hearts racing, and mapper [tyrcs](https://osu.ppy.sh/users/13026904), known for crafting fantastic charts built upon top-level playability.
 
