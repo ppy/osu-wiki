@@ -35,7 +35,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | [2015-03-21](https://osu.ppy.sh/beatmapsets/278813) | [2024-12-23](https://osu.ppy.sh/beatmapsets/2211027) | [#1](https://osu.ppy.sh/beatmaps/packs/TM27) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/978674) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [2017-12-09](https://osu.ppy.sh/beatmapsets/623924) | [2020-11-24](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-09-28](https://osu.ppy.sh/beatmapsets/1832561) |  |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-09-28](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [2021-10-12](https://osu.ppy.sh/beatmapsets/1493511) | [2025-09-17](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [2018-09-16](https://osu.ppy.sh/beatmapsets/826551) | [2022-12-30](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=PL }:: [Sekai](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) | [#1](https://osu.ppy.sh/beatmaps/packs/TM22) |

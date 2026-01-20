@@ -36,7 +36,7 @@
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/978674) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [2017-12-09](https://osu.ppy.sh/beatmapsets/623924) | [2020-11-24](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
 | ::{ flag=PL }:: [ririco](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) |  |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-09-28](https://osu.ppy.sh/beatmapsets/1832561) |  |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-09-28](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [2021-10-12](https://osu.ppy.sh/beatmapsets/1493511) | [2025-09-17](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [2018-09-16](https://osu.ppy.sh/beatmapsets/826551) | [2022-12-30](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [2016-05-20](https://osu.ppy.sh/beatmapsets/169622) | [2024-10-04](https://osu.ppy.sh/beatmapsets/2250094) | [#1](https://osu.ppy.sh/beatmaps/packs/TM24) |

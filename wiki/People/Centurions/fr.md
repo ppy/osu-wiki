@@ -40,7 +40,7 @@ Les Centurions sont des utilisateurs qui ont atteint la prestigieuse étape de c
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [13/03/2017](https://osu.ppy.sh/beatmapsets/542755) | [31/08/2019](https://osu.ppy.sh/beatmapsets/978674) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [09/12/2017](https://osu.ppy.sh/beatmapsets/623924) | [24/11/2020](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
 | ::{ flag=PL }:: [ririco](https://osu.ppy.sh/users/700887) | [28/03/2011](https://osu.ppy.sh/beatmapsets/26544) | [01/08/2024](https://osu.ppy.sh/beatmapsets/2106029) |  |
-| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/06/2017](https://osu.ppy.sh/beatmapsets/598791) | [28/09/2022](https://osu.ppy.sh/beatmapsets/1832561) |  |
+| ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/06/2017](https://osu.ppy.sh/beatmapsets/598791) | [28/09/2022](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [12/10/2021](https://osu.ppy.sh/beatmapsets/1493511) | [17/09/2025](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | [16/09/2018](https://osu.ppy.sh/beatmapsets/826551) | [30/12/2022](https://osu.ppy.sh/beatmapsets/1348272) |  |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | [20/05/2016](https://osu.ppy.sh/beatmapsets/169622) | [04/10/2024](https://osu.ppy.sh/beatmapsets/2250094) | [#1](https://osu.ppy.sh/beatmaps/packs/TM24) |
