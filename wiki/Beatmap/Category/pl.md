@@ -1,6 +1,6 @@
 # Kategorie Beatmap
 
-[Beatmapy](wiki/Beatmap) opublikowane online są podzielone na kategorie w zależności od ich ostatniej aktywności, statusu [nominacji](/wiki/Beatmap_ranking_procedure#qualification) oraz popularności.
+[Beatmapy](/wiki/Beatmap) opublikowane online są podzielone na kategorie w zależności od ich ostatniej aktywności, statusu [nominacji](/wiki/Beatmap_ranking_procedure#qualification) oraz popularności.
 
 Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/Beatmapping/Beatmap_submission) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/Modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
@@ -8,7 +8,7 @@ Beatmapy można znaleźć na [liście beatmap](https://osu.ppy.sh/beatmapsets) n
 
 ## Aktywne kategorie
 
-Beatmapy rankingowe, jak i zatwierdzone, muszą zostać sprawdzone przez przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#wip-and-pending) oraz [porzuconych](#graveyard).
+Beatmapy rankingowe jak i zakwalifikowane muszą zostać sprawdzone przez przynajmniej dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Mogą wpływać na statystyki każdego gracza, co różni je od beatmap [oczekujących](#wip-and-pending) oraz [porzuconych](#graveyard).
 
 ### Rankingowe {id=ranked}
 
@@ -24,9 +24,9 @@ Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. Na początku ro
 
 - brak przyznania [pp](/wiki/Performance_points).
 - usunięcie wszystkich wyników po zmianie statusu.
-  - Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony lub oczekujący, wszystkie wyniki zostaną usunięte!
+  - Jeżeli status zostanie zmieniony na rankingowy lub oczekujący, wszystkie wyniki zostaną usunięte!
 
-Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#ranked) lub [zatwierdzony](#approved).
+Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/Ranking_criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/People/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#ranked).
 
 Podczas tego tygodnia [członkowie zespołu QAT](/wiki/People/Quality_Assurance_Team) mają czas na sprawdzenie zakwalifikowanej beatmapy pod kątem błędów i nieścisłości. Jeżeli coś będzie nie tak, beatmapa otrzyma z powrotem status oczekujący i będzie musiała jeszcze raz przejść przez proces kwalifikacji.
 
