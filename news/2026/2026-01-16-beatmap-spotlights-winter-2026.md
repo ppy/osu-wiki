@@ -8,7 +8,7 @@ series: beatmap_spotlights
 With a happy new year, there is a happy new season of Beatmap Spotlights! Catch up on the latest news and check out a brand-new selection of beatmaps for you to compete on.
 
 ![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/banner.jpg)
-  
+
 The **Beatmap Spotlights Curators** went above and beyond again to put together a fantastic range of the most popular and highly anticipated beatmaps of the season. Get ready to compete for the highest placement in the seasonal rankings and dance away the cold winter days in the newly opened Beatmap Spotlights arena!
 
 ### Changes
@@ -17,7 +17,7 @@ We want to introduce changes to the playlist score multipliers this season.
 
 #### Playlist score multipliers
 
-In the past, the playlist score multipliers were set to 1/0.75/0.5. After careful consideration and listening to the feedback from the community, we have decided to tweak the multipliers to **1/0.9/0.8** starting this season. This will give you more of an incentive to play all three playlists and also reward players with the widest skill sets.
+In the previous seasons, best scores of each playlist for each user ordered from highest to lowest would get multiplied by 1, 0.75, and 0.5 respectively, summing into seasonal total score. After careful consideration and listening to the feedback from the community, we have decided to tweak the multipliers to **1/0.9/0.8** starting this season. This will give you more of an incentive to play all three playlists and also reward players with the widest skill sets.
 
 ## How do I participate in the Beatmap Spotlights League? {id=how-to-participate}
 
@@ -95,7 +95,7 @@ Lince Cosmico's clean aesthetics and masterful playfield usage, combined with im
 
 Over the past few years, [Slax](https://osu.ppy.sh/beatmaps/artists/465) has practically become a household name in the osu!taiko community, and when he was tasked with making an osu! original for the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025), he definitely delivered.
 
-[Body to the Drum](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601) is made by none other than [ler1211](https://osu.ppy.sh/users/19901680). If you're familiar with traditional taiko tournament slots, NM1 is the name of the game. Prepare yourself for an absolute bundle of consistency, offbeat doublets, even-numbered patterns that will keep you on your toes (or fingers, in this case!), and, last but not least, streams coming right at you at 230 BPM! All while listening to an absolute banger of a track. 
+[Body to the Drum](https://osu.ppy.sh/beatmapsets/2343891#taiko/5038601) is made by none other than [ler1211](https://osu.ppy.sh/users/19901680). If you're familiar with traditional taiko tournament slots, NM1 is the name of the game. Prepare yourself for an absolute bundle of consistency, offbeat doublets, even-numbered patterns that will keep you on your toes (or fingers, in this case!), and, last but not least, streams coming right at you at 230 BPM! All while listening to an absolute banger of a track.
 
 So what's the hold-up? Go try out the map and move your body to the drum to keep yourself warm during this chilly winter season!
 
@@ -155,7 +155,7 @@ Sorry, the letter P had gotten stuck there, BUT what was said is pretty much tru
 
 [![](/wiki/shared/news/2026-01-16-beatmap-spotlights-winter-2026/2129944.jpg)](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)
 
-**[](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)**, created by [tyrcs](https://osu.ppy.sh/users/13026904)\
+**[Dustvoxx, Loctek - Labyrinth of Mind \[\[7K\] Diffusion\]](https://osu.ppy.sh/beatmapsets/2129944#mania/4478878)**, created by [tyrcs](https://osu.ppy.sh/users/13026904)\
 *primarily suggested and described by [Maxus](https://osu.ppy.sh/users/4335785)*
 
 The beatmap selected for this season's Curators' Pick was created through the collaboration of composers [Dustvoxx and Loctek](https://osu.ppy.sh/beatmaps/artists/386), whose music sets listeners' hearts racing, and mapper [tyrcs](https://osu.ppy.sh/users/13026904), known for crafting fantastic charts built upon top-level playability.
