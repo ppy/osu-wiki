@@ -7,7 +7,7 @@ series: beatmap_spotlights
 
 With a happy new year, there is a happy new season of Beatmap Spotlights! Catch up on the latest news and check out a brand-new selection of beatmaps for you to compete on.
 
-![](/wiki/shared/news/2026-01-20-beatmap-spotlights-winter-2026/banner.jpg)
+![](/wiki/shared/news/banners/beatmap-spotlights-new.jpg)
 
 The **Beatmap Spotlights Curators** went above and beyond again to put together a fantastic range of the most popular and highly anticipated beatmaps of the season. Get ready to compete for the highest placement in the seasonal rankings and dance away the cold winter days in the newly opened Beatmap Spotlights arena!
 
