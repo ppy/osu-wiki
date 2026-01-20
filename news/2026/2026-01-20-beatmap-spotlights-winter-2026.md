@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights: Winter 2026"
-date: 2026-01-20 23:30:00 +0000
+date: 2026-01-20 23:45:00 +0000
 series: beatmap_spotlights
 ---
 
