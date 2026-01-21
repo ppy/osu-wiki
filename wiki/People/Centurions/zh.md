@@ -14,7 +14,7 @@
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | [2022-05-28](https://osu.ppy.sh/beatmapsets/1475077) | [2025-11-11](https://osu.ppy.sh/beatmapsets/2353751) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | [2020-07-13](https://osu.ppy.sh/beatmapsets/1173956) | [2025-04-28](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-03-19](https://osu.ppy.sh/beatmapsets/5755) | [2011-01-11](https://osu.ppy.sh/beatmapsets/24472) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8)、[#2](https://osu.ppy.sh/beatmaps/packs/TM9)、[#3](https://osu.ppy.sh/beatmaps/packs/TM10)、[#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-01-11](https://osu.ppy.sh/beatmapsets/11975) | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8)、[#2](https://osu.ppy.sh/beatmaps/packs/TM9)、[#3](https://osu.ppy.sh/beatmaps/packs/TM10)、[#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [2018-05-06](https://osu.ppy.sh/beatmapsets/757813) | [2019-09-26](https://osu.ppy.sh/beatmapsets/978579) |  |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
@@ -49,4 +49,4 @@
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面平均需要 **5.4 年**（大约 1984 天）。<!--Stats from https://docs.google.com/spreadsheets/d/1UK1QdaZawxJ75Q0ZwvSGb4zDcC19RumO7BwV0p9R-jM/edit?usp=sharing-->
+- 总体来说，上架 100 张谱面平均需要 **5.4 年**（大约 1985 天）。<!--Stats from https://chromb.uk/centurions/data.json-->
