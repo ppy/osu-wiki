@@ -39,7 +39,6 @@ tags:
 | `artist` | 作曲家的名字 |
 | `creator` | 谱面难度的作者 |
 | `title` | 歌曲名 |
-| `source` | 歌曲的媒体，比如电子游戏、电影、系列、活动，也就是歌曲的来源或最相关的东西 |
 | `difficulty` | 谱面难度的名字 |
 | `ar` | [缩圈速度](/wiki/Beatmap/Approach_rate) |
 | `cs` | [圆圈大小](/wiki/Beatmap/Circle_size) |
