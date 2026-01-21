@@ -1,11 +1,11 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 ---
 
+<!-- 请勿在此 <div> 内添加任何空白行 -->
+
 <div class="wiki-main-page__blurb">
-欢迎来到 osu!wiki，一个包含大量 osu! 相关信息的开源知识库。
+欢迎来到 osu! wiki，一个包含与 osu! 相关的广泛信息的开源知识库。
 </div>
 
 <div class="wiki-main-page__panels">
@@ -13,7 +13,7 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 
 # 新手入门
 
-这些重要的文章和指南将帮助你更好地了解 osu!，如果有不清楚的地方，也可以去论坛里的[帮助版块](https://osu.ppy.sh/forum/5)寻求帮助。
+这里提供重要的文章和指南，帮助您深入了解 osu!。如果有不清楚的地方，也可以去论坛里的[帮助版块](https://osu.ppy.sh/forum/5)寻求帮助。
 
 [规章制度](/wiki/Rules) • [游戏安装](/wiki/Client/Installation) • [注册账号](/wiki/Registration) • [帮助中心](/wiki/Help_centre)
 
@@ -24,7 +24,7 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 
 # 游戏客户端
 
-通过了解游戏的复杂设定、自定义相关及其技术细节、文件格式，深入探索 osu! 所展现的韵律与节奏世界。
+作为通往节奏、节拍与光影世界的向导，osu! 内容丰富多样。从各种设置和自定义功能到使用的技术细节和文件格式，深入了解这款游戏。
 
 [游戏界面](/wiki/Client/Interface) • [游戏设置](/wiki/Client/Options) • [视觉设置](/wiki/Client/Interface/Visual_settings) • [快捷键](/wiki/Client/Keyboard_shortcuts) • [配置文件](/wiki/Client/Program_files/User_configuration_file) • [目录文件](/wiki/Client/Program_files)
 
@@ -35,24 +35,24 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 
 # 游戏玩法
 
-与 osu! 四个游戏模式相关的物件、要素、机制与竞技内容。
+与四个游戏模式相关的一切：核心元素、概念、机制与竞技玩法。
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer) • [每日挑战](/wiki/Gameplay/Daily_challenge) • [快速匹配](/wiki/Gameplay/Quick_play)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # [谱面编辑器](/wiki/Client/Beatmap_editor)
 
-osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大家分享你喜欢的歌却不知道从何下手？来学习一下如何使用游戏内的谱面编辑器吧。
+osu! 的谱面都是充满活力的社区内玩家们的智慧结晶。想与大家分享你喜欢的歌却不知道从何下手？来学习一下如何使用游戏内的谱面编辑器吧。
 
 部件：[创作 (Compose)](/wiki/Client/Beatmap_editor/Compose) • [设计 (Design)](/wiki/Client/Beatmap_editor/Design) • [测定时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing) • [歌曲设置 (Song setup)](/wiki/Client/Beatmap_editor/Song_setup)
 
 组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
 
-活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Beatmapping/Mapping_techniques) • [故事板](/wiki/Storyboard) • [皮肤](/wiki/Skinning)
+活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Beatmapping/Mapping_techniques) • [故事板制作](/wiki/Storyboard) • [谱面皮肤制作](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -63,14 +63,14 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [提交谱面](/wiki/Beatmapping/Beatmap_submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[谱面上架标准 (RC)](/wiki/Ranking_criteria)：[元数据](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_criteria): [简易 RC](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [元数据](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # 规章制度与法律条款
 
-了解这些让 osu! 社区安全运营的准则，包括歌曲、媒体内容的授权与规范、聊天与论坛规章制度。
+了解这些让 osu! 社区安全运营的程序与规定，包括歌曲、媒体内容的授权与规范、聊天与论坛规章制度。
 
 [规章制度](/wiki/Rules) • [贡献者公约](/wiki/Rules/Contributor_code_of_conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
@@ -85,9 +85,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 这里能找到一些常见问题的解决方案。
 
-[帮助中心](/wiki/Help_centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
+[帮助中心](/wiki/Help_centre) • [性能问题排查](/wiki/Performance_troubleshooting) • [账户支持团队](/wiki/People/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
 
-账号受限：[禁言](/wiki/Help_centre/Silences) • [账号受限](/wiki/Help_centre/Account_restrictions) • [锦标赛封禁](/wiki/Help_centre/Tournament_bans)
+账号受限：[禁言](/wiki/Help_centre/Silences) • [账号受限](/wiki/Help_centre/Account_restrictions) • [锦标赛封禁](/wiki/Help_centre/Tournament_sanctions)
 
 我能做什么：[如何提供帮助](/wiki/Community/How_you_can_help!) • [举报不当行为](/wiki/Reporting_bad_behaviour) • [举报滥用行为](/wiki/Reporting_bad_behaviour/Abuse) • [举报作弊行为](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -96,13 +96,13 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 # [社区](/wiki/Community)与[公众项目](/wiki/Community/Projects)
 
-社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
+社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织下一个大型活动！
 
 讨论区: [论坛](/wiki/Community/Forum) • [IRC 闲聊](/wiki/Community/Internet_Relay_Chat) • [Discord 服务器](/wiki/Community/Discord_servers)
 
 方案：[锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[项目](/wiki/Community/Projects)：[谱师工会](/wiki/Community/Mappers_Guild) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 月报](/wiki/Community/osu!monthly) 
+[项目](/wiki/Community/Projects)：[谱师工会](/wiki/Community/Mappers_Guild) • [社区喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 月报](/wiki/Community/osu!monthly)
 
 媒体：[定制歌曲](/wiki/Community/Bespoke_music) • [漫画](/wiki/Community/Manga) • [视频系列](/wiki/Community/Video_series) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk) • [lazer 更新视频系列](/wiki/Community/Video_series/lazer_updates)
 
@@ -115,25 +115,25 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 没有众多成员帮助开发、维护、管理社区，osu! 很难走到今天，正是他们的辛劳付出让 osu! 生机蓬勃。
 
-[osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [技术支持团队](/wiki/People/Technical_Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [技术支持团队](/wiki/People/Technical_Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators) • [锦标赛委员会 (TC)](/wiki/People/Tournament_Committee)
 
 [社区贡献者](/wiki/People/Community_Contributors) • [优秀提名者](/wiki/People/Elite_Nominators) • [用户组](/wiki/People/User_groups) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [百夫长](/wiki/People/Centurions) • [全收集者](/wiki/People/Completionists) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# 开发
+# 开发相关
 
 通过其他应用与 osu! 交互。
 
-[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
+[公告消息](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [品牌标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # wiki 和其他页面
 
-就和这个页面一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
+就像这一页的几乎所有内容一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 osu-wiki 的 [GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
 
 [osu! 的历史](/wiki/History_of_osu!) • [在线排名历史](/wiki/History_of_osu!/Online_rankings) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
