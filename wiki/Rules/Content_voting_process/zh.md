@@ -13,7 +13,7 @@ tags:
 
 ## 流程
 
-1. 一个作图者、摸图者或社区成员针对谱面中的视觉元素提出审核申请，依据[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)通过[BN 网站](https://bn.mappersguild.com/reports)进行报告。
+1. 一个作图者、摸图者或社区成员针对谱面中的视觉元素提出审核申请，依据[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)通过 [BN 网站](https://bn.mappersguild.com/reports)进行报告。
 2. 报告将由 NAT 和 GMT 进行评估[^beatmap-nominators]。除非是非常明显的情况，否则会尽快创建一个新的「内容案例」并开放投票。所有 BN、GMT 和 NAT 成员均有资格投票。
 3. 在投票期间，包含有争议视觉元素的谱面将无法被提名或是进入 Qualified 阶段。如果谱面已经进入 Qualified 阶段，将会在该谱面的讨论区发布一条建议，阻止该谱面在投票结束前被评为 Ranked，直到投票结束。
 4. 投票将在连续 3 天没有新投票，或是自投票开始起 7 天后结束，以先到者为准。
