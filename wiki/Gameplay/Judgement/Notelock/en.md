@@ -35,6 +35,6 @@ From a mapper's perspective, notelock could be prevented by carefully choosing t
 
 When compared to osu!(stable), notelock was made more lenient in osu!(lazer). This was mitigated by making the timing window significantly more forgiving: once the first hit object reaches an offset of 0 ms, the next object is no longer locked and can be clicked immediately. In short, late hits from a previously missed object will no longer lock the note right afterwards.
 
-![](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)/img/notelock.gif)
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
 
 Due to this change, players became able to recover more easily from a miss on a beatmap with dense [streams](/wiki/Beatmap/Pattern/osu!/Stream), [jumps](/wiki/Beatmap/Pattern/osu!/Jump), or low [OD](/wiki/Beatmap/Overall_difficulty).
