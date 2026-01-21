@@ -28,13 +28,13 @@ Applications are now open for the following roles. Each designer role focuses on
 **Illustrator**
 Creates digital illustrations, including characters, environments, and other visual assets.
 
-![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-illustrator.png)
+![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-illustrator.jpg)
 
 #### Graphic Designer (GFX)
 
 Specializes in layout design, compositing, and typography to create and combine images and text.
 
-![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-gfx.png)
+![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-gfx.jpg)
 
 **Visual Effects Designer (VFX)**
 
