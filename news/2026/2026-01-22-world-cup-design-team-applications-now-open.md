@@ -26,6 +26,7 @@ Designers who join the team may participate in projects across all five World Cu
 Applications are now open for the following roles. Each designer role focuses on a different part of the visual production process. Applicants may apply for one or more roles depending on their skill sets.
 
 #### Illustrator
+
 Creates digital illustrations, including characters, environments, and other visual assets.
 
 ![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-illustrator.jpg)
