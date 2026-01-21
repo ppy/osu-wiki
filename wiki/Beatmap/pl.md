@@ -20,7 +20,7 @@ tags:
 
 *Główny artykuł: [Poziomy Trudności](/wiki/Beatmap/Difficulty)*
 
-*Trudność* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który opisuje rozmieszczenie obiektów uderzeń, hitsoundów oraz efektów specjalnych, takich jak [kiai time](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#difficulty) i inne parametry bezpośrednio wpływające na rozgrywkę. Trudności beatmapy mogą różnić się strukturą i czasem być dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
+*Poziom trudności* to plik z [rozszerzeniem `.osu`](/wiki/Client/File_formats/osu_(file_format)), który opisuje rozmieszczenie obiektów uderzeń, hitsoundów oraz efektów specjalnych, takich jak [kiai time](/wiki/Gameplay/Kiai_time). Zawiera też [ustawienia trudności](/wiki/Client/Beatmap_editor/Song_setup#difficulty) i inne parametry bezpośrednio wpływające na rozgrywkę. Poziomy trudności beatmapy mogą różnić się strukturą i czasem być dostępne tylko w jednym [trybie gry](/wiki/Game_mode). System [gwiazdek](/wiki/Beatmap/Star_rating) służy do wizualizacji wymaganego poziomu umiejętności.
 
 ## Publikowanie Beatmapy
 
