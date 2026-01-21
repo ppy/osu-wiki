@@ -6,6 +6,8 @@ tags:
   - tablas
   - Tablas de clasificación
   - Destacados de temporada
+outdated_translation: true
+outdated_since: eaaaeb2c554275b6e6bd69d698d703141510ddb5
 ---
 
 # Beatmap Spotlights
