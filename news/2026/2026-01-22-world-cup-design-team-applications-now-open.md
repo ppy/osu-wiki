@@ -78,7 +78,7 @@ The application deadline is **Sunday, March 1st, 2026**. Applicants who miss the
 
 With the expected number of applications, the review process may take up to 4 weeks after applications close. We appreciate your patience as we thoroughly review your submissions. All applicants will be notified of their application result once the review process is complete.
 
-#### How Applications Are Reviewed
+### How Applications Are Reviewed
 
 Applications are reviewed through a team-wide voting process with all designers currently on the design team eligible to vote. In addition, each designer role has a group of dedicated recruiters who will have higher weighted votes in their field of expertise. For transparency, the recruiters for each role are listed below.
 
@@ -96,7 +96,7 @@ To proceed with an acceptance or rejection decision, an application must receive
 
 The following criteria are used to evaluate applications for each role:
 
-#### Illustrator
+### Illustrator
 
 - Character and scene structure
 - Concept realization
