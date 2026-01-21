@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: March 2023"
 date: 2023-03-21 17:00:00 +0000
+series: project_loved
 ---
 
 Celebrate the start of spring with an equally charming set of Loved nominations!

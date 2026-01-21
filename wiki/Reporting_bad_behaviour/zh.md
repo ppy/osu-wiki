@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 508a002bf0586beff3ba1c9ee3fb052d97898029
+---
+
 # 举报不当行为
 
 osu! 拥有一支维护游戏及其社区环境干净安全的[管理员团队](/wiki/People/Global_Moderation_Team)。如果你注意到违反规则的行为或不适当的内容，请使用以下列出的方法之一举报。另外，如果你的举报未在合理的时间段内得到妥善处理，你可以直接在线联系任何一位管理员——只能在万不得已时使用此方法。

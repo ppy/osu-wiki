@@ -2,6 +2,7 @@
 layout: post
 title: "Expert Global Taiko Showdown 2025: Registrations Now Open!"
 date: 2025-01-05 00:00:00 +0000
+series: community_tournaments
 ---
 
 Calling all drum smashers — after a year and a half of inactivity, Global Taiko Showdown is finally back! We are kicking things off with EGTS 2025, its fourth and final iteration!

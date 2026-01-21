@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: December 2022"
 date: 2022-12-16 13:00:00 +0000
+series: project_loved
 ---
 
 Celebrate the holidays with some festive Loved gifts! 🎄🎁

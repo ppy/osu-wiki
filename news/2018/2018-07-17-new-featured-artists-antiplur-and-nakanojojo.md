@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artists: antiPLUR & Nakanojojo"
 date: 2018-07-17 12:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to announce the addition of **two** new Featured Artists to the roster, [**antiPLUR**](https://osu.ppy.sh/beatmaps/artists/24) and [**Nakanojojo**](https://osu.ppy.sh/beatmaps/artists/25)! Check them out!

@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Winter 2022"
 date: 2022-01-02 12:00:00 +0000
+series: featured_artists
 ---
 
 We're launching into 2022 with a collection of updates to our older Featured Artist listings! Over **100** new songs are available. Start your next map already.

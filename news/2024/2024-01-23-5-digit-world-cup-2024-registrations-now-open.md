@@ -2,6 +2,7 @@
 layout: post
 title: "5 Digit World Cup 2024: Registrations Now Open!"
 date: 2024-01-23 12:00:00 +0000
+series: community_tournaments
 ---
 
 Calling all 5 digit osu! players! After a long wait, the 5 Digit World Cup is back — and it's better than ever.

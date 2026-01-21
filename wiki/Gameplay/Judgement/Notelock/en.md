@@ -30,3 +30,11 @@ Since objects in regular osu! beatmaps are meant to be cleared in chronological 
 ## Prevention
 
 From a mapper's perspective, notelock could be prevented by carefully choosing the OD value of a [difficulty](/wiki/Beatmap/Difficulty) according to its object density and BPM. On beatmaps with BPM of 200 and higher, OD 5 and higher is recommended. For a more detailed breakdown, refer to the "[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)" guide.
+
+## Notelock in osu!(lazer)
+
+When compared to osu!(stable), notelock was made more lenient in osu!(lazer). This was mitigated by making the timing window significantly more forgiving: once the first hit object reaches an offset of 0 ms, the next object is no longer locked and can be clicked immediately. In short, late hits from a previously missed object will no longer lock the note right afterwards.
+
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
+
+Due to this change, players became able to recover more easily from a miss on a beatmap with dense [streams](/wiki/Beatmap/Pattern/osu!/Stream), [jumps](/wiki/Beatmap/Pattern/osu!/Jump), or low [OD](/wiki/Beatmap/Overall_difficulty).

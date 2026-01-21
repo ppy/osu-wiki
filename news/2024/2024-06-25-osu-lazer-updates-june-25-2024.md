@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: June 25, 2024"
 date: 2024-06-25 19:00:00 +0000
+series: game_updates
 ---
 
 Click here to consume the latest and greatest osu!(lazer) updates!

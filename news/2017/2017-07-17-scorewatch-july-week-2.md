@@ -3,6 +3,7 @@ layout: post
 title: "Scorewatch: July Week 2"
 date: 2017-07-17 04:00:00 +0200
 tumblr_url: http://osunews.tumblr.com/post/162936918243/scorewatch-july-week-2
+series: scorewatch
 ---
 
 Huge plays from unexpected players, a low accuracy battle on IOSYS, and jakads going crazy once again in this week's issue of Scorewatch!

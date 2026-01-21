@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Plum"
 date: 2022-03-19 09:00:00 +0000
+series: featured_artists
 ---
 
 **Plum** glissandos his way into our Featured Artist catalogue!

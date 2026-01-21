@@ -8,7 +8,7 @@
 - Качество номинированных карт
 - Качество [моддинга](/wiki/Modding)
 - Количество нарушений в [сброшенных номинаций](/wiki/Beatmap_ranking_procedure#сброс-номинации) и их [серьёзность](/wiki/People/Nomination_Assessment_Team/SEV_rating)
-- Количество проведённых проверок [контроля качества](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance)
+- Количество проведённых проверок [контроля качества](/wiki/People/Beatmap_Nominators/General_Information#контроль-качества)
 - Заметный вклад в сообщество маппинга (написание программ и утилит, проведение ивентов и т.д.)
 - Другие качества, которые выделяют номинатора среди остальных
 

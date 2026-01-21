@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: fiend"
 date: 2021-04-14 09:30:00 +0000
+series: featured_artists
 ---
 
 We're happy to welcome **fiend** into the Featured Artist lineup!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: love solfege"
 date: 2021-06-05 08:30:00 +0000
+series: featured_artists
 ---
 
 **love solfege** joins the lineup as our latest Featured Artist!

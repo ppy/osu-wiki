@@ -78,9 +78,9 @@ Bạn có thể bắt buộc game cập nhật thông qua phần cài đặt tro
 3. Nhập `update`  vào ô tìm kiếm nhanh để nhảy thẳng đến tùy chọn.
 4. Nhấn vào nút `chạy cập nhật osu!`
 
-Bạn cũng có thể ép buộc trò chơi cập nhật bằng cách tạo một tệp `help.txt` trong thư mục cài đặt của osu!. Tệp này không cần chứa nội dung gì; nó chỉ cần tồn tại, và trò chơi sẽ tự động ép buộc cập nhật mỗi khi chạy lần tiếp theo.
+Bạn cũng có thể ép buộc trò chơi cập nhật bằng cách tạo một tệp `help.txt` trong thư mục cài đặt của osu!. Tệp này không cần chứa nội dung gì, nó chỉ cần tồn tại và trò chơi sẽ tự động ép buộc cập nhật mỗi khi chạy lần tiếp theo.
 
-### Tôi gặp phải lỗi về "kiểu chữ" Khi tôi cố gắng mở trò chơi! {id=no-default-fonts}
+### Tôi gặp phải lỗi về "kiểu chữ" khi tôi cố gắng mở trò chơi! {id=no-default-fonts}
 
 Bạn đã xóa hoặc mất các phông chữ hệ thống quan trọng đi kèm với cài đặt Windows cơ bản. Đây có thể không phải là vấn đề duy nhất mà bạn đang gặp phải!
 
@@ -129,7 +129,7 @@ Nếu không có phương pháp nào trong số này hiệu quả, như biện p
 
 ### Danh sách bài hát của tôi cứ tự cuộn! {id=songs-list-scrolling}
 
-***Thông thường điều này xảy ra do một thiết bị nhập liệu bị lỗi đang kết nối với máy tính của bạn. Hãy thử rút bất kỳ tay cầm hay joystick nào ra.**
+**Thông thường điều này xảy ra do một thiết bị nhập liệu bị lỗi đang kết nối với máy tính của bạn. Hãy thử rút bất kỳ tay cầm hay joystick nào ra.**
 
 Những vấn đề này cũng có thể do các ứng dụng giả lập hoặc thay đổi phím tắt, chẳng hạn như Xpadder hoặc X-Mouse Button Control. Nếu bạn đang dùng những ứng dụng này cho game khác, hãy vô hiệu hóa chúng.
 
@@ -159,9 +159,9 @@ Có một vài lý do có thể dẫn đến tình trạng này. Hãy đọc ti�
 
 #### Bạn có mới cài lại client game không? {id=no-scores-reinstalling}
 
-**Việc cài lại client game sẽ tự động xóa tất cả điểm số cục bộ của bạn.**
+**Việc cài lại client trò chơi sẽ tự động xóa tất cả điểm số cục bộ của bạn.**
 
-Rất tiếc, những điểm số này đã mất,Tuy nhiên — những điểm số bạn đã nộp trực tuyến vẫn còn — chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
+Rất tiếc rằng những điểm số này đã mất, —mặc dù những điểm số bạn đã nộp trực tuyến vẫn còn— chỉ cần tải lại bất kỳ bài hát nào bạn đã chơi trước đó, và điểm số của bạn sẽ xuất hiện lại.
 
 Mẹo hữu ích: nếu bạn là osu!supporter, bạn có thể sử dụng bộ lọc `Ranked (Đã chơi)` trong bảng osu!direct trong game hoặc qua `trang danh sách nghe beatmap` để tìm bất kỳ map nào bạn đã đạt điểm trong quá khứ.
 
@@ -187,7 +187,7 @@ Phím tắt mặc định cho tính năng này là `C` và nó sẽ hoạt độ
 
 ### Làm sao để lưu lại bản replay cho điểm số tôi vừa đạt được? {id=save-replay}
 
-**Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cục bộ của bạn, sau đó nhấn `F2`.**
+**Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cá nhân của bạn, sau đó nhấn `F2`.**
 
 Lệnh này sẽ lưu bản replay mới của bạn thành file `.osr` trong thư mục Replays nằm trong thư mục cài đặt osu! mặc định.
 
@@ -195,7 +195,7 @@ Bên cạnh đó, osu! cũng tự động lưu tất cả replay sau khi bạn h
 
 Lưu ý: nếu không có replay nào được lưu cho điểm số đó, bạn sẽ không thể lấy lại replay bằng cách này.
 
-### osu! đang thông báo rằng phiên bản client của bạn quá cũ! {id=old-client}
+### osu! thông báo rằng phiên bản client của tôi quá cũ! {id=old-client}
 
 Đã đến lúc bạn nên cập nhật trò chơi! những phiên bản rất cũ của game sẽ không được phép gửi điểm mới, vì vậy bạn cần buộc cập nhật bằng cách vào `Options` → `General` → `chạy cập nhật osu!`.
 
@@ -231,15 +231,15 @@ Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để x
 
 ![](img/correct-map-status.png "Đây là những gì và nó sẽ trông như thế nào")
 
-Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng địa phương có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
+Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng cá nhân có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
 
-#### Máy chủ gửi điểm có đang hoạt động không? {id=no-submission-servers}
+#### Máy chủ gửi điểm hiện có đang hoạt động không? {id=no-submission-servers}
 
 **Câu trả lời gần như luôn là có, nhưng bạn có thể kiểm tra [trạng thái máy chủ osu!](https://status.ppy.sh) hoặc qua [Twitter @osustatus](https://twitter.com/osustatus) để chắc chắn mọi thứ đang hoạt động trơn tru ở phía chúng tôi.**
 
 Nếu máy chủ đang ngoại tuyến, đừng đóng osu! cho đến khi chúng tôi sửa lỗi và máy chủ được khôi phục, vì game sẽ thử gửi điểm của bạn lại trong vòng một giờ trước khi bỏ cuộc.
 
-### Bạn có thể tải lên điểm số tôi đã đạt được với tôi? {id=upload-replay}
+### Bạn có thể tải lên điểm số của tôi đã đạt được với tôi? {id=upload-replay}
 
 Rất tiếc, chúng tôi không thể tải lên điểm số theo yêu cầu.
 
@@ -342,7 +342,7 @@ Hãy kiểm tra trang [trạng thái máy chủ osu!](https://status.ppy.sh/ "tr
 
 Hãy thử sử dụng proxy hoặc nhà cung cấp VPN khác — nếu vẫn không được, hãy gửi phiếu hỗ trợ qua email đến [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Nếu bạn không sử dụng bất kỳ thứ nào kể trên, bạn cần gửi phiếu hỗ trợ, vì có thể kết nối của bạn đã bị đưa vào danh sách chặn một cách nhầm lẫn.
+Nếu bạn không sử dụng bất kỳ thứ nào kể trên, bạn cần gửi phiếu hỗ trợ vì có thể kết nối của bạn đã bị đưa vào danh sách chặn do nhầm lẫn.
 
 Tor hoặc các mạng liên quan đến Tor relay phần lớn sẽ không thể kết nối với máy chủ trò chơi. Dù chúng tôi không phản đối hay ủng hộ việc sử dụng Tor, nhưng chính sách này được áp dụng để tránh các hành vi xấu có thể lợi dụng Tor.
 
@@ -380,23 +380,23 @@ Bạn cũng có thể muốn tìm hiểu về các tiện ích cho phép bạn �
 
 Để xác định nguyên nhân, chúng tôi khuyên bạn nên sử dụng phần mềm giám sát nhiệt độ GPU/CPU và theo dõi trong khi chơi osu! ở chế độ nền. Một chương trình tốt để sử dụng cho việc này là Speccy.
 
-Nếu bạn thấy nhiệt độ GPU hoặc CPU vượt quá 90°C hoặc 194°F, thì máy tính của bạn đang chạy rất nóng và tiệm cận ngưỡng tự động tắt máy của hầu hết hệ thống.
+Nếu bạn thấy nhiệt độ GPU hoặc CPU vượt quá 90°C hoặc 194°F, thì máy tính của bạn đang chạy rất nóng và tiệm cận ngưỡng tự động tắt máy của hầu hết các hệ thống.
 
 ### Máy tính của tôi không quá nóng, nhưng trò chơi vẫn khiến máy tính của tôi khởi động lại! {id=reboot-faulty-device}
 
-Nguyên nhân phổ biến nhất dẫn đến việc máy bị khởi động lại do quá nhiệt là do vấn đề với card âm thanh, tiếp theo là thiết bị ngoại vi bị lỗi được gắn vào máy tính của bạn.
+**Nguyên nhân phổ biến nhất gây ra việc khởi động lại đột ngột sau sự cố quá nhiệt là do lỗi card âm thanh, tiếp theo là các thiết bị ngoại vi bị hỏng kết nối với máy tính của bạn.**
 
 Trình điều khiển (driver) cũ của card âm thanh hoặc phần mềm liên quan có thể gây ra sự cố với osu!, nhưng điều này không xảy ra với hầu hết người dùng. Hãy thử cập nhật driver card âm thanh hoặc driver bo mạch chủ của bạn.
 
-Bạn cũng có thể thử tháo bớt các thiết bị ngoại vi được kết nối qua cổng USB, đặc biệt nếu chúng có liên quan đến âm thanh. Tai nghe hoặc card âm thanh USB đôi khi có thể gây lỗi nếu bản thân thiết bị hoặc cổng cắm bắt đầu gặp trục trặc.
+Bạn cũng có thể thử tháo bớt các thiết bị ngoại vi được kết nối qua cổng USB máy tính của bạn, đặc biệt nếu chúng có liên quan đến âm thanh. Tai nghe hoặc card âm thanh USB đôi khi có thể gây lỗi nếu bản thân thiết bị hoặc cổng cắm bắt đầu gặp trục trặc.
 
 ### Nó vẫn tiếp tục xảy ra {id=reboot-nothing-helps}
 
-Nếu vẫn xảy ra vấn đề, bạn hãy gửi một yêu cầu hỗ trợ đến [accounts@ppy.sh](mailto:accounts@ppy.sh) với thông tin chi tiết về sự cố — bao gồm thông số kỹ thuật của máy tính, mẫu máy (nếu có), và bất kỳ thông tin nào khác mà bạn nghĩ sẽ giúp chúng tôi xác định nguyên nhân của vấn đề.
+Nếu vẫn xảy ra vấn đề, bạn hãy gửi một yêu cầu hỗ trợ đến [accounts@ppy.sh](mailto:accounts@ppy.sh) với thông tin chi tiết về sự cố — bao gồm thông số kỹ thuật của máy tính, mẫu máy (nếu cần), và bất kỳ thông tin nào khác mà bạn nghĩ sẽ giúp chúng tôi xác định nguyên nhân của vấn đề.
 
 ### Tôi không thể giữ nhiều phím cùng lúc khi chơi osu!mania {id=keyboard-ghosting}
 
-**Điều này do một vấn đề phần cứng phổ biến trên hầu hết các bàn phím gọi là *ghosting*.**.
+**Điều này do một vấn đề phần cứng phổ biến trên hầu hết các bàn phím gọi là *ghosting*.**
 
 Ghosting là một vấn đề khá phức tạp, nhưng đơn giản là sự cố xảy ra do cách bàn phím của bạn được thiết kế, khiến nó không thể gửi tín hiệu từ hơn một vài phím cùng lúc từ một số khu vực nhất định trên bàn phím.
 
@@ -449,7 +449,7 @@ Tất cả các tablet chính hãng osu! đều hỗ trợ raw input theo mặc 
 
 #### Bạn có mở nhiều chương trình cùng lúc khi chơi osu! không? {id=lag-too-many-programs}
 
-**Một số tiến trình nền có thể cạnh tranh tài nguyên với osu! và làm cho trải nghiệm chơi rất khó chịu.**
+**Một số chương trình chạy trong nền có thể gây cạnh tranh tài nguyên với osu! và làm cho trải nghiệm chơi rất khó chịu.**
 
 Hãy thử đóng bớt những chương trình bạn cảm thấy không cần thiết khi đang chơi game/hoặc đóng hết chúng đi.
 
@@ -479,11 +479,11 @@ Một cách đơn giản để kiểm tra là thử rút bộ chia USB ra trong 
 
 #### Bạn có đang chạy osu! ở chế độ cửa sổ hoặc chế độ không viền không?  {id=lag-windowed}
 
-**Cả chế độ cửa sổ lẫn chế độ không viền đều gây ra *độ trễ đầu vào đáng kể*. Toàn màn hình (fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà nhất.**
+**Cả chế độ cửa sổ lẫn chế độ không viền đều gây ra *độ trễ đầu vào đáng kể*. Toàn màn hình (fullscreen) là tối ưu nhất để có trải nghiệm chơi game mượt mà.**
 
 #### Trò chơi của bạn có bị đứng hình chỉ trong chốc lát không? {id=lag-background-process}
 
-**Đôi khi các tiến trình nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
+**Đôi khi các chương trình chạy dưới nền hoặc ứng dụng khác trên máy tính của bạn có thể gửi những yêu cầu tài nguyên lớn cùng lúc, khiến máy của bạn gặp khó khăn trong việc xử lý.**
 
 Thông thường vấn đề này sẽ biến mất sau khi bạn đóng mọi thứ không cần thiết trước khi chơi osu!. Phần mềm torrent là thủ phạm phổ biến, đặc biệt nếu nó dùng chung ổ đĩa với nơi cài osu!.
 
@@ -491,8 +491,8 @@ Thông thường vấn đề này sẽ biến mất sau khi bạn đóng mọi t
 
 **Đôi khi sau khi cập nhật, client có thể gặp trục trặc mà không rõ lý do.**
 
-Nếu bạn có rất nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bản cập nhật gây lag. Trình osu! có thể đang xử lý lại các map của bạn để tính toán độ khó.
+Nếu bạn dang có rất nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bị lag vì bản cập nhật. Trình osu! có thể đang xử lý lại đống beatmap của bạn để tính toán lại độ khó.
 
-Nếu vẫn không cải thiện, khởi động lại máy có thể giúp.
+Nếu vẫn không cải thiện, khởi động lại máy có thể giúp một phần.
 
-**Nếu bạn vẫn gặp giật lag hoặc đứng hình trong khi chơi, hãy xem [hướng dẫn khắc phục hiệu suất](/wiki/Performance_troubleshooting) để tìm thêm nguyên nhân và cách xử lý.**
+**Nếu bạn vẫn gặp giật lag hoặc đứng hình trong khi chơi, hãy xem thêm [hướng dẫn khắc phục hiệu suất](/wiki/Performance_troubleshooting) để tìm thêm nguyên nhân và cách xử lý.**

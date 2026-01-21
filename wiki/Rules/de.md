@@ -1,8 +1,3 @@
----
-outdated_since: 218cb353a5cb04575555aa5d0c33fd5e5de209d7
-outdated_translation: true
----
-
 # Regeln
 
 Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Community Spaß haben kann und eine freundliche Umgebung hat.
@@ -10,7 +5,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Comm
 ## Community-Regeln
 
 1. **Jeder Spieler darf zu jedem Zeitpunkt nur *EINEN* Account besitzen.** Der *erste* Account, den du während der Registrierung erstellst, ist von dem Zeitpunkt der Erstellung dein einziger osu!-Account und bleibt auch dein einziger. Er gehört niemand anderem - nicht deinem Bruder, nicht deiner Mutter, nicht deiner Schwester oder deinem Freund - nur DIR. Teile ihn mit niemandem. Da du nicht die Chance erhältst, einen neuen Account zu erstellen, solltest du also gut darauf aufpassen.
-2. **Spiele fair.** Die Benutzung von Drittanbieter-Software jeglicher Art geht nicht in Ordnung. Dazu gehören Makros, Aim-Assists, Speedhacks etc. Sobald dir ein Programm dabei hilft, etwas zu tun, was du selbst tun musst, ist es nicht okay.
+2. **Spiele fair.** Die Benutzung von Drittanbieter-Software jeglicher Art geht nicht in Ordnung. Dazu gehören Programme zur Unterstützung der Zielgenauigkeit, Speedhacks etc. Makros, Tastaturbelegungen oder Hardware, bei denen eine physische Bewegung (z. B. eine Taste herunterdrücken) nicht derselben Aktion im Spiel entspricht, sind ebenfalls verboten.[^macros] Sobald dir ein Programm dabei hilft, etwas zu tun, was du selbst tun musst, ist es nicht okay.
 3. **Seid freundlich zueinander.** Die osu!-Community bietet keinen Platz für Feindseligkeiten oder Belästigungen. Wir sind alle hier, um Kreise zu klicken, Trommeln zu schlagen, Früchte zu fangen oder bis zu achtzehn Tasten gleichzeitig zu drücken - und nicht, um Arschlöcher zueinander zu sein.
 4. **Sei kein Idiot.** Solltest du dir einmal unsicher sein, ob du gerade die Regeln brichst, dann tust du es wahrscheinlich gerade.
 5. **Personen aller Altersgruppen sind Teil dieser Community.** Das bedeutet, dass nicht jugendfreie/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) Inhalte nicht willkommen sind. Darunter fallen unter anderem die Nutzung von Drogen oder Themen sexueller Natur.
@@ -26,7 +21,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Comm
 5. **Nimm Rücksicht auf jüngere Mitspieler, die Teil dieser Community sind. Vermeide nicht jugendfreie Inhalte so weit wie möglich.** Nicht jugendfreie Dinge gehören einfach nicht in eine Community, die alle Altersgruppen umfasst. In privaten Chats kannst du dich unterhalten, wie du möchtest (übertreibe es nicht), halte dich aber in den öffentlichen Kanälen zurück.
 6. **Achte darauf, welche Inhalte du mit anderen Leuten teilst, besonders bei möglicherweise verstörenden und expliziten Darstellungen.** Wenn du zweimal darüber nachdenken musst, ob es okay ist, diesen Link zu teilen, ist er es wahrscheinlich nicht. Vermeide Inhalte mit schnell pulsierenden Effekten, Gewaltdarstellungen, Missbrauch oder anderen expliziten Inhalten.
 7. **Links sollen nur auf legale Inhalte verweisen.** Links zu beispielsweise Webseiten für Anime-Streaming oder Webseiten zu urheberrechtlich geschützten Inhalten jeglicher Natur sind nicht erlaubt, außer die Webseiten besitzen die nötige Lizenz zur Verbreitung (beispielsweise Animelab oder Crunchyroll). Du kannst Twitch-Kanäle über andere Spiele teilen, solange das in `#videogames` passiert.
-8. **Wirb nicht für Chat-Server anderer Plattformen jeglicher Art, einschließlich Discord, Teamspeak oder Skype.** Im osu!-Chat geht es um osu! und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
+8. **Wirb nicht für Chat-Server anderer Plattformen jeglicher Art, einschließlich Discord oder Teamspeak.** Im osu!-Chat geht es um osu! und nicht, um deine Server zu füllen. Nutze private Nachrichten, wenn es unbedingt sein muss.
 9. **In sprachspezifischen Kanälen musst du die entsprechende Sprache sprechen (Englisch in `#english`, Thailändisch in `#thai`, etc.), wenn du mitreden willst.** In allen Kanälen, die in ihrer Beschreibung oder im Namen keine Sprache angeben, wird immer Englisch gesprochen. Andererseits kann in `#lobby` und `#help` jede Sprache gesprochen werden. *[Moderatoren](/wiki/People/Global_Moderation_Team) müssen sich nicht an diese Regel halten, wenn sie ihre Arbeit erledigen.*
 
 ## Forumregeln
@@ -45,7 +40,7 @@ Diese Regeln bilden die Grundlage, mit der wir dafür sorgen, dass die osu!-Comm
 
 Diese Regeln beziehen sich ausschließlich auf Beatmaps, die über das [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) hochgeladen werden. Die Threads werden mithilfe des osu!-Clients erstellt, wenn du eine Beatmap mit dem [Editor](/wiki/Client/Beatmap_editor) hochlädst.
 
-1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik, die zu 100% für die Benutzung in osu! lizenziert ist. Achte außerdem auf die [Regeln für die Inhaltsverwendung](Content_Usage_Guidelines).
+1. **Stelle sicher, dass du die Berechtigung hast, jeden Inhalt in deiner Beatmap zu verwenden.** Das umschließt Lieder, Videos, Hitsounds, Bilder oder andere Inhalte, die nicht von dir direkt selbst erstellt wurden. Solltest du dir unsicher sein, wo du frei nutzbare Inhalte finden kannst, kannst du die Bibliothek von Liedern unserer [Featured Artists](https://osu.ppy.sh/beatmaps/artists/) durchsuchen. Dort findest du Musik, die zu 100% für die Benutzung in osu! lizenziert ist. Achte außerdem auf die [Regeln für die Inhaltsverwendung](Content_usage_permissions).
 2. **Komm in [Beatmap-Diskussionen](/wiki/Beatmap_discussion) nicht vom Thema ab.** Die Threads und Diskussionen gelten der Beatmap und sonst nichts. Wenn du ein Problem mit etwas hast, was sich nicht direkt auf die Beatmap bezieht, dann veröffentliche es stattdessen im richtigen Forum.
 3. **Plagiiere oder stehle nicht die Arbeit anderer Nutzer.** Lade keine Inhalte anderer Nutzer ohne deren expliziten Erlaubnis hoch, einschließlich Skins und Guest Difficulties.
 4. **Folge den [Regeln für Songinhalte](Song_Content_Rules) und den [Empfehlungen für visuelle Inhalte](Visual_Content_Considerations).**
@@ -69,4 +64,8 @@ Solltest du nach zahlreichen Verstößen weiterhin die Regeln brechen, kann dein
 
 Eingeschränkte Accounts können nicht online spielen, Scores erzielen, mit anderen Nutzern sprechen und sind im Großen und Ganzen von allen Interaktionen mit der Community 'gebannt'. Eingeschränkte Accounts können nur freigegeben werden, wenn nach 3 Monaten ein entsprechendes Gesuch beim Support eingereicht wird ([es können weitere Bedingungen aufgestellt werden](/wiki/Help_centre/Account_restrictions#reasons)).
 
-Schwere Vergehen, die den Rahmen unserer Regeln sprengen und unter die Jurisdiktion von illegalen Inhalten im Sinne der geltenden Rechtsprechung fallen, führen zur sofortigen Schließung des Accounts. Dies gilt fast ausschließlich zu extrem exzessiven oder anderen abscheulichen Darstellungen, wie unter anderem Kinderpornografie oder die Darstellung von Vergewaltigungen.
+Schwere Vergehen, die den Rahmen unserer Regeln sprengen und unter die Jurisdiktion von illegalen Inhalten im Sinne der international geltenden Rechtsprechung fallen, führen zur sofortigen Schließung des Accounts. Dies gilt fast ausschließlich bei extrem exzessiven oder anderen abscheulichen Darstellungen, wie unter anderem Kinderpornografie oder die Darstellung von sexuellen Übergriffen.
+
+## Anmerkungen
+
+[^macros]: Aktionen von einer Taste auf eine andere Taste zu legen ist erlaubt, solange das einmalige Drücken einer bestimmten Taste die verbundene Spieltaste einmal auslöst und das Loslassen derselben Taste ein Loslassen der verbundenen Spieltaste bewirkt. Es ist verboten, eine Druckbewegung mit einem Loslassen zu verknüpfen. Ebenfalls ist es verboten, wenn eine Taste mehr als eine Druckbewegung oder ein Loslassen erzeugt.

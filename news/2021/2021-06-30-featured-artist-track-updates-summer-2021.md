@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Summer 2021"
 date: 2021-06-30 11:30:00 +0000
+series: featured_artists
 ---
 
 While we've been busy pumping out new Featured Artists left and right, some of our older talent have been working hard too! We've added over **60** songs from **13** of our current Featured Artists, so come see what's new!

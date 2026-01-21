@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2021 Fanart Contest Results
 date: 2021-12-17 08:00:00 +0000
+series: fanart_contests
 ---
 
 Winter's well and truly here, and so are the results of the Winter 2021 Fanart Contest! Check out the finalists by reading on, or simply opening your game and gawking at the main menu!

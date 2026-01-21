@@ -3,6 +3,7 @@ layout: post
 title: "Storyboard Showcase: Lia - Toki wo Kizamu Uta"
 date: 2014-02-11 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/76283252100/storyboard-showcase-lia-toki-wo-kizamu-uta
+series: miscellaneous
 ---
 
 This time, we'll take a look at a storyboard attached to a fairly popular song from a very popular series!

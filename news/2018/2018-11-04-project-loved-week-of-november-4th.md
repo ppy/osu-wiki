@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of November 4th"
 date: 2018-11-04 17:30:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) returns with another set of beatmaps nominated for the Loved category! Check out each one, and vote for your favourites!

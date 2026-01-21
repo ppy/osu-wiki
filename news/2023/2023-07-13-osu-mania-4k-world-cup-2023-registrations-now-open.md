@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2023: Registrations Now Open!"
 date: 2023-07-13 12:00:00 +0000
+series: world_cups
 ---
 
 The seasons may change but through it all our love of rice and noodles remains! The osu!mania 4K World Cup is back for its 10th edition!

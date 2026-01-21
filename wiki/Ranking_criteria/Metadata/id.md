@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 4ea7ae0e5459d3645dc997a1c6433a366202b16d
 ---
 
 # Metadata
@@ -54,7 +56,7 @@ no_native_review: true
 
   Hal ini tidak berlaku apabila artis yang bersangkutan dengan sengaja menggunakan simbol ini tanpa menyiratkan spasi. Sebagai contoh, romanisasi yang tepat untuk `。✰302？ionwan2go✰。` adalah `.*302?ionwan2go*.`, bukan `. * 302 ? ionwan2go * .`. Set karakter lainnya akan ditangani tergantung situasinya masing-masing.
 
-- **Dalam kolom yang teromanisasi, simbol khusus yang terdapat pada nama artis/judul lagu harus diubah menjadi karakter ASCII yang terdekat atau dihilangkan sepenuhnya.** Karakter khusus yang tidak terliput dalam tabel di bawah ini juga harus diubah atau dihilangkan sesuai dengan situasinya masing-masing. Pada saat terdapat lebih dari satu pilihan, gunakan romanisasi yang paling sesuai konteks.
+- **Dalam kolom yang teromanisasi, simbol yang terdapat pada nama artis/judul lagu harus diubah menjadi karakter [ASCII](https://en.wikipedia.org/wiki/ASCII) yang terdekat atau dihilangkan sepenuhnya.** Tabel di bawah ini menjabarkan romanisasi yang disarankan pada saat menemui simbol yang demikian. Simbol lainnya yang tidak terliput dalam tabel di bawah ini akan ditangani sesuai dengan situasinya masing-masing.
 
   | Simbol | Romanisasi yang disarankan |
   | :-- | :-- |

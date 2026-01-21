@@ -2,6 +2,7 @@
 layout: post
 title: Summer 2018 Fanart Contest!
 date: 2018-07-18 11:00:00 +0000
+series: fanart_contests
 ---
 
 Mocha might've stolen the show last year, but now she's gotta fight for her spot at the front! With summer in full swing, the latest season-themed fanart contest is underway, and we want to see your best!

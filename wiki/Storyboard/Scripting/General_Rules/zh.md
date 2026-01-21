@@ -1,3 +1,8 @@
+---
+outdated_since: 4783e764c4e6d760cabec64dcaea88e8ce9c6581
+outdated_translation: true
+---
+
 # 故事板编写一般规则
 
 ![一个编写 .osb 脚本的例子。](img/SBS_Base.jpg "一个编写 .osb 脚本的例子。")

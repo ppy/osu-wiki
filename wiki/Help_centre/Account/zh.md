@@ -32,6 +32,8 @@ tags:
   - 修改旗子
   - 国旗错误
   - 转旗
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # 账号

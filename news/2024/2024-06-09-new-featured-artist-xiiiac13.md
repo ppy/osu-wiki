@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: xiiiac13"
 date: 2024-06-09 19:00:00 +0000
+series: featured_artists
 ---
 
 STAGE LEFT: **xiiiac13** enters the spotlight wearing a shining sash labelled "Featured Artist".

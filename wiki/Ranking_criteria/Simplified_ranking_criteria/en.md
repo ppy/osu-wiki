@@ -2,7 +2,7 @@
 
 *For the full ranking criteria, see: [Ranking criteria](/wiki/Ranking_criteria)*
 
-The full list of [ranking criteria](/wiki/Ranking_criteria) is complicated. It explains every rule and guideline required to create a [beatmap](/wiki/Beatmap) worthy of being [Ranked](/wiki/Beatmap_ranking_procedure#ranked), including *a lot* of niche situations that the majority of mappers never encounter.
+The full list of [ranking criteria](/wiki/Ranking_criteria) is complicated. It explains every rule and guideline required to create a [beatmap](/wiki/Beatmap) worthy of being [ranked](/wiki/Beatmap_ranking_procedure#rank), including *a lot* of niche situations that the majority of mappers never encounter.
 
 The **simplified ranking criteria** aims to give mappers a clearer perspective on what's required to create a rankable map through the following:
 
@@ -21,7 +21,7 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 
 ### Spread
 
-- **Difficulty names must have progression.** 
+- **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
   - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
@@ -29,17 +29,23 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **A [guest mapper](/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](/wiki/Beatmap/Beatmap_host).**
 - **Minimum requirement for lowest difficulty by mode and length:**
 
-| [Drain time](/wiki/Beatmap/Drain_time) | osu! | osu!taiko |
-| :-- | :-: | :-: |
-| **0:30 to 3:30** | Normal | Futsuu |
-| **3:30 to 4:15** | Hard | Muzukashii |
-| **4:15 to 5:00** | Insane | Oni |
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
+| :-- | :-: |
+| **0:30 to 3:30** | Normal |
+| **3:30 to 4:15** | Hard |
+| **4:15 to 5:00** | Insane |
 
-| [Drain time](/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
 | :-- | :-: | :-: |
-| **0:30 to 2:30** | Salad | Normal |
-| **2:30 to 3:15** | Platter | Hard |
-| **3:15 to 4:00** | Rain | Insane |
+| **0:30 to 2:30** | Futsuu | Salad |
+| **2:30 to 3:15** | Muzukashii | Platter |
+| **3:15 to 4:00** | Oni | Rain |
+
+| [Drain time](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
+| :-- | :-: |
+| **0:30 to 2:00** | Normal |
+| **2:00 to 2:45** | Hard |
+| **2:45 to 3:30** | Insane |
 
 ### Hitsounds
 
@@ -147,15 +153,15 @@ The **simplified ranking criteria** aims to give mappers a clearer perspective o
 - **Avoid rapid [kiai](/wiki/Gameplay/Kiai_time) toggles.**
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Avoid slider velocity changes on lower difficulties.**
-- **Each difficulty should follow its respective break length guidelines:**
+- **Each difficulty should follow its respective rest moment guidelines:**
 
-| Difficulty | Break | Chain length |
-| --: | :-: | :-: |
-| **Kantan** | ![3/1](img/taiko/kantan.png "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](img/taiko/futsuu.png "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](img/taiko/muzu1.png "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](img/taiko/muzu2.png?1 "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](img/taiko/oni.png "1/1") | Break needed every 16–20 beats |
+| Difficulty | Rest moment | Example | Chain length |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 or longer | ![3/1](img/taiko/kantan.png "3/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 or longer | ![2/1](img/taiko/futsuu.png "2/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 1) | 3/2 or longer | ![3/2](img/taiko/muzu1.png "3/2") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 2) | 3 consecutive 1/1 or longer | ![3 consecutive 1/1](img/taiko/muzu2.png "3 consecutive 1/1") | Rest moment needed every 32–36 beats |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 or longer | ![1/1](img/taiko/oni.png "1/1") | Rest moment needed every 16–20 beats |
 
 ### osu!catch
 

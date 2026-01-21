@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: KNOWER"
 date: 2019-09-10 10:00:00 +0000
+series: featured_artists
 ---
 
 The government knows you've been craving this. **KNOWER** joins the lineup as our latest Featured Artist!

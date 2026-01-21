@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Task Horizon"
 date: 2020-09-02 08:00:00 +0000
+series: featured_artists
 ---
 
 **Task Horizon** joins the lineup as our latest Featured Artist!

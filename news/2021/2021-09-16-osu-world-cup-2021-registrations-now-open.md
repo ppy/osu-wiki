@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2021: Registrations now open!"
 date: 2021-09-16 09:00:00 +0000
+series: world_cups
 ---
 
 With 2021 coming to an end, it's time to sign off with the final tournament of the year. The osu! World Cup is back and better than ever, with registrations now open!

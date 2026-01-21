@@ -2,6 +2,7 @@
 layout: post
 title: 5 Digit World Cup 2024 Concludes
 date: 2024-05-04 14:00:00 +0000
+series: community_tournaments
 ---
 
 With the Grand Finals 2 weeks behind us, the 5 Digit World Cup 2024 is over. Come with us as we go through the incredible matches between this year's teams and get some insights from a runner-up, a contributing artist, our most active mapper and an admin.

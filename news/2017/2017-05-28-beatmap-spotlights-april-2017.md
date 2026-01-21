@@ -3,6 +3,7 @@ layout: post
 title: "Beatmap Spotlights: April 2017"
 date: 2017-05-28 21:52:45 +0000
 tumblr_url: http://osunews.tumblr.com/post/161158476378/beatmap-spotlights-april-2017
+series: beatmap_spotlights
 ---
 
 The Spotlights for April 2017 have been released and can be found [here](https://osu.ppy.sh/p/chart?ch=MONTH1704)! Their respective packs are available at the [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=r) for easier access.

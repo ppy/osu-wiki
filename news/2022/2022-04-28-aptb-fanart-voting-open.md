@@ -2,6 +2,7 @@
 layout: post
 title: A Place To Belong Fanart Contest Voting Open
 date: 2022-04-28 11:00:00 +0000
+series: fanart_contests
 ---
 
 With a fearsome showing of **134** entries, the artists of the osu! community have been hard at work — so come spend your **14** votes today!

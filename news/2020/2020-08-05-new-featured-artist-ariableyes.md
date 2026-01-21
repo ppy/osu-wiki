@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ariabl'eyeS"
 date: 2020-08-05 08:00:00 +0000
+series: featured_artists
 ---
 
 Spinning stories of tragedy, **Ariabl'eyeS** arrives as our latest Featured Artist!

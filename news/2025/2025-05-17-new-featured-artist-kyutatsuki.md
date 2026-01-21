@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kyutatsuki"
 date: 2025-05-17 23:30:00 +0000
+series: featured_artists
 ---
 
 Sound waves from another dimension have been transported directly to our Featured Artist library!

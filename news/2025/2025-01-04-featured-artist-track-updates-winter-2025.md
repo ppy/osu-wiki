@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Winter 2025"
 date: 2025-01-04 21:00:00 +0000
+series: featured_artists
 ---
 
 If your New Year's resolution is to become a mapper, a solid first step would be experimenting with any of the **40** songs we added to our Featured Artist library today!
@@ -132,7 +133,7 @@ Play through [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/1667473) hos
 
 [![](https://assets.ppy.sh/artists/1/header.jpg)](https://osu.ppy.sh/beatmaps/artists/1)
 
-[**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) composed osu!'s theme song [circles!](). After being duct taped to a chair for a week straight, he remixed his own tune for the holiday season (which you almost definitely heard if you've played osu! in the last few weeks).
+[**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) composed osu!'s theme song [circles!](https://soundcloud.com/nekodex/circles). After being duct taped to a chair for a week straight, he remixed his own tune for the holiday season (which you almost definitely heard if you've played osu! in the last few weeks).
 
 ### nekodex - circle the halls
 

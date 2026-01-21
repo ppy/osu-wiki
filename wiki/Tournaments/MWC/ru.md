@@ -18,6 +18,7 @@
 - [osu!mania 4K World Cup 2022](2022_4K)
 - [osu!mania 4K World Cup 2023](2023_4K)
 - [osu!mania 4K World Cup 2024](2024_4K)
+- [osu!mania 4K World Cup 2025](2025_4K)
 
 ## osu!mania 7K World Cup
 
@@ -29,3 +30,4 @@
 - [osu!mania 7K World Cup 2023](2023_7K)
 - [osu!mania 7K World Cup 2024](2024_7K)
 - [osu!mania 7K World Cup 2025](2025_7K)
+- [osu!mania 7K World Cup 2026](2026_7K)

@@ -14,7 +14,7 @@ tags:
   - сломалось
   - не запускается
 outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Справочный центр
@@ -35,6 +35,7 @@ outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 | [Маппинг](/wiki/Help_centre/Beatmapping) | Публикация карт, связанные проблемы и ограничения |
 | [Обновление до lazer](/wiki/Help_centre/Upgrading_to_lazer) | Всё о переходе на [следующее глобальное обновление](/wiki/Client/Release_stream/Lazer) osu! |
 | [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions) | Ограничение (рестрикт): краткое описание, подача апелляции, наиболее частые причины и длительность |
+| [Сайленсы](/wiki/Help_centre/Silences) | Всё о сайленсах: механизм действия, частые причины, апелляция |
 | [Турнирные баны](/wiki/Help_centre/Tournament_bans) | Всё про турнирные баны: краткое описание, наиболее частые причины и длительность |
 | [Установка и регистрация](/wiki/Help_centre/Installation_and_registration) | Скачивание игры, создание аккаунта |
 

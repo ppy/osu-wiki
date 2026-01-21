@@ -245,11 +245,11 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Excelente contribución al diseño gráfico en innumerables proyectos de la comunidad |
 | ::{ flag=US }:: [vrnl](https://osu.ppy.sh/users/4799788) | Excelente contribución al aseguramiento de la calidad de los beatmaps |
 | ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367) | Excelente contribución a eventos de osu! en la vida real |
-| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
-| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de artistas destacados |
+| ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
+| ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837) | Excelente contribución a los vídeos de presentación del [Mappers' Guild](/wiki/Community/Mappers_Guild) y de Artistas Destacados |
 
 ### 2024
 
@@ -266,7 +266,7 @@ Los contribuidores que registraron sus cuentas durante una era anterior del jueg
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Excelente contribución a la escena de modding y mapping de osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Excelente contribución a la escena de torneos y mapping de osu!mania |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Excelente contribución al desarrollo de los puntos de rendimiento mediante herramientas integrales ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Excelente contribución al desarrollo de los puntos de rendimiento y al mantenimiento de osu!(stable) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Excelente contribución al desarrollo de los puntos de rendimiento y al mantenimiento de osu!(stable) |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Excelente contribución en la unión de la comunidad en los eventos [r/place](https://www.reddit.com/r/place/) de Reddit |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Excelente contribución en la documentación de repeticiones de la comunidad y al desarrollo de herramientas |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Excelente contribución a la comunidad mediante el desarrollo de herramientas ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |

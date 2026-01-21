@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Never Say Die Records"
 date: 2022-03-26 09:00:00 +0000
+series: featured_artists
 ---
 
 **Never Say Die Records** provides a heap of new talents as the latest addition to our Featured Artist catalogue!

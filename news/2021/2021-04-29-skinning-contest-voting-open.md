@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Voting Open"
 date: 2021-04-29 08:00:00 +0000
+series: official_contests
 ---
 
 Skins are aboard! Try them all out and vote for your favourite before the ship sails!

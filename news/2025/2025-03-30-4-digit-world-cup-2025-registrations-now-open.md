@@ -2,6 +2,7 @@
 layout: post
 title: "4 Digit World Cup 2025: Registrations Now Open!"
 date: 2025-03-30 12:00:00 +0000
+series: community_tournaments
 ---
 
 Attention all 4 digit osu! players — the 4 Digit World Cup is back for another round!

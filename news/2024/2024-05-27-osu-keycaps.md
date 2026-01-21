@@ -2,6 +2,7 @@
 layout: post
 title: osu! keycaps
 date: 2024-05-27 15:00:00 +0000
+series: merch_runs
 ---
 
 osu! players have a bit of a reputation for clicking circles with clacky keys. Thanks to our collaboration with [**The KapCo**](https://www.thekapco.com/products/osu-pippi-keycap-set), your keyboard can finally dress the part!

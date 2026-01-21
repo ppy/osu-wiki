@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Wiklund"
 date: 2021-08-21 08:00:00 +0000
+series: featured_artists
 ---
 
 Retro composer **Wiklund** climbs on board as our latest Featured Artist!

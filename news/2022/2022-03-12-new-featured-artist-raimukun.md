@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Raimukun"
 date: 2022-03-12 09:00:00 +0000
+series: featured_artists
 ---
 
 **Raimukun** crashes into our Featured Artist library!

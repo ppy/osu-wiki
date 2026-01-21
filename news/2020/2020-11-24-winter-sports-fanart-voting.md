@@ -2,6 +2,7 @@
 layout: post
 title: Winter Sports 2020 Fanart Contest Voting Open!
 date: 2020-11-24 10:00:00 +0000
+series: fanart_contests
 ---
 
 A flurry of **137** talented entries are front and center in our latest Fan Art contest, and we need your votes to help decide the winners!

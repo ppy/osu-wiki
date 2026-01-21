@@ -2,6 +2,7 @@
 layout: post
 title: Changes to osu! Star Rating & Performance Points
 date: 2022-09-30 5:00:00 +0000
+series: ranking_system_updates
 ---
 
 Exciting times ahead as a new wave of difficulty calculation changes reach the shores of the osu! game mode!

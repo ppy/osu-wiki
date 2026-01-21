@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: May 2021"
 date: 2021-05-14 21:45:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120)'s monthly set of maps that need YOUR help to get a leaderboard is here! Come vote for your favourites... or else!

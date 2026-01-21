@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice: 2018"
 date: 2019-01-17 08:00:00 +0000
+series: official_contests
 ---
 
 It's time to take a look at 2018 in retrospect, and decide which 10 maps from each game mode will become the highly vaunted Community Favourites!

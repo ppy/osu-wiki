@@ -2,6 +2,7 @@
 layout: post
 title: Beatmap Spotlights September 2017
 date: 2017-11-09 11:40:00 +0000
+series: beatmap_spotlights
 ---
 
 Here we are again, introducing a selection of the best maps of September. Come take a look at the Beatmap Spotlights, and snag yourself a shiny new medal in the process!

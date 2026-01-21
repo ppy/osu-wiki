@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: siqlo"
 date: 2020-09-30 09:00:00 +0000
+series: featured_artists
 ---
 
 **siqlo** joins the lineup as our latest addition to the Featured Artist roster!

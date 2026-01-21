@@ -3,6 +3,7 @@ layout: post
 title: "The QAT Gazette #4"
 date: 2016-10-08 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4
+series: qat_gazette
 ---
 
 Hello everyone! After seeing that we were unable to bring up a content-packed report every single week, we decided to rather concentrate our work and bring up a news feed as soon as we have something presentable to anyone of you. Therefore, we are glad to present you **The QAT Gazette**! The idea behind it is quite similar to the Weekly Report, but it will be published in an undefined date as soon as there is enough to talk about.

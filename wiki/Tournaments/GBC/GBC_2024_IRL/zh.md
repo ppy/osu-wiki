@@ -81,7 +81,7 @@ GB杯2024线下赛由 GB 成员和多位社区成员举办。
 
 ## 图池
 
-由于图池数量较多，请于[主表格](https://docs.qq.com/sheet/DTXVYY2RBa1FyTlp2?tab=BB08J2)获取更多信息。
+由于图池数量较多，请于[主表格](https://docs.qq.com/sheet/DTWpxUkN6SGtrS29m?tab=1xlk14)获取更多信息。
 
 ## 赛果
 

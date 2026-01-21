@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Supa7onyz"
 date: 2024-08-25 19:45:00 +0000
+series: featured_artists
 ---
 
 Let your eardrums experience the latest addition to our Featured Artist catalogue!

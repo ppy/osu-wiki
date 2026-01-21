@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Six Years / September 2023"
 date: 2023-09-20 21:00:00 +0000
+series: project_loved
 ---
 
 6 years on, Project Loved is going strong!

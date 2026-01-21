@@ -2,6 +2,7 @@
 layout: post
 title: Spring 2024 Fanart Contest
 date: 2024-03-01 16:00:00 +0000
+series: fanart_contests
 ---
 
 Let your talents bloom in the Spring 2024 Fanart Contest!

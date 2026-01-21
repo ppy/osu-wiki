@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: LilyPichu"
 date: 2022-12-03 11:00:00 +0000
+series: featured_artists
 ---
 
 Settle in for a warm batch of comfy tracks crafted by our latest Featured Artist, **LilyPichu**!

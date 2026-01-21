@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Andromedik"
 date: 2021-06-26 08:00:00 +0000
+series: featured_artists
 ---
 
 Drum and Bass legend **Andromedik** steps on stage as our latest Featured Artist!

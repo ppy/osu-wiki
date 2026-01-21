@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of May 5th"
 date: 2019-05-06 20:20:00 +0000
+series: project_loved
 ---
 
 We're a little late, but fear not, [Project Loved](https://osu.ppy.sh/community/forums/120) is still going strong! Check out the new picks that our captains have chosen, and vote for whether or not you'd like to see these maps enter the Loved category!

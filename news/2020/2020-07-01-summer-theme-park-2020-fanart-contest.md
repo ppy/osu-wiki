@@ -2,6 +2,7 @@
 layout: post
 title: Summer Theme Park 2020 Fanart Contest
 date: 2020-07-01 03:00:00 +0000
+series: fanart_contests
 ---
 
 Summer is finally here, and we're all thoroughly sick of being cooped up inside, so what better way to live vicariously than through our adorable mascots enjoying some time at a summery amusement park?

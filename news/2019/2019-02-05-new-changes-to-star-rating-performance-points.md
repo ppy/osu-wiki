@@ -2,6 +2,7 @@
 layout: post
 title: Changes to osu! Star Rating / Performance Points
 date: 2019-02-07 03:00:00 +0000
+series: ranking_system_updates
 ---
 
 After many years of stagnancy, some changes are finally coming to the way Star Rating and Performance Points are calculated! Read on to find out more.

@@ -4,6 +4,8 @@ tags:
   - key count
   - keycount
   - размер нот
+outdated_translation: true
+outdated_since: 18acafe6b640cd4a481974d04694a92dc01b521c
 ---
 
 # Circle size

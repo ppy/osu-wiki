@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Vektor"
 date: 2021-04-21 09:00:00 +0000
+series: featured_artists
 ---
 
 Thrash legend **Vektor** joins the Featured Artist lineup!

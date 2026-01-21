@@ -5,6 +5,8 @@ tags:
   - produk
   - keycap
   - deskmat
+outdated_translation: true
+outdated_since: 885d4da2a854ef0af5ad0243ba70a76dbdc486e5
 ---
 
 # osu!store dan cendera mata

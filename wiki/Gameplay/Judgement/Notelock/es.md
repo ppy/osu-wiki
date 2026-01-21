@@ -10,26 +10,34 @@ tags:
 
 # Notelock
 
-![](img/notelock.gif "Un ejemplo del notelock: la segunda nota es inaccesible")
+![](img/notelock.gif "Un ejemplo del notelock: la segunda nota es imposible de pulsar")
 
-El **notelock** o **bloqueo de nota**, es un término informal para la mecánica del juego [osu!](/wiki/Game_mode/osu!), el cual puede evitar que un jugador elimine un objeto. Esto pasa si **dos** condiciones se cumplen al mismo tiempo:
+El **notelock**, o **bloqueo de nota**, es un término informal que se usa para referirse a una mecánica de juego de [osu!](/wiki/Game_mode/osu!) que puede impedir que un jugador pulse un objeto. Esto ocurre si se cumplen **dos** condiciones al mismo tiempo:
 
 1. Las [ventanas de tiempo](/wiki/Beatmap/Overall_difficulty#tiempo) de dos objetos se superponen.
-2. El primer objeto de los dos aún no ha sido juzgado (acertado o fallado).
+2. El primer objeto de esos dos aún no ha sido juzgado (acierto o fallo).
 
-En este caso, se dice que el segundo objeto está *bloqueado* ante el primero, lo que hace que osu! ignore los golpes del jugador hasta que haya pasado la ventana de tiempo del primer objeto. El notelock solo es un problema si el jugador no puede volver al objeto anterior e interactuar con él correctamente, así se quita el bloqueo. En ese caso, una nota bloqueada puede causar un fallo en cascada, forzando al jugador a fallar más y más objetos posteriores, hasta quedar sin [salud](/wiki/Gameplay/Health) y fallar el beatmap.
+En este caso, se considera que el segundo objeto está *bloqueado* detrás del primero, lo que hace que osu! ignore las pulsaciones del jugador sobre él hasta que haya pasado la ventana de tiempo del primer objeto. El notelock solo se convierte en un problema si el jugador no puede volver al objeto anterior e interactuar con él correctamente, quitando así el bloqueo. En este caso, una nota bloqueada puede provocar un fallo en cadena, lo que obligará al jugador a fallar cada vez más objetos consecutivos, hasta que se quede sin [salud](/wiki/Gameplay/Health) y falle el beatmap.
 
-Cuando se produce el notelock, el círculo se sacudirá. Esto no sucede con sliders o spinners.
+Cuando se produzca el notelock, el círculo pulsado se sacudirá. Esto no ocurre con los sliders y los spinners.
 
 ## Causa
 
-El notelock es parte del sistema de la ventana de tiempo de osu!, y sucede cuando la ventana de tiempo de dos objetos se superponen. Esto ocurre con mayor frecuencia en beatmaps con valores bajos de [OD](/wiki/Beatmap/Overall_difficulty) o valores altos de [BPM](/wiki/Music_theory/Tempo), ya que en estos casos son más frecuentes la superposición en la ventana de tiempo.
+El notelock es una parte del sistema de temporización de osu! y se produce cuando las ventanas de tiempo de dos objetos se superponen. Ocurre con mayor frecuencia en beatmaps con valores bajos de [OD](/wiki/Beatmap/Overall_difficulty) o altos de [BPM](/wiki/Music_theory/Tempo), ya que las ventanas de tiempo pueden superponerse con mayor frecuencia.
 
-Dado que regularmente los objetos en los beatmaps de osu! están destinados a eliminarse en orden cronológico, el rechazo de golpes causados por el notelock, generalmente juega un papel positivo como:
+Dado que los objetos de los beatmaps normales de osu! deben completarse en orden cronológico, el rechazo de las pulsaciones causado por el notelock suele desempeñar un papel positivo:
 
-- Evitar que los jugadores ignoren partes de un beatmap
-- En las dificultades más altas y rápidas, evita que los jugadores pierdan el ritmo y se desincronicen
+- No le permite a los jugadores saltarse una parte del beatmap
+- En dificultades más difíciles y rápidas, evita que los jugadores pierdan el ritmo y se desincronicen
 
 ## Prevención
 
-Desde la perspectiva de un mapper, el notelock se puede evitar, si se elige cuidadosamente el valor de OD de una [dificultad](/wiki/Beatmap/Difficulty) de acuerdo a su densidad y BPM. En beatmaps con BPM de 200 o más, es recomendable usar una OD de 5 o más. Para un desglose más detallado, consulta la guía «[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)».
+Desde la perspectiva de un mapper, el notelock podría evitarse eligiendo cuidadosamente el valor del OD de una [dificultad](/wiki/Beatmap/Difficulty) según la densidad de objetos y el BPM. En beatmaps con un BPM de 200 o superior, se recomienda usar un OD de 5 o superior. Para obtener información más detallada, consulta la guía «[Avoiding notelock at high BPM](https://osu.ppy.sh/community/forums/topics/334458)».
+
+## Notelock en osu!(lazer)
+
+En comparación con osu!(stable), el notelock se hizo más flexible en osu!(lazer). Esto se mitigó haciendo que la ventana de tiempo fuera mucho más flexible: una vez que el primer objeto alcance un offset de 0 ms, el siguiente objeto ya no estará bloqueado y se podrá pulsar inmediatamente. En resumen, los golpes tardíos de un objeto que se haya fallado anteriormente ya no bloquearán la nota inmediatamente después.
+
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
+
+Gracias a este cambio, los jugadores ahora podrán recuperarse más fácilmente de un fallo en beatmaps con un [OD](/wiki/Beatmap/Overall_difficulty) bajo, [streams](/wiki/Beatmap/Pattern/osu!/Stream) densos o [jumps](/wiki/Beatmap/Pattern/osu!/Jump).

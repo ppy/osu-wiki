@@ -2,6 +2,7 @@
 layout: post
 title: "3 Digit World Cup 2025: Registrations Now Open!"
 date: 2024-12-28 12:00:00 +0000
+series: community_tournaments
 ---
 
 Want to witness what the more underrated players are capable of? Eager to prove your country's worth, but the next osu! World Cup is too far away? If the answer to either of those is yes, then this tournament is for you!

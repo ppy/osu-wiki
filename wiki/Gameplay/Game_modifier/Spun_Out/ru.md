@@ -9,14 +9,13 @@ tags:
   - игровой модификатор
   - мод
   - авто спиннер
-outdated_translation: true
-outdated_since: 379bac8124180854d6216ee745b2c9b542350824
 ---
 
-# Spun Out (мод)
+# Spun Out
 
 ![Значок мода SO](/wiki/shared/mods/SO.png "Значок мода Spun Out (SO)")
 
+*Об аналогичном моде в [lazer](/wiki/Client/Release_stream/Lazer) см. [Spun Out (lazer)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer))*\
 *Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация

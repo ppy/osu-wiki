@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Dimrain47"
 date: 2021-01-27 10:00:00 +0000
+series: featured_artists
 ---
 
 **Dimrain47** joins the lineup as our latest Featured Artist!

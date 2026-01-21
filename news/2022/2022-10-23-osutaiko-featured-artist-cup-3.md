@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko Featured Artist Cup #3"
 date: 2022-10-23 18:00:00 +0000
+series: featured_artists
 ---
 
 Grab a buddy, a Featured Artist song, and prepare for the biggest osu!taiko mapping showdown of the year!

@@ -68,6 +68,7 @@
 - [Galkan](https://osu.ppy.sh/users/169570)をグローバルMODチームに追加 (2012-05-20)
 - [TicClick](https://osu.ppy.sh/users/672931)をグローバルMODチームに追加 (2012-05-20)
 - [Odaril](https://osu.ppy.sh/users/113005)をビートマップアプリーシエイションチームからosu! Alumniへ (2012-05-25) <!-- https://osu.ppy.sh/community/forums/posts/1558121 -->
+- [Andrea](https://osu.ppy.sh/users/33599)をosu! Alumniからビートマップアプリーシエイションチームへ (2012-05-25) <!-- closest source is an ancient screenshot: https://github.com/ppy/osu-wiki/pull/13709 -->
 
 ## 6月
 

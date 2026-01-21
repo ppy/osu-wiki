@@ -16,7 +16,7 @@ tags:
 
 # Tasa inestable
 
-La **tasa inestable** (***UR***) es una medida para la variación de los errores de golpeo a lo largo de una jugada. Se calcula como la [desviación estándar](https://es.wikipedia.org/wiki/Desviación_típica) de los errores de golpeo, que se muestran en décimas de milisegundo. Un UR más bajo indica que los golpes del jugador tienen errores más similares, mientras que un UR más alto indica que están más separados.
+La **tasa inestable** (***UR***) es una medida para la variación de los errores de golpeo a lo largo de una jugada. Se calcula como la [desviación estándar](https://es.wikipedia.org/wiki/Desviación_típica) de los errores de golpeo en milisegundos, multiplicada por 10. Un UR más bajo indica que los golpes del jugador tienen errores más similares, mientras que un UR más alto indica que están más separados.
 
 Los jugadores que se especializan en conseguir una [precisión](/wiki/Gameplay/Accuracy) alta a menudo logran un UR que está significativamente por debajo de lo que se requiere para obtener una [SS](/wiki/Gameplay/Grade). La tasa inestable puede ser una métrica particularmente útil para ayudar a juzgar estas puntuaciones con mayor detalle que los [juicios](/wiki/Gameplay/Judgement) normales.
 

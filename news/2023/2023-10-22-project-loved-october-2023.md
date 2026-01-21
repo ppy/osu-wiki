@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: October 2023"
 date: 2023-10-22 10:00:00 +0000
+series: project_loved
 ---
 
 Surrender to the spirits of Halloween with some spooky Loved picks! 👻🎃

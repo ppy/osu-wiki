@@ -3,6 +3,7 @@ layout: post
 title: Official osu! Fanart Contest 3 Begins!
 date: 2014-08-17 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/93268273058/official-osu-fanart-contest-3-begins
+series: fanart_contests
 ---
 
 Hello again! Welcome to the third Official osu! Fanart Contest! We've moved away from the monthly schedule to allow each contest a bit more room to breathe, but the idea is largely the same. Each contest will have a unique theme to keep things fresh. This one's theme?

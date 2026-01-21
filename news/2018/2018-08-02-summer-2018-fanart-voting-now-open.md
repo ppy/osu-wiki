@@ -2,6 +2,7 @@
 layout: post
 title: Summer 2018 Fanart Voting Now Open
 date: 2018-08-02 02:00:00 +0000
+series: fanart_contests
 ---
 
 Seven days, seventy-two entries, and seven votes! The weather's not going to last for long, so swing by and take your picks before the sun sets on our latest (and perhaps greatest) fanart contest!

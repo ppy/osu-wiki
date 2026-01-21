@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Culprate"
 date: 2018-11-21 10:00:00 +0000
+series: featured_artists
 ---
 
 We proudly welcome an extremely talented producer hailing from the United Kingdom to the osu! Featured Artist lineup — Culprate!

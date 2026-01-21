@@ -3,6 +3,7 @@ layout: post
 title: "Monthly Beatmapping Contest #2 - Results"
 date: 2014-01-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/72422807506/monthly-beatmapping-contest-2-results
+series: monthly_beatmapping_contest
 ---
 
 After a number of delays, we'd like to proudly present the winners of the second Monthly Beatmapping Contest!

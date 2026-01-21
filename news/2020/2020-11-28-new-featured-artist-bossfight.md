@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Bossfight"
 date: 2020-11-28 10:00:00 +0000
+series: featured_artists
 ---
 
 **Bossfight** invades his way to our Featured Artist roster!

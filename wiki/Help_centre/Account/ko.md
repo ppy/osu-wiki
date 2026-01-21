@@ -28,6 +28,8 @@ tags:
   - 삭제
   - 국기 변경
   - 잘못된 국기
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # 계정

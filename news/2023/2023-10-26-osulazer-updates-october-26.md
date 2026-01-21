@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: October 26, 2023"
 date: 2023-10-26 11:00:00 +0000
+series: game_updates
 ---
 
 Another day, another batch of updates sent your way.

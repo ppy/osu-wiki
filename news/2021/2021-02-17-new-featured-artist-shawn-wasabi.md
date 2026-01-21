@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Shawn Wasabi"
 date: 2021-02-17 19:00:00 +0000
+series: featured_artists
 ---
 
 Savor the spice of our latest addition to the Featured Artist lineup, **Shawn Wasabi**!

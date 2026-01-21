@@ -266,7 +266,7 @@ Mitwirkende, die ihre Accounts während einer früheren Ära des Spiels registri
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Herausragende Beiträge zur Modding- und Mappingszene von osu!mania |
 | ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) | Herausragende Beiträge zur Turnier- und Mappingszene von osu!mania |
 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) | Herausragende Beiträge zur Entwicklung der Performance-Punkte durch zentrale Tools ([huismetbenen](https://pp.huismetbenen.nl/)) |
-| ::{ flag=US }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Herausragende Beiträge zur Entwicklung der Performance-Punkte und zur Wartung von osu!(stable) |
+| ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) | Herausragende Beiträge zur Entwicklung der Performance-Punkte und zur Wartung von osu!(stable) |
 | ::{ flag=CA }:: [emanfman](https://osu.ppy.sh/users/4136150) | Herausragende Beiträge durch das Vereinen der Community auf Reddit während den [r/place](https://www.reddit.com/r/place/)-Events |
 | ::{ flag=RU }:: [cyperdark](https://osu.ppy.sh/users/9893708) | Herausragende Beiträge zur Community durch die Entwicklung und Dokumentation von Replay-Tools |
 | ::{ flag=CA }:: [FunOrange](https://osu.ppy.sh/users/2051389) | Herausragende Beiträge zur Community durch die Entwicklung von Tools ([osu-trainer](https://github.com/FunOrange/osu-trainer)) |

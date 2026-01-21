@@ -31,7 +31,19 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Accuracy Challenge** mod allows the player to set a minimum accuracy that they must maintain to avoid a failure.
+
+## Customisation
+
+![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
+
+- **Minimum accuracy** (60%-99%, default: 90%): Trigger a failure if accuracy goes below this value.
+- **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
+  - **Maximum achievable**: Fail if accuracy doesn't exceed this value when the map ends.
+  - **Standard**: Fail if the accuracy goes strictly below the value.
+- Restart on fail (default: disabled): Restart the map when the accuracy goes below the minimum value specified.
+
+*Changing any of the options here doesn't make the mod unrankable.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

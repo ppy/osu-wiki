@@ -2,6 +2,7 @@
 layout: post
 title: "Seasonal Spotlights: Autumn 2018"
 date: 2019-01-16 22:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Although 2018 ended, we still have some unopened presents left from the previous year. Come and take a look at the best maps of the Autumn Season and earn a fancy new medal for yourself!

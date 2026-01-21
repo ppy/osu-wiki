@@ -1466,6 +1466,21 @@ Notes:
   - If used for combo counter:
     - Additive for the expanding after images.
 
+---
+
+`score-pp.png`
+
+![](img/score-pp.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | - |
+
+Notes:
+
+- [Lazer](/wiki/Client/Release_stream/Lazer) only.
+- This element is for the [performance points](/wiki/Performance_points).
+
 ## Ranking grades
 
 `ranking-XH.png`

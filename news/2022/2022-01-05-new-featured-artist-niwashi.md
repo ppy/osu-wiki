@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: NIWASHI"
 date: 2022-01-05 07:00:00 +0000
+series: featured_artists
 ---
 
 **NIWASHI** swings into the Featured Artist lineup as our first artist of the year!

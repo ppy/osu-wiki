@@ -129,7 +129,7 @@ Le **Mapping With Rewards** est un concours de mapping où les mappeurs particip
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=MY }:: [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### [A Labour of Love](A_Labour_of_Love_Contest)
+### [A Labour of Love](Mapping_Olympiad)
 
 **A Labour of Love** est un concours en équipe couvrant de multiples disciplines artistiques où les équipes participantes sont chargées de remixer/réarranger une musique qui a été largement connue à travers la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard original/une vidéo d'arrière plan comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire des [événements THE BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 

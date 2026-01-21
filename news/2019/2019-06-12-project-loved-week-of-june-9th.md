@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of June 9th"
 date: 2019-06-12 20:10:00 +0000
+series: project_loved
 ---
 
 Come check out the new maps in [Project Loved](https://osu.ppy.sh/community/forums/120)! Your vote will decide which of these maps will make it to the Loved category!

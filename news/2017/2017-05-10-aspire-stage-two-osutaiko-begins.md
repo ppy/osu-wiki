@@ -3,6 +3,7 @@ layout: post
 title: "Aspire Stage Two: osu!taiko Begins"
 date: 2017-05-10 06:10:25 +0000
 tumblr_url: http://osunews.tumblr.com/post/160506427903/aspire-stage-two-osutaiko-begins
+series: official_contests
 ---
 
 As the osu! beatmapping world still reels from the thunderous conclusion to the last Aspire contest, it is time for the osu!taiko community to take their very first steps into the unknown, featuring the sound of **Function Phantom**!
