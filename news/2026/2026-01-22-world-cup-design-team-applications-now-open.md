@@ -70,7 +70,7 @@ Due to the sensitive nature of unreleased content, designers are expected to rem
 
 ### Applications
 
-[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSewaLQBWHzyO7h4cyQaZwIcrHVNYv6bcD_fYIe5156TEKtDGg/viewform)
+[![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/wcdt-recruitment-application-link.png)](https://docs.google.com/forms/d/e/1FAIpQLSewaLQBWHzyO7h4cyQaZwIcrHVNYv6bcD_fYIe5156TEKtDGg/viewform)
 
 Applicants will be asked to provide basic information, select the role(s) they are applying for, and submit a selection of their past designs or a design portfolio relevant to those roles.
 
