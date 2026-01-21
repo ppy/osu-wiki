@@ -25,18 +25,18 @@ Designers who join the team may participate in projects across all five World Cu
 
 Applications are now open for the following roles. Each designer role focuses on a different part of the visual production process. Applicants may apply for one or more roles depending on their skill sets.
 
-#### Illustrator
-
+**Illustrator**
 Creates digital illustrations, including characters, environments, and other visual assets.
 
 ![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-illustrator.png)
 
 #### Graphic Designer (GFX)
+
 Specializes in layout design, compositing, and typography to create and combine images and text.
 
 ![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-gfx.png)
 
-#### Visual Effects Designer (VFX)
+**Visual Effects Designer (VFX)**
 
 Creates visual effects, 2D/3D animations, and motion graphics to enhance the visual quality of videos.
 
@@ -62,7 +62,7 @@ Across all roles, the team is looking for designers who are good communicators a
 
 Prior experience working on community tournaments is a bonus, but not required. New members will be introduced to the team's workflow, and early projects may involve working alongside more experienced designers to become familiar with the design production process.
 
-It is important to keep in mind, all designs produced must be original work. The use of AI-generated or otherwise plagiarised content is strictly prohibited. Every designer is responsible for ensuring all designs produced must be properly credited, any copyrighted material is used only with permission or license to do so.
+It is important to keep in mind, all designs produced must be original work. The use of AI-generated or otherwise plagiarised content is strictly prohibited. Every designer is responsible for ensuring all designs produced are properly credited, any copyrighted material is used only with permission or license.
 
 For content standards, visuals must not include elements featuring sexual content, excessive violence, drug use, inflammatory political or cultural themes, or depictions of self-harm. For in-depth information, applicants are encouraged to review [Visual Content Considerations](/wiki/Rules/Visual_content_considerations).
 
@@ -87,10 +87,10 @@ Applications are reviewed through a team-wide voting process with all designers 
 
 To proceed with an acceptance or rejection decision, an application must receive a minimum of 10 votes. Applicants will be accepted only if more than 80% of the votes are in favor.
 
-| Recruiter | Members |
+| Role | Recruiters |
 | :-- | :-- |
 | Illustrator | ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=US }:: [\[celes\]](https://osu.ppy.sh/users/9108428), ::{ flag=US }:: [CMDR Saturn](https://osu.ppy.sh/users/22001295), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=CA }:: [RedcXca](https://osu.ppy.sh/users/14056601) |
-| Graphic Designer (GFX) | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+| Graphic Designer (GFX) | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=MY }:: [Zeth](https://osu.ppy.sh/users/9912966) |
 | Visual Effects Designer (VFX) | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=MY }:: [Zeth](https://osu.ppy.sh/users/9912966) |
 | Storyboarder | ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=AU }:: [LowGraphics](https://osu.ppy.sh/users/5383942), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |
 
@@ -101,7 +101,7 @@ The following criteria are used to evaluate applications for each role:
 - Character and scene structure
 - Concept realization
 - Lighting
-- Color balance
+- Colour balance
 - Originality
 
 ### Graphic Designer (GFX)
