@@ -4,8 +4,6 @@ tags:
   - badges
   - badged
   - Abzeichen
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Offizielle Turnierunterstützung
@@ -40,7 +38,7 @@ Gefördert werden von der Community betriebene Turniere, die sich an die folgend
   - Alternative Maßstäbe und Formate können nach alleinigem Ermessen des Turnierkomitees zugelassen werden. Die Turnierveranstalter sollten im Voraus [ein Ticket erstellen](https://tcomm.hivie.tn/tickets/create) oder [tournaments@ppy.sh](mailto:tournaments@ppy.sh) kontaktieren, wenn sie eine Turnierunterstützung für ein nicht traditionelles Turnierformat oder eine nicht traditionelle Turniergröße beantragen möchten.
 - Die Forenbeiträge für das Turnier — damit sind auch Forenbeiträge für Vorveranstaltungen gemeint — **MÜSSEN** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://tcomm.hivie.tn/reports/create) als letzten Inhalt des originalen Beitrags haben.
   - `https://tcomm.hivie.tn/reports/create`
-  - Über das Meldeformular eingegangene Meldungen werden vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir empfehlen allen Nutzern, Spieler wie Mitarbeiter gleichermaßen, das Formular bei Bedarf zu verwenden. Jegliche Verstöße gegen die [Erwartungen](#erwartungen), die [weiteren Prozesse](#weitere-prozesse) oder die [Zulassungsvoraussetzungen](#anspruch-auf-unterstützung) sollten gemeldet werden.
+  - Über das Meldeformular eingegangene Meldungen werden vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir empfehlen allen Nutzern, Spieler wie Aushelfer gleichermaßen, das Formular bei Bedarf zu verwenden. Jegliche Verstöße gegen die [Erwartungen](#erwartungen), die [weiteren Prozesse](#weitere-prozesse) oder die [Zulassungsvoraussetzungen](#anspruch-auf-unterstützung) sollten gemeldet werden.
 - Das Turnier muss die folgenden Regeln zur Nutzung von Inhalten einhalten:
   - Die Verwendung von Beatmaps, für die der jeweilige Urheberrechtseigentümer gemäß dem [DMCA](https://de.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) eine Entfernung beantragt hat, ist strengstens verboten.
   - Die Erstellung oder Wiederverwendung von Beatmaps, die gegen die [Richtlinien für die Inhaltsnutzung](/wiki/Rules/Content_usage_permissions#genehmigungen-von-künstlern) verstoßen, ist strengstens verboten, außer sie sind in den Kategorien **Ranked, Approved oder Loved**.
@@ -145,24 +143,22 @@ Zusätzlich zu den oben zu Programmen aufgeführten Punkten müssen automatisier
 - Ein menschlicher Schiedsrichter muss immer für Anfragen von Teilnehmern innerhalb eines bestimmten Zeitrahmens zur Verfügung stehen (2 bis 5 Minuten) und über den Befehl `!panic` in der jeweiligen Lobby erreichbar sein. Jegliche Automatisierung sollte bei der Verwendung des Befehls gestoppt werden, bis sie von einem menschlichen Schiedsrichter manuell wieder aktiviert wird.
 - Schiedsrichter sollten Räume, in denen Spiele stattfinden, mit möglichst wenig Beeinträchtigungen verwalten können. Des Weiteren sollten bisherige Logs der Spiele und des Chats aufbewahrt werden.
 
-### Personal
+### Aushelfer
 
 Von Turnierveranstaltern wird erwartet, dass das Turnier reibungslos abläuft und so wenige Störungen wie möglich hat.
 
-In Bezug auf die Rolle des Personals gelten folgende Regeln:
+In Bezug auf die Rolle der Aushelfer gelten folgende Regeln:
 
 - Streamer, Kommentatoren und Grafikdesigner dürfen im Turnier mitspielen.
 - Ausgeschiedene Spieler dürfen sich als Schiedsrichter, Mappool-Spieltester und/oder Replay-Ersteller beteiligen.
-- Mitarbeiter mit hier nicht aufgeführten Rollen dürfen nicht an einem Turnier mit Abzeichen teilnehmen — wenn du irgendwelche Fragen hast, dann kontaktiere bitte das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-- Alle Mitarbeiter, die in irgendeiner Weise an der Durchführung eines Turniers beteiligt sind, dürfen zum jeweiligen Zeitpunkt nicht gesperrt sein.
+- Aushelfer mit hier nicht aufgeführten Rollen dürfen nicht an einem Turnier mit Abzeichen teilnehmen — wenn du irgendwelche Fragen hast, dann kontaktiere bitte das Account-Support-Team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Alle Aushelfer, die in irgendeiner Weise an der Durchführung eines Turniers beteiligt sind, dürfen zum jeweiligen Zeitpunkt nicht eingeschränkt sein.
 
-Von Benutzern mit einer aktiven Turniersperre wird erwartet, dass sie den Status ihrer Turniersperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie dürfen sich nach dem Ermessen des Veranstalters als Streamer, Kommentatoren oder Grafikdesigner beteiligen, aber wir empfehlen eine sorgfältige Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal (oder mehrmals) gegen die Regeln verstoßen haben. Sie dürfen keine andere Mitarbeiterrolle ausüben, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren früheres Verhalten im Einzelfall prüfen.
+Von Benutzern mit einer aktiven [Turniersperre](/wiki/Help_centre/Tournament_sanctions#turniersperren) oder [Aushilfssperre](/wiki/Help_centre/Tournament_sanctions#aushilfssperren) wird erwartet, dass sie den Status ihrer Sperre bei allen offiziell unterstützten Turnieren offenlegen, bei denen sie helfen wollen. Sie dürfen sich nach dem Ermessen des Veranstalters als Streamer, Kommentatoren oder Grafikdesigner beteiligen, aber wir empfehlen eine sorgfältige Abwägung von solchen Entscheidungen, da die genannten Personen bereits einmal (oder mehrmals) gegen die Regeln verstoßen haben. Sie dürfen keine andere Aushilfsrolle ausüben, ES SEI DENN, der Veranstalter bittet beim Erstantrag auf Unterstützung um eine Ausnahme für sie. Das Account-Support-Team wird daraufhin die Spieler mit Blick auf deren früheres Verhalten im Einzelfall prüfen.
 
-Mitarbeiter, deren Verhalten direkt dazu führt, dass das Turnier seine offizielle Unterstützung verliert, dürfen im Ermessen des Support-Teams mindestens 4 Monate lang nicht dieselbe Rolle in einem anderen offiziell unterstützten Turnier übernehmen oder deren Veranstalter sein. Falls diese Personalsperre für einen Nutzer gilt, wird dieser direkt vom [Turnier-Team](mailto:tournaments@ppy.sh) informiert.
+Veranstalter, die grobe Fehler begehen, die gegen die Zulassungsanforderungen verstoßen oder nicht den Erwartungen für eine offizielle Unterstützung entsprechen, bekommen im Ermessen des Support-Teams möglicherweise ein [Veranstaltungsverbot](/wiki/Help_centre/Tournament_sanctions#veranstaltungsverbote). Wenn ein Turnier seinen Anspruch auf Unterstützung verliert, ohne Probleme mit der kompetitiven Integrität zu haben, können Veranstaltungsverbote anstelle des Entzugs der offiziellen Unterstützung eingesetzt werden. Nutzer mit einem aktiven Veranstaltungsverbot dürfen nicht der Hauptorganisator oder Administrator eines offiziell unterstützen Turniers sein. Sie dürfen jedoch möglicherweise andere Rollen übernehmen, die nichts mit der Organisation zu tun haben. Minder schwere Fehler können dazu führen, dass die verantwortlichen [Veranstalter auf Probe gesetzt werden](/wiki/Help_centre/Tournament_sanctions#aufprobesetzung-von-veranstaltern).
 
-Veranstalter, die grobe Fehler begehen, die gegen die Zulassungsanforderungen verstoßen oder nicht den Erwartungen für eine offizielle Unterstützung entsprechen, bekommen im Ermessen des Support-Teams möglicherweise ein Veranstaltungsverbot. Wenn ein Turnier seinen Anspruch auf Unterstützung verliert, können Veranstaltungsverbote anstelle des Entzugs der offiziellen Unterstützung eingesetzt werden, um nicht die Integrität des Turniers zu beeinträchtigen. Nutzer mit einem aktiven Veranstaltungsverbot dürfen nicht der Hauptorganisator oder Administrator eines offiziell unterstützen Turniers sein. Sie dürfen jedoch möglicherweise andere Rollen übernehmen, die nichts mit der Organisation zu tun haben.
-
-Eine vollständige Liste des Turnierpersonals muss öffentlich einsehbar und leicht zugänglich sein. Diese Liste darf im Forenbeitrag, der Wikiseite, der Webseite oder des Datenblatts des Turniers enthalten sein. Falls es mehrere Mitarbeiterlisten gibt, muss sichergestellt sein, dass diese aktuell sind und es keine Diskrepanzen zwischen den Listen gibt.
+Eine vollständige Liste aller Turnieraushelfer muss öffentlich einsehbar und leicht zugänglich sein. Diese Liste darf im Forenbeitrag, der Wikiseite, der Webseite oder des Datenblatts des Turniers enthalten sein. Falls es mehrere Aushelferlisten gibt, muss sichergestellt sein, dass diese aktuell sind und es keine Diskrepanzen zwischen den Listen gibt.
 
 ### Spieler
 
@@ -170,7 +166,7 @@ Von Teilnehmern in offiziell unterstützten Turnieren wird erwartet, dass sie si
 
 Des Weiteren wird von den Spielern erwartet, dass sie an einem bestimmten Turnier teilgenommen haben, um sich für etwaige Preise zu qualifizieren — sich einfach als Mitglied eines Siegerteams zu qualifizieren ist nicht ausreichend. Aufgrund von nicht erfassbaren Beiträgen für die Teams, die die Spieler oft machen ohne selbst Beatmaps zu spielen, wird möglicherweise nur Spielern ein Abzeichenpreis verwehrt, die *im gesamten Turnier überhaupt keine Beatmap gespielt haben*.
 
-Nach dem Ermessen des Account-Support-Teams können beleidigenden Spielern abhängig von der Schwere ihres Verhaltens zeitlich befristete oder unbegrenzte [Turniersperren](/wiki/Help_centre/Tournament_sanctions#turniersperren) erteilt werden. Wiederholungstäter riskieren, eine permanente Turniersperre oder eine [Einschränkung](/wiki/Help_centre/Account_restrictions) zu bekommen.
+Nach dem Ermessen des Account-Support-Teams können beleidigenden Spielern abhängig von der Schwere ihres Verhaltens zeitlich befristete oder unbegrenzte [Turniersperren](/wiki/Help_centre/Tournament_sanctions#turniersperren) erteilt werden. Wiederholungstäter riskieren, eine unbefristete Turniersperre oder eine [Einschränkung](/wiki/Help_centre/Account_restrictions) zu bekommen.
 
 ## Weitere Prozesse
 
@@ -294,9 +290,9 @@ Anfragen für die Veröffentlichung von Neuigkeiten werden sowohl vom Turnierkom
 
 ## Häufig gestellte Fragen
 
-### Kann ein Nutzer dem Personal beitreten, wenn er noch keine Matches gespielt hat? {id=no-play-join-staff}
+### Kann ein Nutzer den Aushelfern beitreten, wenn er noch keine Matches gespielt hat? {id=no-play-join-staff}
 
-Ein Teilnehmer, der das Screening-Verfahren bestanden hat, aber noch nicht für irgendwelche Matches eingeteilt ist **UND** noch an keinem Spiel teilgenommen hat (einschließlich Qualifikationsrunden), wird noch nicht als Spieler/Teilnehmer des Turniers betrachtet und kann daher noch dem Personal beitreten.
+Ein Teilnehmer, der das Screening-Verfahren bestanden hat, aber noch nicht für irgendwelche Matches eingeteilt ist **UND** noch an keinem Spiel teilgenommen hat (einschließlich Qualifikationsrunden), wird noch nicht als Spieler/Teilnehmer des Turniers betrachtet und kann daher noch den Aushelfern beitreten.
 
 ### Was sollte ich tun, wenn ein Spieler in meinem Turnier eingeschränkt wird? {id=player-restriction}
 
