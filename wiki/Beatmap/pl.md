@@ -12,7 +12,7 @@ tags:
 - [obrazy tła](/wiki/Beatmap/Background) lub wideo, pełniące rolę planszy gry,
 - [niestandardowe hitsounds](/wiki/Beatmapping/Hitsound) dla aranżacji i lepszego odbioru dźwiękowego (opcjonalne),
 - [storyboard](/wiki/Storyboard) z animacjami i efektami specjalnymi, stanowiący tło fabularne lub temat piosenki (opcjonalne),
-- [niestandardowa skórka](/wiki/Skinning), zmieniająca wygląd interfejsu i elementów rozgrywki (opcjonale).
+- [niestandardowa skórka](/wiki/Skinning), zmieniająca wygląd interfejsu i elementów rozgrywki (opcjonalne).
 
 *Uwaga: niektóre wizualne i dźwiękowe funkcje beatmapy można wyłączyć w nakładce [ustawień wizualnych](/wiki/Client/Interface/Visual_settings).*
 
