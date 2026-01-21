@@ -110,7 +110,7 @@ The following criteria are used to evaluate applications for each role:
 - Cohesion of elements
 - Composition cleanliness
 - Layout design
-- Color balance
+- Colour balance
 - Typography
 
 ### Visual Effects Designer (VFX)
@@ -119,7 +119,7 @@ The following criteria are used to evaluate applications for each role:
 - Concept realization
 - Composition cleanliness
 - Visual effects creativity
-- Color balance
+- Colour balance
 
 ### Storyboarder
 
