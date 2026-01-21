@@ -210,7 +210,6 @@ The tables below list all user tags grouped by category as well as the game mode
 | [meta/time signatures](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Ftime%20signatures%22%22) | A song featuring many changes in time signature or uses an uncommon time signature. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [meta/multi-song](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Fmulti-song%22%22) | A map containing multiple songs. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 
-
 #### Context
 
 | Tag name | Description | Game mode |
