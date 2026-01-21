@@ -5,6 +5,7 @@ tags:
   - account
   - profile
   - register
+no_native_review: true
 ---
 
 # Cài đặt và đăng ký
