@@ -38,4 +38,4 @@ Da upppy in seinem Formular zum Hochladen von Dateien [Adobe Flash Player](https
 ## Referenzen
 
 [^upppy-launch-date-ref]: [Blogbeitrag von peppy (13.01.2007)](https://pe.ppy.sh/2007/01/193/): "*upppy公開*"
-[^upppy-image-hosting-ref]: [Forenbeitrag von Sinistro (30.04.2008)](https://osu.ppy.sh/community/forums/topics/2974): "*If you want to share a file with the osu! community, forget about depositing it on Rapidshare, Megaupload, ImageShack and the like — put it on upppy and everyone's happy!*"
+[^upppy-image-hosting-ref]: [Forenbeitrag von Sinistro (30.04.2008)](https://osu.ppy.sh/community/forums/topics/2974): "*Wenn du eine Datei mit der osu!-Community teilen möchtest, vergiss Plattformen wie Rapidshare, Megaupload, ImageShack und dergleichen — lade sie auf upppy hoch und alle sind glücklich!*" (aus dem Englischen übersetzt)
