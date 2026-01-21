@@ -22,7 +22,7 @@ tags:
 
 ## 资格
 
-通过网站发送和回复公告消息需要成为[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)、[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 或公告[用户组](/wiki/People/User_group)的成员。但是，只有公告用户组的成员才能通过[osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel)发送聊天公告。
+通过网站发送和回复公告消息需要成为[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)、[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 或公告[用户组](/wiki/People/User_group)的成员。但是，只有公告用户组的成员才能通过 [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) 发送聊天公告。
 
 ### 提交请求
 
