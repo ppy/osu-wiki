@@ -36,7 +36,7 @@ Specializes in layout design, compositing, and typography to create and combine 
 
 ![](/wiki/shared/news/2026-01-22-world-cup-design-team-applications-now-open/role-gfx.jpg)
 
-**Visual Effects Designer (VFX)**
+#### Visual Effects Designer (VFX)
 
 Creates visual effects, 2D/3D animations, and motion graphics to enhance the visual quality of videos.
 
