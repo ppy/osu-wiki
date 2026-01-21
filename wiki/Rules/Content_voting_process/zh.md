@@ -9,7 +9,7 @@ tags:
 
 # 内容投票流程
 
-提交给[谱面审核员](/wiki/People/Beatmap_Nominators) (BN)、[全局管理团队](/wiki/People/Global_Moderation_Team) (GMT) 和[审核评估团队](/wiki/People/Nomination_Assessment_Team) (NAT) 进行审核的内容将经过如下的特殊投票流程。
+提交给[谱面审核员 (BN)](/wiki/People/Beatmap_Nominators)、[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 进行审核的内容将经过如下的特殊投票流程。
 
 ## 流程
 
