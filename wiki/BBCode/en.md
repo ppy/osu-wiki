@@ -267,7 +267,7 @@ or
 
 The `[list]` tag automatically formats two different types of lists on the osu! forums. Each list item is marked with `[*]`. By default, this will create a plain, bulleted list.
 
-To create a numbered list, include the TYPE argument (any value will work, e.g., `[list=1]`).
+To create a numbered list, include the `TYPE` argument (any value will work, e.g., `[list=1]`).
 
 The optional `LIST_NAME` argument adds an indented heading above the list. If omitted, no heading is displayed.
 
