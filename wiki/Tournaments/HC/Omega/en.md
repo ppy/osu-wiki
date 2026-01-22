@@ -202,13 +202,13 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 2 | ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) | [#1](https://osu.ppy.sh/community/matches/102346589) |
-| **::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186)** | 4 | 0 | ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539) | [#2](https://osu.ppy.sh/community/matches/102293991) |
-| **::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590)** | 4 | 0 | ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910) | [#3](https://osu.ppy.sh/community/matches/102350725) |
-| ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392) | 1 | 4 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#4](https://osu.ppy.sh/community/matches/102320253) |
-| ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126) | 2 | 4 | **::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788)** | [#5](https://osu.ppy.sh/community/matches/102346515) |
-| **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 4 | 2 | ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151) | [#6](https://osu.ppy.sh/community/matches/102319022) |
-| **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | 4 | 1 | ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626) | [#7](https://osu.ppy.sh/community/matches/102316496) |
-| **::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471)** | 4 | 1 | ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092) | [#8](https://osu.ppy.sh/community/matches/102347860) |
+| **::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186)** | 4 | 0 | ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539) | [#1](https://osu.ppy.sh/community/matches/102293991) |
+| **::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590)** | 4 | 0 | ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910) | [#1](https://osu.ppy.sh/community/matches/102350725) |
+| ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392) | 1 | 4 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#1](https://osu.ppy.sh/community/matches/102320253) |
+| ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126) | 2 | 4 | **::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788)** | [#1](https://osu.ppy.sh/community/matches/102346515) |
+| **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 4 | 2 | ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151) | [#1](https://osu.ppy.sh/community/matches/102319022) |
+| **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | 4 | 1 | ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626) | [#1](https://osu.ppy.sh/community/matches/102316496) |
+| **::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471)** | 4 | 1 | ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092) | [#1](https://osu.ppy.sh/community/matches/102347860) |
 
 ### Quarterfinals
 
@@ -216,22 +216,22 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 0 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/102476742) |
 | ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186) | -1 | 0 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | *win by default** |
-| ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590) | 2 | 4 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#3](https://osu.ppy.sh/community/matches/102527058) |
-| **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | 4 | 3 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) | [#4](https://osu.ppy.sh/community/matches/102689183) |
+| ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590) | 2 | 4 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102527058) |
+| **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | 4 | 3 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) | [#1](https://osu.ppy.sh/community/matches/102689183) |
 
 ### Semifinals
 
 | Player 1 | Score | Score | Player 2 | Match Link |
 | :-- | :-: | :-: | --: | :-: |
 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | 4 | 5 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102714522) |
-| ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) | 3 | 5 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#2](https://osu.ppy.sh/community/matches/102690311) |
+| ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) | 3 | 5 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#1](https://osu.ppy.sh/community/matches/102690311) |
 
 ### Grand Finals
 
 | Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 6 | 1 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | [#1](https://osu.ppy.sh/community/matches/102717581) |
-| ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702) | 4 | 6 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#2](https://osu.ppy.sh/community/matches/102716217) |
+| ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702) | 4 | 6 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102716217) |
 
 ## Ruleset
 
