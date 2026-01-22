@@ -4,7 +4,7 @@ legal: true
 
 # osu! privacy policy
 
-Last updated 21 December 2025. [View history here.](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
+Last updated 22 January 2026. [View history here.](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
 In addition to this policy, please also make sure to visit and understand our [Terms of Service](/wiki/Legal/Terms).
 
@@ -12,9 +12,9 @@ In addition to this policy, please also make sure to visit and understand our [T
 
 osu! is run by an Australian entity (ppy Pty Ltd), with the majority of servers operating from the United States.
 
-osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, and replay comments.
+osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat and replay comments.
 
-In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possible in every aspect of running osu!, and this privacy policy should bring us even closer to that goal.
+In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possible in every aspect of running osu!. This privacy policy is created with the intent of keeping us in line with that goal.
 
 This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
 
