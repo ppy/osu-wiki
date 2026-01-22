@@ -12,7 +12,7 @@ In addition to this policy, please also make sure to visit and understand our [T
 
 osu! is run by an Australian entity (ppy Pty Ltd), with the majority of servers operating from the United States.
 
-osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat and replay comments.
+osu! offers a wide variety of services to users from almost every country around the world, with a vibrant community and many opportunities for users to share their creativity with others by means of user profiles, beatmaps (game levels), forums, private messages, in-game chat, and replay comments.
 
 In order to offer these services to you, we must often collect, store and transmit personal information. We strive to be as transparent as possible in every aspect of running osu!. This privacy policy is created with the intent of keeping us in line with that goal.
 
@@ -90,7 +90,7 @@ Please note there are some third parties you may encounter when you perform cert
 
 - Submitting a support ticket via email is managed via Enchant.
 - Ordering physical merchandise is handled via Shopify or other merchandise partners.
-- Supporter tag or other non-physical purchases are handled by Xsolla or PayPal. We do not store any fulfilment or payment information.
+- Supporter tags and other non-physical purchases are handled by Xsolla or PayPal. We do not store any fulfilment or payment information.
 
 ## Your rights and control
 
