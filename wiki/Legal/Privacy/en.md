@@ -84,7 +84,7 @@ This collected data is aggregated and only retained as it is useful. Generally t
 
 We do not perform any marketing, advertising nor send any unsolicited emails. The only emails you will receive from us are the result of an action on our service (such as requesting two-factor authentication, purchasing a product or enabling notifications for a discussion).
 
-We do not share your personal data with any third parties. All analysics are hosted in-house. Limited diagnostic information may be made available to trusted developers on the team to analyse and fix issues with the game or website.
+We do not share your personal data with any third parties. All analytics are hosted in-house. Limited diagnostic information may be made available to trusted developers on the team to analyse and fix issues with the game or website.
 
 Please note there are some third parties you may encounter when you perform certain actions:
 
