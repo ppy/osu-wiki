@@ -504,25 +504,31 @@ However, only the following mods will award performance points for now:
   - Hard Rock (not for osu!mania)
   - Sudden Death (Configuring `Restart on fail` is allowed)
   - Perfect (Configuring `Restart on fail` is allowed)
-  - Hidden
-  - Nightcore (only 1.5x)
   - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
+  - Nightcore (only 1.5x)
+  - Fade In (osu!mania)
+  - Hidden
+  - Cover (osu!mania)
   - Flashlight
-  - Blinds
+  - Blinds (osu!)
   - Accuracy Challenge
-- Conversion (osu!mania only)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+- Automation
+  - Spun Out (osu!)
+- Conversion
+  - Alternate (osu!)
+  - Single Tap (osu!/osu!taiko)
+  - Swap (osu!taiko)
+  - Mirror (osu!mania)
+  - Four Keys (osu!mania)
+  - Five Keys (osu!mania)
+  - Six Keys (osu!mania)
+  - Seven Keys (osu!mania)
+  - Eight Keys (osu!mania)
+  - Nine Keys (osu!mania)
 - Fun
+  - Traceable (osu!)
   - Muted
-  - No Scope
-- Automation (osu! only)
-  - Spun out
+  - No Scope (osu!/osu!catch)
 - System
   - Touch Device
 
@@ -596,7 +602,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+If you need to make changes to a beatmap, please use the editor. You can click "Edit externally" under the "File" tab in the editor to open a folder for external editing.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 
