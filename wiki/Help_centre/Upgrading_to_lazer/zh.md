@@ -140,7 +140,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 | 评价 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | 所有判定均为GREAT或PERFECT |
+| SS | 100% | 100% | 所有[判定](/wiki/Gameplay/Judgement/osu!mania)均为GREAT或PERFECT |
 | S | ≥95% (无失误) | ≥98% | ≥95% |
 | A | ≥90% | ≥94% | ≥90% |
 | B | ≥80% | ≥90% | ≥80% |
