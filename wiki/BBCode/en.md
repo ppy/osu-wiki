@@ -91,9 +91,9 @@ The `[size]` tag adjusts text appearance by modifying font size.
 
 The `NUMBER` argument specifies a percentage relative to the default font size (100%). For example, `50` reduces text to half the default size, while `150` increases it to one and a half times the default size. The argument does not require quotation marks and accepts two value types:
 
-Whole numbers (decimals are not permitted) ranging from 30 to 200
+- Whole numbers (decimals are not permitted) ranging from 30 to 200
 
-Predefined size keywords: "tiny", "small", "normal", and "large", corresponding to 50, 85, 100, and 150 respectively
+- Predefined size keywords: "tiny", "small", "normal", and "large", corresponding to 50, 85, 100, and 150 respectively
 
 If an invalid value is provided, the tag will fail to render.
 
@@ -266,11 +266,11 @@ or
 [/list]
 ```
 
-The `[list]` tag automatically formats two different types of lists on the osu! forums. Each list item is marked with `[*]`. By default, this creates a bulleted list. By default, this will create a plain, bulleted list.
+The `[list]` tag automatically formats two different types of lists on the osu! forums. Each list item is marked with `[*]`. By default, this will create a plain, bulleted list.
 
 To create a numbered list, include the TYPE argument (any value will work, e.g., `[list=1]`).
 
-The optional LIST_NAME argument adds an indented heading above the list. If omitted, no heading is displayed.
+The optional `LIST_NAME` argument adds an indented heading above the list. If omitted, no heading is displayed.
 
 *Notice: BBCode lists can be nested or stacked, though this may sometimes cause formatting issues.*
 
@@ -411,7 +411,7 @@ The *Heading (v2)* tag was once used to format text into a fancier-looking, purp
 Some projects that might help you with writing BBCode on osu! website are listed below.
 
 | Name | Project lead | Description |
-| :-: | :-- | :-- |
+| :-: | :---: | :-- |
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | BBCode editor with real-time preview for osu! profile |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! profile (Archived) |
 | [MOBE](https://github.com/SisypheOvO/MOBE) | ::{ flag=CN }:: [SisypheOvO](https://osu.ppy.sh/users/35628968) | BBCode editor with real-time preview for osu! profile |
