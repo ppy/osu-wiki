@@ -123,27 +123,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 19 | Macau ::{ flag=MO }:: | ::{ flag=NZ }:: New Zealand | [Jan 24 (Sat) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T070000&p1=1440&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 20 | Norway ::{ flag=NO }:: | ::{ flag=TW }:: Taiwan | [Jan 24 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T110000&p1=1440&p2=187&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 21 | Singapore ::{ flag=SG }:: | ::{ flag=SE }:: Sweden | [Jan 24 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T120000&p1=1440&p2=236&p3=239) | [osulive](https://twitch.tv/osulive) |
+| 19 | Macau ::{ flag=MO }:: | ::{ flag=NZ }:: New Zealand | [Jan 24 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T093000&p1=1440&p3=264) | [osulive](https://twitch.tv/osulive) |
+| 23 | Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Jan 24 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T110000&p1=1440&p2=215&p3=37) | [osulive_2](https://twitch.tv/osulive_2) |
+| 20 | Norway ::{ flag=NO }:: | ::{ flag=TW }:: Taiwan | [Jan 24 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T130000&p1=1440&p2=187&p3=241) | [osulive](https://twitch.tv/osulive) |
+| 21 | Singapore ::{ flag=SG }:: | ::{ flag=SE }:: Sweden | [Jan 24 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T130000&p1=1440&p2=236&p3=239) | [osulive_2](https://twitch.tv/osulive_2) |
 | 28 | Japan ::{ flag=JP }:: | ::{ flag=VE }:: Venezuela | [Jan 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T140000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
-| 23 | Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Jan 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T150000&p1=1440&p2=215&p3=37) | [osulive](https://twitch.tv/osulive) |
+| 30 | Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Jan 24 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T140000&p1=1440&p2=102&p3=28) | [osulive_2](https://twitch.tv/osulive_2) |
+| 32 | Peru ::{ flag=PE }:: | ::{ flag=PL }:: Poland | [Jan 24 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T150000&p1=1440&p2=131&p3=262) | [osulive](https://twitch.tv/osulive) |
 | 17 | Denmark ::{ flag=DK }:: | ::{ flag=FR }:: France | [Jan 24 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T160000&p1=1440&p2=69&p3=195) | [osulive](https://twitch.tv/osulive) |
-| 22 | Brazil ::{ flag=BR }:: | ::{ flag=PT }:: Portugal | [Jan 24 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T170000&p1=1440&p2=45&p3=133) | [osulive](https://twitch.tv/osulive) |
 | 26 | Ireland ::{ flag=IE }:: | ::{ flag=US }:: United States | [Jan 24 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260124T210000&p1=1440&p3=263) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 25 January 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 25 | South Korea ::{ flag=KR }:: | ::{ flag=CA }:: Canada | [Jan 25 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T020000&p1=1440&p2=235&p3=188) | [osulive](https://twitch.tv/osulive) |
 | 31 | China ::{ flag=CN }:: | ::{ flag=MX }:: Mexico | [Jan 25 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T030000&p1=1440&p2=33&p3=155) | [osulive](https://twitch.tv/osulive) |
-| 30 | Hong Kong ::{ flag=HK }:: | ::{ flag=TH }:: Thailand | [Jan 25 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T080000&p1=1440&p2=102&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 27 | Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Jan 25 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T100000&p1=1440&p2=108&p3=166) | [osulive](https://twitch.tv/osulive) |
 | 29 | Philippines ::{ flag=PH }:: | ::{ flag=ES }:: Spain | [Jan 25 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T110000&p1=1440&p2=145&p3=141) | [osulive](https://twitch.tv/osulive) |
-| 18 | Australia ::{ flag=AU }:: | ::{ flag=NL }:: Netherlands | [Jan 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T130000&p1=1440&p2=57&p3=16) | [osulive_2](https://twitch.tv/osulive_2) |
 | 24 | United Kingdom ::{ flag=GB }:: | ::{ flag=VN }:: Vietnam | [Jan 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T130000&p1=1440&p2=136&p3=95) | [osulive](https://twitch.tv/osulive) |
-| 32 | Peru ::{ flag=PE }:: | ::{ flag=PL }:: Poland | [Jan 25 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T180000&p1=1440&p2=131&p3=262) | [osulive](https://twitch.tv/osulive) |
+| 27 | Indonesia ::{ flag=ID }:: | ::{ flag=RU }:: Russian Federation | [Jan 25 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T130000&p1=1440&p2=108&p3=166) | [osulive_2](https://twitch.tv/osulive_2) |
+| 18 | Australia ::{ flag=AU }:: | ::{ flag=NL }:: Netherlands | [Jan 25 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T140000&p1=1440&p2=57&p3=16) | [osulive](https://twitch.tv/osulive) |
+| 25 | South Korea ::{ flag=KR }:: | ::{ flag=CA }:: Canada | [Jan 25 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T150000&p1=1440&p2=235&p3=188) | [osulive](https://twitch.tv/osulive) |
+| 22 | Brazil ::{ flag=BR }:: | ::{ flag=PT }:: Portugal | [Jan 25 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T180000&p1=1440&p2=45&p3=133) | [osulive](https://twitch.tv/osulive) |
 |  | Quarterfinals | mappool showcase | [Jan 25 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260125T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
@@ -239,13 +239,13 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Round of 16
 
-**[Download the mappack here (82 MB)](https://packs.ppy.sh/P310%20-%20osu%21mania%207K%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
+**[Download the mappack here (82 MB)](https://packs.ppy.sh/P310%20-%20osu!mania%207K%20World%20Cup%202026%3A%20Round%20of%2016.zip?1769076543)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2673741531)
 
 - Rice
   1. [AAAA - reach for your victory!!! (TakJun) \[VictoryJun\]](https://osu.ppy.sh/beatmapsets/2495149#mania/5484225)
   2. [momone chinoi - DENNO MIENMIEN MAO (ExNeko) \[Nemunemu Chordstream\]](https://osu.ppy.sh/beatmapsets/2495154#mania/5484242)
-  3. [69 de 74 - RTTR (Carpihat) \[Extra (189 BPM MWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/2495151#mania/5484230)
+  3. [69 de 74 - RTTR (Carpihat) \[Extra (189 BPM MWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/2496728#mania/5488848)
   4. [K4Y5 - soyosoyo (pwhk) \[90.69%\]](https://osu.ppy.sh/beatmapsets/2495257#mania/5484512)
   5. [Kolaa - Amaama Toutetsu Bonbon feat. Kasane Teto & Zundamon (pwhk) \[Saccharin\]](https://osu.ppy.sh/beatmapsets/2495258#mania/5484518)
 - Long Note
