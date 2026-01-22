@@ -92,7 +92,6 @@ The `[size]` tag adjusts text appearance by modifying font size.
 The `NUMBER` argument specifies a percentage relative to the default font size (100%). For example, `50` reduces text to half the default size, while `150` increases it to one and a half times the default size. The argument does not require quotation marks and accepts two value types:
 
 - Whole numbers (decimals are not permitted) ranging from 30 to 200
-
 - Predefined size keywords: "tiny", "small", "normal", and "large", corresponding to 50, 85, 100, and 150 respectively
 
 If an invalid value is provided, the tag will fail to render.
@@ -155,7 +154,7 @@ The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block
 
 Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-right of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
 
-![Quote reply button](img/quotereply.png)
+Quote reply button: ![Quote reply button](img/quotereply.png)
 
 ### Inline code
 
@@ -411,7 +410,7 @@ The *Heading (v2)* tag was once used to format text into a fancier-looking, purp
 Some projects that might help you with writing BBCode on osu! website are listed below.
 
 | Name | Project lead | Description |
-| :-: | :---: | :-- |
+| :-: | :-: | :-- |
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | BBCode editor with real-time preview for osu! profile |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! profile (Archived) |
 | [MOBE](https://github.com/SisypheOvO/MOBE) | ::{ flag=CN }:: [SisypheOvO](https://osu.ppy.sh/users/35628968) | BBCode editor with real-time preview for osu! profile |
