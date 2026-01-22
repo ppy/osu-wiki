@@ -10,6 +10,8 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
+outdated_translation: true
+outdated_since: 72d78d671964fa6ec4b880cd84f5f4d07fad2796
 ---
 
 # Búsqueda de beatmaps
@@ -63,7 +65,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `artist` | Nombre del artista |
 | `title` | Nombre de la canción |
 | `source` | El medio, como un videojuego, película, serie o evento, en el que se originó la canción o con el que mejor se asocia |
-| `featured_artist` | Identificador de la entrada del [artista destacado](/wiki/People/Featured_Artists) |
+| `featured_artist` | Identificador de la entrada del [Artista Destacado](/wiki/People/Featured_Artists) |
 | `creator` | Nombre del creador de la dificultad |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |

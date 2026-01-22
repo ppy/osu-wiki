@@ -72,7 +72,7 @@ Lee los procedimientos y normas que garantizan la seguridad de osu! y su comunid
 
 [Reglas](/wiki/Rules) • [Código de conducta para contribuyentes](/wiki/Rules/Contributor_code_of_conduct) • [Código de conducta para modding y mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Regulación de medios: [Pautas de uso de contenido](/wiki/Rules/Content_usage_guidelines) • [Proceso de votación de contenido](/wiki/Rules/Content_voting_process) • [Contenido explícito](/wiki/Rules/Explicit_content) • [Reglas de contenido musical](/wiki/Rules/Song_content_rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
+Regulación de medios: [Permisos de uso de contenido](/wiki/Rules/Content_usage_permissions) • [Proceso de votación de contenido](/wiki/Rules/Content_voting_process) • [Contenido explícito](/wiki/Rules/Explicit_content) • [Reglas de contenido musical](/wiki/Rules/Song_content_rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
 
 [Páginas legales](/wiki/Legal): [Términos del servicio](/wiki/Legal/Terms) • [Privacidad](/wiki/Legal/Privacy) • [Derechos de autor (DMCA)](/wiki/Legal/Copyright) • [Licenciamiento de música](/wiki/Legal/Music_licensing)
 
@@ -113,9 +113,9 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, mantenimiento y gestión de la comunidad: su esfuerzo, tiempo y dedicación hacen que el juego viva y prospere.
 
-[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Technical Support Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) • [Comité de torneos](/wiki/People/Tournament_Committee)
+[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas Destacados](/wiki/People/Featured_Artists) • [Technical Support Team](/wiki/People/Technical_Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators) • [Comité de Torneos](/wiki/People/Tournament_Committee)
 
-[Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupos de usuarios](/wiki/People/User_groups) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Completacionistas](/wiki/People/Completionists) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Elite Nominators](/wiki/People/Elite_Nominators) • [Grupos de usuarios](/wiki/People/User_groups) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Centuriones](/wiki/People/Centurions) • [Completacionistas](/wiki/People/Completionists) • [Comité de Puntos de Rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
