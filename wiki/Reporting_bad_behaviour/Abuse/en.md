@@ -86,6 +86,18 @@ Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing everything you k
 
 If you don't have any evidence, but only stories or rumours that you believe are substantial enough to act on, please send us an email anyway. We take complaints like this very seriously and will look deeply into every report.
 
+## What is considered sexual misconduct? {id=what}
+
+Any behaviour that would likely violate another user's sexual integrity or make them feel harassed is considered unacceptable. Examples include, but are not limited to:
+
+- Requesting sexual images or acts from another user
+- Sending another user sexual images or text without reasonable cause
+- Making another user feel pressured to enter or remain in a romantic relationship
+
+**Sexual or romantic conduct will usually not be considered inappropriate if both parties consent to it.** However, if a user is underage (i.e. less than 18 years old), sexual conduct with them may be considered problematic regardless of their consent, especially if the age difference between the users is more than a year or two. If you are not sure about someone's age, ask them, and if you are still not sure, refrain from sexual or romantic conduct towards them.
+
+While forming a relationship with another user you know well is entirely acceptable (underage users notwithstanding), **actively using osu! to look for romantic or sexual partners is not allowed** as it is not what most other users are here for, and doing so will very likely make someone uncomfortable at some point.
+
 ## I think I have acted inappropriately towards someone and want to admit it {id=own-misconduct}
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) detailing any of your behaviour that you think may have been inappropriate. Include as many screenshots and chat logs as you can, and try to explain the context for why the behaviour was inappropriate if it is relevant.
