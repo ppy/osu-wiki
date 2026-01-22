@@ -468,7 +468,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 #### lazer 使用 ScoreV2 计分吗？
 
-使用的评分系统在此基础上进行了一些调整。
+它使用在 ScoreV2 基础上进行了一些调整的评分系统。
 
 <!-- lint ignore no-heading-punctuation -->
 
