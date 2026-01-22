@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7bccc1981864096e22f94667e0ff991eaf3b5a3a
+---
+
 # Теги
 
 *Не следует путать с [TAG-сложностями](/wiki/Beatmap/TAG_beatmaps).*
