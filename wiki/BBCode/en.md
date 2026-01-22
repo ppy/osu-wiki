@@ -205,7 +205,7 @@ or
 
 The `[url]` tag converts text into clickable hyperlinks.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically. While the second syntax ([url]LINK[/url]) is supported, it is often redundant.*
+*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically. While the second syntax (`[url]LINK[/url]`) is supported, it is often redundant.*
 
 To create a custom link (first syntax), provide:
 
@@ -286,7 +286,7 @@ or
 [email]ADDRESS[/email]
 ```
 
-The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled. Like the [url] tag, it supports two syntaxes, though the first is generally more useful.
+The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled. Like the `[url]` tag, it supports two syntaxes, though the first is generally more useful.
 
 To use the `[email]` tag in the first way, provide:
 
