@@ -36,7 +36,7 @@ Scroll through the sub-headings below to find out what to do, depending on where
 
 Immediately block the user by right-clicking or long-pressing their username and selecting `Ignore User` in osu!(stable) or `Block` in osu!(lazer).
 
-You should also report them immediately by clicking the  `Report User...` or `Report` button and filling in the prompts.
+You should also report them immediately by clicking the `Report User...` or `Report` button and filling in the prompts.
 
 If you are using osu!(stable) or an IRC client, you can also report the user by typing `!report <person> <problem>`, where `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
 
