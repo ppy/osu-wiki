@@ -67,143 +67,6 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Qualifiers
-
-**[Download the mappack here! (14 MB)](https://drive.google.com/file/d/1nPtasOkuwmdRPwL9kIcoTiX28MLygtXW/view)**
-
-- No Mod
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Fiery's Extra]](https://osu.ppy.sh/beatmapsets/652412#osu/1396152)
-- Hidden
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Uber) [pishi's Extra]](https://osu.ppy.sh/beatmapsets/594207#osu/1257217)
-- Hard Rock
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Naotoshi) [ktgster's Cloverdose]](https://osu.ppy.sh/beatmapsets/591987#osu/1253252)
-- Double Time
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Insane]](https://osu.ppy.sh/beatmapsets/933554#osu/1948943)
-- Free Mod
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Reillia) [VINXIS' Insane]](https://osu.ppy.sh/beatmapsets/567163#osu/1201369)
-
-## Qualifiers results
-
-| Seed | Players |
-| :-- | :-- |
-| 1–8 | ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590), ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=KR }:: [Piper](https://osu.ppy.sh/users/10592853), ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) |
-| 9–16 | ::{ flag=DE }:: [TobisawaMisaki](https://osu.ppy.sh/users/11393715), ::{ flag=FR }:: [TotorPotate 2](https://osu.ppy.sh/users/10325072), ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151), ::{ flag=AU }:: [Cereal](https://osu.ppy.sh/users/6541627), ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930), ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) |
-| 17–24 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=CL }:: [suntan](https://osu.ppy.sh/users/19998548), ::{ flag=HK }:: [Legitted](https://osu.ppy.sh/users/12387359), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325) |
-| 25–32 | ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092), ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626), ::{ flag=US }:: [Wikip3dia](https://osu.ppy.sh/users/17299001), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852), ::{ flag=PL }:: [LewusekX44](https://osu.ppy.sh/users/9997359), ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910), ::{ flag=SK }:: [TenIdiotZTelky](https://osu.ppy.sh/users/10069181), ::{ flag=NZ }:: [pii](https://osu.ppy.sh/users/13588932) |
-| 33–40 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167), ::{ flag=US }:: [ZephyrCo](https://osu.ppy.sh/users/7516954), ::{ flag=GB }:: [rubrub](https://osu.ppy.sh/users/16764402), ::{ flag=US }:: [Luqkay](https://osu.ppy.sh/users/16538717), ::{ flag=AT }:: [Aureola](https://osu.ppy.sh/users/4929497), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=CZ }:: [Silver Tail](https://osu.ppy.sh/users/13334570), ::{ flag=BG }:: [hlanden](https://osu.ppy.sh/users/4934554) |
-| 41–48 | ::{ flag=BG }:: [Arthus](https://osu.ppy.sh/users/1869492), ::{ flag=RU }:: [Verneo](https://osu.ppy.sh/users/6842477), ::{ flag=PT }:: [uatzap](https://osu.ppy.sh/users/16509171), ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392), ::{ flag=TR }:: [y4kr3b](https://osu.ppy.sh/users/10991434), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539), ::{ flag=PL }:: [xMatrix382](https://osu.ppy.sh/users/12047601) |
-| 49–56 | ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659) |
-| 57–64 | ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026) |
-
-### Group heats
-
-**[Download the mappack here! (13 MB)](https://drive.google.com/file/d/1rJlui9yYFaFiG2wZFNPb2-kgUKljjNpU/view)**
-
-- No Mod
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -GOLDENWOLF METAL MIX- (Nao Tomori) [Wolf's Extra Stage]](https://osu.ppy.sh/beatmapsets/675685#osu/1429346)
-- Hidden
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (lit120) [Lasse's Insane]](https://osu.ppy.sh/beatmapsets/558217#osu/1181061)
-- Hard Rock
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Naotoshi) [ktgster's Special]](https://osu.ppy.sh/beatmapsets/649373#osu/1385215)
-- Double Time
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Insane]](https://osu.ppy.sh/beatmapsets/652412#osu/1383388)
-- Free Mod
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Expert]](https://osu.ppy.sh/beatmapsets/859783#osu/1849505)
-
-## Group heats results
-
-| Heat | Players |
-| :-: | :-- |
-| 1 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167), ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092), ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=BG }:: [Arthus](https://osu.ppy.sh/users/1869492), ::{ flag=DE }:: [TobisawaMisaki](https://osu.ppy.sh/users/11393715), ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957) |
-| 2 | ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626), ::{ flag=US }:: [ZephyrCo](https://osu.ppy.sh/users/7516954), ::{ flag=FR }:: [TotorPotate 2](https://osu.ppy.sh/users/10325072), ::{ flag=RU }:: [Verneo](https://osu.ppy.sh/users/6842477), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797) |
-| 3 | ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590), ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=PT }:: [uatzap](https://osu.ppy.sh/users/16509171), ::{ flag=US }:: [Wikip3dia](https://osu.ppy.sh/users/17299001), ::{ flag=GB }:: [rubrub](https://osu.ppy.sh/users/16764402), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
-| 4 | ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=AU }:: [Cereal](https://osu.ppy.sh/users/6541627), ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [Luqkay](https://osu.ppy.sh/users/16538717), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852) |
-| 5 | ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126), ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=PL }:: [LewusekX44](https://osu.ppy.sh/users/9997359), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [Aureola](https://osu.ppy.sh/users/4929497), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=CL }:: [suntan](https://osu.ppy.sh/users/19998548), ::{ flag=TR }:: [y4kr3b](https://osu.ppy.sh/users/10991434) |
-| 6 | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930), ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910), ::{ flag=HK }:: [Legitted](https://osu.ppy.sh/users/12387359), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741) |
-| 7 | ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539), ::{ flag=CZ }:: [Silver Tail](https://osu.ppy.sh/users/13334570), ::{ flag=SK }:: [TenIdiotZTelky](https://osu.ppy.sh/users/10069181), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=KR }:: [Piper](https://osu.ppy.sh/users/10592853), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) |
-| 8 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471), ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139), ::{ flag=NZ }:: [pii](https://osu.ppy.sh/users/13588932), ::{ flag=PL }:: [xMatrix382](https://osu.ppy.sh/users/12047601), ::{ flag=BG }:: [hlanden](https://osu.ppy.sh/users/4934554), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026) |
-
-### Round of 16
-
-**[Download the mappack here! (23 MB)](https://drive.google.com/file/d/1cuC1OhIdxnYTXYIXtW682fFxakWhnoSB/view)**
-
-- No Mod
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461)
-- Hidden
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -blooming mix- (Naotoshi) [Spring Breeze]](https://osu.ppy.sh/beatmapsets/627085#osu/1321495)
-- Hard Rock
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (TV Size) (Hanasaka Yui) [Hanasaka Yui]](https://osu.ppy.sh/beatmapsets/933554#osu/1948941)
-- Double Time
-  - [Hanasaka Yui(CV: M.A.O) ft. Koalazy - Harumachi Clover (Hey lululu) [Extra]](https://osu.ppy.sh/beatmapsets/780651#osu/1639738)
-- Free Mod
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Akitoshi's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/1797548)
-- Tiebreaker
-  - **[Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)**
-
-## Round of 16 results
-
-| Player 1 | Score | Score | Player 2 | Match Link |
-| :-: | :-: | :-: | :-: | :-: |
-| **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 2 | ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) | [#1](https://osu.ppy.sh/community/matches/102346589) |
-| **::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186)** | 4 | 0 | ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539) | [#2](https://osu.ppy.sh/community/matches/102293991) |
-| **::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590)** | 4 | 0 | ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910) | [#3](https://osu.ppy.sh/community/matches/102350725) |
-| ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392) | 1 | 4 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#4](https://osu.ppy.sh/community/matches/102320253) |
-| ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126) | 2 | 4 | **::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788)** | [#5](https://osu.ppy.sh/community/matches/102346515) |
-| **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 4 | 2 | ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151) | [#6](https://osu.ppy.sh/community/matches/102319022) |
-| **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | 4 | 1 | ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626) | [#7](https://osu.ppy.sh/community/matches/102316496) |
-| **::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471)** | 4 | 1 | ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092) | [#8](https://osu.ppy.sh/community/matches/102347860) |
-
-### Quarterfinals
-
-- No Mod
-  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
-  - [Elijah Martin - Harumachi Clover (Metal Cover) (Digitalyzed) [Intense!]](https://osu.ppy.sh/beatmapsets/1375300#osu/2842868)
-- Hidden
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Maximum Clover Power]](https://osu.ppy.sh/beatmapsets/652412#osu/1383389)
-- Hard Rock
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Happy Ending]](https://osu.ppy.sh/beatmapsets/662120#osu/1401608)
-- Double Time
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Karen) [MoeMoe]](https://osu.ppy.sh/beatmapsets/557733#osu/1180037)
-- Free Mod
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Foxy's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/2030431)
-- Tiebreaker
-  - **[Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)**
-
-## Quarterfinals results
-
-| Player 1 | Score | Score | Player 2 | Match Link |
-| :-: | :-: | :-: | :-: | :-: |
-| **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 0 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/102476742) |
-| ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186) | -1 | 0 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | *win by default** |
-| ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590) | 2 | 4 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#3](https://osu.ppy.sh/community/matches/102527058) |
-| **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | 4 | 3 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) | [#4](https://osu.ppy.sh/community/matches/102689183) |
-
-### Semifinals
-
-- No Mod
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)
-  - [Elijah Martin - Harumachi Clover (Metal Cover) (Digitalyzed) [Intense!]](https://osu.ppy.sh/beatmapsets/1375300#osu/2842868)
-- Hidden
-  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
-- Hard Rock
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461)
-- Double Time
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Hanasaka Yui]](https://osu.ppy.sh/beatmapsets/933554#osu/1948941)
-  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Mkppyshiro's Insane]](https://osu.ppy.sh/beatmapsets/662120#osu/1432899)
-- Free Mod
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
-  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [A r M i N's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/1797542)
-- Tiebreaker
-  - **[Hanasaka Yui(CV: M.A.O) - Harumachi Clover (VINXIS Dopamine Hit) (Orkay) [This Song Is About Tragic Love]](https://osu.ppy.sh/beatmapsets/1817125#osu/3727989)**
-
-## Semifinals results
-
-| Player 1 | Score | Score | Player 2 | Match Link |
-| :-- | :-: | :-: | --: | :-: |
-| ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | 4 | 5 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102714522) |
-| ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) | 3 | 5 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#2](https://osu.ppy.sh/community/matches/102690311) |
-
 ### Grand Finals
 
 - No Mod
@@ -224,7 +87,146 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[BilliumMoto - Harumachi clip your face off (Nao Tomori) [Expert]](https://osu.ppy.sh/beatmapsets/1817218#osu/3728149)**
 
-## Grand Finals results
+### Semifinals
+
+- No Mod
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)
+  - [Elijah Martin - Harumachi Clover (Metal Cover) (Digitalyzed) [Intense!]](https://osu.ppy.sh/beatmapsets/1375300#osu/2842868)
+- Hidden
+  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
+- Hard Rock
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461)
+- Double Time
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Hanasaka Yui]](https://osu.ppy.sh/beatmapsets/933554#osu/1948941)
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Mkppyshiro's Insane]](https://osu.ppy.sh/beatmapsets/662120#osu/1432899)
+- Free Mod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [A r M i N's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/1797542)
+- Tiebreaker
+  - **[Hanasaka Yui(CV: M.A.O) - Harumachi Clover (VINXIS Dopamine Hit) (Orkay) [This Song Is About Tragic Love]](https://osu.ppy.sh/beatmapsets/1817125#osu/3727989)**
+
+### Quarterfinals
+
+- No Mod
+  - [Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)
+  - [Elijah Martin - Harumachi Clover (Metal Cover) (Digitalyzed) [Intense!]](https://osu.ppy.sh/beatmapsets/1375300#osu/2842868)
+- Hidden
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Maximum Clover Power]](https://osu.ppy.sh/beatmapsets/652412#osu/1383389)
+- Hard Rock
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Deppyforce) [Happy Ending]](https://osu.ppy.sh/beatmapsets/662120#osu/1401608)
+- Double Time
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Karen) [MoeMoe]](https://osu.ppy.sh/beatmapsets/557733#osu/1180037)
+- Free Mod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Foxy's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/2030431)
+- Tiebreaker
+  - **[Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Redside Bootleg) (Nozhomi) [This is not genshin]](https://osu.ppy.sh/beatmapsets/1810414#osu/3713311)**
+
+### Round of 16
+
+**[Download the mappack here! (23 MB)](https://drive.google.com/file/d/1cuC1OhIdxnYTXYIXtW682fFxakWhnoSB/view)**
+
+- No Mod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) \<Dictate Edit\> (Sotarks) [Oh no!]](https://osu.ppy.sh/beatmapsets/842412#osu/1764213)
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Fiery's Extreme]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461)
+- Hidden
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -blooming mix- (Naotoshi) [Spring Breeze]](https://osu.ppy.sh/beatmapsets/627085#osu/1321495)
+- Hard Rock
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (TV Size) (Hanasaka Yui) [Hanasaka Yui]](https://osu.ppy.sh/beatmapsets/933554#osu/1948941)
+- Double Time
+  - [Hanasaka Yui(CV: M.A.O) ft. Koalazy - Harumachi Clover (Hey lululu) [Extra]](https://osu.ppy.sh/beatmapsets/780651#osu/1639738)
+- Free Mod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Akitoshi's Extra]](https://osu.ppy.sh/beatmapsets/859783#osu/1797548)
+- Tiebreaker
+  - **[Hanasaka Yui (CV: M.A.O) - Harumachi Clover (NAGI vs 14 Remix) (naotoshi) [Naorumirchi Clover]](https://osu.ppy.sh/beatmapsets/708763#osu/1538589)**
+
+### Group heats
+
+**[Download the mappack here! (13 MB)](https://drive.google.com/file/d/1rJlui9yYFaFiG2wZFNPb2-kgUKljjNpU/view)**
+
+- No Mod
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover -GOLDENWOLF METAL MIX- (Nao Tomori) [Wolf's Extra Stage]](https://osu.ppy.sh/beatmapsets/675685#osu/1429346)
+- Hidden
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (lit120) [Lasse's Insane]](https://osu.ppy.sh/beatmapsets/558217#osu/1181061)
+- Hard Rock
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Naotoshi) [ktgster's Special]](https://osu.ppy.sh/beatmapsets/649373#osu/1385215)
+- Double Time
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Insane]](https://osu.ppy.sh/beatmapsets/652412#osu/1383388)
+- Free Mod
+  - [Will Stetson - Harumachi Clover (Swing Arrangement) (Will Stetson) [Expert]](https://osu.ppy.sh/beatmapsets/859783#osu/1849505)
+
+### Qualifiers
+
+**[Download the mappack here! (14 MB)](https://drive.google.com/file/d/1nPtasOkuwmdRPwL9kIcoTiX28MLygtXW/view)**
+
+- No Mod
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (ezek) [Fiery's Extra]](https://osu.ppy.sh/beatmapsets/652412#osu/1396152)
+- Hidden
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Uber) [pishi's Extra]](https://osu.ppy.sh/beatmapsets/594207#osu/1257217)
+- Hard Rock
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Naotoshi) [ktgster's Cloverdose]](https://osu.ppy.sh/beatmapsets/591987#osu/1253252)
+- Double Time
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Hanasaka Yui) [Insane]](https://osu.ppy.sh/beatmapsets/933554#osu/1948943)
+- Free Mod
+  - [Hanasaka Yui(CV: M.A.O) - Harumachi Clover (Reillia) [VINXIS' Insane]](https://osu.ppy.sh/beatmapsets/567163#osu/1201369)
+
+## Match results
+
+### Qualifiers
+
+| Seed | Players |
+| :-- | :-- |
+| 1–8 | ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945), ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590), ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=KR }:: [Piper](https://osu.ppy.sh/users/10592853), ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) |
+| 9–16 | ::{ flag=DE }:: [TobisawaMisaki](https://osu.ppy.sh/users/11393715), ::{ flag=FR }:: [TotorPotate 2](https://osu.ppy.sh/users/10325072), ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151), ::{ flag=AU }:: [Cereal](https://osu.ppy.sh/users/6541627), ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930), ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) |
+| 17–24 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=CL }:: [suntan](https://osu.ppy.sh/users/19998548), ::{ flag=HK }:: [Legitted](https://osu.ppy.sh/users/12387359), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325) |
+| 25–32 | ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092), ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626), ::{ flag=US }:: [Wikip3dia](https://osu.ppy.sh/users/17299001), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852), ::{ flag=PL }:: [LewusekX44](https://osu.ppy.sh/users/9997359), ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910), ::{ flag=SK }:: [TenIdiotZTelky](https://osu.ppy.sh/users/10069181), ::{ flag=NZ }:: [pii](https://osu.ppy.sh/users/13588932) |
+| 33–40 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167), ::{ flag=US }:: [ZephyrCo](https://osu.ppy.sh/users/7516954), ::{ flag=GB }:: [rubrub](https://osu.ppy.sh/users/16764402), ::{ flag=US }:: [Luqkay](https://osu.ppy.sh/users/16538717), ::{ flag=AT }:: [Aureola](https://osu.ppy.sh/users/4929497), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=CZ }:: [Silver Tail](https://osu.ppy.sh/users/13334570), ::{ flag=BG }:: [hlanden](https://osu.ppy.sh/users/4934554) |
+| 41–48 | ::{ flag=BG }:: [Arthus](https://osu.ppy.sh/users/1869492), ::{ flag=RU }:: [Verneo](https://osu.ppy.sh/users/6842477), ::{ flag=PT }:: [uatzap](https://osu.ppy.sh/users/16509171), ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392), ::{ flag=TR }:: [y4kr3b](https://osu.ppy.sh/users/10991434), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539), ::{ flag=PL }:: [xMatrix382](https://osu.ppy.sh/users/12047601) |
+| 49–56 | ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659) |
+| 57–64 | ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026) |
+
+### Group heats
+
+| Heat | Players |
+| :-: | :-- |
+| 1 | ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167), ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092), ::{ flag=SK }:: [PeteX](https://osu.ppy.sh/users/1285945), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=PL }:: [Placek21](https://osu.ppy.sh/users/8369677), ::{ flag=BG }:: [Arthus](https://osu.ppy.sh/users/1869492), ::{ flag=DE }:: [TobisawaMisaki](https://osu.ppy.sh/users/11393715), ::{ flag=NL }:: [ShiRonium](https://osu.ppy.sh/users/13956957) |
+| 2 | ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186), ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626), ::{ flag=US }:: [ZephyrCo](https://osu.ppy.sh/users/7516954), ::{ flag=FR }:: [TotorPotate 2](https://osu.ppy.sh/users/10325072), ::{ flag=RU }:: [Verneo](https://osu.ppy.sh/users/6842477), ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251), ::{ flag=SI }:: [Sirek](https://osu.ppy.sh/users/14666725), ::{ flag=US }:: [elite975](https://osu.ppy.sh/users/15475797) |
+| 3 | ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590), ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=PT }:: [uatzap](https://osu.ppy.sh/users/16509171), ::{ flag=US }:: [Wikip3dia](https://osu.ppy.sh/users/17299001), ::{ flag=GB }:: [rubrub](https://osu.ppy.sh/users/16764402), ::{ flag=US }:: [WhirI](https://osu.ppy.sh/users/13593866), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
+| 4 | ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392), ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788), ::{ flag=AU }:: [Cereal](https://osu.ppy.sh/users/6541627), ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593), ::{ flag=US }:: [Luqkay](https://osu.ppy.sh/users/16538717), ::{ flag=GB }:: [Blobritto](https://osu.ppy.sh/users/15300480), ::{ flag=SE }:: [girl liker](https://osu.ppy.sh/users/13065776), ::{ flag=SG }:: [qstronaut](https://osu.ppy.sh/users/10958852) |
+| 5 | ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126), ::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702), ::{ flag=PL }:: [LewusekX44](https://osu.ppy.sh/users/9997359), ::{ flag=US }:: [glyph on osu](https://osu.ppy.sh/users/11612720), ::{ flag=AT }:: [Aureola](https://osu.ppy.sh/users/4929497), ::{ flag=KZ }:: [Plombire](https://osu.ppy.sh/users/15656399), ::{ flag=CL }:: [suntan](https://osu.ppy.sh/users/19998548), ::{ flag=TR }:: [y4kr3b](https://osu.ppy.sh/users/10991434) |
+| 6 | ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930), ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910), ::{ flag=HK }:: [Legitted](https://osu.ppy.sh/users/12387359), ::{ flag=VN }:: [Chipperonio](https://osu.ppy.sh/users/13141032), ::{ flag=AU }:: [hayleyisgoat](https://osu.ppy.sh/users/17720805), ::{ flag=AT }:: [z9a](https://osu.ppy.sh/users/13057699), ::{ flag=MY }:: [Lunasa](https://osu.ppy.sh/users/16436446), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741) |
+| 7 | ::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972), ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539), ::{ flag=CZ }:: [Silver Tail](https://osu.ppy.sh/users/13334570), ::{ flag=SK }:: [TenIdiotZTelky](https://osu.ppy.sh/users/10069181), ::{ flag=BG }:: [ShellBusterTTV](https://osu.ppy.sh/users/16301044), ::{ flag=US }:: [BuySharp](https://osu.ppy.sh/users/15100885), ::{ flag=KR }:: [Piper](https://osu.ppy.sh/users/10592853), ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) |
+| 8 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471), ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139), ::{ flag=NZ }:: [pii](https://osu.ppy.sh/users/13588932), ::{ flag=PL }:: [xMatrix382](https://osu.ppy.sh/users/12047601), ::{ flag=BG }:: [hlanden](https://osu.ppy.sh/users/4934554), ::{ flag=AR }:: [Keyz](https://osu.ppy.sh/users/10408325), ::{ flag=TW }:: [james2323123](https://osu.ppy.sh/users/13222659), ::{ flag=SK }:: [-Seam-](https://osu.ppy.sh/users/10876026) |
+
+### Round of 16
+
+| Player 1 | Score | Score | Player 2 | Match Link |
+| :-: | :-: | :-: | :-: | :-: |
+| **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 2 | ::{ flag=HU }:: [gecseboti](https://osu.ppy.sh/users/15213139) | [#1](https://osu.ppy.sh/community/matches/102346589) |
+| **::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186)** | 4 | 0 | ::{ flag=BR }:: [-Matyr-](https://osu.ppy.sh/users/13771539) | [#2](https://osu.ppy.sh/community/matches/102293991) |
+| **::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590)** | 4 | 0 | ::{ flag=US }:: [XD piranha](https://osu.ppy.sh/users/13182910) | [#3](https://osu.ppy.sh/community/matches/102350725) |
+| ::{ flag=US }:: [bazingasdead](https://osu.ppy.sh/users/14139392) | 1 | 4 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#4](https://osu.ppy.sh/community/matches/102320253) |
+| ::{ flag=US }:: [Cocoamallows](https://osu.ppy.sh/users/9436126) | 2 | 4 | **::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788)** | [#5](https://osu.ppy.sh/community/matches/102346515) |
+| **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | 4 | 2 | ::{ flag=CY }:: [Def0ltt](https://osu.ppy.sh/users/12221151) | [#6](https://osu.ppy.sh/community/matches/102319022) |
+| **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | 4 | 1 | ::{ flag=DE }:: [SgtCataclyst](https://osu.ppy.sh/users/7947626) | [#7](https://osu.ppy.sh/community/matches/102316496) |
+| **::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471)** | 4 | 1 | ::{ flag=US }:: [[Mocha]](https://osu.ppy.sh/users/13888092) | [#8](https://osu.ppy.sh/community/matches/102347860) |
+
+### Quarterfinals
+
+| Player 1 | Score | Score | Player 2 | Match Link |
+| :-: | :-: | :-: | :-: | :-: |
+| **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 0 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/102476742) |
+| ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186) | -1 | 0 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | *win by default** |
+| ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590) | 2 | 4 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#3](https://osu.ppy.sh/community/matches/102527058) |
+| **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | 4 | 3 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) | [#4](https://osu.ppy.sh/community/matches/102689183) |
+
+### Semifinals
+
+| Player 1 | Score | Score | Player 2 | Match Link |
+| :-- | :-: | :-: | --: | :-: |
+| ::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167) | 4 | 5 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102714522) |
+| ::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930) | 3 | 5 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | [#2](https://osu.ppy.sh/community/matches/102690311) |
+
+### Grand Finals
 
 | Player 1 | Score | Score | Player 2 | Match Link |
 | :-: | :-: | :-: | :-: | :-: |
