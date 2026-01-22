@@ -57,9 +57,15 @@ The `[u]` tag is used to emphasise text by drawing a horizontal line underneath 
 [strike]text[/strike]
 ```
 
+or in its abbreviated form:
+
+```
+[s]text[/s]
+```
+
 *Note: "strikethrough" may also be known as "strike".*
 
-The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough").
+The `[s]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough").
 
 Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 
@@ -71,7 +77,7 @@ Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 
 *For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
 
-The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `#HEXCODE` argument with a colour's corresponding HEX code or HTML name.
+The `[color]` tag stylises text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `#HEXCODE` argument with a colour's corresponding HEX code or HTML name.
 
 The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no argument is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
 
@@ -81,9 +87,17 @@ The aforementioned argument does not take quotation marks (`"`), and does not ha
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny", "small", "normal", and "large" respectively.
+The `[size]` tag adjusts text appearance by modifying font size.
 
-The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number, that is not one of the supported four, is inputted, the text will revert to the default size.
+The `NUMBER` argument specifies a percentage relative to the default font size (100%). For example, `50` reduces text to half the default size, while `150` increases it to one and a half times the default size. The argument does not require quotation marks and accepts two value types:
+
+Whole numbers (decimals are not permitted) ranging from 30 to 200
+
+Predefined size keywords: "tiny", "small", "normal", and "large", corresponding to 50, 85, 100, and 150 respectively
+
+If an invalid value is provided, the tag will fail to render.
+
+A toolbar button is available for quick access to these four common sizes.
 
 Toolbar button: ![Font size options](img/font-size.png "Font size")
 
@@ -165,7 +179,7 @@ text
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent grey box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
+The `[code]` tag creates *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent grey box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
 
 Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
 
@@ -175,7 +189,7 @@ Within the osu! forums, code blocks are most often used to post source code for 
 [centre]text[/centre]
 ```
 
-The `[centre]` tag is used to align text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
+The `[centre]` tag aligns text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
 
 ### URL
 
@@ -183,41 +197,80 @@ The `[centre]` tag is used to align text to the centre of a box. This is most of
 [url=LINK]text[/url]
 ```
 
-The `[url]` tag is used to turn regular text into clickable hyperlinks.
+or
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs into links automatically.*
+```
+[url]LINK[/url]
+```
 
-To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the open and closed tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
+The `[url]` tag converts text into clickable hyperlinks.
+
+*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically. While the second syntax ([url]LINK[/url]) is supported, it is often redundant.*
+
+To create a custom link (first syntax), provide:
+
+1. **The destination URL** as the `LINK` argument (without quotation marks).
+2. **The display text** between the opening and closing tags.
+
+If no display text is provided, the hyperlink will not render correctly.
+
+*Notice: All URLs—whether used with the `[url]` tag or plain text—must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.*
 
 Toolbar button: ![URL button](img/url.png "URL")
 
 ### Profile
 
 ```
-[profile=userid]username[/profile]
+[profile=USERID]username[/profile]
 ```
 
-The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. Usage of the `[profile]` tag differs from the use of `[url]` tag in that the `[profile]` tag displays a user card when hovering over the link that is created by the tag.
+The `[profile]` tag links to a user's osu! profile page by using their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
 
-*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
+For best results, include both the user ID and **username** in the tag. This ensures the link remains functional even if the username changes later.
 
-When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
+1. **If the `USERID` is omitted**: The link will break if the username changes.
+2. **If the `username` is omitted**: The link will break immediately.
+3. If a placeholder text is used between the tags when specifying only the user ID, the username connected to the `USERID` argument will be displayed on the actual page after saving the BBCode instead of the placeholder text. Same applies when the username provided does not exist.
+4. **If `USERID` is invalid and `username` exists**: The link will still render using the username.
+5. **If both are invalid**: The link will still render using the username, but the hover card will show an error.
+
+After saving BBCode, the osu! website will automatically modify the `[profile]` tag in the following ways[^profile-skill]:
+
+1. **Forum**, **Signatures** and **Beatmap Descriptions** will automatically:
+     - add/change to correct `USERID` using `username` under case `1.` and `4.`
+     - change the `username` to the current one under case `3.`
+     - remove the `USERID` argument if both are invalid (case `5.`)
+2. **Your User Profile** will not modify your BBCode in any of the above cases.
+
+*Note: The user ID is the numeric string found after `/users/` in an osu! profile URL.*
 
 ### Formatted lists
 
 ```
-[list=TYPE]
+[list] LIST_NAME
 [*]item 1
 [*]item 2
 [*]item 3
 [/list]
 ```
 
-The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+or
 
-If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
+```
+[list=TYPE] LIST_NAME
+[*]item 1
+[*]item 2
+[*]item 3
+[/list]
+```
 
-*Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
+The `[list]` tag automatically formats two different types of lists on the osu! forums. Each list item is marked with `[*]`. By default, this creates a bulleted list. By default, this will create a plain, bulleted list.
+
+To create a numbered list, include the TYPE argument (any value will work, e.g., `[list=1]`).
+
+The optional LIST_NAME argument adds an indented heading above the list. If omitted, no heading is displayed.
+
+*Notice: BBCode lists can be nested or stacked, though this may sometimes cause formatting issues.*
 
 Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
 
@@ -227,9 +280,20 @@ Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img
 [email=ADDRESS]text[/email]
 ```
 
-The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+or
 
-In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
+```
+[email]ADDRESS[/email]
+```
+
+The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled. Like the [url] tag, it supports two syntaxes, though the first is generally more useful.
+
+To use the `[email]` tag in the first way, provide:
+
+1. The email address as the `ADDRESS` argument (no quotation marks)
+2. The display text between the tags
+
+If no display text is given, the link will not render properly.
 
 ### Images
 
@@ -272,7 +336,7 @@ Toolbar button: ![Imagemap button](img/imagemap.png "Imagemap")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-The `[youtube]` tag is used to embed a [YouTube](https://youtube.com) video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
+The `[youtube]` tag embeds a [YouTube](https://youtube.com) video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
 
 A YouTube video's ID is located in the URL of the video, and is the string of 11 characters *directly after* the `v=`.
 
@@ -282,7 +346,7 @@ A YouTube video's ID is located in the URL of the video, and is the string of 11
 [audio]URL[/audio]
 ```
 
-The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
+The `[audio]` tag embeds an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
 
 *Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
 
@@ -296,7 +360,7 @@ To embed audio files through this method, users must paste its source URL (e.g. 
 [heading]text[/heading]
 ```
 
-The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
+The `[heading]` tag formats text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
 
 Toolbar button: ![Heading button](img/heading.png "Heading")
 
@@ -308,7 +372,7 @@ text
 [/notice]
 ```
 
-The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
+The `[notice]` tag places paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
 
 ## Legacy
 
@@ -320,7 +384,7 @@ The following are BBCode tags that were once used in various places across the o
 [google]search query[/google]
 ```
 
-The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between two tags.
+The `[google]` tag was once used to link to a Google search query using the provided text between two tags.
 
 The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
 
@@ -330,7 +394,7 @@ The tag would redirect users to a Google search through their account, meaning t
 [lucky]search query[/lucky]
 ```
 
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
+The `[lucky]` tag was once used to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
 
 ### Heading (v2)
 
@@ -338,15 +402,29 @@ The `[lucky]` tag is an outdated tag that was once used in the osu! forums to li
 [text]
 ```
 
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+The *Heading (v2)* tag was once used to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+
+## Useful Projects
+
+Some projects that might help you with writing BBCode on osu! website are listed below.
+
+| Name | Project lead | Description |
+| :-: | :-- | :-- |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | BBCode editor with real-time preview for osu! profile |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! profile (Archived) |
+| [MOBE](https://github.com/SisypheOvO/MOBE) | ::{ flag=CN }:: [SisypheOvO](https://osu.ppy.sh/users/35628968) | BBCode editor with real-time preview for osu! profile |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Create color gradients for osu! profile |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Browser extension that adds more BBCode buttons and other features to osu! website |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | BBCode & HTML text colorizing |
 
 ## Trivia
 
-- This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
+- This wiki article was mostly adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
 
-## References
+## Notes
 
-[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
+[^imgur-blocked-ip]: Reference: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
+[^profile-skill]: Using this knowledge, you can quickly add profile links when editing if you know either the user ID or username, faster than looking up both.
