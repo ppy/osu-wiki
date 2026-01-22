@@ -140,7 +140,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 | 评价 | osu! / osu!taiko | osu!catch | osu!mania |
 | :-: | :-- | :-- | :-- |
-| SS | 100% | 100% | 100% |
+| SS | 100% | 100% | 所有判定均为GREAT或PERFECT |
 | S | ≥95% (无失误) | ≥98% | ≥95% |
 | A | ≥90% | ≥94% | ≥90% |
 | B | ≥80% | ≥90% | ≥80% |
@@ -153,28 +153,11 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-#### 判定区间边缘与 stable 不同
-
-当物件的点击时间正好位于判定区间的边缘时，不同的客户端版本可能会给出不一样的判定。
-
-| 游戏模式 | 与 stable 比较 | 与 lazer 比较 | 与 lazer 回放模式比较 |
-| :-- | :-- | :-- | :-- |
-| osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`，除了 MISS 判定区间使用 `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-
-|  |  |
-| :-- | :-: |
-| 旧版本不兼容 | ![是][true] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
-| 这个更改是刻意的 | ![是][true] |
-| 这个更改需要进一步的考虑 | ![是][true] |
-
 #### 计分系统变更
 
 lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所有 ScoreV1 的分数转换过来。
 
-这套系统的分数有两种可互换的显示模式：标准和经典。标准分数将正常情况下的理论分限制到 100 万 + 奖励分并乘以分数倍率（与 ScoreV2 系统类似）。经典分数与标准分数相同，但它会根据谱面中物件的数量对分数曲线作二次缩放（与 ScoreV1 系统类似）。可以在设置中修改显示模式，并且游戏中所有的分数都会相应地改变。
+这套系统的分数有两种可互换的显示模式：标准化和经典。标准化分数将正常情况下的理论分限制到 100 万 + 奖励分并乘以分数倍率（与 ScoreV2 系统类似）。经典分数与标准化分数相同，但它会根据谱面中物件的数量对分数曲线作二次缩放（与 ScoreV1 系统类似）。可以在设置中修改显示模式，并且游戏中所有的分数都会相应地改变。
 
 所有被击打的物件或者所有判定的分数之间，也会存在些许差异。
 
@@ -206,7 +189,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
-#### 点击滑条头的判定也会计入准确率
+#### 滑条头判定与准度有关
 
 ![](img/slideracc.gif)
 
@@ -418,18 +401,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 |  |  |
 | :-- | :-: |
 | 旧版本不兼容 | ![是][true] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
-| 这个更改是刻意的 | ![是][true] |
-| 这个更改需要进一步的考虑 | ![否][false] |
-
-#### 转谱不再使用不同的判定区间
-
-在 stable 中，由 osu! 模式转换成 osu!mania 模式的转谱有[不同的打击区间](/wiki/Gameplay/Judgement/osu!mania)。
-
-|  |  |
-| :-- | :-: |
-| 旧版本不兼容 | ![是][true] |
-| Classic 模组能够还原旧版本的效果 | ![否][false] |
+| Classic 模组能够还原旧版本的效果 | ![是][true] |
 | 这个更改是刻意的 | ![是][true] |
 | 这个更改需要进一步的考虑 | ![否][false] |
 
@@ -456,7 +428,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 #### 稳定版会停止维护吗？我会被迫切换游戏版本吗？
 
-只要还有玩家使用它，稳定版将继续维护。最坏情况来说，它仍将维护几年。
+只要还有玩家使用它，稳定版将继续维护。至少，它仍将维护几年。
 
 #### 我能从稳定版向 lazer 导入我所有的数据吗？
 
@@ -500,7 +472,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 #### lazer 使用 ScoreV2 计分吗？
 
-是的，用的是做了一些调整的 ScoreV2 。
+使用的评分系统在此基础上进行了一些调整。
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -537,25 +509,31 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
   - Hard Rock (不适用 osu!mania )
   - Sudden Death (可以打开 `Restart on fail` )
   - Perfect (可以打开 `Restart on fail` )
-  - Hidden
-  - Nightcore (仅 1.5 倍速)
   - Double Time (仅 1.5 倍速，可以调整 `Adjust pitch`)
+  - Nightcore (仅 1.5 倍速)
+  - Fade In (osu!mania)
+  - Hidden
+  - Cover (osu!mania)
   - Flashlight
-  - Blinds
+  - Blinds (osu!)
   - Accuracy Challenge
-- 转谱 (仅限 osu!mania)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+- 自动游玩
+  - Spun Out (osu!)
+- 转换
+  - Alternate (osu!)
+  - Single Tap (osu!/osu!taiko)
+  - Swap (osu!taiko)
+  - Mirror (osu!mania)
+  - Four Keys (osu!mania)
+  - Five Keys (osu!mania)
+  - Six Keys (osu!mania)
+  - Seven Keys (osu!mania)
+  - Eight Keys (osu!mania)
+  - Nine Keys (osu!mania)
 - 娱乐
+  - Traceable (osu!)
   - Muted
-  - No Scope
-- 自动游玩 (仅限 osu! 模式)
-  - Spun out
+  - No Scope (osu!/osu!catch)
 - 系统
   - Touch Device
 
@@ -589,7 +567,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 如果你想知道帧率会如何影响输入延迟，并想测试你自己的感知力，请在设置底部运行“延迟测试器”。
 
-你也能[阅读这篇科技文章](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates)，它能解释我们的所作所为，以及背后的理由。
+你也能[阅读这篇技术文档](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates)，它能解释我们的所作所为，以及背后的理由。
 
 #### 如果输入限制在 1000 HZ，那我 8000 HZ 回报率的鼠标怎么办？
 
@@ -629,7 +607,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如不需要在选歌界面按下 `F5` 来刷新谱面（因为所有谱面都将处于可用状态），并将存储谱面需要的磁盘空间节省 20-40%。你可以阅读这篇文章，得知 [lazer 是如何存储文件](/wiki/Client/Release_stream/Lazer/File_storage)的。
 
-如果你需要修改谱面，请使用编辑器。接下来，我们将在编辑器中引入一种模式，可以临时访问谱面所属的文件夹，便于你在作图的时候使用外部程序编辑谱面。
+如果你需要修改谱面，请使用编辑器。你可以在编辑器中的“文件”选项卡点击“外部编辑”以打开一个用于外部编辑的文件夹。
 
 #### 现在 "osu!direct" 已经开放给所有玩家，那支持者还会有什么新福利吗？
 
