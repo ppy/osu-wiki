@@ -84,13 +84,13 @@ This collected data is aggregated and only retained as it is useful. Generally t
 
 We do not perform any marketing, advertising nor send any unsolicited emails. The only emails you will receive from us are the result of an action on our service (such as requesting two-factor authentication, purchasing a product or enabling notifications for a discussion).
 
-We may share your personal data with third parties in very specific cases:
+We do not share your personal data with any third parties. All analysics are hosted in-house. Limited diagnostic information may be made available to trusted developers on the team to analyse and fix issues with the game or website.
 
-- Where you have expressly made information public
-- To fulfil your store orders
-- To process payments via payment processing providers like Paypal and Xsolla
-- To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service via error logging (we use [Sentry](https://sentry.io))
+Please note there are some third parties you may encounter when you perform certain actions:
+
+- Submitting a support ticket via email is managed via Enchant.
+- Ordering physical merchandise is handled via Shopify or other merchandise partners.
+- Supporter tag or other non-physical purchases are handled by Xsolla or PayPal. We do not store any fulfilment or payment information.
 
 ## Your rights and control
 
