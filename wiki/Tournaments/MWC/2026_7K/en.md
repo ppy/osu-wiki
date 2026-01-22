@@ -239,13 +239,13 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Round of 16
 
-**[Download the mappack here (82 MB)](https://packs.ppy.sh/P310%20-%20osu!mania%207K%20World%20Cup%202026%3A%20Round%20of%2016.zip?1769046205)**\
+**[Download the mappack here (82 MB)](https://packs.ppy.sh/P310%20-%20osu!mania%207K%20World%20Cup%202026%3A%20Round%20of%2016.zip?1769076543)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2673741531)
 
 - Rice
   1. [AAAA - reach for your victory!!! (TakJun) \[VictoryJun\]](https://osu.ppy.sh/beatmapsets/2495149#mania/5484225)
   2. [momone chinoi - DENNO MIENMIEN MAO (ExNeko) \[Nemunemu Chordstream\]](https://osu.ppy.sh/beatmapsets/2495154#mania/5484242)
-  3. [69 de 74 - RTTR (Carpihat) \[Extra (189 BPM MWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/2495151#mania/5484230)
+  3. [69 de 74 - RTTR (Carpihat) \[Extra (189 BPM MWC Edit Ver.)\]](https://osu.ppy.sh/beatmapsets/2496728#mania/5488848)
   4. [K4Y5 - soyosoyo (pwhk) \[90.69%\]](https://osu.ppy.sh/beatmapsets/2495257#mania/5484512)
   5. [Kolaa - Amaama Toutetsu Bonbon feat. Kasane Teto & Zundamon (pwhk) \[Saccharin\]](https://osu.ppy.sh/beatmapsets/2495258#mania/5484518)
 - Long Note
