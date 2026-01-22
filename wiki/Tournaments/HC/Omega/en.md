@@ -215,7 +215,7 @@ This competition has come to an end and resulted in the following podium:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **::{ flag=CA }:: [McNonal](https://osu.ppy.sh/users/10395167)** | 4 | 0 | ::{ flag=ID }:: [DeathHydra](https://osu.ppy.sh/users/7457788) | [#1](https://osu.ppy.sh/community/matches/102476742) |
-| ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186) | -1 | 0 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | *win by default** |
+| ::{ flag=SA }:: [-Peachii](https://osu.ppy.sh/users/9683186) | -1 | 0 | **::{ flag=US }:: [KoiFishu](https://osu.ppy.sh/users/4539930)** | *win by default* |
 | ::{ flag=FR }:: [Sukiye](https://osu.ppy.sh/users/3674590) | 2 | 4 | **::{ flag=GB }:: [Matt4132](https://osu.ppy.sh/users/11706972)** | [#1](https://osu.ppy.sh/community/matches/102527058) |
 | **::{ flag=DE }:: [Finney](https://osu.ppy.sh/users/11393702)** | 4 | 3 | ::{ flag=NO }:: [Frodo55](https://osu.ppy.sh/users/14398471) | [#1](https://osu.ppy.sh/community/matches/102689183) |
 
