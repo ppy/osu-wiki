@@ -237,9 +237,11 @@ For best results, include both the user ID and **username** in the tag. This ens
 After saving BBCode, the osu! website will automatically modify the `[profile]` tag in the following ways[^profile-skill]:
 
 1. **Forum**, **Signatures** and **Beatmap Descriptions** will automatically:
-     - add/change to correct `USERID` using `username` under case `1.` and `4.`
-     - change the `username` to the current one under case `3.`
-     - remove the `USERID` argument if both are invalid (case `5.`)
+
+- add/change to correct `USERID` using `username` under case `1.` and `4.`
+- change the `username` to the current one under case `3.`
+- remove the `USERID` argument if both are invalid (case `5.`)
+
 2. **Your User Profile** will not modify your BBCode in any of the above cases.
 
 *Note: The user ID is the numeric string found after `/users/` in an osu! profile URL.*
