@@ -72,6 +72,6 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | MapPool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
+| Drawings | `drawings` or `main` |
 | Showcase | `showcase` |
 | Bracket | `ladder` |
