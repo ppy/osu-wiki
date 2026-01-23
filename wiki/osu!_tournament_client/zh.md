@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
----
-
 # osu! 比赛客户端
 
 **osu! 比赛客户端** 是用于 [osu!tourney](/wiki/osu!_tournament_client/osu!tourney)，并可在直播 osu! 比赛期间，提供多种多样的信息界面的官方信息覆盖层客户端。
@@ -20,7 +15,7 @@ outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
 ![osu! 比赛客户端设置界面](img/setup-screen.png)
 
 - 确保`当前 IPC 来源 (Current IPC source)` 与你使用的 osu!tourney 客户端的安装路径相符合。
-- 点击`更改登录状态... (Change Login)` 登录 osu!(lazer)。
+- 点击`更改登录状态 (Change sign-in)` 登录 osu!(lazer)。
 - 在下面的选项中选择当前比赛的游戏模式。
 - 更改比赛客户端的显示高度，并与 osu!tourney 文件夹下 `tournament.cfg` 文件里的 `Height` 值相等。
 
@@ -36,6 +31,12 @@ outdated_since: ae8bf71aa3b6be2fb2ab20ef1d301b150160fc34
   - Flags
   - Mods
   - Videos
+
+之后使用比赛客户端内置的工具来管理比赛的细节。
+
+- 使用`Team Editor`来管理比赛队伍和选手。
+- 使用`Rounds Editor`来管理比赛轮次和图池。
+- 使用`Bracket Editor`来创建新的对局，并管理对局的队伍、轮次和选手。
 
 ## 自定义
 
@@ -77,5 +78,5 @@ osu! 比赛客户端内可供自定义的组件有队旗、模组图标和背景
 | 图池 (MapPool) | `mappool` |
 | 比赛 (Gameplay) | `gameplay` |
 | 胜利 (Win) | `teamwin-red`、`teamwin-blue` |
-| 分组 (Drawings) | `main` |
+| 分组 (Drawings) | `drawings` 或 `main` |
 | 展示 (Showcase) | `showcase` |
