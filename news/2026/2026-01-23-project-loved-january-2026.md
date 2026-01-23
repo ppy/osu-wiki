@@ -14,6 +14,7 @@ Another year has passed, Loved fans! Did you know that our 2025 resolution has b
 If you ever wanted to get into the nitty gritty, luck is on your side, because you can contribute to Loved too! Feel like you've got the next big map for the Loved category? Send us your suggestions on the [website](https://loved.sh/) to spread some love.
 
 Also, the osu! captains are looking for your thoughts on their proposal on how to handle picks going forward! This will affect the maps going up for voting in 2026, so please give it a read and let them know what you think about their suggestions, and even make your own! Find it [here](https://osu.ppy.sh/community/forums/topics/2172855?n=1).
+
 Thank you for your votes last month! Here's the result rundown:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/2164215?n=2)
