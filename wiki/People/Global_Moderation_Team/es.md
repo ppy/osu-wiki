@@ -141,7 +141,6 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Alemán | Moderación de la comunidad de skinning, moderación del foro |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonés | Moderación del chat |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Sueco, español | Moderación del chat |
-| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Francés, español | Moderación del chat |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesio | Moderación del chat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesio, algo de vietnamita | Moderación del chat, moderación del foro |
@@ -156,6 +155,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tailandés | Moderación del chat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Español | Soporte técnico |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polaco | Liderazgo de equipo, moderación del chat, moderación de la comunidad de mapping/modding |
+| ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) | Italiano | Moderación del chat |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Indonesio | Moderación del chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderación del chat |
