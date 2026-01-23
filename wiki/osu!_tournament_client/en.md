@@ -73,11 +73,11 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | Scene | File(s) |
 | :-- | :-- |
 | Schedule | `schedule` |
-| TeamIntro | `teamintro` |
+| Bracket | `ladder` |
+| Team Intro | `teamintro` |
 | Seeding | `seeding` |
-| MapPool | `mappool` |
+| Map Pool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
 | Drawings | `drawings` or `main` |
 | Showcase | `showcase` |
-| Bracket | `ladder` |
