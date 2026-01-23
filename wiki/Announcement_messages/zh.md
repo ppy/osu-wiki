@@ -12,7 +12,7 @@ tags:
 
 ![公告消息通知](img/notification.png "公告消息通知")
 
-**公告消息**是一种特殊类型的消息，旨在向多个用户发送较长且格式化的消息。公告消息与普通聊天消息的主要区别在于：
+**公告消息**是一种特殊类型的消息，旨在一次向多个用户发送较长且格式化的消息。公告消息与普通聊天消息的主要区别在于：
 
 - 字符限制为 1024，而不是 450
 - 支持 Markdown 语法[^note-images] 进行文本格式化
@@ -22,11 +22,11 @@ tags:
 
 ## 资格
 
-通过网站发送和回复公告消息需要成为[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)、[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 或公告[用户组](/wiki/People/User_group)的成员。但是，只有公告用户组的成员才能通过 [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) 发送聊天公告。
+[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team)、[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 或公告[用户组](/wiki/People/User_group)的成员可以通过网站发送和回复公告消息。但是，只有公告用户组的成员才能使用 [osu! API v2](https://osu.ppy.sh/docs/index.html#create-channel) 发送聊天公告。
 
 ### 提交请求
 
-任何人都可以通过发送电子邮件至 [accounts@ppy.sh](mailto:accounts@ppy.sh)，主题为 `Announce Usergroup Request` 来申请加入公告用户组。此邮件必须从与用户的 osu! 账户关联的电子邮件地址发送。
+任何人都可以通过向 [accounts@ppy.sh](mailto:accounts@ppy.sh) 发送主题为 `Announce Usergroup Request` 的电子邮件来申请加入公告用户组。此邮件必须从与用户的 osu! 账户关联的电子邮件地址发送。
 
 电子邮件正文应包含以下内容：
 
@@ -37,7 +37,7 @@ tags:
 
 ## 发送公告消息
 
-要发送聊天公告，请打开[聊天页面](https://osu.ppy.sh/community/chat)并点击 `create announcement` 按钮。输入频道名称、描述[^note-desc]、收件人列表和预期消息。最后，点击 `create` 按钮发送公告。
+要发送聊天公告，请打开[聊天页面](https://osu.ppy.sh/community/chat)并点击 `创建公告` 按钮。输入频道名称、介绍[^note-desc]、收件人列表和要发送的消息。最后，点击 `创建` 按钮发送公告。
 
 ![公告创建页面](img/page.jpg "公告创建页面")
 
@@ -50,4 +50,4 @@ tags:
 ## 注释
 
 [^note-images]: 公告消息不支持图片。
-[^note-desc]: 与其他输入字段不同，“描述”字段是可选的。
+[^note-desc]: 与其他输入字段不同，“介绍”字段是可选的。
