@@ -500,8 +500,6 @@ That's all from us this month! From the [Project Loved team](https://loved.sh/co
 
 And a special thank you to this month's replay contributors: [Chaoslitz](https://osu.ppy.sh/users/3621552), [Petal](https://osu.ppy.sh/users/7354729), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), and [Motion](https://osu.ppy.sh/users/3885626)!
 
-And a special thank you to this month's replay contributors: [Chaoslitz](https://osu.ppy.sh/users/3621552), [Petal](https://osu.ppy.sh/users/7354729), [BATBALL](https://osu.ppy.sh/users/15173952), [chiv](https://osu.ppy.sh/users/6701656), and [Motion](https://osu.ppy.sh/users/3885626)!
-
 More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
 Cupid awaits you in February!
