@@ -140,7 +140,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | German | Skinning community moderation, forum moderation |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat moderation |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat moderation |
-| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Mapping/modding community moderation |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat moderation |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonesian, some Vietnamese | Chat moderation, forum moderation |
