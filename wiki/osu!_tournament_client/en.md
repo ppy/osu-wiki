@@ -36,7 +36,7 @@ Then use tools inside the osu! tournament client to manage the details.
 
 - Use `Team Editor` to manage teams and players.
 - Use `Rounds Editor` to manage rounds and mappools.
-- Use `Bracket Editor` to create new match and manage match teams, rounds and time.
+- Use `Bracket Editor` to create new matches and manage match teams, rounds and time.
 
 ## Customisation
 
