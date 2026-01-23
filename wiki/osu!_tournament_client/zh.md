@@ -73,6 +73,7 @@ osu! 比赛客户端内可供自定义的组件有队旗、模组图标和背景
 | 场景 | 文件名称 |
 | :-- | :-- |
 | 安排 (Schedule) | `schedule` |
+| 对阵图 (Bracket) | `ladder` |
 | 队伍 (Team Intro) | `teamintro` |
 | 种子排位 (Seeding) | `seeding` |
 | 图池 (Map Pool) | `mappool` |
