@@ -73,10 +73,10 @@ osu! 比赛客户端内可供自定义的组件有队旗、模组图标和背景
 | 场景 | 文件名称 |
 | :-- | :-- |
 | 安排 (Schedule) | `schedule` |
-| 队伍 (TeamIntro) | `teamintro` |
-| 选种 (Seeding) | `seeding` |
-| 图池 (MapPool) | `mappool` |
+| 队伍 (Team Intro) | `teamintro` |
+| 种子排位 (Seeding) | `seeding` |
+| 图池 (Map Pool) | `mappool` |
 | 比赛 (Gameplay) | `gameplay` |
 | 胜利 (Win) | `teamwin-red`、`teamwin-blue` |
-| 分组 (Drawings) | `drawings` 或 `main` |
+| 抽签 (Drawings) | `drawings` 或 `main` |
 | 展示 (Showcase) | `showcase` |
