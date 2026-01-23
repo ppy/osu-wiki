@@ -14,7 +14,7 @@
 
 制作中（常简写为 WIP）和待定分类是初次提交谱面时，可供挑选的两个分类。这两个分类的谱面可在至少两名[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 提名后，移入[过审 (Qualified)](#qualified) 分类。要让谱面进入过审分类，则通常需要摸图员提供大量的摸才能实现。制作中和待定状态的谱面没有排行榜，但在其上的游玩将纳入玩家的统计信息。在选歌界面，这类谱面会显示出一个问号 (![](/wiki/shared/status/pending.png)) 的标识。
 
-处于这个分类，4 周都没有更新的谱面将自动移入[坟场 (Graveyard)](#graveyard)分类。
+处于这个分类，4 周都没有更新的谱面将自动移入[坟场 (Graveyard)](#graveyard) 分类。
 
 ### 过审 (Qualified) {id=qualified}
 
