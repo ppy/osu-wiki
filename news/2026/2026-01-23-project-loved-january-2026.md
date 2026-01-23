@@ -9,7 +9,7 @@ Happy Project Loved New Year, 2026!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Another year has passed, Loved fans! Did you know that our 2025 resolution has been to fill you in about what it is that we do? If we somehow didn't achieve that last year, there's always this year, so here's the run-down: Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+Another year has passed, Loved fans! Did you know that our 2025 resolution has been to fill you in about what it is that we do? If we somehow didn't achieve that last year, there's always this year, so here's the run-down: Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 If you ever wanted to get into the nitty gritty, luck is on your side, because you can contribute to Loved too! Feel like you've got the next big map for the Loved category? Send us your suggestions on the [website](https://loved.sh/) to spread some love.
 
@@ -494,7 +494,7 @@ We are honored to present this chart to start 2026 with new energy and new life!
 
 That's all from us this month! From the [Project Loved team](https://loved.sh/contributors), happy new year! We have more surprises planned for you in 2026, so stay tuned. All the beatmaps that pass voting will reach the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) soon after the polls end, so stay tuned and don't forget your vote, every person counts!
 
-More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
 Cupid awaits you in February!
 
