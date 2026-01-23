@@ -52,7 +52,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶。想与大
 
 组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_snap_divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
 
-活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Beatmapping/Mapping_techniques) • [故事板制作](/wiki/Storyboard) • [谱面皮肤制作](/wiki/Skinning)
+活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Beatmapping/Mapping_techniques) • [故事板制作](/wiki/Storyboard) • [皮肤制作](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
