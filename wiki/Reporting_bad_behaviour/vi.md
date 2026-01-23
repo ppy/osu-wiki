@@ -6,14 +6,14 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ## Các trường hợp đặc biệt
 
-| Tính chất của vi phạm  | điểm liên hệ |
+| Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
 | Lừa đảo/Tấn công mạo danh trong tin nhắn riêng | Gửi báo cáo thường xuyên |
-| Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: [ignore the user](/wiki/Client/Interface/Chat_console#commands-list) instead. For permanent effect, use the in-game ignore list located in [options](/wiki/Client/Options) or block them on the website with the button located on their user profile. |
-| Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) or [GMT](/wiki/People/Global_Moderation_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
-| Inappropriate conduct from a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), via the [BN Management](https://bn.mappersguild.com/reports) website |
-| Inappropriate conduct from a member of the [NAT](/wiki/People/Nomination_Assessment_Team) or [GMT](/wiki/People/Global_Moderation_Team) | [Account support team](/wiki/People/Account_support_team) at [support@ppy.sh](mailto:support@ppy.sh) |
-| Sexual abuse or extreme misbehaviour | Refer to [Reporting Abuse](/wiki/Reporting_bad_behaviour/Abuse) |
+| Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#commands-list). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
+| Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
+| Hành vi không phù hợp từ một [Đề cử Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
+| Hành vi không phù hợp từ một thành viên của [NAT](/wiki/People/Nomination_Assessment_Team) hoặc [GMT](/wiki/People/Global_Moderation_Team) | [Nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) tại [support@ppy.sh](mailto:support@ppy.sh) |
+| Lạm dụng tình dục hoặc hành vi sai trái nghiêm trọng | Tham thảo [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Đối với điều gì khác, xem các hướng dẫn bên dưới.
 
