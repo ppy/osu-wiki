@@ -9,7 +9,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 | Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
 | Lừa đảo/Tấn công mạo danh trong tin nhắn riêng | Gửi báo cáo thường xuyên |
-| Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#commands-list). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
+| Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#Danh-sách-lệnh). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
 | Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một [Đề cử Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một thành viên của [NAT](/wiki/People/Nomination_Assessment_Team) hoặc [GMT](/wiki/People/Global_Moderation_Team) | [Nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) tại [support@ppy.sh](mailto:support@ppy.sh) |
@@ -21,9 +21,11 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ### Lệnh !report 
 
+*Caution: Reporting a user via the `!report` command in osu!(lazer) or via the website will cause the report to be **visible to everyone!** Instead, [use the report menu](#lazer-reports) or report them via [their profile page](#profile-page).*
+
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
-Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo điều này, sử dụng lệnh !report được ưu tiên trong kênh nơi đã xảy ra vi phạm. Đừng cảm thấy căng thẳng: nếu tin nhắn của bạn bắt đầu với !report và một dấu cách, **Nó chỉ được nhìn thấy bởi các người điều hành** và không một ai khác trong trò chuyện. Bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi]() như phần được miêu tả bên dưới nếu bạn vẫn cảm thấy lo ngại.
+Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo điều này, sử dụng [lệnh !report](https://osu.ppy.sh/community/forums/topics/34843) được ưu tiên trong kênh nơi đã xảy ra vi phạm. Đừng cảm thấy căng thẳng: nếu tin nhắn của bạn bắt đầu với !report với một dấu cách, và bạn gửi nó từ osu!(stable) hoặc từ một client IRC, **Nó chỉ được nhìn thấy bởi các người điều hành** và không một ai khác trong trò chuyện. Bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như phần được miêu tả bên dưới nếu bạn vẫn cảm thấy lo ngại.
 
 Cú pháp của lệnh có 2 dạng:
 
@@ -38,31 +40,44 @@ Nếu trong tên người dùng có khoảng trắng, thay thế chúng thành d
 !report người_đó spamming in #osu
 ```
 
-### Trong giao diện trò chơi
+Nếu báo cáo của bạn được gửi thành công, Bancho sẽ hiển thị cho bạn một tin nhắn riêng tư cho biết rằng người điều hành đã được cảnh báo.
 
-![](img/report-user-1.png "User action menu with the report button")
+Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lòng báo cáo người dùng qua [menu cáo báo](#lazer-reports) thay vào đó.   
 
-![](img/report-user-2.png "In-game report dialog")
+### Trong giao diện trò chơi osu!(stable)
+
+![](img/report-user-1.png "Giao diện người dùng đang hoạt động với nút báo cáo")
+
+![](img/report-user-2.png "Hộp thoại báo cáo trong trò chơi")
 
 Đây là cách cài đặt hoạt động nếu người dùng gây khó chịu đang hoạt động trong trò chơi:
 
 1. Nhấn vào tên người dùng của họ và ấn vào nút có tiêu đề `Report User...` màu đỏ 
-2. Lựa chọn danh mục phần lý do và thêm chi tiết (không bắt buộc)  
+2. Lựa chọn danh mục lý do và thêm chi tiết (không bắt buộc)  
 
-## Trang wed
+### Giao diện báo cáo trò chuyện trong osu!(lazer)
+
+![](img/report-lazer-1.png "Giao diện trò chuyện hoạt động với hộp thoại báo cáo")
+
+![](img/report-lazer-2.png "Hộp thoại báo cáo trong trò chơi")
+
+1. Nhấn chuột phải hoặc giữ lâu tên của người dùng gây khó chịu và nhấn vào nút đỏ tiêu đề `Báo cáo` 
+2. Lựa chọn danh mục lý do và thêm chi tiết ( Trừ khi tùy chọn danh mục lý do được chọn là `Khác(nhập bên dưới)`
+
+## Website
 
 ### Trang hồ sơ
 
-![](img/report-user-profile.png "The report button on a profile page")
+![](img/report-user-profile.png "Nút báo cáo trên trang hồ sơ")
 
-![](img/report-user-web.png "Report dialog on the website")
+![](img/report-user-web.png "Hộp thoại báo cáo trên website")
 
 1. Ấn vào nút hình ba chấm dọc và chọn `Report`
 2. Chọn danh mục lý do và thêm chi tiết (không bắt buộc)
 
-### Diễn đàn
+### Diễn đàn {id=forum}
 
-![](img/report-user-forum.png "The report button on a forum post")
+![](img/report-user-forum.png "Nút báo cáo trên bài đăng diễn đàn")
 
 1. Di chuyển con trỏ chuột đến bài đăng.
 2. Trong các nút bấm xuất hiện ở góc trên bên phải của bài đăng, nhấn vào nút biển cảnh báo.
@@ -70,28 +85,28 @@ Nếu trong tên người dùng có khoảng trắng, thay thế chúng thành d
 
 ### Phần bình luận 
 
-![](img/report-user-comment.png "The report button on a website comment")
+![](img/report-user-comment.png "Nút báo cáo trên bình luận website")
 
 1. Bên dưới bình luận, nhấn vào liên kết ` Báo cáo ` 
 2. Lựa chọn danh mục lý do và thêm chi tiết 
 
 ### Beatmap 
 
-![](img/report-beatmap.png "The report button on a beatmap page")
+![](img/report-beatmap.png "Nút báo cáo trên trang beatmap")
 
 1. Nhấn vào nút ba chấm dọc và chọn ` Báo cáo ` 
 2. Lựa chọn danh mục báo cáo và thêm chi tiết 
 
 ### Thảo luận beatmap 
 
-![](img/report-user-discussion.png "The report button on a discussion post")
+![](img/report-user-discussion.png "Nút báo cáo trên bài đăng thảo luận")
 
 1. Bên dưới bài đăng thảo luận, nhấn vào nút ` Báo cáo `. 
 2. Lựa chọn danh mục lý do và thêm chi tiết.
 
 ### Danh sách điểm số
 
-![](img/report-score-user.png "The report button on a top score in a user's profile")
+![](img/report-score-user.png "Nút báo cáo kỉ lục điểm số trên hồ sơ người dùng")
 
 #### Hồ sơ người dùng 
 
@@ -101,7 +116,7 @@ Nếu trong tên người dùng có khoảng trắng, thay thế chúng thành d
 
 #### Danh sách điểm số beatmap 
 
-![](img/report-score-beatmap.png "The report button on a top score in a beatmap scores listing")
+![](img/report-score-beatmap.png "Nút báo cáo trên kỉ lục điểm số trong một danh sách điểm số beatmap")
 
 1. Di chuyển con trỏ chuột đến điểm số 
 2. Tại bên phải của điểm số, nhấn vào nút hình ba chấm dọc và chọn ` Báo cáo `
@@ -109,7 +124,7 @@ Nếu trong tên người dùng có khoảng trắng, thay thế chúng thành d
 
 ### Team 
 
-![](img/report-team.png "The report button on a team listing")
+![](img/report-team.png "Nút báo cáo trên danh sách team")
 
 1. Nhấn vào nút hình ba chấm dọc và chọn ` Báo cáo nhóm `
 2. Lựa chọn danh mục báo cáo và thêm chi tiết
