@@ -40,3 +40,11 @@ outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
 | 400,000 Keys | 400 тысяч раз попасть по клавишам в режиме osu!mania. | Four hundred thousand and still not even close. |
 | 4,000,000 Keys | 4 миллиона раз попасть по клавишам в режиме osu!mania. | Is this the end of the rainbow? |
 | 40,000,000 Keys | 40 миллионов раз попасть по клавишам в режиме osu!mania | When someone asks which keys you play, the answer is now 'yes'. |
+
+## Daily Challenge
+
+| Название медали | Условие | Описание |
+| :-- | :-- | :-- |
+| Daily Sprout | Завершите ежедневное испытание 1 день подряд | Ready for anything. |
+| Weekly Sapling | Завершите ежедневное испытание 7 дней подряд | Circadian rhythm calibrated. |
+| Monthly Shrub | Завершите ежедневное испытание 30 дней подряд | In for the grind. |
