@@ -32,16 +32,16 @@ On desktop platforms, the file store can also be moved in its entirety to anothe
 
 | Name | Functionality |
 | :-- | :-- |
-| `client.realm` | Contains mappings for the data in the `files` folder. |
+| `client.realm` | Contains mappings for the entire database. |
 | `client.realm.lock` | Keeps track of which versions of data in the `files` folder are actively in use.[^realm-files] |
-| `framework.ini` | Contains [osu!framework](https://github.com/ppy/osu-frameworks) specific settings. |
-| `game.ini` | Contains most user settings. |
+| `framework.ini` | Contains [osu!framework](https://github.com/ppy/osu-framework) specific settings. |
+| `game.ini` | Contains some user settings. |
 | `IMPORTANT READ ME.txt` | Warning about modifying or [backing up](#backing-up-files) the directory. |
 | `input.json` | Contains input settings |
 
 ## Storage structure
 
-osu!(stable)'s storage structure, where data was directly accessible to users as standard files, resulted in a lot of teething issues due to having to explicitly handle unwanted modifications of key files. To avoid this, osu!(lazer) employs a more stringent method of file storage. As such, there is no equivalent of the `Songs` and `Skins` folders. All files that are imported to lazer are stored under filenames that reflect their [SHA-256 hashes](https://en.wikipedia.org/wiki/SHA-2). Mappings to these files are held inside a client database.
+osu!(stable)'s storage structure, where data was directly accessible to users as standard files, resulted in a lot of teething issues due to having to explicitly handle unwanted modifications of key files. To avoid this, osu!(lazer) employs a more stringent method of file storage. As such, there is no equivalent of the `Songs` and `Skins` folders. All files that are imported to lazer are stored under filenames in the `files` folder that reflect their [SHA-256 hashes](https://en.wikipedia.org/wiki/SHA-2). Mappings to these files are held inside the `client.realm` file.
 
 For example, a file with the SHA-256 hash of
 
