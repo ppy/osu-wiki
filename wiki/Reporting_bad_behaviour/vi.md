@@ -87,21 +87,21 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 ![](img/report-user-comment.png "Nút báo cáo trên bình luận website")
 
-1. Bên dưới bình luận, nhấn vào liên kết ` Báo cáo ` 
+1. Bên dưới bình luận, nhấn vào liên kết `Báo cáo` 
 2. Lựa chọn danh mục lý do và thêm chi tiết 
 
 ### Beatmap 
 
 ![](img/report-beatmap.png "Nút báo cáo trên trang beatmap")
 
-1. Nhấn vào nút ba chấm dọc và chọn ` Báo cáo ` 
+1. Nhấn vào nút ba chấm dọc và chọn `Báo cáo` 
 2. Lựa chọn danh mục báo cáo và thêm chi tiết 
 
 ### Thảo luận beatmap 
 
 ![](img/report-user-discussion.png "Nút báo cáo trên bài đăng thảo luận")
 
-1. Bên dưới bài đăng thảo luận, nhấn vào nút ` Báo cáo `. 
+1. Bên dưới bài đăng thảo luận, nhấn vào nút `Báo cáo`. 
 2. Lựa chọn danh mục lý do và thêm chi tiết.
 
 ### Danh sách điểm số
@@ -110,8 +110,8 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 #### Hồ sơ người dùng 
 
-1. Cuộn xuống đến phần ` Xếp hạng `, hoặc ` Lịch sử ` với các lần chơi gần đây và tìm kiếm điểm số.
-2. Tại bên phải của điểm số, nhấn vào nút với ba dấu chấm dọc và chọn ` Báo cáo điểm số `. 
+1. Cuộn xuống đến phần `Xếp hạng`, hoặc `Lịch sử` với các lần chơi gần đây và tìm kiếm điểm số.
+2. Tại bên phải của điểm số, nhấn vào nút với ba dấu chấm dọc và chọn `Báo cáo điểm số`. 
 3. Lựa chọn danh mục lý do và thêm chi tiết.
 
 #### Danh sách điểm số beatmap 
@@ -119,14 +119,14 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 ![](img/report-score-beatmap.png "Nút báo cáo trên kỉ lục điểm số trong một danh sách điểm số beatmap")
 
 1. Di chuyển con trỏ chuột đến điểm số 
-2. Tại bên phải của điểm số, nhấn vào nút hình ba chấm dọc và chọn ` Báo cáo `
+2. Tại bên phải của điểm số, nhấn vào nút hình ba chấm dọc và chọn `Báo cáo`
 3. Lựa chọn danh mục báo cáo và thêm chi tiết 
 
 ### Team 
 
 ![](img/report-team.png "Nút báo cáo trên danh sách team")
 
-1. Nhấn vào nút hình ba chấm dọc và chọn ` Báo cáo nhóm `
+1. Nhấn vào nút hình ba chấm dọc và chọn `Báo cáo đội`
 2. Lựa chọn danh mục báo cáo và thêm chi tiết
 
 ## Tài liệu tham thảo 
