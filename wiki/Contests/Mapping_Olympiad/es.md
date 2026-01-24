@@ -58,7 +58,7 @@ Al alcanzar un determinado número de puntos, el concursante puede obtener premi
 
 En [esta hoja de cálculo](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit?usp=sharing) se puede ver una clasificación más detallada.
 
-| Usuario(s) | Puntos |
+| Usuarios | Puntos |
 | :-- | :-- |
 | ::{ flag=SG }:: [Sinnoh](https://osu.ppy.sh/users/4236057), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 10 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969), ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438), ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430), ::{ flag=FI }:: [PianoLuigi](https://osu.ppy.sh/users/9665915), ::{ flag=CN }:: [Necho](https://osu.ppy.sh/users/4086593), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=HK }:: [alienflybot](https://osu.ppy.sh/users/636114), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) | 6 |
