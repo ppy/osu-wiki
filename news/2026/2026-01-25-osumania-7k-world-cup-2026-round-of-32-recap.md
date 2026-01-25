@@ -48,7 +48,7 @@ We're also fortunate enough to have the support of ADD_CREDITS_HERE who have bee
 | #21 | ::{ flag=TW }:: Taiwan | 186 | 1,887,040 | #43 | ::{ flag=CH }:: Switzerland | 389 | 1,208,465 |
 | #22 | ::{ flag=VN }:: Vietnam | 189 | 1,889,915 | #44 | ::{ flag=TR }:: Türkiye | 394 | 1,009,788 |
 
-Qualifiers were anything but uneventful. With such a high amount of participating teams, making the cut has proven to be a very, very difficult task for most teams. Not only that, but the Qualifiers pool was not making it any easier. With the introduction of [Cranky - Hanaarashi](https://osu.ppy.sh/beatmapsets/2488191#mania/5464205) (HB2) by ::{ flag=CN }:: [_Yiiiii](https://osu.ppy.sh/users/6066359) as this year's mini tiebreaker pick, players were conditioned to expect a lot more from the pools to come.
+The Qualifiers were anything but uneventful. With such a high amount of participating teams, making the cut has proven to be a very, very difficult task. Not only that, but the fully custom-mapped Qualifier mappool was not making it any easier, especially with the introduction of [Cranky - Hanaarashi](https://osu.ppy.sh/beatmapsets/2488191#mania/5464205) (HB2) by ::{ flag=CN }:: [_Yiiiii](https://osu.ppy.sh/users/6066359) as this year's mini tiebreaker pick.
 
 While stage 9 didn't hold any punches, South Korea in particular wasn't intimidated by the bump in difficulty, dominating the lobbies with plenty of score to spare when compared to the runner-ups. Big shout-outs go to the Philippines for placing first on the 7th Qualifier stage [Umeboshi Chazuke - Typhoon](https://osu.ppy.sh/beatmapsets/2488185#mania/5464197) (RC4) by ::{ flag=KR }:: [TakJun](https://osu.ppy.sh/users/4356322), even under such stacked competition!
 
@@ -91,7 +91,7 @@ On the opposite end, we had [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beat
 | **Spain** ::{ flag=ES }:: | **5** | 2 | ::{ flag=SE }:: Sweden |
 | Germany ::{ flag=DE }:: | 1 | **5** | ::{ flag=MX }:: **Mexico** |
 
-To say that Round of 32 has been exciting would be a severe understatement. With a total of **3 tiebreakers** being played in just one day, many spectators were left wondering how would future rounds unfold.
+To say that the Round of 32 has been exciting would be a severe understatement. With a total of **3 tiebreakers** being played in just one day, many spectators were left wondering how future rounds would unfold.
 
 From the French derby between France and Canada to the intercontinental matches between Venezuela vs. Taiwan and Thailand vs. Portugal, all of these matches were an amazing watch, and we strongly suggest checking the VODs if you didn't catch them live!
 
@@ -124,7 +124,7 @@ Both teams delivered an exceptional performance, with every pick bringing us clo
 
 The opening round of this year's osu!mania 7K World Cup did not fail to show us some amazing performances from our players. So many, in fact, that this section may be a bit too short for all of them. In any case, here are some scores that made our eyes widen in awe:
 
-- Two Canadian heroes, ::{ flag=CA }:: [Sawdust Inhaler](https://osu.ppy.sh/users/18236316) and ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355), showed us that skill ceilings are only skill suggestions by top scoring [C.miler vs Juka_Box - ABYSSAL // COSMOS](https://osu.ppy.sh/beatmapsets/2491945#mania/5475152) (EX1) and [Qutabire - Stone pavement and Signposts](https://osu.ppy.sh/beatmapsets/2491958#mania/5475187) (EX2) respectively.
+- Two Canadian heroes, ::{ flag=CA }:: [Sawdust Inhaler](https://osu.ppy.sh/users/18236316) and ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355), showed us that skill ceilings are only skill suggestions, by top scoring [C.miler vs Juka_Box - ABYSSAL // COSMOS](https://osu.ppy.sh/beatmapsets/2491945#mania/5475152) (EX1) and [Qutabire - Stone pavement and Signposts](https://osu.ppy.sh/beatmapsets/2491958#mania/5475187) (EX2) respectively.
 - Everyone was in awe of Thailand's returning veteran, ::{ flag=TH }:: [LostCool](https://osu.ppy.sh/users/766374), who managed to top the scores on **all** three regular hybrid picks during the weekend. Very cool, indeed!
 - An early-round recap would not be complete without highlighting the nuttiest scores on the chordjack pick, [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4). There were a whopping eleven (!!) players that hit the 999,000 score mark, but the crown went to both ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) who tied at 999,699. 301 points away from perfection.
 
