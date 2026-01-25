@@ -15,10 +15,10 @@ Participation reached an all-time high with **319 registrations** and **45 (vali
 
 Now, with the introduction out of the way, let's begin this year's recaps by spotlighting the very best moments and highlights of the Round of 32 and Qualifiers.
 
-We're also fortunate enough to have the support of ADD_CREDITS_HERE who have been of great help to make this year's video recaps possible. Please look forward to their weekly recap in video form if you prefer a different medium!
+We're also fortunate enough to have the support of [yukina meng](https://osu.ppy.sh/users/9919550), [Normiplier](https://osu.ppy.sh/users/10069850), [epic man 2](https://osu.ppy.sh/users/14566000), [SurfChu85](https://osu.ppy.sh/users/4469895), and [SunApple](https://osu.ppy.sh/users/11817622) who have been of great help to make this year's video recaps possible. Please look forward to their weekly recap in video form if you prefer a different medium!
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/28yeNC0sZfM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Qualifier highlights
@@ -103,7 +103,7 @@ While we do not have the news post real estate to cover all of these amazing mat
 **[You can view the match VOD here!](https://www.twitch.tv/videos/2672598175)**
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/VIDEO_ID?start=START_SEC&end=END_SEC" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/28yeNC0sZfM?start=517&end=580" frameborder="0" allowfullscreen></iframe>
 </div>
 
 It is no exaggeration to say that France (#16) versus Canada (#17) has been one of the most anticipated matches of the round. Packed with nail-biting close calls and full of unexpected twists, this matchup kept viewers on the very edge of their seats. With both teams having a lot at stake, viewers were treated to an incredibly entertaining showdown.
