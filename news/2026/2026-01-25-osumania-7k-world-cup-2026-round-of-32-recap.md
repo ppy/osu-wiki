@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2026: Round of 32 Recap"
-date: 2026-01-25 23:00:00 +0000
+date: 2026-01-25 12:00:00 +0000
 series: world_cups
 ---
 
