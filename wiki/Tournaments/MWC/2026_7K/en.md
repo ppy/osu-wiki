@@ -139,12 +139,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | 45 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Feb 01 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T030000&p1=1440&p2=235&p3=263) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 43b | Hong Kong ::{ flag=HK }:: | ::{ flag=TW }:: Taiwan | [Feb 01 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T080000&p1=1440&p2=102&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43d | New Zealand ::{ flag=NZ }:: | ::{ flag=TW }:: Taiwan | [Feb 01 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T080000&p1=1440&p2=264&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 44b | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Feb 01 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T090000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 44d | France ::{ flag=FR }:: | ::{ flag=AU }:: Australia | [Feb 01 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T090000&p1=1440&p2=195&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43a | Hong Kong ::{ flag=HK }:: | ::{ flag=ES }:: Spain | [Feb 01 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T100000&p1=1440&p2=102&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43c | New Zealand ::{ flag=NZ }:: | ::{ flag=ES }:: Spain | [Feb 01 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T100000&p1=1440&p2=264&p3=141) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 47 | Philippines ::{ flag=PH }:: | ::{ flag=TH }:: Thailand | [Feb 01 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T100000&p1=1440&p2=145&p3=28) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 46 | Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Feb 01 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T120000&p1=1440&p2=108&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 44b | Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Feb 01 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T130000&p1=1440&p2=262&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 41b | Ireland ::{ flag=IE }:: | ::{ flag=VN }:: Vietnam | [Feb 01 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T133000&p1=1440&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 41d | Germany ::{ flag=DE }:: | ::{ flag=VN }:: Vietnam | [Feb 01 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T133000&p1=1440&p2=37&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 48 | China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Feb 01 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T150000&p1=1440&p2=33&p3=131) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
@@ -156,11 +156,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | 42b | Venezuela ::{ flag=VE }:: | ::{ flag=PT }:: Portugal | [Feb 01 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T180000&p1=1440&p3=133) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 42c | Sweden ::{ flag=SE }:: | ::{ flag=RU }:: Russian Federation | [Feb 01 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T180000&p1=1440&p2=239&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 42d | Sweden ::{ flag=SE }:: | ::{ flag=PT }:: Portugal | [Feb 01 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T180000&p1=1440&p2=239&p3=133) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Semifinals | mappool showcase | [Feb 01 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+|  | Semifinals | mappool showcase | [Feb 01 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260201T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1v_QhQhPTesRiy7sBYmaHRIl9UJlEhRg-T6rDdhYEQZM?rm=minimal).
 
 Saturday, 24 January 2026:
 
@@ -289,20 +291,20 @@ The final standings for the Qualifier stage can be found in the following [sprea
   5. [AL-1S - BIBBIDIBA w/ UZQueen (Irone OSU) \[DANCE\]](https://osu.ppy.sh/beatmapsets/2498323#mania/5493707)
   6. ILusMin feat. Bob Hou - GlassyHeart. (pwhk) \[Fragility.\] (link pending)
 - Long Note
-  1. [Hanatan - Orange (ExNeko) \[Saudade.\]](https://osu.ppy.sh/beatmapsets/2498332#mania/5493744)
-  2. [Kirara Magic - Kirara's Atelier (ExNeko) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/2498331#mania/5493743)
+  1. [Kirara Magic - Kirara's Atelier (ExNeko) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/2498331#mania/5493743)
+  2. [Hanatan - Orange (ExNeko) \[Saudade.\]](https://osu.ppy.sh/beatmapsets/2498332#mania/5493744)
   3. [Nakiri Ayame - Good-bye sengen (MapleSyrup-) \[Shut-in (MWC ver.)\]](https://osu.ppy.sh/beatmapsets/2498334#mania/5493747)
-  4. Elliot Hsu - Celestial Intertwine (ruka) \[Galactic Symphony\] (link pending)
+  4. [Elliot Hsu - Celestial Intertwine (ruka) \[Galactic Symphony\]](https://osu.ppy.sh/beatmapsets/2498408#mania/5494022)
 - Hybrid
   1. [ikaruga\_nex - BLAZES ASSAULT (Rurvker) \[FIRE\]](https://osu.ppy.sh/beatmapsets/2498336#mania/5493751)
   2. kooridori & TRIAL - Miracletale \[Good End\] (pwhk) \[Next Chapter\] (link pending)
-  3. Rim - Deadline Syndrome (Ulazis) \[Procrastination (MWC Edit)\] (link pending)
+  3. [RIM - Deadline Syndrome (Ulazis) \[Procrastination (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2498407#mania/5494017)
 - Extreme
   1. witch's slave vs. kefi - Magicarissa (pwhk) \[Walpurgisnacht\] (link pending)
   2. HATSUBOSHI GAKUEN - Happy Millefeuille (Cut Ver.) (swlie) \[w\] (link pending)
   3. [Laur - Luminous Era (VividCycle) \[Cycle (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2498340#mania/5493805)
 - Tiebreaker
-  1. [takehirotei - SEISHUNNO\_HACKING (Mochineko) \[MYARCHIVE\] (link pending)**
+  1. **[takehirotei - SEISHUN://NO\_HACKING (Mochineko) \[MY://ARCHIVE\]](https://osu.ppy.sh/beatmapsets/2498399#mania/5493993)**
 
 ### Round of 16
 
