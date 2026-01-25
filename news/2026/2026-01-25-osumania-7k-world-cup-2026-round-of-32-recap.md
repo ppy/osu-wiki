@@ -9,11 +9,11 @@ The osu!mania 7K World Cup has begun with a bang! As the new year kicks off, so 
 
 ![](/wiki/Tournaments/MWC/2026_7K/img/mwc7k2026-banner.jpg)
 
-The zenith of osu!mania 7K competition is back in full swing. As top players reconvene once more after a long year of rest, so have all the spectators not willing to miss out on the start of the tournament. Let's hope for the matches to come to bring their fair share of hype moments and aura. Spoiler alert, Round of 32 has more than delivered on that regard!
+After a long year of rest, top players have reconvened once more and so have all the spectators not willing to miss out on the starting matches. If you were hoping for early hype moments, then spoiler alert: the Round of 32 has more than delivered on that regard!
 
-Participation and interest in the event was at an all-time high, with **319 registrations** and **45 (valid) teams** taking part in what it may very well be the most competitive year of the 7K World Cup ever. This is a far cry from 2024 and 2023, whose bracket stages began at Round of 24 and 16, respectively.
+Participation reached an all-time high with **319 registrations** and **45 (valid) teams** taking part in what may very well be the most competitive year of the 7K World Cup ever. This is a far cry from 2024 and 2023, whose bracket stages began at Round of 24 and 16, respectively.
 
-With the introduction out of the way, let's begin this year's recaps by spotlighting the very best moments of Round of 32, as well as some worthwhile highlights from Qualifiers.
+Now, with the introduction out of the way, let's begin this year's recaps by spotlighting the very best moments and highlights of the Round of 32 and Qualifiers.
 
 We're also fortunate enough to have the support of ADD_CREDITS_HERE who have been of great help to make this year's video recaps possible. Please look forward to their weekly recap in video form if you prefer a different medium!
 
@@ -50,9 +50,9 @@ We're also fortunate enough to have the support of ADD_CREDITS_HERE who have bee
 
 Qualifiers were anything but uneventful. With such a high amount of participating teams, making the cut has proven to be a very, very difficult task for most teams. Not only that, but the Qualifiers pool was not making it any easier. With the introduction of [Cranky - Hanaarashi](https://osu.ppy.sh/beatmapsets/2488191#mania/5464205) (HB2) by ::{ flag=CN }:: [_Yiiiii](https://osu.ppy.sh/users/6066359) as this year's mini tiebreaker pick, players were conditioned to expect a lot more from the pools to come.
 
-While stage 9 didn't hold any punches, South Korea in particular wasn't intimidated by the bump in difficulty, dominating the seeding leaderboards with plenty of score to spare when compared to its closest runner-ups. Shoutouts to the Philippines by placing first on [Umeboshi Chazuke - Typhoon](https://osu.ppy.sh/beatmapsets/2488185#mania/5464197) (RC4) by ::{ flag=KR }:: [TakJun](https://osu.ppy.sh/users/4356322), even under such duress!
+While stage 9 didn't hold any punches, South Korea in particular wasn't intimidated by the bump in difficulty, dominating the lobbies with plenty of score to spare when compared to the runner-ups. Big shout-outs go to the Philippines for placing first on the 7th Qualifier stage [Umeboshi Chazuke - Typhoon](https://osu.ppy.sh/beatmapsets/2488185#mania/5464197) (RC4) by ::{ flag=KR }:: [TakJun](https://osu.ppy.sh/users/4356322), even under such stacked competition!
 
-The biggest surprise weren't this year's familiar faces, but those who managed to make the cut into the bracket! Ireland's performance caught everyone by surprise, finding themselves a rather comfortable spot as the #25 seed. This feat is commendable on its own, especially on a year as competitive as this has been set up to be — congratulations!
+That said, the biggest surprise wasn't this year's familiar faces, but those who managed to make the cut into the bracket! Ireland's performance caught everyone by surprise, finding themselves a rather comfortable spot as the #25 seed, congratulations!
 
 ## Mappool recap
 
@@ -64,11 +64,11 @@ The biggest surprise weren't this year's familiar faces, but those who managed t
 
 ![Qualifier mappool table](/wiki/shared/news/2026-01-25-osumania-7k-world-cup-2026-round-of-32-recap/mappool-ro32.jpg)
 
-The first pool of the bracket stage was quite balanced, all things considered. With such a front-heavy Qualifiers pool with some of the hardest maps we've seen pooled in the stage in recent years, most players should've found Round of 32 to be a breeze in comparison. Not easy by any means, but definitely a good time to rest before climbing up the bracket ladder.
+The first pool of the bracket stage was quite balanced, all things considered. The Qualifier pool had some of the hardest maps we've seen pooled for the stage in recent years, so most players should've found the Round of 32 to be a breeze in comparison. It was not easy by any means, but definitely a good time to rest before climbing up the bracket ladder.
 
-The only exception to this was [Lin Xiao An - Tan Yun Xi](https://osu.ppy.sh/beatmapsets/2491926#mania/5475120) (LN2) by ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894). For those who have been following the series, this should not come as a surprise. The long note coordination picks are usually not the easiest ones to perform well in, even for our long note seasoned veterans. As such, this map was banned in 11 out of 16 matches.
+The only exception to this was [Lin Xiao An - Tan Yun Xi](https://osu.ppy.sh/beatmapsets/2491926#mania/5475120) (LN2) by ::{ flag=CN }:: [ExNeko](https://osu.ppy.sh/users/7590894). For those who have been following the series, this should not come as a surprise. The long note coordination picks are usually not the easiest ones to perform well in, even for our seasoned long note veterans. As such, this map was banned in 11 out of 16 matches.
 
-On the opposite end we have [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4) by ::{ flag=TW }:: [Slowpoke104](https://osu.ppy.sh/users/23633474). Chordjack picks, especially those found in earlier rounds, are considered to be the easiest to get high accuracy on. This is exemplified by the fact the highest of scores were achieved in this map, as seen in this week's [mappool statistics](https://docs.google.com/spreadsheets/d/1A0FwQaeqKzIrdANh-lGrzHEE793lbiWry8SodZ2Q0Ag/edit?rm=minimal&gid=1348598934#gid=1348598934).
+On the opposite end, we had [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4) by ::{ flag=TW }:: [Slowpoke104](https://osu.ppy.sh/users/23633474). Chordjack picks, especially those found in earlier rounds, are considered to be the easiest to get high accuracy on. Indeed, this week's highest scores were achieved on this very map, as seen in the [mappool statistics](https://docs.google.com/spreadsheets/d/1A0FwQaeqKzIrdANh-lGrzHEE793lbiWry8SodZ2Q0Ag/edit?rm=minimal&gid=1348598934#gid=1348598934).
 
 ## Round of 32 summary
 
@@ -93,9 +93,9 @@ On the opposite end we have [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beat
 
 To say that Round of 32 has been exciting would be a severe understatement. With a total of **3 tiebreakers** being played in just one day, many spectators were left wondering how would future rounds unfold.
 
-From the French derby between France and Canada, to the intercontinental matches between Venezuela vs. Taiwan and Thailand vs. Portugal. All of these matches were an amazing watch, and we strongly suggest checking the VoDs if you still haven't!
+From the French derby between France and Canada to the intercontinental matches between Venezuela vs. Taiwan and Thailand vs. Portugal, all of these matches were an amazing watch, and we strongly suggest checking the VODs if you didn't catch them live!
 
-While we do not have the news post real estate to cover all of these amazing matches, we've chosen one of the most exciting ones for this week's recap — France versus Canada!
+While we do not have the news post real estate to cover all of these amazing matches, we've chosen one of the most exciting ones for this week's recap:
 
 ### ::{ flag=FR }:: France vs. ::{ flag=CA }:: Canada
 
@@ -110,15 +110,15 @@ It is no exaggeration to say that France (#16) versus Canada (#17) has been one 
 
 Canada secured the first pick and immediately chose [cygnus – Bloody Mary](https://osu.ppy.sh/beatmapsets/2491942#mania/5475146) (RC2), a straightforward choice that focuses on accuracy and consistency. The score swung back and forth throughout the match, with France holding a slight overall lead until the main chorus. However, a single miss from the French side completely flipped the advantage, allowing Canada to secure the first point.
 
-Following the opening loss, France opted for the LN coordination map [Lin Xiao An - Tan Yun Xi](https://osu.ppy.sh/beatmapsets/2491926#mania/5475120) (LN2) to improve their chances by relying on a category with fewer opportunities for mistakes. The risk ended up paying off. Even though Canada initially took a small lead, two sudden misses shifted the momentum in France's favor. The sequence of events mirrored the first match almost perfectly. Difference being that France emerged as the winner!
+Following the opening loss, France opted for the LN coordination map [Lin Xiao An - Tan Yun Xi](https://osu.ppy.sh/beatmapsets/2491926#mania/5475120) (LN2) to improve their chances by relying on a category with fewer opportunities for mistakes. The risk ended up paying off, as even though Canada initially took a small lead, two sudden misses shifted the momentum in France's favor. This sequence of events mirrored the first match almost perfectly, the only difference being that France emerged as the winner!
 
-The teams continued trading points, with Canada claiming most of the rice picks while France dominated the long note category, highlighting the strengths of their respective skill sets. The tides shifted when Canada picked [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4). In a series of unfortunate events, Canada suffered multiple misses, handing France their first rice pick win and a crucial breakpoint. Notably, three out of four players — ::{ flag=FR }:: [\[RUE\]Clamati](https://osu.ppy.sh/users/9049282), ::{ flag=FR }:: [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), and ::{ flag=CA }:: [Dale940](https://osu.ppy.sh/users/13847951) — achieved scores above 999,000; an impressive display of accuracy!
+The teams continued trading points, with Canada claiming most of the rice picks while France dominated the long note category, highlighting the strengths of their respective skill sets. The tides shifted when Canada picked [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4). In a series of unfortunate events, Canada suffered multiple misses, handing France their first rice pick win and a crucial break point. Notably, three out of four players — ::{ flag=FR }:: [\[RUE\]Clamati](https://osu.ppy.sh/users/9049282), ::{ flag=FR }:: [Jerem\[Monkey\]](https://osu.ppy.sh/users/13431947), and ::{ flag=CA }:: [Dale940](https://osu.ppy.sh/users/13847951) — achieved scores above 999,000. What an impressive display of accuracy!
 
 With France consistently winning their LN picks, they chose [Qutabire - Stone pavement and Signposts](https://osu.ppy.sh/beatmapsets/2491958#mania/5475187) (EX2), confident it would seal the match. Unfortunately for France, the strategy backfired. During the second half of the map, Canada managed to overtake their score, forcing a tiebreaker. This clutch was in no small part won thanks to ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355)'s performance, who managed to score a total of 994,034 points on one of the pool's most avoided picks.
 
 The tiebreaker featured a wide range of skill sets and tricky patterns that tested both focus and endurance. The score gap remained razor-thin until the technically demanding chorus, where France suffered heavy misses. Canada capitalised on this opportunity, took the lead, and maintained it until the very end to secure the victory in the final battle.
 
-Both teams delivered an exceptional performance, with every pick bringing us closer to the edge of our seats. Canada advanced in the winners' bracket, while France will continue their fight for survival in the World Cup. Given their performance, we can confidently expect even stronger showings from France in the matches to come.
+Both teams delivered an exceptional performance, with every pick bringing us closer to the edge of our seats. Canada advances to the winners' bracket, while France will have to fight for survival in the losers' bracket. Given their performance, however, we can confidently expect even stronger showings from France in the matches to come.
 
 ## Score highlights
 
@@ -126,7 +126,7 @@ The opening round of this year's osu!mania 7K World Cup did not fail to show us 
 
 - Two Canadian heroes, ::{ flag=CA }:: [Sawdust Inhaler](https://osu.ppy.sh/users/18236316) and ::{ flag=CA }:: [UmmmMrMoo](https://osu.ppy.sh/users/15314355), showed us that skill ceilings are only skill suggestions by top scoring [C.miler vs Juka_Box - ABYSSAL // COSMOS](https://osu.ppy.sh/beatmapsets/2491945#mania/5475152) (EX1) and [Qutabire - Stone pavement and Signposts](https://osu.ppy.sh/beatmapsets/2491958#mania/5475187) (EX2) respectively.
 - Everyone was in awe of Thailand's returning veteran, ::{ flag=TH }:: [LostCool](https://osu.ppy.sh/users/766374), who managed to top the scores on **all** three regular hybrid picks during the weekend. Very cool, indeed!
-- An early round recap will not be complete without highlighting the nuttiest scores on the chordjack pick, [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4). There were a whopping eleven (!!) players that hit the 999,000 score mark; but the crown went to both ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007), who tied at 999,699. 301 points away from perfection.
+- An early-round recap would not be complete without highlighting the nuttiest scores on the chordjack pick, [KORDHELL x VALORANT - VYSE](https://osu.ppy.sh/beatmapsets/2491995#mania/5475288) (RC4). There were a whopping eleven (!!) players that hit the 999,000 score mark, but the crown went to both ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649) and ::{ flag=JP }:: [rainlily](https://osu.ppy.sh/users/485007) who tied at 999,699. 301 points away from perfection.
 
 ---
 
