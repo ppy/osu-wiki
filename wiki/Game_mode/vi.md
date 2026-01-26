@@ -22,7 +22,7 @@ osu! hiện tại có 4 **chế độ chơi** tích hợp trong game với nhữ
 
 *Trang gốc: [osu!](osu!)*
 
-*osu!* là chế độ chơi mặc định của game, nơi mà bạn phải bấm vào những nốt tròn, giữ ở những nốt dài, và xoay những nốt yêu cầu phải xoay theo nhịp của bài nhạc. Nó được dựa theo tựa game nhịp điệu[iNiS](https://en.wikipedia.org/wiki/INiS)'  *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! có một nhân vật biểu tượng là [pippi](/wiki/Mascots#pippi), một cô gái với mái tóc màu hồng và đen.
+*osu!* là chế độ chơi mặc định của game, nơi mà bạn phải bấm vào những nốt tròn, nhấn giữ ở những nốt dài, và xoay những nốt yêu cầu phải xoay theo nhịp của bài nhạc. Nó được dựa theo tựa game nhịp điệu của [iNiS](https://en.wikipedia.org/wiki/INiS)' là *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! có nhân vật biểu tượng là [pippi](/wiki/Mascots#pippi), một cô gái với mái tóc màu hồng và đen.
 
 ![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! gameplay")
 
