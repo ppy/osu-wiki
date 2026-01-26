@@ -9,7 +9,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 | Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
 | Lừa đảo/Tấn công mạo danh trong tin nhắn riêng | Gửi báo cáo thường xuyên |
-| Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#Danh-sách-lệnh). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
+| Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#danh-sách-lệnh). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
 | Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một [Đề cử Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một thành viên của [NAT](/wiki/People/Nomination_Assessment_Team) hoặc [GMT](/wiki/People/Global_Moderation_Team) | [Nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) tại [support@ppy.sh](mailto:support@ppy.sh) |
@@ -21,7 +21,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ### Lệnh !report 
 
-*Thận trọng: việc báo cáo người dùng qua lệnh `!report` trong osu!(lazer) hoặc thông qua website sẽ làm cho báo cáo trở thành được **mọi người nhìn thấy** thay vào đó, vui lòng [sử dụng báo cáo trên menu](#lazer-reports) hoặc báo cáo họ thông qua [trang hồ sơ của họ](#profile-page).*
+*Thận trọng: việc báo cáo người dùng qua lệnh `!report` trong osu!(lazer) hoặc thông qua website sẽ làm cho báo cáo trở thành **được mọi người nhìn thấy** thay vào đó, vui lòng [sử dụng báo cáo trên menu](#lazer-reports) hoặc báo cáo họ thông qua [trang hồ sơ của họ](#trang-hồ-sơ).*
 
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
@@ -44,7 +44,7 @@ Nếu báo cáo của bạn được gửi thành công, Bancho sẽ hiển th�
 
 Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lòng báo cáo người dùng qua [menu cáo báo](#lazer-reports) thay vào đó.   
 
-### Trong giao diện trò chơi osu!(stable)
+### Trong giao diện trò chơi osu!(stable) {id=stable-reports}
 
 ![](img/report-user-1.png "Giao diện người dùng đang hoạt động với nút báo cáo")
 
@@ -55,7 +55,7 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 1. Nhấn vào tên người dùng của họ và ấn vào nút có tiêu đề `Report User...` màu đỏ 
 2. Lựa chọn danh mục lý do và thêm chi tiết (không bắt buộc)  
 
-### Giao diện báo cáo trò chuyện trong osu!(lazer)
+### Giao diện báo cáo trò chuyện trong osu!(lazer) {id=lazer-reports}
 
 ![](img/report-lazer-1.png "Giao diện trò chuyện hoạt động với hộp thoại báo cáo")
 
