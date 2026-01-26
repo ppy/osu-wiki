@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clicker's Choice 2025
-date: 2026-01-26 21:00:00 +0000
+date: 2026-01-26 19:00:00 +0000
 ---
 
 Specifically, a choice of the top players of 2025, all in your hands.
