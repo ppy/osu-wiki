@@ -14,7 +14,7 @@ It's a new year, but we're still looking to reflect and highlight everything awe
 
 [![**Click here to vote in the Clicker's Choice 2025!**](/wiki/shared/news/2026-01-26-clickers-choice-2025/vote.png)](https://choice.hwc.hr/vote/101)
 
-You will only be able to vote for 15 players (and note that you must fill in all of them), but the evaluation will be for the top 20**.
+You will only be able to vote for 15 players (and note that you must fill in all of them), but the evaluation will be for the **top 20**.
 
 To get started, you must log in via your osu! account to the voting website. This voting is organised by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761), with ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626) taking over the video production.
 
@@ -22,7 +22,7 @@ To get started, you must log in via your osu! account to the voting website. Thi
 
 The following players will be nominated:
 
-- Players above global rank #10,000
+- Players between global rank #1 – #10,000
 - Players above 5k play count in 2025
 
 Players who didn't meet these criteria by the start of the voting aren't visible.
