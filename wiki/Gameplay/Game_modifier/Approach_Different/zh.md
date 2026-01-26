@@ -14,7 +14,7 @@ tags:
 
 ![Approach Different 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/AD.png)
 
-*别相信缩圈...*
+*永远别相信缩圈...*
 
 |  |  |
 | :-- | :-- |

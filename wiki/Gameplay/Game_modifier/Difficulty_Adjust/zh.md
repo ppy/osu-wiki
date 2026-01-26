@@ -14,7 +14,7 @@ tags:
 
 ![Difficulty Adjust 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/DA.png)
 
-*覆盖谱面的难度设置。*
+*覆写谱面的难度设定。*
 
 |  |  |
 | :-- | :-- |

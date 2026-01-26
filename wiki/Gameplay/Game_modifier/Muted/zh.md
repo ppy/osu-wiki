@@ -13,7 +13,7 @@ tags:
 
 ![Muted 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MU.png)
 
-*没有音乐，还能感知到节奏吗？*
+*没有音乐，你还能感知到节奏吗？*
 
 |  |  |
 | :-- | :-- |
@@ -28,7 +28,7 @@ tags:
 
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Muted** 模组随玩家的[连击数](/wiki/Gameplay/Combo_(score_multiplier))增加，降低音乐与[打击音效](/wiki/Beatmapping/Hitsound)的音量，最终将二者完全静音。在音量降低期间，节拍器声会逐渐出现。[断连](/wiki/Gameplay/Judgement/Combobreak)会使音量恢复到正常水平。
+**Muted** 模组会随着玩家的[连击数](/wiki/Gameplay/Combo_(score_multiplier))增加而降低音乐和[打击音效](/wiki/Beatmapping/Hitsound)的音量，最终将二者完全静音。随着音量的降低，节拍器声音会逐渐响起。[断连](/wiki/Gameplay/Judgement/Combobreak)会使音量恢复到正常水平。
 
 ## 自定义
 

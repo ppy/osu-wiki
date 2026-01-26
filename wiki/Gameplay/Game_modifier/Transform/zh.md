@@ -14,7 +14,7 @@ tags:
 
 ![Transform 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/TR.png)
 
-*啥东西都在转。对。*
+*一切都在转。一切。*
 
 |  |  |
 | :-- | :-- |

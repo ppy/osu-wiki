@@ -32,7 +32,7 @@ tags:
 *对于该文章的 osu!stable 版本，请见：[Sudden Death（模组）](/wiki/Gameplay/Game_modifier/Sudden_Death)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Sudden Death** 模组在 Miss [谱面](/wiki/Beatmap)中的物件时触发失败。漏掉物件、[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)与[转盘](/wiki/Gameplay/Hit_object/Spinner)都会导致玩家失败。然而漏掉[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)或没按着空的滑条路径走时，由于不会导致断连，均不会触发该效果。
+**Sudden Death** 模组在 Miss [谱面](/wiki/Beatmap)中的物件时触发失败。漏掉物件、[滑条点](/wiki/Gameplay/Hit_object/Slider/Slider_tick)与[转盘](/wiki/Gameplay/Hit_object/Spinner)都会导致玩家失败。然而漏掉[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)或没按住一段空的滑条路径的情况下，由于不会导致[断连](/wiki/Gameplay/Judgement/Combobreak)，均不会触发该效果。
 
 ## 自定义
 

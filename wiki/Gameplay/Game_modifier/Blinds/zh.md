@@ -30,7 +30,7 @@ tags:
 
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Blinds** 模组将整个屏幕用[障子门](https://en.wikipedia.org/wiki/Shoji)覆盖，使玩家无法看到后面的物件。玩家获得的 Miss 越多，门开得就越大，连击数累计的效果则相反。
+**Blinds** 模组将整个屏幕用[障子门](https://zh.wikipedia.org/wiki/%E9%9A%9C%E5%AD%90)覆盖，使玩家无法看到后面的物件。玩家获得的 Miss 越多，门开得就越大，连击数累计的效果则相反。
 
 **此模组不支持自定义。**
 

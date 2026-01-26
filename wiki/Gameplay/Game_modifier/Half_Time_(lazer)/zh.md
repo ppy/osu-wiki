@@ -39,7 +39,7 @@ tags:
 ![游戏客户端中 Half Time 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HT.png)
 
 - **速度削减**（0.50x–0.99x，默认为 0.75x）：游玩谱面的速度。
-- **调节音调**（默认禁用）：依照所选速度更改音频频率。*启用该选项不会导致模组分数不计入排名。*（使用默认速度游玩时，其音频效果与 [Daycore](/wiki/Gameplay/Game_modifier/Daycore) 模组相同）
+- **调节音调**（默认禁用）：依照所选速度更改音频频率。*启用该选项不会导致模组分数不计入排名。*（使用默认的速度削减游玩时，其音频效果与 [Daycore](/wiki/Gameplay/Game_modifier/Daycore) 模组相同）
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

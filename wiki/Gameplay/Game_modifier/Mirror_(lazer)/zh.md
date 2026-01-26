@@ -15,8 +15,8 @@ tags:
 ![Mirror 模组图标](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/MR.png)
 
 *![][osu!]: 物件绕所选轴翻转。*\
-*![][osu!catch]: 水果水平翻转。*\
-*![][osu!mania]: 音符水平翻转。*
+*![][osu!catch]: 水果左右翻转。*\
+*![][osu!mania]: 音符左右翻转。*
 
 |  |  |
 | :-- | :-- |

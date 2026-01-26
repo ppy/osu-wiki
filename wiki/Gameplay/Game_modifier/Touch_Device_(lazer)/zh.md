@@ -32,7 +32,7 @@ tags:
 
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Touch Device** 模组标志着分数是在[带有触摸屏的设备](/wiki/Gameplay/Input_device/Touch_device)上获得的，且在游玩期间（除[休息时段](/wiki/Beatmap/Break)外）使用了触摸输入。[^touch-inputs-ref] 该模组会考虑到触屏玩法对大[跳](/wiki/Beatmap/Pattern/osu!/Jump)难度的降低，从而调整[星数](/wiki/Beatmap/Star_rating)与[表现分](/wiki/Performance_points)的计算结果。
+**Touch Device** 模组标志着分数是在[带有触摸屏的设备](/wiki/Gameplay/Input_device/Touch_device)上获得的，且在游玩期间（除[休息时段](/wiki/Beatmap/Break)外）使用了触摸输入。[^touch-inputs-ref] 该模组会基于触屏玩法中大[跳](/wiki/Beatmap/Pattern/osu!/Jump)难度降低的考虑，调整[星数](/wiki/Beatmap/Star_rating)与[表现分](/wiki/Performance_points)的计算结果。
 
 Touch Device 模组无法由用户选中。在满足条件时，分数会自动添加该模组。
 

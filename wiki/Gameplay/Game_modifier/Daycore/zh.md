@@ -30,7 +30,7 @@ tags:
 
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**Daycore** 模组更改速度与调节难度的行为与 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) 完全一致。但该模组将音频频率降低至 75%，而其自定义设置中不会提供音调调节选项。
+**Daycore** 模组更改速度与调节难度的行为与 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) 完全一致，只是该模组将音频的频率（音调）降低至 75%，而且不允许在自定义设置中更改音调。
 
 ## 自定义
 

@@ -32,7 +32,7 @@ tags:
 *对于该文章的 osu!stable 版本，请见：[No Fail（模组）](/wiki/Gameplay/Game_modifier/No_Fail)*\
 *对于 [lazer](/wiki/Client/Release_stream/Lazer) 模组的完整列表，请见：[游戏模组 (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-**No Fail** 模组会避免玩家游玩[谱面](/wiki/Beatmap)失败，即使[血条](/wiki/Client/Interface/Health_bar)降到零，或者没有得分也是如此。此模组对所有[游戏模式](/wiki/Game_mode)效果相同。
+**No Fail** 模组可以防止玩家在任何[谱面](/wiki/Beatmap)中失败，即使[血条](/wiki/Client/Interface/Health_bar)归零或没有得分。该模组在所有[游戏模式](/wiki/Game_mode)中具有相同的效果。
 
 **此模组不支持自定义。**
 

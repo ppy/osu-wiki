@@ -40,7 +40,7 @@ tags:
 ![游戏客户端中 Double Time 模组的自定义设置](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
 - **速度加成**（1.01x-2.00x，默认为 1.50x）：游玩谱面的速度。
-- **调节音调**（默认禁用）：依照所选速度更改音频频率。*启用该选项不会导致模组分数不计入排名。*（使用默认速度游玩时，其音频效果与 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) 模组相同）
+- **调节音调**（默认禁用）：依照所选速度更改音频频率。*启用该选项不会导致模组分数不计入排名。*（使用默认速度加成游玩时，其音频效果与 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) 模组相同）
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
