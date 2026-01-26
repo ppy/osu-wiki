@@ -21,7 +21,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ### Lệnh !report 
 
-*Caution: Reporting a user via the `!report` command in osu!(lazer) or via the website will cause the report to be **visible to everyone!** Instead, [use the report menu](#lazer-reports) or report them via [their profile page](#profile-page).*
+*Thận trọng: việc báo cáo người dùng qua lệnh `!report` trong osu!(lazer) hoặc thông qua website sẽ làm cho báo cáo trở thành được **mọi người nhìn thấy** thay vào đó, vui lòng [sử dụng báo cáo trên menu](#lazer-reports) hoặc báo cáo họ thông qua [trang hồ sơ của họ](#profile-page).*
 
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
