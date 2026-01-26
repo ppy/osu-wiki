@@ -9,10 +9,10 @@ osu! hiện tại có 4 **chế độ chơi** tích hợp trong game với nhữ
 - ![][osu!mania] [osu!mania](#osu!mania)
 
 Để chuyển qua lại giữa các chế độ, bấm vào nút `Chế độ` ở dưới cùng khu vực lựa chọn bài nhạc ở phiên bản osu!(stable), chọn nút ở góc trên cùng màn hình ở phiên bản osu!(lazer), hoặc sử dụng các tổ hợp phím sau:
-- `Ctrl` + `1` for osu!
-- `Ctrl` + `2` for osu!taiko
-- `Ctrl` + `3` for osu!catch
-- `Ctrl` + `4` for osu!mania
+- `Ctrl` + `1` cho osu!
+- `Ctrl` + `2` cho osu!taiko
+- `Ctrl` + `3` cho osu!catch
+- `Ctrl` + `4` cho osu!mania
 
 ![Giao diện lựa chọn chế độ chơi ở osu!(stable)](/wiki/shared/Interface_mode.png "Mode selection interface in osu!(stable)")
 
