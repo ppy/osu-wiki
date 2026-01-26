@@ -282,7 +282,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 ### Quarterfinals
 
 **[Download the mappack here (122 MB)](https://packs.ppy.sh/P311%20-%20osu%21mania%207K%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2673741531)
+[View the showcase VOD here](https://www.twitch.tv/videos/2680113543)
 
 - Rice
   1. [MetaHumanBoi - Speed Bomb (Carpihat) \[IShowSpeed (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2498327#mania/5493725)
