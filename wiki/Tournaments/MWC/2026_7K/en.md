@@ -289,7 +289,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [LV.4 - Angel dust (2016 Radio Mix) (\_Kobii) \[Dissociation\]](https://osu.ppy.sh/beatmapsets/2498318#mania/5493692)
   3. [Sakamiya - Valkyrie Revolutia (\[GS\]hina) \[Orationis\]](https://osu.ppy.sh/beatmapsets/2498320#mania/5493694)
   4. [Cres. - Gargoyle (\_Yiiiii) \[hwy...\]](https://osu.ppy.sh/beatmapsets/2498417#mania/5494049)
-  5. [AL-1S - BIBBIDIBA w/ UZQueen (Irone OSU) \[DANCE\]](https://osu.ppy.sh/beatmapsets/2498323#mania/5493707)
+  5. [AL-1S - BIBBIDIBA w/ UZQueen (Irone OSU) \[DANCE (EDIT)\]](https://osu.ppy.sh/beatmapsets/2498323#mania/5493706)
   6. [ILusMin feat. Bob Hou - GlassyHeart. (pwhk) \[Fragility.\]](https://osu.ppy.sh/beatmapsets/2498428#mania/5494089)
 - Long Note
   1. [Kirara Magic - Kirara's Atelier (ExNeko) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/2498331#mania/5493743)
