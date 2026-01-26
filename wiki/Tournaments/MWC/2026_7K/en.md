@@ -281,15 +281,16 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Quarterfinals
 
+**[Download the mappack here (122 MB)](https://packs.ppy.sh/P311%20-%20osu%21mania%207K%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2673741531)
 
 - Rice
   1. [MetaHumanBoi - Speed Bomb (Carpihat) \[IShowSpeed (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2498327#mania/5493725)
   2. [LV.4 - Angel dust (2016 Radio Mix) (\_Kobii) \[Dissociation\]](https://osu.ppy.sh/beatmapsets/2498318#mania/5493692)
   3. [Sakamiya - Valkyrie Revolutia (\[GS\]hina) \[Orationis\]](https://osu.ppy.sh/beatmapsets/2498320#mania/5493694)
-  4. Cres. - Gargoyle (\_Yiiiii) \[hwy...\] (link pending)
+  4. [Cres. - Gargoyle (\_Yiiiii) \[hwy...\]](https://osu.ppy.sh/beatmapsets/2498417#mania/5494049)
   5. [AL-1S - BIBBIDIBA w/ UZQueen (Irone OSU) \[DANCE\]](https://osu.ppy.sh/beatmapsets/2498323#mania/5493707)
-  6. ILusMin feat. Bob Hou - GlassyHeart. (pwhk) \[Fragility.\] (link pending)
+  6. [ILusMin feat. Bob Hou - GlassyHeart. (pwhk) \[Fragility.\]](https://osu.ppy.sh/beatmapsets/2498428#mania/5494089)
 - Long Note
   1. [Kirara Magic - Kirara's Atelier (ExNeko) \[Tranquility\]](https://osu.ppy.sh/beatmapsets/2498331#mania/5493743)
   2. [Hanatan - Orange (ExNeko) \[Saudade.\]](https://osu.ppy.sh/beatmapsets/2498332#mania/5493744)
@@ -297,11 +298,11 @@ The final standings for the Qualifier stage can be found in the following [sprea
   4. [Elliot Hsu - Celestial Intertwine (ruka) \[Galactic Symphony\]](https://osu.ppy.sh/beatmapsets/2498408#mania/5494022)
 - Hybrid
   1. [ikaruga\_nex - BLAZES ASSAULT (Rurvker) \[FIRE\]](https://osu.ppy.sh/beatmapsets/2498336#mania/5493751)
-  2. kooridori & TRIAL - Miracletale \[Good End\] (pwhk) \[Next Chapter\] (link pending)
+  2. [kooridori & TRIAL - Miracletale \[Good End\] (pwhk) \[Next Chapter\]](https://osu.ppy.sh/beatmapsets/2498432#mania/5494108)
   3. [RIM - Deadline Syndrome (Ulazis) \[Procrastination (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2498407#mania/5494017)
 - Extreme
-  1. witch's slave vs. kefi - Magicarissa (pwhk) \[Walpurgisnacht\] (link pending)
-  2. HATSUBOSHI GAKUEN - Happy Millefeuille (Cut Ver.) (swlie) \[w\] (link pending)
+  1. [witch's slave vs. kefi - Magicarissa (pwhk) \[Walpurgisnacht\]](https://osu.ppy.sh/beatmapsets/2498429#mania/5494097)
+  2. [HATSUBOSHI GAKUEN - Happy Millefeuille (Cut Ver.) (swlie) \[\>w\<\]](https://osu.ppy.sh/beatmapsets/2498461#mania/5494168)
   3. [Laur - Luminous Era (VividCycle) \[Cycle (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/2498340#mania/5493805)
 - Tiebreaker
   1. **[takehirotei - SEISHUN://NO\_HACKING (Mochineko) \[MY://ARCHIVE\]](https://osu.ppy.sh/beatmapsets/2498399#mania/5493993)**
