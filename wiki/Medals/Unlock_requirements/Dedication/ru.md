@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
----
-
 # Условия получения медалей Dedication
 
 ## osu!
@@ -45,6 +40,6 @@ outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
 
 | Название медали | Условие | Описание |
 | :-- | :-- | :-- |
-| Daily Sprout | Завершите ежедневное испытание 1 день подряд | Ready for anything. |
-| Weekly Sapling | Завершите ежедневное испытание 7 дней подряд | Circadian rhythm calibrated. |
-| Monthly Shrub | Завершите ежедневное испытание 30 дней подряд | In for the grind. |
+| Daily Sprout | Выполнить [ежедневное испытание](/wiki/Gameplay/Daily_challenge). | Ready for anything. |
+| Weekly Sapling | Выполнять [ежедневное испытание 7 дней подряд](/wiki/Gameplay/Daily_challenge). | Circadian rhythm calibrated. |
+| Monthly Shrub | Выполнять [ежедневное испытание 30 дней подряд](/wiki/Gameplay/Daily_challenge). | In for the grind. |
