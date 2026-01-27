@@ -20,7 +20,7 @@ Editor dùng chung các công cụ cho osu!, osu!taiko và osu!catch, trong khi 
 
 ![](img/objects-timeline.jpg "Timeline hit object theo beat snap divisor và timestamp")
 
-Timeline có thể phóng to hoặc thu nhỏ bằng nút `+`/`-` ở bên trái, hoặc cuộn chuột trong khi giữ phím `Alt`. Hai đường màu trắng ở giữa biểu thị timestamp hiện tại. Ngoài ra, các hit object trên timeline có thể được chọn và di chuyển bằng chuột trái, hoặc xoá bằng cách nhấp chuột phải.
+Timeline có thể phóng to hoặc thu nhỏ bằng nút `+`/`-` ở bên trái, hoặc cuộn chuột trong khi giữ phím `Alt`. Hai đường màu trắng ở giữa biểu thị timestamp hiện tại. Ngoài ra, các hit object trên timeline có thể được chọn và di chuyển bằng chuột trái, hoặc xóa bằng cách nhấp chuột phải.
 
 Nhấp và kéo phần đuôi slider trên timeline sang phải để tạo [repeat slider](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
 
@@ -44,7 +44,7 @@ Giữ `Alt` để chuyển thanh trượt sang chế độ [distance spacing](/w
 | :-- | :-- |
 | `Sampleset` | Ghi đè [sampleset](/wiki/Beatmapping/Sampleset) của các object được chọn (bao gồm hitnormal). Chọn `Auto` sẽ đặt lại sampleset theo [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points) đang hoạt động. |
 | `Additions` | Ghi đè sampleset của các object được chọn, chỉ ảnh hưởng tới các hitsound bổ sung (whistle, finish và clap). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
-| `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Chọn hoặc di chuyển object hay control point. `Chuột phải`: Xoá object hoặc control point. `Ctrl` + `Chuột trái`: Chọn nhiều object. `Ctrl` + `Chuột trái` khi chọn slider: Thêm [control point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
+| `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Chọn hoặc di chuyển object hay control point. `Chuột phải`: xóa object hoặc control point. `Ctrl` + `Chuột trái`: Chọn nhiều object. `Ctrl` + `Chuột trái` khi chọn slider: Thêm [control point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
 | `Circle` (`2`) | `Chuột trái`: Thêm một [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) tại timestamp hiện tại. |
 | `Slider` (`3`) | `Chuột trái`/`Chuột phải`: Bắt đầu hoặc kết thúc một [slider](/wiki/Gameplay/Hit_object/Slider) tại timestamp hiện tại. `Chuột trái` khi đặt slider: Thêm control point. |
 | `Spinner` (`4`) | `Chuột trái`/`Chuột phải`: Bắt đầu hoặc kết thúc một [spinner](/wiki/Gameplay/Hit_object/Spinner) tại timestamp hiện tại. |
@@ -111,7 +111,7 @@ Khu vực trung tâm chứa timeline với các mốc và nút điều khiển n
 | Phím tắt | Mô tả |
 | :-- | :-- |
 | `Ctrl` + `B` | Thêm bookmark tại vị trí hiện tại. |
-| `Ctrl` + `Shift` + `B` | Xoá bookmark gần nhất (cách dưới 2 giây). |
+| `Ctrl` + `Shift` + `B` | xóa bookmark gần nhất (cách dưới 2 giây). |
 | `Ctrl` + `Mũi tên phải` | Đi tới bookmark tiếp theo. |
 | `Ctrl` + `Mũi tên trái` | Quay về bookmark trước đó. |
 
@@ -137,7 +137,7 @@ Trong osu!mania, khu vực beat snap divisor còn hiển thị tên và mức â
 | :-- | :-- |
 | `Sampleset` | Ghi đè [sampleset](/wiki/Beatmapping/Sampleset) của các object được chọn (bao gồm hitnormal). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
 | `Additions` | Ghi đè sampleset của các object được chọn, chỉ ảnh hưởng tới hitsound bổ sung (whistle, finish và clap). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
-| `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Di chuyển timestamp và vị trí của note. `Chuột phải`: Xoá note. `Ctrl` + `Chuột trái`: Chọn nhiều object. |
+| `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Di chuyển timestamp và vị trí của note. `Chuột phải`: xóa note. `Ctrl` + `Chuột trái`: Chọn nhiều object. |
 | `Circle` (`2`) | `Chuột trái`: Đặt một note. |
 | `Hold` (`3`) | Giữ `Chuột trái`: Đặt một hold note và điều chỉnh độ dài. Thả chuột để kết thúc note. |
 
@@ -181,9 +181,9 @@ Bên trái cửa sổ sample import liệt kê tất cả các sample âm thanh 
 
 | Tên | Mô tả |
 | :-- | :-- |
-| `CustomSet` | Áp dụng bộ hitsound mặc định và âm lượng mà không dùng của timing point hiện tại, bỏ qua lựa chọn sample bên trái. *Lưu ý: để hoạt động đúng, tuỳ chọn `Use basic sample` phải được bật.* |
+| `CustomSet` | Áp dụng bộ hitsound mặc định và âm lượng mà không dùng của timing point hiện tại, bỏ qua lựa chọn sample bên trái. *Lưu ý: để hoạt động đúng, tùy chọn `Use basic sample` phải được bật.* |
 | `Volume` | Độ to của tệp âm thanh. Chỉ dùng giá trị số nguyên từ 8 đến 100. |
-| `Use basic sample` | Chỉ áp dụng thay đổi âm lượng hoặc sampleset tuỳ chỉnh cho các note được chọn. |
+| `Use basic sample` | Chỉ áp dụng thay đổi âm lượng hoặc sampleset tùy chỉnh cho các note được chọn. |
 
 ##### Nút
 
@@ -191,11 +191,11 @@ Bên trái cửa sổ sample import liệt kê tất cả các sample âm thanh 
 | :-- | :-- |
 | `Play` | Phát sample đã chọn. |
 | `Import` | Thêm sample mới vào thư mục beatmap từ vị trí khác. |
-| `Delete` | Xoá tệp âm thanh. |
+| `Delete` | xóa tệp âm thanh. |
 | `Apply` | Áp dụng sample đã chọn cho note đang chọn. |
 | `Sample` | Thêm sample đã chọn dưới dạng [sự kiện âm thanh storyboard](/wiki/Storyboard/Scripting/Audio) tại timestamp hiện tại. |
 | `Sample list` | Hiển thị [danh sách sự kiện âm thanh trong storyboard](#sample-events-list). |
-| `Reset` | Gỡ bỏ sample tuỳ chỉnh khỏi note đang chọn. |
+| `Reset` | Gỡ bỏ sample tùy chỉnh khỏi note đang chọn. |
 | `Cancel` | Đóng cửa sổ. |
 
 #### Danh sách sự kiện sample
