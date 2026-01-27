@@ -1,6 +1,6 @@
 # Nội quy
 
-Các nội quy này là nền tảng để chúng tôi giúp giữ cho cộng đồng osu!  nơi vui vẻ và thân thiện dành cho tất cả mọi người.
+Các nội quy này là nền tảng để chúng tôi giúp giữ cho cộng đồng osu! nơi vui vẻ và thân thiện dành cho tất cả mọi người.
 
 ## Nội quy cộng đồng
 
