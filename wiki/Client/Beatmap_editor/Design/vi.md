@@ -11,10 +11,10 @@ Nên làm các crash course, thử qua *tất cả* các lệnh ít nhất một
 1. Đặt toàn bộ các phần tử/hình ảnh storyboard vào thư mục bài hát của map và tạo một thư mục con tên là "SB".
 2. Mở map trong editor và chuyển sang màn hình "Design".
 3. Tìm đúng vị trí tick trên timeline phía trên nơi bạn muốn phần tử storyboard xuất hiện, sau đó click "Sprite Library" và chọn hình ảnh. Đảm bảo phần tử không vượt quá 800x600 px. Đây là giới hạn tối đa.
-4. Chọn lệnh bạn muốn phần tử thực hiện (Move, Scale, Fade, Rotate hoặc Colour) và nhấn dấu "+" ở "Keyframe Control" để đặt một điểm cho lệnh tại thời điểm hiện tại. Dấu "-" ở "Keyframe Control" dùng để xoá điểm, còn các nút mũi tên cho phép nhảy giữa các điểm trong cùng một lệnh cho cùng một phần tử SB.
+4. Chọn lệnh bạn muốn phần tử thực hiện (Move, Scale, Fade, Rotate hoặc Colour) và nhấn dấu "+" ở "Keyframe Control" để đặt một điểm cho lệnh tại thời điểm hiện tại. Dấu "-" ở "Keyframe Control" dùng để xóa điểm, còn các nút mũi tên cho phép nhảy giữa các điểm trong cùng một lệnh cho cùng một phần tử SB.
 5. Tìm mốc thời gian mà bạn muốn lệnh kết thúc (ở thời điểm muộn hơn) để có 2 điểm cho lệnh đó và một đường màu tương ứng giữa hai điểm. Màu xanh lá cho Move, đỏ cho Scale, hồng cho Fade, vàng cho Rotate và hồng nhạt cho Colour.
 6. Tại các điểm lệnh, bạn có thể thay đổi giá trị bằng cách giữ chuột trái và kéo chuột lên (tăng giá trị) hoặc xuống (giảm giá trị).
-7. Lặp lại bước 3–6 cho các phần tử khác. Để xoá, dùng `Delete` hoặc Edit -> Delete từ menu trên cùng.
+7. Lặp lại bước 3–6 cho các phần tử khác. Để xóa, dùng `Delete` hoặc Edit -> Delete từ menu trên cùng.
 
 **Lưu ý:** Nếu để ý kỹ, up-tick là bắt đầu một phép biến đổi, down-tick là kết thúc. Một tick đầy đủ trên đường màu biểu thị sự chuyển hướng của biến đổi (ví dụ: đi lên -> đi xuống).
 
@@ -42,7 +42,7 @@ Dùng để **thêm các điểm neo (điểm bắt đầu/kết thúc).** Hoạ
 
 | Tên | Mô tả |
 | :-- | :-- |
-| Nút `+`/`-` | Thêm/Xoá điểm neo cho phép biến đổi đang chọn. |
+| Nút `+`/`-` | Thêm/xóa điểm neo cho phép biến đổi đang chọn. |
 | Nút mũi tên `Left`/`Right` | Nhảy lùi/tiến tới điểm neo gần nhất của phép biến đổi đang chọn. |
 
 Nếu có một phép biến đổi, phép đó sẽ được tô sáng bằng màu riêng và có hai nửa đường thể hiện khoảng thời gian tồn tại. Đường trắng liền biểu thị điểm chuyển đổi của biến đổi (ví dụ: đi lên -> đi xuống).
@@ -131,7 +131,7 @@ Cách dùng:
 
 ![Danh sách object SB trong các layer điều kiện khác nhau](img/SE_OBJ.jpg "Danh sách object SB trong các layer điều kiện khác nhau")
 
-**Danh sách các object storyboard theo từng layer.** Để thêm object, click "Sprite Library". Để gán layer, kéo-thả sprite vào layer mong muốn. Sprite mới mặc định nằm ở "Foreground". Click vào tên sprite sẽ đưa bạn tới vị trí và thời điểm của sprite đó. Bản sao dùng chung tên với sprite gốc. Để xoá, dùng `Delete` hoặc Edit -> Delete từ menu trên.
+**Danh sách các object storyboard theo từng layer.** Để thêm object, click "Sprite Library". Để gán layer, kéo-thả sprite vào layer mong muốn. Sprite mới mặc định nằm ở "Foreground". Click vào tên sprite sẽ đưa bạn tới vị trí và thời điểm của sprite đó. Bản sao dùng chung tên với sprite gốc. Để xóa, dùng `Delete` hoặc Edit -> Delete từ menu trên.
 
 **Lưu ý:** HitObjects > Foreground > Passing/Failing > Background.
 
