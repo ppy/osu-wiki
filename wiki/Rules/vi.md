@@ -1,6 +1,6 @@
 # Nội quy
 
-Các nội quy này là nền tảng để chúng tôi giúp giữ cho cộng đồng osu! a fun and welcoming place for everyone.
+Các nội quy này là nền tảng để chúng tôi giúp giữ cho cộng đồng osu!  nơi vui vẻ và thân thiện dành cho tất cả mọi người.
 
 ## Nội quy cộng đồng
 
@@ -23,7 +23,7 @@ Các nội quy này là nền tảng để chúng tôi giúp giữ cho cộng đ
 6. **Giữ mọi thứ trong sạch.**
    osu! không phải là nơi để hẹn hò hoặc tán tỉnh. Việc sử dụng ngôn ngữ, hình ảnh mang tính tình dục hoặc có những hành động tiếp cận không mong muốn đối với các thành viên khác trong cộng đồng, dù là công khai hay riêng tư, đều KHÔNG được phép. Nếu bạn cảm thấy không thoải mái với cách ai đó nói chuyện với bạn, hãy báo cáo để được hỗ trợ.
 
-7. **Ở những nơi nội quy không bao quát, lý trí thông thường sẽ được áp dụng.**
+7. **Ở những nơi nội quy không bao quát, lẽ thường sẽ được áp dụng.**
    Ban quản trị có toàn quyền sử dụng phán đoán của họ trong các trường hợp này khi họ thấy phù hợp.
 
 ## Nội quy chat trong game
