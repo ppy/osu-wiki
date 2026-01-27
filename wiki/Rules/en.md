@@ -6,7 +6,7 @@ These rules are the basis from which we help keep the osu! community a fun and w
 
 1. **Each player may only have *ONE* account, ever.** The *first* account you make during account registration is your one and only osu! account, from the moment of its creation and forevermore. This account is YOU. It is not anyone else — not your brother, your mother, your sister, your friend — it is YOU. Don't share your account with anyone else. You don't get to make a new one if you lose access to it. Keep it safe.
 2. **Play fair.** Using third-party utilities of any kind to get any sort of advantage is not okay. This includes things like aim-assist programs, timescale modifications, and so on. Macros, keybinds, or hardware where a physical action (e.g. pressing a key down) does not correspond to the same in-game action are similarly disallowed.[^macros] If a program is doing something to help you play the game that you should be doing yourself, it isn't okay!
-3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit, and hit up to eighteen keys at once, not to be assholes to each other.
+3. **Be good to each other.** Harassment or other antagonism has no place within the osu! community. We're here to click circles, beat drums, catch fruit and hit up to eighteen keys at once, not to be assholes to each other.
 4. **Don't be a douche.** If at any point you are uncertain as to whether you are breaking this rule, you probably are.
 5. **We are an all-ages community.** This means that 18+/[NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) content such as drug use or topics of a sexual nature are not welcome here. Any images, videos, or links uploaded to or made visible from osu! **must** follow the [visual content considerations](Visual_Content_Considerations) (although sharing otherwise inappropriate content in private messages is generally not against the rules given the recipient's consent).
 6. **Keep it clean.** osu! is not the place for dating or flirting. Using sexual language, imagery or making unwanted advances on other members of the community in public or private is NOT okay. If you ever feel uncomfortable with how someone is talking to you, [report it to us confidentially](/wiki/Reporting_bad_behaviour/Abuse) so we can help you (and potentially prevent others from being affected).
@@ -52,8 +52,8 @@ If you do find yourself on the wrong end of our community rules, bad things will
 These bad things may include (*but are not limited to*):
 
 - The removal of your ability to chat in-game for a period of time (known as a [silence](/wiki/Help_centre/Silences)).
-- The removal of any infringing content from your userpage, profile, or uploaded beatmaps.
-- The loss of the privilege to edit or alter your userpage, avatar, or profile details.
+- The removal of any infringing content from your userpage, profile or uploaded beatmaps.
+- The loss of the privilege to edit or alter your userpage, avatar or profile details.
 - The loss of the privilege to play or staff in officially supported tournaments (known as a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans)).
 
 [Silences](/wiki/Help_centre/Silences) and other penalties **automatically** increase in duration exponentially with each infringement. Repeat offenders will find themselves locked out of their privileges for increasingly lengthy periods of time.
