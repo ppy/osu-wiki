@@ -114,7 +114,7 @@ Um das zu beheben, stelle sicher, dass das osu!go-Gerät ausgewählt ist, klicke
 
 **Du musst das Gerät von Grund auf neu partitionieren.**
 
-Bitte folge [dieser Anleitung](https://tails.boum.org/doc/reset/windows/index.de.html) für Details, wie man das macht.
+Bitte folge [dieser Anleitung](https://tails.net/doc/first_steps/reset/windows/index.de.html) für Details, wie man das macht.
 
 ### Ich habe das osu!go-Gerät neu formatiert und es wird in der Datenträgerverwaltung angezeigt {id=osu!go-clean}
 
