@@ -117,7 +117,7 @@ tags:
 
 **Вам нужно будет вручную разбить устройство на разделы.**
 
-О том, как это сделать, читайте в руководстве [Стирание флэшки в Windows](https://tails.boum.org/doc/reset/windows/index.ru.html).
+О том, как это сделать, читайте в руководстве [Стирание флэшки в Windows](https://tails.net/doc/first_steps/reset/windows/index.ru.html).
 
 ### После форматирования устройство osu!go видно в окне управления дисками {id=osu!go-clean}
 

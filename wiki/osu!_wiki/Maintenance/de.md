@@ -158,7 +158,7 @@ Eine Übersetzung darf nach mehr als einer Woche nach der Erstellung ohne Überp
 
 ### Erweiterung von unvollständigen Artikeln
 
-*Für einen möglichen Arbeitsumfang, siehe: [Liste von unvollständigen Artikeln (Englisch)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Für einen möglichen Arbeitsumfang, siehe: [Liste von unvollständigen Artikeln (Englisch)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Einige Artikel des osu!-Wikis sind unvollständig und es fehlen Informationen. Diese Artikel werden als *Stubs* gekennzeichnet, was heißt, dass sie wichtig genug sind, um als eigenständige Seite zu existieren, aber später vervollständigt werden. Trage dazu bei und teile dein Wissen, wenn du mit dem Artikelthema vertraut bist.
 
