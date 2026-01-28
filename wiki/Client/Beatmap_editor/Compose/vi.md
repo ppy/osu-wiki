@@ -1,205 +1,207 @@
-# Compose tab
+# Tab Compose
 
 ::: Infobox
-![](img/compose.jpg "Compose tab for osu!")
+![](img/compose.jpg "Tab Compose của osu!")
 :::
 
 ::: Infobox
-![](img/compose-mania.jpg "Compose tab for osu!mania")
+![](img/compose-mania.jpg "Tab Compose của osu!mania")
 :::
 
-The [beatmap editor](/wiki/Client/Beatmap_editor)'s **compose tab** is the place where [mappers](/wiki/Beatmapping) spend most of their time working on beatmaps after adjusting [timing](/wiki/Beatmapping/Timing) settings. [Hit object patterns](/wiki/Beatmap/Pattern), [hitsounds](/wiki/Beatmapping/Hitsound), and other aspects of beatmap design can be inspected in this tab.
+Tab **compose** của [beatmap editor](/wiki/Client/Beatmap_editor) là nơi mà các [mapper](/wiki/Beatmapping) dành phần lớn thời gian để làm việc trên beatmap sau khi đã điều chỉnh xong các thiết lập [timing](/wiki/Beatmapping/Timing). Các [pattern hit object](/wiki/Beatmap/Pattern), [hitsound](/wiki/Beatmapping/Hitsound), và các khía cạnh khác trong thiết kế beatmap đều có thể được kiểm tra trong tab này.
 
-The editor shares the same tools between osu!, osu!taiko, and osu!catch, while osu!mania has a specific compose tab layout more suitable for the game mode. It can be accessed by changing the difficulty's [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) to `osu!mania`.
+Editor dùng chung các công cụ cho osu!, osu!taiko và osu!catch, trong khi osu!mania có bố cục tab compose riêng, phù hợp hơn với chế độ chơi này. Có thể truy cập bằng cách đổi [allowed mode](/wiki/Client/Beatmap_editor/Song_setup#advanced) của độ khó sang `osu!mania`.
 
-## Features
+## Tính năng
 
-*For a general overview of the mapping process, see: [Beatmapping](/wiki/Beatmapping)*
+*Để có cái nhìn tổng quan về quá trình mapping, xem: [Beatmapping](/wiki/Beatmapping)*
 
-### Hit object timeline
+### Timeline hit object
 
-![](img/objects-timeline.jpg "Timeline for hit objects with respect to the beat snap divisor and timestamp")
+![](img/objects-timeline.jpg "Timeline hit object theo beat snap divisor và timestamp")
 
-The timeline can be zoomed in and out with the `+`/`-` buttons to the left, or alternatively scrolling with the `Alt` key held. The two white lines in the middle indicate the current timestamp. Additionally, hit objects on the timeline can be selected and moved around with the left mouse button, or removed by right-clicking.
+Timeline có thể phóng to hoặc thu nhỏ bằng nút `+`/`-` ở bên trái, hoặc cuộn chuột trong khi giữ phím `Alt`. Hai đường màu trắng ở giữa biểu thị timestamp hiện tại. Ngoài ra, các hit object trên timeline có thể được chọn và di chuyển bằng chuột trái, hoặc xóa bằng cách nhấp chuột phải.
 
-Click and drag a slidertail on the timeline right to create [repeat sliders](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
+Nhấp và kéo phần đuôi slider trên timeline sang phải để tạo [repeat slider](/wiki/Gameplay/Hit_object/Slider/Repeat_slider).
 
 ### Beat snap divisor
 
 ![](img/beat-snap-divisor.jpg "Beat snap divisor")
 
-| Name | Description |
+| Tên | Mô tả |
 | :-- | :-- |
-| [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Limit the amount of timeline ticks that determine which subdivisions of a beat hit objects can be placed on. Moving the slider to the right increases the granularity of timeline ticks. |
-| `Insert Break Time` | Add a [break](/wiki/Beatmap/Break) at the current timestamp. |
-| x/y | Shows the position of a selected hit object on the playfield, or if nothing is selected, the position of the cursor. |
+| [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor) | Giới hạn số lượng mốc trên timeline để xác định các phân đoạn của nhịp mà hit object có thể được đặt vào. Kéo thanh trượt sang phải sẽ tăng độ chi tiết của các mốc timeline. |
+| `Insert Break Time` | Thêm một [break](/wiki/Beatmap/Break) tại timestamp hiện tại. |
+| x/y | Hiển thị vị trí của hit object đang được chọn trên playfield, hoặc nếu không có gì được chọn thì hiển thị vị trí con trỏ. |
 
-Hold `Alt` to switch the slider to [distance spacing](/wiki/Client/Beatmap_editor/Distance_snap) mode. The spacing multiplier can range from 0.1x to 6.0x.
+Giữ `Alt` để chuyển thanh trượt sang chế độ [distance spacing](/wiki/Client/Beatmap_editor/Distance_snap). Hệ số khoảng cách có thể nằm trong khoảng từ 0.1x đến 6.0x.
 
-### Left toolbar
+### Thanh công cụ bên trái
 
-![](img/tools.jpg "Left toolbar")
+![](img/tools.jpg "Thanh công cụ bên trái")
 
-| Button (keyboard shortcut) | Description |
+| Nút (phím tắt) | Mô tả |
 | :-- | :-- |
-| `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
-| `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
-| `Select` (`1`) | `Left click` or `Left drag`: Select or move objects or control points. `Right click`: Remove objects or control points. `Ctrl` + `Left click`: Select multiple objects. `Ctrl` + `Left click` when selecting a slider: Add [control point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
-| `Circle` (`2`) | `Left click`: Add a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) at the current timestamp. |
-| `Slider` (`3`) | `Left`/`Right click`: Start or end a [slider](/wiki/Gameplay/Hit_object/Slider) at the current timestamp. `Left click` when placing a slider: Add a control point. |
-| `Spinner` (`4`) | `Left`/`Right click`: Start or end a [spinner](/wiki/Gameplay/Hit_object/Spinner) at the current timestamp. |
+| `Sampleset` | Ghi đè [sampleset](/wiki/Beatmapping/Sampleset) của các object được chọn (bao gồm hitnormal). Chọn `Auto` sẽ đặt lại sampleset theo [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points) đang hoạt động. |
+| `Additions` | Ghi đè sampleset của các object được chọn, chỉ ảnh hưởng tới các hitsound bổ sung (whistle, finish và clap). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
+| `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Chọn hoặc di chuyển object hay control point. `Chuột phải`: xóa object hoặc control point. `Ctrl` + `Chuột trái`: Chọn nhiều object. `Ctrl` + `Chuột trái` khi chọn slider: Thêm [control point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
+| `Circle` (`2`) | `Chuột trái`: Thêm một [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) tại timestamp hiện tại. |
+| `Slider` (`3`) | `Chuột trái`/`Chuột phải`: Bắt đầu hoặc kết thúc một [slider](/wiki/Gameplay/Hit_object/Slider) tại timestamp hiện tại. `Chuột trái` khi đặt slider: Thêm control point. |
+| `Spinner` (`4`) | `Chuột trái`/`Chuột phải`: Bắt đầu hoặc kết thúc một [spinner](/wiki/Gameplay/Hit_object/Spinner) tại timestamp hiện tại. |
 
 ### Playfield
 
-![](img/playfield.jpg "Visual representation of the current timestamp")
+![](img/playfield.jpg "Biểu diễn trực quan của timestamp hiện tại")
 
-### Right toolbar
+### Thanh công cụ bên phải
 
-![](img/subtools.jpg "Right toolbar")
+![](img/subtools.jpg "Thanh công cụ bên phải")
 
-| Button (keyboard shortcut) | Usage | Description |
+| Nút (phím tắt) | Cách dùng | Mô tả |
 | :-- | :-- | :-- |
-| `New Combo` (`Q`) | `Left click` when selecting a hit object or `Right click` in hit object placement. | Start a new [combo](/wiki/Beatmapping/Combo) from the current object (roughly equivalent to a verse in song script). |
+| `New Combo` (`Q`) | `Chuột trái` khi chọn hit object hoặc `Chuột phải` khi đang đặt hit object. | Bắt đầu một [combo](/wiki/Beatmapping/Combo) mới từ object hiện tại (xấp xỉ một đoạn verse trong kịch bản bài hát). |
 
 #### Hitsounds
 
-| Button (keyboard shortcut) | Usage |
+| Nút (phím tắt) | Cách dùng |
 | :-- | :-- |
-| `Whistle` (`W`) | `Left click`: Apply a whistle sound to selection. |
-| `Finish` (`E`) | `Left click`: Apply a finish sound to selection. |
-| `Clap` (`R`) | `Left click`: Apply a clap sound to selection. |
+| `Whistle` (`W`) | `Chuột trái`: Áp dụng âm whistle cho các object được chọn. |
+| `Finish` (`E`) | `Chuột trái`: Áp dụng âm finish cho các object được chọn. |
+| `Clap` (`R`) | `Chuột trái`: Áp dụng âm clap cho các object được chọn. |
 
-#### Assist tools
+#### Công cụ hỗ trợ
 
-| Button (keyboard shortcut) | Usage | Description |
+| Nút (phím tắt) | Cách dùng | Mô tả |
 | :-- | :-- | :-- |
-| `Grid Snap` (`T`) | Hold `Shift`: Temporary toggle. | Snap objects [to the grid](/wiki/Beatmapping/Grid_snapping) while moving. |
-| `Distance Snap` (`Y`) | Hold `Alt`: Temporary toggle, switching the beat snap divisor tool to distance snap. `Alt` + `Mouse wheel`: Adjust the distance snap multiplier. | Calculate the [distance](/wiki/Client/Beatmap_editor/Distance_snap) between consecutive objects based on their temporal distance. Best to use while the timeline is paused. |
-| `Lock Notes` (`L`) | `Left click`: toggle. | Lock all hit objects to their current positions and timestamps. |
+| `Grid Snap` (`T`) | Giữ `Shift`: Bật/tắt tạm thời. | Bám các object [theo lưới](/wiki/Beatmapping/Grid_snapping) khi di chuyển. |
+| `Distance Snap` (`Y`) | Giữ `Alt`: Bật/tắt tạm thời, chuyển beat snap divisor sang chế độ distance snap. `Alt` + `Cuộn chuột`: Điều chỉnh hệ số distance snap. | Tính toán [khoảng cách](/wiki/Client/Beatmap_editor/Distance_snap) giữa các object liên tiếp dựa trên khoảng cách thời gian. Nên dùng khi timeline đang tạm dừng. |
+| `Lock Notes` (`L`) | `Chuột trái`: Bật/tắt. | Khoá tất cả hit object tại vị trí và timestamp hiện tại. |
 
-### Song timeline
+### Timeline bài hát
 
-![](img/song-timeline.jpg "Song timeline")
+![](img/song-timeline.jpg "Timeline bài hát")
 
-The current position in the song is shown on the bottom left in the format of `<minutes>:<seconds>:<milliseconds>`. When clicked, it opens a small pop-up window for copying or pasting [object timestamps](/wiki/Modding/Timestamp) for quick selection and navigation. Next to the timestamp is the song progress percentage, displaying `intro` or `outro` when outside the range of the music track due to [storyboard](/wiki/Storyboard) presence.
+Vị trí hiện tại trong bài hát được hiển thị ở góc dưới bên trái theo định dạng `<phút>:<giây>:<mili-giây>`. Khi nhấp vào, một cửa sổ pop-up nhỏ sẽ mở ra để sao chép hoặc dán [timestamp của object](/wiki/Modding/Timestamp) nhằm chọn nhanh và điều hướng.
 
-The central area contains the timeline with markings and music control buttons. When hovered, additional buttons for working with bookmarks appear. The `Test` button to the right of the timeline allows for [testing the beatmap](/wiki/Client/Beatmap_editor/Test_mode) from the current point in time.
+Bên cạnh timestamp là phần trăm tiến trình bài hát, hiển thị `intro` hoặc `outro` khi nằm ngoài phạm vi của track nhạc do có [storyboard](/wiki/Storyboard).
 
-On the bottom right, the playback rate can be set to 25%, 50%, 75%, or 100%.
+Khu vực trung tâm chứa timeline với các mốc và nút điều khiển nhạc. Khi rê chuột vào, các nút bổ sung để làm việc với bookmark sẽ xuất hiện. Nút `Test` bên phải timeline cho phép [test beatmap](/wiki/Client/Beatmap_editor/Test_mode) từ thời điểm hiện tại.
 
-#### Colour markers
+Ở góc dưới bên phải, tốc độ phát có thể được đặt thành 25%, 50%, 75% hoặc 100%.
 
-| Colour | Description |
+#### Mốc màu
+
+| Màu | Mô tả |
 | :-- | :-- |
-| White | Current timestamp |
-| Yellow | Preview point |
-| Green | [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) |
-| Red | [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) |
-| Blue | Bookmark |
+| Trắng | Timestamp hiện tại |
+| Vàng | Điểm preview |
+| Xanh lá | [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) |
+| Đỏ | [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) |
+| Xanh dương | Bookmark |
 
-#### Colour sections
+#### Khu vực màu
 
-| Colour | Description |
+| Màu | Mô tả |
 | :-- | :-- |
-| Grey | [Break](/wiki/Beatmap/Break) |
-| Orange | [Kiai time](/wiki/Gameplay/Kiai_time) |
+| Xám | [Break](/wiki/Beatmap/Break) |
+| Cam | [Kiai time](/wiki/Gameplay/Kiai_time) |
 
-#### Bookmark actions
+#### Thao tác bookmark
 
-| Shortcut | Description |
+| Phím tắt | Mô tả |
 | :-- | :-- |
-| `Ctrl` + `B` | Add a bookmark at the current location. |
-| `Ctrl` + `Shift` + `B` | Remove the nearest bookmark (less than 2 seconds away). |
-| `Ctrl` + `Right arrow` | Go to the next bookmark. |
-| `Ctrl` + `Left arrow` | Go to the previous bookmark. |
+| `Ctrl` + `B` | Thêm bookmark tại vị trí hiện tại. |
+| `Ctrl` + `Shift` + `B` | xóa bookmark gần nhất (cách dưới 2 giây). |
+| `Ctrl` + `Mũi tên phải` | Đi tới bookmark tiếp theo. |
+| `Ctrl` + `Mũi tên trái` | Quay về bookmark trước đó. |
 
-## Features (osu!mania)
+## Tính năng (osu!mania)
 
-*For osu!mania mapping tutorials on the forum, see: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
+*Xem hướng dẫn mapping osu!mania trên diễn đàn: [[Tutorial] osu!mania mapping, Basics](https://osu.ppy.sh/community/forums/topics/118868), [[Tutorial] osu!mania mapping, Keysounding](https://osu.ppy.sh/community/forums/topics/139139)*
 
-The osu!mania-specific editor has some differences compared to the other game modes, which are covered in this section.
+Editor dành riêng cho osu!mania có một số khác biệt so với các chế độ chơi khác, được trình bày trong phần này.
 
 ### Beat snap divisor
 
-*Main article: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+*Bài viết chính: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
-![](img/beat-snap-divisor-mania.jpg "Beat snap divisor in osu!mania")
+![](img/beat-snap-divisor-mania.jpg "Beat snap divisor trong osu!mania")
 
-In osu!mania, the beat snap divisor area also shows the name and volume level of the sound sample attached to a selected note. Such per-note samples called keysounds are applied using the [`Sample import`](#sample-import) dialogue.
+Trong osu!mania, khu vực beat snap divisor còn hiển thị tên và mức âm lượng của sample âm thanh được gắn vào note đang được chọn. Các sample theo từng note này được gọi là keysound, và được áp dụng thông qua hộp thoại [`Sample import`](#sample-import).
 
-### Left toolbar
+### Thanh công cụ bên trái
 
-![](img/tools-mania.jpg "Hit object panel for osu!mania")
+![](img/tools-mania.jpg "Bảng hit object cho osu!mania")
 
-| Button (keyboard shortcut) | Usage |
+| Nút (phím tắt) | Cách dùng |
 | :-- | :-- |
-| `Sampleset` | Override the [sampleset](/wiki/Beatmapping/Sampleset) of selected objects (including their hitnormals). Choosing `Auto` resets the sampleset to that of the active [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points). |
-| `Additions` | Override the sampleset of selected objects, affecting only their additional hitsounds (whistle, finish, and clap). Choosing `Auto` resets the sampleset to that of the active timing point. |
-| `Select` (`1`) | `Left click` or `Left drag`: Move timestamp and location of the note. `Right click`: Remove the note. `Ctrl` + `Left click`: Select multiple objects. |
-| `Circle` (`2`) | `Left click`: Place a note. |
-| `Hold` (`3`) | Hold `Left click`: Place a hold note and adjust its length. Release the click to end the note. |
+| `Sampleset` | Ghi đè [sampleset](/wiki/Beatmapping/Sampleset) của các object được chọn (bao gồm hitnormal). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
+| `Additions` | Ghi đè sampleset của các object được chọn, chỉ ảnh hưởng tới hitsound bổ sung (whistle, finish và clap). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
+| `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Di chuyển timestamp và vị trí của note. `Chuột phải`: xóa note. `Ctrl` + `Chuột trái`: Chọn nhiều object. |
+| `Circle` (`2`) | `Chuột trái`: Đặt một note. |
+| `Hold` (`3`) | Giữ `Chuột trái`: Đặt một hold note và điều chỉnh độ dài. Thả chuột để kết thúc note. |
 
 ### Playfield
 
-![](img/playfield-mania.jpg "Visual representation of the current timestamp")
+![](img/playfield-mania.jpg "Biểu diễn trực quan của timestamp hiện tại")
 
-#### Sections
+#### Khu vực
 
-| Name | Description |
+| Tên | Mô tả |
 | :-- | :-- |
-| Left | Note density (Timeline) |
-| Centre | The playfield, overlaid on top of [beat snap](/wiki/Client/Beatmap_editor/Beat_snap_divisor) lines |
+| Trái | Mật độ note (Timeline) |
+| Giữa | Playfield, phủ lên các đường [beat snap](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 
-#### Colours
+#### Màu sắc
 
-*See also: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
+*Xem thêm: [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_snap_divisor)*
 
-| Line colour | Description |
+| Màu đường | Mô tả |
 | :-- | :-- |
-| White (thick) | Full measure |
-| White | A [beat](/wiki/Music_theory/Beat) |
-| Green | Current timestamp / [judgement](/wiki/Gameplay/Judgement) line |
+| Trắng (đậm) | Ô nhịp đầy đủ |
+| Trắng | Một [nhịp](/wiki/Music_theory/Beat) |
+| Xanh lá | Timestamp hiện tại / dòng [judgement](/wiki/Gameplay/Judgement) |
 
-| Note colour | Description |
+| Màu note | Mô tả |
 | :-- | :-- |
-| Blue | Selected notes |
-| White/pink/yellow | Unselected note colours |
+| Xanh dương | Note đang được chọn |
+| Trắng/hồng/vàng | Màu note chưa được chọn |
 
 ### Sampling
 
-**Sampling** is the process of adding sound samples to individual notes. To add a sample, click a note while holding `Alt` to open a pop-up window with a list of available sound samples.
+**Sampling** là quá trình thêm sample âm thanh vào từng note riêng lẻ. Để thêm sample, nhấp vào một note trong khi giữ `Alt` để mở cửa sổ pop-up hiển thị danh sách các sample âm thanh có sẵn.
 
 #### Sample import
 
-![](img/sample-import.jpg "Sample import window")
+![](img/sample-import.jpg "Cửa sổ Sample import")
 
-The left side of the sample import window lists all audio samples from the beatmap folder. They can be applied to selected objects using the settings on right side of the window.
+Bên trái cửa sổ sample import liệt kê tất cả các sample âm thanh trong thư mục beatmap. Chúng có thể được áp dụng cho các object được chọn thông qua các thiết lập ở bên phải cửa sổ.
 
-##### Basic
+##### Cơ bản
 
-| Name | Description |
+| Tên | Mô tả |
 | :-- | :-- |
-| `CustomSet` | Apply default hitsound set and volume without using those of the current timing point, ignoring the left-side sample selection. *Note that for this action to work properly, `Use basic sample` must be enabled.* |
-| `Volume` | How loud this sound file should be. Use only integer values from 8 to 100. |
-| `Use basic sample` | Only apply volume or custom sampleset changes on selected notes. |
+| `CustomSet` | Áp dụng bộ hitsound mặc định và âm lượng mà không dùng của timing point hiện tại, bỏ qua lựa chọn sample bên trái. *Lưu ý: để hoạt động đúng, tùy chọn `Use basic sample` phải được bật.* |
+| `Volume` | Độ to của tệp âm thanh. Chỉ dùng giá trị số nguyên từ 8 đến 100. |
+| `Use basic sample` | Chỉ áp dụng thay đổi âm lượng hoặc sampleset tùy chỉnh cho các note được chọn. |
 
-##### Buttons
+##### Nút
 
-| Name | Description |
+| Tên | Mô tả |
 | :-- | :-- |
-| `Play` | Play selected sample. |
-| `Import` | Add more samples to the beatmap folder from other locations. |
-| `Delete` | Delete the audio file. |
-| `Apply` | Apply selected sample to the selected note. |
-| `Sample` | Add selected sample as a [storyboard audio event](/wiki/Storyboard/Scripting/Audio) at the current timestamp. |
-| `Sample list` | Display [sound events in the storyboard](#sample-events-list). |
-| `Reset` | Remove custom sample from the selected note. |
-| `Cancel` | Close the window. |
+| `Play` | Phát sample đã chọn. |
+| `Import` | Thêm sample mới vào thư mục beatmap từ vị trí khác. |
+| `Delete` | xóa tệp âm thanh. |
+| `Apply` | Áp dụng sample đã chọn cho note đang chọn. |
+| `Sample` | Thêm sample đã chọn dưới dạng [sự kiện âm thanh storyboard](/wiki/Storyboard/Scripting/Audio) tại timestamp hiện tại. |
+| `Sample list` | Hiển thị [danh sách sự kiện âm thanh trong storyboard](#sample-events-list). |
+| `Reset` | Gỡ bỏ sample tùy chỉnh khỏi note đang chọn. |
+| `Cancel` | Đóng cửa sổ. |
 
-#### Sample events list
+#### Danh sách sự kiện sample
 
-*See also: [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)*
+*Xem thêm: [Storyboard audio samples](/wiki/Storyboard/Scripting/Audio)*
 
-![](img/sample-event-list.jpg "Sample events list window")
+![](img/sample-event-list.jpg "Cửa sổ danh sách sự kiện sample")
 
-`Sample events list` is a window that shows sound events from the storyboard, which are stored in the difficulty's `.osu` or the beatmap's `.osb` file.
+`Sample events list` là cửa sổ hiển thị các sự kiện âm thanh từ storyboard, được lưu trong tệp `.osu` của độ khó hoặc tệp `.osb` của beatmap.
