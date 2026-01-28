@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # osu!(lazer) 中的文件存储
 
 默认情况下， osu!(lazer) 将谱面、皮肤、成绩回放文件存储于以下目录：
