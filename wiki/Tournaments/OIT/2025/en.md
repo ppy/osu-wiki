@@ -44,7 +44,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 | Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
 | Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
 | Mappool selector | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
-| Custom mapper | ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), *more to be announced* |
+| Custom mapper | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291),  ::{ flag=ID }:: [SayuMana](https://osu.ppy.sh/users/12602650), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), *more to be announced* |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
 | Playtester | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
@@ -60,7 +60,7 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! commu
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/1g5lVCzQjG00Ss9QkOBvYzt0ACTbI7fPOBkYIhNMCq9Q/edit?usp=sharing)**
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/2157759)
 - [Discord server](https://discord.gg/rv6BgCtdvk)
-- [Challonge brackets](https://challonge.com/oit2025)
+- [Challonge brackets](https://challonge.com/oit_2025)
 - [Livestream channel](https://www.twitch.tv/osuIndonesia)
 
 ## Participants
@@ -89,6 +89,66 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
 
 ## Mappools
+
+### Finals (week 1)
+
+**[Download the mappack here! (152 MB)](https://mappack.sah.moe/download/tm7oMSbu)**
+
+- No Mod
+  1. [Adust Rain - Eleven Stud (Toumei Dragon) \[Subterranean Rose\]](https://osu.ppy.sh/beatmapsets/2284459#osu/4872301)
+  2. [xi - Ascension to Heaven (Kroytz) \[Before the Final Moment\]](https://osu.ppy.sh/beatmapsets/1301360#osu/2699196)
+  3. [Yousei Teikoku - IRON ROSE (Civafu) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/2145999#osu/5052392)
+  4. [Tatsuya Kitani - Tell Me About You (William K) \[Slidershapes\]](https://osu.ppy.sh/beatmapsets/2457841#osu/5374134)
+  5. [AAAA - reach for your victory!!! (toybot) \[astronomic!!!\]](https://osu.ppy.sh/beatmapsets/2227145#osu/4724781)
+  6. [jojofans community tulungagung - Rubmle (ft. Rapzone) (Shinjuko) \[dawg ini bukan nm6 :wilted\_flower:\]](https://osu.ppy.sh/beatmapsets/2498137#osu/5493201)
+- Hidden
+  1. [LOLUET x yoei. - roots (seros) \[raijodo's extra\]](https://osu.ppy.sh/beatmapsets/2139515#osu/4707333)
+  2. [saaa + kei_iwata + stuv + *wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
+  3. [Children Of Bodom - If You Want Peace... Prepare for War (The Cube) \[Extremity\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3094900)
+  4. [A? - ENERGY INFLATION (nik) \[LCFC's XXTREME\]](https://osu.ppy.sh/beatmapsets/2211300#osu/4684338)
+- Hard Rock
+  1. [GET IN THE RING - Moonscraper (olsonn) \[Rhapsody\]](https://osu.ppy.sh/beatmapsets/2352938#osu/5064824)
+  2. [Sampling Masters MEGA - Rotter Tarmination (Luscent) \[allein's WTF Extra\]](https://osu.ppy.sh/beatmapsets/2099784#osu/4492687)
+  3. [Krewella x Diskord - Beggars (Consouls Remix) (NeilPerry) \[Neil x Ameth's Conflux\]](https://osu.ppy.sh/beatmapsets/881753#osu/1843575)
+  4. [DJ TOTTO - Crystalia (Hysteria) \[Xenok Sakaki's Extreme\]](https://osu.ppy.sh/beatmapsets/691220#osu/1549739)
+- Double Time
+  1. [Sasaki Sayaka - Yume to Iro de Dekiteiru (Akari Hoshizaki) \[my kisah\]](https://osu.ppy.sh/beatmapsets/2498097#osu/5493064)
+  2. [-45 - Crimsonic dimension (Sanch-KK) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/2125044#osu/4466556)
+  3. [3L - Sympathy take me to darkness (Trust) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/2234458#osu/4746040)
+  4. [nobodyknows+ - Imaike Samba (Deca) \[iljaaz's Insane\]](https://osu.ppy.sh/beatmapsets/2243785#osu/4830145)
+  5. [tsunamix_underground - Period. \~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka (Cut Ver.) (bob) \[chai's insane.\]](https://osu.ppy.sh/beatmapsets/1594769#osu/3311067)
+- Tiebreaker
+  1. **[Laur - Sound Chimera (Raids) \[ThatGNXAlmondFumDiver Collab\]](https://osu.ppy.sh/beatmapsets/2498055#osu/5492956)**
+
+### Semifinals
+
+**[Download the mappack here! (155 MB)](https://mappack.sah.moe/download/tyQDSeFe)**
+
+- No Mod
+  1. [fhana - Genzaichi (Speed Up Ver.) (apoq) \[Kyou's Dusk\]](https://osu.ppy.sh/beatmapsets/2331210#osu/5021333)
+  2. [Raimukun - Akagami Setsuwa (Vermasium) \[Echoes of the Ocean\]](https://osu.ppy.sh/beatmapsets/2194990#osu/4644208)
+  3. [Various Artists - Menishuki \<3 Rush-sshu! (lushifer) \[Keep Looking at Me!\]](https://osu.ppy.sh/beatmapsets/2458263#osu/5375518)
+  4. [Getty vs. DJ DiA - Fox4-Raize- (Raids) \[VULPES LAGOPUS\]](https://osu.ppy.sh/beatmapsets/2042026#osu/4260904)
+  5. [Aether Realm - Lean Into the Wind (ravensong) \[LMT's Doomking Resurgence\]](https://osu.ppy.sh/beatmapsets/2289840#osu/4886921)
+  6. [Polyphia - O.D. (Mir) \[Overflow\]](https://osu.ppy.sh/beatmapsets/1378026#osu/2847746)
+- Hidden
+  1. [Simon Safhalter - Always a cycle (Hyper) (tatemae) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2330718#osu/4999545)
+  2. [Mili - Peach Pit and Cyanide (vetoed) \[Sweet Cyanide\]](https://osu.ppy.sh/beatmapsets/2468654#osu/5405912)
+  3. [himmel - Empyrean (\_\_Ag) \[Mimiliaa's Extreme\]](https://osu.ppy.sh/beatmapsets/1854021#osu/3827948)
+  4. [EmoCosine - Midnight Challenge (Azrulk) \[roach class collab\]](https://osu.ppy.sh/beatmapsets/2418820#osu/5260070)
+- Hard Rock
+  1. [Wakeshima Kanon - the BEAST can't BE STOpped (-Kirigiri) \[Despair\]](https://osu.ppy.sh/beatmapsets/1774046#osu/3632423)
+  2. [onoken - Alexandrite (Kloyd) \[Goryeojang\]](https://osu.ppy.sh/beatmapsets/1567511#osu/3200574)
+  3. [goreshit - looming shadow of a tree long gone (Hobbes2) \[greenhobbes' extreme\]](https://osu.ppy.sh/beatmapsets/1072094#osu/2972038)
+  4. [BiSH - innocent arrogance (3y3s) \[Heroine's Expert\]](https://osu.ppy.sh/beatmapsets/2197411#osu/5082780)
+- Double Time
+  1. [TRUE - DREAM SOLISTER (Kibbleru) \[Melody\]](https://osu.ppy.sh/beatmapsets/359501#osu/790415)
+  2. [-45 - yoshikawa45 vs. siesta45 Battle of HongKong (Dada) \[Para Bellum\]](https://osu.ppy.sh/beatmapsets/1889111#osu/3890692)
+  3. [NANORAY - DESKTOP BUDDY (Elcheer) \[TOURNEY VERSION\]](https://osu.ppy.sh/beatmapsets/1884650#osu/3880353)
+  4. [Nanahoshi Kangengakudan - Too young to beer. (Nattu) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/2064584#osu/4872629)
+  5. [Harumaki Gohan - Zero Talking (Okoayu) \[Insane\]](https://osu.ppy.sh/beatmapsets/2254715#osu/4805944)
+- Tiebreaker
+  1. **[FELT - Lies in Reality (tatemae) \[Maldorora\]](https://osu.ppy.sh/beatmapsets/1703947#osu/3481674)**
 
 ### Quarterfinals
 
@@ -163,7 +223,62 @@ The complete list of player registrations can be found [here](https://docs.googl
   2. [ZUN - Romantic Children (nanoya) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/2287801#osu/4881371)
   3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
 
-## Match Results
+## Match results
+
+### Semifinals
+
+Friday, 23 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/120369603) |
+
+Saturday, 24 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[VtuberVoiceASMR](https://osu.ppy.sh/users/8780223)** | [#1](https://osu.ppy.sh/community/matches/120376665) |
+| Lower | **[MejiroMcQueen](https://osu.ppy.sh/users/11320627)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | [#1](https://osu.ppy.sh/community/matches/120376206) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | [#1](https://osu.ppy.sh/community/matches/120377225) |
+
+Sunday, 25 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/120384930) |
+| Lower | [MejiroMcQueen](https://osu.ppy.sh/users/11320627) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[Thatnoobguy](https://osu.ppy.sh/users/11091594)** | [#1](https://osu.ppy.sh/community/matches/120385390) |
+| Lower | **[Skydiver](https://osu.ppy.sh/users/4750008)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [VtuberVoiceASMR](https://osu.ppy.sh/users/8780223) | [#1](https://osu.ppy.sh/community/matches/120385103) |
+| Upper | [MineFrostID](https://osu.ppy.sh/users/12159899) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[lifeline](https://osu.ppy.sh/users/11367222)** | [#1](https://osu.ppy.sh/community/matches/120385053) |
+
+### Quarterfinals
+
+Friday, 16 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/120319285) |
+
+Saturday, 17 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Azasapag](https://osu.ppy.sh/users/18347666) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/120329594) |
+
+Sunday, 18 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Caruma](https://osu.ppy.sh/users/13187450) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[VtuberVoiceASMR](https://osu.ppy.sh/users/8780223)** | [#1](https://osu.ppy.sh/community/matches/120336147) |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Rosemi Lovelock](https://osu.ppy.sh/users/1987591) | [#1](https://osu.ppy.sh/community/matches/120337119) |
+| Lower | **[BlankTap](https://osu.ppy.sh/users/10137131)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [Stixe](https://osu.ppy.sh/users/18351160) | [#1](https://osu.ppy.sh/community/matches/120336088) |
+| Lower | **[Oguri Cap](https://osu.ppy.sh/users/11025519)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737) | *win by default* |
+
+Monday, 19 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Hakui Koyori](https://osu.ppy.sh/users/10717635)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120344246) |
+| Upper | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: [MejiroMcQueen](https://osu.ppy.sh/users/11320627) | [#1](https://osu.ppy.sh/community/matches/120343896) |
 
 ### Round of 16
 

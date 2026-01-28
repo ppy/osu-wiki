@@ -1,6 +1,8 @@
 ---
 tags:
   - Hit-Objekte
+outdated_translation: true
+outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 ---
 
 # Hit-Objekt
