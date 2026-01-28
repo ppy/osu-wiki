@@ -9,7 +9,7 @@ tags:
 
 **Bancho** (đôi khi gọi là *osu!Bancho*) là tên mã của thành phần máy chủ xử lý các tương tác thời gian thực giữa người chơi đang chạy phiên bản ổn định của osu!:
 
-- Hệ thống chat, [trạng thái trực tuyến](/wiki/Client/Interface/Chat_console#extended-chat-console), và [cổng IRC](/wiki/Community/Internet_Relay_Chat)
+- Hệ thống chat, [trạng thái trực tuyến](/wiki/Client/Interface/Chat_console#bảng-trò-chuyện-mở-rộng), và [cổng IRC](/wiki/Community/Internet_Relay_Chat)
 - Chế độ [Spectator](/wiki/Gameplay/Spectating)
 - [Hệ thống Multiplayer](/wiki/Client/Interface/Multiplayer) và [quản lý giải đấu](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
