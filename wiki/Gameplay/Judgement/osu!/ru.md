@@ -33,7 +33,7 @@ hit window truncation https://github.com/peppy/osu-stable-reference/blob/1531237
 | ![](/wiki/shared/judgement/osu!/hit300k.png) | [Katu](/wiki/Gameplay/Judgement/Katu) или Katsu (喝) | GREAT | По крайней мере OK на всех объектах в комбо и GREAT на последнем |
 | ![](/wiki/shared/judgement/osu!/hit100k.png) | [Katu](/wiki/Gameplay/Judgement/Katu) или Katsu (喝) | OK | По крайней мере OK на всех объектах в комбо |
 
-Эта механика относится к [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) и [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents). Последняя использует Elite Beat! and Beat! вместо Geki и Katsu.
+Эта механика позаимствована из игр [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) и [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents) (последняя использует вместо Geki и Katsu термины Elite Beat! и Beat!).
 
 ## Механика оценок
 
