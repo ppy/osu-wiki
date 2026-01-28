@@ -339,7 +339,7 @@ osu! 通常会自动保持版本最新、无需干涉，但有时可能会出现
 
 #### 允许程序通过迈克菲 (McAfee) {id=firewall-whitelist-mcafee}
 
-请参阅迈克菲的[官方知识库文章](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view)。
+请参阅迈克菲的[官方知识库文章](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html)。
 
 ### 我已经允许 osu! 通过防火墙了，但是我仍然没办法连接游戏！ {id=sign-in-unknown-cause}
 
