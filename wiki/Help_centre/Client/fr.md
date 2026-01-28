@@ -330,7 +330,7 @@ Veuillez consulter l'[article d'aide officiel](https://support.kaspersky.com/151
 
 #### Autoriser un programme à travers McAfee {id=firewall-whitelist-mcafee}
 
-Veuillez consulter [l'entrée officielle de la base de connaissances sur le sujet](https://service.mcafee.com/?articleId=TS100813&locale=fr-CA&page=shell&shell=article-view) de McAfee.
+Veuillez consulter [l'entrée officielle de la base de connaissances sur le sujet](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html) de McAfee.
 
 ### J'ai ajouté osu! à mon pare-feu mais je ne peux toujours pas me connecter au jeu ! {id=sign-in-unknown-cause}
 

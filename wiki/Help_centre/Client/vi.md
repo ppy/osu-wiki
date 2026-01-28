@@ -306,7 +306,7 @@ Vui lòng tham khảo bài viết [hướng dẫn tính năng chính thức](htt
 
 #### Cho phép một chương trình qua McAfee {id=firewall-whitelist-mcafee}
 
-Vui lòng tham khảo bài viết chính thức trong cơ sở tri thức của McAfee về chủ đề này.
+Vui lòng tham khảo [bài viết chính thức trong cơ sở tri thức của McAfee về chủ đề này](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html).
 
 ### Tôi đã thêm osu! vào tường lửa nhưng vẫn không thể kết nối được với trò chơi! {id=sign-in-unknown-cause}
 

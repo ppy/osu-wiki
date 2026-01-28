@@ -3,6 +3,8 @@ no_native_review: true
 no_native_review_since: fa001f3f10bcb5261f1ba2cf35469327f89ddfd6 Avariation
 tags:
   - NAT
+outdated_translation: true
+outdated_since: 9f5515183469f804c26459f564d04ce2b03f0015
 ---
 
 # Đội ngũ Đánh giá Đề cử
