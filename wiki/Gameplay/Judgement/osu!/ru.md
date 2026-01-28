@@ -109,5 +109,5 @@ note that the above formulas are divided in half in the tables below for nicer u
 ## Заметки
 
 [^half-spins]: При работе со спиннерами osu! считает половинные обороты. Формулы, указанные в статье, используют полные обороты, так что число оборотов округляется вниз до ближайшей половины.
-[^spinner-clear]: Как предполагаемая недоработка, [текст "Clear"](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) появляется на половину вращения раньше, чем нужно для получения оценки GREAT.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L302-L303 comparison logic isn't the same as L457 & L440-->
+[^spinner-clear]: [Надпись "Clear"](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) появляется на экране на половину вращения раньше, чем нужно для получения оценки GREAT (считается, что это мелкий баг).<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L302-L303 comparison logic isn't the same as L457 & L440-->
 [^minimum-sps]: Из-за константы +0.5 в формуле для минимальных необходимых вращений, актуальное минимальное среднее значение составляет `0.5 / длительность спиннера в секундах` вращений в секунду быстрее.
