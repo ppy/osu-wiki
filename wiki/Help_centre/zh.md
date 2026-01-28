@@ -7,8 +7,6 @@ tags:
   - missing
   - 帮助
   - 问题
-outdated_translation: true
-outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 ---
 
 # 帮助中心
@@ -26,8 +24,9 @@ outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 | [作图与编辑器](/wiki/Help_centre/Beatmapping) | 谱面维护，谱面所有权，谱面槽位 |
 | [客户端](/wiki/Help_centre/Client) | 漏洞和崩溃，游玩问题，网络连接，性能问题 |
 | [安装与注册](/wiki/Help_centre/Installation_and_registration) | 下载游戏，注册账号 |
+| [禁言](/wiki/Help_centre/Silences) | 禁言相关：概述，申诉流程，常见原因 |
 | [商店](/wiki/Help_centre/Store) | 周边产品 |
-| [禁赛](/wiki/Help_centre/Tournament_bans) | 禁赛相关：概述，常见原因和冷静期 |
+| [比赛处罚](/wiki/Help_centre/Tournament_sanctions) | 比赛处罚相关：概述，常见原因和冷静期 |
 | [升级到 lazer](/wiki/Help_centre/Upgrading_to_lazer) | 迁移到 osu! 的[下一个主要版本](/wiki/Client/Release_stream/Lazer) |
 | [网站](/wiki/Help_centre/Website) | 屏蔽用户，获得支持，网站外观 |
 
@@ -54,7 +53,7 @@ outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 
 当 osu! 崩溃后，如果 osu! 未提供崩溃日志，可以通过事件查看器寻找。
 
-如果帮助团队人员让你从事件查看器获取崩溃日志，请这样做：
+如果支持团队人员让你从事件查看器获取崩溃日志，请这样做：
 
 1. 在 osu! 崩溃后，按下 `Win` + `R` 以打开运行窗口。
 2. 在运行窗口输入 `eventvwr` 然后按下 `Enter`。事件查看器将会运行。
@@ -71,9 +70,11 @@ outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
 
 当在 osu! 中遇到棘手的性能问题时，帧时间视图是一个很好的工具，可以帮助我们诊断手头的问题，并帮助你找到问题的解决方案。
 
+如果支持团队人员让你在打开帧时间视图的情况下拍摄视频或截图，请这样做：
+
 1. 打开 osu!。
 2. 按下 `Ctrl` + `F11` 以打开帧时间视图。
 3. 触发或等待性能问题发生。
 4. 按下 `Shift` + `F12` 截图。这会将截图上传至 osu! 服务器，并会在你的浏览器中打开截图链接。
 5. 复制链接并粘贴至你的支持请求或论坛帖子中。
-6. 关闭帧时间视图，与打开一致，按下 `Ctrl` + `F11`。
+6. 关闭帧时间视图——与打开一致，按下 `Ctrl` + `F11`。
