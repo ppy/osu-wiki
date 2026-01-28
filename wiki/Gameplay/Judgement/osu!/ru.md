@@ -70,10 +70,10 @@ internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b6
 also applies to the spinner history section
 -->
 
-| Оценка | Необходимо вращений[^half-spins] |
+| Оценка | Необходимо оборотов[^half-spins] |
 | :-: | :-- |
 | GREAT[^spinner-clear] | 100% |
-| OK | На одно вращение меньше, чем нужно |
+| OK | На один оборот меньше, чем для 100% |
 | MEH | 25% |
 | MISS | 0% |
 
