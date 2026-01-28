@@ -302,7 +302,7 @@ Contractions must not be used.
 
 ### Serial comma
 
-The serial comma, also known as the Oxford or Harvard comma, must be used.
+The serial comma, also known as the Oxford or Harvard comma, should generally not be used.
 
 ### Dashes
 
