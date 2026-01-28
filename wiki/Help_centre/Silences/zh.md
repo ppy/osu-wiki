@@ -56,7 +56,7 @@
 
 ## 申诉
 
-尽管禁言是为了确保一个积极的社区环境，但在执行时也可能出错。如果您认为您收到的静音处罚存在错误或不合理，请通过 [accounts@ppy.sh](mailto:accounts@ppy.sh)，友善联系[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)并说明详细情况。
+尽管禁言是为了确保一个积极的社区环境，但在执行时也可能出错。如果您认为您受到的禁言处罚存在错误或不合理，请通过 [accounts@ppy.sh](mailto:accounts@ppy.sh)，友善联系[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)并说明详细情况。
 
 请记住，您必须使用您当前 osu! 账户内绑定的邮箱地址联系，并注明您的用户名以确认身份。
 
