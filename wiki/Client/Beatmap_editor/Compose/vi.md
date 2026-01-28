@@ -194,7 +194,7 @@ Bên trái cửa sổ sample import liệt kê tất cả các sample âm thanh 
 | `Delete` | xóa tệp âm thanh. |
 | `Apply` | Áp dụng sample đã chọn cho note đang chọn. |
 | `Sample` | Thêm sample đã chọn dưới dạng [sự kiện âm thanh storyboard](/wiki/Storyboard/Scripting/Audio) tại timestamp hiện tại. |
-| `Sample list` | Hiển thị [danh sách sự kiện âm thanh trong storyboard](#sample-events-list). |
+| `Sample list` | Hiển thị [danh sách sự kiện âm thanh trong storyboard](#danh-sách-sự-kiện-sample). |
 | `Reset` | Gỡ bỏ sample tùy chỉnh khỏi note đang chọn. |
 | `Cancel` | Đóng cửa sổ. |
 
