@@ -13,7 +13,7 @@
 | ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 × OD` |
 | ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0% | `400` |
 
-Окно попадания зависит от [общей сложности (OD)](/wiki/Beatmap/Overall_difficulty) карты. Затем попадание рассчитывается внутри окна попадания, если `hit error < max hit error`, что означает, что указанное значение равно половине ширины окна попадания.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L1521-L1536 -->
+Окно попадания по объектам зависит от [общей сложности (OD)](/wiki/Beatmap/Overall_difficulty) карты. В случае, если ошибка попадания меньше максимально допустимой (и нажатие находится внутри окна), считается, что игрок успешно прошёл объект. Таким образом, максимально допустимая ошибка — это половина окна попадания.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L1521-L1536 -->
 
 <!--
 internal reference:
