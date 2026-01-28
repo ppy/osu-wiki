@@ -63,7 +63,7 @@ hit window truncation https://github.com/peppy/osu-stable-reference/blob/1531237
 
 ### Спиннеры
 
-Каждый [спиннер](/wiki/Gameplay/Hit_object/Spinner) имеет свое количество вращений для его прохождения. Оно зависит от [OD](/wiki/Beatmap/Overall_difficulty#слайдеры-и-спиннеры) карты. Скорость вращения спиннера подсчитывается, основываясь на скорости курсора, и не всегда совпадает с реальным количеством вращений.
+Для прохождения [спиннеров](/wiki/Gameplay/Hit_object/Spinner) нужно сделать определённое число вращений, которое зависит от [OD](/wiki/Beatmap/Overall_difficulty#слайдеры-и-спиннеры) карты. Скорость вращения спиннера подсчитывается, основываясь на скорости курсора, и не всегда совпадает с количеством реально сделанных оборотов.
 
 <!--
 internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L419-L461
