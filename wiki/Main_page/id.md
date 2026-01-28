@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: b87dafa50b19fb17120132dc4c6dbaca32283aa5
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -76,7 +74,7 @@ Kenali berbagai prosedur dan ketentuan yang menjaga osu! dan komunitasnya tetap 
 
 [Peraturan](/wiki/Rules) • [Kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
+Peraturan media: [Izin penggunaan konten](/wiki/Rules/Content_usage_permissions) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
 
 [Artikel hukum](/wiki/Legal): [Ketentuan layanan](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
 
