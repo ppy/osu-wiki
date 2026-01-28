@@ -602,7 +602,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. You can click "Edit externally" under the "File" tab in the editor to open a folder for external editing.
+If you need to make changes to a beatmap, please use the in-game beatmap editor. You can alternatively click "Edit externally" under the "File" tab in the editor to open the map in a temporary folder for external editing.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 
