@@ -282,7 +282,7 @@ Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artis
 ```markdown
 `osu!` must not be followed by an exclamation mark (i.e. `osu!!`) — rewrite the sentence if necessary.
 
-`osu!` 不允许与问号一起使用（`osu!！`）。必要时请重写句子。
+`osu!` 不允许与感叹号一起使用（`osu!！`）。必要时请重写句子。
 ```
 
 #### 引号
