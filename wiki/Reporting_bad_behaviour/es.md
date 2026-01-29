@@ -45,7 +45,7 @@ Si tu reporte se realizó correctamente, BanchoBot te enviará un mensaje privad
 
 Ten en cuenta que el comando `!report` **no funciona** en osu!(lazer). Reporta a los usuarios a través del [menú de reportes](#lazer-reports) en su lugar.
 
-### Superposición del juego en osu! (estable) {id=stable-reports}
+### Superposición del juego en osu!(stable) {id=stable-reports}
 
 ![](img/report-user-1-ES.png "Menú de acciones del usuario con el botón de reporte")
 
