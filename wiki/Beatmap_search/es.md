@@ -10,8 +10,6 @@ tags:
   - filtros de beatmaps
   - búsqueda del cliente
   - búsqueda del sitio web
-outdated_translation: true
-outdated_since: 72d78d671964fa6ec4b880cd84f5f4d07fad2796
 ---
 
 # Búsqueda de beatmaps
@@ -65,6 +63,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `artist` | Nombre del artista |
 | `title` | Nombre de la canción |
 | `source` | El medio, como un videojuego, película, serie o evento, en el que se originó la canción o con el que mejor se asocia |
+| `favourites` | Número de favoritos que tiene un beatmap |
 | `featured_artist` | Identificador de la entrada del [Artista Destacado](/wiki/People/Featured_Artists) |
 | `creator` | Nombre del creador de la dificultad |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
@@ -74,11 +73,12 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `star`, `stars` | [Clasificación por estrellas](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Tempo de la canción](/wiki/Music_theory/Tempo) |
 | `length` | [Duración](/wiki/Beatmap/Play_time) en segundos |
+| `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `circles` | Número de círculos en el beatmap |
 | `sliders` | Número de sliders en el beatmap |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
 | `status` | Estado del beatmap. El valor puede ser `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` o `loved`, o `r`/`a`/`p`/`n`/`u`/`l` para abreviar. |
-| `created` | Fecha de creación/subida del beatmap |
+| `created`, `submitted` | Fecha de creación/subida del beatmap |
 | `updated` | Fecha de la última actualización del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
 | `tag` | [Etiquetas específicas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios) |
@@ -89,13 +89,14 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | :-- | :-- |
 | `artist` | Nombre del artista |
 | `title` | Nombre de la canción |
-| `creator` | Nombre del creador de la dificultad |
+| `source` | El medio, como un videojuego, una película, una serie o un evento, en el que se originó la canción o con el que se asocia mejor |
+| `creator`, `author`, `mapper` | Nombre del creador de la dificultad |
 | `diff` | Nombre de la dificultad del beatmap |
 | `ar` | [Velocidad de aproximación](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Tamaño del círculo](/wiki/Beatmap/Circle_size) |
 | `od` | [Dificultad general](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [Tasa de drenaje de HP](/wiki/Beatmap/HP_drain_rate) |
-| `star`, `stars` | [Clasificación por estrellas](/wiki/Beatmap/Star_rating) |
+| `star`, `stars`, `sr` | [Calificación por estrellas](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Tempo de la canción](/wiki/Music_theory/Tempo) |
 | `length` | [Tiempo de juego](/wiki/Beatmap/Play_time) en segundos |
 | `key`, `keys` | Número de teclas (solo osu!mania y beatmaps convertidos) |
@@ -104,7 +105,7 @@ El campo de metadatos de los beatmaps se pueden comparar con valores específico
 | `lastplayed` | Tiempo desde la última vez que se jugó un beatmap. Acepta un formato de `#y#M#d#h#m#s`, para años, meses, días, horas, minutos y segundos respectivamente. Por ejemplo, `2d5s` significa «2 días y 5 segundos». |
 | `played` | Si se ha jugado o no un beatmap. El valor puede ser `yes`, `true` o `1` para beatmaps jugados, o `no`, `false` o `0` para beatmaps no jugados. |
 | `divisor` | El denominador del [divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
-| `submitted` | Fecha de creación/subida del beatmap |
+| `created`, `submitted` | Fecha de creación/subida del beatmap |
 | `ranked` | Fecha de clasificación/aprobación del beatmap |
 | `tag` | [Etiquetas específicas de los usuarios](/wiki/Beatmap/Beatmap_tags#etiquetas-de-los-usuarios) (solo compatible con el listado de beatmaps integrado) |
 
@@ -160,8 +161,8 @@ j-pop tag="meta/custom skin"
 
 ## Referencias
 
-[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/58514a67d1f38e9842045615993252a8810fd50b/app/Libraries/Search/BeatmapsetQueryParser.php)
-[^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/6913d75792585bab7f0c649dd6b5687e05753d33/osu.Game/Screens/Select/FilterQueryParser.cs)
+[^website-filters]: [Código fuente de osu!web](https://github.com/ppy/osu-web/blob/c31fa1db6802efbdbb3842c7df087b273cfa3c4a/app/Libraries/Search/BeatmapsetQueryParser.php)
+[^lazer-filters]: [Código fuente de osu!(lazer)](https://github.com/ppy/osu/blob/ae1402c9cd6644709b6c7c65703fecee55592061/osu.Game/Screens/Select/FilterQueryParser.cs)
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
