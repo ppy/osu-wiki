@@ -99,7 +99,7 @@ outdated_translation: true
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 ```
 
-这些标签会在对于原文的更改被合并后自动添加到翻译文章，不过也可以被不需要它们的翻译文章[绕过](/wiki/osu!_wiki/Maintenance#outdated-translations)。
+这些标签会在对于原文的更改被合并后自动添加到翻译文章，不过也可以被不需要它们的翻译文章[绕过](/wiki/osu!_wiki/Maintenance#过时翻译)。
 
 ### 给文章添加标签
 
