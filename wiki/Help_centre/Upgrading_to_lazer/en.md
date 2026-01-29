@@ -96,6 +96,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Costom hitsound sample sets | ![Yes][true] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
@@ -498,37 +499,37 @@ However, only the following mods will award performance points for now:
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (only 0.75x, configuring `Adjust pitch` is allowed)
-  - Daycore (only 0.75x)
+  - Half Time (Configuring `Adjust pitch` is allowed)
+  - Daycore
 - Difficulty Increase
-  - Hard Rock (not for osu!mania)
-  - Sudden Death (Configuring `Restart on fail` is allowed)
-  - Perfect (Configuring `Restart on fail` is allowed)
-  - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
-  - Nightcore (only 1.5x)
-  - Fade In (osu!mania)
+  - Hard Rock (Not for osu!mania)
+  - Sudden Death (Configuring `Also fail when missing a slider tail (only for osu!)` and `Restart on fail` is allowed)
+  - Perfect (Configuring `Require perfect hits (only for osu!mania)` and `Restart on fail` is allowed)
+  - Double Time (Configuring `Adjust pitch` is allowed)
+  - Nightcore (Only 1.5x)
+  - Fade In (Only for osu!mania)
   - Hidden
-  - Cover (osu!mania)
+  - Cover (Only for osu!mania, configuring `Direction` is allowed)
   - Flashlight
-  - Blinds (osu!)
-  - Accuracy Challenge
+  - Blinds (Only for osu!)
+  - Accuracy Challenge (All customisation options are allowed)
 - Automation
-  - Spun Out (osu!)
+  - Spun Out (Only for osu!)
 - Conversion
-  - Alternate (osu!)
-  - Single Tap (osu!/osu!taiko)
-  - Swap (osu!taiko)
-  - Mirror (osu!mania)
-  - Four Keys (osu!mania)
-  - Five Keys (osu!mania)
-  - Six Keys (osu!mania)
-  - Seven Keys (osu!mania)
-  - Eight Keys (osu!mania)
-  - Nine Keys (osu!mania)
+  - Alternate (Only for osu!)
+  - Single Tap (Only for osu!/osu!taiko)
+  - Swap (Only for osu!taiko)
+  - Mirror (Only for osu!mania)
+  - Four Keys (Only for osu!mania)
+  - Five Keys (Only for osu!mania)
+  - Six Keys (Only for osu!mania)
+  - Seven Keys (Only for osu!mania)
+  - Eight Keys (Only for osu!mania)
+  - Nine Keys (Only for osu!mania)
 - Fun
-  - Traceable (osu!)
-  - Muted
-  - No Scope (osu!/osu!catch)
+  - Traceable (Only for osu!)
+  - Muted (All customisation options are allowed)
+  - No Scope (Only for osu!/osu!catch, configuring `Hidden at combo` is allowed)
 - System
   - Touch Device
 
