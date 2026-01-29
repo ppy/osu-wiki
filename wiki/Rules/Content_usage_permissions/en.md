@@ -232,6 +232,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/39) | [James Landino](https://osu.ppy.sh/beatmaps/artists/39) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/477) | [JinoBeats](https://osu.ppy.sh/beatmaps/artists/477) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/109) | [Joe Ford](https://osu.ppy.sh/beatmaps/artists/109) | ![][true] |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/524) | [John Grant](https://osu.ppy.sh/beatmaps/artists/524) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/267) | [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/365) | [Junk](https://osu.ppy.sh/beatmaps/artists/365) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/490) | [Juwubi](https://osu.ppy.sh/beatmaps/artists/490) | ![][true] |
