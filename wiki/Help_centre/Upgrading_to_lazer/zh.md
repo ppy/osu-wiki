@@ -2,7 +2,7 @@
 
 osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕后工作的结晶，并且，我们重构了游戏。
 
-虽然这个版本带来了许多 osu!(stable) 没有的新特性，每个客户端仍然有其独有的特性。与此同时，玩家可以自由选择自己想玩的版本，并且这一行为会决定我们将继续维护多久旧版本。
+这个版本带来了许多 osu!(stable) 没有的新特性。不过，每个版本都有其独有的特性，玩家可以自由选择自己想玩的版本。这也会决定我们将继续维护多久旧版本（osu!stable）。
 
 "lazer" 是这个版本的代号。当它成为游戏的主要版本时，最终将删除掉这个代号。为方便起见，本文以下部分将 osu!(lazer) 简称为 "lazer"，osu!(stable) 简称为 "stable"。
 
@@ -83,7 +83,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | 多人自由模式 | ![不支持][false] | ![支持][true][^freestyle] |
 | 多人游戏指令 | ![支持][true] | ![不支持][false] |
 | 合作模式 (Tag co-op) | ![支持][true] | ![不支持][false] |
-| 课题模式 (玩家策划的排行榜) | ![不支持][false] | ![支持][true] |
+| 歌单模式 (玩家策划的排行榜) | ![不支持][false] | ![支持][true] |
 | 更新在官网上改动过的谱面 | ![部分支持][partial][^map-only] | ![支持][true][^all-files] |
 
 ### 编辑器
@@ -96,6 +96,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 | osu!mania 编辑器 | ![支持][true] | ![支持][true] |
 | 打开一个难度作为参考 | ![支持][true] | ![不支持][false] |
 | 按物件设定变速和音量 (SV / volume) | ![不支持][false] | ![支持][true] |
+| 自定义音效采样集 (Hitsounds sample sets) | ![支持][true] | ![支持][true] |
 | 分段调整滑条的曲线类型 | ![不支持][false] | ![支持][true] |
 | 分割、合并滑条 | ![不支持][false] | ![支持][true] |
 | 旋转物件 | ![支持][true] | ![支持][true] |
@@ -498,37 +499,37 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 - 降低难度
   - Easy
   - No Fail
-  - Half Time (仅 0.75 倍速，可以调整 `Adjust pitch` )
-  - Daycore (仅 0.75 倍速)
+  - Half Time (可以打开 `Adjust pitch`)
+  - Daycore
 - 增加难度
-  - Hard Rock (不适用 osu!mania )
-  - Sudden Death (可以打开 `Restart on fail` )
-  - Perfect (可以打开 `Restart on fail` )
-  - Double Time (仅 1.5 倍速，可以调整 `Adjust pitch`)
-  - Nightcore (仅 1.5 倍速)
-  - Fade In (osu!mania)
+  - Hard Rock (osu!mania 除外)
+  - Sudden Death (可以打开 `Also fail when missing a slider tail (仅 osu!)` 和 `Restart on fail`)
+  - Perfect (可以打开 `Require perfect hits (仅 osu!mania)` 和 `Restart on fail`)
+  - Double Time (可以打开 `Adjust pitch`)
+  - Nightcore
+  - Fade In (仅 osu!mania)
   - Hidden
-  - Cover (osu!mania)
+  - Cover (仅 osu!mania，可以选择 `Direction`)
   - Flashlight
-  - Blinds (osu!)
-  - Accuracy Challenge
+  - Blinds (仅 osu!)
+  - Accuracy Challenge (可以调节所有自定义选项)
 - 自动游玩
-  - Spun Out (osu!)
+  - Spun Out (仅 osu!)
 - 转换
-  - Alternate (osu!)
-  - Single Tap (osu!/osu!taiko)
-  - Swap (osu!taiko)
-  - Mirror (osu!mania)
-  - Four Keys (osu!mania)
-  - Five Keys (osu!mania)
-  - Six Keys (osu!mania)
-  - Seven Keys (osu!mania)
-  - Eight Keys (osu!mania)
-  - Nine Keys (osu!mania)
+  - Alternate (仅 osu!)
+  - Single Tap (仅 osu!/osu!taiko)
+  - Swap (仅 osu!taiko)
+  - Mirror (仅 osu!mania)
+  - Four Keys (仅 osu!mania)
+  - Five Keys (仅 osu!mania)
+  - Six Keys (仅 osu!mania)
+  - Seven Keys (仅 osu!mania)
+  - Eight Keys (仅 osu!mania)
+  - Nine Keys (仅 osu!mania)
 - 娱乐
-  - Traceable (osu!)
-  - Muted
-  - No Scope (osu!/osu!catch)
+  - Traceable (仅 osu!)
+  - Muted (可以调节所有自定义选项)
+  - No Scope (仅 osu!/osu!catch，可以调节 `Hidden at combo`)
 - 系统
   - Touch Device
 
