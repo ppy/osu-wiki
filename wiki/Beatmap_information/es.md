@@ -92,7 +92,7 @@ Una vez clasificado el beatmap, los usuarios pueden votar por las [etiquetas de 
 
 ![](img/success-rate-ES.png "Indicador de la tasa de éxito")
 
-El indicador de la tasa de éxito muestra cuántos jugadores han conseguido completar con éxito el beatmap. When hovering over the percentage value, a tooltip will provide the exact number of passes out of the total number of plays in a beatmap.
+El indicador de la tasa de éxito muestra cuántos jugadores han conseguido completar con éxito el beatmap. Al pasar el cursor por encima del porcentaje, aparecerá un cuadro de información con el número exacto de veces que se ha pasado la dificultad seleccionada respecto al número total de jugadas en un beatmap.
 
 Debajo hay un diagrama que muestra los puntos de fallo de un mapa, indicando en qué puntos los usuarios fallaron su jugada. Cuanto más alto es el pico, más jugadores fallaron en ese punto.
 
@@ -120,7 +120,7 @@ Al pasar el cursor sobre una puntuación, aparecerán tres puntos en la parte de
 
 ![](img/comments-ES.png "Cuadro de texto para publicar comentarios y opciones de ordenación")
 
-En la sección de comentarios, los usuarios pueden intercambiar sus opiniones sobre el beatmap. El anfitrión del batmapa también tiene la posibilidad de fijar un comentario, lo que hará que se muestre en la parte superior de la sección. El número en la parte superior refleja el número total de comentarios. Los comentarios se pueden ordenar por los más recientes, los más antiguos o los comentarios con más votos positivos seleccionando el modo de ordenación correspondiente debajo del cuadro de texto. Para publicar un nuevo comentario, escribe algo en el cuadro de texto y haz clic en `Publicar` o presiona `Entrar`.
+En la sección de comentarios, los usuarios pueden intercambiar sus opiniones sobre el beatmap. El anfitrión del beatmap también tiene la posibilidad de fijar un comentario, lo que hará que se muestre en la parte superior de la sección. El número en la parte superior refleja el número total de comentarios. Los comentarios se pueden ordenar por los más recientes, los más antiguos o los comentarios con más votos positivos seleccionando el modo de ordenación correspondiente debajo del cuadro de texto. Para publicar un nuevo comentario, escribe algo en el cuadro de texto y haz clic en `Publicar` o presiona `Entrar`.
 
 Al hacer clic en el botón `Ver` situado a la derecha, el usuario recibirá notificaciones sobre los nuevos comentarios relacionados con este beatmap.
 
