@@ -36,7 +36,7 @@ Một **uninherited** timing point có các thiết lập timing riêng của n�
 
 Ngoài ra, uninherited timing point còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
 
-Uninherited timing point có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#timing-setup-panel). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
+Uninherited timing point có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
 
 ### Inherited timing point
 
