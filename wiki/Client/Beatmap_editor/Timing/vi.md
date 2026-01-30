@@ -44,7 +44,7 @@ Uninherited timing point có màu đỏ trên timeline phía dưới và trong [
 ![](img/inherited-points.png "Một số inherited timing point với các hệ số slider velocity, âm lượng và thiết lập kiai khác nhau")
 :::
 
-Một **inherited** timing point sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ timing point trước đó. Inherited timing point được dùng cho các mục đích sau:
+Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ timing point trước đó. Inherited timing point được dùng cho các mục đích sau:
 
 - Thay đổi [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Điều chỉnh âm lượng của [hitsound](/wiki/Beatmapping/Hitsound)
