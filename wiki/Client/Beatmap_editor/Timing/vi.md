@@ -51,7 +51,7 @@ Một **inherited** timing point sử dụng các thiết lập timing đang ho�
 - Chuyển đổi [sampleset](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
 - Bật hoặc tắt [kiai time](/wiki/Gameplay/Kiai_time)
 
-Inherited timing point có màu xanh lá trên timeline phía dưới và trong [bảng thiết lập timing](#timing-setup-panel). Vì vậy, chúng thường được gọi là "green offset" hoặc "green line".
+Inherited timing point có màu xanh lá trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "green offset" hoặc "green line".
 
 ## Giao diện chính
 
