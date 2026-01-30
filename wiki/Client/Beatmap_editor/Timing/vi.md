@@ -96,5 +96,3 @@ Mọi thay đổi trong bảng timing chỉ được áp dụng cho các timing 
 - Để chọn nhiều timing point bất kỳ, giữ `Ctrl` khi click vào chúng
 - Để chọn nhiều timing point liên tiếp, click timing point đầu tiên, sau đó giữ `Shift` và click timing point cuối cùng
 - Để **sao chép hoặc dán timing point từ và vào bảng timing**, sử dụng các phím tắt mặc định của hệ điều hành, ví dụ như `Ctrl` + `C` và `Ctrl` + `V`
-
-  (Bản dịch này sử dụng ảnh sẵn có, ngôn ngữ mặc định là tiếng Anh.)
