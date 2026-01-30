@@ -34,7 +34,7 @@ Trong [mapping](/wiki/Beatmapping), một *điểm căn nhịp*, thường đư�
 
 Một điểm căn nhịp **không kế thừa** có các thiết lập timing riêng của nó. Nhiều điểm căn nhịp kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [thời gian signature](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm căn nhịp không kế thừa mới sẽ khôi phục metronome, khiến nó đếm nhịp từ offset của điểm căn nhịp đó, được xác định bằng mili giây.
 
-Ngoài ra, uninherited timing point còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
+Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
 
 Uninherited timing point có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
 
