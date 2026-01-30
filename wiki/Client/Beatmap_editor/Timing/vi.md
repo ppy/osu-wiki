@@ -26,7 +26,7 @@ tags:
 
 Trong [mapping](/wiki/Beatmapping), một *timing point*, thường được gọi là *offset*, là một cách để áp dụng các thiết lập chung như [timing](/wiki/Beatmapping/Timing), hệ số [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), hoặc [hitsound](/wiki/Beatmapping/Hitsound) và âm lượng tương ứng của chúng, cho một đoạn cụ thể trong beatmap. Trong osu!, có hai loại timing point.
 
-### Uninherited timing point
+### Điểm căn nhịp không kế thừa
 
 ::: Infobox
 ![](img/uninherited-points.png "Một số uninherited timing point nằm trong bảng thiết lập timing")
