@@ -49,7 +49,7 @@ Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing
 - Thay đổi [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Điều chỉnh âm lượng của [hitsound](/wiki/Beatmapping/Hitsound)
 - Chuyển đổi [sampleset](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
-- Bật hoặc tắt [kiai time](/wiki/Gameplay/Kiai_time)
+- Bật hoặc tắt [thời gian kiai](/wiki/Gameplay/Kiai_time)
 
 Inherited timing point có màu xanh lá trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "green offset" hoặc "green line".
 
