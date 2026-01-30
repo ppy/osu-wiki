@@ -38,7 +38,7 @@ Ngoài ra, uninherited timing point còn có thể được dùng để bỏ cá
 
 Uninherited timing point có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
 
-### Inherited timing point
+### Điểm căn nhịp kế thừa
 
 ::: Infobox
 ![](img/inherited-points.png "Một số inherited timing point với các hệ số slider velocity, âm lượng và thiết lập kiai khác nhau")
