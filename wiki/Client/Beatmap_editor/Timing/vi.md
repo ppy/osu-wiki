@@ -20,7 +20,7 @@ tags:
 
 **Timing** là tab trong [beatmap editor](/wiki/Client/Beatmap_editor) dùng để thay đổi và thiết lập timing của một [beatmap](/wiki/Beatmap), điều này là thiết yếu để thể hiện bài hát một cách chính xác. Tab này chứa các cài đặt và công cụ liên quan đến timing, đồng thời có một [cửa sổ riêng](#bảng-thiết-lập-timing) để làm việc với nhiều [điểm căn nhịp](#điểm-căn-nhịp), phục vụ cả mục đích thể hiện cấu trúc âm nhạc lẫn thiết kế beatmap.
 
-## Timing points
+## Điểm căn nhịp
 
 *Xem thêm: [Offset](/wiki/Offset)*
 
