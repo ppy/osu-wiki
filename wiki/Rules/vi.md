@@ -2,7 +2,7 @@
 
 Những nội quy dưới đây là nền móng trong việc gìn giữ cộng đồng osu! luôn là một nơi vui vẻ và chào đón mọi người.
 
-## Nội quy cộng đồng {id=community-rules}
+## Nội quy cộng đồng
 
 1. **Mỗi người chơi chỉ được sở hữu *MỘT* tài khoản duy nhất cho đến sau này.** Tài khoản *đầu tiên* bạn tạo khi đăng ký tài khoản là tài khoản osu! duy nhất của bạn, từ thời điểm bạn tạo nó cho đến sau này. Tài khoản này là *CỦA BẠN*. Nó không phải là của bất cứ ai khác - không phải của anh, chị, em, bố, mẹ hay bạn của bạn — nó là CỦA BẠN. Đừng chia sẻ tài khoản của bạn cho bất kỳ ai. Bạn không được phép tạo tài khoản mới nếu bạn làm mất. Hãy giữ gìn cẩn thận.
 2. **Chơi một cách công bằng.** Sử dụng bất cứ công cụ hỗ trợ bên thứ ba để có thêm lợi thế là không được. Điều này bao gồm những việc như sử dụng phần mềm hỗ trợ aim, điều chỉnh tốc độ, vân vân. Macros, phím tắt, hoặc phần cứng mà trong đó thực hiện một hành động vật lý (VD: ấn một phím xuống) không tương ứng với cùng một hành động trong game thì cũng bị cấm tương tự. Nếu một chương trình đang làm điều gì đó giúp bạn chơi game thay vì bạn tự chơi lấy thì không ổn đâu!
