@@ -40,7 +40,7 @@ Nếu trong tên người dùng có khoảng trắng, thay thế chúng thành d
 !report người_đó spamming in #osu
 ```
 
-Nếu báo cáo của bạn được gửi thành công, Bancho sẽ hiển thị cho bạn một tin nhắn riêng tư cho biết rằng người điều hành đã được cảnh báo.
+Nếu báo cáo của bạn được gửi thành công, Bancho sẽ hiển thị cho bạn một tin nhắn riêng tư cho biết rằng người điều hành đã nhận được cảnh báo.
 
 Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lòng báo cáo người dùng qua [menu cáo báo](#lazer-reports) thay vào đó.   
 
