@@ -14,33 +14,33 @@ osu! hiện tại có 4 **chế độ chơi** tích hợp trong game với nhữ
 - `Ctrl` + `3` cho osu!catch
 - `Ctrl` + `4` cho osu!mania
 
-![Giao diện lựa chọn chế độ chơi ở osu!(stable)](/wiki/shared/Interface_mode.png "Mode selection interface in osu!(stable)")
+![Giao diện lựa chọn chế độ chơi ở osu!(stable)](/wiki/shared/Interface_mode.png "Giao diện lựa chọn chế độ chơi ở osu!(stable)")
 
-![Giao diện lựa chọn chế độ chơi](/wiki/shared/Interface_mode_lazer.png "Mode selection interface in osu!(lazer)")
+![Giao diện lựa chọn chế độ chơi](/wiki/shared/Interface_mode_lazer.png "Giao diện lựa chọn chế độ chơi ở osu!(lazer)")
 
 ## ![][osu!] osu!
 
-*Trang gốc: [osu!](osu!)*
+*Trang chính: [osu!](osu!)*
 
 *osu!* là chế độ chơi mặc định của game, nơi mà bạn phải bấm vào những nốt tròn, nhấn giữ ở những nốt dài, và xoay những nốt yêu cầu phải xoay theo nhịp của bài nhạc. Nó được dựa theo tựa game nhịp điệu của [iNiS](https://en.wikipedia.org/wiki/INiS)' là *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! có nhân vật biểu tượng là [pippi](/wiki/Mascots#pippi), một cô gái với mái tóc màu hồng và đen.
 
-![Gameplay of osu!](/wiki/shared/osu-gameplay.jpg "osu! gameplay")
+![Lối chơi của osu!](/wiki/shared/osu-gameplay.jpg " Lối chơi của osu!")
 
 ## ![][osu!taiko] osu!taiko
 
-*Trang gốc: [osu!taiko](osu!taiko)*
+*Trang chính: [osu!taiko](osu!taiko)*
 
 *osu!taiko* tái hiện lại quá trình chơi trống thật, nơi mà người chơi sẽ sử dụng các phím trên bàn phím mình hay một bộ trống để đánh vào những hình tròn có màu khác nhau. Nó được dựa trên series game *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* được phát hành bởi [Bandai Namco Entertainment](https://en.wikipedia.org/wiki/Bandai_Namco_Entertainment). Nhân vật biểu tượng của osu!taiko là [Mocha](/wiki/Mascots#mocha), một cô gái tóc canh mặc kimono đang cầm dùi trống.
 
-![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taiko gameplay")
+![Lối chơi của osu!taiko](/wiki/shared/taiko-gameplay.jpg "Lối chơi củaosu!taiko")
 
 ## ![][osu!catch] osu!catch
 
-*Trang gốc: [osu!catch](osu!catch)*
+*Trang chính: [osu!catch](osu!catch)*
 
 *osu!catch* là chế độ mà người chơi điều khiển một nhân vật đang cầm mâm hứng những món trái cây rơi xuống từ trên màn hình xuống theo điệu nhạc. Nó gần như dựa trên minigame "Catch It!!"trong khoảng thời gian đầu của [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], một giả lập của [Beatmania](https://en.wikipedia.org/wiki/Beatmania) dành cho PC, bây giờ nó đã trở thành một chế độ *EZ2CATCH* của hệ thống arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Nhân vật biểu tượng của osu!catch là [Yuzu](/wiki/Mascots#yuzu), một cậu bé tóc xanh.
 
-![Gameplay of osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch gameplay")
+![Lối chơi của osu!catch](/wiki/shared/catch-gameplay.jpg "Lối chơi của osu!catch")
 
 ## ![][osu!mania] osu!mania
 
@@ -48,7 +48,7 @@ osu! hiện tại có 4 **chế độ chơi** tích hợp trong game với nhữ
 
 *osu!mania* là một chế độ chơi theo hướng các nốt cuộn từ trên xuống (VSRG) được thiết kế để mô phỏng cách chơi piano. Nó lần đầu được [được thực hiện và giới thiệu](https://osu.ppy.sh/community/forums/topics/100751) bởi [woc2006](https://osu.ppy.sh/users/1105845), và được dựa trên tựa game có kiểu chơi như vậy (có tên [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) và [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Nhân vật biểu tượng của osu!mania là cặp sinh đôi [Mani and Mari](/wiki/Mascots#mani-&-mari),cả hai đều có mái tóc màu trắng và tím.
 
-![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania gameplay")
+![Lối chơi của osu!mania](/wiki/shared/mania-gameplay.jpg "Lối chơi của osu!mania")
 
 ## Chế độ tùy chỉnh
 
