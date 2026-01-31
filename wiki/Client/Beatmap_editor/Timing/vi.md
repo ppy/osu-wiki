@@ -51,7 +51,7 @@ Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing
 - Chuyển đổi [sampleset](/wiki/Beatmapping/Sampleset) của hitsound đang hoạt động
 - Bật hoặc tắt [thời gian kiai](/wiki/Gameplay/Kiai_time)
 
-Inherited timing point có màu xanh lá trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "green offset" hoặc "green line".
+Điểm căn nhịp kế thừa có màu xanh lá trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "green offset" hoặc "green line".
 
 ## Giao diện chính
 
