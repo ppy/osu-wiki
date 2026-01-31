@@ -26,7 +26,7 @@ Các hình ảnh hoặc yếu tố trực quan bao gồm bất cứ điều gì 
 - **Bạo lực quá mức, máu me, chặt xác, chém đầu, hoặc làm tàn tật cơ thể**
 - **Ám chỉ tình dục rõ rệt**
 - **Tư thế khiêu gợi hoặc gạ gẫm tình dục** 
-- **Nội dung khiêu dâm hoặc hiển thị đồ họa về tình dục**
+- **Nội dung khiêu dâm hoặc đồ họa hiển thị về tình dục**
 - **Ví dụ việc sử dụng chất cấm, chuẩn bị hoặc nhận dạng với nhóm văn hóa ma túy trái phép**[^drug-nature]
 - **Mô tả tới chính trị, nội dung văn hóa, tôn giáo hoặc nội dung xã hội gây tranh cãi có chủ ý**
 - **Hình ảnh mô tả hành vi tự sát hoặc tự làm hại bản thân, bao gồm chuẩn bị hoặc hành động sắp diễn ra**
