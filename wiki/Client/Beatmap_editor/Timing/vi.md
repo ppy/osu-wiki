@@ -41,7 +41,7 @@ Uninherited timing point có màu đỏ trên timeline phía dưới và trong [
 ### Điểm căn nhịp kế thừa
 
 ::: Infobox
-![](img/inherited-points.png "Một số inherited timing point với các hệ số slider velocity, âm lượng và thiết lập kiai khác nhau")
+![](img/inherited-points.png "Một số điểm căn nhịp kế thừa với các hệ số slider velocity, âm lượng và thiết lập kiai khác nhau")
 :::
 
 Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ timing point trước đó. Inherited timing point được dùng cho các mục đích sau:
