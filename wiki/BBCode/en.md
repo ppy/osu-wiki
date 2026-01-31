@@ -54,18 +54,10 @@ The `[u]` tag is used to emphasise text by drawing a horizontal line underneath 
 ### Strikethrough
 
 ```
-[strike]text[/strike]
-```
-
-or in its abbreviated form:
-
-```
 [s]text[/s]
 ```
 
-*Note: "strikethrough" may also be known as "strike".*
-
-The `[s]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough").
+The `[s]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough", also known as "strike").[^strike]
 
 Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 
@@ -196,17 +188,11 @@ The `[centre]` tag aligns text to the centre of a box. This is most often used f
 [url=LINK]text[/url]
 ```
 
-or
-
-```
-[url]LINK[/url]
-```
-
 The `[url]` tag converts text into clickable hyperlinks.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically. While the second syntax (`[url]LINK[/url]`) is supported, it is often redundant.*
+*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically.*
 
-To create a custom link (first syntax), provide:
+To create a custom link[^url], provide:
 
 1. **The destination URL** as the `LINK` argument (without quotation marks).
 2. **The display text** between the opening and closing tags.
@@ -223,25 +209,16 @@ Toolbar button: ![URL button](img/url.png "URL")
 [profile=USERID]username[/profile]
 ```
 
-The `[profile]` tag links to a user's osu! profile page by using their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
+The `[profile]` tag links to a user's osu! profile page using either their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
 
-For best results, include both the user ID and **username** in the tag. This ensures the link remains functional even if the username changes later.
+To create a profile link, provide:
 
-1. **If the `USERID` is omitted**: The link will break if the username changes.
-2. **If the `username` is omitted**: The link will break immediately.
-3. If a placeholder text is used between the tags when specifying only the user ID, the username connected to the `USERID` argument will be displayed on the actual page after saving the BBCode instead of the placeholder text. Same applies when the username provided does not exist.
-4. **If `USERID` is invalid and `username` exists**: The link will still render using the username.
-5. **If both are invalid**: The link will still render using the username, but the hover card will show an error.
+1. The user's numeric ID as the `USERID` argument (without quotation marks).
+2. The user's username between the opening and closing tags.
 
-After saving BBCode, the osu! website will automatically modify the `[profile]` tag in the following ways[^profile-skill]:
+For best results, include both the correct user ID and its corresponding username. This ensures the link works as expected and also remains functional even if the username changes later.
 
-1. **Forum**, **Signatures** and **Beatmap Descriptions** will automatically:
-
-- add/change to correct `USERID` using `username` under case `1.` and `4.`
-- change the `username` to the current one under case `3.`
-- remove the `USERID` argument if both are invalid (case `5.`)
-
-2. **Your User Profile** will not modify your BBCode in any of the above cases.
+When the tag is used in **forum**, **signatures** or **beatmap descriptions**, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `USERID` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
 
 *Note: The user ID is the numeric string found after `/users/` in an osu! profile URL.*
 
@@ -281,15 +258,9 @@ Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img
 [email=ADDRESS]text[/email]
 ```
 
-or
+The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled.
 
-```
-[email]ADDRESS[/email]
-```
-
-The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled. Like the `[url]` tag, it supports two syntaxes, though the first is generally more useful.
-
-To use the `[email]` tag in the first way, provide:
+To use the `[email]` tag[^email], provide:
 
 1. The email address as the `ADDRESS` argument (no quotation marks)
 2. The display text between the tags
@@ -427,5 +398,7 @@ These projects simplify the process of formatting text with BBCode:
 
 ## Notes
 
-[^imgur-blocked-ip]: Reference: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
-[^profile-skill]: Using this knowledge, you can quickly add profile links when editing if you know either the user ID or username, faster than looking up both.
+[^imgur-blocked-ip]: See [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602) for more information.
+[^strike]: `[strike]` is also an accepted alias for the `[s]` tag.
+[^url]: `[url]LINK[/url]` is also supported, but is often redundant.
+[^email]: `[email]ADDRESS[/email]` is also supported, but is often redundant.
