@@ -6,7 +6,7 @@ Theo [Quy tắc Cộng đồng số 5](/wiki/Rules#nội-quy-cộng-đồng), t�
 
 - **Các beatmap được gửi lên, ngay cả những beatmap đã gắn thẻ là [explicit](/wiki/Rules/Explicit_content)** 
 - **Chi tiết hồ sơ (ảnh đại diện, ảnh bìa)**
-- **Bất kỳ tệp đính kèm hoặc liên kết khác (các bài viết trên diễn đàn, bình luận, bài đăng thảo luận beatmap)**
+- **Bất kỳ tệp đính kèm hoặc liên kết khác (bài viết trên diễn đàn, bình luận, bài đăng thảo luận beatmap)**
 
 Vì lợi ích của việc giữ mọi thứ càng trong sáng càng tốt, Quy tắc Cộng đồng số 5 được áp dụng đối với bất kỳ điều gì có thể được xem là “có vấn đề” một cách hợp lý.
 
