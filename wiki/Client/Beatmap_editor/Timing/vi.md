@@ -81,7 +81,7 @@ Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy 
 
 Metronome, nằm ở góc trên bên phải của tab timing, giúp nhanh chóng tìm ra các thiết lập timing gần đúng. Giá trị BPM và offset ban đầu của bài hát có thể được xác định bằng cách nhấn `T` liên tục hoặc nhấp vào nút `Tap Here!` theo nhịp của bài hát.
 
-Phần hiển thị trực quan của metronome được thiết kế theo [time signature](/wiki/Music_theory/Time_signature) phổ biến nhất là 4/4. Phần đầu tiên biểu thị [downbeat](/wiki/Music_theory/Downbeat) và sẽ nhấp nháy màu xanh lá, trong khi các phần còn lại sẽ nhấp nháy màu trắng theo mỗi nhịp trong [ô nhịp](/wiki/Music_theory/Measure) của bài hát. Các signature không phổ biến, như 7/4, sẽ thêm các lần nhấp nháy, nhưng kích thước metronome không thay đổi.
+Phần hiển thị trực quan của metronome được thiết kế theo [thời gian signature](/wiki/Music_theory/Time_signature) phổ biến nhất là 4/4. Phần đầu tiên biểu thị [downbeat](/wiki/Music_theory/Downbeat) và sẽ nhấp nháy màu xanh lá, trong khi các phần còn lại sẽ nhấp nháy màu trắng theo mỗi nhịp trong [ô nhịp](/wiki/Music_theory/Measure) của bài hát. Các signature không phổ biến, như 7/4, sẽ thêm các lần nhấp nháy, nhưng kích thước metronome không thay đổi.
 
 ## Bảng thiết lập timing
 
