@@ -131,4 +131,4 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 ## Tài liệu tham thảo 
 
-[^invalid-reports]: Không giống như các danh mục khác, beatmap đã được xếp hạng không thể được báo cáo thông qua website.
+[^invalid-reports]: Không giống như các danh mục khác, beatmap được xếp hạng không thể được báo cáo thông qua website.
