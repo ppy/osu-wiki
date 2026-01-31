@@ -58,7 +58,7 @@ Danh sách chế độ chơi đầy đủ có thể tìm được trong [phần 
 
 ## Liên kết
 
-[^rdm]: [YouTube video by peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
+[^rdm]: [Video youtube bởi peppy (2008-10-15) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
