@@ -29,7 +29,7 @@ Trong [mapping](/wiki/Beatmapping), một *điểm căn nhịp*, thường đư�
 ### Điểm căn nhịp không kế thừa
 
 ::: Infobox
-![](img/uninherited-points.png "Một số uninherited timing point nằm trong bảng thiết lập timing")
+![](img/uninherited-points.png "Một số điểm căn nhịp không kế thừa nằm trong bảng thiết lập timing")
 :::
 
 Một điểm căn nhịp **không kế thừa** có các thiết lập timing riêng của nó. Nhiều điểm căn nhịp kiểu này được dùng để thể hiện các thay đổi timing trong bài hát, chẳng hạn như [nhịp điệu](/wiki/Music_theory/Tempo), nhịp không đều, hoặc các [thời gian signature](/wiki/Music_theory/Time_signature) khác nhau. Việc thêm một điểm căn nhịp không kế thừa mới sẽ khôi phục metronome, khiến nó đếm nhịp từ offset của điểm căn nhịp đó, được xác định bằng mili giây.
