@@ -67,7 +67,7 @@ Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy 
 | `Slider Velocity` | [Tốc độ slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) cơ bản của toàn bộ beatmap |
 | `Slider Tick Rate` | Số lượng [chấm nằm trên slider](/wiki/Gameplay/Hit_object/Slider/Slider_tick) trong một [nhịp](/wiki/Music_theory/Beat) nhạc |
 
-Để thay đổi nhanh hơn với mức lớn hoặc nhỏ, sử dụng các modifier bên dưới:
+Để thay đổi nhanh hơn với mức lớn hoặc nhỏ, sử dụng các sửa đổi bên dưới:
 
 |  | Tempo | Offset | Slider velocity |
 | :-- | :-: | :-: | :-: |
