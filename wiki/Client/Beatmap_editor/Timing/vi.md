@@ -61,7 +61,7 @@ Tab timing có thể được mở bằng cách nhấn `F3` và cung cấp truy 
 
 | Tên | Ý nghĩa |
 | :-- | :-- |
-| `BPM` | [Nhịp](/wiki/Music_theory/Tempo) của timing point hiện tại, được đo bằng số nhịp trên phút (BPM - Beats per minute). |
+| `BPM` | [Nhịp](/wiki/Music_theory/Tempo) của điểm căn nhịp hiện tại, được đo bằng số nhịp trên phút (BPM - Beats per minute). |
 | `Offset` | [Cân chỉnh thời gian](/wiki/Offset#mapping) của timing point hiện tại, được đo bằng mili giây. |
 | `Move already placed notes when changing the offset/BPM` | Giữ các hit object gắn với các vạch trên [timeline](/wiki/Client/Beatmap_editor/Timelines) khi thay đổi timing |
 | `Slider Velocity` | [Tốc độ slider](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) cơ bản của toàn bộ beatmap |
