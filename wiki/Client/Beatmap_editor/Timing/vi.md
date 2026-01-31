@@ -36,7 +36,7 @@ Một điểm căn nhịp **không kế thừa** có các thiết lập timing r
 
 Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng để bỏ các vạch ô nhịp trong [osu!taiko](/wiki/Game_mode/osu!taiko) hoặc [osu!mania](/wiki/Game_mode/osu!mania).
 
-Uninherited timing point có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
+Điểm căn nhịp không kế thừa có màu đỏ trên timeline phía dưới và trong [bảng thiết lập timing](#bảng-thiết-lập-timing). Vì vậy, chúng thường được gọi là "red offset" hoặc "red line".
 
 ### Điểm căn nhịp kế thừa
 
