@@ -407,7 +407,7 @@ The *Heading (v2)* tag was once used to format text into a fancier-looking, purp
 
 ## Useful Projects
 
-Some projects that might help you with writing BBCode on osu! website are listed below.
+These projects simplify the process of formatting text with BBCode:
 
 | Name | Project lead | Description |
 | :-: | :-: | :-- |
@@ -420,7 +420,7 @@ Some projects that might help you with writing BBCode on osu! website are listed
 
 ## Trivia
 
-- This wiki article was mostly adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
+- This wiki article was originally adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
 - There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
