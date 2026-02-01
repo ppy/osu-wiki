@@ -11,7 +11,7 @@ tags:
 ![Snapshot der Seite up.ppy.sh](img/upppyScreenshot.png "Snapshot der upppy-Webseite aus dem Internet Archive, aufgenommen im Jahr 2023")
 :::
 
-**up.ppy.sh**, oft als **upppy** bezeichnet, war ein Dienst zum Hochladen von Dateien ([Filesharing](https://de.wikipedia.org/wiki/Filesharing)), der von ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) betrieben wurde. Er wurde erstmals im Januar 2007 vorgestellt, also noch vor osu![^upppy-launch-date-ref], und wurde hauptsächlich dazu genutzt, Bilder und Dateien innerhalb der osu!-Community zu teilen.
+**up.ppy.sh**, oft als **upppy** bezeichnet, war ein Dienst zum Hochladen von Dateien ([Filesharing](https://de.wikipedia.org/wiki/Filesharing)), der von ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) betrieben wurde. Er wurde erstmals im Januar 2007 vorgestellt, also noch bevor osu! erschien[^upppy-launch-date-ref], und wurde hauptsächlich dazu genutzt, Bilder und Dateien innerhalb der osu!-Community zu teilen.
 
 ## Dienst
 
