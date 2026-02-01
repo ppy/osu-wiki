@@ -21,22 +21,22 @@ Thanks to the tremendous effort of ::{ flag=PL }:: [Redo\_](https://osu.ppy.sh/u
 
 That said, there is still much to cover. More tutorial videos will follow, so be sure to keep tabs on the [skinship YouTube channel](http://www.youtube.com/@skinship)!
 
-That wraps up everything skinning-related from 2025. Now, it's time to go through the voting details.
+With 2025's skinning recap complete, it's time to go through the voting details.
 
 ## Voting details
 
-All skins released in 2025 and included in the skinship compendium are eligible for voting. You'll have **9** votes to distribute this year, so make them count!
+All skins released in 2025 and included in the skinship compendium are eligible for voting. You'll have **10** votes to distribute this year, so make them count!
 
 This year saw **188** total skin submissions across the forum's [work in progress](https://osu.ppy.sh/community/forums/119), [remixed](https://osu.ppy.sh/community/forums/124) and [completed](https://osu.ppy.sh/community/forums/109) categories, with **80** of those available to browse in the [skinship compendium](https://compendium.skinship.xyz/). As always, we strongly recommend taking a proper look through the compendium or testing the skins in-game before deciding on your 2025 favourites!
 
-[**Click here to get involved and vote for 2025's Skin of the Year!**](https://osu.ppy.sh/community/contests/placeholder)
+[**Click here to get involved and vote for 2025's Skin of the Year!**](https://osu.ppy.sh/community/contests/275)
 
-Once the voting phase is over, the following prizes will be distributed accordingly, along with a newspost announcing the winners:
+Once the voting phase is over, the following prizes will be distributed accordingly, along with a news post announcing the winners:
 
 - **1st place:** Unique profile badge based on their entry, 4 months of osu!supporter.
 - **2nd place:** Unique profile badge based on their entry, 3 months of osu!supporter.
 - **3rd place:** Unique profile badge based on their entry, 2 months of osu!supporter.
-- **4th–10th place:** 1 month of osu!supporter.
+- **4th–10th place:** 1 month of osu!supporter each.
 
 Voting will remain open for **14 days** after this post goes up, and will close on the 15th at 23:59 UTC, so don't hesitate too long and get your votes in on time!
 
