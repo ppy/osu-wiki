@@ -27,7 +27,7 @@ That wraps up everything skinning-related from 2025. Now, it's time to go throug
 
 All skins released in 2025 and included in the skinship compendium are eligible for voting. You'll have **XX** votes to distribute this year, so make them count!
 
-This year saw **XXX** total skin submissions across the forum's [work in progress](https://osu.ppy.sh/community/forums/119), [remixed](https://osu.ppy.sh/community/forums/124) and [completed](https://osu.ppy.sh/community/forums/109) categories, with **XXX** of those available to browse in the [skinship compendium](https://compendium.skinship.xyz/). As always, we strongly recommend taking a proper look through the compendium or testing the skins in-game before deciding on your 2025 favourites!
+This year saw **188** total skin submissions across the forum's [work in progress](https://osu.ppy.sh/community/forums/119), [remixed](https://osu.ppy.sh/community/forums/124) and [completed](https://osu.ppy.sh/community/forums/109) categories, with **80** of those available to browse in the [skinship compendium](https://compendium.skinship.xyz/). As always, we strongly recommend taking a proper look through the compendium or testing the skins in-game before deciding on your 2025 favourites!
 
 [**Click here to get involved and vote for 2025's Skin of the Year!**](https://osu.ppy.sh/community/contests/placeholder)
 
