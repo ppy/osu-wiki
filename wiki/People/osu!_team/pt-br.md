@@ -24,7 +24,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Desenvolvedor do osu! |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Faxineiro geral, líder da NAT e gerente do [Project Loved](/wiki/Community/Project_Loved) |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/2295078) | Organizador e administrador da [World Cup](/wiki/Tournaments#official-world-cups) |
-| ::{ flag=AU }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgador dos [Artistas em Destaque](/wiki/People/Featured_Artists) e secretário da [World Cup](/wiki/Tournaments#official-world-cups)  |
+| ::{ flag=AU }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Divulgador dos [Artistas em Destaque](/wiki/People/Featured_Artists) e secretário da [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desenvolvedor do osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Faxineiro geral e consultor da moderação |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Artesão de efeitos sonoros e [Artista em Destaque](https://osu.ppy.sh/beatmaps/artists/1) |
@@ -54,7 +54,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | Artista do osu! |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Organizador e administrador da World Cup |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Faxineiro geral, gerente de comunidade |
-| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) [Moderador](/wiki/People/Global_Moderation_Team) |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderador](/wiki/People/Global_Moderation_Team) |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Desenvolvedor do osu!, provedor da integração de protocolo IRC para o chat dentro do jogo, mantenedor do site. [Blog](http://blog.echo.sh/) |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/431) | Mantenedor da comunidade, do projeto e divulgador dos [Artistas em Destaque](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Host do osu! Coffee Hour, streamer da World Cup, organizador de torneios |
