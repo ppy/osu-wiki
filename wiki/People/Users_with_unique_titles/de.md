@@ -182,6 +182,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** du
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
