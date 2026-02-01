@@ -18,7 +18,7 @@ This is a one-strike rule. Cheaters will be restricted on their first offence fo
 
 ## Is using specialized hardware considered as cheating? {id=hardware}
 
-Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play (e.g. using fidget spinners on a tablet) or cancels out/defeats the effect of the game modifiers are not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
+Peripherals such as tablets and touchscreens are fine. Anything which decreases the skill required to play (e.g. using fidget spinners on a tablet) or cancels out/defeats the effect of the game modifiers is not. This means that using multiple PCs, input splitters or anything of that kind is considered a no-no.
 
 ## What is considered multi-accounting or account sharing? {id=multi-share}
 
