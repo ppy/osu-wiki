@@ -44,7 +44,7 @@ Ngoài ra, điểm căn nhịp không kế thừa còn có thể được dùng 
 ![](img/inherited-points.png "Một số điểm căn nhịp kế thừa với các hệ số slider velocity, âm lượng và thiết lập kiai khác nhau")
 :::
 
-Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ timing point trước đó. Inherited timing point được dùng cho các mục đích sau:
+Một điểm căn nhịp **kế thừa**  sử dụng các thiết lập timing đang hoạt động, *kế thừa* chúng từ điểm căn trước đó. Điểm căn nhịp kế thừa được dùng cho các mục đích sau:
 
 - Thay đổi [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Điều chỉnh âm lượng của [hitsound](/wiki/Beatmapping/Hitsound)
