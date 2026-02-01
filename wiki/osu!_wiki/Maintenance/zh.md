@@ -107,7 +107,7 @@ osu! 的创始者。
 
 ##### 过时翻译
 
-*参见：[文章风格规范/排版 § 过时翻译](/wiki/Article_styling_criteria/Formatting#过时翻译文章)和[文章风格规范/写作 § 内容校验](/wiki/Article_styling_criteria/Writing#内容校验)*
+*参见：[文章风格规范/排版 § 过时翻译](/wiki/Article_styling_criteria/Formatting#过时翻译文章)和[文章风格规范/写作 § 内容一致性](/wiki/Article_styling_criteria/Writing#内容一致性)*
 
 如果只是做出较小的改动，或者调整语法这类不会影响原本意思的更改，则无需将翻译标记为过时。在这些情况下，可以跳过将翻译标记为过时的自动操作。
 
@@ -146,13 +146,13 @@ wiki 依靠 osu! 社区的投入。你可以尽自己的职责，来帮助维护
 
 *有关翻译及完成度的列表，请参阅：[osu-wiki status](https://osu.wiki/status/zh)*
 
-世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容[与原文相同](/wiki/Article_styling_criteria/Writing#内容校验)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
+世界各地的玩家都会阅读 osu! wiki。为了给你所处的当地社区做出贡献，吸引新的优秀玩家、谱师、摸图员和开发者加入游戏，你可以来翻译英文文章至你使用的语言，或是更新过时的现有翻译文章。查看 osu! wiki 支持的[语言列表](/wiki/Article_styling_criteria/Formatting#本地化语言)，并且在翻译时，确保你翻译的内容与原文[包含相同信息](/wiki/Article_styling_criteria/Writing#内容一致性)。如果你能熟练使用语言交流，在写作方面很有经验，那么可以选择一些与[规则](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules)或是[谱面上架标准 (RC)](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_criteria) 相关的文章。如果你才刚刚加入翻译工作，可以尝试翻译一篇短小的文章，并接受熟练使用此语言的审核员的帮助和指导。
 
 如果翻译请求从创建以来已经经过了一周，即使没有熟练使用语言交流的玩家来审核，也可以合并。
 
 ### 扩写
 
-*有关可能的工作范围，请参阅：[需要扩写的文章列表（英语）](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*有关可能的工作范围，请参阅：[需要扩写的文章列表（英语）](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 有些 osu! wiki 文章可能并不完整且缺乏关键信息。这些文章会标记为 *stubs*，这代表了这些文章虽然足够重要，可以写成一篇独立的文章，但是只可能在未来完成。如果你熟悉这篇文章所描述的内容，就贡献并分享出你的知识吧。
 
