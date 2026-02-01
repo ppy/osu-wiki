@@ -74,7 +74,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Orientador da moderação |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Designer do fórum |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Ex-líder da [NAT](/wiki/People/Nomination_Assessment_Team) |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team) e [Mantenedor da wiki](/wiki/People/osu!_wiki_maintainers) |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team) e [mantenedor da wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinário cara fazedor de coisas legais |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Designer da arte conceitual e do conceito original da pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Gerente e líder da comunidade emergente, contribuidor de meeting minutes e FAQ |
@@ -82,6 +82,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Desenvolvedor do osu! e do pp |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Gerente do Project Loved, orientador da comunidade, divulgador de Artistas em Destaque |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [Artista em Destaque](https://osu.ppy.sh/beatmaps/artists/22) e orientador de modding e mapping |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Faxineiro geral, organizador e administrador da [World Cup](/wiki/Tournaments#official-world-cups), [mantenedor da wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Desenvolvedor do osu!, desenvolvedor do modo osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Gerente da [osu!store](https://osu.ppy.sh/store/listing) |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Professor da [osu!academy](/wiki/Community/Video_series/osu!academy), designer de mídia e de personagem |
