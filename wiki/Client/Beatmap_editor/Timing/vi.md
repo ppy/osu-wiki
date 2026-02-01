@@ -94,5 +94,5 @@ Bảng thiết lập timing, còn được gọi là `Timing and Control Points`
 Mọi thay đổi trong bảng timing chỉ được áp dụng cho các điểm căn nhịp đã được chọn.
 
 - Để chọn nhiều timing point bất kỳ, giữ `Ctrl` khi click vào chúng
-- Để chọn nhiều timing point liên tiếp, nhấn timing point đầu tiên, sau đó giữ `Shift` và click timing point cuối cùng
+- Để chọn nhiều điểm căn nhịp liên tiếp, nhấn vào điểm căn nhịp đầu tiên, sau đó giữ `Shift` và ấn điểm căn nhịp cuối cùng
 - Để **sao chép hoặc dán timing point từ và vào bảng timing**, sử dụng các phím tắt mặc định của hệ điều hành, ví dụ như `Ctrl` + `C` và `Ctrl` + `V`
