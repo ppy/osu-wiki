@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: fff05b2e9de482aa8c120458641e0492c88568b2
----
-
 # 界面自定义皮肤
 
 *参见：[界面](/wiki/Client/Interface)*
@@ -1470,6 +1465,21 @@ outdated_since: fff05b2e9de482aa8c120458641e0492c88568b2
 - 混合模式不同：
   - 如果用于连击计数器：
     - 对后续放大的图片使用相加模式混合。
+
+---
+
+`score-pp.png`
+
+![](img/score-pp.png)
+
+| 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐标准大小 |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 所有 | ![否][false] | ![是][true] | 普通模式 | （不同） | - |
+
+注意：
+
+- 仅限于 [Lazer](/wiki/Client/Release_stream/Lazer) 。
+- 此元素用于显示 [表现分](/wiki/Performance_points) 。
 
 ## 结算等级显示
 
