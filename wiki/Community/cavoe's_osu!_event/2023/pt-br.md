@@ -75,7 +75,6 @@ COE 2023 foi realizado por vários membros da comunidade e organizações parcei
 
 A equipe do Global Taiko Showdown organizou um torneio 1v1 de osu!taiko em LAN no evento, com uma pool de mapas totalmente customizada com músicas originais para cada beatmap. Jogadores de osu!taiko de qualquer rank puderam participar contanto que eles estivessem presentes durante o torneio
 
-
 #### Prêmios
 
 | Colocação | Prêmio(s) |
@@ -141,5 +140,5 @@ Um torneio 1v1 de osu! presencial organizado pelo time do COE.
 | Evento | Carimbo de data/hora (UTC+2) | Description |
 | :-- | :-- | :-- |
 | Pub quiz | 31 de Julho (20:00) | Um quiz de curiosidades apresentado por ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) e ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |
-| Torneio de Braço Direito no *CS:GO*  | August 3 (16:00–19:00) | Um torneio de  *CS:GO* por COE e WoozPC no modo Braço Direito |
+| Torneio de Braço Direito no *CS:GO* | August 3 (16:00–19:00) | Um torneio de  *CS:GO* por COE e WoozPC no modo Braço Direito |
 | Karaoke | 3 de Agosto (19:00) | Um evento onde qualquer pessoa pode pegar o microfone e cantar músicas junto com todos. |
