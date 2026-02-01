@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
+---
+
 # 内容使用规范
 
 osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作品。因此，玩家需要确保已经获得正确授权，才能在新的创作中，使用其他任何创作者的作品。
