@@ -11,7 +11,7 @@ What do you get when combining video game soundtracks, jazz-y bebop, and progres
 
 Hailing from the Washington metropolitan area in the United States, **John Grant** is a music educator by day and boundary-pushing composer and multi-instrumentalist by night. Niche online spheres like Newgrounds have taken **John Grant** in with open arms, where his distinct mix of live and MIDI instrumentation has grown its own cult following.
 
-For **10** one-of-a-kind tracks in pre-timed `.osz` form, head to [**John Grant**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/524)! Once you have your beatmapping canvas imported to the editor, the creative stuff is your responsibility.
+For **10** one-of-a-kind tracks in pre-timed `.osz` form, head to [**John Grant**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/524)! Once you have your beatmapping canvas imported into the editor, the creative stuff is your responsibility.
 
 **John Grant**'s introduction to the osu! community was just as unconventional as his music. And... we'll leave it at that. Let the music do the talking:
 
