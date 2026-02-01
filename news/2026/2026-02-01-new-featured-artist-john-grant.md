@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: John Grant"
-date: 2026-01-31 19:00:00 +0000
+date: 2026-02-01 09:00:00 +0000
 series: featured_artists
 ---
 
