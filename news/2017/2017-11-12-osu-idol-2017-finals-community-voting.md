@@ -2,6 +2,7 @@
 layout: post
 title: osu!idol 2017 Finals - Community Voting!
 date: 2017-11-12 12:00:00 +0000
+series: official_contests
 ---
 
 It is time for this year's community voting! We have three new finalists for you to hear - [Thievley](https://osu.ppy.sh/users/4717672), [Will Stetson](https://osu.ppy.sh/users/4909088) and [Renril](https://osu.ppy.sh/users/4955122)! Give 'em a listen and vote for your favourite!

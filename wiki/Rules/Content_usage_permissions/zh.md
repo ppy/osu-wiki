@@ -1,13 +1,13 @@
 ---
 outdated_translation: true
-outdated_since: 502953c245f58ddf62c5a1eed56e5ba70f388066
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
 ---
 
 # 内容使用规范
 
-osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作品。因此，玩家需要确保自己已经被授权，标明这些作品的归属，才能在新的创作中，使用其他任何创作者的作品。
+osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作品。因此，玩家需要确保已经获得正确授权，才能在新的创作中，使用其他任何创作者的作品。
 
-如果玩家并未得到授权，根据 [osu! 版权政策](/wiki/Legal/Copyright)，玩家上传的[谱面](/wiki/Beatmap)可能会被删除，并且玩家也可能会被禁止上传谱面。这意味着玩家应使用符合以下条件的作品内容制作谱面：
+如果玩家并未得到授权，根据 [osu! 版权政策](/wiki/Legal/Copyright)，玩家上传的[谱面](/wiki/Beatmap)可能会被删除，并且玩家也可能会被禁止上传谱面。这意味着玩家应使用符合以下条件之一的作品内容制作谱面：
 
 - 合法地在 osu! 中使用
 - 已经过内容创作者的批准
@@ -23,21 +23,21 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 
 *注意：在其他网站上发布视频、音频、或直播游戏时，可能会受到不同的许可要求的约束，这些要求需要您协商或理解。直播游戏时，请多加留意。*
 
-我们通过[精选艺术家](/wiki/People/Featured_Artists)项目，为谱师提供了众多已授权曲目，所有在[列表](https://osu.ppy.sh/beatmaps/artists)内展示的歌曲，均已授权免费在 osu! 中使用，绝无移除风险。
+我们通过[精选艺术家](/wiki/People/Featured_Artists)项目，为谱师提供了众多已授权曲目，所有在[列表](https://osu.ppy.sh/beatmaps/artists)内展示的歌曲，均已被授权自由在 osu! 中使用，且没有被移除的风险。
 
-在 osu! 的精选艺术家曲库之外寻找想要作图的歌曲时，需要留意作者是否明显写明了使用条款，这些信息通常可以在曲师的音乐发行平台上（比如 Bandcamp、 Soundcloud、 Youtube）或他们的个人网站上找到。如果它使用[知识共享许可协议](https://creativecommons.org/about/cclicenses/)，或允许非商业使用，那么使用这首歌曲作图就是安全的。
+在 osu! 的精选艺术家曲库之外寻找想要作图的歌曲时，需要留意作者是否明确注明了使用条款，这些信息通常可以在曲师的音乐发行平台上（比如 Bandcamp、 Soundcloud、 Youtube 等）或他们的个人网站上找到。如果一首歌使用[知识共享许可协议](https://creativecommons.org/about/cclicenses/)，或允许非商业使用，那么使用它作图就是安全的。
 
-如果你想用的歌并未明确标识许可，那么最好联系曲师寻求授权，大部分曲师都会在音乐发行平台、个人网站、社交媒体上写出他们的联系方式。
+如果你想用的歌并未明确标识许可，那么最好联系曲师寻求授权，大部分曲师都会在音乐发行平台、个人网站、社交媒体上标明他们的联系方式。
 
-可能你觉得这是难以逾越的大山，但我们已经见过许多谱师鼓起勇气去询问曲师并获得了他们的许可。向他们说明 osu! 是一款免费、无广告的游戏，再让他们参阅我们的[音乐许可页面](/wiki/Legal/Music_licensing)来了解他们的音乐将如何被使用，或许能帮助你更好地获得授权。
+也许你觉得这是一座难以逾越的大山，但我们已经见过许多谱师鼓起勇气去询问曲师并获得了他们的许可。想要更好地获得授权，你可以向他们说明 osu! 是一款免费、无广告的游戏，或向他们展示我们的[音乐许可页面](/wiki/Legal/Music_licensing)来了解他们的音乐将如何被使用。
 
 虽然歌曲通常受版权保护，但用于自定义打击音的音效则往往是免费的，例如 Philharmonia 乐队提供了免费[乐器音采样](https://philharmonia.co.uk/resources/sound-samples/)，[Freesound](https://freesound.org) 也提供了按版权搜索采样的功能。
 
 ### 艺术家准许
 
-本节详细介绍了哪些艺术家愿意在 osu! 中，在适当的条件下使用他们的音频作品。
+本节详细介绍了哪些艺术家愿意让谱师在 osu! 中，在适当的条件下使用他们的音频作品。
 
-不论以下列表中是否有完全不允许的情况，只要曲目在[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)中列出，即表明它们已经得到授权，从而可以用于创作 osu! 谱面。未在列表中列出的，属于精选艺术家创作的歌曲并*没有*获得许可，使用它们创作 osu! 谱面之前，需要额外的授权。
+不论以下列表中是否有完全不允许的情况，只要曲目在[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)中列出，即表明它们已经得到授权，从而可以用于创作 osu! 谱面。属于精选艺术家创作的歌曲如果没有在他们自己的列表中列出，则并*没有*获得许可，使用它们创作 osu! 谱面之前，需要额外的授权。
 
 #### 允许
 
@@ -355,7 +355,6 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | [Shawn Wasabi](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | [siqlo](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | [siromaru](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] |
@@ -428,7 +427,7 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 
 #### 部分允许，有例外
 
-这一段最后更新于 2025 年 3 月 30 日。
+这一段最后更新于 2025 年 11 月 22 日。
 
 | 艺术家 |  | 可用状态 | 备注 |
 | :-- | :-- | :-- | :-- |
@@ -436,10 +435,13 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
+|  | Igorrr | ![][partial] | 仅包含在 [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) 的精选艺术家列表中的合作曲目可以使用。请勿使用或上传任何其他音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | 请勿使用含有 "execution_program" 标识的音频。 |
+|  | MEGAREX (音乐厂牌) | ![][partial] | 仅厂牌相关创作者的精选艺术家列表中包含的音频可以被使用，请勿使用或上传任何其他音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | 请勿使用或上传*东方 Project* 主题的音频。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | 请勿使用或上传在创作者的精选艺术家列表中不可用的音频。 |
@@ -454,30 +456,29 @@ osu! 的核心，是能够让玩家们自由创作，并与其他玩家分享作
 | Enter Shikari | ![][false] |
 | EZFG | ![][false] |
 | Hatsuki Yura | ![][false] |
-| Igorrr | ![][false] |
 | kamome sano | ![][false] |
 | kozato | ![][false] |
 | NOMA | ![][false] |
 
 ## 视觉内容
 
-视觉内容，包括谱面的[背景](/wiki/Beatmap/Background)、[故事板](/wiki/Storyboard)、视频，与谱面的音频内容遵守相同的使用需求。
+视觉内容，包括谱面的[背景](/wiki/Beatmap/Background)、[故事板](/wiki/Storyboard)和视频，均与谱面的音频内容遵守相同的使用需求。
 
-许多图片托管网站都有用于知识共享许可或非商业用途的搜索过滤器。谱师经常使用的一些网站来查找其无版权背景，包括：
+许多图片托管网站都有用于知识共享许可或非商业用途的搜索过滤器。以下是谱师经常用于查找无版权背景图片的几个网站：
 
 - [pixabay](https://pixabay.com/)
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 
-应标明所有视觉内容的归属，并注明适当的来源链接。如果由于任何原因，无法使用来源链接，请使用指向此艺术家在最活跃平台上的主页链接。
+所有视觉作品应标明归属，并注明适当的来源链接。如果由于任何原因无法使用来源链接，请使用此艺术家在最活跃平台上的主页链接。
 
-在许多情况下，如果视觉艺术家允许在其他地方使用他们的作品，他们会清楚注明出来。如果不清楚视觉艺术家是否允许他们的作品在其他平台上使用，则不应在任何平台上使用，直到与他们单独联系并获得许可。
+在许多情况下，如果视觉艺术家允许在其他地方使用他们的作品，他们会清楚注明出来。如果不清楚视觉艺术家是否允许他们的作品在其他平台上使用，则不应在任何平台上使用，直到正确的使用被单独认可。
 
-如果音乐人明确允许无授权使用他们的歌曲，那么他们制作的专辑艺术作品或艺术家的任何其他官方艺术作品，也可以用于作图。但如果授权不清楚，请再次向他们请求许可。
+如果音乐人明确允许无授权使用他们的歌曲，那么他们的专辑艺术作品以及任何其他为其而作的官方艺术作品，也很有可能可以用于作图。不过如果不清楚，也请再次向他们询问。
 
 ## 游玩
 
-当上传谱面时，玩家应该在[客串谱面](/wiki/Beatmap/Guest_difficulty)或者来自于其他音乐节奏游戏的谱面等游玩相关的内容上，获得许可。
+当上传谱面时，玩家还应当在与游玩相关的资源上获得许可，如[客串谱面](/wiki/Beatmap/Guest_difficulty)或者来自其他音乐节奏游戏的谱面等。
 
 我们不能容忍模仿其他游戏玩法的物件摆放形式，因为这是对其他游戏的不尊重。
 

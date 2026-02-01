@@ -3,11 +3,12 @@ layout: post
 title: "Mapping Analysis #1 - Flow"
 date: 2013-09-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/61334266941/mapping-analysis-1-flow
+series: miscellaneous
 ---
 
 Hello everyone, I'm Shiro, and here is the first post of a map analysis series in which I will go over common mistakes I've found through my modding history, explaining why they are mistakes and how to fix them.
 
-![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7tu7tf6i1qz4rgp.png)
+![](https://osu.ppy.sh/images/headers/news-show-default.jpg)
 
 Keep in mind that flow is subjective, and that things defined as "broken" here might work under certain circumstances. This article assumes that the flow tries to be smooth in a neutral setup.
 
@@ -17,7 +18,7 @@ Flow is a word many mappers and modders use, often without context, and most of 
 
 They are the simplest objects in the game. When playing, the cursor goes simply from the centre of a circle to the centre of the next one:
 
-![](https://78.media.tumblr.com/6f3beb2eb163835c403173230ada2352/tumblr_inline_mr7sjxuBEp1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7sjxuBEp1qz4rgp.png)
 
 This creates a path to follow, and usually plays well. Charles445 refers to this as **linear flow**. It is the most basic flow.
 
@@ -25,7 +26,7 @@ This creates a path to follow, and usually plays well. Charles445 refers to this
 
 Sliders basically have two ends: the first one and the last one. They are completely different in terms of playability: the first end needs to be hit properly like a circle (except getting a 50 or a miss on it will cause a combobreak and a 100 on the slider, referred to as sliderbreak):
 
-![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7sjxuBEp1qz4rgp.png)
+![](/wiki/shared/news/2013-09-15-mapping-analysis-1-flow/tumblr_inline_mr7sy1Gugk1qz4rgp.png)
 
 However, the last end of the slider does not need to be hit properly and has an entire area in which it can be left while still having a 300:
 

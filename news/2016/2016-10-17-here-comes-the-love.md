@@ -3,6 +3,7 @@ layout: post
 title: Here Comes the Love
 date: 2016-10-17 08:50:40 +0000
 tumblr_url: http://osunews.tumblr.com/post/151925254083/here-comes-the-love
+series: project_loved
 ---
 
 Ever wanted to see a scoreboard on some of your favourite maps that weren't qualified or ranked? The future is here with the new "Loved" beatmap ranking state. Read on to learn more!

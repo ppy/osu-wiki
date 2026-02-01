@@ -3,6 +3,7 @@ layout: post
 title: Code of Conduct
 date: 2016-09-01 00:00:00 +0000
 tumblr_url: https://osuqat.tumblr.com/post/149777211965/code-of-conduct
+series: miscellaneous
 ---
 
 Hello! As some of you may be aware, recently I have been working on a [**Code of Conduct**](https://osu.ppy.sh/community/forums/topics/447557) for mapping and modding, intended to apply across the entire community.

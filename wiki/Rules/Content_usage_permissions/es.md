@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
+---
+
 # Permisos de uso de contenido
 
 osu! gira en torno a la posibilidad de crear y compartir creaciones libremente entre todos. Es importante asegurarse de adquirir los permisos adecuados para usar cualquier trabajo de otro creador en nuevas creaciones y que todo ese trabajo esté debidamente atribuido.
@@ -18,9 +23,9 @@ También puedes considerar la posibilidad de ponerte en contacto con el equipo p
 
 *Aviso: La publicación o retransmisión del juego en otros sitios puede estar sujeta a diferentes requisitos de licencia que deben negociarse o entenderse. Por favor, actúa con la debida diligencia cuando transmitas tus partidas a una audiencia.*
 
-osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [artista destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
+osu! brinda una librería de canciones licenciadas a los mappers a través del programa de [Artista Destacado](/wiki/People/Featured_Artists). Cada canción en [la lista](https://osu.ppy.sh/beatmaps/artists) se puede usar libremente en osu! y no está sujeta a riesgo de eliminación.
 
-Al buscar canciones fuera del catálogo de los artistas destacados de osu!, verifica si su artista indicó términos de uso explícitamente. Esta información suele encontrarse en las secciones de descripciones de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, YouTube) o en su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
+Al buscar canciones fuera del catálogo de los Artistas Destacados de osu!, verifica si su artista indicó términos de uso explícitamente. Esta información suele encontrarse en las secciones de descripciones de las plataformas de lanzamiento de música de un artista (por ejemplo, Bandcamp, SoundCloud, YouTube) o en su sitio web personal. Si una canción está bajo una [licencia Creative Commons](https://creativecommons.org/about/cclicenses/) o está disponible para su uso no comercial, puedes crear y enviar un beatmap que la use.
 
 Si los derechos de uso de una canción no son claros, se recomienda pedir permiso al artista antes de usarla en un beatmap. La mayoría de los artistas tienen métodos de contacto en sus plataformas de lanzamiento de música, sitios web personales y redes sociales.
 
@@ -32,7 +37,7 @@ Mientras que la música suele estar sujeta a derechos de autor, los efectos de s
 
 Esta sección detalla qué artistas están dispuestos a permitir el uso de sus trabajos de audio en osu!, y bajo qué condiciones (cuando sea apropiado).
 
-Todas las pistas que aparecen en cualquier [lista de los artistas destacados](https://osu.ppy.sh/beatmaps/artists) están licenciadas y aprobadas para su uso en la creación de beatmaps de osu!, independientemente de cualquier tipo de desaprobación general en estas listas. Las pistas de un artista destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
+Todas las pistas que aparecen en cualquier [lista de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) están licenciadas y aprobadas para su uso en la creación de beatmaps de osu!, independientemente de cualquier tipo de desaprobación general en estas listas. Las pistas de un Artista Destacado que no aparezcan en su listado *no* están licenciadas y pueden ser necesarios permisos adicionales para usarlas.
 
 #### Artistas permitidos
 
@@ -350,7 +355,6 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | [Shawn Wasabi](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | [siqlo](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | [siromaru](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] |
@@ -423,23 +427,24 @@ Todas las pistas que aparecen en cualquier [lista de los artistas destacados](ht
 
 #### Artistas permitidos, con excepciones
 
-Esta sección se actualizó por última vez el 1 de septiembre de 2025.
+Esta sección se actualizó por última vez el 22 de diciembre de 2025.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contactar antes de subir. Se le puede contactar por [correo electrónico](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
-|  | Igorrr | ![][partial] | Solo se pueden usar las pistas colaborativas que aparecen en la lista de artista destacado de [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370). No uses ni subas ninguna otra pista. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+|  | Igorrr | ![][partial] | Solo se pueden usar las pistas colaborativas que aparecen en la lista de Artista Destacado de [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370). No uses ni subas ninguna otra pista. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | No usar la pista titulada «execution_program». |
-|  | MEGAREX (sello discográfico) | ![][partial] | Solo se pueden usar las pistas que aparecen en las listas de artista destacado de los artistas relevantes. No uses ni subas ninguna otra pista. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
+|  | MEGAREX (sello discográfico) | ![][partial] | Solo se pueden usar las pistas que aparecen en las listas de Artista Destacado de los artistas relevantes. No uses ni subas ninguna otra pista. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Pistas de *Touhou* o con dicha temática no deben ser subidas o usadas. |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de artista destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 
 #### Artistas no permitidos
 
@@ -481,7 +486,7 @@ No toleramos envíos en los que la jugabilidad de los objetos coincidan con los 
 
 [^monstercat-gold]: Este artista está licenciado en cooperación con [Monstercat](https://osu.ppy.sh/beatmaps/artists/255) y los usuarios pueden obtener derechos de uso de medios externos a través de una suscripción [Monstercat Gold](https://www.monstercat.com/gold). Consulta su sitio web para obtener información específica sobre esta licencia.
 
-[FA]: /wiki/shared/group/FA.png "Artista destacado"
+[FA]: /wiki/shared/group/FA.png "Artista Destacado"
 [true]: /wiki/shared/true.png "Permitido"
 [false]: /wiki/shared/false.png "No permitido"
 [partial]: /wiki/shared/partial.png "Permitido, con excepciones"

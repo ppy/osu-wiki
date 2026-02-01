@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: The Flashbulb"
 date: 2019-04-30 10:00:00 +0000
+series: featured_artists
 ---
 
 Illuminate your life with osu!'s latest addition to the Featured Artist lineup - The Flashbulb!

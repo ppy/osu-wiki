@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2020 Arrives!
 date: 2020-12-10 10:00:00 +0000
+series: fanart_contests
 ---
 
 Winter's finally here! And what better way to celebrate it than with a new slew of seasonal backgrounds as voted for by you, plus a little something extra!

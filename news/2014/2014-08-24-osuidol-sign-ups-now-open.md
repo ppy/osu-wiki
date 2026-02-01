@@ -3,6 +3,7 @@ layout: post
 title: osu!idol sign-ups now open!
 date: 2014-08-24 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/95662228778/osuidol-sign-ups-now-open
+series: official_contests
 ---
 
 Do you find yourself singing along to all the latest and greatest ranked maps? Want to spread your talent to somewhere beyond the confines of your shower or car? Join us in osu!Idol and spread your voice to the outer reaches of the internet! Sing your favorite songs and become osu!'s new superstar!

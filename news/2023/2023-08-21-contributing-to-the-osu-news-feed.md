@@ -2,6 +2,7 @@
 layout: post
 title: Contributing to the osu! News Feed
 date: 2023-08-21 15:00:00 +0000
+series: miscellaneous
 ---
 
 Looking for news? We're looking too!

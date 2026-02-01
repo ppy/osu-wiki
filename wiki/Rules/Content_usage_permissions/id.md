@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+outdated_translation: true
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
 ---
 
 # Izin penggunaan konten
@@ -354,7 +355,6 @@ Seluruh lagu yang tersedia pada [daftar Featured Artist](https://osu.ppy.sh/beat
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | [Shawn Wasabi](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | [siqlo](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | [siromaru](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] |
@@ -427,7 +427,7 @@ Seluruh lagu yang tersedia pada [daftar Featured Artist](https://osu.ppy.sh/beat
 
 #### Diizinkan, dengan pengecualian
 
-Bagian ini terakhir diperbarui pada tanggal 1 September 2025.
+Bagian ini terakhir diperbarui pada tanggal 22 Desember 2025.
 
 | Artis |  | Status | Catatan |
 | :-- | :-- | :-- | :-- |
@@ -441,6 +441,7 @@ Bagian ini terakhir diperbarui pada tanggal 1 September 2025.
 |  | MEGAREX (label musik) | ![][partial] | Hanya lagu yang tersedia pada daftar Featured Artist dari artis yang terkait yang dapat digunakan. Jangan gunakan atau unggah lagu lainnya. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Jangan gunakan atau unggah lagu yang tidak tersedia pada daftar Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Jangan gunakan atau unggah lagu yang tidak tersedia pada daftar Featured Artist. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | Jangan gunakan atau unggah lagu yang tidak tersedia pada daftar Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Jangan gunakan atau unggah lagu yang tidak tersedia pada daftar Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Lagu yang berasal dari atau bertemakan seputar *Touhou* tidak dapat diunggah atau digunakan. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | Jangan gunakan atau unggah lagu yang tidak tersedia pada daftar Featured Artist. |

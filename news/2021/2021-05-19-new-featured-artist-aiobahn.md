@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Aiobahn"
 date: 2021-05-19 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to introduce our newest Featured Artist **Aiobahn** into the mix!

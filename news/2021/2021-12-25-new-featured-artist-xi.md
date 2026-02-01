@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: xi"
 date: 2021-12-25 08:30:00 +0000
+series: featured_artists
 ---
 
 Yep, it's **xi**.

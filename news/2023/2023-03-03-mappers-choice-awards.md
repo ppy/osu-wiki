@@ -2,6 +2,7 @@
 layout: post
 title: Mapper's Choice Awards / A Year In Mapping 2022
 date: 2023-03-03 09:00:00 +0000
+series: community_contests
 ---
 
 Cast your votes for last year's finest Ranked maps through the Mapper's Choice Awards, and discover remarkable mapping milestones from 2022 with A Year In Mapping.

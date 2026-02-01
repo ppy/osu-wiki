@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #6 Results (osu!catch)"
 date: 2020-04-23 17:00:00 +0000
+series: official_contests
 ---
 
 Apples, oranges, bananas and... waffles? The results for the second osu!catch Mapping Olympiad contest are in! See who came out on top to join the coveted ranks of the Elite Mappers!

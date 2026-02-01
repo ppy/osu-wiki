@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: 20 January to 2 February"
 date: 2019-02-03 23:10:00 +0000
+series: scorewatch
 ---
 
 Did you miss Scorewatch? We're back again with some insane plays to showcase all around the board. Come check out what the most skilled players in osu! have been up to!

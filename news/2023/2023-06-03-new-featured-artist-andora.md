@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Andora"
 date: 2023-06-03 11:00:00 +0000
+series: featured_artists
 ---
 
 **Andora**'s J-pop gems are now part of our Featured Artist collection. Try them out today (and maybe earn yourself a pretty profile badge) through the latest batch of Featured Artist playlists in osu!(lazer)!

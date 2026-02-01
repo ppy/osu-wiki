@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2023: Quarterfinals Recap"
 date: 2023-11-16 15:30:00 +0000
+series: world_cups
 ---
 
 Tune in to catch up on the latest upsets and heartbreaks (of which there were many), and prepare yourself for the upcoming Semifinals weekend.

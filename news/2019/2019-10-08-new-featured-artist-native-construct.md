@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Native Construct"
 date: 2019-10-08 10:00:00 +0000
+series: featured_artists
 ---
 
 **Native Construct** joins the roster as our latest Featured Artist with a selection of 7 tracks from their debut release, *Quiet World*!

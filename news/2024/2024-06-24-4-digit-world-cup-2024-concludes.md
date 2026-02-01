@@ -2,6 +2,7 @@
 layout: post
 title: 4 Digit World Cup 2024 Concludes
 date: 2024-06-24 21:00:00 +0000
+series: community_tournaments
 ---
 
 This year's 4 Digit World Cup has finally come to an end! Join us for a recap on everything that's been going on as well as some insights from one of our second-place finishers, a commentator and a custom mapper.

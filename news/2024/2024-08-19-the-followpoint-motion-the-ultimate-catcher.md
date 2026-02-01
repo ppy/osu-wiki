@@ -2,7 +2,7 @@
 layout: post
 title: "The Followpoint: Motion, the Ultimate Catcher"
 date: 2024-08-19 17:00:00 +0000
-series: The Followpoint
+series: followpoint
 ---
 
 The Followpoint is back with another interview! Learn more about Motion and his opinions as a true master of osu!catch.

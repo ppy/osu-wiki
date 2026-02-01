@@ -2,6 +2,7 @@
 layout: post
 title: "Spring 2024 Fanart Contest: Results"
 date: 2024-03-30 03:00:00 +0000
+series: fanart_contests
 ---
 
 March winds and April showers, make way for sweet mayflowers...

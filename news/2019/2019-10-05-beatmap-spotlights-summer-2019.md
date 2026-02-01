@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights: Summer 2019"
 date: 2019-10-05 09:05:00 +0000
+series: beatmap_spotlights
 ---
 
 Summer's already gone and the colder winds are blowing, but we still have something in our pocket to keep you warm! Our selection of maps from the hottest season is here for you the spend some time with. Come take a look and earn a fancy new medal for yourself by playing them all!

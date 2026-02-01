@@ -2,6 +2,7 @@
 layout: post
 title: "The State of Ranked: Survey Results"
 date: 2025-09-24 19:00:00 +0000
+series: miscellaneous
 ---
 
 Vox populi, vox Dei.

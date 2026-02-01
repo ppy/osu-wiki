@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: True North"
 date: 2023-02-25 09:00:00 +0000
+series: featured_artists
 ---
 
 **True North** brings a familiar brand of rock back into our Featured Artist catalogue!

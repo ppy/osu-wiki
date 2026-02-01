@@ -2,6 +2,7 @@
 layout: post
 title: Aspire V - Category Stage Voting
 date: 2020-06-22 16:00:00 +0000
+series: official_contests
 ---
 
 The first voting stage of Aspire V begins! Help us choose your favourites from several boundary-breaking beatmaps!

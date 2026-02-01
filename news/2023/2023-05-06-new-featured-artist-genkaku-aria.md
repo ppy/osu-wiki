@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Genkaku Aria"
 date: 2023-05-06 11:00:00 +0000
+series: featured_artists
 ---
 
 Looking for more doujin gothic rock? Of course you are. And **Genkaku Aria** is here to deliver!

@@ -3,6 +3,7 @@ layout: post
 title: Fourth Official osu! Fanart Contest Results (Halloween)!
 date: 2014-11-12 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/102429724443/fourth-official-osu-fanart-contest-results
+series: fanart_contests
 ---
 
 ![](/wiki/shared/news/2014-11-12-fourth-official-osu-fanart-contest-results/thumb-58.jpg)

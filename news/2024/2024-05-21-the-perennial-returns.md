@@ -2,6 +2,7 @@
 layout: post
 title: The Perennial Returns
 date: 2024-05-21 19:00:00 +0000
+series: community_tournaments
 ---
 
 After a year-long hiatus we're brushing off the dust! The Perennial returns for its third iteration — and we've got more excitement than ever!

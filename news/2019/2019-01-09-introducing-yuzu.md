@@ -2,6 +2,7 @@
 layout: post
 title: Introducing Yuzu's New Look
 date: 2019-01-10 03:00:00 +0000
+series: miscellaneous
 ---
 
 Heeey! I'm back! You won't believe the sorta stuff I've been up to but wow, is it just me or am I *fashionable* now? Come check me out!

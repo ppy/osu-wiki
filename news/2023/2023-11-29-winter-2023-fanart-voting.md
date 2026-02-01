@@ -2,6 +2,7 @@
 layout: post
 title: Winter 2023 Fanart Voting Open
 date: 2023-11-29 10:00:00 +0000
+series: fanart_contests
 ---
 
 With **90** delectable entries and only **15** votes to spend, one of the year's last challenges is upon us!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2024: Round of 32 Recap"
 date: 2024-03-27 12:00:00 +0000
+series: world_cups
 ---
 
 Get your Taikonator plushies out and get ready to cheer on your favourite countries as they fight for dominance in the most coveted osu!taiko tournament of the year!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!(lazer) Updates: August 16, 2024"
 date: 2024-08-17 19:45:00 +0000
+series: game_updates
 ---
 
 The devs have been cooking, and a new batch of osu!(lazer) updates has just exited the oven.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: lexxndr"
 date: 2025-11-09 18:00:00 +0000
+series: featured_artists
 ---
 
 You're not experiencing auditory hallucinations. **lexxndr**'s music just sticks in your head forever.

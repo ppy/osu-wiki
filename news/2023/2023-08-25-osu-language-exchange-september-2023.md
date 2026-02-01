@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Language Exchange: September 2023"
 date: 2023-08-25 20:00:00 +0000
+series: online_events
 ---
 
 The best way to learn a new language is to use it, and what better way to use a language than to make some new friends?

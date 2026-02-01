@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
+---
+
 # Richtlinien für die Nutzung von Inhalten
 
 Im Mittelpunkt von osu! steht die Möglichkeit, Kreationen zu entwerfen und mit anderen zu teilen. Es muss sichergestellt werden, dass angemessene Berechtigungen für die Verwendung des Werkes eines anderen Künstlers eingeholt wurden und der Urheber ordnungsgemäß angegeben wird.
@@ -350,7 +355,6 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/169) | [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/362) | [Shadren](https://osu.ppy.sh/beatmaps/artists/362) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/139) | [Shawn Wasabi](https://osu.ppy.sh/beatmaps/artists/139) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/102) | [siqlo](https://osu.ppy.sh/beatmaps/artists/102) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/226) | [siromaru](https://osu.ppy.sh/beatmaps/artists/226) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/338) | [Sobrem](https://osu.ppy.sh/beatmaps/artists/338) | ![][true] |
@@ -423,7 +427,7 @@ Alle Songs, die auf der jeweiligen [Featured-Artist](https://osu.ppy.sh/beatmaps
 
 #### Erlaubt, mit Ausnahmen
 
-Dieser Abschnitt wurde zuletzt am 1. September 2025 aktualisiert.
+Dieser Abschnitt wurde zuletzt am 22. Dezember 2025 aktualisiert.
 
 | Künstler |  | Status | Bemerkungen |
 | :-- | :-- | :-- | :-- |
@@ -437,6 +441,7 @@ Dieser Abschnitt wurde zuletzt am 1. September 2025 aktualisiert.
 |  | MEGAREX (Musiklabel) | ![][partial] | Es dürfen nur Songs, die auf den entsprechenden "Featured Artist"-Seiten angezeigt werden, verwendet werden. Die Verwendung oder die Veröffentlichung anderer Songs ist nicht gestattet. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Songs aus oder rund um *Touhou* sollten nicht hochgeladen oder genutzt werden. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | Verwende oder lade keine Songs hoch, die nicht auf der "Featured Artist"-Seite des Künstlers verfügbar sind. |

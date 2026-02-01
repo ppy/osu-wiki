@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: Week of March 24th"
 date: 2019-03-25 06:50:00 +0000
+series: project_loved
 ---
 
 [Project Loved](https://osu.ppy.sh/community/forums/120) returns for another round! Give all of these maps a try and cast your vote for whether or not they should enter the Loved beatmap category!

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MEMODEMO"
 date: 2025-10-27 10:00:00 +0000
+series: featured_artists
 ---
 
 The one and only **MEMODEMO** is now inside of your computer.

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: KIRA"
 date: 2018-09-12 15:00:00 +0000
+series: featured_artists
 ---
 
 Showcasing the best fusion of pop music and Vocaloids to date, we're proud to present our newest addition to the Featured Artist roster - **KIRA**!

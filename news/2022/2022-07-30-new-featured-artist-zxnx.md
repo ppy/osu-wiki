@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: ZxNX"
 date: 2022-07-30 11:00:00 +0000
+series: featured_artists
 ---
 
 Dive into some new tunes with our latest Featured Artist, **ZxNX**!

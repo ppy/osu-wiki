@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Release Hallucination"
 date: 2021-08-28 09:00:00 +0000
+series: featured_artists
 ---
 
 **Release Hallucination** is unleashed as our newest Featured Artist!

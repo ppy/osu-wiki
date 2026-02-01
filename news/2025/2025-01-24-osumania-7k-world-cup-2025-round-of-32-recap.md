@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2025: Round of 32 Recap"
 date: 2025-01-24 20:00:00 +0000
+series: world_cups
 ---
 
 The first round of many came by. Let's catch up with one of the wildest starts to a tournament we've ever seen!

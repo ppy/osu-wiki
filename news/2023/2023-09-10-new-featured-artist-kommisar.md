@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Kommisar"
 date: 2023-09-10 16:00:00 +0000
+series: featured_artists
 ---
 
 **Kommisar**'s chiptune creations bring more than just nostalgia to our Featured Artist library!

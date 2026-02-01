@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: September 2017"
 date: 2017-09-07 09:00:00 +0000
+series: qat_gazette
 ---
 
 Have you ever wondered what the Quality Assurance Team get up to besides looking at beatmaps? Then look no further! The QAT Gazette will be your monthly update regarding ongoings in the mapping and modding community, detailed insight into the ranking process, and also news of any potential future developments!

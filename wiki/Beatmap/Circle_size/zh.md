@@ -16,9 +16,11 @@ tags:
 
 在 [osu!](/wiki/Game_mode/osu!) 中，圆圈大小改变[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)与[滑条](/wiki/Gameplay/Hit_object/Slider)的大小，CS 值越高，打击物件越小。[转盘](/wiki/Gameplay/Hit_object/Spinner)不受 CS 值影响。圆圈大小由以下公式得出：
 
-`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
+`r = (54.4 - 4.48 * CS) * 1.00041`
 
 其中，`r` 是以 [osu! 像素](/wiki/Client/Beatmap_editor/osu!_pixel)为单位的半径，`CS` 是 CS 值。
+
+公式中的 `1.00041` 系数用来修正旧版回放中的缺陷，其会导致宽屏显示器上的半径计算不准确。<!-- source: https://github.com/ppy/osu/blob/2606f3a0b593440c114ad9a0514d339b0dc48a0d/osu.Game/Rulesets/Objects/Legacy/LegacyRulesetExtensions.cs#L46 -->
 
 ## osu!taiko
 

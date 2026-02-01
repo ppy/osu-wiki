@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: LEAF XCEED Music Division"
 date: 2020-07-01 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **LEAF XCEED Music Division** aboard as our latest Featured Artist!

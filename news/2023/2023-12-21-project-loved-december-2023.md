@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: December 2023"
 date: 2023-12-21 20:00:00 +0000
+series: project_loved
 ---
 
 Get cozy near your fireplace with some hot chocolate and unwrap some presents from the Loved team!

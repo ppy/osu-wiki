@@ -2,6 +2,7 @@
 layout: post
 title: Fantasy World Art Contest
 date: 2025-06-06 14:45:00 +0000
+series: fanart_contests
 ---
 
 Join us on a fantastical adventure where rhythm, art, and magic converge!

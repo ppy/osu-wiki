@@ -2,6 +2,7 @@
 layout: post
 title: Syndi's Scottish LAN Rumble
 date: 2024-09-21 15:00:00 +0000
+series: offline_events
 ---
 
 The top 16 of osu!'s top tournament players will be battling it out in the first edition of **SSLR**, a major in-person qualifiable tournament!

@@ -2,6 +2,7 @@
 layout: post
 title: osu!mania 4K World Cup 2024 Mapper and Playtester Applications
 date: 2024-02-27 00:00:00 +0000
+series: world_cups
 ---
 
 Are you interested in helping with the mappooling process for our very own osu!mania 4K World Cup? You're in luck!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 7K World Cup 2024: Registrations Now Open!"
 date: 2023-12-14 23:00:00 +0000
+series: world_cups
 ---
 
 Winter season has arrived, and so has the first 2024 osu! World Cup, but this time with a twist!

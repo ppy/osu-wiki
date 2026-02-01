@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 10: Autumn 2023"
 date: 2023-10-23 20:30:00 +0000
+series: beatmap_spotlights
 ---
 
 You heard it right, the Beatmap Spotlights are back with its **10th Season**! With how moody autumn days can get, you can fix that by competing on the best beatmapping creations of last months right now!

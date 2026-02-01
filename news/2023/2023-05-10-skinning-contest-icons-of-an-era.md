@@ -2,6 +2,7 @@
 layout: post
 title: "Skinning Contest: Icons of an Era"
 date: 2023-05-10 12:00:00 +0000
+series: official_contests
 ---
 
 Celebrate 15 years of osu! by expressing your creativity through osu! skinning!

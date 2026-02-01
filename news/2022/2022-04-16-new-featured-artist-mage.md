@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Mage"
 date: 2022-04-16 11:00:00 +0000
+series: featured_artists
 ---
 
 **Mage** drops into our infinitely expanding Featured Artist catalogue!

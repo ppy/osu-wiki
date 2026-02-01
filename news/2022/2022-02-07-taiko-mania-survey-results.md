@@ -2,6 +2,7 @@
 layout: post
 title: Results - osu!taiko & osu!mania Performance Points & Star Rating Surveys
 date: 2022-02-07 10:00:00 +0000
+series: ranking_system_updates
 ---
 
 The key smashing and drum beating members of the community have had their say, and the results are in! See how your opinions on Performance Points & Star Ratings compare!

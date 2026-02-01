@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: November 2022"
 date: 2022-11-14 03:00:00 +0000
+series: project_loved
 ---
 
 You know how this goes: we've got the picks, you've got the votes, and together we'll get some awesome maps added to the Loved category. Come see what the captains are bringing forward in November's round of Project Loved!

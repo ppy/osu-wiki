@@ -2,6 +2,7 @@
 layout: post
 title: "4 Digit osu!mania World Cup 2024: Registrations Now Open!"
 date: 2023-11-24 15:00:00 +0000
+series: community_tournaments
 ---
 
 The 6th edition of the 4 Digit osu!mania World Cup opens up, because key-smashing tournaments shouldn't be exclusive to the upper echelon of players!

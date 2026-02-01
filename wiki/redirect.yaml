@@ -920,6 +920,10 @@ tournament_support:          Tournaments/Official_support
 tournaments_support:         Tournaments/Official_support
 cpot: Tournaments/Countries_that_participated_in_osu!_tournaments
 
+# moved in #13719
+tournament_bans:             Help_centre/Tournament_sanctions
+help_centre/tournament_bans: Help_centre/Tournament_sanctions
+
 owc:                         Tournaments#osu!-world-cup
 owc1:                        Tournaments/OWC/1
 owc_1:                       Tournaments/OWC/1
@@ -2105,7 +2109,10 @@ quality_assurance_team_blog: People/Quality_Assurance_Team/Quality_Assurance_Tea
 
 # moved in #9582
 
-client/release_stream/lazer/feature_comparison: Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)
+client/release_stream/lazer/feature_comparison: Help_centre/Upgrading_to_lazer
+
+# merged into Help_centre/Upgrading_to_lazer in 14191
+client/release_stream/lazer/gameplay_differences_in_osu!(lazer): Help_centre/Upgrading_to_lazer
 
 search_beatmaps:                           Beatmap_search
 searching_beatmaps:                        Beatmap_search

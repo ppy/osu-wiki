@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: t+pazolite"
 date: 2023-12-23 18:30:00 +0000
+series: featured_artists
 ---
 
 It's real. Welcome **t+pazolite** to our Featured Artists!

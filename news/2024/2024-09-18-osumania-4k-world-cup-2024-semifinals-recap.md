@@ -2,6 +2,7 @@
 layout: post
 title: "osu!mania 4K World Cup 2024: Semifinals Recap"
 date: 2024-09-18 23:00:00 +0000
+series: world_cups
 ---
 
 The walls are slowly closing in for the remaining teams, and only the top 6 are making it to the Finals. It's time to lock in, review the previous week, and prepare ourselves for the upcoming showdown of epic proportions.

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2019: Registrations now open!"
 date: 2019-05-29 05:30:00 +0000
+series: world_cups
 ---
 
 The osu!catch World Cup. It is the mecca. It is religion. It is life. May we present another 32 intrepid teams to the fruit gods, that their dashing skills may appease the almighty Lord Yuzu. New match formats, new pick and ban mechanics, and new history-making moments await, so don't delay — submit your registration today!

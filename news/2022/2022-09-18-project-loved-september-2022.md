@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: September 2022"
 date: 2022-09-18 22:00:00 +0000
+series: project_loved
 ---
 
 The captains at Project Loved present to you a carefully crafted curation of classic creations — or in other words, the next round is here! Come check out the maps and cast your votes.

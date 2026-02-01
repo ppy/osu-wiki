@@ -2,6 +2,7 @@
 layout: post
 title: "Squad Global Taiko Showdown 2025: Registrations Now Open!"
 date: 2025-05-09 22:00:00 +0000
+series: community_tournaments
 ---
 
 We invite you to challenge the world in a 3v3 drum-smashing showdown — get ready for SGTS 2025, its third and final iteration!

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko Mapping World Cup 2025: Registrations Open!"
 date: 2025-07-20 21:00:00 +0000
+series: community_tournaments
 ---
 
 Da-don! After a successful launch last year the osu!taiko Mapping World Cup is back, bigger and better than before!

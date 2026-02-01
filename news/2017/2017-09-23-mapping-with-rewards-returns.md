@@ -2,6 +2,7 @@
 layout: post
 title: Mapping With Rewards Returns
 date: 2017-09-23 12:00:00 +0000
+series: official_contests
 ---
 
 New and improved, the open-form **Mapping With Rewards** mapping contests are back! Map a selection of [Featured Artist](https://osu.ppy.sh/beatmaps/artists) tracks for your shot at a variety of prizes, from osu!supporter, custom profile badges to your submission earning a special spot in the game!

@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: 2021"
 date: 2022-06-30 11:00:00 +0000
+series: miscellaneous
 ---
 
 The osu! community continues on due to the tireless efforts of a mere handful of remarkable individuals. Today, we celebrate their contributions with our highest honour: the badge of a Community Contributor.

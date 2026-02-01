@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Tasty"
 date: 2021-12-01 12:00:00 +0000
+series: featured_artists
 ---
 
 Showcasing a whole bunch of talents, electronic label **Tasty** joins the ranks of osu!'s Featured Artists.

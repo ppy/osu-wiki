@@ -2,6 +2,7 @@
 layout: post
 title: Springtime Showdown Art Contest
 date: 2025-02-28 16:00:00 +0000
+series: fanart_contests
 ---
 
 This is your moment... proceed with unwavering resolve.

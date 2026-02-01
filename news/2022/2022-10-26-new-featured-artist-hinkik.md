@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Hinkik"
 date: 2022-10-26 10:00:00 +0000
+series: featured_artists
 ---
 
 **Hinkik** leaps through time into our Featured Artist catalogue!

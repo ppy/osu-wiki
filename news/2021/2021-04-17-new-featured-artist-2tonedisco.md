@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 2ToneDisco"
 date: 2021-04-17 09:30:00 +0000
+series: featured_artists
 ---
 
 **2ToneDisco** climbs aboard as our newest Featured Artist!

@@ -2,6 +2,7 @@
 layout: post
 title: 3 Digit World Cup 2025 Concludes
 date: 2025-04-02 12:00:00 +0000
+series: community_tournaments
 ---
 
 This year's iteration of the 3 Digit World Cup is over! Join us to find out what went down.

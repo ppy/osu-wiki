@@ -2,6 +2,7 @@
 layout: post
 title: "Midnight Moment Art Contest: Results"
 date: 2025-01-01 02:30:00 +0000
+series: fanart_contests
 ---
 
 Happy New Year everyone! How about sharing some of 2025's first moments with our beloved osu! mascots?

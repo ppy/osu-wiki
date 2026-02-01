@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: July Week 4"
 date: 2017-08-04 08:30:00 +0000
+series: scorewatch
 ---
 
 July has finally ended but it definitely did not end without a bang! An amazing EZDTFL play on a popular map, a couple of number 1 plays and more crazy non osu!standard scores, all you don't want to miss!

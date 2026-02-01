@@ -2,6 +2,7 @@
 layout: post
 title: osu!idol 2017 Finals - Community Voting Results!
 date: 2017-12-05 06:00:00 +0000
+series: official_contests
 ---
 
 Another year of osu!idol to an end. With a spectacular 12281 votes in total, this beats last year's voting by a lightyear! Thanks everyone for taking part in the [community voting](https://osu.ppy.sh/community/contests/57)! Now let's get to what we're all here for - results!

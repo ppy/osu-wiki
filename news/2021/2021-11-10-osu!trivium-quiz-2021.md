@@ -2,6 +2,7 @@
 layout: post
 title: osu!trivium Quiz 2021
 date: 2021-11-10 20:00:00 +0000
+series: official_contests
 ---
 
 Seekers of the truth! The world's hardest osu! trivia quiz makes its return on the frontpage of osu! to challenge all who possess the mental acuity and fortitude to tackle this cryptic challenge.
