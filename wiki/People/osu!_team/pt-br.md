@@ -40,7 +40,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, suporte de torneio e O OPERADOR |
 | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | Faxineiro geral, varredor de vassoura |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | [Moderador](/wiki/People/Global_Moderation_Team) e gerente do [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Mantenedor da wiki](/wiki/People/osu%21_wiki_maintainers) e editor de notícias |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Mantenedor da wiki](/wiki/People/osu!_wiki_maintainers) e editor de notícias |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espécie ameaçada de extinção |
 
 ## Membros do time principal inativos
@@ -74,7 +74,7 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Orientador da moderação |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Designer do fórum |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Ex-líder da [NAT](/wiki/People/Nomination_Assessment_Team) |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team) e [Mantenedor da wiki](/wiki/People/osu%21_wiki_maintainers) |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderador](/wiki/People/Global_Moderation_Team) e [Mantenedor da wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinário cara fazedor de coisas legais |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Designer da arte conceitual e do conceito original da pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Gerente e líder da comunidade emergente, contribuidor de meeting minutes e FAQ |
