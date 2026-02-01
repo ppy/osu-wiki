@@ -13,7 +13,7 @@ Time to journey through the previous year and crown the skins that stole the spo
 
 Unlike previous years, 2025 did not yield a skinning contest. However, we were able to finally satisfy a demand that has been fundamentally needed for all novice skinners: a comprehensive skinning tutorial series!
 
-Thanks to the tremendous effort of ::{flag=PL}:: [Redo\_](https://osu.ppy.sh/users/7122165), we have launched the first 3 episodes of the **skinship osu! skinning tutorial**, a video series that covers everything from the basics of skin creation to in-depth guides for specific elements. If you're not sure where to begin, the introduction episode is right below. Grab something to drink and tune right in!
+Thanks to the tremendous effort of ::{ flag=PL }:: [Redo\_](https://osu.ppy.sh/users/7122165), we have launched the first 3 episodes of the **skinship osu! skinning tutorial**, a video series that covers everything from the basics of skin creation to in-depth guides for specific elements. If you're not sure where to begin, the introduction episode is right below. Grab something to drink and tune right in!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/6X8_cDzkb4Q" frameborder="0" allowfullscreen></iframe>
