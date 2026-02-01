@@ -4,6 +4,8 @@ tags:
   - BNG
   - БН
   - Номинатор
+outdated_translation: true
+outdated_since: ecab4f2db86e767cf3267ac5d7e9d620a2009e8b
 ---
 
 # Номинаторы

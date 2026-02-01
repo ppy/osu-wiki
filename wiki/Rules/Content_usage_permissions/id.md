@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
+---
+
 # Izin penggunaan konten
 
 osu! didasarkan pada prinsip di mana siapa pun bebas untuk membuat dan membagikan hasil karya mereka dengan satu sama lain. Oleh karenanya, pada setiap karya baru yang diunggah, sangat penting bagi pengguna untuk memastikan bahwa segala aset milik kreator lain yang digunakan telah terizin dan teratribusikan dengan benar.
@@ -422,7 +427,7 @@ Seluruh lagu yang tersedia pada [daftar Featured Artist](https://osu.ppy.sh/beat
 
 #### Diizinkan, dengan pengecualian
 
-Bagian ini terakhir diperbarui pada tanggal 1 September 2025.
+Bagian ini terakhir diperbarui pada tanggal 22 Desember 2025.
 
 | Artis |  | Status | Catatan |
 | :-- | :-- | :-- | :-- |
