@@ -12,8 +12,7 @@ tags:
 
 # Ветка обновлений Lazer
 
-*О подробном списке функций Lazer и связанных с ним вопросов см. [Обновление до lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*О списке изменений в игровых механиках см. [Отличия в геймплее osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*О подробном списке функций Lazer и связанных с ним вопросов см. [Обновление до lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 ::: Infobox
 

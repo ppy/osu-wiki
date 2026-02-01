@@ -9,3 +9,4 @@ Index page for all of the 3 Digit World Cup series.
 - 3 Digit World Cup 2023
 - 3 Digit World Cup 2024
 - [3 Digit World Cup 2025](2025)
+- [3 Digit World Cup 2026](2026)

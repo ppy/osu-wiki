@@ -72,6 +72,7 @@ Contenido
 - `title` debe representar el título completo del artículo. El formato Markdown no se puede usar en esta cadena. Los títulos de las noticias, a diferencia de los títulos de los artículos de la wiki y otros encabezados, deben ir en mayúsculas. Ten en cuenta que las comillas (`"`) pueden ser necesarias si el título contiene dos puntos (`:`) o signos numéricos (`#`).
 - `date` debe representar una cadena combinada que muestre una fecha de calendario en formato ISO 8601 (`2017-08-17`), seguida de una cadena horaria de 24 horas (`03:00:00`), seguida de un margen de tiempo establecido en UTC (`+0000`). Esta es la fecha de publicación usada para determinar cuándo la noticia se hará visible en el sitio web.
 - El párrafo de avance es el que se mostrará en la portada, en el archivo de las noticias y en el listado de las noticias dentro de osu!(lazer), además de ser el primer párrafo de la noticia.
+- Todas las noticias deberían incluir y enlazar las imágenes usadas en las portadas de las noticias en la carpeta [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news). En los casos excepcionales en los que no se desee usar ninguna portada, usa la imagen predeterminada: `https://osu.ppy.sh/images/headers/news-show-default.jpg`.
 
 ### Markdown
 
