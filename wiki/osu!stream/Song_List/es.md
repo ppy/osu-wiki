@@ -6,7 +6,7 @@ osu!stream incluye hasta 45 canciones jugables repartidas en varios lotes y paqu
 
 En el menú Store, puedes desplazarte por la lista de todos los paquetes de canciones disponibles y previsualizar los beatmaps que contienen antes de descargarlos. Al seleccionar el botón `PREVIEW`, podrás ver una breve demostración de juego de las cuatro dificultades en un beatmap desde la dificultad más baja a la más alta [en su orden correspondiente](/wiki/osu!stream#nuevo-sistema-de-jugabilidad).
 
-Al igual que los [artistas destacados](/wiki/People/Featured_Artists) que osu! tiene hoy en día, todas las canciones disponibles en el juego se encargaron o se licenciaron antes de su lanzamiento. Ten en cuenta que los beatmaps de osu!stream vienen en el formato de archivo `.osf2` (en lugar de [`.osz`](/wiki/Client/File_formats/osz_(file_format))) y, por lo tanto, no son compatibles con el cliente normal de osu!.
+Al igual que los [Artistas Destacados](/wiki/People/Featured_Artists) que osu! tiene hoy en día, todas las canciones disponibles en el juego se encargaron o se licenciaron antes de su lanzamiento. Ten en cuenta que los beatmaps de osu!stream vienen en el formato de archivo `.osf2` (en lugar de [`.osz`](/wiki/Client/File_formats/osz_(file_format))) y, por lo tanto, no son compatibles con el cliente normal de osu!.
 
 ## Canciones por lotes
 
@@ -23,8 +23,8 @@ Este lote incluye cuatro canciones predeterminadas que vienen precargadas con un
 
 Véase también:
 
-- [**Página de artista destacado de nekodex**](https://osu.ppy.sh/beatmaps/artists/1)
-- [**Página de artista destacado de tieff**](https://osu.ppy.sh/beatmaps/artists/34)
+- [**Página de Artista Destacado de nekodex**](https://osu.ppy.sh/beatmaps/artists/1)
+- [**Página de Artista Destacado de tieff**](https://osu.ppy.sh/beatmaps/artists/34)
 - [Perfil de osu! de nekodex](https://osu.ppy.sh/users/102)
 - [Perfil de osu! de tieff](https://osu.ppy.sh/users/89619)
 - [Perfil de osu! de Natteke](https://osu.ppy.sh/users/157177)
@@ -91,7 +91,7 @@ Este paquete de canciones incluye cuatro temas del extraordinario músico de rav
 
 Véase también:
 
-- [**Página de artista destacado de Cranky**](https://osu.ppy.sh/beatmaps/artists/23)
+- [**Página de Artista Destacado de Cranky**](https://osu.ppy.sh/beatmaps/artists/23)
 - [Sitio web de Cranky](https://www.feline-groove.com/)
 
 ## OK Go Vol. 1

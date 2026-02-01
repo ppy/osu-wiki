@@ -24,8 +24,6 @@ tags:
   - Löschung
   - Flagge ändern
   - Falsche Flagge
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Account
@@ -64,7 +62,7 @@ Siehe *[Einschränkungen des Accounts](/wiki/Help_centre/Account_restrictions)* 
 
 Turniersperren sind, wie der Name beschreibt, ein Verbot der Teilnahme an allen offiziell unterstützten Turnieren.
 
-Siehe den Artikel [Turniersperren](/wiki/Help_centre/Tournament_bans) für mehr Informationen zu diesem Thema.
+Siehe den Artikel [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions) für mehr Informationen zu diesem Thema.
 
 ## Anmeldung {id=sign-in}
 

@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 <div class="wiki-main-page__blurb">
@@ -74,7 +72,7 @@ Lies über die Prozeduren und Kontrollen, die osu! und seine Community schützen
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_code_of_conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_usage_guidelines) • [Verfahren zur Abstimmung über Inhalte](/wiki/Rules/Content_voting_process) • [Expliziter Inhalt](/wiki/Rules/Explicit_content) • [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations)
+Medienregulierungen: [Richtlinien für die Nutzung von Inhalten](/wiki/Rules/Content_usage_permissions) • [Verfahren zur Abstimmung über Inhalte](/wiki/Rules/Content_voting_process) • [Expliziter Inhalt](/wiki/Rules/Explicit_content) • [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) • [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations)
 
 [Rechtliche Seiten](/wiki/Legal): [Allgemeine Geschäftsbedingungen](/wiki/Legal/Terms) • [Datenschutz](/wiki/Legal/Privacy) • [Urheberrecht (DMCA)](/wiki/Legal/Copyright) • [Musiklizenzierung](/wiki/Legal/Music_licensing)
 
@@ -87,7 +85,7 @@ Antworten zu häufig gestellten Fragen und Lösungen zu alltäglichen Problemen 
 
 [Hilfecenter](/wiki/Help_centre) • [Problemlösung bei der Leistung](/wiki/Performance_troubleshooting) • [Account Support Team](/wiki/People/Account_support_team) • [Hilfeforum](https://osu.ppy.sh/forum/5)
 
-Profilbeschränkungen: [Silences](/wiki/Help_centre/Silences) • [Kontorestriktionen](/wiki/Help_centre/Account_restrictions) • [Turniersperren](/wiki/Help_centre/Tournament_bans)
+Profilbeschränkungen: [Silences](/wiki/Help_centre/Silences) • [Kontoeinschränkungen](/wiki/Help_centre/Account_restrictions) • [Turniersanktionen](/wiki/Help_centre/Tournament_sanctions)
 
 Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) • [Melde schlechtes Verhalten](/wiki/Reporting_bad_behaviour) • [Melde Missbrauch](/wiki/Reporting_bad_behaviour/Abuse) • [Melde Betrug](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

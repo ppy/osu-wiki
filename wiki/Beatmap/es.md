@@ -105,8 +105,8 @@ Más tarde, el sistema de tablas se convirtió en el proyecto [Beatmap Spotlight
 
 La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mappers que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una [insignia de perfil](/wiki/Community/Profile_badge) temática.
 
-### Artistas destacados
+### Artistas Destacados
 
-*Página principal: [Artistas destacados](/wiki/People/Featured_Artists)*
+*Página principal: [Artistas Destacados](/wiki/People/Featured_Artists)*
 
-Artistas destacados es un programa comunitario del [osu! team](/wiki/People/osu!_team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de artistas destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.
+Artistas Destacados es un programa comunitario del [osu! team](/wiki/People/osu!_team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.
