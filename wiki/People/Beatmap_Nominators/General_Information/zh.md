@@ -1,8 +1,3 @@
----
-outdated_since: 3139de4953a023c1fa4d36c863bec1da90a88853
-outdated_translation: true
----
-
 # 谱面审核成员须知
 
 想要成为或者已经成为[谱面审核成员 (*BN*)](/wiki/People/Beatmap_Nominators) 了吗？你来对地方了！本文包含成为新 BN 所需要了解的信息。
@@ -23,7 +18,7 @@ outdated_translation: true
 
 ![提名按钮](img/nominate.png)
 
-**该按钮允许你提名谱面**。谱面必须获得至少 5 个[推荐](/wiki/Beatmap/Hype)，并且不包含未解决的问题或建议标记，才能进行提名。在提名之前，确保你对所有游戏难度（甚至其它游戏模式）满意。如果谱面之前被否决，那么在提名之前，你必须确保否决中提到的问题已经完美解决。当谱面获得 2 个提名后，它会被移至[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 分类，然后进入[上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)。
+**该按钮允许你提名谱面**。谱面必须获得至少 5 个[推荐](/wiki/Beatmap/Hype)，并且不包含未解决的问题或建议标记，才能进行提名。在提名之前，确保你对所有游戏难度（甚至其它游戏模式）满意。如果谱面之前被否决，那么在提名之前，你必须确保否决中提到的问题已经完美解决。当谱面获得 2 个提名（若该谱面为[混合谱面](/wiki/Beatmap_ranking_procedure#备注)则需更多）后，它会被移至[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 分类，然后进入[上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)。
 
 ### 下架和重置提名
 
