@@ -1,6 +1,4 @@
 ---
-outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
-outdated_translation: true
 tags:
   - 名人堂
   - osu!名人堂
@@ -12,6 +10,8 @@ tags:
 **osu! 名人堂** 是为了纪念那些为社区做出了杰出贡献的人，我们会为每个成员在社区中塑造一个雕像。
 
 [osu! 名人堂团队成员页面](https://osu.ppy.sh/groups/16)列出了所有团队成员。
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 | 用户名 | 曾任职务 |
 | :-- | :-- |
