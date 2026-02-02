@@ -38,7 +38,7 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 *Hauptseite: [osu!catch](osu!catch)*
 
-*osu!catch* ist ein Spielmodus, bei dem Spieler einen Fänger steuern, um Früchte verschiedener Sorten im Beat zu sammeln, die vom oberen Bildschirmrand herab fallen. Dieser Modus ist lose an das Minispiel "Catch It!!" aus den frühen Versionen von [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] (eine [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation für PC) angelehnt, die wiederum auf dem Modus *EZ2CATCH* aus dem [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Arcadesystem basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
+Beim Spielmodus *osu!catch* müssen Spieler einen Fänger steuern, um Früchte verschiedener Sorten, die vom oberen Bildschirmrand herabfallen, im Beat zu sammeln. Dieser Modus ist lose an das Minispiel "Catch It!!" aus den frühen Versionen von [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] (eine [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation für PC) angelehnt, die wiederum auf dem Modus *EZ2CATCH* aus dem [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Arcadesystem basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
 
 ![Gameplay von osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch-Gameplay")
 
