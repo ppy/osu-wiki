@@ -53,7 +53,7 @@ Một beatmap được tải lên thuộc một trong các danh mục sau, có t
 - [Được công nhận](Category#approved)
 - [Được yêu thích](Category#loved)
 
-Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hàng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), còn lựa chọn thứ hai là để beatmap [Được yêu thích](Category#loved).
+Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), còn lựa chọn thứ hai là để beatmap [Được yêu thích](Category#loved).
 
 ## Downloading beatmaps
 
