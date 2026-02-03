@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skin of the Year 2025: Voting Open"
-date: 2026-02-03 18:00:00 +0000
+date: 2026-02-03 17:00:00 +0000
 series: official_contests
 ---
 
