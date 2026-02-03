@@ -32,9 +32,9 @@ Tác giả beatmap có thể [tải](/wiki/Beatmapping/Beatmap_submission) sản
 
 Sau khi tải lên, một beatmap có thêm một vài thông tin mô tả, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung công khai; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), mà hiển thị của nó có thể chỉnh sửa thông qua [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
 
-### Identification
+### Nhận diện
 
-Every submitted beatmap is assigned a numeric identifier (`BeatmapSetID`), by which it can be tracked on the website and via [osu!api](/wiki/osu!api). Difficulties of a beatmap also have their own numeric identifiers (`BeatmapID`). The URL leading to a specific difficulty's tab on a beatmap's page includes both identifiers and has the following format:
+Mõi beatmap được tải lên đều được gắn với một mã số (`BeatmapSetID`), mà có thể sử dụng để theo dõi trên trang web và qua [osu!api](/wiki/osu!api). Mỗi độ khó của một beatmap cũng có mã số riêng (`BeatmapID`). Đường đẫn dẫn đến một trang độ khó cụ thể trong trang beatmap sẽ bao gồm cả 2 mã số và có định dạng như sau:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
