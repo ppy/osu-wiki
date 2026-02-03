@@ -40,20 +40,20 @@ Mõi beatmap được tải lên đều được gắn với một mã số (`Be
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
-### Beatmap category
+### Danh mục beatmap
 
-*Main article: [Beatmap category](Category)*
+*Bài viết chính: [Danh mục beatmap](Category)*
 
-A submitted beatmap belongs to one of the following categories, which may change over time:
+Một beatmap được tải lên thuộc một trong các danh mục sau, có thể thay đổi theo thời gian:
 
-- [Graveyard](Category#graveyard)
-- [Work in Progress / Pending](Category#wip-and-pending)
-- [Qualified](Category#qualified)
-- [Ranked](Category#ranked)
-- [Approved](Category#approved)
-- [Loved](Category#loved)
+- [Mộ](Category#graveyard)
+- [Đang thực hiên / Đang chờ](Category#wip-and-pending)
+- [Đủ điều kiện](Category#qualified)
+- [Xếp hạng](Category#ranked)
+- [Được công nhận](Category#approved)
+- [Được yêu thích](Category#loved)
 
-Some categories have [submission criteria](/wiki/Ranking_criteria) and enable the beatmaps to have transient or permanent [leaderboards](#leaderboards). The most popular way of achieving that is the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), while the second option is to get the beatmap [loved](Category#loved).
+Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hàng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), còn lựa chọn thứ hai là để beatmap [Được yêu thích](Category#loved).
 
 ## Downloading beatmaps
 
