@@ -55,30 +55,30 @@ Một beatmap được tải lên thuộc một trong các danh mục sau, có t
 
 Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), còn lựa chọn thứ hai là để beatmap [Được yêu thích](Category#loved).
 
-## Downloading beatmaps
+## Tải beatmap
 
-Beatmaps can be obtained through a few different ways:
+Có một vài cách để tải beatmap:
 
-### Beatmap listing
+### Danh sách beatmap
 
-Beatmaps from various categories are available from the [beatmap listing](https://osu.ppy.sh/beatmapsets) on the website. They can be filtered according to certain conditions (e.g. beatmaps from [osu!taiko](/wiki/Game_mode/osu!taiko) created by a certain mapper), and then downloaded one by one. [osu!supporters](/wiki/osu!supporter) have access to an extended set of filters, such as an ability to see beatmaps on which they achieved a certain rank.
+Các beatmap từ nhiều danh mục đều có sãn trong [danh sách beatmap](https://osu.ppy.sh/beatmapsets) trên trang web. Có thể lọc beatmap thông qua các điều kiện (ví dụ: beatmap của chế độ [osu!taiko](/wiki/Game_mode/osu!taiko) được tạo bởi mapper nào đó), và có thể tải về lần lượt. Các [osu!supporters](/wiki/osu!supporter) được truy cập vào danh sách các bộ lọc mở rộng, ví dụ như lọc theo các beatmap mà họ đã đạt được xếp hạng nào đó.
 
 ### osu!direct
 
-osu!direct is the beatmap listing built into the game client, which is used for quick access and provides a set of features similar to the listing on the website. It is only available to the [osu!supporters](/wiki/osu!supporter).
+osu!direct là danh sách beatmap được tích hợp vào trong client, giúp truy cập nhanh và cung cấp một nhóm tính năng tương tự như ở trên trang web. Chỉ khả dụng cho các [osu!supporters](/wiki/osu!supporter).
 
-### Beatmap packs
+### Gói beatmap
 
-*Main article: [Beatmap packs](Packs)*
+*Bài viết chính: [Gói beatmap](Packs)*
 
-Beatmaps that were ranked in the same month, or share the same theme (e.g. the same artist), are packed for bulk download into archives, which are called the beatmap packs. The list of all official packs is available on the [website](https://osu.ppy.sh/beatmaps/packs).
+Các beatmap được xếp hạng cùng tháng, hoặc có cùng chủ đề (ví du: cùng người làm nhạc), được đóng gói để tải về theo số lượng lớn và đưa vào lưu trũ. Chúng được gọi là gói beatmap. Danh sách đầy đủ các gói beatmap chính thức được cung cấp trên [trang web](https://osu.ppy.sh/beatmaps/packs).
 
-### Unofficial sources
+### Nguồn không chính thống
 
-There are also secondary sources of beatmaps, which are **neither checked nor operated by the osu! team**. However, they are available on the forums and appreciated by the community. Such sources include:
+Ngoài ra còn có các nguồn khác, tuy nhiên chúng **không được kiểm chứng hoặc được vận hành bởi đội ngũ osu!**. Tuy nhiên, các nguồn này được cung cấp thông qua các diễn đàn và được cộng đồng ủng hộ, Một số nguồn có:
 
-- third-party beatmap mirrors hosted off a platform;
-- player-made packs and compilations shared via [p2p-networks](https://en.wikipedia.org/wiki/Peer-to-peer), such as BitTorrent.
+- Các kho sao lưu beatmap của bên thứ ba được lưu trữ bên ngoài nền tảng;
+- Các gói beatmap do người dùng tạo và các tuyển tập được chia sẻ thông qua [mạng p2p](https://en.wikipedia.org/wiki/Peer-to-peer), như BitTorrent.
 
 ## Beatmaps and community
 
