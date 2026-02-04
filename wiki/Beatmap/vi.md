@@ -80,37 +80,37 @@ Ngoài ra còn có các nguồn khác, tuy nhiên chúng **không được kiể
 - Các kho sao lưu beatmap của bên thứ ba được lưu trữ bên ngoài nền tảng;
 - Các gói beatmap do người dùng tạo và các tuyển tập được chia sẻ thông qua [mạng p2p](https://en.wikipedia.org/wiki/Peer-to-peer), như BitTorrent.
 
-## Beatmaps and community
+## Beatmap và cộng đồng
 
-### Leaderboards
+### Các bảng xếp hạng
 
-osu! players across all game modes use beatmaps to [rank up globally](/wiki/Performance_points) and [compete against each other](/wiki/Ranking). osu! has different types of beatmap-specific leaderboards, all of which, except the first one, are only available to [osu!supporters](/wiki/osu!supporter):
+Người chơi osu! ở mọi chế độ đều dùng các beatmap để [tăng xếp hạng toàn cầu](/wiki/Performance_points) và [cạnh tranh lẫn nhau](/wiki/Ranking). osu! có nhiều loại bảng xếp hạng khác nhau cho mỗi beatmap, và tất cả, ngoại trừ loại đầu tiên, đều chỉ khả dụng đối với các [osu!supporters](/wiki/osu!supporter):
 
-- Global ranking, which works across the active playerbase;
-- Global ranking for every combination of [game modifiers](/wiki/Gameplay/Game_modifier);
-- Country-specific ranking made of players bearing the same flag;
-- Friend ranking that shows a player's position on the map compared to their friends.
+- Xếp hạng toàn cầu, khả dụng với toàn bộ người chơi;
+- Xếp hạng toàn cầu cho mỗi tổ hợp các [mod](/wiki/Gameplay/Game_modifier);
+- Xếp hạng quốc gia dành cho những người chơi có cùng cờ quốc gia;
+- Xếp hạng bạn bè hiển thị thứ hạng của người chơi đó so với bạn bè của họ.
 
-The top 1000 scores on every difficulty of a beatmap provide [replays](/wiki/Gameplay/Replay), which can be watched online or saved for further display in a local leaderboard.
+Mỗi beatmap sẽ cung cấp các [bản phát lại](/wiki/Gameplay/Replay) của 1000 điểm đứng đầu, có thể dùng để xem online hoặc để hiển thị trong một bảng xếp hạng cục bộ.
 
-### Charts and Spotlights
+### Bảng xếp hạng và Spotlight
 
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
-*Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
+*Bài viết chính: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
-Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches were monthly and seasonal charts consisting of a small subset of ranked beatmaps, where top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
+Từ những ngày đầu tiên, cộng đồng đã có nhiều cách để trưng bày những beatmap độc đáo và xuất sắc. Một trong những cách tiếp cận được ghi nhận là các bảng xếp hạng theo tháng và theo mùa, bao gồm một số lượng nhỏ các beatmap được xếp hạng, nơi những người chơi đứng đầu bảng xếp hạng tổng điểm trên những beatmap này sẽ được thưởng bằng [osu!supporter](/wiki/osu!supporter).
 
-The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in [osu!(lazer)](/wiki/Client/Release_stream/Lazer)'s playlists instead.
+Hệ thống bảng xếp hạng này sau đó đã phát triển thành dự án [Beatmap Spotlights](/wiki/Beatmap_Spotlights), vẫn hoạt động tương tự, nhưng diễn ra trong các playlist của [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-### Beatmap contests
+### Cuộc thi beatmap
 
-*Main page: [Contests](/wiki/Contests)*
+*Trang chính: [Cuộc thi](/wiki/Contests)*
 
-osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed [profile badge](/wiki/Community/Profile_badge).
+Cộng đồng osu! thường xuyên tổ chức nhiều cuộc thi khác nhau nhằm thúc đẩy sự sáng tạo và trao thưởng cho các mapper làm tốt nhất. Các cuộc thi có quy mô từ nhỏ, ở trong các cộng đồng địa phương, tới những cuộc thi quy mô lớn được tổ chức trên phạm vi toàn cầu và có các phần thưởng ấn tượng. Những người thắng cuộc thường được nhận thưởng dưới dạng [osu!supporter](/wiki/osu!supporter) và một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) theo chủ đề.
 
-### Featured Artists
+### Nghệ sĩ nổi bật
 
-*Main page: [Featured Artists](/wiki/People/Featured_Artists)*
+*Trang chính: [Nghệ sĩ nổi bật](/wiki/People/Featured_Artists)*
 
-Featured Artists is a community program by the [osu! team](/wiki/People/osu!_team) that focuses on licensing music by various artists for osu! and making it available for mapping. The website's [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) showcases each involved artist and provides pre-timed templates for mapping.
+Nghệ sĩ nổi bật là một chương trình cộng đồng do [đội ngũ osu!](/wiki/People/osu!_team) thực hiện, tập trung vào việc cấp phép nhạc từ nhiều nghệ sĩ khác nhau cho osu! và cung cấp chúng cho việc beatmap. Trang web [Danh sách nghệ sĩ nổi bật](https://osu.ppy.sh/beatmaps/artists) hiển thị từng nghệ sĩ tham gia và cung cấp các mẫu đã được căn thời gian sẵn để tạo beatmap.
