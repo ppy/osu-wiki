@@ -11,7 +11,7 @@
 | 章节 | 描述 | 内容类型 |
 | :-- | :-- | :-- |
 | `[General]` | 谱面的总体信息 | `键: 值` 对 |
-| `[Editor]` | 谱面编辑器保存的设置 | `键: 值` 对 |
+| `[Editor]` | 用于谱面编辑器的一些设置 | `键: 值` 对 |
 | `[Metadata]` | 用于识别谱面的[元数据](/wiki/Client/Beatmap_editor/Song_setup#基本设定-(general)) | `键:值` 对 |
 | `[Difficulty]` | 即[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty)) | `键:值` 对 |
 | `[Events]` | 谱面显示设定，故事板事件 | 逗号分隔的列表 |

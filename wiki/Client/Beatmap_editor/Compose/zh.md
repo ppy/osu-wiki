@@ -73,7 +73,7 @@ osu!、osu!taiko、osu!catch 使用的编辑器工具是相同的，而 osu!mani
 
 | 按钮（键盘快捷键） | 用法 | 描述 |
 | :-- | :-- | :-- |
-| `Grid Snap（网格对齐）` (`T`) | 按住 `Shift`：临时启用 | 物件会自动被校准到[网格](/wiki/Beatmapping/Grid_snapping)间。 |
+| `Grid Snap（网格对齐）` (`T`) | 按住 `Shift`：临时启用 | 物件会自动被校准到[网格](/wiki/Beatmapping/Grid_snapping)上。 |
 | `Distance Snap（间距锁定）` (`Y`) | 按住 `Alt`：临时启用，将节拍细分改为间距锁定的数值设定。`Alt` + `鼠标滚轮`：调整间距锁定数值。 | 基于两个相邻物件时间上的间距计算[距离](/wiki/Client/Beatmap_editor/Distance_snap)。最好在时间轴暂停时使用。 |
 | `Lock Notes（锁定物件）` (`L`) | `左键单击`：切换锁定状态。 | 将所选取物件锁定在目前位置和时间上。 |
 
