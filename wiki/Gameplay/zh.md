@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
----
-
 # 游玩
 
 - [准确率](/wiki/Gameplay/Accuracy)
@@ -12,6 +7,7 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 - [连击里程碑](/wiki/Gameplay/Combo_milestone)
 - [连击乘数效应](/wiki/Gameplay/Combo_multiplier_effect)
 - [连击提示图](/wiki/Gameplay/Comboburst)
+- [每日挑战](Daily_challenge)
 - [跳](/wiki/Gameplay/Dash)
 - [跳对齐 (Dash snapping)](/wiki/Gameplay/Dash_snapping)
 - [掉血时间](/wiki/Beatmap/Drain_time)
@@ -25,7 +21,9 @@ outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 - [脑梗 (Mind block)](/wiki/Gameplay/Mind_block)
 - [物件锁](/wiki/Gameplay/Judgement/Notelock)
 - [通过](/wiki/Gameplay/Pass)
+- [玩法](Play_style)
 - [游玩时间](/wiki/Beatmap/Play_time)
+- [快速匹配](Quick_play)
 - [回放](/wiki/Gameplay/Replay)
 - [分数](/wiki/Gameplay/Score)
 - [断滑条](/wiki/Gameplay/Judgement/Slider_break)
