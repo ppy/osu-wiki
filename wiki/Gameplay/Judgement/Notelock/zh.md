@@ -6,8 +6,6 @@ tags:
   - shaking notes
   - 物件抖动
   - 物件
-outdated_translation: true
-outdated_since: f7cbc75d791851f46f088d238af0ad050ff5db54
 ---
 
 # 物件锁
@@ -35,3 +33,11 @@ outdated_since: f7cbc75d791851f46f088d238af0ad050ff5db54
 ## 预防
 
 从谱师的角度来说，他们可以根据物件密度和 BPM，来小心选取[难度](/wiki/Beatmap/Difficulty)的判定严度 (OD)，从而防止出现物件锁。对于 BPM 高于 200 的谱面来说，建议 OD 设为 5 或者更高。请参阅指南：[避免在高 BPM 下出现物件锁 (Avoiding notelock at high BPM)](https://osu.ppy.sh/community/forums/topics/334458)。
+
+## osu!(lazer) 中的物件锁
+
+osu!(lazer) 中的物件锁与 osu!(stable) 相比更为宽松，这是通过大幅放宽时间区间来实现的：第一个物件的偏移量达到 0 毫秒时，下一个物件的锁便会解除，使其能立即被点击。简单来讲，之前 Miss 的物件产生的延迟命中结果不会导致其后物件被锁住了。
+
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
+
+由于这样的改变，玩家能够更轻松地从有密集[串](/wiki/Beatmap/Pattern/osu!/Stream)、[跳](/wiki/Beatmap/Pattern/osu!/Jump)或者具有低 [OD](/wiki/Beatmap/Overall_difficulty) 的谱面 Miss 中恢复。
