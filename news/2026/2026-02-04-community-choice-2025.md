@@ -19,14 +19,14 @@ We didn't forget about our dear mappers. As tradition dictates, anyone with at l
 
 Before we proceed, let's circle back on last year's beatmapping trends:
 
-| Game mode | Beatmaps | Difficulties | Difference from [2024](https://osu.ppy.sh/home/news/2025-01-30-community-choice-2024-voting-open) |
+| Game mode | Beatmapsets | Difficulties | Difference from [2024](https://osu.ppy.sh/home/news/2025-01-30-community-choice-2024-voting-open) |
 | :-- | --: | --: | --: |
-| osu! | XX | XX | +XX% |
-| osu!taiko | XX | XX | +XX% |
-| osu!catch | XX | XX | +XX% |
-| osu!mania (4K) | XX | XX | +XX% |
-| osu!mania (7K) | XX | XX | +XX% |
-| **Total** | XX | XX | +XX% |
+| osu! | 3,900 | 16,836 | +15.92% |
+| osu!taiko | 1,066 | 4,395 | -11.21% |
+| osu!catch | 549 | 1,813 | +37.98% |
+| osu!mania (4K) | 1,087 | 3,303 | +7.69% |
+| osu!mania (7K) | 178 | 608 | +5.37% |
+| **Total** | 6,877 | 27,492 | +11.02% |
 
 Enough yapping for now, time to lock in your votes through any (or all) of the following links:
 
