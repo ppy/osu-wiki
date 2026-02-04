@@ -14,27 +14,27 @@ Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các 
 - [storyboard](/wiki/Storyboard) với các hình ảnh động và hiệu ứng đặc biệt, được sử dụng như bói cảnh hoặc chủ đề cho bài hát (tùy chọn).
 - [skin tùy chỉnh](/wiki/Skinning) để thay đổi hiển thị của các giao diện trong game và các thành phần gameplay (tùy chọn).
 
-*Lưu ý: Một vài tính năng hình ảnh và âm thanh của một beatmap có thể tắt thông qua bảng [cài đặt hiển thị] khi chơi(/wiki/Client/Interface/Visual_settings).*
+*Lưu ý: Một vài tính năng hình ảnh và âm thanh của beatmap có thể tắt thông qua bảng [cài đặt hiển thị](/wiki/Client/Interface/Visual_settings) khi chơi.*
 
 ## Độ khó
 
 *Bài viết chính: [độ khó](/wiki/Beatmap/Difficulty)*
 
-Một *độ khó* là một tệp với [phần mở rộng `.osu`](/wiki/Client/File_formats/osu_(file_format)) mô tả sự sắp đặt của các nút bấm, hitsound, và hiệu ứng đặc biệt như [kiai](/wiki/Gameplay/Kiai_time). Nó cũng chứa [cài đặt độ khó](/wiki/Client/Beatmap_editor/Song_setup#difficulty) và một vài tham số có ảnh hưởng trực tiếp đến gameplay. Các độ khó của một beatmap có cấu trúc khác nhau và đôi khi chỉ có thể chơi trong một [chế độ chơi](/wiki/Game_mode). Hệ thống [star rating](/wiki/Beatmap/Star_rating) được dùng để thể hiện yêu cầu kĩ năng của độ khó đó.
+Một *độ khó* là một tệp với [phần mở rộng `.osu`](/wiki/Client/File_formats/osu_(file_format)) mô tả sự sắp đặt của các nút bấm, hitsound, và hiệu ứng đặc biệt như [kiai](/wiki/Gameplay/Kiai_time). Nó cũng chứa [cài đặt độ khó](/wiki/Client/Beatmap_editor/Song_setup#difficulty) và một vài tham số có ảnh hưởng trực tiếp đến gameplay. Các độ khó của một beatmap có cấu trúc khác nhau và đôi khi chỉ có thể chơi trong một [chế độ chơi](/wiki/Game_mode). Hệ thống [star rating](/wiki/Beatmap/Star_rating) được dùng để thể hiện trực quan mức độ kĩ năng cần thiết của một độ khó.
 
 ## Tải lên
 
 *Bài viết chính: [Tải lên](/wiki/Beatmapping/Beatmap_submission)*
 
-Tác giả beatmap có thể [tải](/wiki/Beatmapping/Beatmap_submission) sản phảm của họ lên [danh sách beatmap](https://osu.ppy.sh/beatmapsets) công khai. Tuy mỗi beatmap được gắn với [một người duy nhất](/wiki/Beatmap/Beatmap_host), đây thường là kết quả của một nhóm: một vài độ khó có thể được nhiều người [hợp tác](/wiki/Beatmap/Beatmap_collaborations) để map hoặc làm [đơn](/wiki/Beatmap/Guest_difficulty).
+Tác giả beatmap có thể [tải](/wiki/Beatmapping/Beatmap_submission) sản phảm của họ lên [danh sách beatmap](https://osu.ppy.sh/beatmapsets) công khai. Tuy mỗi beatmap được gắn với [một người duy nhất](/wiki/Beatmap/Beatmap_host), nó thường là kết quả của nhiều người: một vài độ khó có thể do nhiều người [hợp tác](/wiki/Beatmap/Beatmap_collaborations) làm hoặc do một [cá nhân](/wiki/Beatmap/Guest_difficulty) làm.
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Sau khi tải lên, một beatmap có thêm một vài thông tin mô tả, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung công khai; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), mà hiển thị của nó có thể chỉnh sửa thông qua [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
+Sau khi tải lên, beatmap có thêm một vài trường thông tin, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung công khai; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), mà hiển thị của nó có thể chỉnh sửa thông qua [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
 
 ### Nhận diện
 
-Mõi beatmap được tải lên đều được gắn với một mã số (`BeatmapSetID`), mà có thể sử dụng để theo dõi trên trang web và qua [osu!api](/wiki/osu!api). Mỗi độ khó của một beatmap cũng có mã số riêng (`BeatmapID`). Đường đẫn dẫn đến một trang độ khó cụ thể trong trang beatmap sẽ bao gồm cả 2 mã số và có định dạng như sau:
+Mỗi beatmap được tải lên đều được gắn với một mã số (`BeatmapSetID`), có thể sử dụng để theo dõi trên trang web và qua [osu!api](/wiki/osu!api). Mỗi độ khó của một beatmap cũng có mã số riêng (`BeatmapID`). Đường đẫn dẫn đến một trang độ khó cụ thể trong trang beatmap sẽ bao gồm cả 2 mã số và có định dạng như sau:
 
 ```
 https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
@@ -53,7 +53,7 @@ Một beatmap được tải lên thuộc một trong các danh mục sau, có t
 - [Được công nhận](Category#approved)
 - [Được yêu thích](Category#loved)
 
-Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), còn lựa chọn thứ hai là để beatmap [Được yêu thích](Category#loved).
+Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), trong khi lựa chọn còn lại là để beatmap [được yêu thích](Category#loved).
 
 ## Tải beatmap
 
@@ -61,7 +61,7 @@ Có một vài cách để tải beatmap:
 
 ### Danh sách beatmap
 
-Các beatmap từ nhiều danh mục đều có sãn trong [danh sách beatmap](https://osu.ppy.sh/beatmapsets) trên trang web. Có thể lọc beatmap thông qua các điều kiện (ví dụ: beatmap của chế độ [osu!taiko](/wiki/Game_mode/osu!taiko) được tạo bởi mapper nào đó), và có thể tải về lần lượt. Các [osu!supporters](/wiki/osu!supporter) được truy cập vào danh sách các bộ lọc mở rộng, ví dụ như lọc theo các beatmap mà họ đã đạt được xếp hạng nào đó.
+Các beatmap từ nhiều danh mục đều khả dụng trong [danh sách beatmap](https://osu.ppy.sh/beatmapsets) trên trang web. Có thể lọc beatmap thông qua một số điều kiện (ví dụ: beatmap của chế độ [osu!taiko](/wiki/Game_mode/osu!taiko) được tạo bởi mapper nào đó), và sau đó tải về lần lượt. Các [osu!supporters](/wiki/osu!supporter) được truy cập vào danh sách các bộ lọc mở rộng, ví dụ như lọc các beatmap mà họ đã đạt được xếp hạng nào đó.
 
 ### osu!direct
 
@@ -71,11 +71,11 @@ osu!direct là danh sách beatmap được tích hợp vào trong client, giúp 
 
 *Bài viết chính: [Gói beatmap](Packs)*
 
-Các beatmap được xếp hạng cùng tháng, hoặc có cùng chủ đề (ví du: cùng người làm nhạc), được đóng gói để tải về theo số lượng lớn và đưa vào lưu trũ. Chúng được gọi là gói beatmap. Danh sách đầy đủ các gói beatmap chính thức được cung cấp trên [trang web](https://osu.ppy.sh/beatmaps/packs).
+Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đề (ví du: cùng người làm nhạc), được đóng gói để tải về theo số lượng lớn và đưa vào lưu trữ. Chúng được gọi là gói beatmap. Danh sách đầy đủ các gói beatmap chính thức được cung cấp trên [trang web](https://osu.ppy.sh/beatmaps/packs).
 
 ### Nguồn không chính thống
 
-Ngoài ra còn có các nguồn khác, tuy nhiên chúng **không được kiểm chứng hoặc được vận hành bởi đội ngũ osu!**. Tuy nhiên, các nguồn này được cung cấp thông qua các diễn đàn và được cộng đồng ủng hộ, Một số nguồn có:
+Ngoài ra còn có các nguồn khác, tuy nhiên chúng **không được kiểm chứng hay vận hành bởi đội ngũ osu!**. Tuy nhiên, các nguồn này được cung cấp thông qua các diễn đàn và được cộng đồng ủng hộ. Các nguồn như thế có:
 
 - Các kho sao lưu beatmap của bên thứ ba được lưu trữ bên ngoài nền tảng;
 - Các gói beatmap do người dùng tạo và các tuyển tập được chia sẻ thông qua [mạng p2p](https://en.wikipedia.org/wiki/Peer-to-peer), như BitTorrent.
@@ -101,16 +101,16 @@ Mỗi beatmap sẽ cung cấp các [bản phát lại](/wiki/Gameplay/Replay) c�
 
 Từ những ngày đầu tiên, cộng đồng đã có nhiều cách để trưng bày những beatmap độc đáo và xuất sắc. Một trong những cách tiếp cận được ghi nhận là các bảng xếp hạng theo tháng và theo mùa, bao gồm một số lượng nhỏ các beatmap được xếp hạng, nơi những người chơi đứng đầu bảng xếp hạng tổng điểm trên những beatmap này sẽ được thưởng bằng [osu!supporter](/wiki/osu!supporter).
 
-Hệ thống bảng xếp hạng này sau đó đã phát triển thành dự án [Beatmap Spotlights](/wiki/Beatmap_Spotlights), vẫn hoạt động tương tự, nhưng diễn ra trong các playlist của [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
+Hệ thống bảng xếp hạng này sau đó đã phát triển thành dự án [Beatmap Spotlights](/wiki/Beatmap_Spotlights), vẫn hoạt động tương tự, nhưng chỉ tổ chức trong các playlist của [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ### Cuộc thi beatmap
 
 *Trang chính: [Cuộc thi](/wiki/Contests)*
 
-Cộng đồng osu! thường xuyên tổ chức nhiều cuộc thi khác nhau nhằm thúc đẩy sự sáng tạo và trao thưởng cho các mapper làm tốt nhất. Các cuộc thi có quy mô từ nhỏ, ở trong các cộng đồng địa phương, tới những cuộc thi quy mô lớn được tổ chức trên phạm vi toàn cầu và có các phần thưởng ấn tượng. Những người thắng cuộc thường được nhận thưởng dưới dạng [osu!supporter](/wiki/osu!supporter) và một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) theo chủ đề.
+Cộng đồng osu! thường xuyên tổ chức nhiều cuộc thi khác nhau nhằm thúc đẩy sự sáng tạo và trao thưởng cho các mapper làm tốt nhất. Các cuộc thi có quy mô từ nhỏ, ở trong các cộng đồng địa phương, tới các cuộc thi quy mô lớn được tổ chức trên phạm vi toàn cầu và có các phần thưởng ấn tượng. Những người thắng cuộc thường được nhận thưởng dưới dạng [osu!supporter](/wiki/osu!supporter) và một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) theo chủ đề.
 
 ### Nghệ sĩ nổi bật
 
 *Trang chính: [Nghệ sĩ nổi bật](/wiki/People/Featured_Artists)*
 
-Nghệ sĩ nổi bật là một chương trình cộng đồng do [đội ngũ osu!](/wiki/People/osu!_team) thực hiện, tập trung vào việc cấp phép nhạc từ nhiều nghệ sĩ khác nhau cho osu! và cung cấp chúng cho việc beatmap. Trang web [Danh sách nghệ sĩ nổi bật](https://osu.ppy.sh/beatmaps/artists) hiển thị từng nghệ sĩ tham gia và cung cấp các mẫu đã được căn thời gian sẵn để tạo beatmap.
+Nghệ sĩ nổi bật là một chương trình cộng đồng do [đội ngũ osu!](/wiki/People/osu!_team) thực hiện, tập trung vào việc cấp phép nhạc từ nhiều nghệ sĩ khác nhau cho osu! và cung cấp chúng cho việc tạo beatmap. Trang web [Danh sách nghệ sĩ nổi bật](https://osu.ppy.sh/beatmaps/artists) hiển thị từng nghệ sĩ tham gia và cung cấp các mẫu đã được căn thời gian sẵn để tạo beatmap.
