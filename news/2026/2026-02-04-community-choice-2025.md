@@ -11,7 +11,7 @@ Let's look back on 2025 and see which beatmaps made resounding impact on the com
 
 With 18 years of mapping under our belts, one constant has remained: the community's insatiable appetite for the best beatmaps. This is where Community Choice comes in — a yearly tradition where we all get together and decide which maps deserve to be recognised as the best of the best.
 
-You'll ha ve **10 votes per game mode** to cast on **any map ranked during 2025 that you have played at least once**. Each game mode's contest listing will automagically conjure up all the eligible maps that you can vote in.
+You'll have **10 votes per game mode** to cast on **any map ranked during 2025 that you have played at least once**. Each game mode's contest listing will automagically conjure up all the eligible maps that you can vote in.
 
 Once votes are tallied up after **14 days**, the top 10 beatmaps will be dubbed as the *Community Favourites of 2025* and earning their mappers 1 month of osu!supporter each. However, the creators of the #1 beatmaps will be bestowed with a prestigious profile badge, alongside 6 months of osu!supporter.
 
