@@ -12,7 +12,7 @@ tags:
 
 # 滑条
 
-*滑条 (slider)* 是 [osu!](/wiki/Game_mode/osu!) 中的[打击物件](/wiki/Gameplay/Hit_object)，含有[滑条头](/wiki/Gameplay/Hit_object/Slider/Sliderhead)、[滑条体](/wiki/Gameplay/Hit_object/Slider/Sliderbody)和[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)。一旦[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)像[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)一样到达滑条头边缘，玩家应当点击或触碰滑条起点，按住不放同时跟着移动的球（也被称作滑条球）沿着轨迹移动，直到到达滑条尾。如果有反向箭头，玩家应当跟随滑条球沿相同路径返回。带返回箭头的滑条被称作[折返滑条](/wiki/Gameplay/Hit_object/Slider/Reverse_slider)。滑条的速度由[滑条速度](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)与当前时间点下`计时`部分的滑条速度系数决定。
+*滑条 (slider)* 是 [osu!](/wiki/Game_mode/osu!) 中的[打击物件](/wiki/Gameplay/Hit_object)，含有[滑条头](/wiki/Gameplay/Hit_object/Slider/Sliderhead)、[滑条体](/wiki/Gameplay/Hit_object/Slider/Sliderbody)和[滑条尾](/wiki/Gameplay/Hit_object/Slider/Slidertail)。一旦[缩圈](/wiki/Gameplay/Hit_object/Approach_circle)到达滑条头的边缘时，玩家需要像点击[打击圈](/wiki/Gameplay/Hit_object/Hit_circle)一样点击或击打滑条的开头位置，然后按住按键，沿着轨道跟随一个移动的球（称为滑条球），直到到达滑条尾。如果有反向箭头，玩家应当跟随滑条球沿相同路径返回。带返回箭头的滑条被称作[折返滑条](/wiki/Gameplay/Hit_object/Slider/Reverse_slider)。滑条的速度由[滑条速度](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)与当前这一段的滑条速度系数决定。
 
 ![滑条](/wiki/shared/osu_slider.jpg "osu! 中的滑条")
 

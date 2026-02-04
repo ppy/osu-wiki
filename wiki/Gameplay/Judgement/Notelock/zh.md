@@ -36,8 +36,8 @@ tags:
 
 ## osu!(lazer) 中的物件锁
 
-osu!(lazer) 中的物件锁与 osu!(stable) 相比更为宽松，这是通过大幅放宽时间区间来实现的：第一个物件的偏移量达到 0 毫秒时，下一个物件的锁便会解除，使其能立即被点击。简单来讲，之前 Miss 的物件产生的延迟命中结果不会导致其后物件被锁住了。
+与 osu!(stable) 相比，osu!(lazer) 中的物件锁变得更加宽松。这是通过显著放宽判定窗口来实现的：一旦第一个物件的偏移达到 0 毫秒，下一个物件的锁便会解除，使其能立即被点击。简而言之，打击上一个物件太晚，将不再导致紧随其后的物件被锁定。
 
 ![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
 
-由于这样的改变，玩家能够更轻松地从有密集[串](/wiki/Beatmap/Pattern/osu!/Stream)、[跳](/wiki/Beatmap/Pattern/osu!/Jump)或者具有低 [OD](/wiki/Beatmap/Overall_difficulty) 的谱面 Miss 中恢复。
+由于这一改变，玩家在面对含有物件密集的[串](/wiki/Beatmap/Pattern/osu!/Stream)、[跳](/wiki/Beatmap/Pattern/osu!/Jump)或低 [OD](/wiki/Beatmap/Overall_difficulty) 的谱面时，更容易从 Miss 中恢复过来。
