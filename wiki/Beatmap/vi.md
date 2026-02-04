@@ -50,7 +50,7 @@ Một beatmap được tải lên thuộc một trong các danh mục sau, có t
 - [Đang thực hiện / Đang chờ](Category#wip-and-pending)
 - [Đủ điều kiện](Category#qualified)
 - [Xếp hạng](Category#ranked)
-- [Được công nhận](Category#approved)
+- [Được chấp nhận](Category#approved)
 - [Được yêu thích](Category#loved)
 
 Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#các-bảng-xếp-hạng), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), trong khi lựa chọn còn lại là để beatmap [được yêu thích](Category#loved).
