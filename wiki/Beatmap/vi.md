@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#difficulty)) của game được tạo ra bằng nhiều [nút bấm](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác, toàn bộ được đóng gói vào một file lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của game được tạo ra bằng nhiều [nút bấm](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác, toàn bộ được đóng gói vào một file lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - bài hát được lưu trữ theo định dạng MP3 hoặc Ogg.
 - [ảnh nền](/wiki/Beatmap/Background), hoặc video, với vai trò như khu vực chơi.
@@ -53,7 +53,7 @@ Một beatmap được tải lên thuộc một trong các danh mục sau, có t
 - [Được công nhận](Category#approved)
 - [Được yêu thích](Category#loved)
 
-Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#leaderboards), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), trong khi lựa chọn còn lại là để beatmap [được yêu thích](Category#loved).
+Một vài danh mục có [tiêu chí tải lên](/wiki/Ranking_criteria) và cho phép các beatmap được sở hữu các [bảng xếp hạng](#các-bảng-xếp-hạng), tạm thời hoặc vĩnh viễn. Cách thông dụng nhất để đạt được điều này là thông qua [thủ tục xếp hạng beatmap](/wiki/Beatmap_ranking_procedure), trong khi lựa chọn còn lại là để beatmap [được yêu thích](Category#loved).
 
 ## Tải beatmap
 
