@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
----
-
 # 难度命名
 
 难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
@@ -21,13 +16,27 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane（疯狂）
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert（专家）
 
+#### 替代选择
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：比 Easy 简单
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：处于 Normal 和 Hard 之间
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：处于 Hard 和 Insane 之间
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：比 Expert 困难
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan（简单）
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（困难）
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni（鬼）
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni（里鬼）
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni（里鬼）
+
+#### 替代选择
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初学者）：比 Kantan 简单
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni（表鬼）：通常等同于 Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：比 Inner Oni 困难
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -37,6 +46,10 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### 替代选择
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：比 Overdose 困难
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -44,17 +57,6 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-
-### 约定俗成的替代方案
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：比 Easy 简单
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初学者）：比 Kantan 简单
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：处于 Normal 和 Hard 之间
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：处于 Hard 和 Insane 之间
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：比 Expert 困难
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：比 Inner Oni / Ura Oni 困难
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：比 Overdose 困难
 
 ## 来自其他游戏的命名方案
 
@@ -110,7 +112,7 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 
 ### SOUND VOLTEX
 
-*注意：即使使用的来自于 SOUND VOLTEX 的歌曲并没有在某些机种内出现，在制作较多难度的谱面时，也可使用以下所有列出的难度命名。*
+*注意：大型 SOUND VOLTEX 歌曲谱面集通常会使用来自多个游戏版本的难度名称，即使该歌曲并未出现在所有版本中。*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV
