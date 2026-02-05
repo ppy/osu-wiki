@@ -7,8 +7,8 @@
 - [谱面审核成员规则](/wiki/People/Beatmap_Nominators/Rules)：包含 BN 能做什么，以及不能做什么。在任何情况下，你都应该避免违反这些规则，所以请认真阅读！如果有什么不确定，你可以询问[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 的一位成员，他们会很乐意帮助你。
 - [作图和摸图的行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：作为 BN，你应该在社区中起到榜样作用，成为他人仰慕和尊敬的对象。因此，不当行为会导致你被谴责，甚至被开除。
 - [谱面上架标准 (RC)](/wiki/Ranking_criteria)：如果你已经成为了 BN，应该很熟悉这个标准。简而言之，它指明了上架谱面中，特定作图行为是否被允许。此外，它也包含在大部分情况下应该遵守的准则。
-- [关于谱面否决 (Beatmap Veto) 的信息](/wiki/People/Beatmap_Nominators/Beatmap_Veto)：如果你不确定谱面是否违反上架标准，但认为有些问题使谱面不适合上架，你可以通过铺面否决来中止谱面过审。
-- [作图验证器 (Mapset Verifier)](https://osu.ppy.sh/community/forums/topics/943895)：一个 NAT 成员 [Naxess](https://osu.ppy.sh/users/8129817) 制作的一款工具。这个工具可用来检查大量导致谱面无法上架的问题，并且包含一个快照功能，可以轻松对比不同版本的谱面。这对于再次检查非常有用。**但是，这一工具不应该代替人工谱面检查**。它应该在二次确认时使用，以确保谱面没有遗漏的问题。
+- [关于谱面否决 (Beatmap Veto) 的信息](/wiki/People/Beatmap_Nominators/Beatmap_Veto)：如果你不确定谱面是否违反上架标准，但认为有些问题使谱面不适合上架，你可以通过谱面否决来中止谱面过审。
+- [作图验证器 (Mapset Verifier)](https://osu.ppy.sh/community/forums/topics/943895)：NAT 成员 [Naxess](https://osu.ppy.sh/users/8129817) 制作的一款工具。这个工具可用来检查大量导致谱面无法上架的问题，并且包含一个快照功能，可以轻松对比不同版本的谱面——这对于再次检查非常有用。**但是，这一工具不应该代替人工谱面检查**。它应该在二次确认时使用，以确保谱面没有遗漏的问题。
 
 ## 谱面审核成员的权力
 
