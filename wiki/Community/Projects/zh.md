@@ -226,7 +226,7 @@
 
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 计算用户的[奖励表现分 (bonus pp)](/wiki/Performance_points#how-much-bonus-pp-is-awarded-for-having-scores-on-ranked-maps?) |
+| ![](img/logo_bonus_pp_calculator.png) | [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 计算用户的[奖励表现分 (bonus pp)](/wiki/Performance_points#我能在已上架谱面中获得多少奖励表现分-(bonus-pp)？) |
 |  | [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) | ::{ flag=IT }:: [Howl](https://osu.ppy.sh/users/2751672) | 计算达到一定等级所需的分数 |
 |  | [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) | ::{ flag=US }:: [Albi-chan](https://osu.ppy.sh/users/2770894) | 将玩家统计数据导出到文本文件的工具，随后可使用 [Open Broadcaster Software](https://obsproject.com/) 显示 |
 | ![](img/logo_osuchan.png) | [osu!chan](https://osuchan.syrin.me) | ::{ flag=AU }:: [Syrin](https://osu.ppy.sh/users/5701575) | 提供众多其他排行榜的网站 |
