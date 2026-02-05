@@ -1,10 +1,6 @@
 ---
-no_native_review: true
-no_native_review_since: fa001f3f10bcb5261f1ba2cf35469327f89ddfd6 Avariation
 tags:
   - NAT
-outdated_translation: true
-outdated_since: 9f5515183469f804c26459f564d04ce2b03f0015
 ---
 
 # Đội ngũ Đánh giá Đề cử
@@ -149,6 +145,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
 
@@ -166,10 +163,10 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Tiếng Tây Ban Nha, Tiếng Đức |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Tiếng Hà Lan |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Tiếng Đức |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Hàn Quốc |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Hàn Quốc |
 
 #### osu!mania
 
@@ -179,7 +176,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Tây ban nha |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Trung quốc |
 | ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Tiếng ý |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | In-đô-nê-xi-a |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Tiếng ả rập, tiếng pháp |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Tây Ban Nha |
 
@@ -191,13 +188,13 @@ Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý các cuộc thảo luận, công việc và tài liệu nội bộ |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức cố vấn BN |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và phát triển [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [Trang web quản lý BN](https://bn.mappersguild.com) |
 
 Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và [osu!catch MV plugin](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ban lãnh đạo NAT, phát triển [Trang quản lý BN](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Xử lý báo cáo nội dung, phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
