@@ -127,6 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 50 | Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Feb 07 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T100000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| SM | Semifinals | showmatch | [Feb 07 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 | 52 | Peru ::{ flag=PE }:: | ::{ flag=VE }:: Venezuela | [Feb 07 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T150000&p1=1440&p2=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 49 | United States ::{ flag=US }:: | ::{ flag=HK }:: Hong Kong | [Feb 07 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T160000&p1=1440&p2=263&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 51 | Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 07 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T160000&p1=1440&p2=28&p3=188) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
@@ -571,4 +572,5 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^showmatch]: Semifinals showmatch — mappooling staff showmatch
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
