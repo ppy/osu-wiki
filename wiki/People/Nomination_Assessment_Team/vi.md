@@ -182,7 +182,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 ### Bộ phận tổ chức
 
-Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng tổ chức, không phụ trách chế độ game cụ thể dù được phép đề cử beatmap thuộc chế độ gamehọ đã được phân công từ trước:
+Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng tổ chức, không phụ trách chế độ game cụ thể dù được phép đề cử beatmap thuộc chế độ trò chơi họ đã được phân công từ trước:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
