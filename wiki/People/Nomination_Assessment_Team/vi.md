@@ -133,29 +133,29 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Italian |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Ý |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Finnish |
-| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Swedish |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
-| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Dutch |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Finnish |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Tiếng Phần Lan |
+| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Tiếng Thụy Điển |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tiếng Thái |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Tiếng Hà Lan |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Tiếng Phần Lan |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
-| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
-| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | French, Spanish |
-| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chinese |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Tiếng Trung Quốc |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng Nga |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng pháp, Tây Ban Nha |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Trung Quốc |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | German |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Tiếng Đức |
 
 #### osu!taiko
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Trung quốc |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng ả rập, Tiếng đức |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | tiếng Bồ Đào Nha |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tiếng Trung Quốc |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng Ả Rập, Tiếng đức |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Tiếng Bồ Đào Nha |
 | ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Một ít tiếng Đức |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Tiếng Đức, một chút tiếng Pháp |
 
@@ -172,12 +172,12 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Tiếng việt |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Tây ban nha |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Tiếng Việt |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Tây Ban Nha |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Trung quốc |
-| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Tiếng ý |
+| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Tiếng Ý |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Tiếng ả rập, tiếng pháp |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Tiếng Ả Rập, Tiếng Pháp |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Tây Ban Nha |
 
 ### Bộ phận tổ chức
