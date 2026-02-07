@@ -28,7 +28,7 @@ En bruger, der er silenced, kan ikke gøre følgende:
 
 Når en bruger bliver silenced, fjernes alle deres beskeder i chatten, og i stedet for feltet for indtastning af chatbeskeder vises der en advarsel, der indeholder silencens varighed.[^chat-cleanup]
 
-Silences er synlige for offentligheden i brugerens profil under `Kontostatus` for 28 dage, efter silencen blev udstedt. Hvis silencen er aktiv, bliver dens længde vist i den del af brugerens profil. Hvis en bruger har fået mindst 3 silences indenfor de sidste 28 dage, eller hvis de har fået en silence, som varer 43 timer eller længere indenfor de sidste 28 dage, bliver en advarsel om kontoens position også vist. 
+Silences er synlige for offentligheden i brugerens profil under `Kontostatus` for 28 dage, efter silencen blev udstedt. Hvis silencen er aktiv, bliver dens længde vist i den del af brugerens profil. Hvis en bruger har mindst 3 synlige silences, eller hvis brugeren har en synlig silence, som varer 43 timer eller længere, bliver en advarsel om kontoens position også vist. 
 
 ## Varigheder
 
@@ -60,7 +60,7 @@ Silences kan også blive udstedt af andre grunde, der inkluderer (men er ikke be
 
 ## Klager
 
-Silences bliver udstedt til at bevare et positivt miljø i fællesskabet, men fejl kan ske. Hvis du mener, at du er blevet silenced uretfærdigt eller ved en fejl, kan du kontakte [kontostøtteholdet](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh) og forklare situationen. Du kan også bede dem om en forklaring af begrundelsen for din silence.
+Silences bliver udstedt for at bevare et positivt miljø i fællesskabet, men fejl kan forekomme. Hvis du mener, at du er blevet silenced uretfærdigt eller ved en fejl, kan du kontakte [kontostøtteholdet](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh) og forklare situationen. Du kan også bede dem om en forklaring af begrundelsen for din silence.
 
 Husk, at du skal bruge mailadressen knyttet til din osu!-konto — og nævn dit brugernavn for at bekræfte, at det er dig.
 

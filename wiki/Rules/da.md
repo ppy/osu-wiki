@@ -57,7 +57,7 @@ Disse konsekvenser kan inkludere (*men er ikke begrænset til*):
 
 - Tilbagetrækning af dine privilegier til at chatte i spillet for en stund (kendt som en [silence](/wiki/Help_centre/Silences)).
 - Fjernelse af alt indhold, der krænker retningslinjerne på din brugerside, profil eller blandt dine uploadede beatmaps.
-- Tabet af dit privilegium til at ændre eller redigere din brugerside eller profil.
+- Tabet af dit privilegium til at ændre eller redigere din brugerside, avatar eller profil.
 - Tabet af dit privilegium til at deltage i eller hjælpe med officielt støttede turneringer (kendt som et [turneringsforbud](/wiki/Help_centre/Tournament_sanctions#turneringsforbud)).
 
 [Silences](/wiki/Help_centre/Silences) og andre straffe forøges **automatisk** eksponentielt i varighed med hver overtrædelse. Brugere, der gentagne gange overtræder reglerne, vil miste deres privilegier i længere og længere perioder.

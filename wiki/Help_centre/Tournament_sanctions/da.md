@@ -4,15 +4,15 @@
 
 ## Turneringsforbud
 
-Et turneringsforbud (*tournament ban* på engelsk) forhindrer en spiller i at spille i officielle eller officielt støttede turneringer. Det begrænser også, i hvilken grad spilleren kan være medhjælper, eller ellers yde støtte til, sådanne turneringer.
+Et turneringsforbud (*tournament ban* på engelsk) forhindrer en spiller i at spille i officielle eller officielt støttede turneringer. Det begrænser også, i hvilken grad spilleren kan være medhjælper, eller på anden måde yde støtte, til sådanne turneringer.
 
 Turneringsforbud bliver meget sjældent udstedt alene, men som regel får næsten alle spillere, som kommer tilbage efter en almindelig anmodning for ophævelse af en [kontobegrænsing](/wiki/Help_centre/Account_restrictions), et turneringsforbud, som er mindst et år langt.
 
-Grundet den høje standard af kompetitivitet i turneringer bliver turneringsforbud taget meget seriøst, og bliver ikke behandlet med samme grad af mildhed som kontobegrænsninger.
+Grundet den høje satser, der findes i turneringer, bliver turneringsforbud taget meget seriøst, og bliver ikke behandlet med samme grad af mildhed som kontobegrænsninger.
 
 ### Hvad fører til, at nogen får et tidsbestemt turneringsforbud? {id=why-temporary}
 
-Enhver grov overtrædelse af [fællesskabsreglerne](/wiki/Rules), som finder sted i en [officielt understøttet turnering](/wiki/Tournaments/Official_support), medfører sandsynligvis et turneringsforbud, selvom denne overtrædelse normalt ville have medført en mildere straf udenfor det kompetitive miljø.
+Enhver grov overtrædelse af [fællesskabsreglerne](/wiki/Rules), der finder sted i en [officielt understøttet turnering](/wiki/Tournaments/Official_support), fører sandsynligvis til et turneringsforbud, selvom overtrædelsen normalt ville have medført en mildere straf udenfor det kompetitive miljø.
 
 Et konkret eksempel på upassende opførsel ville være at tegne diskriminerende symboler/ord (som hagekors) med musepilsrøg i livestreamede kampe.
 
@@ -24,19 +24,19 @@ Ethvert brug af eksterne programmer eller andre værktøjer til at snyde eller f
 
 Dette inkluderer situationer som:
 
-- Brug af eksterne værktøjer eller programmer til at snyde eller opnå en fordel, som nævnt ovenfor
-- Brug af andre konti end ens oprindelige til at deltage i en turnering
+- Som nævnt ovenfor, enhver brug af eksterne værktøjer eller programmer til at snyde eller opnå en fordel
+- At gøre brug af flere konti til at deltage i en turnering
 - Forsøg på at omgå en silence eller anden straf ved at bruge en anden konto
 - Kontodeling i løbet af en officielt støttet turnering
 - At sværge sig sammen til at få eller ellers at udnytte fortrolig information for at opnå eller give nogen en fordel (som at få information om mappools før andre hold mv.)
 - Misbrug af tillidsstillinger for at opnå eller give nogen en fordel (manipulering med tidsplaner, urimelige ændringer til sammensætningen af hold, eller at diskvalificere spillere uden grund eller hjemmel)
-- At organisere målrettede hetzkampagner mod deltagere eller arrangører, som går langt udenfor definitionen af kritik
+- At organisere målrettede misbrugskampagner mod deltagere eller arrangører, som går langt udenfor definitionen af kritik
 
 ### Hvad må jeg gøre, mens jeg er udelukket fra turneringer? {id=while-banned}
 
 Du må fortsætte med at spille i fællesskabsorganiserede turneringer, som ikke anmoder om officiel støtte eller screening, i skønnet af disse turneringers arrangører.
 
-Du må blive ved med at hjælpe til i officielt understøttede turneringer ved at streame, kommentere og designe grafikken. Hvis du vil hjælpe med andre opgaver, SKAL arrangøren af turneringen, som du vil hjælpe med, anmode om en undtagelse i deres oprindelige anmodning om officiel støtte. [Kontostøtteholdet](/wiki/People/Account_support_team) kan godkende dette alt efter grovheden og grunden af overtrædelsen og din historik.
+Du må blive ved med at hjælpe til i officielt understøttede turneringer ved at streame, kommentere og designe grafikken i arrangørens skøn. Hvis du vil hjælpe med andre opgaver, SKAL arrangøren af turneringen, som du vil hjælpe med, anmode om en undtagelse i deres oprindelige anmodning om officiel støtte. [Kontostøtteholdet](/wiki/People/Account_support_team) kan godkende dette alt efter grovheden og grunden af overtrædelsen og din historik.
 
 Oplysninger om, hvorvidt du har et turneringsforbud, kan videregives til turneringsarrangører efter anmodning, uafhængigt af, om de modtager officiel støtte eller ej.
 
