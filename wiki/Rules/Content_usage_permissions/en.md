@@ -554,7 +554,7 @@ All tracks listed on any [Featured Artist listing](https://osu.ppy.sh/beatmaps/a
 
 #### Allowed, with exceptions
 
-This section was last updated on December 22, 2025.
+This section was last updated on February 6, 2026.
 
 | Artist |  | Status | Notes |
 | :-- | :-- | :-- | :-- |
@@ -566,6 +566,7 @@ This section was last updated on December 22, 2025.
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Do not use the track titled "execution_program". |
 |  | MEGAREX (music label) | ![][partial] | Only tracks on relevant artists' Featured Artist listings may be used. Do not use or upload any other tracks. |
+|  | Mlumìn // SoundWarper | ![][partial] | Permission has been granted to use the track titled "Spinner (DnB Remix)". Contact the artists for permission to use other tracks. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | Do not use or upload tracks that are not available on the creator's Featured Artist listing. |
