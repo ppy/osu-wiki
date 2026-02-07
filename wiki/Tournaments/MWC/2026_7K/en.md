@@ -122,33 +122,29 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 ## Match schedule: Semifinals
 
-### Saturday, 7 February 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 50 | Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Feb 07 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T100000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| SM | Semifinals | showmatch | [Feb 07 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| 52 | Peru ::{ flag=PE }:: | ::{ flag=VE }:: Venezuela | [Feb 07 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T150000&p1=1440&p2=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 49 | United States ::{ flag=US }:: | ::{ flag=HK }:: Hong Kong | [Feb 07 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T160000&p1=1440&p2=263&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 51 | Thailand ::{ flag=TH }:: | ::{ flag=CA }:: Canada | [Feb 07 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260207T160000&p1=1440&p2=28&p3=188) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-
 ### Sunday, 8 February 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 53c | Australia ::{ flag=AU }:: | ::{ flag=US }:: United States | [Feb 08 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T010000&p1=1440&p2=57&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 53a | Japan ::{ flag=JP }:: | ::{ flag=US }:: United States | [Feb 08 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T040000&p1=1440&p2=248&p3=263) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 53d | Australia ::{ flag=AU }:: | ::{ flag=HK }:: Hong Kong | [Feb 08 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T100000&p1=1440&p2=57&p3=102) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 56 | Philippines ::{ flag=PH }:: | ::{ flag=CN }:: China | [Feb 08 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T110000&p1=1440&p2=145&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 55 | South Korea ::{ flag=KR }:: | ::{ flag=ID }:: Indonesia | [Feb 08 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T120000&p1=1440&p2=235&p3=108) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 53b | Japan ::{ flag=JP }:: | ::{ flag=HK }:: Hong Kong | [Feb 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T140000&p1=1440&p2=248&p3=102) | *TBD* | [^potential-match] |
-| 54c | Venezuela ::{ flag=VE }:: | ::{ flag=TH }:: Thailand | [Feb 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T140000&p1=1440&p3=28) | *TBD* | [^potential-match] |
-| 54d | Venezuela ::{ flag=VE }:: | ::{ flag=CA }:: Canada | [Feb 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T140000&p1=1440&p3=188) | *TBD* | [^potential-match] |
-| 54a | Peru ::{ flag=PE }:: | ::{ flag=TH }:: Thailand | [Feb 08 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T160000&p1=1440&p2=131&p3=28) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 54b | Peru ::{ flag=PE }:: | ::{ flag=CA }:: Canada | [Feb 08 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T180000&p1=1440&p2=131&p3=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Finals | mappool showcase | [Feb 08 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 53b | Japan ::{ flag=JP }:: | ::{ flag=HK }:: Hong Kong | [Feb 08 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T140000&p1=1440&p2=248&p3=102) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 54a | Peru ::{ flag=PE }:: | ::{ flag=TH }:: Thailand | [Feb 08 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T160000&p1=1440&p2=131&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| SC | Finals | mappool showcase | [Feb 08 (Sun) 17:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260208T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
+
+### Semifinals
+
+Saturday, 7 February 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 50 | **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120473259) | [#1](https://www.twitch.tv/videos/2691367952) |
+| SF-SM | **Semifinals** | **7** | 6 | showmatch | [#1](https://osu.ppy.sh/community/matches/120474073) | [#1](https://www.twitch.tv/videos/2691487147) |
+| 52 | **Peru** ::{ flag=PE }:: | **6** | 2 | ::{ flag=VE }:: Venezuela | [#1](https://osu.ppy.sh/community/matches/120474996) | [#1](https://www.twitch.tv/videos/2691547221) |
+| 49 | United States ::{ flag=US }:: | 4 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/120475469) | [#1](https://www.twitch.tv/videos/2691596528) |
+| 51 | **Thailand** ::{ flag=TH }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/120475468) | [#1](https://www.twitch.tv/videos/2691576378) |
 
 ### Quarterfinals
 
@@ -571,6 +567,4 @@ The final standings for the Qualifier stage can be found in the following [sprea
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
-[^showmatch]: Semifinals showmatch — mappooling staff showmatch
 [^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
