@@ -15,7 +15,7 @@
 
 ### 常规内容扩展
 
-- **[内容使用规范](/wiki/Rules/Content_usage_permissions)：** 适用于所有谱面的媒体使用准则。
+- **[内容使用许可](/wiki/Rules/Content_usage_permissions)：** 适用于所有谱面的媒体使用准则。
 - **[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)：** 涵盖出现在 osu! 谱面背景、故事板或视频内容中的任何视觉内容的准则。
 - **[歌曲内容规定](/wiki/Rules/Song_content_rules)：** 涵盖谱面中含有的所有歌曲内容的准则。
 - **[贡献者公约：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：** 参与摸图过程的规定和准则。
