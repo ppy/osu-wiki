@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: kanemiko"
-date: 2026-02-07 19:00:00 +0000
+date: 2026-02-07 20:00:00 +0000
 series: featured_artists
 ---
 
@@ -38,7 +38,7 @@ Some songs are so good that they're mapped over and over again by the osu! commu
 Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2128816) by [elexire](https://osu.ppy.sh/users/9206093) and [Unpredictable](https://osu.ppy.sh/users/7560872)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Dream_Escapism_Fantasia.mp3">
 </audio>
 
 ### Us4KKi - Aria for Lepus
@@ -46,7 +46,7 @@ Try out [this 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2128816) by [elex
 Make your best effort on [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1908573) by [Dekovner](https://osu.ppy.sh/users/19859015) or [this osu!catch version](https://osu.ppy.sh/beatmapsets/2075714) by [autofanboy](https://osu.ppy.sh/users/636114), [Natsuko](https://osu.ppy.sh/users/8266817), and [fayew](https://osu.ppy.sh/users/12498861)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/367/Songs/Us4KKi_-_Aria_for_Lepus.mp3">
 </audio>
 
 ### kanemiko - Cold Fusion
@@ -58,7 +58,7 @@ You have three options:
 - [6K osu!mania map](https://osu.ppy.sh/beatmapsets/2352124) by [oct4](https://osu.ppy.sh/users/10303887)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/367/Cold%20Fusion/kanemiko%20-%20Cold%20Fusion.mp3">
 </audio>
 
 ### kanemiko - Electrolytes
@@ -70,7 +70,7 @@ Take your pick:
 - [Significantly harder 4K osu!mania map](https://osu.ppy.sh/beatmapsets/2250586) by [VividCycle](https://osu.ppy.sh/users/14351534)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/367/HARDCORE%20UTOPIA%203/kanemiko%20-%20Electrolytes.mp3">
 </audio>
 
 ### kanemiko - Twilight of the Abyss
@@ -78,7 +78,7 @@ Take your pick:
 Experience [this extensive spread](https://osu.ppy.sh/beatmapsets/2209401) hosted by [nominomu](https://osu.ppy.sh/users/30485380)!
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Twilight_of_the_Abyss.mp3">
 </audio>
 
 ### Kurokotei x kanemiko - astranelique
@@ -86,7 +86,7 @@ Experience [this extensive spread](https://osu.ppy.sh/beatmapsets/2209401) hoste
 Check out [this map](https://osu.ppy.sh/beatmapsets/2234516) by [9ami](https://osu.ppy.sh/users/1499997) and [oTwinkle](https://osu.ppy.sh/users/15095654) made for [Corsace Open 2024](https://osu.ppy.sh/beatmaps/artists/381), or [this osu!catch rendition](https://osu.ppy.sh/beatmapsets/2329129) by [wwwww](https://osu.ppy.sh/users/8434466), [yeeeter](https://osu.ppy.sh/users/15274666), [Zileni](https://osu.ppy.sh/users/23525574), and [Eunie](https://osu.ppy.sh/users/24092731)!
 
 <audio controls class="osu-md__paragraph">
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/367/Songs/Kurokotei_x_kanemiko_-_astranelique.mp3">
 </audio>
 
 In case you missed these unreasonably awesome videos from World Cup mappool showcases, they're here now too:
