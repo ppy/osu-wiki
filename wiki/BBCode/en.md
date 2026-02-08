@@ -209,7 +209,7 @@ Toolbar button: ![URL button](img/url.png "URL")
 [profile=USERID]username[/profile]
 ```
 
-The `[profile]` tag links to a user's osu! profile page using either their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
+The `[profile]` tag is used to link to a user's osu! profile page using either their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
 
 To create a profile link, provide:
 
@@ -220,7 +220,7 @@ For best results, include both the correct user ID and its corresponding usernam
 
 When the tag is used in **forum**, **signatures** or **beatmap descriptions**, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `USERID` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
 
-*Note: The user ID is the numeric string found after `/users/` in an osu! profile URL.*
+*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
 ### Formatted lists
 
@@ -242,7 +242,7 @@ or
 [/list]
 ```
 
-The `[list]` tag automatically formats two different types of lists on the osu! forums. Each list item is marked with `[*]`. By default, this will create a plain, bulleted list.
+The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums. Each list item is marked with `[*]`. By default, this will create a plain, bulleted list.
 
 To create a numbered list, include the `TYPE` argument (any value will work, e.g., `[list=1]`).
 
@@ -308,7 +308,7 @@ Toolbar button: ![Imagemap button](img/imagemap.png "Imagemap")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-The `[youtube]` tag embeds a [YouTube](https://youtube.com) video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
+The `[youtube]` tag is used to embed a [YouTube](https://youtube.com) video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
 
 A YouTube video's ID is located in the URL of the video, and is the string of 11 characters *directly after* the `v=`.
 
@@ -318,7 +318,7 @@ A YouTube video's ID is located in the URL of the video, and is the string of 11
 [audio]URL[/audio]
 ```
 
-The `[audio]` tag embeds an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
+The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
 
 *Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
 
@@ -332,7 +332,7 @@ To embed audio files through this method, users must paste its source URL (e.g. 
 [heading]text[/heading]
 ```
 
-The `[heading]` tag formats text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
+The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
 
 Toolbar button: ![Heading button](img/heading.png "Heading")
 
@@ -344,7 +344,7 @@ text
 [/notice]
 ```
 
-The `[notice]` tag places paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
+The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
 
 ## Legacy
 
@@ -356,7 +356,7 @@ The following are BBCode tags that were once used in various places across the o
 [google]search query[/google]
 ```
 
-The `[google]` tag was once used to link to a Google search query using the provided text between two tags.
+The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between two tags.
 
 The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
 
@@ -366,7 +366,7 @@ The tag would redirect users to a Google search through their account, meaning t
 [lucky]search query[/lucky]
 ```
 
-The `[lucky]` tag was once used to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
+The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
 
 ### Heading (v2)
 
@@ -374,7 +374,7 @@ The `[lucky]` tag was once used to link to a website directed from Google's `I'm
 [text]
 ```
 
-The *Heading (v2)* tag was once used to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
 
 ## Useful projects
 
