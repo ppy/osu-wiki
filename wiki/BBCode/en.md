@@ -57,7 +57,7 @@ The `[u]` tag is used to emphasise text by drawing a horizontal line underneath 
 [s]text[/s]
 ```
 
-The `[s]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough", also known as "strike").[^strike]
+The `[s]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough", also known as "strike"). `[strike]` is an accepted alias for this tag.
 
 Toolbar button: ![Strike button](img/strike.png "Strikethrough")
 
@@ -192,12 +192,12 @@ The `[url]` tag converts text into clickable hyperlinks.
 
 *Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically.*
 
-To create a custom link[^url], provide:
+To create a custom link, provide:
 
 1. **The destination URL** as the `LINK` argument (without quotation marks).
 2. **The display text** between the opening and closing tags.
 
-If no display text is provided, the hyperlink will not render correctly.
+If no display text is provided, the hyperlink will not render correctly. `[url]LINK[/url]` is also supported, but is always redundant.
 
 *Notice: All URLs—whether used with the `[url]` tag or plain text—must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.*
 
@@ -260,12 +260,12 @@ Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img
 
 The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled.
 
-To use the `[email]` tag[^email], provide:
+To use the `[email]` tag, provide:
 
 1. The email address as the `ADDRESS` argument (no quotation marks)
 2. The display text between the tags
 
-If no display text is given, the link will not render properly.
+If no display text is given, the link will not render properly. `[email]ADDRESS[/email]` is also supported, but is always redundant.
 
 ### Images
 
@@ -396,9 +396,6 @@ These projects simplify the process of formatting text with BBCode:
   - As of now, the text will revert back to the default colour (white) when this happens.
 - Before the `imagemap` tag was added, it was possible to add a hyperlink to an image by combining the `url` and `img` tags, however, only one hyperlink can be set per image. This would require slicing the original image into several pieces (i.e. for each link one partial image) and arranging them horizontally side by side.
 
-## Notes
+## References
 
-[^imgur-blocked-ip]: See [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602) for more information.
-[^strike]: `[strike]` is also an accepted alias for the `[s]` tag.
-[^url]: `[url]LINK[/url]` is also supported, but is often redundant.
-[^email]: `[email]ADDRESS[/email]` is also supported, but is often redundant.
+[^imgur-blocked-ip]: [Tweet by @ppy (2023-06-29)](https://twitter.com/ppy/status/1674439849749913602)
