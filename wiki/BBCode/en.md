@@ -188,7 +188,7 @@ The `[centre]` tag is used to align text to the centre of a box. This is most of
 [url=LINK]text[/url]
 ```
 
-The `[url]` tag converts text into clickable hyperlinks.
+The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
 *Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically.*
 
