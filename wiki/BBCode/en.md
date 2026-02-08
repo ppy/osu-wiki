@@ -192,12 +192,9 @@ The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
 *Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs without the `[url]` tag into links automatically.*
 
-To create a custom link, provide:
+To create hyperlinks with the `[url]` tag, users must specify two arguments: specific URL of the website to navigate to and the linked text to be displayed. The former must be specified as the `LINK` argument (without quotation marks `"`), while the latter must be specified between the opening and closing tags. If no display text is provided, the hyperlink will not render correctly.
 
-1. **The destination URL** as the `LINK` argument (without quotation marks).
-2. **The display text** between the opening and closing tags.
-
-If no display text is provided, the hyperlink will not render correctly. `[url]LINK[/url]` is also supported, but is always redundant.
+`[url]LINK[/url]` is also supported, but is always redundant.
 
 *Notice: All URLs—whether used with the `[url]` tag or plain text—must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.*
 
@@ -211,10 +208,7 @@ Toolbar button: ![URL button](img/url.png "URL")
 
 The `[profile]` tag is used to link to a user's osu! profile page using either their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
 
-To create a profile link, provide:
-
-1. The user's numeric ID as the `userid` argument (without quotation marks).
-2. The user's username between the opening and closing tags.
+To create a profile link, users must specify two arguments: The user's numeric ID and their username. The former is specified as the `userid` argument (without quotation marks), while the latter is placed between the opening and closing tags.
 
 For best results, include both the correct user ID and its corresponding username. This ensures the link works as expected and also remains functional even if the username changes later. When specifying users only by their username, the link will not function once they change their username.
 
@@ -260,12 +254,9 @@ Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img
 
 The `[email]` tag creates clickable email links with custom text. When clicked, it opens the user's default mail client with the recipient address pre-filled.
 
-To use the `[email]` tag, provide:
+To create email links with the `[email]` tag, users must specify two arguments: the email address to be filled and the linked text to be displayed. The former must be specified as the `ADDRESS` argument (without quotation marks), while the latter must be specified between the opening and closing tags. If no display text is provided, the hyperlink will not render correctly.
 
-1. The email address as the `ADDRESS` argument (no quotation marks)
-2. The display text between the tags
-
-If no display text is given, the link will not render properly. `[email]ADDRESS[/email]` is also supported, but is always redundant.
+ `[email]ADDRESS[/email]` is also supported, but is always redundant.
 
 ### Images
 
