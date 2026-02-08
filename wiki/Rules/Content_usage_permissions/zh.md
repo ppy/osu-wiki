@@ -564,7 +564,7 @@ osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
 |  | Igorrr | ![][partial] | 仅可使用 [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) 的精选艺术家列表中列出的合作曲目。请勿使用或上传任何其他曲目。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | 请勿使用含有 "execution_program" 标识的曲目。 |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | 请勿使用标题为 "execution_program" 的曲目。 |
 |  | MEGAREX (音乐厂牌) | ![][partial] | 仅可使用厂牌相关创作者的精选艺术家列表中列出的曲目，请勿使用或上传任何其他曲目。 |
 |  | Mlumìn // SoundWarper | ![][partial] | 已允许谱师使用标题为 "Spinner (DnB Remix)" 的曲目。如需使用其他曲目，请联系艺术家获取许可。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
