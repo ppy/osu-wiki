@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0d8434e6f0eeb88e157daf85e4b311337c5ca889
+---
+
 <!-- Please check redirects after adding new sections with year numbers. -->
 
 # Конкурсы
