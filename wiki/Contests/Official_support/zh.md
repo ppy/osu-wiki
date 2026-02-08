@@ -73,7 +73,7 @@ tags:
 - **一个参赛者不能在竞赛中提交超过一份投稿。**
 - **竞赛的投稿应进行匿名处理。** 这可以减少评审偏见，消除谱师与其谱面之间的名字关联。此规则仅在竞赛有特殊情况需要取消匿名时才可忽略。
 - **竞赛的组织者不得参与到竞赛中。** 这包括提交谱面投稿*以及*评审投稿/筛选投稿。任何能够接触到评审/筛选信息或非匿名投稿的人都被视为“竞赛组织者”。
-- **以任何身份参与竞赛运营的所有工作人员，当下不得处于[账号限制](/wiki/Help_centre/Account_restrictions)或[赛事封禁](/wiki/Help_centre/Tournament_sanctions#tournament-bans)状态。**
+- **以任何身份参与竞赛运营的所有工作人员，当下不得处于[账号限制](/wiki/Help_centre/Account_restrictions)或[赛事封禁](/wiki/Help_centre/Tournament_sanctions#赛事封禁)状态。**
 
 除了上述标准外，符合以下规则的竞赛有资格获得 **[竞赛点数](/wiki/Contests/Contest_points)** 的官方支持（**以赢得 *精英谱师* 用户头衔）**：
 

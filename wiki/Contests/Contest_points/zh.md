@@ -2,7 +2,7 @@
 
 **竞赛点数** 是用于官方作图竞赛的奖励积分。它主要用于确定用户是否有资格获得 *精英谱师* 头衔，该头衔授予达到 **6 点** 的用户。优异者还可以通过达到 12 点来获得 *精英谱师 II* 头衔！
 
-在[特定情况下](/wiki/Contests/Official_support#eligibility)，竞赛点数也可以作为[官方作图竞赛支持](/wiki/Contests/Official_support)的权益进行授予。
+在[特定情况下](/wiki/Contests/Official_support#资格标准)，竞赛点数也可以作为[官方作图竞赛支持](/wiki/Contests/Official_support)的权益进行授予。
 
 ## 点数分配规则
 
