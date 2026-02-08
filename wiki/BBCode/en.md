@@ -216,9 +216,9 @@ To create a profile link, provide:
 1. The user's numeric ID as the `USERID` argument (without quotation marks).
 2. The user's username between the opening and closing tags.
 
-For best results, include both the correct user ID and its corresponding username. This ensures the link works as expected and also remains functional even if the username changes later.
+For best results, include both the correct user ID and its corresponding username. This ensures the link works as expected and also remains functional even if the username changes later. When specifying users only by their username, the link will not function once they change their username.
 
-When the tag is used in **forum**, **signatures** or **beatmap descriptions**, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `USERID` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
+When the tag is used in forum, signatures or beatmap descriptions, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `USERID` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
