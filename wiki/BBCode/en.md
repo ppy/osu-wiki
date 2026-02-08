@@ -384,7 +384,6 @@ These projects simplify the process of formatting text with BBCode:
 | :-: | :-: | :-- |
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | BBCode editor with real-time preview for osu! profile |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! profile (Archived) |
-| [MOBE](https://github.com/SisypheOvO/MOBE) | ::{ flag=CN }:: [SisypheOvO](https://osu.ppy.sh/users/35628968) | BBCode editor with real-time preview for osu! profile |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Create color gradients for osu! profile |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Browser extension that adds more BBCode buttons and other features to osu! website |
 | [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | BBCode & HTML text colorizing |
