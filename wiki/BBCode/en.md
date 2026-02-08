@@ -206,19 +206,19 @@ Toolbar button: ![URL button](img/url.png "URL")
 ### Profile
 
 ```
-[profile=USERID]username[/profile]
+[profile=userid]username[/profile]
 ```
 
 The `[profile]` tag is used to link to a user's osu! profile page using either their username or user ID. Unlike standard URL links, hovering over this tag displays an interactive user card.
 
 To create a profile link, provide:
 
-1. The user's numeric ID as the `USERID` argument (without quotation marks).
+1. The user's numeric ID as the `userid` argument (without quotation marks).
 2. The user's username between the opening and closing tags.
 
 For best results, include both the correct user ID and its corresponding username. This ensures the link works as expected and also remains functional even if the username changes later. When specifying users only by their username, the link will not function once they change their username.
 
-When the tag is used in forum, signatures or beatmap descriptions, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `USERID` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
+When the tag is used in forum, signatures or beatmap descriptions, the osu! website can automatically correct and update the `[profile]` tag if either the `username` is invalid, or the `userid` is invalid/missing. This allows you to quickly insert profile links there if you know *either* the user ID *or* username, without needing to look up both pieces of information.
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
@@ -244,7 +244,7 @@ or
 
 The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums. Each list item is marked with `[*]`. By default, this will create a plain, bulleted list.
 
-To create a numbered list, include the `TYPE` argument (any value will work, e.g., `[list=1]`).
+If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
 
 The optional `LIST_NAME` argument adds an indented heading above the list. If omitted, no heading is displayed.
 
