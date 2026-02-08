@@ -113,7 +113,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Mili - String Theocracy (Aeril) \[Lascia ch'io pianga\]](https://osu.ppy.sh/beatmapsets/2234457#osu/4746039)
   4. [FELT - Summer Fever (Camo) \[Shimmering Sky\]](https://osu.ppy.sh/beatmapsets/1888937#osu/4133726)
 - Double Time
-  1. [KyoKa - Aitoki*Cherishing (fnayR) \[SayuMana x fnayR's Collab Extra\]](https://osu.ppy.sh/beatmapsets/2505066#osu/5515249)
+  1. [KyoKa - Aitoki\*Cherishing (fnayR) \[SayuMana x fnayR's Collab Extra\]](https://osu.ppy.sh/beatmapsets/2505066#osu/5515249)
   2. [-45 - Sankarea (Radiownd) \[Valtiel\]](https://osu.ppy.sh/beatmapsets/2392143#osu/5178950)
   3. [Fei Zao Jun - Ying Zhi Gui Ji (Muziyami) \[Expert\]](https://osu.ppy.sh/beatmapsets/1840959#osu/3781184)
   4. [BUGCORE - Creepy Crawlers (feat. Golemm) (Gordon) \[chonk: DT deBUG\]](https://osu.ppy.sh/beatmapsets/2234336#osu/4745651)
