@@ -314,8 +314,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Finals
 
-**[Download the mappack here (138 MB)](https://packs.ppy.sh/P313%20-%20osu%21mania%207K%20World%20Cup%202026%3A%20Finals.zip)**\
-[View the showcase VOD here]()
+[View the showcase VOD here](https://www.twitch.tv/videos/2692609213)
 
 - Rice
   1. [Kyuzo Sameura - Faraway Sky (All I C Is U) (BKwind) \[LIQUID\]](https://osu.ppy.sh/beatmapsets/2505145#mania/5515472)
