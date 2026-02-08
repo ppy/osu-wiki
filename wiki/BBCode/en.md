@@ -376,7 +376,7 @@ The `[lucky]` tag was once used to link to a website directed from Google's `I'm
 
 The *Heading (v2)* tag was once used to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
 
-## Useful Projects
+## Useful projects
 
 These projects simplify the process of formatting text with BBCode:
 
