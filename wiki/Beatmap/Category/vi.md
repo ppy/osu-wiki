@@ -42,7 +42,7 @@ Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu n�
 
 ## Lịch sử
 
-### Approved {id=approved}
+### Được chấp nhận {id=approved}
 
 Danh mục beatmap Approved được sử dụng trong giai đoạn từ năm 2008 đến 2014 để chứa các beatmap vượt quá yêu cầu về độ dài và điểm số tối đa theo các phiên bản cũ của [tiêu chí xếp hạng](/wiki/Ranking_criteria), cũng như một số beatmap hiếm hoi vi phạm các quy định khác.
 
