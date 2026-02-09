@@ -4,7 +4,7 @@ Các [beatmap](/wiki/Beatmap) được gửi trực tuyến sẽ được chia t
 
 ## Các danh mục hiện tại
 
-### Graveyard {id=graveyard}
+### Đắp mộ {id=graveyard}
 
 Đắp mộ là nơi chứa các beatmap bị [chủ beatmap](/wiki/Beatmap/Beatmap_host) bỏ dở. Các beatmap này không có bảng xếp hạng, nhưng vẫn có thể tải xuống và chơi, đồng thời vẫn [được tính vào thống kê chơi](#unranked-beatmaps-statistics). Chúng sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/graveyard.png)) trong [màn hình chọn bài hát](/wiki/Client/Interface#song-select).
 
