@@ -30,7 +30,7 @@ Beatmap Qualified có bảng xếp hạng, nhưng không được nhận [điể
 
 Beatmap đã xếp hạng được công nhận là nội dung chính thức, nghĩa là chúng đã đạt hoặc vượt qua các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria). Chúng cho phép người chơi cạnh tranh trên bảng xếp hạng và nhận [điểm hiệu năng](/wiki/Performance_points) từ việc lập điểm số.
 
-Một khi beatmap đã đạt trạng thái Ranked, trạng thái này sẽ không thể bị thay đổi nữa (ngoại trừ những trường hợp đặc biệt). Beatmap Ranked sử dụng biểu tượng mũi tên đôi hướng lên (![](/wiki/shared/status/ranked.png)) trong màn hình chọn bài hát.
+Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái này sẽ không thể bị thay đổi nữa (ngoại trừ những trường hợp đặc biệt). Beatmap Ranked sử dụng biểu tượng mũi tên đôi hướng lên (![](/wiki/shared/status/ranked.png)) trong màn hình chọn bài hát.
 
 ### Loved {id=loved}
 
