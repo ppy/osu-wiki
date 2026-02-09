@@ -49,12 +49,12 @@
 
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
-| ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 用于检查潜在作弊游玩的回放分析套件 |
+| ![](img/logo_circleguard.png) | [Circleguard](https://github.com/circleguard/circleguard) | ::{ flag=US }:: [tybug](https://osu.ppy.sh/users/12092800) | 用于检查潜在作弊游玩行为的回放分析套件 |
 |  | [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218) | ::{ flag=LT }:: [kleps](https://osu.ppy.sh/users/2902534) | 禁用 Windows 桌面合成 (Desktop Composition) 功能的工具，用于降低输入延迟 |
-| ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 通用按键输入速度的评测工具 |
+| ![](img/logo_keyspersecond.png) | [KeysPerSecond](https://osu.ppy.sh/community/forums/topics/552405) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 用于分析一般按键输入速度的基准评测工具 |
 | ![](img/logo_opentabletdriver.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DK }:: [gonX](https://github.com/gonX) | osu! 低延迟数位板驱动 |
 | ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | 自动将 `.osr` 转换为 `.mp4` 的工具 |
-|  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | 寻找 Miss 原因的回放分析套件 |
+|  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | 用于寻找 Miss 原因的回放分析套件 |
 |  | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | 支持查看本地未保存回放的程序 |
 |  | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | osu! 低延迟数位板驱动 |
 
@@ -91,10 +91,10 @@
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
 |  | [AxerBot](https://github.com/Hiviexd/AxerBot) | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 为作图与摸图量身定做的多功能 Discord 机器人 |
-|  | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | 从难度中复制音效的工具 |
+|  | [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | 跨难度复制音效的工具 |
 |  | [Local osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779) | ::{ flag=DE }:: [Marilyth](https://osu.ppy.sh/users/1161671) | 计算谱面密度随时间变化并将其可视化的工具 |
 | ![](img/logo_mapping_tools.png) | [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368) | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | 为作图而生的核心程序 |
-|  | [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638) | ::{ flag=CN }:: [wcx19911123](https://osu.ppy.sh/users/376831) | 从难度中复制音效的工具 |
+|  | [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638) | ::{ flag=CN }:: [wcx19911123](https://osu.ppy.sh/users/376831) | 跨难度复制音效的工具 |
 | ![](img/logo_osu_storyboarder_banquet.png) | [osu! Storyboarder Banquet](https://osb.moe) | ::{ flag=CN }:: [Sidetail](https://osu.ppy.sh/users/2036217) | 故事板制作的必备知识、提示与技巧大全 |
 |  | [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057) | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | 根据[传统 tp 系统](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)计算谱面难度 |
 |  | [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059) | ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032) | 在 BPM 更改后稳定滑条速度的工具 |
@@ -133,7 +133,7 @@
 
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
-|  | [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | 专业的故事板文本编辑器 |
+|  | [osu! Storyboard Script Editor](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | 专用于故事板制作的文本编辑器 |
 |  | [SGL Tool](https://osu.ppy.sh/community/forums/topics/45597) | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | 生成故事板代码的编程接口 |
 |  | [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656) | ::{ flag=FR }:: [Yuzeyun](https://osu.ppy.sh/users/481582) | 制作 osu!taiko 游戏梗的故事板工具 |
 |  | [Storybrew](https://github.com/Damnae/storybrew) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | 简单易用的故事板编辑器 |
@@ -172,7 +172,7 @@
 | 标识 | 名称 | 项目负责人 | 描述 |
 | :-: | :-- | :-- | :-- |
 | ![](img/logo_fringe_remover.png) | [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 移除皮肤元素毛边的工具 |
-| ![](img/logo_image_scaler.png) | [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 将 HD 大小的皮肤元素调整到 SD 大小的工具 |
+| ![](img/logo_image_scaler.png) | [Image Scaler](https://osu.ppy.sh/community/forums/topics/762684) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 用于将高清皮肤元素缩放到标清尺寸的工具 |
 |  | [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972) | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 最佳 `ColumnStart` 数值计算器 |
 |  | [osu! Skin Manager](https://osu.ppy.sh/community/forums/topics/231747) | ::{ flag=AT }:: [BlackTasty](https://osu.ppy.sh/users/3685723) | 混合与匹配已有皮肤元素的工具 |
 | ![](img/logo_osu_skin_mixer.png) | [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) | ::{ flag=GB }:: [rednir](https://osu.ppy.sh/users/17204559) | 混合与匹配已有皮肤元素的工具 |
@@ -234,7 +234,7 @@
 | ![](img/logo_osustats.png) | [osu!Stats](https://osustats.ppy.sh) | ::{ flag=PL }:: [Piotrekol](https://osu.ppy.sh/users/304520) | 可供搜索指定分数与玩家统计数据的网站 |
 | ![](img/logo_osutrack.png) | [osu!track](https://osu.ppy.sh/community/forums/topics/212151) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | 可供玩家跟踪进度与随时间进步情况的网站 |
 |  | [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167) | ::{ flag=US }:: [Ameo](https://osu.ppy.sh/users/4093752) | osu!track 的游戏内 IRC 机器人 |
-|  | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | 计算谱面表现分输出“超载”情况的网站 |
+|  | [osu-pps](https://osu-pps.com) | ::{ flag=UA }:: [grumd](https://osu.ppy.sh/users/530913) | 计算一张谱面有多“pp”的网站 |
 |  | [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031) | ::{ flag=CN }:: [DarkProjector](https://osu.ppy.sh/users/1344395) | 实时计算并显示已获得表现分的工具 |
 
 ### 其他项目
@@ -251,7 +251,7 @@
 | ![](img/logo_osu_music_library.png) | [Osu Music Library](https://osu.ppy.sh/community/forums/topics/267236) | ::{ flag=SE }:: [Dayanto](https://osu.ppy.sh/users/4907353) | 在 osu! 客户端外组织、播放、搜索谱面歌曲的工具 |
 |  | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | 支持实时预览的 osu! 用户资料 [BBCode](/wiki/BBCode) 编辑器 |
 |  | [osu! mouse simulator for Leap](https://osu.ppy.sh/community/forums/topics/139360) | ::{ flag=CZ }:: [Brejlounek](https://osu.ppy.sh/users/931841) | 适用于 [Leap Motion](https://zh.wikipedia.org/wiki/Leap_Motion) 传感器的鼠标指针移动封装器 |
-| ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | 以 osu! 为主题的音乐播放器 |
+| ![](img/logo_osu_music_player.png) | [osu! Music Player](https://osu.ppy.sh/community/forums/topics/257881) | ::{ flag=CA }:: [Naviaux](https://osu.ppy.sh/users/2240370) | osu! 主题的音乐播放器 |
 |  | [osu! Windows 60 fps animated cursors](https://osu.ppy.sh/community/forums/topics/86671) | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | osu! 样式的 Windows 光标 |
 |  | [o!subscribe](https://osu.ppy.sh/community/forums/topics/587110) | ::{ flag=CA }:: [Slow Twitch](https://osu.ppy.sh/users/3172543) | 提供喜爱谱师订阅支持的服务 |
 |  | [osu!APIlib](https://osu.ppy.sh/community/forums/topics/141331) | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 与 osu! API 对接的简单库 |

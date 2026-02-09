@@ -11,7 +11,7 @@ tags:
 ![puush 界面的截图](img/puushScreenshot.png "puush 的应用界面截图，摘自 CNET 对该服务的报道")
 :::
 
-**[puush.me](https://puush.me)**（常被称作 **puush**）是由 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 和 ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)运营与托管的截图共享服务。该服务于 2010 年 6 月首次启动，作为 [upppy](/wiki/upppy) 的后继，更加专注于屏幕共享与用户数据管理。由于两位创始人正在使用的服务添加了大量广告，并移除了直接的图像热链接支持，该服务应运而生。
+**[puush.me](https://puush.me)**（常被称作 **puush**）是由 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 和 ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)运营与托管的截图共享服务。该服务于 2010 年 6 月首次启动，作为 [upppy](/wiki/upppy) 的后继，更加专注于屏幕共享与用户数据管理。由于两位创始人当时正在使用的某个服务添加了大量广告，并移除了直接的图像热链接支持，该服务应运而生。
 
 ## 服务
 
@@ -32,7 +32,7 @@ puush 对所有人免费可用，但为了维持服务自给自足，puush 还�
 
 从 2014 年 3 月起，由于 PayPal 以意外的“违反服务条款”为由冻结了 puush 的账户，puush 不再接受专业版计划的注册申请。[^puush-paypal-suspension-ref]这导致 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 每个月不得不自费约 400 美元来维持服务运行。[^puush-finances-ref]
 
-同年晚些时候，随着 puush 维护工作的终止，puush 全面关闭了新用户注册功能——但现有用户仍可继续正常使用服务。[^puush-maintenance-ref]
+同年晚些时候，随着对 puush 维护的终止，puush 彻底关闭了所有新账户的注册——但是现有用户仍可继续正常使用服务。[^puush-maintenance-ref]
 
 ## 参考
 

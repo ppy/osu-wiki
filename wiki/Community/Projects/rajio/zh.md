@@ -11,13 +11,13 @@ tags:
 
 ## 服务
 
-rajio 的运作方式与当代的 Discord 音乐机器人（如 [Ayana](https://ayana.io/) 与 [FredBoat](https://fredboat.com/)）相似。访问网站时，用户可以从 peppy 的个人音乐数据库中搜索歌曲，将其添加到电台队列——该数据库容量约 400 GB，收录的大多是日系流行、动漫、电子游戏歌曲。[^rajio-database-ref]
+rajio 的运作方式与现今的 Discord 音乐机器人（如 [Ayana](https://ayana.io/) 与 [FredBoat](https://fredboat.com/)）相似。访问网站时，用户可以从 peppy 的个人音乐数据库中搜索歌曲，将其添加到广播队列——该数据库容量约 400 GB，收录的大多是日系流行、动漫、电子游戏歌曲。[^rajio-database-ref]
 
 由于 rajio 不支持从外部（如 [YouTube](https://www.youtube.com/)）获取歌曲，也就无从将数据库中没有的歌曲加入队列。出于带宽所限，该服务只能同时接纳 6 个用户。
 
 ## 退役与短暂复苏
 
-rajio 起初运转了几年，在 2010 年被关闭。[^rajio-out-of-service-ref]一年后，由于社区兴趣增长，::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 让 raijo 重获新生，同时在 [osu! 聊天](/wiki/Community/Internet_Relay_Chat)中为其创建了新的专用频道 `#rajio`。[^rajio-revival-ref1][^rajio-revival-ref2]但这次复苏只持续了很短时间，rajio 服务与聊天频道便永久消失。
+rajio 起初运转了几年，在 2010 年被关闭。[^rajio-out-of-service-ref]一年后，由于社区兴趣增长，::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 让 raijo 重获新生，同时在 [osu! 聊天](/wiki/Community/Internet_Relay_Chat)中为其创建了一个专用的 `#rajio` 频道。[^rajio-revival-ref1][^rajio-revival-ref2]但这次复苏只持续了很短时间，之后该服务与聊天频道便永久消失了。
 
 ## 参考
 
