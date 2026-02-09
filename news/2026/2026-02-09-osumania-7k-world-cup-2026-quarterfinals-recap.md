@@ -200,8 +200,6 @@ Because this is a vocal song, the lyrics were essential in delivering the concep
 
 Composition wise, I aimed for an atmosphere similar to [C://YOU NEX-TIME](https://osu.ppy.sh/beatmapsets/2028305) but at a slower BPM, blending futurecore with dubstep, drum n' bass, and full-flavour to keep the tiebreaker complex to a certain extent. The choir near the end symbolizes singing the school anthem one last time before graduation, and the phone call sounds at the beginning and end reflect a familiar school-life memory.
 
-If you're interested to know the full thought process, [here's a document that I've written](https://docs.google.com/document/d/1yb5HC6awytXNnljQkpr0pJSFfFlZYc-gvU3jwwl0c1g/edit) that explains almost everything.
-
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8976576" style="background-image: url('/wiki/shared/avatars/-mint-.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8976576">-mint-</a></p>
