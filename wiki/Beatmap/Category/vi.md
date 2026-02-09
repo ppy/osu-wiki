@@ -26,7 +26,7 @@ Beatmap được đưa vào Qualified sẽ đi vào [hàng chờ xếp hạng](/
 
 Beatmap Qualified có bảng xếp hạng, nhưng không được nhận [điểm hiệu năng](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa khi beatmap rời khỏi Qualified. Chúng sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/qualified.png)) trong màn hình chọn bài hát.
 
-### Ranked {id=ranked}
+### Được xếp hạng {id=ranked}
 
 Beatmap Ranked được công nhận là nội dung chính thức, nghĩa là chúng đã đạt hoặc vượt qua các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria). Chúng cho phép người chơi cạnh tranh trên bảng xếp hạng và nhận [điểm hiệu năng](/wiki/Performance_points) từ việc lập điểm số.
 
