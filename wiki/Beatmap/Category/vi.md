@@ -48,7 +48,7 @@ Danh mục beatmap được chấp nhận được sử dụng trong giai đoạ
 
 Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu năng](/wiki/Performance_points). Sau thay đổi này, trạng thái Được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
 
-Beatmap Được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap Được xếp hạng.
+Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap Được xếp hạng.
 
 ### Sự xuất hiện của Đủ tư cách
 
