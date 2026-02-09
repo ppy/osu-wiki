@@ -149,7 +149,7 @@ In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, you can s
 
 Notes:
 - `{g}` can be replaced with the letter grades `S`, `A`, `B`, `C`, or `D`.
-- You cannot play any sounds for the letter grade `F`, because the result screen is never reached if you fail during gameplay.
+- You cannot play any sounds for the letter grade `F`, because the result screen is never reached when you fail.
 
 `pause-loop.wav`:
 
