@@ -34,7 +34,7 @@ Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái
 
 ### Yêu thích {id=loved}
 
-*Để xem lịch sử của danh mục Yêu thích, xem: [Lịch sử Yêu thích](/wiki/History_of_osu!/History_of_Loved)*
+*Để xem lịch sử của danh mục Được yêu mến, xem: [Lịch sử Được yêu mến](/wiki/History_of_osu!/History_of_Loved)*
 
 Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *Yêu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án được yêu mến](/wiki/Community/Project_Loved).
 
