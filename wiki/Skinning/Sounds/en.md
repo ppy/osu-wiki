@@ -143,6 +143,14 @@ These sounds are not supposed to be bigger than a few kilobytes, as using a long
 - The sound is played on the ranking screen after clearing a map.
 - Should be formatted as `.mp3` or `.ogg` in beatmaps aiming for rank.
 
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, you can set which audio plays per letter grade. However, they have no effect in osu!stable, and `applause.wav` will always be played there.
+
+`applause-{g}.wav`
+
+Notes:
+- `{g}` can be replaced with the letter grades `S`, `A`, `B`, `C`, or `D`.
+- You cannot play any sounds for the letter grade `F`, because the result screen is never reached if you fail during gameplay.
+
 `pause-loop.wav`:
 
 - The sound is played when the game is paused.
