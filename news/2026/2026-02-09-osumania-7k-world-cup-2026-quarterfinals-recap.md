@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2024: Quarterfinals Recap"
+title: "osu!mania 7K World Cup 2026: Quarterfinals Recap"
 date: 2026-02-09 18:00:00 +0000
 series: world_cups
 ---
