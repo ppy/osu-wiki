@@ -18,7 +18,7 @@ Beatmap thuộc Chưa xong và Đang chờ không có bảng xếp hạng, nhưn
 
 Các beatmap không hoạt động và đã nằm trong danh mục này 4 tuần sẽ tự động bị chuyển sang danh mục [đắp mộ](#graveyard).
 
-### Đủ tư cách {id=Qualified}
+### Đủ tư cách {id=qualified}
 
 Đủ tư cách là giai đoạn cuối cùng trước khi xếp hạng trong [quy trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure). Các beatmap này đã được [Beatmap Nominator](/wiki/People/Beatmap_Nominators) đề cử và đảm bảo rằng chúng đáp ứng các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria).
 
