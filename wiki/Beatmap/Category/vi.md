@@ -32,7 +32,7 @@ Beatmap đã xếp hạng được công nhận là nội dung chính thức, ng
 
 Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái này sẽ không thể bị thay đổi nữa (ngoại trừ những trường hợp đặc biệt). Beatmap Được xếp hạng sử dụng biểu tượng mũi tên đôi hướng lên (![](/wiki/shared/status/ranked.png)) trong màn hình chọn bài hát.
 
-### Yêu thích {id=loved}
+### Được yêu mến {id=loved}
 
 *Để xem lịch sử của danh mục Được yêu mến, xem: [Lịch sử Được yêu mến](/wiki/History_of_osu!/History_of_Loved)*
 
