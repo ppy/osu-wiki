@@ -36,7 +36,7 @@ Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái
 
 *Để xem lịch sử của danh mục Yêu thích, xem: [Lịch sử Yêu thích](/wiki/History_of_osu!/History_of_Loved)*
 
-Beatmap Yêu thích có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *Yêu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án Yêu thích](/wiki/Community/Project_Loved).
+Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *Yêu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án được yêu mến](/wiki/Community/Project_Loved).
 
 Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa nếu beatmap rời khỏi Được yêu mến. Beatmap được yêu mến sử dụng biểu tượng trái tim (![](/wiki/shared/status/loved.png)) trong màn hình chọn bài hát.
 
