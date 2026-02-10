@@ -11,7 +11,7 @@ The flagship tournament by xootynator is back! Join the race to win the Waifu Ci
 
 After a year of hiatus, Battle of the Box is back! From fighting matches to fantasy adventures to dungeon crawling, participants of this tournament have been through it all. Now, in its fourth iteration, Battle of the Box is headed to the racetracks of the osu!verse for some kart racing!
 
-Hosted by one of osu!'s top players and a mainstay of the Canadian OWC Team, Battle of the Box has long been focused on creating an environment where players and staff alike can thrive and enjoy themselves to the fullest, not to mention the variety of different contributions made by artists, mappers, and musicians alike!
+Hosted by one of osu!'s top players and a mainstay of the Canadian OWC team, Battle of the Box has long been focused on creating an environment where players and staff alike can thrive and enjoy themselves to the fullest, not to mention the variety of different contributions made by artists, mappers, and musicians alike!
 
 So, what are you waiting for? Build your team, grab your kart, and get on the raceway! You won't want to miss this iteration! 
 
@@ -43,13 +43,15 @@ Contributions to the prize pool can be made to **[xootynator's twitch](https://w
 
 **[Click here to go to the forum post and register!](https://osu.ppy.sh/community/forums/topics/2178368)**
 
-**Registration closes on February 22 at 23:59 UTC; please register before then!** Please note that players must have a team of 3 or 4 to participate. 
+**Registrations close on February 22 at 23:59 UTC; please register before then!** Please note that players must have a team of 3 or 4 to participate. 
 
 *Ensure that you consult all rules before registering for the tournament, as Battle of the Box has historically not followed conventional tournament formats.*
 
 Potential staff who wish to participate should contact [Fulserish](https://osu.ppy.sh/users/14252162) on Discord at `fulserish` and provide a "resume" of their staffing experience. 
 
 Any and all questions about the tournament should be asked on the Discord server.
+
+---
 
 We look forward to seeing you on the racetrack! Join the [Discord](https://discord.gg/XT6sGbRNQs) server or watch the tournament on our [official livestream](https://www.twitch.tv/botb_osu)! We look forward to having you!
 
