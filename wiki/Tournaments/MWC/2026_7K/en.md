@@ -60,7 +60,7 @@ Group leaders denoted in **bold**.
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Np3YUosAYniyf4LUfJeClsoFHbIipxVIaFeuWbskN_k?rm=minimal)**
-- [Weekly statistics](https://drive.google.com/drive/u/0/folders/1g_Ecfwzrc_dr9LsFIDKbSvUJWNnVC_pY)
+- [Weekly statistics](https://drive.google.com/drive/folders/1g_Ecfwzrc_dr9LsFIDKbSvUJWNnVC_pY)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/53)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)
