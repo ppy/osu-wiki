@@ -10,8 +10,6 @@ tags:
   - tim osu!
   - staf
 no_native_review: true
-outdated_translation: true
-outdated_since: 00d056b4f29957da71e8150c637aefb98940eda0
 ---
 
 # Tim osu!
@@ -49,9 +47,9 @@ Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama ber
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Pemelihara wiki](/wiki/People/osu!_wiki_maintainers), penyunting berita |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu menangani masalah yang bersifat pribadi.
+osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) yang membantu menangani masalah yang tidak bisa diselesaikan secara terbuka.
 
-Di samping itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
+Di samping tim inti ini, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) yang menjaga osu! tetap berjalan dengan perannya masing-masing.
 
 ## Anggota inti tim yang tidak lagi aktif
 
@@ -65,12 +63,12 @@ Di samping itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) y
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Pengasuh umum, manajer komunitas |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | [Moderator](/wiki/People/Global_Moderation_Team) |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, penyedia sistem IRC yang terintegrasi dengan in-game chat, pemelihara situs |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, penyedia integrasi antara IRC dengan in-game chat, pemelihara situs |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Pemelihara proyek dan komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, pengelola turnamen |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, penyedia infrastruktur backend sistem osz2 dan p2p |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Pemimpin [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) |
-| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Perancang asli situs, penyedia layanan hosting pada masa awal berdirinya osu! |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Perancang asli situs, penyedia layanan hosting di masa-masa awal |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups) |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Penyelenggara dan pengelola [World Cup](/wiki/Tournaments#official-world-cups), pemimpin [QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders), manajer komunitas |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor skin dan set ikon bawaan |
@@ -87,7 +85,7 @@ Di samping itu, terdapat pula [berbagai tim sukarelawan lainnya](/wiki/People) y
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, sosok pencipta serba bisa |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Moderator](/wiki/People/Global_Moderation_Team), [pemelihara wiki](/wiki/People/osu!_wiki_maintainers) |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Perancang konsep dan desain asli [pippi](/wiki/Mascots#pippi) |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas pada masa awal berdirinya osu!, kontributor program Meeting Minutes dan halaman FAQ |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Manajer dan pemimpin komunitas di masa-masa awal, kontributor program Meeting Minutes dan halaman FAQ |
 | ::{ flag=AU }:: [-Tim-](https://osu.ppy.sh/users/836963) | Pengembang [FlappyDon](https://github.com/ppy/osu-framework/tree/master/osu.Framework.Templates/templates/template-flappy) |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Pengembang osu! dan sistem [performance point](/wiki/Performance_points) |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manajer Project Loved, penasihat bidang moderasi komunitas, pembina hubungan dengan [Featured Artist](/wiki/People/Featured_Artists) |
