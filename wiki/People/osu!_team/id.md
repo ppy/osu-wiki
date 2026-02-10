@@ -14,7 +14,7 @@ no_native_review: true
 
 # Tim osu!
 
-Nama-nama di bawah ini merupakan anggota inti **tim osu!** yang secara utama bertanggung jawab untuk menjadikan osu! permainan yang istimewa bagi semua.
+Nama-nama di bawah ini adalah anggota inti **tim osu!** yang secara utama bertanggung jawab untuk menjadikan osu! permainan yang istimewa bagi semua.
 
 | Nama | Peran |
 | :-- | :-- |
