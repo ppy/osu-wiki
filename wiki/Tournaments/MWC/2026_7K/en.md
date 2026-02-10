@@ -60,6 +60,7 @@ Group leaders denoted in **bold**.
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Np3YUosAYniyf4LUfJeClsoFHbIipxVIaFeuWbskN_k?rm=minimal)**
+- [Weekly statistics](https://drive.google.com/drive/u/0/folders/1g_Ecfwzrc_dr9LsFIDKbSvUJWNnVC_pY)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/53)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)
@@ -143,6 +144,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1z1coIiq8zKVeHEBbcjV6nBd9d9NeO8C-2HHjR6hEfN0?rm=minimal).
 
 Saturday, 7 February 2026:
 
