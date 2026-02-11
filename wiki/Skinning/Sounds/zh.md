@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 6078f92571023d7e98657cd6a80bf9dcc9a55628
----
-
 # 自定义音效
 
 音效的可用格式有 `.wav`、`.mp3` 和/或 `.ogg`。
@@ -146,8 +140,17 @@ outdated_since: 6078f92571023d7e98657cd6a80bf9dcc9a55628
 
 `applause.wav`：
 
-- 此音效会在完成谱面后的结算屏幕中播放。
+- 此音效会在完成谱面后的结算界面中播放。
 - 对于旨在上架的谱面，此音效格式应为 `.mp3` 或 `.ogg`。
+
+在 [Lazer](/wiki/Client/Release_stream/Lazer) 客户端中，你可以为每个结算字母评级设置播放哪个音效。然而，在 osu!(stable) 中评级不会影响结算音效，`applause.wav` 将始终被播放。
+
+`applause-{g}.wav`
+
+备注：
+
+- `{g}` 可以替换为等级 `S`、`A`、`B`、`C` 或 `D`。
+- 无法为等级 `F` 播放任何音效，因为在失败时不会显示结算界面。
 
 `pause-loop.wav`：
 
