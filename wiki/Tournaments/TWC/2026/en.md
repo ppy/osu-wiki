@@ -220,11 +220,6 @@ The final bracket configuration will be as follows:
 1. Following the Group stage, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
 
-### Stage instructions
-
-1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
-2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
-
 ### Win conditions
 
 - In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
