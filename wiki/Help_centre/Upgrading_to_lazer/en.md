@@ -506,7 +506,7 @@ However, only the following mods will award performance points for now:
   - Sudden Death (Configuring `Also fail when missing a slider tail (only for osu!)` and `Restart on fail` is allowed)
   - Perfect (Configuring `Require perfect hits (only for osu!mania)` and `Restart on fail` is allowed)
   - Double Time (Configuring `Adjust pitch` is allowed)
-  - Nightcore (Only 1.5x)
+  - Nightcore
   - Fade In (Only for osu!mania)
   - Hidden
   - Cover (Only for osu!mania, configuring `Direction` is allowed)
