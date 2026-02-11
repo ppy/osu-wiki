@@ -148,7 +148,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 
 1. Following the Qualifiers, the Group stage will feature the Challenger (seeds 9-32) teams.
 2. The 24 Challenger teams will be randomly drafted into eight groups of three.
-3. Each team will play one match against every other team in their group (two matches total). All matches will be best of 7, with one ban for each team.
+3. Each team will play one match against every other team in their group (two matches total). All matches will be best of 9, with one ban for each team.
 4. Ranking within a group is determined by the number of matches won.
   - In the case of a tie in match wins, the team with the higher point difference, that is, wins minus losses across all matches, will be ranked higher.
   - If the tie persists, the head-to-head match result will be used.
@@ -223,7 +223,7 @@ The final bracket configuration will be as follows:
 ### Win conditions
 
 - In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
-- In the Group stage and Round of 16, teams need to win 5 maps to win a match (best of 7).
+- In the Group stage and Round of 16, teams need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
 - In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
   - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
