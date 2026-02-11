@@ -142,8 +142,8 @@ The rank display sounds will play only if at least one rank display component is
 
 | Filename | Usage |
 | :-- | :-- |
-| `rank-up.wav` | Gaining a letter rank |
-| `rank-down.wav` | Decreasing a letter rank |
+| `rank-up.wav` | Gaining a higher rank |
+| `rank-down.wav` | Dropping to a lower rank |
 
 `rank-down.wav` will play immediately after you lose the highest letter rank, but any further rank changes are delayed by up to 1.5 seconds.
 
