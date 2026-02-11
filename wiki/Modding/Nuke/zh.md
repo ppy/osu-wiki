@@ -1,8 +1,8 @@
 # 核弹
 
-**核弹** 是早期的 osu! [论坛摸图](/wiki/Modding/Forum_modding)系统中使用的摸[图](/wiki/Beatmap)工具。任何被认为是无视规则（或者谱师无视[行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)）的谱面，都可能被[谱面评估团队 (BAT)](/wiki/People/Beatmap_Appreciation_Team) 或者[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 用核弹标记（俗称被核）。
+**核弹** 是早期的 osu! [论坛摸图](/wiki/Modding/Forum_modding)系统中，审核[谱面](/wiki/Beatmap)时所使用的工具。任何被认为是无视规则（或者谱师无视[行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)）的谱面，都可能被[谱面评估团队 (BAT)](/wiki/People/Beatmap_Appreciation_Team) 或者[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 用核弹标记（俗称被核）。
 
-当谱面被核时，谱面讨论串上会显示一个放射性标识 ![](/wiki/shared/icon/nuke.gif)。这将提示其他 BAT 或者 GMT，即这张谱面如果不做出大幅度修改之前，不会考虑[上架](/wiki/Beatmap_ranking_procedure#上架)。如果谱面按照要求做出相应的更改，图标将消失，谱面可以继续在[审核流程](/wiki/Beatmap_ranking_procedure)中推进。
+当谱面被核时，谱面讨论串上会显示一个放射性标识 ![](/wiki/shared/icon/nuke.gif)。这将提示其他 BAT 或者 GMT，这张谱面在进行大幅度修改之前，不会考虑[上架](/wiki/Beatmap_ranking_procedure#上架)。如果谱面按照要求做出相应的更改，图标将消失，谱面可以继续在[审核流程](/wiki/Beatmap_ranking_procedure)中推进。
 
 ::: Infobox
 ![](img/forum-listing-nuke.png "在坟图子论坛里，被核的谱面及其讨论串")
