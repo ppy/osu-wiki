@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: ca470beb6a1d0e8c9575d6436e9f2d656c3f19c0
----
-
 # Redacción
 
 *Para los estándares de formato, véase: [Criterios de estilo para artículos/Formato](../Formatting)*\
@@ -295,7 +290,7 @@ Los [artículos con registros informales](#registro-del-lenguaje) deben evitar e
 
 ### Coma en serie
 
-Se debe usar la coma en serie, también conocida como coma de Oxford o Harvard.
+La coma en serie, también conocida como coma de Oxford o Harvard, no debería usarse habitualmente.
 
 ### Raya
 

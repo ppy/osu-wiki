@@ -1,13 +1,8 @@
----
-outdated_translation: true
-outdated_since: 4286c7437dbab8fa1ccf423025af23f83f0569f3
----
-
 # Actualizar a lazer
 
 osu!(lazer) es la próxima gran actualización del juego. Es la culminación de varios años de trabajo detrás de escena para relanzar laboriosamente el juego.
 
-La meta eventual es que esta versión sea publicada como una actualización que reemplazará completamente la versión estable existente del juego, pero todavía hay algo de trabajo por hacer antes de que esto sea factible. Al final del día, **los jugadores** determinarán cuándo ocurrirá esto, nosotros seguiremos dando soporte a la versión anterior hasta que los usuarios hayan migrado.
+Si bien esta versión incorpora muchas funciones nuevas que no se encuentran en osu!(stable), todavía hay algunas funciones exclusivas de cada cliente. Mientras tanto, **los jugadores** pueden elegir qué versión desean jugar, y ellos determinarán durante cuánto tiempo seguiremos dando soporte a la versión anterior.
 
 «lazer» es un nombre clave y eventualmente será dejado de lado a medida que se convierta en la versión principal del juego. El resto de este documento se referirá a osu!(lazer) como «lazer» y a osu!(stable) como «stable» para simplificar.
 
