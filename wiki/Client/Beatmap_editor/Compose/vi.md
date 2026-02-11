@@ -42,7 +42,7 @@ Giữ `Alt` để chuyển thanh trượt sang chế độ [distance spacing](/w
 
 | Nút (phím tắt) | Mô tả |
 | :-- | :-- |
-| `Sampleset` | Ghi đè [sampleset](/wiki/Beatmapping/Sampleset) của các object được chọn (bao gồm hitnormal). Chọn `Auto` sẽ đặt lại sampleset theo [timing point](/wiki/Client/Beatmap_editor/Timing#timing-points) đang hoạt động. |
+| `Sampleset` | Ghi đè [sampleset](/wiki/Beatmapping/Sampleset) của các object được chọn (bao gồm hitnormal). Chọn `Auto` sẽ đặt lại sampleset theo [timing point](/wiki/Client/Beatmap_editor/Timing#điểm-căn-nhịp) đang hoạt động. |
 | `Additions` | Ghi đè sampleset của các object được chọn, chỉ ảnh hưởng tới các hitsound bổ sung (whistle, finish và clap). Chọn `Auto` sẽ đặt lại sampleset theo timing point đang hoạt động. |
 | `Select` (`1`) | `Chuột trái` hoặc `Kéo chuột trái`: Chọn hoặc di chuyển object hay control point. `Chuột phải`: xóa object hoặc control point. `Ctrl` + `Chuột trái`: Chọn nhiều object. `Ctrl` + `Chuột trái` khi chọn slider: Thêm [control point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). |
 | `Circle` (`2`) | `Chuột trái`: Thêm một [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) tại timestamp hiện tại. |
@@ -95,8 +95,8 @@ Khu vực trung tâm chứa timeline với các mốc và nút điều khiển n
 | :-- | :-- |
 | Trắng | Timestamp hiện tại |
 | Vàng | Điểm preview |
-| Xanh lá | [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) |
-| Đỏ | [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) |
+| Xanh lá | [Inherited timing point](/wiki/Client/Beatmap_editor/Timing#điểm-căn-nhịp-kế-thừa) |
+| Đỏ | [Uninherited timing point](/wiki/Client/Beatmap_editor/Timing#điểm-căn-nhịp-không-kế-thừa) |
 | Xanh dương | Bookmark |
 
 #### Khu vực màu
