@@ -60,6 +60,7 @@ Group leaders denoted in **bold**.
 ## Links
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1Np3YUosAYniyf4LUfJeClsoFHbIipxVIaFeuWbskN_k?rm=minimal)**
+- [Weekly statistics](https://drive.google.com/drive/folders/1g_Ecfwzrc_dr9LsFIDKbSvUJWNnVC_pY)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/53)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)
@@ -143,6 +144,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1z1coIiq8zKVeHEBbcjV6nBd9d9NeO8C-2HHjR6hEfN0?rm=minimal).
 
 Saturday, 7 February 2026:
 
@@ -314,6 +317,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 ### Finals
 
+**[Download the mappack here (138 MB)](https://packs.ppy.sh/P313%20-%20osu%21mania%207K%20World%20Cup%202026%3A%20Finals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2692609213)
 
 - Rice
@@ -321,7 +325,7 @@ The final standings for the Qualifier stage can be found in the following [sprea
   2. [Ice Plumes - Kairou (BKwind) \[Cloistear (MWC edit.)\]](https://osu.ppy.sh/beatmapsets/2505149#mania/5515483)
   3. [Marmalade butcher - SIX BILLION MNSN (ExNeko) \[TRANSCEND\]](https://osu.ppy.sh/beatmapsets/2505213#mania/5515661)
   4. [KOTOKO - Re-sublimity (Cut Ver.) (kaulpakka) \[Agonize Collab\]](https://osu.ppy.sh/beatmapsets/2505183#mania/5515575)
-  5. Ruby My Dear - Saint Patron (Maxus) \[Fanatic Illusion (MWC Ver.)\] (link pending)
+  5. [Ruby My Dear - Saint Patron (Maxus) \[Fanatic Illusion (MWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2505240#mania/5515721)
   6. [Kyokushi - \<3 x \<3 (pwhk) \[GlassyHeart.\]](https://osu.ppy.sh/beatmapsets/2505103#mania/5515361)
   7. [Akiri - Beyond Wood (Full Ver.) (Blocko) \[WAAPS\]](https://osu.ppy.sh/beatmapsets/2505190#mania/5515606)
 - Long Note
@@ -336,10 +340,10 @@ The final standings for the Qualifier stage can be found in the following [sprea
   3. [Camellia - GHOST GIRL CANNOT BE KILLED (Remuring) \[BOO\]](https://osu.ppy.sh/beatmapsets/2505209#mania/5515656)
 - Extreme
   1. [Kobaryo feat. blaxervant - Spark of Mayhem (ExNeko) \[Pandemonium\]](https://osu.ppy.sh/beatmapsets/2505214#mania/5515662)
-  2. F Rabbeat feat. Mustard - How to make OTOGE MUSIC! (swlie) \[owo\] (link pending)
+  2. [F Rabbeat feat. Mustard - How to make OTOGE MUSIC! (swlie) \[owo\]](https://osu.ppy.sh/beatmapsets/2505431#mania/5516165)
   3. [Camellia - magical, very magical world (ruka) \[We Mappers Still Alive in 2026\]](https://osu.ppy.sh/beatmapsets/2505216#mania/5515664)
 - Tiebreaker
-  1. **Kou! - Frost Walker (Mochineko) \[Glacial Illumination\] (link pending)**
+  1. **[Kou! - Frost Walker (Mochineko) \[Glacial Illumination\]](https://osu.ppy.sh/beatmapsets/2505403#mania/5516105)**
 
 ### Semifinals
 

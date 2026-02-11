@@ -29,7 +29,7 @@ Some songs are so good that they're mapped over and over again by the osu! commu
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/news/kanemiko_release.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/kanemiko_release_2.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
