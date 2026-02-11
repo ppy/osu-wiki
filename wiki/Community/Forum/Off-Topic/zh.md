@@ -74,10 +74,10 @@ OT 法庭是 OT 传说的一部分，它模仿了一次真实的审判，细节�
 
 ## 参考资料
 
-[^ot-suggestion]: [lukewarmholiday 的论坛帖子（2009-01-30）"为具有自我延续性的帖子单独设个子版块？"](https://osu.ppy.sh/community/forums/posts/80316)
-[^ot-announcement]: [peppy 的论坛帖子（2009-02-19）"论坛游戏已移至新论坛"](https://osu.ppy.sh/community/forums/topics/10180)
-[^ot-old-name]: [kuwarudo 的论坛回复（2009-05-31），发在"错误引用楼上用户的话"帖中](https://osu.ppy.sh/community/forums/posts/132900)
-[^ot-derailing-games]: [Powerdrone 的论坛回复（2010-02-03），发在"最后看到 20 美元 PayPal 帖子的人"帖中](https://osu.ppy.sh/community/forums/posts/313614)
-[^ot-rename]: [Derekku 的论坛回复（2010-02-06），发在"a"帖中](https://osu.ppy.sh/community/forums/posts/316732)
-[^ot-dancing-girls]: [abraker 的论坛帖子（2022-02-20）"OT 最古老的谜团：跳舞的动漫女孩"](https://osu.ppy.sh/community/forums/topics/1525770)
-[^ot-rules-official]: ["规则 — osu! 维基"（2017-08-17）于 Wayback Machine 存档](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
+[^ot-suggestion]: [lukewarmholiday 的论坛帖子（2009-01-30）"Separate sub-forum for self perpetuating threads?"](https://osu.ppy.sh/community/forums/posts/80316)
+[^ot-announcement]: [peppy 的论坛帖子（2009-02-19）"Forum Games moved to new forum"](https://osu.ppy.sh/community/forums/topics/10180)
+[^ot-old-name]: [kuwarudo 的论坛回复（2009-05-31），发在 "Mis-quote The Person Above You" 帖中](https://osu.ppy.sh/community/forums/posts/132900)
+[^ot-derailing-games]: [Powerdrone 的论坛回复（2010-02-03），发在 "Last person to see the 20 USD via Paypal thread" 帖中](https://osu.ppy.sh/community/forums/posts/313614)
+[^ot-rename]: [Derekku 的论坛回复（2010-02-06），发在 "a" 帖中](https://osu.ppy.sh/community/forums/posts/316732)
+[^ot-dancing-girls]: [abraker 的论坛帖子（2022-02-20）"OT's Oldest Mystery: Dancing Anime Girls"](https://osu.ppy.sh/community/forums/topics/1525770)
+[^ot-rules-official]: ["Rules — osu! wiki"（2017-08-17）于 Wayback Machine 存档](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
