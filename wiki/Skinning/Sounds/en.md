@@ -136,7 +136,7 @@ Notes:
 
 ## Rank display (Lazer only)
 
-In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new rank display components were added for skinning in the osu!editor. The following audio elements can be used to skin these. They have no effect in osu!stable.
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new rank display components were added for skinning in the osu!editor. The following audio elements can be used to skin these. They have no effect in osu!(stable).
 
 The rank display sounds will play only if at least one rank display component is added in your current skin.
 
