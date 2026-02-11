@@ -2,7 +2,7 @@
 
 *参见: [吉祥物/画廊](/wiki/Mascots/Gallery)*
 
-本文展示了 osu! 的许多吉祥物，以及对它们的简单介绍。[这个 YouTube 视频](https://youtu.be/mJF2cAs_MrI)展示了所有的 osu! 吉祥物。
+本文列出了 osu! 的众多吉祥物，以及对它们的简单介绍。可[点击此处](https://youtu.be/mJF2cAs_MrI)观看展示它们的 YouTube 视频。
 
 ## 官方
 
