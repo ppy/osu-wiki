@@ -34,7 +34,7 @@
 
 ### 居民
 
-由于版聊版块主要由一群相同的常客在帖子中彼此交流，大家逐渐互相熟识。那些待得足够久，被视为常客的人被称为“**居民**”。虽然这个词最早由 [Ephemeral](https://osu.ppy.sh/users/102335) 在[这篇帖子](https://osu.ppy.sh/community/forums/posts/1607086)中使用，但直到 [OT!News 系列帖子](https://osu.ppy.sh/community/forums/topics/577518)使其普及后，才被常客们广泛采纳。
+由于在版聊版块中发帖交流的常是同一群人，大家都互相熟识起来。那些待得足够久，被视为常客的人被称为“**居民**”。虽然这个词最早由 [Ephemeral](https://osu.ppy.sh/users/102335) 在[这篇帖子](https://osu.ppy.sh/community/forums/posts/1607086)中使用，但直到 [OT!News 系列帖子](https://osu.ppy.sh/community/forums/topics/577518)使其普及后，才被常客们广泛采纳。
 
 ### OT 传说
 
