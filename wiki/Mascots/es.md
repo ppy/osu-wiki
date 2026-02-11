@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4de61f8a15dead54fe120f002837cec3dd4ed38d
+---
+
 # Mascotas
 
 *Véase también: [Galería/Mascotas](/wiki/Mascots/Gallery).*
