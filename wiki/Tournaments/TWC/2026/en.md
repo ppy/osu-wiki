@@ -228,7 +228,7 @@ The final bracket configuration will be as follows:
 ### Win conditions
 
 - In the Qualifiers, teams need to place in the top 32 seeded teams in order to advance to the double-elimination stage.
-- In the Round of 32 and Round of 16, teams need to win 5 maps to win a match (best of 9).
+- In the Group stage and Round of 16, teams need to win 5 maps to win a match (best of 7).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
 - In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
   - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
