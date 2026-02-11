@@ -148,6 +148,7 @@ In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, you can s
 `applause-{g}.wav`
 
 Notes:
+
 - `{g}` can be replaced with the letter grades `S`, `A`, `B`, `C`, or `D`.
 - You cannot play any sounds for the letter grade `F`, because the result screen is never reached when you fail.
 
