@@ -194,9 +194,9 @@ The `[url]` tag is used to turn regular text into clickable hyperlinks.
 
 To create hyperlinks with the `[url]` tag, users must specify two arguments: specific URL of the website to navigate to and the linked text to be displayed. The former must be specified as the `LINK` argument (without quotation marks `"`), while the latter must be specified between the opening and closing tags. If no display text is provided, the hyperlink will not render correctly.
 
-`[url]LINK[/url]` is also supported, but is always redundant.
+`[url]LINK[/url]` is also supported, but mostly redundant since plain URLs are parsed automatically.
 
-*Notice: All URLs—whether used with the `[url]` tag or plain text—must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.*
+*Notice: All URLs — whether used with the `[url]` tag or plain text — must be valid and include a protocol (`http://`, `https://`, `ftp://`) or a `www.` prefix. Otherwise, the link will not work.*
 
 Toolbar button: ![URL button](img/url.png "URL")
 
@@ -256,7 +256,7 @@ The `[email]` tag creates clickable email links with custom text. When clicked, 
 
 To create email links with the `[email]` tag, users must specify two arguments: the email address to be filled and the linked text to be displayed. The former must be specified as the `ADDRESS` argument (without quotation marks), while the latter must be specified between the opening and closing tags. If no display text is provided, the hyperlink will not render correctly.
 
- `[email]ADDRESS[/email]` is also supported, but is always redundant.
+ `[email]ADDRESS[/email]` is also supported, but mostly redundant since plain emails are parsed automatically.
 
 ### Images
 
@@ -367,7 +367,7 @@ The `[lucky]` tag is an outdated tag that was once used in the osu! forums to li
 
 The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
 
-## Useful projects
+## Tools
 
 These projects simplify the process of formatting text with BBCode:
 
@@ -377,7 +377,6 @@ These projects simplify the process of formatting text with BBCode:
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode editor with real-time preview for osu! profile (Archived) |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Create color gradients for osu! profile |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Browser extension that adds more BBCode buttons and other features to osu! website |
-| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | BBCode & HTML text colorizing |
 
 ## Trivia
 
