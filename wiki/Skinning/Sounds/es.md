@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6078f92571023d7e98657cd6a80bf9dcc9a55628
+---
+
 # Sonidos personalizables
 
 Los formatos `.wav`, `.mp3` y/o `.ogg` son válidos para los sonidos.
