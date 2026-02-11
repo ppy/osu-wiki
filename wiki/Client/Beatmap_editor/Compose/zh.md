@@ -1,16 +1,11 @@
----
-outdated_since: 17a70f697c1315b87938b74b3cf43b9649a5a8fb
-outdated_translation: true
----
-
-# 作曲 (Compose)
+# 作曲 (Compose) 标签页
 
 ::: Infobox
-![](img/compose.jpg "osu! 模式谱面编辑器中的作曲 (Compose) 标签页")
+![](img/compose.jpg "osu! 模式谱面编辑器中的作曲标签页")
 :::
 
 ::: Infobox
-![](img/compose-mania.jpg "osu!mania 模式谱面编辑器中的作曲 (Compose) 标签页")
+![](img/compose-mania.jpg "osu!mania 模式谱面编辑器中的作曲标签页")
 :::
 
 [谱面编辑器](/wiki/Client/Beatmap_editor)的**作曲 (Compose) 标签页**是[谱面制作者](/wiki/Beatmapping)在调整谱面[测轴](/wiki/Beatmapping/Timing)设置后，在谱面上花费最多时间的地方。在这个标签页中，可以查看[打击物件的排列](/wiki/Beatmap/Pattern)、[打击音效](/wiki/Beatmapping/Hitsound)以及谱面设计其他方面的东西。
@@ -26,6 +21,8 @@ osu!、osu!taiko、osu!catch 使用的编辑器工具是相同的，而 osu!mani
 ![](img/objects-timeline.jpg "以节拍细分设置与当前时间戳为基准显示打击物件的时间轴")
 
 可以使用时间轴左侧的 `+`/`-` 按钮放大或缩小时间轴，你也可以在按住 `Alt` 键的同时滚动滚轮进行缩放。时间轴中间的双白线指示着当前时间戳。除此之外，你也可以用鼠标左键选择并移动时间轴上的打击物件，用鼠标右键删除物件。
+
+将时间轴上的滑条尾向右拖动，可以创建[折返滑条](/wiki/Gameplay/Hit_object/Slider/Repeat_slider)。
 
 ### 节拍细分
 
@@ -76,15 +73,13 @@ osu!、osu!taiko、osu!catch 使用的编辑器工具是相同的，而 osu!mani
 
 | 按钮（键盘快捷键） | 用法 | 描述 |
 | :-- | :-- | :-- |
-| `Grid Snap（网格对齐）` (`T`) | **按住 `Shift`：** 暂时启用 **按住 `Ctrl`**：暂时停用 | 物件会自动被校准到网格间。 |
-| `Distance Snap（间距锁定）` (`Y`) | **按住 `Alt`：** 暂时启用，同时将 Beat Snap Divisor 改为 Distance Snap 的数值设定 **`Alt` + 滚轮：** 调整 Distance Snap 数值 | 两个连续圈圈的距离会自动依节奏上的差距控制。最好在时间轴暂停时使用。 |
-| `Lock Notes（锁定物件）` (`L`) | （先选取一个物件）**左键：** 锁定此物件 | 将所选取物件锁定在目前位置和时间上。 |
+| `Grid Snap（网格对齐）` (`T`) | 按住 `Shift`：临时启用 | 物件会自动被校准到[网格](/wiki/Beatmapping/Grid_snapping)上。 |
+| `Distance Snap（间距锁定）` (`Y`) | 按住 `Alt`：临时启用，将节拍细分改为间距锁定的数值设定。`Alt` + `鼠标滚轮`：调整间距锁定数值。 | 基于两个相邻物件时间上的间距计算[距离](/wiki/Client/Beatmap_editor/Distance_snap)。最好在时间轴暂停时使用。 |
+| `Lock Notes（锁定物件）` (`L`) | `左键单击`：切换锁定状态。 | 将所选取物件锁定在目前位置和时间上。 |
 
 ### 歌曲时间轴
 
 ![](img/song-timeline.jpg "歌曲时间轴")
-
-在**下方中央**显示的是**标记和音乐控制按钮**。至于 "Test" 钮，则是在目前所在时间开始进行测试，同时谱面更改会被储存。
 
 界面左下角会以`<分>:<秒>:<毫秒>`的格式显示当前歌曲中的位置。点击时间时会弹出一个小窗口，用于复制或粘贴[物件时间戳](/wiki/Modding/Timestamp)，以便快速选择与导航。时间戳旁边显示的是歌曲进行百分比，当由于[故事板](/wiki/Storyboard)存在，当前时间位于音乐范围外时，则会显示 `intro` 或 `outro`。
 
@@ -171,8 +166,6 @@ osu!、osu!taiko、osu!catch 使用的编辑器工具是相同的，而 osu!mani
 | 白色/粉红色/黄色 | 未选中物件颜色 |
 
 ### 设置音效
-
-![音效视窗](img/sample-import.jpg "音效视窗")
 
 **设置音效 (Sampling)** 指的是给每个物件添加音效的过程。要添加音效，请在按住 `Alt` 键的同时点击物件。这样会打开一个弹出窗口，其中列出了可用的音效。
 
