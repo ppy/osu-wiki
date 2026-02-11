@@ -18,7 +18,7 @@ The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko t
 | Registration phase | 2026-02-12 (00:00 UTC)/2026-02-26 (23:59 UTC) |
 | Qualifier showcase | 2026-03-08 (14:00 UTC) |
 | Qualifier stage | 2026-03-14/2026-03-15 |
-| Round of 32 | 2026-03-21/2026-03-22 |
+| Group stage | 2026-03-21/2026-03-22 |
 | Round of 16 | 2026-03-28/2026-03-29 |
 | Quarterfinals | 2026-04-04/2026-04-05 |
 | Semifinals | 2026-04-11/2026-04-12 |
