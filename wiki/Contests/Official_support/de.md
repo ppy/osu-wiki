@@ -46,7 +46,7 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 
 Obwohl die folgenden Erwartungen hauptsächlich für Turniere gelten, sollten Wettbewerbe diese trotzdem so gut wie möglich erfüllen:
 
-- [Personal](/wiki/Tournaments/Official_support#personal)
+- [Aushelfer](/wiki/Tournaments/Official_support#aushelfer)
 - [Spieler](/wiki/Tournaments/Official_support#spieler)
 
 ## Förderungsanspruch

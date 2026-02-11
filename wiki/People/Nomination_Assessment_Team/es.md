@@ -143,6 +143,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Ruso |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Francés, español |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Chino |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Rumano |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Alemán |
 
@@ -160,10 +161,10 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Alemán |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Coreano |
 
 #### osu!mania
 
@@ -184,13 +185,13 @@ Los siguientes miembros del NAT son exclusivamente responsables de las tareas es
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Manejo de discusiones internas, asuntos y documentación |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Organización del programa BN Mentorship |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) |
 
 Los siguientes miembros del NAT son principalmente evaluadores, pero también contribuyen a tareas estructurales:
 
 | Usuario | Tarea |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Desarrollo de [Nomination Planner](https://bnplanner.greaper.net/beatmaps) y del [plugin de MV de osu!catch](https://github.com/Darius-Wattimena/MapsetChecksCatch) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Liderazgo del NAT, desarrollo del [sitio web de gestión de los BN](https://bn.mappersguild.com) y del [plugin de MV de osu!taiko](https://github.com/Hiviexd/MVTaikoChecks) |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Manejo de los reportes de contenido, desarrollo del [plugin de MV de osu!mania](https://github.com/MChecaH/ManiaCheck) |
 
