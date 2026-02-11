@@ -31,7 +31,7 @@ Más abajo, pueden aparecer los siguientes botones de acción, ordenados de izqu
 - **Favorito:** Añade este beatmap a la sección de favoritos del perfil del usuario.
 - **Descargar:** Descarga el beatmap. Si el beatmap tiene un vídeo de fondo, el usuario podrá elegir entre descargar el beatmap con o sin el vídeo.
 - **osu!direct**: Descarga el beatmap directamente en el cliente del juego sin necesidad de abrir el archivo manualmente.
-- **Reportar:** Si el beatmap se encuentra en las categorías de [Abandonados](/wiki/Beatmap/Category#graveyard) o [Trabajo en progreso y pendientes](/wiki/Beatmap/Category#wip-and-pending), el usuario tendrá la posibilidad de [reportar el beatmap](/wiki/Reporting_bad_behaviour#beatmap), en caso de que haya algún contenido que incumpla las reglas. Al hacer clic en los tres puntos, aparecerá un menú desplegable que mostrará el botón `reportar`.
+- **Reportar:** Si el beatmap se encuentra en las categorías de [Abandonados](/wiki/Beatmap/Category#graveyard) o [Trabajo en progreso y pendientes](/wiki/Beatmap/Category#wip-and-pending), el usuario tendrá la posibilidad de [reportar el beatmap](/wiki/Reporting_bad_behaviour#beatmaps), en caso de que haya algún contenido que incumpla las reglas. Al hacer clic en los tres puntos, aparecerá un menú desplegable que mostrará el botón `reportar`.
 
 ### Panel de estadísticas
 
