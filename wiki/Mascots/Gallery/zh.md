@@ -14,7 +14,7 @@ needs_cleanup: true
 
 ![pippi 的原始概念图](img/pippi-original-concept.jpg "pippi 的概念图，作者 Sarumaru")
 
-![默认 v1 皮肤中的 osu! comboburst](img/pippi-original-comboburst.png "默认 v1 皮肤中的 comboburst")
+![默认 v1 皮肤中的 osu! 模式连击提示图](img/pippi-original-comboburst.png "默认 v1 皮肤中的连击提示图")
 
 ![Chibi-pippi（标题图片）](img/pippi-original-header.jpg "Chibi-pippi（标题图片）")
 
