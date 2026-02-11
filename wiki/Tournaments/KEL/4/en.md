@@ -85,7 +85,7 @@ tags:
 2. All matches will be played with ScoreV2 in Head-to-Head mode.
 3. All maps will be played with No Fail enabled, along with the appropriate mods for that map.
 4. Each stage's mappool will be revealed during the official tournament stream.
-5. Special guests will be undergoing a special qualifying process separate from the normal players. Their results will be revealed once all qualifying lobbies have concluded.
+5. Special guests will be undergoing a special qualifying process separate from the normal players, conducted in their own qualifier lobbies. Their results will be revealed once all qualifying lobbies have concluded. This process does not guarantee a spot in the tournament, as special guests must qualify for the bracket stage based on their performance.
 6. Tournament staff members are not allowed to participate as players, with the exception of commentators and GFX artists.
 
 ### Qualifier procedure
@@ -96,7 +96,7 @@ tags:
 3. If a player does not show up to their scheduled Qualifier lobby, they may play in any other lobby.
 4. Maps will be played in the listed order as shown on the mappool spreadsheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
 5. Players have 120 seconds to ready up before each map.
-6. The top players from the Qualifiers (amount is TBD), determined by the average sum of placements, will advance to the Bracket Stage.
+6. The top 32 players from the Qualifiers, determined by the average sum of placements, will advance to the Bracket Stage.
 
 ### Mappool information
 
