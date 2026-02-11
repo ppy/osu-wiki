@@ -499,20 +499,20 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 - 降低难度
   - Easy
   - No Fail
-  - Half Time (可以打开 `Adjust pitch`)
+  - Half Time (允许开启 `Adjust pitch`)
   - Daycore
 - 增加难度
   - Hard Rock (osu!mania 除外)
-  - Sudden Death (可以打开 `Also fail when missing a slider tail (仅 osu!)` 和 `Restart on fail`)
-  - Perfect (可以打开 `Require perfect hits (仅 osu!mania)` 和 `Restart on fail`)
-  - Double Time (可以打开 `Adjust pitch`)
+  - Sudden Death (允许开启 `Also fail when missing a slider tail (仅 osu!)` 和 `Restart on fail`)
+  - Perfect (允许开启 `Require perfect hits (仅 osu!mania)` 和 `Restart on fail`)
+  - Double Time (允许开启 `Adjust pitch`)
   - Nightcore
   - Fade In (仅 osu!mania)
   - Hidden
-  - Cover (仅 osu!mania，可以选择 `Direction`)
+  - Cover (仅 osu!mania，允许选择 `Direction`)
   - Flashlight
   - Blinds (仅 osu!)
-  - Accuracy Challenge (可以调节所有自定义选项)
+  - Accuracy Challenge (允许调节所有自定义选项)
 - 自动游玩
   - Spun Out (仅 osu!)
 - 转换
@@ -528,8 +528,8 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
   - Nine Keys (仅 osu!mania)
 - 娱乐
   - Traceable (仅 osu!)
-  - Muted (可以调节所有自定义选项)
-  - No Scope (仅 osu!/osu!catch，可以调节 `Hidden at combo`)
+  - Muted (允许调节所有自定义选项)
+  - No Scope (仅 osu!/osu!catch，允许调节 `Hidden at combo`)
 - 系统
   - Touch Device
 
@@ -603,7 +603,7 @@ lazer 内的计分系统与 ScoreV2 系统类似，并且这套系统会把所�
 
 lazer 没有歌曲文件夹！这能让我们做一些很酷的事情，比如不需要在选歌界面按下 `F5` 来刷新谱面（因为所有谱面都将处于可用状态），并将存储谱面需要的磁盘空间节省 20-40%。你可以阅读这篇文章，得知 [lazer 是如何存储文件](/wiki/Client/Release_stream/Lazer/File_storage)的。
 
-如果你需要修改谱面，请使用编辑器。你可以在编辑器中的“文件”选项卡点击“外部编辑”以打开一个用于外部编辑的文件夹。
+如果你需要修改谱面，请使用游戏内置的编辑器。或者，你也可以在编辑器中的“文件”选项卡点击“外部编辑”以打开一个用于外部编辑的临时文件夹。
 
 #### 现在 "osu!direct" 已经开放给所有玩家，那支持者还会有什么新福利吗？
 
