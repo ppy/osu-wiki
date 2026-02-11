@@ -123,4 +123,4 @@ osu! 团队可以自行决定拒绝向任何符合资格标准的竞赛提供官
 
 ## 备注
 
-[^exception-note]: 例外情况可由[竞赛委员会](/wiki/People/Tournament_Committee#contest-committee)根据具体情况进行酌情批准。
+[^exception-note]: 例外情况可由[竞赛委员会](/wiki/People/Tournament_Committee#竞赛委员会)根据具体情况进行酌情批准。
