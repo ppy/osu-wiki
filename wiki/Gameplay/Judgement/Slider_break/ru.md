@@ -17,7 +17,7 @@ tags:
 
 **Слайдербрейк** (англ. *slider break*, сокр. *сб*, *SB*) — ситуация, когда игрок теряет [комбо](/wiki/Gameplay/Combo_(score_multiplier)) из-за того, что не полностью прошёл [слайдер](/wiki/Gameplay/Hit_object/Slider). Слайдербрейк можно получить, пропустив [начало слайдера](/wiki/Gameplay/Hit_object/Slider/Sliderhead) или хотя бы один [слайдер-тик](/wiki/Gameplay/Hit_object/Slider/Slider_tick).
 
-Слайдербрейк не засчитывается, если пропустить [хвост слайдера](/wiki/Gameplay/Hit_object/Slider/Slidertail) или отпустить клавишу на той части [пути](/wiki/Gameplay/Hit_object/Slider/Sliderbody), где нет слайдер-тиков. Последняя особенность используется в картах стиля 2B, где слайдеры и [ноты](/wiki/Gameplay/Hit_object/Hit_circle) пересекаются во времени.
+Слайдербрейк не появляется, если пропустить [хвост слайдера](/wiki/Gameplay/Hit_object/Slider/Slidertail) или отпустить клавишу на той части [пути](/wiki/Gameplay/Hit_object/Slider/Sliderbody), где нет слайдер-тиков. Последняя особенность используется в картах стиля 2B, где слайдеры и [ноты](/wiki/Gameplay/Hit_object/Hit_circle) пересекаются во времени.
 
 ## Геймплей
 
