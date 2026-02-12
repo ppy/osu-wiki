@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Battle of the Box 2026: Waifu Cup - Registrations Now Open!"
-date: 2026-02-13 12:00:00 +0000
+date: 2026-02-12 21:00:00 +0000
 series: community_tournaments
 ---
 
