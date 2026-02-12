@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Battle of the Box 2026: Waifu Cup - Registrations Now Open!"
-date: 2026-02-12 21:00:00 +0000
+date: 2026-02-12 21:30:00 +0000
 series: community_tournaments
 ---
 
@@ -41,7 +41,7 @@ The prize pool is community-funded! If you want to contribute, check the [forum 
 
 ## How do I register?
 
-**[Click here to register!](https://forms.gle/anWivD85DhaB4JhU9)**
+[![Click here to register!](/wiki/shared/news/2026-02-12-battle-of-the-box-2026-waifu-cup-registrations-now-open/register.png)](https://forms.gle/anWivD85DhaB4JhU9)
 
 **Registrations close on February 22 at 23:59 UTC; please register before then!** Please note that players must have a team of 3 or 4 to participate.
 
