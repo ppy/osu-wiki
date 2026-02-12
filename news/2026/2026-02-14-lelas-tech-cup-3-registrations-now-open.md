@@ -7,7 +7,7 @@ series: community_tournaments
 
 A curious being has awoken within the forest to bring to you the third chapter, where magic and technology intertwine. We invite you to come wander with us into a moment of mystery.
 
-![](/wiki/shared/news/2026-02-14-lelas-tech-cup-3/banner.jpg)
+![](/wiki/shared/news/2026-02-14-lelas-tech-cup-3-registrations-now-open/banner.jpg)
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtube.com/embed/H8nSfuMmW6g" frameborder="0" allowfullscreen></iframe>
