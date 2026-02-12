@@ -30,7 +30,7 @@ As always, for more details pertaining to the tournament (and the Groups stage p
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | Feb 12 (00:00 UTC) – Feb 26 (23:59 UTC) |
+| Registration phase | Feb 13 (00:00 UTC) – Feb 27 (23:59 UTC) |
 | Qualifier showcase | Mar 08 (14:00 UTC) |
 | Qualifier stage | Mar 14 & Mar 15 |
 | Group stage | Mar 21 & Mar 22 |

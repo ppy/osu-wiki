@@ -15,7 +15,7 @@ The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2026-02-12 (00:00 UTC)/2026-02-26 (23:59 UTC) |
+| Registration phase | 2026-02-13 (00:00 UTC)/2026-02-27 (23:59 UTC) |
 | Qualifier showcase | 2026-03-08 (14:00 UTC) |
 | Qualifier stage | 2026-03-14/2026-03-15 |
 | Group stage | 2026-03-21/2026-03-22 |
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2026 offers a $2,300 cash prize pool and limited-edition merch.
+The osu!taiko World Cup 2026 offers a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
