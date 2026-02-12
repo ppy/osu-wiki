@@ -147,7 +147,7 @@ The rank display sounds will play only if at least one rank display component is
 
 Notes:
 
-`rank-down.wav` will play immediately after you lose the highest letter rank, but any further rank changes are delayed by up to 1.5 seconds.
+- `rank-down.wav` will play immediately after you lose the highest letter rank, but any further rank changes are delayed by up to 1.5 seconds.
 
 ### Game screens
 
