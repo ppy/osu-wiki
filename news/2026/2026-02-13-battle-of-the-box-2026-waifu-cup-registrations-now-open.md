@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "xootynator's Battle of the Box 2026: Waifu Cup - Registrations Now Open!"
+title: "Battle of the Box 2026: Waifu Cup - Registrations Now Open!"
 date: 2026-02-13 12:00:00 +0000
 series: community_tournaments
 ---
@@ -41,7 +41,7 @@ Contributions to the prize pool can be made to **[xootynator's twitch](https://w
 
 ## How do I register?
 
-**[Click here to go to the forum post and register!](https://osu.ppy.sh/community/forums/topics/2178368)**
+**[Click here to register!](https://forms.gle/anWivD85DhaB4JhU9)**
 
 **Registrations close on February 22 at 23:59 UTC; please register before then!** Please note that players must have a team of 3 or 4 to participate. 
 
