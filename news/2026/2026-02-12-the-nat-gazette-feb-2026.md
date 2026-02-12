@@ -9,7 +9,7 @@ New year, new NAT Gazette drop! As we embark into 2026, we're excited to share w
 
 ![](/wiki/shared/news/2026-02-12-the-nat-gazette-feb-2026/banner.jpg)
 
-Ever since the [state of Ranked survey results](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results) dropped, the team has been hard at work discussing, reworking, and slowly implementing changes based on the community's feedback. To that effect, we'd like to thank everyone who took the time to share their thoughts and opinions on the survey.
+Ever since the [state of Ranked survey results](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results) were published, the team has been hard at work discussing, reworking, and slowly implementing changes based on the community's feedback. To that effect, we'd like to thank everyone who took the time to share their thoughts and opinions on the survey.
 
 While there's a lot that still needs to be worked on, we want to take the moment to tackle arguably two of the most contested topics surrounding the Ranked section altogether: how the osu! NAT approaches evaluations and how [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto) are performed.
 
@@ -19,21 +19,21 @@ We encourage all users to engage on any ongoing [Beatmap Management subforum](ht
 
 ### Evaluations moving forward
 
-After much discussion with the team, gathering opinions from the community and assessing the results of the latest [state of Ranked survey](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results), moving forward, the osu! Nomination Assessment Team will slowly be taking a more opinionated approach to Beatmap Nominator evaluations. Additionally, the outcome of any and all warnings will be decided by the **entire** osu! NAT as opposed to a subset of which as was the case previously.
+After much discussion with the team, gathering opinions from the community and assessing the results of the latest [state of Ranked survey](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results), moving forward, the osu! Nomination Assessment Team will slowly be taking a more opinionated approach to Beatmap Nominator evaluations. Additionally, the outcome of any and all warnings will be decided by the **entire** osu! NAT as opposed to a subset of which, as was the case previously.
 
-These changes would allow the osu! Nomination Assessment Team to more accurately assess the quality of beatmaps being ranked, offering feedback to Beatmap Nominators in an attempt to close the bridge between the team and the community's expectations. While these changes may not fully address the inherent disconnect between groups and their respective expectations, we're actively working to find new ways to bridge the gap — more on that later!
+These changes should allow the osu! Nomination Assessment Team to more accurately assess the quality of beatmaps being ranked while offering feedback to Beatmap Nominators, in an attempt to more closely follow the community's expectations. While these changes may not fully address the inherent disconnect between every group involved and their differing expectations, we're actively working to find new ways to bridge the gap — more on that later!
 
-It is also worth mentioning that osu!taiko, osu!catch, and osu!mania are exempt from this change. These game modes have historically worked in a similar fashion already. These changes would bring osu! up to speed with its rhythm game brethren.
+It is also worth mentioning that osu!taiko, osu!catch, and osu!mania are exempt from this change. These game modes have historically worked in a similar fashion already, meaning the osu! mode will only be brought up to speed with its rhythm game brethren.
 
-You can read more about this transitionary process in the following [forum post](https://osu.ppy.sh/community/forums/topics/2178722). We welcome any current Beatmap Nominators to join as we actively discuss these changes.
+You can read more about this transitionary process in [this forum post](https://osu.ppy.sh/community/forums/topics/2178722). We welcome any current Beatmap Nominators to chime in as we actively discuss these changes.
 
 ### Reworking the veto system
 
-Vetoes have been a contested topic ever since their inception, with the system facing many changes in an attempt to make things more balanced. However, we can only go so far through tweaking thresholds and mediator numbers. Given how necessary vetoes are to the health of the ranking process, we have decided to proceed with the system's biggest rework yet.
+Vetoes have been a contested topic ever since their inception, with the system facing many changes attempting to make things more balanced. However, we can only get so far by tweaking thresholds and mediator numbers. Given how necessary vetoes are to the health of the ranking process, we have decided to proceed with the system's biggest rework yet.
 
 [The proposal](https://osu.ppy.sh/community/forums/topics/2138353?n=1) for the new system was published 4 months ago in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115), and it covers a drastic shift in how vetoes are handled.
 
-Previously, any full BN can initiate a veto and the discussion was handled publicly in the beatmap's discussion thread. When the mapper and the vetoer reached a stalemate, either of them can initiate  the mediation process, which would have all BNs vote on whether the veto should be upheld or not, with a 60% threshold for the veto to be upheld.
+Previously, any full BN could initiate a veto, and the discussion was handled publicly in the beatmap's discussion thread. When the mapper and the vetoer reached a stalemate, either of them could initiate  the mediation process, which would have all BNs vote on whether the veto should be upheld or not, with a 60% threshold for the veto to be upheld.
 
 The new system aims to create a safe space for all relevant parties involved in a veto to discuss the issue in a more structured and civil manner through a private chatroom. Moreover, the new system will account for the community's input during mediation, allowing the community to have a meaningful say in the outcome of a veto! For a full breakdown of the new system, check out the video below:
 
@@ -122,11 +122,11 @@ The following are all of the badge updates that have been made since September 1
 
 For any Beatmap Nominators reading this, we're currently working on a few projects to be released very soon! Besides having a new wave of [Elite Nominators](/wiki/People/Elite_Nominators) coming very soon, we're also actively working on a series of Beatmap Nominator events reminiscent of the [New Mapper Nomination Event](/wiki/Community/Beatmap_Nominator_events/New_Mapper_Nomination_Event) held all the way back in 2021. Time sure goes fast, doesn't it?
 
-Additionally, for the rest of the community, in the hopes to bridge the gap between the team and osu!'s userbase, we'll be preparing a new form of more approchable public NAT meetings. These meetings will be held in the [osu! Discord server](https://discord.gg/ppy), so make sure you join to be the first to know about them!
+Additionally, for the rest of the community, in the hopes of bridging the gap between the team and osu!'s userbase, we'll be preparing a new form of more approachable public NAT meetings. These meetings will be held in the [osu! Discord server](https://discord.com/invite/ppy), so make sure you join to be the first to know about them!
 
 ---
 
-This was a well overdue update. While we're actively striving to improve our communication with the community, as demonstrated by the untimely nature of these news posts, we have not been sitting with our arms crossed. There's much more to be done, and this is just the beginning. As much as we'd like to change everything in one go, it would not be logistically possible.
+While we're actively striving to improve our communication with the community, these news posts have had a rather irregular schedule and end up feeling overdue each time. However, that doesn't mean we've just been twiddling our thumbs. A lot has happened already with much more to be done, yet as much as we'd like to implement every idea in one go, that's not logistically possible.
 
 With that said, we're open to new (and existing!) ideas. Once again, we'd like to hear *your* thoughts — yes you, the reader. As such, we recommend giving the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115) a visit and opening or reviving any threads that you feel are the most relevant so we can tackle them next.
 
