@@ -66,6 +66,7 @@ Any registrations after the deadline will not be accepted whatsoever, so you'll 
 The top three teams will pick from distinct sets of prizes provided by different brands, giving the first-place winners priority and so on.
 
 | # | Prizes |
+| :-: | :-- |
 | 1st | Physical prizes, custom team banner, profile badge (pending) |
 | 2nd | Physical prizes, custom team banner |
 | 3rd | Physical prizes, custom team banner |
