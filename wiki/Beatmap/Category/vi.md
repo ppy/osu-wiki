@@ -12,17 +12,17 @@ Một beatmap sẽ tự động bị chuyển vào đắp mộ từ [Chưa xong 
 
 ### Chưa xong và Đang chờ {id=wip-and-pending}
 
-Chưa xong (thường được viết tắt là *WIP*) và Đang chờ là hai danh mục mà beatmap sẽ được đưa vào khi mới gửi lên. Beatmap trong các danh mục này có thể được chuyển sang [Đủ tư cách](#Qualified) sau khi được [đề cử](/wiki/Beatmap_ranking_procedure#nominations) bởi ít nhất hai [Người đề cử Beatmap](/wiki/People/Beatmap_Nominators). Quá trình này thường bao gồm rất nhiều phản hồi từ các [modder](/wiki/Modding/Modder) thông qua hoạt động [modding](/wiki/Modding).
+Chưa xong (thường được viết tắt là *WIP*) và Đang chờ là hai danh mục mà beatmap sẽ được đưa vào khi mới gửi lên. Beatmap trong các danh mục này có thể được chuyển sang [Đủ tư cách](#đủ-tư-cách) sau khi được [đề cử](/wiki/Beatmap_ranking_procedure#nominations) bởi ít nhất hai [Người đề cử Beatmap](/wiki/People/Beatmap_Nominators). Quá trình này thường bao gồm rất nhiều phản hồi từ các [modder](/wiki/Modding/Modder) thông qua hoạt động [modding](/wiki/Modding).
 
-Beatmap thuộc Chưa xong và Đang chờ không có bảng xếp hạng, nhưng vẫn [được tính vào thống kê chơi](#unranked-beatmaps-statistics). Chúng sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/pending.png)) trong màn hình chọn bài hát.
+Beatmap thuộc Chưa xong và Đang chờ không có bảng xếp hạng, nhưng vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Chúng sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/pending.png)) trong màn hình chọn bài hát.
 
-Các beatmap không hoạt động và đã nằm trong danh mục này 4 tuần sẽ tự động bị chuyển sang danh mục [đắp mộ](#graveyard).
+Các beatmap không hoạt động và đã nằm trong danh mục này 4 tuần sẽ tự động bị chuyển sang danh mục [đắp mộ](#đắp-mộ).
 
 ### Đủ tư cách {id=qualified}
 
 Đủ tư cách là giai đoạn cuối cùng trước khi xếp hạng trong [quy trình xếp hạng beatmap](/wiki/Beatmap_ranking_procedure). Các beatmap này đã được [Người đề cử beatmap](/wiki/People/Beatmap_Nominators) đề cử và đảm bảo rằng chúng đáp ứng các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria).
 
-Beatmap được đưa vào Đủ tư cách sẽ đi vào [hàng chờ xếp hạng](/wiki/Beatmap_ranking_procedure/Ranking_queue), và cuối cùng sẽ trở thành [Được xếp hạng](#ranked) nếu không bị [hủy đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets). Giai đoạn này đóng vai trò như tuyến phòng thủ cuối cùng, nơi các lỗi hoặc sai sót còn sót lại có thể được sửa chữa.
+Beatmap được đưa vào Đủ tư cách sẽ đi vào [hàng chờ xếp hạng](/wiki/Beatmap_ranking_procedure/Ranking_queue), và cuối cùng sẽ trở thành [Được xếp hạng](#được-xếp-hạng) nếu không bị [hủy đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets). Giai đoạn này đóng vai trò như tuyến phòng thủ cuối cùng, nơi các lỗi hoặc sai sót còn sót lại có thể được sửa chữa.
 
 Beatmap Đủ tư cách có bảng xếp hạng, nhưng không được nhận [điểm hiệu năng](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa khi beatmap rời khỏi Đủ tư cách. Chúng sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/qualified.png)) trong màn hình chọn bài hát.
 
@@ -34,11 +34,11 @@ Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái
 
 ### Được yêu mến {id=loved}
 
-*Để xem lịch sử của danh mục Được yêu mến, xem: [Lịch sử Được yêu mến](/wiki/History_of_osu!/History_of_Loved)*
+*Để xem lịch sử của danh mục Được yêu mến, xem: [Lịch sử Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *Yêu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án được yêu mến](/wiki/Community/Project_Loved).
+Beatmap được yêu mến có thể không đáp ứng [tiêu chí xếp hạng](/wiki/Ranking_criteria), nhưng được cộng đồng *êu thích* và vì vậy được thêm vào định kỳ thông qua bình chọn cộng đồng trong [Dự án Loved](/wiki/Community/Project_Loved).
 
-Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa nếu beatmap rời khỏi Được yêu mến. Beatmap được yêu mến sử dụng biểu tượng trái tim (![](/wiki/shared/status/loved.png)) trong màn hình chọn bài hát.
+Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa nếu beatmap rời khỏi trạng thái Được yêu mến. Beatmap được yêu mến sử dụng biểu tượng trái tim (![](/wiki/shared/status/loved.png)) trong màn hình chọn bài hát.
 
 ## Lịch sử
 
@@ -52,12 +52,12 @@ Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wi
 
 ### Sự xuất hiện của Đủ tư cách
 
-Danh mục [đủ tư cách](#qualified) được giới thiệu vào tháng 8 năm 2014 trong đợt [tái cấu trúc BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) nhằm giúp các beatmap sắp Được xếp hạng có nhiều độ hiển thị hơn.
+Danh mục [đủ tư cách](#đủ-tư-cách) được giới thiệu vào tháng 8 năm 2014 trong đợt [tái cấu trúc BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) nhằm giúp các beatmap sắp Được xếp hạng có nhiều độ hiển thị hơn.
 
 Nếu một beatmap trong đủ tư cách bị hủy đề cử và bị chuyển trở lại Đang chờ, điều này sẽ không ảnh hưởng đến thống kê của người chơi, vì bản thân danh mục này đã được thiết kế để các điểm số mang tính tạm thời ngay từ đầu. Điều này giúp thiết lập kỳ vọng đúng đắn và giảm đáng kể phản ứng tiêu cực của cộng đồng đối với các đợt bị hủy xếp hạng.
 
 ### Thống kê beatmap chưa xếp hạng
 
-Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#Graveyard) cũng như [Chưa xong và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
+Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#đắp-) cũng như [Chưa xong và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
 
-Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ hoàn thành và các điểm thất bại), những thông tin trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#Qualified) và [Được xếp hạng](#ranked).
+Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ hoàn thành và các điểm thất bại), những thông tin trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#được-chấp-nhận) và [Được xếp hạng](#dược-xếp-hạng).
