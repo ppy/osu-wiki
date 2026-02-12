@@ -10,7 +10,9 @@ A curious being has awoken within the forest to bring to you the third chapter, 
 ![](/wiki/shared/news/2026-02-14-lelas-tech-cup-3-registrations-now-open/banner.jpg)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtube.com/embed/H8nSfuMmW6g" frameborder="0" allowfullscreen></iframe>
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/media/news/2026-02-14-ltc3-trailer.mp4" type="video/mp4" preload="none">
+    </video>
 </div>
 
 **[Lela's Tech Cup](linkforumpost)**, or LTC for short, is a tournament that has has evolved in parallel to the ever-expanding tech skill sets. With no rank gates and no registrations bound by numbers, osu! players from the world's every corner are free to wander in and let their abilities shine.
