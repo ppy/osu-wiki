@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2026: Registrations Now Open!"
-date: 2026-02-12 10:00:00 +0000
+date: 2026-02-13 10:00:00 +0000
 series: world_cups
 ---
 
