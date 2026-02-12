@@ -41,6 +41,18 @@ The new system aims to create a safe space for all relevant parties involved in 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/l9287hOkeaw" frameborder="0" allowfullscreen></iframe>
 </div>
 
+### Public meetings: NATea Time
+
+This NAT Gazette introduces significant changes, and we expect many of you will have questions or concerns. In light of this, we are launching a new form of public NAT meetings.
+
+NATea Time is a bi-annual public Discord event designed to bring the Nomination Assessment Team closer to the community through transparency and open dialogue.
+
+Each session will provide updates on the state of the ranked section and offer a space for community members to ask questions and engage directly with the NAT. The goal is simple: improve transparency, approachability, and trust by creating a consistent space where mappers, BNs, players and the broader community can speak with us directly and stay involved in the evolution of osu!.
+
+Moving forward, these sessions will be hosted bi-annually on the fourth Sunday of February and July. The first will take place on **February 22nd at 20:00 UTC** on the [osu! Discord server](https://discord.com/invite/ppy).
+
+For a full breakdown of the format, purpose and what to expect, please check out the [accompanying forum thread](LINK).
+
 ### Ranking criteria changes
 
 | Type | Change | Link |
