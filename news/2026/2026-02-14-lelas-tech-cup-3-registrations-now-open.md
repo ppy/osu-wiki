@@ -13,9 +13,11 @@ A curious being has awoken within the forest to bring to you the third chapter, 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtube.com/embed/H8nSfuMmW6g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-**[Lela's Tech Cup](linkforumpost)**, or LTC for short, is a tournament that has has evolved in parallel to the ever-expanding tech skill sets. With no rank gates and no registrations bound by numbers, osu! players from the world's every corner are free to wander in and let their abilities shine. We invite you to step into LTC and let us show you just how deep tech can go.
+**[Lela's Tech Cup](linkforumpost)**, or LTC for short, is a tournament that has has evolved in parallel to the ever-expanding tech skill sets. With no rank gates and no registrations bound by numbers, osu! players from the world's every corner are free to wander in and let their abilities shine.
 
-**[Last year](https://osu.ppy.sh/community/forums/topics/2054146?n=1)**, our poolers challenged themselves to build mappools entirely using unique creators for each selection. It has hopefully highlighted a genuine dedication to diversity and showcasing just how much talent exists in the osu! mapping community.
+**[Last year](https://osu.ppy.sh/community/forums/topics/2054146?n=1)**, our poolers challenged themselves to build mappools entirely using unique creators for each selection, designed to showcase just how much talent exists in the osu! mapping community. The result was a set of maps that felt unpredictable, surprising, and more reflective of osu! overall.
+
+We invite you to step into LTC and let us show you just how deep tech mapping can go.
 
 ## What's new?
 
