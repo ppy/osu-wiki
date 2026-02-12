@@ -7,7 +7,7 @@ series: community_tournaments
 
 The flagship tournament by xootynator is back! Join the race to win the Waifu Circuit, and claim the Waifu Cup!
 
-![](/wiki/shared/news/2026-02-13-battle-of-the-box-2026-waifu-cup-registrations-now-open/banner.jpg)
+![](/wiki/shared/news/2026-02-12-battle-of-the-box-2026-waifu-cup-registrations-now-open/banner.jpg)
 
 After a year of hiatus, Battle of the Box is back! From fighting matches to fantasy adventures to dungeon crawling, participants of this tournament have been through it all. Now, in its fourth iteration, Battle of the Box is headed to the racetracks of the osu!verse for some kart racing!
 
