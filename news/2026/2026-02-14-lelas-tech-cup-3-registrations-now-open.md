@@ -19,7 +19,7 @@ A curious being has awoken within the forest to bring to you the third chapter, 
 
 **[Last year](https://osu.ppy.sh/community/forums/topics/2054146?n=1)**, our poolers challenged themselves to build mappools entirely using unique creators for each selection, designed to showcase just how much talent exists in the osu! mapping community. The result was a set of maps that felt unpredictable, surprising, and more reflective of osu! overall.
 
-We invite you to step into LTC and let us show you just how deep tech mapping can go.
+*We invite you to step into LTC and let us show you just how deep tech mapping can go.*
 
 ## What's new?
 
