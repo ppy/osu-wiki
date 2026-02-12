@@ -57,7 +57,7 @@ Teams who sign up and meet the following criteria will be eligible to participat
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
 - **You must have a team consisting of at least two players, and a max of three players. Captains are responsible for submitting the registration form.**
 
-*If you do not have a team, check the `#looking-for-team` channel in the **[Discord](https://discord.com/invite/bQVmfPx5cy)**.*
+*If you do not have a team, check the `#looking-for-team` channel in the **[Discord server](https://discord.com/invite/bQVmfPx5cy)**.*
 
 Any registrations after the deadline will not be accepted whatsoever, so you'll have two weeks to consider participation.
 
