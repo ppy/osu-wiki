@@ -15,7 +15,7 @@ Problem or suggestion stamps posted under a beatmap's discussion page will not s
 
 Some beatmaps may be stalled from entering the ranking queue for a variety of reasons, usually due to a lack of closure on open problems or suggestions. However, any beatmap whose issues have not been addressed after a period of **48 hours** since its original ranking date will be [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). These may be re-qualified once all issues have been resolved, which may alter the timer. Beatmaps may be disqualified earlier to apply changes from already addressed discussions.
 
-Beatmaps that are stalled for exceptional reasons such as being placed under a [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) or while actively undergoing a [content moderation vote](https://osu.ppy.sh/wiki/en/Rules/Content_voting_process) are exempt from the aforementioned limits and will be appropriately handled by either the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team), respectively.
+Beatmaps that are stalled for exceptional reasons such as being placed under a [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) or while actively undergoing a [content moderation vote](/wiki/Rules/Content_voting_process) are exempt from the aforementioned limits and will be appropriately handled by either the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) or [Global Moderation Team](/wiki/People/Global_Moderation_Team), respectively.
 
 ## Disqualification and re-qualification {id=dq-and-re-qualification}
 
