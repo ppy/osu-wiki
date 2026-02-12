@@ -9,8 +9,6 @@ tags:
   - поиск карт
   - фильтр по картам
   - найти карты
-outdated_translation: true
-outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 ---
 
 # Поиск карт
@@ -64,6 +62,7 @@ outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 | `artist` | Название исполнителя |
 | `title` | Название песни |
 | `source` | Источник (игра, фильм, сериал или событие), откуда песня была выпущена или с которым она больше всего ассоциируется |
+| `favourites` | Количество фаворитов у карты |
 | `featured_artist` | Идентификатор исполнителя из программы [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Ник автора сложности |
 | `difficulty` | Название сложности |
@@ -74,11 +73,13 @@ outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 | `star`, `stars` | [Число звёзд](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Скорость песни](/wiki/Music_theory/Tempo) |
 | `length` | [Общая длительность карты](/wiki/Beatmap/Play_time) в секундах |
+| `divisor` | Знаменатель [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `circles` | Количество нот в карте |
 | `sliders` | Количество слайдеров в карте |
 | `key`, `keys` | Число клавиш (только для osu!mania и конвертированных карт) |
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l` |
-| `created` | Дата создания карты |
+| `created`, `submitted` | Дата создания/загрузки карт |
+| `updated` | Дата последнего обновления карты |
 | `ranked` | Дата получения картой статуса `ranked` или `approved` |
 | `tag` | Определённый [пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) |
 
@@ -88,21 +89,23 @@ outdated_since: f980a0470699a513320cfb92f6f3c6ae7c636446
 | :-- | :-- |
 | `artist` | Название исполнителя |
 | `title` | Название песни |
-| `creator` | Ник автора сложности |
+| `source` | Источник (игра, фильм, сериал или событие), откуда песня была выпущена или с которым она больше всего ассоциируется |
+| `creator`, `author`, `mapper` | Ник автора сложности |
 | `diff` | Название сложности карты |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [HP drain rate](/wiki/Beatmap/HP_drain_rate) |
-| `star`, `stars` | [Число звёзд](/wiki/Beatmap/Star_rating) |
+| `star`, `stars`, `sr` | [Число звёзд](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Скорость песни](/wiki/Music_theory/Tempo) |
 | `length` | [Общая длительность карты](/wiki/Beatmap/Play_time) в секундах |
 | `key`, `keys` | Число клавиш (только для osu!mania и конвертированных карт) |
+| `ln`, `lns` | Процент "длинных" нот (только для osu!mania и конвертированных карт) |
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l`. Может принимать несколько значений, разделённые запятой (`,`) |
 | `lastplayed` | Время с последней игры на карте. Принимает формат `#y#M#d#h#m#s` для лет, месяцев, дней, часов, минут и секунд соответственно. Например, `2d5s` означает "2 дня и 5 секунд". |
 | `played` | Статус "пройдено". Значение может быть `yes`, `true`, `1` для сыгранных карт и `no`, `false`, `0` для несыгранных карт. |
 | `divisor` | Знаменатель [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
-| `submitted` | Дата создания/загрузки карт |
+| `created`, `submitted` | Дата создания/загрузки карт |
 | `ranked` | Дата получения картой статуса `ranked` или `approved` |
 | `tag` | Определённый [пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) (поддерживается только внутренним поиском карт) |
 
