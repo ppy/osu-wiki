@@ -48,7 +48,7 @@ This should result in more diverse skill set requirements, and thus the overall 
 
 ## How do I register?
 
-[![Click here to register!](/wiki/shared/news/2026-02-14-lelas-tech-cup-3/register.png)](https://forms.gle/zkuPAinDdiqxuQyS7)
+[![Click here to register!](/wiki/shared/news/2026-02-14-lelas-tech-cup-3-registrations-now-open/register.png)](https://forms.gle/zkuPAinDdiqxuQyS7)
 
 The deadline to register for this tournament is February 28, 2026 (23:59 UTC).
 
