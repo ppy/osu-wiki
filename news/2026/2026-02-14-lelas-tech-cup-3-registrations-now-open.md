@@ -36,7 +36,7 @@ This should result in more diverse skill set requirements, and thus the overall 
 ## Tournament schedule
 
 | Event | Dates |
-| :-- | :-- |
+| --: | :-- |
 | Registration phase | February 14 – February 28 (23:59 UTC) |
 | Screening phase | March 1 – March 15 |
 | Qualifier showcase | March 16 |
