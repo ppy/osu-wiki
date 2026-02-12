@@ -31,9 +31,9 @@ The osu!taiko World Cup 2026 offers a $2,000 cash prize pool and limited-edition
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, single-run merch, profile badge, **osu!taiko Champion** user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, limited-edition merch, profile badge, **osu!taiko Champion** user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, limited-edition merch, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, limited-edition merch, profile badge |
 
 ## Organisation
 
@@ -54,7 +54,8 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 
 ## Links
 
-- [Tournament listing](https://osu.ppy.sh/community/tournaments/54)
+[![Click here to register for TWC 2026](/wiki/shared/news/2026-02-13-osutaiko-world-cup-2026-registrations-now-open/register.png)](https://osu.ppy.sh/community/tournaments/54)
+
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread]({DISC_THREAD})
 
@@ -62,7 +63,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 
 ### Tournament rules
 
-1. The osu!taiko World Cup is a country-based 2 versus 2 team tournament, played on the osu!taiko game mode.
+1. The osu!taiko World Cup is a country-based 2 versus 2 team tournament, played on the osu!taiko game mode. It begins with a Qualifier stage, followed by a Group stage. After the Group stage, the tournament proceeds into a double-elimination bracket starting from the Round of 16
    - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria adopted. Players that have participated under another country previously may continue to do so.
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 2 players, and the maximum is 6.
@@ -113,14 +114,15 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that do not send their team list by March 6, 23:59 UTC will their members selected by the tournament organisers.**
-     - Auto-selection will be based primarily on osu!taiko global rank; however, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
+   - **Teams that do not send their team list by March 6, 23:59 UTC will have their members selected by the tournament organisers.**
+     - Auto-selection will be based primarily on osu!taiko global rank, however, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
+   - The tournament managers must ensure that such staff members do not have access to any privileged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
 
 ### Qualifier instructions
 
@@ -130,7 +132,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
    - Teams may skip playing any beatmap on their second run.
-6. Each team must have 3 members play each map. They may be exchanged freely after a map is concluded.
+6. Each team must have 2 members play each map. They may be exchanged freely after a map is concluded.
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
@@ -141,18 +143,18 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
     - Seeds 1-8 will be designated as **Legends** (8 teams).
     - Seeds 9-32 will be designated as **Challengers** (24 teams).
 11. The 8 Legends teams will receive a bye, advancing directly to the winners bracket of the Round of 16.
-12. The 24 Challenger teams will proceed to the Group Stage.
+12. The 24 Challenger teams will proceed to the group stage.
 
 ### Group stage instructions
 
-1. Following the Qualifiers, the Group stage will feature the Challenger (seeds 9-32) teams.
-2. The 24 Challenger teams will be randomly drafted into eight groups of three.
-3. Each team will play one match against every other team in their group (two matches total). All matches will be best of 9, with one ban for each team.
+1. Following the Qualifiers, the group stage will feature the Challenger (seeds 9-32) teams.
+2. The 24 Challenger teams will be randomly drafted from three pots (filled based on qualifier seeding) into eight groups of three.
+3. Each team will play one match against every other team in their group (three matches for each group). All matches will be best of 9, with one ban for each team.
 4. Ranking within a group is determined by the number of matches won.
   - In the case of a tie in match wins, the team with the higher point difference, that is, wins minus losses across all matches, will be ranked higher.
   - If the tie persists, the head-to-head match result will be used.
-  - In the case of a three way tie, the Qualifier stage placement will be used.
-5. After all group matches are completed, teams will advance to the bracket stage based on their final group placement (detailed below).
+  - If the tie still persists, the team's qualifier seed will be used as a tiebreaker.
+5. After all group matches are completed, teams will advance to the bracket stage based on their final group placement.
 
 ### Group stage seeding procedure
 
@@ -169,7 +171,7 @@ Once the pots are established, the draw process will be conducted live on stream
 1. **Drawing from the first pot:** One team from Pot 1 is randomly drawn and placed into Group 1. Another one is placed into Group 2, and so on, until all eight teams from Pot 1 have been assigned to a different group. Each group will then have a single top seeded team.
 2. **Drawing from subsequent pots:** The process is repeated for Pot 2. The eight teams from Pot 2 are randomly drawn and placed into each of the eight groups. This continues for Pot 3. When the draw is complete, each group will contain exactly one team from each of the three seeding pots.
 
-Afterwards, **all groups are seeded based on the average of their Qualifiers main seeding criteria (rank sum)**, with the highest average group being called "Group A", the second highest being "Group B", and so on, until the lowest average "Group H".
+Afterwards, **all groups are seeded based on the average of their qualifier stage main seeding criteria (rank sum)**, with the highest average group being called "Group A", the second highest being "Group B", and so on, until the lowest average "Group H".
 
 #### Seeding rules
 
@@ -184,19 +186,19 @@ All advancing teams will be assigned new seeds based on the following factors:
 
 **Between groups:**
 
-Groups are ordered by taking the average of the main seeding criteria (rank sum) from the Qualifiers stage. Higher-seeded groups are considered stronger. This means that seeds 1–8 for the bracket stage are composed of the top 8 teams from the Qualifier stage, with seeds 9-16 #1 finishers from Groups A through H, seeds 17–24 being the #2 of each group, respectively, and Seeds 25-32 composed of the #3 finishers of each group.
+Groups are ordered by taking the average of the main seeding criteria (rank sum) from the Qualifiers stage. Higher-seeded groups are considered stronger. Seeds 1–8 for the bracket stage are composed of the top 8 teams from the Qualifier stage (Legends); seeds 9-16 are composed #1 finishers from Groups A through H; seeds 17–24 are composed the #2 of each group; and seeds 25-32 are composed of the #3 finishers of each group.
 
 #### Advancement to the Bracket stage
 
 **In the Group Stage**, a team's goal is to place as high as possible in their group. Advancement is determined as follows:
 
-- The top 1 team from each group (8 total) will advance to the **Round of 16, winners bracket**.
-- The bottom 2 teams from each group (16 total) will advance to the **Round of 16, losers bracket**. The 2nd place teams will be seeded higher than the 3rd place teams.
+- The top 1 team from each group (8 total) will advance to the **Round of 16 winners bracket**.
+- The bottom 2 teams from each group (16 total) will advance to the **Round of 16 losers bracket**. The 2nd place teams will be seeded higher than the 3rd place teams.
 
 The final bracket configuration will be as follows:
 
 | Match ID | Bracket | Red team | Blue team |
-| :-- | :-- | :-- | :-- |
+| :-: | :-: | :-: | :-: |
 | **1** | Winners | Seed #1 `(Legend #1)` | Seed #16 `(Group H #1)` |
 | **2** | Winners | Seed #8 `(Legend #8)` | Seed #9 `(Group A #1)` |
 | **3** | Winners | Seed #4 `(Legend #4)` | Seed #13 `(Group E #1)` |
