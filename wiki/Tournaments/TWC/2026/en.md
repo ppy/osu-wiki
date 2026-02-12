@@ -42,8 +42,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | Position | Member(s) |
 | :-- | :-- |
 | Managers | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Mappool selectors | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)** |
-| Mappool helpers | *TBA* |
+| Mappool selectors | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=JP }:: [miyagishima](https://osu.ppy.sh/users/8027517), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
 | Mappool playtesters | *TBA*  |
 | Mappers | *TBA* |
 | Commentators | *TBA* |
@@ -72,7 +71,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 3 participants from each team must be present for the match to begin).
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 2 participants from each team must be present for the match to begin).
 8. Exchanging players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
@@ -206,14 +205,14 @@ The final bracket configuration will be as follows:
 | **6** | Winners | Seed #7 `(Legend #7)` | Seed #10 `(Group B #1)` |
 | **7** | Winners | Seed #3 `(Legend #3)` | Seed #14 `(Group F #1)` |
 | **8** | Winners | Seed #6 `(Legend #6)` | Seed #11 `(Group C #1)` |
-| **9** | Losers | Seed #22 `(Group F #2)` | Seed #27 `(Group C #3)` |
-| **10** | Losers | Seed #19 `(Group C #2)` | Seed #30 `(Group F #3)` |
-| **11** | Losers | Seed #23 `(Group G #2)` | Seed #26 `(Group B #3)` |
-| **12** | Losers | Seed #18 `(Group B #2)` | Seed #31 `(Group G #3)` |
-| **13** | Losers | Seed #21 `(Group E #2)` | Seed #28 `(Group D #3)` |
-| **14** | Losers | Seed #20 `(Group D #2)` | Seed #29 `(Group E #3)` |
-| **15** | Losers | Seed #24 `(Group H #2)` | Seed #25 `(Group A #3)` |
-| **16** | Losers | Seed #17 `(Group A #2)` | Seed #32 `(Group H #3)` |
+| **9** | Losers | Seed #32 `(Group H #3)` | Seed #17 `(Group A #2)` |
+| **10** | Losers | Seed #25 `(Group A #3)` | Seed #24 `(Group H #2)` |
+| **11** | Losers | Seed #29 `(Group E #3)` | Seed #20 `(Group D #2)` |
+| **12** | Losers | Seed #28 `(Group D #3)` | Seed #21 `(Group E #2)` |
+| **13** | Losers | Seed #31 `(Group G #3)` | Seed #18 `(Group B #2)` |
+| **14** | Losers | Seed #26 `(Group B #3)` | Seed #23 `(Group G #2)` |
+| **15** | Losers | Seed #30 `(Group F #3)` | Seed #19 `(Group C #2)` |
+| **16** | Losers | Seed #27 `(Group C #3)` | Seed #22 `(Group F #2)` |
 
 ### Bracket stage instructions
 
@@ -255,7 +254,7 @@ The final bracket configuration will be as follows:
 3. The mappool sizes are as follows:
    - Qualifiers: 7 beatmaps
    - Groups and Round of 16: 14 beatmaps
-   - Quarterfinals and Semifinals: 15 beatmaps
+   - Quarterfinals and Semifinals: 16 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. The No Mod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.

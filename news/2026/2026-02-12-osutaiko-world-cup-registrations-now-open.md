@@ -13,14 +13,18 @@ Taking a page out of the [2025 osu! World Cup](/wiki/Tournaments/OWC/2025#group-
 
 ## Format changes
 
-While we'll be keeping the same overall tournament structure, with Qualifiers seeding into a bracket, there are a few changes to the format that we want to highlight:
+Following player feedback and internal discussions, we've decided to return the tournament to its previous 2v2 format, which was used in the 2023 edition of the tournament, we hope this change makes matches more exciting and competitive. We are also lowering the minimum team size to **2 players**, allowing for more countries to field a roster. This change was made in order to encourage more participation from smaller countries that may not have enough players to meet previous requirements, while still maintaining a competitive environment for the tournament.
 
-- For the top 8 qualified teams (**Legends**), the tournament will begin on the winners bracket of the Round of 16 weekend
-- For the 24 remaining teams (**Challengers**), the tournament will begin with a group stage, where they will be split into 8 groups of 3 teams each. The top team from each group will advance to the Round of 16 winners bracket, while the second and third place teams will be placed in the Round of 16 losers bracket instead.
+While we'll be keeping the same overall tournament structure, with Qualifiers seeding into a bracket stage, there are new additions to the format that we want to highlight:
 
+- For the top 8 qualified teams (**Legends**), the tournament will begin on the winners bracket of the Round of 16 weekend, giving them a bye through the group stage.
+- For the 24 remaining teams (**Challengers**), the tournament will begin with a group stage, where they will be split into 8 groups of 3 teams each. The top team from each group will advance to the Round of 16 winners bracket (8 teams), while the second and third place teams will be placed in the Round of 16 losers bracket instead (16 teams).
 
+This effectively swaps the Round of 32 from previous years with a Group stage, giving teams the chance to upset higher-placed opponents and advance to the winners bracket, while also giving everyone a second change to stay alive in the tournament even if they place poorly in the group stage.
 
-As always, for more details pertaining to the tournament, refer to the **[osu!taiko World Cup 2026 wiki article](/wiki/Tournaments/TWC/2026)**. You can also discuss this event in the **[official discussion thread]({DISC_THREAD})** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+The group stage will be played in a round-robin format, with each team playing against the other two teams in their respective groups, resulting in at least 3 matches for every team, with the groups stage matches being much more competitive than the previous Round of 32, where the top seeds would often face off against much weaker opponents.
+
+As always, for more details pertaining to the tournament (and the Groups stage procedures), refer to the **[osu!taiko World Cup 2026 wiki article](/wiki/Tournaments/TWC/2026)**. You can also discuss this event in the **[official discussion thread]({DISC_THREAD})** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 
