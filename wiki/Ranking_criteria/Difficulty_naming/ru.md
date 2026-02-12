@@ -36,7 +36,7 @@
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: ниже Kantan
 - ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: синоним к Inner Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: выще Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: выше Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
