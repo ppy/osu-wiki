@@ -5,7 +5,7 @@ date:
 series: miscellaneous
 ---
 
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/cny.png)
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/cny.jpg)
 
 龙马精神，岁岁平安！愿大家在新的马年里，Combo不掉，追求不止！
 
@@ -145,7 +145,11 @@ On the momentum of a highly successful **2025**, let's wish the best to the Chin
 
 To celebrate the occasion, we sat down with several prominent figures from the scene—including a content creator, top players, dedicated mappers, a creative designer and tournament organizers—to reflect on the journey so far and what 2026 holds for them.
 
+---
+
 ::{#BTMC}::
+
+![Banner for BTMC]()
 
 As one of osu!'s most prominent content creators and a notable Chinese-American figure, [BTMC](https://osu.ppy.sh/users/3171691) has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
 
@@ -192,6 +196,8 @@ To wrap things up on a more personal note—Chinese New Year is as much about th
 ---
 
 ::{#seros-pw384-yf_bmp}::
+
+![Banner for seros-pw384-yf_bmp]()
 
 Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognized for his long-standing ability to evolve alongside the ever-changing trends of the scene.
 
@@ -271,6 +277,8 @@ But remember: The path is yours to walk. Be yourself. Don't change your beliefs 
 
 ::{#Crystal}::
 
+![Banner for Crystal]()
+
 Within the Chinese-speaking scene, [Crystal](https://osu.ppy.sh/users/1646397) is a symbol of resilience. A mainstay of the China OWC roster since 2016, his decade-long consistency has made him a living legend for local players across multiple generations.
 
 <div class="news-chat-quote__text-container">
@@ -293,6 +301,8 @@ You've been a mainstay of the OWC roster since 2016, and you've seen the lineup 
 
 ::{#Sakura006}::
 
+![Banner for Sakura006]()
+
 A talented Chinese designer, [Sakura006](https://osu.ppy.sh/users/10365024) serves as the Lead for the World Cup Design Team. His work on osu! originals and major tournaments has significantly enriched the visual experience for players worldwide.
 
 <div class="news-chat-quote__text-container">
@@ -314,6 +324,8 @@ This year we're hoping to organize more collaborations at larger scales to prese
 ---
 
 ::{#Imokora-chiv}::
+
+![Banner for Imokora-chiv]()
 
 [Imokora](https://osu.ppy.sh/users/2472609) and [chiv](https://osu.ppy.sh/users/6701656) are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
 
