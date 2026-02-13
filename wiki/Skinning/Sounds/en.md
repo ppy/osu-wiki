@@ -134,6 +134,21 @@ Notes:
   - Not intended to last longer than the fail animation (about 5 seconds).
   - Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
 
+## Rank display (Lazer only)
+
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new rank display components were added for skinning in the osu!editor. The following audio elements can be used to skin these. They have no effect in osu!(stable).
+
+The rank display sounds will play only if at least one rank display component is added in your current skin.
+
+| Filename | Usage |
+| :-- | :-- |
+| `rank-up.wav` | Gaining a higher rank |
+| `rank-down.wav` | Dropping to a lower rank |
+
+Notes:
+
+- `rank-down.wav` will play immediately after you lose the highest letter rank, but any further rank changes are delayed by up to 1.5 seconds.
+
 ### Game screens
 
 These sounds are not supposed to be bigger than a few kilobytes, as using a long audio track will impact the game client’s performance.
