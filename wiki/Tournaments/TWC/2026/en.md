@@ -114,14 +114,14 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - **Teams that do not send their team list by March 6, 23:59 UTC will have their members selected by the tournament organisers.**
-     - Auto-selection will be based primarily on osu!taiko global rank, however, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
+     - Auto-selection will be based primarily on osu!taiko global rank. However, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
-   - The tournament managers must ensure that such staff members do not have access to any privileged data, e.g. Qualifiers score information, or mappool information before the mappool showcase.
+   - The tournament managers must ensure that such staff members do not have access to any privileged data, e.g. Qualifier score information, or mappool information before the mappool showcase.
 
 ### Qualifier instructions
 
@@ -139,18 +139,18 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
    - The exact formula that will be used for each map is `Map score = RANK(Team score)`, where `RANK` is the function that correlates `Team score` to all scores in the current map, sorted from highest to lowest score.
    - The final team score to be sorted is defined as `Final score = SUM(Map score)`, i.e. the sum of each map's `Map score`.
 10. Only the top 32 seeded teams will advance to the next stage. These teams will be divided into two categories based on their qualifier results:
-    - Seeds 1-8 will be designated as **Legends** (8 teams).
-    - Seeds 9-32 will be designated as **Challengers** (24 teams).
-11. The 8 Legends teams will receive a bye, advancing directly to the winners bracket of the Round of 16.
+    - Seeds 1–8 will be designated as **Legends** (8 teams).
+    - Seeds 9–32 will be designated as **Challengers** (24 teams).
+11. The 8 Legends teams will receive a bye, advancing directly to the winners' bracket of the Round of 16.
 12. The 24 Challenger teams will proceed to the group stage.
 
 ### Group stage instructions
 
-1. Following the Qualifiers, the group stage will feature the Challenger (seeds 9-32) teams.
+1. Following the Qualifiers, the group stage will feature the Challenger (seeds 9–32) teams.
 2. The 24 Challenger teams will be randomly drafted from three pots (filled based on qualifier seeding) into eight groups of three.
 3. Each team will play one match against every other team in their group (three matches for each group). All matches will be best of 9, with one ban for each team.
 4. Ranking within a group is determined by the number of matches won.
-   - In the case of a tie in match wins, the team with the higher point difference, that is, wins minus losses across all matches, will be ranked higher.
+   - In the case of a tie in match wins, the team with the higher point difference, i.e. wins minus losses across all matches, will be ranked higher.
    - If the tie persists, the head-to-head match result will be used.
    - If the tie still persists, the team's qualifier seed will be used as a tiebreaker.
 5. After all group matches are completed, teams will advance to the bracket stage based on their final group placement.
@@ -163,14 +163,14 @@ The primary goal of the Group stage draw is to ensure that each group is balance
 - Pot 2 seeds: 17, 18, 19, 20, 21, 22, 23, 24
 - Pot 3 seeds: 25, 26, 27, 28, 29, 30, 31, 32
 
-#### Draw Process
+#### Draw process
 
-Once the pots are established, the draw process will be conducted live on stream. Eight Groups will be formed in total. The process is as follows:
+Once the pots are established, the draw process will be conducted live on stream. Eight groups will be formed in total. The process is as follows:
 
-1. **Drawing from the first pot:** One team from Pot 1 is randomly drawn and placed into Group 1. Another one is placed into Group 2, and so on, until all eight teams from Pot 1 have been assigned to a different group. Each group will then have a single top seeded team.
+1. **Drawing from the first pot:** One team from Pot 1 is randomly drawn and placed into Group 1. Another one is placed into Group 2, and so on, until all eight teams from Pot 1 have been assigned to a different group. Each group will then have a single top-seeded team.
 2. **Drawing from subsequent pots:** The process is repeated for Pot 2. The eight teams from Pot 2 are randomly drawn and placed into each of the eight groups. This continues for Pot 3. When the draw is complete, each group will contain exactly one team from each of the three seeding pots.
 
-Afterwards, **all groups are seeded based on the average of their qualifier stage main seeding criteria (rank sum)**, with the highest average group being called "Group A", the second highest being "Group B", and so on, until the lowest average "Group H".
+Afterwards, **all groups are seeded based on the average of their Qualifier stage main seeding criteria (rank sum)**, with the highest average group being called "Group A", the second highest being "Group B", and so on, until the lowest average "Group H".
 
 #### Seeding rules
 
@@ -181,18 +181,18 @@ All advancing teams will be assigned new seeds based on the following factors:
 1. Match wins
 2. Point differential (`PD = map wins - map losses`)
 3. Head-to-head result
-4. Qualifiers seed (tiebreaker)
+4. Qualifier seed (tiebreaker)
 
 **Between groups:**
 
-Groups are ordered by taking the average of the main seeding criteria (rank sum) from the Qualifiers stage. Higher-seeded groups are considered stronger. Seeds 1–8 for the bracket stage are composed of the top 8 teams from the Qualifier stage (Legends); seeds 9-16 are composed #1 finishers from Groups A through H; seeds 17–24 are composed the #2 of each group; and seeds 25-32 are composed of the #3 finishers of each group.
+Groups are ordered by taking the average of the main seeding criteria (rank sum) from the Qualifier stage. Higher-seeded groups are considered stronger. Seeds 1–8 for the bracket stage are composed of the top 8 teams from the Qualifier stage (Legends), seeds 9–16 are composed #1 finishers from Groups A through H, seeds 17–24 are composed the #2 of each group, and seeds 25–32 are composed of the #3 finishers of each group.
 
 #### Advancement to the Bracket stage
 
-**In the Group Stage**, a team's goal is to place as high as possible in their group. Advancement is determined as follows:
+**In the Group stage**, a team's goal is to place as high as possible in their group. Advancement is determined as follows:
 
-- The top 1 team from each group (8 total) will advance to the **Round of 16 winners bracket**.
-- The bottom 2 teams from each group (16 total) will advance to the **Round of 16 losers bracket**. The 2nd place teams will be seeded higher than the 3rd place teams.
+- The top 1 team from each group (8 total) will advance to the **Round of 16 winners' bracket**.
+- The bottom 2 teams from each group (16 total) will advance to the **Round of 16 losers' bracket**. The 2nd-place teams will be seeded higher than the 3rd-place teams.
 
 The final bracket configuration will be as follows:
 
@@ -217,8 +217,8 @@ The final bracket configuration will be as follows:
 
 ### Bracket stage instructions
 
-1. Following the Group stage, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
-2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
+1. Following the Group stage, a double-elimination bracket will be played — for teams in the winners' bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers' bracket, where any further defeats will eliminate the team from the competition.
+2. Teams in the losers' bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
 
 ### Win conditions
 
@@ -226,7 +226,7 @@ The final bracket configuration will be as follows:
 - In the Group stage and Round of 16, teams need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, teams need to win 6 maps to win a match (best of 11).
 - In the Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
-  - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
+  - *Note: for the Grand Finals match, the team that is coming from the winners' bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers' bracket, however, needs to win 2 sets.*
 
 ### Match instructions
 
