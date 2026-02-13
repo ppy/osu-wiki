@@ -86,7 +86,7 @@
 | Создать многоугольник (`Ctrl` + `Shift` + `D`) | Добавить многоугольник из нот, используя для их расстановки текущий шаг временно́й шкалы. |
 | Преобразовать слайдер в стрим... | Преобразовать [тело](/wiki/Gameplay/Hit_object/Slider/Sliderbody) выбранного слайдера в [стрим](/wiki/Beatmap/Pattern/osu!/Stream) из нот. **By object count:** использовать определённое число нот. **By distance snap:** использовать определённый [множитель расстояния](/wiki/Client/Beatmap_editor/Distance_snap). |
 | Режим лайв-маппинга (`Ctrl` + `Tab`) | Включить режим расстановки объектов под музыку с помощью игровых клавиш. В osu!taiko или osu!mania будут ставиться [ноты](/wiki/Gameplay/Hit_object/Hit_circle), в osu!catch — [фрукты](/wiki/Gameplay/Hit_object/Fruit).[^live-mapping-note] |
-| Импорт сэмплов | Открыть окно [`Sample import`](/wiki/Client/Beatmap_editor/Compose#sample-import) для сложностей osu!mania. |
+| Импорт сэмплов | Открыть окно [`Sample import`](/wiki/Client/Beatmap_editor/Compose#импорт) для сложностей osu!mania. |
 
 ## Дизайн
 
