@@ -7,13 +7,15 @@ series: miscellaneous
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/cny.jpg)
 
-龙马精神，岁岁平安！愿大家在新的马年里，Combo不掉，追求不止！
+龙马精神，岁岁平安！愿大家在新的马年里，Combo 不掉，追求不止！
 
-龍馬精神，歲歲平安！願大家在新的馬年裡，Combo不掉，追求不止！
+龍馬精神，歲歲平安！願大家在新的馬年裡，Combo 不掉，追求不止！
 
 2026년 병오년, 새해 복 많이 받으세요! 붉은 말의 기운을 받아 힘차게 도약하는 한 해 되길 바랍니다.
 
 As the snow begins to melt and the rhythm of the new year picks up speed, we find ourselves at the doorstep of the **Year of the Horse**. Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day.
+
+**[View the Chinese version of this article here. | 点击此处查看中文版主题。]()**
 
 ## The 2025 Rankings: China's Top 15 osu! players of 2025
 
