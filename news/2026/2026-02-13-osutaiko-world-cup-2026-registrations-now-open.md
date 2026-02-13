@@ -9,7 +9,7 @@ The osu!taiko World Cup 2026 is back with a slew of exciting changes!
 
 ![](/wiki/Tournaments/TWC/2026/img/twc2026-banner.jpg)
 
-Taking inspiration from [osu! World Cup 2025](/news/2025/2025-09-26-osu-world-cup-2025-registrations-now-open), this year's tournament will feature a Group Stage instead of the traditional Round of 32 format, where the top 8 seeds from the Qualifier stage will receive a bye directly to the Round of 16, bypassing the groups entirely.
+Taking inspiration from [osu! World Cup 2025](https://osu.ppy.sh/news/2025/2025-09-26-osu-world-cup-2025-registrations-now-open), this year's tournament will feature a Group Stage instead of the traditional Round of 32 format, where the top 8 seeds from the Qualifier stage will receive a bye directly to the Round of 16, bypassing the groups entirely.
 
 ## Format Changes
 
