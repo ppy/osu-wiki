@@ -12,7 +12,7 @@ Một beatmap sẽ tự động bị chuyển vào đắp mộ từ [Chưa xong 
 
 ### Chưa xong và Đang chờ {id=wip-and-pending}
 
-Chưa xong (thường được viết tắt là *WIP*) và Đang chờ là hai danh mục mà beatmap sẽ được đưa vào khi mới gửi lên. Beatmap trong các danh mục này có thể được chuyển sang [Đủ tư cách](#đủ-tư-cách) sau khi được [đề cử](/wiki/Beatmap_ranking_procedure#nominations) bởi ít nhất hai [Người đề cử Beatmap](/wiki/People/Beatmap_Nominators). Quá trình này thường bao gồm rất nhiều phản hồi từ các [modder](/wiki/Modding/Modder) thông qua hoạt động [modding](/wiki/Modding).
+Chưa xong (thường được viết tắt là *WIP*) và Đang chờ là hai danh mục mà beatmap sẽ được đưa vào khi mới gửi lên. Beatmap trong các danh mục này có thể được chuyển sang [Đủ tư cách](#qualified) sau khi được [đề cử](/wiki/Beatmap_ranking_procedure#nominations) bởi ít nhất hai [Người đề cử Beatmap](/wiki/People/Beatmap_Nominators). Quá trình này thường bao gồm rất nhiều phản hồi từ các [modder](/wiki/Modding/Modder) thông qua hoạt động [modding](/wiki/Modding).
 
 Beatmap thuộc Chưa xong và Đang chờ không có bảng xếp hạng, nhưng vẫn [được tính vào thống kê chơi](#thống-kê-beatmap-chưa-xếp-hạng). Chúng sử dụng biểu tượng dấu hỏi (![](/wiki/shared/status/pending.png)) trong màn hình chọn bài hát.
 
