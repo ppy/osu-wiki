@@ -73,7 +73,7 @@ The top three teams will pick from distinct sets of prizes provided by different
 | 2nd | Physical prizes, custom team banner |
 | 3rd | Physical prizes, custom team banner |
 
-Additionally, every week we will have a giveaway to anyone who is participating. Look out for these weekly challenges in the **[Discord server](https://discord.com/invite/bQVmfPx5cy)**. It's also the place for updates on mappool reveals, matches and stream schedules as the tournament advances, so make sure to keep an out out!
+Additionally, every week we will have a giveaway to anyone who is participating. Look out for these weekly challenges in the **[Discord server](https://discord.com/invite/bQVmfPx5cy)**. It's also the place for updates on mappool reveals, matches and stream schedules as the tournament advances, so make sure to keep an eye out!
 
 More information, including full ruleset and match procedures, is available on the **[forum post](link)** and the **[tournament website](https://lelastechcup.com)**.
 
