@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
----
-
 # 锦标赛
 
 本页面展示锦标赛。锦标赛有专门的论坛，可以通过[此链接](https://osu.ppy.sh/community/forums/55)找到。
@@ -32,7 +27,7 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
 | [osu! 世界杯 2023](OWC/2023) | 2023-10-21 | 2023-12-03 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=AU }:: 澳洲 |
 | [osu! 世界杯 2024](OWC/2024) | 2024-10-26 | 2024-12-08 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
-| [osu! 世界杯 2025](OWC/2025) | 2025-10-25 | 2025-12-07 | *TBD* | *TBD* | *TBD* |
+| [osu! 世界杯 2025](OWC/2025) | 2025-10-25 | 2025-12-14 | ::{ flag=PL }:: 波兰 | ::{ flag=US }:: 美国 | ::{ flag=AU }:: 澳洲 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
@@ -53,12 +48,13 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | [osu!taiko 世界杯 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: 日本 | ::{ flag=TW }:: 台湾 | ::{ flag=DE }:: 德国 |
 | [osu!taiko 世界杯 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=US }:: 美国 |
 | [osu!taiko 世界杯 2025](TWC/2025) | 2025-03-15 | 2025-04-27 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=TW }:: 台湾 |
+| [osu!taiko 世界杯 2025](TWC/2026) | 2026-03-13 | 2026-04-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch 世界杯
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Catch the Beat 世界杯](CWC/1) | 2011-11-05 | 2012-05-02 | ::{ flag=CN }:: China | ::{ flag=TW }:: half manual player team | ::{ flag=CL }:: Chile |
+| [Catch the Beat 世界杯](CWC/1) | 2011-11-05 | 2012-05-02 | ::{ flag=CN }:: 中国 | ::{ flag=TW }:: half manual player team | ::{ flag=CL }:: 智利 |
 | [Catch the Beat 世界杯 2013](CWC/2013) | 2013-01-15 | 2013-03-10 | ::{ flag=CL }:: 智利 | ::{ flag=TW }:: 台湾 | ::{ flag=AR }:: 阿根廷/哥伦比亚 |
 | [osu! Catch the Beat 世界杯 2014](CWC/2014) | 2014-04-11 | 2014-06-15 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 | ::{ flag=SE }:: 瑞典 |
 | [osu!ctb 世界杯 2015](CWC/2015) | 2015-04-02 | 2015-06-14 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=DE }:: 德国 |
@@ -71,7 +67,7 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | [osu!catch 世界杯 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=CN }:: 中国 |
 | [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=IT }:: 意大利 |
 | [osu!catch 世界杯 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: 美国 | ::{ flag=AR }:: 阿根廷 | ::{ flag=PL }:: 波兰 |
-| [osu!catch 世界杯 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | ::{ flag=AR }:: 阿根廷 | ::{ flag=US }:: 美国 | ::{ flag=FI }:: 芬兰 |
+| [osu!catch 世界杯 2025](CWC/2025) | 2025-05-08 | 2025-07-20 | ::{ flag=AR }:: 阿根廷 | ::{ flag=US }:: 美国 | ::{ flag=FI }:: 芬兰 |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania 世界杯
 
@@ -202,14 +198,6 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | CES League osu! Tournament | 2019-12-02 | 2020-01-19 | ;w; | kirundy | TeamNameIn1v1Xd |
 | [CES League osu! Tournament 2](CES/CES2) | 2020-05-01 | 2020-08-16 | Woopak | MissClick324 | Thymue |
 
-#### Coffee Hispanic
-
-| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Coffee Hispanic Tournament](CH/CHT_1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
-| [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-06 | 2020-09-13 | yotambien | carlos | catJAM |
-| [Coffee Hispanic: Mocha](CH/CHM_1) | 2021-08-10 | 2021-10-10 | ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) |
-
 #### COE 1v1 Tournament
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
@@ -217,6 +205,14 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | [COE 1v1 Tournament 2022](COE/COE_2022) | 2022-07-22 | 2022-08-06 | ::{ flag=DE }:: okinamo | ::{ flag=GB }:: Malteser | ::{ flag=DK }:: cat burger |
 | [COE 1v1 Tournament 2023](COE/COE_2023) | 2023-07-14 | 2023-08-05 | ::{ flag=DE }:: criller | ::{ flag=KR }:: FlyingTuna | ::{ flag=DK }:: cat burger |
 | [COE x Yuki Aim 2024 1v1 Tournament](COE/COE_2024) | 2024-07-16 | 2024-08-03 | ::{ flag=PL }:: MALISZEWSKI | ::{ flag=DE }:: criller | ::{ flag=GB }:: Bubbleman |
+
+#### Coffee Hispanic
+
+| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Coffee Hispanic Tournament](CH/CHT_1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
+| [Coffee Hispanic Showdown](CH/CHS_1) | 2020-08-06 | 2020-09-13 | yotambien | carlos | catJAM |
+| [Coffee Hispanic: Mocha](CH/CHM_1) | 2021-08-10 | 2021-10-10 | ::{ flag=PE }:: [Arnold24x24](https://osu.ppy.sh/users/2291265) | ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001) | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) |
 
 #### Corgi Cup
 
@@ -824,6 +820,7 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Asia Suiji Cup: Rhythmus Aquarum](ASC/1) | 2024-07-13 | 2024-08-25 | Yuma fanboys | Pixel 7 | Noodle Soup |
+| [Asia Suiji Cup: Autumn Rhythm](ASC/2) | 2025-11-08 | 2025-12-14 | BALLS | nagisa fanboys | U=ma2=LAB=01 |
 
 #### Cemara Mania Cup
 
@@ -1039,7 +1036,7 @@ outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 
 #### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
-| 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
+| 名称 | 比赛时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
 | [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ::{ flag=US }:: [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ::{ flag=US }:: [death grips](https://osu.ppy.sh/users/4829231) (osu!), ::{ flag=US }:: [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 | [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ::{ flag=US }:: [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ::{ flag=US }:: [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ::{ flag=CA }:: [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
