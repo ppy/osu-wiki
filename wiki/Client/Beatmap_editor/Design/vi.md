@@ -53,9 +53,9 @@ Nếu có biến đổi, nó sẽ hiển thị với màu tương ứng và có 
 
 Hiển thị **thông số** và **nút bật/tắt thêm hình nền hoặc video**.
 
-- **x/y**: tọa độ chuột hiện tại trên beatmap  
-- **{number}ms**: thời gian tính bằng mili giây  
-- **SB Load**: mức tài nguyên cần để chạy storyboard riêng lẻ  
+- **x/y**: tọa độ chuột hiện tại trên beatmap
+- **{number}ms**: thời gian tính bằng mili giây
+- **SB Load**: mức tài nguyên cần để chạy storyboard riêng lẻ
 
 Nên giữ SB Load ở mức thấp (1.00~2.00) trong lúc chơi và có thể tăng trong thời gian nghỉ, intro hoặc outro.
 
@@ -73,12 +73,12 @@ Các lớp gồm:
 - Foreground
 - HitObjects (tự động bị tắt)
 
-**Lưu ý:** HitObjects > Foreground > Passing/Failing > Background.  
+**Lưu ý:** HitObjects > Foreground > Passing/Failing > Background.
 Đối tượng mới mặc định ở lớp Foreground. Có thể kéo thả sang lớp khác.
 
 #### Biến đổi (theo khung thời gian)
 
-Các lệnh gồm: Move, Scale, Fade, Rotate, Colour.  
+Các lệnh gồm: Move, Scale, Fade, Rotate, Colour.
 Loop và Parameters cần dùng Viết mã Storyboard.
 
 ##### Hiệu ứng biến đổi
@@ -109,9 +109,9 @@ Loop và Parameters cần dùng Viết mã Storyboard.
 
 **Lưu ý:**
 
-- Colour là hiệu ứng vĩnh viễn  
-- `.osb` là file nền chung  
-- `.osu` là file riêng của từng độ khó  
+- Colour là hiệu ứng vĩnh viễn
+- `.osb` là file nền chung
+- `.osu` là file riêng của từng độ khó
 
 ### Trung tâm (Khu vực storyboard)
 
@@ -119,20 +119,20 @@ Hiển thị trực quan storyboard và thay đổi theo timeline và lớp.
 
 ### Trung tâm bên phải (Danh sách đối tượng)
 
-Hiển thị danh sách các đối tượng storyboard theo từng lớp.  
-Đối tượng mới mặc định ở Foreground.  
-Có thể kéo thả để chuyển lớp.  
-Nhấn vào tên để chuyển đến vị trí và thời điểm tương ứng.  
+Hiển thị danh sách các đối tượng storyboard theo từng lớp.
+Đối tượng mới mặc định ở Foreground.
+Có thể kéo thả để chuyển lớp.
+Nhấn vào tên để chuyển đến vị trí và thời điểm tương ứng.
 Xóa bằng `Delete` hoặc Edit -> Delete.
 
 ### Sprite Library
 
-Nhấn "Browse..." để tìm sprite.  
+Nhấn "Browse..." để tìm sprite.
 Có thể nhân bản bằng cách nhấn vào hình thu nhỏ.
 
 ### Dưới cùng (Timeline phát)
 
-Phát beatmap.  
+Phát beatmap.
 Playback Speed làm chậm bài hát theo phần trăm so với tốc độ gốc.
 
 ## Giới hạn
@@ -140,8 +140,8 @@ Playback Speed làm chậm bài hát theo phần trăm so với tốc độ gố
 - Không hỗ trợ hiệu ứng âm thanh
 - Không hỗ trợ [loop](/wiki/Storyboard/Scripting/Compound_Commands) hoặc [trigger](/wiki/Storyboard/Scripting/Compound_Commands)
 - Không hỗ trợ [Move-X](/wiki/Storyboard/Scripting/Commands) / [Move-Y](/wiki/Storyboard/Scripting/Commands)
-- Tọa độ sprite luôn là 320,240  
-  - Nếu dùng thêm [Viết mã Storyboard](/wiki/Storyboard/Scripting), cần đọc thêm một dòng cho mỗi đối tượng
+- Tọa độ sprite luôn là 320,240
+- Nếu dùng thêm [Viết mã Storyboard](/wiki/Storyboard/Scripting), cần đọc thêm một dòng cho mỗi đối tượng
 
 ## Nguồn
 
