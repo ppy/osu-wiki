@@ -2,7 +2,7 @@
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
 
-这套 osu!catch 上架标准列出了 [osu!catch](/wiki/Game_mode/osu!catch) 专属的[谱面](/wiki/Beatmap)在推进[谱面上架流程](/wiki/Beatmap_ranking_procedure)时必须遵循的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
+这套 osu!catch 上架标准列出了 [osu!catch](/wiki/Game_mode/osu!catch) 专属的[谱面](/wiki/Beatmap)在推进[谱面上架流程](/wiki/Beatmap_ranking_procedure)时必须遵循的[规定和准则](/wiki/Ranking_Criteria)。
 
 ## 全局
 
