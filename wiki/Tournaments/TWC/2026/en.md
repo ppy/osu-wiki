@@ -53,7 +53,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 
 ## Links
 
-[![Click here to register for TWC 2026](/wiki/shared/news/2026-02-13-osutaiko-world-cup-2026-registrations-now-open/register.png)](https://osu.ppy.sh/community/tournaments/54)
+[![Click here to register for TWC 2026](img/twc2026-register-wiki.png)](https://osu.ppy.sh/community/tournaments/54)
 
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2179201)
