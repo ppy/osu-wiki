@@ -3,8 +3,6 @@ tags:
   - TC
   - Contest Committee
   - CC
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Турнирный комитет
@@ -133,7 +131,7 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 
 ## Длительность турнирных банов
 
-О распространённых сроках турнирных банов см. [Турнирные баны](/wiki/Help_centre/Tournament_bans).
+О распространённых сроках турнирных банов см. [Турнирные санкции](/wiki/Help_centre/Tournament_sanctions#reasons).
 
 ## Частые вопросы
 
