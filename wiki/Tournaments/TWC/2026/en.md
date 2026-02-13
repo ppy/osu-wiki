@@ -15,7 +15,7 @@ The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2026-02-13 (00:00 UTC)/2026-02-27 (23:59 UTC) |
+| Registration phase | 2026-02-13 (20:00 UTC)/2026-02-28 (23:59 UTC) |
 | Qualifier showcase | 2026-03-08 (14:00 UTC) |
 | Qualifier stage | 2026-03-14/2026-03-15 |
 | Group stage | 2026-03-21/2026-03-22 |
@@ -57,7 +57,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 [![Click here to register for TWC 2026](/wiki/shared/news/2026-02-13-osutaiko-world-cup-2026-registrations-now-open/register.png)](https://osu.ppy.sh/community/tournaments/54)
 
 - [Livestream](https://www.twitch.tv/osulive)
-- [Discussion thread]({DISC_THREAD})
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/2179201)
 
 ## Ruleset
 

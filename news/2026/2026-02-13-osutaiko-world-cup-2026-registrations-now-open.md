@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2026: Registrations Now Open!"
-date: 2026-02-13 10:00:00 +0000
+date: 2026-02-13 20:00:00 +0000
 series: world_cups
 ---
 
@@ -26,13 +26,13 @@ This structure effectively replaces the Round of 32 with a one week Group stage.
 
 The group stage will be played in a Round Robin format, with each team playing against the other two teams in their group. This guarantees a minimum of 3 matches for every Challenger team (2 Group Stage matches + at least 1 Bracket match), creating a more competitive experience compared to the classic Round of 32 stage where top seeds face off against significantly lower seeded opponents.
 
-As always, for more details pertaining to the tournament (and the Group Stage procedures), refer to the **[osu!taiko World Cup 2026 wiki article](/wiki/Tournaments/TWC/2026)**. You can also discuss this event in the **[official discussion thread]({DISC_THREAD})** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+As always, for more details pertaining to the tournament (and the Group Stage procedures), refer to the **[osu!taiko World Cup 2026 wiki article](/wiki/Tournaments/TWC/2026)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2179201)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament Schedule
 
 | Event | Date |
 | --: | :-- |
-| Registration phase | Feb 13 (00:00 UTC) – Feb 27 (23:59 UTC) |
+| Registration phase | Feb 13 (20:00 UTC) – Feb 28 (23:59 UTC) |
 | Qualifier showcase | Mar 8 (14:00 UTC) |
 | Qualifier stage | Mar 14 & Mar 15 |
 | Group stage | Mar 21 & Mar 22 |
