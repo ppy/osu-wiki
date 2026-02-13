@@ -1,6 +1,4 @@
 ---
-outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
-outdated_translation: true
 tags:
   - 名人堂
   - osu!名人堂
@@ -9,9 +7,11 @@ tags:
 
 # osu! Alumni
 
-**osu! 名人堂** 是为了纪念那些为社区做出了杰出贡献的人，我们会为每个成员在社区中塑造一个雕像。
+**osu! 名人堂** 是为了纪念那些为社区做出了杰出贡献的成员。如果有条件的话，我们会在市中心为每位成员竖立一座雕像。
 
 [osu! 名人堂团队成员页面](https://osu.ppy.sh/groups/16)列出了所有团队成员。
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 | 用户名 | 曾任职务 |
 | :-- | :-- |
@@ -232,6 +232,7 @@ tags:
 | ::{ flag=AU }:: [Seika Kasanui](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | 聊天管理员 |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) | GMT |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | 聊天管理员，GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |

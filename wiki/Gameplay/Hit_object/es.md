@@ -10,10 +10,10 @@ Los *objetos* son elementos donde los jugadores pueden interactuar jugando un [b
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [círculos](/wiki/Gameplay/Hit_object/Hit_circle) | círculos | [frutas](/wiki/Gameplay/Hit_object/Fruit) | notas |
-| [sliders](/wiki/Gameplay/Hit_object/Slider) | redobles de tambor | [corriente de jugo](/wiki/Gameplay/Hit_object/Juice_stream) | notas largas |
-| [spinners](/wiki/Gameplay/Hit_object/Spinner) | dendens | [plátanos](/wiki/Gameplay/Hit_object/Banana) | x |
-| x | x | [hiperfrutas](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
+| [Círculos](/wiki/Gameplay/Hit_object/Hit_circle) | [Don y Kat](/wiki/Gameplay/Hit_object/Hit) | [Frutas](/wiki/Gameplay/Hit_object/Fruit) | Notas |
+| [Sliders](/wiki/Gameplay/Hit_object/Slider) | Redobles de tambor | [Corriente de jugo](/wiki/Gameplay/Hit_object/Juice_stream) | Notas largas |
+| [Spinners](/wiki/Gameplay/Hit_object/Spinner) | Dendens | [Plátanos](/wiki/Gameplay/Hit_object/Banana) | x |
+| x | x | [Hiperfrutas](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 Desde el punto de vista de la programación, las notas largas en osu!mania no son el equivalente a los sliders de osu!, aunque han sido agrupados juntos para la simplificación de la tabla. Otros elementos con los que no se interactúan durante el juego, como la barra de salud o las estrellas del kiai, se consideran mejoras del juego o parte de la interfaz del usuario.
 

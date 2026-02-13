@@ -117,7 +117,7 @@ Untuk memperbaiki hal ini, pastikan perangkat osu!go kamu sedang berada dalam ko
 
 **Kamu akan perlu untuk mempartisi perangkat ini dari awal.**
 
-Silakan ikuti [panduan ini](https://tails.boum.org/doc/reset/windows/index.en.html) untuk memperoleh rincian seputar cara melakukan hal ini.
+Silakan ikuti [panduan ini](https://tails.net/doc/first_steps/reset/windows/index.en.html) untuk memperoleh rincian seputar cara melakukan hal ini.
 
 ### Saya telah memformat ulang osu!go dan perangkat saya sekarang telah muncul pada Disk Management {id=osu!go-clean}
 
