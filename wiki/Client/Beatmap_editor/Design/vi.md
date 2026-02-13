@@ -2,7 +2,7 @@
 
 ![Tab Design](img/SE_base.jpg "Tab Design")
 
-**Trình chỉnh sửa Storyboard** là một phần trong [Trình chỉnh sửa Beatmap](/wiki/Client/Beatmap_editor) của trò chơi, nằm trong thẻ Thiết kế, cho phép tạo [Storyboard](/wiki/Storyboard) ở mức cơ bản. Đây là bước làm quen tốt với những khái niệm nền tảng trước khi chuyển sang [Viết mã Storyboard](/wiki/Storyboard/Scripting) nâng cao.
+**Trình chỉnh sửa Storyboard** là một phần trong [Trình chỉnh sửa Beatmap](/wiki/Client/Beatmap_editor) của trò chơi, nằm trong thẻ Design, cho phép tạo [Storyboard](/wiki/Storyboard) ở mức cơ bản. Đây là bước làm quen tốt với những khái niệm nền tảng trước khi chuyển sang [Viết mã Storyboard](/wiki/Storyboard/Scripting) nâng cao.
 
 Bạn nên thử qua tất cả các lệnh bằng hình ảnh ngẫu nhiên ít nhất một lần trước khi bắt đầu làm storyboard nghiêm túc. Điều này giúp ghi nhớ và hiểu rõ cách sử dụng hơn.
 
