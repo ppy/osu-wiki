@@ -24,11 +24,11 @@ Các beatmap không hoạt động và đã nằm trong danh mục này 4 tuần
 
 Beatmap được đưa vào Đủ tư cách sẽ đi vào [hàng chờ xếp hạng](/wiki/Beatmap_ranking_procedure/Ranking_queue), và cuối cùng sẽ trở thành [Được xếp hạng](#được-xếp-hạng) nếu không bị [hủy đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets). Giai đoạn này đóng vai trò như tuyến phòng thủ cuối cùng, nơi các lỗi hoặc sai sót còn sót lại có thể được sửa chữa.
 
-Beatmap Đủ tư cách có bảng xếp hạng, nhưng không được nhận [điểm hiệu năng](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa khi beatmap rời khỏi Đủ tư cách. Chúng sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/qualified.png)) trong màn hình chọn bài hát.
+Beatmap Đủ tư cách có bảng xếp hạng, nhưng không được nhận [điểm hiệu suất](/wiki/Performance_points) và toàn bộ điểm số sẽ bị xóa khi beatmap rời khỏi Đủ tư cách. Chúng sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/qualified.png)) trong màn hình chọn bài hát.
 
 ### Được xếp hạng {id=ranked}
 
-Beatmap đã xếp hạng được công nhận là nội dung chính thức, nghĩa là chúng đã đạt hoặc vượt qua các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria). Chúng cho phép người chơi cạnh tranh trên bảng xếp hạng và nhận [điểm hiệu năng](/wiki/Performance_points) từ việc lập điểm số.
+Beatmap đã xếp hạng được công nhận là nội dung chính thức, nghĩa là chúng đã đạt hoặc vượt qua các tiêu chuẩn của [tiêu chí xếp hạng](/wiki/Ranking_criteria). Chúng cho phép người chơi cạnh tranh trên bảng xếp hạng và nhận [điểm hiệu suất](/wiki/Performance_points) từ việc lập điểm số.
 
 Một khi beatmap đã đạt trạng thái Được xếp hạng, trạng thái này sẽ không thể bị thay đổi nữa (ngoại trừ những trường hợp đặc biệt). Beatmap Được xếp hạng sử dụng biểu tượng mũi tên đôi hướng lên (![](/wiki/shared/status/ranked.png)) trong màn hình chọn bài hát.
 
@@ -46,18 +46,18 @@ Chúng có bảng xếp hạng, nhưng không được nhận [điểm hiệu su
 
 Danh mục beatmap được chấp nhận được sử dụng trong giai đoạn từ năm 2008 đến 2014 để chứa các beatmap vượt quá yêu cầu về độ dài và điểm số tối đa theo các phiên bản cũ của [tiêu chí xếp hạng](/wiki/Ranking_criteria), cũng như một số beatmap hiếm hoi vi phạm các quy định khác.
 
-Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu năng](/wiki/Performance_points). Sau thay đổi này, trạng thái Được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
+Beatmap được chấp nhận không ảnh hưởng đến thứ hạng điểm số của người dùng cho đến một thời gian sau khi hệ thống chuyển từ xếp hạng theo điểm sang xếp hạng theo [điểm hiệu suất](/wiki/Performance_points). Sau thay đổi này, trạng thái Được chấp nhận chỉ được dùng cho các beatmap có [thời lượng drain](/wiki/Beatmap/Drain_time) lớn hơn 6 phút.
 
 Beatmap được chấp nhận sử dụng biểu tượng dấu kiểm (![](/wiki/shared/status/approved.png)) trong màn hình chọn bài hát và hoạt động tương tự như beatmap Được xếp hạng.
 
 ### Sự xuất hiện của Đủ tư cách
 
-Danh mục [đủ tư cách](#đủ-tư-cách) được giới thiệu vào tháng 8 năm 2014 trong đợt [tái cấu trúc BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) nhằm giúp các beatmap sắp Được xếp hạng có nhiều độ hiển thị hơn.
+Danh mục [đủ tư cách](#qualified) được giới thiệu vào tháng 8 năm 2014 trong đợt [tái cấu trúc BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) nhằm giúp các beatmap sắp Được xếp hạng có nhiều độ hiển thị hơn.
 
 Nếu một beatmap trong đủ tư cách bị hủy đề cử và bị chuyển trở lại Đang chờ, điều này sẽ không ảnh hưởng đến thống kê của người chơi, vì bản thân danh mục này đã được thiết kế để các điểm số mang tính tạm thời ngay từ đầu. Điều này giúp thiết lập kỳ vọng đúng đắn và giảm đáng kể phản ứng tiêu cực của cộng đồng đối với các đợt bị hủy xếp hạng.
 
 ### Thống kê beatmap chưa xếp hạng
 
-Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#đắp-mộ) cũng như [Chưa xong và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
+Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#graveyard) cũng như [Chưa xong và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
 
-Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ hoàn thành và các điểm thất bại), những thông tin trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#được-chấp-nhận) và [Được xếp hạng](#dược-xếp-hạng).
+Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ hoàn thành và các điểm thất bại), những thông tin trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#approved) và [Được xếp hạng](#ranked).
