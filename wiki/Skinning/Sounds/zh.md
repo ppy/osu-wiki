@@ -136,7 +136,7 @@
 
 ## 评级显示 (仅限 Lazer)
 
-在 [Lazer](/wiki/Client/Release_stream/Lazer) 客户端中，新增了可在谱面编辑器中自定义的评级显示组件。以下音效元素可用于自定义这些组件。在 osu!(stable) 中这些音效无任何效果。
+在 [Lazer](/wiki/Client/Release_stream/Lazer) 客户端中，新增了可在谱面编辑器中自定义的评级显示组件。以下音效元素可用于自定义这些组件。在 osu!(stable) 中这些音效无任何作用。
 
 仅当当前皮肤中至少添加了一个评级显示组件时，评级显示音效才会生效。
 
