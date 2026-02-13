@@ -54,7 +54,7 @@ This should result in more diverse skill set requirements, and thus the overall 
 
 The deadline to register for this tournament is February 28, 2026 (23:59 UTC).
 
-Teams who sign up and meet the following criteria will be eligible to participate. Joining the [LTC Discord server](https://discord.com/invite/bQVmfPx5cy) is mandatory for all captains.
+Teams who sign up and meet the following criteria will be eligible to participate. Joining the **[LTC Discord server](https://discord.com/invite/bQVmfPx5cy)** is mandatory for all captains.
 
 - **You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
 - **You must have a team consisting of at least two players, and a max of three players. Captains are responsible for submitting the registration form.**
