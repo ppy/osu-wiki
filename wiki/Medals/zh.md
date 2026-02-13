@@ -9,7 +9,7 @@ tags:
 
 ## 曲包
 
-**曲包奖章** 授予完成特定[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)、[Project Loved 曲包](https://osu.ppy.sh/beatmaps/packs?type=loved)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)的玩家。玩家需要在曲包中的每一张谱面上，至少完成一个难度。
+**曲包奖章** 授予完成特定[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)、[社区喜爱计划 (Project Loved) 曲包](https://osu.ppy.sh/beatmaps/packs?type=loved)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)的玩家。玩家需要在曲包中的每一张谱面上，至少完成一个难度。
 
 除非额外说明，所有谱面均须在 [osu!](/wiki/Game_mode/osu!) 游戏模式下完成。允许使用[降低难度的模组](/wiki/Gameplay/Game_modifier#降低难度)、[增加难度的模组](/wiki/Gameplay/Game_modifier#增加难度)以及 [Spun Out 模组](/wiki/Gameplay/Game_modifier/Spun_Out)。
 
