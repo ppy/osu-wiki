@@ -1,6 +1,6 @@
 # osu! wiki
 
-**osu! wiki** 是一个由[志愿贡献者](https://github.com/ppy/osu-wiki/graphs/contributors)撰写与维护的开源知识库，包含了与 osu! 及其社区、相关活动与概念的大范围信息。它是 osu! 的官方信息源，也被认为是 osu! 的历史档案。
+**osu! wiki** 是一个由[志愿贡献者](https://github.com/ppy/osu-wiki/graphs/contributors)撰写与维护的开源知识库，包含了与 osu! 及其社区、相关活动与概念相关话题的大范围信息。它是 osu! 的官方信息源，也被认为是 osu! 的历史档案。
 
 所有有关维基整体运作、发展规划与条目修改的讨论都在官方的 [osu! Discord 服务器](/wiki/Community/Discord_servers#official)的 `#osu-wiki` 频道进行。若要了解如何协助 osu! wiki，请查阅以下文章：
 
@@ -11,7 +11,7 @@
 
 *主文章：[osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki)*
 
-建立结构化知识库的[初次尝试](https://osu.ppy.sh/community/forums/posts/1175876)可被追溯到 2011年，那时 [peppy](/wiki/People/peppy) 搭建了一个 [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki) 实例供参与者使用。数年以来，MediaWiki 的维护与运营被证明是困难且繁琐的。于是在 [2016 年 8 月 26 日](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376)，peppy 与一支志愿者团队开始将 osu! wiki 迁移到 GitHub，并沿用至今。在那之后，osu! wiki 就被整合到新版 osu! 网站中，并获得了对优质用户体验至关重要的技术与视觉更新。
+建立结构化知识库的[初次尝试](https://osu.ppy.sh/community/forums/posts/1175876)可被追溯到 2011 年，那时 [peppy](/wiki/People/peppy) 搭建了一个 [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki) 实例供参与者使用。数年以来，MediaWiki 的维护与运营被证明是困难且繁琐的。于是在 [2016 年 8 月 26 日](https://discord.com/channels/188630481301012481/218677502141399041/218678017659109376)，peppy 与一支志愿者团队开始将 osu! wiki 迁移到 GitHub，并沿用至今。在那之后，osu! wiki 就被整合到新版 osu! 网站中，并获得了对优质用户体验至关重要的技术与视觉更新。
 
 ## 结构
 
@@ -32,7 +32,7 @@ osu! wiki 中的文章根据[风格规范](/wiki/Article_styling_criteria)编写
 尽管 osu! wiki 名字后面有个 *wiki*，但它并不完全满足[维基的概念](https://zh.wikipedia.org/wiki/Wiki)：
 
 - 鼓励改善已有文章与撰写新文章的行为，但需要对 [GitHub](https://github.com) 有基本了解才能做出贡献，这提升了新人加入的门槛。不过，osu! wiki 提供了[贡献指南](/wiki/osu!_wiki/Contribution_guide)来帮助新贡献者入门。
-- 所有对 osu! wiki 做出的更改都会需经过预先审核和评审流程。审查过程中，贡献者应与审查者协作并回应反馈意见。
+- 所有对 osu! wiki 做出的更改都需经过预先审核和评审流程。审查过程中，贡献者应与审查者协作并回应反馈意见。
 
 ## 许可
 
