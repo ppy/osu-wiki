@@ -48,6 +48,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!taiko World Cup 2023](TWC/2023) | 18/3/2023 | 30/4/2023 | ::{ flag=JP }:: Japón | ::{ flag=TW }:: Taiwán | ::{ flag=DE }:: Alemania |
 | [osu!taiko World Cup 2024](TWC/2024) | 16/3/2024 | 28/4/2024 | ::{ flag=JP }:: Japón | ::{ flag=GB }:: Reino Unido | ::{ flag=US }:: Estados Unidos |
 | [osu!taiko World Cup 2025](TWC/2025) | 15/3/2025 | 27/4/2025 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=TW }:: Taiwán |
+| [osu!taiko World Cup 2026](TWC/2026) | 13/3/2026 | 26/4/2026 | *Por determinar* | *Por determinar* | *Por determinar* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
