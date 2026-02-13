@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
----
-
 # 毅力奖章解锁条件
 
 ## osu!
@@ -41,3 +35,11 @@ outdated_since: 4c74ad9e2a804492b30c360210020a682b4937f8
 | 400,000 Keys | 在 osu!mania 中按键总数达到 400,000 次。 | Four hundred thousand and still not even close. |
 | 4,000,000 Keys | 在 osu!mania 中按键总数达到 4,000,000 次。 | Is this the end of the rainbow? |
 | 40,000,000 Keys | 在 osu!mania 中按键总数达到 40,000,000 次。 | When someone asks which keys you play, the answer is now 'yes'. |
+
+## 每日挑战
+
+| 奖章名称 | 条件 | 描述 |
+| :-- | :-- | :-- |
+| Daily Sprout | 在[每日挑战](/wiki/Gameplay/Daily_challenge)中达成 1 天连胜。 | Ready for anything. |
+| Weekly Sapling | 在[每日挑战](/wiki/Gameplay/Daily_challenge)中达成 7 天连胜。 | Circadian rhythm calibrated. |
+| Monthly Shrub | 在[每日挑战](/wiki/Gameplay/Daily_challenge)中达成 30 天连胜。 | In for the grind. |
