@@ -145,7 +145,7 @@ On the momentum of a highly successful **2025**, let's wish the best to the Chin
     }
 </style>
 
-To celebrate the occasion, we sat down with several prominent figures from the scene—including a content creator, top players, dedicated mappers, a creative designer and tournament organizers—to reflect on the journey so far and what 2026 holds for them.
+To celebrate the occasion, we sat down with several prominent figures from the scene — including a content creator, top players, dedicated mappers, a creative designer and tournament organizers — to reflect on the journey so far and what 2026 holds for them.
 
 ---
 
@@ -173,7 +173,7 @@ As an ABC, you have a unique perspective on both Western and Eastern communities
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-Through The Roundtable, you've built a global stage that connects players in the real world, and we're seeing a growing wave of LAN events popping up everywhere as a result. In fact, seeing the passion and community spirit you fostered with your event was a huge inspiration for me. This past year, I personally hosted and witnessed that same incredible energy when we brought our community together for China LAN 2025—the largest offline event in our region in seven years. Heading into the new year, is there anything you'd like to share with future organizers, or with the fans and players who haven't yet had the chance to experience an offline event?
+Through The Roundtable, you've built a global stage that connects players in the real world, and we're seeing a growing wave of LAN events popping up everywhere as a result. In fact, seeing the passion and community spirit you fostered with your event was a huge inspiration for me. This past year, I personally hosted and witnessed that same incredible energy when we brought our community together for China LAN 2025 — the largest offline event in our region in seven years. Heading into the new year, is there anything you'd like to share with future organizers, or with the fans and players who haven't yet had the chance to experience an offline event?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
 
@@ -185,7 +185,7 @@ Through The Roundtable, you've built a global stage that connects players in the
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-To wrap things up on a more personal note—Chinese New Year is as much about the food as it is about the celebration! For your family, what is that one 'must-have' dish on the table during the Chinese New Year? Is there a specific food that instantly makes it feel like the holidays for you?
+To wrap things up on a more personal note — Chinese New Year is as much about the food as it is about the celebration! For your family, what is that one 'must-have' dish on the table during the Chinese New Year? Is there a specific food that instantly makes it feel like the holidays for you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
 
@@ -209,7 +209,7 @@ Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/u
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10562853">seros</a></p>
 
-In 2025, the Chinese-speaking mapping scene achieved a lot. For instance, in the osu! Beatmapping World Championship (o!BWC), the CN team—composed almost entirely of new mappers—advanced to the Top 16, while the TW team secured a 3rd place finish. Do you think the trend of the Chinese mapping scene is looking up? Is Chinese mapping back?
+In 2025, the Chinese-speaking mapping scene achieved a lot. For instance, in the osu! Beatmapping World Championship (o!BWC), team China — composed almost entirely of new mappers — advanced to the Top 16, while the team Taiwan secured a 3rd place finish. Do you think the trend of the Chinese mapping scene is looking up? Is Chinese mapping back?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1343783" style="background-image: url('/wiki/shared/avatars/pw384.jpg')"></a>
 
@@ -227,9 +227,9 @@ In the osu! community, we often discuss "Chinese Mapping" as a distinct style. A
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1243669">yf_bmp</a></p> 
   
-Regarding Chinese Mapping, I believe it evolved from the strong structural focus led by tsuka, kiddly, and fanzhen0019, alongside other influential branches like NatsumeRin and -LKs. In the "modern" era, Skystar played a pivotal role; he studied a lot of Chinese styles—I recall him mentioning how his Rohi - Kakuzetsu Thanatos was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark.
+Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by [tsuka](https://osu.ppy.sh/users/106767), [kiddly](https://osu.ppy.sh/users/74937), and [fanzhen0019](https://osu.ppy.sh/users/418699), alongside other influential branches like [NatsumeRin](https://osu.ppy.sh/users/151679) and [LKs](https://osu.ppy.sh/users/150768). In the "modern" era, [Skystar](https://osu.ppy.sh/users/873961) played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark.
   
-In my view, the defining trait of Chinese Mapping is Structural Logic—a logic present in both rhythm and visuals. Every slider and circle has a concrete reason for its placement and orientation; it's never arbitrary. The rhythm is chosen with intent, maintaining internal consistency from start to finish. It's inherently logical. Another hallmark is Playability. A commonality among these pioneers is their experience with other rhythm games, especially arcade ones. They draw from commercial rhythm game design—learning how to make a map "addictive," how to balance complexity with non-traditional rhythms, and how to create "peaks" that make players want to hit that retry button again and again.
+In my view, the defining trait of Chinese Mapping is the Structural Logic — a logic present in both rhythm and visuals. Every slider and circle has a concrete reason for its placement and orientation; it's never arbitrary. The rhythm is chosen with intent, maintaining internal consistency from start to finish. It's inherently logical. Another hallmark is Playability. A commonality among these pioneers is their experience with other rhythm games, especially arcade ones. They draw from commercial rhythm game design — learning how to make a map "addictive", how to balance complexity with non-traditional rhythms, and how to create "peaks" that make players want to hit that retry button again and again.
   
 As for my own style, [NatsumeRin](https://osu.ppy.sh/users/151679) (2012-2014) was my biggest early influence; much of my rhythm choice, overlaps, and slider shapes can be traced back there. In the middle stage (2015-2016), I studied [Skystar](https://osu.ppy.sh/users/873961), the master who synthesized these styles with his own ideas. Later (2016-2018), I began exploring my own potential and realized that [fanzhen](https://osu.ppy.sh/users/418699)'s maps were in a league of their own regarding playability, so I spent a long time learning from him. Finally, in 2019, I integrated [rustbell](https://osu.ppy.sh/users/227717)'s rigid, high-difficulty expression. Since then, it's been about fine-tuning that 2019 version (e.g., mimicking [Kencho](https://osu.ppy.sh/users/3178411)'s flow or studying various old maps), though my energy has shifted toward my career. It took me seven years to finally feel satisfied with my own mapping.
   
@@ -249,7 +249,7 @@ I would venture to say that [WhiteCookies](https://osu.ppy.sh/users/13617153) is
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1243669">yf_bmp</a></p>
 
-I haven't followed the community as closely lately, but I believe that if a mapper truly understands that a beatmap is essentially **"Level Design"** and approaches it with a "research and development" mindset, their work will naturally radiate outward and show immense potential. The opposite is "inward" mapping—focusing purely on personal spiritual expression. While that's fine for self-satisfaction, it's much harder for that style to resonate with others.
+I haven't followed the community as closely lately, but I believe that if a mapper truly understands that a beatmap is essentially **"Level Design"** and approaches it with a "research and development" mindset, their work will naturally radiate outward and show immense potential. The opposite is "inward" mapping — focusing purely on personal spiritual expression. While that's fine for self-satisfaction, it's much harder for that style to resonate with others.
   
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10562853" style="background-image: url('/wiki/shared/avatars/seros.jpg')"></a>
 
@@ -269,9 +269,9 @@ I look forward to seeing more mappers step outside their comfort zones to explor
 
 What I look forward to most is the rise of a new generation. As someone you consider a "pillar", what I truly hope for is to see newcomers charging forward and eventually taking over the torch — I don't want to see a stagnant pool.
 
-Beyond hard work and skill, one crucial piece of advice: Utilize your resources and networks. Socializing and connecting are a prerequisite; building in isolation is not the way. The older generation shouldn't be the ones leading you; instead, you should be brave enough to step forward. When you need a hand, ask us for a boost, then keep pushing ahead. Furthermore, look beyond just mapping—specialize in other areas too. Whether it's Hitsounding (like [TtmnZk](https://osu.ppy.sh/users/2495509)), Storyboard (which is in high demand but has few specialists), becoming a NAT, or even a Developer (a role I am currently transitioning into).
+Beyond hard work and skill, one crucial piece of advice: Utilize your resources and networks. Socializing and connecting are a prerequisite; building in isolation is not the way. The older generation shouldn't be the ones leading you; instead, you should be brave enough to step forward. When you need a hand, ask us for a boost, then keep pushing ahead. Furthermore, look beyond just mapping — specialize in other areas too. Whether it's Hitsounding (like [TtmnZk](https://osu.ppy.sh/users/2495509)), Storyboard (which is in high demand but has few specialists), becoming a NAT, or even a Developer (a role I am currently transitioning into).
 
-But remember: The path is yours to walk. Be yourself. Don't change your beliefs just because of what I've said. The "community" is not a mandatory mission—you can stay independent from any circle and still be your most brilliant self.
+But remember: The path is yours to walk. Be yourself. Don't change your beliefs just because of what I've said. The "community" is not a mandatory mission — you can stay independent from any circle and still be your most brilliant self.
 
 </div>
 
@@ -342,6 +342,7 @@ This year we're hoping to organize more collaborations at larger scales to prese
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
 Having worked with both of you on numerous projects, I've always valued your unique 'insider-outsider' perspectives. chiv, you are a mainstay of the international staff scene who frequently lends your expertise to Chinese tournaments; Imokora, you are one of the pillars of the Chinese-speaking community who has become increasingly active in major international events.
+
 Based on your extensive experience in both hosting and pooling, where do you see the biggest differences between the Chinese-speaking tournaments and the broader international scene?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2472609" style="background-image: url('/wiki/shared/avatars/Imokora.jpg')"></a>
@@ -350,8 +351,7 @@ Based on your extensive experience in both hosting and pooling, where do you see
 
 Throughout the years, our tournament scene has consistently remained active and thriving.
 
-From our legacy tournaments, such as: OCWT, OCL, LLC, OTST, TST, and the TTT series, to the new generation of series like: CYT, BWC, 5TS, OFFC, and TSC... well, i guess OTST is back too (yep we are still kicking).
-The sprout has never stopped growing, all made possible by our tireless community contributors!
+From our legacy tournaments, such as: OCWT, OCL, LLC, OTST, TST, and the TTT series, to the new generation of series like: CYT, BWC, 5TS, OFFC, and TSC... well, i guess OTST is back too (yep we are still kicking). The sprout has never stopped growing, all made possible by our tireless community contributors!
 
 I believe this unstoppable momentum is what defines us unique apart from the other communities!
 
@@ -360,10 +360,8 @@ New ideas are welcomed, and constructive feedback is always given to help streng
 
 Kindness may not seem like a rare trait, but it's something I deeply cherish about our community!
 
-Despite our differences, osu! is what holds us together, and I believe that connection is something precious worth holding onto. Every now and then, I find myself reflecting on this: I cherish this community just as deeply as I love this game, from the bottom of my heart.
-I'm truly grateful for the people I've met along the way, and my sincerest thanks to everyone who has been part of this journey.
+Despite our differences, osu! is what holds us together, and I believe that connection is something precious worth holding onto. Every now and then, I find myself reflecting on this: I cherish this community just as deeply as I love this game, from the bottom of my heart. I'm truly grateful for the people I've met along the way, and my sincerest thanks to everyone who has been part of this journey. Somehow this sounds like a farewell message for osu!, but I believe we still have many years ahead of us!
 
-Somehow this sounds like a farewell message for osu!, but I believe we still have many years ahead of us!
 Happy Chinese New Year, everyone. Let's continue to give our very best this year and create even more unforgettable memories together! :steamhappy:
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6701656" style="background-image: url('/wiki/shared/avatars/chiv.jpg')"></a>
@@ -387,8 +385,7 @@ How would you define the unique "philosophy" behind mappools in Chinese-speaking
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/2472609">Imokora</a></p>
 
 One thing I really love about our community's mappools is their experimental nature.
-Whether it's breaking down traditional structures like 5TS, implementing a delicate designed ruleset like OFFC, or something like Shanden Cup that blends creativity from both sides, there's always a willingness to try something new.
-This creative energy pushes every tournament to be a completely unique experience, and that's the most charming part!
+Whether it's breaking down traditional structures like 5TS, implementing a delicate designed ruleset like OFFC, or something like Shanden Cup that blends creativity from both sides, there's always a willingness to try something new. This creative energy pushes every tournament to be a completely unique experience, and that's the most charming part!
 
 It seems that after all, our inner Yutang Cup spirit lives on, alive and well!
 
@@ -417,8 +414,8 @@ On the other side, there are hundreds of members in our community without Chines
 
 ---
 
-The arrival of the new year is always a time for reflection and renewal. To everyone celebrating this festive season—whether you are reuniting with family or clicking circles with friends—we wish you a year filled with **Long Ma Jing Shen** (the spirit of the dragon and horse—full of vitality)! 
+The arrival of the new year is always a time for reflection and renewal. To everyone celebrating this festive season — whether you are reuniting with family or clicking circles with friends — we wish you a year filled with **Long Ma Jing Shen** (the spirit of the dragon and horse — full of vitality)! 
 
 May your UR be low, your combos be high, and may success come to you as swiftly as a galloping steed (**Ma Dao Cheng Gong**). Across all regions and time zones, we hope the beat of the new year brings you nothing but joy. Happy Chinese New Year!
 
--AstralXynsm, FcEazy, Luval, Mafumafu, MarioKartya, seros, silly me, Trolloli & Pager
+-AstralXynsm, FcEazy, Luval, Mafumafu, MarioKartya, Pager, seros, silly me & Trolloli.
