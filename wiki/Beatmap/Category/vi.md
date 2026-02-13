@@ -58,6 +58,6 @@ Nếu một beatmap trong đủ tư cách bị hủy đề cử và bị chuyể
 
 ### Thống kê beatmap chưa xếp hạng
 
-Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#đắp-) cũng như [Chưa xong và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
+Sau ngày [7 tháng 8 năm 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), các beatmap thuộc [đắp mộ](#graveyard) cũng như [Chưa xong và Đang chờ](#wip-and-pending) bắt đầu được tính vào số lần chơi và tổng điểm của người dùng.
 
 Chúng cũng bắt đầu có thống kê chơi trên trang riêng của từng beatmap (số lần chơi, tỷ lệ hoàn thành và các điểm thất bại), những thông tin trước đây chỉ hiển thị đối với beatmap thuộc [Đủ tư cách](#được-chấp-nhận) và [Được xếp hạng](#dược-xếp-hạng).
