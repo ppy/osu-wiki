@@ -293,7 +293,11 @@ You've been a mainstay of the OWC roster since 2016, and you've seen the lineup 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1646397">Crystal</a></p>
 
-(Crystal) a
+If there comes a day when I am no longer ranked among the top eight for the OWC team, it would simply mean that our collective skill level has become strong enough. I would be more than happy to see that happen, and I am perfectly fine to fade from the spotlight and become a part of history. 
+
+But to address your point about the broader trend of players leaving — it is undeniable that the average age of our OWC players is relatively high compared to the rest of the world. Many members have transitioned from being students to working professionals. When facing the pressures of life, everyone does indeed encounter the challenge of trying to balance both sides.
+
+But one thing I am certain of: when the team really needs us, we veterans will definitely still be willing to step up. This holds true for me, and I believe it’s the same for my teammates as well. As long as there is something I can do, I will always be willing to contribute my strength.
 
 </div>
 
