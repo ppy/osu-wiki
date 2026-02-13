@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - find beatmaps
   - filter beatmaps
@@ -27,8 +26,8 @@ tags:
 | `!=` | ![No][false] | ![Yes][true] | ![No][false] | Неравенство |
 | `<` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Меньше |
 | `>` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Больше |
-| `<=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Меньше или равен |
-| `>=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Больше или равен |
+| `<=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Меньше или равно |
+| `>=` | ![Yes][true] | ![Yes][true] | ![Yes][true] | Больше или равно |
 
 ## Клиент
 
@@ -53,7 +52,7 @@ tags:
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l` |
 | `played` | Время, прошедшее с последней попытки (в днях) |
 | `unplayed` | Только несыгранные карты. С этим полем нужно использовать пустое сравнение (т.е. `unplayed=`). Сам результат сравнения игнорируется |
-| `speed` | Сохранённая скорость прокрутки osu!mania. Она равна 0 у несыгранных карт, а также если выключена настройка [`Remember osu!mania scroll speed per beatmap (Своя скорость прокрутки osu!mania)`](/wiki/Client/Options#gameplay) |
+| `speed` | Сохранённая скорость прокрутки osu!mania. Она равна 0, если карта ещё не была сыграна, или если выключена настройка [`Remember osu!mania scroll speed per beatmap (Своя скорость прокрутки osu!mania)`](/wiki/Client/Options#gameplay) |
 
 ## Веб-сайт[^website-filters]
 
@@ -62,7 +61,7 @@ tags:
 | `artist` | Название исполнителя |
 | `title` | Название песни |
 | `source` | Источник (игра, фильм, сериал или событие), откуда песня была выпущена или с которым она больше всего ассоциируется |
-| `favourites` | Количество фаворитов у карты |
+| `favourites` | Число фаворитов у карты |
 | `featured_artist` | Идентификатор исполнителя из программы [Featured Artist](/wiki/People/Featured_Artists) |
 | `creator` | Ник автора сложности |
 | `difficulty` | Название сложности |
@@ -73,15 +72,15 @@ tags:
 | `star`, `stars` | [Число звёзд](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Скорость песни](/wiki/Music_theory/Tempo) |
 | `length` | [Общая длительность карты](/wiki/Beatmap/Play_time) в секундах |
-| `divisor` | Знаменатель [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
-| `circles` | Количество нот в карте |
-| `sliders` | Количество слайдеров в карте |
+| `divisor` | Знаменатель, взятый из [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
+| `circles` | Число нот в карте |
+| `sliders` | Число слайдеров в карте |
 | `key`, `keys` | Число клавиш (только для osu!mania и конвертированных карт) |
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l` |
-| `created`, `submitted` | Дата создания/загрузки карт |
+| `created`, `submitted` | Дата создания или публикации карты |
 | `updated` | Дата последнего обновления карты |
 | `ranked` | Дата получения картой статуса `ranked` или `approved` |
-| `tag` | Определённый [пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) |
+| `tag` | [Пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) |
 
 ## Клиент (lazer)[^lazer-filters]
 
@@ -89,25 +88,25 @@ tags:
 | :-- | :-- |
 | `artist` | Название исполнителя |
 | `title` | Название песни |
-| `source` | Источник (игра, фильм, сериал или событие), откуда песня была выпущена или с которым она больше всего ассоциируется |
+| `source` | Источник: творческая работа, с которой песня больше всего связана, или для которой она была написана (игра, фильм, сериал или событие) |
 | `creator`, `author`, `mapper` | Ник автора сложности |
 | `diff` | Название сложности карты |
 | `ar` | [Approach rate](/wiki/Beatmap/Approach_rate) |
 | `cs` | [Circle size](/wiki/Beatmap/Circle_size) |
 | `od` | [Overall difficulty](/wiki/Beatmap/Overall_difficulty) |
 | `hp`, `dr` | [HP drain rate](/wiki/Beatmap/HP_drain_rate) |
-| `star`, `stars`, `sr` | [Число звёзд](/wiki/Beatmap/Star_rating) |
+| `star`, `stars`, `sr` | Число [звёзд сложности](/wiki/Beatmap/Star_rating) |
 | `bpm` | [Скорость песни](/wiki/Music_theory/Tempo) |
 | `length` | [Общая длительность карты](/wiki/Beatmap/Play_time) в секундах |
 | `key`, `keys` | Число клавиш (только для osu!mania и конвертированных карт) |
 | `ln`, `lns` | Процент "длинных" нот (только для osu!mania и конвертированных карт) |
 | `status` | Статус карты. Может быть равен `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, `loved`, для краткости — `r`/`a`/`p`/`n`/`u`/`l`. Может принимать несколько значений, разделённые запятой (`,`) |
-| `lastplayed` | Время с последней игры на карте. Принимает формат `#y#M#d#h#m#s` для лет, месяцев, дней, часов, минут и секунд соответственно. Например, `2d5s` означает "2 дня и 5 секунд". |
-| `played` | Статус "пройдено". Значение может быть `yes`, `true`, `1` для сыгранных карт и `no`, `false`, `0` для несыгранных карт. |
+| `lastplayed` | Время, прошедшее с момента последней игры. Формат значения: `#y#M#d#h#m#s` для лет, месяцев, дней, часов, минут и секунд соответственно. Например, `2d5s` означает "2 дня и 5 секунд". |
+| `played` | Пройденная сложность. Значение может быть равно `yes`, `true` или `1` для сыгранных карт и `no`, `false` или `0` для несыгранных. |
 | `divisor` | Знаменатель [шага временной шкалы](/wiki/Client/Beatmap_editor/Beat_snap_divisor) |
 | `created`, `submitted` | Дата создания/загрузки карт |
-| `ranked` | Дата получения картой статуса `ranked` или `approved` |
-| `tag` | Определённый [пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) (поддерживается только внутренним поиском карт) |
+| `ranked` | Дата, когда карта получила статус `ranked` или `approved` |
+| `tag` | [Пользовательский тег](/wiki/Beatmap/Beatmap_tags#пользовательские-теги) (работает только во встроенном поиске по картам) |
 
 ## Примеры запросов
 
@@ -135,13 +134,13 @@ unplayed= status=r christmas
 ranked>=2010-08 ranked<2010-11 creator=Natteke
 ```
 
-(Лазер) Найти сложности карт, которые были сыграны не позднее, чем 2 месяца и 5 часов назад:
+(Лазер) Найти сложности, которые вы сыграли за последние 2 месяца и 5 часов:
 
 ```
 lastplayed<2M5h
 ```
 
-(Лазер) Найти сложности карт, которые не были сыграны за последний год:
+(Лазер) Найти сложности, которые вы последний раз играли больше года назад:
 
 ```
 lastplayed>1y
@@ -153,7 +152,7 @@ lastplayed>1y
 status=r,l
 ```
 
-(Лазер, веб-сайт) Найти карты с тегом маппера "J-pop" и пользовательским тегом "meta/custom skin":
+(Лазер, веб-сайт) Найти карты с тегом "J-pop" и пользовательским тегом "meta/custom skin":
 
 ```
 j-pop tag="meta/custom skin"
