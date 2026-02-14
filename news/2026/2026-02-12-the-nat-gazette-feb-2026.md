@@ -31,7 +31,7 @@ You can read more about this transitionary process in [this forum post](https://
 
 Vetoes have been a contested topic ever since their inception, with the system facing many changes attempting to make things more balanced. However, we can only get so far by tweaking thresholds and mediator numbers. Given how necessary vetoes are to the health of the ranking process, we have decided to proceed with the system's biggest rework yet.
 
-[The proposal](https://osu.ppy.sh/community/forums/topics/2138353?n=1) for the new system was published 4 months ago in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115), and it covers a drastic shift in how vetoes are handled.
+[The proposal](https://osu.ppy.sh/community/forums/topics/2138353) for the new system was published 4 months ago in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115), and it covers a drastic shift in how vetoes are handled.
 
 Previously, any full BN could initiate a veto, and the discussion was handled publicly in the beatmap's discussion thread. When the mapper and the vetoer reached a stalemate, either of them could initiate the mediation process, which would have all BNs vote on whether the veto should be upheld or not, with a 60% threshold for the veto to be upheld.
 
@@ -51,7 +51,7 @@ Each session will provide updates on the state of the ranked section and offer a
 
 Moving forward, these sessions will be hosted bi-annually on the fourth Sunday of February and July. The first will take place on **February 22nd at 20:00 UTC** on the [osu! Discord server](https://discord.com/invite/ppy).
 
-For a full breakdown of the format, purpose and what to expect, please check out the [accompanying forum thread](LINK).
+For a full breakdown of the format, purpose and what to expect, please check out the [accompanying forum thread](https://osu.ppy.sh/community/forums/topics/2178956).
 
 ### Ranking criteria changes
 
