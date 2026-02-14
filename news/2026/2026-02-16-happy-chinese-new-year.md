@@ -333,7 +333,7 @@ This year we're hoping to organize more collaborations at larger scales to prese
 
 ::{#Imokora-chiv}::
 
-![Banner is pending to be changed into "Imokora"](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imokora.png)
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/Imokora.png)
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/chiv.png)
 
