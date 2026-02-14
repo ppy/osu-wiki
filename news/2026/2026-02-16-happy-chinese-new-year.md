@@ -21,7 +21,7 @@ As the snow begins to melt and the rhythm of the new year picks up speed, we fin
 
 The time has come to reflect on the progress made over the past year. Throughout 2025, we've seen players continue to push their own limits and stay active in the competitive scene. 
 
-To commemorate these efforts, we've put together a video featuring the **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene—whether through dominant tournament performances or climbing the global leaderboards—over the last twelve months.
+To commemorate these efforts, we've put together a video featuring the **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards—over the last twelve months.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 1.414;" src="vod link here" frameborder="0" allowfullscreen></iframe>
@@ -291,7 +291,7 @@ Within the Chinese-speaking scene, [Crystal](https://osu.ppy.sh/users/1646397) i
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-You've been a mainstay of the OWC roster since 2016, and you've seen the lineup change significantly. Even within the current roster, many players are considering stepping away. Although you mentioned last year that you'd likely stay active, do you see yourself becoming a part of the team's history in the near future? Why? What keeps you from leaving—does it stem from your personal philosophy or attitude toward tournaments?
+You've been a mainstay of the OWC roster since 2016, and you've seen the lineup change significantly. Even within the current roster, many players are considering stepping away. Although you mentioned last year that you'd likely stay active, do you see yourself becoming a part of the team's history in the near future? Why? What keeps you from leaving — does it stem from your personal philosophy or attitude toward tournaments?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1646397" style="background-image: url('/wiki/shared/avatars/Crystal.jpg')"></a>
 
