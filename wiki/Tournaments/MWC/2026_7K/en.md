@@ -127,9 +127,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 57 | Indonesia ::{ flag=ID }:: | ::{ flag=PE }:: Peru | [Feb 14 (Sat) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260214T040000&p1=1440&p2=108&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 58 | China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 14 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260214T120000&p1=1440&p2=33&p3=248) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 60 | South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 14 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260214T140000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 57 | Indonesia ::{ flag=ID }:: | ::{ flag=PE }:: Peru | [Feb 14 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260214T150000&p1=1440&p2=108&p3=131) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 15 February 2026
 
@@ -137,9 +136,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 59b | China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T040000&p1=1440&p2=33&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 59d | Japan ::{ flag=JP }:: | ::{ flag=PE }:: Peru | [Feb 15 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T040000&p1=1440&p2=248&p3=131) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 60 | South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 15 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T100000&p1=1440&p2=235&p3=145) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 59a | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Feb 15 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T120000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 59c | Japan ::{ flag=JP }:: | ::{ flag=ID }:: Indonesia | [Feb 15 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T120000&p1=1440&p2=248&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Grand Finals | mappool showcase | [Feb 15 (Sun) 14:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+|  | Grand Finals | mappool showcase | [Feb 15 (Sun) 14:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260215T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
