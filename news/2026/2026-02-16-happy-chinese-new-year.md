@@ -97,7 +97,7 @@ One of the most exciting achievements was the **[Locus](https://osu.ppy.sh/home/
 The team **Locus of Hexagram**, consisting of ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), and ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910), claimed **1st place in the Community Pick**, showcasing a contribution widely appreciated by the osu! community. Their [beatmap](https://osu.ppy.sh/beatmapsets/2412260) are bundled with the osu! client, so be sure to check it out!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="vod link here" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=_FOeVts_dVs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 In the **[osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results)**, the ::{ flag=TW }:: Taiwan Team consisting of ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497), ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959), ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997), and ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988), delivered an outstanding performance. Competing against over 60 teams from more than 20 countries, they distinguished themselves in fierce international competition and secured an impressive **3rd place**.
@@ -151,7 +151,7 @@ To celebrate the occasion, we sat down with several prominent figures from the s
 
 ::{#BTMC}::
 
-![Banner for BTMC]()
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/btmc.png)
 
 As one of osu!'s most prominent content creators and a notable Chinese-American figure, [BTMC](https://osu.ppy.sh/users/3171691) has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
 
@@ -199,7 +199,9 @@ To wrap things up on a more personal note — Chinese New Year is as much about 
 
 ::{#seros-pw384-yf_bmp}::
 
-![Banner for seros-pw384-yf_bmp]()
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/pw384.png)
+
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/yfbmp.png)
 
 Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognized for his long-standing ability to evolve alongside the ever-changing trends of the scene.
 
@@ -227,9 +229,9 @@ In the osu! community, we often discuss "Chinese Mapping" as a distinct style. A
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1243669">yf_bmp</a></p> 
   
-Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by [tsuka](https://osu.ppy.sh/users/106767), [kiddly](https://osu.ppy.sh/users/74937), and [fanzhen0019](https://osu.ppy.sh/users/418699), alongside other influential branches like [NatsumeRin](https://osu.ppy.sh/users/151679) and [LKs](https://osu.ppy.sh/users/150768). In the "modern" era, [Skystar](https://osu.ppy.sh/users/873961) played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark.
+Regarding Chinese Mapping, I believe that it evolved from the strong structural focus led by [tsuka](https://osu.ppy.sh/users/106767), [kiddly](https://osu.ppy.sh/users/74937), and [fanzhen0019](https://osu.ppy.sh/users/418699), alongside other influential branches like [NatsumeRin](https://osu.ppy.sh/users/151679) and [LKs](https://osu.ppy.sh/users/150768). In the "modern" era, [Skystar](https://osu.ppy.sh/users/873961) played a pivotal role; he studied a lot of Chinese styles — I recall him mentioning how his [Rohi - Kakuzetsu Thanatos](https://osu.ppy.sh/beatmapsets/76396#osu/215906) was sent back for revisions multiple times by NatsumeRin, which heavily influenced his early work. fanzhen0019 also remains a cornerstone, as he has continuously reinvented himself from the early days to now, maintaining his status as a benchmark. If we’re talking about the modern era, since mapping has become highly saturated, it’s really hard to define Chinese mapping as a single person’s style. However, I do believe there are the following defining traits.
   
-In my view, the defining trait of Chinese Mapping is the Structural Logic — a logic present in both rhythm and visuals. Every slider and circle has a concrete reason for its placement and orientation; it's never arbitrary. The rhythm is chosen with intent, maintaining internal consistency from start to finish. It's inherently logical. Another hallmark is Playability. A commonality among these pioneers is their experience with other rhythm games, especially arcade ones. They draw from commercial rhythm game design — learning how to make a map "addictive", how to balance complexity with non-traditional rhythms, and how to create "peaks" that make players want to hit that retry button again and again.
+First of all is the structural logic — a logic present in both rhythm and visuals. Every slider and circle has a concrete reason for its placement and orientation; it's never arbitrary. The rhythm is chosen with intent, maintaining internal consistency from start to finish. It's inherently logical. Another hallmark is Playability. A commonality among these pioneers is their experience with other rhythm games, especially arcade ones. They draw from commercial rhythm game design — learning how to make a map "addictive", how to balance complexity with non-traditional rhythms, and how to create "peaks" that make players want to hit that retry button again and again.
   
 As for my own style, [NatsumeRin](https://osu.ppy.sh/users/151679) (2012-2014) was my biggest early influence; much of my rhythm choice, overlaps, and slider shapes can be traced back there. In the middle stage (2015-2016), I studied [Skystar](https://osu.ppy.sh/users/873961), the master who synthesized these styles with his own ideas. Later (2016-2018), I began exploring my own potential and realized that [fanzhen](https://osu.ppy.sh/users/418699)'s maps were in a league of their own regarding playability, so I spent a long time learning from him. Finally, in 2019, I integrated [rustbell](https://osu.ppy.sh/users/227717)'s rigid, high-difficulty expression. Since then, it's been about fine-tuning that 2019 version (e.g., mimicking [Kencho](https://osu.ppy.sh/users/3178411)'s flow or studying various old maps), though my energy has shifted toward my career. It took me seven years to finally feel satisfied with my own mapping.
   
@@ -279,7 +281,7 @@ But remember: The path is yours to walk. Be yourself. Don't change your beliefs 
 
 ::{#Crystal}::
 
-![Banner for Crystal]()
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/crystal.png)
 
 Within the Chinese-speaking scene, [Crystal](https://osu.ppy.sh/users/1646397) is a symbol of resilience. A mainstay of the China OWC roster since 2016, his decade-long consistency has made him a living legend for local players across multiple generations.
 
@@ -307,7 +309,7 @@ But one thing I am certain of: when the team really needs us, we veterans will d
 
 ::{#Sakura006}::
 
-![Banner for Sakura006]()
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/sakura.png)
 
 A talented Chinese designer, [Sakura006](https://osu.ppy.sh/users/10365024) serves as the Lead for the World Cup Design Team. His work on osu! originals and major tournaments has significantly enriched the visual experience for players worldwide.
 
@@ -331,7 +333,9 @@ This year we're hoping to organize more collaborations at larger scales to prese
 
 ::{#Imokora-chiv}::
 
-![Banner for Imokora-chiv]()
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imokora.png)
+
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/chiv.png)
 
 [Imokora](https://osu.ppy.sh/users/2472609) and [chiv](https://osu.ppy.sh/users/6701656) are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
 
@@ -418,4 +422,4 @@ The arrival of the new year is always a time for reflection and renewal. To ever
 
 May your UR be low, your combos be high, and may success come to you as swiftly as a galloping steed (**Ma Dao Cheng Gong**). Across all regions and time zones, we hope the beat of the new year brings you nothing but joy. Happy Chinese New Year!
 
--AstralXynsm, FcEazy, Luval, Mafumafu, MarioKartya, Pager, seros, silly me & Trolloli.
+-AstralXynsm, FcEazy, Luval, Mafumafu, MarioKartya, Pager, seros, silly me, Trolloli & Z419.
