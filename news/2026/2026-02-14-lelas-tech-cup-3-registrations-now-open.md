@@ -48,6 +48,8 @@ This should result in more diverse skill set requirements, and thus the overall 
 | Finals | April 24 – April 26 |
 | Grand Finals | May 1 – May 3 |
 
+The matches will be streamed from the [@lelastechcup Twitch channel](https://www.twitch.tv/lelastechcup).
+
 ## How do I register?
 
 [![Click here to register!](/wiki/shared/news/2026-02-14-lelas-tech-cup-3-registrations-now-open/register.png)](https://forms.gle/zkuPAinDdiqxuQyS7)
