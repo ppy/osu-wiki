@@ -13,13 +13,13 @@ Ever since the [state of Ranked survey results](https://osu.ppy.sh/home/news/202
 
 While there's a lot that still needs to be worked on, we want to take the moment to tackle arguably two of the most contested topics surrounding the Ranked section altogether: how the osu! NAT approaches evaluations and how [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto) are performed.
 
-We encourage all users to engage on any ongoing [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115). Keep an eye out for any new changes to come!
+We encourage all users to engage on any ongoing discussions in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115). Keep an eye out for any new changes to come!
 
 ## Updates
 
 ### Evaluations moving forward
 
-After much discussion with the team, gathering opinions from the community and assessing the results of the latest [state of Ranked survey](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results), moving forward, the osu! Nomination Assessment Team will slowly be taking a more opinionated approach to Beatmap Nominator evaluations. Additionally, the outcome of any and all warnings will be decided by the **entire** osu! NAT as opposed to a subset of which, as was the case previously.
+After much discussion within the team, gathering opinions from the community, and assessing the results of the latest [state of Ranked survey](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results), moving forward, the osu! Nomination Assessment Team will slowly be taking a more opinionated approach to Beatmap Nominator evaluations. Additionally, the outcome of any and all warnings will be decided by the **entire** osu! NAT as opposed to a subset of it, as was the case previously.
 
 These changes should allow the osu! Nomination Assessment Team to more accurately assess the quality of beatmaps being ranked while offering feedback to Beatmap Nominators, in an attempt to more closely follow the community's expectations. While these changes may not fully address the inherent disconnect between every group involved and their differing expectations, we're actively working to find new ways to bridge the gap — more on that later!
 
@@ -33,7 +33,7 @@ Vetoes have been a contested topic ever since their inception, with the system f
 
 [The proposal](https://osu.ppy.sh/community/forums/topics/2138353?n=1) for the new system was published 4 months ago in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115), and it covers a drastic shift in how vetoes are handled.
 
-Previously, any full BN could initiate a veto, and the discussion was handled publicly in the beatmap's discussion thread. When the mapper and the vetoer reached a stalemate, either of them could initiate  the mediation process, which would have all BNs vote on whether the veto should be upheld or not, with a 60% threshold for the veto to be upheld.
+Previously, any full BN could initiate a veto, and the discussion was handled publicly in the beatmap's discussion thread. When the mapper and the vetoer reached a stalemate, either of them could initiate the mediation process, which would have all BNs vote on whether the veto should be upheld or not, with a 60% threshold for the veto to be upheld.
 
 The new system aims to create a safe space for all relevant parties involved in a veto to discuss the issue in a more structured and civil manner through a private chatroom. Moreover, the new system will account for the community's input during mediation, allowing the community to have a meaningful say in the outcome of a veto! For a full breakdown of the new system, check out the video below:
 
@@ -67,7 +67,7 @@ For a full breakdown of the format, purpose and what to expect, please check out
 | **osu!** | Revised the rule for the usage of ambiguous sliders in Expert difficulties. | [View changes](https://github.com/ppy/osu-wiki/pull/12913) |
 | **osu!taiko** | Reduced drain time requirements, allowed some spread gap leniency between [guest difficulties](/wiki/Beatmap/Guest_difficulty), increased chain length in Muzukashii difficulties, and performed miscellaneous cleanups to the article. | [View changes](https://github.com/ppy/osu-wiki/pull/13958) |
 | **osu!catch** | Reworked and simplified the overall difficulty guideline. | [View changes](https://github.com/ppy/osu-wiki/pull/14126) |
-| **osu!catch** | A full rework of the osu!catch ranking criteria including but not limited to difficulty settings adjustments, simplified rules and guidelines related to snapped objects, and several formatting changes. | [View changes](https://github.com/ppy/osu-wiki/pull/13338) |
+| **osu!catch** | A full rework of the osu!catch ranking criteria including, but not limited to, difficulty setting adjustments, simplified rules and guidelines related to snapped objects, and several formatting changes. | [View changes](https://github.com/ppy/osu-wiki/pull/13338) |
 
 ## Within the teams
 
