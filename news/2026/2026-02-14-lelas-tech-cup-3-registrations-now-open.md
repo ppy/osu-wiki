@@ -17,7 +17,7 @@ A curious being has awoken within the forest to bring you the third chapter, whe
 
 **[Lela's Tech Cup](https://osu.ppy.sh/community/forums/topics/2179445)**, or LTC for short, is a tournament series that has has evolved in parallel to the ever-expanding tech skill sets. With no rank gates and no registrations bound by numbers, osu! players from every corner of the world are free to wander in and let their abilities shine.
 
-[Last year](https://osu.ppy.sh/community/forums/topics/2054146), our poolers challenged themselves to build mappools entirely using unique creators for each selection, designed to showcase just how much talent exists in the osu! mapping community. The result was a set of maps that felt unpredictable, surprising, and more reflective of osu! overall.
+[Last year](https://osu.ppy.sh/community/forums/topics/2054146), our poolers challenged themselves to build mappools entirely using unique creators for each selection, designed to showcase just how much talent exists in the osu! mapping community. The result was a set of maps that felt unpredictable, surprising and more reflective of osu! overall.
 
 *We invite you to step into LTC and let us show you just how deep tech mapping can go.*
 
@@ -29,7 +29,7 @@ The Grand Finals tiebreaker, serving as a centrepiece, stands as a symbolic mome
 
 The mappools will be unconventional overall. There will be no strict format to the slots in the pools, and we will be bringing back the EX slots. This may also entail maps of any modification and/or win conditions.
 
-This should result in more diverse skill set requirements, and thus the overall difficulty of the maps can be expected to be higher than usual. This allows the tournament to spotlight niche mechanics and advanced techniques that often go unseen, pushing players to adapt and refine rarely tested abilities.
+These changes should result in more diverse skill set requirements, and thus the overall difficulty of the maps can be expected to be higher than usual. The aim is to spotlight niche mechanics and advanced techniques that often go unseen, pushing players to adapt and refine rarely tested abilities.
 
 *We have many hidden quests to take part in. What is LTC without a little sparkle?*
 
