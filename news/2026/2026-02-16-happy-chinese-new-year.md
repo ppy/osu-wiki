@@ -106,7 +106,7 @@ In **[Vocaloid Mapping Contest #3](https://www.vat.gg/vmc3)**, the duo of ::{ fl
 
 ::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) to be awarded the **Elite Mapper** title.
 
-*(PDC content redacted)*
+Another "second time champion" highlight came from **[Pending Cup 2025](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025)**: ::{ flag=TW }:: **[Matsuyuki Ame](https://osu.ppy.sh/users/12763959)** once again ranked first along in one of the three contest tracks. They reaffirmed their consistent excellence in the Pending Cup!
 
 2025 is also a fruitful year for novice mappers. **[Newspaper Cup 2025](https://osu.ppy.sh/home/news/2025-01-29-newspaper-cup-2025)** highlighted the rise of new talent from the Chinese mapping community: Three novice mappers ::{ flag=CN }:: **[PEALEERD_TAK](https://osu.ppy.sh/users/6214002)**, ::{ flag=CN }:: **[Mimosa M](https://osu.ppy.sh/users/24010320)**, and ::{ flag=CN }:: **[YeLing](https://osu.ppy.sh/users/14726718)** swept the **top three positions**. Want to be one of them? Submissions phase for **[Newspaper Cup 2026](https://osu.ppy.sh/community/contests/270)** are now nearing the end, and new mappers are strongly encouraged not to miss this valuable opportunity to step onto the competitive stage!
 
