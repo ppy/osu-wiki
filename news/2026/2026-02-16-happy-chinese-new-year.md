@@ -15,13 +15,13 @@ series: miscellaneous
 
 As the snow begins to melt and the rhythm of the new year picks up speed, we find ourselves at the doorstep of the **Year of the Horse**. Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day.
 
-**[View the Chinese version of this article here. | 点击此处查看中文版主题。]()**
+**[View the Chinese version of this article here. | 点击此处查看中文版主题。](forum link here)**
 
 ## The 2025 Rankings: China's Top 15 osu! players of 2025
 
 The time has come to reflect on the progress made over the past year. Throughout 2025, we've seen players continue to push their own limits and stay active in the competitive scene. 
 
-To commemorate these efforts, we've put together a video featuring the **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards—over the last twelve months.
+To commemorate these efforts, we've put together a video featuring the **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 1.414;" src="vod link here" frameborder="0" allowfullscreen></iframe>
@@ -74,7 +74,7 @@ The performance of local teams in the World Cup series has been equally remarkab
 
 - **osu! World Cup**: ::{ flag=CN }:: China and ::{ flag=TW }:: Taiwan maintained steady performances, securing **Top 12** and **Top 16** placements respectively. ::{ flag=HK }:: Hong Kong, despite a major roster overhaul, advanced through Qualifiers as the #40 seed. In a notable Group Stage encounter against ::{ flag=GR }:: Greece, ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423) played all 9 maps with a staggering 2.3 matchcost to **lead a 5:4 comeback victory**, securing a hard-fought win to close out their campaign. Meanwhile, ::{ flag=MO }:: Macau showed significant growth following their 2024 return after a decade-long hiatus. They achieved a notably higher Qualifier rank this year with a compact 7-player roster, proving that even small communities possess immense vitality.
 
-- **Other World Cup series**: ::{ flag=TW }:: Taiwan continued its legacy as a powerhouse in the **osu!taiko World Cup**, securing 3rd place. ::{ flag=CN }:: China returned to the podium in the **osu!mania 7k World Cup** with a 2nd place finish and made history in the **osu!mania 4k World Cup** by taking the **#1 Seed** in Qualifiers — the first time a Chinese team has achieved the top seed in a World Cup series.
+- **Other World Cup series**: ::{ flag=TW }:: Taiwan continued its legacy as a powerhouse in the **osu!taiko World Cup**, securing **3rd place**. ::{ flag=CN }:: China returned to the podium in the **osu!mania 7k World Cup** with a **2nd place** finish and made history in the **osu!mania 4k World Cup** by taking the **#1 Seed** in Qualifiers — the first time a Chinese team has achieved the top seed in a World Cup series.
 
 ### Diverse Community Circuit
 
@@ -185,7 +185,7 @@ Through The Roundtable, you've built a global stage that connects players in the
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-To wrap things up on a more personal note — Chinese New Year is as much about the food as it is about the celebration! For your family, what is that one 'must-have' dish on the table during the Chinese New Year? Is there a specific food that instantly makes it feel like the holidays for you?
+To wrap things up on a more personal note — Chinese New Year is as much about the food as it is about the celebration! For your family, what is that one "must-have" dish on the table during the Chinese New Year? Is there a specific food that instantly makes it feel like the holidays for you?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
 
@@ -333,7 +333,7 @@ This year we're hoping to organize more collaborations at larger scales to prese
 
 ::{#Imokora-chiv}::
 
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imokora.png)
+![Banner is pending to be changed into "Imokora"](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imokora.png)
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/chiv.png)
 
@@ -345,7 +345,7 @@ This year we're hoping to organize more collaborations at larger scales to prese
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-Having worked with both of you on numerous projects, I've always valued your unique 'insider-outsider' perspectives. chiv, you are a mainstay of the international staff scene who frequently lends your expertise to Chinese tournaments; Imokora, you are one of the pillars of the Chinese-speaking community who has become increasingly active in major international events.
+Having worked with both of you on numerous projects, I've always valued your unique "insider-outsider" perspectives. chiv, you are a mainstay of the international staff scene who frequently lends your expertise to Chinese tournaments; Imokora, you are one of the pillars of the Chinese-speaking community who has become increasingly active in major international events.
 
 Based on your extensive experience in both hosting and pooling, where do you see the biggest differences between the Chinese-speaking tournaments and the broader international scene?
 
