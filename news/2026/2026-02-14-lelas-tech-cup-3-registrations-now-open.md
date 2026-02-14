@@ -81,7 +81,7 @@ More information, including the full ruleset and match procedures, is available 
 
 ---
 
-Whether tech is second nature to you or an uncharted path you're only beginning to walk, LTC 3 is designed to be immersive and thrilling. Mastery isn't just about execution: it's about turning chaos into control when it challenges your limits.
+Whether tech is second nature to you or an uncharted path you're only beginning to walk, LTC 3 is designed to be immersive and thrilling. Mastery isn't just about execution, it's about turning chaos into control when it challenges your limits.
 
 Only teams willing to adapt — to learn from every miss, every read, every unexpected pattern — will make it to the end.
 
