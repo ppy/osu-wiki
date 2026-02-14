@@ -15,9 +15,9 @@ A curious being has awoken within the forest to bring to you the third chapter, 
     </video>
 </div>
 
-**[Lela's Tech Cup](linkforumpost)**, or LTC for short, is a tournament that has has evolved in parallel to the ever-expanding tech skill sets. With no rank gates and no registrations bound by numbers, osu! players from the world's every corner are free to wander in and let their abilities shine.
+**[Lela's Tech Cup](https://osu.ppy.sh/community/forums/topics/2179445)**, or LTC for short, is a tournament that has has evolved in parallel to the ever-expanding tech skill sets. With no rank gates and no registrations bound by numbers, osu! players from the world's every corner are free to wander in and let their abilities shine.
 
-**[Last year](https://osu.ppy.sh/community/forums/topics/2054146?n=1)**, our poolers challenged themselves to build mappools entirely using unique creators for each selection, designed to showcase just how much talent exists in the osu! mapping community. The result was a set of maps that felt unpredictable, surprising, and more reflective of osu! overall.
+**[Last year](https://osu.ppy.sh/community/forums/topics/2054146)**, our poolers challenged themselves to build mappools entirely using unique creators for each selection, designed to showcase just how much talent exists in the osu! mapping community. The result was a set of maps that felt unpredictable, surprising, and more reflective of osu! overall.
 
 *We invite you to step into LTC and let us show you just how deep tech mapping can go.*
 
@@ -75,7 +75,7 @@ The top three teams will pick from distinct sets of prizes provided by different
 
 Additionally, every week we will have a giveaway to anyone who is participating. Look out for these weekly challenges in the **[Discord server](https://discord.com/invite/bQVmfPx5cy)**. It's also the place for updates on mappool reveals, matches and stream schedules as the tournament advances, so make sure to keep an eye out!
 
-More information, including full ruleset and match procedures, is available on the **[forum post](link)** and the **[tournament website](https://lelastechcup.com)**.
+More information, including full ruleset and match procedures, is available on the **[forum post](https://osu.ppy.sh/community/forums/topics/2179445)** and the **[tournament website](https://lelastechcup.com)**.
 
 ---
 
