@@ -13,9 +13,9 @@
 #### 规定
 
 - **你的谱面必须理论上可以 SS。** 这意味着必须理论上能够完全接住所有[大果](/wiki/Hit_object/Fruit)、[中果](/wiki/Hit_object/Juice_stream#中果)和[小果](/wiki/Hit_object/Juice_stream#小果)。
-- **除非强制使用默认皮肤，谱面必须设置至少两种不同的自定义[连击颜色](/wiki/Beatmapping/Combo_colour)。**
+- **除非强制使用默认皮肤，否则谱面必须设置至少两种不同的自定义[连击颜色](/wiki/Beatmapping/Combo_colour)。**
   - 任何情况下，连击颜色组都不能容易与谱面的背景图片、故事板、背景视频相混淆。
-- **请勿在 hitnormal 音效较弱时使用[按键音](/wiki/Beatmapping/Hitsound#keysound)。** 如果按键音与音乐过于相似，此时玩家接住[大果](/wiki/Hit_object/Fruit)时获得的反馈将会非常微弱。
+- **请勿在 hitnormal 音效较弱时使用[按键音](/wiki/Beatmapping/Hitsound#keysound)。** 如果按键音与音乐过于相似，玩家接住[大果](/wiki/Hit_object/Fruit)时获得的反馈将会非常微弱。
 - **如果谱面的[掉血时间](/wiki/Beatmap/Drain_time)...**
   - **...小于 2:30**，则最低难度不得高于 Salad，或提供包含至少 4 个难度的合理难度分布[^proper-spread]。
   - **...在 2:30 到 3:15 之间**，则最低难度不得高于 Platter，或提供包含至少 3 个难度的合理难度分布[^proper-spread]。
@@ -31,7 +31,7 @@
 - **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 的值必须与[下落速度 (AR)](/wiki/Beatmapping/Approach_rate) 相同。** 如果总得分将溢出，必须使用一个更低的值（这个值只会影响 [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch) 下谱面的理论最高分）。
 - **[滑条点倍率](/wiki/Beatmapping/Slider_tick_rate)应按歌曲节奏类型来设置。** 举个例子 ，若歌曲中某段仅使用 1/3 节奏，那么倍率 2 并不适用于整张谱面。
 - **避免使用亮度约为 50 或更低的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 如果玩家的背景暗化设得很高，较暗的连击颜色会影响[大果](/wiki/Gameplay/Hit_object/Fruit)的可读性。
-- **在[Kiai 段落](/wiki/Gameplay/Kiai_time) 中，避免使用亮度约为 220 或更高的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 在 Kiai 段落中使用较亮的连击颜色，会发出强烈、让眼睛感到不适的脉冲光效。
+- **在[Kiai 段落](/wiki/Gameplay/Kiai_time)中，避免使用亮度约为 220 或更高的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 在 Kiai 段落中使用较亮的连击颜色，会发出强烈、让眼睛感到不适的脉冲光效。
 
 ### 皮肤
 
@@ -46,7 +46,7 @@
 
 ## 具体难度
 
-具体难度的规则和准则仅适用于其特定难度等级，因此*不适用于**所有** osu!catch 难度*。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[上架标准中的 BPM 缩放规则](/wiki/Ranking_Criteria/Scaling_BPM)
+具体难度的规定和准则仅适用于其特定难度等级，因此*不适用于**所有** osu!catch 难度*。与节奏相关的规定和准则适用于歌曲为 4/4 拍，约 180 BPM 的谱面。如果歌曲明显快于或慢于 180 BPM，某些规则内限制的指标会不一样。更详细的说明请参考：[上架标准中的 BPM 缩放规则](/wiki/Ranking_Criteria/Scaling_BPM)
 
 ### 难度名
 

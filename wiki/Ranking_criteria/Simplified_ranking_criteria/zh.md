@@ -1,6 +1,6 @@
 # 简版上架标准
 
-*对于完整版谱面上架标准 (RC)，请参见：[谱面上架标准](/wiki/Ranking_criteria)*
+*对于完整版谱面上架标准 (RC)，请参阅：[谱面上架标准](/wiki/Ranking_criteria)*
 
 完整的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 相当复杂。它解释了制作一张能够被[上架](/wiki/Beatmap_ranking_procedure#上架)的[谱面](/wiki/Beatmap)所需要遵守的所有规定和准则，其中包含*大量*大多数谱师从未遇到过的特殊情况。
 
@@ -26,7 +26,7 @@
   - 像 Seed -> Sprout -> Tree 这样符合事物发展逻辑的命名方案也可以。
   - **例外：** 谱面的主难（最高难度）可以自定义命名。例如 Normal -> Hard -> *Melancholy*。
 - **不要跳过难度级别。** 例如，你制作了 Normal 和 Insane 难度，那么也需要制作 Hard 难度。
-- **[谱面创建者](/wiki/Beatmap/Beatmap_host) 制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
+- **[谱面创建者](/wiki/Beatmap/Beatmap_host)制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
 - **取决于游戏模式和歌曲长度，谱面所需的最低难度不能低于：**
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
