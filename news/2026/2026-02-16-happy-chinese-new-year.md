@@ -157,6 +157,54 @@ To celebrate the occasion, we sat down with several prominent figures from the s
 
 ---
 
+::{#BTMC}::
+
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/btmc.png)
+
+As one of osu!'s most prominent content creators and a notable Chinese-American figure, [BTMC](https://osu.ppy.sh/users/3171691) has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
+
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
+
+As a Chinese American, you have a unique perspective on both Western and Eastern communities. When you see fans from the Chinese-speaking scene supporting your content or even using your memes, does it feel different to know that your influence reaches so far across cultural lines?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3171691">BTMC</a></p>
+
+Having a global platform is something I’ll never take for granted. Just as people found me through my content, creating content helped me find my people. Growing up, it was rare to find anyone interested in YouTube, Twitch, or the specific niches I dove into. Crossing those cultural lines allowed me to connect with people just like me from all over the world.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
+
+Through The Roundtable, you've built a global stage that connects players in the real world, and we're seeing a growing wave of LAN events popping up everywhere as a result. In fact, seeing the passion and community spirit you fostered with your event was a huge inspiration for me. This past year, I personally hosted and witnessed that same incredible energy when we brought our community together for China LAN 2025 — the largest offline event in our region in seven years. Heading into the new year, is there anything you'd like to share with future organizers, or with the fans and players who haven't yet had the chance to experience an offline event?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3171691">BTMC</a></p>
+
+Events aren't made for profit; they’re made for passion. I've spent years trying to crack the code on how to make recurring events sustainable, and the reality is they’re impossible without the hundreds of people willing to volunteer their time and skills. Despite the struggle, events consistently create moments that leave a lasting impact, building memories and friendships you’ll never forget. You simply cannot replicate that feeling of belonging online. But because profit incentives are rare, events constantly struggle to survive, mine included. So, support your favorite events. Watch, attend, volunteer, and be the change you want to see.
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
+
+To wrap things up on a more personal note — Chinese New Year is as much about the food as it is about the celebration! For your family, what is that one "must-have" dish on the table during the Chinese New Year? Is there a specific food that instantly makes it feel like the holidays for you?
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3171691">BTMC</a></p>
+
+My mom used to make the best lamb dumplings in the world, doing the dough and filling entirely from scratch. I grew up helping her, but I always sucked at wrapping them. There’s just some "hidden tech" I’m missing. To this day, no other dumpling has come close, but I get by with pork soup dumplings from Costco. If I can't beat her on taste, at least I can win on convenience and value.
+
+</div>
+
+---
+
 ::{#seros-pw384-yf_bmp}::
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/pw384.png)
