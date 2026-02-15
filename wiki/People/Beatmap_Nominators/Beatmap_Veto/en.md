@@ -2,38 +2,41 @@
 
 The *beatmap veto* allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from ranking if they feel there are significant issues regarding beatmap quality which make it unfit for the [Ranked](/wiki/Beatmap/Category#ranked) section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with [Qualification](/wiki/Beatmap_ranking_procedure#qualification) is one of their main responsibilities.
 
-Any Beatmap Nominator may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules). Each beatmap veto must be discussed by both parties — the mapper as well as the Nominator placing the beatmap veto — in an attempt to reach an agreed compromise.
+Any Beatmap Nominator (BN) or member of the Nomination Assessment Team may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules). Each beatmap veto must be discussed by both parties — the mapper as well as the Nominator placing the beatmap veto — in an attempt to reach an agreed compromise.
 
 In cases where discussion does not take place or is inconclusive, and either the mapper or vetoing Nominator requests it, members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) will initiate and oversee a mediation to either uphold or dismiss the veto. The mediation vote is held anonymously among the Beatmap Nominators and members of the NAT of a given game mode. Once voting has completed, the reasoning from each participant is revealed along with the mediation result in the beatmap discussion.
 
-## Performing a beatmap veto
+## Initiating a beatmap veto
 
-As a Beatmap Nominator, you can veto a beatmap in one of three ways:
+As a Beatmap Nominator (BN), you can initiate the process of vetoing a beatmap by clicking `Submit anonymous veto` on [the BN Management website's Vetoes page](https://bn.mappersguild.com/vetoes) and filling out the prompts to submit a pending veto. This includes a thorough explanation of the reason(s) for the veto. NAT members may submit pending vetoes in the same way. Pending vetoes are only visible to BN and NAT members.
 
-- In the case of nominated or qualified beatmaps, posting a suggestion stamp.
-- In the case of pending beatmaps, posting a problem stamp.
+Once this pending veto is submitted, two Beatmap Nominators must vouch for it in order to veto the beatmap. Vouching for a veto is an indication of support for the veto, and is considered equivalent to submitting a veto writeup. NAT members **cannot** vouch for vetoes.
 
-In all cases, the beatmap veto should be stated as such, and should be accompanied by a detailed explanation as to why you believe the beatmap in question should not be considered for Qualification. A proper discussion which attempts to reach a mutual agreement by both sides of the argument must then follow.
+Once a veto writeup has been vouched for by two Beatmap Nominators, the relevant beatmap is considered vetoed, and the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) will post to the affected map's discussion about it, stating the reason(s) for the veto.
 
-Assuming the issues are satisfactorily resolved or justified with all parties in agreement, the Nominator may lift the beatmap veto and allow Qualification to proceed.
+## Discussion
+
+Once a beatmap is vetoed, the vetoers (users who submitted and vouched for the veto), as well as the beatmap's creator and any guest difficulty creators whose difficulties are affected, are invited to a private veto chatroom. Additionally, members of the NAT have access to view and delete messages in the chatroom in order to moderate it.
+
+All users in the private veto chatroom are anonymous to begin with<!--though I think this will be changed very soon -->, but a user may choose to reveal their identity at any time.
+
+The vetoers are expected to discuss the reasons for the veto with the mapper(s) and try to reach a compromise. If the mapper thinks they have made sufficient changes to resolve the vetoers' concerns, they may initiate a vote to dismiss the veto. The vetoers will be prompted to vote to uphold or dismiss the veto. If two of the three vetoers vote to dismiss the veto, the veto is dismissed, and the beatmap may be ranked.
+
+If discussion is no longer progressing in the direction of a compromise, or is otherwise unable to be reasonably resolved, the mapper(s) or vetoers may request veto mediation, although two vetoers must request mediation for it to be initiated. This option is made available after 24 hours to allow time for discussion.
 
 ## Veto mediation
 
-Beatmapping is extremely diverse and creative differences are to be expected. This is to be encouraged for the sake of creating a variety of content all players can enjoy! However, such differences can naturally lead to disagreements.
+If veto mediation is initiated, two groups of Beatmap Nominators, each consisting of 15% of the relevant mode's Beatmap Nominators with a minimum of 5 Beatmap Nominators per group, will be selected and asked to vote to agree or disagree with each veto point. Any Beatmap Nominators that vote may add an anonymous comment to explain their vote. 
 
-If discussion is no longer progressing in the direction of a compromise, or is otherwise unable to be reasonably resolved, the beatmap creator or vetoing Beatmap Nominator can request for mediation. If no request is received, mediation will not begin and the mapper will be assumed to have given up on the beatmap.
+Additionally, **any user may vote** to agree or disagree with each veto point, **even if they are not a Beatmap Nominator**. All users who were not Beatmap Nominators selected to vote are considered a third group of voters. 
 
-If the vetoer is no longer a Beatmap Nominator and no mediation has been requested, the veto will be dismissed.
+This voting lasts 7 days. Once it is done, the votes are tallied. If a 60% majority within a group agrees with a veto point, that group will be considered to agree with the veto point; otherwise, the group will be considered to disagree with the veto point.
 
-During mediation, Beatmap Nominators and members of the NAT for the game mode(s) the veto affects will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process will take around 7 days depending on how quickly participants make their decisions. The veto may be broken up into smaller points for voting which can be individually upheld or dismissed through the vote's results.
-
-Any decision made by participants must be accompanied by a reason for making the decision. Should a member be unable to participate, their vote will be considered abstained.
-
-For a veto point to be upheld, a 60% majority of votes must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
+For a veto point to be upheld, at least two of the three groups must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
 
 ## How to proceed after mediation
 
-Following mediation, the beatmap veto will either be dismissed if the proposed changes are deemed unnecessary or detrimental to the beatmap, or upheld if they are considered necessary or beneficial.
+Following mediation, the beatmap veto will either be dismissed if all veto points were dismissed, or upheld if one or more of the veto points were upheld.
 
 ### Dismissed beatmap vetoes
 
