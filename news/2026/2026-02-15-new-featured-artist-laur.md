@@ -9,11 +9,11 @@ Pinch yourself. You aren't dreaming.
 
 ![](https://assets.ppy.sh/artists/527/header.jpg)
 
-A master of enough genres and styles to be classified as a chimera of sound, Japanese producer **Laur** has been contributing top of the line music to the rhythm game scene for over a decade. Titles like *Arcaea*, *SOUND VOLTEX*, *Cytus II*, *Taiko no Tatsujin* and *maimai* have adopted **Laur**'s pristine sound already, and it's about time for osu! to officially do the same.
+A master of enough genres and styles to be classified as a chimera of sound, Japanese producer **Laur** has been contributing top-of-the-line music to the rhythm game scene for over a decade. Titles like *Arcaea*, *SOUND VOLTEX*, *Cytus II*, *Taiko no Tatsujin* and *maimai* have adopted **Laur**'s pristine sound already, and it's about time for osu! to officially do the same.
 
 **Laur** has a discography the size of an ocean. We snagged **25** unbelievably awesome tracks from their backlog, all of which can be found as pre-timed `.osz` templates on [**Laur**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/527)!
 
-You might notice a distinctly pink track in **Laur**'s listing too. While **Laur** has been a recognisable name in the osu! community for years already, their debut into our Featured Artist catalogue coincided with a completely new song release: [*SEV-26*](https://osu.ppy.sh/beatmapsets/2508618), the Grand Finals tiebreaker reveal for [2026's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K)!
+You might notice a distinctly pink track in **Laur**'s listing too. While **Laur** has been a recognisable name in the osu! community for years already, their debut into our Featured Artist catalogue coincided with a completely new song release: [*SEV-26*](https://osu.ppy.sh/beatmapsets/2508618), the Grand Finals tiebreaker for [2026's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K)!
 
 Stretch your scrolling muscles (and play some maps along the way):
 
@@ -141,7 +141,7 @@ Or drop some fruit on [this extremely difficult map](https://osu.ppy.sh/beatmaps
 
 ### Laur vs. CK - Lost Civilization
 
-You'd be losing more than just civilization if you didn't play [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1538278) hosted by [davidminh0111](https://osu.ppy.sh/users/9623142)!
+You'd be losing more than just civilisation if you didn't play [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1538278) hosted by [davidminh0111](https://osu.ppy.sh/users/9623142)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/527/Songs/Laur%20vs.%20CK%20-%20Lost%20Civilization.mp3">
@@ -149,7 +149,7 @@ You'd be losing more than just civilization if you didn't play [this osu!taiko m
 
 ---
 
-Once upon a time, you played a map with one of **Laur**'s songs. From that moment onwards, your life was never the same. Fulfill your destiny by picking a song from [**Laur**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/527) and creating a map of your own.
+Once upon a time, you played a map with one of **Laur**'s songs. From that moment onwards, your life was never the same. Fulfil your destiny by picking a song from [**Laur**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/527) and creating a map of your own.
 
 Stay tuned for a new Featured Artist next weekend, along with the conclusion to the [osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K)! Witness the matches live on the [osulive Twitch channel](https://www.twitch.tv/osulive). We'll see you there.
 
