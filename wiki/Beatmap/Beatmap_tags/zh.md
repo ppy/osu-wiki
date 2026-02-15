@@ -12,7 +12,7 @@
 
 在[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_setup) 窗口中输入谱面的元数据时，host 可以在 "Tags" 字段中添加自定义关键词（通过空格分隔）。由两个或多个单词组成的关键词可以用下划线（`_`）替换它们之间的空格，以实现更高效的谱面搜索。
 
-这些关键词随后可以在客户端的[歌曲选择页](/wiki/Client/Interface#song-select)以及官网的[谱面列表页](https://osu.ppy.sh/beatmapsets)中设置为过滤器（通过全文搜索实现）。
+这些关键词随后可以在客户端的[歌曲选择页](/wiki/Client/Interface#选歌界面)以及官网的[谱面列表页](https://osu.ppy.sh/beatmapsets)中设置为过滤器（通过全文搜索实现）。
 
 ## 用户标签 (User tags)
 
