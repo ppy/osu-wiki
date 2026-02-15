@@ -40,11 +40,11 @@ tags:
 | Organisers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Admins | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [Daria Maria](https://osu.ppy.sh/users/10806219), ::{ flag=AT }:: [FCnt](https://osu.ppy.sh/users/7336729) |
 | Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
-| Developer | ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) |
+| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027) |
-| Playtesters | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745) |
+| Playtesters | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
-| Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [Chantivy](https://osu.ppy.sh/users/29021628), ::{ flag=AR }:: [KlBBY](https://osu.ppy.sh/users/12182138), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604) |
+| Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706) |
 | Commentators | *TBA* |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
@@ -85,7 +85,7 @@ tags:
 2. All matches will be played with ScoreV2 in Head-to-Head mode.
 3. All maps will be played with No Fail enabled, along with the appropriate mods for that map.
 4. Each stage's mappool will be revealed during the official tournament stream.
-5. Special guests will be undergoing a special qualifying process separate from the normal players. Their results will be revealed once all qualifying lobbies have concluded.
+5. Special guests will be undergoing a special qualifying process separate from the normal players, conducted in their own qualifier lobbies. Their results will be revealed once all qualifying lobbies have concluded. This process does not guarantee a spot in the tournament, as special guests must qualify for the bracket stage based on their performance.
 6. Tournament staff members are not allowed to participate as players, with the exception of commentators and GFX artists.
 
 ### Qualifier procedure
@@ -96,7 +96,7 @@ tags:
 3. If a player does not show up to their scheduled Qualifier lobby, they may play in any other lobby.
 4. Maps will be played in the listed order as shown on the mappool spreadsheet. There will be one playthrough of the pool. If a player wishes to re-play the pool, they will be able to do so once. Only best runs will be used for seeding.
 5. Players have 120 seconds to ready up before each map.
-6. The top players from the Qualifiers (amount is TBD), determined by the average sum of placements, will advance to the Bracket Stage.
+6. The top 32 players from the Qualifiers, determined by the average sum of placements, will advance to the Bracket Stage.
 
 ### Mappool information
 
