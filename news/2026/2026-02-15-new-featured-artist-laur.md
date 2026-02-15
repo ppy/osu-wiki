@@ -11,7 +11,7 @@ Pinch yourself. You aren't dreaming.
 
 A master of enough genres and styles to be classified as a chimera of sound, Japanese producer **Laur** has been contributing top-of-the-line music to the rhythm game scene for over a decade. Titles like *Arcaea*, *SOUND VOLTEX*, *Cytus II*, *Taiko no Tatsujin* and *maimai* have adopted **Laur**'s pristine sound already, and it's about time for osu! to officially do the same.
 
-**Laur** has a discography the size of an ocean. We snagged **25** unbelievably awesome tracks from their backlog, all of which can be found as pre-timed `.osz` templates on [**Laur**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/527)!
+**Laur** has a discography the size of an ocean. We snagged **25** unbelievably awesome tracks from their backlog (in addition to 4 collab tracks we had previously licensed), all of which can be found as pre-timed `.osz` templates on [**Laur**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/527)!
 
 You might notice a distinctly pink track in **Laur**'s listing too. While **Laur** has been a recognisable name in the osu! community for years already, their debut into our Featured Artist catalogue coincided with a completely new song release: [*SEV-26*](https://osu.ppy.sh/beatmapsets/2508618), the Grand Finals tiebreaker for [2026's osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K)!
 
