@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Laur"
-date: 2026-02-15 17:00:00 +0000
+date: 2026-02-15 17:30:00 +0000
 series: featured_artists
 ---
 
