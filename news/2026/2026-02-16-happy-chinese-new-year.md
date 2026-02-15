@@ -17,7 +17,7 @@ As the snow begins to melt and the rhythm of the new year picks up speed, we fin
 
 Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day. Looking back at 2025 — a year defined by high-speed action and relentless passion, the Chinese osu! community has achieved remarkable breakthroughs across the competitive scene, beatmap creation, and community development.
 
-From the annual rankings of our top players to the historic wave of LAN events spanning the region, and from prestigious mapping contest victories to heartfelt reflections from the community’s core members, we offer a comprehensive journey through our most cherished memories as we gallop together into a vibrant new chapter.
+From the annual rankings of our top players to the historic wave of LAN events spanning the region, and from prestigious mapping contest victories to heartfelt reflections from the community core members, we offer a comprehensive journey through our most cherished memories as we gallop together into a vibrant new chapter.
 
 **[View the Chinese version of this article here. | 点击此处查看中文版主题。](https://osu.ppy.sh/community/forums/topics/2179665?n=1)**
 
@@ -152,7 +152,7 @@ On the momentum of a highly successful **2025**, let's wish the best to the Chin
     }
 </style>
 
-To celebrate the occasion, we sat down with several prominent figures from the scene — including a content creator, top players, dedicated mappers, a creative designer and tournament organizers — to reflect on the journey so far and what 2026 holds for them.
+To celebrate the occasion, we sat down with several prominent figures from the scene — including a content creator, top players, dedicated mappers, a creative designer and tournament organisers — to reflect on the journey so far and what 2026 holds for them.
 
 ---
 
@@ -180,7 +180,7 @@ Having a global platform is something I’ll never take for granted. Just as peo
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-Through The Roundtable, you've built a global stage that connects players in the real world, and we're seeing a growing wave of LAN events popping up everywhere as a result. In fact, seeing the passion and community spirit you fostered with your event was a huge inspiration for me. This past year, I personally hosted and witnessed that same incredible energy when we brought our community together for China LAN 2025 — the largest offline event in our region in seven years. Heading into the new year, is there anything you'd like to share with future organizers, or with the fans and players who haven't yet had the chance to experience an offline event?
+Through The Roundtable, you've built a global stage that connects players in the real world, and we're seeing a growing wave of LAN events popping up everywhere as a result. In fact, seeing the passion and community spirit you fostered with your event was a huge inspiration for me. This past year, I personally hosted and witnessed that same incredible energy when we brought our community together for China LAN 2025 — the largest offline event in our region in seven years. Heading into the new year, is there anything you'd like to share with future organisers, or with the fans and players who haven't yet had the chance to experience an offline event?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
 
@@ -208,7 +208,7 @@ My mom used to make the best lamb dumplings in the world, doing the dough and fi
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/yfpw.png)
 
-Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognized for his long-standing ability to evolve alongside the ever-changing trends of the scene.
+Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognised for his long-standing ability to evolve alongside the ever-changing trends of the scene.
 
 <div class="news-chat-quote__text-container">
 
@@ -250,7 +250,7 @@ We've also seen many new mappers emerge in 2025. Who do you think is the most pr
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/1343783">pw384</a></p>
 
-I would venture to say that [WhiteCookies](https://osu.ppy.sh/users/13617153) is the most impressive new mapper in 2025, and highly recommend you to take a look at his 1st ranked map—an extremely well-structured one with simple visuals but dedicated flow design. I am pretty sure it would be such an impossible achievement without his excellent playing skills. It is an honor for me to be one of the nominators.
+I would venture to say that [WhiteCookies](https://osu.ppy.sh/users/13617153) is the most impressive new mapper in 2025, and highly recommend you to take a look at his 1st ranked map — an extremely well-structured one with simple visuals but dedicated flow design. I am pretty sure it would be such an impossible achievement without his excellent playing skills. It is an honor for me to be one of the nominators.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1243669" style="background-image: url('/wiki/shared/avatars/yf_bmp.jpg')"></a>
 
@@ -330,7 +330,7 @@ You are the World Cup Design Team leader who has truly enriched the visual exper
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
-This year we're hoping to organize more collaborations at larger scales to present an even wider range of visual styles across osu! originals. In fact, we're also in the process of recruiting more designers to join the team, and we're excited for everyone to see new perspectives they'll bring to future projects. For anyone who hopes to work on World Cup designs one day, don't be afraid to start creating and sharing your work. Everyone begins somewhere. If you're interested in joining, feel free to reach out to any design team member! We're always happy to see new designers take their first steps.
+This year we're hoping to organise more collaborations at larger scales to present an even wider range of visual styles across osu! originals. In fact, we're also in the process of recruiting more designers to join the team, and we're excited for everyone to see new perspectives they'll bring to future projects. For anyone who hopes to work on World Cup designs one day, don't be afraid to start creating and sharing your work. Everyone begins somewhere. If you're interested in joining, feel free to reach out to any design team member! We're always happy to see new designers take their first steps.
 
 </div>
 
@@ -379,7 +379,7 @@ The contrast between international tournaments and Chinese region-locked ones sh
 
 There are also several figureheads in the Chinese community who've set a strong standard for respect and quality through their dedication and professionalism. The lolol squad and Crystal have built a long-standing tournament presence that continues to shape the scene. 
 
-At the same time, many mappers help support and elevate the community, including [Chaoslitz](https://osu.ppy.sh/users/3621552), [Garden](https://osu.ppy.sh/users/2849992), and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). Organizers like [FcEazy](https://osu.ppy.sh/users/7825227) and [Sakura006](https://osu.ppy.sh/users/10365024) also set a gold standard for tournament organization. With so many people pushing things forward, it's no surprise to see the bar being raised with every experience.
+At the same time, many mappers help support and elevate the community, including [Chaoslitz](https://osu.ppy.sh/users/3621552), [Garden](https://osu.ppy.sh/users/2849992), and [Ryuusei Aika](https://osu.ppy.sh/users/7777875). Organisers like [FcEazy](https://osu.ppy.sh/users/7825227) and [Sakura006](https://osu.ppy.sh/users/10365024) also set a gold standard for tournament organisation. With so many people pushing things forward, it's no surprise to see the bar being raised with every experience.
   
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
 
