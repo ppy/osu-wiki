@@ -83,12 +83,12 @@ Cấm người tổ chức ngăn cản người dùng trở thành người tổ
 
 Lệnh cấm nhân viên ngăn cản một người dùng từ việc trở thành nhân viên trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyển, bình luận viên hoặc thiết kế đồ họa.
 
-## Tôi có thể kháng cáo một lệnh xử phạt trong giải đấu không? {id=appeal}
+## Tôi có thể kháng cáo một lệnh xử phạt giải đấu không? {id=appeal}
 
-Lệnh xử phạt trong giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị phạt có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo. 
+Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị phạt có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo. 
 
 Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít nhất **hai năm** (24 tháng) kể từ khi chúng được áp dụng lần đầu tiên. Người dùng kháng cáo lệnh cấm thi đấu vô thời hạn sẽ được mong đợi đã thể hiện sự tham gia tích cực trong cộng đồng osu! rộng lớn hơn, trong các giải đấu thường hoặc bằng cách khác, và có một hồ sơ hành vi hoàn toàn trong sạch trong suốt khoảng thời gian này. Trong trường hợp đơn kháng cáo không thành công, người dùng bắt buộc phải chờ ít nhất **một năm** (12 tháng) kể từ ngày kháng cáo cuối cùng trước khi có thể kháng cáo trở lại.
 
-Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, nhưng cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công. Danh sách tất cả người dùng đã kháng cáo thành công một lệnh cấm thi đấu vô thời hạn có thể tìm thấy trên [chủ để diễn đàn này](https://osu.ppy.sh/community/forums/topics/1798871)
+Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, nhưng cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công. Danh sách tất cả người dùng đã kháng cáo thành công một lệnh cấm thi đấu vô thời hạn có thể tìm thấy trên [chủ đề diễn đàn này](https://osu.ppy.sh/community/forums/topics/1798871)
 
 Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cụ thể theo đánh giá của họ và quyết định gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.

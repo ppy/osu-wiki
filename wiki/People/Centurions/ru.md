@@ -28,6 +28,7 @@
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [13.06.2013](https://osu.ppy.sh/beatmapsets/64564) | [08.02.2024](https://osu.ppy.sh/beatmapsets/2105591) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [09.03.2020](https://osu.ppy.sh/beatmapsets/1112834) | [28.08.2023](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | [27.09.2022](https://osu.ppy.sh/beatmapsets/1842510) | [26.11.2025](https://osu.ppy.sh/beatmapsets/2444077) |  |
+| ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | [20.04.2017](https://osu.ppy.sh/beatmapsets/582493) | [11.02.2026](https://osu.ppy.sh/beatmapsets/2455952) | [#1](https://osu.ppy.sh/beatmaps/packs/TM36) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [12.11.2015](https://osu.ppy.sh/beatmapsets/335145) | [29.04.2019](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
 | ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680) | [18.10.2021](https://osu.ppy.sh/beatmapsets/1547072) | [11.12.2024](https://osu.ppy.sh/beatmapsets/2271969) | [#1](https://osu.ppy.sh/beatmaps/packs/TM26) |
 | ::{ flag=KR }:: [Lliria](https://osu.ppy.sh/users/1997633) | [08.11.2018](https://osu.ppy.sh/beatmapsets/809992) | [19.01.2025](https://osu.ppy.sh/beatmapsets/2268756) |  |
@@ -49,4 +50,4 @@
 ## Интересные факты
 
 - Первым пользователем, набравшим 100 ранкнутых карт, 4 августа 2010 г. стал ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363).
-- В среднем на создание и ранкинг 100 карт у центурионов уходит **5.4 лет** (около 1985 дней).<!--Статистика взята из https://chromb.uk/centurions/data.json-->
+- В среднем на создание и ранкинг 100 карт у центурионов уходит **5.5 лет** (около 2021 дней).<!--Статистика взята из https://chromb.uk/centurions/data.json-->
