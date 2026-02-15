@@ -15,7 +15,7 @@ series: miscellaneous
 
 As the snow begins to melt and the rhythm of the new year picks up speed, we find ourselves at the doorstep of the **Year of the Horse**. Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day.
 
-**[View the Chinese version of this article here. | 点击此处查看中文版主题。](forum link here)**
+**[View the Chinese version of this article here. | 点击此处查看中文版主题。](https://osu.ppy.sh/community/forums/topics/2179665?n=1)**
 
 ## The 2025 Rankings: China's Top 15 osu! players of 2025
 
@@ -102,7 +102,15 @@ The team **Locus of Hexagram**, consisting of ::{ flag=HK }:: [Chaoslitz](https:
 
 In the **[osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results)**, the ::{ flag=TW }:: Taiwan Team consisting of ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497), ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959), ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997), and ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988), delivered an outstanding performance. Competing against over 60 teams from more than 20 countries, they distinguished themselves in fierce international competition and secured an impressive **3rd place**.
 
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=DD5PeHEd2eY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 In **[Vocaloid Mapping Contest #3](https://www.vat.gg/vmc3)**, the duo of ::{ flag=CN }:: **[Garden](https://osu.ppy.sh/users/2849992)** and ::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** took **1st place in Phase 1**. With Phase 2 currently underway, the competition remains intense. Check it out if you love vocaloids, or you just want to support their continued journey!
+
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=7em6QqlrP9Q&t=939s" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) to be awarded the **Elite Mapper** title.
 
@@ -146,54 +154,6 @@ On the momentum of a highly successful **2025**, let's wish the best to the Chin
 </style>
 
 To celebrate the occasion, we sat down with several prominent figures from the scene — including a content creator, top players, dedicated mappers, a creative designer and tournament organizers — to reflect on the journey so far and what 2026 holds for them.
-
----
-
-::{#BTMC}::
-
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/btmc.png)
-
-As one of osu!'s most prominent content creators and a notable Chinese-American figure, [BTMC](https://osu.ppy.sh/users/3171691) has made immense contributions to the global community. His success demonstrates how a shared passion for the game can resonate across all cultural boundaries.
-
-<div class="news-chat-quote__text-container">
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
-
-As an ABC, you have a unique perspective on both Western and Eastern communities. When you see fans from the Chinese-speaking scene supporting your content or even using your memes, does it feel different to know that your influence reaches so far across cultural lines?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3171691">BTMC</a></p>
-
-(BTMC) a
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
-
-Through The Roundtable, you've built a global stage that connects players in the real world, and we're seeing a growing wave of LAN events popping up everywhere as a result. In fact, seeing the passion and community spirit you fostered with your event was a huge inspiration for me. This past year, I personally hosted and witnessed that same incredible energy when we brought our community together for China LAN 2025 — the largest offline event in our region in seven years. Heading into the new year, is there anything you'd like to share with future organizers, or with the fans and players who haven't yet had the chance to experience an offline event?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3171691">BTMC</a></p>
-
-(BTMC) a
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7825227" style="background-image: url('/wiki/shared/avatars/FcEazy.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
-
-To wrap things up on a more personal note — Chinese New Year is as much about the food as it is about the celebration! For your family, what is that one "must-have" dish on the table during the Chinese New Year? Is there a specific food that instantly makes it feel like the holidays for you?
-
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/3171691" style="background-image: url('/wiki/shared/avatars/BTMC.jpg')"></a>
-
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3171691">BTMC</a></p>
-
-(BTMC) a
-
-</div>
 
 ---
 
@@ -333,7 +293,7 @@ This year we're hoping to organize more collaborations at larger scales to prese
 
 ::{#Imokora-chiv}::
 
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/Imokora.png)
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imokora.png)
 
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/chiv.png)
 
@@ -422,4 +382,4 @@ The arrival of the new year is always a time for reflection and renewal. To ever
 
 May your UR be low, your combos be high, and may success come to you as swiftly as a galloping steed (**Ma Dao Cheng Gong**). Across all regions and time zones, we hope the beat of the new year brings you nothing but joy. Happy Chinese New Year!
 
--AstralXynsm, FcEazy, Luval, Mafumafu, MarioKartya, Pager, seros, silly me, Trolloli & Z419.
+-AstralXynsm, FcEazy, Luval, Mafumafu, MarioKartya, Pager, seros, silly me, Trolloli & Zeth.
