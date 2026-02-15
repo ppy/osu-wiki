@@ -5,6 +5,8 @@ date:
 series: miscellaneous
 ---
 
+As the snow begins to melt and the rhythm of the new year picks up speed, we find ourselves at the doorstep of the **Year of the Horse**.
+
 ![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/cny.jpg)
 
 龙马精神，岁岁平安！愿大家在新的马年里，Combo 不掉，追求不止！
@@ -13,7 +15,9 @@ series: miscellaneous
 
 2026년 병오년, 새해 복 많이 받으세요! 붉은 말의 기운을 받아 힘차게 도약하는 한 해 되길 바랍니다.
 
-As the snow begins to melt and the rhythm of the new year picks up speed, we find ourselves at the doorstep of the **Year of the Horse**. Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day.
+Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day. Looking back at 2025 — a year defined by high-speed action and relentless passion, the Chinese osu! community has achieved remarkable breakthroughs across the competitive scene, beatmap creation, and community development.
+
+From the annual rankings of our top players to the historic wave of LAN events spanning the region, and from prestigious mapping contest victories to heartfelt reflections from the community’s core members, we offer a comprehensive journey through our most cherished memories as we gallop together into a vibrant new chapter.
 
 **[View the Chinese version of this article here. | 点击此处查看中文版主题。](https://osu.ppy.sh/community/forums/topics/2179665?n=1)**
 
@@ -29,17 +33,17 @@ To commemorate these efforts, we've put together a video featuring the **China's
 
 ## A Year in Mapping
 
-A Year in Mapping (AYIM) was originally a cornerstone of the [Mapper's Choice Awards (MCA)](https://mca.corsace.io/), designed to curate annual ranking data and provide personalized feedback for every mapper who had a set ranked that year. After the project entered a hiatus in 2018, kanor took the initiative in 2020 to launch the first "Chinese Mapper Annual Review", reigniting the flame for this community tradition. Following the stewardship of Antigen and Arsalan in 2023, the torch was passed to us (MarioKartya, AstralXynsm, and Luval) in 2024 to carry on the legacy of AYIM within the Chinese mapping community.
+A Year in Mapping (AYIM) was originally a cornerstone of the [Mapper's Choice Awards (MCA)](https://mca.corsace.io/), designed to curate annual ranking data and provide personalized feedback for every mapper who had a set ranked that year. After the project entered a hiatus in 2018, [kanor](https://osu.ppy.sh/users/3131236) took the initiative in 2020 to launch the first "Chinese Mapper Annual Review", reigniting the flame for this community tradition. Following the stewardship of [Antigen](https://osu.ppy.sh/users/10507557) and [Arsalan](https://osu.ppy.sh/users/7660383) in 2023, the torch was passed to us ([MarioKartya](https://osu.ppy.sh/users/16833061), [AstralXynsm](https://osu.ppy.sh/users/16022233) and [Luval](https://osu.ppy.sh/users/22414293)) in 2024 to carry on the legacy of AYIM within the Chinese mapping community.
 
-2025 has been a vibrant year, with a total of 143 Chinese mappers successfully getting their maps ranked. Most notably, we celebrated 22 debutant mappers who achieved their very first ranked sets this year — a heartening increase compared to the previous year. Meanwhile, the return of veteran mappers such as [cRyo[iceeicee]](https://osu.ppy.sh/users/835998) and [Chloe](https://osu.ppy.sh/users/787542) brought fresh surprises to the community. We are truly honored to capture every highlight and milestone within the Chinese mapping scene through this event.
+2025 has been a vibrant year, with a total of **143 Chinese mappers** successfully getting their maps ranked. Most notably, we celebrated **22 debutant mappers** who achieved their very first ranked sets this year — a heartening increase compared to the previous year. Meanwhile, the return of veteran mappers such as [cRyo[iceeicee]](https://osu.ppy.sh/users/835998) and [Chloe](https://osu.ppy.sh/users/787542) brought fresh surprises to the community. We are truly honored to capture every highlight and milestone within the Chinese mapping scene through this event.
 
-This time, we cordially invite everyone to send New Year's wishes or a shout-out to your favorite Chinese mappers for their incredible work over the past year. Please share your thoughts using [this form](https://docs.google.com/forms/d/e/1FAIpQLScT-pDozmZtLtl6BfBpFtlNC4e_TM3HgbDy-3nc7DktB9b3Sg/viewform?usp=publish-editor)!
+This time, we cordially invite everyone to send New Year's wishes or a shout-out to your favorite Chinese mappers for their incredible work over the past year. Please share your thoughts via [this form](https://docs.google.com/forms/d/e/1FAIpQLScT-pDozmZtLtl6BfBpFtlNC4e_TM3HgbDy-3nc7DktB9b3Sg/viewform?usp=publish-editor)!
 
-## Tournament Wrap-up
+## Tournament wrap-up
 
 The year 2025 has been a monumental milestone for the osu! competitive scene within the Chinese community. From record-breaking LAN events to the unwavering spirit displayed on the World Cup stage, every match has carved out a unique memory for this year.
 
-### The Summer of LANs
+### The summer of LANs
 
 This past summer saw the largest and most frequent wave of offline competitions in history, with three major events spanning Shanghai, Guangzhou, and New Taipei City.
 
@@ -56,7 +60,7 @@ These three LAN events also introduced several new original tracks to the commun
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=U3IXlZ6qayM "YouTube") | RD-Sounds feat. Meramipop - On Seeking U | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2409840) | CLAN2025 Day 1 NM3 |
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sephid.bandcamp.com/track/--3 "Bandcamp") | Sephid et al. - MONONATI | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2401178) | CLAN2025 Day 1 NM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/linkslink_0/rezehv "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=FJaNZeZ7y2M "YouTube") | Link"0 - rezehv | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2401422) | CLAN2025 Day 1 HD1 |
-|  | ginkiha - Silver Eclipse | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2400758) | CLAN2025 Day 1 HD3 |
+|  | ginkiha - Silver Eclipse | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2414413) | CLAN2025 Day 1 HD3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dialgadu77/sfirelle "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=5yho0Q32_rw "YouTube") | Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~ | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2399876) | CLAN2025 Day 1 HR3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=HsH6eZv6T4k "YouTube") | qfeileadh feat. Risa Kodaka - Tendou Musou no Homura | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2401973) | CLAN2025 Day 2 NM3 |
 |  | Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2401472) | CLAN2025 Day 2 HD3 |
@@ -68,7 +72,7 @@ These three LAN events also introduced several new original tracks to the commun
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rduESiud3mE "YouTube") | SEVEN LIVES - The Bewitching Voice of the Nine-Tailed Fox | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2414419) | otst:live! Bracket Stage TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/connexi0/from-otstlive-grand-finals-xhalvurex "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=-a5Cf43RhZY "YouTube") | Connexio - Xhalvurex | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/beatmapsets/2423641) | otst:live! Grand Finals TB |
 
-### World Cup Series: Veterans and New Blood
+### World Cup series: veterans and new blood
 
 The performance of local teams in the World Cup series has been equally remarkable over the past year.
 
@@ -76,7 +80,7 @@ The performance of local teams in the World Cup series has been equally remarkab
 
 - **Other World Cup series**: ::{ flag=TW }:: Taiwan continued its legacy as a powerhouse in the **osu!taiko World Cup**, securing **3rd place**. ::{ flag=CN }:: China returned to the podium in the **osu!mania 7k World Cup** with a **2nd place** finish and made history in the **osu!mania 4k World Cup** by taking the **#1 Seed** in Qualifiers — the first time a Chinese team has achieved the top seed in a World Cup series.
 
-### Diverse Community Circuit
+### Diverse community circuit
 
 The Chinese community also hosted a rich variety of smaller-scale tournaments throughout 2025:
 
@@ -88,7 +92,7 @@ The Chinese community also hosted a rich variety of smaller-scale tournaments th
 
 For more exciting community action, you can check the full records in the [Chinese Community Tourney Method Spreadsheet](https://docs.google.com/spreadsheets/d/1fXxlX2CCQhLbb6fUl1DyWBJnSsaURLsOvJ2m1rNDw2Y/edit?gid=1005102636#gid=1005102636). Congratulations to all the staff and players for an incredible year of competition — **GGWP**!
 
-## Contest Wrap-up
+## Contest wrap-up
 
 In the competitive mapping scene, **2025** has proven to be a rewarding year for the Great China mapping community, marked by standout performances across a wide selection of mapping contests.
 
@@ -120,7 +124,7 @@ Another "second time champion" highlight came from **[Pending Cup 2025](https://
 
 On the momentum of a highly successful **2025**, let's wish the best to the Chinese mappers across mapping contests in **2026**!
 
-## Community Voices: Behind the Screens
+## Community voices: behind the screens
 
 <style>
     .news-chat-quote__avatar {
