@@ -48,9 +48,7 @@ The year 2025 has been a monumental milestone for the osu! competitive scene wit
 This past summer saw the largest and most frequent wave of offline competitions in history, with three major events spanning Shanghai, Guangzhou, and New Taipei City.
 
 - **[China LAN 2025](https://osu.ppy.sh/community/forums/topics/2080306?n=1)** (Shanghai): Held in July, this was the largest Mainland China offline tournament featuring both osu! and osu!mania 4K in nearly seven years. In collaboration with the **dotream Rhythm Game Carnival (缀梦音游嘉年华)**, the event garnered unprecedented attention, showcasing the unique charm of osu! to a vast audience of rhythm game enthusiasts. It was a joyful and unforgettable experience for all attendees, setting a fresh new standard for offline production. Ultimately, ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) and ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) emerged as the respective champions.
-
 - **[OCNCC S2](https://osu.ppy.sh/community/forums/topics/2083250?n=1)** (Guangzhou): Taking place in early August in Panyu, this event primarily targeted players from the Guangdong-Hong Kong-Macau Greater Bay Area. Despite the venue's size, the atmosphere was electric, culminating in a final where ::{ flag=HK }:: [-xxx Rumia-](https://osu.ppy.sh/users/5936405) defeated ::{ flag=CN }:: [Firia](https://osu.ppy.sh/users/9164037) 6-4 to take the title.
-
 - **[otst:live!](https://osu.ppy.sh/community/forums/topics/2095985?n=1)** (New Taipei City): At the end of August, the historic OTST series returned from its hiatus since 2022 — this time in an offline format — marking the first-ever officially supported offline tournament to take place in Taiwan. The event highlighted the rise of a new generation of Taiwanese players, with ::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050) narrowly defeating ::{ flag=TW }:: [willy0214](https://osu.ppy.sh/users/8660293) 7-6 in a thrilling grand final.
 
 These three LAN events also introduced several new original tracks to the community:
@@ -77,7 +75,6 @@ These three LAN events also introduced several new original tracks to the commun
 The performance of local teams in the World Cup series has been equally remarkable over the past year.
 
 - **osu! World Cup**: ::{ flag=CN }:: China and ::{ flag=TW }:: Taiwan maintained steady performances, securing **Top 12** and **Top 16** placements respectively. ::{ flag=HK }:: Hong Kong, despite a major roster overhaul, advanced through Qualifiers as the #40 seed. In a notable Group Stage encounter against ::{ flag=GR }:: Greece, ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423) played all 9 maps with a staggering 2.3 matchcost to **lead a 5:4 comeback victory**, securing a hard-fought win to close out their campaign. Meanwhile, ::{ flag=MO }:: Macau showed significant growth following their 2024 return after a decade-long hiatus. They achieved a notably higher Qualifier rank this year with a compact 7-player roster, proving that even small communities possess immense vitality.
-
 - **Other World Cup series**: ::{ flag=TW }:: Taiwan continued its legacy as a powerhouse in the **osu!taiko World Cup**, securing **3rd place**. ::{ flag=CN }:: China returned to the podium in the **osu!mania 7k World Cup** with a **2nd place** finish and made history in the **osu!mania 4k World Cup** by taking the **#1 Seed** in Qualifiers — the first time a Chinese team has achieved the top seed in a World Cup series.
 
 ### Diverse community circuit
@@ -85,9 +82,7 @@ The performance of local teams in the World Cup series has been equally remarkab
 The Chinese community also hosted a rich variety of smaller-scale tournaments throughout 2025:
 
 - **[5 Digit Taiwanese Showdown 2.5](https://osu.ppy.sh/community/forums/topics/2029518?n=1) & [3](https://osu.ppy.sh/community/forums/topics/2110474?n=1)**: These two iterations saw ::{ flag=TW }:: [[ Luka ]](https://osu.ppy.sh/users/11923800) and ::{ flag=TW }:: [YoYu](https://osu.ppy.sh/users/10391882) take their respective titles, proving themselves as the future of the Taiwanese scene.
-
 - **[Osu For Fun Cup 5](https://osu.ppy.sh/community/forums/topics/2074099?n=1)**: Featuring a KOF-style format, this tournament required strategic planning to balance skill gaps within teams. Team **daiimu到處欠錢** (::{ flag=TW }:: [GAO HAO](https://osu.ppy.sh/users/8964050),::{ flag=TW }:: [koutya_](https://osu.ppy.sh/users/14912108), ::{ flag=CN }:: [Firia](https://osu.ppy.sh/users/9164037), ::{ flag=TW }:: [zomcys](https://osu.ppy.sh/users/1580033)) ultimately claimed victory.
-
 - **[Hello! Shanden Cup 5 : Limit Break](https://osu.ppy.sh/community/forums/topics/2142841?n=1)**: The year-end finale featured a "Limit Break" theme with more complex rules and difficult mappools. Team **大家好我是陳義與...** (::{ flag=TW }:: [daiimu](https://osu.ppy.sh/users/17792515), ::{ flag=TW }:: [Summer_Ouo](https://osu.ppy.sh/users/15184992), ::{ flag=TW }:: [YoYu](https://osu.ppy.sh/users/10391882), ::{ flag=TW }:: [[ Luka ]](https://osu.ppy.sh/users/11923800)) emerged victorious after an intense two-set grand final.
 
 For more exciting community action, you can check the full records in the [Chinese Community Tourney Method Spreadsheet](https://docs.google.com/spreadsheets/d/1fXxlX2CCQhLbb6fUl1DyWBJnSsaURLsOvJ2m1rNDw2Y/edit?gid=1005102636#gid=1005102636). Congratulations to all the staff and players for an incredible year of competition — **GGWP**!
@@ -116,7 +111,7 @@ In **[Vocaloid Mapping Contest #3](https://www.vat.gg/vmc3)**, the duo of ::{ fl
     <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=7em6QqlrP9Q&t=939s" frameborder="0" allowfullscreen></iframe>
 </div>
 
-::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) to be awarded the **Elite Mapper** title.
+::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](/wiki/Contests/Contest_points) to be awarded the **Elite Mapper** title.
 
 Another "second time champion" highlight came from **[Pending Cup 2025](https://osu.ppy.sh/home/news/2025-10-24-pending-cup-2025)**: ::{ flag=TW }:: **[Matsuyuki Ame](https://osu.ppy.sh/users/12763959)** once again ranked first along in one of the three contest tracks. They reaffirmed their consistent excellence in the Pending Cup!
 
