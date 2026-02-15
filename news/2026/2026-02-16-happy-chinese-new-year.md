@@ -211,9 +211,7 @@ My mom used to make the best lamb dumplings in the world, doing the dough and fi
 
 ::{#seros-pw384-yf_bmp}::
 
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/pw384.png)
-
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/yfbmp.png)
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/yfpw.png)
 
 Both [yf_bmp](https://osu.ppy.sh/users/1243669) and [pw384](https://osu.ppy.sh/users/1343783) are veteran figures who have significantly shaped the identity of "Chinese Mapping". While yf_bmp is a highly respected veteran known for his deep legacy, pw384 is recognized for his long-standing ability to evolve alongside the ever-changing trends of the scene.
 
@@ -345,9 +343,7 @@ This year we're hoping to organize more collaborations at larger scales to prese
 
 ::{#Imokora-chiv}::
 
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imokora.png)
-
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/chiv.png)
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/imochiv.png)
 
 [Imokora](https://osu.ppy.sh/users/2472609) and [chiv](https://osu.ppy.sh/users/6701656) are key staff members who provide the backbone for the tournament scene. Imokora is a tireless pillar within the Chinese-speaking community, while chiv serves as a vital bridge, lending his international expertise to support and elevate local tournaments.
 
