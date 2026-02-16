@@ -150,6 +150,55 @@ Audio preview:
 </audio>
 ```
 
+PDF files (less than ~20 MB):
+
+```html
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/yuzu/yuzu-embed.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+For interviews or quotes with user avatars, include the following styling at the beginning of the relevant section in the news post:
+
+```html
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+</style>
+```
+
+Then, wrap sections of indented content within a `<div>` and prepend an avatar and username before each part that should display them, as shown below:
+
+```html
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+
+Indented markdown content
+
+</div>
+```
+
 ## Design
 
 The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
