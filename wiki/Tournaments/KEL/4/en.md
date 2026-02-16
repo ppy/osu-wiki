@@ -100,7 +100,7 @@ tags:
 ### Round of 32 & Round of 16
 
 - No Mod
-  1. [Dance Gavin Dance - Son of Robot [Its The Way That She Combs My Hair]](https://osu.ppy.sh/beatmapsets/1267298#osu/2633754)
+  1. [Dance Gavin Dance - Son of Robot [Its The Way That She Combs My Hair]](https://osu.ppy.sh/beatmapsets/2399922#osu/5202230)
   2. [HyuN - The Apocalypse [INFINITE DIMENSIONS]](https://osu.ppy.sh/beatmapsets/1565245#osu/3196322)
   3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 [No.01]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
   4. [Rory in early 20s - used to it [Halgoh x Sharu Tridolon Cull]](https://osu.ppy.sh/beatmapsets/2012001#osu/4186705)
@@ -111,8 +111,8 @@ tags:
   3. [kors k - Ultra Hardcore (P*Light Remix) [Party On!]](https://osu.ppy.sh/beatmapsets/807547#osu/1694787)
 - Hard Rock
   1. [Nolimit City - Kenneth Must Die [69000x]](https://osu.ppy.sh/beatmapsets/2490502#osu/5470757)
-  2. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)
-  3. [Luze - Eta * Beta * Eta [Divinity]](https://osu.ppy.sh/beatmapsets/850972#osu/1891907)
+  2. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+  3. [Luze - Eta * Beta * Eta [Divinity]](https://osu.ppy.sh/beatmapsets/2153859#osu/4538482)
 - Double Time
   1. [Bungee - FIKU MIKU [Love Story]](https://osu.ppy.sh/beatmapsets/356821#osu/785097)
   2. [Denkishiki Karen Ongaku Shuudan - gemini [Insane]](https://osu.ppy.sh/beatmapsets/182815#osu/1646801)
