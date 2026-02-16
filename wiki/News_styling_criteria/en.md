@@ -229,4 +229,5 @@ Indented markdown content
 
 </div>
 ```
+
 ![Example of chat-style quote](img/embed-interview.png "Example of chat-style quote")
