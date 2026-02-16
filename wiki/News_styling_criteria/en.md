@@ -59,6 +59,7 @@ All news article files need to be structured in the following manner:
 layout: post
 title: News Post Title
 date: 2017-08-17 03:00:00 +0000
+series: miscellaneous
 ---
 
 Short preview paragraph
@@ -75,6 +76,11 @@ Content
 - `date` must represent a combined string displaying a calendar date in ISO 8601 format (`2017-08-17`), followed by a 24-hour time string (`03:00:00`), followed by a time offset from UTC (`+0000`). This is the publication date used to determine when the news post becomes visible on the website.
 - The preview paragraph is what will be shown on the front page, news archive, and the osu!(lazer) in-game news listing, in addition to being the first paragraph of the news post.
 - All news posts should include and link a cover image in the [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news) folder. In the rare case where one isn't desired, use the default image: `https://osu.ppy.sh/images/headers/news-show-default.jpg`.
+- `series` determines which category of website notifications the artice will be published on, which users can subscribe to from their [account settings](https://osu.ppy.sh/home/account/edit). This must be one of the following:
+  - Specific series: `project_loved`, `beatmap_spotlights`, `featured_artists`, `fanart_contests`, `mappers_guild`, `ranking_system_updates` (e.g performance points and scoring), `game_updates` (both client and website), `merch_runs`, `world_cups` (including [LGA](/wiki/Tournaments/LGA)), `monthly_beatmapping_contest`
+  - General categories: `official_contests` (anything categorised as such in the [Contests](/wiki/Contests) wiki page), `community_contests`, `community_tournaments`, `offline_events`, `online_events`, `miscellaneous`
+
+![News post notification category listing on the website's account settings page](img/news-series.png "News post notification categories")
 
 ### Markdown
 
