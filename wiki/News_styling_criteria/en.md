@@ -114,7 +114,7 @@ Banners should have a minimum 1000x200 px base size. A version with each dimensi
 
 The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
 
-- **Assets created for news posts should be cleared in terms of permissions and licensing.**
+- **Assets created for news posts must adhere to the [content usage guidelines](/wiki/Rules/Content_usage_permissions).**
 - **No brand or sponsorship placements are allowed.** It is not on osu! to provide advertising for them.
 - **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
   - Preferred: "osu!", "osu!taiko", "osu!catch", "osu!mania" (also note that this is the canonical ordering whenever they're presented in sequence)
