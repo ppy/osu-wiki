@@ -127,7 +127,7 @@ The following applies to all media in news posts and includes common reasons for
 
 Some community members spare no effort in creating quality graphics or even animated videos for inclusion in news posts. However, please contact the news team early regarding designs and assets if possible, as any required changes may cause unexpected delays or omission from the news post.
 
-### HTML and embedded content
+## HTML and embedded content
 
 Limited use of HTML is allowed for the purposes of embedding off-site content such as YouTube videos, Twitch VODs, or other applets designed to showcase osu! or osu!-related content.
 
@@ -143,6 +143,8 @@ Video embed hosted on `assets.ppy.sh`:
 </div>
 ```
 
+![Example of video embed via `assets.ppy.sh`](img/embed-assets.jpg "Example of video embedded via assets.ppy.sh")
+
 Video embed hosted on YouTube:
 
 ```html
@@ -150,6 +152,8 @@ Video embed hosted on YouTube:
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
+
+![Example of video embed via YouTube](img/embed-youtube.jpg "Example of video embedded via YouTube")
 
 Video embed hosted on Twitch:
 
@@ -159,6 +163,8 @@ Video embed hosted on Twitch:
 </div>
 ```
 
+![Example of video embed via Twitch](img/embed-twitch.jpg "Example of video embedded via Twitch")
+
 Audio preview:
 
 ```html
@@ -167,6 +173,8 @@ Audio preview:
 </audio>
 ```
 
+![Example of audio preview embed](img/embed-audio.png "Example of audio preview embed")
+
 PDF files (less than ~20 MB):
 
 ```html
@@ -174,6 +182,8 @@ PDF files (less than ~20 MB):
     <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/yuzu/yuzu-embed.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 ```
+
+![Example of PDF embed](img/embed-pdf.jpg "Example of PDF embed")
 
 For interviews or quotes with user avatars, include the following styling at the beginning of the relevant section in the news post:
 
@@ -215,3 +225,4 @@ Indented markdown content
 
 </div>
 ```
+![Example of chat-style quote](img/embed-interview.png "Example of chat-style quote")
