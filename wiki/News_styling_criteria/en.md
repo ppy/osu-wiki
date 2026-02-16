@@ -133,7 +133,7 @@ Limited use of HTML is allowed for the purposes of embedding off-site content su
 
 The width of all embedded content frames must be set to 95% with the exception of tall aspect ratios. To be included in articles in general, embedded content must support display at full-width styling without breaking or looking awful.
 
-Video embed hosted on `assets.ppy.sh`:
+### Video embed hosted on `assets.ppy.sh`
 
 ```html
 <div align="center" class="osu-md__paragraph">
@@ -145,7 +145,7 @@ Video embed hosted on `assets.ppy.sh`:
 
 ![Example of video embed via `assets.ppy.sh`](img/embed-assets.jpg "Example of video embedded via assets.ppy.sh")
 
-Video embed hosted on YouTube:
+### Video embed hosted on YouTube
 
 ```html
 <div align="center" class="osu-md__paragraph">
@@ -155,7 +155,7 @@ Video embed hosted on YouTube:
 
 ![Example of video embed via YouTube](img/embed-youtube.jpg "Example of video embedded via YouTube")
 
-Video embed hosted on Twitch:
+### Video embed hosted on Twitch
 
 ```html
 <div align="center" class="osu-md__paragraph">
@@ -165,7 +165,7 @@ Video embed hosted on Twitch:
 
 ![Example of video embed via Twitch](img/embed-twitch.jpg "Example of video embedded via Twitch")
 
-Audio preview:
+### Audio preview
 
 ```html
 <audio controls>
@@ -175,7 +175,9 @@ Audio preview:
 
 ![Example of audio preview embed](img/embed-audio.png "Example of audio preview embed")
 
-PDF files (less than ~20 MB):
+### PDF files
+
+Note that the PDF file must less than ~20 MB in order to embed via `https://docs.google.com/gview`.
 
 ```html
 <div align="center">
@@ -184,6 +186,8 @@ PDF files (less than ~20 MB):
 ```
 
 ![Example of PDF embed](img/embed-pdf.jpg "Example of PDF embed")
+
+### Chat-style quotes
 
 For interviews or quotes with user avatars, include the following styling at the beginning of the relevant section in the news post:
 
