@@ -118,7 +118,7 @@ tags:
   2. [Denkishiki Karen Ongaku Shuudan - gemini [Insane]](https://osu.ppy.sh/beatmapsets/182815#osu/1646801)
   3. [Epik High - Fly [Fly! '11]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
 - Tiebreaker
-  1. [Kou! & KASOKUKI:Collective - Hatatagami Software [::{ ACCESS DENIED. } // PROJECT: Annihilation ::]](https://osu.ppy.sh/beatmapsets/2403855#osu/5213939)
+  1. **[Kou! & KASOKUKI:Collective - Hatatagami Software [::{ ACCESS DENIED. } // PROJECT: Annihilation ::]](https://osu.ppy.sh/beatmapsets/2403855#osu/5213939)**
 
 ### Qualifiers
 
