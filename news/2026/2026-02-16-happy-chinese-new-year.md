@@ -13,7 +13,7 @@ As the snow begins to melt and the rhythm of the new year picks up speed, we fin
 
 龍馬精神，歲歲平安！願大家在新的馬年裡，Combo 不掉，追求不止！
 
-2026년 병오년, 새해 복 많이 받으세요! 붉은 말의 기운을 받아 힘차게 도약하는 한 해 되길 바랍니다.
+2026년 병오년, 새해 복 많이 받으세요! 붉은 말의 기운을 받아 힘차게 도약하는 한 해 되시길 바랍니다.
 
 Known for its themes of energy and relentless forward momentum, the Horse is a fitting symbol for the spirit we see in the community every day. Looking back at 2025 — a year defined by high-speed action and relentless passion — the Chinese osu! community has achieved remarkable breakthroughs across the competitive scene, beatmap creation, and community development.
 
