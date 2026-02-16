@@ -114,7 +114,7 @@ tags:
   2. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
   3. [Luze - Eta * Beta * Eta [Divinity]](https://osu.ppy.sh/beatmapsets/2153859#osu/4538482)
 - Double Time
-  1. [Bungee - FIKU MIKU [Love Story]](https://osu.ppy.sh/beatmapsets/356821#osu/785097)
+  1. [Bungee - FIKU MIKU [Love Story]](https://osu.ppy.sh/beatmapsets/2451322#osu/5353682)
   2. [Denkishiki Karen Ongaku Shuudan - gemini [Insane]](https://osu.ppy.sh/beatmapsets/182815#osu/1646801)
   3. [Epik High - Fly [Fly! '11]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
 - Tiebreaker
