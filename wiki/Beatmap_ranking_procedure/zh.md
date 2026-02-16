@@ -82,4 +82,4 @@ tags:
 ## 备注
 
 [^hybrid-sets]: 混合谱面集指的是难度跨多个模式的谱面集。
-[^report-correctly]: 有关如何正确报告问题，请参见：[行为准则](/wiki/Rules/Code_of_Conduct_for_modding_and_mapping#behaviour-and-conduct), 以及[谱面讨论区 - 发布评论](/wiki/Beatmap_discussion#submission-field)
+[^report-correctly]: 有关如何正确报告问题，请参见：[行为准则](/wiki/Rules/Code_of_Conduct_for_modding_and_mapping#行为举止), 以及[谱面讨论区 - 发布评论](/wiki/Beatmap_discussion#submission-field)

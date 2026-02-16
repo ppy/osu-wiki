@@ -58,7 +58,67 @@ tags:
 - [YouTube channel](https://www.youtube.com/@KELtournaments)
 - [Tournament bracket](https://liquipedia.net/osu/KEL/4#Results)
 
+## Participants
+
+|  | Country | Username |
+| :-: | :-: | :-- |
+| ::{ flag=PL }:: | **Poland** | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) |
+| ::{ flag=GB }:: | **United Kingdom** | [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ::{ flag=UA }:: | **Ukraine** | [GET LOVED](https://osu.ppy.sh/users/13705417) |
+| ::{ flag=NO }:: | **Norway** | [NINERIK](https://osu.ppy.sh/users/10549880) |
+| ::{ flag=DE }:: | **Germany** | [runnysunny](https://osu.ppy.sh/users/15339747) |
+| ::{ flag=PL }:: | **Poland** | [godzilla](https://osu.ppy.sh/users/4740837) |
+| ::{ flag=PL }:: | **Poland** | [gnahus](https://osu.ppy.sh/users/12779141) |
+| ::{ flag=ES }:: | **Spain** | [A L E P H](https://osu.ppy.sh/users/6735738) |
+| ::{ flag=PL }:: | **Poland** | [Rafis](https://osu.ppy.sh/users/2558286) |
+| ::{ flag=PL }:: | **Poland** | [Agent5d](https://osu.ppy.sh/users/5472693) |
+| ::{ flag=GB }:: | **United Kingdom** | [fudge](https://osu.ppy.sh/users/11592896) |
+| ::{ flag=PL }:: | **Poland** | [Kosiarek](https://osu.ppy.sh/users/9086565) |
+| ::{ flag=PL }:: | **Poland** | [Mastasz](https://osu.ppy.sh/users/1876565) |
+| ::{ flag=PL }:: | **Poland** | [DudsonZ](https://osu.ppy.sh/users/3245028) |
+| ::{ flag=PL }:: | **Poland** | [hedayo](https://osu.ppy.sh/users/9323821) |
+| ::{ flag=AL }:: | **Albania** | [Taldux](https://osu.ppy.sh/users/7249261) |
+| ::{ flag=GB }:: | **United Kingdom** | [Mahmood](https://osu.ppy.sh/users/7627844) |
+| ::{ flag=PL }:: | **Poland** | [masi paws](https://osu.ppy.sh/users/9091312) |
+| ::{ flag=PL }:: | **Poland** | [podlu](https://osu.ppy.sh/users/17454289) |
+| ::{ flag=PL }:: | **Poland** | [Kuba -](https://osu.ppy.sh/users/9322480) |
+| ::{ flag=PL }:: | **Poland** | [lolowyo](https://osu.ppy.sh/users/11692680) |
+| ::{ flag=PL }:: | **Poland** | [ianski](https://osu.ppy.sh/users/10481416) |
+| ::{ flag=PL }:: | **Poland** | [Victoor](https://osu.ppy.sh/users/8529128) |
+| ::{ flag=PL }:: | **Poland** | [kacperniszon](https://osu.ppy.sh/users/4656634) |
+| ::{ flag=PL }:: | **Poland** | [Mikjorn](https://osu.ppy.sh/users/11753451) |
+| ::{ flag=PL }:: | **Poland** | [nieudas](https://osu.ppy.sh/users/17195113) |
+| ::{ flag=PL }:: | **Poland** | [MyBoyFemboyVaxa](https://osu.ppy.sh/users/9783155) |
+| ::{ flag=PL }:: | **Poland** | [kaenen](https://osu.ppy.sh/users/9599681) |
+| ::{ flag=PL }:: | **Poland** | [Tiler](https://osu.ppy.sh/users/11142471) |
+| ::{ flag=PL }:: | **Poland** | [konfi](https://osu.ppy.sh/users/12209670) |
+| ::{ flag=GB }:: | **United Kingdom** | [LilRaiN00](https://osu.ppy.sh/users/10903895) |
+| ::{ flag=PL }:: | **Poland** | [pokora](https://osu.ppy.sh/users/7109747) |
+
 ## Mappools
+
+### Round of 32 & Round of 16
+
+- No Mod
+  1. [Dance Gavin Dance - Son of Robot [Its The Way That She Combs My Hair]](https://osu.ppy.sh/beatmapsets/2399922#osu/5202230)
+  2. [HyuN - The Apocalypse [INFINITE DIMENSIONS]](https://osu.ppy.sh/beatmapsets/1565245#osu/3196322)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 [No.01]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
+  4. [Rory in early 20s - used to it [Halgoh x Sharu Tridolon Cull]](https://osu.ppy.sh/beatmapsets/2012001#osu/4186705)
+  5. [cosMo@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice [Anti the "FAKE" HOLIC]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881154)
+- Hidden
+  1. [Daria Zawialow - Hej Hej! [Rozpacz!]](https://osu.ppy.sh/beatmapsets/2084749#osu/4366807)
+  2. [Ado - Shinjidai [Future]](https://osu.ppy.sh/beatmapsets/1814500#osu/3722340)
+  3. [kors k - Ultra Hardcore (P*Light Remix) [Party On!]](https://osu.ppy.sh/beatmapsets/807547#osu/1694787)
+- Hard Rock
+  1. [Nolimit City - Kenneth Must Die [69000x]](https://osu.ppy.sh/beatmapsets/2490502#osu/5470757)
+  2. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+  3. [Luze - Eta * Beta * Eta [Divinity]](https://osu.ppy.sh/beatmapsets/2153859#osu/4538482)
+- Double Time
+  1. [Bungee - FIKU MIKU [Love Story]](https://osu.ppy.sh/beatmapsets/2451322#osu/5353682)
+  2. [Denkishiki Karen Ongaku Shuudan - gemini [Insane]](https://osu.ppy.sh/beatmapsets/182815#osu/1646801)
+  3. [Epik High - Fly [Fly! '11]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
+- Tiebreaker
+  1. **[Kou! & KASOKUKI:Collective - Hatatagami Software [::{ ACCESS DENIED. } // PROJECT: Annihilation ::]](https://osu.ppy.sh/beatmapsets/2403855#osu/5213939)**
 
 ### Qualifiers
 
