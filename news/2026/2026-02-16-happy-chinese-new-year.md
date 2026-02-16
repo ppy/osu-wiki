@@ -27,8 +27,8 @@ The time has come to reflect on the progress made over the past year. Throughout
 
 To commemorate these efforts, we've put together a video featuring the **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months.
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=3gr_MPOifHY" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3gr_MPOifHY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## A Year in Mapping
@@ -95,20 +95,20 @@ One of the most exciting achievements was the **[Locus](https://osu.ppy.sh/home/
 
 The team **Locus of Hexagram**, consisting of ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), and ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910), claimed **1st place in the Community Pick**, showcasing a contribution widely appreciated by the osu! community. Their [beatmap](https://osu.ppy.sh/beatmapsets/2412260) are bundled with the osu! client, so be sure to check it out!
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=_FOeVts_dVs" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_FOeVts_dVs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 In the **[osu! Beatmapping World Championship (o!bwc)](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results)**, the ::{ flag=TW }:: Taiwan Team consisting of ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497), ::{ flag=TW }:: [Matsuyuki Ame](https://osu.ppy.sh/users/12763959), ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=TW }:: [9ami](https://osu.ppy.sh/users/1499997), and ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988), delivered an outstanding performance. Competing against over 60 teams from more than 20 countries, they distinguished themselves in fierce international competition and secured an impressive **3rd place**.
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=DD5PeHEd2eY" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/DD5PeHEd2eY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 In **[Vocaloid Mapping Contest #3](https://www.vat.gg/vmc3)**, the duo of ::{ flag=CN }:: **[Garden](https://osu.ppy.sh/users/2849992)** and ::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** took **1st place in Phase 1**. With Phase 2 currently underway, the competition remains intense. Check it out if you love vocaloids, or you just want to support their continued journey!
 
-<div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=7em6QqlrP9Q&t=939s" frameborder="0" allowfullscreen></iframe>
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/7em6QqlrP9Q?start=939" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ::{ flag=CN }:: **[iBell](https://osu.ppy.sh/users/4298072)** also appeared on the podium in individual mapper contests, claiming **1st place** in the **[Summer Mapping Contest 2](https://osu.ppy.sh/home/news/2025-06-14-summer-mapping-contest-2)**. This marks their **second consecutive championship** in the event, earning enough [contest points](/wiki/Contests/Contest_points) to be awarded the **Elite Mapper** title.
