@@ -7,7 +7,7 @@ series: miscellaneous
 
 As the snow begins to melt and the rhythm of the new year picks up speed, we find ourselves at the doorstep of the **Year of the Horse**.
 
-![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/cny.jpg)
+![](/wiki/shared/news/2026-02-16-happy-chinese-new-year/banner.jpg)
 
 龙马精神，岁岁平安！愿大家在新的马年里，Combo 不掉，追求不止！
 
