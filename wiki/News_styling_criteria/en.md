@@ -216,6 +216,23 @@ For interviews or quotes with user avatars, include the following styling at the
 </style>
 ```
 
+Here, the `news-chat-quote__colour-{group}` CSS styling corresponds to a [user group](/wiki/People/User_groups) colour:
+
+| Group | Colour |
+| :-: | :-- |
+| `gmt` | `#99EB47` |
+| `nat` | `#fa3703` |
+| `dev` | `#E45678` |
+| `alm` | `#999999` |
+| `spt` | `#EBD047` |
+| `bn` | `#A347EB` |
+| `lvd` | `#FFD1DC` |
+| `ppy` | `#0066FF` |
+| `fa` | `#00FFFF` |
+| `bsc` | `#76AEBC` |
+| `tc` | `#FFB969` |
+| `no-group` | `#FFFFFF` |
+
 Then, wrap sections of indented content within a `<div>` and prepend an avatar and username before each part that should display them, as shown below:
 
 ```html
