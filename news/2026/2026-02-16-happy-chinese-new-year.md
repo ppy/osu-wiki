@@ -28,7 +28,7 @@ The time has come to reflect on the progress made over the past year. Throughout
 To commemorate these efforts, we've put together a video featuring the **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months.
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 1.414;" src="VOD LINK COMING SOON" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://www.youtube.com/watch?v=3gr_MPOifHY" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## A Year in Mapping
