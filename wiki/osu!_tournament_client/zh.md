@@ -79,5 +79,7 @@ osu! 比赛客户端内可供自定义的组件有队旗、模组图标和背景
 | 图池 (Map Pool) | `mappool` |
 | 比赛 (Gameplay) | `gameplay` |
 | 胜利 (Win) | `teamwin-red`、`teamwin-blue` |
-| 抽签 (Drawings) | `drawings` 或 `main` |
+| 抽签 (Drawings) | `drawings` |
 | 展示 (Showcase) | `showcase` |
+
+名为 `main` 的视频文件会被用作默认背景，直到被上述列出的文件替换。
