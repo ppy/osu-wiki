@@ -8,7 +8,7 @@ In cases where discussion does not take place or is inconclusive, and either the
 
 ## Initiating a beatmap veto
 
-As a Beatmap Nominator (BN), you can initiate the process of vetoing a beatmap by clicking `Submit anonymous veto` on [the BN Management website's Vetoes page](https://bn.mappersguild.com/vetoes) and filling out the prompts to submit a pending veto. This includes a thorough explanation of the reason(s) for the veto. NAT members may submit pending vetoes in the same way. Pending vetoes are only visible to BN and NAT members.
+As a Beatmap Nominator, you can initiate the process of vetoing a beatmap by clicking `Submit anonymous veto` on [the BN Management website's Vetoes page](https://bn.mappersguild.com/vetoes) and filling out the prompts to submit a pending veto. This includes a thorough explanation of the reason(s) for the veto. NAT members may submit pending vetoes in the same way. Pending vetoes are only visible to BN and NAT members.
 
 Once this pending veto is submitted, two Beatmap Nominators must vouch for it in order to veto the beatmap. Vouching for a veto is an indication of support for the veto, and is considered equivalent to submitting a veto writeup. NAT members **cannot** vouch for vetoes.
 
@@ -28,13 +28,13 @@ If discussion is no longer progressing in the direction of a compromise, or is o
 
 If veto mediation is initiated, two groups of Beatmap Nominators, each consisting of 15% of the relevant mode's Beatmap Nominators with a minimum of 5 Beatmap Nominators per group, will be selected and asked to vote to agree or disagree with each veto point. Any Beatmap Nominators that vote may add an anonymous comment to explain their vote. 
 
-Additionally, **any user may vote** to agree or disagree with each veto point, **even if they are not a Beatmap Nominator**. All users who were not Beatmap Nominators selected to vote are considered a third group of voters. 
+Additionally, **any user may vote** to agree or disagree with each veto point, **even if they are not a Beatmap Nominator**. All users who were not Beatmap Nominators selected to vote are considered a third group of voters. Users in this group may not provide comments to go along with their votes.
 
-This voting lasts 7 days. Once it is done, the votes are tallied. If a 60% majority within a group agrees with a veto point, that group will be considered to agree with the veto point; otherwise, the group will be considered to disagree with the veto point.
+Mediation voting lasts 7 days. Once it is done, the votes are tallied. If a 60% majority within a group agrees with a veto point, that group will be considered to agree with the veto point; otherwise, the group will be considered to disagree with the veto point.
 
-For a veto point to be upheld, at least two of the three groups must agree with what is stated. If this threshold is not reached, the veto point may be dismissed.
+For a veto point to be upheld, at least two of the three groups must agree with what is stated. If this threshold is not reached, the veto point is dismissed.
 
-## How to proceed after mediation
+## Post-mediation procedure
 
 Following mediation, the beatmap veto will either be dismissed if all veto points were dismissed, or upheld if one or more of the veto points were upheld.
 
@@ -48,7 +48,7 @@ Following mediation, the beatmap veto will either be dismissed if all veto point
 
 Once changes are made to the beatmap, the Nominator performing the beatmap veto will be called to recheck the beatmap and decide if the issues have been satisfactorily addressed.
 
-## Challenging a beatmap veto
+## Challenging a beatmap veto<!--I don't know how this will work, but the jury will definitely be changed.-->
 
 If a beatmap veto is upheld, the mapper may request another mediation if they meet the following criteria:
 
@@ -63,3 +63,8 @@ To request a new mediation, the mapper must contact a member of the NAT correspo
 **If the veto is dismissed**, the 2 BNs mentioned above may nominate the beatmap. If said BNs are no longer willing to nominate, their position as Beatmap Nominators may be questioned as a result.
 
 **If the veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present, and the beatmap may not be eligible for another mediation unless the above criteria are fulfilled again.
+
+
+## Examples
+
+<!-- TODO: Add 1 or 2 demo cases, one with mediation and one without-->
