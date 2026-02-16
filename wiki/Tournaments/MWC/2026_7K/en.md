@@ -140,6 +140,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/a9e
 
 ### Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1snjf2r4GJpqP9AI8ciR86wywtnFOZ1Kq_uOkrZdIgEc?rm=minimal).
+
 Saturday, 14 February 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
