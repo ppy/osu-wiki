@@ -125,7 +125,7 @@
 
 | 标签名 | 描述 | 游戏模式 |
 | :-- | :-- | :-- |
-| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | 在作图设计中运用对称，常沿水平中线镜像元素。 | ![][osu!] |
+| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | 在作图设计中运用对称，常沿 y 轴中线镜像元素。 | ![][osu!] |
 | [style/distance snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdistance%20snap%22%22) | 大部分或整张谱面使用 osu! 内置的间距锁定 (DS) 功能。 | ![][osu!] |
 | [style/grid snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgrid%20snap%22%22) | 物件沿方格网格放置，通常使用 osu! 内置的网格捕捉 (GS) 功能。 | ![][osu!] |
 | [style/hexgrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhexgrid%22%22) | 物件沿六边形网格放置。 | ![][osu!] |
