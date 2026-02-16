@@ -25,7 +25,7 @@ From the annual rankings of our top players to the historic wave of LAN events s
 
 The time has come to reflect on the progress made over the past year. Throughout 2025, we've seen players continue to push their own limits and stay active in the competitive scene. 
 
-To commemorate these efforts, we've put together a video featuring **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months.
+To commemorate these efforts, we've put together a video featuring **China's Top 15 osu! players of 2025**. This ranking highlights the players who showed impressive consistency and made their mark on the scene — whether through dominant tournament performances or climbing the global leaderboards — over the last twelve months. We would also like to extend a special thank you to [Azer](https://osu.ppy.sh/users/2155578), [decaten](https://osu.ppy.sh/users/5645231), and [Doomsday](https://osu.ppy.sh/users/18983) for joining us as guest commentators, lending their international perspectives to this celebration of local talent.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/3gr_MPOifHY" frameborder="0" allowfullscreen></iframe>
@@ -348,9 +348,7 @@ This year we're hoping to organise more collaborations at larger scales to prese
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7825227">FcEazy</a></p>
 
-Having worked with both of you on numerous projects, I've always valued your unique "insider-outsider" perspectives. chiv, you are a mainstay of the international staff scene who frequently lends your expertise to Chinese tournaments; Imokora, you are one of the pillars of the Chinese-speaking community who has become increasingly active in major international events.
-
-Based on your extensive experience in both hosting and pooling, where do you see the biggest differences between the Chinese-speaking tournaments and the broader international scene?
+Your respective roles provide a fascinating "insider-outsider" view of the community — chiv through his international expertise in local events, and Imokora through his local roots in the international scene. Drawing from your work in hosting and pooling, how would you contrast Chinese-speaking tournaments with the broader international landscape?
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/2472609" style="background-image: url('/wiki/shared/avatars/Imokora.jpg')"></a>
 
