@@ -93,7 +93,7 @@ In the competitive mapping scene, **2025** has proven to be a rewarding year for
 
 One of the most exciting achievements was the **[Locus](https://osu.ppy.sh/home/news/2025-08-21-locus-2025-results)** contest, where composers, mappers, and artists collaborated to create a "fully original beatmap" — a complete mapset featuring an original song, a full spread of difficulties, and original visual assets.
 
-The team **Locus of Hexagram**, consisting of ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), and ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910), claimed **1st place** on the community vote, showcasing a contribution widely appreciated by the osu! community. Their [beatmap](https://osu.ppy.sh/beatmapsets/2412260) is bundled with the osu! client, so be sure to check it out!
+The team **Hexagram**, consisting of ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), and ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910), claimed **1st place** on the community vote, showcasing a contribution widely appreciated by the osu! community. Their [beatmap](https://osu.ppy.sh/beatmapsets/2412260) is bundled with the osu! client, so be sure to check it out!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/_FOeVts_dVs" frameborder="0" allowfullscreen></iframe>
