@@ -4,8 +4,6 @@ tags:
   - key count
   - keycount
   - размер нот
-outdated_translation: true
-outdated_since: 18acafe6b640cd4a481974d04694a92dc01b521c
 ---
 
 # Circle size
@@ -18,9 +16,11 @@ outdated_since: 18acafe6b640cd4a481974d04694a92dc01b521c
 
 В [osu!](/wiki/Game_mode/osu!) данный параметр задаёт размер [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider), причём чем больше само значение, тем меньше размер объектов (на [спиннеры](/wiki/Gameplay/Hit_object/Spinner) он не влияет). Вычислить радиус нот можно по следующей формуле:
 
-`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->,
+`r = (54.4 - 4.48 * CS) * 1.00041`,
 
 где `r` — радиус, измеренный в [osu!пикселях](/wiki/Client/Beatmap_editor/osu!_pixel), а `CS` — значение параметра.
+
+Множитель `1.00041` добавлен для исправления бага старых реплеев, в которых на широкоэкранных мониторах неправильно считался радиус.
 
 ## osu!taiko
 
@@ -36,7 +36,7 @@ outdated_since: 18acafe6b640cd4a481974d04694a92dc01b521c
 
 ## Игровые модификаторы
 
-На размер нот влияет наличие двух игровых модификторов (модов):
+На размер нот влияет наличие двух игровых модификаторов (модов):
 
 - [Easy](/wiki/Gameplay/Game_modifier/Easy): уменьшает значение CS вдвое.
 - [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): умножает значение CS на 1.3 (максимальное значение — 10).
