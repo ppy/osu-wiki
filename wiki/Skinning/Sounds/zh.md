@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3423203a5b871ce8a6a8c29008582391e5f5ecc8
+---
+
 # 自定义音效
 
 音效的可用格式有 `.wav`、`.mp3` 和/或 `.ogg`。
