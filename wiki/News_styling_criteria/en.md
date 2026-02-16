@@ -110,6 +110,23 @@ Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab
 
 Banners should have a minimum 1000x200 px base size. A version with each dimension doubled should be provided if the source image is large enough to support it (resulting in `banner.jpg` and `banner@2x.jpg`). Banner images appearing in multiple news articles should be put in the [`wiki/shared/news/banners/` directory](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
+## Design
+
+The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
+
+- **Assets created for news posts should be cleared in terms of permissions and licensing.**
+- **No brand or sponsorship placements are allowed.** It is not on osu! to provide advertising for them.
+- **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
+  - Preferred: "osu!", "osu!taiko", "osu!catch", "osu!mania" (also note that this is the canonical ordering whenever they're presented in sequence)
+  - Acceptable: "osu!", "taiko", "catch", "mania"
+  - Acceptable: "OSU!", "OSU!TAIKO", "OSU!CATCH", "OSU!MANIA", "TAIKO", "CATCH", "MANIA" (in contexts where text is styled in uppercase)
+  - Not acceptable: "osu!standard", "standard", "osu", "Osu!", "ctb"
+- **The minimum height for text is the height of paragraph text on desktop aspect ratios.** Anything smaller is not legible on mobile devices. View this page on a mobile device or resize the browser window for reference.
+
+![Text size reference](img/text-size.png "Minimum text size reference for images.")
+
+Some community members spare no effort in creating quality graphics or even animated videos for inclusion in news posts. However, please contact the news team early regarding designs and assets if possible, as any required changes may cause unexpected delays or omission from the news post.
+
 ### HTML and embedded content
 
 Limited use of HTML is allowed for the purposes of embedding off-site content such as YouTube videos, Twitch VODs, or other applets designed to showcase osu! or osu!-related content.
@@ -198,20 +215,3 @@ Indented markdown content
 
 </div>
 ```
-
-## Design
-
-The following applies to all media in news posts and includes common reasons for requested changes or inquiries by the news team:
-
-- **Assets created for news posts should be cleared in terms of permissions and licensing.**
-- **No brand or sponsorship placements are allowed.** It is not on osu! to provide advertising for them.
-- **Note the [brand identity guidelines](/wiki/Brand_identity_guidelines), especially for the game and game mode names.** Terms like "standard" or "ctb" are not used in official contexts.
-  - Preferred: "osu!", "osu!taiko", "osu!catch", "osu!mania" (also note that this is the canonical ordering whenever they're presented in sequence)
-  - Acceptable: "osu!", "taiko", "catch", "mania"
-  - Acceptable: "OSU!", "OSU!TAIKO", "OSU!CATCH", "OSU!MANIA", "TAIKO", "CATCH", "MANIA" (in contexts where text is styled in uppercase)
-  - Not acceptable: "osu!standard", "standard", "osu", "Osu!", "ctb"
-- **The minimum height for text is the height of paragraph text on desktop aspect ratios.** Anything smaller is not legible on mobile devices. View this page on a mobile device or resize the browser window for reference.
-
-![Text size reference](img/text-size.png "Minimum text size reference for images.")
-
-Some community members spare no effort in creating quality graphics or even animated videos for inclusion in news posts. However, please contact the news team early regarding designs and assets if possible, as any required changes may cause unexpected delays or omission from the news post.
