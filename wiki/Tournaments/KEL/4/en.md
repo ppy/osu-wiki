@@ -120,7 +120,6 @@ tags:
 - Tiebreaker
   1. [Kou! & KASOKUKI:Collective - Hatatagami Software [::{ ACCESS DENIED. } // PROJECT: Annihilation ::]](https://osu.ppy.sh/beatmapsets/2403855#osu/5213939)
 
-
 ### Qualifiers
 
 - No Mod
