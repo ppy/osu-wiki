@@ -49,7 +49,7 @@ NATea Time is a bi-annual public Discord event designed to bring the Nomination 
 
 Each session will provide updates on the state of the ranked section and offer a space for community members to ask questions and engage directly with the NAT. The goal is simple: improve transparency, approachability, and trust by creating a consistent space where mappers, BNs, players and the broader community can speak with us directly and stay involved in the evolution of osu!.
 
-Moving forward, these sessions will be hosted bi-annually on the fourth Sunday of February and July. The first will take place on **February 22nd at 20:00 UTC** on the [osu! Discord server](https://discord.com/invite/ppy).
+Moving forward, these sessions will be hosted bi-annually on the fourth Sunday of February and July. The first will take place on **February 22nd at 20:00 UTC** (exact time is tentative) on the [osu! Discord server](https://discord.com/invite/ppy).
 
 For a full breakdown of the format, purpose and what to expect, please check out the [accompanying forum thread](https://osu.ppy.sh/community/forums/topics/2178956).
 
@@ -133,8 +133,6 @@ The following are all of the badge updates that have been made since September 1
 ### Work in progress
 
 For any Beatmap Nominators reading this, we're currently working on a few projects to be released very soon! Besides having a new wave of [Elite Nominators](/wiki/People/Elite_Nominators) coming very soon, we're also actively working on a series of Beatmap Nominator events reminiscent of the [New Mapper Nomination Event](/wiki/Community/Beatmap_Nominator_events/New_Mapper_Nomination_Event) held all the way back in 2021. Time sure goes fast, doesn't it?
-
-Additionally, for the rest of the community, in the hopes of bridging the gap between the team and osu!'s userbase, we'll be preparing a new form of more approachable public NAT meetings. These meetings will be held in the [osu! Discord server](https://discord.com/invite/ppy), so make sure you join to be the first to know about them!
 
 ---
 
