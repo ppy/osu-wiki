@@ -8,7 +8,7 @@ Like wiki articles, all news posts should aim to have proper spelling and gramma
 
 Anyone interested in contributing to or writing news posts, reach out in the `#osu-news` channel of the [osu! Discord server](https://discord.com/invite/ppy). Alternatively contact ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), or any active [wiki or news maintainer](/wiki/People/osu!_wiki_maintainers).
 
-For tournaments and contests, advertising registrations in dedicated news posts require approval from the [Tournament Committee](/wiki/People/Tournament_Committee) and [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) beforehand, respectively. See the [Official tournament support](/wiki/Tournaments/Official_support) and [Official beatmapping contest support](/wiki/Contests/Official_support) pages for rules and information on this.
+For tournaments and contests, advertising registrations in dedicated news posts requires approval from the [Tournament Committee](/wiki/People/Tournament_Committee) and [Contest Committee](/wiki/People/Tournament_Committee#contest-committee) beforehand, respectively. See the [Official tournament support](/wiki/Tournaments/Official_support) and [Official beatmapping contest support](/wiki/Contests/Official_support) pages for rules and information on this.
 
 ## Locales
 
@@ -221,7 +221,7 @@ Here, the `news-chat-quote__colour-{group}` CSS styling corresponds to a [user g
 | Group | Colour |
 | :-: | :-- |
 | `gmt` | `#99EB47` |
-| `nat` | `#fa3703` |
+| `nat` | `#FA3703` |
 | `dev` | `#E45678` |
 | `alm` | `#999999` |
 | `spt` | `#EBD047` |
