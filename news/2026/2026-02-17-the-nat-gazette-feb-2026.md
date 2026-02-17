@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The NAT Gazette: February 2026"
-date: 2026-02-12 19:00:00 +0000
+date: 2026-02-17 15:00:00 +0000
 series: miscellaneous
 ---
 
 New year, new NAT Gazette drop! As we embark into 2026, we're excited to share with you our plans for the future of the Ranked ecosystem.
 
-![](/wiki/shared/news/2026-02-12-the-nat-gazette-feb-2026/banner.jpg)
+![](/wiki/shared/news/2026-02-17-the-nat-gazette-feb-2026/banner.jpg)
 
 Ever since the [state of Ranked survey results](https://osu.ppy.sh/home/news/2025-09-24-the-state-of-ranked-survey-results) were published, the team has been hard at work discussing, reworking, and slowly implementing changes based on the community's feedback. To that effect, we'd like to thank everyone who took the time to share their thoughts and opinions on the survey.
 
