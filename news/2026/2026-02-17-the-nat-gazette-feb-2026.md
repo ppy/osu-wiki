@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The NAT Gazette: February 2026"
-date: 2026-02-17 15:00:00 +0000
+date: 2026-02-17 15:30:00 +0000
 series: miscellaneous
 ---
 
