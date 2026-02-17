@@ -351,6 +351,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 | [osu! Indonesia Tournament #14 (2024)](OIT/2024) | 2024-09-23 | 2024-11-03 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #15 (2025) ft. Stella](OIT/2025) | 2025-12-29 | 2026-02-15 | ::{ flag=ID }:: [lifelineO](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
 
 #### osu! Malaysia Tournament
 
