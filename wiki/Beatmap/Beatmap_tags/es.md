@@ -125,7 +125,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 
 | Nombre de la etiqueta | Descripción | Modo de juego |
 | :-- | :-- | :-- |
-| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Mapas que usan la simetría en su diseño, a menudo reflejando elementos a lo largo de la línea central horizontal. | ![][osu!] |
+| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Mapas que usan la simetría en su diseño, a menudo reflejando elementos a lo largo de la línea central vertical. | ![][osu!] |
 | [style/distance snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdistance%20snap%22%22) | Mapas que usan la función de ajuste de distancia integrada en osu! en casi todo el mapa. | ![][osu!] |
 | [style/grid snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgrid%20snap%22%22) | Mapas donde los objetos están colocados a lo largo de una rejilla cuadrada, normalmente usando la función de anclaje de la rejilla integrada en osu!. | ![][osu!] |
 | [style/hexgrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhexgrid%22%22) | Mapas donde los objetos están colocados a lo largo de una rejilla hexagonal. | ![][osu!] |
@@ -142,7 +142,7 @@ Las siguientes tablas muestran todas las etiquetas de los usuarios agrupadas por
 | [style/dump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdump%22%22) | Mapas que usan grupos de objetos centrándose más en la extensión e intensidad de los sonidos, en contraste con el uso de notas individuales para seguir con precisión el ritmo de cada sonido. | ![][osu!mania] |
 | [style/finisher-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffinisher-heavy%22%22) | Mapas que incluyen finalizadores usados de forma poco convencional o en grandes cantidades. | ![][osu!taiko] |
 | [style/generic hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgeneric%20hybrid%22%22) | Mapas que incluyen la combinación de patrones de rice sencillos y notas largas. | ![][osu!mania] |
-| [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | Mapas que incluyen streams con una mezcla de chords de 3 notas | ![][osu!mania] |
+| [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | Mapas que incluyen streams con una mezcla de chords de 3 notas. | ![][osu!mania] |
 | [style/jumpstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fjumpstream%22%22) | Mapas que incluyen streams con una mezcla de chords de 2 notas. | ![][osu!mania] |
 | [style/LN coordination](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20coordination%22%22) | Mapas que requieren mantener varias notas largas simultáneamente mientras se pulsan otros patrones. | ![][osu!mania] |
 | [style/LN density](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20density%22%22) | Mapas que incluyen streams densos de notas largas sin pausas. | ![][osu!mania] |
