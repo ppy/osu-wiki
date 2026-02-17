@@ -256,7 +256,7 @@ The `[email]` tag creates clickable email links with custom text. When clicked, 
 
 To create email links with the `[email]` tag, users must specify two arguments: the email address to be filled and the linked text to be displayed. The former must be specified as the `ADDRESS` argument (without quotation marks), while the latter must be specified between the opening and closing tags. If no display text is provided, the hyperlink will not render correctly.
 
- `[email]ADDRESS[/email]` is also supported, but mostly redundant since plain emails are parsed automatically.
+`[email]ADDRESS[/email]` is also supported, but mostly redundant since plain emails are parsed automatically.
 
 ### Images
 
