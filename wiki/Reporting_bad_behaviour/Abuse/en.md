@@ -18,11 +18,11 @@ There is no "statute of limitations" for abuse on osu! — do not hesitate to re
 
 Any behaviour that would likely violate another user's sexual integrity or make them feel harassed is considered unacceptable. Examples include, but are not limited to:
 
-- Requesting sexual images or acts from another user
-- Sending another user sexual images or text without reasonable cause
+- Requesting sexual photos or acts from another user
+- Sending another user sexual content without reasonable cause
 - Making another user feel pressured to enter or remain in a romantic relationship
 
-**Sexual or romantic conduct will usually not be considered inappropriate if both parties consent to it.** However, if a user is underage (i.e. less than 18 years old), sexual conduct with them may be considered problematic regardless of their consent, especially if the age difference between the users is more than a year or two. If you are not sure about someone's age, ask them, and if you are still not sure, refrain from sexual or romantic conduct towards them.
+**Sexual or romantic conduct in private will usually not be considered problematic if both parties consent to it.** However, if a user is underage (i.e. less than 18 years old), sexual conduct with them may be considered problematic regardless of their consent, especially if the age difference between the users is more than a year or two. If you are not sure about someone's age, ask them, and if you are still not sure, refrain from sexual or romantic conduct towards them.
 
 While forming a relationship with another user you know well is entirely acceptable (underage users notwithstanding), **actively using osu! to look for romantic or sexual partners is not allowed** as it is not what most other users are here for, and doing so will very likely make someone uncomfortable at some point.
 
@@ -32,13 +32,13 @@ Scroll through the sub-headings below to find out what to do, depending on where
 
 ### In the in-game chat {id=chat}
 
-*Caution: Reporting a user via the `!report` command in osu!(lazer) or via the website will cause the report to be **visible to everyone!** Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports) or report them via [their profile page](/wiki/Reporting_bad_behaviour#profile-page).*
+*Caution: Reporting a user via the `!report` command in osu!(lazer) will not work, and the report will be **visible to everyone!** Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
 
 Immediately block the user by right-clicking or long-pressing their username and selecting `Ignore User` in osu!(stable) or `Block` in osu!(lazer).
 
 You should also report them immediately by clicking the `Report User...` or `Report` button and filling in the prompts.
 
-If you are using osu!(stable) or an IRC client, you can also report the user by typing `!report <person> <problem>`, where `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
+**Unless you are on osu!(lazer)**, you can also report the user by typing `!report <person> <problem>`, where `<person>` is the username of the person causing you problems, and `<problem>` is a short explanation of the problems. If there are spaces in the person's username, please replace them with underscores (`_`).
 
 If you feel the remarks/advances were highly inappropriate, it isn't the first time that the user has made inappropriate remarks towards you, or you are an underage user, please send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible.
 
