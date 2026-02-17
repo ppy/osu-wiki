@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 54167ac6ebf16af6910cabb4c0d1f00ea4853284
----
-
 # 内容使用规范
 
 osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作品。因此，玩家需要确保已经获得正确授权，才能在新的创作中，使用其他任何创作者的作品。
@@ -186,7 +181,6 @@ osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/15) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/339) | [FRASER EDWARDS](https://osu.ppy.sh/beatmaps/artists/339) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/180) | [Fred V & Grafix](https://osu.ppy.sh/beatmaps/artists/180) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/114) | [Fuki](https://osu.ppy.sh/beatmaps/artists/114) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/444) | [Future Witness](https://osu.ppy.sh/beatmaps/artists/444) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/212) | [garlagan](https://osu.ppy.sh/beatmaps/artists/212) | ![][true] |
@@ -559,13 +553,14 @@ osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作
 
 #### 部分允许，有例外
 
-这一段最后更新于 2026 年 2 月 6 日。
+这一段最后更新于 2026 年 2 月 16 日。
 
 | 艺术家 |  | 可用状态 | 备注 |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | 在上传前请先通过 [email](mailto:hisaweb_info@yahoo.co.jp) 或 [Bandcamp](https://a-hisa.bandcamp.com/) 联系。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | 对于未收录在精选艺术家列表中的曲目，请参考 [Frums公开曲目一览](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0) |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
 |  | Igorrr | ![][partial] | 仅可使用 [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) 的精选艺术家列表中列出的合作曲目。请勿使用或上传任何其他曲目。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
