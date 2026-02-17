@@ -181,7 +181,6 @@ Todas las pistas que aparecen en cualquier [lista de los Artistas Destacados](ht
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/15) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/339) | [FRASER EDWARDS](https://osu.ppy.sh/beatmaps/artists/339) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/180) | [Fred V & Grafix](https://osu.ppy.sh/beatmaps/artists/180) | ![][true] |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/114) | [Fuki](https://osu.ppy.sh/beatmaps/artists/114) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/444) | [Future Witness](https://osu.ppy.sh/beatmaps/artists/444) | ![][true] |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/212) | [garlagan](https://osu.ppy.sh/beatmaps/artists/212) | ![][true] |
@@ -554,13 +553,14 @@ Todas las pistas que aparecen en cualquier [lista de los Artistas Destacados](ht
 
 #### Artistas permitidos, con excepciones
 
-Esta sección se actualizó por última vez el 6 de febrero de 2026.
+Esta sección se actualizó por última vez el 16 de febrero de 2026.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
 |  | a\_hisa | ![][partial] | Contactar antes de subir. Se le puede contactar por [correo electrónico](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | Consulta los [requisitos de uso no comercial de Frums](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0) para las canciones que no figuran en su lista de Artista Destacado. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 |  | Igorrr | ![][partial] | Solo se pueden usar las pistas colaborativas que aparecen en la lista de Artista Destacado de [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370). No uses ni subas ninguna otra pista. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
