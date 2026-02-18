@@ -19,6 +19,7 @@
 - **[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)：** 涵盖出现在 osu! 谱面背景、故事板或视频内容中的任何视觉内容的准则。
 - **[歌曲内容规定](/wiki/Rules/Song_content_rules)：** 涵盖谱面中含有的所有歌曲内容的准则。
 - **[行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：** 参与摸图过程的规定和准则。
+- **[谱面上架流程](/wiki/Beatmap_ranking_procedure)**: 谱面在上架前必须经历的流程。
 
 ### 通用上架标准
 
