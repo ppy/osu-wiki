@@ -37,7 +37,7 @@ It would not be a proper recap without our weekly video highlights, however. Tha
 
 While the Semifinals pool contained the same amount of maps as the Quarterfinals with both rounds following the same best-of-11 match format, the difficulty was substantially higher. Maps would start to become a bit more challenging, even for the best of players!
 
-Among these there were some standouts, however. The first one being [qfeileadh feat. Resonance Moeko - Petals ~Mebuku Kotoba~](https://osu.ppy.sh/beatmapsets/2501756#mania/5504374) (RC1) by ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508) which was one of the pool's osu! originals for the week. While it unfortunately wasn't played in any of the matches, this was done purely for strategic reasons — the map holds no punches! Don't be fooled by its amazing graphics, else you won't be able to keep up with its very tricky and fast-paced broken and delayed streams.
+Among these there were some standouts, however. The first one being [qfeileadh feat. Resonance Moeko - Petals \~Mebuku Kotoba\~](https://osu.ppy.sh/beatmapsets/2501756#mania/5504374) (RC1) by ::{ flag=KR }:: [taba2](https://osu.ppy.sh/users/7850508) which was one of the pool's osu! originals for the week. While it unfortunately wasn't played in any of the matches, this was done purely for strategic reasons — the map holds no punches! Don't be fooled by its amazing graphics, else you won't be able to keep up with its very tricky and fast-paced broken and delayed streams.
 
 Another map worth to mention was [t+pazolite & Nanahira - Screamin' Showcase](https://osu.ppy.sh/beatmapsets/2501722#mania/5504288) (LN3) by ::{ flag=CN }:: [Ulazis](https://osu.ppy.sh/users/11144363) which quickly became one of the most played, and we presume liked, maps of the pool. While the map boasts of many breaks when compared to other slots, its difficulty and density is quite consistent all throughout the map. Its choruses are particularly tricky, with the introduction of inverse shields on an already coordination-demanding pick not making things any easier.
 
@@ -53,7 +53,7 @@ Finally, and as we have spoiled before, this round hosted not one, not two, but 
     </audio>
 </div>
 
-While it may've remained unplayed during the weekend, [Petals ~Mebuku Kotoba~](https://osu.ppy.sh/beatmapsets/2501756#mania/5504374) was a sight to behold. This composition made by [qfeileadh](https://osu.ppy.sh/beatmaps/artists/525) and brought to life by the mapper and design team was one of the showcase centerpieces. It's not easy to cause this much of an impact without being featured in any matches. That's an incredible feat in and of itself!
+While it may have remained unplayed during the weekend, [Petals \~Mebuku Kotoba\~](https://osu.ppy.sh/beatmapsets/2501756#mania/5504374) was a sight to behold. This composition made by [qfeileadh](https://osu.ppy.sh/beatmaps/artists/525) and brought to life by the mapper and design team was one of the showcase centrepieces. It's not easy to cause this much of an impact without being featured in any matches. That's an incredible feat in and of itself!
 
 [![](/wiki/shared/news/2026-02-18-osumania-7k-world-cup-2026-semifinals-recap/Seisen-banner.jpg)](https://osu.ppy.sh/beatmapsets/2501764#mania/5504387)
 
@@ -145,7 +145,7 @@ Congratulations to Hong Kong for the win! It was a nerve-wracking encounter fill
 
 ![](/wiki/shared/news/2026-02-18-osumania-7k-world-cup-2026-semifinals-recap/penoreri-banner.png)
 
-In the rhythm game world, [penoreri](https://osu.ppy.sh/beatmaps/artists/526) needs little introduction. He's made his mark with major titles like Konami's SOUND VOLTEX, crafting tracks that are challenging, melodic, and full of energy. Many of his compositions have become fan favorites while testing the skills of top players. And with that, it is only right that he was invited to compose the Semifinals Tiebreaker for the osu!mania 7K World Cup 2026 - a track that perfectly captures the intensity of a stage where only the top players compete!
+In the rhythm game world, [penoreri](https://osu.ppy.sh/beatmaps/artists/526) needs little introduction. He's made his mark with major titles like Konami's *SOUND VOLTEX*, crafting tracks that are challenging, melodic, and full of energy. Many of his compositions have become fan favourites while testing the skills of top players. And with that, it is only right that he was invited to compose the Semifinals tiebreaker for the osu!mania 7K World Cup 2026 — a track that perfectly captures the intensity of a stage where only the top players compete!
 
 ---
 
