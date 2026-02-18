@@ -151,9 +151,9 @@ In the rhythm game world, [penoreri](https://osu.ppy.sh/beatmaps/artists/526) ne
 
 <div class="news-chat-quote__text-container">
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6209713" style="background-image: url('/wiki/shared/avatars/_Kobii_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6209713" style="background-image: url('/wiki/shared/avatars/_Kobii-v2.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6209713">_Kobii_</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6209713">_Kobii</a></p>
 
 Hi penoreri! It's great to finally have you compose an original song for osu!. [Vacant Rhapsody](https://osu.ppy.sh/beatmapsets/2501778#mania/5504474) has been incredibly well received, with many listeners praising its expressive structure and musicality. The piece showcases a wide range of influences, and you even performed the guitar parts yourself, including a section you described as being inspired by [Jordan Rudess](https://www.youtube.com/c/JordanRudessKeys). Which instruments do you enjoy playing most when producing, and how does performing them yourself influence the way you compose?
 
@@ -163,9 +163,9 @@ Hi penoreri! It's great to finally have you compose an original song for osu!. [
 
 My main instruments are piano and keyboards, but in recent years I've also increasingly been playing the guitar. The guitar allows me to create phrases and express emotions that wouldn't come to mind — or couldn't be conveyed in the same way — on a keyboard, so it has become an invaluable tool for me when composing.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6209713" style="background-image: url('/wiki/shared/avatars/_Kobii_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6209713" style="background-image: url('/wiki/shared/avatars/_Kobii-v2.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6209713">_Kobii_</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6209713">_Kobii</a></p>
 
 How do you balance musical expression with the technical constraints of rhythm games, such as rhythmic structure and overall length? Were there any particular challenges in achieving this while still maintaining musical coherence?
 
@@ -175,9 +175,9 @@ How do you balance musical expression with the technical constraints of rhythm g
 
 Balancing musical expression with rhythm game difficulty is something I'm constantly thinking about. Especially in sections that function as the chorus, I try to use memorable melodies, but sometimes that can naturally lower the map difficulty. To compensate, I add detailed obbligato lines and subtle rhythmic elements to maintain the level of challenge expected in a rhythm game.
 
-<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6209713" style="background-image: url('/wiki/shared/avatars/_Kobii_.jpg')"></a>
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/6209713" style="background-image: url('/wiki/shared/avatars/_Kobii-v2.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6209713">_Kobii_</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/6209713">_Kobii</a></p>
 
 In recent years, you've been focused mostly on commercial works. With that in mind, are there any plans to release a new album? Your last album was released back in 2015, and I'm sure long-time fans would love to hear a new full-length release from you.
 
