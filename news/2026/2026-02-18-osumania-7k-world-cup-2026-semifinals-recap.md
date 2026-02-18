@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2026: Semifinals Recap"
-date: 2026-02-18 16:00:00 +0000
+date: 2026-02-18 17:00:00 +0000
 series: world_cups
 ---
 
