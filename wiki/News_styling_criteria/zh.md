@@ -221,7 +221,7 @@ Markdown 的使用遵循 wiki 的[文章风格规范](/wiki/Article_styling_crit
 | 用户组 | 颜色 |
 | :-: | :-- |
 | `gmt` | `#99EB47` |
-| `nat` | `#fa3703` |
+| `nat` | `#FA3703` |
 | `dev` | `#E45678` |
 | `alm` | `#999999` |
 | `spt` | `#EBD047` |
