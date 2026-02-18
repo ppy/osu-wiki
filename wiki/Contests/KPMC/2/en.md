@@ -27,7 +27,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | :-- | :-- |
 | Host | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) |
 | Designer | ::{ flag=ID }:: [kim hyunjin](https://osu.ppy.sh/users/9456733) |
-| Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055), ::{flag=PL}:: [Korzei](https://osu.ppy.sh/users/11921815)|
+| Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055), ::{ flag=PL }:: [Korzei](https://osu.ppy.sh/users/11921815)|
 | Judge (osu!mania) | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |
 | Judge (osu!standard) | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058), ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964), ::{ flag=TH }:: [Kensuke](https://osu.ppy.sh/users/4314710), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=US }:: [Passionate](https://osu.ppy.sh/users/10194509) |
 
@@ -51,10 +51,12 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 ## Results
 
 More detailed scores and judge comments are available to view on the respective game modes' Mappers' Guild listing:
+
 - [osu!mania](https://mappersguild.com/contests/results?contest=69198d9689c030b585d6804b)
 - [osu!standard](https://mappersguild.com/contests/results?contest=69198f2a89c030b585d68132)
 
-### osu!mania: 
+### osu!mania
+
 | Place | Mapper | Song (map link) | Raw score (500) | Standardised score |
 | :-: | :-- | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) | [Dreamcatcher - BEcause](https://osu.ppy.sh/beatmapsets/2508561) | 423 | 6.101 |
@@ -62,7 +64,8 @@ More detailed scores and judge comments are available to view on the respective 
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | [ITZY - 8-BIT HEART](https://osu.ppy.sh/beatmapsets/2508590) | 406 | 3.998 |
 | Playtester's Pick[^playtester] | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | [QWER - REBOUND](https://osu.ppy.sh/beatmapsets/2508792) | 359 | -0.183 |
 
-### osu!standard:
+### osu!standard
+
 | Place | Mapper | Song (map link) | Raw score (500) | Standardised score |
 | :-: | :-- | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | [PARK JIHOON - Gallery](https://osu.ppy.sh/beatmapsets/2508518) | 420 | 5.214 |
@@ -85,12 +88,14 @@ More detailed scores and judge comments are available to view on the respective 
 - Videos, skins, and storyboards are not allowed.
 - Submitting your map to the BSS before the results announcement is not allowed and will result in disqualification.
 
-**osu!mania-specific rules:**
+**osu!mania-specific rules**
+
 - Submissions must be between 4K and 7K.
 - Submissions must include a custom hitnormal file.
 - Submissions must be one single beatmap with a difficulty of Hard or higher.
 
-**osu!standard-specific rules:**
+**osu!standard-specific rules**
+
 - Submissions must include custom or regular hitsounds.
 - Submissions must be one single beatmap with a difficulty between 3.7* to 6.0*.
 
@@ -109,4 +114,4 @@ Each map is scored out of 100 points. The judging criteria for each mode are as 
 
 ## Notes
 [^ranked]: The top 3 submissions will receive 2 nominations if the mapper wishes.
-[^playtester]: The anonymised submission chosen by the game mode's playtester based on its playability aspect, outside of the Top 3.
+[^playtester]: The anonymised submission chosen by the game mode's playtester based on its playability aspect, outside the top 3.
