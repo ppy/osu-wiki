@@ -32,7 +32,7 @@ Scroll through the sub-headings below to find out what to do, depending on where
 
 ### In the in-game chat {id=chat}
 
-*Caution: Reporting a user via the `!report` command in osu!(lazer) will not work, and the report will be **visible to everyone!** Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
+*Caution: Reporting a user via the `!report` command in osu!(lazer) does not work, and the report will be **visible to everyone!** Instead, [use the report menu](/wiki/Reporting_bad_behaviour#lazer-reports).*
 
 Immediately block the user by right-clicking or long-pressing their username and selecting `Ignore User` in osu!(stable) or `Block` in osu!(lazer).
 
