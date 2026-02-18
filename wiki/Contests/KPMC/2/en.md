@@ -27,7 +27,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | :-- | :-- |
 | Host | ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108), ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) |
 | Designer | ::{ flag=ID }:: [kim hyunjin](https://osu.ppy.sh/users/9456733) |
-| Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055), ::{ flag=PL }:: [Korzei](https://osu.ppy.sh/users/11921815)|
+| Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055), ::{ flag=PL }:: [Korzei](https://osu.ppy.sh/users/11921815) |
 | Judge (osu!mania) | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |
 | Judge (osu!standard) | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058), ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964), ::{ flag=TH }:: [Kensuke](https://osu.ppy.sh/users/4314710), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=US }:: [Passionate](https://osu.ppy.sh/users/10194509) |
 
