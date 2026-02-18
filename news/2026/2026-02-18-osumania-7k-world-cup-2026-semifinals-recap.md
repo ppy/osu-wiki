@@ -205,7 +205,6 @@ Don't forget to also check out Amphy's photography work on the five Marmalade bu
 
 Hi Amphy! It's really exciting for us to finally have the chance to interview a photographer, especially as photography has been playing a bigger role in our design projects. This feels like a good opportunity for us to learn more about your work and creative perspective. To start things off, could you introduce yourself and share a bit about your background?
 
-
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10762223" style="background-image: url('/wiki/shared/avatars/Amphy.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10762223">Amphy</a></p>
@@ -231,7 +230,6 @@ I think specifically where I'm from is why I take so many photos of natural subj
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
 
 In the past, photography hasn't always been the main focus in osu! originals, and graphic design is often seen as just backgrounds or banners. How did you feel about the creative approach we took for this project? What was it like collaborating with the other designers to bring photography and animated graphic design together?
-
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10762223" style="background-image: url('/wiki/shared/avatars/Amphy.jpg')"></a>
 
