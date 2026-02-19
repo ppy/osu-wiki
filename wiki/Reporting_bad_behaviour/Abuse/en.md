@@ -14,18 +14,6 @@ Nothing you send to [abuse@ppy.sh](mailto:abuse@ppy.sh) will ever be shared with
 
 There is no "statute of limitations" for abuse on osu! — do not hesitate to report something because of how long ago it happened.
 
-## What is considered sexual misconduct? {id=what}
-
-Any behaviour that would likely violate another user's sexual integrity or make them feel harassed is considered unacceptable. Examples include, but are not limited to:
-
-- Requesting sexual photos or acts from another user
-- Sending another user sexual content without reasonable cause
-- Making another user feel pressured to enter or remain in a romantic relationship
-
-**Sexual or romantic conduct in private will usually not be considered problematic if both parties consent to it.** However, if a user is underage (i.e. less than 18 years old), sexual conduct with them may be considered problematic regardless of their consent, especially if the age difference between the users is more than a year or two. If you are not sure about someone's age, ask them, and if you are still not sure, refrain from sexual or romantic conduct towards them.
-
-While forming a relationship with another user you know well is entirely acceptable (underage users notwithstanding), **actively using osu! to look for romantic or sexual partners is not allowed** as it is not what most other users are here for, and doing so will very likely make someone uncomfortable at some point.
-
 ## Someone's made inappropriate sexual advances or remarks towards me! {id=bad-remarks}
 
 Scroll through the sub-headings below to find out what to do, depending on where this all happened.
@@ -85,8 +73,6 @@ If you know the osu! username of the person bothering you, please send an email 
 ## A member of one of the volunteer teams (NAT, GMT) is approaching/talking/acting towards me inappropriately! {id=volunteer}
 
 Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) containing as much information as possible **immediately**. This includes screenshots, chat logs, and basically anything else you can attach to an email.
-
-If you can't find the messages for any reason, but remember at least roughly when they were sent and are sure they were sent in osu!'s chat, include this information instead — the abuse team has full access to public and private chat logs.
 
 If anything you want to include makes you feel embarrassed, please blank it out. 
 
