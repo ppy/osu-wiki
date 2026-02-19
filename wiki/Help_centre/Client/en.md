@@ -324,7 +324,7 @@ Please consult Kaspersky's [official help article](https://support.kaspersky.com
 
 #### Allowing a program through McAfee {id=firewall-whitelist-mcafee}
 
-Please consult McAfee's [official knowledge base entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Please consult McAfee's [official knowledge base entry on the topic](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html).
 
 ### I've added osu! to my firewall but I still can't connect to the game! {id=sign-in-unknown-cause}
 

@@ -48,6 +48,7 @@ Official tournaments organised by the osu! team.
 | [osu!taiko World Cup 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: Japan | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Germany |
 | [osu!taiko World Cup 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: Japan | ::{ flag=GB }:: United Kingdom | ::{ flag=US }:: United States |
 | [osu!taiko World Cup 2025](TWC/2025) | 2025-03-15 | 2025-04-27 | ::{ flag=JP }:: Japan | ::{ flag=KR }:: South Korea | ::{ flag=TW }:: Taiwan |
+| [osu!taiko World Cup 2026](TWC/2026) | 2026-03-13 | 2026-04-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -66,7 +67,7 @@ Official tournaments organised by the osu! team.
 | [osu!catch World Cup 2022](CWC/2022) | 2022-05-21 | 2022-07-03 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=CN }:: China |
 | [osu!catch World Cup 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: South Korea | ::{ flag=US }:: United States | ::{ flag=IT }:: Italy |
 | [osu!catch World Cup 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PL }:: Poland |
-| [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2024-07-20 | ::{ flag=AR }:: Argentina | ::{ flag=US }:: United States | ::{ flag=FI }:: Finland |
+| [osu!catch World Cup 2025](CWC/2025) | 2025-05-08 | 2025-07-20 | ::{ flag=AR }:: Argentina | ::{ flag=US }:: United States | ::{ flag=FI }:: Finland |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -350,6 +351,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 2022-02-15 | 2022-04-03 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 2023-06-19 | 2023-07-30 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 | [osu! Indonesia Tournament #14 (2024)](OIT/2024) | 2024-09-23 | 2024-11-03 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #15 (2025) ft. Stella](OIT/2025) | 2025-12-29 | 2026-02-15 | ::{ flag=ID }:: [lifelineO](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
 
 #### osu! Malaysia Tournament
 
