@@ -1,14 +1,14 @@
-# Featured Artist showcase beatmaps
+# 精选艺术家展示谱面
 
-Members of the [Mappers' Guild](/wiki/Community/Mappers_Guild) may occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [Featured Artists](/wiki/People/Featured_Artists). Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
+[谱师公会](/wiki/Community/Mappers_Guild)的成员有时会使用 osu! 尚未发布的[精选艺术家](/wiki/People/Featured_Artists)的歌曲及其他素材，创作专属的"展示谱面"。在相应精选艺术家公布时，这些谱面会在[新闻帖](https://osu.ppy.sh/home/news)中重点展示，并常常同时在 [@osugame Twitter 账户](https://twitter.com/osugame)上进行推广。
 
-In order to participate in the creation of Featured Artist showcase beatmaps, a member of the Mappers' Guild must either accept a [limited-time mystery quest](/wiki/Community/Mappers_Guild#quests), be directly invited by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), or have their `FA showcase mapper` setting enabled in the [Mappers' Guild website](https://mappersguild.com/).
+若要参与精选艺术家展示谱面的创作，谱师公会成员必须接受[限时谜之任务](/wiki/Community/Mappers_Guild#quests)，或由 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 直接邀请，或在[谱师公会网站](https://mappersguild.com/)上启用其 `FA showcase mapper` 设置。
 
-This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
+本文按时间顺序列出了由谱师公会成员创作的所有展示谱面。
 
 ## 2017
 
-### November
+### 11 月
 
 - **[MOtOLOiD](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid)** (2017-11-07)
   - (![][osu!]) [baker - For a Dead Girl+](https://osu.ppy.sh/beatmapsets/682287#osu/1442763) 主创：::{ flag=SG }:: [handsome](https://osu.ppy.sh/users/2123087)
@@ -22,7 +22,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2018
 
-### May
+### 5 月
 
 - **[Cranky](https://osu.ppy.sh/home/news/2018-05-25-new-featured-artist-cranky)** (2018-05-25)
   - (![][osu!]) [Cranky - Chandelier - King](https://osu.ppy.sh/beatmapsets/751785#osu/1582621) 主创：::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515)
@@ -34,7 +34,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Cranky - Rave 2 Rave](https://osu.ppy.sh/beatmapsets/751896#osu/1582902) 主创：::{ flag=KR }:: [Sonnyc](https://osu.ppy.sh/users/11771)
   - (![][osu!]) [Cranky - T&J](https://osu.ppy.sh/beatmapsets/752022#osu/1583147) 主创：::{ flag=SG }:: [handsome](https://osu.ppy.sh/users/2123087)
 
-### August
+### 8 月
 
 - **[High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music)** (2018-08-13)
   - (![][osu!]) [Andromedik - Invasion](https://osu.ppy.sh/beatmapsets/789544#osu/1656911) 主创：::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
@@ -44,7 +44,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Phonetic - Journey](https://osu.ppy.sh/beatmapsets/795432#osu/1670491) 主创：::{ flag=KR }:: [Left](https://osu.ppy.sh/users/5062061)
   - (![][osu!]) [Pulse - LP](https://osu.ppy.sh/beatmapsets/789374#osu/1656604) 主创：::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 
-### November
+### 11 月
 
 - **[Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate)** (2018-11-21)
   - (![][osu!]) [Culprate - Aurora](https://osu.ppy.sh/beatmapsets/848003#osu/1773386) 主创：::{ flag=FR }:: [BOUYAAA](https://osu.ppy.sh/users/405449)
@@ -54,7 +54,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Culprate & Joe Ford - Gaucho](https://osu.ppy.sh/beatmapsets/847776#osu/1772923) 主创：::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308)
   - (![][osu!]) [Culprate & Skorpion - Jester](https://osu.ppy.sh/beatmapsets/848259#osu/1773876) 主创：::{ flag=RU }:: [NeilPerry](https://osu.ppy.sh/users/841391)
 
-### December
+### 12 月
 
 - **[Camellia](https://osu.ppy.sh/home/news/2018-12-24-new-featured-artist-camellia)** (2018-12-24)
   - (![][osu!]) [Camellia - First Town Of This Journey](https://osu.ppy.sh/beatmapsets/888513#osu/1857147) 主创：::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308)
@@ -68,7 +68,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2019
 
-### February
+### 2 月
 
 - **[HyuN](https://osu.ppy.sh/home/news/2019-02-05-new-featured-artist-hyun)** (2019-02-05)
   - (![][osu!]) [HyuN - Guitian](https://osu.ppy.sh/beatmapsets/891348#osu/1863256) 主创：::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308)
@@ -84,14 +84,14 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [HyuN feat. Yu-A - My life is for you](https://osu.ppy.sh/beatmapsets/891417#osu/1863412) 主创：::{ flag=RU }:: [NeilPerry](https://osu.ppy.sh/users/841391)
   - (![][osu!]) [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/891632#osu/1864007) 主创：::{ flag=GR }:: [lcfc](https://osu.ppy.sh/users/7322726)
 
-### May
+### 5 月
 
 - **[James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)** (2019-05-31)
   - (![][osu!]) [James Landino - Hide And Seek](https://osu.ppy.sh/beatmapsets/972932#osu/2036903) 主创：::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
   - (![][osu!]) [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmapsets/972816#osu/2036666) 主创：::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
   - (![][osu!]) [James Landino & Kabuki - Birdsong](https://osu.ppy.sh/beatmapsets/972810#osu/2036650) 主创：::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515)
 
-### December
+### 12 月
 
 - **[MYLK](https://osu.ppy.sh/home/news/2019-12-31-new-featured-artist-mylk)** (2019-12-31)
   - (![][osu!taiko]) [MYLK - Bubblegum](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204737) 主创：::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/2204735)
@@ -104,7 +104,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2020
 
-### January
+### 1 月
 
 - **[Teminite](https://osu.ppy.sh/home/news/2020-01-15-new-featured-artist-teminite)** (2020-01-15)
   - (![][osu!]) [Teminite - Step Into The Light (feat. Jonah Hitchens)](https://osu.ppy.sh/beatmapsets/1089017#osu/2276963) 主创：::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
@@ -113,7 +113,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!catch]) [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425#fruits/2222665) 主创：::{ flag=GB }:: [MBomb](https://osu.ppy.sh/users/3071175)
   - (![][osu!catch]) [Blue Stahli & Nyyzy Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242234) 主创：::{ flag=SG }:: [Sinnoh](https://osu.ppy.sh/users/4236057)
 
-### February
+### 2 月
 
 - **[Kola Kid](https://osu.ppy.sh/home/news/2020-02-05-new-featured-artist-kola-kid)** (2020-02-05)
   - (![][osu!]) [Kola Kid - can't hide your love](https://osu.ppy.sh/beatmapsets/1099325#osu/2296606) 主创：::{ flag=JP }:: [ShirohaMyMommy](https://osu.ppy.sh/users/1603923)
@@ -127,13 +127,13 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Sound Souler - Absent Color](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) 主创：::{ flag=KR }:: [Sonnyc](https://osu.ppy.sh/users/11771)
   - (![][osu!]) [Sound Souler - Aqua Stars](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224) 主创：::{ flag=KR }:: [Affirmation](https://osu.ppy.sh/users/6186628)
 
-### March
+### 3 月
 
 - **[ginkiha](https://osu.ppy.sh/home/news/2020-03-11-new-featured-artist-ginkiha)** (2020-03-11)
   - (![][osu!]) [ginkiha - Paved Garden](https://osu.ppy.sh/beatmapsets/1110961#osu/2321257) 主创：::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530)
   - (![][osu!]) [ginkiha, TEA - Haruka (Short Ver.)](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-### April
+### 4 月
 
 - **[meganeko](https://osu.ppy.sh/home/news/2020-04-03-new-featured-artist-meganeko)** (2020-04-03)
   - (![][osu!catch]) [chopin - Etude Op. 25, No. 12 (meganeko Remix)](https://osu.ppy.sh/beatmapsets/1115500#fruits/2330397) 主创：::{ flag=GB }:: [WildOne94](https://osu.ppy.sh/users/3482692)
@@ -148,7 +148,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [PUP - Free At Last](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967) 主创：::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645)
   - (![][osu!]) [PUP - Sleep In The Heat](https://osu.ppy.sh/beatmapsets/1141879#osu/2384823) 主创：::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994)
 
-### May
+### 5 月
 
 - **[BLANKFIELD](https://osu.ppy.sh/home/news/2020-05-06-new-featured-artist-blankfield)** (2020-05-06)
   - (![][osu!]) [BLANKFIELD - Falling Falls](https://osu.ppy.sh/beatmapsets/1120635#osu/2341586) 主创：::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763)
@@ -158,7 +158,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Thank You Scientist](https://osu.ppy.sh/home/news/2020-05-27-new-featured-artist-thank-you-scientist)** (2020-05-27)
   - (![][osu!]) [Thank You Scientist - Mr. Invisible](https://osu.ppy.sh/beatmapsets/1130581#osu/2361608) 主创：::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 
-### June
+### 6 月
 
 - **[Noisia](https://osu.ppy.sh/home/news/2020-06-03-new-featured-artist-noisia)** (2020-06-03)
   - (![][osu!]) [Noisia - Vigilantes](https://osu.ppy.sh/beatmapsets/1126238#osu/2353241) 主创：::{ flag=KR }:: [Affirmation](https://osu.ppy.sh/users/6186628)
@@ -169,7 +169,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Ne Obliviscaris](https://osu.ppy.sh/home/news/2020-06-17-new-featured-artist-ne-obliviscaris)** (2020-06-17)
   - (![][osu!]) [Ne Obliviscaris - Eyrie](https://osu.ppy.sh/beatmapsets/1177346#osu/2455505) 主创：::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314)
 
-### July
+### 7 月
 
 - **[LEAF XCEED Music Division](https://osu.ppy.sh/home/news/2020-07-01-new-featured-artist-leaf-xceed)** (2020-07-01)
   - (![][osu!]) [LEAF XCEED Music Division - Fur Elisa](https://osu.ppy.sh/beatmapsets/1131805#osu/2488047) 主创：::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
@@ -183,14 +183,14 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!catch]) [Silentroom - LASTMORN](https://osu.ppy.sh/beatmapsets/1168675#fruits/2438351) 主创：::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
   - (![][osu!mania]) [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/1140163#mania/2381505) 主创：::{ flag=NL }:: [Leniane](https://osu.ppy.sh/users/7138602)
 
-### August
+### 8 月
 
 - **[ARForest](https://osu.ppy.sh/home/news/2020-08-19-new-featured-artist-arforest)** (2020-08-19)
   - (![][osu!]) [ARForest - Aoba](https://osu.ppy.sh/beatmapsets/1131726#osu/2363943) 主创：::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
   - (![][osu!]) [ARForest - Infection](https://osu.ppy.sh/beatmapsets/1225001#osu/2559136) 主创：::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
   - (![][osu!taiko]) [ARForest - Regret](https://osu.ppy.sh/beatmapsets/1184228#taiko/2468709) 主创：::{ flag=DE }:: [Nepuri](https://osu.ppy.sh/users/6637817)
 
-### September
+### 9 月
 
 - **[Task Horizon](https://osu.ppy.sh/home/news/2020-09-02-new-featured-artist-task-horizon)** (2020-09-02)
   - (![][osu!taiko]) [Task Horizon - Phase Prism](https://osu.ppy.sh/beatmapsets/1195463#taiko/2490341) 主创：::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480)
@@ -214,7 +214,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!catch]) [siqlo - Me & U](https://osu.ppy.sh/beatmapsets/1225300#fruits/2548347) 主创：::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
   - (![][osu!catch]) [siqlo - Midnight, Sunrise Sign](https://osu.ppy.sh/beatmapsets/1224186#fruits/2546205) 主创：::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
-### October
+### 10 月
 
 - **[Sable Hills](https://osu.ppy.sh/home/news/2020-10-03-new-featured-artist-sable-hills)** (2020-10-03)
   - (![][osu!taiko]) [Sable Hills - Juggernaut](https://osu.ppy.sh/beatmapsets/1244973#taiko/2587820) 主创：::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480)
@@ -233,7 +233,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[DUAL ALTER WORLD](https://osu.ppy.sh/home/news/2020-10-31-new-featured-artist-dual-alter-world)** (2020-10-31)
   - (![][osu!]) [DUAL ALTER WORLD - CONSOLE1 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1267302#osu/2633906) 主创：::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763)
 
-### November
+### 11 月
 
 - **[Se-U-Ra](https://osu.ppy.sh/home/news/2020-11-03-new-featured-artist-se-u-ra)** (2020-11-03)
   - (![][osu!]) [Se-U-Ra - Qlifact -another-](https://osu.ppy.sh/beatmapsets/1224699#osu/2547134) 主创：::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763)
@@ -254,7 +254,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[I love you orchestra](https://osu.ppy.sh/home/news/2020-11-21-new-featured-artist-i-love-you-orchestra)** (2020-11-21)
   - (![][osu!]) [I love you orchestra - Tenshin -Trigger ver.-](https://osu.ppy.sh/beatmapsets/1285271#osu/2668591) 主创：::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
 
-### December
+### 12 月
 
 - **[MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke)** (2020-12-05)
   - (![][osu!]) [MYUKKE. - BUNA☆SYNERGY!!!](https://osu.ppy.sh/beatmapsets/1294640#osu/2686391) 主创：::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
@@ -268,7 +268,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2021
 
-### January
+### 1 月
 
 - **[Getty](https://osu.ppy.sh/home/news/2021-01-06-new-featured-artist-getty)** (2021-01-06)
   - (![][osu!]) [Getty vs. DJ DiA - Engage-Rex](https://osu.ppy.sh/beatmapsets/1336197#osu/2768155) 主创：::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
@@ -282,7 +282,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Dimrain47](https://osu.ppy.sh/home/news/2021-01-27-new-featured-artist-dimrain47)** (2021-01-27)
   - (![][osu!]) [Dimrain47 - At the Speed of Light](https://osu.ppy.sh/beatmapsets/1335517#osu/2883905) 主创：::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
 
-### February
+### 2 月
 
 - **[Masahiro "Godspeed" Aoki](https://osu.ppy.sh/home/news/2021-02-03-new-featured-artist-masahiro-godspeed-aoki)** (2021-02-03)
   - (![][osu!]) [Masahiro "Godspeed" Aoki - Blaze](https://osu.ppy.sh/beatmapsets/1323877#osu/2742170) 主创：::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
@@ -297,7 +297,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[nora2r](https://osu.ppy.sh/home/news/2021-02-20-new-featured-artist-nora2r)** (2021-02-20)
   - (![][osu!]) [nora2r - B.B.K.K.B.K.K.](https://osu.ppy.sh/beatmapsets/1372554#osu/2837528) 主创：::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981)
 
-### March
+### 3 月
 
 - **[Tanchiky](https://osu.ppy.sh/home/news/2021-03-03-new-featured-artist-tanchiky)** (2021-03-03)
   - (![][osu!]) [Tanchiky - Bridge](https://osu.ppy.sh/beatmapsets/1378720#osu/2848898) 主创：::{ flag=CZ }:: [NyarkoO](https://osu.ppy.sh/users/6622567)
@@ -320,7 +320,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Xanthochroid](https://osu.ppy.sh/home/news/2021-03-31-new-featured-artist-xanthochroid)** (2021-03-31)
   - (![][osu!]) [Xanthochroid - The Sound of Hunger Rises](https://osu.ppy.sh/beatmapsets/1335143#osu/2766094) 主创：::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410)
 
-### April
+### 4 月
 
 - **[YUZUKINGDOM](https://osu.ppy.sh/home/news/2021-04-10-new-featured-artist-yuzukingdom)** (2021-04-10)
   - (![][osu!]) [YUZUKINGDOM - Roskill Lavender](https://osu.ppy.sh/beatmapsets/1410727#osu/2908440) 主创：::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763)
@@ -329,7 +329,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[2ToneDisco](https://osu.ppy.sh/home/news/2021-04-17-new-featured-artist-2tonedisco)** (2021-04-17)
   - (![][osu!]) [2ToneDisco x Kabuki - Giga](https://osu.ppy.sh/beatmapsets/1392421) 主创：::{ flag=CL }:: [Hazu-](https://osu.ppy.sh/users/4668230)
 
-### May
+### 5 月
 
 - **[m108](https://osu.ppy.sh/home/news/2021-05-01-new-featured-artist-m108)** (2021-05-01)
   - (![][osu!]) [m108 - Sunflower](https://osu.ppy.sh/beatmapsets/1403962) 主创：::{ flag=IT }:: [Leader](https://osu.ppy.sh/users/631530)
@@ -351,7 +351,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Sewerslvt](https://osu.ppy.sh/home/news/2021-05-29-new-featured-artist-sewerslvt)** (2021-05-29)
   - (![][osu!taiko]) [Sewerslvt - Newlove](https://osu.ppy.sh/beatmapsets/1442626) 主创：::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 
-### June
+### 6 月
 
 - **[La priere](https://osu.ppy.sh/home/news/2021-06-16-new-featured-artist-la-priere)** (2021-06-16)
   - (![][osu!]) [La prière - Senjou no Utahime](https://osu.ppy.sh/beatmapsets/1398580) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
@@ -361,7 +361,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Andromedik](https://osu.ppy.sh/home/news/2021-06-26-new-featured-artist-andromedik)** (2021-06-26)
   - (![][osu!]) [Andromedik x Itro x Polygon - Fly](https://osu.ppy.sh/beatmapsets/1470255) 主创：::{ flag=FR }:: [BOUYAAA](https://osu.ppy.sh/users/405449)
 
-### July
+### 7 月
 
 - **[Fred V & Grafix](https://osu.ppy.sh/home/news/2021-07-10-new-featured-artist-fred-v-grafix)** (2021-07-10)
   - (![][osu!]) [Fred V & Grafix - Ignite (feat. Amy J Pryce)](https://osu.ppy.sh/beatmapsets/1443360) 主创：::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
@@ -375,14 +375,14 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[SEBii](https://osu.ppy.sh/home/news/2021-07-31-new-featured-artist-sebii)** (2021-07-31)
   - (![][osu!catch]) [SEBii - Play Poker Remix (w/ Maple)](https://osu.ppy.sh/beatmapsets/1512572) 主创：::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
 
-### August
+### 8 月
 
 - **[T & Sugah](https://osu.ppy.sh/home/news/2021-08-07-new-featured-artist-t-and-sugah)** (2021-08-07)
   - (![][osu!]) [T & Sugah - Days Away (feat. Voicians)](https://osu.ppy.sh/beatmapsets/1519300) 主创：::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033)
   - (![][osu!]) [T & Sugah x Zazu - Lost On My Own](https://osu.ppy.sh/beatmapsets/1511518) 主创：::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
   - (![][osu!]) [T & Sugah - Wicked Days](https://osu.ppy.sh/beatmapsets/1496811) 主创：::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
 - **[Natsume Itsuki](https://osu.ppy.sh/home/news/2021-08-11-new-featured-artist-natsume-itsuki)** (2021-08-11)
-  - (![][osu!]) [Natsume Itsuki - Mayday](https://osu.ppy.sh/beatmapsets/1506697) 主创：::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Natsume Itsuki - 5 月day](https://osu.ppy.sh/beatmapsets/1506697) 主创：::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
   - (![][osu!]) [Natsume Itsuki - AI to CodeQ no Hate](https://osu.ppy.sh/beatmapsets/1515036) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [Natsume Itsuki - Miniascape](https://osu.ppy.sh/beatmapsets/1509856) 主创：::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015)
 - **[rN](https://osu.ppy.sh/home/news/2021-08-14-new-featured-artist-rn)** (2021-08-14)
@@ -394,7 +394,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) 主创：::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
-### September
+### 9 月
 
 - **[Alkome](https://osu.ppy.sh/home/news/2021-09-01-new-featured-artist-alkome)** (2021-09-01)
   - (![][osu!]) [Alkome - Mind Disorder](https://osu.ppy.sh/beatmapsets/1301375) 主创：::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865)
@@ -408,7 +408,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!taiko]) [Lundy - STOP?](https://osu.ppy.sh/beatmapsets/1584108) 主创：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
   - (![][osu!catch]) [Lundy - to.ALPHA](https://osu.ppy.sh/beatmapsets/1554550) 主创：::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
 
-### October
+### 10 月
 
 - **[DJ Raisei](https://osu.ppy.sh/home/news/2021-10-02-new-featured-artist-dj-raisei)** (2021-10-02)
   - (![][osu!]) [ISOMERZ (DJ Raisei + seatrus) - Symmetric](https://osu.ppy.sh/beatmapsets/1381824) 主创：::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
@@ -423,7 +423,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!taiko]) [Risa Yuzuki - Replique](https://osu.ppy.sh/beatmapsets/1580723) 主创：::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733)
   - (![][osu!catch]) [Risa Yuzuki - Cinderella Maker](https://osu.ppy.sh/beatmapsets/1582952) 主创：::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
 
-### November
+### 11 月
 
 - **[FATE GEAR](https://osu.ppy.sh/home/news/2021-11-13-new-featured-artist-fate-gear)** (2021-11-13)
   - (![][osu!]) [Headless Goddess](https://osu.ppy.sh/beatmapsets/1568902) 主创：::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861)
@@ -436,7 +436,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Marmalade butcher](https://osu.ppy.sh/home/news/2021-11-27-new-featured-artist-marmalade-butcher)** (2021-11-27)
   - (![][osu!]) [Marmalade butcher - Mirage Age](https://osu.ppy.sh/beatmapsets/1624087#osu/3315941) 主创：::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835)
 
-### December
+### 12 月
 
 - **[Tasty](https://osu.ppy.sh/home/news/2021-12-01-new-featured-artist-tasty)** (2021-12-01)
   - (![][osu!]) [oneohkay - Last 7 Letters](https://osu.ppy.sh/beatmapsets/1616937#osu/3301543) 主创：::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
@@ -457,7 +457,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2022
 
-### January
+### 1 月
 
 - **[DGK](https://osu.ppy.sh/home/news/2022-01-08-new-featured-artist-dgk)** (2022-01-08)
   - (![][osu!]) [DGK - nx.](https://osu.ppy.sh/beatmapsets/1667057#osu/3403888) 主创：::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
@@ -475,7 +475,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Maduk - Company (feat. Juul) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1667478#osu/3404781) 主创：::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033)
   - (![][osu!]) [Maduk - Go (feat. Lachi) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1675558#osu/3422936) 主创：::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
 
-### February
+### 2 月
 
 - **[HEAD PHONES PRESIDENT](https://osu.ppy.sh/home/news/2022-02-09-new-featured-artist-head-phones-president)** (2022-02-09)
   - (![][osu!]) [HEAD PHONES PRESIDENT - Until I Die](https://osu.ppy.sh/beatmapsets/1692553#osu/3458537) 主创：::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097)
@@ -488,7 +488,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[MisomyL](https://osu.ppy.sh/home/news/2022-02-26-new-featured-artist-misomyl)** (2022-02-26)
   - (![][osu!]) [MisomyL - Amnehilesie](https://osu.ppy.sh/beatmapsets/1703921#osu/3482929) 主创：::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
 
-### March
+### 3 月
 
 - **[City Girl](https://osu.ppy.sh/home/news/2022-03-05-new-featured-artist-city-girl)** (2022-03-05)
   - (![][osu!]) [City Girl - L2M (feat. Kelsey Kuan)](https://osu.ppy.sh/beatmapsets/1668789#osu/3407969) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
@@ -501,7 +501,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[my sound life](https://osu.ppy.sh/home/news/2022-03-30-new-featured-artist-my-sound-life)** (2022-03-30)
   - (![][osu!]) [my sound life - omega](https://osu.ppy.sh/beatmapsets/1728309#osu/3538894) 主创：::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076)
 
-### April
+### 4 月
 
 - **[in love with a ghost](https://osu.ppy.sh/home/news/2022-04-13-new-featured-artist-in-love-with-a-ghost)** (2022-04-13)
   - (![][osu!]) [in love with a ghost - interdimensional portal leading to a cute place feat. snail's house](https://osu.ppy.sh/beatmapsets/1729796#osu/3535185) 主创：::{ flag=DK }:: [bongo](https://osu.ppy.sh/users/5312202)
@@ -513,7 +513,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!catch]) [Mitsuki - Eeliaas](https://osu.ppy.sh/beatmapsets/1724385#fruits/3528111) 主创：::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
   - (![][osu!]) [Mitsuki - tesseract](https://osu.ppy.sh/beatmapsets/1750201#osu/3580568) 主创：::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
 
-### May
+### 5 月
 
 - **[Ardolf](https://osu.ppy.sh/home/news/2022-05-04-new-featured-artist-ardolf)** (2022-05-04)
   - (![][osu!]) [Ardolf - Varcolac](https://osu.ppy.sh/beatmapsets/1750904#osu/3582059) 主创：::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407)
@@ -528,7 +528,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) 主创：::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865)
   - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) 主创：::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 
-### June
+### 6 月
 
 - **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (2022-06-01)
   - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) 主创：::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117)
@@ -547,12 +547,12 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Toromaru](https://osu.ppy.sh/home/news/2022-06-29-new-featured-artist-toromaru)** (2022-06-29)
   - (![][osu!]) [Toromaru - Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694#osu/3667382) 主创：::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 
-### July
+### 7 月
 
 - **[aran](https://osu.ppy.sh/home/news/2022-07-09-new-featured-artist-aran)** (2022-07-09)
   - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) 主创：::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
 - **[NOISZ](https://osu.ppy.sh/home/news/2022-07-23-new-featured-artist-noisz)** (2022-07-23)
-  - (![][osu!]) [Camellia feat. Morinaga Mayumi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) 主创：::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059)
+  - (![][osu!]) [Camellia feat. Morinaga 5 月umi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) 主创：::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059)
   - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) 主创：::{ flag=HU }:: [Nytrocide\_](https://osu.ppy.sh/users/11327918)
 - **[ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)** (2022-07-30)
   - (![][osu!]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042) 主创：::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
@@ -560,7 +560,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!taiko]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1765720#taiko/3614336) 主创：::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
   - (![][osu!mania]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1737101#mania/3550471) 主创：::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
 
-### August
+### 8 月
 
 - **[Hamu](https://osu.ppy.sh/home/news/2022-08-03-new-featured-artist-hamu)** (2022-08-03)
   - (![][osu!]) [Hamu - Secret Clover](https://osu.ppy.sh/beatmapsets/1815789#osu/3732873) 主创：::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076)
@@ -588,7 +588,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!catch]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1826327#fruits/3748082) 主创：::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
   - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) 主创：::{ flag=FR }:: [-45](https://osu.ppy.sh/users/13400075)
 
-### September
+### 9 月
 
 - **[Andy Gillion](https://osu.ppy.sh/home/news/2022-09-14-new-featured-artist-andy-gillion)** (2022-09-14)
   - (![][osu!]) [Andy Gillion - Insert Coin](https://osu.ppy.sh/beatmapsets/1842568#osu/3784709) 主创：::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
@@ -597,7 +597,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Ritorikal](https://osu.ppy.sh/home/news/2022-09-24-new-featured-artist-ritorikal)** (2022-09-24)
   - (![][osu!]) [Ritorikal - Synergy](https://osu.ppy.sh/beatmapsets/1742868#osu/3562994) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-### October
+### 10 月
 
 - **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (2022-10-01)
   - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) 主创：::{ flag=KR }:: [_Epreus](https://osu.ppy.sh/users/7342798)
@@ -612,7 +612,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (2022-10-26)
   - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) 主创：::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
 
-### November
+### 11 月
 
 - **[happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)** (2022-11-02)
   - (![][osu!]) [happy30 - You spin my world](https://osu.ppy.sh/beatmapsets/1873680) 主创：::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)
@@ -624,7 +624,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Innocent Key - Lunatic Red Eyes](https://osu.ppy.sh/beatmapsets/1879868) 主创：::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
   - (![][osu!mania]) [Innocent Key - Toho-Assisted-Speedrun!!!](https://osu.ppy.sh/beatmapsets/1852057) 主创：::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
 
-### December
+### 12 月
 
 - **[Ekcle](https://osu.ppy.sh/home/news/2022-12-07-new-featured-artist-ekcle)** (2022-12-07)
   - (![][osu!]) [Ekcle - Crafted In Ice](https://osu.ppy.sh/beatmapsets/1868244) 主创：::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
@@ -638,7 +638,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2023
 
-### January
+### 1 月
 
 - **[Fellowship](https://osu.ppy.sh/home/news/2023-01-07-new-featured-artist-fellowship)** (2023-01-07)
   - (![][osu!]) [Fellowship - The Frozen Land](https://osu.ppy.sh/beatmapsets/1835572) 主创：::{ flag=US }:: [nebuwua](https://osu.ppy.sh/users/14729352)
@@ -651,7 +651,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [kakichoco - Zan'ei](https://osu.ppy.sh/beatmapsets/1888928) 主创：::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255)
   - (![][osu!]) [kakichoco - Reirou no Hibiki](https://osu.ppy.sh/beatmapsets/1853651) 主创：::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
 
-### February
+### 2 月
 
 - **[FRASER EDWARDS](https://osu.ppy.sh/home/news/2023-02-04-new-featured-artist-fraser-edwards)** (2023-02-04)
   - (![][osu!]) [FRASER EDWARDS - Ruination](https://osu.ppy.sh/beatmapsets/1848184) 主创：::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
@@ -668,7 +668,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi](https://osu.ppy.sh/beatmapsets/1934595) 主创：::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
   - (![][osu!taiko]) [Kabocha - Yume no Kuni e feat. miko](https://osu.ppy.sh/beatmapsets/1851518) 主创：::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733)
 
-### March
+### 3 月
 
 - **[Mediks](https://osu.ppy.sh/home/news/2023-03-04-new-featured-artist-mediks)** (2023-03-04)
   - (![][osu!]) [Mediks - Blown Away (feat. Astronaut) (Raise Spirit Remix)](https://osu.ppy.sh/beatmapsets/1950373) 主创：::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033)
@@ -684,7 +684,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Stars Hollow](https://osu.ppy.sh/home/news/2023-03-31-new-featured-artist-stars-hollow)** (2023-03-31)
   - (![][osu!]) [Stars Hollow - Stuck to You.](https://osu.ppy.sh/beatmapsets/1966591) 主创：::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
 
-### May
+### 5 月
 
 - **[tephe](https://osu.ppy.sh/home/news/2023-05-24-new-featured-artist-tephe)** (2023-05-24)
   - (![][osu!]) [tephe - Genjitsu Escape](https://osu.ppy.sh/beatmapsets/1997470) 主创：::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
@@ -692,7 +692,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [Shadren - You're Here Forever](https://osu.ppy.sh/beatmapsets/1948970) 主创：::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
   - (![][osu!]) [Shadren - Agleam (feat. Asperatus)](https://osu.ppy.sh/beatmapsets/1926857) 主创：::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231)
 
-### June
+### 6 月
 
 - **[Andora](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora)** (2023-06-03)
   - (![][osu!]) [Andora - Euphoria (feat. WaMi)](https://osu.ppy.sh/beatmapsets/1905874) 主创：::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015)
@@ -709,7 +709,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Ruby My Dear](https://osu.ppy.sh/home/news/2023-07-01-new-featured-artist-ruby-my-dear)** (2023-07-01)
   - (![][osu!catch]) [Ruby My Dear - Croque Monsieur A Disneyland](https://osu.ppy.sh/beatmapsets/2009607) 主创：::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 
-### July
+### 7 月
 
 - **[Krimek](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek)** (2023-07-08)
   - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) 主创：::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
@@ -720,7 +720,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!]) [YUC'e - Sugary Galaxy](https://osu.ppy.sh/beatmapsets/2015526) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
   - (![][osu!]) [YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/2023926) 主创：::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
 
-### August
+### 8 月
 
 - **[ALLMYFRIENDS](https://osu.ppy.sh/home/news/2023-08-05-new-featured-artist-all-my-friends)** (2023-08-05)
   - (![][osu!]) [Synthion, Yuuna Nini - By My Side](https://osu.ppy.sh/beatmapsets/1993256) 主创：::{ flag=US }:: [Shirahane Suou](https://osu.ppy.sh/users/10820856)
@@ -735,7 +735,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!mania]) [beignet - Maple Trick](https://osu.ppy.sh/beatmapsets/2032450) 主创：::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
   - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) 主创：::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579)
 
-### September
+### 9 月
 
 - **[C-Show](https://osu.ppy.sh/home/news/2023-09-02-new-featured-artist-c-show)** (2023-09-02)
   - (![][osu!]) [C-Show - Rocking to the Beat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031865) 主创：::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
@@ -743,7 +743,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!mania]) [C-Show - AImee feat. Aitsuki Nakuru](https://osu.ppy.sh/beatmapsets/2047648) 主创：::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772)
   - (![][osu!]) [C-Show feat. Ishizawa Yukari - Border Line](https://osu.ppy.sh/beatmapsets/2035357) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-### October
+### 10 月
 
 - **[Kou!](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou)** (2023-10-07)
   - (![][osu!catch]) [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2069616) 主创：::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
@@ -754,7 +754,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (2023-10-28)
   - (![][osu!]) [Dustvoxx, Laur - FireLight](https://osu.ppy.sh/beatmapsets/2064173) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-### November
+### 11 月
 
 - **[PHAZE](https://osu.ppy.sh/home/news/2023-11-04-new-featured-artist-phaze)** (2023-11-04)
   - (![][osu!]) [PHAZE - Mirai Isho](https://osu.ppy.sh/beatmapsets/1989072#osu/4132104) 主创：::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910)
@@ -763,7 +763,7 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!mania]) [you - Wake Up](https://osu.ppy.sh/beatmapsets/2090600#mania/4383318) 主创：::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)
   - (![][osu!]) [you feat. nayuta - Color (2019 Reworks)](https://osu.ppy.sh/beatmapsets/2089375#osu/4378527) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 
-### December
+### 12 月
 
 - **[Knife](https://osu.ppy.sh/home/news/2023-12-02-new-featured-artist-knife)** (2023-12-02)
   - (![][osu!]) [Knife - Negaigoto Liner 2020](https://osu.ppy.sh/beatmapsets/2049932#osu/4280355) 主创：::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
@@ -773,23 +773,23 @@ This article lists all the showcase beatmaps that have been created by the membe
 
 ## 2024
 
-### February
+### 2 月
 
 - **[Rocket Start](https://osu.ppy.sh/home/news/2024-02-03-new-featured-artist-rocket-start)** (2024-02-03)
   - (![][osu!]) [Rocket Start - Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690#osu/4330639) 主创：::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
 
-### April
+### 4 月
 
 - **[PaceMKR](https://osu.ppy.sh/home/news/2024-04-13-new-featured-artist-pacemkr)** (2024-04-13)
   - (![][osu!]) [PaceMKR - Break It Down (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2051128#osu/4283294) 主创：::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
 
-## History
+## 历史
 
-From its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming Featured Artists"<!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals. This was reflected in the Guild's first ever major project, in where members of the Guild had prepared and ranked six beatmaps of [licensed MOtOLOiD songs](https://osu.ppy.sh/beatmaps/artists/19) long prior to the [corresponding artist's announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
+谱师公会自成立之初，便将“为即将推出的精选艺术家制作宣传谱面包”<!-- https://osu.ppy.sh/community/forums/topics/875743 -->列为其主要目标之一。这在公会有史以来的首个重大项目中得以体现：早在[相应艺术家公布](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid)之前，公会成员就已准备并上架了六张[已授权的 MOtOLOiD 歌曲](https://osu.ppy.sh/beatmaps/artists/19)的谱面。
 
-As the Guild itself was operating on a closed, application-based entry in its early days, access to upcoming Featured Artist contents were often restricted only to a handful of mappers who were predominantly of the [osu!](/wiki/Game_mode/osu!) game mode. However, as the Guild began to shift to an open and automated entry system [in early 2019](/wiki/History_of_osu!/Mapping_and_modding_timeline#march.5), more and more mappers were drawn into the creation of showcase beatmaps for future Featured Artists over time regardless of their game mode.
+在公会早期，由于其运作模式建立在封闭的、基于申请的准入机制之上，因此只有少数谱师能够接触到未发布的精选艺术家内容，且主要是 [osu!](/wiki/Game_mode/osu!) 游戏模式的谱师。然而，随着公会[在 2019 年初](/wiki/History_of_osu!/Mapping_and_modding_timeline#march.5)转向开放、自动化的准入系统，越来越多来自不同游戏模式的谱师逐渐参与到为未来精选艺术家创作展示谱面的工作中来。
 
-Starting from [MYUKKE.'s Featured Artist announcement](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) in December 2020 onwards, new Featured Artist announcement posts occasionally began to feature short preview videos, often with these showcase beatmaps acting as their main headline.
+自 2020 年 12 月 [MYUKKE. 精选艺术家公布](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke)起，新的精选艺术家公布帖中偶尔会包含简短的预览视频，而这些展示谱面常常作为其主要内容。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
