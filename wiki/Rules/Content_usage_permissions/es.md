@@ -553,11 +553,10 @@ Todas las pistas que aparecen en cualquier [lista de los Artistas Destacados](ht
 
 #### Artistas permitidos, con excepciones
 
-Esta sección se actualizó por última vez el 16 de febrero de 2026.
+Esta sección se actualizó por última vez el 18 de febrero de 2026.
 
 | Artista |  | Estado | Notas |
 | :-- | :-- | :-- | :-- |
-|  | a\_hisa | ![][partial] | Contactar antes de subir. Se le puede contactar por [correo electrónico](mailto:hisaweb_info@yahoo.co.jp) o [Bandcamp](https://a-hisa.bandcamp.com/). |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | No usar o subir pistas que no estén disponibles en la lista de Artista Destacado del creador. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | Consulta los [requisitos de uso no comercial de Frums](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0) para las canciones que no figuran en su lista de Artista Destacado. |
@@ -579,6 +578,7 @@ Esta sección se actualizó por última vez el 16 de febrero de 2026.
 | Artista | Estado |
 | :-- | :-- |
 | 40mP | ![][false] |
+| a\_hisa | ![][false] |
 | DJMax (Neowiz) | ![][false] |
 | Draw the Emotional | ![][false] |
 | Enter Shikari | ![][false] |
