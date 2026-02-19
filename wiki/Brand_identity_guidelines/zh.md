@@ -15,10 +15,10 @@
 
 对于所有其他术语，osu! 应视为[修饰性名词](https://en.wikipedia.org/wiki/Noun_adjunct)，即在 osu! 与其修饰的名词之间添加空格。例如：
 
-- `osu! tournaments`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
+- `osu! 锦标赛`
+- `osu! 社区`
+- `osu! 聊天`
+- `osu! 客户端`
 - `osu! wiki`
 
 ## osu! 粉饼标志
