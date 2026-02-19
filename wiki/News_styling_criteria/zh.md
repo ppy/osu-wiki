@@ -86,7 +86,7 @@ series: miscellaneous
 
 Markdown 的使用遵循 wiki 的[文章风格规范](/wiki/Article_styling_criteria)，但以下几点是新闻稿所特有的：
 
-- 禁止使用一级标题（`#`），因为标题已由文章顶部的 Front Matter 中的 `title` 字段提供。
+- 禁止使用一级标题（`#`），因为标题已由文章顶部前言中的 `title` 字段提供。
 - 不支持[信息框](/wiki/Article_styling_criteria/Formatting#信息框)和[脚注](/wiki/Article_styling_criteria/Formatting#脚注)。
 - [横幅图片](#横幅)不得包含替代文本，即 Markdown 图片链接方括号内的文字（`![替代文本](图片.png)`）。
 
