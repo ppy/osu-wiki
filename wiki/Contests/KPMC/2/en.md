@@ -9,7 +9,7 @@ tags:
 
 ![KPMC#2 banner](img/banner.jpg)
 
-The **K-Pop Mapping Contest #2** (***KPMC#2***) was a mapping contest hosted by the #sd_kpop team for the osu!mania and osu!standard game modes, with an aim to promote K-pop songs to a wider audience of mappers and players. It was second instalment of the K-Pop Mapping Contest.
+The **K-Pop Mapping Contest #2** (***KPMC#2***) was a mapping contest hosted by the #sd_kpop team for the osu!mania and osu!standard game modes, with an aim to promote K-pop songs to a wider audience of mappers and players. It was the second instalment of the K-Pop Mapping Contest.
 
 ## Contest schedule
 
