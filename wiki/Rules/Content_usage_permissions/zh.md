@@ -559,7 +559,7 @@ osu! 的核心，是让玩家们能够自由创作，并与其他玩家分享作
 | :-- | :-- | :-- | :-- |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/466) | [ak+q](https://osu.ppy.sh/beatmaps/artists/466) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/51) | [Akira Complex](https://osu.ppy.sh/beatmaps/artists/51) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
-| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | 对于未收录在精选艺术家列表中的曲目，请参考 [Frums公开曲目一览](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0) |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | 对于未收录在精选艺术家列表中的曲目，请参考 [Frums 公开曲目一览](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0) |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
 |  | Igorrr | ![][partial] | 仅可使用 [Ruby My Dear](https://osu.ppy.sh/beatmaps/artists/370) 的精选艺术家列表中列出的合作曲目。请勿使用或上传任何其他曲目。 |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | 请勿使用或上传未在该创作者的精选艺术家列表中提供的曲目。 |
