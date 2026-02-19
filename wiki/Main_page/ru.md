@@ -63,7 +63,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Публикация карт](/wiki/Beatmapping/Beatmap_submission) • [Моддинг](/wiki/Modding) • [Процедура ранкинга](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Проект Loved](/wiki/Community/Project_Loved)
 
-[Критерии ранкинга](/wiki/Ranking_criteria): [Упрощённые](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Метаданные](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Критерии ранкинга](/wiki/Ranking_criteria): [Упрощённые критерии](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Метаданные](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
