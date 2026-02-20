@@ -49,7 +49,7 @@ jobs:
         with:
           cache: pip
           cache-dependency-path: requirements.txt
-          python-version: "3.11"
+          python-version: "3.14"
 
       - name: set up Python CI dependencies
         run: pip install -r requirements.txt
@@ -74,9 +74,9 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
-        run: osu-wiki-tools check-yaml
+        run: osu-wiki-tools check-yaml --format github
 
       - name: find broken wikilinks
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
-        run: osu-wiki-tools check-links --all
+        run: osu-wiki-tools check-links --all --format github
