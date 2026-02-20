@@ -96,19 +96,19 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 ### Qualifiers
 
 - No Mod
-  1. [Alestorm - Shipwrecked [I'LL DRINK TO THAT]](https://osu.ppy.sh/beatmapsets/1850895#osu/3802259)
-  2. [miru_maki.gjw - smile [Tournament Ver.]](https://osu.ppy.sh/beatmapsets/2399421#osu/5200725)
-  3. [XenjeS - Night Sky Solitude [Nocturne, the Eternal Nightmare]](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
-  4. [tn-shi - Synthesis. [.Terminus ()]](https://osu.ppy.sh/beatmapsets/2088830#osu/4377326)
+  1. [Alestorm - Shipwrecked [I'LL DRINK TO THAT]](https://osu.ppy.sh/beatmapsets/1850895#osu/3802259)
+  2. [miru_maki.gjw - smile [Tournament Ver.]](https://osu.ppy.sh/beatmapsets/2399421#osu/5200725)
+  3. [XenjeS - Night Sky Solitude [Nocturne, the Eternal Nightmare]](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
+  4. [tn-shi - Synthesis. [.Terminus ()]](https://osu.ppy.sh/beatmapsets/2088830#osu/4377326)
 - Hidden
-  1. [AAAA + Umeboshi Chazuke - Cait Sith [Cat-sith]](https://osu.ppy.sh/beatmapsets/1848926#osu/3798091)
-  2. [GOHOBI - Crazy For You [e]](https://osu.ppy.sh/beatmapsets/1900684#osu/3917923)
+  1. [AAAA + Umeboshi Chazuke - Cait Sith [Cat-sith]](https://osu.ppy.sh/beatmapsets/1848926#osu/3798091)
+  2. [GOHOBI - Crazy For You [e]](https://osu.ppy.sh/beatmapsets/1900684#osu/3917923)
 - Hard Rock
-  1. [xi - FREEDOM DiVE [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
-  2. [ESTi - HELIX (Edit ver.) [EX EX]](https://osu.ppy.sh/beatmapsets/194910#osu/462700)
+  1. [xi - FREEDOM DiVE [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
+  2. [ESTi - HELIX (Edit ver.) [EX EX]](https://osu.ppy.sh/beatmapsets/194910#osu/462700)
 - Double Time
-  1. [Indivision & Livewire (feat. Tasha Baxter) - Won't You Stay [Forever And A Day]](https://osu.ppy.sh/beatmapsets/309744#osu/692389)
-  2. [Kurokotei - Into The Void [Expert]](https://osu.ppy.sh/beatmapsets/1112435#osu/2335757)
+  1. [Indivision & Livewire (feat. Tasha Baxter) - Won't You Stay [Forever And A Day]](https://osu.ppy.sh/beatmapsets/309744#osu/692389)
+  2. [Kurokotei - Into The Void [Expert]](https://osu.ppy.sh/beatmapsets/1112435#osu/2335757)
 
 ## Match results
 
