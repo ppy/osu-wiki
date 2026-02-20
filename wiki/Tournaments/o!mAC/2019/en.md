@@ -382,7 +382,7 @@ Friday, 14 October 2019:
 
 | Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
-| SharpKunG1412 ::{ flag=TH }:: | 0 | **5** | ::{ flag=KR }:: **\[ R o a d \]** |
+| SharpKunG1412 ::{ flag=TH }:: | 0 | **5** | ::{ flag=KR }:: **\[ R o a d \]** |  |
 
 ## Ruleset
 

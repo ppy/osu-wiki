@@ -18,7 +18,7 @@ The charts have previously been created by letting four dedicated community memb
 
 For osu!, we decided to let **[Endaris](https://osu.ppy.sh/users/392866)** pick their favourite maps.
 
-- **[Alipio Martins - Piranha (Maffalda Reloaded Trap Mix)](https://osu.ppy.sh/beatmaps/649387) by [Tarrasky](https://osu.ppy.sh/users/4098393)**
+- **[Alipio Martins - Piranha (Maffalda Reloaded Trap Mix)](https://osu.ppy.sh/beatmapsets/287873#osu/649387) by [Tarrasky](https://osu.ppy.sh/users/4098393)**
 
 Out of the 129 mapsets eligible to take the top of my charts this one made it and for a good reason. Tarrasky has a beautiful grasp of the basic difficulties of the set, carving out the essence of the song very well with top hitsound usage. Together with Alarido he also does a good job along with Nhawak to make this very interesting song accessible for newer players - something that tends to be not as easy with non-pop-songs.
 The Extra-difficulty by Irreversible and Asphyxia along with the iconic Gangsta-difficulty by Blue Dragon top off this great mapset with fun difficulties for everyone who likes to go crazy. Now add a specific mapskin that follows the songs' theme and is actually nice to play with on its own and you got one of this month's top mapsets.
