@@ -117,7 +117,7 @@ Surprisingly the only pure CtB mapset in my selection, I chose this mapset for t
 
 For osu!mania, **[pporse](https://osu.ppy.sh/users/4991434)** was able to select their personal most noteworthy beatmap from last month.
 
-- **[xi - Parousia](https://osu.ppy.sh/beatmapsets/355601) by [M A S](https://osu.ppy.sh/users/239391 )**
+- **[xi - Parousia](https://osu.ppy.sh/beatmapsets/355601) by [M A S](https://osu.ppy.sh/users/239391)**
 
 It's usually very difficult to find a song that changes its snapping consequently.
 The reason is that it may be troublesome to find the right timing.

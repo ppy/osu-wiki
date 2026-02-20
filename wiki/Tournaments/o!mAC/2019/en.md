@@ -213,7 +213,7 @@ This competition has come to an end and resulted in the following podium:
   4. [Iriss-Frantzz - Upshift (Nyarlahothep) \[JUMP!\]](https://osu.ppy.sh/beatmapsets/887765#mania/1855743)
   5. [Itou Kanako - Skyclad no Kansokusha (LuxAzure) \[Chronostasis\]](https://osu.ppy.sh/beatmapsets/853890#mania/1784525)
   6. [Hino Isuka - Delightness Brightness (Toaph Daddy) \[Blinding Light (NSV)\]](https://osu.ppy.sh/beatmapsets/599209#mania/1503831)
-  7. [SQUAR - Qoncentro ~ Destiny ~ (HowToPlayLN) \[Pressured\]](https://osu.ppy.sh/beatmapsets/980095#mania/2051119   )
+  7. [SQUAR - Qoncentro ~ Destiny ~ (HowToPlayLN) \[Pressured\]](https://osu.ppy.sh/beatmapsets/980095#mania/2051119)
   8. [Roselia - ONENESS (PiraTom) \[LoneNess\]](https://osu.ppy.sh/beatmapsets/732758#mania/1545982)
   9. [Nekomata Master - Funny Shuffle (Hydria) \[Groove\]](https://osu.ppy.sh/beatmapsets/472442#mania/1009536)
   10. [cYsmix - Breeze (Tidek) \[Insane\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357115)
