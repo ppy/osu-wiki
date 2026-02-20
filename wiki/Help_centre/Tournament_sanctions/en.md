@@ -92,7 +92,7 @@ In rare situations, the [account support team](/wiki/People/Account_support_team
 ## Are tournament sanctions publicly visible? {id=visibility}
 
 ::: Infobox
-![](img/silence-profile.png "A tournament ban on a user's profile")
+![](img/tourney-ban-profile.png "A tournament ban on a user's profile")
 :::
 
 Indefinite tournament bans and tournament bans that have been applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) are visible on a user's profile while active. Other tournament sanctions (i.e. hosting probations, hosting bans and staffing bans) are not publicly visible in this way.
