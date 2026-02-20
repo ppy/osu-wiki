@@ -81,7 +81,7 @@
 | [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | 显著使用混合或不寻常的时值间隔的谱面。 | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | 主打强烈的方向或速度变化，违背玩家的自然移动模式的谱面。 | ![][osu!catch] |
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | 主打自然、直观移动模式的谱面。 | ![][osu!catch] |
-| TODO:[tech/hyperwalks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fhyperwalks%22%22) | 谱面包含红果跳，但是要求玩家走路而非冲刺，否则会越过目标。 | ![][osu!catch] |
+| [tech/hyperwalks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fhyperwalks%22%22) | 谱面使用需要玩家走路而非冲刺（否则会越过目标）的红果跳 | ![][osu!catch] |
 | [tech/jump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fjump%22%22) | 主打 1/2 持续白果跳或红果跳的谱面。 | ![][osu!catch] |
 | TODO:[tech/technical hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ftechnical%20hybrid%22%22) | Maps that feature the combination of both technical rice and Long Notes patterning. | ![][osu!mania] |
 | [tech/wiggles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fwiggles%22%22) | 主打快速的方向变化的谱面。 | ![][osu!catch] |
@@ -137,7 +137,7 @@
 | TODO:[style/chordjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordjack%22%22) | Maps that make use of streams with a mix of differently-sized chords | ![][osu!mania] |
 | TODO:[style/chordstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordstream%22%22) | Maps that make use of streams with a mix of differently-sized chords. | ![][osu!mania] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | 模仿 osu! 转谱的谱面。 | ![][osu!taiko] |
-| TODO:[style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | 模仿 osu! 转谱的谱面，物件的结构与间距不合常规。 | ![][osu!catch] |
+| [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | 模仿 osu! 转谱的谱面，物件的结构与间距不合常规。 | ![][osu!catch] |
 | [style/double bpm](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdouble%20bpm%22%22) | 需要以谱面的 BPM 所指示的两倍手速游玩的谱面。 | ![][osu!taiko] |
 | TODO:[style/dump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdump%22%22) | 使用成组的物件，更侧重于声音的延展与强度，而非使用单个物件精确跟随每个声音时机的谱面。 | ![][osu!mania] |
 | TODO:[style/finisher-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffinisher-heavy%22%22) | Features finishers used in an unconventional manner or in large amounts. | ![][osu!taiko] |
