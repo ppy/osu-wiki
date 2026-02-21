@@ -79,7 +79,7 @@ Cấm người tổ chức ngăn cản người dùng trở thành người tổ
 
 Lệnh cấm nhân viên ngăn cản một người dùng từ việc trở thành nhân viên trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyển, bình luận viên hoặc thiết kế đồ họa.
 
-## Tôi có thể kháng cáo một lệnh xử phạt giải đấu không? {id=appeal}
+## Tôi có thể kháng cáo lệnh xử phạt giải đấu không? {id=appeal}
 
 Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị phạt có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo. 
 
@@ -95,4 +95,4 @@ Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/
 ![](img/tourney-ban-profile.png "Lệnh cấm thi đấu trên hồ sơ của người dùng")
 :::
 
-Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua cách thức khác với [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng trong lúc hoạt động. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm người tổ chức và cấm nhân viên) đều không hiển thị theo cách này
+Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua cách thức khác với [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng trong lúc hoạt động. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm người tổ chức và cấm nhân viên) đều không hiển thị theo cách này.
