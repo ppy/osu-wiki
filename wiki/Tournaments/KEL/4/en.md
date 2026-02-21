@@ -42,7 +42,7 @@ tags:
 | Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
 | Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
-| Playtesters | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
+| Playtesters | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=RU }:: [nejzha](https://osu.ppy.sh/users/8105138) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
 | Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706) |
 | Commentators | *TBA* |
@@ -96,6 +96,29 @@ tags:
 | ::{ flag=PL }:: | **Poland** | [pokora](https://osu.ppy.sh/users/7109747) |
 
 ## Mappools
+
+### Quarterfinals & Semifinals & Finals & Grand Finals
+
+- No Mod
+  1. [Dance Gavin Dance - Son of Robot [Its The Way That She Combs My Hair]](https://osu.ppy.sh/beatmapsets/2399922#osu/5202230)
+  2. [HyuN - The Apocalypse [INFINITE DIMENSIONS]](https://osu.ppy.sh/beatmapsets/1565245#osu/3196322)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 [No.01]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
+  4. [Rory in early 20s - used to it [Halgoh x Sharu Tridolon Cull]](https://osu.ppy.sh/beatmapsets/2012001#osu/4186705)
+  5. [cosMo@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice [Anti the "FAKE" HOLIC]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881154)
+- Hidden
+  1. [Daria Zawialow - Hej Hej! [Rozpacz!]](https://osu.ppy.sh/beatmapsets/2084749#osu/4366807)
+  2. [Ado - Shinjidai [Future]](https://osu.ppy.sh/beatmapsets/1814500#osu/3722340)
+  3. [kors k - Ultra Hardcore (P*Light Remix) [Party On!]](https://osu.ppy.sh/beatmapsets/807547#osu/1694787)
+- Hard Rock
+  1. [Nolimit City - Kenneth Must Die [69000x]](https://osu.ppy.sh/beatmapsets/2490502#osu/5470757)
+  2. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
+  3. [Luze - Eta * Beta * Eta [Divinity]](https://osu.ppy.sh/beatmapsets/2153859#osu/4538482)
+- Double Time
+  1. [Bungee - FIKU MIKU [Love Story]](https://osu.ppy.sh/beatmapsets/2451322#osu/5353682)
+  2. [Denkishiki Karen Ongaku Shuudan - gemini [Insane]](https://osu.ppy.sh/beatmapsets/182815#osu/1646801)
+  3. [Epik High - Fly [Fly! '11]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
+- Tiebreaker
+  1. **[Kou! & KASOKUKI:Collective - Hatatagami Software [::{ ACCESS DENIED. } // PROJECT: Annihilation ::]](https://osu.ppy.sh/beatmapsets/2403855#osu/5213939)**
 
 ### Round of 32 & Round of 16
 
