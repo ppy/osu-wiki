@@ -65,7 +65,7 @@ Hãy tham khảo bài viết *[Hạn chế tài khoản](/wiki/Help_centre/Accou
 
 Cấm thi đấu, như tên gọi của nó, là lệnh cấm tham gia vào tất cả các giải đấu chính thức được hỗ trợ.
 
-Tham khảo bài viết [Lệnh cấm thi đấu](/wiki/Help_centre/Tournament_bans) để biết thêm thông tin về chủ đề này.
+Tham khảo bài viết [Lệnh xử phạt giải đấu](/wiki/Help_centre/Tournament_sanctions) để biết thêm thông tin về chủ đề này.
 
 ## Đăng nhập {id=sign-in}
 
