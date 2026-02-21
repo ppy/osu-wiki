@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
+---
+
 # 赛事处罚
 
 *主页面： [帮助中心](/wiki/Help_centre)*
