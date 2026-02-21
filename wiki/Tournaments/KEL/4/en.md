@@ -100,25 +100,29 @@ tags:
 ### Quarterfinals & Semifinals & Finals & Grand Finals
 
 - No Mod
-  1. [Dance Gavin Dance - Son of Robot [Its The Way That She Combs My Hair]](https://osu.ppy.sh/beatmapsets/2399922#osu/5202230)
-  2. [HyuN - The Apocalypse [INFINITE DIMENSIONS]](https://osu.ppy.sh/beatmapsets/1565245#osu/3196322)
-  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 [No.01]](https://osu.ppy.sh/beatmapsets/2091778#osu/4384633)
-  4. [Rory in early 20s - used to it [Halgoh x Sharu Tridolon Cull]](https://osu.ppy.sh/beatmapsets/2012001#osu/4186705)
-  5. [cosMo@bousouP feat. Hatsune Miku, GUMI - Monochrome Voice [Anti the "FAKE" HOLIC]](https://osu.ppy.sh/beatmapsets/1395882#osu/2881154)
+  1. [Luna - Toki to Uta (Sped Up Ver.) [tsundereSam's Sakura II]](https://osu.ppy.sh/beatmapsets/1814633#osu/4039287)
+  2. [Victorius - Age of Tyranny [Revolt]](https://osu.ppy.sh/beatmapsets/2219231#osu/4704020)
+  3. [Psychedelic Porn Crumpets - Hymn For A Droid [mindfuck]](https://osu.ppy.sh/beatmapsets/2145884#osu/4519915)
+  4. [sanmal - Mind Chase [tourney ver.]](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637)
+  5. [DJ Sharpnel - Gate Openerz [SRPC-0240]](https://osu.ppy.sh/beatmapsets/1435435#osu/2972133)
+  6. [Sokoninaru - Brilliant City [Being Controlled]](https://osu.ppy.sh/beatmapsets/1598172#osu/4729297)
 - Hidden
-  1. [Daria Zawialow - Hej Hej! [Rozpacz!]](https://osu.ppy.sh/beatmapsets/2084749#osu/4366807)
-  2. [Ado - Shinjidai [Future]](https://osu.ppy.sh/beatmapsets/1814500#osu/3722340)
-  3. [kors k - Ultra Hardcore (P*Light Remix) [Party On!]](https://osu.ppy.sh/beatmapsets/807547#osu/1694787)
+  1. [My Chemical Romance - Hang 'Em High [salo x baguette]](https://osu.ppy.sh/beatmapsets/2238825#osu/4757532)
+  2. [Dua Lipa - Levitating [AR8]](https://osu.ppy.sh/beatmapsets/1688321#osu/3450300)
+  3. [Lusumi - /data_eraser.wav [404]](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735)
+  4. [Shade - Mars [Reload]](https://osu.ppy.sh/beatmapsets/1276364#osu/2651853)
 - Hard Rock
-  1. [Nolimit City - Kenneth Must Die [69000x]](https://osu.ppy.sh/beatmapsets/2490502#osu/5470757)
-  2. [xi feat. Sta - Tiferet [Another]](https://osu.ppy.sh/beatmapsets/714225#osu/1509637)
-  3. [Luze - Eta * Beta * Eta [Divinity]](https://osu.ppy.sh/beatmapsets/2153859#osu/4538482)
+  1. [Camellia - The King Of Lions [OUTRAGE]](https://osu.ppy.sh/beatmapsets/885923#osu/1851537)
+  2. [Sorry about my face - dsa [shiguri's perfidious extra]](https://osu.ppy.sh/beatmapsets/1157083#osu/2414822)
+  3. [ayaponzu* - Justice Monster [Judgement]](https://osu.ppy.sh/beatmapsets/1026767#osu/2527867)
+  4. [S.F.A - Dienos Advento [Medzio Diena]](https://osu.ppy.sh/beatmapsets/1085630#osu/2270137)
 - Double Time
-  1. [Bungee - FIKU MIKU [Love Story]](https://osu.ppy.sh/beatmapsets/2451322#osu/5353682)
-  2. [Denkishiki Karen Ongaku Shuudan - gemini [Insane]](https://osu.ppy.sh/beatmapsets/182815#osu/1646801)
-  3. [Epik High - Fly [Fly! '11]](https://osu.ppy.sh/beatmapsets/1761846#osu/3606082)
+  1. [HoneyWorks - Akatsuki Zukuyo [Taeyang's Extra]](https://osu.ppy.sh/beatmapsets/351280#osu/795627)
+  2. [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix [Spin to Win]](https://osu.ppy.sh/beatmapsets/2287978#osu/4881745)
+  3. [Hirano Aya & Katou Emiri & Fukuhara Kaori & Endou Aya - Motteke! Sailor Fuku (Metabo Taisaku Remix [Cuuute!]](https://osu.ppy.sh/beatmapsets/1100765#osu/2299782)
+  4. [Chata - Remind [Overdrive!!]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
 - Tiebreaker
-  1. **[Kou! & KASOKUKI:Collective - Hatatagami Software [::{ ACCESS DENIED. } // PROJECT: Annihilation ::]](https://osu.ppy.sh/beatmapsets/2403855#osu/5213939)**
+  1. **[Ludicin - Echoes of Memoria [Eternal Reflections of Memory]](https://osu.ppy.sh/beatmapsets/2217155#osu/4892836)**
 
 ### Round of 32 & Round of 16
 
