@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
----
-
 # Lệnh xử phạt giải đấu
 
 *Trang chính: [trung tâm trợ giúp](/wiki/Help_centre)* 
@@ -24,7 +18,7 @@ Lấy một ví dụ thực tế, hành vi như vậy sẽ bao gồm việc vẽ
 
 Tất cả người dùng quay lại trò chơi sau khi bị hạn chế theo điều kiện kháng cáo tiêu chuẩn đều kèm theo một [lệnh cấm tham gia giải đấu tạm thời ít nhất 1 năm](/wiki/Help_centre/Account_restrictions#reasons). Điều này có thể được kéo dài tùy chọn theo quyết định của [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team).
 
-### Điều gì gì gây ra khiến ai đó nhận được cấm thi đấu vô thời hạn? {id=why-permanent}
+### Điều gì gây ra khiến ai đó nhận được cấm thi đấu vô thời hạn? {id=why-permanent}
 
 Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc các phương pháp khác để đạt được lợi thế không công bằng so với các người tham gia khác trong một giải đấu hỗ trợ chính thức sẽ dẫn đến một lệnh cấm tham gia giải đấu vô thời hạn. Trong một số tình huống, đặc biệt là những trường hợp lạm dụng quá mức, cũng có thể dẫn đến hình phạt này tùy theo quyết định của nhóm hỗ trợ.
 
@@ -94,3 +88,11 @@ Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít 
 Mặc dù có thể kháng cáo lệnh cấm tham gia giải đấu vô thời hạn như đã đề cập ở trên, nhưng cần phải khẳng định nỗ lực đáng kể trong cộng đồng lớn ngoài việc viết đơn kháng cáo cần phải có để cơ hội thực sự thành công. Danh sách tất cả người dùng đã kháng cáo thành công một lệnh cấm thi đấu vô thời hạn có thể tìm thấy trên [chủ đề diễn đàn này](https://osu.ppy.sh/community/forums/topics/1798871)
 
 Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) có thể xem xét các trường hợp cụ thể theo đánh giá của họ và quyết định gỡ bỏ hoặc áp dụng lại các hình phạt phù hợp để đảm bảo chúng vẫn nhất quán với các trường hợp tương tự trong quá khứ.
+
+## Các lệnh xử phạt giải đấu có hiển thị công khai không? {id=visibility}
+
+:: Infobox
+![](img/tourney-ban-profile.png "Lệnh cấm thi đấu trên hồ sơ của người dùng")
+:::
+
+Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua cách thức khác với [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng trong lúc hoạt động. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm người tổ chức và cấm nhân viên) đều không hiển thị theo cách này
