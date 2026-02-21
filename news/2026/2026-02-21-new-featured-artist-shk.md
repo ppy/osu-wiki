@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: SHK"
-date: 2026-02-21 18:00:00 +0000
+date: 2026-02-21 21:00:00 +0000
 series: featured_artists
 ---
 
@@ -9,7 +9,7 @@ A lot of early 2000s electronic music doesn't withstand the test of time. **SHK*
 
 ![](https://assets.ppy.sh/artists/530/header.jpg)
 
-Before the average osu! player was born, South Korean producer **SHK** (a.k.a. *Shin Hyun Keun* or *SoundHolicK*) was crafting tunes that would eventually become legendary to the rhythm game world. His extensive catalogue began with *O2Jam*, where song series like *Identity* and *Death Moon* gained their footing, then later spreading to other corners of the rhythm game scene like *Cytus* and *PUMP IT UP*.
+Before the average osu! player was born, South Korean producer **SHK** (a.k.a. *Shin Hyun Keun* or *SoundHolicK*) was crafting tunes that would eventually become legendary to the rhythm game world. His extensive catalogue began with *O2Jam*, where song series like *Identity* and *Death Moon* gained their footing, later spreading to other corners of the rhythm game scene like *Cytus* and *PUMP IT UP*.
 
 Here on osu!, **SHK** has been relevant since the dawn of mapping. The one and only [James](https://osu.ppy.sh/users/5728) introduced [*Identity*](https://osu.ppy.sh/beatmapsets/1421) to osu! in the stone age, but these timeless tracks are still being mapped today, as seen by [*Identity Part 4*](https://osu.ppy.sh/beatmapsets/2497402) (which was Ranked earlier this month!).
 
