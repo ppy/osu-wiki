@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: d067f4c01a63169faae5ef8d04daafeaa9357781
 ---
 
 <!-- Не добавляйте пустые строки в этот div. -->
@@ -65,7 +63,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Публикация карт](/wiki/Beatmapping/Beatmap_submission) • [Моддинг](/wiki/Modding) • [Процедура ранкинга](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Проект Loved](/wiki/Community/Project_Loved)
 
-[Критерии ранкинга](/wiki/Ranking_criteria): [Метаданные](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Критерии ранкинга](/wiki/Ranking_criteria): [Упрощённые критерии](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Метаданные](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -89,7 +87,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
 
-Ограничения: [Сайленс](/wiki/Help_centre/Silences) • [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions) • [Турнирные баны](/wiki/Help_centre/Tournament_bans)
+Ограничения: [Сайленс](/wiki/Help_centre/Silences) • [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions) • [Турнирные ограничения](/wiki/Help_centre/Tournament_sanctions)
 
 Поддержание порядка: [Как и где помочь osu!](/wiki/Community/How_you_can_help!) • [Жалобы на чужое поведение](/wiki/Reporting_bad_behaviour) • [Жалобы на приставания](/wiki/Reporting_bad_behaviour/Abuse) • [Жалобы на читеров](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -117,9 +115,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 osu! бы не было без многих пользователей, участвующих в разработке, поддержке и управлении сообществом: игра живёт и процветает лишь благодаря их усилиям, времени и преданности делу.
 
-[Команда osu!](/wiki/People/osu!_team) • [Разработчики](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Команда глобальной модерации](/wiki/People/Global_Moderation_Team) • [Команда технической поддержки](/wiki/People/Technical_Support_Team) • [Команда оценки номинаций](/wiki/People/Nomination_Assessment_Team) • [Номинаторы](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Project Loved](/wiki/People/Project_Loved_Team) • [Кураторы Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators)
+[Команда osu!](/wiki/People/osu!_team) • [Разработчики](/wiki/People/Developers) • [Featured Artists](/wiki/People/Featured_Artists) • [Команда глобальной модерации](/wiki/People/Global_Moderation_Team) • [Команда технической поддержки](/wiki/People/Technical_Support_Team) • [Команда оценки номинаций](/wiki/People/Nomination_Assessment_Team) • [Номинаторы](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда Project Loved](/wiki/People/Project_Loved_Team) • [Кураторы Beatmap Spotlight](/wiki/People/Beatmap_Spotlight_Curators) • [Турнирный комитет](/wiki/People/Tournament_Committee)
 
-[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Элитные номинаторы](/wiki/People/Elite_Nominators) • [Группы пользователей](/wiki/People/User_groups) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Центурионы](/wiki/People/Centurions) • [Комплишионисты](/wiki/People/Completionists) • [Турнирный комитет](/wiki/People/Tournament_Committee) • [Комитет по очкам производительности](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Элитные номинаторы](/wiki/People/Elite_Nominators) • [Группы пользователей](/wiki/People/User_groups) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Центурионы](/wiki/People/Centurions) • [Комплишионисты](/wiki/People/Completionists) • [Комитет по очкам производительности](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -128,7 +126,7 @@ osu! бы не было без многих пользователей, учас
 
 О том, как работать с osu! или поучаствовать в разработке.
 
-[API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный)
+[Объявления](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Бот-аккаунт](/wiki/Bot_account) • [Фирменный стиль osu!](/wiki/Brand_identity_guidelines) • [Дискорд-сервер osu!](/wiki/Community/Discord_servers#официальный)
 
 </div>
 <div class="wiki-main-page-panel">
