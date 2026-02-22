@@ -81,10 +81,18 @@ A staffing ban prevents a user from staffing in officially supported tournaments
 
 ## Can I appeal a tournament sanction? {id=appeal}
 
-Tournament sanctions as applied via means other than standard appeal terms include a 72-hour appeal window before the sanction goes into effect. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
+Tournament sanctions as applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) come with a 72-hour appeal window during which the sanction can be disputed. After the appeal window passes, these sanctions, excluding indefinite tournament bans, may not be appealed.
 
 Indefinite tournament bans may be appealed after at least **two years** (24 months) have elapsed since they were first applied. Users contesting an indefinite tournament ban will be expected to have demonstrated positive involvement in the broader osu! community, in tournaments or otherwise, and have a spotless behavioural record during this timeframe. In the event of a failed appeal, a user must wait at least **one year** (12 months) from the date of their last appeal before appealing again.
 
 Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside of writing an appeal should be expected for any earnest chance of success. A list of all users who have successfully appealed an indefinite tournament ban can be found [on this forum thread](https://osu.ppy.sh/community/forums/topics/1798871).
 
 In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
+
+## Are tournament sanctions publicly visible? {id=visibility}
+
+::: Infobox
+![](img/tourney-ban-profile.png "A tournament ban on a user's profile")
+:::
+
+Indefinite tournament bans and tournament bans that have been applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) are visible on a user's profile while active. Other tournament sanctions (i.e. hosting probations, hosting bans and staffing bans) are not publicly visible in this way.

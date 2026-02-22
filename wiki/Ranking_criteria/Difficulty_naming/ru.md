@@ -1,8 +1,3 @@
----
-outdated_since: d2826e9551f51c507052b76f56b366d1db1d03be
-outdated_translation: true
----
-
 # Названия сложностей
 
 Цель названия — дать игроку понять, с каким примерно уровнем сложности он имеет дело. В этой статье перечислены основные схемы наименований сложностей, к которым со временем пришли мапперы. Воспринимайте их как разумную рекомендацию, а не обязательное требование: сложностям можно давать какие угодно названия, если они характеризуют содержание, и если по ним заметно повышение уровня сложности.
@@ -21,13 +16,27 @@ outdated_translation: true
 - ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
+#### Альтернативы
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: ниже Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: между Normal и Hard
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: между Hard и Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: синоним к Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: выше Expert
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 - ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 - ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png?20211215) Oni
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
+
+#### Альтернативы
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: ниже Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni: синоним к Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: выше Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -37,6 +46,10 @@ outdated_translation: true
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### Альтернативы
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: выше Overdose
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -45,9 +58,9 @@ outdated_translation: true
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## Схемы из других ритм-игр
+## Схемы из других игр
 
-Зачастую, когда в osu! мапают песню из другой ритм-игры, вместе с этим заимствуют и схему наименования сложностей. Тем не менее, эти названия можно использовать для любых песен — здесь они приведены в качестве примера того, как организовать карту.
+Зачастую, когда в osu! мапают песню из другой игры, вместе с этим заимствуют и схему наименования сложностей. Тем не менее, эти названия можно использовать для любых песен — здесь они приведены в качестве примера того, что часто можно встретить.
 
 ### Beatmania IIDX
 
@@ -127,6 +140,7 @@ outdated_translation: true
 #### SOUND VOLTEX EXCEED GEAR
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expert-o.png?20211215) ULTIMATE / ULT
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) EXCEED / XCD
 
 ### Arcaea
@@ -191,16 +205,3 @@ outdated_translation: true
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
-
-## Альтернативные названия
-
-Здесь перечислены дополнительные варианты распространённых названий сложностей.
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: самая низкая сложность в подборке Easy-Normal-Hard-Insane-Expert (даже легче Easy).
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: самая низкая сложность в подборке Kantan-Futsuu-Muzukashii-Oni-Inner Oni (даже легче Kantan).
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: в подборке Easy-Normal-Hard-Insane-Expert находится между Normal и Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: в подборке Easy-Normal-Hard-Insane-Expert находится между Hard и Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: альтернатива Expert.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: более сложная версия Expert.
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: более сложная версия Inner Oni.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: более сложная версия Overdose.

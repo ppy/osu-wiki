@@ -9,7 +9,7 @@ tags:
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | Ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
+| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | [Дон и кат](/wiki/Gameplay/Hit_object/Hit) | Фрукты (fruits) | Ноты (notes) |
 | [Слайдеры](/wiki/Gameplay/Hit_object/Slider) (sliders) | Драмроллы (drumrolls) | Цепочки фруктов (fruit trails) | Холд-ноты (hold notes) |
 | [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | dendens | Бананы (bananas) | x |
 | x | x | Гиперфрукты (hyperfruits) | x |
