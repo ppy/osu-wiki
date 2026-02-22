@@ -8,7 +8,7 @@ Et turneringsforbud (*tournament ban* på engelsk) forhindrer en spiller i at sp
 
 Turneringsforbud bliver meget sjældent udstedt alene, men som regel får næsten alle spillere, som kommer tilbage efter en almindelig anmodning for ophævelse af en [kontobegrænsing](/wiki/Help_centre/Account_restrictions), et turneringsforbud, som er mindst et år langt.
 
-Grundet den høje satser, der findes i turneringer, bliver turneringsforbud taget meget seriøst, og bliver ikke behandlet med samme grad af mildhed som kontobegrænsninger.
+Grundet de høje satser, der findes i turneringer, bliver turneringsforbud taget meget seriøst, og bliver ikke behandlet med samme grad af mildhed som kontobegrænsninger.
 
 ### Hvad fører til, at nogen får et tidsbestemt turneringsforbud? {id=why-temporary}
 
@@ -88,3 +88,11 @@ Brugere kan anmode om ophævelse af et tidsubestemt turneringsforbud, hvis der e
 Selvom det er muligt at anmode om ophævelse af tidsubestemte turneringsforbud som beskrevet, skal det understreges, at der forventes betydelige anstrengelser i fællesskabet udenfor at skrive en anmodning for at have nogen realistisk chance for succes. En liste af alle brugere, der har fået deres tidsubestemte turneringsforbud ophævet efter anmodning, kan findes [på dette forumemne](https://osu.ppy.sh/community/forums/topics/1798871).
 
 I sjældne situationer kan [kontostøtteholdet](/wiki/People/Account_support_team) i sit eget skøn beslutte sig for at granske individuelle sager og fjerne eller pålægge nødvendige straffe igen for at sikre, at de er konsekvente med lignende sager i fortiden.
+
+## Er turneringssanktioner synlige for offentligheden?
+
+::: Infobox
+![](img/tourney-ban-profile-DA.png "Et turneringsforbud på en brugers profil")
+:::
+
+Tidsubestemte turneringsforbud og turneringsforbud, som har blevet pålagt en bruger på andre måder end de [almindelige anmodningsbetingelser](/wiki/Help_centre/Account_restrictions#appeal-granted), er synlige på en brugers profil, mens de er aktive. Andre turneringssanktioner (dvs. medhjælperforbud,  arrangørforbud og betingede arrangørforbud) er ikke offentligt synlige på denne måde.
