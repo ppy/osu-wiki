@@ -1,18 +1,15 @@
 ---
-outdated_translation: true
-outdated_since: f55c53278e0141286b7f026d3848c5386f832f33
-no_native_review_since: fa001f3f10bcb5261f1ba2cf35469327f89ddfd6 Avariation
 tags:
   - NAT
 ---
 
 # Đội ngũ Đánh giá Đề cử
 
-*Xem thêm: [Đánh giá Đề cử viên](Evaluations)*
+*Xem thêm: [Đánh giá Đề cử viên](Evaluations), [Đánh giá mức độ nghiêm trọng](SEV_rating)*
 
 **Đội ngũ Đánh giá Đề cử** (***NAT***) là những người quản lý các [Đề cử viên](/wiki/People/Beatmap_Nominators) (*BN*) và đảm bảo những lĩnh vực liên quan đến beatmap trong osu! hoạt động bình thường.
 
-Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#đề-cử-viên-chính-thức) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung, những thành viên của NAT chính là những Đề cử viên với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
+Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#đề-cử-viên-chính-thức) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung, những thành viên của NAT chính là những BN với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
 
 **Tất cả thành viên của Đội ngũ Đánh giá Đề cử cam kết tuân thủ theo [Bộ quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct) bên cạnh [Quy tắc cộng đồng](/wiki/Rules).**
 
@@ -38,11 +35,11 @@ Thành viên NAT nằm trong bộ phận tổ chức sẽ không phụ trách m�
 
 - **Thông tin, liên lạc**: Thúc đẩy tính minh bạch và duy trì mối quan hệ tốt, không chỉ với phần còn lại của cộng đồng mapping/modding mà còn trong chính nội bộ NAT. Điều này bao gồm, nhưng không giới hạn ở việc: thông báo, tham gia vào các cuộc thảo luận về những đề xuất, hỏi/trả lời các câu hỏi thông qua khảo sát, và cập nhật [tiêu chuẩn xếp hạng](/wiki/Ranking_criteria) cũng như những tài liệu khác.
 - **Công tác phát triển**: Phát triển và bảo trì những công cụ và trang web để giúp cải thiện quá trình xếp hạng (như [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), hay [trang Quản lý Đề cử viên](https://bn.mappersguild.com)).
-- **Công tác điều hành**: Xử lý các báo cáo từ người dùng và đánh giá hành vi không đúng mực từ các Đề cử viên, cũng như xử lý các bài đánh giá về nội dung beatmap. Đây la nhiệm vụ chung của cả NAT và GMT.
+- **Công tác điều hành**: Xử lý các báo cáo từ người dùng và đánh giá hành vi không đúng mực từ các Đề cử viên, cũng như xử lý các bài đánh giá về nội dung beatmap. Đây là nhiệm vụ chung của cả NAT và GMT.
 - **Công tác bảo trì chung**: Bao gồm nhưng không giới hạn ở những việc sau:
   - Xử lý [các yêu cầu từ chối đề cử](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
-  - Duy trì [diễn đàn Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
-  - Đánh giá mức độ ảnh hưởng của những đợt đặt lại đề cử.[^đánh-giá-mức-độ]
+  - Duy trì [Tiêu chí xếp hạng](https://osu.ppy.sh/community/forums/87) và diễn đàn phụ [Quản lý Beatmap](https://osu.ppy.sh/community/forums/115).
+  - Đánh giá [mức độ ảnh hưởng](SEV_rating) của những đợt đặt lại đề cử.
 
 Thành viên NAT chủ yếu xử lý ở bộ phận này sẽ đảm bảo rằng các Đề cử viên và những thành viên khác trong cộng đồng mapping/modding được cung cấp đầy đủ thông tin và ý kiến của họ được lắng nghe, đồng thời việc duy trì các thành phần thiết yếu để giữ mọi thứ trong lĩnh vực mapping/modding hoạt động bình thường. Những người thuộc bộ phận này là những người đánh giá nhiều kinh nghiệm muốn tập trung vào mảng quản lý thuộc lĩnh vực mapping/modding.
 
@@ -68,7 +65,7 @@ Thành viên NAT được hưởng những lợi ích sau:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
-  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "Huy hiệu 10 năm")
+  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/NAT1y.png "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/NAT2y.png "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/NAT3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/NAT4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/NAT5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/NAT6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/NAT7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/NAT8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/NAT9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/NAT10y.png "Huy hiệu 10 năm") ![Huy hiệu 11 năm](https://assets.ppy.sh/profile-badges/NAT11y.png?20250916 "Huy hiệu 11 năm") ![Huy hiệu 12 năm](https://assets.ppy.sh/profile-badges/NAT12y.png?20250916 "Huy hiệu 12 năm") ![Huy hiệu 13 năm](https://assets.ppy.sh/profile-badges/NAT13y.png?20250916 "Huy hiệu 13 năm") ![Huy hiệu 14 năm](https://assets.ppy.sh/profile-badges/NAT14y.png?20250916 "Huy hiệu 14 năm")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số đề cử beatmap nhất định.
   ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những thành viên NAT làm tốt vai trò đề cử viên của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
@@ -128,7 +125,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 *Lưu ý: Tất cả các thành viên của NAT  đều nói tiếng Anh ngoài những ngôn ngữ được liệt kê dưới đây, trừ khi có ghi chú khác.*
 
-[Trang thành viên của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/groups/7) liệt kê tất cả những thành viên trong nhóm. Ngoài những lĩnh vực được nhắc đến dưới đây, toàn bộ thành viên NAT đều đảm nhận công việc [rà soát lại nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+[Trang thành viên của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/groups/7) liệt kê tất cả những thành viên trong nhóm. Ngoài những lĩnh vực được nhắc đến dưới đây, toàn bộ thành viên NAT đều đảm nhận công việc [rà soát lại nội dung âm thanh và hình ảnh trong beatmap](/wiki/Rules/Visual_content_considerations#nhận-đánh-giá-hình-ảnh-của-bạn).
 
 ### Bộ phận đánh giá
 
@@ -136,38 +133,71 @@ Trưởng nhóm NAT phụ trách những việc sau:
 
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Ý |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Tiếng Phần Lan |
+| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | Tiếng Thụy Điển |
+| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tiếng Thái |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | Tiếng Hà Lan |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Tiếng Phần Lan |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
+| ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Tiếng Trung Quốc |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng Nga |
+| ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng pháp, Tây Ban Nha |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Trung Quốc |
+| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Tiếng Đức |
 
 #### osu!taiko
 
-| Name | Ngôn ngữ được sử dụng |
+| Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tiếng Trung Quốc |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng Ả Rập, Tiếng đức |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Tiếng Bồ Đào Nha |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Một ít tiếng Đức |
+| ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Tiếng Đức, một chút tiếng Pháp |
 
 #### osu!catch
 
-| Name | Ngôn ngữ được sử dụng |
+| Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Tiếng Đức |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Hàn Quốc |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Hàn Quốc |
 
 #### osu!mania
 
-| Name | Ngôn ngữ được sử dụng |
+| Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Tiếng Việt |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Tây Ban Nha |
+| ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Trung quốc |
+| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | Tiếng Ý |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian |
+| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | Tiếng Ả Rập, Tiếng Pháp |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Catalan, Tây Ban Nha |
 
 ### Bộ phận tổ chức
 
-Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng tổ chức, không phụ trách một gamemode cụ thể dù được phép đề cử beatmap thuộc game mode họ đã được phân công từ trước:
+Những thành viên NAT sau đây chỉ đảm nhận công việc của mảng tổ chức, không phụ trách chế độ game cụ thể dù được phép đề cử beatmap thuộc chế độ trò chơi họ đã được phân công từ trước:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Xử lý các cuộc thảo luận, công việc và tài liệu nội bộ |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tổ chức cố vấn BN |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Phát triển [Công cụ lên kế hoạch đề cử](https://bnplanner.greaper.net/beatmaps) và phát triển [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Phát triển [Trang web quản lý BN](https://bn.mappersguild.com) |
 
 Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, nhưng đồng thời có đóng góp vào mảng tổ chức:
 
 | Tên | Nhiệm vụ |
 | :-- | :-- |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Ban lãnh đạo NAT, phát triển [Trang quản lý BN](https://bn.mappersguild.com) và [osu!taiko MV plugin](https://github.com/Hiviexd/MVTaikoChecks) |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Xử lý báo cáo nội dung, phát triển [osu!mania MV plugin](https://github.com/MChecaH/ManiaCheck) |
 
 ---
 
 Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải (trong trường hợp có khiếu nại về việc từ chối đề cử beatmap), báo cáo, kiểm tra, đánh giá nội dung và các mục đích khác.
-
-## Ghi chú
-
-[^đánh-giá-mức-độ]: Quy trình bao gồm xem xét từng trường hợp đặt lại đề cử và gắn nhãn "nhỏ", "đáng kể" hoặc "nghiêm trọng" để làm tham khảo cho việc đánh giá trong tương lai.

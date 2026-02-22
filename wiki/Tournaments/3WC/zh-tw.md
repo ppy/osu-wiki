@@ -13,3 +13,4 @@ no_native_review: true
 - 3 Digit 2023 世界盃
 - 3 Digit 2024 世界盃
 - [3 Digit 2025 世界盃](2025)
+- [3 Digit 2026 世界盃](2026)

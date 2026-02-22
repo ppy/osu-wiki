@@ -3,8 +3,6 @@ tags:
   - TC
   - Contest Committee
   - CC
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Турнирный комитет
@@ -133,7 +131,7 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 
 ## Длительность турнирных банов
 
-О распространённых сроках турнирных банов см. [Турнирные баны](/wiki/Help_centre/Tournament_bans).
+О распространённых сроках турнирных банов см. [Турнирные санкции](/wiki/Help_centre/Tournament_sanctions#reasons).
 
 ## Частые вопросы
 
@@ -180,6 +178,7 @@ outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
