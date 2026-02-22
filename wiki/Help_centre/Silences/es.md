@@ -1,12 +1,12 @@
 ---
 tags:
- - mute
- - timeout
- - chat ban
- - muteo
- - mutear
- - baneo del chat
- - baneado del chat
+  - mute
+  - timeout
+  - chat ban
+  - muteo
+  - mutear
+  - baneo del chat
+  - baneado del chat
 ---
 
 # Silencio
