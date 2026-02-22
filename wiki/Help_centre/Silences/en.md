@@ -1,3 +1,10 @@
+---
+tags:
+ - mute
+ - timeout
+ - chat ban
+---
+
 # Silences
 
 **Silence** is the term used to describe the punishment of limiting a user's means of communications within the osu! community. Members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) typically issue these silences to maintain a clean environment, both on the website and in-game.
