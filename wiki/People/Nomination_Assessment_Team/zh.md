@@ -106,7 +106,7 @@ NAT 会长期关注潜在的候选人。和 BN 的评估方式类似，团队成
 
 自 2023 年 3 月起，NAT 决定重新引入[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)职位，该概念曾在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 中使用。NAT 领导人肩负评估和组织方面的双重责任，因此他们可以监督并参与 NAT 的各个方面。
 
-现任 NAT 领导人是::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)。
+现任 NAT 领导人是 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)。
 
 ### 职责
 
