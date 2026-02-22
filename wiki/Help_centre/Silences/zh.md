@@ -1,11 +1,11 @@
 ---
 tags:
- - mute
- - timeout
- - chat ban
- - 禁言
- - 超时
- - 聊天封禁
+  - mute
+  - timeout
+  - chat ban
+  - 禁言
+  - 超时
+  - 聊天封禁
 ---
 
 # 禁言
