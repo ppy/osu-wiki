@@ -60,7 +60,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ## Participants
 
-| | Team | Members |
+|  | Team | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AU }:: | **Australia** | **[palr](https://osu.ppy.sh/users/15429006)**, [Zyntex](https://osu.ppy.sh/users/11806306), [cyo](https://osu.ppy.sh/users/8195473), [Xaver](https://osu.ppy.sh/users/7410343), [Drox-](https://osu.ppy.sh/users/4309566), [saykk](https://osu.ppy.sh/users/18973222) |
 | ::{ flag=XX }:: | **Austria-Hungary**[^austria-hungary] | **[fedoragoose](https://osu.ppy.sh/users/2323131)**, [defii](https://osu.ppy.sh/users/8698024), [z9a](https://osu.ppy.sh/users/13057699), [z10a](https://osu.ppy.sh/users/18153252), [Akuma no Tenshi](https://osu.ppy.sh/users/21811804), [Nekoyase](https://osu.ppy.sh/users/10981997) |
@@ -96,19 +96,19 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 | Team A | Team B | Match time | Twitch stream | |
 | --: | :-- | :-- | :-: | :-: |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=NZ }:: New Zealand | Feb 28 (Sat) 07:00 UTC | | [^winners-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | Feb 28 (Sat) 15:00 UTC | | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=RU }:: Russian Federation | Feb 28 (Sat) 16:00 UTC | | [^winners-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=IB }:: Iberia | Feb 28 (Sat) 19:00 UTC | | [^winners-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=AH }:: Austria-Hungary | Feb 28 (Sat) 20:00 UTC | | [^winners-bracket] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=NZ }:: New Zealand | Feb 28 (Sat) 07:00 UTC |  | [^winners-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | Feb 28 (Sat) 15:00 UTC |  | [^winners-bracket] |
+| Germany ::{ flag=DE }:: | ::{ flag=RU }:: Russian Federation | Feb 28 (Sat) 16:00 UTC |  | [^winners-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=IB }:: Iberia | Feb 28 (Sat) 19:00 UTC |  | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=AH }:: Austria-Hungary | Feb 28 (Sat) 20:00 UTC |  | [^winners-bracket] |
 
 ### Sunday, March 1
 
 | Team A | Team B | Match time | Twitch stream | |
 | --: | :-- | :-- | :-: | :-: |
-| Romania ::{ flag=RO }:: | ::{ flag=AU }:: Australia | Mar 01 (Sun) 12:00 UTC | | [^winners-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | Mar 01 (Sun) 14:00 UTC | | [^winners-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=ID }:: Indonesia | Mar 01 (Sun) 15:00 UTC | | [^winners-bracket] |
+| Romania ::{ flag=RO }:: | ::{ flag=AU }:: Australia | Mar 01 (Sun) 12:00 UTC |  | [^winners-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | Mar 01 (Sun) 14:00 UTC |  | [^winners-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=ID }:: Indonesia | Mar 01 (Sun) 15:00 UTC |  | [^winners-bracket] |
 
 ## Mappools
 
