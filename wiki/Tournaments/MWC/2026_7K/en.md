@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2026 banner](img/mwc7k2026-banner.jpg)
 
-The **osu!mania 7K World Cup 2026** (***MWC 7K 2026***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the tenth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2026** (***MWC 7K 2026***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the tenth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -28,7 +28,7 @@ The **osu!mania 7K World Cup 2026** (***MWC 7K 2026***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2026 offers a $1,200 cash prize pool and limited-edition merch.
+The osu!mania 7K World Cup 2026 offered a $1,200 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -38,7 +38,7 @@ The osu!mania 7K World Cup 2026 offers a $1,200 cash prize pool and limited-edit
 
 ## Organisation
 
-The osu!mania 7K World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!mania 7K World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -66,7 +66,6 @@ Group leaders denoted in **bold**.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2161065)
 - [Challonge bracket](https://challonge.com/MWC7K2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/188) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1632)
 
 ## Participants
 
