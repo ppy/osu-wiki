@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7db101ba555502134cfcb73ccd205cb57716aa7c
+---
+
 # Beatmaps de exhibición de un Artista Destacado
 
 Ocasionalmente, los miembros del [Mappers' Guild](/wiki/Community/Mappers_Guild) pueden crear «beatmaps de exhibición» exclusivos usando canciones y otro material inédito de los [Artistas Destacados](/wiki/People/Featured_Artists). Tras el anuncio del Artista Destacado correspondiente, estos beatmaps son destacados en el [sitio de noticias](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
