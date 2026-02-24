@@ -189,9 +189,9 @@ Not satisfied with winning Community Choice back to back with [BilliumMoto - LIG
 
 [![](/wiki/shared/news/2026-02-24-community-choice-2025-results/mania-7k.jpg)](https://osu.ppy.sh/beatmapsets/2367508)
 
-If you've been in the community for a modest amount of time, [Blocko](https://osu.ppy.sh/users/4075092) should not come up as a new name for you. Better known as "ET Blocko", their [**TWC Sound Team "Strike Back Squad" - BUZZ CUT**](https://osu.ppy.sh/beatmapsets/2367508#mania/5154426) instantly drew the attention of the community despite being ranked in the nick of time — a mere 3 days away from the New Year 2026!
+If you've been in the community for a modest amount of time, [Blocko](https://osu.ppy.sh/users/4075092) should not come up as a new name for you. Better known as "ET Blocko", their [**TWC Sound Team "Strike Back Squad" - BUZZ CUTZ**](https://osu.ppy.sh/beatmapsets/2367508#mania/5154426) instantly drew the attention of the community despite being ranked in the nick of time — a mere 3 days away from the New Year 2026!
 
-This was further complemented by the guest contributions from [Akasha-](https://osu.ppy.sh/users/2596306) and [Mochineko](https://osu.ppy.sh/users/3793196), as well as [Coppertine](https://osu.ppy.sh/users/7279762)'s storyboard which was initially featured in the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025). No wonder it ended up winning in both categories.
+This was further complemented by the guest contributions from [Akasha-](https://osu.ppy.sh/users/2596306) and [Mochineko](https://osu.ppy.sh/users/3793196), as well as [Coppertine](https://osu.ppy.sh/users/7279762) and [Kuroise](https://osu.ppy.sh/users/14547127) porting the original storyboard which was initially featured in the [osu!taiko World Cup 2025](/wiki/Tournaments/TWC/2025). No wonder it ended up winning in both categories.
 
 #### Community Choice finalists
 
