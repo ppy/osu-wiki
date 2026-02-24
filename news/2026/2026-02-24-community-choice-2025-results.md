@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Community Choice 2025: Results"
-date: 2026-02-24 00:15:00 +0000
+date: 2026-02-24 01:00:00 +0000
 series: official_contests
 ---
 
