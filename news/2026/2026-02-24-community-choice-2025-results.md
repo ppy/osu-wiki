@@ -50,7 +50,7 @@ Featuring 15 difficulties from [silver tail](https://osu.ppy.sh/users/13334570),
 
 ### Mapper's Favourite
 
-[![](/wiki/shared/news/2026-02-24-community-choice-2025-results/osu-mapper.jpg)](2445466)
+[![](/wiki/shared/news/2026-02-24-community-choice-2025-results/osu-mapper.jpg)](https://osu.ppy.sh/beatmapsets/2445466)
 
 [**-Arko**](https://osu.ppy.sh/users/8802914)'s rendition of [this Aphex Twin banger](https://osu.ppy.sh/beatmapsets/2445466) has captured the hearts of many of our mappers. It's not every day you get to see difficult and experimental, yet very meaningful patterning where each and every circle feels like it has a purpose. Not to mention the incredible hitsounding work that perfectly complements and even enhances the song's atmosphere.
 
