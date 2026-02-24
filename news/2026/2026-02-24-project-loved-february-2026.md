@@ -14,9 +14,9 @@ Another month, and another new year! We hope you are all having a great February
 Following last month's proposal, the osu! gamemode captains (that is, the circle clickers) are implementing some changes on their approach to picking maps. Here's a message from them explaining the details:
 
 > Project Loved for osu! is undergoing an overhaul to its curation system. Since 2023, we’ve relied on a category-based approach to determine our picks. Over time, however, we’ve noticed growing dissatisfaction with certain categories, both in overall popularity and player reception. **Rather than continually adding and removing categories to match what we think fits the current playerbase, we’re abolishing them entirely and returning to a more freeform approach**, relying on the capabilities of our new Captains to ensure that the maps all bring something different to the table. We’re confident in our ability to deliver a unique set of maps that don’t need to adhere to an arbitrary list of requirements, and we hope you’ll place your trust in us as we bring beautiful maps to the section.
-\
-\
- —osu! captains
+> \
+> \
+> —osu! captains
 
 Wrapping up this intro, here are the results for last month's voting:
 
@@ -66,7 +66,7 @@ Make sure to cast your YES votes on this month's loved poll for this map, and al
 
 It's February already and we've got yet another month of bangers nominated for Loved, this time bringing you [LOONA - Hi High (Sewerslvt Remix)](https://osu.ppy.sh/beatmapsets/1827351#osu/3750192) mapped by [kevjn](https://osu.ppy.sh/users/5735327), [an3](https://osu.ppy.sh/users/11954090) and [velamy](https://osu.ppy.sh/users/15538779)!
 
-Taking this absolute icon of a K-pop song by LOONA, backed up with \[Sewerslvt\](https://osu.ppy.sh/beatmaps/artists/169)'s complex and gloomy sound, results in an ethereal-sounding track that makes you feel like you're soaring through outer space. The mapset represents that very well.
+Taking this absolute icon of a K-pop song by LOONA, backed up with [Sewerslvt](https://osu.ppy.sh/beatmaps/artists/169)'s complex and gloomy sound, results in an ethereal-sounding track that makes you feel like you're soaring through outer space. The mapset represents that very well.
 
 You have the choice of four difficulties, ranging from 2.7★ to 6.68★, meaning that this mapset will have a difficulty everyone can appreciate and challenge themselves on.
 
@@ -185,7 +185,9 @@ EBE EBE... EBE EBE EBE...
 
 Poland rise, *ROGAL DDL feat. SZYMON TUR & WOWO - EBE EBE* by [Piggey](https://osu.ppy.sh/users/4163860) will finally have a shot at Project Loved this month.
 
-You might be familiar with this song and map from 2016/17, made especially iconic in the osu! community by [Rafis reading the lyrics in 2017](https://youtube.com/watch?v=xqZA6ihDcWQ) (warning: explicit content). Here is also a [video of Rafis FCing this very map](https://youtube.com/watch?v=QGaCGEJsoW0). This map is a generic aim test with some bursts littered in (nowadays, this would be called a "hybrid" map). Piggey does well at expressing this song while making it engaging and fun.
+You might be familiar with this song and map from 2016/17, made especially iconic in the osu! community by [Rafis reading the lyrics in 2017](https://youtube.com/watch?v=xqZA6ihDcWQ) (warning: explicit content). Here is also a [video of Rafis FCing this very map](https://youtube.com/watch?v=QGaCGEJsoW0).
+
+In any case, this map is a generic aim test with some bursts littered in (nowadays, this would be called a "hybrid" map). Piggey does well at expressing this song while making it engaging and fun.
 
 Want to see this map finally enter Project Loved? Vote now!
 
@@ -343,7 +345,7 @@ As a new Loved featured mapper, [Mafufu](https://osu.ppy.sh/users/10884561) is a
 
 [HITO Mania](https://osu.ppy.sh/beatmapsets/2127065#mania) is an interesting creature. The song itself having taken the internet off-guard through its quirks, the resulting map transcribes those feelings pretty accurately. Through literal screamers and jumpscares interspersed by mechanical, abrasive stutters and transitions, *HITO Mania* packs a punch in terms of execution. Especially given Mafufu's attention to detail in terms of SV flourish.
 
-This makes its feature within the [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024) Quarterfinals mappool even more striking, especially as it lied beside [AlexDunk's map of __PLACEHOLDER_2__sing sing red indigo__PLACEHOLDER_3__](https://osu.ppy.sh/beatmapsets/2127152), another very particular entry among SV entries. A very cut and rigid gimmick-based option to complement a rhythmically chaotic, almost vibe-based accuracy nightmare.
+This makes its feature within the [4 Digit osu!mania World Cup 2024](/wiki/Tournaments/4DM/2024) Quarterfinals mappool even more striking, especially as it lied beside [AlexDunk's map of *sing sing red indigo*](https://osu.ppy.sh/beatmapsets/2127152), another very particular entry among SV entries. A very cut and rigid gimmick-based option to complement a rhythmically chaotic, almost vibe-based accuracy nightmare.
 
 Whether you have a thirst for SV or a thirst for blood, you're welcome to make that known through your vote in the forum thread. Remember to follow your local laws, however.
 
