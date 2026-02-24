@@ -102,7 +102,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶。想与大
 
 方案：[锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[项目](/wiki/Community/Projects)：[谱师工会](/wiki/Community/Mappers_Guild) • [社区喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 月报](/wiki/Community/osu!monthly)
+[项目](/wiki/Community/Projects)：[谱师公会](/wiki/Community/Mappers_Guild) • [社区喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 月报](/wiki/Community/osu!monthly)
 
 媒体：[定制歌曲](/wiki/Community/Bespoke_music) • [漫画](/wiki/Community/Manga) • [视频系列](/wiki/Community/Video_series) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk) • [lazer 更新视频系列](/wiki/Community/Video_series/lazer_updates)
 
