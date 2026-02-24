@@ -11,7 +11,7 @@ You voted, we listened — let's reveal the community's favourite beatmaps of 20
 
 [In case you're new here](https://osu.ppy.sh/home/news/2026-02-04-community-choice-2025), the *Community Choice* polls are a yearly event where players and mappers set their differences aside and unite on celebrating the best beatmaps of the year.
 
-With each iteration, a handsome set of rewards is bestowed upon the winners, namely a 6-month osu!supporter tag (3 months for osu!mania 7K) split among them, alongside a bespoke profile badge to commemorate their achievement. The rest of the top 10 (top 5 for osu!mania 7K) for each *Community Choice* category will also be receiving a 1-month osu!supporter tag each.
+With each iteration, a handsome set of rewards is bestowed upon the winners, namely a 6-month osu!supporter tag (3 months for osu!mania 7K) split among everyone involved in the winning map, alongside a bespoke profile badge to commemorate their achievement. The rest of the top 10 (top 5 for osu!mania 7K) for each *Community Choice* category will also be receiving a 1-month osu!supporter tag each.
 
 Counting a total of **69,421** votes from **8,963** users across all game modes, *you* certainly made your favourites known, and it's time to reveal the results!
 
