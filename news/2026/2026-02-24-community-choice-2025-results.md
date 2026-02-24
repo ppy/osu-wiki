@@ -85,7 +85,7 @@ It's no secret that osu!taiko tends to shine with its tournament bangers, and [*
 - [**MAX - Checklist (feat. Chromeo)**](https://osu.ppy.sh/beatmapsets/2155487) by [**_gt**](https://osu.ppy.sh/users/8301957) with **45** votes.
 - [**Slax - Body to the Drum**](https://osu.ppy.sh/beatmapsets/2343891) by [**ler1211**](https://osu.ppy.sh/users/19901680) with **42** votes.
 - [**matern - Nhelv x homero si baila x homero vs. peter grifin x mira marge soy brasileno**](https://osu.ppy.sh/beatmapsets/2271589) by [**paz08**](https://osu.ppy.sh/users/9964420) with **41** votes.
-- [**GTS Sound Team - <<wr/d.:colliders>> ~Chaos in Conclusion~**](https://osu.ppy.sh/beatmapsets/2343549) by [**Kasumi-sama**](https://osu.ppy.sh/users/6177263) with **40** votes.
+- [**GTS Sound Team - <<wr/d.:colliders>> \~Chaos in Conclusion\~**](https://osu.ppy.sh/beatmapsets/2343549) by [**Kasumi-sama**](https://osu.ppy.sh/users/6177263) with **40** votes.
 - [**katagiri - 1KNITE**](https://osu.ppy.sh/beatmapsets/2205742) by [**nananass**](https://osu.ppy.sh/users/7231722) with **37** votes.
 - [**katagiri - ch3rry**](https://osu.ppy.sh/beatmapsets/2413153) by [**yakisode**](https://osu.ppy.sh/users/35619347) with **35** votes.
 - [**ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.)**](https://osu.ppy.sh/beatmapsets/2182334) by [**Flade**](https://osu.ppy.sh/users/11061804) with **33** votes.
@@ -100,7 +100,7 @@ It's no secret that osu!taiko tends to shine with its tournament bangers, and [*
 - [**MYUKKE. - Red Screen of Life**](https://osu.ppy.sh/beatmapsets/2329036) by [**ler1211**](https://osu.ppy.sh/users/19901680) with **17** votes.
 - [**matern - Nhelv x homero si baila x homero vs. peter grifin x mira marge soy brasileno**](https://osu.ppy.sh/beatmapsets/2271589) by [**paz08**](https://osu.ppy.sh/users/9964420) with **16** votes.
 - [**MAX - Checklist (feat. Chromeo)**](https://osu.ppy.sh/beatmapsets/2155487) by [**_gt**](https://osu.ppy.sh/users/8301957) with **16** votes.
-- [**GTS Sound Team - <<wr/d.:colliders>> ~Chaos in Conclusion~**](https://osu.ppy.sh/beatmapsets/2343549) by [**Kasumi-sama**](https://osu.ppy.sh/users/6177263) with **15** votes.
+- [**GTS Sound Team - <<wr/d.:colliders>> \~Chaos in Conclusion\~**](https://osu.ppy.sh/beatmapsets/2343549) by [**Kasumi-sama**](https://osu.ppy.sh/users/6177263) with **15** votes.
 - [**Supire - Helios**](https://osu.ppy.sh/beatmapsets/2368014) by [**Alchyr**](https://osu.ppy.sh/users/4993032) with **14** votes.
 
 ## osu!catch
