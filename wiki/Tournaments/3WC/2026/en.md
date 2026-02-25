@@ -94,7 +94,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ### Saturday, February 28
 
-| Team A | Team B | Match time | Twitch stream | |
+| Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=NZ }:: New Zealand | Feb 28 (Sat) 07:00 UTC |  | [^winners-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=PH }:: Philippines | Feb 28 (Sat) 15:00 UTC |  | [^winners-bracket] |
@@ -104,7 +104,7 @@ The 3 Digit World Cup 2026 is run by various community members.
 
 ### Sunday, March 1
 
-| Team A | Team B | Match time | Twitch stream | |
+| Team A | Team B | Match time | Twitch stream |  |
 | --: | :-- | :-- | :-: | :-: |
 | Romania ::{ flag=RO }:: | ::{ flag=AU }:: Australia | Mar 01 (Sun) 12:00 UTC |  | [^winners-bracket] |
 | South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | Mar 01 (Sun) 14:00 UTC |  | [^winners-bracket] |
