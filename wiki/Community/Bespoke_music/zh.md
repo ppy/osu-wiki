@@ -6,12 +6,12 @@ tags:
   - original
   - musicosu! 原创曲原创曲
 ---
-<!-- markdownlint-disable MD060 -->
+
 # 定制音乐
 
-本文列出了专为 osu! 或其他与 osu! 相关的活动（如锦标赛、比赛和[精选艺术家](/wiki/People/Featured_Artists)公布）创作（或以其他方式首发的）歌曲。
+本文列出了专为 osu! 或其他与 osu! 相关的活动（如锦标赛、作图竞赛和[精选艺术家](/wiki/People/Featured_Artists)公布）创作（或以其他方式首发的）的歌曲。
 
-尽管并非所有这些歌曲都经过官方授权并收录在[精选艺术家库](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1)中，但被收录的这部分歌曲被称为“osu! 原创曲”(osu! originals)，并在其各自艺术家的页面上用 ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! 原创曲") 标签加以区分（本文中用图标 ![osu! 原创曲](/wiki/shared/link/original.png "osu! 原创曲") 来表示）。根据 [osu! 音乐许可政策](/wiki/Legal/Music_licensing)，这些歌曲以非排他性条款授权在 osu! 中使用。
+尽管并非所有这些歌曲都经过官方授权并收录在[精选艺术家库](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1)中，但被收录的那一部分歌曲被称为“osu! 原创曲”(osu! originals)，并在其各自艺术家的页面上用 ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! 原创曲") 标签加以区分（本文中用图标 ![osu! 原创曲](/wiki/shared/link/original.png "osu! 原创曲") 来表示）。根据 [osu! 音乐许可政策](/wiki/Legal/Music_licensing)，这些歌曲以非排他性条款授权在 osu! 中使用。
 
 相反，此列表中的其他所有歌曲并未经过授权，使用前可能需要获得许可。更多信息请参见[内容使用许可](/wiki/Rules/Content_usage_guidelines)。
 
@@ -595,7 +595,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/doridori-takehirotei-dream-n-believe-remix "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2MVwdE3e_Pc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://takehirotei.bandcamp.com/track/serena-cv-makiguchi-mayuki-doridori-takehirotei-dream-n-believe-remix-amg-x-cfc-rhythmgame-osu-tournament-custom-remix-2 "Bandcamp") |  | Serena (CV: Makiguchi Mayuki) - DoriDori (takehirotei ''Dream n Believe'' remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1835502), [#2](https://osu.ppy.sh/beatmapsets/1834848) | 决赛 HD3 (osu!), finals NM1 (osu!catch) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/doridori-takehirotei-dream-n-believe-remix "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2MVwdE3e_Pc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://takehirotei.bandcamp.com/track/serena-cv-makiguchi-mayuki-doridori-takehirotei-dream-n-believe-remix-amg-x-cfc-rhythmgame-osu-tournament-custom-remix-2 "Bandcamp") |  | Serena (CV: Makiguchi Mayuki) - DoriDori (takehirotei ''Dream n Believe'' remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1835502), [#2](https://osu.ppy.sh/beatmapsets/1834848) | 决赛 HD3 (osu!), 决赛 NM1 (osu!catch) |
 
 #### ![](/wiki/shared/mode/osu.png) [Abbey's Troll Map Tournament 3](https://osu.ppy.sh/community/forums/topics/2093936)
 
@@ -657,10 +657,10 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/coulmusic/asthewordcollapses "SoundCloud") |  | coul - As the world collapses... (feat. Hatsune Miku) | [#1](https://osu.ppy.sh/beatmapsets/2138053) | 决赛 & Last Chance Bracket Pool #1 HR3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/coulmusic/asthewordcollapses "SoundCloud") |  | coul - As the world collapses... (feat. Hatsune Miku) | [#1](https://osu.ppy.sh/beatmapsets/2138053) | 决赛 & 复活赛图池 1 中的 HR3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-luytens-star "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sblgIglxhvI "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Doomsday&query=%22Luyten%27s%20Star%22 "osu! original") | Doomsday - Luyten's Star | [#1](https://osu.ppy.sh/beatmapsets/2134395) | 四分之一决赛 & 半决赛 TB |
 |  |  | supercell feat. Hatsune Miku - Black*Rock Shooter (djkirakira remix) | [#1](https://osu.ppy.sh/beatmapsets/2134651) | 四分之一决赛 & 半决赛 HR1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/echoes-of-the-past-ft-hatsune "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/album/echoes-of-the-past "Bandcamp") |  | Sydosys - Echoes of the Past[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137990) | 决赛 & Last Chance Bracket Pool #1 TB |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/echoes-of-the-past-ft-hatsune "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/album/echoes-of-the-past "Bandcamp") |  | Sydosys - Echoes of the Past[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137990) | 决赛 & 复活赛图池 1 中的 TB |
 
 #### ![](/wiki/shared/mode/osu.png) [Bingsu!](https://osu.ppy.sh/community/forums/topics/2011772)
 
@@ -678,15 +678,15 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-cold-tea "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=9eRC2Ko77xE "YouTube") |  | Doomsday - Cold Tea[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2410740) | Bracket Stage NM5 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/wat-43506101/whispers-of-the-deserted "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://xenjes.bandcamp.com/track/whispers-of-the-deserted "Bandcamp") |  | XenjeS - Whispers of the Deserted[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2410722) | Bracket Stage NM2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-cold-tea "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=9eRC2Ko77xE "YouTube") |  | Doomsday - Cold Tea[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2410740) | 分组淘汰赛 NM5 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/wat-43506101/whispers-of-the-deserted "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://xenjes.bandcamp.com/track/whispers-of-the-deserted "Bandcamp") |  | XenjeS - Whispers of the Deserted[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2410722) | 分组淘汰赛 NM2 |
 
 #### ![](/wiki/shared/mode/osu.png) [Charlie's Perfect Math Class](https://osu.ppy.sh/community/forums/topics/1570901)
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=baAzs6QMeRg "YouTube") |  | Dictate & Spazza17 - Charlie's Perfect Math Class[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1799284) | Pool C Free Mod pick (C1) |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/stellar-proximity-shift "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mONh53IqiBY "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/66vEIWXuKW0v8yd0euf0As "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/stellar-proximity-shift "Bandcamp") |  | kanemiko - Stellar Proximity Shift | [#1](https://osu.ppy.sh/beatmapsets/1799362) | Pool B Free Mod pick (B1) |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=baAzs6QMeRg "YouTube") |  | Dictate & Spazza17 - Charlie's Perfect Math Class[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1799284) | 图池 C 的 Free Mod pick (C1) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/stellar-proximity-shift "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mONh53IqiBY "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/66vEIWXuKW0v8yd0euf0As "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/stellar-proximity-shift "Bandcamp") |  | kanemiko - Stellar Proximity Shift | [#1](https://osu.ppy.sh/beatmapsets/1799362) | 图池 B 的 Free Mod pick (B1) |
 
 #### ![](/wiki/shared/mode/osu.png) [China LAN 2025](https://osu.ppy.sh/community/forums/topics/2080306)
 
@@ -1218,7 +1218,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/passchooo/chooo2023_8 "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4nsc9hSDSxSHcdacbO98QN "Spotify") |  | passchooo - chooo2023\_8[^fa] |  | 直播背景音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/passchooo/chooo2023_9 "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5CKcODUxL07UDXBONZ9PTE "Spotify") |  | passchooo - chooo2023\_9[^fa] |  | 直播背景音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/archangel "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ZmfclkgfGw0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6a9m669UP19SnJRIMp1Apv "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/archangel "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sydosys&query=%22ArchangeL%22 "osu! original") | Sydosys - ArchangeL | [#1](https://osu.ppy.sh/beatmapsets/2023712) | 决赛 TB |
-|  |  | Tatsh - IMAGE REBORN -DIVINITY- | [#1](https://osu.ppy.sh/beatmapsets/2022551) | Battle Royale 1v1 TB |
+|  |  | Tatsh - IMAGE REBORN -DIVINITY- | [#1](https://osu.ppy.sh/beatmapsets/2022551) | 大逃杀 1v1 TB |
 
 #### ![](/wiki/shared/mode/osu.png) [Ukrainian osu! Tournament 2024](https://osu.ppy.sh/community/forums/topics/1912855)
 
@@ -1324,7 +1324,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/imaginaryrea1ity/takehirotei-rhythmemories "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=U9qoQzUPOJU "YouTube") |  | takehirotei - Rhythmemories[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2219649) | LAN TB |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/imaginaryrea1ity/takehirotei-rhythmemories "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=U9qoQzUPOJU "YouTube") |  | takehirotei - Rhythmemories[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2219649) | 线下赛 TB |
 
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
@@ -1345,7 +1345,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/see-you-next-time "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=21xgRN3S1A8 "YouTube") |  | takehirotei - See you next time\![^fa] |  | 落幕音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-see-you-next-time "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=XBFEdgMu4NY "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=takehirotei&query=%22C%3A%2F%2F%20YOU%20NEX-TIME%22 "osu! original") | takehirotei as "Infinite Limit" - C:// YOU NEX-TIME | [#1](https://osu.ppy.sh/beatmapsets/2028305) | 总决赛 TB |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/tn-shi/circular-reasoning "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=JpVBX2__xPM "YouTube") |  | tn-shi - Circular Reasoning |  | Trailer music |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/tn-shi/circular-reasoning "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=JpVBX2__xPM "YouTube") |  | tn-shi - Circular Reasoning |  | 预告片音乐 |
 
 #### ![](/wiki/shared/mode/osu.png) [osu! Malaysia Tournament X](/wiki/Tournaments/OMT/X)
 
@@ -1370,8 +1370,8 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/affectedd/abstraktvisualiserin6 "SoundCloud") |  | Affected - Abstrakt Visualisering | [#1](https://osu.ppy.sh/beatmapsets/2455744) | Playoffs TB |
-|  |  | THE ENTIRE EARTH - conic | [#1](https://osu.ppy.sh/beatmapsets/2455718) | Playoffs HR2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/affectedd/abstraktvisualiserin6 "SoundCloud") |  | Affected - Abstrakt Visualisering | [#1](https://osu.ppy.sh/beatmapsets/2455744) | 季后附加赛 TB |
+|  |  | THE ENTIRE EARTH - conic | [#1](https://osu.ppy.sh/beatmapsets/2455718) | 季后附加赛 HR2 |
 
 #### ![](/wiki/shared/mode/osu.png) [osu! Philippines Nationals Standard 2024](https://osu.ppy.sh/community/forums/topics/1850494)
 
@@ -1435,8 +1435,8 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 |  |  | Connexio - Xhalvurex | [#1](https://osu.ppy.sh/beatmapsets/2423641) | 总决赛 TB |
-|  |  | Now Field vs. uRyo - Bargentos | [#1](https://osu.ppy.sh/beatmapsets/2407072) | Face-Offs TB |
-|  |  | SEVEN LIVES - The Bewitching Voice of the Nine-Tailed Fox[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2414419) | Bracket Stage TB |
+|  |  | Now Field vs. uRyo - Bargentos | [#1](https://osu.ppy.sh/beatmapsets/2407072) | 大乱斗 TB |
+|  |  | SEVEN LIVES - The Bewitching Voice of the Nine-Tailed Fox[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2414419) | 分组淘汰赛 TB |
 
 #### ![](/wiki/shared/mode/osu.png) [the tea party house](https://osu.ppy.sh/community/forums/topics/2099360)
 
@@ -1526,14 +1526,14 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-709202560/wave-punch "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/36f1UGaWIyrLkBpo3TyqSc "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/wave-punch "Bandcamp") |  | A? - WAVE PUNCH[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1823663) | 资格赛 HR2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/aoisoundsystem/type-rebellion "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rH4EeaJ1X0c "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0OZsLHLQwqKg7zArYymLW4 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/type-rebellion "Bandcamp") |  | Aoi - TYPE-Rebellion[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833435) | 64 强赛 FM1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/recollection "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1bN5lYvKKTOdSCYKSBLXYv "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/recollection "Bandcamp") |  | blobdash & Raphlesia - Recollection | [#1](https://osu.ppy.sh/beatmapsets/1828727) | Round of 96 TB |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/recollection "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1bN5lYvKKTOdSCYKSBLXYv "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/recollection "Bandcamp") |  | blobdash & Raphlesia - Recollection | [#1](https://osu.ppy.sh/beatmapsets/1828727) | 96 强赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/corrupted-binary-star "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1oGNFpiPS0l6mPO0j8a0TO "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/corrupted-binary-star "Bandcamp") |  | blobdash - Corrupted Binary StaR | [#1](https://osu.ppy.sh/beatmapsets/1846727) | 四分之一决赛 NM1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/blobdash/resentment "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2UvMN30pI7ogY8sxC7JBXi "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/resentment "Bandcamp") |  | blobdash - Resentment | [#1](https://osu.ppy.sh/beatmapsets/1850544) | 半决赛 FM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/raisei/fractured-angel "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YlaYNIXJAyM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/27zh3FDD46FWyuZCSrAFom "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/fractured-angel "Bandcamp") |  | DJ Raisei - Fractured Angel[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | 32 强赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/gardensdtm/rafflesia "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6kjNxScf6rBCt9967u6Jlr "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/rafflesia "Bandcamp") |  | Gardens - Rafflesia | [#1](https://osu.ppy.sh/beatmapsets/1833491) | 64 强赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UjXu3o0SW5Q "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/42uYvLg2Ff1e05goHjCmiZ "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/nttld-beings-truth-in-uncertainty "Bandcamp") |  | GTS Sound Team - 《/nttld.:beings》 \~Truth in Uncertainty\~[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338) | 总决赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/45ivtGKqqmqBBksh1MoeW4 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/grabinschrift-der-g-tter "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ikaruga_nex&query=%22Grabinschrift%20der%20Gotter%22 "osu! original") | ikaruga\_nex vs. Kagetora. - Grabinschrift der Gotter | [#1](https://osu.ppy.sh/beatmapsets/1855299) | 决赛 TB |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kah_growsong/gts2022judge-up-down "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1Ak44Rlgc3pFpunTplYOZM "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/judge-up-down-2 "Bandcamp") |  | KAH - Judge UP↑ DOWN↓ | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Round of 128 FM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kah_growsong/gts2022judge-up-down "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1Ak44Rlgc3pFpunTplYOZM "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/judge-up-down-2 "Bandcamp") |  | KAH - Judge UP↑ DOWN↓ | [#1](https://osu.ppy.sh/beatmapsets/1828735) | 128 强赛 FM3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7a2k9yvExv4 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/bootleg-heaven "Bandcamp") |  | katagiri - Bootleg Heaven[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1855270) | 决赛 NM6 |
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3cGes6OBE0w1GQl7LFue9L "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/- "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Kou%21&query=%22Sanzui%22 "osu! original") | Kou! - Sanzui | [#1](https://osu.ppy.sh/beatmapsets/1846769) | 四分之一决赛 FM1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=eAaJjlP2N_A "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6q2RcXvX4ptRQ5f4BWzNQR "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/mam-rozbite-sluchatka-placem "Bandcamp") |  | kyou1110 - Mam rozbite sluchatka placem | [#1](https://osu.ppy.sh/beatmapsets/1846616) | 四分之一决赛 TB |
@@ -1542,7 +1542,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rurinn/dichroma "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=OhrQU0DWdH8 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4laRw6CEFFsQBv1UD1EPet "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/dichroma-ludiosia "Bandcamp") |  | rN vs. [Shanom, ptar124 & Zekai] - dichroma, ludiosia.[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1842219) | 16 强赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/5kilobyte/ultimate "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1aEC2KY6Iz9ZwEYKmT9l2F "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/ultimate "Bandcamp") |  | Rukadesu & 5KiLOBYTE - ULTIMATE | [#1](https://osu.ppy.sh/beatmapsets/1859283) | 总决赛 FM3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sadkeyboardguy/reflection-shift "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5Xmr1PbQr3YuH3AxuCm7OO "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/reflection-shift "Bandcamp") |  | Sad Keyboard Guy - Reflection Shift | [#1](https://osu.ppy.sh/beatmapsets/1851049) | 半决赛 FM3 |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2IS9oBstIcY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/giri-the-giri "Bandcamp") |  | Slax - Giri the Giri | [#1](https://osu.ppy.sh/beatmapsets/1828739) | Round of 128 HD2 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2IS9oBstIcY "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/giri-the-giri "Bandcamp") |  | Slax - Giri the Giri | [#1](https://osu.ppy.sh/beatmapsets/1828739) | 128 强赛 HD2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sparxenic/dream-elevator "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=twx6tOXXy4Q "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5QZxbkSG555dlgTa7ERobz "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/dream-elevator "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sparxe&query=%22Dream%20Elevator%22 "osu! original") | Sparxe - Dream Elevator | [#1](https://osu.ppy.sh/beatmapsets/1837865) | 32 强赛 DT1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/breakchildaltuwu/blue-noah-2022 "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/blue-noah-2022 "Bandcamp") |  | stoops & breakchild - blue noah 2022 | [#1](https://osu.ppy.sh/beatmapsets/1837866) | 32 强赛 FM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/egts-sf-tb-takehirotei-as-infinite-limit-rules-of-the-chaos-dilemma "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/643D60ra3ijofXk7t7SSc9 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/rules-of-the-chaos-dilemma "Bandcamp") |  | takehirotei - Rules of the Chaos Dilemma[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850782) | 半决赛 TB |
@@ -1671,7 +1671,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/a-longing-of-innocent-violet "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=bdfbrH7E_ew "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SiLiS&query=%22A%20Longing%20of%20Innocent%20Violet%22 "osu! original") | SiLiS vs. HowToPlayLN - A Longing of Innocent Violet | [#1](https://osu.ppy.sh/beatmapsets/2191052) | 四分之一决赛 TB |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=APGRnnrE22s "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/5X3Xj3kFiNW6liq7lNqs5o "Spotify") |  | TAG - Rondo of the End | [#1](https://osu.ppy.sh/beatmapsets/2202703) | 总决赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/otmt-2024-ro16-TB "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=q85h-Wlp9Pw "YouTube") |  | takehirotei - Zander the Rock\![^fa] | [#1](https://osu.ppy.sh/beatmapsets/2187322) | 16 强赛 TB |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/yaefract-opening "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=N6PRgV6Hu5s "YouTube") |  | ЯEFRACT - OPENING[^fa] |  | Trailer music |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/yaefract-opening "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=N6PRgV6Hu5s "YouTube") |  | ЯEFRACT - OPENING[^fa] |  | 预告片音乐 |
 
 #### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2021](/wiki/Tournaments/GTS/RGTS_2021)
 
@@ -1730,7 +1730,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/gts-orchestra-team-wie-der "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r_oHmD-iy3M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2nJbymPLN98Hwx44DGzX3S "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/wie-der-bambus-steht-starr-in-der-stille-der-dunkelheit "Bandcamp") |  | GTS Orchestra Team - Wie der Bambus steht, starr in der Stille der Dunkelheit[^fa] |  | Trailer music |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/silis/gts-orchestra-team-wie-der "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r_oHmD-iy3M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2nJbymPLN98Hwx44DGzX3S "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://gratiaproductions.bandcamp.com/track/wie-der-bambus-steht-starr-in-der-stille-der-dunkelheit "Bandcamp") |  | GTS Orchestra Team - Wie der Bambus steht, starr in der Stille der Dunkelheit[^fa] |  | 预告片音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/uchphppii24c/crevasse-hoar "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=r9A5q7dyga0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2xloLqcF9O0vVeagpgMDn8 "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nullspecification.bandcamp.com/track/crevasse-hoar "Bandcamp") |  | Null Specification - Crevasse Hoar | [#1](https://osu.ppy.sh/beatmapsets/1952276) | 决赛 TB |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2025](https://osu.ppy.sh/home/news/2025-05-09-squad-global-taiko-showdown-2025-registrations-now-open)
@@ -1972,7 +1972,7 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/akiri-vs-howtoplayln-cognitohazadrous-ocular-vision-impairing-disease "SoundCloud") |  | Akiri vs. HowToPlayLN - Cognitohazadrous Ocular Vision Impairing Disease[^fa] |  | 切场音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/crescent-moon-island-but-its-bossa-nova "SoundCloud") |  | HowToPlayLN - crescent moon island but it's bossa nova |  | 切场音乐 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/4dm2023-trailer "SoundCloud") |  | HowToPlayLN - Lost in Space |  | Trailer music |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/4dm2023-trailer "SoundCloud") |  | HowToPlayLN - Lost in Space |  | 预告片音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/monochroma "SoundCloud") |  | HowToPlayLN - monochroma. |  | 切场音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/polychromatic-dissociation "SoundCloud") |  | HowToPlayLN - polychromatic dissociation |  | 切场音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/wandering-through-the-stars "SoundCloud") |  | HowToPlayLN - wandering through the stars |  | 切场音乐 |
@@ -2175,9 +2175,9 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 | --: | :-: | :-- | :-: | :-- |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ardolf_music/fragmentofsoul "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PT4VMc0vitI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/5t1iPfEexprU1yvwbFNCEY "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://ardolf.bandcamp.com/track/fragmentof-soul-2 "Bandcamp") |  | Ardolf - FragmentOf(soul)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2373226) | 半决赛 NW2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/billiummoto/1kosahedra "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Uunv772SU9w "YouTube") |  | BilliumMoto & rN - 1KOSAHEDRA[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2380729) | 总决赛 TB |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/aquira "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=uThrKnn-c78 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1Lxu05C5o4HYfaEKTxgyci "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/aquira "Bandcamp") |  | Krimek feat. eili - Aquira[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2358106) | 资格赛 Stage 6 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/krimek/aquira "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=uThrKnn-c78 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1Lxu05C5o4HYfaEKTxgyci "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://krimek.bandcamp.com/track/aquira "Bandcamp") |  | Krimek feat. eili - Aquira[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2358106) | 资格赛第 6 轮 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/myukke/seal-the-dealfor-1kwc-2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Uxg5Bg2MW2A "YouTube") |  | MYUKKE. - Seal the Deal[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2369288) | 四分之一决赛 NW2 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/siqlo/beyond-the-decision "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=_CqOJyjRmKY "YouTube") |  | siqlo - Beyond the Decision[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2361970) | Round of 20 NW2 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/siqlo/beyond-the-decision "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=_CqOJyjRmKY "YouTube") |  | siqlo - Beyond the Decision[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2361970) | 20 强赛 NW2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trainer-lolxd/lnrr1kwc2025fin "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=JsNkXgLICRo "YouTube") |  | Trina Lydia - Late-Night Rocket Ride | [#1](https://osu.ppy.sh/beatmapsets/2377074) | 决赛 NW2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zxnx/nullpars "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=APEP1ftZFA4 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2eMSEnTRypWtKIAXG8Nf2L "Spotify") |  | ZxNX - NULLPARS[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2365820) | 16 强赛 NW2 |
 
@@ -2396,8 +2396,8 @@ osu! 内目前共有 **1243** 已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/lncryption "SoundCloud") |  | HowToPlayLN - LNCryption | [#1](https://osu.ppy.sh/beatmapsets/1893946) | 总决赛 wildcard |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=takehirotei&query=%22Normal%20Distribution%20%28takehirotei%20%22t-distribution%22%20remix%29%22 "osu! original") | HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | 四分之一决赛 wildcard |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/lncryption "SoundCloud") |  | HowToPlayLN - LNCryption | [#1](https://osu.ppy.sh/beatmapsets/1893946) | 总决赛外卡 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=takehirotei&query=%22Normal%20Distribution%20%28takehirotei%20%22t-distribution%22%20remix%29%22 "osu! original") | HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | 四分之一决赛外卡 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/indekkusu/pallet-rearrangement "SoundCloud") |  | PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement) |  | 落幕音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/supa7onyz/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=IqZt3mqMIS0 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Supa7onyz&query=%22Unsynchronized%20Rhythms%22 "osu! original") | Supa7onyz pres. 5-let - Unsynchronized Rhythms | [#1](https://osu.ppy.sh/beatmapsets/1893947) | 总决赛 technical |
 
