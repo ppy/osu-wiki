@@ -13,10 +13,9 @@ Another month, and another new year! We hope you are all having a great February
 
 Following last month's proposal, the osu! gamemode captains (that is, the circle clickers) are implementing some changes on their approach to picking maps. Here's a message from them explaining the details:
 
-> Project Loved for osu! is undergoing an overhaul to its curation system. Since 2023, we’ve relied on a category-based approach to determine our picks. Over time, however, we’ve noticed growing dissatisfaction with certain categories, both in overall popularity and player reception. **Rather than continually adding and removing categories to match what we think fits the current playerbase, we’re abolishing them entirely and returning to a more freeform approach**, relying on the capabilities of our new Captains to ensure that the maps all bring something different to the table. We’re confident in our ability to deliver a unique set of maps that don’t need to adhere to an arbitrary list of requirements, and we hope you’ll place your trust in us as we bring beautiful maps to the section.
-> \
-> \
-> —osu! captains
+> Project Loved for osu! is undergoing an overhaul to its curation system. Since 2023, we've relied on a category-based approach to determine our picks. Over time, however, we’ve noticed growing dissatisfaction with certain categories, both in overall popularity and player reception. **Rather than continually adding and removing categories to match what we think fits the current playerbase, we’re abolishing them entirely and returning to a more freeform approach**, relying on the capabilities of our new Captains to ensure that the maps all bring something different to the table. We're confident in our ability to deliver a unique set of maps that don't need to adhere to an arbitrary list of requirements, and we hope you'll place your trust in us as we bring beautiful maps to the section.
+
+—osu! captains
 
 Wrapping up this intro, here are the results for last month's voting:
 
