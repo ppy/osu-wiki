@@ -42,6 +42,12 @@ The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/1517
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR80%20-%20Project%20Loved:%20February%202026%20(osu!).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2026/2026-02-osuHD-web.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2026-02-24-project-loved-february-2026/2110847.jpg)](https://osu.ppy.sh/community/forums/topics/)
@@ -209,6 +215,12 @@ The osu!taiko Loved candidates were chosen by [\_gt](https://osu.ppy.sh/users/83
 
 **[Click here to download all of this round's osu!taiko picks!](https://packs.ppy.sh/LR79%20-%20Project%20Loved:%20February%202026%20(osu!taiko).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2026/2026-02-taikoHD-web.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2026-02-24-project-loved-february-2026/1778845.jpg)](https://osu.ppy.sh/community/forums/topics/)
@@ -275,6 +287,12 @@ The osu!catch Loved candidates were chosen by [5ean](https://osu.ppy.sh/users/76
 
 **[Click here to download all of this round's osu!catch picks!](https://packs.ppy.sh/LR78%20-%20Project%20Loved:%20February%202026%20(osu!catch).zip)**
 
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2026/2026-02-fruitsHD-web.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
+
 ---
 
 [![](/wiki/shared/news/2026-02-24-project-loved-february-2026/1919720.jpg)](https://osu.ppy.sh/community/forums/topics/)
@@ -332,6 +350,12 @@ For the [Wicked Ceremony](https://osu.ppy.sh/beatmapsets/1794175#fruits/3677152)
 The osu!mania Loved candidates were chosen by [Carpihat](https://osu.ppy.sh/users/10085090), [elexire](https://osu.ppy.sh/users/9206093), [LivelyPeninsula](https://osu.ppy.sh/users/11517895), [Maxus](https://osu.ppy.sh/users/4335785), [Paturages](https://osu.ppy.sh/users/1375479), [SunApple](https://osu.ppy.sh/users/11817622), [taba2](https://osu.ppy.sh/users/7850508), and [Yuiesta](https://osu.ppy.sh/users/13953619)!
 
 **[Click here to download all of this round's osu!mania picks!](https://packs.ppy.sh/LR77%20-%20Project%20Loved:%20February%202026%20(osu!mania).zip)**
+
+<div align="center">
+  <video width="95%" controls>
+    <source src="https://assets.ppy.sh/project-loved/2026/2026-02-maniaHD-web.mp4" type="video/mp4" preload="none">
+  </video>
+</div>
 
 ---
 
