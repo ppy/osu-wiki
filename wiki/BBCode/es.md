@@ -59,12 +59,10 @@ La etiqueta `[u]` se usa para enfatizar el texto dibujando una línea horizontal
 ### Tachado
 
 ```
-[strike]texto[/strike]
+[s]texto[/s]
 ```
 
-*Nota: «tachado» también puede ser conocido como «tachar».*
-
-La etiqueta `[strike]` se usa para indicar la eliminación de texto incluido anteriormente mediante el uso de una línea horizontal que «tacha» el texto (es decir, un «tachado»).
+La etiqueta `[s]` se usa para indicar la eliminación de texto incluido anteriormente mediante el uso de una línea horizontal que «tacha» el texto (es decir, un «tachado»). `[strike]` es un alias aceptado para esta etiqueta.
 
 Botón de la barra de herramientas: ![Botón de tachar](img/strike.png "Tachado")
 
@@ -86,9 +84,16 @@ El argumento mencionado anteriormente no lleva comillas (`"`) y no tiene un colo
 [size=NÚMERO]texto[/size]
 ```
 
-La etiqueta `[size]` se usa para estilizar el texto mediante el uso de diferentes tamaños de fuente. Actualmente, hay cuatro tamaños compatibles con el sitio web de osu!: 50, 85, 100 y 150. Los tamaños se denominan internamente «diminuto», «pequeño», «normal» y «grande», respectivamente.
+La etiqueta `[size]` se utiliza para ajustar la apariencia del texto modificando el tamaño de la fuente.
 
-El argumento `NÚMERO` no acepta comillas y solo acepta uno de los cuatro tamaños admitidos. Si se ingresa un número que no es uno de los cuatro admitidos, el texto volverá al tamaño predeterminado.
+El argumento `NUMBER` especifica un porcentaje relativo al tamaño de fuente predeterminado (100%). Por ejemplo, `50` reduce el texto a la mitad del tamaño predeterminado, mientras que `150` lo aumenta a una vez y media. El argumento no requiere comillas y acepta dos tipos de valores:
+
+- Números enteros (no se permiten decimales) del 30 al 200
+- Palabras clave de tamaño predefinidas: "tiny", "small", "normal" y "large", que corresponden a 50, 85, 100 y 150 respectivamente.
+
+Si se proporciona un valor no válido, la etiqueta no se representará correctamente.
+
+Hay un botón en la barra de herramientas para acceder rápidamente a estos cuatro tamaños comunes.
 
 Botón de la barra de herramientas: ![Opciones de tamaño de fuente](img/font-size-ES.png "Tamaño de fuente")
 
@@ -146,7 +151,7 @@ La etiqueta `[quote]` se usa para dar formato estilístico a citas largas (tambi
 
 Las citas largas generalmente se usan en los escritos más formales en lugar de citas en línea cuando dicha cita tiene tres o más líneas. Sin embargo, dentro de los foros de osu!, se usan más comúnmente para responder al comentario de otro usuario, lo que se puede hacer automáticamente a través del botón `Citar y responder` ubicado en la parte superior derecha del comentario deseado (que se muestra a continuación). Sin embargo, este botón **solo aparecerá si el cursor está cerca**.
 
-![Botón de citar y responder](img/quotereply.png)
+Botón de citar y responder: ![Botón de citar y responder](img/quotereply.png)
 
 ### Código en línea
 
@@ -192,7 +197,11 @@ La etiqueta `[url]` se usa para convertir texto regular en hipervínculos en los
 
 *Nota: El uso de esta etiqueta no es necesario si no se desea utilizar texto de hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas en enlaces automáticamente.*
 
-Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: el texto vinculado que se mostrará, y la URL específica del sitio web al que navegar. El primero debe especificarse entre las etiquetas abiertas y cerradas, y el último debe especificarse como el argumento `ENLACE`, sin comillas (`"`). Si no se especifica ningún texto, el texto predeterminado será el nombre de la URL.
+Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: la URL específica del sitio web al que navegar y el texto vinculado que se mostrará. El primero debe especificarse como el argumento `ENLACE` (sin comillas `"`), y el último debe especificarse entre las etiquetas de apertura y cierre. Si no se especifica ningún texto, el texto predeterminado será el nombre de la URL.
+
+También se admite `[url]ENLACE[/url]`, pero es mayormente redundante ya que los enlaces simples se analizan automáticamente.
+
+*Aviso: Todas las URL, ya sea que se usen con la etiqueta `[url]` o en texto plano, deben ser válidas e incluir un protocolo (`http://`, `https://`, `ftp://`) o el prefijo `www.`. De lo contrario, el enlace no funcionará.*
 
 Botón de la barra de herramientas: ![Botón de enlace](img/url.png "Enlace")
 
@@ -202,27 +211,43 @@ Botón de la barra de herramientas: ![Botón de enlace](img/url.png "Enlace")
 [profile=iddeusuario]nombre de usuario[/profile]
 ```
 
-La etiqueta `[profile]` se usa para enlazar la página de perfil de osu! de un usuario usando su nombre de usuario o ID de usuario. El uso de la etiqueta `[profile]` difiere del uso de la etiqueta `[url]` en que la etiqueta `[profile]` muestra una tarjeta de usuario al pasar el cursor sobre el enlace creado por la etiqueta.
+La etiqueta `[profile]` se usa para enlazar la página de perfil de osu! de un usuario usando su nombre de usuario o ID de usuario. A diferencia de los enlaces URL estándar, al pasar el cursor sobre esta etiqueta se muestra una tarjeta de usuario interactiva.
+
+Para crear un enlace de perfil, los usuarios deben especificar dos argumentos: el ID numérico del usuario y su nombre de usuario. El primero se especifica como el argumento `userid` (sin comillas), mientras que el segundo se coloca entre las etiquetas de apertura y cierre.
+
+Para obtener mejores resultados, incluya tanto el ID de usuario correcto como su nombre de usuario correspondiente. Esto garantiza que el enlace funcione correctamente y se mantenga funcional incluso si el nombre de usuario cambia posteriormente. Si se especifica a los usuarios solo por su nombre de usuario, el enlace dejará de funcionar una vez que lo cambien.
+
+Cuando la etiqueta se utiliza en foros, firmas o descripciones de beatmaps, el sitio web osu! puede corregir y actualizar automáticamente la etiqueta `[profile]` si el `username` no es válido o el `userid` no es válido o no está presente. Esto permite insertar rápidamente enlaces de perfil si se conoce *el ID de usuario* o *el nombre de usuario, sin necesidad de consultar ambos datos.
 
 *Nota: El ID de usuario es una cadena de números que siguen directamente a `/users/` en la URL de una página de perfil de osu!.*
-
-Al especificar usuarios solo por sus ID de usuario, se requiere un texto de marcador de posición entre las etiquetas abiertas y cerradas. Al hacerlo, se mostrará el nombre de usuario en la página real, no el texto del marcador de posición. Al especificar usuarios solo por su nombre de usuario, el enlace no funcionará una vez que cambien su nombre de usuario.
 
 ### Listas formateadas
 
 ```
-[list=TIPO]
+[list] NOMBRE_DE_LA_LISTA
 [*]ítem 1
 [*]ítem 2
 [*]ítem 3
 [/list]
 ```
 
-La etiqueta `[list]` se usa para formatear automáticamente dos tipos diferentes de listas en todos los foros de el osu! usando un asterisco entre corchetes (`[*]`) para indicar un nuevo elemento en la lista (que se muestra arriba). De forma predeterminada, esto creará una lista simple con viñetas.
+o
+
+```
+[list=TIPO] NOMBRE_DE_LA_LISTA
+[*]ítem 1
+[*]ítem 2
+[*]ítem 3
+[/list]
+```
+
+La etiqueta `[list]` se usa para formatear automáticamente dos tipos diferentes de listas en todos los foros de el osu!. Cada elemento de la lista está marcado con “[*]”. De forma predeterminada, esto creará una lista simple con viñetas.
 
 Si se especifica el argumento `TIPO` (el valor real no importa), creará una lista numerada.
 
-*Aviso: las listas con formato de BBCode se pueden apilar una encima de otra y colocarse una dentro de otra, aunque se sabe que esto causa problemas con el formato.*
+El argumento opcional `LIST_NAME` añade un encabezado con sangría sobre la lista. Si se omite, no se muestra ningún encabezado.
+
+*Aviso: Las listas BBCode se pueden anidar o apilar, aunque esto a veces puede causar problemas de formato.*
 
 Botón de la barra de herramientas: ![Botón de lista](img/list.png "Lista") ![Botón de lista numerada](img/list-numbered.png "Lista numerada")
 
@@ -232,9 +257,11 @@ Botón de la barra de herramientas: ![Botón de lista](img/list.png "Lista") ![B
 [email=DIRECCIÓN]texto[/email]
 ```
 
-La etiqueta `[email]` crea un hipervínculo en el que se puede hacer clic, que abre un nuevo correo electrónico en el programa de correo predeterminado con el campo de dirección rellenado previamente.
+La etiqueta `[email]` crea enlaces de correo electrónico clicables con texto personalizado. Al hacer clic, se abre el cliente de correo predeterminado del usuario con la dirección del destinatario predefinida.
 
-Para crear un enlace, se deben especificar dos argumentos: el argumento `DIRECCIÓN` debe ser una dirección de correo electrónico válida, mientras que `texto` es el texto que se muestra y sirve como hipervínculo. Si el argumento `texto` no está definido, el hipervínculo no se creará correctamente.
+Para crear enlaces de correo electrónico con la etiqueta `[email]`, los usuarios deben especificar dos argumentos: la dirección de correo electrónico que se debe completar y el texto del enlace que se mostrará. El primero debe especificarse como el argumento `ADDRESS` (sin comillas), mientras que el segundo debe especificarse entre las etiquetas de apertura y cierre. Si no se proporciona texto para mostrar, el hipervínculo no se mostrará correctamente.
+
+También se admite `[email]DIRECCIÓN[/email]`, pero es mayormente redundante ya que los correos electrónicos simples se analizan automáticamente.
 
 ### Imágenes
 
@@ -343,9 +370,21 @@ La etiqueta `[lucky]` es una etiqueta obsoleta que alguna vez se usó en los for
 
 La etiqueta *encabezado (v2)* es una etiqueta desactualizada que alguna vez se usó en los foros de osu! para dar formato al texto en un encabezado púrpura de apariencia más elegante con una línea horizontal. La etiqueta solo funcionó en el foro Beatmaps, y solo aparecia después de la publicación (no en la vista previa). No tenía botón cuando estaba en servicio y se indicaba con un corchete abierto y cerrado (sin etiquetas de apertura y cierre).
 
+## Herramientas
+
+Estos proyectos simplifican el proceso de formatear texto con BBCode:
+
+| Nombre | Responsable del proyecto | Descripción |
+| :-: | :-: | :-- |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! (Archivado) |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[____________]](https://osu.ppy.sh/users/12036908) | Crea degradados de color para el perfil de osu! |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Extensión del navegador que añade más botones BBCode y otras funciones al sitio web de osu! |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | Coloración de texto BBCode y HTML |
+
 ## Curiosidades
 
-- Este artículo de la wiki fue adaptado del hilo del foro [«HOW TO: Forum BBCodes»](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907).
+- Este artículo de la wiki originalmente fue adaptado del hilo del foro [«HOW TO: Forum BBCodes»](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907).
 - Solía haber un error que permitía a los usuarios hacer que el texto fuera transparente usando la [etiqueta de color](#color) y escribiendo «transparent» después del signo igual (`=`).
   - A partir de ahora, el texto volverá al color predeterminado (blanco) cuando esto suceda.
 - Antes de que se agregara la etiqueta `imagemap`, era posible agregar un hipervínculo a una imagen combinando las etiquetas `url` e `img`; sin embargo, solo se puede establecer un hipervínculo por imagen. Esto requeriría cortar la imagen original en varias piezas (es decir, una imagen parcial para cada enlace) y colocarlas horizontalmente una al lado de la otra.
