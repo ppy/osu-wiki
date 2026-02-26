@@ -119,7 +119,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
-   - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
+   - A team should have at least 2 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
    - The tournament managers must ensure that such staff members do not have access to any privileged data, e.g. Qualifier score information, or mappool information before the mappool showcase.
 
