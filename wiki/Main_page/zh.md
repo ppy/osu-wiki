@@ -126,7 +126,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶。想与大
 
 通过其他应用和媒介与 osu! 交互，或帮助其进一步发展。
 
-[公告消息](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [品牌标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
+[公告消息](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [品牌标识准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
