@@ -123,7 +123,7 @@ Similar to its sister beatmaps from other modes, [**skill issue lol**](https://o
 - [**-45 - System Zero**](https://osu.ppy.sh/beatmapsets/1984907) by [**skill issue lol**](https://osu.ppy.sh/users/12498861) with **44** votes.
 - [**Jack Black - Steve's Lava Chicken**](https://osu.ppy.sh/beatmapsets/2352142) by [**Verti**](https://osu.ppy.sh/users/10674528) with **44** votes.
 - [**cassie - me & u (succducc bootleg)**](https://osu.ppy.sh/beatmapsets/1281611) by [**Spectator**](https://osu.ppy.sh/users/702598) with **44** votes.
-- [**jun with Alison - SUNKiSS <3 DROP ~jun Side~**](https://osu.ppy.sh/beatmapsets/2292175) by [**Ascendance**](https://osu.ppy.sh/users/2931883) with **41** votes.
+- [**jun with Alison - SUNKiSS <3 DROP \~jun Side\~**](https://osu.ppy.sh/beatmapsets/2292175) by [**Ascendance**](https://osu.ppy.sh/users/2931883) with **41** votes.
 - [**siinamota feat. Kagamine Rin - Shoujo A**](https://osu.ppy.sh/beatmapsets/2318075) by [**Ascendance**](https://osu.ppy.sh/users/2931883) with **39** votes.
 
 ### Mapper's Favourite
