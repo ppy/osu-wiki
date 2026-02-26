@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu!mania 7K World Cup 2026: Finals Recap"
-date: 2026-02-24 12:00:00 +0000
+date: 2026-02-26 12:00:00 +0000
 series: world_cups
 ---
 
 The conclusion is just right around the corner! Get to know the teams that'll face each other in the Grand Finals after reading this week's recap.
 
-![](/wiki/shared/news/2026-02-24-osumania-7k-world-cup-2026-finals-recap/banner.jpg)
+![](/wiki/shared/news/2026-02-26-osumania-7k-world-cup-2026-finals-recap/banner.jpg)
 
 The final weeks of a tournament oftentimes become the most exciting parts of the entire event. Let it be the stakes, the difficulty of the pools, the fact players are expected to outperform themselves, or a combination of all of these. We've already seen how all of these aforementioned factors have made this year's osu!mania 7K World Cup one of the most exciting yet — if not the most. However, the finale will make them exponentially more noticeable!
 
@@ -33,7 +33,7 @@ And with another written recap, we have another video recap by the hands of our 
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?video=2692609213&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2026-02-24-osumania-7k-world-cup-2026-finals-recap/mappool-f.jpg)
+![Finals mappool table](/wiki/shared/news/2026-02-26-osumania-7k-world-cup-2026-finals-recap/mappool-f.jpg)
 
 With the number of teams taking part in the lattermost rounds dropping drastically, the [weekly stats](https://docs.google.com/spreadsheets/d/1snjf2r4GJpqP9AI8ciR86wywtnFOZ1Kq_uOkrZdIgEc/view?rm=minimal&gid=1128644099#gid=1128644099) are not to be trusted too much when it comes to finding standouts in these final pools. That isn't to say there haven't been any maps worth highlighting!
 
@@ -45,7 +45,7 @@ Another remarkable chart we had amongst the normal pool was [Isekaijoucho - Isek
 
 But what truly shone was this round's [osu! original](/wiki/Community/Bespoke_music) as seen by the hype surrounding its showcase, its 100% pick rate and the amazing moments it left for us in last week's matches. As such, we'd like to present you...
 
-[![](/wiki/shared/news/2026-02-24-osumania-7k-world-cup-2026-finals-recap/Spark_of_Mayhem-banner.jpg)](https://osu.ppy.sh/beatmapsets/2505214#mania/5515662)
+[![](/wiki/shared/news/2026-02-26-osumania-7k-world-cup-2026-finals-recap/Spark_of_Mayhem-banner.jpg)](https://osu.ppy.sh/beatmapsets/2505214#mania/5515662)
 
 <div class="osu-md__paragraph">
     <audio controls>
