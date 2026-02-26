@@ -183,6 +183,7 @@ tags:
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
 - ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 - ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
 - ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
