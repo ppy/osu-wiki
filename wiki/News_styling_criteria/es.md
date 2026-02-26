@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 28f13b3a93c3c644e285440d4c537ec270d92ff7
----
-
 # Criterios de estilo para las noticias
 
 *Para los artículos de la wiki, véase: [Criterios de estilo para los artículos](/wiki/Article_styling_criteria)*
@@ -11,7 +6,7 @@ Las **noticias**, existen en un sistema ligeramente diferente al de la wiki prin
 
 Al igual que los artículos de la wiki, todas las noticias deben tener un mínimo de ortografía y gramática correctas, así como información correcta y actualizada.
 
-Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
+Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
 
 ## Configuraciones regionales
 
@@ -62,6 +57,7 @@ Todos los archivos de las noticias deben estar estructurados de la siguiente man
 layout: post
 title: Título de la noticia
 date: 2017-08-17 03:00:00 +0000
+series: miscellaneous
 ---
 
 Breve párrafo de avance
@@ -78,6 +74,11 @@ Contenido
 - `date` debe representar una cadena combinada que muestre una fecha de calendario en formato ISO 8601 (`2017-08-17`), seguida de una cadena horaria de 24 horas (`03:00:00`), seguida de un margen de tiempo establecido en UTC (`+0000`). Esta es la fecha de publicación usada para determinar cuándo la noticia se hará visible en el sitio web.
 - El párrafo de avance es el que se mostrará en la portada, en el archivo de las noticias y en el listado de las noticias dentro de osu!(lazer), además de ser el primer párrafo de la noticia.
 - Todas las noticias deberían incluir y enlazar las imágenes usadas en las portadas de las noticias en la carpeta [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news). En los casos excepcionales en los que no se desee usar ninguna portada, usa la imagen predeterminada: `https://osu.ppy.sh/images/headers/news-show-default.jpg`.
+- `serie` determina en qué categoría de notificaciones del sitio web se publicará el artículo, a las cuales los usuarios pueden suscribirse desde su [configuración de cuenta](https://osu.ppy.sh/home/account/edit). Debe ser una de las siguientes:
+- Series específicas: `project_loved`, `beatmap_spotlights`, `featured_artists`, `fanart_contests`, `mappers_guild`, `ranking_system_updates` (p. ej., puntos de rendimiento y puntuación), `game_updates` (tanto del cliente como del sitio web), `merch_runs`, `world_cups` (incluyendo [LGA](/wiki/Tournaments/LGA)), `monthly_beatmapping_contest`
+- Categorías generales: `official_contests` (cualquiera categorizado como tal en la página wiki [Contests](/wiki/Contests)), `community_contests`, `community_tournaments`, `offline_events`, `online_events`, `miscellaneous`
+
+![Lista de categorías de notificaciones de noticias en la configuración de la cuenta del sitio web](/wiki/Tournaments/LGA) página](img/news-series.png "Categorías de notificaciones de noticias")
 
 ### Markdown
 
@@ -107,46 +108,6 @@ Usa [esta herramienta de visualización](https://tcomm.hivie.tn/assets-previewer
 
 Los banners deben tener un tamaño base mínimo de 1000x200 píxeles. Se debe proporcionar una versión con cada dimensión duplicada si la imagen de origen es lo suficientemente grande como para ser compatible (lo que da como resultado `banner.jpg` y `banner@2x.jpg`). Las imágenes de los banners que aparecen en varias noticias deben colocarse en el directorio [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
-### HTML y contenido incrustado
-
-Se permite un uso limitado de HTML para incrustar contenido externo, como vídeos de YouTube, VODs de Twitch u otros programas diseñados para mostrar contenido de osu! o relacionado con osu!.
-
-El ancho de todos los marcos del contenido incrustado debe ajustarse al 95 %, con la excepción de las relaciones de aspecto altas. Para ser incluido en los artículos en general, el contenido incrustado debe soportar la visualización en estilo de ancho completo sin romperse o verse horrible.
-
-Vídeo incrustado alojado en `assets.ppy.sh`:
-
-```html
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-```
-
-Vídeo incrustado alojado en YouTube:
-
-```html
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
-</div>
-```
-
-Vídeo incrustado alojado en Twitch:
-
-```html
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-```
-
-Vista previa de un audio:
-
-```html
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
-</audio>
-```
-
 ## Diseño
 
 Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye los motivos más comunes por los que el equipo de noticias solicita cambios o preguntas:
@@ -163,3 +124,125 @@ Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye
 ![Referencia del tamaño del texto](img/text-size-ES.png "Referencia del tamaño mínimo del texto para las imágenes.")
 
 Algunos miembros de la comunidad crean gráficos de calidad o incluso vídeos animados para incluirlos en las noticias. Sin embargo, siempre que sea posible, ponte en contacto con el equipo de noticias con antelación sobre los diseños y los recursos, ya que cualquier cambio necesario puede provocar retrasos inesperados u omisiones en las noticias.
+
+### HTML y contenido incrustado
+
+Se permite un uso limitado de HTML para incrustar contenido externo, como vídeos de YouTube, VODs de Twitch u otros programas diseñados para mostrar contenido de osu! o relacionado con osu!.
+
+El ancho de todos los marcos del contenido incrustado debe ajustarse al 95 %, con la excepción de las relaciones de aspecto altas. Para ser incluido en los artículos en general, el contenido incrustado debe soportar la visualización en estilo de ancho completo sin romperse o verse horrible.
+
+### Vídeo incrustado alojado en `assets.ppy.sh`:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+```
+
+![Ejemplo de vídeo incrustado a través de `assets.ppy.sh`](img/embed-assets.jpg "Ejemplo de vídeo incrustado a través de assets.ppy.sh")
+
+### Vídeo incrustado alojado en YouTube:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+![Ejemplo de vídeo incrustado a través de YouTube](img/embed-youtube.jpg "Ejemplo de vídeo incrustado a través de YouTube")
+
+### Vídeo incrustado alojado en Twitch:
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+```
+
+![Ejemplo de vídeo incrustado a través de Twitch](img/embed-twitch.jpg "Ejemplo de vídeo incrustado a través de Twitch")
+
+### Vista previa de un audio:
+
+```html
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
+</audio>
+```
+
+![Ejemplo de incrustación de vista previa de audio](img/embed-audio.png "Ejemplo de incrustación de vista previa de audio")
+
+### Archivos PDF
+
+Tenga en cuenta que el archivo PDF debe tener menos de ~20 MB para poder insertarlo a través de "https://docs.google.com/gview".
+
+```html
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/yuzu/yuzu-embed.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+![Ejemplo de incrustación de PDF](img/embed-pdf.jpg "Ejemplo de incrustación de PDF")
+
+### Citas estilo chat
+
+Para entrevistas o citas con avatares de usuarios, incluya el siguiente estilo al comienzo de la sección correspondiente en la publicación de noticias:
+
+```html
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+</style>
+```
+
+Aquí, el estilo CSS `news-chat-quote__colour-{group}` corresponde a un color de [grupo de usuarios](/wiki/People/User_groups):
+
+| Grupo | Color |
+| :-: | :-- |
+| `gmt` | `#99EB47` |
+| `nat` | `#fa3703` |
+| `dev` | `#E45678` |
+| `alm` | `#999999` |
+| `spt` | `#EBD047` |
+| `bn` | `#A347EB` |
+| `lvd` | `#FFD1DC` |
+| `ppy` | `#0066FF` |
+| `fa` | `#00FFFF` |
+| `bsc` | `#76AEBC` |
+| `tc` | `#FFB969` |
+| `no-group` | `#FFFFFF` |
+
+Luego, envuelva las secciones de contenido sangrado dentro de un `<div>` y anteponga un avatar y un nombre de usuario antes de cada parte que debería mostrarlos, como se muestra a continuación:
+
+```html
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+
+Contenido de Markdown con sangría
+
+</div>
+```
+
+![Ejemplo de cita en estilo chat](img/embed-interview.png "Ejemplo de cita en estilo chat")
