@@ -24,6 +24,7 @@ Nếu có ai cần hỗ trợ trong các diễn đàn trên, thành viên của 
 | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Tiếng Italy |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Tiếng Hàn, Tiếng Nhật |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Tiếng Đức |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Tiếng Philippines |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Tiếng Ba Lan |
