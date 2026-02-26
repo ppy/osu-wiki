@@ -10,7 +10,7 @@
 
 **谱师标签**是描述谱面或歌曲有用背景信息的标签，例如专辑名称或歌曲制作的目的媒介。顾名思义，这些标签由谱面创建者 (host) 在尝试[推动谱面上架](/wiki/Beatmap_ranking_procedure)时添加。
 
-在[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_setup) 窗口中输入谱面的元数据时，host 可以在 "Tags" 字段中添加自定义关键词（通过空格分隔）。由两个或多个单词组成的关键词可以用下划线（`_`）替换它们之间的空格，以实现更高效的谱面搜索。
+在[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_setup) 窗口中输入谱面的元数据时，谱面主可以在 "Tags" 字段中添加自定义关键词（通过空格分隔）。由两个或多个单词组成的关键词可以用下划线（`_`）替换它们之间的空格，以实现更高效的谱面搜索。
 
 这些关键词随后可以在客户端的[歌曲选择页](/wiki/Client/Interface#选歌界面)以及官网的[谱面列表页](https://osu.ppy.sh/beatmapsets)中设置为过滤器（通过全文搜索实现）。
 
@@ -18,7 +18,7 @@
 
 *注意：此功能在 osu!(stable) 中不可用。*
 
-**用户标签**是描述谱面特定特征（例如其排列，键型或所需的技能）的标签。在 osu!(lazer) 中，玩家在谱面上获得至少 C 级 [评分](/wiki/Gameplay/Grade) 后，可以在结果界面中选择并投票支持用户标签。获得至少 5 票支持后，相应的用户标签将显示在谱面信息页上。
+**用户标签**是描述谱面特定特征（例如其排列，键型或所需的技能）的标签。在 osu!(lazer) 中，玩家在谱面上获得至少 C 级 [评分](/wiki/Gameplay/Grade) 后，可以在结算界面中选择并投票支持用户标签。获得至少 5 票支持后，相应的用户标签将显示在谱面信息页上。
 
 要筛选具有特定用户标签的谱面，可以点击谱面信息页面中的相应标签，或在谱面列表中输入 `tag="{标签名}"`，其中 `{标签名}` 是下表中列出的任何标签的名称。
 
@@ -165,7 +165,7 @@
 | :-- | :-- | :-- |
 | [expression/simple](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fsimple%22%22) | 易于上手、直观明了的谱面设计。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [expression/difficulty spike](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fdifficulty%20spike%22%22) | 谱面流程中出现突然且显著的难度提升。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/high contrast](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fhigh%20contrast%22%22) | 运用抓眼的理念来跟随音乐的变化，在歌曲不同段落间营造鲜明反差。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [expression/high contrast](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fhigh%20contrast%22%22) | 运用夺目的理念来跟随音乐的变化，在歌曲不同段落间营造鲜明反差。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [expression/progression](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fprogression%22%22) | 谱面流程中在难度或概念上呈现渐进式发展。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [expression/repetition](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Frepetition%22%22) | 运用可辨识的相同重复排列或游玩元素。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [expression/iNiS-style](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2FiNiS-style%22%22) | 源自初代 DS 游戏的风格，特点在于强调人声节奏、恒定的滑条速度，以及易于理解的使用网格捕捉的排列。 | ![][osu!] |
