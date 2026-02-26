@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 45666dcba4c8fc2b438c48abcfb33a77d21f6ea4
----
-
 # BBCode
 
 **BBCode** es un [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en internet. Se utiliza para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuario y descripciones de beatmaps.
@@ -195,7 +190,7 @@ La etiqueta `[centre]` se usa para alinear el texto al centro de una caja. Esto 
 
 La etiqueta `[url]` se usa para convertir texto regular en hipervínculos en los que se puede hacer clic.
 
-*Nota: El uso de esta etiqueta no es necesario si no se desea utilizar texto de hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas en enlaces automáticamente.*
+*Nota: El uso de esta etiqueta no es necesario si no se desea utilizar texto de hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas sin la etiqueta `[url]` en enlaces automáticamente.*
 
 Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: la URL específica del sitio web al que navegar y el texto vinculado que se mostrará. El primero debe especificarse como el argumento `ENLACE` (sin comillas `"`), y el último debe especificarse entre las etiquetas de apertura y cierre. Si no se especifica ningún texto, el texto predeterminado será el nombre de la URL.
 
