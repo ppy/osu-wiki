@@ -138,6 +138,6 @@ Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used
 
 ![osu!taiko logo in the Special Modes](img/Taiko_logo.jpg "Taiko logo in Special Mode")
 
-- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of the current skin's taiko elements. The folder used to hold the skin *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*, which could be downloaded from the now-deprecated `osume.exe` (the original update system, before it was integrated into the game) under `Skin` tab.
+- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of the current skin's taiko elements. The folder used to hold the skin *[Taiko by LuigiHann](https://osu.ppy.sh/community/forums/topics/41319)*, which could be downloaded from the now-deprecated `osume.exe` (the original update system, before it was integrated into the game) under `Skin` tab.
 - The first ranked beatmap to contain an osu!taiko difficulty was [Taiko no Tatsujin - Saitama2000](https://osu.ppy.sh/beatmapsets/210) by [Kharl](https://osu.ppy.sh/users/452)
 - The first ranked osu!taiko-specific beatmap was [Mutsuhiko Izumi - Red Goose](https://osu.ppy.sh/beatmapsets/55920) by [lepidopus](https://osu.ppy.sh/users/194807)
