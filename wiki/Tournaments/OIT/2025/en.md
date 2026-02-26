@@ -8,7 +8,7 @@ tags:
 
 ![osu! Indonesia Tournament #15 (2025) ft. Stella banner](img/banner.png)
 
-The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament is open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It is the fifteenth iteration of the osu! Indonesia Tournament.
+The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548). The tournament was open to all osu! players from Indonesia without an active [tournament ban](/wiki/Help_centre/Tournament_bans) regardless of rank. It was the fifteenth iteration of the osu! Indonesia Tournament.
 
 ## Tournament schedule
 
@@ -21,11 +21,12 @@ The **osu! Indonesia Tournament #15 (2025) ft. Stella** (OIT 2025) is a double-e
 | Quarterfinals | 2026-01-12/2026-01-18 |
 | Semifinals | 2026-01-19/2026-01-25 |
 | Finals (week 1) | 2026-01-26/2026-02-01 |
-| Finals (week 2) | 2026-02-02/2026-02-08 |
+| *break* | 2026-02-02/2026-02-08 |
+| Finals (week 2) | 2026-02-09/2026-02-15 |
 
 ## Prizes
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella offers an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool may be further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
+The osu! Indonesia Tournament #15 (2025) ft. Stella offered an initial prize pool of 1,750,000 IDR as generously donated by ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877) and ::{ flag=ID }:: [macabea](https://osu.ppy.sh/users/8688737). This prize pool was further increased from community donations through [Saweria](https://saweria.co/osuIndonesia) and [Streamlabs](https://streamlabs.com/osuindonesia/tip).
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -33,25 +34,25 @@ The osu! Indonesia Tournament #15 (2025) ft. Stella offers an initial prize pool
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the accumulated prize pool, physical trophy, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the accumulated prize pool, physical trophy, customised profile banner |
 
-As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #15 (2025) is not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.gg/rv6BgCtdvk) for transparency.
+As with all the previous osu! Indonesia Tournament iterations and other osu! tournaments in general, the osu! Indonesia Tournament #15 (2025) was not marked for profit. All contributions and expenses made towards the tournament were publicly logged over at the [Discord server](https://discord.gg/rv6BgCtdvk) for transparency.
 
 ## Organisation
 
-The osu! Indonesia Tournament #15 (2025) ft. Stella is run by various osu! community members from Indonesia and beyond.
+The osu! Indonesia Tournament #15 (2025) ft. Stella was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548) |
 | Admin | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [Shiiori](https://osu.ppy.sh/users/13799103) |
 | Mappool selector | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [Mashima Himeko](https://osu.ppy.sh/users/10474988) |
-| Custom mapper | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291),  ::{ flag=ID }:: [SayuMana](https://osu.ppy.sh/users/12602650), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), *more to be announced* |
+| Custom mapper | ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [FAW](https://osu.ppy.sh/users/11070577), ::{ flag=ID }:: [jiwoas](https://osu.ppy.sh/users/10778215), ::{ flag=ID }:: [Nakazawa](https://osu.ppy.sh/users/6220419), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=ID }:: [SayuMana](https://osu.ppy.sh/users/12602650), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=ID }:: [ecclesia](https://osu.ppy.sh/users/3545579), ::{ flag=ID }:: [lushifer](https://osu.ppy.sh/users/13356408), ::{ flag=ID }:: [Pukoo](https://osu.ppy.sh/users/11239237), ::{ flag=ID }:: [Shinjuko](https://osu.ppy.sh/users/10558466), ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) |
 | Custom map quality assurance | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) |
 | Playtester | ::{ flag=ID }:: [laks](https://osu.ppy.sh/users/9519657), ::{ flag=ID }:: [sho](https://osu.ppy.sh/users/6625422), ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | Streamer | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Xentaaa](https://osu.ppy.sh/users/16998672), ::{ flag=ID }:: [\[ZencroX\]](https://osu.ppy.sh/users/12839268), ::{ flag=MY }:: [Sagisawa Arisu](https://osu.ppy.sh/users/9364594) |
 | Commentator | ::{ flag=ID }:: [rethinkrubiks](https://osu.ppy.sh/users/17996877), ::{ flag=ID }:: [Almond Eye](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [Raddie](https://osu.ppy.sh/users/27491379), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Seox](https://osu.ppy.sh/users/3793938), ::{ flag=ID }:: [WoodenPickaxe](https://osu.ppy.sh/users/14463105), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) |
 | Referee | ::{ flag=ID }:: [Artaa27](https://osu.ppy.sh/users/12085864), ::{ flag=ID }:: [NoVaLian](https://osu.ppy.sh/users/6459827), ::{ flag=ID }:: [-TwiHD](https://osu.ppy.sh/users/5470299), ::{ flag=ID }:: [lortAro](https://osu.ppy.sh/users/28854272), ::{ flag=ID }:: [-\[ Shinraa \]-](https://osu.ppy.sh/users/26942053), ::{ flag=SG }:: [Fuwub](https://osu.ppy.sh/users/14238097) |
-| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) |
-| Character designer | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa) |
+| Graphic designer | ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ::{ flag=ID }:: [Zavier](https://osu.ppy.sh/users/11379592), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
+| Character illustrator | ::{ flag=ID }:: Reza F. [(↗)](https://web.facebook.com/rrezalfa), ::{ flag=ID }:: Ichigo Warano [(↗)](https://web.facebook.com/felicia.kennytirta/) |
 | Spreadsheet manager | ::{ flag=ID }:: [Verxina](https://osu.ppy.sh/users/11421465) |
 | Wiki editor | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 
@@ -88,7 +89,47 @@ The complete list of player registrations can be found [here](https://docs.googl
 | 15 | ::{ flag=ID }:: [Oguri Cap](https://osu.ppy.sh/users/11025519) | 8.19 |
 | 16 | ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 8.16 |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
+
 ## Mappools
+
+### Finals (week 2)
+
+**[Download the mappack here! (165 MB)](https://mappack.sah.moe/download/ncej6s7P)**
+
+- No Mod
+  1. [Tsukuyomi - Hana ni Ame o, Kimi ni Uta o (jiwoas) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/2501601#osu/5503905)
+  2. [USAO - Interstellar Travel (Aeril) \[40,208,000,000,000 km\]](https://osu.ppy.sh/beatmapsets/2238749#osu/4757408)
+  3. [PinocchioP - Reincarnation Apple feat. Hatsune Miku (ajmosca) \[Horsace's Favorite Apple\]](https://osu.ppy.sh/beatmapsets/1976954#osu/4103881)
+  4. [Ludicin - Signal (Ishtiaq) \[Azrulk x Ishtiaq\]](https://osu.ppy.sh/beatmapsets/2410737#osu/5234641)
+  5. [First Fragment - Le Serment De Tsion (LMT) \[Kneel\]](https://osu.ppy.sh/beatmapsets/2287985#osu/4881760)
+  6. [Reol - +Danshi (44444444444444) \[komachi's tribute\]](https://osu.ppy.sh/beatmapsets/2305858#osu/5225753)
+- Hidden
+  1. [bbno\$ & Rich Brian - edamame (Nijika Ijichi) \[low-hanging fruit\]](https://osu.ppy.sh/beatmapsets/1589180#osu/4009923)
+  2. [Grand Thaw - Aventyr (FAW) \[Republic of France Super Extreme Blunt Rotation Collab\]](https://osu.ppy.sh/beatmapsets/2505069#osu/5515258)
+  3. [Sheena Ringo - TOKYO (olc) \[Tension and Release\]](https://osu.ppy.sh/beatmapsets/1813876#osu/3721150)
+  4. [satella - Sentheris (Kuro Fuyusaki) \[Core\]](https://osu.ppy.sh/beatmapsets/2488669#osu/5465324)
+- Hard Rock
+  1. [Yousei Teikoku - Baptize (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1739984#osu/3557042)
+  2. [Qrispy Joybox - licca (AJT) \[Jycool's Extra\]](https://osu.ppy.sh/beatmapsets/2340295#osu/5028587)
+  3. [Mili - String Theocracy (Aeril) \[Lascia ch'io pianga\]](https://osu.ppy.sh/beatmapsets/2234457#osu/4746039)
+  4. [FELT - Summer Fever (Camo) \[Shimmering Sky\]](https://osu.ppy.sh/beatmapsets/1888937#osu/4133726)
+- Double Time
+  1. [KyoKa - Aitoki\*Cherishing (fnayR) \[SayuMana x fnayR's Collab Extra\]](https://osu.ppy.sh/beatmapsets/2505066#osu/5515249)
+  2. [-45 - Sankarea (Radiownd) \[Valtiel\]](https://osu.ppy.sh/beatmapsets/2392143#osu/5178950)
+  3. [Fei Zao Jun - Ying Zhi Gui Ji (Muziyami) \[Expert\]](https://osu.ppy.sh/beatmapsets/1840959#osu/3781184)
+  4. [BUGCORE - Creepy Crawlers (feat. Golemm) (Gordon) \[chonk: DT deBUG\]](https://osu.ppy.sh/beatmapsets/2234336#osu/4745651)
+  5. [Eiko Shimamiya - Higurashi no Naku Koro ni (Osu Mapman) \[Caspar's Insane\]](https://osu.ppy.sh/beatmapsets/2173462#osu/4718206)
+- Tiebreaker
+  1. **[LUMiNOZ - Scorched Garden (Shinjuko) \[The Journey of Me Adventuring with Stella my kisah\]](https://osu.ppy.sh/beatmapsets/2505108#osu/5515392)**
 
 ### Finals (week 1)
 
@@ -103,7 +144,7 @@ The complete list of player registrations can be found [here](https://docs.googl
   6. [jojofans community tulungagung - Rubmle (ft. Rapzone) (Shinjuko) \[dawg ini bukan nm6 :wilted\_flower:\]](https://osu.ppy.sh/beatmapsets/2498137#osu/5493201)
 - Hidden
   1. [LOLUET x yoei. - roots (seros) \[raijodo's extra\]](https://osu.ppy.sh/beatmapsets/2139515#osu/4707333)
-  2. [saaa + kei_iwata + stuv + *wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
+  2. [saaa + kei\_iwata + stuv + \*wakadori - New York Back Raise (Ryuusei Aika) \[Blacky's Extra\]](https://osu.ppy.sh/beatmapsets/2186413#osu/4622520)
   3. [Children Of Bodom - If You Want Peace... Prepare for War (The Cube) \[Extremity\]](https://osu.ppy.sh/beatmapsets/1511463#osu/3094900)
   4. [A? - ENERGY INFLATION (nik) \[LCFC's XXTREME\]](https://osu.ppy.sh/beatmapsets/2211300#osu/4684338)
 - Hard Rock
@@ -224,6 +265,41 @@ The complete list of player registrations can be found [here](https://docs.googl
   3. [Megurine Luka - Leia (Mafiamaster) \[gowww\]](https://osu.ppy.sh/beatmapsets/29064#osu/96587)
 
 ## Match results
+
+### Finals (week 2)
+
+Saturday, 14 February 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Hakui Koyori](https://osu.ppy.sh/users/10717635) ::{ flag=ID }:: | 4 | **7** | ::{ flag=ID }:: **[MineFrostID](https://osu.ppy.sh/users/12159899)** | [#1](https://osu.ppy.sh/community/matches/120523414) |
+
+Sunday, 15 February 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | [#1](https://osu.ppy.sh/community/matches/120532089) |
+
+### Finals (week 1)
+
+Saturday, 31 January 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) | [#1](https://osu.ppy.sh/community/matches/120425197) |
+| Lower | **[GNX](https://osu.ppy.sh/users/10069909)** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | [#1](https://osu.ppy.sh/community/matches/120426479) |
+
+Sunday, 1 February 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[lifeline](https://osu.ppy.sh/users/11367222)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/120433776) |
+
+Monday, 2 February 2026:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[MineFrostID](https://osu.ppy.sh/users/12159899)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [GNX](https://osu.ppy.sh/users/10069909) | [#1](https://osu.ppy.sh/community/matches/120441478) |
 
 ### Semifinals
 
