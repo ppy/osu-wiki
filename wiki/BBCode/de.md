@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 45666dcba4c8fc2b438c48abcfb33a77d21f6ea4
+---
+
 # BBCode
 
 **BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forumsbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
@@ -6,7 +11,7 @@
 
 ## Verhalten
 
-Wenn vor dem Drücken des Markup-Buttons kein Text markiert wurde, wird um den Cursor ein öffnendes sowie schließendes Tag im Beitragseditor hinzugefügt. Sofern Text vorher markiert wurde, werden die Tags um den markierten Text gesetzt.
+Wenn vor dem Drücken des Markup-Buttons kein Text markiert wurde, wird um den Textcursor ein öffnendes sowie schließendes Tag im Beitragseditor hinzugefügt. Sofern Text vorher markiert wurde, werden die Tags um den markierten Text gesetzt.
 
 Benutzer, die die Formatierung in einem einzigen Textabschnitt setzen möchten, können BBCode-Tags um die Sektion setzen. Allerdings muss die Reihenfolge und die Verschachtelung der Tags **beachtet werden**. Ansonsten wird der Text nicht formatiert.
 
@@ -139,7 +144,7 @@ Das Tag `[quote]` wird benutzt, um lange Zitate stilistisch durch Einrückung, F
 
 *Hinweis: Das Argument `NAME` muss zwischen Anführungszeichen (`"`) gesetzt werden.*
 
-Lange Zitate werden typischerweise in formalen Schreiben bei Texten verwendet, die länger als zwei Zeilen sind. Innerhalb der osu!-Foren werden sie allerdings meistens genutzt, um auf den Kommentar eines anderen Nutzers zu antworten. Das kann über den Button `Beitrag in der Antwort zitieren` in der rechten oberen Ecke des entsprechenden Kommentars gemacht werden (unten gezeigt). Dieser Button wird **nur erscheinen, wenn der Cursor in der Nähe ist**.
+Lange Zitate werden typischerweise in formalen Schreiben bei Texten verwendet, die länger als zwei Zeilen sind. Innerhalb der osu!-Foren werden sie allerdings meistens genutzt, um auf den Kommentar eines anderen Nutzers zu antworten. Das kann über den Button `Beitrag in der Antwort zitieren` in der rechten oberen Ecke des entsprechenden Kommentars gemacht werden (unten gezeigt). Dieser Button wird **nur erscheinen, wenn der Mauszeiger in der Nähe ist**.
 
 ![Zitat-Button](img/quotereply.png)
 
@@ -197,11 +202,11 @@ Schaltfläche in der Symbolleiste: ![Button für die URL](img/url.png "URL")
 [profile=userid]Benutzername[/profile]
 ```
 
-Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angezeigt wird, sobald der Cursor über den Link fährt.
+Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angezeigt wird, sobald der Mauszeiger über den Link fährt.
 
 *Anmerkung: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
 
-Wenn nur die Benutzer-ID verwendet wird, dann ist ein Platzhaltertext zwischen dem öffnenden sowie schließenden Tags erforderlich. Dadurch wird der Benutzername anstatt des Platzhaltertexts auf der eigentlichen Seite angezeigt. Sofern nur der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, funktioniert der Link nicht mehr.
+Wenn nur die Benutzer-ID verwendet wird, dann ist ein Platzhaltertext zwischen dem öffnenden sowie schließenden Tag erforderlich. Dadurch wird der Benutzername anstatt des Platzhaltertexts auf der eigentlichen Seite angezeigt. Sofern nur der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, funktioniert der Link nicht mehr.
 
 ### Formatierte Listen
 
@@ -282,7 +287,7 @@ Eine YouTube-Video-ID ist in der URL eines Videos enthalten und ist die Zeichenk
 [audio]URL[/audio]
 ```
 
-Das Tag `[audio]` wird benutzt, um einen [HTML5](https://en.wikipedia.org/wiki/HTML5) Audioplayer einer Audioquelle auf der Webseite einzubinden. Audiodateien können von überall verlinkt werden, solange die Datei von einer angegebenen URL existiert. Lokale Dateipfade (z. B. `C:\Users\Name\Music\audio.mp3`) **werden nicht funktionieren**.
+Das Tag `[audio]` wird benutzt, um einen [HTML5](https://de.wikipedia.org/wiki/HTML5)-Audioplayer einer Audioquelle auf der Webseite einzubinden. Audiodateien können von überall verlinkt werden, solange die Datei von einer angegebenen URL existiert. Lokale Dateipfade (z. B. `C:\Users\Name\Music\audio.mp3`) **werden nicht funktionieren**.
 
 *Vorsicht: Bitte sei dir bewusst, dass nicht alle Filesharing-Dienste das direkte Verlinken von Audiodateien auf Grund von Bedenken wegen Musikpiraterie erlauben. osu! ist nicht verantwortlich für jegliche Urheberrechtsverstöße durch Nutzer.*
 

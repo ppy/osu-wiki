@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 8586447ab43b5df3d23b97e7f7ea78bc97658ce0
+outdated_since: 1bbe65b950ea3f9978bdbd5bcb423978c1f8e738
 ---
 
 # Torneos
@@ -53,6 +53,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!taiko World Cup 2023](TWC/2023) | 18/3/2023 | 30/4/2023 | ::{ flag=JP }:: Japón | ::{ flag=TW }:: Taiwán | ::{ flag=DE }:: Alemania |
 | [osu!taiko World Cup 2024](TWC/2024) | 16/3/2024 | 28/4/2024 | ::{ flag=JP }:: Japón | ::{ flag=GB }:: Reino Unido | ::{ flag=US }:: Estados Unidos |
 | [osu!taiko World Cup 2025](TWC/2025) | 15/3/2025 | 27/4/2025 | ::{ flag=JP }:: Japón | ::{ flag=KR }:: Corea del Sur | ::{ flag=TW }:: Taiwán |
+| [osu!taiko World Cup 2026](TWC/2026) | 13/3/2026 | 26/4/2026 | *Por determinar* | *Por determinar* | *Por determinar* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -97,7 +98,8 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 7K World Cup 2024](MWC/2024_7K) | 15/12/2023 | 25/2/2024 | ::{ flag=KR }:: Corea del Sur | ::{ flag=MY }:: Malasia | ::{ flag=PH }:: Filipinas |
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/7/2024 | 29/9/2024 | ::{ flag=US }:: Estados Unidos | ::{ flag=CN }:: China | ::{ flag=TH }:: Tailandia |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/2/2025 | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China | ::{ flag=PH }:: Filipinas |
-| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/7/2025 | 28/9/2025 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China |
+| [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/7/2025 | 29/9/2025 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China |
+| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11/12/2025 | 22/2/2026 | *Por determinar* | *Por determinar* | *Por determinar* |
 
 ## Comunidad
 
@@ -823,6 +825,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Asia Suiji Cup: Rhythmus Aquarum](ASC/1) | 13/07/2024 | 25/08/2024 | Yuma fanboys | Pixel 7 | Noodle Soup |
+| [Asia Suiji Cup: Autumn Rhythm](ASC/2) | 8/11/2025 | 14/12/2025 | BALLS | nagisa fanboys | U=ma2=LAB=01 |
 
 #### Cemara Mania Cup
 
@@ -855,6 +858,16 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 9/4/2022 | 15/5/2022 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
 | [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 15/10/2022 | 18/12/2022 | 猫猫面馆 | 黎曼猜想 | 均衡教派 |
+| [GB Cup 2023 Spring](GBC/GBC_2023_Spring) | 25/3/2023 | 11/6/2023 | ::{ flag=CN }:: [\[GB\]nyasun](https://osu.ppy.sh/users/16277321) | ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096) | ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073) |
+| [GB Cup 2023 Autumn (QQ div.)](GBC/GBC_2023_Autumn) | 14/10/2023 | 17/12/2023 | Q12: Team 12 | Q3: 兰州拉面专业培训班 | Q16: DWG.BurgerkingReisen |
+| [GB Cup 2023 Autumn (Discord div.)](GBC/GBC_2023_Autumn) | 14/10/2023 | 17/12/2023 | D9: 麦当劳护肤 | D2: viets sing | D12: Sunaookami Shiroko |
+| [GB Cup 2024 Spring (QQ div.)](GBC/GBC_2024_Spring) | 23/3/2024 | 9/6/2024 | ::{ flag=CN }:: [nyasunfanboy](https://osu.ppy.sh/users/14066511) | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [\[Crz\]ChenXi](https://osu.ppy.sh/users/23890527) |
+| [GB Cup 2024 Spring (Discord div.)](GBC/GBC_2024_Spring) | 23/3/2024 | 9/6/2024 | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) | ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) |
+| [GB Cup 2024 IRL](GBC/GBC_2024_IRL) | 13/7/2023 | 28/7/2023 | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=CN }:: [\[GB\]GanyuAngel](https://osu.ppy.sh/users/27233308) | ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424) |
+| [GB Cup 2024 Autumn (QQ div.)](GBC/GBC_2024_Autumn) | 26/10/2024 | 5/1/2025 | Q17: 雾雨魔法小萝莉 | Q5: 我已进入天空之城 | Q3: 漏勺挖洞, Q24: Make PLANA Great Againn |
+| [GB Cup 2024 Autumn (Discord div.)](GBC/GBC_2024_Autumn) | 26/10/2024 | 5/1/2025 | D16: okay² | D12: Photon Worshippers | D13: bol |
+| [GB Cup 2025 Spring (QQ div.)](GBC/GBC_2025_Spring) | 22/3/2025 | 8/6/2025 | ::{ flag=CN }:: [\[GB\]ParasolTree](https://osu.ppy.sh/users/27552902) | ::{ flag=CN }:: [FoaMelt1](https://osu.ppy.sh/users/36570108) | ::{ flag=CN }:: [WOEM2436](https://osu.ppy.sh/users/36120676) |
+| [GB Cup 2025 Spring (Discord div.)](GBC/GBC_2025_Spring) | 22/3/2025 | 14/6/2025 | ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733) | ::{ flag=CN }:: [DawnX](https://osu.ppy.sh/users/8534840) | ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730) |
 
 #### Jaye's One Key Event
 

@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -76,7 +74,7 @@ Kenali berbagai prosedur dan ketentuan yang menjaga osu! dan komunitasnya tetap 
 
 [Peraturan](/wiki/Rules) • [Kode etik kontributor](/wiki/Rules/Contributor_code_of_conduct) • [Kode etik modding dan mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_usage_guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
+Peraturan media: [Izin penggunaan konten](/wiki/Rules/Content_usage_permissions) • [Proses pengkajian konten](/wiki/Rules/Content_voting_process) • [Konten eksplisit](/wiki/Rules/Explicit_content) • [Aturan konten musik](/wiki/Rules/Song_content_rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_content_considerations)
 
 [Artikel hukum](/wiki/Legal): [Ketentuan layanan](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
 
@@ -89,7 +87,7 @@ Temukan jawaban atas berbagai pertanyaan umum beserta solusinya di bawah ini.
 
 [Pusat bantuan](/wiki/Help_centre) • [Penyelesaian masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Forum Help](https://osu.ppy.sh/forum/5)
 
-Pembatasan profil: [Silence](/wiki/Help_centre/Silences) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions) • [Larangan turnamen](/wiki/Help_centre/Tournament_bans)
+Pembatasan profil: [Silence](/wiki/Help_centre/Silences) • [Pembatasan akun](/wiki/Help_centre/Account_restrictions) • [Sanksi turnamen](/wiki/Help_centre/Tournament_sanctions)
 
 Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_help!) • [Melaporkan perilaku yang tidak pantas](/wiki/Reporting_bad_behaviour) • [Melaporkan tindak pelecehan](/wiki/Reporting_bad_behaviour/Abuse) • [Melaporkan kecurangan](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
