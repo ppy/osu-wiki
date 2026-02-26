@@ -236,7 +236,7 @@ o
 [/list]
 ```
 
-La etiqueta `[list]` se usa para formatear automáticamente dos tipos diferentes de listas en todos los foros de el osu!. Cada elemento de la lista está marcado con “[*]”. De forma predeterminada, esto creará una lista simple con viñetas.
+La etiqueta `[list]` se usa para formatear automáticamente dos tipos diferentes de listas en todos los foros de el osu!. Cada elemento de la lista está marcado con `[*]`. De forma predeterminada, esto creará una lista simple con viñetas.
 
 Si se especifica el argumento `TIPO` (el valor real no importa), creará una lista numerada.
 
