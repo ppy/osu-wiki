@@ -1,6 +1,6 @@
 # BBCode
 
-**BBCode** es un [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en internet. Se utiliza para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuario y descripciones de beatmaps.
+**BBCode** es un [lenguaje de marcado](https://es.wikipedia.org/wiki/Lenguaje_de_marcado) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en internet. Se usa para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuario y descripciones de beatmaps.
 
 ![El editor de publicaciones del foro con sus botones](img/editor-ES.png "El cuadro de edición en los foros")
 
@@ -8,12 +8,12 @@
 
 Al hacer clic en un botón de marcado sin resaltar ningún texto, se creará un conjunto de etiquetas abiertas y cerradas alrededor del cursor de texto en el editor de publicaciones. Resaltar el texto antes de hacer clic en un botón de marcado rodeará dicho texto con las etiquetas.
 
-Los usuarios que deseen combinar el formato en una sola sección de texto, pueden hacerlo colocando etiquetas BBCode una dentro de otra. Sin embargo, el orden y el anidamiento de estas etiquetas **debe respetarse** al combinar. Si no lo hace, se romperá el formato.
+Los usuarios que deseen combinar el formato en una sola sección de texto, pueden hacerlo colocando etiquetas de BBCode una dentro de otra. Sin embargo, el orden y el anidamiento de estas etiquetas **debe respetarse** al combinar. Si no se hace, se romperá el formato.
 
 A continuación se describe un conjunto de usos correctos e incorrectos de las etiquetas anidadas:
 
-- `[centre][b]text[/b][/centre]` es correcto
-- `[b][centre]text[/b][/centre]` es incorrecto
+- `[centre][b]texto[/b][/centre]` es correcto
+- `[b][centre]texto[/b][/centre]` es incorrecto
 
 ## Etiquetas
 
@@ -21,7 +21,7 @@ BBCode, como muchos otros lenguajes de marcado, formatea el texto mediante un si
 
 También es importante tener en cuenta que las etiquetas abiertas ocasionalmente incluyen signos de igual (`=`) dentro para indicar direcciones URL, tamaños de fuente y otros elementos similares.
 
-Las etiquetas BBCode, que son compatibles con el sitio web de osu!, se enumeran y describen en detalle a continuación.
+Las etiquetas de BBCode, que son compatibles con el sitio web de osu!, se enumeran y describen en detalle a continuación.
 
 ### Negrita
 
@@ -71,7 +71,7 @@ Botón de la barra de herramientas: ![Botón de tachar](img/strike.png "Tachado"
 
 La etiqueta `[color]` se usa para estilizar el texto a través de varios tipos de colores seguros para la web. La etiqueta usa el formato del [código HEX](https://es.wikipedia.org/wiki/Colores_web#RGB) para especificar el color, aunque también se puede especificar a través de nombres de color HTML como «red» o «green». Para especificar, reemplace el argumento `#CÓDIGOHEX` con el código HEX o nombre HTML correspondiente de un color.
 
-El argumento mencionado anteriormente no lleva comillas (`"`) y no tiene un color predeterminado. Si no se especifica ningún argumento, o si se utilizan comillas, la etiqueta no se analizará como una etiqueta de BBCode.
+El argumento mencionado anteriormente no lleva comillas (`"`) y no tiene un color predeterminado. Si no se especifica ningún argumento, o si se usan comillas, la etiqueta no se analizará como una etiqueta de BBCode.
 
 ### Tamaño de fuente
 
@@ -79,14 +79,14 @@ El argumento mencionado anteriormente no lleva comillas (`"`) y no tiene un colo
 [size=NÚMERO]texto[/size]
 ```
 
-La etiqueta `[size]` se utiliza para ajustar la apariencia del texto modificando el tamaño de la fuente.
+La etiqueta `[size]` se usa para ajustar la apariencia del texto modificando el tamaño de la fuente.
 
-El argumento `NUMBER` especifica un porcentaje relativo al tamaño de fuente predeterminado (100%). Por ejemplo, `50` reduce el texto a la mitad del tamaño predeterminado, mientras que `150` lo aumenta a una vez y media. El argumento no requiere comillas y acepta dos tipos de valores:
+El argumento `NÚMERO` especifica un porcentaje relativo al tamaño de fuente predeterminado (100 %). Por ejemplo, `50` reduce el texto a la mitad del tamaño predeterminado, mientras que `150` lo aumenta al doble y medio del tamaño predeterminado. El argumento no requiere comillas y acepta dos tipos de valores:
 
 - Números enteros (no se permiten decimales) del 30 al 200
-- Palabras clave de tamaño predefinidas: "tiny", "small", "normal" y "large", que corresponden a 50, 85, 100 y 150 respectivamente.
+- Palabras clave de tamaño predefinidas: «tiny», «small», «normal» y «large», que corresponden a 50, 85, 100 y 150 respectivamente.
 
-Si se proporciona un valor no válido, la etiqueta no se representará correctamente.
+Si se proporciona un valor no válido, la etiqueta no funcionará correctamente.
 
 Hay un botón en la barra de herramientas para acceder rápidamente a estos cuatro tamaños comunes.
 
@@ -116,7 +116,7 @@ texto
 
 La etiqueta `[box]` se usa para ocultar texto e imágenes dentro de un hipervínculo en el que se puede hacer clic. Al hacer clic, el contenido del interior se revelará de manera similar a un menú desplegable.
 
-El texto del hipervínculo personalizado se indica mediante el argumento `NAME`. Especificar este argumento creará un texto de encabezado dentro de la caja usando ese argumento y ajustará el tamaño de la caja en consecuencia. Si `NAME` se deja sin especificar, la etiqueta `[box]` creará una caja sin texto de encabezado dentro. El argumento no usa comillas (`"`), y generará espacios en blanco.
+El texto del hipervínculo personalizado se indica mediante el argumento `NOMBRE`. Especificar este argumento creará un texto de encabezado dentro de la caja usando ese argumento y ajustará el tamaño de la caja en consecuencia. Si `NOMBRE` se deja sin especificar, la etiqueta `[box]` creará una caja sin texto de encabezado dentro. El argumento no usa comillas (`"`), y generará espacios en blanco.
 
 La etiqueta se usa más comúnmente para ocultar grandes paredes de texto e imágenes que pueden aumentar el tamaño de una publicación en el foro. Más notablemente en las publicaciones de preguntas frecuentes o de [skins](/wiki/Skinning).
 
@@ -130,7 +130,7 @@ Botón de la barra de herramientas: ![Botón de caja](img/spoilerbox.png "Caja")
 [spoilerbox]texto[/spoilerbox]
 ```
 
-Una *caja de spoiler* es un tipo especial de caja BBCode que no tiene un argumento `NOMBRE` especificable. El nombre de una caja de spoiler siempre se muestra como `SPOILER`. Las cajas de spoiler tienen su propia etiqueta (`[spoilerbox]`) pero son funcionalmente idénticas a las [cajas](#caja).
+Una *caja de spoiler* es un tipo especial de caja de BBCode que no tiene un argumento `NOMBRE` especificable. El nombre de una caja de spoiler siempre se muestra como `SPOILER`. Las cajas de spoiler tienen su propia etiqueta (`[spoilerbox]`) pero son funcionalmente idénticas a las [cajas](#caja).
 
 ### Cita
 
@@ -172,7 +172,7 @@ texto
 
 La etiqueta `[code]` se usa para crear *bloques de código preformateados* (también conocido como *texto preformateado*). En el sitio web de osu!, la etiqueta `[code]` formateará el texto en una fuente monoespaciada dentro de un cuadro gris semitransparente. Dar formato al texto dentro de un bloque de código le indicará al editor que trate el texto entre esas etiquetas literalmente, evitando así la conversión de cualquier etiqueta o código fuente en otra cosa.
 
-Dentro de los foros de osu!, los bloques de código se utilizan con mayor frecuencia para publicar el código fuente de un [storyboard](/wiki/Storyboard), o en tutoriales que requieren mostrar la sintaxis de las etiquetas, los comandos o el código fuente.
+Dentro de los foros de osu!, los bloques de código se usan con mayor frecuencia para publicar el código fuente de un [storyboard](/wiki/Storyboard), o en tutoriales que requieren mostrar la sintaxis de las etiquetas, los comandos o el código fuente.
 
 ### Centrar
 
@@ -190,13 +190,13 @@ La etiqueta `[centre]` se usa para alinear el texto al centro de una caja. Esto 
 
 La etiqueta `[url]` se usa para convertir texto regular en hipervínculos en los que se puede hacer clic.
 
-*Nota: El uso de esta etiqueta no es necesario si no se desea utilizar texto de hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas sin la etiqueta `[url]` en enlaces automáticamente.*
+*Nota: El uso de esta etiqueta no es necesario si no se desea usar texto con un hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas sin la etiqueta `[url]` en enlaces automáticamente.*
 
-Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: la URL específica del sitio web al que navegar y el texto vinculado que se mostrará. El primero debe especificarse como el argumento `ENLACE` (sin comillas `"`), y el último debe especificarse entre las etiquetas de apertura y cierre. Si no se especifica ningún texto, el texto predeterminado será el nombre de la URL.
+Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: la URL específica del sitio web al que se dirigirá el enlace y el texto vinculado que se mostrará. El primero debe especificarse como el argumento `ENLACE` (sin comillas `"`), y el último debe especificarse entre las etiquetas de apertura y cierre. Si no se especifica ningún texto, la etiqueta no funcionará correctamente.
 
-También se admite `[url]ENLACE[/url]`, pero es mayormente redundante ya que los enlaces simples se analizan automáticamente.
+También son compatibles los enlaces con `[url]ENLACE[/url]`, pero en la mayoría de los casos son redundantes, ya que las URL simples se analizan automáticamente.
 
-*Aviso: Todas las URL, ya sea que se usen con la etiqueta `[url]` o en texto plano, deben ser válidas e incluir un protocolo (`http://`, `https://`, `ftp://`) o el prefijo `www.`. De lo contrario, el enlace no funcionará.*
+*Aviso: Todas las URL, ya sea que se usen con la etiqueta `[url]` o como texto sin formato, deben ser válidas e incluir un protocolo (`http://`, `https://`, `ftp://`) o el prefijo `www.`. De lo contrario, el enlace no funcionará.*
 
 Botón de la barra de herramientas: ![Botón de enlace](img/url.png "Enlace")
 
@@ -206,13 +206,13 @@ Botón de la barra de herramientas: ![Botón de enlace](img/url.png "Enlace")
 [profile=iddeusuario]nombre de usuario[/profile]
 ```
 
-La etiqueta `[profile]` se usa para enlazar la página de perfil de osu! de un usuario usando su nombre de usuario o ID de usuario. A diferencia de los enlaces URL estándar, al pasar el cursor sobre esta etiqueta se muestra una tarjeta de usuario interactiva.
+La etiqueta `[profile]` se usa para enlazar la página de perfil de osu! de un usuario usando su nombre de usuario o ID de usuario. A diferencia de los enlaces estándar de las URL, al pasar el cursor por encima de esta etiqueta se mostrará una tarjeta de usuario interactiva.
 
-Para crear un enlace de perfil, los usuarios deben especificar dos argumentos: el ID numérico del usuario y su nombre de usuario. El primero se especifica como el argumento `userid` (sin comillas), mientras que el segundo se coloca entre las etiquetas de apertura y cierre.
+Para crear un enlace de perfil, los usuarios deben especificar dos argumentos: el ID numérico del usuario y su nombre de usuario. El primero se especifica como el argumento `iddeusuario` (sin comillas), mientras que el segundo se coloca entre las etiquetas de apertura y cierre.
 
-Para obtener mejores resultados, incluya tanto el ID de usuario correcto como su nombre de usuario correspondiente. Esto garantiza que el enlace funcione correctamente y se mantenga funcional incluso si el nombre de usuario cambia posteriormente. Si se especifica a los usuarios solo por su nombre de usuario, el enlace dejará de funcionar una vez que lo cambien.
+Para obtener mejores resultados, incluye tanto el ID del usuario correcto como su nombre de usuario correspondiente. Esto garantiza que el enlace funcione correctamente y se mantenga funcional incluso si el nombre de usuario cambia posteriormente. Si se especifica a los usuarios solo por su nombre de usuario, el enlace dejará de funcionar una vez que lo cambien.
 
-Cuando la etiqueta se utiliza en foros, firmas o descripciones de beatmaps, el sitio web osu! puede corregir y actualizar automáticamente la etiqueta `[profile]` si el `username` no es válido o el `userid` no es válido o no está presente. Esto permite insertar rápidamente enlaces de perfil si se conoce *el ID de usuario* o *el nombre de usuario, sin necesidad de consultar ambos datos.
+Cuando la etiqueta se usa en foros, firmas o descripciones de beatmaps, el sitio web osu! puede corregir y actualizar automáticamente la etiqueta `[profile]` si el `username` no es válido o el `iddeusuario` no es válido o no está presente. Esto permite insertar rápidamente enlaces de perfil si se conoce *el ID de usuario* o *el nombre de usuario*, sin necesidad de consultar ambos datos.
 
 *Nota: El ID de usuario es una cadena de números que siguen directamente a `/users/` en la URL de una página de perfil de osu!.*
 
@@ -240,9 +240,9 @@ La etiqueta `[list]` se usa para formatear automáticamente dos tipos diferentes
 
 Si se especifica el argumento `TIPO` (el valor real no importa), creará una lista numerada.
 
-El argumento opcional `LIST_NAME` añade un encabezado con sangría sobre la lista. Si se omite, no se muestra ningún encabezado.
+El argumento opcional `NOMBRE_DE_LA_LISTA` añade un encabezado con sangría sobre la lista. Si se omite, no se mostrará ningún encabezado.
 
-*Aviso: Las listas BBCode se pueden anidar o apilar, aunque esto a veces puede causar problemas de formato.*
+*Aviso: Las listas de BBCode se pueden anidar o apilar, aunque esto a veces puede causar problemas de formato.*
 
 Botón de la barra de herramientas: ![Botón de lista](img/list.png "Lista") ![Botón de lista numerada](img/list-numbered.png "Lista numerada")
 
@@ -254,9 +254,9 @@ Botón de la barra de herramientas: ![Botón de lista](img/list.png "Lista") ![B
 
 La etiqueta `[email]` crea enlaces de correo electrónico clicables con texto personalizado. Al hacer clic, se abre el cliente de correo predeterminado del usuario con la dirección del destinatario predefinida.
 
-Para crear enlaces de correo electrónico con la etiqueta `[email]`, los usuarios deben especificar dos argumentos: la dirección de correo electrónico que se debe completar y el texto del enlace que se mostrará. El primero debe especificarse como el argumento `ADDRESS` (sin comillas), mientras que el segundo debe especificarse entre las etiquetas de apertura y cierre. Si no se proporciona texto para mostrar, el hipervínculo no se mostrará correctamente.
+Para crear enlaces de correo electrónico con la etiqueta `[email]`, los usuarios deben especificar dos argumentos: la dirección de correo electrónico que se debe completar y el texto del enlace que se mostrará. El primero debe especificarse como el argumento `DIRECCIÓN` (sin comillas), mientras que el segundo debe especificarse entre las etiquetas de apertura y cierre. Si no se proporciona texto para mostrar, el hipervínculo no se mostrará correctamente.
 
-También se admite `[email]DIRECCIÓN[/email]`, pero es mayormente redundante ya que los correos electrónicos simples se analizan automáticamente.
+También es compatible con `[email]DIRECCIÓN[/email]`, pero en la mayoría de los casos es redundante, ya que los correos electrónicos sin formato se analizan automáticamente.
 
 ### Imágenes
 
@@ -285,7 +285,7 @@ X Y ANCHO ALTURA REDIRECCIÓN TÍTULO
 [/imagemap]
 ```
 
-La etiqueta `[imagemap]` se utiliza para integrar uno o más hipervínculos en una imagen en áreas rectangulares.
+La etiqueta `[imagemap]` se usa para integrar uno o más hipervínculos en una imagen en áreas rectangulares.
 
 La imagen, que está incrustada en el sitio web, está representada por el argumento `URL_DE_LA_IMAGEN`. Debe referirse directamente a una imagen alojada en un sitio web.
 
@@ -333,11 +333,11 @@ texto
 [/notice]
 ```
 
-La etiqueta `[notice]` se usa para colocar párrafos en un cuadro grande y delineado con un cuerpo de color oscuro. El botón se utiliza principalmente para indicar anuncios o advertencias sobre un determinado tema en el sitio web.
+La etiqueta `[notice]` se usa para colocar párrafos en un cuadro grande y delineado con un cuerpo de color oscuro. El botón se usa principalmente para indicar anuncios o advertencias sobre un determinado tema en el sitio web.
 
 ## Antiguas
 
-Las siguientes son etiquetas BBCode que alguna vez se usaron en varios lugares del sitio web de osu!, pero ahora no están disponibles para su uso. Sus usos y sintaxis se describen a continuación con fines históricos.
+Las siguientes son etiquetas de BBCode que alguna vez se usaron en varios lugares del sitio web de osu!, pero ahora no están disponibles para su uso. Sus usos y sintaxis se describen a continuación con fines históricos.
 
 ### Google
 
@@ -345,7 +345,7 @@ Las siguientes son etiquetas BBCode que alguna vez se usaron en varios lugares d
 [google]consulta de búsqueda[/google]
 ```
 
-La etiqueta `[google]` es una etiqueta obsoleta que alguna vez se usó en los foros de osu! para vincular a una consulta de búsqueda de Google utilizando el texto proporcionado entre dos etiquetas.
+La etiqueta `[google]` es una etiqueta obsoleta que alguna vez se usó en los foros de osu! para vincular a una consulta de búsqueda de Google usando el texto proporcionado entre las dos etiquetas.
 
 La etiqueta redirigiría a los usuarios a una búsqueda de Google a través de su cuenta, lo que significa que no se darían exactamente los mismos resultados a todos, ya que Google personaliza los resultados de los usuarios. Asimismo, esto también significa que algunos resultados de búsqueda estarían ocultos para ciertos usuarios debido a restricciones de idioma o país.
 
@@ -355,7 +355,7 @@ La etiqueta redirigiría a los usuarios a una búsqueda de Google a través de s
 [lucky]consulta de búsqueda[/lucky]
 ```
 
-La etiqueta `[lucky]` es una etiqueta obsoleta que alguna vez se usó en los foros de osu! para vincular a un sitio web dirigido desde el botón `Voy a tener suerte` de Google utilizando el texto proporcionado. El sitio web vinculado a través de esta etiqueta no sería el mismo para todos debido a la naturaleza del botón en sí.
+La etiqueta `[lucky]` es una etiqueta obsoleta que alguna vez se usó en los foros de osu! para vincular a un sitio web dirigido desde el botón `Voy a tener suerte` de Google usando el texto proporcionado. El sitio web vinculado a través de esta etiqueta no sería el mismo para todos debido a la naturaleza del botón en sí.
 
 ### Encabezado (v2)
 
@@ -374,8 +374,8 @@ Estos proyectos simplifican el proceso de formatear texto con BBCode:
 | [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! |
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! (Archivado) |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[____________]](https://osu.ppy.sh/users/12036908) | Crea degradados de color para el perfil de osu! |
-| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Extensión del navegador que añade más botones BBCode y otras funciones al sitio web de osu! |
-| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | Coloración de texto BBCode y HTML |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Extensión del navegador que añade más botones de BBCode y otras funciones al sitio web de osu! |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | Coloración de texto para BBCode y HTML |
 
 ## Curiosidades
 
