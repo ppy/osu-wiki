@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
 ---
 
 # Sự im lặng
