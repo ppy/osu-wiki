@@ -96,7 +96,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
-| Costom hitsound sample sets | ![Yes][true] | ![Yes][true] |
+| Custom hitsound sample sets | ![Yes][true] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
@@ -507,29 +507,29 @@ However, only the following mods will award performance points for now:
   - Perfect (Configuring `Require perfect hits (only for osu!mania)` and `Restart on fail` is allowed)
   - Double Time (Configuring `Adjust pitch` is allowed)
   - Nightcore
-  - Fade In (Only for osu!mania)
+  - Fade In (osu!mania only)
   - Hidden
-  - Cover (Only for osu!mania, configuring `Direction` is allowed)
+  - Cover (osu!mania only, configuring `Direction` is allowed)
   - Flashlight
-  - Blinds (Only for osu!)
+  - Blinds (osu! only)
   - Accuracy Challenge (All customisation options are allowed)
 - Automation
-  - Spun Out (Only for osu!)
+  - Spun Out (osu! only)
 - Conversion
-  - Alternate (Only for osu!)
-  - Single Tap (Only for osu!/osu!taiko)
-  - Swap (Only for osu!taiko)
-  - Mirror (Only for osu!mania)
-  - Four Keys (Only for osu!mania)
-  - Five Keys (Only for osu!mania)
-  - Six Keys (Only for osu!mania)
-  - Seven Keys (Only for osu!mania)
-  - Eight Keys (Only for osu!mania)
-  - Nine Keys (Only for osu!mania)
+  - Alternate (osu! only)
+  - Single Tap (osu! & osu!taiko only)
+  - Swap (osu!taiko only)
+  - Mirror (osu!mania only)
+  - Four Keys (osu!mania only)
+  - Five Keys (osu!mania only)
+  - Six Keys (osu!mania only)
+  - Seven Keys (osu!mania only)
+  - Eight Keys (osu!mania only)
+  - Nine Keys (osu!mania only)
 - Fun
-  - Traceable (Only for osu!)
+  - Traceable (osu! only)
   - Muted (All customisation options are allowed)
-  - No Scope (Only for osu!/osu!catch, configuring `Hidden at combo` is allowed)
+  - No Scope (osu! & osu!catch only, configuring `Hidden at combo` is allowed)
 - System
   - Touch Device
 
