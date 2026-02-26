@@ -156,7 +156,7 @@ HH:MM 时区
 
 ## osu!
 
-当提及游戏本身或其任何相关项目、术语时，请遵守[品牌标识指南](/wiki/Brand_identity_guidelines#osu!)。除非描述一些历史上使用的称呼，否则应使用游戏模式现在的正确名称，如 `osu!taiko`。
+当提及游戏本身或其任何相关项目、术语时，请遵守[品牌标识准则](/wiki/Brand_identity_guidelines#osu!)。除非描述一些历史上使用的称呼，否则应使用游戏模式现在的正确名称，如 `osu!taiko`。
 
 ### 玩家头衔
 
