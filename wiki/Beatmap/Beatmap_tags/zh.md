@@ -36,8 +36,8 @@
 | [skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | 考验非常规技能。 | ![][osu!] |
 | TODO:[skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | A map that frequently makes use of complex snaps. | ![][osu!taiko] ![][osu!mania] |
 | TODO:[skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | A map with the focus on lots of 1/4 sliders, hypersliders and stacks. | ![][osu!catch] |
-| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | 俗称，指需要精细、精确移动才能准确瞄准的谱面。通常指 CS 大于等于 6 的谱面。 | ![][osu!] |
-| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | 俗称，指需要精细、精确移动才能接到水果的谱面。通常指 CS 大于等于 6 的谱面。 | ![][osu!catch] |
+| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | 俗称，指需要精细、准确移动才能准确瞄准的谱面。通常指 CS 大于等于 6 的谱面。 | ![][osu!] |
+| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | 俗称，指需要精细、准确移动才能接到水果的谱面。通常指 CS 大于等于 6 的谱面。 | ![][osu!catch] |
 | [skillset/reading](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Freading%22%22) | 考验玩家读图能力，即通过排列来模糊物件顺序或时机的谱面。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [skillset/gimmick](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fgimmick%22%22) | 无法用常见技能归类的独特或晦涩的游戏玩法元素。 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | TODO:[skillset/speedjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fspeedjack%22%22) | Maps that feature shorter jack sequences, characterized by the faster timeframe between consecutive stacked notes. | ![][osu!mania] |
