@@ -36,7 +36,7 @@ The osu!mania 7K World Cup 2026 offered a $1,200 cash prize pool and limited-edi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/badge-1st.png "MWC 7K 2026 winner badge") ![](img/badge-2nd.png "MWC 7K 2026 2nd-place badge") ![](img/badge-3rd.png "MWC 7K 20266 3rd-place badge")
+![](img/badge-1st.png "MWC 7K 2026 winner badge") ![](img/badge-2nd.png "MWC 7K 2026 2nd-place badge") ![](img/badge-3rd.png "MWC 7K 2026 3rd-place badge")
 
 ## Organisation
 
@@ -666,5 +666,3 @@ The final standings for the Qualifier stage can be found in the following [sprea
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
-[^lb-finals]: Losers bracket Finals match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding losers bracket Grand Finals match
