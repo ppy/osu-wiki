@@ -79,5 +79,7 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | Map Pool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `drawings` or `main` |
+| Drawings | `drawings` |
 | Showcase | `showcase` |
+
+The video file named `main` will be used as the default background until it is replaced by one of the video files listed above.
