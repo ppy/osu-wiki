@@ -22,7 +22,7 @@ Generally speaking, there are 2 viable methods of dealing with this problem in o
 
 ### Emulating #/8-signatures
 
-When talking about the `3/4`-difficulty in Leonard Bernstein's *America*, I mentioned that one of the beats lands on a red tick instead of a white tick at `00:04:232` because that measure is split into \[3+3\], which makes it a `6/8-measure`. In order to "fix" where the beat lands, the BPM has to be multiplied with `0,666`. Furthermore, the Time Signature shown in the TimingSetupPanel has to be set to `2/4` - This is currently not possible in the editor, but it is allowed to change it in the map's `.osu`-file. After doing that, the BeatSnapDivisor has to be changed to `1/3` so it splits one beat into three ♪-notes, which are then represented by the purple ticks. The result of this can be seen in the `6/8`-difficulty.
+When talking about the `3/4`-difficulty in Leonard Bernstein's *America*, I mentioned that one of the beats lands on a red tick instead of a white tick at `00:04:232` because that measure is split into \[3+3\], which makes it a `6/8-measure`. In order to "fix" where the beat lands, the BPM has to be multiplied with `0,666`. Furthermore, the Time Signature shown in the TimingSetupPanel has to be set to `2/4` - This is currently not possible in the editor, but it is allowed to change it in the map's `.osu`-file. After doing that, the BeatSnapDivisor has to be changed to `1/3` so it splits one beat into three ♪-notes, which are then represented by the purple ticks. The result of this can be seen in the `2/4`-difficulty.
 
 ![150 BPM with a 2/4 metronome in comparison with 100 BPM with a 3/4 metronome](/wiki/shared/timing/150bpm24vs100bpm34.png)
 
