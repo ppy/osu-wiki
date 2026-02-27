@@ -57,7 +57,7 @@ The Cute Female Vocal 1st was run by various community members.
 
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1hMB4Oaqfrdnrjsy12IsvJXoarEJAtQgeQBQPWfhBWg0)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1842757)
-- [CFV Discord server](https://discord.gg/ab87f9AWXb )
+- [CFV Discord server](https://discord.gg/ab87f9AWXb)
 - [Challonge bracket](https://challonge.com/CFV)
 - [VOD collection (Bilibili)](https://www.bilibili.com/video/BV1Pj411E7c4)
 

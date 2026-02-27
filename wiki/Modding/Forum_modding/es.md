@@ -17,7 +17,7 @@ En el sistema de modding en los foros, cada beatmap tenía un hilo del foro para
 
 ## Hilos de los beatmaps
 
-Se creaba un hilo en el foro para un beatmap durante su [envío](/wiki/Beatmapping/Beatmap_submission) inicial y contenía comentarios de forma libre, interacciones con las dificultades de invitados y comentarios estructurados en forma de las publicaciones de mods. Servía como centro principal de discusión entre todos los usuarios interesados ​​en el beatmap: jugadores habituales, el [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host), [mappers invitados](/wiki/Beatmap/Guest_difficulty), [modders]( /wiki/Modding/Modder) y miembros de estos equipos que podían clasificar beatmaps:
+Se creaba un hilo en el foro para un beatmap durante su [envío](/wiki/Beatmapping/Beatmap_submission) inicial y contenía comentarios de forma libre, interacciones con las dificultades de invitados y comentarios estructurados en forma de las publicaciones de mods. Servía como centro principal de discusión entre todos los usuarios interesados ​​en el beatmap: jugadores habituales, el [anfitrión del beatmap](/wiki/Beatmap/Beatmap_host), [mappers invitados](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder) y miembros de estos equipos que podían clasificar beatmaps:
 
 - [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
 - [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)

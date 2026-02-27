@@ -433,7 +433,7 @@ Saturday, 22 January 2022:
 | **Lilily** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: boterham | [#1](https://osu.ppy.sh/community/matches/96854454) |
 | **heikneuter** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Apollo685 | [#1](https://osu.ppy.sh/community/matches/96851277) |
 | **LUCIANO** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: TheCoolJfp | [#1](https://osu.ppy.sh/community/matches/96851309) |
-| **wessel_osu2** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: Knakworst | [#1](https://osu.ppy.sh/community/matches/96842283 ) |
+| **wessel_osu2** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: Knakworst | [#1](https://osu.ppy.sh/community/matches/96842283) |
 | Synchrostar ::{ flag=NL }:: | 4 | **5** | ::{ flag=NL }:: **sofuraabu** | [#1](https://osu.ppy.sh/community/matches/96836565) |
 | **Dolter** ::{ flag=NL }:: | **0** | -1 | ::{ flag=NL }:: kinda sus dude | *win by default* |
 
