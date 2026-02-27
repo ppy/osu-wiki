@@ -104,59 +104,59 @@ The GB Cup 2025 Autumn was run by Team GB and various community members.
 
 | # | Team | Members |
 | :-: | :-- | :-- |
-| Q1 | **GBC终末旅行** | ::{ flag=CN }:: **[shadiaojunshi](https://osu.ppy.sh/users/29165753)**, ::{ flag=CN }:: [6XvX7](https://osu.ppy.sh/users/29165753)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/29165753)**, ::{ flag=CN }:: [Ph4nt0mx](https://osu.ppy.sh/users/29165753)**, ::{ flag=CN }:: [xingeng](https://osu.ppy.sh/users/29165753) |
-| Q2 | **下学乘三加下班乘二** | ::{ flag=CN }:: **[[GB]ParasolTree](https://osu.ppy.sh/users/27552902)**, ::{ flag=CN }:: [GinaFujino](https://osu.ppy.sh/users/27552902)**, ::{ flag=CN }:: [[GB]gluefly](https://osu.ppy.sh/users/27552902)**, ::{ flag=CN }:: [laERUAla](https://osu.ppy.sh/users/27552902)**, ::{ flag=CN }:: [sliverbell](https://osu.ppy.sh/users/27552902) |
-| Q3 | **我已经挠了你的皮鼓** | ::{ flag=CN }:: **[LiangFenFan](https://osu.ppy.sh/users/15183087)**, ::{ flag=CN }:: [MyAngelTlipoca](https://osu.ppy.sh/users/15183087)**, ::{ flag=CN }:: [hanSPlayer](https://osu.ppy.sh/users/15183087)**, ::{ flag=CN }:: [mfsOvO](https://osu.ppy.sh/users/15183087)**, ::{ flag=CN }:: [J8xy](https://osu.ppy.sh/users/15183087) |
-| Q4 | **玩不玩** | ::{ flag=CN }:: **[Kirchhoff123](https://osu.ppy.sh/users/29546640)**, ::{ flag=CN }:: [Yominazuki](https://osu.ppy.sh/users/29546640)**, ::{ flag=CN }:: [Nageki_](https://osu.ppy.sh/users/29546640)**, ::{ flag=CN }:: [ReimiliaScarlet](https://osu.ppy.sh/users/29546640)**, ::{ flag=CN }:: [Plus_QwQ](https://osu.ppy.sh/users/29546640) |
-| Q5 | **白色魔爪** | ::{ flag=CN }:: **[hh27v7](https://osu.ppy.sh/users/31728201)**, ::{ flag=CN }:: [ME1KO N3KO](https://osu.ppy.sh/users/31728201)**, ::{ flag=CN }:: [Sealone514](https://osu.ppy.sh/users/31728201)**, ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/31728201)**, ::{ flag=CN }:: [[AR]muknan](https://osu.ppy.sh/users/31728201) |
-| Q6 | **Grow a Garden** | ::{ flag=CN }:: **[Idontknowwhathi](https://osu.ppy.sh/users/32379983)**, ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/32379983)**, ::{ flag=CN }:: [dream2](https://osu.ppy.sh/users/32379983)**, ::{ flag=CN }:: [nick-haoran](https://osu.ppy.sh/users/32379983)**, ::{ flag=CN }:: [HorizonSilence](https://osu.ppy.sh/users/32379983) |
-| Q7 | **五条区** | ::{ flag=CN }:: **[eilander](https://osu.ppy.sh/users/34990703)**, ::{ flag=CN }:: [Yugamiii](https://osu.ppy.sh/users/34990703)**, ::{ flag=CN }:: [Scale](https://osu.ppy.sh/users/34990703)**, ::{ flag=CN }:: [--Mortis--](https://osu.ppy.sh/users/34990703)**, ::{ flag=CN }:: [ziyunmo](https://osu.ppy.sh/users/34990703) |
-| Q8 | **品鉴中...** | ::{ flag=CN }:: **[Leo_Black](https://osu.ppy.sh/users/21207706)**, ::{ flag=CN }:: [kamladshold](https://osu.ppy.sh/users/21207706)**, ::{ flag=CN }:: [Kiryuu Kikyou](https://osu.ppy.sh/users/21207706)**, ::{ flag=CN }:: [qisheng](https://osu.ppy.sh/users/21207706)**, ::{ flag=CN }:: [NotepaOwO](https://osu.ppy.sh/users/21207706) |
-| Q9 | **Team Falcons** | ::{ flag=CN }:: **[[Crz]Yurucawaii](https://osu.ppy.sh/users/25682415)**, ::{ flag=CN }:: [1145810](https://osu.ppy.sh/users/25682415)**, ::{ flag=CN }:: [-Akari-](https://osu.ppy.sh/users/25682415)**, ::{ flag=CN }:: [Tomor1n](https://osu.ppy.sh/users/25682415)**, ::{ flag=CN }:: [_lWI_](https://osu.ppy.sh/users/25682415) |
-| Q10 | **Running up That Hill** | ::{ flag=CN }:: **[Shizuku-09](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [[ Classic ]](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [Itzfrd26](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [[LS]Maftaliv](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [Bot114514](https://osu.ppy.sh/users/27288518) |
-| Q11 | **何意味** | ::{ flag=CN }:: **[Lexpo](https://osu.ppy.sh/users/20277428)**, ::{ flag=CN }:: [Neno](https://osu.ppy.sh/users/20277428)**, ::{ flag=CN }:: [Q14NXu4N](https://osu.ppy.sh/users/20277428)**, ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/20277428)**, ::{ flag=CN }:: [YD_L](https://osu.ppy.sh/users/20277428) |
-| Q12 | **GrowG依旧出征** | ::{ flag=CN }:: **[[Crz]Saratoga](https://osu.ppy.sh/users/25310915)**, ::{ flag=CN }:: [My Angel Nanoka](https://osu.ppy.sh/users/25310915)**, ::{ flag=CN }:: [NaNK](https://osu.ppy.sh/users/25310915)**, ::{ flag=CN }:: [MWFENG](https://osu.ppy.sh/users/25310915)**, ::{ flag=CN }:: [[GB]Lazy_ChenXi](https://osu.ppy.sh/users/25310915) |
-| Q13 | **禁漫天堂官方** | ::{ flag=CN }:: **[Yuki_Jiana](https://osu.ppy.sh/users/35575753)**, ::{ flag=CN }:: [[Crz]ChewYakuwo](https://osu.ppy.sh/users/35575753)**, ::{ flag=CN }:: [Sebastian2817](https://osu.ppy.sh/users/35575753)**, ::{ flag=CN }:: [Superoverclock](https://osu.ppy.sh/users/35575753)**, ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/35575753) |
-| Q14 | **老干嘛** | ::{ flag=CN }:: **[Civilian](https://osu.ppy.sh/users/18160033)**, ::{ flag=CN }:: [Akermo](https://osu.ppy.sh/users/18160033)**, ::{ flag=CN }:: [Nikaido Hiro](https://osu.ppy.sh/users/18160033)**, ::{ flag=CN }:: [qmizl](https://osu.ppy.sh/users/18160033)**, ::{ flag=CN }:: [ShinkuNya](https://osu.ppy.sh/users/18160033) |
-| Q15 | **雀魂麻将官方** | ::{ flag=CN }:: **[Arisu Tendou](https://osu.ppy.sh/users/34278014)**, ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/34278014)**, ::{ flag=CN }:: [036js](https://osu.ppy.sh/users/34278014)**, ::{ flag=CN }:: [mizipa](https://osu.ppy.sh/users/34278014)**, ::{ flag=CN }:: [NotBadHuh](https://osu.ppy.sh/users/34278014) |
-| Q16 | **猫咖和他的动物朋友们** | ::{ flag=CN }:: **[Firefly Neko](https://osu.ppy.sh/users/30885120)**, ::{ flag=CN }:: [BakaMacro](https://osu.ppy.sh/users/30885120)**, ::{ flag=CN }:: [Baihenai](https://osu.ppy.sh/users/30885120)**, ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/30885120)**, ::{ flag=CN }:: [yszt1](https://osu.ppy.sh/users/30885120) |
-| Q17 | **高雅人士** | ::{ flag=CN }:: **[[GB]fanqiu](https://osu.ppy.sh/users/16233412)**, ::{ flag=CN }:: [shenmeng](https://osu.ppy.sh/users/16233412)**, ::{ flag=CN }:: [JFYS](https://osu.ppy.sh/users/16233412)**, ::{ flag=CN }:: [[Paw]INKINKINK](https://osu.ppy.sh/users/16233412)**, ::{ flag=CN }:: [Layfolk](https://osu.ppy.sh/users/16233412) |
-| Q18 | **晕晕对策委员会** | ::{ flag=CN }:: **[Qiufeng54321](https://osu.ppy.sh/users/14539540)**, ::{ flag=CN }:: [WhatuLvfor](https://osu.ppy.sh/users/14539540)**, ::{ flag=CN }:: [[Crz]Elys1a](https://osu.ppy.sh/users/14539540)**, ::{ flag=CN }:: [F4ntast1stOwO](https://osu.ppy.sh/users/14539540)**, ::{ flag=CN }:: [Hiyashinsu104](https://osu.ppy.sh/users/14539540) |
-| Q19 | **阿拜多斯肘击委员会** | ::{ flag=CN }:: **[Shiroko_Beiyi](https://osu.ppy.sh/users/32397022)**, ::{ flag=CN }:: [Ayachinene0721](https://osu.ppy.sh/users/32397022)**, ::{ flag=CN }:: [Lolli](https://osu.ppy.sh/users/32397022)**, ::{ flag=CN }:: [lindex](https://osu.ppy.sh/users/32397022)**, ::{ flag=CN }:: [unputdownable](https://osu.ppy.sh/users/32397022) |
-| Q20 | **不整活** | ::{ flag=CN }:: **[Vain_](https://osu.ppy.sh/users/38363768)**, ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/38363768)**, ::{ flag=CN }:: [snowsabre](https://osu.ppy.sh/users/38363768)**, ::{ flag=CN }:: [Jerry1031](https://osu.ppy.sh/users/38363768)**, ::{ flag=CN }:: [grp666](https://osu.ppy.sh/users/38363768) |
-| Q21 | **希望能撑到后期** | ::{ flag=CN }:: **[tiantangw](https://osu.ppy.sh/users/25769457)**, ::{ flag=CN }:: [lingR](https://osu.ppy.sh/users/25769457)**, ::{ flag=CN }:: [ysls19798385](https://osu.ppy.sh/users/25769457)**, ::{ flag=CN }:: [xuer](https://osu.ppy.sh/users/25769457)**, ::{ flag=CN }:: [jxyyyds](https://osu.ppy.sh/users/25769457) |
-| Q22 | **My Angel Noodle** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [[GB]mmttyy233](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [My Angel Noelle](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [-Sheena-](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [ringbot](https://osu.ppy.sh/users/15389275) |
-| Q23 | **队员已红温之anpig1013** | ::{ flag=CN }:: **[[Crz]anfish1013](https://osu.ppy.sh/users/31519818)**, ::{ flag=CN }:: [Suang](https://osu.ppy.sh/users/31519818)**, ::{ flag=CN }:: [yoe Lonann](https://osu.ppy.sh/users/31519818)**, ::{ flag=CN }:: [fofokii](https://osu.ppy.sh/users/31519818)**, ::{ flag=CN }:: [nyabye114514](https://osu.ppy.sh/users/31519818) |
-| Q24 | **舞萌吃** | ::{ flag=CN }:: **[PXGMR](https://osu.ppy.sh/users/24278389)**, ::{ flag=CN }:: [Herb](https://osu.ppy.sh/users/24278389)**, ::{ flag=CN }:: [icyfish](https://osu.ppy.sh/users/24278389)**, ::{ flag=CN }:: [Chiral Cabbage](https://osu.ppy.sh/users/24278389)**, ::{ flag=CN }:: [NanLx111](https://osu.ppy.sh/users/24278389) |
+| Q1 | **GBC终末旅行** | ::{ flag=CN }:: **[shadiaojunshi](https://osu.ppy.sh/users/29165753)**, ::{ flag=CN }:: [6XvX7](https://osu.ppy.sh/users/29165753), ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/29165753), ::{ flag=CN }:: [Ph4nt0mx](https://osu.ppy.sh/users/29165753), ::{ flag=CN }:: [xingeng](https://osu.ppy.sh/users/29165753) |
+| Q2 | **下学乘三加下班乘二** | ::{ flag=CN }:: **[[GB]ParasolTree](https://osu.ppy.sh/users/27552902)**, ::{ flag=CN }:: [GinaFujino](https://osu.ppy.sh/users/27552902), ::{ flag=CN }:: [[GB]gluefly](https://osu.ppy.sh/users/27552902), ::{ flag=CN }:: [laERUAla](https://osu.ppy.sh/users/27552902), ::{ flag=CN }:: [sliverbell](https://osu.ppy.sh/users/27552902) |
+| Q3 | **我已经挠了你的皮鼓** | ::{ flag=CN }:: **[LiangFenFan](https://osu.ppy.sh/users/15183087)**, ::{ flag=CN }:: [MyAngelTlipoca](https://osu.ppy.sh/users/15183087), ::{ flag=CN }:: [hanSPlayer](https://osu.ppy.sh/users/15183087), ::{ flag=CN }:: [mfsOvO](https://osu.ppy.sh/users/15183087), ::{ flag=CN }:: [J8xy](https://osu.ppy.sh/users/15183087) |
+| Q4 | **玩不玩** | ::{ flag=CN }:: **[Kirchhoff123](https://osu.ppy.sh/users/29546640)**, ::{ flag=CN }:: [Yominazuki](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [Nageki_](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [ReimiliaScarlet](https://osu.ppy.sh/users/29546640), ::{ flag=CN }:: [Plus_QwQ](https://osu.ppy.sh/users/29546640) |
+| Q5 | **白色魔爪** | ::{ flag=CN }:: **[hh27v7](https://osu.ppy.sh/users/31728201)**, ::{ flag=CN }:: [ME1KO N3KO](https://osu.ppy.sh/users/31728201), ::{ flag=CN }:: [Sealone514](https://osu.ppy.sh/users/31728201), ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/31728201), ::{ flag=CN }:: [[AR]muknan](https://osu.ppy.sh/users/31728201) |
+| Q6 | **Grow a Garden** | ::{ flag=CN }:: **[Idontknowwhathi](https://osu.ppy.sh/users/32379983)**, ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/32379983), ::{ flag=CN }:: [dream2](https://osu.ppy.sh/users/32379983), ::{ flag=CN }:: [nick-haoran](https://osu.ppy.sh/users/32379983), ::{ flag=CN }:: [HorizonSilence](https://osu.ppy.sh/users/32379983) |
+| Q7 | **五条区** | ::{ flag=CN }:: **[eilander](https://osu.ppy.sh/users/34990703)**, ::{ flag=CN }:: [Yugamiii](https://osu.ppy.sh/users/34990703), ::{ flag=CN }:: [Scale](https://osu.ppy.sh/users/34990703), ::{ flag=CN }:: [--Mortis--](https://osu.ppy.sh/users/34990703), ::{ flag=CN }:: [ziyunmo](https://osu.ppy.sh/users/34990703) |
+| Q8 | **品鉴中...** | ::{ flag=CN }:: **[Leo_Black](https://osu.ppy.sh/users/21207706)**, ::{ flag=CN }:: [kamladshold](https://osu.ppy.sh/users/21207706), ::{ flag=CN }:: [Kiryuu Kikyou](https://osu.ppy.sh/users/21207706), ::{ flag=CN }:: [qisheng](https://osu.ppy.sh/users/21207706), ::{ flag=CN }:: [NotepaOwO](https://osu.ppy.sh/users/21207706) |
+| Q9 | **Team Falcons** | ::{ flag=CN }:: **[[Crz]Yurucawaii](https://osu.ppy.sh/users/25682415)**, ::{ flag=CN }:: [1145810](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [-Akari-](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [Tomor1n](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [_lWI_](https://osu.ppy.sh/users/25682415) |
+| Q10 | **Running up That Hill** | ::{ flag=CN }:: **[Shizuku-09](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [[ Classic ]](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Itzfrd26](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [[LS]Maftaliv](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Bot114514](https://osu.ppy.sh/users/27288518) |
+| Q11 | **何意味** | ::{ flag=CN }:: **[Lexpo](https://osu.ppy.sh/users/20277428)**, ::{ flag=CN }:: [Neno](https://osu.ppy.sh/users/20277428), ::{ flag=CN }:: [Q14NXu4N](https://osu.ppy.sh/users/20277428), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/20277428), ::{ flag=CN }:: [YD_L](https://osu.ppy.sh/users/20277428) |
+| Q12 | **GrowG依旧出征** | ::{ flag=CN }:: **[[Crz]Saratoga](https://osu.ppy.sh/users/25310915)**, ::{ flag=CN }:: [My Angel Nanoka](https://osu.ppy.sh/users/25310915), ::{ flag=CN }:: [NaNK](https://osu.ppy.sh/users/25310915), ::{ flag=CN }:: [MWFENG](https://osu.ppy.sh/users/25310915), ::{ flag=CN }:: [[GB]Lazy_ChenXi](https://osu.ppy.sh/users/25310915) |
+| Q13 | **禁漫天堂官方** | ::{ flag=CN }:: **[Yuki_Jiana](https://osu.ppy.sh/users/35575753)**, ::{ flag=CN }:: [[Crz]ChewYakuwo](https://osu.ppy.sh/users/35575753), ::{ flag=CN }:: [Sebastian2817](https://osu.ppy.sh/users/35575753), ::{ flag=CN }:: [Superoverclock](https://osu.ppy.sh/users/35575753), ::{ flag=CN }:: [-duji-](https://osu.ppy.sh/users/35575753) |
+| Q14 | **老干嘛** | ::{ flag=CN }:: **[Civilian](https://osu.ppy.sh/users/18160033)**, ::{ flag=CN }:: [Akermo](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [Nikaido Hiro](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [qmizl](https://osu.ppy.sh/users/18160033), ::{ flag=CN }:: [ShinkuNya](https://osu.ppy.sh/users/18160033) |
+| Q15 | **雀魂麻将官方** | ::{ flag=CN }:: **[Arisu Tendou](https://osu.ppy.sh/users/34278014)**, ::{ flag=CN }:: [CapooFanboy](https://osu.ppy.sh/users/34278014), ::{ flag=CN }:: [036js](https://osu.ppy.sh/users/34278014), ::{ flag=CN }:: [mizipa](https://osu.ppy.sh/users/34278014), ::{ flag=CN }:: [NotBadHuh](https://osu.ppy.sh/users/34278014) |
+| Q16 | **猫咖和他的动物朋友们** | ::{ flag=CN }:: **[Firefly Neko](https://osu.ppy.sh/users/30885120)**, ::{ flag=CN }:: [BakaMacro](https://osu.ppy.sh/users/30885120), ::{ flag=CN }:: [Baihenai](https://osu.ppy.sh/users/30885120), ::{ flag=CN }:: [Ghost Neko](https://osu.ppy.sh/users/30885120), ::{ flag=CN }:: [yszt1](https://osu.ppy.sh/users/30885120) |
+| Q17 | **高雅人士** | ::{ flag=CN }:: **[[GB]fanqiu](https://osu.ppy.sh/users/16233412)**, ::{ flag=CN }:: [shenmeng](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [JFYS](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [[Paw]INKINKINK](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [Layfolk](https://osu.ppy.sh/users/16233412) |
+| Q18 | **晕晕对策委员会** | ::{ flag=CN }:: **[Qiufeng54321](https://osu.ppy.sh/users/14539540)**, ::{ flag=CN }:: [WhatuLvfor](https://osu.ppy.sh/users/14539540), ::{ flag=CN }:: [[Crz]Elys1a](https://osu.ppy.sh/users/14539540), ::{ flag=CN }:: [F4ntast1stOwO](https://osu.ppy.sh/users/14539540), ::{ flag=CN }:: [Hiyashinsu104](https://osu.ppy.sh/users/14539540) |
+| Q19 | **阿拜多斯肘击委员会** | ::{ flag=CN }:: **[Shiroko_Beiyi](https://osu.ppy.sh/users/32397022)**, ::{ flag=CN }:: [Ayachinene0721](https://osu.ppy.sh/users/32397022), ::{ flag=CN }:: [Lolli](https://osu.ppy.sh/users/32397022), ::{ flag=CN }:: [lindex](https://osu.ppy.sh/users/32397022), ::{ flag=CN }:: [unputdownable](https://osu.ppy.sh/users/32397022) |
+| Q20 | **不整活** | ::{ flag=CN }:: **[Vain_](https://osu.ppy.sh/users/38363768)**, ::{ flag=CN }:: [HowToPlaySV](https://osu.ppy.sh/users/38363768), ::{ flag=CN }:: [snowsabre](https://osu.ppy.sh/users/38363768), ::{ flag=CN }:: [Jerry1031](https://osu.ppy.sh/users/38363768), ::{ flag=CN }:: [grp666](https://osu.ppy.sh/users/38363768) |
+| Q21 | **希望能撑到后期** | ::{ flag=CN }:: **[tiantangw](https://osu.ppy.sh/users/25769457)**, ::{ flag=CN }:: [lingR](https://osu.ppy.sh/users/25769457), ::{ flag=CN }:: [ysls19798385](https://osu.ppy.sh/users/25769457), ::{ flag=CN }:: [xuer](https://osu.ppy.sh/users/25769457), ::{ flag=CN }:: [jxyyyds](https://osu.ppy.sh/users/25769457) |
+| Q22 | **My Angel Noodle** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [[GB]mmttyy233](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [My Angel Noelle](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [-Sheena-](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [ringbot](https://osu.ppy.sh/users/15389275) |
+| Q23 | **队员已红温之anpig1013** | ::{ flag=CN }:: **[[Crz]anfish1013](https://osu.ppy.sh/users/31519818)**, ::{ flag=CN }:: [Suang](https://osu.ppy.sh/users/31519818), ::{ flag=CN }:: [yoe Lonann](https://osu.ppy.sh/users/31519818), ::{ flag=CN }:: [fofokii](https://osu.ppy.sh/users/31519818), ::{ flag=CN }:: [nyabye114514](https://osu.ppy.sh/users/31519818) |
+| Q24 | **舞萌吃** | ::{ flag=CN }:: **[PXGMR](https://osu.ppy.sh/users/24278389)**, ::{ flag=CN }:: [Herb](https://osu.ppy.sh/users/24278389), ::{ flag=CN }:: [icyfish](https://osu.ppy.sh/users/24278389), ::{ flag=CN }:: [Chiral Cabbage](https://osu.ppy.sh/users/24278389), ::{ flag=CN }:: [NanLx111](https://osu.ppy.sh/users/24278389) |
 
 ### Discord division
 
 | # | Team | Members |
 | :-: | :-- | :-- |
-| D1 | **giant bean chilling** | ::{ flag=TW }:: **[-Veloce-](https://osu.ppy.sh/users/23248427)**, ::{ flag=TW }:: [--Dragon--](https://osu.ppy.sh/users/23248427)**, ::{ flag=TW }:: [Fejse](https://osu.ppy.sh/users/23248427)**, ::{ flag=TW }:: [AGuyCalledJeff](https://osu.ppy.sh/users/23248427)**, ::{ flag=TW }:: [SWADEEF](https://osu.ppy.sh/users/23248427) |
-| D2 | D2 | ::{ flag=GB }:: **[Zoobin4](https://osu.ppy.sh/users/10055204)**, ::{ flag=GB }:: [Shadow_GM](https://osu.ppy.sh/users/10055204)**, ::{ flag=GB }:: [CoolDudeYes](https://osu.ppy.sh/users/10055204)**, ::{ flag=GB }:: [P_F_C_PRO](https://osu.ppy.sh/users/10055204)**, ::{ flag=GB }:: [geodash](https://osu.ppy.sh/users/10055204) |
-| D3 | D3 | ::{ flag=PE }:: **[shioo-](https://osu.ppy.sh/users/23731514)**, ::{ flag=PE }:: [Nubbo123](https://osu.ppy.sh/users/23731514)**, ::{ flag=PE }:: [SofiTheCuy](https://osu.ppy.sh/users/23731514)**, ::{ flag=PE }:: [kuraaa](https://osu.ppy.sh/users/23731514)**, ::{ flag=PE }:: [ChaoSharkouo](https://osu.ppy.sh/users/23731514) |
-| D4 | **:sugos:** | ::{ flag=US }:: **[Seitora](https://osu.ppy.sh/users/18473578)**, ::{ flag=US }:: [Hawkfrost](https://osu.ppy.sh/users/18473578)**, ::{ flag=US }:: [happergamer](https://osu.ppy.sh/users/18473578)**, ::{ flag=US }:: [pizzaboy](https://osu.ppy.sh/users/18473578)**, ::{ flag=US }:: [Addaamm007](https://osu.ppy.sh/users/18473578) |
-| D5 | D5 | ::{ flag=GB }:: **[MiniEgg_23](https://osu.ppy.sh/users/25914360)**, ::{ flag=GB }:: [Napeace](https://osu.ppy.sh/users/25914360)**, ::{ flag=GB }:: [oliverq](https://osu.ppy.sh/users/25914360)**, ::{ flag=GB }:: [MORDEST68](https://osu.ppy.sh/users/25914360)**, ::{ flag=GB }:: [blacktea12](https://osu.ppy.sh/users/25914360) |
-| D6 | **Siemieniakowszczyzna** | ::{ flag=PL }:: **[klobuck](https://osu.ppy.sh/users/29379793)**, ::{ flag=PL }:: [snow leopard](https://osu.ppy.sh/users/29379793)**, ::{ flag=PL }:: [malza](https://osu.ppy.sh/users/29379793)**, ::{ flag=PL }:: [[AR]lv3plane](https://osu.ppy.sh/users/29379793)**, ::{ flag=PL }:: [-Deno-](https://osu.ppy.sh/users/29379793) |
-| D7 | D7 | ::{ flag=US }:: **[[LS]Astal](https://osu.ppy.sh/users/32151196)**, ::{ flag=US }:: [My Angel Brandy](https://osu.ppy.sh/users/32151196)**, ::{ flag=US }:: [YoungBurger16](https://osu.ppy.sh/users/32151196)**, ::{ flag=US }:: [combo gaming](https://osu.ppy.sh/users/32151196)**, ::{ flag=US }:: [Kiirbo](https://osu.ppy.sh/users/32151196) |
-| D8 | **super magical chest** | ::{ flag=MX }:: **[[BBC]Senzawa](https://osu.ppy.sh/users/17668607)**, ::{ flag=MX }:: [yran](https://osu.ppy.sh/users/17668607)**, ::{ flag=MX }:: [JoseXD_](https://osu.ppy.sh/users/17668607)**, ::{ flag=MX }:: [AtomicHD](https://osu.ppy.sh/users/17668607)**, ::{ flag=MX }:: [JustSomeGuy97](https://osu.ppy.sh/users/17668607) |
-| D9 | D9 | ::{ flag=KR }:: **[leahkim](https://osu.ppy.sh/users/31975052)**, ::{ flag=KR }:: [Aigisfangirl](https://osu.ppy.sh/users/31975052)**, ::{ flag=KR }:: [aeko](https://osu.ppy.sh/users/31975052)**, ::{ flag=KR }:: [MidRed](https://osu.ppy.sh/users/31975052)**, ::{ flag=KR }:: [LassieNoki](https://osu.ppy.sh/users/31975052) |
-| D10 | **hope core ahh** | ::{ flag=CL }:: **[Anterex](https://osu.ppy.sh/users/24548857)**, ::{ flag=CL }:: [[Crz]RafaelPC](https://osu.ppy.sh/users/24548857)**, ::{ flag=CL }:: [kekou](https://osu.ppy.sh/users/24548857)**, ::{ flag=CL }:: [NeroWye](https://osu.ppy.sh/users/24548857)**, ::{ flag=CL }:: [vsrg dog](https://osu.ppy.sh/users/24548857) |
-| D11 | **shrimp gacha** | ::{ flag=US }:: **[Znow](https://osu.ppy.sh/users/15513303)**, ::{ flag=US }:: [LazyGhost14](https://osu.ppy.sh/users/15513303)**, ::{ flag=US }:: [Rakumi](https://osu.ppy.sh/users/15513303)**, ::{ flag=US }:: [Asuma Toki](https://osu.ppy.sh/users/15513303)**, ::{ flag=US }:: [Caaaat712](https://osu.ppy.sh/users/15513303) |
-| D12 | D12 | ::{ flag=PH }:: **[Plana_](https://osu.ppy.sh/users/24776314)**, ::{ flag=PH }:: [Achino](https://osu.ppy.sh/users/24776314)**, ::{ flag=PH }:: [BronyaZaychik_](https://osu.ppy.sh/users/24776314)**, ::{ flag=PH }:: [kiwibird01](https://osu.ppy.sh/users/24776314)**, ::{ flag=PH }:: [PandaChee](https://osu.ppy.sh/users/24776314) |
-| D13 | D13 | ::{ flag=US }:: **[Tonels](https://osu.ppy.sh/users/15179858)**, ::{ flag=US }:: [angela202133](https://osu.ppy.sh/users/15179858)**, ::{ flag=US }:: [Tomskuu](https://osu.ppy.sh/users/15179858)**, ::{ flag=US }:: [Luqas](https://osu.ppy.sh/users/15179858)**, ::{ flag=US }:: [Chevachi](https://osu.ppy.sh/users/15179858) |
-| D14 | D14 | ::{ flag=TH }:: **[MatchaLatte-](https://osu.ppy.sh/users/15944956)**, ::{ flag=TH }:: [Ricizus](https://osu.ppy.sh/users/15944956)**, ::{ flag=TH }:: [[-Hanabi-]](https://osu.ppy.sh/users/15944956)**, ::{ flag=TH }:: [ERDFS](https://osu.ppy.sh/users/15944956)**, ::{ flag=TH }:: [CutieVaxie](https://osu.ppy.sh/users/15944956) |
-| D15 | **la team frigo** | ::{ flag=FR }:: **[DarkMew2](https://osu.ppy.sh/users/13921965)**, ::{ flag=FR }:: [robrt](https://osu.ppy.sh/users/13921965)**, ::{ flag=FR }:: [GDMem](https://osu.ppy.sh/users/13921965)**, ::{ flag=FR }:: [Haarua](https://osu.ppy.sh/users/13921965)**, ::{ flag=FR }:: [sapcus](https://osu.ppy.sh/users/13921965) |
-| D16 | **eskere papus** | ::{ flag=ID }:: **[Reyi](https://osu.ppy.sh/users/13385865)**, ::{ flag=ID }:: [-Lalito898](https://osu.ppy.sh/users/13385865)**, ::{ flag=ID }:: [Pokeccino](https://osu.ppy.sh/users/13385865)**, ::{ flag=ID }:: [WTFrrrrrrr](https://osu.ppy.sh/users/13385865)**, ::{ flag=ID }:: [Ludving08](https://osu.ppy.sh/users/13385865) |
-| D17 | D17 | ::{ flag=US }:: **[aero-](https://osu.ppy.sh/users/26690747)**, ::{ flag=US }:: [[LS]Nemesis](https://osu.ppy.sh/users/26690747)**, ::{ flag=US }:: [Chordjack](https://osu.ppy.sh/users/26690747)**, ::{ flag=US }:: [ERA Mahiru](https://osu.ppy.sh/users/26690747)**, ::{ flag=US }:: [zCombo](https://osu.ppy.sh/users/26690747) |
-| D18 | D18 | ::{ flag=BH }:: **[Unitori-](https://osu.ppy.sh/users/15772814)**, ::{ flag=BH }:: [Darkhechiser](https://osu.ppy.sh/users/15772814)**, ::{ flag=BH }:: [elicccc](https://osu.ppy.sh/users/15772814)**, ::{ flag=BH }:: [[LS]4blits](https://osu.ppy.sh/users/15772814)**, ::{ flag=BH }:: [kaishimii](https://osu.ppy.sh/users/15772814) |
-| D19 | D19 | ::{ flag=US }:: **[noober](https://osu.ppy.sh/users/22674434)**, ::{ flag=US }:: [Ancuw](https://osu.ppy.sh/users/22674434)**, ::{ flag=US }:: [Hikikomori](https://osu.ppy.sh/users/22674434)**, ::{ flag=US }:: [Cuccurry](https://osu.ppy.sh/users/22674434)**, ::{ flag=US }:: [LukeGammoneese](https://osu.ppy.sh/users/22674434) |
-| D20 | D20 | ::{ flag=GB }:: **[XxNewson1234xX](https://osu.ppy.sh/users/9895650)**, ::{ flag=GB }:: [_yea](https://osu.ppy.sh/users/9895650)**, ::{ flag=GB }:: [southest](https://osu.ppy.sh/users/9895650)**, ::{ flag=GB }:: [Magnes99](https://osu.ppy.sh/users/9895650)**, ::{ flag=GB }:: [leegun](https://osu.ppy.sh/users/9895650) |
-| D21 | D21 | ::{ flag=GB }:: **[Pulsing](https://osu.ppy.sh/users/19141386)**, ::{ flag=GB }:: [Naito Mare](https://osu.ppy.sh/users/19141386)**, ::{ flag=GB }:: [dumbidot](https://osu.ppy.sh/users/19141386)**, ::{ flag=GB }:: [wlim](https://osu.ppy.sh/users/19141386)**, ::{ flag=GB }:: [Cozieuwu](https://osu.ppy.sh/users/19141386) |
-| D22 | **--Pavin--** | ::{ flag=TH }:: **[konkawe](https://osu.ppy.sh/users/15665805)**, ::{ flag=TH }:: [JayLye](https://osu.ppy.sh/users/15665805)**, ::{ flag=TH }:: [Duckys](https://osu.ppy.sh/users/15665805)**, ::{ flag=TH }:: [BC1_CI9](https://osu.ppy.sh/users/15665805)**, ::{ flag=TH }:: [mengfengouo](https://osu.ppy.sh/users/15665805) |
-| D23 | **BS paste** | ::{ flag=PL }:: **[bagjettka](https://osu.ppy.sh/users/18338179)**, ::{ flag=PL }:: [oyama mahiro](https://osu.ppy.sh/users/18338179)**, ::{ flag=PL }:: [Nessunop](https://osu.ppy.sh/users/18338179)**, ::{ flag=PL }:: [Johnney101](https://osu.ppy.sh/users/18338179)**, ::{ flag=PL }:: [P3pp3R_](https://osu.ppy.sh/users/18338179) |
-| D24 | **focal dystonia** | ::{ flag=MY }:: **[Aepq](https://osu.ppy.sh/users/24446642)**, ::{ flag=MY }:: [Stereotype](https://osu.ppy.sh/users/24446642)**, ::{ flag=MY }:: [ouxig](https://osu.ppy.sh/users/24446642)**, ::{ flag=MY }:: [LOKSHOON_OSU](https://osu.ppy.sh/users/24446642)**, ::{ flag=MY }:: [TW_cookies](https://osu.ppy.sh/users/24446642) |
+| D1 | **giant bean chilling** | ::{ flag=TW }:: **[-Veloce-](https://osu.ppy.sh/users/23248427)**, ::{ flag=TW }:: [--Dragon--](https://osu.ppy.sh/users/23248427), ::{ flag=TW }:: [Fejse](https://osu.ppy.sh/users/23248427), ::{ flag=TW }:: [AGuyCalledJeff](https://osu.ppy.sh/users/23248427), ::{ flag=TW }:: [SWADEEF](https://osu.ppy.sh/users/23248427) |
+| D2 | **D2** | ::{ flag=GB }:: **[Zoobin4](https://osu.ppy.sh/users/10055204)**, ::{ flag=GB }:: [Shadow_GM](https://osu.ppy.sh/users/10055204), ::{ flag=GB }:: [CoolDudeYes](https://osu.ppy.sh/users/10055204), ::{ flag=GB }:: [P_F_C_PRO](https://osu.ppy.sh/users/10055204), ::{ flag=GB }:: [geodash](https://osu.ppy.sh/users/10055204) |
+| D3 | **D3** | ::{ flag=PE }:: **[shioo-](https://osu.ppy.sh/users/23731514)**, ::{ flag=PE }:: [Nubbo123](https://osu.ppy.sh/users/23731514), ::{ flag=PE }:: [SofiTheCuy](https://osu.ppy.sh/users/23731514), ::{ flag=PE }:: [kuraaa](https://osu.ppy.sh/users/23731514), ::{ flag=PE }:: [ChaoSharkouo](https://osu.ppy.sh/users/23731514) |
+| D4 | **:sugos:** | ::{ flag=US }:: **[Seitora](https://osu.ppy.sh/users/18473578)**, ::{ flag=US }:: [Hawkfrost](https://osu.ppy.sh/users/18473578), ::{ flag=US }:: [happergamer](https://osu.ppy.sh/users/18473578), ::{ flag=US }:: [pizzaboy](https://osu.ppy.sh/users/18473578), ::{ flag=US }:: [Addaamm007](https://osu.ppy.sh/users/18473578) |
+| D5 | **D5** | ::{ flag=GB }:: **[MiniEgg_23](https://osu.ppy.sh/users/25914360)**, ::{ flag=GB }:: [Napeace](https://osu.ppy.sh/users/25914360), ::{ flag=GB }:: [oliverq](https://osu.ppy.sh/users/25914360), ::{ flag=GB }:: [MORDEST68](https://osu.ppy.sh/users/25914360), ::{ flag=GB }:: [blacktea12](https://osu.ppy.sh/users/25914360) |
+| D6 | **Siemieniakowszczyzna** | ::{ flag=PL }:: **[klobuck](https://osu.ppy.sh/users/29379793)**, ::{ flag=PL }:: [snow leopard](https://osu.ppy.sh/users/29379793), ::{ flag=PL }:: [malza](https://osu.ppy.sh/users/29379793), ::{ flag=PL }:: [[AR]lv3plane](https://osu.ppy.sh/users/29379793), ::{ flag=PL }:: [-Deno-](https://osu.ppy.sh/users/29379793) |
+| D7 | **D7** | ::{ flag=US }:: **[[LS]Astal](https://osu.ppy.sh/users/32151196)**, ::{ flag=US }:: [My Angel Brandy](https://osu.ppy.sh/users/32151196), ::{ flag=US }:: [YoungBurger16](https://osu.ppy.sh/users/32151196), ::{ flag=US }:: [combo gaming](https://osu.ppy.sh/users/32151196), ::{ flag=US }:: [Kiirbo](https://osu.ppy.sh/users/32151196) |
+| D8 | **super magical chest** | ::{ flag=MX }:: **[[BBC]Senzawa](https://osu.ppy.sh/users/17668607)**, ::{ flag=MX }:: [yran](https://osu.ppy.sh/users/17668607), ::{ flag=MX }:: [JoseXD_](https://osu.ppy.sh/users/17668607), ::{ flag=MX }:: [AtomicHD](https://osu.ppy.sh/users/17668607), ::{ flag=MX }:: [JustSomeGuy97](https://osu.ppy.sh/users/17668607) |
+| D9 | **D9** | ::{ flag=KR }:: **[leahkim](https://osu.ppy.sh/users/31975052)**, ::{ flag=KR }:: [Aigisfangirl](https://osu.ppy.sh/users/31975052), ::{ flag=KR }:: [aeko](https://osu.ppy.sh/users/31975052), ::{ flag=KR }:: [MidRed](https://osu.ppy.sh/users/31975052), ::{ flag=KR }:: [LassieNoki](https://osu.ppy.sh/users/31975052) |
+| D10 | **hope core ahh** | ::{ flag=CL }:: **[Anterex](https://osu.ppy.sh/users/24548857)**, ::{ flag=CL }:: [[Crz]RafaelPC](https://osu.ppy.sh/users/24548857), ::{ flag=CL }:: [kekou](https://osu.ppy.sh/users/24548857), ::{ flag=CL }:: [NeroWye](https://osu.ppy.sh/users/24548857), ::{ flag=CL }:: [vsrg dog](https://osu.ppy.sh/users/24548857) |
+| D11 | **shrimp gacha** | ::{ flag=US }:: **[Znow](https://osu.ppy.sh/users/15513303)**, ::{ flag=US }:: [LazyGhost14](https://osu.ppy.sh/users/15513303), ::{ flag=US }:: [Rakumi](https://osu.ppy.sh/users/15513303), ::{ flag=US }:: [Asuma Toki](https://osu.ppy.sh/users/15513303), ::{ flag=US }:: [Caaaat712](https://osu.ppy.sh/users/15513303) |
+| D12 | **D12** | ::{ flag=PH }:: **[Plana_](https://osu.ppy.sh/users/24776314)**, ::{ flag=PH }:: [Achino](https://osu.ppy.sh/users/24776314), ::{ flag=PH }:: [BronyaZaychik_](https://osu.ppy.sh/users/24776314), ::{ flag=PH }:: [kiwibird01](https://osu.ppy.sh/users/24776314), ::{ flag=PH }:: [PandaChee](https://osu.ppy.sh/users/24776314) |
+| D13 | **D13** | ::{ flag=US }:: **[Tonels](https://osu.ppy.sh/users/15179858)**, ::{ flag=US }:: [angela202133](https://osu.ppy.sh/users/15179858), ::{ flag=US }:: [Tomskuu](https://osu.ppy.sh/users/15179858), ::{ flag=US }:: [Luqas](https://osu.ppy.sh/users/15179858), ::{ flag=US }:: [Chevachi](https://osu.ppy.sh/users/15179858) |
+| D14 | **D14** | ::{ flag=TH }:: **[MatchaLatte-](https://osu.ppy.sh/users/15944956)**, ::{ flag=TH }:: [Ricizus](https://osu.ppy.sh/users/15944956), ::{ flag=TH }:: [[-Hanabi-]](https://osu.ppy.sh/users/15944956), ::{ flag=TH }:: [ERDFS](https://osu.ppy.sh/users/15944956), ::{ flag=TH }:: [CutieVaxie](https://osu.ppy.sh/users/15944956) |
+| D15 | **la team frigo** | ::{ flag=FR }:: **[DarkMew2](https://osu.ppy.sh/users/13921965)**, ::{ flag=FR }:: [robrt](https://osu.ppy.sh/users/13921965), ::{ flag=FR }:: [GDMem](https://osu.ppy.sh/users/13921965), ::{ flag=FR }:: [Haarua](https://osu.ppy.sh/users/13921965), ::{ flag=FR }:: [sapcus](https://osu.ppy.sh/users/13921965) |
+| D16 | **eskere papus** | ::{ flag=ID }:: **[Reyi](https://osu.ppy.sh/users/13385865)**, ::{ flag=ID }:: [-Lalito898](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Pokeccino](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [WTFrrrrrrr](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Ludving08](https://osu.ppy.sh/users/13385865) |
+| D17 | **D17** | ::{ flag=US }:: **[aero-](https://osu.ppy.sh/users/26690747)**, ::{ flag=US }:: [[LS]Nemesis](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [Chordjack](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [ERA Mahiru](https://osu.ppy.sh/users/26690747), ::{ flag=US }:: [zCombo](https://osu.ppy.sh/users/26690747) |
+| D18 | **D18** | ::{ flag=BH }:: **[Unitori-](https://osu.ppy.sh/users/15772814)**, ::{ flag=BH }:: [Darkhechiser](https://osu.ppy.sh/users/15772814), ::{ flag=BH }:: [elicccc](https://osu.ppy.sh/users/15772814), ::{ flag=BH }:: [[LS]4blits](https://osu.ppy.sh/users/15772814), ::{ flag=BH }:: [kaishimii](https://osu.ppy.sh/users/15772814) |
+| D19 | **D19** | ::{ flag=US }:: **[noober](https://osu.ppy.sh/users/22674434)**, ::{ flag=US }:: [Ancuw](https://osu.ppy.sh/users/22674434), ::{ flag=US }:: [Hikikomori](https://osu.ppy.sh/users/22674434), ::{ flag=US }:: [Cuccurry](https://osu.ppy.sh/users/22674434), ::{ flag=US }:: [LukeGammoneese](https://osu.ppy.sh/users/22674434) |
+| D20 | **D20** | ::{ flag=GB }:: **[XxNewson1234xX](https://osu.ppy.sh/users/9895650)**, ::{ flag=GB }:: [_yea](https://osu.ppy.sh/users/9895650), ::{ flag=GB }:: [southest](https://osu.ppy.sh/users/9895650), ::{ flag=GB }:: [Magnes99](https://osu.ppy.sh/users/9895650), ::{ flag=GB }:: [leegun](https://osu.ppy.sh/users/9895650) |
+| D21 | **D21** | ::{ flag=GB }:: **[Pulsing](https://osu.ppy.sh/users/19141386)**, ::{ flag=GB }:: [Naito Mare](https://osu.ppy.sh/users/19141386), ::{ flag=GB }:: [dumbidot](https://osu.ppy.sh/users/19141386), ::{ flag=GB }:: [wlim](https://osu.ppy.sh/users/19141386), ::{ flag=GB }:: [Cozieuwu](https://osu.ppy.sh/users/19141386) |
+| D22 | **--Pavin--** | ::{ flag=TH }:: **[konkawe](https://osu.ppy.sh/users/15665805)**, ::{ flag=TH }:: [JayLye](https://osu.ppy.sh/users/15665805), ::{ flag=TH }:: [Duckys](https://osu.ppy.sh/users/15665805), ::{ flag=TH }:: [BC1_CI9](https://osu.ppy.sh/users/15665805), ::{ flag=TH }:: [mengfengouo](https://osu.ppy.sh/users/15665805) |
+| D23 | **BS paste** | ::{ flag=PL }:: **[bagjettka](https://osu.ppy.sh/users/18338179)**, ::{ flag=PL }:: [oyama mahiro](https://osu.ppy.sh/users/18338179), ::{ flag=PL }:: [Nessunop](https://osu.ppy.sh/users/18338179), ::{ flag=PL }:: [Johnney101](https://osu.ppy.sh/users/18338179), ::{ flag=PL }:: [P3pp3R_](https://osu.ppy.sh/users/18338179) |
+| D24 | **focal dystonia** | ::{ flag=MY }:: **[Aepq](https://osu.ppy.sh/users/24446642)**, ::{ flag=MY }:: [Stereotype](https://osu.ppy.sh/users/24446642), ::{ flag=MY }:: [ouxig](https://osu.ppy.sh/users/24446642), ::{ flag=MY }:: [LOKSHOON_OSU](https://osu.ppy.sh/users/24446642), ::{ flag=MY }:: [TW_cookies](https://osu.ppy.sh/users/24446642) |
 
 ## Podium
 
@@ -166,7 +166,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Q20: 不整活	 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Q20: 不整活 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  Q4: 玩不玩 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
 
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | D8: super magical chest	 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | D8: super magical chest |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  D6: Siemieniakowszczyzna |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | D20, D13 |
 
@@ -407,7 +407,7 @@ Saturday, 13 December 2025:
 
 | Team A |  |  | Team B | Match link | Video link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Q10: Running up That Hill** | **6** | 1 | Q11: 何意味 | [#1](https://osu.ppy.sh/mp/120065836) | [VOD](https://www.bilibili.com/video/BV1YJmYBvEpo/) |
+| **Q10: Running up That Hill** | **6** | 1 | Q11: 何意味 | [#1](https://osu.ppy.sh/community/matches/120065836) | [VOD](https://www.bilibili.com/video/BV1YJmYBvEpo/) |
 | **Q23: 队员已红温之anpig1013** | **6** | 3 | Q14: 老干嘛 | [#1](https://osu.ppy.sh/community/matches/120064215) | [VOD](https://www.bilibili.com/video/BV1BTm9BPENh) |
 | Q21: 希望能撑到后期 | 3 | **6** | **Q7: 五条区** | [#1](https://osu.ppy.sh/community/matches/120064706) | [VOD](https://www.bilibili.com/video/BV1NEmoBWEpB/) |
 | **Q13: 禁漫天堂官方** | **6** | 1 | Q5: 白色魔爪 | [#1](https://osu.ppy.sh/community/matches/120065459) | [VOD](https://www.bilibili.com/video/BV1VJmYBvELZ/) |
@@ -416,7 +416,7 @@ Sunday, 14 December 2025:
 
 | Team A |  |  | Team B | Match link | Video link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Q9: Team Falcons | 0 | **F** | **Q6: Grow a Garden** | *win by default* | |
+| Q9: Team Falcons | 0 | **F** | **Q6: Grow a Garden** | *win by default* |  |
 | **Q4: 玩不玩** | **6** | 1 | Q24: 舞萌吃 | [#1](https://osu.ppy.sh/community/matches/120075297) | [VOD](https://www.bilibili.com/video/BV16vmBBfEY1/) |
 | **Q20: 不整活** | **6** | 2 | Q18: 晕晕对策委员会 | [#1](https://osu.ppy.sh/community/matches/120075224) | [VOD](https://www.bilibili.com/video/BV16vmBBfE66/) |
 
@@ -430,10 +430,10 @@ Saturday, 6 December 2025:
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Q2: 下学乘三加下班乘二 | 1 | **6** | **Q22: My Angel Noodle** | [#1](https://osu.ppy.sh/community/matches/120008904) | [VOD](https://www.bilibili.com/video/BV1gL2RB9EYR/) |
 | Q6: Grow a Garden | 4 | **6** | **Q23: 队员已红温之anpig1013** | [#1](https://osu.ppy.sh/community/matches/120008665) | [VOD](https://www.bilibili.com/video/BV1s229BCEWG/) |
-| Q8: 品鉴中... | 3 | **6** | **Q18: 晕晕对策委员会** | [#1](https://osu.ppy.sh/mp/120009107) | [VOD](https://www.bilibili.com/video/BV1nd29BBEFH/) |
+| Q8: 品鉴中... | 3 | **6** | **Q18: 晕晕对策委员会** | [#1](https://osu.ppy.sh/community/matches/120009107) | [VOD](https://www.bilibili.com/video/BV1nd29BBEFH/) |
 | **Q3: 我已经挠了你的皮鼓** | **6** | 5 | Q17: 高雅人士 | [#1](https://osu.ppy.sh/community/matches/120008885) | [VOD](https://www.bilibili.com/video/BV1Y32RB4Exk/) |
-| **Q10: Running up That Hill** | **6** | 0 | Q5: 白色魔爪 | [#1](https://osu.ppy.sh/mp/120009046) | [VOD](https://www.bilibili.com/video/BV1Fq2RBzEGe/) |
-| Q12: GrowG依旧出征 | 5 | **6** | **Q7: 五条区** | [#1](https://osu.ppy.sh/mp/120007645) | [VOD](https://www.bilibili.com/video/BV1q62XBfE7t/) |
+| **Q10: Running up That Hill** | **6** | 0 | Q5: 白色魔爪 | [#1](https://osu.ppy.sh/community/matches/120009046) | [VOD](https://www.bilibili.com/video/BV1Fq2RBzEGe/) |
+| Q12: GrowG依旧出征 | 5 | **6** | **Q7: 五条区** | [#1](https://osu.ppy.sh/community/matches/120007645) | [VOD](https://www.bilibili.com/video/BV1q62XBfE7t/) |
 | Q11: 何意味 | 1 | **6** | **Q4: 玩不玩** | [#1](https://osu.ppy.sh/community/matches/120008042) | [VOD](https://www.bilibili.com/video/BV1pQ29BgEFV/) |
 | **Q20: 不整活** | **6** | 1 | Q16: 猫咖和他的动物朋友们 | [#1](https://osu.ppy.sh/community/matches/120008415) | [VOD](https://www.bilibili.com/video/BV1gL2RB9E2z/) |
 | Q21: 希望能撑到后期 | 5 | **6** | **Q14: 老干嘛** | [#1](https://osu.ppy.sh/community/matches/120008484) | [VOD](https://www.bilibili.com/video/BV1gL2RB9EJ6/) |
@@ -444,7 +444,7 @@ Sunday, 7 December 2025:
 | Team A |  |  | Team B | Match link | Video link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **Q9: Team Falcons** | **6** | 3 | Q1: GBC终末旅行 | [#1](https://osu.ppy.sh/community/matches/120019855) | [VOD](https://www.bilibili.com/video/BV1j7mABsESr/) |
-| **Q24: 舞萌吃** | **6** | 5 | Q15: 雀魂麻将官方 | [#1](https://osu.ppy.sh/mp/120019041) | [VOD](https://www.bilibili.com/video/BV17LmABdEkh/) |
+| **Q24: 舞萌吃** | **6** | 5 | Q15: 雀魂麻将官方 | [#1](https://osu.ppy.sh/community/matches/120019041) | [VOD](https://www.bilibili.com/video/BV17LmABdEkh/) |
 
 #### Group Stage Round 2
 
@@ -464,11 +464,11 @@ Saturday, 29 November 2025:
 | **Q6: Grow a Garden** | **5** | 3 | Q16: 猫咖和他的动物朋友们 | [#1](https://osu.ppy.sh/community/matches/119952464) | [VOD](https://www.bilibili.com/video/BV1NdScBBEsh/) |
 | Q8: 品鉴中... | 2 | **5** | **Q14: 老干嘛** | [#1](https://osu.ppy.sh/community/matches/119952284) | [VOD](https://www.bilibili.com/video/BV19nSwBnEjk/) |
 | Q3: 我已经挠了你的皮鼓 | 1 | **5** | **Q13: 禁漫天堂官方** | [#1](https://osu.ppy.sh/community/matches/119951336) | [VOD](https://www.bilibili.com/video/BV1ccSFB4Ea8) |
-| **Q10: Running up That Hill** | **5** | 2 | Q22: My Angel Noodle | [#1](https://osu.ppy.sh/mp/119952826) | [VOD](https://www.bilibili.com/video/BV1YHSwBDEVV/) |
+| **Q10: Running up That Hill** | **5** | 2 | Q22: My Angel Noodle | [#1](https://osu.ppy.sh/community/matches/119952826) | [VOD](https://www.bilibili.com/video/BV1YHSwBDEVV/) |
 | Q12: GrowG依旧出征 | 1 | **5** | **Q23: 队员已红温之anpig1013** | [#1](https://osu.ppy.sh/community/matches/119952024) | [VOD](https://www.bilibili.com/video/BV1kwSwBYEsv/) |
 | **Q9: Team Falcons** | **5** | 4 | Q18: 晕晕对策委员会 | [#1](https://osu.ppy.sh/community/matches/119952843) | [VOD](https://www.bilibili.com/video/BV1XnSwBnE9B/) |
 | Q11: 何意味 | 3 | **5** | **Q17: 高雅人士** | [#1](https://osu.ppy.sh/community/matches/119950614) | [VOD](https://www.bilibili.com/video/BV19GUZBgEuu/) |
-| Q24: 舞萌吃 | 4 | **5** | **Q5: 白色魔爪** | [#1](https://osu.ppy.sh/mp/119952194) | [VOD](https://www.bilibili.com/video/BV1YnSwBHE2w/) |
+| Q24: 舞萌吃 | 4 | **5** | **Q5: 白色魔爪** | [#1](https://osu.ppy.sh/community/matches/119952194) | [VOD](https://www.bilibili.com/video/BV1YnSwBHE2w/) |
 | **Q20: 不整活** | **5** | 3 | Q7: 五条区 | [#1](https://osu.ppy.sh/community/matches/119952630) | [VOD](https://www.bilibili.com/video/BV12XScBzEEP/) |
 | Q19: 阿拜多斯肘击委员会 | 2 | **5** | **Q4: 玩不玩** | [#1](https://osu.ppy.sh/community/matches/119952173) | [VOD](https://www.bilibili.com/video/BV1XnSwBnE1W/) |
 
@@ -487,7 +487,7 @@ Saturday, 22 November 2025:
 | Team A |  |  | Team B | Match link | Video link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | Q6: Grow a Garden | 3 | **5** | **Q7: 五条区** | [#1](https://osu.ppy.sh/community/matches/119892775) | [VOD](https://www.bilibili.com/video/BV1V5UxBSECt/) |
-| **Q8: 品鉴中...** | **5** | 1 | Q1: GBC终末旅行 | [#1](https://osu.ppy.sh/mp/119893505) | [VOD](https://www.bilibili.com/video/BV1ajUxB7Eqi/) |
+| **Q8: 品鉴中...** | **5** | 1 | Q1: GBC终末旅行 | [#1](https://osu.ppy.sh/community/matches/119893505) | [VOD](https://www.bilibili.com/video/BV1ajUxB7Eqi/) |
 | Q3: 我已经挠了你的皮鼓 | 1 | **5** | **Q4: 玩不玩** | [#1](https://osu.ppy.sh/community/matches/119893069) | [VOD](https://www.bilibili.com/video/BV1saUxBTES9/) |
 | **Q10: Running up That Hill** | **5** | 2 | Q15: 雀魂麻将官方 | [#1](https://osu.ppy.sh/community/matches/119893170) | [VOD](https://www.bilibili.com/video/BV1sYUxBiEEq/) |
 | Q12: GrowG依旧出征 | 4 | **5** | **Q16: 猫咖和他的动物朋友们** | [#1](https://osu.ppy.sh/community/matches/119891984) | [VOD](https://www.bilibili.com/video/BV1SpUxBVEN3/) |
@@ -566,7 +566,7 @@ Sunday, 14 December 2025:
 | Team A |  |  | Team B | Match link | Video link |
 | --: | :-: | :-: | :-- | :-- | :-- |
 | **D8: super magical chest** | **6** | 1 | D10: hope core ahh | [#1](https://osu.ppy.sh/community/matches/120077665) | [VOD](https://www.twitch.tv/videos/2644492922) |
-| D6: Siemieniakowszczyzna | 0 | **F** | **D1: giant bean chilling** | *win by default* | |
+| D6: Siemieniakowszczyzna | 0 | **F** | **D1: giant bean chilling** | *win by default* |  |
 | **D4: :sugos:** | **6** | 1 | D21 | [#1](https://osu.ppy.sh/community/matches/120076139) | [VOD](https://www.bilibili.com/video/BV1remBB8E3p/) |
 | D24: focal dystonia | 5 | **6** | **D20** | [#1](https://osu.ppy.sh/community/matches/120075710) | [VOD](https://www.bilibili.com/video/BV1remBB8EKU/) |
 | D23: BS paste | 5 | **6** | **D2** | [#1](https://osu.ppy.sh/community/matches/120075727) | [VOD](https://www.twitch.tv/videos/2643783222) |
@@ -583,7 +583,7 @@ Saturday, 6 December 2025:
 | **D13** | **6** | 3 | D7 | [#1](https://osu.ppy.sh/community/matches/120009935) | [VOD](https://www.bilibili.com/video/BV1P82RB5EMX/) |
 | D14 | 3 | **6** | **D8: super magical chest** | [#1](https://osu.ppy.sh/community/matches/120009983) | [VOD](https://www.twitch.tv/videos/2637565453) |
 | **D10: hope core ahh** | **6** | 3 | D5 | [#1](https://osu.ppy.sh/community/matches/120010479) | [VOD](https://www.bilibili.com/video/BV18L2RB9Ekk/) |
-| **D19** | **F** | 0 | D15: la team frigo | [#1](https://osu.ppy.sh/community/matches/120012730) | |
+| **D19** | **F** | 0 | D15: la team frigo | [#1](https://osu.ppy.sh/community/matches/120012730) |  |
 
 Sunday, 7 December 2025:
 
@@ -594,7 +594,7 @@ Sunday, 7 December 2025:
 | **D6: Siemieniakowszczyzna** | **6** | 1 | D24: focal dystonia | [#1](https://osu.ppy.sh/community/matches/120018672) | [VOD](https://www.bilibili.com/video/BV1BLmABdEea/) |
 | **D9** | **6** | 5 | D3 | [#1](https://osu.ppy.sh/community/matches/120019604) | [VOD](https://www.bilibili.com/video/BV17LmABdEbj/) |
 | D20 | 3 | **6** | **D16: eskere papus** | [#1](https://osu.ppy.sh/community/matches/120020083) | [VOD](https://www.bilibili.com/video/BV1qLmABdEZV/) |
-| **D17** | **F** | 0 | D12 | [#1](https://osu.ppy.sh/community/matches/120019695) | |
+| **D17** | **F** | 0 | D12 | [#1](https://osu.ppy.sh/community/matches/120019695) |  |
 | **D23: BS paste** | **6** | 2 | D11: shrimp gacha | [#1](https://osu.ppy.sh/community/matches/120019956) | [VOD](https://www.twitch.tv/videos/2637912890) |
 
 #### Group Stage Round 2
@@ -605,7 +605,7 @@ Friday, 28 November 2025:
 
 | Team A |  |  | Team B | Match link | Video link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **D4: :sugos:** | **5** | 3 | D11: shrimp gacha | [#1](https://osu.ppy.sh/community/matches/119944978) | |
+| **D4: :sugos:** | **5** | 3 | D11: shrimp gacha | [#1](https://osu.ppy.sh/community/matches/119944978) |  |
 
 Saturday, 29 November 2025:
 
