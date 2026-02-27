@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
+---
+
 # Consola del Chat
 
 Desde la mayoría de las pantallas en osu! puedes presionar `F8` o hacer clic en el botón `Mostrar chat` en la esquina inferior derecha para superponer la consola de chat en el tercio inferior de la pantalla.

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
+---
+
 # Chatkonsole
 
 Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste oder durch das Klicken des `Show Chat`-Tabs (unten rechts) geöffnet werden.

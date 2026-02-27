@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
 ---
 
 # Bảng trò chuyện
