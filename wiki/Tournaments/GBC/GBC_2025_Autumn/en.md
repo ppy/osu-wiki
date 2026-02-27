@@ -167,15 +167,15 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Q20: 不整活 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  Q4: 玩不玩 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Q4: 玩不玩 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Q23: 队员已红温之anpig1013, Q22: My Angel Noodle |
 
 ### Discord division
 
 | Placing | Player |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | D8: super magical chest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  D6: Siemieniakowszczyzna |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | D6: Siemieniakowszczyzna |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | D20, D13 |
 
 ## Mappools
