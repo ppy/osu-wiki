@@ -17,7 +17,7 @@ tags:
 
 # osu! at UCSD
 
-**osu! at UCSD** 是加州大学圣地亚哥分校 (*UCSD*) 内，*Triton Gaming* 旗下的一个 osu! 游戏社团。其目标是为 UCSD 校内及周边的 osu! 玩家提供一个互相联系、建立本地社区的空间。他们定期举办线下和线上聚会，以及线下局域网和线上的 osu! 锦标赛。
+**osu! at UCSD** 是加州大学圣地亚哥分校 (*UCSD*) 内，*Triton Gaming* 旗下的一个 osu! 游戏社团。其目标是为 UCSD 校内及周边的 osu! 玩家提供一个互相联系、建立本地社区的空间。他们定期举办线下和线上聚会，以及线下局域网内和线上的 osu! 锦标赛。
 
 有关其锦标赛的更多信息，请参见 [osu! at UCSD 赛事索引页面](/wiki/Tournaments/osu!_at_UCSD)。
 

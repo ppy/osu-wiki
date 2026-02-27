@@ -16,7 +16,7 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** 是加利福尼亚大学尔湾分校（University of California, Irvine；简称 *UCI*）的一个以游玩和讨论游戏为核心的 osu! 俱乐部。他们举办各种活动，其中最著名的是季节性的线下局域网内锦标赛和每周的面基聚会。
+**osu! UCI** 是加利福尼亚大学尔湾分校（University of California, Irvine；简称 *UCI*）的一个以游玩和讨论游戏为核心的 osu! 俱乐部。他们举办各种活动，其中最著名的是季节性的线下局域网内的锦标赛和每周的面基聚会。
 
 关于部分局域网活动的 wiki 文章，请参见 [osu! UCI 锦标赛索引界面](/wiki/Tournaments/osu!_UCI)。
 
