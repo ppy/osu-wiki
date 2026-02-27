@@ -4,7 +4,10 @@ tags:
   - osu! originals
   - originals
   - original
-  - musicosu! 原创曲原创曲
+  - music
+  - osu! 原创曲
+  - 原创曲
+  - 音乐
 ---
 
 # 定制音乐
@@ -19,7 +22,7 @@ tags:
 
 ## 统计
 
-osu! 内目前共有 **1243** 已记录的定制歌曲。
+osu! 内目前共有 **1243** 首已记录的定制歌曲。
 
 ![定制歌曲数量随时间的增长图](img/bespoke-music-over-time.png?20260208)
 
