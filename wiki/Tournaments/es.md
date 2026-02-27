@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 1bbe65b950ea3f9978bdbd5bcb423978c1f8e738
+outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
 ---
 
 # Torneos
@@ -99,7 +99,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18/7/2024 | 29/9/2024 | ::{ flag=US }:: Estados Unidos | ::{ flag=CN }:: China | ::{ flag=TH }:: Tailandia |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12/12/2024 | 23/2/2025 | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China | ::{ flag=PH }:: Filipinas |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17/7/2025 | 29/9/2025 | ::{ flag=US }:: Estados Unidos | ::{ flag=KR }:: Corea del Sur | ::{ flag=CN }:: China |
-| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11/12/2025 | 22/2/2026 | *Por determinar* | *Por determinar* | *Por determinar* |
+| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11/12/2025 | 22/2/2026 | ::{ flag=KR }:: Corea del Sur | ::{ flag=PH }:: Filipinas | ::{ flag=JP }:: Japón |
 
 ## Comunidad
 
@@ -356,6 +356,7 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15/2/2022 | 3/4/2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19/6/2023 | 30/7/2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 | [osu! Indonesia Tournament #14 (2024)](OIT/2024) | 23/9/2024 | 3/11/2024 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #15 (2025) ft. Stella](OIT/2025) | 29/12/2025 | 15/2/2026 | ::{ flag=ID }:: [lifelineO](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
 
 #### osu! Malaysia Tournament
 

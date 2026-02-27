@@ -390,10 +390,10 @@ Sunday, January 13, 2022
 | --: | :-: | :-: | :-- | :-- |
 | TouWhou? | 4 | **5** | **offbrand  mwc** | [#1](https://osu.ppy.sh/community/matches/97718307) |
 | TheAnswerIsPorn | 1 | **5** | **rice  quadruplets** | [#1](https://osu.ppy.sh/community/matches/97723198) |
-| **sllab amogus** | **5** | 0 | Shion Lovers | [#1]( https://osu.ppy.sh/community/matches/97725051) |
-| **badplayers49** | **5** | 4 | Watermelon | [#1]( https://osu.ppy.sh/community/matches/97731754) |
+| **sllab amogus** | **5** | 0 | Shion Lovers | [#1](https://osu.ppy.sh/community/matches/97725051) |
+| **badplayers49** | **5** | 4 | Watermelon | [#1](https://osu.ppy.sh/community/matches/97731754) |
 | **:1217angry:** | **5** | 4 | holiv  reprdution | [#1](https://osu.ppy.sh/community/matches/97734519) |
-| **Fumo** | **5** | 3 | omsim | [#1]( https://osu.ppy.sh/community/matches/97734449) |
+| **Fumo** | **5** | 3 | omsim | [#1](https://osu.ppy.sh/community/matches/97734449) |
 | Team Pixula | -1 | **0** | **ExtraRipeApples** | *win by default* |
 
 ### Qualifiers

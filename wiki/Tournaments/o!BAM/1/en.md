@@ -263,7 +263,7 @@ This competition has come to an end and resulted in the following podium:
   5. [Yu-Peng Chen @HOYO-MiX - Preserver of Fortune (Shurelia) \[77\]](https://osu.ppy.sh/beatmapsets/1370858#osu/2834500)
 - Hidden
   1. [lasah - EXCERPTS FROM THE DIARIES OF _ (Reincarnation) \[None\]](https://osu.ppy.sh/beatmapsets/868684#osu/1815675)
-  2. [Gesu no Kiwami Otome. - Romance ga Ariamaru (emilia) \[new try\]]()
+  2. [Gesu no Kiwami Otome. - Romance ga Ariamaru (emilia) \[new try\]](https://osu.ppy.sh/beatmapsets/623049#osu/1313278)
 - HardRock
   1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
   2. [SLAM & NATO - PARADOXX (zzx) \[Another\]](https://osu.ppy.sh/beatmapsets/1116086#osu/2331568)

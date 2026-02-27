@@ -94,7 +94,7 @@ Official tournaments organised by the osu! team.
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 2024-07-18 | 2024-09-29 | ::{ flag=US }:: United States | ::{ flag=CN }:: China | ::{ flag=TH }:: Thailand |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 2024-12-12 | 2025-02-23 | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippines |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 2025-07-17 | 2025-09-28 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=CN }:: China |
-| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 2025-12-11 | 2026-02-22 | ::{ flag=KR }:: South Korea | ::{ flag=PH }:: Philippines | ::{ flag=JP }:: Japan |
 
 ## Community
 
@@ -523,7 +523,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [UK Community Cup X](UKCC/X) | 2021-02-06 | 2021-04-12 | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761) | ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484) |
 | [UK Community Cup 10](UKCC/10) | 2021-09-11 | 2021-10-31 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 2022-01-23 | 2022-04-03 | Luciano Fan Club | denial piano | The |
-| [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
+| [UK Community Cup 12](UKCC/12) | 2023-03-18 | 2023-04-30 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
 | [UK Community Cup 13](UKCC/13) | 2025-06-08 | 2025-07-27 | *tbd* | *tbd* | *tbd* |
 
 #### Ulat Bulu Cup

@@ -496,7 +496,7 @@ Ask us about more tournament fire camp stories in the thread after you drop your
 
 **[YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania/4106766) Makes Its Loved Section Debut!**
 
-By now, everyone must be familiar with this wildly popular song that took the Ranked section by storm. For the first time ever, [YOASOBI - Idol](  https://osu.ppy.sh/beatmapsets/1974683#mania/4100532) arrives in the Loved section, featuring a wide variety of key modes for the community to enjoy — courtesy of [eZmmR]( https://osu.ppy.sh/users/8647138) and their talented guest difficulty creators!
+By now, everyone must be familiar with this wildly popular song that took the Ranked section by storm. For the first time ever, [YOASOBI - Idol](https://osu.ppy.sh/beatmapsets/1974683#mania/4100532) arrives in the Loved section, featuring a wide variety of key modes for the community to enjoy — courtesy of [eZmmR](https://osu.ppy.sh/users/8647138) and their talented guest difficulty creators!
 
 The map features 19 unique difficulties spanning 4K to 7K, plus a special 10K bonus challenge alongside a diverse range of mapping styles, offering a fresh and colorful experience for players of all preferences.
 

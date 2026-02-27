@@ -134,7 +134,7 @@ Les cercles sont visibles sur l'écran du bas, et l'histoire sur l'écran du hau
       - Le chronomètre est le cercle extérieur du spinner qui change de couleur. Le spinner se termine lorsque le cercle du chronomètre a complètement changé de couleur.
 - Les trois premières beatmaps classées le même jour (07 octobre 2007) lors de la mise en place du classement en ligne étaient les suivantes :
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), ou `discoprince` ; qui semblerait avoir été mappée en une heure environ.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , ou `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), ou `Brandy - Love Fighter`.
 - Notamment, les anciens dossiers ont leur propre convention de noms (les noms de dossiers ne peuvent être trouvés que dans les *anciens* beatmap packs) et ne suivent pas strictement le format `{ID du beatmap set} {Nom de l'artiste} - {Nom de la beatmap}`.
   - Le téléchargement direct à partir de la liste des beatmaps du site web osu! respecte le format de nom actuellement en vigueur malgré tout.
