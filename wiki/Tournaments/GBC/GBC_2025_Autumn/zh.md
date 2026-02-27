@@ -501,7 +501,7 @@ GBC 2025 秋季赛由 GB 成员和多位社区成员举办。
 | Q23: 队员已红温之anpig1013 | 2 | **5** | **Q20: 不整活** | [#1](https://osu.ppy.sh/community/matches/119892382) | [VOD](https://www.bilibili.com/video/BV1Y5UxBUERZ/) |
 | Q18: 晕晕对策委员会 | 4 | **5** | **Q21: 希望能撑到后期** | [#1](https://osu.ppy.sh/community/matches/119893346) | [VOD](https://www.bilibili.com/video/BV19VUxBJESn/) |
 
-2025 年 11 月 23 日，星期六
+2025 年 11 月 23 日，星期日
 
 | 队伍 A |  |  | 队伍 B | 比赛链接 | 视频链接 |
 | --: | :-: | :-: | :-- | :-- | :-- |
