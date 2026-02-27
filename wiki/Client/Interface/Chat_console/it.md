@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
----
-
 # Basi della Chat Console
 
 Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra per far comparire la Chat Console da quasi ogni schermata su osu!

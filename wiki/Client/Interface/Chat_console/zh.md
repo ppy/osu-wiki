@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
----
-
 # 聊天面板
 
 在 osu! 的绝大多数界面中，你都可以按下 `F8` 或者点击屏幕右下角的 `Show Chat` 按钮来把聊天面板叠加在屏幕的下方。
