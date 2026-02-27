@@ -40,8 +40,7 @@ tags:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，¥200 |
 | ![Silver crown](/wiki/shared/crown-silver.png "亚军") | ¥200 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | ¥150 |
-| *殿军* | ¥150 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "并列季军") | ¥150 |
 | *第 5-8 名* | ¥100 |
 | *第 9-16 名* | ¥50 |
 
@@ -64,8 +63,7 @@ tags:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，每人2个月osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 每人2个月osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 每人1个月osu!supporter |
-| *殿军* | 每人1个月osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "并列季军") | 每人1个月osu!supporter |
 
 | 资格赛排名 | 奖励 |
 | :-: | :-- |
@@ -757,6 +755,7 @@ GBC 2025 秋季赛由 GB 成员和多位社区成员举办。
 2. 选秀结束后，两个赛区的队伍进行分层分组，每 6 支队伍一组，将会分别进行 3 轮*小组赛*，组内积分前 4 的队伍晋级，决出各 16 支队伍进入淘汰赛，其他队伍将被淘汰。
 3. 小组赛结束后，两个赛区的队伍将会进行单败*淘汰赛*。
 4. 所有在淘汰赛落败的队伍都会被淘汰，直至决出最后的冠军。
+5. 本次比赛不设34名决赛，两支在半决赛被淘汰的队伍将并列季军。
 
 ### 选秀介绍
 
