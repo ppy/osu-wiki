@@ -9,7 +9,7 @@ tags:
 
 Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), metadata includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, which allow beatmaps to be effectively organized and discovered.
 
-![Beatmap Listing](img/beatmap-listing.png "Beatmap Listing")
+![Beatmap Listing](img/beatmap-listing.jpg "Beatmap Listing")
 
 Finding accurate metadata for your beatmap is, in essence, a process of [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (Search Engine Optimization). The more precise and descriptive your metadata is, the easier it becomes for players to find your beatmap. Metadata keywords can be used as filters in [song select](/wiki/Client/Interface#song-select) as well as on the website's [beatmap listing](https://osu.ppy.sh/beatmapsets) page via full-text search. Moreover, well-researched and detailed metadata increases the likelihood that your beatmap will attract modders, nominators, and ultimately progress through the ranking process more smoothly. Therefore, compiling accurate metadata is essential to ensure your beatmap reaches the right audience and receives the attention it deserves.
 
