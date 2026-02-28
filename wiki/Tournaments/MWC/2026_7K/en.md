@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2026 banner](img/mwc7k2026-banner.jpg)
 
-The **osu!mania 7K World Cup 2026** (***MWC 7K 2026***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the tenth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2026** (***MWC 7K 2026***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the tenth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
