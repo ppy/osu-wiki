@@ -38,7 +38,7 @@ tags:
 
 | 队伍排名 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，¥200 |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页徽章，¥200 |
 | ![Silver crown](/wiki/shared/crown-silver.png "亚军") | ¥200 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "并列季军") | ¥150 |
 | *第 5-8 名* | ¥100 |
@@ -61,15 +61,15 @@ tags:
 
 | 队伍排名 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，每人2个月osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 每人2个月osu!supporter |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "并列季军") | 每人1个月osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页徽章，每人2个月osu!支持者 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 每人2个月osu!支持者 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "并列季军") | 每人1个月osu!支持者 |
 
 | 资格赛排名 | 奖励 |
 | :-: | :-- |
-| *第 1 名* | 4个月supporter |
-| *第 2-8 名* | 2个月supporter |
-| *第 9-24 名* | 1个月supporter |
+| *第 1 名* | 4个月osu!支持者 |
+| *第 2-8 名* | 2个月osu!支持者 |
+| *第 9-24 名* | 1个月osu!支持者 |
 
 ![GBC 2025 秋季赛 Discord 赛区冠军缎带图片](img/GBC-2025-Autumn-badge-Discord-1st.png)
 
