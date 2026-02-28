@@ -9,7 +9,7 @@ Music made for osu! players, by an osu! player. What more could you ask for?
 
 ![](https://assets.ppy.sh/artists/531/header.jpg)
 
-When **Juztan** isn't busy setting 1000pp plays, he's knee-deep in a his digital audio workspace crafting music perfectly suited for circle clicking.
+When **Juztan** isn't busy setting 1000pp plays, he's knee-deep in his digital audio workspace crafting music perfectly suited for circle clicking.
 
 Ever since learning about music production, he's been exploring hardcore EDM with dreams of producing songs akin to those by [*7_7*](https://osu.ppy.sh/beatmaps/artists/356), [*katagiri*](https://osu.ppy.sh/beatmaps/artists/176) and [*Slax*](https://osu.ppy.sh/beatmaps/artists/465). A glance at osu!'s Ranked section proves that those dreams are becoming reality. 
 
