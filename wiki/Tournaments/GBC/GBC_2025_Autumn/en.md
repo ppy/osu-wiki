@@ -63,7 +63,13 @@ The **GB Cup 2025 Autumn** (***GBC 2025 Autumn***) was a 3v3 captain draft–bas
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "Winner") | Profile badge, 2 months osu!supporter tag for members |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months osu!supporter tag for members |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3-4 place") | 1 months osu!supporter tag for members |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3-4 place") | 1 month osu!supporter tag for members |
+
+| Qualifier placing | Prizes |
+| :-: | :-- |
+| *1st place* | 4 months osu!supporter tag |
+| *2-8 place* | 2 months osu!supporter tag |
+| *9-24 place* | 1 month osu!supporter tag |
 
 ![GBC 2025 Autumn Discord division winner badge](img/GBC-2025-Autumn-badge-Discord-1st.png)
 
