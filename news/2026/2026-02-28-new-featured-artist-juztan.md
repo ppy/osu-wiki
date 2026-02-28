@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Juztan"
-date: 2026-02-28 19:00:00 +0000
+date: 2026-02-28 21:00:00 +0000
 series: featured_artists
 ---
 
