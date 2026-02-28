@@ -20,11 +20,11 @@ Due to its SEO-oriented nature, the process of finding and compiling metadata fo
 - **Accuracy**: Prioritize official sources. Album liner notes, official music videos, and the artist's official website are typically the most reliable references for confirming a song's title and artist name. Check [Primary metadata source](/wiki/Beatmap/Primary_metadata_source) for more details.
 - **Consistency**: Take a look at metadata from other beatmaps of the same song or by the same artist. Adopt these conventions where appropriate. This helps maintain a coherent database and enables players to find related beatmaps more easily in a single search.
 - **Symmetry**: The discovery process mirrors the search process. The keywords that led you to the song's metadata are likely the same terms players will use to find your beatmap. You can leverage this by incorporating those keywords into your metadata tags.
-- **Relevance**: Focus on the most pertinent keywords players are likely to search for. For example, if your beatmap is a cover of a well-known song, consider including the original song title and original artist in the tags.
+- **Relevance**: Focus on the most pertinent keywords players are likely to search for. For example, if your beatmap is a cover of a well-known song, consider including the original artist in the tags.
 
 ## Starting Off
 
-First, you need to gather some basic information about the song. You may have discovered a track on platforms like YouTube or SoundCloud and obtained the MP3 from there. More often than not, you already know which song you want to map, or you've come across something interesting while browsing.
+First, you need to gather some basic information about the song. You may have discovered a track on platforms like [YouTube](https://www.youtube.com) or [SoundCloud](https://soundcloud.com) and obtained the MP3 from there. More often than not, you already know which song you want to map, or you've come across something interesting while browsing.
 
 If you don't recognize the song, you can try identifying it using a music recognition app such as [Shazam](https://www.shazam.com) or [SoundHound](https://music.soundhound.com/soundhound). These tools can identify songs based on a short audio sample. If the song is recognized, the app will provide you with the title, artist and sometimes even album information.
 
@@ -34,7 +34,7 @@ If you've successfully identified the song or already know what you're looking f
 
 ## Searching Stage
 
-Basically speaking, finding metadata is a process of searching for the song's information on the internet. You can start with general-purpose search engines like [Google](https://www.google.com), [Bing](https://www.bing.com) or [Yandex](https://yandex.com) to locate official titles, artists, and other relevant details.
+Basically speaking, finding metadata is a process of searching for the song's information on the internet. You can start with general-purpose search engines like [Google](https://www.google.com), [Bing](https://www.bing.com) or [Yandex](https://yandex.com) to locate official titles, artists and other relevant details.
 
 When searching, try using the specific keywords you already know, such as a lyric snippet, a presumed song title, the artist's name or any other unique identifiers. For music that isn't too obscure, top search results will typically lead you to official release pages or major streaming sources.
 
@@ -97,8 +97,9 @@ When searching for metadata, you will often encounter websites in languages you 
 
 The `Ctrl+F` (or `Cmd+F` on Mac) shortcut is your best friend. Once you land on a page, use it to search for keywords related to your song, for example:
 
-- Search for the song title in its original language (which you may have copied from a database like [VGMdb](https://vgmdb.net) or [Wikipedia](https://en.wikipedia.org)).
-- Search for common terms like "CD", "Music", "Tracklist", or "Discography". These words are often written in English even on sites in other languages.
+- song title in its original language.
+- common terms like "CD", "Music", "Tracklist", or "Discography". These words are often written in English even on sites in other languages.
+- any known information such as the artist's name, or album name.
 
 ### Look for Visual Cues in URLs
 
