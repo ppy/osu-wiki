@@ -1,7 +1,5 @@
 ---
 needs_cleanup: true
-outdated_translation: true
-outdated_since: f0fd72ffafeeb39166210415d1ef33490039dc94
 ---
 
 <!-- "or" isn't translated in the tables -->
