@@ -596,15 +596,15 @@ The final standings for the Qualifiers stage can be found in the following [qual
 5. Bans:
    1. Each team bans 2 maps (excluding TB and FT) within 90s. If no selection is made, the referee uses `!roll` to randomly decide. Ban order: A(first), B(first), B(second), A(second).
    2. A team cannot ban the same slot twice. (e.g HD1/HD2 ban deemed as invalid, while HD1/HR1 ban is a valid ban)
-5. Picks: After bans, the pick-first team selects maps alternately. Selection time: 90s; preparation time: 90s. If no selection is made, the referee uses `!roll` to decide. Once all players are ready or preparation time ends, the referee starts the map with `!mp start 10`.
-6. FT members please finalize within 180 seconds.
-7. Disconnections:
+6. Picks: After bans, the pick-first team selects maps alternately. Selection time: 90s; preparation time: 90s. If no selection is made, the referee uses `!roll` to decide. Once all players are ready or preparation time ends, the referee starts the map with `!mp start 10`.
+7. FT members please finalize within 180 seconds.
+8. Disconnections:
    - Within 30 seconds of map start: One retry per team is allowed.
    - After 30 seconds: The score is counted as 0.
-8. No Fail mods are applied to all maps.
-9. If a map has draw results, the teams will replay the same map. If a second draw occurs, the selecting team chooses a different map, and the drawn map is available again in the pool.
-10. Ties will be resolved via the Tiebreaker bracket.
-11. Technical Issues such as game bugs (e.g score not registering, map loading errors)
+9. No Fail mods are applied to all maps.
+10. If a map has draw results, the teams will replay the same map. If a second draw occurs, the selecting team chooses a different map, and the drawn map is available again in the pool.
+11. Ties will be resolved via the Tiebreaker bracket.
+12. Technical Issues such as game bugs (e.g score not registering, map loading errors)
     - Referees decide on a replay.
     - Unresolved issues are escalated to organisers.
     - Device issues: Affected players’ teammates continue; if all players are affected, the match is forfeited.
