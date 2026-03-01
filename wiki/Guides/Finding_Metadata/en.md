@@ -63,7 +63,6 @@ Metadata from these platforms is supplied directly by record labels and distribu
 - **Global/English:**
   - [**Bandcamp**](https://bandcamp.com): Excellent for independent artists, niche genres, and often includes detailed info directly from the creator. Since artists have direct control over their Bandcamp pages, information found here is often as authoritative as their official website.
   - [**SoundCloud**](https://soundcloud.com): A platform for independent artists and remixes. Many artists use SoundCloud to upload demos, alternate versions, or tracks that may not receive a commercial release. Official artist accounts can be treated as primary sources.
-
 - **Regional Specialists:**
   - *For Japanese Music:* [**Ototoy**](https://ototoy.jp) (ideal for independent, doujin, anime, and Hi-Res music), [**Mora**](http://mora.jp).
   - *For Korean Music:* [**Melon**](https://melon.com), [**Genie**](https://genie.co.kr), [**Bugs**](https://bugs.co.kr) (the dominant local platforms).
