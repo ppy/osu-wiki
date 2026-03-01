@@ -24,7 +24,7 @@ You should contact this team regarding account-related topics that are out of yo
   - profile content removals;
   - beatmap removals;
   - forum post and comment removals.
-- Instances of misbehaviour that you [wish to admit](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
+- Instances of misbehaviour that you [wish to admit](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit).
 - [Loss of access to the email](/wiki/Help_centre/Account#sign-in) tied to your osu! account, or when your account is stolen.
 - Username [reverts and minor spelling corrections](/wiki/Help_centre/Account#name-changes).
 - [Bot account registrations](/wiki/Bot_account).
