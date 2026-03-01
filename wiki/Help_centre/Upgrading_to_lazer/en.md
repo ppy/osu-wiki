@@ -96,6 +96,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Custom hitsound sample sets | ![Yes][true] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
@@ -498,31 +499,37 @@ However, only the following mods will award performance points for now:
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (only 0.75x, configuring `Adjust pitch` is allowed)
-  - Daycore (only 0.75x)
+  - Half Time (Configuring `Adjust pitch` is allowed)
+  - Daycore
 - Difficulty Increase
-  - Hard Rock (not for osu!mania)
-  - Sudden Death (Configuring `Restart on fail` is allowed)
-  - Perfect (Configuring `Restart on fail` is allowed)
+  - Hard Rock (Not for osu!mania)
+  - Sudden Death (Configuring `Also fail when missing a slider tail (only for osu!)` and `Restart on fail` is allowed)
+  - Perfect (Configuring `Require perfect hits (only for osu!mania)` and `Restart on fail` is allowed)
+  - Double Time (Configuring `Adjust pitch` is allowed)
+  - Nightcore
+  - Fade In (osu!mania only)
   - Hidden
-  - Nightcore (only 1.5x)
-  - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
+  - Cover (osu!mania only, configuring `Direction` is allowed)
   - Flashlight
-  - Blinds
-  - Accuracy Challenge
-- Conversion (osu!mania only)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+  - Blinds (osu! only)
+  - Accuracy Challenge (All customisation options are allowed)
+- Automation
+  - Spun Out (osu! only)
+- Conversion
+  - Alternate (osu! only)
+  - Single Tap (osu! & osu!taiko only)
+  - Swap (osu!taiko only)
+  - Mirror (osu!mania only)
+  - Four Keys (osu!mania only)
+  - Five Keys (osu!mania only)
+  - Six Keys (osu!mania only)
+  - Seven Keys (osu!mania only)
+  - Eight Keys (osu!mania only)
+  - Nine Keys (osu!mania only)
 - Fun
-  - Muted
-  - No Scope
-- Automation (osu! only)
-  - Spun out
+  - Traceable (osu! only)
+  - Muted (All customisation options are allowed)
+  - No Scope (osu! & osu!catch only, configuring `Hidden at combo` is allowed)
 - System
   - Touch Device
 
@@ -596,7 +603,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+If you need to make changes to a beatmap, please use the in-game beatmap editor. You can alternatively click "Edit externally" under the "File" tab in the editor to open the map in a temporary folder for external editing.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 
