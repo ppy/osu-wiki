@@ -2,10 +2,11 @@
 outdated: true
 tags:
   - 加利福尼亚州
-  - 大学
-  - 组织
-  - 机构
   - 俱乐部
+  - 学院
+  - 尔湾
+  - 欧文
+  - 大学
   - California
   - club
   - college
@@ -15,9 +16,9 @@ tags:
 
 # osu! UCI
 
-**osu! UCI** 是一个来自加利福尼亚大学尔湾分校（英语：University of California, Irvine；缩写：*UCI*）的 osu! 音游社团。他们定期举办各种活动，比如季节性的线下锦标赛以及每周的面基会。
+**osu! UCI** 是加利福尼亚大学尔湾分校（University of California, Irvine；简称 *UCI*）的一个以游玩和讨论游戏为核心的 osu! 俱乐部。他们举办各种活动，其中最著名的是季节性的线下局域网内的锦标赛和每周的面基聚会。
 
-有关线下活动相关的 wiki 文章，请参见 [osu! UCI 锦标赛索引界面](/wiki/Tournaments/osu!_UCI)。
+关于部分局域网活动的 wiki 文章，请参见 [osu! UCI 锦标赛索引界面](/wiki/Tournaments/osu!_UCI)。
 
 ## 链接
 
@@ -27,7 +28,7 @@ tags:
 - [Twitch 频道](https://www.twitch.tv/osuuci)
 - [Twitter](https://twitter.com/osuUCI)
 
-## 成员
+## 负责人
 
 ### 在任
 
