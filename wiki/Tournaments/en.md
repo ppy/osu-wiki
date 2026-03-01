@@ -661,6 +661,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Taiko 2v2 Convert Tourney v3](TCT/v3) | 2021-05-06 | 2021-06-20 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
 | [Taiko Convert Tournament v4](TCT/v4) | 2022-06-05 | 2022-07-31 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
 
+#### Taiko Frontier
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Blaze Killing Taiko Frontier](Taiko_Frontier/BKTF_1) | 2025-10-04 | 2025-11-23 | **寿命** (::{ flag=JP }:: **[makaki](https://osu.ppy.sh/users/21893710)**, ::{ flag=JP }:: [nuku0315](https://osu.ppy.sh/users/8772103), ::{ flag=VN }:: [njshift1](https://osu.ppy.sh/users/16688499)) | **The King's Guard** (::{ flag=NO }:: **[Nurend Fanboy](https://osu.ppy.sh/users/18916920)**, ::{ flag=NO }:: [Vendelicious](https://osu.ppy.sh/users/8818089), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142)) | **DaiKiu volviste a tomar temporada 4** (::{ flag=CL }:: **[DaiKiu](https://osu.ppy.sh/users/4232665)**, ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=AU }:: [Necromancy](https://osu.ppy.sh/users/1890084)) |
+
 #### Taiko Last Man Standing
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
