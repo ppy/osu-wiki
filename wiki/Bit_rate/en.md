@@ -12,4 +12,4 @@ Bit rates of audio files typically range from 96kbps (kilobits per second) to 32
 
 ## Requirements
 
-For beatmaps aiming for [Ranked](/wiki/Beatmap/Category#ranked), audio bit rate must follow the requirements outlined in the [Ranking Criteria § Audio § Rules](/wiki/en/Ranking_criteria#rules.3) section, which helps ensure decent audio quality while keeping file sizes reasonable.
+For beatmaps aiming for [Ranked](/wiki/Beatmap/Category#ranked), audio bit rate must follow the requirements outlined in the [Ranking Criteria § Audio § Rules](/wiki/Ranking_criteria#rules.3) section, which helps ensure decent audio quality while keeping file sizes reasonable.
