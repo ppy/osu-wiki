@@ -1,6 +1,6 @@
 # 谱面审核成员等级
 
-**谱面审核成员等级**是一种区分[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 等级高低的方式，它模仿了[作图辅助团队](/wiki/People/Mapping_Assistance_Team)和[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team)的区分。这一系统在 2017 年四月到九月被使用。
+**谱面审核成员等级**是一种区分[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 等级高低的方式，它模仿了[谱面协助团队](/wiki/People/Mapping_Assistance_Team)和[谱面审核团队](/wiki/People/Beatmap_Appreciation_Team)的区分。这一系统在 2017 年四月到九月被使用。
 
 该系统的出现，是为了适应[质量保证团队](/wiki/People/Quality_Assurance_Team) (*QAT*) 的职责变化（由确保过审的谱面质量，变为总体的谱面审核管理）。QAT 希望把批准通过审核的权限只给 BN 中“最有能力”的成员，以此提升谱面质量。
 
