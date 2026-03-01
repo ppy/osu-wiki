@@ -88,7 +88,7 @@ tags:
 | ::{ flag=PL }:: | **Poland** | [kacperniszon](https://osu.ppy.sh/users/4656634) |
 | ::{ flag=PL }:: | **Poland** | [Mikjorn](https://osu.ppy.sh/users/11753451) |
 | ::{ flag=PL }:: | **Poland** | [nieudas](https://osu.ppy.sh/users/17195113) |
-| ::{ flag=PL }:: | **Poland** | [MyBoyFemboyVaxa](https://osu.ppy.sh/users/9783155) |
+| ::{ flag=PL }:: | **Poland** | [NieTheDie](https://osu.ppy.sh/users/9783155) |
 | ::{ flag=PL }:: | **Poland** | [kaenen](https://osu.ppy.sh/users/9599681) |
 | ::{ flag=PL }:: | **Poland** | [Tiler](https://osu.ppy.sh/users/11142471) |
 | ::{ flag=PL }:: | **Poland** | [konfi](https://osu.ppy.sh/users/12209670) |
