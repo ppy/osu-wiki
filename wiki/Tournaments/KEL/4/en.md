@@ -197,6 +197,7 @@ tags:
 5. The tiebreaker will be played under Free Mod conditions. Players may choose a combination of Hidden and/or Hard Rock, but are still required to use No Fail.
 
 ### Win conditions
+
 - In the Qualifiers, players need to place in the top 32 seeded players in order to advance to the bracket stage.
 - In the Round of 32, players need to win 4 maps to win a match (best of 7).
 - In the Round of 16, Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
