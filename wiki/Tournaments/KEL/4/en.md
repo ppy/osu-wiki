@@ -45,7 +45,7 @@ tags:
 | Playtesters | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=RU }:: [nejzha](https://osu.ppy.sh/users/8105138) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
 | Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706) |
-| Commentators | *TBA* |
+| Commentators | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=PT }:: [berniee](https://osu.ppy.sh/users/8106595), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [MrHyena](https://osu.ppy.sh/users/2442779), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=PL }:: [Etfard](https://osu.ppy.sh/users/13676120), ::{ flag=SG }:: [gamicrayola](https://osu.ppy.sh/users/29426345), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
 ## Links
@@ -195,6 +195,12 @@ tags:
 3. Each mappool will consist of 4 brackets: No Mod, Hidden, Hard Rock and Double Time.
 4. Each bracket will be played with the respective mods enabled for all players.
 5. The tiebreaker will be played under Free Mod conditions. Players may choose a combination of Hidden and/or Hard Rock, but are still required to use No Fail.
+
+### Win conditions
+- In the Qualifiers, players need to place in the top 32 seeded players in order to advance to the bracket stage.
+- In the Round of 32, players need to win 4 maps to win a match (best of 7).
+- In the Round of 16, Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
+- In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Bracket stage procedure
 
