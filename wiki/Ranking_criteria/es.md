@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 281d8de971e3eabb99ebd16c4055a935242e0cd2
----
-
 # Criterios de clasificación
 
 Este artículo establece las reglas y pautas que los [beatmaps](/wiki/Beatmap) deben seguir para avanzar en el [procedimiento de clasificación](/wiki/Beatmap_ranking_procedure).
@@ -24,6 +19,7 @@ Algunas partes de los criterios de clasificación tienen sus propios artículos,
 - **[Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)**: Pautas sobre las imágenes que aparecen en los fondos, storyboards o el contenido de los vídeos en los beatmaps de osu!
 - **[Reglas del contenido de canciones](/wiki/Rules/Song_content_rules)**: Pautas sobre el contenido del audio en los beatmaps
 - **[Código de conducta para el modding y el mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)**: Reglas y pautas para participar en el proceso de modding de los beatmaps
+- **[Procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure)**: El proceso que deben seguir todos los beatmaps para ser clasificados
 
 ### Criterios de clasificación generales
 
