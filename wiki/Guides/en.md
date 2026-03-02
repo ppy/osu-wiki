@@ -9,7 +9,6 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [Audio editing guide](Audio_editing)
 - [Changing the title text](/wiki/Beatmap/Title_text#changing-title-text)
 - [Compressing files](Compressing_files)
-- [Custom hitsound library](Custom_hitsound_library)
 - [Custom sample overrides](Custom_sample_overrides)
 - [How to change a map's artist or title](Changing_the_artist_or_title)
 - [How to resolve BSS issues](BSS_issues)
