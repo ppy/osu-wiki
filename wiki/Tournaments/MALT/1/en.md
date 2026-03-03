@@ -164,7 +164,7 @@ This competition ended with the following podium:
   6. [polysha - It's "alice" dream (Makiba) \[Makibother\]](https://osu.ppy.sh/beatmapsets/2069181#mania/4329381)
   7. [DJ Genki - Area11 (Mashiro-Fang) \[Another\]](https://osu.ppy.sh/beatmapsets/1048544#mania/2191646)
 - LN
-  1. [Nekomata Okayu & Ookami Mio - Otona no Okite (tastydumpl1ng) \[7k Insane\]]()
+  1. [Nekomata Okayu & Ookami Mio - Otona no Okite (tastydumpl1ng) \[7k Insane\]](https://osu.ppy.sh/beatmapsets/2069160#mania/4329349)
   2. [Astolsko - Witchery interlude (SurfChu85) \[Arcane\]](https://osu.ppy.sh/beatmapsets/2069151#mania/4329328)
   3. [Magnus Palsson - Potential for Anything (Cut Ver.) (lenpai) \[turkey\]](https://osu.ppy.sh/beatmapsets/1495430#mania/3067468)
   4. [ano - Smile Agenai (lenpai) \[milo mcflurry\]](https://osu.ppy.sh/beatmapsets/2069141#mania/4329304)

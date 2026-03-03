@@ -124,6 +124,7 @@ The following gameplay sounds are all beatmap skinnable.
 | `failsound.wav` | Failing a map at any point |
 | `sectionpass.wav` | Halfway through a break with high HP remaining |
 | `sectionfail.wav` | Halfway through a break with low HP remaining |
+| `fountain-shoot.wav` | Reaching the beginning of a kiai section |
 
 Notes:
 
@@ -133,6 +134,10 @@ Notes:
 - `failsound.wav`:
   - Not intended to last longer than the fail animation (about 5 seconds).
   - Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
+- `fountain-shoot.wav`:
+  - This sound is only used in the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game. It has no effect in osu!(stable).
+  - The sound is played with the fountain animation at the beginning of each kiai section in a map.
+  - It will also play in the main menu when the client has focus.
 
 ## Rank display (Lazer only)
 

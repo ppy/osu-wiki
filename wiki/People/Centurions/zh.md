@@ -28,6 +28,7 @@
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [2013-06-13](https://osu.ppy.sh/beatmapsets/64564) | [2024-02-08](https://osu.ppy.sh/beatmapsets/2105591) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [2020-03-09](https://osu.ppy.sh/beatmapsets/1112834) | [2023-08-28](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | [2022-09-27](https://osu.ppy.sh/beatmapsets/1842510) | [2025-11-26](https://osu.ppy.sh/beatmapsets/2444077) |  |
+| ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | [2017-04-20](https://osu.ppy.sh/beatmapsets/582493) | [2026-02-11](https://osu.ppy.sh/beatmapsets/2455952) | [#1](https://osu.ppy.sh/beatmaps/packs/TM36) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11)、[#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
 | ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680) | [2021-10-18](https://osu.ppy.sh/beatmapsets/1547072) | [2024-12-11](https://osu.ppy.sh/beatmapsets/2271969) | [#1](https://osu.ppy.sh/beatmaps/packs/TM26) |
 | ::{ flag=KR }:: [Lliria](https://osu.ppy.sh/users/1997633) | [2018-11-08](https://osu.ppy.sh/beatmapsets/809992) | [2025-01-19](https://osu.ppy.sh/beatmapsets/2268756) |  |
@@ -49,4 +50,4 @@
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面平均需要 **5.4 年**（大约 1985 天）。<!--Stats from https://chromb.uk/centurions/data.json-->
+- 总体来说，上架 100 张谱面平均需要 **5.5 年**（大约 2021 天）。<!--Stats from https://chromb.uk/centurions/data.json-->

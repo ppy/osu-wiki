@@ -125,7 +125,7 @@ The tables below list all user tags grouped by category as well as the game mode
 
 | Tag name | Description | Game mode |
 | :-- | :-- | :-- |
-| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Employs symmetry within the map design, often mirroring elements along the horizontal centreline. | ![][osu!] |
+| [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Employs symmetry within the map design, often mirroring elements along the vertical centreline. | ![][osu!] |
 | [style/distance snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdistance%20snap%22%22) | Uses osu's in-built distance snap feature for most/all of the map. | ![][osu!] |
 | [style/grid snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgrid%20snap%22%22) | Objects are placed along a square grid, typically using osu!'s built-in grid snap feature. | ![][osu!] |
 | [style/hexgrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhexgrid%22%22) | Objects are placed along a hexagonal grid. | ![][osu!] |
@@ -135,15 +135,15 @@ The tables below list all user tags grouped by category as well as the game mode
 | [style/messy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmessy%22%22) | Visually chaotic and intentionally disorganised patterns, often involving many overlaps and unequal visual spacing between objects. | ![][osu!] |
 | [style/avant-garde](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Favant-garde%22%22) | Employs boundary-pushing and experimental philosophies to map design, often foregoing gameplay and aesthetic conventions to extreme measures. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [style/chordjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordjack%22%22) | Maps that feature evenly spaced chords, with several consecutive notes stacked on the same columns. | ![][osu!mania] |
-| [style/chordstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordstream%22%22) | Maps that make use of streams with a mix of differently-sized chords | ![][osu!mania] |
+| [style/chordstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fchordstream%22%22) | Maps that make use of streams with a mix of differently-sized chords. | ![][osu!mania] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | A map that imitates the converted maps from osu!. | ![][osu!taiko] |
 | [style/convert](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fconvert%22%22) | A map that imitates the converted maps from osu!, where the structure and distances are irregular. | ![][osu!catch] |
 | [style/double bpm](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdouble%20bpm%22%22) | A map that plays at double the speed than what the BPM indicates. | ![][osu!taiko] |
 | [style/dump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdump%22%22) | Maps that use groups of objects focusing more on the extension and intensity of the sounds, in contrast with using individual notes to follow each's sound timing accurately. | ![][osu!mania] |
 | [style/finisher-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffinisher-heavy%22%22) | Features finishers used in an unconventional manner or in large amounts. | ![][osu!taiko] |
 | [style/generic hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgeneric%20hybrid%22%22) | Maps that feature the combination of both straightforward rice and Long Notes patterning. | ![][osu!mania] |
-| [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | Stream with a mix of 3-note sized chords | ![][osu!mania] |
-| [style/jumpstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fjumpstream%22%22) | Stream with a mix of 2-note sized chords | ![][osu!mania] |
+| [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | Stream with a mix of 3-note sized chords. | ![][osu!mania] |
+| [style/jumpstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fjumpstream%22%22) | Stream with a mix of 2-note sized chords. | ![][osu!mania] |
 | [style/LN coordination](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20coordination%22%22) | Maps which require holding multiple long notes simultaneously while hitting other patterns. | ![][osu!mania] |
 | [style/LN density](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20density%22%22) | Maps that feature dense long note streams without breaks. | ![][osu!mania] |
 | [style/LN mixed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20mixed%22%22) | Maps that make use of multiple long note patterning styles. | ![][osu!mania] |
@@ -153,7 +153,7 @@ The tables below list all user tags grouped by category as well as the game mode
 | [style/mono-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmono-heavy%22%22) | Features monos used in large amounts. | ![][osu!taiko] |
 | [style/N+1](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FN%2B1%22%22) | A specific type of playstyle where the leftmost column is mapped independently from the rest of the columns, which otherwise form a standard playstyle. | ![][osu!mania] |
 | [style/o2jam](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fo2jam%22%22) | Map that mimics traditional mapping techniques usually found in O2jam charts. | ![][osu!mania] |
-| [style/quadstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fquadstream%22%22) | Stream with a mix of 4-note sized chords | ![][osu!mania] |
+| [style/quadstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fquadstream%22%22) | Stream with a mix of 4-note sized chords. | ![][osu!mania] |
 | [style/taikosu](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftaikosu%22%22) | A map designed with both osu! and osu!taiko in mind. | ![][osu!taiko] |
 | [style/tiebreaker](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftiebreaker%22%22) | Maps that contain most of the skill sets from different categories, and are usually longer than 5 minutes. | ![][osu!mania] |
 | [style/tnt](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftnt%22%22) | A map that imitates the mapping style in Taiko No Tatsujin. | ![][osu!taiko] |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 28f13b3a93c3c644e285440d4c537ec270d92ff7
+---
+
 # Criterios de estilo para las noticias
 
 *Para los artículos de la wiki, véase: [Criterios de estilo para los artículos](/wiki/Article_styling_criteria)*

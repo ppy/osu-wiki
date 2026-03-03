@@ -8,11 +8,11 @@ tags:
 
 ![contest banner](img/banner.jpg)
 
-The **osu!taiko Mapping World Cup 2025** (***TMWC 2025***) is a country-based, multi-stage osu!taiko mapping contest that aims to crown which nation is the best at creating osu!taiko beatmaps.
+The **osu!taiko Mapping World Cup 2025** (***TMWC 2025***) was a country-based, multi-stage osu!taiko mapping contest that aimed to crown which nation is the best at creating osu!taiko beatmaps.
 
 ## Schedule
 
-Registrations open 20 July 2025. Each round consists of a mapping phase and a judging phase.
+Registrations opened 20 July 2025. Each round consisted of a mapping phase and a judging phase.
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
@@ -34,13 +34,13 @@ Registrations open 20 July 2025. Each round consists of a mapping phase and a ju
 
 ## Organisation
 
-The osu!taiko Mapping World Cup 2025 is run by various community members.
+The osu!taiko Mapping World Cup 2025 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
-| Designers | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
-| Judges | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029) |
+| Designers | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
+| Judges | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -48,13 +48,20 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 - [Forum post](https://osu.ppy.sh/community/forums/topics/2101898)
 - [Contest listing](https://osu.ppy.sh/community/contests/252)
 - [Discord server](https://discord.com/invite/5ewzEEcUCB)
+- [Results spreadsheet](https://docs.google.com/spreadsheets/d/1vg0u3erwGcuugFkQv-U7pRUWUaPjuLKfVb_gxJZIinY)
 - [**Registration form**](https://forms.gle/poJrvrceL3E19bSE6)
+
+## Podium
+
+![osu!taiko Mapping World Cup 2025 podium](/wiki/shared/news/2026-01-12-osutaiko-mapping-world-cup-2025-concludes/TMWC25_Podium.jpg)
+
+A complete breakdown of the contest results, overview of participating teams, and links to detailled scores and feedback can be found in the [contest spreadsheet](https://docs.google.com/spreadsheets/d/1vg0u3erwGcuugFkQv-U7pRUWUaPjuLKfVb_gxJZIinY).
 
 ## Ruleset
 
 ### Format
 
-- The format is significantly different from last year. We have aimed to reduce the long-term demands on teams without compromising the integrity and opportunity to create great beatmaps. Round 1 will act as a seeding round. Round 2 will feature a group stage with teams split into groups according to their seeding from Round 1. The top teams from each group will progress to Round 3 (the final). Every team will get to participate in Rounds 1&2. Teams will be expected to produce 1 map per round.
+- Round 1 will act as a seeding round. Round 2 will feature a group stage with teams split into groups according to their seeding from Round 1. The top teams from each group will progress to Round 3 (the final). Every team will get to participate in Rounds 1&2. Teams will be expected to produce 1 map per round.
 - Every round's judging criteria will be the same.
 - Each map in each round will be produced according to a specific modifier, encouraging teams to display their creativity within certain boundaries. You do not need to adhere to this theme but will lose points for failing to do so.
 - When choosing the songs you will map during a round, the songs **must** be chosen from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists). If a specific song is provided, you must map only that song.
@@ -82,8 +89,8 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 - **Creativity (10):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
 - **Relevance and Modifier (10):** Points will be assigned based on how well the map fits the song and how well the round modifier is incorporated.
 
-Scores will be reported as standardised scores.
+Scores were reported as standardised scores.
 
 ## Notes
 
-[^cash-prize]: The cash prize pool is crowdfunded by the osu!taiko community.
+[^cash-prize]: The cash prize pool was generously crowdfunded by the osu!taiko community.
