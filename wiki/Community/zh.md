@@ -16,7 +16,7 @@
 *另见：[项目列表](/wiki/Community/Projects)*
 
 - [社区导师计划](/wiki/Community/Community_Mentorship_Program)
-- [谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild)
+- [谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
 - [osu! 月报](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)

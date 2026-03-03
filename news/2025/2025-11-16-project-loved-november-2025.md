@@ -152,7 +152,7 @@ Please wish them well on their future endeavors, and of course, please remember 
 140 BPM, 2:32 | 6.55★\
 *description written by [BATBALL](https://osu.ppy.sh/users/15173952)*
 
-Our first *Wildcard* pick for this month is [amanatu2]( https://osu.ppy.sh/users/998901)'s cult classic alt map: [Shun-ran]( https://osu.ppy.sh/beatmapsets/1440688#osu).
+Our first *Wildcard* pick for this month is [amanatu2](https://osu.ppy.sh/users/998901)'s cult classic alt map: [Shun-ran](https://osu.ppy.sh/beatmapsets/1440688#osu).
 
 You could call me John Shun-ran with how much I love this map... It's easy to see why though, as this beatmap provides an accessible yet unique take on alt-mapping, featuring a lot of snappy and fast gameplay that also tricks up your reading, backed with a catchy track and vocals from Hatsune Miku. Shoutout to all the alt players of osu! This one's for you!
 

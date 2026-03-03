@@ -42,10 +42,10 @@ tags:
 | Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
 | Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
-| Playtesters | ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
+| Playtesters | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=RU }:: [nejzha](https://osu.ppy.sh/users/8105138) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
 | Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706) |
-| Commentators | *TBA* |
+| Commentators | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=PT }:: [berniee](https://osu.ppy.sh/users/8106595), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [MrHyena](https://osu.ppy.sh/users/2442779), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=PL }:: [Etfard](https://osu.ppy.sh/users/13676120), ::{ flag=SG }:: [gamicrayola](https://osu.ppy.sh/users/29426345), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619) |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
 ## Links
@@ -88,7 +88,7 @@ tags:
 | ::{ flag=PL }:: | **Poland** | [kacperniszon](https://osu.ppy.sh/users/4656634) |
 | ::{ flag=PL }:: | **Poland** | [Mikjorn](https://osu.ppy.sh/users/11753451) |
 | ::{ flag=PL }:: | **Poland** | [nieudas](https://osu.ppy.sh/users/17195113) |
-| ::{ flag=PL }:: | **Poland** | [MyBoyFemboyVaxa](https://osu.ppy.sh/users/9783155) |
+| ::{ flag=PL }:: | **Poland** | [NieTheDie](https://osu.ppy.sh/users/9783155) |
 | ::{ flag=PL }:: | **Poland** | [kaenen](https://osu.ppy.sh/users/9599681) |
 | ::{ flag=PL }:: | **Poland** | [Tiler](https://osu.ppy.sh/users/11142471) |
 | ::{ flag=PL }:: | **Poland** | [konfi](https://osu.ppy.sh/users/12209670) |
@@ -96,6 +96,33 @@ tags:
 | ::{ flag=PL }:: | **Poland** | [pokora](https://osu.ppy.sh/users/7109747) |
 
 ## Mappools
+
+### Quarterfinals & Semifinals & Finals & Grand Finals
+
+- No Mod
+  1. [Luna - Toki to Uta (Sped Up Ver.) [tsundereSam's Sakura II]](https://osu.ppy.sh/beatmapsets/1814633#osu/4039287)
+  2. [Victorius - Age of Tyranny [Revolt]](https://osu.ppy.sh/beatmapsets/2219231#osu/4704020)
+  3. [Psychedelic Porn Crumpets - Hymn For A Droid [mindfuck]](https://osu.ppy.sh/beatmapsets/2145884#osu/4519915)
+  4. [sanmal - Mind Chase [tourney ver.]](https://osu.ppy.sh/beatmapsets/2091780#osu/4384637)
+  5. [DJ Sharpnel - Gate Openerz [SRPC-0240]](https://osu.ppy.sh/beatmapsets/1435435#osu/2972133)
+  6. [Sokoninaru - Brilliant City [Being Controlled]](https://osu.ppy.sh/beatmapsets/1598172#osu/4729297)
+- Hidden
+  1. [My Chemical Romance - Hang 'Em High [salo x baguette]](https://osu.ppy.sh/beatmapsets/2238825#osu/4757532)
+  2. [Dua Lipa - Levitating [AR8]](https://osu.ppy.sh/beatmapsets/1688321#osu/3450300)
+  3. [Lusumi - /data_eraser.wav [404]](https://osu.ppy.sh/beatmapsets/2284633#osu/4872735)
+  4. [Shade - Mars [Reload]](https://osu.ppy.sh/beatmapsets/1276364#osu/2651853)
+- Hard Rock
+  1. [Camellia - The King Of Lions [OUTRAGE]](https://osu.ppy.sh/beatmapsets/885923#osu/1851537)
+  2. [Sorry about my face - dsa [shiguri's perfidious extra]](https://osu.ppy.sh/beatmapsets/1157083#osu/2414822)
+  3. [ayaponzu* - Justice Monster [Judgement]](https://osu.ppy.sh/beatmapsets/1026767#osu/2527867)
+  4. [S.F.A - Dienos Advento [Medzio Diena]](https://osu.ppy.sh/beatmapsets/1085630#osu/2270137)
+- Double Time
+  1. [HoneyWorks - Akatsuki Zukuyo [Taeyang's Extra]](https://osu.ppy.sh/beatmapsets/351280#osu/795627)
+  2. [Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix [Spin to Win]](https://osu.ppy.sh/beatmapsets/2287978#osu/4881745)
+  3. [Hirano Aya & Katou Emiri & Fukuhara Kaori & Endou Aya - Motteke! Sailor Fuku (Metabo Taisaku Remix [Cuuute!]](https://osu.ppy.sh/beatmapsets/1100765#osu/2299782)
+  4. [Chata - Remind [Overdrive!!]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
+- Tiebreaker
+  1. **[Ludicin - Echoes of Memoria [Eternal Reflections of Memory]](https://osu.ppy.sh/beatmapsets/2217155#osu/4892836)**
 
 ### Round of 32 & Round of 16
 
@@ -168,6 +195,13 @@ tags:
 3. Each mappool will consist of 4 brackets: No Mod, Hidden, Hard Rock and Double Time.
 4. Each bracket will be played with the respective mods enabled for all players.
 5. The tiebreaker will be played under Free Mod conditions. Players may choose a combination of Hidden and/or Hard Rock, but are still required to use No Fail.
+
+### Win conditions
+
+- In the Qualifiers, players need to place in the top 32 seeded players in order to advance to the bracket stage.
+- In the Round of 32, players need to win 4 maps to win a match (best of 7).
+- In the Round of 16, Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
+- In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Bracket stage procedure
 
