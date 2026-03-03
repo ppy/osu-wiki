@@ -5,8 +5,6 @@ tags:
   - hint
   - hints
   - 提示
-outdated_translation: true
-outdated_since: e688068a42d44a2f45d9f1326d2b26ac768c7919
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-zhcn -->
@@ -19,7 +17,7 @@ outdated_since: e688068a42d44a2f45d9f1326d2b26ac768c7919
 
 这些提示出现在[主菜单](/wiki/Client/Interface#主菜单)的正下方。
 
-- 添加新[谱面](/wiki/Beatmap)的方法： 把 [`.osz` 文件](/wiki/Client/File_formats/osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
+- 添加新[谱面](/wiki/Beatmap)的方法：把 [`.osz` 文件](/wiki/Client/File_formats/osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
 - 当你在有大量谱面的[选歌界面](/wiki/Client/Interface#选歌界面)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
 - 在任何地方，都可以按下 `F8`/`F9` 加入 osu! [聊天](/wiki/Client/Interface/Chat_console)！
 - 右击谱面，或者点击选歌列表下的 `Beatmap Options` 按钮，会显示谱面管理菜单。
@@ -122,6 +120,8 @@ outdated_since: e688068a42d44a2f45d9f1326d2b26ac768c7919
 - 右键点击排行榜上分数的模组，可以轻松复制它！
 - 在歌曲选择界面按下 `Ctrl` + `Enter`，能自动游玩这张谱面！
 - "Lazer" 并不是一个英文单词。激光正确的英文拼写是 "laser"。
+- 尝试在谱面选择页的谱面附近点击鼠标右键，来快速滚动到谱面仓库中的某个绝对位置！
+- 在谱面列表按住 Shift 并点击谱面，即可快速下载并在歌曲选择界面查看它！
 
 ## 参见
 

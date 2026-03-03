@@ -2,8 +2,6 @@
 tags:
   - NAT
   - 审核评估
-outdated_translation: true
-outdated_since: 4b9ed6a7e14eb9c96d11691187532d5c787c4d7c
 ---
 
 # 审核评估团队 (NAT)
@@ -108,7 +106,7 @@ NAT 成员会长期关注潜在的候选人。和 BN 评估一样，团队成员
 
 截至 2023 年 3 月，NAT 已经决定重新采用之前在[质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team) 时期使用的[领导](/wiki/People/Quality_Assurance_Team/QAT_Leaders)概念。NAT 领导人肩负有评估和顾问双重责任，因此他们可以监督并参与 NAT 的各项事务。
 
-目前的 NAT 领导人是：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 和 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)。
+目前的 NAT 领导人是：::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)。
 
 ### 职责
 
@@ -135,15 +133,19 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464) | 瑞典语 |
+| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | 意大利语 |
+| ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
+| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | 芬兰语 |
+| ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | 瑞典语 |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | 泰语 |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 |
+| ::{ flag=BE }:: [enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬兰语 |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
+| ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | 汉语 |
 | ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
-| ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 德语 |
 
@@ -161,20 +163,21 @@ NAT 领导人的职责是：
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | 德语 |
+| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
 | ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韩语 |
 
 #### osu!mania
 
 | 名字 | 语言 |
 | :-- | :-- |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | 汉语 |
+| ::{ flag=IT }:: [Harbyter](https://osu.ppy.sh/users/1147679) | 意大利语 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 加泰罗尼亚语，西班牙语 |
-| ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语，法语 |
 
 ### 组织
 
@@ -184,14 +187,13 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 处理内部讨论、事务和文档 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | BN 导师制组织 |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [Nomination Planner](https://bnplanner.greaper.net/beatmaps) 与 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) 开发 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [BN 管理网站](https://bn.mappersguild.com)开发 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | NAT 领导 |
 
 以下 NAT 成员主要负责评估分类的事项，但也会参与组织分类的事项：
 
 | 名字 | 职责 |
 | :-- | :-- |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | [点图规划 (Nomination Planner)](https://bnplanner.greaper.net/beatmaps) 和 [osu!catch MV 插件](https://github.com/Darius-Wattimena/MapsetChecksCatch)开发 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | NAT 领导, [BN 管理网站](https://bn.mappersguild.com)和 [osu!taiko MV 插件](https://github.com/Hiviexd/MVTaikoChecks)开发 |
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 处理内容举报，[osu!mania MV 插件](https://github.com/MChecaH/ManiaCheck)开发 |
 

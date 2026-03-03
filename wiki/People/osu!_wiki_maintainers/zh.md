@@ -1,8 +1,3 @@
----
-outdated_since: 0ffdd3209f4cbab2e8b050f5eb1201ddd9f4c660
-outdated_translation: true
----
-
 # osu! wiki 维护者
 
 **osu! wiki 维护者** 通过 [GitHub 项目仓库](https://github.com/ppy/osu-wiki)来维护 [osu! wiki](/wiki/osu!_wiki)。
@@ -22,9 +17,11 @@ outdated_translation: true
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | 不活跃 | 西班牙语 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | [Loctav](https://github.com/Loctav) | 不活跃 | 德语 |
 | ::{ flag=US }:: [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | [MegaApplePi](https://github.com/MegaApplePi) | 不活跃 |  |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | [Nivalyx](https://github.com/Nivalyx) | **活跃** | 印度尼西亚语 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | [Okorin](https://github.com/Okorin) | 不活跃 | 德语 |
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) | **活跃** | 日语 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) | 不活跃 |  |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | [MChecaH](https://github.com/MChecaH) | **活跃** | 西班牙语 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | [Repflez](https://github.com/Repflez) | 不活跃 | 西班牙语 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | 不活跃 | 法语 |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **活跃** | 俄语 |
@@ -34,7 +31,7 @@ outdated_translation: true
 
 ## 新闻维护者
 
-网站上所有[新闻](https://osu.ppy.sh/home/news)的管理者、编辑和批准者。
+以下列出的是除去常规的维护工作外，还参与管理、编辑、批准网站上所有[新闻](https://osu.ppy.sh/home/news)的维护者。
 
 | osu! 个人档案 | GitHub 个人档案 |
 | :-- | :-- |
@@ -46,9 +43,9 @@ outdated_translation: true
 
 ## 过去的维护者
 
-osu! wiki [曾经](/wiki/History_of_osu!/osu!_wiki)使用 MediaWiki 搭建，此列表列出了当时的维护者。
+以下列出的是曾处于 [wiki 团队](https://github.com/orgs/ppy/teams/wiki/members)中的维护者。这也包括 osu! wiki 迁移到 GitHub 之前，[MediaWiki 架构](/wiki/History_of_osu!/osu!_wiki#mediawiki-(2011---2017)) 的维护者。
 
-- ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
+- ::{ flag=RU }:: [Dellirium](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
 - ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570)
 - ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078)

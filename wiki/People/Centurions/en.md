@@ -28,6 +28,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | [2013-06-13](https://osu.ppy.sh/beatmapsets/64564) | [2024-02-08](https://osu.ppy.sh/beatmapsets/2105591) | [#1](https://osu.ppy.sh/beatmaps/packs/TM19) |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | [2020-03-09](https://osu.ppy.sh/beatmapsets/1112834) | [2023-08-28](https://osu.ppy.sh/beatmapsets/2031892) | [#1](https://osu.ppy.sh/beatmaps/packs/TM16) |
 | ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | [2022-09-27](https://osu.ppy.sh/beatmapsets/1842510) | [2025-11-26](https://osu.ppy.sh/beatmapsets/2444077) |  |
+| ::{ flag=JP }:: [komasy](https://osu.ppy.sh/users/1980256) | [2017-04-20](https://osu.ppy.sh/beatmapsets/582493) | [2026-02-11](https://osu.ppy.sh/beatmapsets/2455952) | [#1](https://osu.ppy.sh/beatmaps/packs/TM36) |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | [2015-11-12](https://osu.ppy.sh/beatmapsets/335145) | [2019-04-29](https://osu.ppy.sh/beatmapsets/956716) | [#1](https://osu.ppy.sh/beatmaps/packs/TM11), [#2](https://osu.ppy.sh/beatmaps/packs/TM12) |
 | ::{ flag=MY }:: [ler1211](https://osu.ppy.sh/users/19901680) | [2021-10-18](https://osu.ppy.sh/beatmapsets/1547072) | [2024-12-11](https://osu.ppy.sh/beatmapsets/2271969) | [#1](https://osu.ppy.sh/beatmaps/packs/TM26) |
 | ::{ flag=KR }:: [Lliria](https://osu.ppy.sh/users/1997633) | [2018-11-08](https://osu.ppy.sh/beatmapsets/809992) | [2025-01-19](https://osu.ppy.sh/beatmapsets/2268756) |  |
@@ -49,4 +50,4 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 ## Trivia
 
 - The first user to reach 100 Ranked beatmaps was ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), on 4 August 2010.
-- Amongst all Centurions, it takes approximately **5.4 years** (around 1985 days) to rank 100 beatmaps on average.<!--Stats available at https://chromb.uk/centurions/data.json , now automated by chromb.-->
+- Amongst all Centurions, it takes approximately **5.5 years** (around 2021 days) to rank 100 beatmaps on average.<!--Stats available at https://chromb.uk/centurions/data.json , now automated by chromb.-->

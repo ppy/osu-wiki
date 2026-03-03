@@ -12,13 +12,11 @@ tags:
   - hit error
   - timing
   - UR
-outdated_translation: true
-outdated_since: 02a69b3c9db494a4b8f41347369cb594f5844f56
 ---
 
 # 不稳定率
 
-**不稳定率** (**Unstable rate**, ***UR***) 是用来衡量一次游玩中打击偏差<!-- TODO: link -->变化程度的数值。这个值等于打击偏差的[标准差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%B7%AE)，单位为十分之一毫秒。UR 值越低，则玩家打击的偏差值越集中，反之则越分散。
+**不稳定率** (**Unstable rate**, ***UR***) 是用来衡量一次游玩中打击偏差<!-- TODO: link -->变化程度的数值。这个值等于打击偏差的[标准差](https://zh.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%B7%AE)（单位为毫秒）乘以 10。UR 值越低，则玩家打击的偏差值越集中，反之则越分散。
 
 对于那些专攻高[准确率](/wiki/Gameplay/Accuracy)的玩家来说，他们打出的不稳定率通常会比获得 [SS](/wiki/Gameplay/Grade) 所需的低得多。与常规的[判定](/wiki/Gameplay/Judgement)相比，不稳定率在评判这些的分数的细节方面是尤其有用的。
 

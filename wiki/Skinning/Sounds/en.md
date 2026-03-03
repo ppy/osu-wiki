@@ -124,6 +124,7 @@ The following gameplay sounds are all beatmap skinnable.
 | `failsound.wav` | Failing a map at any point |
 | `sectionpass.wav` | Halfway through a break with high HP remaining |
 | `sectionfail.wav` | Halfway through a break with low HP remaining |
+| `fountain-shoot.wav` | Reaching the beginning of a kiai section |
 
 Notes:
 
@@ -133,6 +134,25 @@ Notes:
 - `failsound.wav`:
   - Not intended to last longer than the fail animation (about 5 seconds).
   - Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
+- `fountain-shoot.wav`:
+  - This sound is only used in the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game. It has no effect in osu!(stable).
+  - The sound is played with the fountain animation at the beginning of each kiai section in a map.
+  - It will also play in the main menu when the client has focus.
+
+## Rank display (Lazer only)
+
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, new rank display components were added for skinning in the osu!editor. The following audio elements can be used to skin these. They have no effect in osu!(stable).
+
+The rank display sounds will play only if at least one rank display component is added in your current skin.
+
+| Filename | Usage |
+| :-- | :-- |
+| `rank-up.wav` | Gaining a higher rank |
+| `rank-down.wav` | Dropping to a lower rank |
+
+Notes:
+
+- `rank-down.wav` will play immediately after you lose the highest letter rank, but any further rank changes are delayed by up to 1.5 seconds.
 
 ### Game screens
 
@@ -142,6 +162,15 @@ These sounds are not supposed to be bigger than a few kilobytes, as using a long
 
 - The sound is played on the ranking screen after clearing a map.
 - Should be formatted as `.mp3` or `.ogg` in beatmaps aiming for rank.
+
+In the [Lazer](/wiki/Client/Release_stream/Lazer) version of the game, you can set which audio plays per letter grade. However, they have no effect in osu!(stable), and `applause.wav` will always be played there.
+
+`applause-{g}.wav`
+
+Notes:
+
+- `{g}` can be replaced with the letter grades `S`, `A`, `B`, `C`, or `D`.
+- You cannot play any sounds for the letter grade `F`, because the result screen is never reached when you fail.
 
 `pause-loop.wav`:
 

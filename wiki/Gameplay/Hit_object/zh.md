@@ -3,17 +3,15 @@ tags:
   - hit objects
   - 打击物件
 needs_cleanup: true
-outdated_translation: true
-outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 ---
 
 # 打击物件
 
-*打击物件 (hit objects)* 是玩家游玩[谱面](/wiki/Beatmap)时，可以互动的元素。每个[游戏模式](/wiki/Game_mode)都拥有一组能够改变游戏体验的独特打击物件。对于各个模式打击物件的概览，详见下表：
+*打击物件 (hit objects)* 是玩家游玩[谱面](/wiki/Beatmap)时，可以互动的元素。每个[游戏模式](/wiki/Game_mode)都拥有一组能够改变游戏体验的独特打击物件。下表大致列出了各个模式的打击物件：
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | 圆圈 | [水果](/wiki/Gameplay/Hit_object/Fruit) | 单点音符 |
+| [圆圈](/wiki/Gameplay/Hit_object/Hit_circle) | [咚和咔](/wiki/Gameplay/Hit_object/Hit) | [水果](/wiki/Gameplay/Hit_object/Fruit) | 单点音符 |
 | [滑条](/wiki/Gameplay/Hit_object/Slider) | 长条 | [水果串](/wiki/Gameplay/Hit_object/Juice_stream) | 长按音符 |
 | [转盘](/wiki/Gameplay/Hit_object/Spinner) | 转盘 | [香蕉](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [红果](/wiki/Gameplay/Hit_object/Hyperfruit) | x |

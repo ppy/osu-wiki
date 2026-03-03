@@ -1,8 +1,3 @@
----
-outdated_since: 3139de4953a023c1fa4d36c863bec1da90a88853
-outdated_translation: true
----
-
 # 谱面审核成员须知
 
 想要成为或者已经成为[谱面审核成员 (*BN*)](/wiki/People/Beatmap_Nominators) 了吗？你来对地方了！本文包含成为新 BN 所需要了解的信息。
@@ -12,8 +7,8 @@ outdated_translation: true
 - [谱面审核成员规则](/wiki/People/Beatmap_Nominators/Rules)：包含 BN 能做什么，以及不能做什么。在任何情况下，你都应该避免违反这些规则，所以请认真阅读！如果有什么不确定，你可以询问[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 的一位成员，他们会很乐意帮助你。
 - [作图和摸图的行为准则](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：作为 BN，你应该在社区中起到榜样作用，成为他人仰慕和尊敬的对象。因此，不当行为会导致你被谴责，甚至被开除。
 - [谱面上架标准 (RC)](/wiki/Ranking_criteria)：如果你已经成为了 BN，应该很熟悉这个标准。简而言之，它指明了上架谱面中，特定作图行为是否被允许。此外，它也包含在大部分情况下应该遵守的准则。
-- [关于谱面否决 (Beatmap Veto) 的信息](/wiki/People/Beatmap_Nominators/Beatmap_Veto)：如果你不确定谱面是否违反上架标准，但认为有些问题使谱面不适合上架，你可以通过铺面否决来中止谱面过审。
-- [作图验证器 (Mapset Verifier)](https://osu.ppy.sh/community/forums/topics/943895)：一个 NAT 成员 [Naxess](https://osu.ppy.sh/users/8129817) 制作的一款工具。这个工具可用来检查大量导致谱面无法上架的问题，并且包含一个快照功能，可以轻松对比不同版本的谱面。这对于再次检查非常有用。**但是，这一工具不应该代替人工谱面检查**。它应该在二次确认时使用，以确保谱面没有遗漏的问题。
+- [关于谱面否决 (Beatmap Veto) 的信息](/wiki/People/Beatmap_Nominators/Beatmap_Veto)：如果你不确定谱面是否违反上架标准，但认为有些问题使谱面不适合上架，你可以通过谱面否决来中止谱面过审。
+- [作图验证器 (Mapset Verifier)](https://osu.ppy.sh/community/forums/topics/943895)：NAT 成员 [Naxess](https://osu.ppy.sh/users/8129817) 制作的一款工具。这个工具可用来检查大量导致谱面无法上架的问题，并且包含一个快照功能，可以轻松对比不同版本的谱面——这对于再次检查非常有用。**但是，这一工具不应该代替人工谱面检查**。它应该在二次确认时使用，以确保谱面没有遗漏的问题。
 
 ## 谱面审核成员的权力
 
@@ -23,7 +18,7 @@ outdated_translation: true
 
 ![提名按钮](img/nominate.png)
 
-**该按钮允许你提名谱面**。谱面必须获得至少 5 个[推荐](/wiki/Beatmap/Hype)，并且不包含未解决的问题或建议标记，才能进行提名。在提名之前，确保你对所有游戏难度（甚至其它游戏模式）满意。如果谱面之前被否决，那么在提名之前，你必须确保否决中提到的问题已经完美解决。当谱面获得 2 个提名后，它会被移至[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 分类，然后进入[上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)。
+**该按钮允许你提名谱面**。谱面必须获得至少 5 个[推荐](/wiki/Beatmap/Hype)，并且不包含未解决的问题或建议标记，才能进行提名。在提名之前，确保你对所有游戏难度（甚至其它游戏模式）满意。如果谱面之前被否决，那么在提名之前，你必须确保否决中提到的问题已经完美解决。当谱面获得 2 个提名（若该谱面为[混合谱面](/wiki/Beatmap_ranking_procedure#备注)则需更多）后，它会被移至[过审 (Qualified)](/wiki/Beatmap/Category#qualified) 分类，然后进入[上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)。
 
 ### 下架和重置提名
 
@@ -44,13 +39,13 @@ outdated_translation: true
 
 除了能提名谱面或重置提名，BN 也有其它权力。
 
-### 否决仲裁
-
-当否决要求仲裁，BN 和 NAT 相应游戏模式的成员会对否决问题进行投票。如果否决不仅仅与单个游戏模式相关，那么所有游戏模式的成员都必须参与。当否决仲裁开始时，NAT 会给你发送消息，告诉你如何在 [BN 网站](http://bn.mappersguild.com)上投票。仲裁结束后，所有投票都会被综合考虑，并最终达成共识，以支持或驳回谱面否决。
-
 ### 质量保证 (Quality Assurance)
 
-无论何时，正式 BN 都会检查已过审的谱面是否存在问题，来保证谱面质量。可以在 [BN 网站](https://bn.mappersguild.com/qualityassurance)上查看质量保证面板 (The Quality Assurance board)。
+无论何时，BN 与任何社区成员都可以检查已过审的谱面是否存在问题，来保证谱面质量。
+
+### 否决仲裁
+
+当否决请求被要求进行仲裁，被否决谱面所属游戏模式的所有 BN 和 NAT 成员都将被要求就该问题提交个人投票。如果否决涉及的问题并非特定于某个模式，那么所有游戏模式的成员都会被要求参与。当否决仲裁开始时，NAT 会通过消息告知你如何通过 [BN 网站](http://bn.mappersguild.com)进行投票的详细信息。仲裁结束后，所有提交的投票将被汇总，以形成最终决议（维持否决或驳回否决）。
 
 ### 审核内容
 
