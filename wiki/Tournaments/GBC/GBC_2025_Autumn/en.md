@@ -46,14 +46,14 @@ The **GB Cup 2025 Autumn** (***GBC 2025 Autumn***) was a 3v3 captain draft–bas
 
 | Qualifier placing | Prizes |
 | :-: | :-- |
-| *1st place* | ¥90 |
-| *2nd place* | ¥80 |
-| *3rd place* | ¥70 |
-| *4th place* | ¥60 |
-| *5-8 place* | ¥50 |
-| *9-16 place* | ¥40 |
-| *17-24 place* | ¥30 |
-| *25-120 place* | ¥10 |
+| *1st place* | ¥90 CNY |
+| *2nd place* | ¥80 CNY |
+| *3rd place* | ¥70 CNY |
+| *4th place* | ¥60 CNY |
+| *5-8 place* | ¥50 CNY |
+| *9-16 place* | ¥40 CNY |
+| *17-24 place* | ¥30 CNY |
+| *25-120 place* | ¥10 CNY |
 
 ![GBC 2025 Autumn QQ division winner badge](img/GBC-2025-Autumn-badge-QQ-1st.png)
 
@@ -745,23 +745,23 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
 5. There will be an optional 5-minute break in between the first and second playthrough of the mappool.
 6. We suggest players not to broadcast or share their results to avoid seed manipulation.
 7. Qualifier stage results will be used for seeding and for choosing captains.
-8. Those best-performance players will advance to drafting phase.
+8. The best-performing players will advance to drafting phase.
    - Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced before the drafting phase takes place.
 9. Players will use same multiplayer rooms if they select same time to play the Qualifiers. It is prohibited to abort a match with the reason of a technical problem, in which case the score will be recorded as is.
 
 ### Stage instructions
 
 1. Following the Qualifier stage, all players will participate in a phase to form teams, called the *drafting phase*. Both divisions will have independent drafting phases. All unpicked players will be eliminated from the tournament.
-2. Following the drafting phase, a *group stage* will be played in both zones. Each group includes 6 teams and will play 3 rounds. Top 4 of the groups (total 16 teams each division) will advance to the elimination phase, with the other teams eliminated.
+2. Following the drafting phase, a *group stage* will be played in both divisions. Each group includes 6 teams and will play 3 rounds. The top 4 of each group (from a total of 16 teams per division) will advance to the elimination phase, with the other teams eliminated.
 3. Following the group stage, a single-elimination stage will be played in both divisions.
 4. All teams that lose in the elimination phase will be eliminated from the tournament and the last team will be the winner.
-5. This tournament don't have the bronze medal match, both teams that eliminated in Seminfinals will get same prize.
+5. This tournament doesn't have the bronze medal match. As such, both teams that get eliminated during the Seminfinals will receive same prize.
 
 ### Drafting phase instructions
 
 1. The host will declare one captain for each team 24 hours before the drafting phase.
-   - Drafting order depends on the captain seed, lower seed pick first.
-   - Captains are selected by performance in qualifier.
+   - Drafting order depends on the captain's seed, lower seed pick first.
+   - Captains are selected by their performance during the Qualifiers.
    - Non-captains will join a group of players waiting to join a team, herein called a "player pool".
    - The drafting phase for the two divisions will be held separately, and the number of teams will be determined by the number of players who have passed the Qualifier round in corresponding division.
 2. Captains decide their team members during the drafting phase.
@@ -788,8 +788,8 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
 1. The regular phase will be divided into two divisions, the Discord division and the QQ division.
    - Players can choose the division and participate in the team of the corresponding division. Players must ensure that they can use the chat tool of the corresponding division and keep the chat open.
 2. Group stage has 3 rounds. Since each group has 6 teams, it means not each team in groups will have a match.
-   - Both divisions group stage will be held separately, each division will have 16 teams advance into elimination phase.
-   - Top 4 of each groups will advance.
+   - The group stage of both divisions will be held separately. Each division will have 16 teams advance to the elimination phase.
+   - The top 4 of each group will advance.
 3. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
@@ -799,20 +799,20 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
    - Fewest beatmaps lost
    - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the group stage)
    - Dice roll
-4. The team list of each group will be decided by draw, same as the brackets of group stage.
+4. The team list of each group will be decided by a draw, and so will the brackets for the group stage.
    - According to the seed of captains, seed 1-8 as A, 9-16 as B, 17-24 as C, each group includes double A & B & C teams, 6 teams in total.
    - Round 1 bracket is A1 vs A2, B1 vs B2, C1 vs C2
    - Round 2 bracket is A1 vs B2, B1 vs C1, C2 vs A2
    - Round 3 bracket is A1 vs C1, B1 vs A2, C2 vs B2
-5. The results from the group stage will also be used for elimination quarter. But the specific bracket and match will be decided by draw.
+5. The results from the group stage will also be used for the elimination quarter. However, the bracket and match will be decided by a draw.
    - Each division has 4 quarters. Teams from same group won't be divided into same quarter. The bracket of Round of 16 must be one group #1 vs another group #4, one group #2 vs another group #3.
 
 ### Win conditions
 
 - In the Qualifier stage, players need to rank high enough to advance.
 - In the group stage round 1 and round 2, teams need to win 5 maps to win a match (best of 9).
-- In the group stage round 3 and elimination stage round of 16, teams need to win 6 maps to win a match (best of 11).
-- In Quarterfinals, Semifinals, and Finals, teams need to win 7 maps to win a match (best of 13).
+- In the group stage round 3 and the Round of 16, teams need to win 6 maps to win a match (best of 11).
+- In the Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best-of-13).
 
 ### Match procedures
 
@@ -831,8 +831,8 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
    - The team that picks beatmaps first cannot ban players during the first 2 rounds.
      - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
    - Picks and bans should be sent in the same message. If the ban is delayed, or the message causes a disagreement or misunderstanding, the referee has the right to ignore the ban.
-6. The team that picking map will have 2 minutes to pick a beatmap and ban an opposing player, then the other team has 1 minute to ban an opposing player, and then there will be 2 minutes for teams to get ready.
-   - A team can request a timeout at these period. The timeout lasts 2 minutes.
+6. The team currently picking a map will have 2 minutes to choose and ban an opposing player. Then, the other team will have 1 minute to ban an opposing player. Once this is done teams will have 2 minutes to get ready.
+   - A team can request a timeout during this period. The timeout lasts 2 minutes.
    - The tactical timeout may be called on a tiebreaker.
 7. If a team takes more time than allowed, the procedures adopted will be as follows:
    - For the first occurrence:
@@ -852,10 +852,10 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
    - Qualifiers: 8 beatmaps.
    - Mappool in group stage round 1 & 2: 12 beatmaps.
    - Mappool in group stage round 3 & Round of 16 : 14 beatmaps.
-   - Mappool in Quarterfinals, Semifinals and Finals: 16 beatmaps.
+   - Mappool in the Quarterfinals, Semifinals and Finals: 16 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers. The tiebreaker will be played under FreeMod conditions.
 5. Possible mod choices for the FreeMod bracket are `NoFail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
-6. Semifinals and Finals will use same mappool.
+6. The Semifinals and the Finals will use the same mappool.
 
 ### Scheduling information
 
