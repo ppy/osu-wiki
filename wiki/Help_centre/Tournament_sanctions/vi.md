@@ -91,7 +91,7 @@ Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/
 
 ## Các lệnh xử phạt giải đấu có hiển thị công khai không? {id=visibility}
 
-:: Infobox
+::: Infobox
 ![](img/tourney-ban-profile.png "Lệnh cấm thi đấu trên hồ sơ của người dùng")
 :::
 
