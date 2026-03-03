@@ -831,7 +831,7 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
    - The team that picks beatmaps first cannot ban players during the first 2 rounds.
      - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
    - Picks and bans should be sent in the same message. If the ban is delayed, or the message causes a disagreement or misunderstanding, the referee has the right to ignore the ban.
-6. The team currently picking a map will have 2 minutes to choose and ban an opposing player. Then, the other team will have 1 minute to ban an opposing player. Once this is done teams will have 2 minutes to get ready.
+6. The team currently picking a map will have 2 minutes to choose beatmap and ban an opposing player. Then, the other team will have 1 minute to ban an opposing player. Once this is done teams will have 2 minutes to get ready.
    - A team can request a timeout during this period. The timeout lasts 2 minutes.
    - The tactical timeout may be called on a tiebreaker.
 7. If a team takes more time than allowed, the procedures adopted will be as follows:
