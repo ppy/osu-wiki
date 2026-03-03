@@ -185,7 +185,7 @@ This 2021 beatmap made by [iljaaz](https://osu.ppy.sh/users/8501291) was a mapse
 207 BPM, 3:53 | 7.61★\
 *description written by [BATBALL](https://osu.ppy.sh/users/15173952)*
 
-For this month's second *Wildcard pick*, we're bringing back more Demon Aim for June 👹... Please welcome, [Hana - tree (Sped Up Ver.)]( https://osu.ppy.sh/beatmapsets/1711023#osu)
+For this month's second *Wildcard pick*, we're bringing back more Demon Aim for June 👹... Please welcome, [Hana - tree (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1711023#osu)
 
 As an aim-lover myself, im thrilled to see [tsundereSam](https://osu.ppy.sh/users/6357685) back in the Loved section! This map serves as a spinoff to their previously Loved and popular set of [Sakura no Uta (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/811908#osu/2281045), featuring a plethora of awkward aim elements that flow together seamlessly.
 

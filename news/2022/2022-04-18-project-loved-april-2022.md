@@ -300,7 +300,7 @@ This set has continually gained traction over the past two years, and it's final
 
 Evening is here once again, with their ruthless and iconic set of Camellia's *Bring Our Ignition Back*!
 
-Through and through, this set to me represents Evening's unapologetic style of harsh SV mixed with rigid patterning. This mapset contains both 4K and 7K, the latter of which being made by none other than [eyes]( https://osu.ppy.sh/users/7741797). All of the difficulties also contain mirrors without SV for anybody wanting to play the stripped-back versions, but I'll be focusing on the ones that do include it.
+Through and through, this set to me represents Evening's unapologetic style of harsh SV mixed with rigid patterning. This mapset contains both 4K and 7K, the latter of which being made by none other than [eyes](https://osu.ppy.sh/users/7741797). All of the difficulties also contain mirrors without SV for anybody wanting to play the stripped-back versions, but I'll be focusing on the ones that do include it.
 
 The SV stays consistent throughout all of the vip diffs, which means once you've got the SV down on one difficulty, learning how to play the others is just going to come down to remembering the differences in patterning. Pattern-wise, lot of parallels can be drawn between the 4K and 7K diffs, as both *suppressions* are very jack- and burst-oriented. This leads to a strong feeling of cohesion between everything, and it's no surprise why this has been played for many years at this point. Tough patterning in unison with Evening's always-engaging SV structuring makes this a well-deserved and long overdue nomination to Loved.
 
@@ -346,7 +346,7 @@ We're taking things far back, with akuma123's set of *3rd Eye In Breast*.
 
 Uploaded back in the beginning of 2015, this set is well over 7 years old now. Since then the community has grown exponentially, and really everything about this gamemode as well as the whole game has changed completely. If there's one thing that has stayed consistent however, it's that sets were always favored, and as far as I can remember this particular set took off pretty quickly.
 
-For 4K players at the time, things like the 4K SHD or even the INF would have provided some serious challenge. 208 BPM jumpstreams are still fast even for today's standards, especially if you're a newer player. Not to mention that this set also includes a 7K difficulty from [Skalim]( https://osu.ppy.sh/users/2225008), a long-time veteran of the game. This 7K is really no slouch on the density end either, containing all kinds of uncomfortable jumps and bursts. Lastly, there are also the lower difficulties which should make this more appealing to a wider audience of players. It seems like at one point the set was going for Ranked, but hey, things don't always work out on that end.
+For 4K players at the time, things like the 4K SHD or even the INF would have provided some serious challenge. 208 BPM jumpstreams are still fast even for today's standards, especially if you're a newer player. Not to mention that this set also includes a 7K difficulty from [Skalim](https://osu.ppy.sh/users/2225008), a long-time veteran of the game. This 7K is really no slouch on the density end either, containing all kinds of uncomfortable jumps and bursts. Lastly, there are also the lower difficulties which should make this more appealing to a wider audience of players. It seems like at one point the set was going for Ranked, but hey, things don't always work out on that end.
 
 We're always happy to throw it back with classic sets like these, and give players who weren't around during those times an idea of how things used to be.
 
@@ -358,7 +358,7 @@ We're always happy to throw it back with classic sets like these, and give playe
 
 MyZterioN- makes their return to Loved, with their widely-enjoyed map of *Nacreous Snowmelt*.
 
-Back in August of last year, MyZ had their map of [MEGALOVANIA]( https://osu.ppy.sh/beatmapsets/1038667#mania/2171185) go up, and *Snowmelt* here is going up for very similar reasons. Both charts are executed strongly, with MyZ's sensible patterning. There's plenty of challenge to be found in this chart, but at the same time it all feels very ergonomic and rewarding to play.
+Back in August of last year, MyZ had their map of [MEGALOVANIA](https://osu.ppy.sh/beatmapsets/1038667#mania/2171185) go up, and *Snowmelt* here is going up for very similar reasons. Both charts are executed strongly, with MyZ's sensible patterning. There's plenty of challenge to be found in this chart, but at the same time it all feels very ergonomic and rewarding to play.
 
 At OD 7, *Snowmelt* strikes a balance between leaning towards rice, and putting your long note accuracy to the test in many of its tougher sections. Because of that balance, I think it's fair to label this overall as a hybrid. Lots of LN coordination intermixed with rice, dedicated speed and jack sections, and even some LN density in the second half. This chart really feels like the full experience that you would want out of a song as dynamic as this, and MyZterioN- did a great job of making that happen.
 
