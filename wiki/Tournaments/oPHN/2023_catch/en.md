@@ -112,7 +112,7 @@ This competition has come to an end and resulted in the following podium:
 - Double Time
   1. [Ito Kanako - Tsuisou no Despair (zerokt) [zerokt & Reimu's Despair]](https://osu.ppy.sh/beatmapsets/1955050#fruits/4049187)
   2. [Nekomata Gekidan - AsiaN distractive (Spectator) [Nelly's Overdose]](https://osu.ppy.sh/beatmapsets/765322#fruits/1611278)
-  3. [Aitsuki Nakuru - Daisan no Shinzou (captin1) [nakuru]](https://osu.ppy.sh/beatmapsets/1833750#osu/3764586 )
+  3. [Aitsuki Nakuru - Daisan no Shinzou (captin1) [nakuru]](https://osu.ppy.sh/beatmapsets/1833750#osu/3764586)
 - Tiebreaker
   1. **[D-D-Dice vs. siromaru - Catch the Glory (Bunnrei) [Grand Collab]](https://osu.ppy.sh/beatmapsets/1794214#fruits/3677233)**
 
