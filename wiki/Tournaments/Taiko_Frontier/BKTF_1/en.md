@@ -1,7 +1,6 @@
 ---
 tags:
   - BKTF
-  - Blaze Killing Taiko Frontier
 ---
 
 # Blaze Killing Taiko Frontier
@@ -482,6 +481,44 @@ Sunday, 12 October 2025:
 
 The final standings for the Qualifiers stage can be found in the following [qualifiers results statistics page](https://docs.google.com/spreadsheets/u/1/d/1APYqj8Qkeg9skY1F7Ml8SZ7uJ_M-X0qgcgUzI3kV65A/edit?gid=0#gid=0). Only the top 32 will advance to the knockout stage.
 
+| Seed | Team | Avg. sum of placements[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Lobby link |
+| :-: | :-- | :-: | --: | --: |
+| #1 | 髙橋山翔太3 | 5.14 | 1,041,205 | [#1](https://osu.ppy.sh/community/matches/119467921) |
+| #2 | Pompompurin | 6.14 | 1,033,327 | [#1](https://osu.ppy.sh/community/matches/119469426) |
+| #3 | The King's Guard | 7.57 | 1,028,068 | [#1](https://osu.ppy.sh/community/matches/119459488) |
+| #4 | Lorem Ipsum | 7.86 | 1,032,595 | [#1](https://osu.ppy.sh/community/matches/119448726) |
+| #5 | Coconut | 8.29 | 1,020,392 | [#1](https://osu.ppy.sh/community/matches/119459488) |
+| #6 | DaiKiu volviste a tomar temporada 4 | 9.57 | 1,023,961 | [#1](https://osu.ppy.sh/community/matches/119447586) |
+| #7 | 維他奶 | 11.57 | 1,020,553 | [#1](https://osu.ppy.sh/community/matches/119458063) |
+| #8 | batman | 11.86 | 1,019,520 | [#1](https://osu.ppy.sh/community/matches/119472216) |
+| #9 | 寿命 | 12.00 | 1,020,014 | [#1](https://osu.ppy.sh/community/matches/119468706) |
+| #10 | NMonly | 12.00 | 1,013,684 | [#1](https://osu.ppy.sh/community/matches/119458063) |
+| #11 | Not Derankers | 12.57 | 1,017,644 | [#1](https://osu.ppy.sh/community/matches/119467571) |
+| #12 | 珍珠奶茶 | 13.86 | 991,828 | [#1](https://osu.ppy.sh/community/matches/119465887) |
+| #13 | Hornedgabonga | 14.71 | 1,006,394 | [#1](https://osu.ppy.sh/community/matches/119469694) |
+| #14 | RGB | 14.86 | 1,012,303 | [#1](https://osu.ppy.sh/community/matches/119459488) |
+| #15 | 低精度 | 15.86 | 997,279 | [#1](https://osu.ppy.sh/community/matches/119469694) |
+| #16 | taiko haters | 16.57 | 1,001,166 | [#1](https://osu.ppy.sh/community/matches/119444197) |
+| #17 | FAT | 16.71 | 990,995 | [#1](https://osu.ppy.sh/community/matches/119469694) |
+| #18 | spumbup | 18.43 | 985,754 | [#1](https://osu.ppy.sh/community/matches/119467921) |
+| #19 | Asad's Kalbs | 18.43 | 946,838 | [#1](https://osu.ppy.sh/community/matches/119468706) |
+| #20 | sacabambaspis | 19.14 | 982,828 | [#1](https://osu.ppy.sh/community/matches/119467921) |
+| #21 | umapyoi | 19.14 | 970,345 | [#1](https://osu.ppy.sh/community/matches/119458063) |
+| #22 | STD勢 | 19.57 | 988,007 | [#1](https://osu.ppy.sh/community/matches/119459488) |
+| #23 | No price go grad | 19.71 | 991,320 | [#1](https://osu.ppy.sh/community/matches/119454606) |
+| #24 | ILOVETV | 20.00 | 988,008 | [#1](https://osu.ppy.sh/community/matches/119460764) |
+| #25 | Fatherland Community | 21.14 | 986,883 | [#1](https://osu.ppy.sh/community/matches/119471049) |
+| #26 | Hellas Holland | 21.57 | 904,675 | [#1](https://osu.ppy.sh/community/matches/119464475) |
+| #27 | klaspe slum | 22.86 | 960,131 | [#1](https://osu.ppy.sh/community/matches/119473672) |
+| #28 | watetormelon | 24.29 | 936,331 | [#1](https://osu.ppy.sh/community/matches/119448726) |
+| #29 | トウカイテイオーはちマンボウーダービー | 24.71 | 901,430 | [#1](https://osu.ppy.sh/community/matches/119469694) |
+| #30 | Multimode | 24.86 | 898,974 | [#1](https://osu.ppy.sh/community/matches/119460764) |
+| #31 | reisen | 28.43 | 897,294 | [#1](https://osu.ppy.sh/community/matches/119462266) |
+| #32 | takotako | 28.71 | 878,081 | [#1](https://osu.ppy.sh/community/matches/119457024) |
+| #33 | Matryoshkas | 30.86 | 838,412 | [#1](https://osu.ppy.sh/community/matches/119470295) |
+| #34 | Mama call a Taxi | 33.43 | 767,303 | [#1](https://osu.ppy.sh/community/matches/119473672) |
+| #35 | チーム土方 | 34.00 | 701,681 | [#1](https://osu.ppy.sh/community/matches/119456262) |
+
 ## Ruleset
 
 ### General rules
@@ -521,7 +558,7 @@ The final standings for the Qualifiers stage can be found in the following [qual
 
 ### Scheduling
 
-1. Schedule and rundown will follow what's written before in the [tournament schedules](#tournament-schedule) section above.
+1. Schedule will follow what's written before in the [tournament schedules](#tournament-schedule) section above.
 2. Reschedules are allowed so long as both teams agree and notify organisers via the Discord server's `#reschedule` text channel by Thursday 23:59 (UTC) of the match week. Rescheduling must be finalised by Friday 12:00 (UTC).
 3. If the initial weekends schedule are unavailable, matches can be held until Monday 23:00 (UTC) if a referee is available. For Qualifiers, this is limited to Sunday 23:00 (UTC). 
 
@@ -550,9 +587,9 @@ The final standings for the Qualifiers stage can be found in the following [qual
 
 | Platform | Designation |
 | :-- | :-- |
-| Youtube channel | For Japanese viewers |
-| Twitch channel | For international viewers |
-| Twitch archives | Will be uploaded to Youtube channel once a match is done |
+| [Youtube channel](https://www.youtube.com/@TaikoFrontier_osu) | For Japanese viewers |
+| [Twitch channel](https://www.twitch.tv/taikofrontier) | For international viewers |
+| [Twitch archives](https://www.youtube.com/watch?v=N5DXHQ4O9Wk&list=PLUq1xspwXul9-IeuAEoFM87Mm6lmEdxvR) | Will be uploaded to Youtube channel once a match is done |
 
 2. Streaming and Spectating
    - Mirror streaming is permitted on YouTube channel (Japanese commentary) or Twitch channel (global commentary) without delay restrictions. Players may also stream their matches.
@@ -624,3 +661,8 @@ The final standings for the Qualifiers stage can be found in the following [qual
 2. Staff absences:
    - Substitute staff will be arranged for absent referees or streamers.
    - If no substitutes are available, rescheduling may be requested.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
