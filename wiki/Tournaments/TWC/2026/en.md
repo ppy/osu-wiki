@@ -68,12 +68,12 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=BR }:: | **Brazil** | **[Foxeru](https://osu.ppy.sh/users/7479684)**, [miwoo](https://osu.ppy.sh/users/12630336), [Skid](https://osu.ppy.sh/users/3044264), [Kyoumo](https://osu.ppy.sh/users/8145223), [HiroK](https://osu.ppy.sh/users/4050738), [irie-](https://osu.ppy.sh/users/29727936) |
 | ::{ flag=BG }:: | **Bulgaria** | **[Vasko2o](https://osu.ppy.sh/users/19577961)**, [giyokon](https://osu.ppy.sh/users/10852632), [theangelov](https://osu.ppy.sh/users/18827836) |
 | ::{ flag=CA }:: | **Canada** | **[Eltigant](https://osu.ppy.sh/users/15191942)** |
-| ::{ flag=CL }:: | **Chile** | **[ulko](https://osu.ppy.sh/users/1263669)** |
+| ::{ flag=CL }:: | **Chile** | **[ulko](https://osu.ppy.sh/users/1263669)**, [chibamasu](https://osu.ppy.sh/users/16067522), [Escocyan](https://osu.ppy.sh/users/9057823), [myucchii](https://osu.ppy.sh/users/10072733), [Shiny Froakie](https://osu.ppy.sh/users/6194830), [Kioshinxs](https://osu.ppy.sh/users/14433939) |
 | ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)** |
 | ::{ flag=CO }:: | **Colombia** | **[ParraCharlie](https://osu.ppy.sh/users/18425848)**, [Xoretra](https://osu.ppy.sh/users/4940698), [Coffecito](https://osu.ppy.sh/users/18793276), [Madsri](https://osu.ppy.sh/users/6260841), [sti](https://osu.ppy.sh/users/1271807), [Hermite](https://osu.ppy.sh/users/7945286) |
 | ::{ flag=CR }:: | **Costa Rica** | **[pui](https://osu.ppy.sh/users/12687433)**, [Hotman](https://osu.ppy.sh/users/7902082), [Korone](https://osu.ppy.sh/users/11847767) |
 | ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [Antti](https://osu.ppy.sh/users/13281473), [BFKB113PBK](https://osu.ppy.sh/users/13613362), [GamersDecision](https://osu.ppy.sh/users/19975342), [vodnanen](https://osu.ppy.sh/users/10335557) |
-| ::{ flag=FR }:: | **France** | **[Ranshi](https://osu.ppy.sh/users/6680785)** |
+| ::{ flag=FR }:: | **France** | **[YaniFR](https://osu.ppy.sh/users/11260982)**, [Ranshi](https://osu.ppy.sh/users/6680785), [Gundham](https://osu.ppy.sh/users/8023063), [Ecchou](https://osu.ppy.sh/users/16403250), [Chernobog](https://osu.ppy.sh/users/3317042), [Nethen](https://osu.ppy.sh/users/14034809) |
 | ::{ flag=DE }:: | **Germany** | **[frz](https://osu.ppy.sh/users/6956922)** |
 | ::{ flag=GT }:: | **Guatemala** | **[Maxtulini](https://osu.ppy.sh/users/25345980)**, [Mochiku](https://osu.ppy.sh/users/14847195) |
 | ::{ flag=HK }:: | **Hong Kong** | **[Shing\_](https://osu.ppy.sh/users/2211364)** |
@@ -107,7 +107,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=US }:: | **United States** | **[13 Stairs](https://osu.ppy.sh/users/14356353)** |
 | ::{ flag=VN }:: | **Vietnam** | **[Creeperbrine303](https://osu.ppy.sh/users/22515524)**, [buttermiilk](https://osu.ppy.sh/users/16039831), [RandomNameIdk](https://osu.ppy.sh/users/24042710), [\[TCD\] Azure](https://osu.ppy.sh/users/18782185), [kocoten72](https://osu.ppy.sh/users/15517145) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **6 March, 23:59 UTC**. This list was last updated on **4 March 2026**.
+Captains are listed in **bold**. Individual team compositions subject to change until **6 March, 23:59 UTC**. This list was last updated on **5 March 2026**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
 
