@@ -805,7 +805,8 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
    - Round 2 bracket is A1 vs B2, B1 vs C1, C2 vs A2
    - Round 3 bracket is A1 vs C1, B1 vs A2, C2 vs B2
 5. The results from the group stage will also be used for the elimination quarter. However, the bracket and match will be decided by a draw.
-   - Each division is divided into 4 quarters. Teams from the same group won't be divided into same quarter. 
+   - Each division is divided into 4 quarters. Teams from the same group won't be divided into same quarter.
+   - In each division, there will be a group #1 team vs a group #4 team, and a group #2 team vs a group #3 team.
 
 ### Win conditions
 
