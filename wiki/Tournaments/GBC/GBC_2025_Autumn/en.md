@@ -787,7 +787,7 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
 
 1. The regular phase will be divided into two divisions, the Discord division and the QQ division.
    - Players can choose the division and participate in the team of the corresponding division. Players must ensure that they can use the chat tool of the corresponding division and keep the chat open.
-2. Group stage has 3 rounds. Since each group has 6 teams, it means not each team in groups will have a match.
+2. Group stage has 3 rounds. Players will face against 3 other teams during this stage. Since each group has 6 teams, they will not be matched against all opponents in their respective group.
    - The group stage of both divisions will be held separately. Each division will have 16 teams advance to the elimination phase.
    - The top 4 of each group will advance.
 3. The final ranking of the Swiss round will be determined by the following criteria in order:
@@ -805,7 +805,7 @@ Detailed statistics for this round can be found [here](https://docs.qq.com/sheet
    - Round 2 bracket is A1 vs B2, B1 vs C1, C2 vs A2
    - Round 3 bracket is A1 vs C1, B1 vs A2, C2 vs B2
 5. The results from the group stage will also be used for the elimination quarter. However, the bracket and match will be decided by a draw.
-   - Each division has 4 quarters. Teams from same group won't be divided into same quarter. The bracket of Round of 16 must be one group #1 vs another group #4, one group #2 vs another group #3.
+   - Each division is divided into 4 quarters. Teams from the same group won't be divided into same quarter. 
 
 ### Win conditions
 
