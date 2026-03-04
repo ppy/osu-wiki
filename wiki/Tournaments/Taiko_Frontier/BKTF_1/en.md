@@ -28,7 +28,7 @@ The **Blaze Killing Taiko Frontier** (***BKTF***) was a team based worldwide dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag, unique profile banner, `BKTF #1 Champion` role on Taiko Frontier Discord server |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter, unique profile banner, `BKTF #1 Champion` role on Taiko Frontier Discord server |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Unique profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Unique profile banner |
 
@@ -499,14 +499,14 @@ The final standings for the Qualifiers stage can be found in the following [qual
 4. Commentators and translators are allowed to participate in this tournament. However, eliminated players can become referees, streamers or playtesters.
 5. Players are allowed to register regards from any nationality/region.
 6. Any other staff roles that are not listed here cannot partake in this tournament.
-7. Any osu!taiko player who has not been restricted within the past 12 months and follows [osu! community rules](/wiki/Rules) will be allowed in this tournament. The osu! support reserves the right of removing any player from the tournament following the screening phase.
-8. All players and staff must thoroughly read and comply to these rules during the tournament. Respectful behavior is expected at all times. Violations may result in tournament bans or disqualification. 
+7. Any osu!taiko player who has not been restricted within the past 12 months and follows [osu! community rules](/wiki/Rules) will be allowed in this tournament. The [account support team](/wiki/People/Account_support_team) reserves the right of removing any player from the tournament following the screening phase.
+8. All players and staff must thoroughly read and comply with these rules during the tournament. Respectful behavior is expected at all times. Violations may result in tournament bans or disqualification. 
 
 ### Team composition
 
-1. Team size will be between two players or three players at maximum.
+1. Team size will be between two or three players at maximum.
 2. Every team will name a captain, their responsibility will be scheduling and acting as the primary contact with tournament organisers. In the absence of the captain, another team member must take over. If there is no response within 48 hours, organisers will make decisions on behalf of the team.
-3. Any team naming that is considered inappropriate, offensive, or indecent are prohibited.
+3. Any team name that is considered inappropriate, offensive, or indecent is prohibited.
 4. No member changes are allowed after the registration period (August 23, 2025 - September 20, 2025). Exceptions are permitted only on the first day of the screening period (September 14, 2025) for emergencies, with changes requested within 24 hours via the Discord server's `#reschedule` text channel. Replacement players must also meet the [participation requirements](#participation-requirements) criteria.
 
 ### Registration process
@@ -522,7 +522,7 @@ The final standings for the Qualifiers stage can be found in the following [qual
 ### Scheduling
 
 1. Schedule and rundown will follow what's written before in the [tournament schedules](#tournament-schedule) section above.
-2. Reschedules are allowed with both teams must agree and notify organisers via the Discord server's `#reschedule` text channel by Thursday 23:59 (UTC) of the match week. Rescheduling must be finalised by Friday 12:00 (UTC).
+2. Reschedules are allowed so long as both teams agree and notify organisers via the Discord server's `#reschedule` text channel by Thursday 23:59 (UTC) of the match week. Rescheduling must be finalised by Friday 12:00 (UTC).
 3. If the initial weekends schedule are unavailable, matches can be held until Monday 23:00 (UTC) if a referee is available. For Qualifiers, this is limited to Sunday 23:00 (UTC). 
 
 ### Winning conditions
@@ -531,39 +531,39 @@ The final standings for the Qualifiers stage can be found in the following [qual
 | :-- | :-- | :-- |
 | **Round of 32 and Round of 16** | Best-of-9 | First to 5 points |
 | **Quarterfinals and Semifinals** | Best-of-11 | First to 6 points |
-| **Finals and Grand Finals** | Best-of-13 | (first to 7 points) |
+| **Finals and Grand Finals** | Best-of-13 | First to 7 points |
 
 ### Qualifiers rules
 
-1. The qualifiers will occur ranging from October 4, 2025 - October 5, 2025, held in multiplayer lobbies. Players select lobbies via the Discord server's `#reschedule` text channel.
+1. The Qualifiers will occur ranging from October 4, 2025 – October 5, 2025, held in multiplayer lobbies. Players select lobbies via the Discord server's `#reschedule` text channel.
 2. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 3. Warmups are not permitted.
 4. Matches are conducted under private lobbies that are created at the registered time and, players will be invited to join.
 5. Reschedules are allowed by contacting the organisers via the Discord server's `#reschedule` text channel.
 6. No show without prior notice (24 hours before Qualifiers start) will result in teams doing so ranked last in the qualifiers results.
-7. Match results for Qualifiers are published on the [qualifiers results statistics page](https://docs.google.com/spreadsheets/u/1/d/1APYqj8Qkeg9skY1F7Ml8SZ7uJ_M-X0qgcgUzI3kV65A/edit?gid=0#gid=0) main after Qualifiers have concluded.
+7. Match results for the Qualifiers are published on the [Qualifiers results statistics page](https://docs.google.com/spreadsheets/u/1/d/1APYqj8Qkeg9skY1F7Ml8SZ7uJ_M-X0qgcgUzI3kV65A/edit?gid=0#gid=0) main after Qualifiers have concluded.
 8. Seedings will be done with the average rank of each on each map.
 
 ### Streaming
 
-1. Matches are streamed on Taiko Frontier's available multiple platforms.
+1. Matches are streamed across Taiko Frontier's various platforms.
 
 | Platform | Designation |
 | :-- | :-- |
 | Youtube channel | For Japanese viewers |
-| Twitch channel | For International viewers |
+| Twitch channel | For international viewers |
 | Twitch archives | Will be uploaded to Youtube channel once a match is done |
 
 2. Streaming and Spectating
    - Mirror streaming is permitted on YouTube channel (Japanese commentary) or Twitch channel (global commentary) without delay restrictions. Players may also stream their matches.
-   - Spectators are prohibited from abusive language or spamming. Streamers may delete comments or restrict viewers.
-   - Match Archives: Announced on the official Discord server within 48 hours of the match.
+   - Spectators are prohibited from using abusive language or spamming. Streamers may delete comments or restrict viewers.
+   - Matches will be archived and announced on the official Discord server within 48 hours of the match.
 
 ### Mappool composition
 
-1. Mappool showcase will take place one week before each round (Sunday 20:00 UTC) on YouTube or Twitch channel and published in the Mappool page of the [Taiko Frontier website](https://taiko-frontier.vercel.app/en/bktf1/mappools/). Notifications are sent via the Discord server's `#announcements` text channel. After the showcase, the map links will be published on the [Main sheets](https://docs.google.com/spreadsheets/u/1/d/1APYqj8Qkeg9skY1F7Ml8SZ7uJ_M-X0qgcgUzI3kV65A/edit?gid=0#gid=0).
-2. Organisers will prioritize songs that are allowed to use directly by the artist or from the osu! featured artist listing. However, if the organisers have no other choice, songs that are not explicitly disallowed will be pooled.
-3. Losers’ Bracket will have the same pool as the Winners’ Bracket.
+1. Mappool showcase will take place one week before each round (Sunday 20:00 UTC) on YouTube or Twitch channel and published in the mappool page of the [Taiko Frontier website](https://taiko-frontier.vercel.app/en/bktf1/mappools/). Notifications are sent via the Discord server's `#announcements` text channel. After the showcase, the map links will be published on the [Main sheets](https://docs.google.com/spreadsheets/u/1/d/1APYqj8Qkeg9skY1F7Ml8SZ7uJ_M-X0qgcgUzI3kV65A/edit?gid=0#gid=0).
+2. Organisers will prioritise songs that are allowed to use directly by the artist or from the osu! Featured Artist listing. However, if the organisers have no other choice, songs that are not explicitly disallowed will be pooled.
+3. Losers' Bracket will have the same pool as the Winners' Bracket.
 4. Following table is the composition for each stage.
 
 | Bracket | Qualifiers | Round of 32/Round of 16 | Quarterfinals/Semifinals | Finals/Grand Finals |
@@ -604,15 +604,15 @@ The final standings for the Qualifiers stage can be found in the following [qual
 9. No Fail mods are applied to all maps.
 10. If a map has draw results, the teams will replay the same map. If a second draw occurs, the selecting team chooses a different map, and the drawn map is available again in the pool.
 11. Ties will be resolved via the Tiebreaker bracket.
-12. Technical Issues such as game bugs (e.g score not registering, map loading errors)
+12. Technical issues such as game bugs (e.g score not registering, map loading errors)
     - Referees decide on a replay.
     - Unresolved issues are escalated to organisers.
-    - Device issues: Affected players’ teammates continue; if all players are affected, the match is forfeited.
+    - Device issues: Affected players' teammates continue; if all players are affected, the match is forfeited.
     - Others: There are no tactical timeouts
 
 ### Code of conduct and penalties
 
-1. Prohibited Actions:
+1. Prohibited actions:
    - Cheating or multi-accounting: Immediate disqualification and permanent ban from Taiko Frontier tournaments (verified by osu! staff).
    - Abusive language (insults, discrimination, provocation) or intentional delays: Warnings or further penalties.
    - Disruptive behavior or harassment: May result in immediate disqualification.
@@ -620,7 +620,7 @@ The final standings for the Qualifiers stage can be found in the following [qual
 
 ### Emergency procedures
 
-1. Tournament Cancellation/Postponement are decided by organisers. 
-2. Staff Absence:
+1. The tournament may be cancelled and/or postponed at the behest of the organisers.
+2. Staff absences:
    - Substitute staff will be arranged for absent referees or streamers.
    - If no substitutes are available, rescheduling may be requested.
