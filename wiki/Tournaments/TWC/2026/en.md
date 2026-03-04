@@ -67,7 +67,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=BE }:: | **Belgium** | **[XOlifreX](https://osu.ppy.sh/users/4328137)**, [Brentywenty](https://osu.ppy.sh/users/22753946) |
 | ::{ flag=BR }:: | **Brazil** | **[Foxeru](https://osu.ppy.sh/users/7479684)**, [miwoo](https://osu.ppy.sh/users/12630336), [Skid](https://osu.ppy.sh/users/3044264), [Kyoumo](https://osu.ppy.sh/users/8145223), [HiroK](https://osu.ppy.sh/users/4050738), [irie-](https://osu.ppy.sh/users/29727936) |
 | ::{ flag=BG }:: | **Bulgaria** | **[Vasko2o](https://osu.ppy.sh/users/19577961)**, [giyokon](https://osu.ppy.sh/users/10852632), [theangelov](https://osu.ppy.sh/users/18827836) |
-| ::{ flag=CA }:: | **Canada** | **[Austin Princess](https://osu.ppy.sh/users/12014683)** |
+| ::{ flag=CA }:: | **Canada** | **[Eltigant](https://osu.ppy.sh/users/15191942)** |
 | ::{ flag=CL }:: | **Chile** | **[ulko](https://osu.ppy.sh/users/1263669)** |
 | ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)** |
 | ::{ flag=CO }:: | **Colombia** | **[ParraCharlie](https://osu.ppy.sh/users/18425848)**, [Xoretra](https://osu.ppy.sh/users/4940698), [Coffecito](https://osu.ppy.sh/users/18793276), [Madsri](https://osu.ppy.sh/users/6260841), [sti](https://osu.ppy.sh/users/1271807), [Hermite](https://osu.ppy.sh/users/7945286) |
@@ -85,7 +85,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=LT }:: | **Lithuania** | **[ramojusd](https://osu.ppy.sh/users/14400817)**, [Beesu](https://osu.ppy.sh/users/9117835), [ite](https://osu.ppy.sh/users/11390568), [CamperLt](https://osu.ppy.sh/users/4582149), [BeesAtWork](https://osu.ppy.sh/users/15847145), [D0mis](https://osu.ppy.sh/users/3941186) |
 | ::{ flag=MY }:: | **Malaysia** | **[Jerry](https://osu.ppy.sh/users/605973)**, [K0rd31HP](https://osu.ppy.sh/users/15231510), [Xeltic Rival](https://osu.ppy.sh/users/7500364), [6gicha](https://osu.ppy.sh/users/12273160), [vun](https://osu.ppy.sh/users/6932501), [DXA FonG](https://osu.ppy.sh/users/15019527) |
 | ::{ flag=MX }:: | **Mexico** | **[Hivan111](https://osu.ppy.sh/users/13525805)** |
-| ::{ flag=NL }:: | **Netherlands** | **[Cookie\_Tree](https://osu.ppy.sh/users/502722)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Cookie\_Tree](https://osu.ppy.sh/users/502722)**, [R1ght4](https://osu.ppy.sh/users/21564948), [Gibiji](https://osu.ppy.sh/users/21058672), [StrijkIjzer](https://osu.ppy.sh/users/4130926), [Arhythmix](https://osu.ppy.sh/users/19161909), [Tcc\_ow](https://osu.ppy.sh/users/14413148) |
 | ::{ flag=NZ }:: | **New Zealand** | **[Old Zealand](https://osu.ppy.sh/users/5750235)**, [New ZeaIand](https://osu.ppy.sh/users/12136108), [ZeaIand](https://osu.ppy.sh/users/14777912), [New Zealamb](https://osu.ppy.sh/users/9039824), [idk123456](https://osu.ppy.sh/users/18718856), [iou1214](https://osu.ppy.sh/users/35898762) |
 | ::{ flag=NO }:: | **Norway** | **[Vendelicious](https://osu.ppy.sh/users/8818089)**, [petterde](https://osu.ppy.sh/users/7555792), [Nurend Fanboy](https://osu.ppy.sh/users/18916920), [Tien](https://osu.ppy.sh/users/8631719), [Ksyro\_](https://osu.ppy.sh/users/15218817) |
 | ::{ flag=PE }:: | **Peru** | **[alemagno333](https://osu.ppy.sh/users/11411697)**, [Desinias](https://osu.ppy.sh/users/23361435), [Pachekin](https://osu.ppy.sh/users/8257441) |
@@ -107,7 +107,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | ::{ flag=US }:: | **United States** | **[13 Stairs](https://osu.ppy.sh/users/14356353)** |
 | ::{ flag=VN }:: | **Vietnam** | **[Creeperbrine303](https://osu.ppy.sh/users/22515524)**, [buttermiilk](https://osu.ppy.sh/users/16039831), [RandomNameIdk](https://osu.ppy.sh/users/24042710), [\[TCD\] Azure](https://osu.ppy.sh/users/18782185), [kocoten72](https://osu.ppy.sh/users/15517145) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **6 March, 23:59 UTC**. This list was last updated on **3 March 2026**.
+Captains are listed in **bold**. Individual team compositions subject to change until **6 March, 23:59 UTC**. This list was last updated on **4 March 2026**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
 
