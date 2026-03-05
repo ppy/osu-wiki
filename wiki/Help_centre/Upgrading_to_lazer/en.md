@@ -503,8 +503,8 @@ However, only the following mods will award performance points for now:
   - Daycore
 - Difficulty Increase
   - Hard Rock (Not for osu!mania)
-  - Sudden Death (Configuring `Also fail when missing a slider tail (only for osu!)` and `Restart on fail` is allowed)
-  - Perfect (Configuring `Require perfect hits (only for osu!mania)` and `Restart on fail` is allowed)
+  - Sudden Death (Configuring `Also fail when missing a slider tail` (only for osu!) and `Restart on fail` is allowed)
+  - Perfect (Configuring `Require perfect hits` (only for osu!mania) and `Restart on fail` is allowed)
   - Double Time (Configuring `Adjust pitch` is allowed)
   - Nightcore
   - Fade In (osu!mania only)
