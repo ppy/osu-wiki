@@ -509,6 +509,7 @@ However, only the following mods will award performance points for now:
   - Nightcore
   - Fade In (osu!mania only)
   - Hidden
+  - Traceable (osu! only)
   - Cover (osu!mania only, configuring `Direction` is allowed)
   - Flashlight
   - Blinds (osu! only)
@@ -527,7 +528,6 @@ However, only the following mods will award performance points for now:
   - Eight Keys (osu!mania only)
   - Nine Keys (osu!mania only)
 - Fun
-  - Traceable (osu! only)
   - Muted (All customisation options are allowed)
   - No Scope (osu! & osu!catch only, configuring `Hidden at combo` is allowed)
 - System
