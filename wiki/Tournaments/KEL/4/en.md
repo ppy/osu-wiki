@@ -202,6 +202,7 @@ tags:
 - In the Round of 32, players need to win 4 maps to win a match (best of 7).
 - In the Round of 16, players need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
+  - In the Lower Bracket Round 1, players need to win 6 maps to win a match (best of 11). All other Lower Bracket matches are best of 13.
 - In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Bracket stage procedure
