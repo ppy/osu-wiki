@@ -10,6 +10,100 @@ tags:
   - música
 outdated_translation: true
 outdated_since: eac0479d38064f04b7e8d0387e7fe904a90aa031
+translation_keys:
+  text:
+    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas dentro de osu!.
+  graph:
+    title: Música hecha a medida a lo largo del tiempo
+    alt_text: Gráfico de la música hecha a medida a lo largo del tiempo
+    xlabel: Año
+    ylabel: Recuento
+    tournament_community: Torneos de la comunidad
+    tournament_official: Torneos oficiales
+    contest_community: Concursos de la comunidad
+    contest_official: Concursos oficiales
+    fa_release: Lanzamientos de los artistas destacados
+    beatmap: Beatmaps especificos
+    ost: Banda sonora original de osu!
+    other: Otros lanzamientos relacionados con osu!
+  table_headers:
+    links: Enlaces
+    song: Canción
+    beatmap: Beatmap
+    notes: Notas
+  table_note:  # these replacements all execute in sequence per note/mappool slot
+    # note
+    "2015 osu! theme": Tema de osu! de 2015
+    "Christmas/Winter (\\d{4}) osu! theme": Tema de osu! para la Navidad/invierno de \1
+    "Current osu!\\(lazer\\) main theme": Tema principal actual de osu!(lazer)
+    "Current tutorial song": Canción actual del tutorial
+    "Former \\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": Antiguo tema principal de [osu!stream](/wiki/osu!stream)
+    "Former osu! theme": Antiguo tema de osu!
+    "Former tutorial song": Antigua canción del tutorial
+    "Halloween 2016 osu! theme": Tema de osu! para Halloween de 2016
+    "Original composition for \\[osu!stream\\]\\(/wiki/osu!stream\\)": Composición original para [osu!stream](/wiki/osu!stream)
+    "Summer 2023 osu! theme": Tema de osu! para el verano de 2023
+    "\\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": Tema principal de [osu!stream](/wiki/osu!stream)
+    "Cutscene background music": Música de fondo para las escenas
+    "Ending credits theme": Canción de los créditos
+    "Livestream BGM": Música de fondo de la transmisión en vivo
+    "Main theme": Tema principal
+    "Trailer music": Música del tráiler
+    # specific/unique exceptions
+    "Finals & Last Chance Bracket Pool #1 (.+)": \1 de las finales y del bracket de última oportunidad \#1
+    "Finals HD3 \\(osu!\\), finals NM1 \\(osu!catch\\)": HD3 de las finales (osu!), NM1 de las finales (osu!catch)
+    "Day (\\d) (.{3}) \\((.+)\\) / Day (\\d) (.{3}) \\((.+)\\)": \2 del día \1 (\3) / \5 del día \4 (\6)
+    "Day (\\d+) tiebreaker \\((.+)\\)": Mapa de desempate del día \1 (\2)
+    "Qualifier Stage (\\d+)": Mapa de la fase clasificatoria \1
+    "Knockout Stage (\\d+) Pool (.) (.+)": \3 de la pool \2 en la fase de eliminación \1
+    "Pool (.+) Free Mod pick": Pool \1, selección Free Mod
+    "Grand Finals 7th pick": Séptimo beatmap jugado en la gran final
+    "Finals 7th pick": Séptimo beatmap jugado en las finales
+    "Semifinals/Finals (.+)(?= \\()": \1 de las semifinales/finales
+    "Quarterfinals HD pick \\(B5\\)": Selección HD de los cuartos de final (B5)
+    "Quarterfinals & Semifinals NM pick \\(C11\\)": Selección NM de las semifinales/finales (C11)
+    "Quarterfinals & Semifinals (.+)": \1 de los cuartos de final y las semifinales
+    "Finals & Grand Finals (.+)": \1 de las finales y la gran final
+    "Round of 16 & Quarterfinals (.+)": \1 de los octavos y cuartos de final
+    "Quarterfinals NM4 \\(5k division\\)": NM4 de los cuartos de final (división 5k)
+    "Grand Finals RC7 \\(7K\\)": RC7 de la gran final (7K)
+    "osu! TECH2 \\(NM\\)": NM del TECH2 de osu!
+    # round
+    "LAN (.+)": \1 de la LAN
+    "Swiss Week (\\d+) (.+)": \2 de la semana suiza \1
+    "Swiss Stage (\\d+) (.+)": \2 de la fase suiza \1
+    "Knockout Stage (\\d+) (.+)": \2 de la fase de eliminación \1
+    "Knockout Week (\\d+) (.+)": \2 de la semana de eliminación \1
+    "Week (\\d+) (.+)": \2 de la semana \1
+    "Knockout (\\d+) (.+)": \2 de la ronda de eliminación \1
+    "Bracket Stage (.+)": \1 de la fase de llaves
+    "Group Stage (.+)": \1 de la fase de grupos
+    "Round Robin (.+)": \1 del todos contra todos
+    "Battle Royale 1v1 (.+)": \1 del Battle Royale 1v1
+    "Playoff (\\d+) (.+)": \2 de las eliminatorias \1
+    "Playoffs (.+)": \1 de las eliminatorias
+    "Face-Offs (.+)": \1 de los enfrentamientos directos
+    "Grand Finals (.+)": \1 de la gran final
+    "Finals (.+)": \1 de las finales
+    "Semifinals (.+)": \1 de las semifinales
+    "Quarterfinals (.+)(?= \\()?": \1 de los cuartos de final
+    "Round of 16 (.+)": \1 de los octavos de final
+    "Round of 32 (.+)": \1 de los dieciseisavos de final
+    "Round of 64 (.+)": \1 de los treintaidosavos de final
+    "Round of 96 (.+)": \1 de los cuarentaiochoavos de final
+    "Round of 128 (.+)": \1 de los sesentaicuatroavos de final
+    "Round of (\\d+) (.+)": \2 de la ronda de \1
+    "Qualifiers (.+)": \1 de las clasificatorias
+    # bracket
+    "^Runoff Bracket (.+)": \1 del bracket adicional
+    "^Tier (\\d) (.+)": \2 del Tier \1
+    "^(osu!(?:taiko|catch|mania)?) (.+)": \2 de \1
+    # slot
+    "tiebreaker": Mapa de desempate
+    "technical": Mapa técnico
+    "wildcard": Comodín
+    "\\b(.{2}) pick": Selección \1
+    "\"Mango\" pick": Selección «Mango»
 ---
 
 # Música hecha a medida
