@@ -18,7 +18,7 @@ With the possibilities being so vast, here's a few examples to get your creative
 - Mocha and Yuzu gently tending to their lush, sun-kissed fruit garden
 - the osu! cast enjoying a cheerful tea party picnic beneath the spring sky
 - Mari, Mani and Chirou playing hide and seek along a babbling creek
-- Alisa crafting delicatespringtime trinkets under a blooming cherry blossoms tree
+- Alisa crafting delicate springtime trinkets under a blooming cherry blossoms tree
 - pippi's gaze gently resting over a sea of blossoming flowers
 - ...or basically anything you can think of that involves the art of floral composition or springtime spirit!
 
