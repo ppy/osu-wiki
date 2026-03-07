@@ -111,7 +111,7 @@ Twitter 账号 [@osustatus](https://twitter.com/osustatus) 被创建，用于通
 
 ## 十二月
 
-本月，[制谱协助团队](/wiki/People/Mapping_Assistance_Team) (MAT) 成立。MAT 负责挑选质量合格的[待定](/wiki/Beatmap/Category#wip-and-pending)谱面，并推荐给 [BAT](/wiki/People/Beatmap_Appreciation_Team) 在[论坛摸图](/wiki/Modding/Forum_modding)系统中进行排名。[^mat]
+本月，[谱面协助团队](/wiki/People/Mapping_Assistance_Team) (MAT) 成立。MAT 负责挑选质量合格的[待定](/wiki/Beatmap/Category#wip-and-pending)谱面，并推荐给 [BAT](/wiki/People/Beatmap_Appreciation_Team) 在[论坛摸图](/wiki/Modding/Forum_modding)系统中进行排名。[^mat]
 
 为了应对一些不可能的跳跃，osu! 的一次更新为 Catch the Beat 模式引入了[红果跳](/wiki/Gameplay/Hyperdash)。玩家在收集[红果](/wiki/Gameplay/Hit_object/Hyperfruit)时会获得短暂的额外速度。此外，还实现了在[扩展聊天面板](/wiki/Client/Interface/Chat_console#扩展聊天面板)中显示在线用户列表的预览的功能。[^stable-b1209]
 
