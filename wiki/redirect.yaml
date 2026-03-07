@@ -444,9 +444,15 @@ osu!_file_formats/osz:               Client/File_formats/osz_(file_format)
 .osz:                                Client/File_formats/osz_(file_format)
 osz:                                 Client/File_formats/osz_(file_format)
 
-user_configuration_file:                    Client/Program_files/User_configuration_file
-user_configuration:                         Client/Program_files/User_configuration_file
-user_config:                                Client/Program_files/User_configuration_file
+client/release_stream/lazer/file_storage: Client/osu!_program_files_(lazer)#storage-structure
+
+client/program_files: Client/osu!_program_files
+program_files: Client/osu!_program_files
+client/program_files/user_configuration_file: Client/osu!_program_files/User_configuration_file
+
+user_configuration_file:                    Client/osu!_program_files/User_configuration_file
+user_configuration:                         Client/osu!_program_files/User_configuration_file
+user_config:                                Client/osu!_program_files/User_configuration_file
 
 academy:                     Community/Video_series/osu!academy
 announcements/osu!academy:   Community/Video_series/osu!academy
@@ -1417,8 +1423,8 @@ options:                          Client/Options
 glossary/ignore_list:             Client/Options/Ignore_list
 options/keyboard_bindings:        Client/Keyboard_shortcuts
 options/offset_wizard:            Client/Options/Offset_Wizard
-osu!_program_files:               Client/Program_files
-osu!_program_files/user_configuration_file: Client/Program_files/User_configuration_file
+osu!_program_files:               Client/osu!_program_files
+osu!_program_files/user_configuration_file: Client/osu!_program_files/User_configuration_file
 
 # moved in #6995
 time_signature:                   Music_theory/Time_signature
