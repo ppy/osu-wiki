@@ -53,7 +53,7 @@ Two of **LaXal**'s biggest passions are music and video games. If you played [th
 
 ---
 
-Look at what we have here: an osu! player who's reading a Featured Artist announcement news post. If you're so invested in reading, you should use that enthusiasm to make a reading-focused map from one of the `.osz` files on [**LaXal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/532). Only you have the capability, practiced reader. 
+Look at what we have here: an osu! player who's reading a Featured Artist announcement news post. If you're so invested in reading, you should use that enthusiasm to make a reading-focused map from one of the `.osz` files on [**LaXal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/532). Only you have the capability, practised reader. 
 
 If you're on the lookout for more music, we have some good news: a new Featured Artist will be announced next weekend! (And the weekend after that, and the weekend after that, etc.)
 
