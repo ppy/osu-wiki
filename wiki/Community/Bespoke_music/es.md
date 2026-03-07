@@ -106,6 +106,8 @@ translation_keys:
     "\"Mango\" pick": Selección «Mango»
 ---
 
+<!-- Everything inside the "Estadísticas" (Statistics) and "Listado" (Listing) sections is automated. If a translation there is incorrect, malformatted or needs to be updated, please reach out to a wiki maintainer in the `#osu-wiki` channel on the development server. -->
+
 # Música hecha a medida
 
 Este artículo enumera las canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [Artistas Destacados](/wiki/People/Featured_Artists).
