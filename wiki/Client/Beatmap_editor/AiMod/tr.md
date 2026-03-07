@@ -6,7 +6,7 @@
 
 AiMod, haritadaki temel sorunları yakalamakta faydalı olsa da gerçek kişiler tarafından yapılan [modlama](/wiki/Modding) işlemlerinin yerini tutmaz. AiMod bir haritanın kalitesini değerlendiremez veya zayıf [pattern](/wiki/Beatmap/Pattern) kullanımı ya da hatalı [timing](/wiki/Guides/How_to_time_songs) gibi karmaşık sorunları tespit edemez. [Harita oluştururken](/wiki/Beatmapping), önce AiMod uyarılarını düzeltmeniz, ardından diğer [modder’lardan](/wiki/Modding/Modder) yardım istemeniz önerilir.
 
-AiMod’un geliştirilmesi genellikle mapping topluluğunun standartlarının ve [ranking criteria](/wiki/Ranking_criteria) gerekliliklerinin gerisinde kalır; bu nedenle [bazı çıktıları hatalı kabul edilir](#flaws).
+AiMod’un geliştirilmesi genellikle mapping topluluğunun standartlarının ve [ranking criteria](/wiki/Ranking_criteria) gerekliliklerinin gerisinde kalır; bu nedenle [bazı çıktıları hatalı kabul edilir](#Kusurlar).
 
 ## Sekmeler
 
