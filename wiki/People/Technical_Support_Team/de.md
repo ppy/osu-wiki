@@ -24,6 +24,7 @@ Die [Gruppenseite für das technische Support-Team](https://osu.ppy.sh/groups/22
 | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) | Italienisch |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  |
+| ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Koreanisch, Japanisch |
 | ::{ flag=DE }:: [Lyawi](https://osu.ppy.sh/users/5851253) | Deutsch |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch |
 | ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | Polnisch |

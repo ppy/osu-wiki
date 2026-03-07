@@ -80,9 +80,9 @@ Into the next round of the Mappers' Showcase we go! This time, we're featuring t
 
 [Verti](https://osu.ppy.sh/users/10674528) is an ambitious newcomer to the osu!catch mapping scene. His mapping prowess should not be underestimated as he managed to push three maps to the ranked section within three months, achieving the impossible as deemed by most novice mappers.
 
-His debut map is [nonoc – Memento (TV Size)](https://osu.ppy.sh/beatmapsets/1417543), a Cup to Rain spread mapped solely by himself, for which the ranking process only lasted a month. He has been gaining recognition from the osu!catch community with his 4-minute Platter to Overdose spread [Amatsuki – DORAEMON]( https://osu.ppy.sh/beatmapsets/1327531) starred in CWC2021 as a Finals DT pick.
+His debut map is [nonoc – Memento (TV Size)](https://osu.ppy.sh/beatmapsets/1417543), a Cup to Rain spread mapped solely by himself, for which the ranking process only lasted a month. He has been gaining recognition from the osu!catch community with his 4-minute Platter to Overdose spread [Amatsuki – DORAEMON](https://osu.ppy.sh/beatmapsets/1327531) starred in CWC2021 as a Finals DT pick.
 
-He may be keen on producing maps for Japanese vocals, yet he is currently opening up new vista on trance and rhythm game music such as [xi – Ascension to Heaven]( https://osu.ppy.sh/beatmapsets/1482069), a collaboration project with his mapping mentor, as well as [Morimori Atsushi vs. uma – Noel (long ver.)]( https://osu.ppy.sh/beatmapsets/1483009), a clean Overdose marathon featuring intense streams, consistent patterns and on-point hitsounds. Verti has certainly set a prime example to fellow newcomers that self-motivation can bring you further than expected.
+He may be keen on producing maps for Japanese vocals, yet he is currently opening up new vista on trance and rhythm game music such as [xi – Ascension to Heaven](https://osu.ppy.sh/beatmapsets/1482069), a collaboration project with his mapping mentor, as well as [Morimori Atsushi vs. uma – Noel (long ver.)](https://osu.ppy.sh/beatmapsets/1483009), a clean Overdose marathon featuring intense streams, consistent patterns and on-point hitsounds. Verti has certainly set a prime example to fellow newcomers that self-motivation can bring you further than expected.
 
 ### KuroRev
 
