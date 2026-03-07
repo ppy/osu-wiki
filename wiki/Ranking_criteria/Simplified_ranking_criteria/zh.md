@@ -1,52 +1,53 @@
----
-outdated_translation: true
-outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
----
-
 # 简版上架标准
 
-*对于完整版谱面上架标准 (RC)，请参见：[谱面上架标准](/wiki/Ranking_criteria)*
+*对于完整版谱面上架标准 (RC)，请参阅：[谱面上架标准](/wiki/Ranking_criteria)*
 
-完整的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 很复杂。它包含[谱面](/wiki/Beatmap)从创建到[上架](/wiki/Beatmap_ranking_procedure#上架)所需要遵守的所有规定和准则，以及大多数谱师从未遇到过的*许多*罕见情况。
+完整的[谱面上架标准 (RC)](/wiki/Ranking_criteria) 相当复杂。它解释了制作一张能够被[上架](/wiki/Beatmap_ranking_procedure#上架)的[谱面](/wiki/Beatmap)所需要遵守的所有规定和准则，其中包含*大量*大多数谱师从未遇到过的特殊情况。
 
-**简版上架标准**这篇文章是为了让谱师更清楚地了解制作符合上架标准的谱面所需要遵守和参考的：
+**简版上架标准**旨在通过以下方式，为谱师提供一个更清晰的视角，了解创建一张可上架谱面需要什么：
 
-- 大多数谱面遵守的简化版规定和准则
+- 影响大多数谱面的简化版规定和准则
 - 谱师上架谱面时需要考虑的主观标准
 
 ## 谱面
 
 ::: Infobox
-![](./img/percent.png "歌曲进度百分比")
+![](img/percent.png "歌曲进度百分比")
 :::
 
-- **保证谱面内的任何东西均遵守[内容使用规范](/wiki/Rules/Content_usage_permissions#艺术家准许)。**
-- **谱面长度至少 30 秒。**
-- **谱面最早只能结束在 [80% 标记](./img/percent.png)处。** 如果你想更早结束谱面，请截短歌曲。
+- **确保谱面中的所有内容都符合[内容使用许可](/wiki/Rules/Content_usage_permissions#艺术家准许)。**
+- **谱面长度必须至少为 30 秒。**
+- **谱面最早只能结束在 [80% 标记](img/percent.png)处。** 如果你想更早结束谱面，请截短歌曲。
 
 ### 难度梯度
 
-- **难度名必须有等级之分。** 
+- **难度名必须体现递进关系。**
   - 默认方案是 Easy -> Normal -> Hard -> Insane -> Expert。
   - 像 Seed -> Sprout -> Tree 这样符合事物发展逻辑的命名方案也可以。
   - **例外：** 谱面的主难（最高难度）可以自定义命名。例如 Normal -> Hard -> *Melancholy*。
-- **不要跳过难度。** 例如，你制作了 Normal 和 Insane 难度，那么也需要制作 Hard 难度。
-- **[谱面主（谱面拥有者）](/wiki/Beatmap/Beatmap_host) 制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
+- **不要跳过难度级别。** 例如，你制作了 Normal 和 Insane 难度，那么也需要制作 Hard 难度。
+- **[谱面创建者](/wiki/Beatmap/Beatmap_host)制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
 - **取决于游戏模式和歌曲长度，谱面所需的最低难度不能低于：**
 
-| [掉血时间](/wiki/Beatmap/Drain_time) | osu! | osu!taiko |
-| --: | :-: | :-: |
-| **0:30 到 3:30** | Normal | Futsuu |
-| **3:30 到 4:15** | Hard | Muzukashii |
-| **4:15 到 5:00** | Insane | Oni |
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
+| --: | :-: |
+| **0:30 到 3:30** | Normal |
+| **3:30 到 4:15** | Hard |
+| **4:15 到 5:00** | Insane |
 
-| [掉血时间](/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
 | --: | :-: | :-: |
-| **0:30 到 2:30** | Salad | Normal |
-| **2:30 到 3:15** | Platter | Hard |
-| **3:15 到 4:00** | Rain | Insane |
+| **0:30 到 2:30** | Futsuu | Salad |
+| **2:30 到 3:15** | Muzukashii | Platter |
+| **3:15 到 4:00** | Oni | Rain |
 
-### 音效
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
+| --: | :-: |
+| **0:30 到 2:00** | Normal |
+| **2:00 到 2:45** | Hard |
+| **2:45 到 3:30** | Insane |
+
+### 打击音效
 
 - **谱面必须[下音效](/wiki/Beatmapping/Hitsound)。** osu!mania 谱面除外。
 - **所有可点击的物件必须能让玩家听到（有足够的反馈）。**
@@ -54,10 +55,10 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ### 时间轴
 
 ::: Infobox
-![](./img/2b.png "同一时间点有两个物件")
+![](img/2b.png "同一时间点有两个物件")
 :::
 
-- **谱面时间轴（红线）必须精确。** BPM 和拍子记号也必须准确。
+- **谱面时间轴（红线）必须精确。** 这包括 BPM 和拍号。
 - **所有难度必须使用同一套时间轴（红线）。**
 - **不要为了更改滑条速度而调整时间轴（红线）。**
 - **物件必须放置在节拍细分线上。**
@@ -66,25 +67,25 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ## 元数据
 
 - **元数据（歌曲信息）必须准确无误。**
-  - 使用[主要元数据来源](/wiki/Beatmap/Primary_metadata_source)。
-  - 如果谱面的歌曲已经存在于上架 (Ranked) 或社区喜爱谱面 (Loved) 分类中，并且它们的元数据没有明显的错误，那么就需要使用它们的元数据。
+  - 使用一个[主要的元数据来源](/wiki/Beatmap/Primary_metadata_source)。
+  - 如果歌曲已有已上架 (Ranked) 或社区喜爱谱面 (Loved) 的谱面，请使用该谱面的元数据，除非它存在明显的错误。
 - **使用[修正平文式罗马音方案](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)作为日文罗马音方案。**
 
 ### 标签
 
-  - **添加为谱面做出贡献的玩家名。** 这不包括摸图的玩家。
-  - **添加歌曲的[曲风和语言](/wiki/Beatmap/Genre_and_language)。**
-  - **如果歌曲存在于[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)内，添加 `featured artist`。**
-  - **其他标签必须与谱面或歌曲相关。**
+- **添加为谱面做出贡献的玩家名。** 这不包括摸图的玩家。
+- **添加歌曲的[曲风和语言](/wiki/Beatmap/Genre_and_language)。**
+- **如果歌曲存在于[精选艺术家目录](https://osu.ppy.sh/beatmaps/artists)内，添加 `featured artist`。**
+- **其他标签必须与谱面或歌曲相关。**
 
 ### 曲名
 
-  - **在 TV 上播放的歌曲必须添加 `(TV Size)`。**
-  - **将所有“游戏版”标签替换成 `(Game Ver.)`。**
-  - **将所有“短版”标签替换成 `(Short Ver.)`。**
-  - **如果歌曲是非官方剪辑版，添加 `(Cut Ver.)`。**
-  - **如果歌曲是非官方延长版，添加 `(Extended Edit)`。**
-  - **如果歌曲是非官方提速版，添加`(Sped Up Ver.)` 。** 对于某些曲风，也可以添加 `(Nightcore Mix)`。
+- **为电视播放而缩短的歌曲标题必须添加 `(TV Size)`。**
+- **将所有“游戏版”标签替换成 `(Game Ver.)`。**
+- **将所有“短版”标签替换成 `(Short Ver.)`。**
+- **如果歌曲是非官方剪辑版，添加 `(Cut Ver.)`。**
+- **如果歌曲是非官方延长版，添加 `(Extended Edit)`。**
+- **如果歌曲是非官方提速版，添加`(Sped Up Ver.)` 。** 对于某些曲风，也可以添加 `(Nightcore Mix)`。
 
 ### 来源
 
@@ -92,7 +93,7 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 
 ## 文件
 
-- **不要使用不适合的歌曲或背景。** 参见[歌曲内容规定](/wiki/Rules/Song_content_rules)和[视觉内容注意事项](/wiki/Rules/Visual_content_considerations).
+- **不要使用不恰当的内容。** 参见[歌曲内容规定](/wiki/Rules/Song_content_rules)和[视觉内容注意事项](/wiki/Rules/Visual_content_considerations).
 - **不要在谱面文件夹内遗留未使用的文件。**
 
 ### 歌曲
@@ -104,16 +105,16 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 - **所有难度必须使用同一个歌曲文件。**
 - **所有难度必须使用同一处歌曲预览点。**
 
-### 音效
+### 打击音效
 
 ::: Infobox
-![](./img/delay.png "开头留有空白的音效")
+![](img/delay.png "开头留有空白的音效")
 :::
 
-- **音效文件必须长于 25 毫秒，并使用 `.wav` 或 `.ogg` 文件格式。**
+- **打击音效文件长度必须至少为 25 毫秒，并使用 `.wav` 或 `.ogg` 文件格式。**
   - 不要使用 `.mp3`。
-  - **例外：** 使用[这个文件](https://up.ppy.sh/files/blank.wav)作为完全没有声音的音效。
-- **音效开头不能留有[空白](./img/delay.png)（不得延迟）。**
+  - **例外：** 静音音效请使用[这个文件](https://up.ppy.sh/files/blank.wav)。
+- **打击音效开头不能留有[空白](img/delay.png)（不得延迟）。**
 
 ### 背景
 
@@ -139,28 +140,28 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ### osu!
 
 ::: Infobox
-![](./img/offscreen.png "在 1280x960 分辨率下，滑条部分边界处于游玩区域之外")
+![](img/offscreen.png "在 1280x960 分辨率下，滑条部分边界处于游玩区域之外")
 :::
 
 - **在游戏处于 4:3 纵横比下，谱面物件不能超出游戏窗口区域。**
-- **[Auto 模组](/wiki/Gameplay/Game_modifier/Auto)必须在所有转盘上获得奖励分。** 否则太短。
+- **[Auto 模组](/wiki/Gameplay/Game_modifier/Auto)必须在所有转盘上获得奖励分。** 否则转盘时间太短。
 - **至少使用两种连击色。**
 
 ### osu!taiko
 
-- **避免背景图中的重点被太鼓游玩区域遮挡住。** 你能在 [`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))内调整背景图的垂直偏移。
+- **避免背景图片的重要部分被太鼓游玩区域遮挡住。** 你能在 [`.osu` 文件](/wiki/Client/File_formats/osu_(file_format))内调整背景图的垂直偏移。
 - **避免频繁地开关 [kiai](/wiki/Gameplay/Kiai_time)**。
 - **在 1/4 或更密集的节奏内，只在末尾使用大音符。**
 - **在较低的难度内，尽量避免调整滑条速度（变速）。**
-- **每个难度必须遵守对应的休息段长度准则：**
+- **每个难度必须遵守其各自对应的休息段准则：**
 
-| 难度 | 休息段 | 物件连续排列的段落长度 |
-| --: | :-: | :-: |
-| **Kantan** | ![3/1](./img/taiko/kantan.png "3/1") | 每 32-36 拍需要一个休息段 |
-| **Futsuu** | ![2/1](./img/taiko/futsuu.png "2/1") | 每 32-36 拍需要一个休息段 |
-| **Muzukashii** (选项 1) | ![3/2](./img/taiko/muzu1.png "3/2") | 每 16-20 拍需要一个休息段 |
-| **Muzukashii** (选项 2) | ![3 个连续的 1/1](./img/taiko/muzu2.png?1 "3 个连续的 1/1") | 每 16-20 拍需要一个休息段 |
-| **Oni** | ![1/1](./img/taiko/oni.png "1/1") | 每 16-20 拍需要一个休息段 |
+| 难度 | 休息段 | 示例 | 物件连续排列的段落长度 |
+| :-: | :-: | :-: | :-- |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 或更长 | ![3/1](img/taiko/kantan.png "3/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 或更长 | ![2/1](img/taiko/futsuu.png "2/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (选项 1) | 3/2 或更长 | ![3/2](img/taiko/muzu1.png "3/2") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (选项 2) | 3 个连续的 1/1 或更长 | ![3 个连续的 1/1](img/taiko/muzu2.png "3 个连续的 1/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 或更长 | ![1/1](img/taiko/oni.png "1/1") | 每 16-20 拍需要一个休息段 |
 
 ### osu!catch
 
@@ -182,7 +183,7 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 
 **谱面的所有元素都应该起到表现歌曲的作用。**
 
-这个原则听起来很简单，但它可能是上架谱面时最容易引起讨论的方面！没有完全固定的方式来解读一首歌曲，因此，每个玩家的理解也不会完全相同。[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 会决定你的表现方式是否适用于一张上架的谱面。
+这个原则听起来很简单，但它可能是上架谱面时最容易引起讨论的方面！诠释一首歌曲没有*唯一正确的方式*，因此每个人的诠释都各不相同，而[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 将判断你的诠释是否足以让谱面获得上架资格。
 
 虽然无法准确解释如何表现歌曲，但以下这些提示应该能够引导你前往正确的方向：
 
