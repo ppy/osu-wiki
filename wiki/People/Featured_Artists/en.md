@@ -105,6 +105,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=US }:: [Memodemo](https://osu.ppy.sh/users/7393582) | [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508) |
+| ::{ flag=JP }:: [MIDInco](https://osu.ppy.sh/users/3809507) | [MIDInco](https://osu.ppy.sh/beatmaps/artists/515) |
 | ::{ flag=US }:: [MintyDoggo](https://osu.ppy.sh/users/10416815) | [Myntian](https://osu.ppy.sh/beatmaps/artists/495) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
