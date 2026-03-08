@@ -23,7 +23,7 @@ translation_keys:
     contest_community: Concursos de la comunidad
     contest_official: Concursos oficiales
     fa_release: Lanzamientos de los artistas destacados
-    beatmap: Beatmaps especificos
+    beatmap: Beatmaps específicos
     ost: Banda sonora original de osu!
     other: Otros lanzamientos relacionados con osu!
   table_headers:
@@ -57,8 +57,8 @@ translation_keys:
     "Qualifier Stage (\\d+)": Mapa de la fase clasificatoria \1
     "Knockout Stage (\\d+) Pool (.) (.+)": \3 de la pool \2 en la fase de eliminación \1
     "Pool (.+) Free Mod pick": Pool \1, selección Free Mod
-    "Grand Finals 7th pick": Séptimo beatmap jugado en la gran final
-    "Finals 7th pick": Séptimo beatmap jugado en las finales
+    "Grand Finals 7th pick": Séptimo beatmap seleccionado en la gran final
+    "Finals 7th pick": Séptimo beatmap seleccionado en las finales
     "Semifinals/Finals (.+)(?= \\()": \1 de las semifinales/finales
     "Quarterfinals HD pick \\(B5\\)": Selección HD de los cuartos de final (B5)
     "Quarterfinals & Semifinals NM pick \\(C11\\)": Selección NM de las semifinales/finales (C11)
