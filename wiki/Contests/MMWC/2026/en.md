@@ -62,11 +62,13 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 - Signups may be done with a pre-formed team, or individually if you do not have a team. The organisers will assist in the formation of teams from the individual signup list based on their country or geographical location.
 - There is no team limit per country on the first stage. However, only a limited number of teams from each country will be allowed to advance to later stages based on their results.
 - There will be a total of 3 stages, each with its own specifications. Teams must create 1 map per stage according to the specifications.
+
 | Stage | Description |
 | :-- | :-- |
 | Qualification Stage | *Limited Drain Time* — Each team is required to create a map with a specific drain time. |
 | Group Stage | *Limited Artist* — Each team is required to create a map using tracks by artists selected by the hosts. The available choices and selection order are influenced by a team's placement in the previous stage. |
 | Final Stage | *Limited Song Choice – Diverse Mapping Style* — Each team must create a map using a song selected from two songs provided by the host. Song selection order is determined by a team's placement in the previous stage. Each mapper in the team should contribute a section with a distinct interpretation and mapping style. |
+
 - Each stage will introduce difficulty requirements for submissions. These will get progressively harder as the rounds go on.
 - The judging criteria for each stage will remain the same.
 
