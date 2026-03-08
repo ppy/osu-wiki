@@ -12,16 +12,15 @@ The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) is a country-based, m
 
 ## Schedule
 
-Registrations opened 14 March 2026. Each stage consisted of a mapping phase and a judging phase.
-
 | Event | Timestamp (UTC) |
-| --: | :-- |
-| Stage 1 mapping phase | 2026-04-03/2026-04-24 |
-| Stage 1 judging phase | 2026-04-25/2026-05-09 |
-| Stage 2 mapping phase | 2026-05-15/2026-06-05 |
-| Stage 2 judging phase | 2026-06-06/2026-06-20 |
-| Stage 3 mapping phase | 2026-06-26/2026-07-17 |
-| Stage 3 judging phase | 2026-07-18/2026-08-01 |
+| :-- | :-- |
+| Registration phase | 2026-03-14 – 2026-04-02 |
+| Qualification Stage mapping phase | 2026-04-03 – 2026-04-24 |
+| Qualification Stage judging phase | 2026-04-25 – 2026-05-09 |
+| Group Stage mapping phase | 2026-05-15 – 2026-06-05 |
+| Group Stage judging phase | 2026-06-06 – 2026-06-20 |
+| Final Stage mapping phase | 2026-06-26 – 2026-07-17 |
+| Final Stage judging phase | 2026-07-18 – 2026-08-01 |
 | Final results | 2026-08-08 |
 
 ## Prizes
@@ -63,12 +62,13 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 - Signups may be done with a pre-formed team, or individually if you do not have a team. The organisers will assist in the formation of teams from the individual signup list based on their country or geographical location.
 - There is no team limit per country on the first stage. However, only a limited number of teams from each country will be allowed to advance to later stages based on their results.
 - There will be a total of 3 stages, each with its own specifications. Teams must create 1 map per stage according to the specifications.
-  - *Qualification Stage*: *Limited Drain Time*, where each team is required to create a map with a specific drain time.
-  - *Group Stage*: *Limited Artist*, where each team is required to create a map using tracks by artists selected by the hosts. The available choices and selection order are influenced by a team's placement in the previous stage.
-  - *Final Stage*: *Limited Song Choice - Diverse Mapping Style*, where each team must create a map using a song selected from two songs provided by the host. Song selection order is determined by a team's placement in the previous stage. Each mapper in the team should contribute in a section with a distinct interpretation and mapping style.
+| Stage | Description |
+| :-- | :-- |
+| Qualification Stage | *Limited Drain Time* — Each team is required to create a map with a specific drain time. |
+| Group Stage | *Limited Artist* — Each team is required to create a map using tracks by artists selected by the hosts. The available choices and selection order are influenced by a team's placement in the previous stage. |
+| Final Stage | *Limited Song Choice – Diverse Mapping Style* — Each team must create a map using a song selected from two songs provided by the host. Song selection order is determined by a team's placement in the previous stage. Each mapper in the team should contribute a section with a distinct interpretation and mapping style. |
 - Each stage will introduce difficulty requirements for submissions. These will get progressively harder as the rounds go on.
 - The judging criteria for each stage will remain the same.
-
 
 ### Rules
 
