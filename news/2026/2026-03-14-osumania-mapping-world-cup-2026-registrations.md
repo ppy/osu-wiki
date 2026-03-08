@@ -15,7 +15,7 @@ Each team must consist of 3 or 4 mappers from the same country as listed on thei
 
 If there aren't enough participants from a country to form a full team, participants may register through the individual signup form, where they can be matched themselves with other individual participants based on their country or geographical location. When the registration period comes closer to its end, the organisers may also assist in forming teams if viable formations are available. After all, the goal of this contest is to allow everyone to participate!
 
-If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/MMWC/2026) and [forum post]() for more information.
+If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/MMWC/2026) and [forum post](https://osu.ppy.sh/community/forums/topics/2185948) for more information.
 
 ## Registrations
 
