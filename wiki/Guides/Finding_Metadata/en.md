@@ -5,34 +5,34 @@ tags:
   - tags
 ---
 
-# Finding Metadata
+# Finding metadata
 
-Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), metadata includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, which allow beatmaps to be effectively organized and discovered.
+Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), metadata includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, which allow beatmaps to be effectively organised and discovered.
 
-![Beatmap Listing](img/beatmap-listing.jpg "Beatmap Listing")
+![Beatmap Listing](img/beatmap-listing.jpg "Screenshot of the beatmap listing, taken on 28th February 2026")
 
-Finding accurate metadata for your beatmap is, in essence, a process of [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (Search Engine Optimization). The more precise and descriptive your metadata is, the easier it becomes for players to find your beatmap. Metadata keywords can be used as filters in [song select](/wiki/Client/Interface#song-select) as well as on the website's [beatmap listing](https://osu.ppy.sh/beatmapsets) page via full-text search. Moreover, well-researched and detailed metadata increases the likelihood that your beatmap will attract modders, nominators, and ultimately progress through the ranking process more smoothly. Therefore, compiling accurate metadata is essential to ensure your beatmap reaches the right audience and receives the attention it deserves.
+Finding accurate metadata for your beatmap is, in essence, a process of [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (Search Engine Optimisation). The more precise and descriptive your metadata is, the easier it becomes for players to find your beatmap. Metadata keywords can be used as filters in [song select](/wiki/Client/Interface#song-select) as well as on the website's [beatmap listing](https://osu.ppy.sh/beatmapsets) page via full-text search. Moreover, well-researched and detailed metadata increases the likelihood that your beatmap will attract modders, nominators, and ultimately progress through the ranking process more smoothly. Therefore, compiling accurate metadata is essential to ensure your beatmap reaches the right audience and receives the attention it deserves.
 
-## General Principles
+## General principles
 
 Due to its SEO-oriented nature, the process of finding and compiling metadata for your beatmap follows several key principles:
 
-- **Accuracy**: Prioritize official sources. Album liner notes, official music videos, and the artist's official website are typically the most reliable references for confirming a song's title and artist name. Check [Primary metadata source](/wiki/Beatmap/Primary_metadata_source) for more details.
+- **Accuracy**: Prioritise official sources. Album liner notes, official music videos, and the artist's official website are typically the most reliable references for confirming a song's title and artist name. Check [Primary metadata source](/wiki/Beatmap/Primary_metadata_source) for more details.
 - **Consistency**: Take a look at metadata from other beatmaps of the same song or by the same artist. Adopt these conventions where appropriate. This helps maintain a coherent database and enables players to find related beatmaps more easily in a single search.
 - **Symmetry**: The discovery process mirrors the search process. The keywords that led you to the song's metadata are likely the same terms players will use to find your beatmap. You can leverage this by incorporating those keywords into your metadata tags.
 - **Relevance**: Focus on the most pertinent keywords players are likely to search for. For example, if your beatmap is a cover of a well-known song, consider including the original artist in the tags.
 
-## Starting Off
+## Identifying music
 
 First, you need to gather some basic information about the song. You may have discovered a track on platforms like [YouTube](https://www.youtube.com) or [SoundCloud](https://soundcloud.com) and obtained the MP3 from there. More often than not, you already know which song you want to map, or you've come across something interesting while browsing.
 
-If you don't recognize the song, you can try identifying it using a music recognition app such as [Shazam](https://www.shazam.com) or [SoundHound](https://music.soundhound.com/soundhound). These tools can identify songs based on a short audio sample. If the song is recognized, the app will provide you with the title, artist and sometimes even album information.
+If you don't recognise the song, you can try identifying it using a music recognition app such as [Shazam](https://www.shazam.com) or [SoundHound](https://music.soundhound.com/soundhound). These tools can identify songs based on a short audio sample. If the song is recognised, the app will provide you with the title, artist and sometimes even album information.
 
 If the song remains unidentified, try searching using any lyrics you remember or by describing its characteristics (e.g., genre, mood, instrumentation) in a search engine. This approach can sometimes lead you to forums, music communities, or social media threads where others have successfully identified the track. Alternatively, you can upload a recording to platforms like [Reddit's r/NameThatSong](https://www.reddit.com/r/NameThatSong/) or [WatZatSong](https://www.watzatsong.com), where music enthusiasts can help identify it for you.
 
 If you've successfully identified the song or already know what you're looking for, the next step is to dig deeper and find accurate metadata through targeted searching.
 
-## Searching Stage
+## Collecting metadata
 
 Basically speaking, finding metadata is a process of searching for the song's information on the internet. You can start with general-purpose search engines like [Google](https://www.google.com), [Bing](https://www.bing.com) or [Yandex](https://yandex.com) to locate official titles, artists and other relevant details.
 
@@ -46,11 +46,11 @@ Please note that finding metadata is often an iterative process rather than a si
 
 ## Common Sources
 
-Once you've located potential sources, it's best to consult authoritative references to ensure accuracy. Below is a list of reliable options, categorized by their function:
+Once you've located potential sources, it's best to consult authoritative references to ensure accuracy. Below is a list of reliable options, categorised by their function:
 
 1. Official & Primary Sources
 
-These are the most reliable sources, as the information comes directly from the artist or rights holder.
+These are the most reliable sources, as the information comes directly from the artist or copyright holder.
 
 - **Album Liner Notes & Digital Booklets:** For physical or digital album purchases, the included liner notes are the definitive source.
 - **Artist's Official Website & Social Media:** Artists often post release details, track listings and clarify information about different versions or remixes themselves. This is also crucial for identifying the original context of a song (e.g., a commercial, a web series) when it's not tied to a major game, anime or film. Official Websites can usually be found through a simple search, while social media platforms like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com) may offer direct insights from artists or their management.
@@ -78,33 +78,33 @@ These platforms are widely used and can provide a quick reference for popular mu
 
 4. Music Metadata & Community Databases
 
-These platforms are built specifically for collecting and organizing release information. They are invaluable for cross-referencing and finding details for non-mainstream music.
+These platforms are built specifically for collecting and organising release information. They are invaluable for cross-referencing and finding details for non-mainstream music.
 
 - [**MusicBrainz**](https://musicbrainz.org): An open encyclopedia of music metadata. It's highly structured and aims to be a definitive authority.
 - [**Discogs**](https://www.discogs.com): A comprehensive crowdsourced database of physical and digital releases. Excellent for finding various editions, label details, and catalog numbers.
-- [**VGMdb**](https://vgmdb.net): A specialized database dedicated to video game and anime music. It is the go-to source for soundtracks and related works. Creating a free account on VGMdb also allows you to access user-submitted scans of CD booklets, obi strips, and disc faces, providing a level of detail that approaches the physical product itself.
+- [**VGMdb**](https://vgmdb.net): A specialised database dedicated to video game and anime music. It is the go-to source for soundtracks and related works. Creating a free account on VGMdb also allows you to access user-submitted scans of CD booklets, obi strips, and disc faces, providing a level of detail that approaches the physical product itself.
 
 5. Other Ranked Beatmaps
 
 Checking the metadata of already ranked maps for the same song can be a useful shortcut. However, always verify the information against one of the official sources listed above to ensure its accuracy.
 
-## Practical Tips for Navigating Foreign Language Sites
+## Practical tips for navigating foreign language sites
 
 When searching for metadata, you will often encounter websites in languages you do not understand. This can be intimidating, but there are several simple techniques to navigate these pages effectively without knowing the language.
 
-### Use Your Browser's Find Function
+### Use your browser's search feature
 
-The `Ctrl+F` (or `Cmd+F` on Mac) shortcut is your best friend. Once you land on a page, use it to search for keywords related to your song, for example:
+The `Ctrl` + `F` (or `Cmd` + `F` on Mac) shortcut is your best friend. Once you land on a page, use it to search for keywords related to your song, for example:
 
 - song title in its original language.
 - common terms like "CD", "Music", "Tracklist", or "Discography". These words are often written in English even on sites in other languages.
 - any known information such as the artist's name, or album name.
 
-### Look for Visual Cues in URLs
+### Look for visual cues in URLs
 
-Before clicking any link, hover over it and look at the URL displayed in your browser's status bar (usually at the bottom left). Even if the link text might be in a language you don't understand, the URL often contains recognizable English words like "music", "goods", "discography", "cd", or "product". This can guide you to the right section of the site without needing to read the text.
+Before clicking any link, hover over it and look at the URL displayed in your browser's status bar (usually at the bottom left). Even if the link text might be in a language you don't understand, the URL often contains recognisable English words like "music", "goods", "discography", "cd", or "product". This can guide you to the right section of the site without needing to read the text.
 
-### Use Catalogue Numbers for Direct Access
+### Use catalogue numbers for direct access
 
 Once you have identified a specific album or single, look for its **catalogue number**. This is a unique identifier assigned by the record label (e.g., "SRCL-8641~2" for a Sony Music release). Catalogue numbers can usually be found on databases like [VGMdb](https://vgmdb.net), [Discogs](https://www.discogs.com), or [MusicBrainz](https://musicbrainz.org).
 
