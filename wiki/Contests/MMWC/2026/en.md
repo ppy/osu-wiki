@@ -46,7 +46,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 ## Links
 
 - [Announcement news post]()
-- [Forum post]()
+- [Forum post](https://osu.ppy.sh/community/forums/topics/2185948)
 - [Contest listing]()
 - [Discord server](https://discord.gg/a7kpKK2rNj)
 - [Contest spreadsheet]()
