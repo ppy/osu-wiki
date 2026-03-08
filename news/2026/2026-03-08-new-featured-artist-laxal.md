@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: LaXal"
-date: 2026-03-08 00:00:00 +0000
+date: 2026-03-08 01:30:00 +0000
 series: featured_artists
 ---
 
