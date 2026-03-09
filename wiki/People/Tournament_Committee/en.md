@@ -210,5 +210,6 @@ The [Tournament Committee group page](https://osu.ppy.sh/groups/50) lists all of
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
 - ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
 - ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)
