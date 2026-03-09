@@ -8,6 +8,8 @@ tags:
   - osu! 原创曲
   - 原创曲
   - 音乐
+outdated_translation: true
+outdated_since: 27fa9832b45f78595454d3a39efea210c6cdea9e
 ---
 
 # 定制音乐
