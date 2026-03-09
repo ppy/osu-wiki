@@ -49,7 +49,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 - [Forum post](https://osu.ppy.sh/community/forums/topics/2185948)
 - [Contest listing]()
 - [Discord server](https://discord.gg/a7kpKK2rNj)
-- [Contest spreadsheet]()
+- [Contest spreadsheet](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing)
 - [**Registration form**](https://docs.google.com/forms/d/e/1FAIpQLScpB8MP8-D4bHGuT1aR6_iq-cVprS0zrOmiEEbVQpJL9AyDug/viewform?usp=sharing&ouid=103196331030427249584)
 
 ## Ruleset
