@@ -48,7 +48,7 @@ Please note that finding metadata is often an iterative process rather than a si
 
 Once you've located potential sources, it's best to consult authoritative references to ensure accuracy. Below is a list of reliable options, categorised by their function:
 
-1. Official & Primary Sources
+### 1. Official & Primary Sources
 
 These are the most reliable sources, as the information comes directly from the artist or copyright holder.
 
@@ -56,7 +56,7 @@ These are the most reliable sources, as the information comes directly from the 
 - **Artist's Official Website & Social Media:** Artists often post release details, track listings and clarify information about different versions or remixes themselves. This is also crucial for identifying the original context of a song (e.g., a commercial, a web series) when it's not tied to a major game, anime or film. Official Websites can usually be found through a simple search, while social media platforms like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com) may offer direct insights from artists or their management.
 - **Official Music Videos & Lyric Videos:** These usually contain accurate metadata in their descriptions, and the video itself can confirm the song's title and artist. Common platforms for such content include [YouTube](https://www.youtube.com) and [Niconico](https://nicovideo.jp).
 
-2. Official Digital Distribution Platforms
+### 2. Official Digital Distribution Platforms
 
 Metadata from these platforms is supplied directly by record labels and distributors, making it highly reliable for standard commercial releases.
 
@@ -67,7 +67,7 @@ Metadata from these platforms is supplied directly by record labels and distribu
   - *For Japanese Music:* [**Ototoy**](https://ototoy.jp) (ideal for independent, doujin, anime, and Hi-Res music), [**Mora**](http://mora.jp).
   - *For Korean Music:* [**Melon**](https://melon.com), [**Genie**](https://genie.co.kr), [**Bugs**](https://bugs.co.kr) (the dominant local platforms).
 
-3. Music Services & Streaming Platforms
+### 3. Music Services & Streaming Platforms
 
 These platforms are widely used and can provide a quick reference for popular music. However, they may not always have the most accurate metadata, especially for niche genres or non-mainstream releases. Always cross-reference with official sources when using these platforms.
 
@@ -76,7 +76,7 @@ These platforms are widely used and can provide a quick reference for popular mu
 - [**iTunes**](https://music.apple.com) / [**Apple Music**](https://music.apple.com): iTunes functions as a digital store (purchase-based), while Apple Music is a streaming service. Cross-referencing with other sources is still recommended.
 - [**Amazon Music**](https://music.amazon.com): A major global storefront and streaming platform.
 
-4. Music Metadata & Community Databases
+### 4. Music Metadata & Community Databases
 
 These platforms are built specifically for collecting and organising release information. They are invaluable for cross-referencing and finding details for non-mainstream music.
 
@@ -84,7 +84,7 @@ These platforms are built specifically for collecting and organising release inf
 - [**Discogs**](https://www.discogs.com): A comprehensive crowdsourced database of physical and digital releases. Excellent for finding various editions, label details, and catalog numbers.
 - [**VGMdb**](https://vgmdb.net): A specialised database dedicated to video game and anime music. It is the go-to source for soundtracks and related works. Creating a free account on VGMdb also allows you to access user-submitted scans of CD booklets, obi strips, and disc faces, providing a level of detail that approaches the physical product itself.
 
-5. Other Ranked Beatmaps
+### 5. Other Ranked Beatmaps
 
 Checking the metadata of already ranked maps for the same song can be a useful shortcut. However, always verify the information against one of the official sources listed above to ensure its accuracy.
 
