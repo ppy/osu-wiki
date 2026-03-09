@@ -19,7 +19,7 @@ If you want to read more about the rules, contest format, schedule, and judging 
 
 ## Registrations
 
-Registrations are open from now until 00:00 (UTC) on April 2nd! To register, please fill out [this form](), and join the contest's [Discord server](https://discord.gg/a7kpKK2rNj) to stay up to date with the latest news and announcements.
+Registrations are open from now until 00:00 (UTC) on April 2nd! To register, please fill out [this form](https://docs.google.com/spreadsheets/d/1qP-zPogcytTcMB3SMIAQkWYiTcxOzfMXo4gauRmORbI/edit?usp=sharing), and join the contest's [Discord server](https://discord.gg/a7kpKK2rNj) to stay up to date with the latest news and announcements.
 
 If you have issues with submitting your registration through the form, please send [Ilham](https://osu.ppy.sh/community/chat?sendto=3057154) or [Reihynn](https://osu.ppy.sh/community/chat?sendto=16630515) a message and they will sort things out for you.
 
