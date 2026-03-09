@@ -46,7 +46,7 @@ Please note that finding metadata is often an iterative process rather than a si
 
 ## Common Sources
 
-Once you've located potential sources, it's best to consult authoritative references to ensure accuracy. Below is a list of reliable options, categorised by their function:
+Once you've located potential sources, it's best to consult authoritative references to ensure accuracy. Below is a list of reliable options, categorised by their function and sorted by priority:
 
 ### 1. Official & Primary Sources
 
