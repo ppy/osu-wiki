@@ -7,7 +7,9 @@ tags:
 
 # Finding metadata
 
-Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), metadata includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, which allow beatmaps to be effectively organised and discovered.
+*See also: [Song setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
+
+Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), metadata includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, all of which can be edited in the [Song setup](/wiki/Client/Beatmap_editor/Song_setup) window, allowing beatmaps to be effectively organised and discovered.
 
 ![Beatmap Listing](img/beatmap-listing.jpg "Screenshot of the beatmap listing, taken on 28th February 2026")
 
@@ -112,9 +114,11 @@ Searching for this number directly (especially when combined with the label name
 
 ## Source & Tags
 
-To recap, the `Source` field should contain The original media the song was produced for, or the media it is most commonly associated with. This is often a game, anime, film, TV series, commercial or web series. If the song is a standalone single or not tied to any particular media, this field can be left blank. With all the information you've gathered, you should be able to fill out the `Source` field with confidence. If the song is associated with a specific media, make sure to use the official title of that media as it appears in your primary source.
+When filling out metadata, two fields play a particularly important role: `Source` and `Tags`.
 
-`Tags` are a set of keywords that further describe the beatmap. This can include:
+The `Source` field should contain the original media the song was produced for, or the media it is most commonly associated with. This is often a game, anime, film, TV series, commercial or web series. If the song is a standalone single or not tied to any particular media, this field can be left blank. With all the information you've gathered, you should be able to fill out the `Source` field with confidence. If the song is associated with a specific media, make sure to use the official title of that media as it appears in your primary source.
+
+The `Tags` field, on the other hand, allows you to include [a set of keywords](/wiki/Beatmap/Beatmap_tags#mapper-tags) that further describe the beatmap. This can include:
 
 - Musical information: genres, instruments, mood (e.g., rock, piano, emotional)
 - Contextual information: related characters or series names, album name, remix information
