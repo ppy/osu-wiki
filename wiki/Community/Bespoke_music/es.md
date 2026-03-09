@@ -8,8 +8,6 @@ tags:
   - originales
   - original
   - música
-outdated_translation: true
-outdated_since: eac0479d38064f04b7e8d0387e7fe904a90aa031
 translation_keys:
   text:
     total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas dentro de osu!.
