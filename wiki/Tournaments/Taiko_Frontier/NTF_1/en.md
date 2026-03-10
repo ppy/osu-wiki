@@ -233,7 +233,7 @@ The Nightmare Taiko Frontier was run by various community members.
   2. [AAAA - Hazukashigariya no Toy Soldier (\_gt) \[Shy Toy Soldier\]](https://osu.ppy.sh/beatmapsets/2182073#taiko/4610418)
   3. [D(ABE3) - MANIERA (\_yu68) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/400761#taiko/871924)
 - Tiebreaker
-    1. **[Camellia - Blackmagik Blazing (Waribashi) \[Dream\]](https://osu.ppy.sh/beatmapsets/2505608#taiko/5516719)**
+  1. **[Camellia - Blackmagik Blazing (Waribashi) \[Dream\]](https://osu.ppy.sh/beatmapsets/2505608#taiko/5516719)**
 
 ### Round of 16
 
@@ -501,7 +501,7 @@ Saturday, 24 January 2026:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | miwoo ::{ flag=BR }:: | -1 | **0** | ::{ flag=BR }:: **KaZuoo** | *win by default* |
-| **13 Stairs** ::{ flag=US }::  | **5** | 0 | ::{ flag=MX }:: Lucio\_ | [#1](https://osu.ppy.sh/community/matches/120374231) |
+| **13 Stairs** ::{ flag=US }:: | **5** | 0 | ::{ flag=MX }:: Lucio\_ | [#1](https://osu.ppy.sh/community/matches/120374231) |
 | **HungryTurtle420** ::{ flag=AU }:: | **5** | 0 | ::{ flag=US }:: Peac3Sush1 | [#1](https://osu.ppy.sh/community/matches/120374755) |
 | **spanner dude** ::{ flag=GB }:: | **0** | -1 | ::{ flag=NO }:: Nurend Fanboy | *win by default* |
 | **monkeydluffy3u4** ::{ flag=TW }:: | **0** | -1 | ::{ flag=RU }:: Midorimomoika | *win by default* |
