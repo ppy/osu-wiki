@@ -28,9 +28,11 @@ This contest currently offers a cash prize pool of $400, distributed among the t
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | 18% of the cash prize pool, 12 months of osu!supporter, profile badge (tentative), [contest points](/wiki/Contests/Contest_points) |
+| 1st | 18% of the cash prize pool, 12 months of osu!supporter, profile badge, [contest points](/wiki/Contests/Contest_points) |
 | 2nd | 9% of the cash prize pool, 6 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 | 3rd | 6% of the cash prize pool, 4 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
+
+![Pending Cup 2025 badge prizes](img/grand-prize.jpg "Pending Cup 2025 badge prize")
 
 ### Grand prize
 
@@ -61,6 +63,16 @@ This year includes a selection of three songs like the previous year, with songs
 | Vocal | Colorful Sounds Port feat. Sennzai - Jewelry Beans | [3:30 / 134 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202025%20-%20Colorful%20Sounds%20Port%20feat.%20Sennzai%20-%20Jewelry%20Beans.osz) |
 | Instrumental | Kurubukko - alive | [2:17 / 260 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202025%20-%20Kurubukko%20-%20alive.osz) |
 | Original | Trina Lydia - TETRATONE ALTiSSiMO | [2:19 / 186 BPM](https://assets.ppy.sh/media/news/Pending%20Cup%202025%20-%20Trina%20Lydia%20-%20TETRATONE%20ALTiSSiMO.osz) |
+
+## Podium
+
+### Track prizes
+
+![Pending Cup 2025 track category podiums](img/podium.jpg)
+
+### Track prizes
+
+![Pending Cup 2025 grand prize winner](img/grand-prize.jpg)
 
 ## Results
 
