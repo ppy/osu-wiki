@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1bbe65b950ea3f9978bdbd5bcb423978c1f8e738
+---
+
 # 锦标赛
 
 本页面展示锦标赛。锦标赛有专门的论坛，可以通过[此链接](https://osu.ppy.sh/community/forums/55)找到。
@@ -48,6 +53,7 @@
 | [osu!taiko 世界杯 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: 日本 | ::{ flag=TW }:: 台湾 | ::{ flag=DE }:: 德国 |
 | [osu!taiko 世界杯 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=US }:: 美国 |
 | [osu!taiko 世界杯 2025](TWC/2025) | 2025-03-15 | 2025-04-27 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=TW }:: 台湾 |
+| [osu!taiko 世界杯 2025](TWC/2026) | 2026-03-13 | 2026-04-26 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch 世界杯
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: dd2d26b11344d3e72ba2a6457a13233ec92c8418
+---
+
 # Timing des musiques avec des signatures en #/8
 
 De temps en temps, des musiques sont mappées avec une signature temporelle qui n'est pas divisée en quart de note (par exemple `3/4`, `4/4`, `7/4`, ...) mais en huitièmes de note (par exemple `6/8`, `7/8`, ...). L'éditeur actuel ne prend pas en charge ces signatures #/8 dans un futur proche.

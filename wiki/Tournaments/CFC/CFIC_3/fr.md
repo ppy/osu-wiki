@@ -238,7 +238,7 @@ Dimanche 17 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| AiNA ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92544971 ) |
+| AiNA ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92544971) |
 | **Yruama** ::{ flag=FR }:: | **7** | 4 | ::{ flag=FR }:: AiNA | [#1](https://osu.ppy.sh/community/matches/92548424) |
 
 ### Finales
@@ -247,8 +247,8 @@ Samedi 9 octobre 2021 :
 
 | Joueur 1 |  |  | Joueur 2 | Lien du match |
 | --: | :-: | :-: | :-- | :-- |
-| **Yruama** ::{ flag=FR }:: | **7** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/92162893 ) |
-| **AiNA** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: Cryophenix | [#1](https://osu.ppy.sh/community/matches/92148642 ) |
+| **Yruama** ::{ flag=FR }:: | **7** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/92162893) |
+| **AiNA** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: Cryophenix | [#1](https://osu.ppy.sh/community/matches/92148642) |
 
 Dimanche 10 octobre 2021 :
 
