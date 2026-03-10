@@ -47,45 +47,37 @@ translation_keys:
     "Main theme": 主主题曲
     "Trailer music": 预告片音乐
     # 特例
-    "Finals & Last Chance Bracket Pool #1 (.+)": 决赛与败者复活赛图池 1 中的 \1
-    "Finals HD3 \\(osu!\\), finals NM1 \\(osu!catch\\)": 决赛 HD3 (osu!)、决赛 NM1 (osu!catch)
     "(osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?)": \1 和 \2
-    "Qualifier Stage (\\d+)": 资格赛阶段 \1
-    "Qualifiers Stage (\\d+)": 资格赛阶段 \1
-    "Knockout Stage (\\d+) Pool (.) (.+)": 淘汰赛阶段 \1 图池 \2 中的 \3
-    "Pool (.+) Free Mod pick": 图池 \1 的 Free Mod 选图
-    "Semifinals/Finals (.+)(?= \\()": 半决赛/决赛的 \1
-    "Quarterfinals HD pick \\(B5\\)": 四分之一决赛 HD 选图 (B5)
-    "Quarterfinals & Semifinals NM pick \\(C11\\)": 四分之一决赛与半决赛 NM 选图 (C11)
-    "Quarterfinals & Semifinals (.+)": 四分之一决赛与半决赛 \1
-    "Finals & Grand Finals (.+)": 决赛与总决赛 \1
-    "Round of 16 & Quarterfinals (.+)": 16 强赛与四分之一决赛的 \1
-    "Quarterfinals NM4 \\(5k division\\)": 四分之一决赛 NM4 (5K 组)
-    "Grand Finals RC7 \\(7K\\)": 总决赛 RC7 (7K)
-    "osu! TECH2 \\(NM\\)": osu! TECH2 (NM)
+    '(\d+)\s+Pool #?(\w+)': '\1 图池 \2 中的'
+    '(\w+?)\s+Pool #?(\w+)': '\1图池 \2 中的'
+    '^Pool #?(\w+)': '图池 \1 中的'
+    "5k division": 5K 组
+    " & ": 与
     # 轮次
-    "LAN (.+)": 线下赛 \1
+    "LAN": 线下赛
     "Swiss Week (\\d+) (.+)": 瑞士轮第 \1 周 \2
     "Swiss Stage (\\d+) (.+)": 瑞士轮阶段 \1 \2
     "Knockout Stage (\\d+) (.+)": 淘汰赛阶段 \1 \2
     "Knockout Week (\\d+) (.+)": 淘汰赛第 \1 周 \2
     "Week (\\d+) (.+)": 第 \1 周 \2
     "Knockout (\\d+) (.+)": 淘汰赛轮次 \1 的 \2
-    "Bracket Stage (.+)": 分组淘汰赛 \1
-    "Group Stage (.+)": 小组赛 \1
-    "Round Robin (.+)": 循环赛 \1
-    "Battle Royale 1v1 (.+)": 大逃杀 1v1 \1
+    "Bracket Stage": 分组淘汰赛
+    "Group Stage": 小组赛
+    "Round Robin": 循环赛
+    "Battle Royale 1v1": 大逃杀 1v1
     "Playoff (\\d+) (.+)": 季后附加赛 \1 的 \2
-    "Playoffs (.+)": 季后附加赛 \1
-    "Face-Offs (.+)": 大乱斗 \1
-    "Grand Finals (.+)": 总决赛 \1
-    "Finals (.+)": 决赛 \1
-    "Semifinals (.+)": 半决赛 \1
-    "Quarterfinals (.+)(?= \\()?": 四分之一决赛 \1
-    "Round of (\\d+) (.+)": \1 强赛 \2
-    "Qualifiers (.+)": 资格赛 \1
+    "Playoffs": 季后附加赛
+    "Face-Offs": 大乱斗
+    "Grand [Ff]inals": 总决赛
+    "Semifinals": 半决赛
+    "Quarterfinals": 四分之一决赛
+    "[Ff]inals": 决赛
+    "Round of (\\d+)": \1 强赛
+    "Qualifiers? Stage (\\d+)": 资格赛阶段 \1
+    "Qualifiers": 资格赛
     # 对阵分组
-    "^Runoff Bracket (.+)": 附加名次赛 \1
+    "Last Chance Bracket": 败者复活赛
+    "^Runoff Bracket": 附加名次赛
     "^Tier (\\d) (.+)": Tier \1 \2
     # 槽位
     "tiebreaker": TB
@@ -686,7 +678,7 @@ osu! 内目前共有 **1254** 首已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/doridori-takehirotei-dream-n-believe-remix "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2MVwdE3e_Pc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://takehirotei.bandcamp.com/track/serena-cv-makiguchi-mayuki-doridori-takehirotei-dream-n-believe-remix-amg-x-cfc-rhythmgame-osu-tournament-custom-remix-2 "Bandcamp") |  | Serena (CV: Makiguchi Mayuki) - DoriDori (takehirotei ''Dream n Believe'' remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1835502), [#2](https://osu.ppy.sh/beatmapsets/1834848) | 决赛 HD3 (osu!)、决赛 NM1 (osu!catch) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/doridori-takehirotei-dream-n-believe-remix "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=2MVwdE3e_Pc "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://takehirotei.bandcamp.com/track/serena-cv-makiguchi-mayuki-doridori-takehirotei-dream-n-believe-remix-amg-x-cfc-rhythmgame-osu-tournament-custom-remix-2 "Bandcamp") |  | Serena (CV: Makiguchi Mayuki) - DoriDori (takehirotei ''Dream n Believe'' remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1835502), [#2](https://osu.ppy.sh/beatmapsets/1834848) | 决赛 HD3 (osu!), 决赛 NM1 (osu!catch) |
 
 #### ![](/wiki/shared/mode/osu.png) [Abbey's Troll Map Tournament 3](https://osu.ppy.sh/community/forums/topics/2093936)
 
@@ -776,8 +768,8 @@ osu! 内目前共有 **1254** 首已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=baAzs6QMeRg "YouTube") |  | Dictate & Spazza17 - Charlie's Perfect Math Class[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1799284) | 图池 C 的 Free Mod 选图 (C1) |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/stellar-proximity-shift "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mONh53IqiBY "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/66vEIWXuKW0v8yd0euf0As "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/stellar-proximity-shift "Bandcamp") |  | kanemiko - Stellar Proximity Shift | [#1](https://osu.ppy.sh/beatmapsets/1799362) | 图池 B 的 Free Mod 选图 (B1) |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=baAzs6QMeRg "YouTube") |  | Dictate & Spazza17 - Charlie's Perfect Math Class[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1799284) | 图池 C 中的 Free Mod 选图 (C1) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/kanemiko/stellar-proximity-shift "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=mONh53IqiBY "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/66vEIWXuKW0v8yd0euf0As "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://kanemiko.bandcamp.com/track/stellar-proximity-shift "Bandcamp") |  | kanemiko - Stellar Proximity Shift | [#1](https://osu.ppy.sh/beatmapsets/1799362) | 图池 B 中的 Free Mod 选图 (B1) |
 
 #### ![](/wiki/shared/mode/osu.png) [China LAN 2025](https://osu.ppy.sh/community/forums/topics/2080306)
 
@@ -976,7 +968,7 @@ osu! 内目前共有 **1254** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ctDT9l2CjQQ "YouTube") |  | Shindig - Dog Time | [#1](https://osu.ppy.sh/beatmapsets/1901854) | 四分之一决赛 HD 选图 (B5) |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sparxenic/bad-break "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sparxe&query=%22Bad%20Break%21%21%21%22 "osu! original") | Sparxe - Bad Break!!\! | [#1](https://osu.ppy.sh/beatmapsets/1901569) | 半决赛/决赛的 NM 选图 (C11) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sparxenic/bad-break "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sparxe&query=%22Bad%20Break%21%21%21%22 "osu! original") | Sparxe - Bad Break!!\! | [#1](https://osu.ppy.sh/beatmapsets/1901569) | 半决赛/决赛 NM 选图 (C11) |
 
 #### ![](/wiki/shared/mode/osu.png) [Great Singapore Tournament 5](https://osu.ppy.sh/community/forums/topics/1777672)
 
@@ -1291,14 +1283,14 @@ osu! 内目前共有 **1254** 首已记录的定制歌曲。
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/ludicin/echoes-of-memoria "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=IjUqxihQKRI "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ludicin&query=%22Echoes%20of%20Memoria%22 "osu! original") | Ludicin - Echoes of Memoria | [#1](https://osu.ppy.sh/beatmapsets/2214238) | 总决赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/normalmusiccc/chromatic-dysfunktion "SoundCloud") |  | NormalM - Chromatical Dysfunktion | [#1](https://osu.ppy.sh/beatmapsets/2209723) | 半决赛 NM4 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ka0wBtzeEsI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/7eAUDZqZC4iDSdDpHRUHbu "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=seatrus&query=%22Metal%20Globe%22 "osu! original") | seatrus - Metal Globe | [#1](https://osu.ppy.sh/beatmapsets/2214194) | 总决赛 NM3 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/coriolis "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/coriolis "Bandcamp") |  | Sydosys - Coriolis[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2202795) | 16 强赛与四分之一决赛的 FM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/coriolis "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/coriolis "Bandcamp") |  | Sydosys - Coriolis[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2202795) | 16 强赛与四分之一决赛 FM3 |
 
 #### ![](/wiki/shared/mode/osu.png) [The Roundtable II](https://osu.ppy.sh/community/forums/topics/1789714)
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=4WRoaa4LSbM "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1FFBQZk9j9udb0qXaBKyP3 "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Kry.exe&query=%22%3C%3CSENT%3A%2F%2FiNEL%3E%3E%22 "osu! original") | Kry.exe - \<\<SENT://iNEL\>\> | [#1](https://osu.ppy.sh/beatmapsets/2023743) | 总决赛 TB |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ufswmOcfWAU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/0yeabi2vsmvQckkbdAx5P6 "Spotify") |  | nm-y as "Vanquisher" - Chronodivinity | [#1](https://osu.ppy.sh/beatmapsets/2023031) | 16 强赛与四分之一决赛的 TB |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=ufswmOcfWAU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/0yeabi2vsmvQckkbdAx5P6 "Spotify") |  | nm-y as "Vanquisher" - Chronodivinity | [#1](https://osu.ppy.sh/beatmapsets/2023031) | 16 强赛与四分之一决赛 TB |
 |  |  | Noah - Unwavering Dignity | [#1](https://osu.ppy.sh/beatmapsets/2023572) | 半决赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/passchooo/chooo2023_10 "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5660VBiOGIyUfgeKj4s70z "Spotify") |  | passchooo - chooo2023\_10[^fa] |  | 直播背景音乐 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/passchooo/chooo2023_11-ft-wubz "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/7eQ1YDKHec4npzY3w5Ri1y "Spotify") |  | passchooo - chooo2023\_11 (ft. wubz)[^fa] |  | 直播背景音乐 |
