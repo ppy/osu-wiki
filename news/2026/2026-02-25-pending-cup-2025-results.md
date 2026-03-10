@@ -20,7 +20,7 @@ With the preamble out of the way, let's dive into the results of each track!
 
 ### Vocal track winner - [MaestroSplinter](https://osu.ppy.sh/users/6707918)
 
-[MaestroSplinter](https://osu.ppy.sh/users/6707918)'s entry showed absolute dominance by winning with a lead of more than **4** points in standardised scoring, proving how well loved this entry is among all judges. This makes it not only the track winner but also the **grand prize winner**! Make sure to check out this absolute gem!
+[MaestroSplinter](https://osu.ppy.sh/users/6707918)'s entry showed absolute dominance by winning with a lead of more than **4** points in standardised scoring, proving how well loved this entry is among all judges. This makes it not only the track winner but also the **grand prize winner**! Make sure to check out this gem!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/G_t_clMwZP0" frameborder="0" allowfullscreen></iframe>
@@ -90,7 +90,7 @@ Every track finalist will receive the following prizes:
 
 ![Pending Cup 2025 grand prize](/wiki/Contests/PDC/2025/img/grand-prize.jpg)
 
-Finalist with the **highest points** out of the **3** tracks will receive a special separate **grand prize** as well!
+The finalist with the **highest points** out of the **3** tracks will receive a special separate **grand prize** as well!
 
 | Placement | Prizes |
 | :-: | :-- |
