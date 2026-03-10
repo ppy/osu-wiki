@@ -119,7 +119,7 @@ Por el contrario, el resto de canciones de esta lista no tienen licencia oficial
 
 Actualmente, hay un total de **1254** canciones documentadas hechas dentro de osu!.
 
-![Gráfico de la música hecha a medida a lo largo del tiempo](img/bespoke-music-over-time-ES.png?20260307)
+![Gráfico de la música hecha a medida a lo largo del tiempo](img/bespoke-music-over-time-ES.png?20260310)
 
 ## Listado
 
