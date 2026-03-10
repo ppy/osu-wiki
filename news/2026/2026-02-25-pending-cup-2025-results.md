@@ -36,7 +36,7 @@ With the preamble out of the way, let's dive into the results of each track!
 
 ### Instrumental track winner - [fowwo](https://osu.ppy.sh/users/4547551)
 
-The contest veteran has done it once again. After winning [o!bwc 2025](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results), [fowwo](https://osu.ppy.sh/users/4547551) has proven themselves with their sequel-themed beatmap on the acknowledged hardest track to map in PDC 2025. The score difference among the finalists is indeed very tiny, which shows how intense the competition in this track was. It is also worth mentioning that fowwo is now one point away from claiming the first-ever **Elite Mapper III** title!
+The contest veteran has done it once again. After winning [o!bwc 2025](https://osu.ppy.sh/home/news/2025-11-25-osu-beatmapping-world-championship-2025-results), [fowwo](https://osu.ppy.sh/users/4547551) has proven themselves with their sequel-themed beatmap on the acknowledged hardest track to map in PDC 2025. The score difference among the finalists is indeed very tiny, which shows how intense the competition in this track was. Now, fowwo is leading in contest points on osu!, and is just one point away from claiming the first-ever **Elite Mapper III** title!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/eL04NjGOjkM" frameborder="0" allowfullscreen></iframe>

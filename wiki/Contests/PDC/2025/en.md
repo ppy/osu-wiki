@@ -71,7 +71,7 @@ This year includes a selection of three songs like the previous year, with songs
 
 ![Pending Cup 2025 track category podiums](img/podium.jpg)
 
-### Track prizes
+### Grand prize
 
 ![Pending Cup 2025 grand prize winner](img/grand-prize.jpg)
 
