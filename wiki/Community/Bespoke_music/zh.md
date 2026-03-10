@@ -31,12 +31,12 @@ translation_keys:
     notes: 备注
   table_note:  # 这些替换规则会按顺序对每个 备注/图池 槽位执行
     # 常规备注
-    "Former ": 曾经的
-    "Christmas/Winter (\\d{4}) ": \1 年圣诞节/冬季 osu! 主题曲
-    "Current osu!\\(lazer\\) main theme": 当前 osu!(lazer) 主主题曲
-    "Current tutorial song": 当前教程歌曲
+    "Former": 曾经的
+    "Current": 当前
+    "osu!\\(lazer\\) main theme": osu!(lazer) 主主题曲
     "osu! theme": osu! 主题曲
-    "tutorial song": 教程歌曲
+    " tutorial song": 教程歌曲
+    "Christmas/Winter (\\d{4}) ": '\1 年圣诞节/冬季 '
     "Halloween 2016 ": '2016 年万圣节 '
     "Summer 2023 ": '2023 年夏季 '
     "Original composition for \\[osu!stream\\]\\(/wiki/osu!stream\\)": 为 [osu!stream](/wiki/osu!stream) 原创的作品
@@ -90,7 +90,7 @@ translation_keys:
     # 槽位
     "tiebreaker": TB
     " wildcard": 外卡
-    "\\b(.{2}) pick": \1 选图
+    " pick": ' 选图'
 ---
 
 <!-- “统计”部分和“列表”部分的所有内容都是自动化翻译的。如果一条翻译有误、格式不正确或需要更新，请通过开发服务器上的 `#osu-wiki` 频道联系 wiki 维护者。 -->
@@ -122,7 +122,7 @@ osu! 内目前共有 **1254** 首已记录的定制歌曲。
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/aureole "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=dJf7qiIdltw "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017 "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22aureole%22 "osu! original") | nekodex - aureole | 2017 年圣诞节/冬季 osu! 主题曲 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/carol-of-the-circles "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Uaz-vy5Rt1s "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/5718w1TMjxcIr7vXmQ75yH "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22carol%20of%20the%20circles%22 "osu! original") | nekodex - carol of the circles | 2019 年圣诞节/冬季 osu! 主题曲 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/circle-the-halls "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YzvDQqYg3_g "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/35fzHDwAsHq4YexO4HNs5j "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://nekodex.bandcamp.com/track/circle-the-halls "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22circle%20the%20halls%22 "osu! original") | nekodex - circle the halls | 2024 年圣诞节/冬季 osu! 主题曲 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/circles "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3aqCYbgsFHjxNRWxvXRhwH "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22circles%21%22 "osu! original") | nekodex - circles\! | 2015 年 osu! 主题曲 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/circles "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3aqCYbgsFHjxNRWxvXRhwH "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22circles%21%22 "osu! original") | nekodex - circles\! | 2015 osu! 主题曲 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/liquid-future "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/52pki0fUSF3NszNNdEZJS7 "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22Liquid%20Future%22 "osu! original") | nekodex - Liquid Future | 为 [osu!stream](/wiki/osu!stream) 原创的作品 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/little-drummer-girl "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rv7Vjk7nKgc "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/1TeOn5Uu2r0yEKDhabfuvx "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22Little%20Drummer%20Girl%22 "osu! original") | nekodex - Little Drummer Girl | 2020 年圣诞节/冬季 osu! 主题曲 |
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2Yf0IKXyvzuGquXC7VJ2L9 "Spotify") |  | nekodex - Main Theme 2.0[^fa] | [osu!stream](/wiki/osu!stream) 主主题曲 |
@@ -254,8 +254,8 @@ osu! 内目前共有 **1254** 首已记录的定制歌曲。
 
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/honorreproach "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RG40wDXwQRE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/39queYCbixvX2vtLozan4R "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/honor-reproach "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sydosys&query=%22HONOR%2F%2FREPROACH%22 "osu! original") | Sydosys - HONOR//REPROACH | [#1](https://osu.ppy.sh/beatmapsets/2222372) | 总决赛 7th pick |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=KUaJKC2sW4I "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0rFakrSpRTS82f51QiH4PV "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://wangleline.bandcamp.com/track/attacked-by-the-cosmic-beast-from-osu-lazer-grand-arena "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=WangleLine&query=%22Attacked%20by%20the%20Cosmic%20Beast%22 "osu! original") | WangleLine - Attacked by the Cosmic Beast | [#1](https://osu.ppy.sh/beatmapsets/2222345) | 决赛 7th pick |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/honorreproach "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RG40wDXwQRE "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/39queYCbixvX2vtLozan4R "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/track/honor-reproach "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sydosys&query=%22HONOR%2F%2FREPROACH%22 "osu! original") | Sydosys - HONOR//REPROACH | [#1](https://osu.ppy.sh/beatmapsets/2222372) | 总决赛 7th 选图 |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=KUaJKC2sW4I "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0rFakrSpRTS82f51QiH4PV "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://wangleline.bandcamp.com/track/attacked-by-the-cosmic-beast-from-osu-lazer-grand-arena "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=WangleLine&query=%22Attacked%20by%20the%20Cosmic%20Beast%22 "osu! original") | WangleLine - Attacked by the Cosmic Beast | [#1](https://osu.ppy.sh/beatmapsets/2222345) | 决赛 7th 选图 |
 
 #### ![](/wiki/shared/mode/osu.png) [Lazer Grand Arena 2025](/wiki/Tournaments/LGA/2025)
 
