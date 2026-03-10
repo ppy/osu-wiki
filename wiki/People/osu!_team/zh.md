@@ -34,7 +34,7 @@ tags:
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | 音效艺术家，[精选艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 摸图和作图领域顾问 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [osu! YouTube 频道](https://www.youtube.com/@osugame)主，[谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者，精选艺术家募集者 |
 | ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) | [世界杯](/wiki/Tournaments#官方世界杯)设计协调员 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者，osu!mania 社区喜爱评估者，bug 杀手（测试工程师） |
@@ -76,7 +76,7 @@ tags:
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 摸图和作图领域顾问 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | 摸图和作图领域顾问 |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 开发者 |
-| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发者，[谱师工会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者 |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发者，[谱师公会 (Mappers' Guild)](/wiki/Community/Mappers_Guild) 组织者 |
 | ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | 审核顾问 |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | 论坛设计者 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | 前[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 领导 |

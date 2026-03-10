@@ -779,7 +779,7 @@ Sunday, 17 June 2018:
 | **OPJames** ::{ flag=GB }:: | **4** | 0 | ::{ flag=LT }:: zebarkez | [#1](https://osu.ppy.sh/community/matches/43431653) |
 | **Num5119** ::{ flag=US }:: | **4** | 2 | ::{ flag=CA }:: Kyruem | [#1](https://osu.ppy.sh/community/matches/43431154) |
 | fruit punch ::{ flag=US }:: | 0 | **1** | ::{ flag=US }:: **conradmittn** | *forfeit* |
-| **Cappy** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Astro] | [#1](https://osu.ppy.sh/community/matches/43434469 ) |
+| **Cappy** ::{ flag=US }:: | **4** | 0 | ::{ flag=US }:: [Astro] | [#1](https://osu.ppy.sh/community/matches/43434469) |
 
 Monday, 18 June 2018:
 

@@ -442,7 +442,7 @@ Sábado, 8 de junio de 2019:
 | G5 | Perú ::{ flag=PE }:: | 0 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/52446788) |
 | C6 | Ecuador ::{ flag=EC }:: | 0 | **5** | ::{ flag=JP }:: **Japón** | *victoria por ausencia* |
 | G4 | **Indonesia B** ::{ flag=ID }:: | **5** | 4 | ::{ flag=PE }:: Perú | [#1](https://osu.ppy.sh/community/matches/52447584) |
-| G6 | Indonesia B ::{ flag=ID }:: | 1 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
+| G6 | Indonesia B ::{ flag=ID }:: | 1 | **5** | ::{ flag=BR }:: **Brasil** | [#1](https://osu.ppy.sh/community/matches/52476732) |
 | D2 | Singapur ::{ flag=SG }:: | 2 | **5** | ::{ flag=KR }:: **Corea del Sur** | [#1](https://osu.ppy.sh/community/matches/52453695) |
 | A3 | Taiwán ::{ flag=TW }:: | 2 | **5** | ::{ flag=ID }:: **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
 | B3 | Polonia A ::{ flag=PL }:: | 0 | **5** | ::{ flag=PH }:: **Filipinas** | *victoria por ausencia* |
