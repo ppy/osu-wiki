@@ -56,7 +56,7 @@ The contest veteran has done it once again. After winning [o!bwc 2025](https://o
 
 ### Original track winner - [Matsuyuki Ame](https://osu.ppy.sh/users/12763959)
 
-**BACK-TO-BACK PDC WINNER!** It is rare to see, but here we go. This year, [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) claimed their victory once again in a track with the most participants. This is not going to stop Ame's hot streak, as they are now one point away from claiming their **Elite Mapper** title. Make sure to check out this top-tier creation!
+**BACK-TO-BACK PDC WINNER!** It is rare to see, but here we go. This year, [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) (a.k.a. ameponzu) claimed their victory once again in a track with the most participants. This is not going to stop Ame's hot streak, as they are now one point away from claiming their **Elite Mapper** title. Make sure to check out this top-tier creation!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/a5sLcirSfWA" frameborder="0" allowfullscreen></iframe>
