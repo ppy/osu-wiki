@@ -82,8 +82,8 @@ Every track finalist will receive the following prizes:
 
 | Placement | Prizes |
 | :-: | :-- |
-| 1st | **18%** of the cash prize pool, **12** months of osu!supporter, *Track Winner* profile badge, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+2** |
-| 2nd | **9%** of the cash prize pool, **6** months of osu!supporter, [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points) **+1** |
+| 1st | **18%** of the cash prize pool, **12** months of osu!supporter, *Track Winner* profile badge, [contest points](/wiki/Contests/Contest_points) **+2** |
+| 2nd | **9%** of the cash prize pool, **6** months of osu!supporter, [contest points](/wiki/Contests/Contest_points) **+1** |
 | 3rd | **6%** of the cash prize pool, **4** months of osu!supporter |
 
 ### Grand prize
@@ -108,7 +108,7 @@ In addition, the finalists at **1st and 2nd place** per track receive the follow
 | [Alty](https://osu.ppy.sh/users/16407988) | +1 |
 | [0ppinOsu](https://osu.ppy.sh/users/12551840) | +1 |
 
-View the entire contest point leaderboards [on the wiki](https://osu.ppy.sh/wiki/en/Contests/Contest_points#leaderboards)!
+View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)!
 
 ---
 
