@@ -36,11 +36,11 @@ translation_keys:
     "osu!\\(lazer\\) main theme": osu!(lazer) 主主题曲
     "osu! theme": osu! 主题曲
     " tutorial song": 教程歌曲
-    "Christmas/Winter (\\d{4}) ": '\1 年圣诞节/冬季 '
-    "Halloween 2016 ": '2016 年万圣节 '
-    "Summer 2023 ": '2023 年夏季 '
+    "Christmas/Winter (\\d{4}) ": "\1 年圣诞节/冬季 "
+    "Halloween 2016 ": "2016 年万圣节 "
+    "Summer 2023 ": "2023 年夏季 "
     "Original composition for \\[osu!stream\\]\\(/wiki/osu!stream\\)": 为 [osu!stream](/wiki/osu!stream) 原创的作品
-    "\\[osu!stream\\]\\(/wiki/osu!stream\\) main theme":  '[osu!stream](/wiki/osu!stream) 主主题曲'
+    "\\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": "[osu!stream](/wiki/osu!stream) 主主题曲"
     "Cutscene background music": 过场动画背景音乐
     "Ending credits theme": 落幕音乐
     "Livestream BGM": 直播背景音乐
@@ -48,9 +48,9 @@ translation_keys:
     "Trailer music": 预告片音乐
     # 特例
     "(osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?)": \1 和 \2
-    '(\d+)\s+Pool #?(\w+)': '\1 图池 \2 中的'
-    '(\w+?)\s+Pool #?(\w+)': '\1图池 \2 中的'
-    '^Pool #?(\w+)': '图池 \1 中的'
+    '(\d+)\s+Pool #?(\w+)': \1 图池 \2 中的
+    '(\w+?)\s+Pool #?(\w+)': \1图池 \2 中的
+    '^Pool #?(\w+)': 图池 \1 中的
     "5k division": 5K 组
     " & ": 与
     # 轮次
@@ -82,7 +82,7 @@ translation_keys:
     # 槽位
     "tiebreaker": TB
     " wildcard": 外卡
-    " pick": ' 选图'
+    " pick": " 选图"
 ---
 
 <!-- “统计”部分和“列表”部分的所有内容都是自动化翻译的。如果一条翻译有误、格式不正确或需要更新，请通过开发服务器上的 `#osu-wiki` 频道联系 wiki 维护者。 -->
