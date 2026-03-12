@@ -13,7 +13,7 @@ The osu!mania Mapping World Cup is a country-based, multi-stage osu!mania mappin
 
 Each team must consist of 3 or 4 mappers from the same country as listed on their profile's flag, with the ability to have multiple teams per country depending on the total amount of sign-ups. 
 
-If there aren't enough participants from a country to form a full team, participants may register through the individual signup form, where they can be matched themselves with other individual participants based on their country or geographical location. When the registration period comes closer to its end, the organisers may also assist in forming teams if viable formations are available. After all, the goal of this contest is to allow everyone to participate!
+If there aren't enough participants from a country to form a full team, participants may choose to register individually through the sign-up form, where they can be matched with other individual participants based on their country or geographical location. When the registration period comes closer to its end, the organisers may also assist in forming teams if viable formations are available. After all, the goal of this contest is to allow everyone to participate!
 
 If you want to read more about the rules, contest format, schedule, and judging criteria, please check out this contest's [wiki page](/wiki/Contests/MMWC/2026) and [forum post](https://osu.ppy.sh/community/forums/topics/2185948) for more information.
 
@@ -52,7 +52,7 @@ The amount of contest points awarded will be determined by the number of mappers
 
 ---
 
-Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/MMWC/2026), or you can ask questions in our [Discord server](https://discord.gg/a7kpKK2rNj).
+Please note that this is just a quick overview of the tournament. If you want to participate, please read the full rules, which can be found on the [wiki page](/wiki/Contests/MMWC/2026), or you can ask questions in our [Discord server](https://discord.com/invite/a7kpKK2rNj).
 
 We're looking forward to see you all soon, whether you're participants or observers! Let's make this contest a great one together!
 
