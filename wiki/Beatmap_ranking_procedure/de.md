@@ -55,7 +55,7 @@ Wenn Probleme identifiziert werden, die Änderungen erfordern, werden die Nomini
 
 ### Den Hauptspielmodus bestimmen {id=main-mode}
 
-Bei Beatmaps mit Schwierigkeitsgraden aus mehreren Spielmodi[^hybrid-sets] wird der Hauptspielmodus nach folgender Priorität bestimmt:
+Bei Beatmaps mit Schwierigkeitsgraden aus mehreren Spielmodi[^hybrid-sets] wird der Hauptspielmodus nach folgender Priorisierung bestimmt:
 
 1. Der Spielmodus, für den die meisten Schwierigkeitsgrade in der Beatmap erstellt wurden.
 2. Wenn zwei oder mehr Spielmodi dieselbe Anzahl an Schwierigkeitsgraden haben, ist der Spielmodus der Hauptmodus, für den der Beatmap-Ersteller die meisten Schwierigkeitsgrade erstellt hat.
