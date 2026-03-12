@@ -69,7 +69,7 @@ Eine Zurücksetzung der Nominierungen ermöglicht dem Ersteller, Änderungen an 
 
 ### Vetos
 
-Wenn Beatmap-Nominatoren und NAT-Mitglieder glauben, dass eine Beatmap erhebliche Qualitätsprobleme aufweist, können sie in Einzelfällen ein [Veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) aussprechen, um die Beatmap daran zu hindern, in die Kategorie [Ranked](/wiki/Beatmap/Category#ranked) aufgenommen zu werden. Durch das Veto können subjektive Ansichten, die angesprochen werden müssen, bevor die Beatmap mit der [Qualifizierung](#qualifizierung) fortfahren kann, diskutiert und weitere Klarstellungen gefordert werden.
+Wenn ein Mitglied der Beatmap-Nominatoren oder ein NAT-Mitglieder glaubt, dass eine Beatmap erhebliche Qualitätsprobleme aufweist, kann das Mitglied ein [Veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) aussprechen, um die Beatmap daran zu hindern, in die Kategorie [Ranked](/wiki/Beatmap/Category#ranked) aufgenommen zu werden. Durch das Veto können subjektive Ansichten, die angesprochen werden müssen, bevor die Beatmap mit der [Qualifizierung](#qualifizierung) fortfahren kann, diskutiert und weitere Klarstellungen gefordert werden.
 
 ## Ranked-Status
 
