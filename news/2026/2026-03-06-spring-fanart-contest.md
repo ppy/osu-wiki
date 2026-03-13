@@ -24,7 +24,7 @@ With the possibilities being so vast, here's a few examples to get your creative
 
 ## Rewards
 
-Of course it ain't a fanart contest without some sweet rewards up for grabs.
+Of course, it ain't a fanart contest without some sweet rewards up for grabs.
 
 - A selection of the top-voted finalists will be **featured on the main menu** and receive **3 months of osu!supporter**.
 - The top 3 will receive fancy bespoke **profile badges** made from their own creations.
@@ -42,11 +42,11 @@ Don't forget to grab any of the existing [Winter 2025 Fanart Contest](https://os
 - **Participants must keep a full file containing all of their entry's layers available.** We'll only ask you for this if we think it's needed to ascertain any claims regarding plagiarism or the use of generative art tools. If you don't/can't provide us this within a timely manner when we ask, we'll have no choice but to pull your listing from the contest, sorry!
 - **Artist attribution (names, social media handles, etc.) must be limited to no more than three lines total and confined to any corner of your entry.** Being proud of your work is good, just do it in a reasonably small spot of your work. One thing unique to osu!'s history is that we really don't like forced advertisement, and attribution that is too large can come across like it.
 - **Entries MUST meet the resolution requirements for a main-menu piece — namely 2732x1536**. This is automatically checked via the website, and the contest listing won't let you submit an entry even if it's off by ONE pixel. Export your creations at the correct resolution!
-- **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** The circular spot in the middle shows where the main-menu cookie will be when inside the game. Factor this in when designing your piece, as anything inside it is likely not going to be seen. This doesn't mean leaving a big circular hole full of nothing in the middle! Be creative. *Make sure you don't leave it visible in your end result.*
+- **Artists should use the custom templates provided ([PSD template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.psd?2017) / [PNG template](https://assets.ppy.sh/events/fanart/templates/osu%21%20main%20menu%202732x1536.png?2017)) when composing their piece as a guideline to understand where the osu! cookie will be placed on the main menu and during the voting process.** The circular spot in the middle shows where the main-menu cookie will be when inside the game. Factor this in when designing your piece, as anything inside it is likely not going to be seen. This doesn't mean you should leave a big circular hole full of nothing in the middle! Be creative. *Make sure you don't leave it visible in your end result.*
 - **Do NOT leave the dotted osu! cookie template visible in your submission.**
 - **DO NOT LEAVE THE DOTTED osu! COOKIE TEMPLATE VISIBLE IN YOUR SUBMISSION.**
-- **If you leave the dotted osu! cookie template visible in your submission, Yuzu will spawn under your bed at 3 AM, and oh he won't be merciful.**
-- **If you're using characters from other intellectual properties, do so sparingly.** All the official osu! mascots and the community mascots are fair game, but please avoid using excessive representations of characters from other worlds or franchises in your work — the contest is about osu! foremost, after all. Remember also that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
+- **If you leave the dotted osu! cookie template visible in your submission, [Yuzu](/wiki/Mascots#yuzu) will spawn under your bed at 3 AM, and oh, he won't be merciful.**
+- **If you're using characters from other intellectual properties, do so sparingly.** All the official osu! mascots and the community mascots are fair game, but please avoid using excessive representations of characters from other worlds or franchises in your work — the contest is about osu! foremost, after all. Also, remember that the community mascots are someone else's treasured creation, so please treat them with the same respect that you'd treat your own OCs and work.
 
 Got any questions, or any urgent matters that need to be looked at? Don't hesitate to [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976) for any inquiries regarding this contest!
 
@@ -58,7 +58,7 @@ Rumors say that if you've made it this far, you're ready to cook up and submit y
 
 You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **21 days** to do so before the doors close off forever (27 March 2026, 18:00 UTC), so don't linger too long pondering how many petals to scatter across the background. 🌸
 
-Don't forget to also tag your social media posts with `#osufanart` for the world to see!
+Don't forget to tag your social media posts with `#osufanart` for the world to see as well!
 
 May your entry bloom beautifully!
 
