@@ -83,7 +83,7 @@
 | [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | 主打自然、直观移动模式的谱面。 | ![][osu!catch] |
 | [tech/hyperwalks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fhyperwalks%22%22) | 谱面使用需要玩家走路而非冲刺（否则会越过目标）的红果跳 | ![][osu!catch] |
 | [tech/jump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fjump%22%22) | 主打 1/2 持续白果跳或红果跳的谱面。 | ![][osu!catch] |
-| TODO:[tech/technical hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ftechnical%20hybrid%22%22) | Maps that feature the combination of both technical rice and Long Notes patterning. | ![][osu!mania] |
+| [tech/technical hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ftechnical%20hybrid%22%22) | 以结合 technical（指排列刁钻以至于难以读图或打出高准度的排列）米 (rice，即单点物件) 和长条物件的综合排列为特征的谱面。 | ![][osu!mania] |
 | [tech/wiggles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fwiggles%22%22) | 主打快速的方向变化的谱面。 | ![][osu!catch] |
 
 #### 读图 (Reading)
@@ -111,13 +111,14 @@
 | [gimmick/barlines](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fbarlines%22%22) | 借助小节线增强视觉效果或替代物件的图。 | ![][osu!taiko] |
 | [gimmick/delay](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fdelay%22%22) | 基于歌曲延迟音效的高时值长串谱面。 | ![][osu!mania] |
 | [gimmick/dodge the beat](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fdodge%20the%20beat%22%22) | 玩家需要躲开每一个物件的谱面。 | ![][osu!catch] |
-| TODO:[gimmick/LN inverse](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2FLN%20inverse%22%22) | Maps that feature long note holds that emphasize constant holds and releases in quick succession. Most distinct feature of Inverse is the "negative spaces" in the patterning. | ![][osu!mania] |
+| [gimmick/LN inverse](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2FLN%20inverse%22%22) | 以长条物件的保持为特征的谱面，强调快速连续的持续保持和释放。反键谱面最显著的特点是排列中的“负空间”。 | ![][osu!mania] |
 | [gimmick/long sliders](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Flong%20sliders%22%22) | 长时间一直使用滑条的谱面，常规玩法主要围绕接住中果和小果，而非大果。 | ![][osu!catch] |
 | [gimmick/mirrored](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fmirrored%22%22) | 以快速连续沿轴镜像的排列为特征的谱面。 | ![][osu!taiko] |
 | [gimmick/no hyperdashes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fno%20hyperdashes%22%22) | 即使其对应难度的上架准则允许，也不使用红果跳的谱面。 | ![][osu!catch] |
 | [gimmick/reversed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Freversed%22%22) | 规则、连续地依照先前的排列进行倒放的谱面。 | ![][osu!taiko] |
 | [gimmick/spinner-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fspinner-heavy%22%22) | 大量使用转盘的谱面。 | ![][osu!catch] |
-| TODO:[gimmick/yellow notes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fyellow%20notes%22%22) | A map featuring frequent use of extremely short sliders to simulate ghost notes. | ![][osu!taiko] |
+<!-- TODO: ghost note 这部分的翻译可等待 Gameplay/Hit_object/ 中的太鼓部分完后进一步改进 -->
+| [gimmick/yellow notes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fyellow%20notes%22%22) | 以连续使用很多极短的滑条来模拟幽灵物件（即在黄色连打条的尾部结束后制造额外的打击点）的谱面。 | ![][osu!taiko] |
 
 ### 作图设计类标签
 
@@ -141,7 +142,7 @@
 | [style/double bpm](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdouble%20bpm%22%22) | 需要以谱面的 BPM 所指示的两倍手速游玩的谱面。 | ![][osu!taiko] |
 | [style/dump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdump%22%22) | 使用侧重于声音的延展与强度的成组物件，而非使用单个物件精确跟随每个声音时机的谱面。 | ![][osu!mania] |
 | [style/finisher-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffinisher-heavy%22%22) | 特征为大量使用大音符或以非传统方式使用大音符的谱面。 | ![][osu!taiko] |
-| TODO:[style/generic hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgeneric%20hybrid%22%22) | Maps that feature the combination of both straightforward rice and Long Notes patterning. | ![][osu!mania] |
+| [style/generic hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgeneric%20hybrid%22%22) | 以结合直接的米 (rice) 和长条物件的综合排列为特征的谱面。 | ![][osu!mania] |
 | [style/handstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhandstream%22%22) | 含有三押的连打。 | ![][osu!mania] |
 | [style/jumpstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fjumpstream%22%22) | 含有双押的连打。 | ![][osu!mania] |
 | [style/LN coordination](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20coordination%22%22) | 需要在同时按住多个长条音符的时候击打其他排列的谱面。 | ![][osu!mania] |
@@ -149,8 +150,8 @@
 | [style/LN mixed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20mixed%22%22) | 使用多种长条音符排列风格的谱面。 | ![][osu!mania] |
 | [style/LN release](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FLN%20release%22%22) | 各个长条需要在不同的时机松手的谱面。 | ![][osu!mania] |
 | [style/longjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Flongjack%22%22) | 以在同一列连续出现一长串物件（长纵连）为特征的谱面。 | ![][osu!mania] |
-| [style/mixed rice](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmixed%20rice%22%22) | 使用米（rice，即单点物件）的多种不同排列风格的谱面。 | ![][osu!mania] |
-| TODO:[style/mono-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmono-heavy%22%22) | Features monos used in large amounts. | ![][osu!taiko] |
+| [style/mixed rice](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmixed%20rice%22%22) | 使用米（rice）的多种不同排列风格的谱面。 | ![][osu!mania] |
+| [style/mono-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fmono-heavy%22%22) | 以大量使用同色物件为特征的谱面。 | ![][osu!taiko] |
 | [style/N+1](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2FN%2B1%22%22) | 一种特定的玩法风格，作图时最左列独立于其余列（其余列构成标准玩法风格）。 | ![][osu!mania] |
 | [style/o2jam](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fo2jam%22%22) | 模仿 O2jam 谱面中常见传统作图技巧的谱面。 | ![][osu!mania] |
 | [style/quadstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fquadstream%22%22) | 含有四押的连打。 | ![][osu!mania] |
