@@ -78,13 +78,13 @@ Hvis vi beslutter, at du godt må komme tilbage, kræver vi, at du accepterer no
 - **Du skal ikke benytte andres konti eller lignende,** inklusiv at spille på delte computere.
 - **Enhver grov overtrædelse af reglerne vil medføre en begrænsning**. Dette inkluderer lange silences.
 
-Brugere, der kommer tilbage under standardbetingelserne ovenfor, er også [udelukkede fra officielle og badgede turneringer](/wiki/Help_centre/Tournament_sanctions#tournament-bans), både som spiller og som medhjælper/arrangør. Varigheden af dette forbud er 1 år for hver overtrædelse (hvis en bruger får sin begrænsning ophævet for anden gang, vil forbuddet vare 2 år). Ophævelsesmailen specificerer varigheden af forbuddet.
+Brugere, der kommer tilbage under standardbetingelserne ovenfor, er også [udelukkede fra officielle og badgede turneringer](/wiki/Help_centre/Tournament_sanctions#tournament-bans), både som spiller og som medhjælper/arrangør. Varigheden af denne karantæne er 1 år for hver overtrædelse (hvis en bruger får sin begrænsning ophævet for anden gang, vil karantænen vare 2 år). Ophævelsesmailen specificerer varigheden af karantænen.
 
-**Snyd eller kontodeling i en officiel eller badged turnering medfører brugerens tidsubestemte udelukkelse fra sådanne turneringer i fremtiden.** Der kan anmodes om ophævelse af dette forbud efter to år, men den bliver kun ophævet, hvis brugeren har ydet betydelig hjælp i at forbedre fællesskabets turneringer.
+**Snyd eller kontodeling i en officiel eller badged turnering medfører brugerens tidsubestemte udelukkelse fra sådanne turneringer i fremtiden.** Der kan anmodes om ophævelse af denne karantæne efter to år, men den bliver kun ophævet, hvis brugeren har ydet betydelig hjælp i at forbedre fællesskabets turneringer.
 
 Nogle spilleres konti bliver begrænset igen, når de starter med at spille, efter deres anmodning blev godkendt. Dette er en automatisk proces, og fjernes som regel indenfor 24 timer. Stil gerne spørgsmål per Twitter til [@osusupport](https://twitter.com/osusupport) eller ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh), hvis dette sker for dig!
 
-Nogle overtrædelser medfører, at din konto bliver rullet tilbage, når begrænsningen fjernes. Dette er for at fjerne uretfærdigt opnåede scores på din konto **på tværs af alle modi**, såvel som medaljer og badges. **Spilletid og antal forsøgte maps bliver ikke ændret.**
+Nogle overtrædelser medfører, at din konto bliver rullet tilbage, når begrænsningen fjernes. Dette er for at fjerne uretfærdigt opnåede scores på din konto **på tværs af alle spiltilstande**, såvel som medaljer og badges. **Spilletid og antal forsøgte maps bliver ikke ændret.**
 
 ## Min anmodning blev nægtet! {id=appeal-denied}
 
@@ -125,11 +125,11 @@ Forstå venligst, at det at sende en mail til denne adresse garanterer kun, at d
 | :-- | :-- | :-- |
 | Vurderingsfejl | Ingen | Ingen effekt på kontoen, hvis den er fejlagtig. |
 | Multiaccounting | Permanent (multier) | Hovedkontoen forbliver ubegrænset, bliver måske silenced. |
-| Særlig grov multiaccounting | 3 måneder | Anmodningsbetingelserne gælder, etårigt turneringsforbud |
-| Kontodeling | 3 måneder | Anmodningsbetingelserne gælder, etårigt turneringsforbud, og delvis tilbagerulning |
-| Gentagelsestilfælde (multiaccounting, kontodeling, adfærd i fællesskabet) | 6 måneder | Anmodningsbetingelserne gælder, tilbagerulning (hvor nødvendigt), turneringsforbud for 1 år for hver overtrædelse |
-| Snyd | 6 måneder | Anmodningsbetingelserne gælder, etårigt turneringsforbud, og fuldstændig tilbagerulning |
+| Særlig grov multiaccounting | 3 måneder | Anmodningsbetingelserne gælder, et års turneringskarantæne |
+| Kontodeling | 3 måneder | Anmodningsbetingelserne gælder, et års turneringskarantæne, og delvis tilbagerulning |
+| Gentagelsestilfælde (multiaccounting, kontodeling, adfærd i fællesskabet) | 6 måneder | Anmodningsbetingelserne gælder, tilbagerulning (hvor nødvendigt), turneringskarantæne for 1 år for hver overtrædelse |
+| Snyd | 6 måneder | Anmodningsbetingelserne gælder, et års turneringskarantæne, og fuldstændig tilbagerulning |
 | Overdrevne forseelser | Variabel | Anmodningsbetingelserne gælder. Nedkølingsperioden er afhængig af historik. |
-| Snyd/kontodeling for en turnering | 12 måneder | Anmodningsbetingelserne gælder, relevant tilbagerulning, tidsubestemt turneringsforbud |
-| Gentagelsestilfælde (snyd) | 12 til 24 måneder | Anmodningsbetingelserne gælder, tilbagerulning, turneringsforbud for 1 år for hver overtrædelse |
+| Snyd/kontodeling for en turnering | 12 måneder | Anmodningsbetingelserne gælder, relevant tilbagerulning, tidsubestemt turneringskarantæne |
+| Gentagelsestilfælde (snyd) | 12 til 24 måneder | Anmodningsbetingelserne gælder, tilbagerulning, turneringskarantæne for 1 år for hver overtrædelse |
 | Afskyelige eller groft misbrugsagtige forseelser | Tidsubestemt | Ofte permanente uden mulighed for ophævelse |
