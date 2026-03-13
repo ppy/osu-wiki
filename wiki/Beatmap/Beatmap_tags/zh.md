@@ -117,8 +117,7 @@
 | [gimmick/no hyperdashes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fno%20hyperdashes%22%22) | 即使其对应难度的上架准则允许，也不使用红果跳的谱面。 | ![][osu!catch] |
 | [gimmick/reversed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Freversed%22%22) | 规则、连续地依照先前的排列进行倒放的谱面。 | ![][osu!taiko] |
 | [gimmick/spinner-heavy](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fspinner-heavy%22%22) | 大量使用转盘的谱面。 | ![][osu!catch] |
-<!-- TODO: ghost note 这部分的翻译可等待 Gameplay/Hit_object/ 中的太鼓部分完后进一步改进 -->
-| [gimmick/yellow notes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fyellow%20notes%22%22) | 以连续使用很多极短的滑条来模拟幽灵物件（即在黄色连打条的尾部结束后制造额外的打击点）的谱面。 | ![][osu!taiko] |
+| [gimmick/yellow notes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fyellow%20notes%22%22) | 以连续使用很多极短的滑条来模拟幽灵物件（即在黄色连打条的尾部结束后制造额外的打击点）的谱面。<!-- TODO: 这部分的翻译可等待 Gameplay/Hit_object/ 中的太鼓部分完后进一步改进 --> | ![][osu!taiko] |
 
 ### 作图设计类标签
 
