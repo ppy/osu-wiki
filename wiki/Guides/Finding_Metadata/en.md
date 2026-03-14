@@ -9,7 +9,7 @@ tags:
 
 *See also: [Song setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
 
-Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), metadata includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, all of which can be edited in the [Song setup](/wiki/Client/Beatmap_editor/Song_setup) window, allowing beatmaps to be effectively organised and discovered.
+Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), this includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. Metadata can be added by the beatmap host during the [ranking process](/wiki/Beatmap_ranking_procedure). osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, all of which can be edited in the [Song setup](/wiki/Client/Beatmap_editor/Song_setup) window, allowing beatmaps to be effectively organised and discovered.
 
 ![Beatmap Listing](img/beatmap-listing.jpg "Screenshot of the beatmap listing, taken on 28th February 2026")
 
