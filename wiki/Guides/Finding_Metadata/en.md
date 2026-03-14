@@ -8,7 +8,7 @@ tags:
 # Finding metadata
 
 ::: infobox
-![Metadata example](img/setup-panel.png "Example of metadata fields in the Song setup window")
+![Metadata example](img/setup-panel.png "Metadata fields in the Song setup window")
 :::
 
 *For metadata fields, see: [Song setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*\
@@ -41,7 +41,7 @@ Existing ranked beatmaps can also be used as a reference for cross-checking. How
 ### Use catalogue numbers for direct access
 
 ::: infobox
-![Catalog number example](img/catalog-number.png "Example of a catalog number on a CD release")
+![Catalog number example](img/catalog-number.png "Catalog number of an album on VGMdb")
 :::
 
 Once you have identified a specific album or single, look for its [**catalog number**](https://en.wikipedia.org/wiki/Catalog_number_(music)). This is a unique identifier assigned by the record label (e.g., "SRCL-8641~2" for a Sony Music release). Catalog numbers can usually be found on metadata databases mentioned before.
@@ -65,11 +65,11 @@ When filling metadata, `Tags` is one of the most important fields for discovery.
 - Contextual information: aliases, series/franchise names, character names, featured artists, album name, remix information
 - Beatmap-specific information: guest mapper usernames, contest names, hitsounders, storyboarders, etc.
 
-::: infobox
-![Example tag set](img/mapper-tags.png "Example of a tag set for a beatmap")
-:::
-
 For example, tags of beatmap [*流星群*](https://osu.ppy.sh/beatmapsets/1188437) can be broken down into the following groups:
+
+::: infobox
+![Example tag set](img/mapper-tags.png "Tag set for 流星群")
+:::
 
 - Event involved: `mappers' guild`, `mpg`
 - Hitsounder: `ttmnzk`
@@ -103,14 +103,14 @@ Highly recommended additional ones:
 | creator/label credit | `ZUN Team Shanghai Alice` |  |
 | event/convention name | `comiket c85`, `reitaisai` |  |
 | characters involved | `marisa`, `alice` | characters in music or background |
-| fan alias | `2hu` | Which means "Touhou" |
+| fan alias | `2hu` | which means "Touhou" |
 | arranger name | `パインツリー` |  |
 | game number | `th8` | abbreviation for "Touhou 8" |
 | stage number | `st1` | abbreviation for "Stage 1", add if the track is a stage theme |
 | shortened game name | `in` | abbreviation for "Imperishable Night" |
-| romaji for text after `touhou` in `Source` | `eiyashou` | Which means "東方永夜抄" (game name) |
+| romaji for text after `touhou` in `Source` | `eiyashou` | which means "東方永夜抄" (game name) |
 
-Here's an example of a tag set:
+Here's an example of a Touhou tag set:
 
 `japanese metal touhou 8 th8 video game Gensokyo Millenium 千年幻想郷　～ History of the Moon 八意 永琳 eirin yagokoro ランコ ranko TOHO COMPLETE BOX 東方project ZUN Team Shanghai Alice comiket 85 c85 2hu パインツリー in`
 
