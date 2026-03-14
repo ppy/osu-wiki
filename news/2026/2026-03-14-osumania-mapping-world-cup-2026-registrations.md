@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!mania Mapping World Cup 2026: Registrations Open!"
-date: 2026-03-15 21:00:00 +0000
+date: 2026-03-15 14:00:00 +0000
 series: community_tournaments
 ---
 
@@ -19,7 +19,7 @@ If you want to read more about the rules, contest format, schedule, and judging 
 
 ## Registrations
 
-Registrations are open from now until the 2nd of April (00:00 UTC)! To register, please fill out [this form](FORM_LINK) and join the contest's [Discord server](https://discord.gg/a7kpKK2rNj) to stay up to date with the latest news and announcements.
+Registrations are open from now until the 2nd of April (00:00 UTC)! To register, please fill out [this form](FORM_LINK) and join the contest's [Discord server](https://discord.com/invite/a7kpKK2rNj) to stay up to date with the latest news and announcements.
 
 If you have issues while submitting your registration through the form, please send [Ilham](https://osu.ppy.sh/community/chat?sendto=3057154) or [Reihynn](https://osu.ppy.sh/community/chat?sendto=16630515) a message and they will sort things out for you.
 
@@ -31,7 +31,7 @@ Do note that it's required for the team captains to be present in the Discord se
 
 | Event | Timestamp (UTC) |
 | :-- | :-- |
-| Registration phase | 2026-03-14 – 2026-04-02 |
+| Registration phase | 2026-03-15 – 2026-04-02 |
 | Qualification Stage mapping phase | 2026-04-03 – 2026-04-24 |
 | Qualification Stage judging phase | 2026-04-25 – 2026-05-09 |
 | Group Stage mapping phase | 2026-05-15 – 2026-06-05 |
