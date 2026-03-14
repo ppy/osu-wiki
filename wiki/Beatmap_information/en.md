@@ -13,16 +13,16 @@ This is the main part section of the information page, containing the most impor
 ### Mapping information
 
 ::: Infobox
-![](img/mapping-info.png "Mapping information")
-:::
-
-::: Infobox
 ![](img/game-mode-selection.png "Game mode selection")
 :::
 
-Among difficulties in the beatmap, the ones from different [game modes](/wiki/Game_mode) can be accessed by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of difficulties for each game mode. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
+::: Infobox
+![](img/mapping-info.png "Mapping information")
+:::
 
-On the left side, right below the `info`/`discussion` tab selection is the difficulty section which lists every [difficulty](/wiki/Beatmap/Difficulty) in the beatmap. The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Hovering over one of the icons will reveal the difficulty's name, the mapper of the difficulty and its star rating shown below. Clicking the icon will select this difficulty as the active one, causing some of the beatmap statistics on the page to change accordingly. The mapper's name can be clicked to view their profile.
+Users are able to choose for which [game mode](/wiki/Game_mode) they want to view difficulty statistics in by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes for which there is no difficulty available will be greyed-out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
+
+On the left side, right below the `info`/`discussion` tab selection is the difficulty section which lists every difficulty in the beatmap. The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Hovering over one of the icons will reveal the difficulty's name, the mapper of the difficulty and its star rating shown below. Clicking the icon will select this difficulty as the active one, causing some of the beatmap statistics on the page to change accordingly. The mapper's name can be clicked to view their profile.
 
 Next to this display are the total play count of the beatmap, and the number of users who have added this beatmap to their favourites. When hovering over the favourite count, up to 50 avatars of users favouriting this beatmap will be displayed. If the beatmap is in the [Pending](/wiki/Beatmap/Category#wip-and-pending) category, the nomination count will also be displayed before the play count and favourite count.
 
