@@ -22,13 +22,13 @@ This is the main part section of the information page, containing the most impor
 
 Among difficulties in the beatmap, the ones from different [game modes](/wiki/Game_mode) can be accessed by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of difficulties for each game mode. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
 
-On the left side, right below the `info`/`discussion` tab selection is the difficulty section which lists every [difficulty](/wiki/Beatmap/Difficulty) in the beatmap. The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Hovering over one of the icons will reveal the difficulty's name, the mapper of the difficulty and its star rating shown below. Clicking the icon will select this difficulty as the active one, causing some of the beatmap statistics on the page to change accordingly. The mapper link can be clicked to view the mapper's profile.
+On the left side, right below the `info`/`discussion` tab selection is the difficulty section which lists every [difficulty](/wiki/Beatmap/Difficulty) in the beatmap. The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Hovering over one of the icons will reveal the difficulty's name, the mapper of the difficulty and its star rating shown below. Clicking the icon will select this difficulty as the active one, causing some of the beatmap statistics on the page to change accordingly. The mapper's name can be clicked to view their profile.
 
 Next to this display are the total play count of the beatmap, and the number of users who have added this beatmap to their favourites. When hovering over the favourite count, up to 50 avatars of users favouriting this beatmap will be displayed. If the beatmap is in the [Pending](/wiki/Beatmap/Category#wip-and-pending) category, the nomination count will also be displayed before the play count and favourite count.
 
 Beneath these numbers, the title and artist are displayed. Clicking them will automatically search for other beatmaps with the exact same song title or artist.
 
-Then comes the host mapper's avatar and username, along with the beatmap's submitted date and last changed date (e.g. when the beatmap was moved to a different [category](/wiki/Beatmap/Category) or updated by it's host).
+Then comes the host mapper's avatar and username, along with the beatmap's submitted date and last changed date (e.g. when the beatmap was moved to a different [category](/wiki/Beatmap/Category) or updated by its host).
 
 Further below, the following action buttons may be present, arranged from left to right:
 
@@ -99,7 +99,7 @@ After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatma
 ![](img/success-rate.png "Success rate display")
 :::
 
-The success rate display visualises how many players were able to successfully pass the difficulty. Beneath the easy-to-understand success rate bar, a line of note shows the exact percentage value, along with the specific numbers of successful passes and total plays for the difficulty.
+The success rate display visualises how many players were able to successfully pass the difficulty. Beneath the success rate bar, a paragraph shows the exact percentage value, along with the specific numbers of successful passes and total plays for the difficulty.
 
 Below is a diagram showing a map's points of failure, showing at what points users failed their play. The higher the spike, the more players failed at that point.
 
@@ -109,7 +109,7 @@ Below is a diagram showing a map's points of failure, showing at what points use
 
 If a beatmap is [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending) or [Qualified](/wiki/Beatmap/Category#qualified), the hype train section is visible. Descriptions of the current status of the beatmap can be found on the left side of this section, while hype count and buttons are displayed on the right side. Depending on the beatmap's category, the description will be different.
 
-Users can use the `Hype Beatmap` button to redirect to the [discussion page](/wiki/Beatmap_discussion) and [hype](/wiki/Beatmap/Hype) the beatmap, indicating that they want the beatmap to be ranked. The `Hype Beatmap` button will turn gray and become unclickable after the user has hyped the beatmap.
+Users can use the `Hype Beatmap` button to redirect to the [discussion page](/wiki/Beatmap_discussion) and [hype](/wiki/Beatmap/Hype) the beatmap, indicating that they want the beatmap to be ranked. The `Hype Beatmap` button will turn grey and become unclickable after the user has hyped the beatmap.
 
 Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there will also be a `Report Problem` button beneath the `Hype Beatmap` button, which will also take users to the discussion page, but with the intention of reporting any problems that might have been missed during the nomination phase.
 
