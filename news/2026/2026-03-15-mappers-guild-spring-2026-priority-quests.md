@@ -49,9 +49,9 @@ To complete this quest, follow these steps:
 
 ### [Limitation](https://mappersguild.com/missions?id=69b4f07b0ff92c44ae6600a2) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
-You may have heard tales of a mysterious "[Monthly Beatmapping Contest](https://osu.ppy.sh/wiki/Contests/Monthly_Beatmapping_Contest)" where mappers create maps with specific requirements each month. Legends say it'll come back soon, but in the meantime, this quest might satisfy the same itch.
+You may have heard tales of a mysterious "[Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)" where mappers create maps with specific requirements each month. Legends say it'll come back soon, but in the meantime, this quest might satisfy the same itch.
 
-This ~~contest's~~ quest's limitation: **the mapset's highest difficulty cannot have more than 3 of the same [hit object](https://osu.ppy.sh/wiki/en/Gameplay/Hit_object) types in a row.** Rank this map to complete the quest!
+This ~~contest's~~ quest's limitation: **the mapset's highest difficulty cannot have more than 3 of the same [hit object](/wiki/en/Gameplay/Hit_object) types in a row.** Rank this map to complete the quest!
 
 For clarity, here are some examples of what this limitation allows/disallows per mode:
 
@@ -72,7 +72,7 @@ For example, [this song](https://osu.ppy.sh/beatmapsets/2487754)'s easiest Ranke
 
 Beatmap-specific skins are a relic of the past. Your task is to bring them into the present!
 
-Create and rank a map with custom skin elements. The [skin set list](https://osu.ppy.sh/wiki/Ranking_criteria/Skin_set_list) explains which elements are needed to follow the Ranking Criteria in each mode! Any skin elements you use should be copyright-free (and ideally created by you!).
+Create and rank a map with custom skin elements. The [skin set list](/wiki/Ranking_criteria/Skin_set_list) explains which elements are needed to follow the Ranking Criteria in each mode! Any skin elements you use should be copyright-free (and ideally created by you!).
 
 While osu!mania doesn't support beatmap-specific gameplay skinning like other modes, interface skinning is still an option!
 
