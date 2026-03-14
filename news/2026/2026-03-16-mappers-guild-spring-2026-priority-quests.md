@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mappers' Guild - Spring 2026 Priority Quests
-date: 2026-03-15 22:00:00 +0000
+date: 2026-03-16 04:00:00 +0000
 series: mappers_guild
 ---
 
@@ -58,7 +58,7 @@ For clarity, here are some examples of what this limitation allows/disallows per
 - In osu!, 4 consecutive circles or sliders in a row are disallowed.
 - In osu!taiko, 4 consecutive kats or dons in a row are disallowed.
 - In osu!catch, 4 consecutive fruits or juice streams in a row are disallowed. Use bananas freely.
-- In osu!mania, we'll bend the rules a bit. 4 consecutive *timestamps* of only notes or only hold notes are disallowed. If you're confused, refer to [this image](/wiki/shared/news/2026-03-15-mappers-guild-spring-2026-priority-quests/mania_examples.jpg)!
+- In osu!mania, we'll bend the rules a bit. 4 consecutive *timestamps* of only notes or only hold notes are disallowed. If you're confused, refer to [this image](/wiki/shared/news/2026-03-16-mappers-guild-spring-2026-priority-quests/mania_examples.jpg)!
 
 ### [Ease of access v2](https://mappersguild.com/missions?id=69b4f0940ff92c44ae6600a6) ![silver icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/silver-small.png)
 
