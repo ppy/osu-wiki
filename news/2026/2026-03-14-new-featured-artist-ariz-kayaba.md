@@ -17,13 +17,15 @@ Spark some mapping ideas by listening to any of these previews:
 
 ### Ariz Kayaba - VOLTOX
 
-osu! maps are an expression of music through hitobjects. See [Irone OSU](https://osu.ppy.sh/users/10678230)'s interpretation of *VOLTOX* through [this beatmap](https://osu.ppy.sh/beatmapsets/2439956)!
+osu! maps are an expression of music through hit objects. See [Irone OSU](https://osu.ppy.sh/users/10678230)'s interpretation of *VOLTOX* through [this beatmap](https://osu.ppy.sh/beatmapsets/2439956)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
         <source src="https://assets.ppy.sh/artists/533/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### Ariz Kayaba - Destination.
 
@@ -45,7 +47,7 @@ osu! maps are an expression of music through hitobjects. See [Irone OSU](https:/
 
 ---
 
-You know the saying "rhythm is just a click away",  but did you know [**Ariz Kayaba**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/533) is just a click away too? And did you know a beatmap created by you is anywhere from 1 to 1,000,000+ clicks away? We hope you enjoy clicking.
+You know the saying "rhythm is just a click away", but did you know [**Ariz Kayaba**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/533) is just a click away too? And did you know a beatmap created by you is anywhere from 1 to 1,000,000+ clicks away? We hope you enjoy clicking.
 
 Look forward to next weekend. You can figure out why.
 
