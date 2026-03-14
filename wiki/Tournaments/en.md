@@ -666,6 +666,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Blaze Killing Taiko Frontier](Taiko_Frontier/BKTF_1) | 2025-10-04 | 2025-11-23 | **寿命** (::{ flag=JP }:: **[makaki](https://osu.ppy.sh/users/21893710)**, ::{ flag=JP }:: [nuku0315](https://osu.ppy.sh/users/8772103), ::{ flag=VN }:: [njshift1](https://osu.ppy.sh/users/16688499)) | **The King's Guard** (::{ flag=NO }:: **[Nurend Fanboy](https://osu.ppy.sh/users/18916920)**, ::{ flag=NO }:: [Vendelicious](https://osu.ppy.sh/users/8818089), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142)) | **DaiKiu volviste a tomar temporada 4** (::{ flag=CL }:: **[DaiKiu](https://osu.ppy.sh/users/4232665)**, ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=AU }:: [Necromancy](https://osu.ppy.sh/users/1890084)) |
+| [Nightmare Taiko Frontier](Taiko_Frontier/NTF_1) | 2026-01-17 | 2026-03-08 | ::{ flag=JP }:: [\_Kan2](https://osu.ppy.sh/users/7160196) | ::{ flag=DE }:: [dragonmaxx](https://osu.ppy.sh/users/12160279) | ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757) |
 
 #### Taiko Last Man Standing
 
