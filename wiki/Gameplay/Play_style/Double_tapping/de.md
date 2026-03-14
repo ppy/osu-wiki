@@ -21,4 +21,4 @@ Double-Tapping wird typischerweise anstelle des primären Tippstils eines Spiele
 
 ## Argumente
 
-Argumente für Double-Tapping referenzieren typischerweise, dass es ein schneller Weg ist, bei dem der Spieler die Bewegungen einer Beatmap lernt, die nach einem schwierigen Pattern kommen. Andere Spieler hingegen argumentieren, dass es eine billige Art ist, schwierige Sektionen zu überwinden, die gelernt werden sollten.
+Argumente für Double-Tapping weisen typischerweise darauf hin, dass es ein schneller Weg ist, bei dem der Spieler die Bewegungen einer Beatmap lernt, die nach einem schwierigen Pattern kommen. Andere Spieler hingegen argumentieren, dass es eine billige Art ist, schwierige Sektionen zu überwinden, die gelernt werden sollten.

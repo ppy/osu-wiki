@@ -2,7 +2,7 @@
 
 Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von osu! wissen musst. Hier findest du Informationen über die Songauswahl, die Rangliste sowie den Ergebnisbildschirm. Beim Starten des Spiel-Clients siehst du den folgenden Bildschirm:
 
-![](img/intro-screen-DE.jpg "Einführungsbildschirm")
+![](img/intro-screen-DE.jpg "Startbildschirm")
 
 ## Hauptmenü
 
