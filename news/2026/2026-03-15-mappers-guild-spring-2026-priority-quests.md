@@ -11,7 +11,7 @@ You might not be the world's greatest circle clicker, but if you're interested i
 
 If you're new around here, the [**Mappers' Guild**](/wiki/Community/Mappers_Guild) is an MMO-inspired mapping system surrounding osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). Mappers can [earn rewards](/wiki/Community/Mappers_Guild#rewards) for completing mapping-related tasks, like ranking maps, participating in contests, and collaborating on [quests](/wiki/Community/Mappers_Guild#quests).
 
-The Mappers' Guild is open to mappers of any skill level, including those without Ranked maps! See [the system's website](https://mappersguild.com/) or the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel for details.
+The Mappers' Guild is open to mappers of any skill level, including those without Ranked maps! See the [system's website](https://mappersguild.com/) or the [osu! Discord server](https://discord.com/invite/ppy)'s `#mappers-guild` channel for details.
 
 ## What are priority quests?
 
@@ -39,7 +39,7 @@ Below is an overview of each quest. If any are confusing, feel free to ask quest
 
 ### [First impressions](https://mappersguild.com/missions?id=69b4f0530ff92c44ae66009d) ![bronze icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/bronze-small.png)
 
-Everyone knows that first impressions matter. Some artists have no Ranked maps in certain game modes, so you can have the honor of introducing those artists to the playerbase.
+Everyone knows that first impressions matter. Some artists have no Ranked maps in certain game modes, so you can have the honour of introducing those artists to the playerbase.
 
 To complete this quest, follow these steps:
 
@@ -78,7 +78,7 @@ While osu!mania doesn't support beatmap-specific gameplay skinning like other mo
 
 ### [Classified: Genre edition](https://mappersguild.com/missions?id=69b4f1060ff92c44ae6600b2) ![platinum icon](/wiki/shared/news/2023-08-29-changes-to-the-mappers-guild/platinum-small.png)
 
-This quest goes back to the roots of the Mappers' Guild: making maps for upcoming Featured Artists. You'll be entrusted with 3 highly confidential, unannounced Featured Artist songs with the goal of **creating and ranking a map for 1 of them!**
+This quest goes back to the roots of the Mappers' Guild: making maps for upcoming Featured Artists. You'll be entrusted with 3 highly confidential, unannounced Featured Artist songs with the goal of **creating and ranking a map for 1 of them**!
 
 "Genre edition" refers to how songs are chosen. You select a genre/category on the quest page, then receive songs based on that selection. If you want a different song, you can re-roll too!
 
@@ -94,6 +94,6 @@ Every quest above (and an archive of every older quest) can be found on [the pri
 
 Mapping isn't something to tackle alone. The `#mappers-guild` channel in the [osu! Discord server](https://discord.com/invite/ppy) is open for questions about anything related to the Mappers' Guild or Featured Artist mapping in general, so take advantage of it!
 
-A wise mapper once said "mapping is a happy thing." Enjoy your time in the editor, and good luck!
+A wise mapper once said "mapping is a happy thing". Enjoy your time in the editor, and good luck!
 
 —pishifat
