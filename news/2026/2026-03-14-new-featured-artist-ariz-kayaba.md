@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Ariz Kayaba"
-date: 2026-03-14 21:00:00 +0000
+date: 2026-03-14 21:30:00 +0000
 series: featured_artists
 ---
 
