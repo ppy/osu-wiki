@@ -7,134 +7,117 @@ tags:
 
 # Finding metadata
 
-*See also: [Song setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
+::: infobox
+![Metadata example](img/setup-panel.png "Example of metadata fields in the Song setup window")
+:::
 
-Metadata is data that defines and describes the characteristics of other data, and sometimes provides extra information.[^metadata] In the context of a [beatmap](/wiki/Beatmap), this includes elements such as the song's title, artist, source media, the beatmap's creator, guest mappers and more. These attributes help to describe the beatmap and its associated content. Metadata can be added by the beatmap host during the [ranking process](/wiki/Beatmap_ranking_procedure). osu! provides a variety of metadata fields including `Title`, `Beatmap Creator` and `Tags`, all of which can be edited in the [Song setup](/wiki/Client/Beatmap_editor/Song_setup) window, allowing beatmaps to be effectively organised and discovered.
+*For metadata fields, see: [Song setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*\
+*See also: [Primary metadata source](/wiki/Beatmap/Primary_metadata_source)*
 
-![Beatmap Listing](img/beatmap-listing.jpg "Screenshot of the beatmap listing, taken on 28th February 2026")
+Good metadata helps players find your beatmap and helps nominators verify it quickly. In practice, fields like `Title`, `Artist`, `Source`, and `Tags` can be filled out in the [Song setup](/wiki/Client/Beatmap_editor/Song_setup) window. This guide explains how to find reliable metadata, compare sources, and fill fields in a way that matches common ranked-map practice.
 
-Finding accurate metadata for your beatmap is, in essence, a process of [SEO](https://en.wikipedia.org/wiki/Search_engine_optimization) (Search Engine Optimisation). The more precise and descriptive your metadata is, the easier it becomes for players to find your beatmap. Metadata keywords can be used as filters in [song select](/wiki/Client/Interface#song-select) as well as on the website's [beatmap listing](https://osu.ppy.sh/beatmapsets) page via full-text search. Moreover, well-researched and detailed metadata increases the likelihood that your beatmap will attract modders, nominators, and ultimately progress through the ranking process more smoothly. Therefore, compiling accurate metadata is essential to ensure your beatmap reaches the right audience and receives the attention it deserves.
+Metadata keywords can be used as filters in [song select](/wiki/Client/Interface#song-select) as well as on the website's [beatmap listing](https://osu.ppy.sh/beatmapsets) page via full-text search. The more precise and descriptive your metadata is, the easier it becomes for players to find your beatmap. Below is a quick workflow:
 
-## General principles
+1. Start with what you already know: title fragments, artist name, lyrics, album art, or where you found the song.
+2. Confirm the core fields (`Title`, `Artist`, and when relevant, `Source`) in primary sources. Note that if various sources show different versions, the one from the primary source should always be prioritised.
+3. Use distribution and database sites to cross-check, find aliases, and identify practical keywords to use as tags.
+4. Verify everything against [Ranking Criteria § Metadata](/wiki/Ranking_criteria/Metadata).
 
-Due to its SEO-oriented nature, the process of finding and compiling metadata for your beatmap follows several key principles:
+## Source reliability
 
-- **Accuracy**: Prioritise official sources. Album liner notes, official music videos, and the artist's official website are typically the most reliable references for confirming a song's title and artist name. Check [Primary metadata source](/wiki/Beatmap/Primary_metadata_source) for more details.
-- **Consistency**: Take a look at metadata from other beatmaps of the same song or by the same artist. Adopt these conventions where appropriate. This helps maintain a coherent database and enables players to find related beatmaps more easily in a single search.
-- **Symmetry**: The discovery process mirrors the search process. The keywords that led you to the song's metadata are likely the same terms players will use to find your beatmap. You can leverage this by incorporating those keywords into your metadata tags.
-- **Relevance**: Focus on the most pertinent keywords players are likely to search for. For example, if your beatmap is a cover of a well-known song, consider including the original artist in the tags.
+Use sources in this order whenever possible. The goal is to confirm final values from the most authoritative source available, then use lower-priority sources for cross-checking only.
 
-## Identifying music
+| Priority | Source type | Examples |
+| :-- | :-- | :-- | :-- |
+| 1 | Official/primary sources | Album liner notes and digital Booklets, artist's official website and social medias like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com), official music videos and lyric videos on platforms like [YouTube](https://youtube.com) and [Niconico](https://nicovideo.jp) |
+| 2 | Official distribution platforms | [**Bandcamp**](https://bandcamp.com), [**SoundCloud**](https://soundcloud.com) for global or English releases, [**Ototoy**](https://ototoy.jp), [**Mora**](http://mora.jp) for Japanese releases, [**Melon**](https://melon.com), [**Genie**](https://genie.co.kr), [**Bugs**](https://bugs.co.kr) for Korean releases |
+| 3 | Music services/streaming platforms | [**Spotify**](https://open.spotify.com), [**YouTube Music**](https://music.youtube.com), [**Apple Music**](https://music.apple.com), [**Amazon Music**](https://music.amazon.com) |
+| 4 | Metadata/community databases | [**MusicBrainz**](https://musicbrainz.org), [**Discogs**](https://www.discogs.com), [**VGMdb**](https://vgmdb.net) |
 
-First, you need to gather some basic information about the song. You may have discovered a track on platforms like [YouTube](https://www.youtube.com) or [SoundCloud](https://soundcloud.com) and obtained the MP3 from there. More often than not, you already know which song you want to map, or you've come across something interesting while browsing.
+Existing ranked beatmaps can also be used as a reference for cross-checking. However, be cautious as they may be outdated or incorrect. Always verify against official sources when possible.
 
-If you don't recognise the song, you can try identifying it using a music recognition app such as [Shazam](https://www.shazam.com) or [SoundHound](https://music.soundhound.com/soundhound). These tools can identify songs based on a short audio sample. If the song is recognised, the app will provide you with the title, artist and sometimes even album information.
-
-If the song remains unidentified, try searching using any lyrics you remember or by describing its characteristics (e.g., genre, mood, instrumentation) in a search engine. This approach can sometimes lead you to forums, music communities, or social media threads where others have successfully identified the track. Alternatively, you can upload a recording to platforms like [Reddit's r/NameThatSong](https://www.reddit.com/r/NameThatSong/) or [WatZatSong](https://www.watzatsong.com), where music enthusiasts can help identify it for you.
-
-If you've successfully identified the song or already know what you're looking for, the next step is to dig deeper and find accurate metadata through targeted searching.
-
-## Collecting metadata
-
-Basically speaking, finding metadata is a process of searching for the song's information on the internet. You can start with general-purpose search engines like [Google](https://www.google.com), [Bing](https://www.bing.com) or [Yandex](https://yandex.com) to locate official titles, artists and other relevant details.
-
-When searching, try using the specific keywords you already know, such as a lyric snippet, a presumed song title, the artist's name or any other unique identifiers. For music that isn't too obscure, top search results will typically lead you to official release pages or major streaming sources.
-
-Please note that finding metadata is often an iterative process rather than a single search. The following tips can help you refine your approach and increase the chances of finding accurate information:
-
-- **Vary your keyword combinations**: If your initial search doesn't yield the desired results, try different combinations of keywords or explore related search terms. For example, if you know the song is from a particular anime, game, or film, include that title in your search query to narrow down the results.
-- **Follow the trail**: One source can often lead you to another, more authoritative source. A streaming platform page might link to the artist's official website or social media, which can provide more comprehensive and reliable metadata.
-- **Build on what you find**: Use information uncovered in one search as keywords for the next. For example, if your initial search reveals the song's album name but not the artist, use that album name as a new keyword to find the artist. Each piece of discovered information becomes a tool to uncover the next.
-
-## Common Sources
-
-Once you've located potential sources, it's best to consult authoritative references to ensure accuracy. Below is a list of reliable options, categorised by their function and sorted by priority:
-
-### 1. Official & Primary Sources
-
-These are the most reliable sources, as the information comes directly from the artist or copyright holder.
-
-- **Album Liner Notes & Digital Booklets:** For physical or digital album purchases, the included liner notes are the definitive source.
-- **Artist's Official Website & Social Media:** Artists often post release details, track listings and clarify information about different versions or remixes themselves. This is also crucial for identifying the original context of a song (e.g., a commercial, a web series) when it's not tied to a major game, anime or film. Official Websites can usually be found through a simple search, while social media platforms like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com) may offer direct insights from artists or their management.
-- **Official Music Videos & Lyric Videos:** These usually contain accurate metadata in their descriptions, and the video itself can confirm the song's title and artist. Common platforms for such content include [YouTube](https://www.youtube.com) and [Niconico](https://nicovideo.jp).
-
-### 2. Official Digital Distribution Platforms
-
-Metadata from these platforms is supplied directly by record labels and distributors, making it highly reliable for standard commercial releases.
-
-- **Global/English:**
-  - [**Bandcamp**](https://bandcamp.com): Excellent for independent artists, niche genres, and often includes detailed info directly from the creator. Since artists have direct control over their Bandcamp pages, information found here is often as authoritative as their official website.
-  - [**SoundCloud**](https://soundcloud.com): A platform for independent artists and remixes. Many artists use SoundCloud to upload demos, alternate versions, or tracks that may not receive a commercial release. Official artist accounts can be treated as primary sources.
-- **Regional Specialists:**
-  - *For Japanese Music:* [**Ototoy**](https://ototoy.jp) (ideal for independent, doujin, anime, and Hi-Res music), [**Mora**](http://mora.jp).
-  - *For Korean Music:* [**Melon**](https://melon.com), [**Genie**](https://genie.co.kr), [**Bugs**](https://bugs.co.kr) (the dominant local platforms).
-
-### 3. Music Services & Streaming Platforms
-
-These platforms are widely used and can provide a quick reference for popular music. However, they may not always have the most accurate metadata, especially for niche genres or non-mainstream releases. Always cross-reference with official sources when using these platforms.
-
-- [**Spotify**](https://open.spotify.com): A major global streaming service with a vast catalog.
-- [**YouTube Music**](https://music.youtube.com): Similar to Spotify in terms of reliability; often includes user-uploaded content alongside official releases.
-- [**iTunes**](https://music.apple.com) / [**Apple Music**](https://music.apple.com): iTunes functions as a digital store (purchase-based), while Apple Music is a streaming service. Cross-referencing with other sources is still recommended.
-- [**Amazon Music**](https://music.amazon.com): A major global storefront and streaming platform.
-
-### 4. Music Metadata & Community Databases
-
-These platforms are built specifically for collecting and organising release information. They are invaluable for cross-referencing and finding details for non-mainstream music.
-
-- [**MusicBrainz**](https://musicbrainz.org): An open encyclopedia of music metadata. It's highly structured and aims to be a definitive authority.
-- [**Discogs**](https://www.discogs.com): A comprehensive crowdsourced database of physical and digital releases. Excellent for finding various editions, label details, and catalog numbers.
-- [**VGMdb**](https://vgmdb.net): A specialised database dedicated to video game and anime music. It is the go-to source for soundtracks and related works. Creating a free account on VGMdb also allows you to access user-submitted scans of CD booklets, obi strips, and disc faces, providing a level of detail that approaches the physical product itself.
-
-### 5. Other Ranked Beatmaps
-
-Checking the metadata of already ranked maps for the same song can be a useful shortcut. However, always verify the information against one of the official sources listed above to ensure its accuracy.
-
-## Practical tips for navigating foreign language sites
-
-When searching for metadata, you will often encounter websites in languages you do not understand. This can be intimidating, but there are several simple techniques to navigate these pages effectively without knowing the language.
-
-### Use your browser's search feature
-
-The `Ctrl` + `F` (or `Cmd` + `F` on Mac) shortcut is your best friend. Once you land on a page, use it to search for keywords related to your song, for example:
-
-- song title in its original language.
-- common terms like "CD", "Music", "Tracklist", or "Discography". These words are often written in English even on sites in other languages.
-- any known information such as the artist's name, or album name.
-
-### Look for visual cues in URLs
-
-Before clicking any link, hover over it and look at the URL displayed in your browser's status bar (usually at the bottom left). Even if the link text might be in a language you don't understand, the URL often contains recognisable English words like "music", "goods", "discography", "cd", or "product". This can guide you to the right section of the site without needing to read the text.
+## Useful tips
 
 ### Use catalogue numbers for direct access
 
-Once you have identified a specific album or single, look for its **catalogue number**. This is a unique identifier assigned by the record label (e.g., "SRCL-8641~2" for a Sony Music release). Catalogue numbers can usually be found on databases like [VGMdb](https://vgmdb.net), [Discogs](https://www.discogs.com), or [MusicBrainz](https://musicbrainz.org).
+::: infobox
+![Catalog number example](img/catalog-number.png "Example of a catalog number on a CD release")
+:::
 
-Searching for this number directly (especially when combined with the label name) will often take you straight to the official product page on the label's or distributor's website, bypassing the need to navigate through menus in a foreign language.
+Once you have identified a specific album or single, look for its [**catalog number**](https://en.wikipedia.org/wiki/Catalog_number_(music)). This is a unique identifier assigned by the record label (e.g., "SRCL-8641~2" for a Sony Music release). Catalog numbers can usually be found on metadata databases mentioned before.
 
-## Source & Tags
+Searching for this number directly (especially when combined with the label name) will often take you straight to the official product page on the label's or distributor's website.
 
-When filling out metadata, two fields play a particularly important role: `Source` and `Tags`.
+### Navigating foreign-language sources
 
-The `Source` field should contain the original media the song was produced for, or the media it is most commonly associated with. This is often a game, anime, film, TV series, commercial or web series. If the song is a standalone single or not tied to any particular media, this field can be left blank. With all the information you've gathered, you should be able to fill out the `Source` field with confidence. If the song is associated with a specific media, make sure to use the official title of that media as it appears in your primary source.
+You can use the quick methods below when a source is not in your language:
 
-The `Tags` field, on the other hand, allows you to include [a set of keywords](/wiki/Beatmap/Beatmap_tags#mapper-tags) that further describe the beatmap. This can include:
+- Try to use browser auto-translate if available.
+- Use `Ctrl` + `F` / `Cmd` + `F` to find known names, titles, catalog numbers, or terms like "CD", "Music", "Tracklist", or "Discography".
+- Check URLs and hover over links for recognisable English words before opening pages.
 
-- Musical information: genres, instruments, mood (e.g., rock, piano, emotional)
-- Contextual information: related characters or series names, album name, remix information
-- Beatmap-specific information: difficulty characteristics, guest mapper usernames, contest names
+## Filling tags
+
+When filling metadata, `Tags` is one of the most important fields for discovery. Below are some common categories of tags that are highly recommended for use, depending on the beatmap's content:
+
+- Musical information: genres, instruments (e.g., rock, piano, vocal chop)
 - Additional credits: any artists not mentioned in the Artist field (e.g., featured vocalists, composers, remixers)
+- Contextual information: aliases, series/franchise names, character names, featured artists, album name, remix information
+- Beatmap-specific information: guest mapper usernames, contest names, hitsounders, storyboarders, etc.
 
-and more. The `Tags` field is crucial for helping players discover your beatmap through search and filtering, so it's important to include relevant, accurate, consistent and complete tags based on the information you've gathered.
+::: infobox
+![Example tag set](img/mapper-tags.png "Example of a tag set for a beatmap")
+:::
 
-### Specific topics
+For example, tags of beatmap [*流星群*](https://osu.ppy.sh/beatmapsets/1188437) can be broken down into the following groups:
 
-There are some specific topics that require special attention when filling out `Source` and `Tags` fields. The most well-known example is Touhou music (both original songs and doujin works). Here is a [Touhou Meta Checklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vSFppuvmorrCF0N90IXbI4fXYiGJEamAc1UAD3CYrsNstsMLd_KA4Pnqc3MdsQo1NkXrT26Yfeclijz/pubhtml?gid=532301260&single=true) which reflects community consensus on tagging conventions for Touhou-themed beatmaps. For other types of music, you can refer to the metadata of already ranked beatmaps for similar songs or by the same artist to get an idea of what tags are commonly used.<!--Source fields of Touhou music also require specific format.-->
+- Event involved: `mappers' guild`, `mpg`
+- Hitsounder: `ttmnzk`
+- Featured artist tag: `featured artist`, `fa`
+- Vocaloid: `vocaloid`, `hatsune miku`, `初音ミク`
+- Artist alias: `cametak`, `kamelcamellia`
+- Song title alias: `meteor shower`
+- Genre and language: `dnb`, `drum and bass`, `electronic`, `japanese`
+- Guest mappers: `celine`, `taku`, `voicecore`
+
+### Touhou-specific conventions
+
+Touhou metadata has widely used community conventions. The checklist[^touhou-checklist] can be summarised as follows:
+
+Necessary ones:
+
+| Tag group | Example | Notes |
+| :-- | :-- | :-- |
+| media name | `touhou` |  |
+| media type | `video game` |  |
+| original song name | `Gensokyo Millenium 千年幻想郷　～ History of the Moon` |  |
+| character name | `八意 永琳 eirin yagokoro` | add if the track is a boss theme |
+| vocalist for vocal arrangements | `ランコ ranko` |  |
+| album name | `TOHO COMPLETE BOX` |  |
+| franchise alias | `東方project` |  |
+
+Highly recommended additional ones:
+
+| Tag group | Example(s) | Notes |
+| :-- | :-- | :-- |
+| creator/label credit | `ZUN Team Shanghai Alice` |  |
+| event/convention name | `comiket c85`, `reitaisai` |  |
+| characters involved | `marisa`, `alice` | characters in music or background |
+| fan alias | `2hu` | Which means "Touhou" |
+| arranger name | `パインツリー` |  |
+| game number | `th8` | abbreviation for "Touhou 8" |
+| stage number | `st1` | abbreviation for "Stage 1", add if the track is a stage theme |
+| shortened game name | `in` | abbreviation for "Imperishable Night" |
+| romaji for text after `touhou` in `Source` | `eiyashou` | Which means "東方永夜抄" (game name) |
+
+Here's an example of a tag set:
+
+`japanese metal touhou 8 th8 video game Gensokyo Millenium 千年幻想郷　～ History of the Moon 八意 永琳 eirin yagokoro ランコ ranko TOHO COMPLETE BOX 東方project ZUN Team Shanghai Alice comiket 85 c85 2hu パインツリー in`
 
 ## Adhering to the Ranking Criteria
 
 Please note that all metadata must comply with the detailed provisions outlined in the [Ranking Criteria](/wiki/Ranking_criteria) during the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). The [Metadata section](/wiki/Ranking_criteria/Metadata) of the Ranking Criteria provides specific rules and guidelines, particularly for handling different versions of songs, various languages, character sets, and special symbols. It also covers edge cases such as situations where romanisations of the song's title and artist cannot be found.
 
-## References
+## Notes
 
-[^metadata]: For more information, see [Metadata - Wikipedia](https://en.wikipedia.org/wiki/Metadata).
+[^touhou-checklist]: The original checklist can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSFppuvmorrCF0N90IXbI4fXYiGJEamAc1UAD3CYrsNstsMLd_KA4Pnqc3MdsQo1NkXrT26Yfeclijz/pubhtml).
