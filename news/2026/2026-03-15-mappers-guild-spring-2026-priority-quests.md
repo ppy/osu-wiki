@@ -51,7 +51,7 @@ To complete this quest, follow these steps:
 
 You may have heard tales of a mysterious "[Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)" where mappers create maps with specific requirements each month. Legends say it'll come back soon, but in the meantime, this quest might satisfy the same itch.
 
-This ~~contest's~~ quest's limitation: **the mapset's highest difficulty cannot have more than 3 of the same [hit object](/wiki/en/Gameplay/Hit_object) types in a row.** Rank this map to complete the quest!
+This ~~contest's~~ quest's limitation: **the mapset's highest difficulty cannot have more than 3 of the same [hit object](/wiki/Gameplay/Hit_object) types in a row.** Rank this map to complete the quest!
 
 For clarity, here are some examples of what this limitation allows/disallows per mode:
 
