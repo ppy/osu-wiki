@@ -44,15 +44,11 @@ jobs:
         if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         run: npm ci
 
-      - name: set up Python
-        uses: actions/setup-python@v5
-        with:
-          cache: pip
-          cache-dependency-path: requirements.txt
-          python-version: "3.11"
+      - name: Install package manager (Python)
+        uses: astral-sh/setup-uv@v7
 
-      - name: set up Python CI dependencies
-        run: pip install -r requirements.txt
+      - name: Install dependencies (Python)
+        run: uv sync
 
       - name: detect changed files
         id: detect-changed-files
@@ -74,9 +70,9 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
-        run: osu-wiki-tools check-yaml
+        run: uv tool run osu-wiki-tools check-yaml --format github
 
       - name: find broken wikilinks
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
-        run: osu-wiki-tools check-links --all
+        run: uv tool run osu-wiki-tools check-links --all --format github

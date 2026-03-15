@@ -40,7 +40,7 @@ tags:
 | Organisers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Admins | ::{ flag=PL }:: [Daria Maria](https://osu.ppy.sh/users/10806219), ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=AT }:: [FCnt](https://osu.ppy.sh/users/7336729) |
 | Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
-| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
+| Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
 | Playtesters | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=RU }:: [nejzha](https://osu.ppy.sh/users/8105138) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
@@ -202,6 +202,7 @@ tags:
 - In the Round of 32, players need to win 4 maps to win a match (best of 7).
 - In the Round of 16, players need to win 5 maps to win a match (best of 9).
 - In the Quarterfinals and Semifinals, players need to win 6 maps to win a match (best of 11).
+  - In the Lower Bracket Round 1, players need to win 6 maps to win a match (best of 11). All other Lower Bracket matches are best of 13.
 - In the Finals and Grand Finals, players need to win 7 maps to win a match (best of 13).
 
 ### Bracket stage procedure
@@ -214,7 +215,7 @@ tags:
 6. Players will `!roll` in matches. The winner may choose between a pick or ban order, and the other player may choose the remaining order.
 7. Players have 1 ban from Round of 32 to Round of 16 and 2 bans throughout the rest of bracket stage.
    - Ban order is ABBA, and all bans must happen at the start of the match.
-8. Players will be allowed 120 seconds to either pick or ban and 120 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
+8. Players will be allowed 90 seconds to either pick or ban and 90 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
    - First occurrence:
      - A 30-second extension is given along with a verbal warning.
 If a player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.

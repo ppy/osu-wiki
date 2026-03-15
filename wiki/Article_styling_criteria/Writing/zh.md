@@ -230,11 +230,12 @@ osu! 通常需要使用 `Z`、`X` 和鼠标来游玩，而 Dean Herbert（也称
 
 ### 嵌入链接
 
-在文章段落中，提及另一篇文章的大标题、提及本文中的另一段落的小标题，以及嵌入其他非 wiki 的链接以便于跳转时，最好使用与链接目标一致的标题称呼，以便于理解。有时为了更好的可读性，也可以对标题进行适当调整，或使用引导性的文字替换。好的例子：
+在文章段落中，提及另一篇文章的大标题、提及本文中的另一段落的小标题，以及嵌入其他非 wiki 的链接以便于跳转时，最好使用与链接目标一致的标题称呼，以便于理解。大标题与小标题连贯出现时，请在两者之间使用“§”符号，以表示文章与章节的关系。有时为了更好的可读性，也可以对标题进行适当调整，或使用引导性的文字替换。
+
+以下是一些好的例子：
 
 ```markdown
-- 如需了解更多信息，请参阅[文章风格规范/排版](/wiki/Article_styling_criteria/Formatting)。
-- 玩家通常在谱面讨论页[发表意见和建议](/wiki/Beatmap_discussion)。
+- 如需了解更多信息，请参阅[文章风格规范 § 排版](/wiki/Article_styling_criteria/Formatting)。
 - 两个模式中的滚动速度由[滑条速度 (slider velocity)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)决定，其依赖于 [BPM](/wiki/Music_theory/Tempo) 与滑条速度倍率。除此之外，在 osu!mania 模式中，玩家可以[自己调整](/wiki/Game_mode/osu!mania#速度变化)它。
 - 公告系统的[基本实现](https://github.com/ppy/osu-web/pull/8418)于 2022 年 1 月 26 日添加到网站。
 - 此文章是[这篇主文章](/wiki/osu!_wiki/Contribution_guide)内容的后续。

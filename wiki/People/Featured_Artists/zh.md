@@ -4,7 +4,7 @@ tags:
   - 精选艺术家
   - 艺术家
 outdated_translation: true
-outdated_since: 61497359a4e925d13b23820ffe474ca1a1e44ae5
+outdated_since: 4a57d1720d1bc5b89b904b0d0f3d29020d32e9df
 ---
 
 # 精选艺术家
@@ -92,6 +92,7 @@ outdated_since: 61497359a4e925d13b23820ffe474ca1a1e44ae5
 | ::{ flag=LV }:: [hikota](https://osu.ppy.sh/users/12946286) | [hikota](https://osu.ppy.sh/beatmaps/artists/463) |
 | ::{ flag=US }:: [hornshoes](https://osu.ppy.sh/users/4057967) | [Strelitzia](https://osu.ppy.sh/beatmaps/artists/421) (member of) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
+| ::{ flag=US }:: [Juztan](https://osu.ppy.sh/users/14272451) | [Juztan](https://osu.ppy.sh/beatmaps/artists/531) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=US }:: [Kardashevband](https://osu.ppy.sh/users/33736126) | [Kardashev](https://osu.ppy.sh/beatmaps/artists/375) (member of) |
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
@@ -108,6 +109,7 @@ outdated_since: 61497359a4e925d13b23820ffe474ca1a1e44ae5
 | ::{ flag=US }:: [Ludicin](https://osu.ppy.sh/users/8659666) | [Ludicin](https://osu.ppy.sh/beatmaps/artists/459) |
 | ::{ flag=JP }:: [Matrix](https://osu.ppy.sh/users/5052899) | [cygnus](https://osu.ppy.sh/beatmaps/artists/359) |
 | ::{ flag=US }:: [Memodemo](https://osu.ppy.sh/users/7393582) | [MEMODEMO](https://osu.ppy.sh/beatmaps/artists/508) |
+| ::{ flag=JP }:: [MIDInco](https://osu.ppy.sh/users/3809507) | [MIDInco](https://osu.ppy.sh/beatmaps/artists/515) |
 | ::{ flag=US }:: [MintyDoggo](https://osu.ppy.sh/users/10416815) | [Myntian](https://osu.ppy.sh/beatmaps/artists/495) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
