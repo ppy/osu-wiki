@@ -2,7 +2,7 @@
 
 [谱师公会](/wiki/Community/Mappers_Guild)的成员有时会使用 osu! 尚未发布的[精选艺术家](/wiki/People/Featured_Artists)的歌曲及其他素材，创作专属的"展示谱面"。在相应精选艺术家公布时，这些谱面会在[新闻帖](https://osu.ppy.sh/home/news)中重点展示，并常常同时在 [@osugame Twitter 账户](https://twitter.com/osugame)上进行推广。
 
-若要参与精选艺术家展示谱面的创作，谱师公会成员必须接受一个[限时神秘任务](/wiki/Community/Mappers_Guild#quests)，或由 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 直接邀请。
+若要参与精选艺术家展示谱面的创作，谱师公会成员必须接受一个[限时神秘任务](/wiki/Community/Mappers_Guild#任务)，或由 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 直接邀请。
 
 本文按时间顺序列出了由谱师公会成员创作的所有展示谱面。
 
