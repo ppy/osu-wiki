@@ -7,7 +7,7 @@ series: community_tournaments
 
 Taking inspiration from [osu!taiko Mapping World Cup 2025](https://osu.ppy.sh/home/news/2025-07-20-osu-taiko-mapping-world-cup-2025-registrations), the osu!mania Mapping World Cup is set to debut this year with its first iteration!
 
-![](/wiki/Contests/MMWC/2026/img/banner.jpg)
+![](/wiki/shared/news/2026-03-15-osumania-mapping-world-cup-2026-registrations/banner.jpg)
 
 The osu!mania Mapping World Cup is a country-based, multi-stage osu!mania mapping contest. Countries will battle it out over multiple rounds of mapping, completing specific limitations along the way, to decide what country is the undisputed best at producing osu!mania beatmaps.
 
