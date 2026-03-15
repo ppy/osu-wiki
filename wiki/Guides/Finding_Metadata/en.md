@@ -28,8 +28,8 @@ Metadata keywords can be used as filters in [song select](/wiki/Client/Interface
 Use sources in the order detailed in the table below whenever possible. The goal is to confirm final values from the most authoritative source available, then use lower-priority sources for cross-checking only.
 
 | Priority | Source type | Examples |
-| :-- | :-- | :-- | :-- |
-| 1 | Official/primary sources | Album liner notes and digital Booklets, artist's official website and social medias like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com), official music videos and lyric videos on platforms like [YouTube](https://youtube.com) and [Niconico](https://nicovideo.jp) |
+| :-- | :-- | :-- |
+| 1 | Official/primary sources | Album liner notes and digital booklets, artist's official website and social medias like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com), official music videos and lyric videos on platforms like [YouTube](https://youtube.com) and [Niconico](https://nicovideo.jp) |
 | 2 | Official distribution platforms | [Bandcamp](https://bandcamp.com), [SoundCloud](https://soundcloud.com) for global or English releases, [Ototoy](https://ototoy.jp), [Mora](http://mora.jp) for Japanese releases, [Melon](https://melon.com), [Genie](https://genie.co.kr), [Bugs](https://bugs.co.kr) for Korean releases |
 | 3 | Music services/streaming platforms | [Spotify](https://open.spotify.com), [YouTube Music](https://music.youtube.com), [Apple Music](https://music.apple.com), [Amazon Music](https://music.amazon.com) |
 | 4 | Metadata/community databases | [MusicBrainz](https://musicbrainz.org), [Discogs](https://www.discogs.com), [VGMdb](https://vgmdb.net) |
