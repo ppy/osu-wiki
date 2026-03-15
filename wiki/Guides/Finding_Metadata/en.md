@@ -82,7 +82,7 @@ For example, the tags of [ak74's beatmap of *Camellia - 流星群*](https://osu.
 
 ### Touhou-specific conventions
 
-Touhou metadata has widely used community conventions. The checklist[^touhou-checklist] can be summarised as follows:
+Touhou metadata has widely used community conventions. The [checklist](https://docs.google.com/spreadsheets/d/e/2PACX-1vSFppuvmorrCF0N90IXbI4fXYiGJEamAc1UAD3CYrsNstsMLd_KA4Pnqc3MdsQo1NkXrT26Yfeclijz/pubhtml) can be summarised as follows:
 
 Necessary ones:
 
@@ -117,7 +117,3 @@ Here's an example of a Touhou tag set:
 ## Adhering to the Ranking Criteria
 
 Please note that all metadata must comply with the detailed provisions outlined in the [Ranking Criteria](/wiki/Ranking_criteria) during the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). The [Metadata section](/wiki/Ranking_criteria/Metadata) of the Ranking Criteria provides specific rules and guidelines, particularly for handling different versions of songs, various languages, character sets, and special symbols. It also covers edge cases such as situations where romanisations of the song's title and artist cannot be found.
-
-## Notes
-
-[^touhou-checklist]: The original checklist can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSFppuvmorrCF0N90IXbI4fXYiGJEamAc1UAD3CYrsNstsMLd_KA4Pnqc3MdsQo1NkXrT26Yfeclijz/pubhtml).
