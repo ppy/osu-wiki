@@ -15,7 +15,7 @@ Open the osu! tournament client and you will see this setup screen:
 ![osu! tournament client setup screen](img/setup-screen.png)
 
 - Make sure the `Current IPC source` matches the location of the osu!tourney instance that you will be using.
-- Log in to osu!(lazer) by clicking on `Change Login`.
+- Log in to osu!(lazer) by clicking on `Change sign-in`.
 - Set the correct ruleset using the dropdown menu.
 - Change the height to match the `Height` set in the `tournament.cfg` file of osu!tourney.
 
@@ -31,6 +31,12 @@ Inside a tournament configuration the necessary assets can be supplied to displa
   - Flags
   - Mods
   - Videos
+
+Then use tools inside the osu! tournament client to manage the details.
+
+- Use `Team Editor` to manage teams and players.
+- Use `Rounds Editor` to manage rounds and mappools.
+- Use `Bracket Editor` to create new matches and manage the teams, rounds, and time for each match.
 
 ## Customisation
 
@@ -67,11 +73,13 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | Scene | File(s) |
 | :-- | :-- |
 | Schedule | `schedule` |
-| TeamIntro | `teamintro` |
+| Bracket | `ladder` |
+| Team Intro | `teamintro` |
 | Seeding | `seeding` |
-| MapPool | `mappool` |
+| Map Pool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
+| Drawings | `drawings` |
 | Showcase | `showcase` |
-| Bracket | `ladder` |
+
+The video file named `main` will be used as the default background until it is replaced by one of the video files listed above.
