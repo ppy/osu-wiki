@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 87623af116fd08761c852c096d9497ebc8d1beb9
----
-
 # Torneos
 
 Sección dedicada para torneos de osu!. Los torneos tienen su foro dedicado que puede encontrarse [a través de este enlace](https://osu.ppy.sh/community/forums/55).
@@ -665,6 +660,12 @@ Torneos/competiciones no oficiales organizados por las comunidades.
 | [Taiko 2v2 Convert Tourney v2](TCT/v2) | 2/5/2020 | 7/6/2020 | 87 (::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) | Tacos and Schabowy (::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) | j h q w 2 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
 | [Taiko 2v2 Convert Tourney v3](TCT/v3) | 6/5/2021 | 20/6/2021 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
 | [Taiko Convert Tournament v4](TCT/v4) | 5/6/2022 | 31/7/2022 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
+
+#### Taiko Frontier
+
+| Nombre | Inicio | Final | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Blaze Killing Taiko Frontier](Taiko_Frontier/BKTF_1) | 4/10/2025 | 23/11/2025 | **寿命** (::{ flag=JP }:: **[makaki](https://osu.ppy.sh/users/21893710)**, ::{ flag=JP }:: [nuku0315](https://osu.ppy.sh/users/8772103), ::{ flag=VN }:: [njshift1](https://osu.ppy.sh/users/16688499)) | **The King's Guard** (::{ flag=NO }:: **[Nurend Fanboy](https://osu.ppy.sh/users/18916920)**, ::{ flag=NO }:: [Vendelicious](https://osu.ppy.sh/users/8818089), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142)) | **DaiKiu volviste a tomar temporada 4** (::{ flag=CL }:: **[DaiKiu](https://osu.ppy.sh/users/4232665)**, ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=AU }:: [Necromancy](https://osu.ppy.sh/users/1890084)) |
 
 #### Taiko Last Man Standing
 
