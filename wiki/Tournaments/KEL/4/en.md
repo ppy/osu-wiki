@@ -215,7 +215,7 @@ tags:
 6. Players will `!roll` in matches. The winner may choose between a pick or ban order, and the other player may choose the remaining order.
 7. Players have 1 ban from Round of 32 to Round of 16 and 2 bans throughout the rest of bracket stage.
    - Ban order is ABBA, and all bans must happen at the start of the match.
-8. Players will be allowed 120 seconds to either pick or ban and 120 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
+8. Players will be allowed 90 seconds to either pick or ban and 90 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
    - First occurrence:
      - A 30-second extension is given along with a verbal warning.
 If a player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
