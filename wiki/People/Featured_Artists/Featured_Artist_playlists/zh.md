@@ -5,7 +5,7 @@ tags:
 
 # 精选艺术家歌单
 
-**精选艺术家歌单**发布在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中，汇集了所有[游戏模式](/wiki/Game_mode)下的[精选艺术家](/wiki/People/Featured_Artists)内容。歌单没有固定格式，因此每期的歌单参数、谱面选择及奖励标准均有所不同。
+**精选艺术家歌单**于 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 发布，汇集了所有[游戏模式](/wiki/Game_mode)下的[精选艺术家](/wiki/People/Featured_Artists)内容。歌单没有固定形式，因此每期的歌单参数、谱面选择及奖励标准均有所不同。
 
 ![精选艺术家歌单大厅](img/playlist.jpg "osu!(lazer) 精选艺术家歌单大厅")
 

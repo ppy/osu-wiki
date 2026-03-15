@@ -25,7 +25,7 @@ tags:
 | 项目领导 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | 项目管理 | ::{ flag=AU }:: [Crumpey](https://osu.ppy.sh/users/3518705)，::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850) |
 
-每期谱面聚光灯发布时，专门的策展人团队都会集结起来。团队带头人已标注为粗体。
+每期谱面聚光灯发布时，专门的策展人团队都会集结起来。团队带头人使用粗体标出。
 
 ### osu! 策展人
 

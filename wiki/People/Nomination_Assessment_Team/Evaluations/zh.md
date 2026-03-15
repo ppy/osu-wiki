@@ -2,7 +2,7 @@
 
 *另请参阅：[成为 BN § 申请流程](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#bn-申请流程)*
 
-无论是针对[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 申请者的评估，还是在职谱面审核成员的定期评估，均由[审核评估团队](/wiki/People/Nomination_Assessment_Team) (*NAT*) 成员执行。这些评估遵循固定的格式，以确保每位申请者和在职成员都能得到定期审查。所有评估均在 [BN 网站](https://bn.mappersguild.com/)上进行。
+无论是针对[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 申请者的评估，还是在职谱面审核成员的定期评估，均由[审核评估团队](/wiki/People/Nomination_Assessment_Team) (*NAT*) 成员执行。这些评估遵循固定的形式，以确保每位申请者和在职成员都能得到定期审查。所有评估均在 [BN 网站](https://bn.mappersguild.com/)上进行。
 
 每次评估分为两个阶段：*个人阶段*和*集体阶段*。这两个阶段在申请的评估和在职 BN 的评估中的具体运作方式有所不同，下文将详细说明。
 
