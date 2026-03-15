@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: 45666dcba4c8fc2b438c48abcfb33a77d21f6ea4
----
-
 # BBCode
 
-**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forumsbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
+**BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forenbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
 
 ![Der Forum-Beitragseditor mit seinen Buttons](img/editor-DE.jpg?1 "Die Box zum Editieren in den Foren")
 
@@ -59,12 +54,10 @@ Das Tag `[u]` wird benutzt, um mit Hilfe einer horizontalen Linie Text hervorzuh
 ### Durchstreichen
 
 ```
-[strike]Text[/strike]
+[s]Text[/s]
 ```
 
-*Anmerkung: Im Englischen wird "strikethrough", also durchgestrichen, auch als "strike" bezeichnet.*
-
-Das Tag `[strike]` wird benutzt, um die Entfernung eines zuvor enthaltenen Text zu markieren. Die Kennzeichnung erfolgt durch eine horizontale Linie, die den Text durchstreicht.
+Das Tag `[s]` wird benutzt, um die Entfernung eines zuvor enthaltenen Text zu markieren. Die Kennzeichnung erfolgt durch eine horizontale Linie, die den Text durchstreicht. `[strike]` kann als Alias für dieses Tag verwendet werden.[^strike]
 
 Schaltfläche in der Symbolleiste: ![Button zum Durchstreichen](img/strike.png "Durchstreichen")
 
@@ -86,9 +79,16 @@ Das zuvor genannte Argument darf keine Anführungszeichen (`"`) enthalten und ha
 [size=NUMMER]Text[/size]
 ```
 
-Das Tag `[size]` wird benutzt, um Text durch verschiedene Schriftgrößen zu gestalten. Momentan werden vier Größen von der osu!-Webseite unterstützt: 50, 85, 100, und 150. Die Größen werden intern als "winzig", "klein", "normal" und "groß" entsprechend bezeichnet.
+Das Tag `[size]` wird benutzt, um Text durch verschiedene Schriftgrößen zu gestalten.
 
-Das Argument `NUMMER` akzeptiert keine Anführungszeichen und nimmt nur eine der vier unterstützten Größen an. Wenn eine Nummer eingeben wird, die nicht einer der vier unterstützten entspricht, dann wird die Textgröße auf den Standardwert zurückgesetzt.
+Das Argument `NUMMER` gibt die Größe relativ zur Standardschriftgröße (100 %) als Prozentwert an. Beispielsweise reduziert `50` die Größe um die Hälfte, während bei `150` die Schriftgröße 1,5-fach größer als die Standardgröße ist. Das Argument benötigt keine Anführungsstriche und unterstützt zwei Datentypen:
+
+- Natürliche Zahlen im Bereich von 30 bis 200
+- Vordefinierte Größenangaben: "tiny" (winzig), "small" (klein), "normal" und "large" (groß), die den Werten 50, 85, 100 und 150 entsprechen.
+
+Bei einem ungültigem Wert wird das Tag nicht dargestellt.
+
+In der Symbolleiste ist eine Schaltfläche zur Schnellauswahl der vier Größenangaben vorhanden.
 
 Schaltfläche in der Symbolleiste: ![Optionen bei der Schriftgröße](img/font-size-DE.png "Schriftgröße")
 
@@ -146,7 +146,7 @@ Das Tag `[quote]` wird benutzt, um lange Zitate stilistisch durch Einrückung, F
 
 Lange Zitate werden typischerweise in formalen Schreiben bei Texten verwendet, die länger als zwei Zeilen sind. Innerhalb der osu!-Foren werden sie allerdings meistens genutzt, um auf den Kommentar eines anderen Nutzers zu antworten. Das kann über den Button `Beitrag in der Antwort zitieren` in der rechten oberen Ecke des entsprechenden Kommentars gemacht werden (unten gezeigt). Dieser Button wird **nur erscheinen, wenn der Mauszeiger in der Nähe ist**.
 
-![Zitat-Button](img/quotereply.png)
+Zitat-Button: ![Zitat-Button](img/quotereply.png)
 
 ### Inline-Code
 
@@ -190,51 +190,73 @@ Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Es w
 
 Das Tag `[url]` wird benutzt, um normalen Text in einen anklickbaren Hyperlink zu verwandeln.
 
-*Anmerkung: Diesen Tag zu benutzen ist nicht notwendig, sollte man keine benutzerdefinierten Hyperlinks verwenden wollen, da der Forum-Editor richtige URLs automatisch verarbeitet.*
+*Anmerkung: Dieses Tag zu benutzen ist nicht notwendig, sollte man keine benutzerdefinierten Hyperlinks verwenden wollen, da der Forum-Editor richtige URLs ohne das Tag `[url]` automatisch verarbeitet.*
 
-Benutzer müssen zwei Argumente spezifizieren, um Hyperlinks mit dem Tag `[url]` zu erstellen: der verlinkte Text, der angezeigt wird, und die spezifische URL, auf die verlinkt wird. Das erste muss zwischen dem öffnenden sowie dem schließenden Tag gesetzt werden. Das zweite muss im Argument `LINK` ohne Anführungszeichen (`"`) spezifiziert werden. Wenn kein Text spezifiziert wird, dann wird der Text die URL als Standardwert haben.
+Benutzer müssen zwei Argumente spezifizieren, um Hyperlinks mit dem Tag `[url]` zu erstellen: die spezifische URL, auf die verlinkt wird, und der verlinkte Text, der angezeigt wird. Das Erste muss im Argument `LINK` ohne Anführungszeichen (`"`) spezifiziert werden. Das Zweite muss zwischen dem öffnenden sowie dem schließenden Tag gesetzt werden. Wenn kein Anzeigetext definiert wird, dann wird der Hyperlink nicht korrekt dargestellt.
+
+`[url]LINK[/url]` wird auch unterstützt, ist aber redundant, da normale URLs automatisch formatiert werden.
+
+*Hinweis: Alle URLs — egal, ob mit dem Tag `[url]` genutzt oder als reiner Text — müssen gültig sein und ein Protokoll (`http://`, `https://`, `ftp://`) oder das Präfix `www.` enthalten. Ansonsten funktioniert der Link nicht.*
 
 Schaltfläche in der Symbolleiste: ![Button für die URL](img/url.png "URL")
 
 ### Profil
 
 ```
-[profile=userid]Benutzername[/profile]
+[profile=NUTZER_ID]BENUTZERNAME[/profile]
 ```
 
-Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angezeigt wird, sobald der Mauszeiger über den Link fährt.
+Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angezeigt wird, sobald man mit dem Mauszeiger über den Link fährt.
+
+Um einen Profillink anzulegen, müssen Nutzer zwei Argumente angeben: Die numerische ID des Nutzers und seinen Nutzernamen. Das Erste wird mit dem Argument `NUTZER_ID` (ohne Anführungsstriche) festgelegt. Das Zweite wird zwischen das öffnende und das schließende Tag platziert.
+
+Es wird empfohlen, sowohl die korrekte Nutzerkennung als auch den Benutzernamen anzugeben. Das stellt sicher, dass der Link auch dann funktioniert, wenn sich später der Benutzername ändert. Wenn nur der Nutzername hinterlegt wird, dann funktioniert der Link nicht mehr, sobald sich der Name ändert.
+
+Bei der Verwendung des Tags im Forum, für Signaturen oder in Beatmapbeschreibungen kann die osu!-Webseite das Tag auch dann korrekt anzeigen, wenn entweder nur der `BENUTZERNAME` ungültig ist oder die `NUTZER_ID` ungültig ist/fehlt. Wenn man *entweder* nur die Nutzerkennung *oder* den Nutzernamen kennt, kann man so schnell Profillinks einfügen, ohne beide Informationen nachschauen zu müssen.
 
 *Anmerkung: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
-
-Wenn nur die Benutzer-ID verwendet wird, dann ist ein Platzhaltertext zwischen dem öffnenden sowie schließenden Tag erforderlich. Dadurch wird der Benutzername anstatt des Platzhaltertexts auf der eigentlichen Seite angezeigt. Sofern nur der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, funktioniert der Link nicht mehr.
 
 ### Formatierte Listen
 
 ```
-[list=TYP]
+[list] LISTEN_NAME
 [*]Punkt 1
 [*]Punkt 2
 [*]Punkt 3
 [/list]
 ```
 
-Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um einen neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
+oder
+
+```
+[list=TYP] LISTEN_NAME
+[*]Punkt 1
+[*]Punkt 2
+[*]Punkt 3
+[/list]
+```
+
+Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Jeder neue Punkt in der Liste wird durch einen Stern in eckigen Klammern (`[*]`) markiert. Standardmäßig wird eine einfache Aufzählungsliste generiert.
 
 Wenn das Argument `TYP` spezifiziert wird (der tatsächliche Wert spielt keine Rolle), wird eine nummerierte Liste erstellt.
 
-*Hinweis: BBCode-formatierte Listen können aufeinander gestapelt und ineinander verschachtelt werden. Manchmal kann das jedoch zu Fehlern in der Formatierung führen.*
+Das optionale Argument `LISTEN_NAME` fügt einen entsprechenden Titel über der Liste ein. Wird das Argument weggelassen, wird kein Titel angezeigt.
 
-Schaltfläche in der Symbolleiste: ![Button für Listen](img/list.png "Liste") ![Button für nummerierte Listen](img/list-numbered.png "Nummerierte Liste")
+*Hinweis: BBCode-Listen können aufeinander gestapelt und ineinander verschachtelt werden. Manchmal kann das jedoch zu Fehlern in der Formatierung führen.*
+
+Schaltflächen in der Symbolleiste: ![Button für Listen](img/list.png "Liste") ![Button für nummerierte Listen](img/list-numbered.png "Nummerierte Liste")
 
 ### E-Mail
 
 ```
-[email=ADRESSE]text[/email]
+[email=ADRESSE]Text[/email]
 ```
 
 Das Tag `[email]` erstellt einen anklickbaren Hyperlink, der eine neue E-Mail im standardmäßigen E-Mail-Programm mit bereits ausgefülltem Adressfeld anlegt.
 
-Um einen Link zu kreieren, müssen zwei Argumente definiert werden: das Argument `ADRESSE` muss einer validen E-Mail-Adresse entsprechen, wohingegen `text` der dargestellte Text ist, der als Hyperlink dient. Wenn das Argument `text` nicht spezifiziert wird, wird der Hyperlink nicht korrekt erstellt.
+Um einen Link mit dem Tag `[email]` zu kreieren, müssen zwei Argumente definiert werden: das Argument `ADRESSE` muss einer validen E-Mail-Adresse (ohne Anführungsstriche) entsprechen, wohingegen `TEXT` der dargestellte Text ist, der als Hyperlink dient. Wird kein Anzeigetext angegeben, wird der Hyperlink nicht korrekt angezeigt.
+
+`[email]ADRESSE[/email]` wird auch unterstützt, ist aber redundant, da E-Mails automatisch formatiert werden.
 
 ### Bilder
 
@@ -345,13 +367,26 @@ Das Tag `[lucky]` ist ein veraltetes Tag, das früher verwendet wurde, um in den
 
 Das Tag *Überschrift (v2)* ist ein nicht mehr aktuelles Tag, das früher in den osu!-Foren benutzt wurde, um Text in eine schicker aussehende violette Überschrift mit einer horizontalen Linie zu formatieren. Das Tag hat nur in den Beatmap-Foren funktioniert und erschien nur nach der Beitragsveröffentlichung (nicht in der Vorschau). Es gab dafür keinen Button während die Überschrift zur Verfügung stand und wurde durch eine öffnende sowie eine schließende eckige Klammer (kein öffnendes sowie schließendes Tag) markiert.
 
+## Tools
+
+Diese Programme vereinfachen die Textformatierung mit BBCode:
+
+| Name | Projektleiter | Beschreibung |
+| :-: | :-: | :-- |
+| [OSUWME](https://osu.ppy.sh/community/forums/topics/2029947) | ::{ flag=ID }:: [rezzvy](https://osu.ppy.sh/users/8804560) | BBCode-Editor mit einer Echtzeitvorschau für osu!-Profile |
+| [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | BBCode-Editor mit einer Echtzeitvorschau für osu!-Profile (archiviert) |
+| [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[_____________]](https://osu.ppy.sh/users/12036908) | Erstelle Farbverläufe für osu!-Profile |
+| [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Browsererweiterung, die weitere BBCode-Buttons und andere Funktionen zur osu!-Webseite hinzufügt |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | Textfärbung im BBCode- und HTML-Format |
+
 ## Trivia
 
-- Dieser Wikiartikel wurde adaptiert aus dem Forumsbeitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
+- Dieser Wikiartikel wurde ursprünglich adaptiert aus dem Forenbeitrag ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) von [Stefan](https://osu.ppy.sh/users/626907).
 - Es gab einen Bug, der Nutzern erlaubte, den Text transparent zu machen durch die Benutzung des [Farb-Tags](#farbe) und die Beschriftung "transparent" nach dem Gleichheitszeichen (`=`).
   - Der Text wird heute zu der Standardfarbe (weiß) zurückgesetzt, sobald das passiert.
 - Bevor das Tag `imagemap` hinzugefügt wurde, war es möglich, einen Hyperlink zu einem Bild hinzuzufügen, indem die Tags `url` und `img` kombiniert wurden. Jedoch kann nur ein Hyperlink pro Bild gesetzt werden. Dazu muss man das Originalbild in mehrere Teile zerschneiden (also für jeden Link ein Teilbild) und diese horizontal nebeneinander anordnen.
 
-## Referenzen
+## Anmerkungen und Referenzen
 
+[^strike]: Im Englischen wird "strikethrough", also durchgestrichen, auch als "strike" bezeichnet.
 [^imgur-blocked-ip]: [Tweet von @ppy (29.06.2023)](https://twitter.com/ppy/status/1674439849749913602)
