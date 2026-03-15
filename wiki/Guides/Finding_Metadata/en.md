@@ -25,11 +25,11 @@ Metadata keywords can be used as filters in [song select](/wiki/Client/Interface
 
 ## Source reliability
 
-Use sources in this order whenever possible. The goal is to confirm final values from the most authoritative source available, then use lower-priority sources for cross-checking only.
+Use sources in the order detailed in the table below whenever possible. The goal is to confirm final values from the most authoritative source available, then use lower-priority sources for cross-checking only.
 
 | Priority | Source type | Examples |
 | :-- | :-- | :-- | :-- |
-| 1 | Official/primary sources | Album liner notes and digital Booklets, artist's official website and social medias like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com), official music videos and lyric videos on platforms like [YouTube](https://youtube.com) and [Niconico](https://nicovideo.jp) |
+| 1 | Official/primary sources | Album liner notes and digital booklets, artist's official website and social medias like [Twitter](https://twitter.com), [Instagram](https://instagram.com), and [Facebook](https://facebook.com), official music videos and lyric videos on platforms like [YouTube](https://youtube.com) and [Niconico](https://nicovideo.jp) |
 | 2 | Official distribution platforms | [**Bandcamp**](https://bandcamp.com), [**SoundCloud**](https://soundcloud.com) for global or English releases, [**Ototoy**](https://ototoy.jp), [**Mora**](http://mora.jp) for Japanese releases, [**Melon**](https://melon.com), [**Genie**](https://genie.co.kr), [**Bugs**](https://bugs.co.kr) for Korean releases |
 | 3 | Music services/streaming platforms | [**Spotify**](https://open.spotify.com), [**YouTube Music**](https://music.youtube.com), [**Apple Music**](https://music.apple.com), [**Amazon Music**](https://music.amazon.com) |
 | 4 | Metadata/community databases | [**MusicBrainz**](https://musicbrainz.org), [**Discogs**](https://www.discogs.com), [**VGMdb**](https://vgmdb.net) |
@@ -61,11 +61,11 @@ You can use the quick methods below when a source is not in your language:
 When filling metadata, `Tags` is one of the most important fields for discovery. Below are some common categories of tags that are highly recommended for use, depending on the beatmap's content:
 
 - Musical information: genres, instruments (e.g., rock, piano, vocal chop)
-- Additional credits: any artists not mentioned in the Artist field (e.g., featured vocalists, composers, remixers)
+- Additional credits: any artists not mentioned in the `Artist` field (e.g., featured vocalists, composers, remixers)
 - Contextual information: aliases, series/franchise names, character names, featured artists, album name, remix information
 - Beatmap-specific information: guest mapper usernames, contest names, hitsounders, storyboarders, etc.
 
-For example, tags of beatmap [*流星群*](https://osu.ppy.sh/beatmapsets/1188437) can be broken down into the following groups:
+For example, the tags of [ak74's beatmap of *Camellia - 流星群*](https://osu.ppy.sh/beatmapsets/1188437) can be broken down into the following groups:
 
 ::: infobox
 ![Example tag set](img/mapper-tags.png "Tag set for 流星群")
@@ -88,27 +88,27 @@ Necessary ones:
 
 | Tag group | Example | Notes |
 | :-- | :-- | :-- |
-| media name | `touhou` |  |
-| media type | `video game` |  |
-| original song name | `Gensokyo Millenium 千年幻想郷　～ History of the Moon` |  |
-| character name | `八意 永琳 eirin yagokoro` | add if the track is a boss theme |
-| vocalist for vocal arrangements | `ランコ ranko` |  |
-| album name | `TOHO COMPLETE BOX` |  |
-| franchise alias | `東方project` |  |
+| Media name | `touhou` |  |
+| Media type | `video game` |  |
+| Original song name | `Gensokyo Millenium 千年幻想郷　～ History of the Moon` |  |
+| Character name | `八意 永琳 eirin yagokoro` | Add this tag if the track is a boss theme |
+| Vocalist for vocal arrangements | `ランコ ranko` |  |
+| Album name | `TOHO COMPLETE BOX` |  |
+| Franchise alias | `東方project` |  |
 
 Highly recommended additional ones:
 
 | Tag group | Example(s) | Notes |
 | :-- | :-- | :-- |
-| creator/label credit | `ZUN Team Shanghai Alice` |  |
-| event/convention name | `comiket c85`, `reitaisai` |  |
-| characters involved | `marisa`, `alice` | characters in music or background |
-| fan alias | `2hu` | which means "Touhou" |
-| arranger name | `パインツリー` |  |
-| game number | `th8` | abbreviation for "Touhou 8" |
-| stage number | `st1` | abbreviation for "Stage 1", add if the track is a stage theme |
-| shortened game name | `in` | abbreviation for "Imperishable Night" |
-| romaji for text after `touhou` in `Source` | `eiyashou` | which means "東方永夜抄" (game name) |
+| Creator/label credit | `ZUN Team Shanghai Alice` |  |
+| Event/convention name | `comiket c85`, `reitaisai` |  |
+| Characters involved | `marisa`, `alice` | Characters appearing in the music or background |
+| Fan alias | `2hu` | Short alias for "Touhou" |
+| Arranger name | `パインツリー` |  |
+| Game number | `th8` | Abbreviation for the edition in the series, here "Touhou 8" |
+| Stage number | `st1` | Denotes the stage in which this track is used as a stage theme, e.g. here  "Stage 1" |
+| Shortened game name | `in` | Abbreviation for the game name, in this case "Imperishable Night" |
+| Game name in romaji text | `eiyashou` | Denotes the game's name in romaji text |
 
 Here's an example of a Touhou tag set:
 
