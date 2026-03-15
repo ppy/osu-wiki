@@ -8,7 +8,7 @@ At the top-left, next to the currently selected `info` tab, is the [beatmap disc
 
 ## Difficulty menu
 
-This is the main part section of the information page, containing the most important details about a beatmap. The background is the cutout version of the beatmap's background image.
+This is the main section of the information page, containing the most important details about a beatmap. The background is the cutout version of the beatmap's background image.
 
 ### Mapping information
 
@@ -76,7 +76,7 @@ The rating graph below the user rating shows the proportion of votes for each st
 The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable by the mapper often used for...
 
 - ...linking resources such as the background image's source or hitsound samples used.
-- ...recommending relevant contents to the song, such as its MV or the official website of the artist.
+- ...recommending relevant contents to the song, such as its music video or the official website of the artist.
 - ...commending other users for their help (e.g. guest mappers, modders, storyboarders).
 - ...trivia related to the beatmap (e.g. mapping milestones).
 
@@ -111,7 +111,7 @@ If a beatmap is [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/B
 
 Users can use the `Hype Beatmap` button to redirect to the [discussion page](/wiki/Beatmap_discussion) and [hype](/wiki/Beatmap/Hype) the beatmap, indicating that they want the beatmap to be ranked. The `Hype Beatmap` button will turn grey and become unclickable after the user has hyped the beatmap.
 
-Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there will also be a `Report Problem` button beneath the `Hype Beatmap` button, which will also take users to the discussion page, but with the intention of reporting any problems that might have been missed during the nomination phase.
+Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there is a `Report Problem` button beneath the `Hype Beatmap` button, which will also take users to the discussion page, but with the intention of reporting any problems that might have been missed during the nomination phase.
 
 ## Rankings
 
