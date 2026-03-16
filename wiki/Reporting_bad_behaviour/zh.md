@@ -10,7 +10,7 @@ osu! 设有一个 [全局管理团队](/wiki/People/Global_Moderation_Team) (GMT
 | :-- | :-- |
 | 私信中的欺诈/钓鱼行为 | 发送常规举报 |
 | 其他冒犯性/不恰当的私信 | **无需举报**：改为[忽略该用户](/wiki/Client/Interface/Chat_console#命令列表)。如需永久生效，可使用[设置](/wiki/Client/Options)中的游戏内屏蔽玩家发言列表，或在其用户资料页点击按钮在网站上屏蔽。 |
-| [上架 (Ranked)](/wiki/Beatmap/Category#上架-(ranked)) 谱面中的不当内容[^invalid-reports] | 通过 [BN 管理网站](https://bn.mappersguild.com/reports)联系 [NAT](/wiki/People/Nomination_Assessment_Team) 或 [GMT](/wiki/People/Global_Moderation_Team) |
+| [上架 (Ranked)](/wiki/Beatmap/Category#ranked) 谱面中的不当内容[^invalid-reports] | 通过 [BN 管理网站](https://bn.mappersguild.com/reports)联系 [NAT](/wiki/People/Nomination_Assessment_Team) 或 [GMT](/wiki/People/Global_Moderation_Team) |
 | [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 的不当行为 | 通过 [BN 管理网站](https://bn.mappersguild.com/reports)联系 [NAT](/wiki/People/Nomination_Assessment_Team) |
 | [NAT](/wiki/People/Nomination_Assessment_Team) 或 [GMT](/wiki/People/Global_Moderation_Team) 成员的不当行为 | 通过 [support@ppy.sh](mailto:support@ppy.sh) 联系[账号支持团队](/wiki/People/Account_support_team) |
 | 谱面抄袭或其他侵犯版权行为 | 根据 [osu! 版权政策](/wiki/Legal/Copyright)，向 [copyright@ppy.sh](mailto:copyright@ppy.sh) 提交 DMCA 索赔 |
