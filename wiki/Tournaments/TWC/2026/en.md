@@ -209,7 +209,7 @@ View the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/272345629
 ### Group stage
 
 **[Download the mappack here (70 MB)](https://packs.ppy.sh/P316%20-%20osu%21taiko%20World%20Cup%202026%3A%20Group%20stage.zip)**\
-[View the showcase VOD here]()
+[View the showcase VOD here](https://www.twitch.tv/videos/2723456293?t=1h23m2s)
 
 - No Mod
   1. [Iyowa feat. Kasane Teto - BABEL (Sebola) \[Shinjiteru\]](https://osu.ppy.sh/beatmapsets/1987197#taiko/4127942)
