@@ -208,28 +208,29 @@ View the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/272345629
 
 ### Group stage
 
-[View the showcase VOD here](https://www.twitch.tv/videos/2723456293?t=1h23m2s)
+**[Download the mappack here (70 MB)](https://packs.ppy.sh/P316%20-%20osu%21taiko%20World%20Cup%202026%3A%20Group%20stage.zip)**\
+[View the showcase VOD here]()
 
 - No Mod
   1. [Iyowa feat. Kasane Teto - BABEL (Sebola) \[Shinjiteru\]](https://osu.ppy.sh/beatmapsets/1987197#taiko/4127942)
   2. [Sobrem - 2anyFirst (tasuke912) \[Courage\]](https://osu.ppy.sh/beatmapsets/2523226#taiko/5571891)
-  3. KINEMA106 - Doremi Goal (aabc271) \[Inner Oni+\] (link pending)
+  3. [KINEMA106 - Doremi Goal (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/2523254#taiko/5571972)
   4. [fur:trash - puppydog's lament (\_gt) \[lone wolf\]](https://osu.ppy.sh/beatmapsets/2523218#taiko/5571878)
   5. [femtanyl - IT'S TIME (Xay) \[Y3ar\_1ng L1t.le §trea\_s\]](https://osu.ppy.sh/beatmapsets/2523224#taiko/5571889)
 - Hidden
-  1. MYUKKE. - Seal the Deal (hz404) \[Let's Seal the Deal!\] (link pending)
+  1. [MYUKKE. - Seal the Deal (hz404) \[Let's Seal the Deal!\]](https://osu.ppy.sh/beatmapsets/2523472#taiko/5572583)
   2. [Shion Kanzaki - Ganglion (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/2523227#taiko/5571893)
 - Hard Rock
   1. [Mameyudoufu - Point (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2523184#taiko/5571805)
-  2. HyuN feat. YURI - Disorder (My Angel Eru) \[Inner Oni\] (link pending)
+  2. [HyuN feat. YURI - Disorder (My Angel Eru) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2523470#taiko/5572580)
 - Double Time
-  1. EGOIST - Lovely Icecream Princess Sweetie (Axer) \[Complex (Simple TWC Ver.)\] (link pending)
+  1. [EGOIST - Lovely Icecream Princess Sweetie (Axer) \[Complex (Simple TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2523329#taiko/5572177)
   2. [MYUKKE. - Boudica (Antti) \[Oni\]](https://osu.ppy.sh/beatmapsets/1472397#taiko/4289683)
 - Free Mod
   1. [WangleLine - Super Kitten Travel Hex (miyagishima) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2523236#taiko/5571916)
   2. [Hidra-Xjeil - MilK(Holy Grail Remix) (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2523185#taiko/5571806)
 - Tiebreaker
-  1. **Kagetora. vs. ikaruga\_nex - Gott der Apokalypse (miyagishima) \[Vernichtung\] (link pending)**
+  1. **[Kagetora. vs. ikaruga\_nex - Gott der Apokalypse (miyagishima) \[Vernichtung\]](https://osu.ppy.sh/beatmapsets/2523240#taiko/5571925)**
 
 ### Qualifiers
 
