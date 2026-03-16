@@ -448,7 +448,7 @@
 
 ![](img/taiko-barline.png "默认的 taiko-barline@2x.png")
 
-此图像在游戏中每个[小节](/wiki/Music_theory/Measure)开始时显示在游玩界面（除非被[时间点](/wiki/Client/Beatmap_editor/Timing#非继承时间点)省略）。
+此图像在游戏中每个[小节](/wiki/Music_theory/Measure)开始时显示在游玩界面（除非被[非继承时间点（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)省略）。
 
 ## 连打条
 
