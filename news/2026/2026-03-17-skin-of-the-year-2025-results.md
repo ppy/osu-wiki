@@ -15,35 +15,35 @@ Without further ado, let's go through the skins that earned the spotlight, and h
 
 ---
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/10.png)](https://osu.ppy.sh/community/forums/topics/2135833)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/10.jpg)](https://osu.ppy.sh/community/forums/topics/2135833)
 
 Rounding out the top 10 with **357** votes is [AshClown](https://osu.ppy.sh/users/8132473)'s [Seraph](https://osu.ppy.sh/community/forums/topics/2135833), a skin that leaves its mark through a soft and graceful visual identity. Its dreamy atmosphere and purple-tinted palette give it an immediately recognizable look, while the cleanly structured interface keeps that style consistent across the entire experience. The result is a skin that feels polished from start to finish, with an elegant presentation that never asks for too much attention.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/9.png)](https://osu.ppy.sh/community/forums/topics/2052133)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/9.jpg)](https://osu.ppy.sh/community/forums/topics/2052133)
 
 With **358** votes, [koomo](https://osu.ppy.sh/users/2168518)'s [Elaina](https://osu.ppy.sh/community/forums/topics/2052133) takes 9th place as a tribute to the titular witch of *Wandering Witch: The Journey of Elaina*. The skin pairs sleek modern visuals with plenty of character-focused artwork, creating a presentation that feels consistently polished without losing its charm. Its dialogue-inspired pause and fail screens are especially memorable, adding a playful touch that helps it stand out.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/8.png)](https://osu.ppy.sh/community/forums/topics/2050731)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/8.jpg)](https://osu.ppy.sh/community/forums/topics/2050731)
 
 [bercut](https://osu.ppy.sh/users/37182222)'s [Nakamasa Ichika](https://osu.ppy.sh/community/forums/topics/2050731) claims 8th place with **377** votes, bringing the *Blue Archive* character's visual identity into a sleek and modern skin. By pairing Ichika's familiar colour scheme with a minimalist interface, the skin manages to stay both character-focused and cleanly presented throughout. It is a simple approach on paper, but one that comes together with enough polish to leave a strong impression.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/7.png)](https://osu.ppy.sh/community/forums/topics/2145560)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/7.jpg)](https://osu.ppy.sh/community/forums/topics/2145560)
 
 Moving from one *Blue Archive* character to another, 7th place goes to [Onikata Kayoko](https://osu.ppy.sh/community/forums/topics/2145560) by [Amurelia](https://osu.ppy.sh/users/17611677), which drew **387** votes. By weaving Kayoko's charm together with musical motifs and a sleek minimalist style, the skin builds a presentation that feels modern, characterful, and carefully put together. It is a combination that comes across with enough polish to make the entry an easy standout in this year's top 10.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/6.png)](https://osu.ppy.sh/community/forums/topics/2081685)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/6.jpg)](https://osu.ppy.sh/community/forums/topics/2081685)
 
 With **392** votes behind it, 6th place belongs to [RosAdo](https://osu.ppy.sh/community/forums/topics/2081685) by [Megumy](https://osu.ppy.sh/users/8607517), a skin built as an homage to the Japanese singer *Ado*. Character illustrations and sprites are worked generously into the design, making the inspiration clear from the moment it appears on screen. The blue rose motif woven throughout the skin adds an extra layer of identity, while also tying the tribute together through the wordplay in its name.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/5.png)](https://osu.ppy.sh/community/forums/topics/2123982)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/5.jpg)](https://osu.ppy.sh/community/forums/topics/2123982)
 
 5th place goes to [Furina De Fontaine](https://osu.ppy.sh/community/forums/topics/2123982), brought to life in skin form by [Spoo](https://osu.ppy.sh/users/11805037) and backed by **393** votes. Drawing from the *Genshin Impact* character's theatrical flair and elegance, the skin builds a presentation that feels lavish without losing its sense of polish. From the larger visual elements down to the smaller interface details, it carries that refined identity consistently throughout.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/4.png)](https://osu.ppy.sh/community/forums/topics/2045804)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/4.jpg)](https://osu.ppy.sh/community/forums/topics/2045804)
 
 Just shy of the podium is [星見雅 I Hoshimi Miyabi](https://osu.ppy.sh/community/forums/topics/2045804), created by [Joneto](https://osu.ppy.sh/users/17612176) and finishing 4th with **441** votes. Built around the *Zenless Zone Zero* character, the skin fully commits to the game's visual style, reworking its interface elements in a way that feels bold, distinctive, and immediately recognizable. It is an ambitious approach, but one that pays off through confident execution and a presentation that stays true to its source throughout.
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/3.png)](https://osu.ppy.sh/community/forums/topics/2163489)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/3.jpg)](https://osu.ppy.sh/community/forums/topics/2163489)
 
 With **487** votes, [VAT!](https://osu.ppy.sh/community/forums/topics/2163489) by [Krizto](https://osu.ppy.sh/users/13474556) takes 3rd place and brings the spirit of the [Vocaloid Appreciation Team](https://www.vat.gg/) straight into osu! skinning. Long after earning 2nd place in the [first Skinning Contest](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results), Krizto returns with a confident minimalist work that feels both deliberate and instantly recognizable.
 
@@ -51,7 +51,7 @@ The skin builds its identity around three primary colours representing official 
 
 ![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/3rd@2x.png)
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/2.png)](https://osu.ppy.sh/community/forums/topics/2097901)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/2.jpg)](https://osu.ppy.sh/community/forums/topics/2097901)
 
 Taking 2nd place with **604** votes is [Blue Archive - Arona & Plana](https://osu.ppy.sh/community/forums/topics/2097901), a *Blue Archive*-inspired skin created by [Kitazaki Hinata](https://osu.ppy.sh/users/27249602). Built around the game's twin AI OS characters, the skin does an excellent job balancing their contrasting personalities within a presentation that feels both clean and full of life.
 
@@ -59,7 +59,7 @@ Much of that comes through in the main menu, where character artwork and a deskt
 
 ![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/2nd@2x.png)
 
-[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/1.png)](https://osu.ppy.sh/community/forums/topics/2149060)
+[![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/1.jpg)](https://osu.ppy.sh/community/forums/topics/2149060)
 
 Taking the crown this year is [OFF SCRIPT: The osu! Skin](https://osu.ppy.sh/community/forums/topics/2149060) by [Spoo](https://osu.ppy.sh/users/11805037), which finished far ahead with **617** votes. After already claiming 1st and 2nd place in [SOTY 2024](https://osu.ppy.sh/home/news/2025-03-13-skin-of-the-year-2024-results), Spoo once again proves why their name carries so much weight in skinning circles, this time with an entry that turns Aira and Arthur's animated stories into a loud, playful, and unmistakably stylized osu! skin.
 
