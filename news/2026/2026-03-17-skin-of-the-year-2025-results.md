@@ -45,7 +45,7 @@ Just shy of the podium is [星見雅 I Hoshimi Miyabi](https://osu.ppy.sh/commun
 
 [![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/3.png)](https://osu.ppy.sh/community/forums/topics/2163489)
 
-With **487** votes, [VAT!](https://osu.ppy.sh/community/forums/topics/2163489) by [Krizto](https://osu.ppy.sh/users/13474556) takes 3rd place and brings the spirit of the [Vocaloid Appreciation Team](https://www.vat.gg/) straight into osu! skinning. Long after earning 2nd place in the [first Skinning Contest](wiki/Contests/Skinning_Contest/1), Krizto returns with a confident minimalist work that feels both deliberate and instantly recognizable.
+With **487** votes, [VAT!](https://osu.ppy.sh/community/forums/topics/2163489) by [Krizto](https://osu.ppy.sh/users/13474556) takes 3rd place and brings the spirit of the [Vocaloid Appreciation Team](https://www.vat.gg/) straight into osu! skinning. Long after earning 2nd place in the [first Skinning Contest](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results), Krizto returns with a confident minimalist work that feels both deliberate and instantly recognizable.
 
 The skin builds its identity around three primary colours representing official VOCALOID characters—Hatsune Miku, Kagamine Rin/Len, and Megurine Luka—and uses them to light up a dark, concert-like atmosphere. Neon accents, overlapping menu shapes, and carefully chosen animations give the whole presentation a sense of motion without ever overcrowding it. Even without relying on the character artwork often associated with VOCALOID-themed creations, VAT! captures the energy of the scene with remarkable clarity.
 
