@@ -47,15 +47,11 @@ jobs:
           fetch-depth: 0
           token: ${{ steps.app-token.outputs.token }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          cache: pip
-          cache-dependency-path: requirements.txt
-          python-version: "3.11"
+      - name: Install package manager (Python)
+        uses: astral-sh/setup-uv@v7
 
-      - name: Set up Python CI dependencies
-        run: pip install -r requirements.txt
+      - name: Install dependencies (Python)
+        run: uv sync
 
       # Read DO_NOT_OUTDATE rules, feed them to the tool, and commit and push the result.
       # The following rules are supported, with the wiki/ prefix optionally omitted:
@@ -106,7 +102,7 @@ jobs:
               echo "exclude_list=" >> $GITHUB_OUTPUT
           fi
 
-          osu-wiki-tools check-outdated-articles \
+          uv tool run osu-wiki-tools check-outdated-articles \
               --autofix \
               --base-commit "${{ github.sha }}~1" \
               --outdated-since ${{ github.sha }} \
