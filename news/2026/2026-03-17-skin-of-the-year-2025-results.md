@@ -9,7 +9,7 @@ The votes have been counted, and the winners have been crowned. Take a look at t
 
 ![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/banner.jpg)
 
-We have tallied votes from **3097** unique members of the community, amounting to **15658** votes cast in total. With their help, we have sifted through **79** skins and put together a top 10 list. While the competition among those in the top 10 was fierce, we would like to thank all skinners for their contributions throughout the past year.
+We have tallied votes from **3097** unique members of the community, amounting to **15658** votes cast in total. With their help, we have sifted through **77** skins and put together a top 10 list. While the competition among those in the top 10 was fierce, we would like to thank all skinners for their contributions throughout the past year.
 
 Without further ado, let's go through the skins that earned the spotlight, and how many community votes each of them received:
 
