@@ -49,7 +49,7 @@ With **487** votes, [VAT!](https://osu.ppy.sh/community/forums/topics/2163489) b
 
 The skin builds its identity around three primary colours representing official VOCALOID characters — Hatsune Miku, Kagamine Rin/Len  and Megurine Luka — and uses them to light up a dark, concert-like atmosphere. Neon accents, overlapping menu shapes, and carefully chosen animations give the whole presentation a sense of motion without ever overcrowding it. Even without relying on the character artwork often associated with VOCALOID-themed creations, VAT! captures the energy of the scene with remarkable clarity.
 
-![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/3rd@2x.png)
+![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/3rd.png)
 
 [![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/2.jpg)](https://osu.ppy.sh/community/forums/topics/2097901)
 
@@ -57,7 +57,7 @@ Taking 2nd place with **604** votes is [Blue Archive - Arona & Plana](https://os
 
 Much of that comes through in the main menu, where character artwork and a desktop-like interface are brought together in a way that feels natural rather than crowded. The game's aesthetic extends well beyond that first impression too, appearing throughout the menus and screens not only through the characters and surrounding visuals, but also in smaller touches like the cursor design and dialogue text. Altogether, it creates an atmosphere that makes Arona and Plana feel less like decorations on the screen and more like they are actively part of the experience.
 
-![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/2nd@2x.png)
+![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/2nd.png)
 
 [![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/1.jpg)](https://osu.ppy.sh/community/forums/topics/2149060)
 
@@ -65,7 +65,7 @@ Taking the crown this year is [OFF SCRIPT: The osu! Skin](https://osu.ppy.sh/com
 
 The skin embraces that visual language from start to finish, layering sketchbook aesthetics, handwritten notes, and the presence of its two central characters throughout nearly every part of the interface. Its red-driven colour palette stays remarkably consistent across menus and gameplay alike, with glowing border effects helping the style carry onto the playfield itself. Even more impressively, OFF SCRIPT was put together in only 5 days, making its level of polish feel less like a surprise and more like another reminder of just how confidently Spoo works.
 
-![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/1st@2x.png)
+![](/wiki/shared/news/2026-03-17-skin-of-the-year-2025-results/1st.png)
 
 ---
 
