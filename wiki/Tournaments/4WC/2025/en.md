@@ -260,7 +260,7 @@ This competition has come to an end and resulted in the following podium:
   5. [Irreversible Mechanism - The Agony (Awfulness) \[Extreme\]](https://osu.ppy.sh/beatmapsets/958345#osu/2006819)
 - Hidden
   1. [Fumie Kumatani - Theme of Digital Dimension (Xilver15) \[Babylon\]](https://osu.ppy.sh/beatmapsets/2183975#osu/4615365)
-  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#osu/4788639 )
+  2. [muship - Teddy THE Teddy (Herazu) \[Hidden Extra\]](https://osu.ppy.sh/beatmapsets/2251125#osu/4788639)
 - Hard Rock
   1. [loadcode - save me fox girl!! (Shiny Braixen) \[loadcode's ceroba crisis!!\]](https://osu.ppy.sh/beatmapsets/2267190#osu/4827835)
   2. [TERRA - Mugen no Hikari (kodama) \[mangetsu\]](https://osu.ppy.sh/beatmapsets/2246121#osu/4775433)

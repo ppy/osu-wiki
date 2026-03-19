@@ -1,8 +1,8 @@
 ---
 tags:
- - mute
- - timeout
- - chat ban
+  - mute
+  - timeout
+  - chat ban
 ---
 
 # Silences
