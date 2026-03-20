@@ -23,7 +23,7 @@ Two of **LaXal**'s biggest passions are music and video games. If you played [th
 
 <div align="center" class="osu-md__paragraph">
     <video width="100%" controls>
-        <source src="https://assets.ppy.sh/artists/532/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/laxal_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 

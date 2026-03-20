@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 28f13b3a93c3c644e285440d4c537ec270d92ff7
----
-
 # Criterios de estilo para las noticias
 
 *Para los artículos de la wiki, véase: [Criterios de estilo para los artículos](/wiki/Article_styling_criteria)*
@@ -11,7 +6,9 @@ Las **noticias**, existen en un sistema ligeramente diferente al de la wiki prin
 
 Al igual que los artículos de la wiki, todas las noticias deben tener un mínimo de ortografía y gramática correctas, así como información correcta y actualizada.
 
-Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079), ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724), o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
+Cualquiera que esté interesado en contribuir o escribir noticias puede enviar un mensaje en el canal `#osu-news` del [servidor de Discord osu!](https://discord.com/invite/ppy). También pueden ponerse en contacto con ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) o cualquier [mantenedor de la wiki o de las noticias](/wiki/People/osu!_wiki_maintainers) activo.
+
+Para torneos y concursos, los anuncios de las inscripciones en noticias específicas requieren la aprobación previa del [Comité de Torneos](/wiki/People/Tournament_Committee) y del [Comité de Concursos](/wiki/People/Tournament_Committee#comité-de-concursos), respectivamente. Consulta las páginas [Soporte oficial para torneos](/wiki/Tournaments/Official_support) y [Soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support) para conocer las reglas y obtener más información al respecto.
 
 ## Configuraciones regionales
 
@@ -62,6 +59,7 @@ Todos los archivos de las noticias deben estar estructurados de la siguiente man
 layout: post
 title: Título de la noticia
 date: 2017-08-17 03:00:00 +0000
+series: miscellaneous
 ---
 
 Breve párrafo de avance
@@ -78,6 +76,11 @@ Contenido
 - `date` debe representar una cadena combinada que muestre una fecha de calendario en formato ISO 8601 (`2017-08-17`), seguida de una cadena horaria de 24 horas (`03:00:00`), seguida de un margen de tiempo establecido en UTC (`+0000`). Esta es la fecha de publicación usada para determinar cuándo la noticia se hará visible en el sitio web.
 - El párrafo de avance es el que se mostrará en la portada, en el archivo de las noticias y en el listado de las noticias dentro de osu!(lazer), además de ser el primer párrafo de la noticia.
 - Todas las noticias deberían incluir y enlazar las imágenes usadas en las portadas de las noticias en la carpeta [`wiki/shared/news/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news). En los casos excepcionales en los que no se desee usar ninguna portada, usa la imagen predeterminada: `https://osu.ppy.sh/images/headers/news-show-default.jpg`.
+- `series` determina en qué categoría de notificaciones del sitio web se publicará el artículo, al que los usuarios pueden suscribirse desde la [configuración de su cuenta](https://osu.ppy.sh/home/account/edit). Esto debe ser uno de los siguientes:
+  - Series específicas: `project_loved`, `beatmap_spotlights`, `featured_artists`, `fanart_contests`, `mappers_guild`, `ranking_system_updates` (por ejemplo, puntos de rendimiento y puntuación), `game_updates` (tanto cliente como sitio web), `merch_runs`, `world_cups` (incluido [LGA](/wiki/Tournaments/LGA)), `monthly_beatmapping_contest`
+  - Categorías generales: `official_contests` (cualquier cosa clasificada como tal en la página de [concursos](/wiki/Contests) de la wiki), `community_contests`, `community_tournaments`, `offline_events`, `online_events`, `miscellaneous`
+
+![Listado de las categorías de notificaciones de las noticias en la página de configuración de la cuenta del sitio web](img/news-series-ES.png "Categorías de las notificaciones de las noticias")
 
 ### Markdown
 
@@ -107,51 +110,11 @@ Usa [esta herramienta de visualización](https://tcomm.hivie.tn/assets-previewer
 
 Los banners deben tener un tamaño base mínimo de 1000x200 píxeles. Se debe proporcionar una versión con cada dimensión duplicada si la imagen de origen es lo suficientemente grande como para ser compatible (lo que da como resultado `banner.jpg` y `banner@2x.jpg`). Las imágenes de los banners que aparecen en varias noticias deben colocarse en el directorio [`wiki/shared/news/banners/`](https://github.com/ppy/osu-wiki/tree/master/wiki/shared/news/banners).
 
-### HTML y contenido incrustado
-
-Se permite un uso limitado de HTML para incrustar contenido externo, como vídeos de YouTube, VODs de Twitch u otros programas diseñados para mostrar contenido de osu! o relacionado con osu!.
-
-El ancho de todos los marcos del contenido incrustado debe ajustarse al 95 %, con la excepción de las relaciones de aspecto altas. Para ser incluido en los artículos en general, el contenido incrustado debe soportar la visualización en estilo de ancho completo sin romperse o verse horrible.
-
-Vídeo incrustado alojado en `assets.ppy.sh`:
-
-```html
-<div align="center" class="osu-md__paragraph">
-    <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
-    </video>
-</div>
-```
-
-Vídeo incrustado alojado en YouTube:
-
-```html
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
-</div>
-```
-
-Vídeo incrustado alojado en Twitch:
-
-```html
-<div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
-</div>
-```
-
-Vista previa de un audio:
-
-```html
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
-</audio>
-```
-
 ## Diseño
 
 Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye los motivos más comunes por los que el equipo de noticias solicita cambios o preguntas:
 
-- **Los recursos creados para las noticias deben estar autorizados en cuanto a permisos y licencias.**
+- **Los elementos creados para las noticias deben cumplir con los [permisos de uso de contenido](/wiki/Rules/Content_usage_permissions).**
 - **No se permite la colocación de marcas o patrocinadores.** No es responsabilidad de osu! hacerles publicidad.
 - **Ten en cuenta las [directrices de identidad de marca](/wiki/Brand_identity_guidelines), especialmente para los nombres del juego y de los modos de juego.** Términos como «standard» o «ctb» no se usan en contextos oficiales.
   - Se prefiere el uso de «osu!», «osu!taiko», «osu!catch», «osu!mania» (además, ten en cuenta que este es el orden canónico siempre que se presentan en secuencia)
@@ -162,4 +125,126 @@ Lo siguiente se aplica a todos los medios que aparecen en las noticias e incluye
 
 ![Referencia del tamaño del texto](img/text-size-ES.png "Referencia del tamaño mínimo del texto para las imágenes.")
 
-Algunos miembros de la comunidad crean gráficos de calidad o incluso vídeos animados para incluirlos en las noticias. Sin embargo, siempre que sea posible, ponte en contacto con el equipo de noticias con antelación sobre los diseños y los recursos, ya que cualquier cambio necesario puede provocar retrasos inesperados u omisiones en las noticias.
+Algunos miembros de la comunidad crean gráficos de calidad o incluso vídeos animados para incluirlos en las noticias. Sin embargo, siempre que sea posible, ponte en contacto con el equipo de noticias con antelación sobre los diseños y los elementos, ya que cualquier cambio necesario puede provocar retrasos inesperados u omisiones en las noticias.
+
+## HTML y contenido incrustado
+
+Se permite un uso limitado de HTML para incrustar contenido externo, como vídeos de YouTube, VODs de Twitch u otros programas diseñados para mostrar contenido de osu! o relacionado con osu!.
+
+El ancho de todos los marcos del contenido incrustado debe ajustarse al 95 %, con la excepción de las relaciones de aspecto altas. Para ser incluido en los artículos en general, el contenido incrustado debe soportar la visualización en estilo de ancho completo sin romperse o verse horrible.
+
+### Vídeo incrustado alojado en `assets.ppy.sh`
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <video width="95%" controls>
+        <source src="https://assets.ppy.sh/artists/172/release_showcase.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+```
+
+![Ejemplo de un vídeo incrustado en `assets.ppy.sh`](img/embed-assets.jpg "Ejemplo de un vídeo incrustado en `assets.ppy.sh`")
+
+### Vídeo incrustado alojado en YouTube
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/cXkiX7u4a9g" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+![Ejemplo de un vídeo incrustado en YouTube](img/embed-youtube.jpg "Ejemplo de un vídeo incrustado en YouTube")
+
+### Vídeo incrustado alojado en Twitch
+
+```html
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2321612622" allowfullscreen="true" scrolling="no"></iframe>
+</div>
+```
+
+![Ejemplo de un vídeo incrustado en Twitch](img/embed-twitch.jpg "Ejemplo de un vídeo incrustado en Twitch")
+
+### Vista previa de un audio
+
+```html
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie%20-%20Strobe%20Light%20feat.%20Kasane%20Teto.mp3">
+</audio>
+```
+
+![Ejemplo de un audio incrustado](img/embed-audio.png "Ejemplo de un audio incrustado")
+
+### Archivos PDF
+
+Ten en cuenta que los archivos PDF deben tener un tamaño inferior a 20 MB para poder ser incrustados mediante `https://docs.google.com/gview`.
+
+```html
+<div align="center">
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/yuzu/yuzu-embed.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+</div>
+```
+
+![Ejemplo de un archivo PDF incrustado](img/embed-pdf.jpg "Ejemplo de un archivo PDF incrustado")
+
+### Entrevistas en forma de chat
+
+Para entrevistas o citas con los avatares de los usuarios, incluye el siguiente estilo al principio de la sección correspondiente en la noticia:
+
+```html
+<style>
+    .news-chat-quote__avatar {
+        float: left;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-left: -50px;
+    }
+
+    .news-chat-quote__text-container {
+        margin-left: 50px;
+    }
+
+    .news-chat-quote__username {
+        font-weight: 600;
+        margin-bottom: 2px;
+    }
+
+    .news-chat-quote__colour-no-group {
+        color: #FFFFFF;
+    }
+</style>
+```
+
+Aquí, el estilo CSS `news-chat-quote__colour-{group}` corresponde a un color de los [grupos de usuarios](/wiki/People/User_groups):
+
+| Grupo | Color |
+| :-: | :-- |
+| `gmt` | `#99EB47` |
+| `nat` | `#FA3703` |
+| `dev` | `#E45678` |
+| `alm` | `#999999` |
+| `spt` | `#EBD047` |
+| `bn` | `#A347EB` |
+| `lvd` | `#FFD1DC` |
+| `ppy` | `#0066FF` |
+| `fa` | `#00FFFF` |
+| `bsc` | `#76AEBC` |
+| `tc` | `#FFB969` |
+| `no-group` | `#FFFFFF` |
+
+Luego, rodea las secciones de contenido en sangría dentro de una etiqueta `<div>` y coloca un avatar y un nombre de usuario antes de cada parte que deba mostrarlos, como se muestra a continuación:
+
+```html
+<div class="news-chat-quote__text-container">
+
+<a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
+
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/10365024">Sakura006</a></p>
+
+Contenido con sangría en Markdown
+
+</div>
+```
+
+![Ejemplo de una entrevista en forma de chat](img/embed-interview.png "Ejemplo de una entrevista en forma de chat")
