@@ -11,7 +11,7 @@ Spring is here... and Project Loved comes back with it!
 
 Hello again from Project Loved! Spring just arrived, and with it we have snuck in to deliver the newest Loved picks, fresh from the oven. If it's your first time seeing this, here's what we do: Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
-Before getting into the picks, **the osu!mania captains are looking to increase their ranks**. Right now they are looking for **4k-specific** captains. If you think you'd be a good fit for that, click the box and fill the form below:
+Before getting into the picks, **the osu!mania captains are looking to increase their ranks**. Right now they are looking for **4K-specific** captains. If you think you'd be a good fit for that, click the box and fill the form below:
 
 [![](https://osu.ppy.sh/wiki/images/shared/news/banners/project-loved/apply-mania.png)](https://forms.gle/xk6dcqVBBAY2tKU29)
 
