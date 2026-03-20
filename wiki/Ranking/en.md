@@ -12,7 +12,7 @@ tags:
 
 **Ranking** (alternatively called "leaderboards") is a list that sorts members of the osu! community according to certain criteria.
 
-All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their beatmap info page.
+All but the individual beatmap rankings can be navigated to by hovering over the `rankings` menu on the website header. For the individual beatmap ranking, they can be found on their [beatmap info page](/wiki/Beatmap_information).
 
 ## Performance points ranking
 
