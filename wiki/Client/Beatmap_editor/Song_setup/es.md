@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+---
+
 # Ventana de configuración de las canciones
 
 La ventana de **configuración de las canciones** es la cuarta sección del [editor de beatmaps](/wiki/Client/Beatmap_editor), que incluye metadatos del beatmap, ajustes de dificultad y diseño, así como otras opciones.
