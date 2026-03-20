@@ -194,9 +194,9 @@ If you earnestly took the advice above, it should be all the convincing you need
 
 **2025 OCTOBER *Wildcard* 3. AS ABOVE SO BELOW.**
 
-"[Machine Girl - Black Glass]( https://osu.ppy.sh/beatmapsets/2226198#osu/4722524) provides an exhilarating experience set in a 7/4 time signature, and features a unique dense jungle of circle enemies and slider obstacles. How fast can you reach: MISSION COMPLETE?"
+"[Machine Girl - Black Glass](https://osu.ppy.sh/beatmapsets/2226198#osu/4722524) provides an exhilarating experience set in a 7/4 time signature, and features a unique dense jungle of circle enemies and slider obstacles. How fast can you reach: MISSION COMPLETE?"
 
-mapper / [OATMILK]( https://osu.ppy.sh/users/16516525) / mapper / [SCYLLA](https://osu.ppy.sh/users/9405745)
+mapper / [OATMILK](https://osu.ppy.sh/users/16516525) / mapper / [SCYLLA](https://osu.ppy.sh/users/9405745)
 
 WHO DESERVES A PLACE IN THIS LEADERBOARD?\
 PLEASE ENTER "YES" TO DISCOVER...

@@ -729,7 +729,7 @@ Thursday, 7 March 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **whatever** | **4** | 0 | Morbidly Obese | [#1](https://osu.ppy.sh/community/matches/49838859) |
 | **whatever** | **4** | 0 | Lincs FM | [#1](https://osu.ppy.sh/community/matches/49812025) |
-| Morbidly Obese | 1 | **4** | **Lincs FM** | [#1](https://osu.ppy.sh/community/matches/49835878 ) |
+| Morbidly Obese | 1 | **4** | **Lincs FM** | [#1](https://osu.ppy.sh/community/matches/49835878) |
 
 #### Group P
 

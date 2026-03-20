@@ -38,7 +38,7 @@ Furthermore, there are 3 buttons lower down on the page:
 
 - **Hype Beatmap:** Hypes are used as a way to promote maps and signal interest in seeing the map ranked. Hypes are required to move a beatmap into qualified as before a Beatmap Nominator can nominate a beatmap, it must reach at least 5 Hype. Each user can only hype a beatmap once, and hypes are given out every 7 days, up to a maximum of 10 hype.
 - **Watch/Unwatch:** Watching a map will cause notifications to appear whenever something happens in the beatmap discussion. Should you already follow a beatmap discussion, you can also unfollow it by clicking on the button again.
-- **Beatmap Page:** Goes back to the beatmap information and scores page.
+- **Beatmap Page:** Goes back to the [beatmap information page](/wiki/Beatmap_information).
 
 Beatmap Nominators/Moderators get additional buttons, but these are not important for this tutorial.
 

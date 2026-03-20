@@ -310,7 +310,7 @@ This competition has come to an end and resulted in the following podium:
 | **bluezenithgames** | **2** | 1 | Lunasen\_ | [#1](https://osu.ppy.sh/community/matches/102517654) |
 | Gale Wise | 0 | **2** | **Dunn** | [#1](https://osu.ppy.sh/community/matches/102517825) |
 | **RnJn** | **2** | 0 | Chasm | [#1](https://osu.ppy.sh/community/matches/102518608) |
-| **KanataMyBeloved** | **2** | 0 | Edison | [#1](https://osu.ppy.sh/community/matches/102518225 ) |
+| **KanataMyBeloved** | **2** | 0 | Edison | [#1](https://osu.ppy.sh/community/matches/102518225) |
 | **OsuSeulgiDragon** | **2** | 1 | Oooodriiin | [#1](https://osu.ppy.sh/community/matches/102518483) |
 | Makir0 | 0 | **2** | **Pillows** | [#1](https://osu.ppy.sh/community/matches/102518974) |
 | CasualHexagons | 1 | **2** | **CircIes** | [#1](https://osu.ppy.sh/community/matches/102518936) |

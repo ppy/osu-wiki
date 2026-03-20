@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
----
-
 # Sanciones de los torneos
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
@@ -93,3 +88,11 @@ Los vetos indefinidos de los torneos pueden ser apelados una vez transcurridos a
 Aunque es posible apelar los vetos indefinidos como se menciona anteriormente, cabe destacar que, para tener posibilidades reales de que la apelación sea aceptada, se debe realizar un esfuerzo significativo en la comunidad en general, más allá de la redacción de la apelación. En [este hilo del foro](https://osu.ppy.sh/community/forums/topics/1798871) se puede encontrar una lista de todos los usuarios que han apelado y conseguido que se les retire el veto indefinido de los torneos.
 
 En raras situaciones, el [equipo de soporte de cuentas](/wiki/People/Account_support_team) puede revisar casos individuales a su discreción y retirar o volver a aplicar los castigos apropiados para asegurarse de que siguen siendo acordes con casos similares ocurridos en el pasado.
+
+## ¿Las sanciones de los torneos son visibles públicamente? {id=visibility}
+
+::: Infobox
+![](img/tourney-ban-profile-ES.png "Un usuario con un veto de los torneos en su perfil")
+:::
+
+Los vetos indefinidos de los torneos y los vetos que se han aplicado por medios distintos a los [términos de apelación estándar](/wiki/Help_centre/Account_restrictions#appeal-granted) son visibles en el perfil del usuario mientras estén activos. Otras sanciones impuestas (por ejemplo, periodos de probación, vetos para organizar torneos y vetos para formar parte del personal) no se muestran públicamente de esta manera.
