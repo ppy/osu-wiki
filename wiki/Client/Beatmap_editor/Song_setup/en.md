@@ -56,7 +56,7 @@ osu!taiko and osu!mania are not affected by approach rate changes — instead, b
 ### Overall difficulty
 
 *Main page: [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*\
-*Note: On beatmap info pages, overall difficulty is listed as `Accuracy`.*
+*Note: On [beatmap info pages](/wiki/Beatmap_information), overall difficulty is listed as `Accuracy`.*
 
 Overall difficulty (OD) is responsible for the sizes of hit windows, which define how difficult it is to achieve high accuracy. Higher OD values mean shorter timing windows, requiring more accuracy and precision. Since accuracy is important for gaining HP, overall difficulty indirectly influences how hard it is to pass the beatmap.
 
