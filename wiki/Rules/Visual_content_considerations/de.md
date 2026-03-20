@@ -30,7 +30,7 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **sexueller Inhalt, der Minderjährige enthält oder auf diese ausgerichtet ist**
 - **exzessive Gewalt, Blut, Zerstückelung, Enthauptung oder Verstümmelung**
 - **erhebliche sexuelle Anspielungen**
-- **anzügliches Posieren oder Aufforderung zu sexuellen Taten**
+- **anzügliches Posieren oder Aufforderung zu sexuellen Handlungen**
 - **erotischer Inhalt oder grafische Abbildungen von Sexualität**
 - **Beispiele von Drogenkonsum, die Vorbereitung dazu oder die Identifikation mit illegaler Drogensubkultur**[^drug-nature]
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
