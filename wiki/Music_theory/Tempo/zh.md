@@ -6,6 +6,8 @@ tags:
   - 每分钟节拍数
   - 节奏
   - 节拍
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 # 曲速

@@ -15,7 +15,7 @@ tags:
 
 *另见：[谱面 § 下载谱面](/wiki/Beatmap#下载谱面)*
 
-通常情况下，在[选歌界面](/wiki/Client/Interface#选歌界面)或官网的搜索栏里，输入需要搜索的文本，即可匹配谱面的作曲家、曲名、难度的作者及名称、来源，[谱师标签](/wiki/Beatmap/Beatmap_tags#mapper-tags)，以及[玩家标签](/wiki/Beatmap/Beatmap_tags#user-tags)。输入一串数字会搜索具有对应[标识符](/wiki/Beatmap#标识符)的谱面和难度。所有搜索内容都不区分大小写。
+通常情况下，在[选歌界面](/wiki/Client/Interface#选歌界面)或官网的搜索栏里，输入需要搜索的文本，即可匹配谱面的作曲家、曲名、难度的作者及名称、来源，[谱师标签](/wiki/Beatmap/Beatmap_tags#谱师标签-(mapper-tags))，以及[玩家标签](/wiki/Beatmap/Beatmap_tags#用户标签-(user-tags))。输入一串数字会搜索具有对应[标识符](/wiki/Beatmap#标识符)的谱面和难度。所有搜索内容都不区分大小写。
 
 可以使用以下符号，使用特定数值来更精确地筛选谱面元数据：
 
@@ -81,7 +81,7 @@ tags:
 | `created`, `submitted` | 谱面制作时间 |
 | `updated` | 谱面上次更新时间 |
 | `ranked` | 谱面上架或达标时间 |
-| `tag` | 特定的[用户标签](/wiki/Beatmap/Beatmap_tags#user-tags) |
+| `tag` | 特定的[用户标签](/wiki/Beatmap/Beatmap_tags#用户标签-(user-tags)) |
 
 ## 客户端 (lazer)[^lazer-filters]
 
@@ -107,7 +107,7 @@ tags:
 | `divisor` | [音符时值](/wiki/Client/Beatmap_editor/Beat_snap_divisor)的分母。 |
 | `created`, `submitted` | 谱面制作或上传时间 |
 | `ranked` | 谱面上架或达标时间 |
-| `tag` | 特定的[用户标签](/wiki/Beatmap/Beatmap_tags#user-tags)（仅游戏内置的谱面搜索列表支持） |
+| `tag` | 特定的[用户标签](/wiki/Beatmap/Beatmap_tags#用户标签-(user-tags))（仅游戏内置的谱面搜索列表支持） |
 
 ## 搜索示例
 

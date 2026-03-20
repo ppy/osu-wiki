@@ -311,7 +311,7 @@ Saturday, 27 August 2022:
 | **:pleading_face:** | **4** | 0 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/103371867) |
 | **French Penguins** | **0** | -1 | JP DANS DA TOURNOI | *win by default* |
 | **Quesedilla avec les frites BELGES** | **4** | 0 | Not French | [#1](https://osu.ppy.sh/community/matches/103380321) |
-| **Le Grand Jordan23** | **4** | 2 | hecatia fanclub | [#1](https://osu.ppy.sh/community/matches/103380401 ) |
+| **Le Grand Jordan23** | **4** | 2 | hecatia fanclub | [#1](https://osu.ppy.sh/community/matches/103380401) |
 
 Sunday, 28 August 2022:
 

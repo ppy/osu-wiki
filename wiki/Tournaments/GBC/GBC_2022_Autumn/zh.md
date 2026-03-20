@@ -35,14 +35,14 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫bot缎带, 定制奖牌, ￥250 |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫bot缎带, 定制奖牌, ￥250 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫bot缎带, 定制奖牌, ￥200 |
-| *殿军* | 定制奖牌, ￥150 |
-| *第 5-8 名* | ￥100 |
-| *第 9-16 名* | ￥80 |
-| *第 17-21 名* | ￥60 |
-| *第 22-24 名* | ￥30 |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫bot缎带, 定制奖牌, ￥250 人民币 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫bot缎带, 定制奖牌, ￥250 人民币 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫bot缎带, 定制奖牌, ￥200 人民币 |
+| *殿军* | 定制奖牌, ￥150 人民币 |
+| *第 5-8 名* | ￥100 人民币 |
+| *第 9-16 名* | ￥80 人民币 |
+| *第 17-21 名* | ￥60 人民币 |
+| *第 22-24 名* | ￥30 人民币 |
 
 ![](img/badge_official_small.png "GBC 2022 秋季赛冠军缎带")\
 ![](img/badge_1st_small.png "GBC 2022 秋季赛冠军 KanonBot 缎带") ![](img/badge_2nd_small.png "GBC 2022 秋季赛亚军 KanonBot 缎带") ![](img/badge_3rd_small.png "GBC 2022 秋季赛季军 KanonBot 缎带")
