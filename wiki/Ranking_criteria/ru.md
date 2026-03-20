@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 281d8de971e3eabb99ebd16c4055a935242e0cd2
 ---
 
 # Критерии ранкинга

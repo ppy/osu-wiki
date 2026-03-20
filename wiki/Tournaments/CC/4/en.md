@@ -439,7 +439,7 @@ Saturday, 30 September 2017:
 | --: | :-: | :-: | :-- | :-- |
 | Astergaster ::{ flag=IN }:: | 0 | **1** | ::{ flag=CZ }:: **NyarkoO** | *forfeit* |
 | Syncro ::{ flag=IL }:: | 4 | **5** | ::{ flag=GB }:: **icecream-chan** | [#1](https://osu.ppy.sh/community/matches/36462042) |
-| **Doomsday is bad** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Hydria | [#1](https://osu.ppy.sh/community/matches/36469745 ) |
+| **Doomsday is bad** ::{ flag=GB }:: | **5** | 1 | ::{ flag=GB }:: Hydria | [#1](https://osu.ppy.sh/community/matches/36469745) |
 
 Saturday, 30 September 2017:
 
@@ -478,7 +478,7 @@ Saturday, 23 September 2017:
 | **My Angel Yaz** ::{ flag=GB }:: | **4** | 0 | ::{ flag=IN }:: Astergaster | [#1](https://osu.ppy.sh/community/matches/36300082) |
 | **Rohulk** ::{ flag=RO }:: | **4** | 0 | ::{ flag=AU }:: subject000016 | [#1](https://osu.ppy.sh/community/matches/36302136) |
 | **helix** ::{ flag=GB }:: | **4** | 2 | ::{ flag=GB }:: feliciaforever | [#1](https://osu.ppy.sh/community/matches/36305391) |
-| **Bubbleman** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36309255 ) |
+| **Bubbleman** ::{ flag=GB }:: | **4** | 1 | ::{ flag=GB }:: Doomsday is Bad | [#1](https://osu.ppy.sh/community/matches/36309255) |
 | **Bae-** ::{ flag=GB }:: | **4** | 3 | ::{ flag=US }:: Joezapy | [#1](https://osu.ppy.sh/community/matches/36310095) |
 
 Sunday, 24 September 2017:

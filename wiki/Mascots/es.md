@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 4de61f8a15dead54fe120f002837cec3dd4ed38d
----
-
 # Mascotas
 
 *Véase también: [Galería/Mascotas](/wiki/Mascots/Gallery).*
@@ -51,7 +46,7 @@ Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto c
 
 > Él es es apasionado líder del equipo de porras. ¡Tiene buen alma y ayuda a quienes lo rodean que están en peligro poniéndose de pie y luchando por ellos!
 
-一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
+一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web.
 
 Ryuuta también fue presentado en la skin de ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 

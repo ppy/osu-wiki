@@ -218,7 +218,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [MYUKKE. - ARIGA THESIS (Fynbi) [ONI]](https://osu.ppy.sh/beatmapsets/1687675#taiko/3449085)
 - Hard Rock
-  1. [Ookuni Kanon - Fuuen no 135-byou (qish) [Oni (PHNT edit)]](https://osu.ppy.sh/beatmapsets/1809544#taiko/3711489 )
+  1. [Ookuni Kanon - Fuuen no 135-byou (qish) [Oni (PHNT edit)]](https://osu.ppy.sh/beatmapsets/1809544#taiko/3711489)
 - Double Time
   1. [Syaro (CV: Uchida Maaya) - Caffeine Fighter ([Belajar-Osu]) [Oni]](https://osu.ppy.sh/beatmapsets/882223#taiko/1844440)
 - Freemod

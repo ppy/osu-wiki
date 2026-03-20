@@ -19,6 +19,7 @@ Parts of the ranking criteria have their own articles while still applying to al
 - **[Visual content considerations](/wiki/Rules/Visual_content_considerations)**: Guidelines covering any imagery found in osu! Beatmap background, storyboard or video content
 - **[Song content rules](/wiki/Rules/Song_content_rules)**: Guidelines covering any audio content in beatmaps
 - **[Code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)**: Rules and guidelines for engaging in the beatmap modding process
+- **[Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)**: The process that all beatmaps must go through to be ranked
 
 ### General ranking criteria
 

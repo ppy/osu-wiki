@@ -134,7 +134,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
       - The timer is the outer circle of the spinner which changes colour. The spinner ends when the timer circle colour changed completely.
 - The first three beatmaps ranked on the same day (07 October 2007, 2007-10-07) when the online leaderboard went live were:
   - [Kenji Ninuma - DISCO PRINCE (peppy)](https://osu.ppy.sh/beatmapsets/1), or `discoprince`; which was apparently mapped in around an hour.
-  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3 ) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
+  - [Ni-Ni - 1,2,3,4, 007 \[Wipeout Series\] (MCXD)](https://osu.ppy.sh/beatmapsets/3) , or `Ni-Ni - 1,2,3,4, 007 [Wipeout Series]`.
   - [Brandy - Love Fighter (FFFanatic)](https://osu.ppy.sh/beatmapsets/16), or `Brandy - Love Fighter`.
 - Notably, the older folders have their own naming convention (the folder names can only be found in *ancient* beatmap packs) and does not strictly follow the current enforced `{BeatmapSetID} {ArtistName} - {BeatmapName}` format.
   - Downloading directly from the osu!website beatmap list does follow the current enforced naming format regardless.

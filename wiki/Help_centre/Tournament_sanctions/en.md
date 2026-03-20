@@ -88,3 +88,11 @@ Indefinite tournament bans may be appealed after at least **two years** (24 mont
 Though it is possible to appeal indefinite tournament bans as above, it should be stressed that significant effort in the greater community outside of writing an appeal should be expected for any earnest chance of success. A list of all users who have successfully appealed an indefinite tournament ban can be found [on this forum thread](https://osu.ppy.sh/community/forums/topics/1798871).
 
 In rare situations, the [account support team](/wiki/People/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
+
+## Are tournament sanctions publicly visible? {id=visibility}
+
+::: Infobox
+![](img/tourney-ban-profile.png "A tournament ban on a user's profile")
+:::
+
+Indefinite tournament bans and tournament bans that have been applied via means other than [standard appeal terms](/wiki/Help_centre/Account_restrictions#appeal-granted) are visible on a user's profile while active. Other tournament sanctions (i.e. hosting probations, hosting bans and staffing bans) are not publicly visible in this way.

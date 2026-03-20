@@ -444,9 +444,9 @@ Saturday, 4 February 2023:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **xceller** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Lamp | [#1](https://osu.ppy.sh/community/matches/106662989) |
-| **chillington 15** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Axeanz | [#1](https://osu.ppy.sh/community/matches/106661690  ) |
-| **wooz** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: AngelNamirin | [#1](https://osu.ppy.sh/community/matches/106659788  ) |
-| **Taylan_** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: oetluller | [#1](https://osu.ppy.sh/community/matches/106659776  ) |
+| **chillington 15** ::{ flag=NL }:: | **5** | 1 | ::{ flag=NL }:: Axeanz | [#1](https://osu.ppy.sh/community/matches/106661690) |
+| **wooz** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: AngelNamirin | [#1](https://osu.ppy.sh/community/matches/106659788) |
+| **Taylan_** ::{ flag=NL }:: | **5** | 3 | ::{ flag=NL }:: oetluller | [#1](https://osu.ppy.sh/community/matches/106659776) |
 | **wessel_osu1** ::{ flag=NL }:: | **5** | 2 | ::{ flag=NL }:: sofuraabu | [#1](https://osu.ppy.sh/community/matches/106659580) |
 | **TurtleSenpaii** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Zereliq | [#1](https://osu.ppy.sh/community/matches/106658570) |
 | **LUCIANO** ::{ flag=NL }:: | **5** | 0 | ::{ flag=NL }:: Apollo685 | [#1](https://osu.ppy.sh/community/matches/106653980) |
