@@ -11,7 +11,6 @@ Spring is here... and Project Loved comes back with it!
 
 Hello again from Project Loved! Spring just arrived, and with it we have snuck in to deliver the newest Loved picks, fresh from the oven. If it's your first time seeing this, here's what we do: Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
-
 Before getting into the picks, **the osu!mania captains are looking to increase their ranks**. Right now they are looking for **4k-specific** captains. If you think you'd be a good fit for that, click the box and fill the form below:
 
 [![](https://osu.ppy.sh/wiki/images/shared/news/banners/project-loved/apply-mania.png)](https://forms.gle/xk6dcqVBBAY2tKU29)
@@ -179,7 +178,7 @@ This month's Gameplay Gimmi... right, that's over. Anyways, my pick for this mon
 
 Following in the footsteps of the recently nominated 2B map [IOSYS - Endless Tewi-ma Park](https://osu.ppy.sh/beatmapsets/90935#osu/5564129), this **10.62**-star monstrosity is quite the visual spectacle. Packed with overlapped sliders, jumps stacked on the same beat, and a variety of other wild gimmicks, this map will push your gameplay and adaptability to their absolute limits.
 
-osu!'s very own "Champion Above Champions", [-GN](https://osu.ppy.sh/users/895581), showcased the first pass ever on this map (albeit the forced autofail). Make sure to check out [__PLACEHOLDER_0__his attempt__PLACEHOLDER_1__](https://www.youtube.com/watch?v=QO3OErjbgIc) if you want even the slightest idea of how this map is meant to be played.
+osu!'s very own "Champion Above Champions", [-GN](https://osu.ppy.sh/users/895581), showcased the first pass ever on this map (albeit the forced autofail). Make sure to check out [his attempt](https://www.youtube.com/watch?v=QO3OErjbgIc) if you want even the slightest idea of how this map is meant to be played.
 
 If you want to see this map Loved, make sure to vote **YES!!** (twice in the same beat)
 
@@ -209,6 +208,7 @@ Chinese mapping has a long history of getting pattern influences from other rhyt
 
 Are you confident in your aim control capabilities? Of course you are~ Vote YES now!!
 
+...
 
 BATBALL: am i too late to answer?
 
@@ -350,7 +350,7 @@ Have fun!! \<3
 200 BPM, 3:32 | 7.35★\
 *description written by [Horiiizon](https://osu.ppy.sh/users/8071438)*
 
-Are you ready for a challenge? This month, [Rish feat. Choko - Teruyama II ](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086) mapped by [uone](https://osu.ppy.sh/users/5321719) is up for loved vote! Custom mapped for [Expert Global Taiko Showdown](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)'s Round of 16 Nomod 5 slot, [Teruyama II](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086) features a variety of challenges, including difficult tech patterns, long streams and a low SV 1/6 heavy section that is hard not to rack up 100s on! All of this mapped in [uone](https://osu.ppy.sh/users/5321719)'s signature style, making for a very fun and varied challenge!
+Are you ready for a challenge? This month, [Rish feat. Choko - Teruyama II](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086) mapped by [uone](https://osu.ppy.sh/users/5321719) is up for loved vote! Custom mapped for [Expert Global Taiko Showdown](https://osu.ppy.sh/home/news/2025-05-06-expert-global-taiko-showdown-2025-concludes)'s Round of 16 Nomod 5 slot, [Teruyama II](https://osu.ppy.sh/beatmapsets/2328994#taiko/4994086) features a variety of challenges, including difficult tech patterns, long streams and a low SV 1/6 heavy section that is hard not to rack up 100s on! All of this mapped in [uone](https://osu.ppy.sh/users/5321719)'s signature style, making for a very fun and varied challenge!
 
 Want to test how well-rounded your Nomod skills are? Give it a go and vote 'Yes'!
 
