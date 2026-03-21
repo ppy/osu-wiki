@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
----
-
 # 谱面编辑器菜单
 
 ## 文件
@@ -131,7 +126,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 谱面信息页 | 打开 osu! 网站上此谱面的信息页。 |
+| 谱面信息页 | 打开 osu! 网站上此谱面的[谱面信息页](/wiki/Beatmap_information)。 |
 | 谱面讨论帖 | 打开此谱面的讨论帖。 |
 
 ## 帮助
