@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
----
-
 # Menü des Beatmap-Editors
 
 ## Datei
@@ -131,7 +126,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap auf der osu!-Webseite. |
+| Informationsseite dieser Beatmap | Öffnet die [Informationsseite der Beatmap](/wiki/Beatmap_information) auf der osu!-Webseite. |
 | Forenbeitrag dieser Beatmap | Öffnet den Beatmap-Thread. |
 
 ## Hilfe
