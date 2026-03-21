@@ -2,7 +2,7 @@
 
 **BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forenbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
 
-![Der Forum-Beitragseditor mit seinen Buttons](img/editor-DE.jpg?1 "Die Box zum Editieren in den Foren")
+![Der Forum-Beitragseditor mit seinen Buttons](img/editor-DE.jpg?1 "Die Box zum Bearbeiten in den Foren")
 
 ## Verhalten
 
@@ -194,7 +194,7 @@ Das Tag `[url]` wird benutzt, um normalen Text in einen anklickbaren Hyperlink z
 
 Benutzer müssen zwei Argumente spezifizieren, um Hyperlinks mit dem Tag `[url]` zu erstellen: die spezifische URL, auf die verlinkt wird, und der verlinkte Text, der angezeigt wird. Das Erste muss im Argument `LINK` ohne Anführungszeichen (`"`) spezifiziert werden. Das Zweite muss zwischen dem öffnenden sowie dem schließenden Tag gesetzt werden. Wenn kein Anzeigetext definiert wird, dann wird der Hyperlink nicht korrekt dargestellt.
 
-`[url]LINK[/url]` wird auch unterstützt, ist aber redundant, da normale URLs automatisch formatiert werden.
+`[url]LINK[/url]` wird auch unterstützt, ist aber überflüssig, da normale URLs automatisch formatiert werden.
 
 *Hinweis: Alle URLs — egal, ob mit dem Tag `[url]` genutzt oder als reiner Text — müssen gültig sein und ein Protokoll (`http://`, `https://`, `ftp://`) oder das Präfix `www.` enthalten. Ansonsten funktioniert der Link nicht.*
 
@@ -256,7 +256,7 @@ Das Tag `[email]` erstellt einen anklickbaren Hyperlink, der eine neue E-Mail im
 
 Um einen Link mit dem Tag `[email]` zu kreieren, müssen zwei Argumente definiert werden: das Argument `ADRESSE` muss einer validen E-Mail-Adresse (ohne Anführungsstriche) entsprechen, wohingegen `TEXT` der dargestellte Text ist, der als Hyperlink dient. Wird kein Anzeigetext angegeben, wird der Hyperlink nicht korrekt angezeigt.
 
-`[email]ADRESSE[/email]` wird auch unterstützt, ist aber redundant, da E-Mails automatisch formatiert werden.
+`[email]ADRESSE[/email]` wird auch unterstützt, ist aber überflüssig, da E-Mails automatisch formatiert werden.
 
 ### Bilder
 
