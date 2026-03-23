@@ -1,17 +1,12 @@
----
-outdated_translation: true
-outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
----
-
 # 元数据
 
 ## 常规
 
 ### 规定
 
-- **歌曲元数据（歌曲信息）必须参考[主要元数据来源](/wiki/Beatmap/Primary_metadata_source)。** 如果符合 RC 标准，也可以使用相较于来源修改过的元数据。如果任何主要元数据来源都不可信，请使用最常见或容易辨识的。
+- **必须参考[主要元数据来源](/wiki/Beatmap/Primary_metadata_source)。** 如果符合 RC 标准，也可以使用相较于来源修改过的元数据。如果任何主要元数据来源都不可信，请使用最常见或容易辨识的。
 - **谱面中所有难度的 `Title`、`Artist`、`Tag`、`Source`、`BeatmapSetID` 字段必须相同。**
-- **若艺术家或歌曲名字段长度超过了限制（81 个字符），则必须缩短。**
+- **若 `Artist` （艺术家）或 `title` （歌曲名）字段长度超过了81 个字符，则必须缩短。**
   - 从略去附加的标记开始。
     - 当艺术家字段含有很长的、使用 `CV` 格式[^character-voice-actor]的艺术家，可以将虚拟角色的姓名略去，仅展示`配音演员`的姓名。
   - 如果略去标记还是过长，请使用 `...` 在合理的位置略去字段之后的内容。
@@ -38,7 +33,7 @@ outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
 ### 准许
 
 - **对于重混音、翻唱、演出作品：**
-  - **如果曲名字段已经标明了当前歌曲并非原版，也可以将原版歌曲的艺术家填入艺术家字段。** 此时，应该将重混音或翻唱的艺术家插入曲名字段，并使用括号包围。比如，由 `cYsmix` 制作，由 `mocha4life` 改编的歌曲 `triangles` 可以格式化为 `cYsmix - triangles (mocha4life Cover)`。
+  - **如果曲名字段已经标明了当前歌曲并非原版，也可以将原版歌曲的艺术家填入艺术家字段。** 此时，应该将重混音或翻唱的艺术家插入曲名字段，并使用括号包围。比如，由 `cYsmix` 制作，由 `mocha4life` 翻唱的歌曲 `triangles` 可以格式化为 `cYsmix - triangles (mocha4life Cover)`。
   - **如果谱面主就是歌曲的艺术家，则歌曲名可以任意修改。**
 
 ## 符号
@@ -48,9 +43,9 @@ outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
 - **如果曲名或艺术家中含有出现两次、用于将部分字段分成一个组的符号，则符号前后与其他字段相邻的位置必须添加空格。** 比如，`歌曲★标题★`应修改为`歌曲 ★标题★`。
 
 - **如果以下 Unicode 符号子集可以罗马化时，应该在前后添加空格：**
-  - [箭头补充-A (Supplemental Arrows-A)](https://en.wikipedia.org/wiki/Supplemental_Arrows-A)、[箭头补充-B (Supplemental Arrows-B)](https://en.wikipedia.org/wiki/Supplemental_Arrows-B)、[杂项符号和箭头 (Miscellaneous Symbols and Arrows)](https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows)
-  - [装饰符号 (Dingbats)](https://en.wikipedia.org/wiki/Dingbats_(Unicode_block))
-  - [杂项符号 (Miscellaneous Symbols)](https://en.wikipedia.org/wiki/Miscellaneous_Symbols)
+  - [补充箭头-A (Supplemental Arrows-A)](https://www.qiuwenbaike.cn/wiki/%E8%A1%A5%E5%85%85%E7%AE%AD%E5%A4%B4-A)、[补充箭头-B (Supplemental Arrows-B)](https://www.qiuwenbaike.cn/wiki/%E8%A1%A5%E5%85%85%E7%AE%AD%E5%A4%B4-B)、[杂项符号和箭头 (Miscellaneous Symbols and Arrows)](https://www.qiuwenbaike.cn/wiki/%E6%9D%82%E9%A1%B9%E7%AC%A6%E5%8F%B7%E5%92%8C%E7%AE%AD%E5%A4%B4%EF%BC%88Unicode%E5%8C%BA%E5%9D%97%EF%BC%89)
+  - [装饰符号 (Dingbats)](https://www.qiuwenbaike.cn/wiki/Dingbat)
+  - [杂项符号 (Miscellaneous Symbols)](https://www.qiuwenbaike.cn/wiki/%E6%9D%82%E9%A1%B9%E7%AC%A6%E5%8F%B7%EF%BC%88Unicode%E5%8C%BA%E5%9D%97%EF%BC%89)
 
   这不适用于艺术家故意在符号周围不使用空格的情况。比如，`。✰302？ionwan2go✰。`应该罗马化成`.*302?ionwan2go*.`，而不是`. * 302 ? ionwan2go * .`。其他字符集也应该根据具体情况处理。
 
@@ -213,7 +208,7 @@ outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
 - **当符合条件时，标签应该包含以下内容：**
   - **在权衡利弊下，被略去而未在主要的字段中使用的艺术家、歌曲名、来源元数据。**
   - **其他与歌曲有关，但未列在艺术家字段中的艺术家，比如编曲、词作者、吉他手等。**
-  - **专辑、迷你专辑 (EP)、单名。** 如果歌曲被多张专辑收录，只需列出一张。
+  - **专辑、迷你专辑 (EP)或单曲名。** 如果歌曲被多张专辑收录，只需列出一张。
   - **容易被搜索到，并且原文难以书写的部分元数据。**
     - 诸如 `don't`、`you're`，应该在标签中添加 `dont`、`youre`。
     - 对于 `cYsm1X` 创作的 `3angle5`，应该在标签中添加 `triangles` 和 `cYsmix`。
@@ -235,7 +230,7 @@ outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
 ### 规定：语言和书写系统罗马化
 
 - **日语**
-  - 使用[修正平文式罗马字方案](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)。
+  - 使用[修正平文式罗马字方案](https://www.qiuwenbaike.cn/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)。
   - 除非歌曲或艺术家为了艺术化，混用了大小写（比如所有英文使用大写或小写）之外，遵守首字母大写[^title-case]规定。
   - `ā` 改为 `aa`、`ū` 改为 `uu`、`ē` 改为 `ee`、`ī` 改为 `ii`
   - `ō` 改为 `oo` 或者 `ou`，这取决于它的平假名是 `おお` 或者 `おう`。
@@ -243,11 +238,11 @@ outdated_since: 8f0bebabe8583e636142f4f7f1dfe360900b39b6
 - **汉语**
   - 除了特定名词（比如部分艺术家的名）之外，必须将每个字逐个罗马化、首字母大写、并且在字与字之间添加空格。
   - 忽略拼音声调标识
-  - 普通话：使用[汉语拼音方案](https://baike.baidu.com/item/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3/)
-  - 广东话：使用[粤语拼音方案](https://baike.baidu.com/item/%E7%B2%A4%E8%AF%AD%E6%8B%BC%E9%9F%B3)
+  - 普通话：使用[汉语拼音方案](https://www.qiuwenbaike.cn/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
+  - 广东话：使用[粤语拼音方案](https://www.qiuwenbaike.cn/wiki/%E7%B2%A4%E8%AF%AD%E6%B3%A8%E9%9F%B3%E7%AC%A6%E5%8F%B7)
   - 其他方言：如何处理由谱师自行决定。推荐询问使用该方言作为母语的人。
 - **西里尔字母**
-  - 使用 [BGN/PCGN 系统](https://en.wikipedia.org/wiki/BGN/PCGN_romanization)。
+  - 使用 [BGN/PCGN 系统](https://www.qiuwenbaike.cn/wiki/BGN/PCGN%E4%BF%84%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%8C%96%E7%B3%BB%E7%BB%9F)。
   - 如果 `Е` 和 `е` 在  `a`、`e`、`ё`、`и`、`о`、`у`、`ы`、`э`、`ю`、`я`、`й`、`ъ`、`ь` 后单独出现，改为 `ye`。其他情况下改为 `e`。
   - 如果 `ё` 在 `ж`、`ч`、`ш`、 `щ` 之后出现，改为 `o`。其他情况下改为 `yo`。
   - 如果 `е` 作为 `ё` 的艺术化替代使用，此时也可以改为 `yo` 。同时也需要在标签字段中补上含有 `ё` 的版本的标签。

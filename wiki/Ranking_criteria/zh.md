@@ -1,9 +1,3 @@
----
-no_native_review_since: 87c9697adc8f512867e6ef82373580a61a39275d YumeMuzi
-outdated_translation: true
-outdated_since: 45e872f620e408dc550e2fbc2df99a940aabd24e
----
-
 # 谱面上架标准 (RC)
 
 这篇文章列出了[谱面](/wiki/Beatmap)在通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)时必须遵守的规定和准则。
@@ -17,18 +11,19 @@ outdated_since: 45e872f620e408dc550e2fbc2df99a940aabd24e
 
 ### 概要
 
-- **[简版上架标准](Simplified_ranking_criteria)：** 由于这篇文章很复杂，简版上架标准简单概括了比较重要的上架标准。请注意，它并未包含所有情况，如果有任何疑问，还是应该查阅这篇文章。
+- **[简版上架标准](Simplified_ranking_criteria)**：由于这篇文章很复杂，简版上架标准简单概括了比较重要的上架标准。请注意，它并未包含所有情况，如果有任何疑问，还是应该查阅这篇文章。
 
 ### 常规内容扩展
 
-- **[内容使用规范](/wiki/Rules/Content_usage_permissions)：** 适用于所有谱面的媒体使用准则。
-- **[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)：** 适用于 osu! 谱面背景、故事板、视频中包含的所有视觉内容准则。
-- **[歌曲内容规定](/wiki/Rules/Song_content_rules)：** 适用于谱面中含有的所有歌曲内容准则。
-- **[贡献者公约：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)：** 参与谱面修改流程的规定和准则。
+- **[内容使用规范](/wiki/Rules/Content_usage_permissions)**：适用于所有谱面的媒体使用准则
+- **[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)**：适用于 osu! 谱面背景、故事板、视频中包含的所有视觉内容准则
+- **[歌曲内容规定](/wiki/Rules/Song_content_rules)**：适用于谱面中含有的所有歌曲内容准则
+- **[贡献者公约：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)**：参与谱面修改流程的规定和准则
+- **[谱面上架流程](/wiki/Beatmap_ranking_procedure)**：谱面上架前必须经过的流程
 
 ### 常规上架标准
 
-- **[元数据](Metadata)：** 在填写谱面的歌曲信息时，应遵守的规定或准则。
+- **[元数据](Metadata)**：在填写谱面的歌曲信息时，应遵守的规定或准则。
 
 ### 游戏模式特有的上架标准
 
@@ -52,11 +47,11 @@ outdated_since: 45e872f620e408dc550e2fbc2df99a940aabd24e
 
 ## 工具
 
-非常推荐您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来辅助检查谱面是否符合上架标准。传统客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 客户端内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
+非常推荐您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来辅助检查谱面是否符合上架标准。老客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 客户端内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
 
 使用前需注意：
 
-- 即使使用了工具，也必须认真阅读此标准，且需要人工检查谱面。
+- 即使使用了工具，也必须认真阅读此标准并人工检查谱面。
 - 请保持自己的判断，不要盲目地遵从工具指出的建议。
 - 工具只能帮助你检查谱面，而不能代替你。
 
@@ -66,12 +61,13 @@ outdated_since: 45e872f620e408dc550e2fbc2df99a940aabd24e
 
 - **同一时间不能放置两个或多个物件。** 即圆圈、滑条和转盘覆盖的全部时间段不得出现重叠。osu!mania 模式除外。
 - **圆圈与其后物件的时间间隔必须大于等于 10 毫秒，滑条尾与其后物件的时间间隔必须大于等于 20 毫秒。** osu!catch、osu!mania 模式除外。
-- **[背景](/wiki/Beatmap/Background)图片、背景视频、故事板不得出现任何违规内容。** 即不允许出现裸体、近乎裸体、性暗示、暴力、滥用药品（毒品）等元素。关于更详细的规定，参见[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)。
-- **保证谱面内的任何东西均遵守[内容使用规范](/wiki/Rules/Content_usage_permissions#艺术家准许)。** 如果艺术家或者专辑在规范内列为不允许使用，则这些歌曲只允许在谱师获得明确的授权后才能上架。授权说明必须贴在谱面讨论页或谱面介绍内。
+- **保证谱面内的任何东西均遵守[内容使用规范](/wiki/Rules/Content_usage_permissions#艺术家准许)。** 如果艺术家或者专辑在规范内列为不允许使用，则这些歌曲只允许在谱师获得明确的授权后才能上架。授权说明必须贴在谱面介绍或谱面讨论页内。
+- **谱面的物件、打击音效和时轴必须由人类直接输入，禁止使用任何生成工具。**制作谱面从本质上来说是一项创造工作，所以任何走捷径的谱面——比如使用AI生成——都无法上架。
+- **[背景](/wiki/Beatmap/Background)图片、背景视频和故事板不得出现任何违规内容。** 即不允许出现裸体、近乎裸体、性暗示、暴力、滥用药品（毒品）等元素。关于更详细的规定，参见[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)。
 - **如果谱面包含快速重复的闪烁图片，或者视频、故事板内含有对比度、颜色、亮度快速变化的内容，则必须开启光敏性癫痫警告。** 如果警告干扰了谱面游玩，则必须在歌曲前增加足够的开场空白时间。频率低于 3 HZ（1秒内闪烁3次）的闪烁图片一般无须担心。如果不确定是否有开启的必要，请预先开启警告，并在摸图时讨论。
 - **谱面文件夹中不能有从未使用的文件或 0 字节大小的文件。** 0 字节大小的文件会影响文件夹中其他文件的正常上传。仅自动生成的 `thumbs.db` 文件除外。
 - **必须按照[谱面编辑器](/wiki/Client/Beatmap_editor)的限制插入[休息时间](/wiki/Beatmap/Break)。**
-- **必须保证[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty))的各项参数能直接在[谱面编辑器](/wiki/Client/Beatmap_editor)内编辑复现。**
+- **[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty))中的各项参数必须位于[谱面编辑器](/wiki/Client/Beatmap_editor)的上下限内。**
 - **如果相同游戏模式下的难度包含相同的休息时间，或相同的故事板，则它们的`休息段使用黑边填充背景`设定必须一致，**
 - **如果谱面包含某媒体作品的剧透内容，则必须在谱面描述中标注剧透警告。**
 

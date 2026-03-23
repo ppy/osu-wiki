@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
----
-
 # 难度命名
 
 难度命名的目的是为了让玩家能了解谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。不过，你也可以使用自己的命名方案，只要命名能大致描述难度的情况，且能清晰反映出不同难度之间的游玩难易程度阶级即可。
@@ -15,19 +10,33 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Easy（简单）
-- ![](/wiki/shared/diff/normal-o.png?20211215) Normal（普通）
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hard（困难）
-- ![](/wiki/shared/diff/insane-o.png?20211215) Insane（疯狂）
-- ![](/wiki/shared/diff/expert-o.png?20211215) Expert（专家）
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
+
+#### 替代方案
+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner：难度比 Easy 低
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：难度位于 Normal 和 Hard 之间
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：难度位于 Hard 和 Insane 之间
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：替代 Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：难度比 Expert 高
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan（简单）
-- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
-- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（困难）
-- ![](/wiki/shared/diff/insane-t.png?20211215) Oni（鬼）
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni / Ura Oni（里鬼）
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
+
+#### 替代方案
+
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu：难度比 Kantan 低
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni：替代 Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni：难度比 Inner Oni 高
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -37,6 +46,10 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
+#### 替代方案
+
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：难度比 Overdose 高
+
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy
@@ -44,17 +57,6 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 - ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
-
-### 约定俗成的替代方案
-
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：比 Easy 简单
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初学者）：比 Kantan 简单
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：处于 Normal 和 Hard 之间
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：处于 Hard 和 Insane 之间
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：比 Expert 困难
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：比 Inner Oni / Ura Oni 困难
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：比 Overdose 困难
 
 ## 来自其他游戏的命名方案
 
@@ -158,19 +160,19 @@ outdated_since: 306330e3c0daa95c84385104d65e3963533554a1
 
 ### maimai, CHUNITHM, Ongeki
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) EASY（简单）
-- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC（初级）
-- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED（高级）
-- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT（专家）
-- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER（大师）
+- ![](/wiki/shared/diff/easy-o.png?20211215) EASY
+- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT
+- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER
 
 #### maimai
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER（宗师）
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA（究极）/ WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
----
-
 # osu!catch 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
@@ -33,8 +28,7 @@ outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
 - **[水果串（滑条）](/wiki/Gameplay/Hit_object/Juice_stream)中最后的[大果](/wiki/Gameplay/Hit_object/Fruit)应按照歌曲节拍结构[对齐](/wiki/Beatmapping/Snapping)。** 推荐使用 1/4、1/8、1/16 节拍细分来贴合直拍 (Straight Beat) 结构的歌曲，使用 1/6、1/12 节拍细分来贴合摇摆拍 (Swing Beat) 结构的歌曲。如果歌曲的节拍类型在特定位置与以上推荐有所不同，则应优先根据歌曲实际情况来贴合。
 - **[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)的终点需要与游戏区域的左右边缘保持一定的距离。** 当玩家冲到这个区域之外（小于 x:16 或大于 x:496 的区域）时，可能会感觉被强行挡了一下。
 - **[连击](/wiki/Beatmapping/Combo)不要无端设得太大。** 经常使用新连击组来清空盘子，能确保玩家的视线不会被盘子上的[水果](/wiki/Gameplay/Hit_object/Fruit)所阻挡。
-- **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应该与[下落速度 (AR)](/wiki/Beatmapping/Approach_rate) 的值相同。** 这只是个标准化的值。在 [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch) 下，它只会影响谱面的理论最高分。
-  - 如果一组谱面内的某个难度，使用了相比于其他较低等级难度更加低的下落速度 (AR)，则这个难度的分数因子 (OD) 应与其他较低等级难度中最高的分数因子 (OD) 相匹配。
+- **[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应该与[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate) 的值相同。** 如果发生分数溢出，则应使用更低的值。
 - **[滑条点倍率](/wiki/Beatmapping/Slider_tick_rate)应按歌曲节奏类型来设置。** 举个例子 ，如果你的歌曲包含了 1/3 节拍细分的段落，那么此时就不适合使用 2 倍或 4 倍的滑条点倍率。
 - **避免使用亮度小于等于 50 的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 如果玩家的背景暗化设得很高，较暗的连击颜色会影响读图。
 - **在[气合时间 (Kiai)](/wiki/Gameplay/Kiai_time) 中，避免使用亮度大于等于 220 的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 比较亮的连击颜色搭配气合时间 (Kiai)，会发出强烈、让眼睛感到不适的闪光。
@@ -88,9 +82,9 @@ outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 6。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 2-3 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 2.5。
+- [缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 6。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 2-3 之间。
+- [圆圈大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 2.5。
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
@@ -114,9 +108,9 @@ outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 7。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 3-4 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 3。
+- [缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 7。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 3-4 之间。
+- [圆圈大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 3。
 
 ### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
@@ -144,9 +138,9 @@ outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 8。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 4-5 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 3.5。
+- [缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 8。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 4-5 之间。
+- [圆圈大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 3.5。
 
 ### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
@@ -171,9 +165,9 @@ outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 9。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 5-6 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 4。
+- [缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 9。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 5-6 之间。
+- [圆圈大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 4。
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
@@ -188,10 +182,10 @@ outdated_since: 1f3ec23930926a865509c7a0d84913affe6b95cb
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应大于或等于 9。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应大于或等于 5。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应大于或等于 4。
+- [缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)、[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应大于或等于 9。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应大于或等于 5。
+- [圆圈大小 (CS)](/wiki/Beatmap/Circle_size) 应大于或等于 4。
 
 ## 备注
 
-[^proper-spread]: *对于大于等于 Rain 的难度*，梯度“合适”，意为着这些难度之间的游玩难度间隔，与写在[规定](#具体难度)内的较低[难度等级](/wiki/Beatmap/Difficulty#难度等级)之间的游玩难度间隔类似。
+[^proper-spread]: *对于大于等于 Rain 的难度*，梯度“合适”，意味着这些难度之间的游玩难度间隔，与写在[规定](#具体难度)内的较低[难度等级](/wiki/Beatmap/Difficulty#难度等级)之间的游玩难度间隔类似。

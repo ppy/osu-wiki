@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
----
-
 # 简版上架标准
 
 *对于完整版谱面上架标准 (RC)，请参见：[谱面上架标准](/wiki/Ranking_criteria)*
@@ -17,7 +12,7 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ## 谱面
 
 ::: Infobox
-![](./img/percent.png "歌曲进度百分比")
+![](img/percent.png "歌曲进度百分比")
 :::
 
 - **保证谱面内的任何东西均遵守[内容使用规范](/wiki/Rules/Content_usage_permissions#艺术家准许)。**
@@ -34,27 +29,33 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 - **[谱面主（谱面拥有者）](/wiki/Beatmap/Beatmap_host) 制作的难度数量必须大于等于[客串谱师](/wiki/Beatmap/Guest_difficulty)制作的数量。**
 - **取决于游戏模式和歌曲长度，谱面所需的最低难度不能低于：**
 
-| [掉血时间](/wiki/Beatmap/Drain_time) | osu! | osu!taiko |
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
 | --: | :-: | :-: |
-| **0:30 到 3:30** | Normal | Futsuu |
-| **3:30 到 4:15** | Hard | Muzukashii |
-| **4:15 到 5:00** | Insane | Oni |
+| **0:30 到 3:30** | Normal |
+| **3:30 到 4:15** | Hard |
+| **4:15 到 5:00** | Insane |
 
-| [掉血时间](/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch | 
 | --: | :-: | :-: |
-| **0:30 到 2:30** | Salad | Normal |
-| **2:30 到 3:15** | Platter | Hard |
-| **3:15 到 4:00** | Rain | Insane |
+| **0:30 到 2:30** | Futsuu | Salad | Normal |
+| **2:30 到 3:15** | Muzukashii | Platter | Hard |
+| **3:15 到 4:00** | Oni | Rain | Insane |
+
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
+| :-- | :-: |
+| **0:30 到 2:00** | Normal |
+| **2:00 到 2:45** | Hard |
+| **2:45 到 3:30** | Insane |
 
 ### 音效
 
-- **谱面必须[下音效](/wiki/Beatmapping/Hitsound)。** osu!mania 谱面除外。
-- **所有可点击的物件必须能让玩家听到（有足够的反馈）。**
+- **谱面必须[有音效](/wiki/Beatmapping/Hitsound)。** osu!mania 谱面除外。
+- **所有可点击的物件必须有听觉反馈。**
 
 ### 时间轴
 
 ::: Infobox
-![](./img/2b.png "同一时间点有两个物件")
+![](img/2b.png "同一时间点有两个物件")
 :::
 
 - **谱面时间轴（红线）必须精确。** BPM 和拍子记号也必须准确。
@@ -68,7 +69,7 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 - **元数据（歌曲信息）必须准确无误。**
   - 使用[主要元数据来源](/wiki/Beatmap/Primary_metadata_source)。
   - 如果谱面的歌曲已经存在于上架 (Ranked) 或社区喜爱谱面 (Loved) 分类中，并且它们的元数据没有明显的错误，那么就需要使用它们的元数据。
-- **使用[修正平文式罗马音方案](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)作为日文罗马音方案。**
+- **使用[修正平文式罗马音方案](https://www.qiuwenbaike.cn/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)作为日文罗马音方案。**
 
 ### 标签
 
@@ -107,13 +108,13 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ### 音效
 
 ::: Infobox
-![](./img/delay.png "开头留有空白的音效")
+![](img/delay.png "开头留有空白的音效")
 :::
 
 - **音效文件必须长于 25 毫秒，并使用 `.wav` 或 `.ogg` 文件格式。**
   - 不要使用 `.mp3`。
   - **例外：** 使用[这个文件](https://up.ppy.sh/files/blank.wav)作为完全没有声音的音效。
-- **音效开头不能留有[空白](./img/delay.png)（不得延迟）。**
+- **音效开头不能留有[空白](img/delay.png)（不得延迟）。**
 
 ### 背景
 
@@ -139,7 +140,7 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 ### osu!
 
 ::: Infobox
-![](./img/offscreen.png "在 1280x960 分辨率下，滑条部分边界处于游玩区域之外")
+![](img/offscreen.png "在 1280x960 分辨率下，滑条部分边界处于游玩区域之外")
 :::
 
 - **在游戏处于 4:3 纵横比下，谱面物件不能超出游戏窗口区域。**
@@ -154,19 +155,19 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 - **在较低的难度内，尽量避免调整滑条速度（变速）。**
 - **每个难度必须遵守对应的休息段长度准则：**
 
-| 难度 | 休息段 | 物件连续排列的段落长度 |
-| --: | :-: | :-: |
-| **Kantan** | ![3/1](./img/taiko/kantan.png "3/1") | 每 32-36 拍需要一个休息段 |
-| **Futsuu** | ![2/1](./img/taiko/futsuu.png "2/1") | 每 32-36 拍需要一个休息段 |
-| **Muzukashii** (选项 1) | ![3/2](./img/taiko/muzu1.png "3/2") | 每 16-20 拍需要一个休息段 |
-| **Muzukashii** (选项 2) | ![3 个连续的 1/1](./img/taiko/muzu2.png?1 "3 个连续的 1/1") | 每 16-20 拍需要一个休息段 |
-| **Oni** | ![1/1](./img/taiko/oni.png "1/1") | 每 16-20 拍需要一个休息段 |
+| 难度 | 休息段 | 例子 | 物件连续排列的段落长度 |
+| --: | :-: | :-: | :-: |
+| ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 或更长 | ![3/1](img/taiko/kantan.png "3/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 或更长 | ![2/1](img/taiko/futsuu.png "2/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (选项 1) | 3/2 或更长 | ![3/2](img/taiko/muzu1.png "3/2") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (选项 2) | 连续 3 个 1/1 或更长 | ![连续 3 个 1/1](img/taiko/muzu2.png "连续 3 个 1/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 或更长 | ![1/1](img/taiko/oni.png "1/1") | 每 16-20 拍需要一个休息段 |
 
 ### osu!catch
 
 - **[Auto 模组](/wiki/Gameplay/Game_modifier/Auto)必须能 SS。**
 - **[跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)的后一个物件不应过于靠近游戏区域的左右边缘。** 可以放置在 x = 16 和 x = 496 之间。
-- **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应完全匹配[下落速度 (AR)](/wiki/Beatmap/Approach_rate)**。
+- **[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 应等于[缩圈速度 (AR)](/wiki/Beatmap/Approach_rate)**。
 
 ### osu!mania
 
@@ -199,7 +200,7 @@ outdated_since: f5d103c16e092c5d5cd47298df02ea849ddcc6e4
 - **在合理的范围内，保持一致性。**
   - 如果歌曲某些部分重复出现，那么你的谱面排列也应该重复出现。
   - 但是，如果只是简单地复制粘贴这些排列，那就太无聊了。所以如果出现以上情况，你可以在不改变作图概念和风格的同时，适当调整某些排列的位置和方向。
-- **问问你自己，谱面内的物件是否全部符合 *”谱面的所有元素都应该起到表现歌曲的作用“* 这条原则。**
-  - **例子 1：** ”这个物件是如何表现歌曲中出现的声音的？“
+- **问问你自己，谱面内的物件是否全部符合 *“谱面的所有元素都应该起到表现歌曲的作用”* 这条原则。**
+  - **例子 1：** “这个物件是如何表现歌曲中出现的声音的？”
   - **例子 2：** “这一部分物件是如何表现歌曲这部分的大致情绪的？”
 - **考虑其他玩家会如何解读你的谱面。** 如果你的表现方式不够直观和清晰，那很可能会让其他玩家认为你并没有很好地表现歌曲！
