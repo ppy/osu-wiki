@@ -35,7 +35,7 @@
 | **3:30 到 4:15** | Hard |
 | **4:15 到 5:00** | Insane |
 
-| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch | 
+| [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
 | --: | :-: | :-: |
 | **0:30 到 2:30** | Futsuu | Salad |
 | **2:30 到 3:15** | Muzukashii | Platter |
