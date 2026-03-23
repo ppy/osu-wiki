@@ -308,6 +308,7 @@ Group H:
 
 ### Round of 16
 
+**[Download the mappack here (123 MB)](https://packs.ppy.sh/P317%20-%20osu%21taiko%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2729260283)
 
 - No Mod
@@ -318,12 +319,12 @@ Group H:
   5. [Xavlegbmaofffassssitimiwoamndutroabcwapwaeiippohfffx - Pneumonoultramicroscopicsilicovolcanoconiosis (Xay) \[Eellogofusciouhipoppokunurious\]](https://osu.ppy.sh/beatmapsets/2527057#taiko/5582884)
 - Hidden
   1. [seatrus - Raindrop (Grape\_Tea) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2527055#taiko/5582877)
-  2. Marmalade butcher - Open Scar Unending (Eyenine) \[Torrington Wrestling Club\] (link pending)
+  2. [Marmalade butcher - Open Scar Unending (Eyenine) \[Torrington Wrestling Club\]](https://osu.ppy.sh/beatmapsets/2527284#taiko/5583583)
 - Hard Rock
   1. [steelplus - Skywired Beatscape (Hivie) \[Sanctuary\]](https://osu.ppy.sh/beatmapsets/2527061#taiko/5582903)
   2. [orangentle / Yu\_Asahina - OEFHEBEN (Alwaysyukaz) \[Almighty Power (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2428701#taiko/5582896)
 - Double Time
-  1. Yunomi - Game Over (feat. TORIENA) (komasy) \[Game Start (TWC Edit)\] (link pending)
+  1. [Yunomi - Game Over (feat. TORIENA) (komasy) \[Game Start (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2527202#taiko/5583227)
   2. [A-One - Side by Side (OnosakiHito) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2527072#taiko/5582922)
 - Free Mod
   1. [Zekk - Quantum L3ap (Maimaing) \[Inn3r Oni\]](https://osu.ppy.sh/beatmapsets/2527065#taiko/5582908)
