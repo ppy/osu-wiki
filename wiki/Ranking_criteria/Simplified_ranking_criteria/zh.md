@@ -17,7 +17,7 @@
 
 - **保证谱面内的任何东西均遵守[内容使用规范](/wiki/Rules/Content_usage_permissions#艺术家准许)。**
 - **谱面长度至少 30 秒。**
-- **谱面最早只能结束在 [80% 标记](./img/percent.png)处。** 如果你想更早结束谱面，请截短歌曲。
+- **谱面最早只能结束在 [80% 标记](img/percent.png)处。** 如果你想更早结束谱面，请截短歌曲。
 
 ### 难度梯度
 
@@ -30,16 +30,16 @@
 - **取决于游戏模式和歌曲长度，谱面所需的最低难度不能低于：**
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
-| --: | :-: | :-: |
+| --: | :-: |
 | **0:30 到 3:30** | Normal |
 | **3:30 到 4:15** | Hard |
 | **4:15 到 5:00** | Insane |
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch | 
 | --: | :-: | :-: |
-| **0:30 到 2:30** | Futsuu | Salad | Normal |
-| **2:30 到 3:15** | Muzukashii | Platter | Hard |
-| **3:15 到 4:00** | Oni | Rain | Insane |
+| **0:30 到 2:30** | Futsuu | Salad |
+| **2:30 到 3:15** | Muzukashii | Platter |
+| **3:15 到 4:00** | Oni | Rain |
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
 | :-- | :-: |
