@@ -126,7 +126,7 @@
 
 | Name | Description |
 | :-- | :-- |
-| This Beatmap's Information Page | Open the beatmap info page<!-- TODO(TicClick): link after https://github.com/ppy/osu-wiki/issues/3122 is completed --> on the osu! website. |
+| This Beatmap's Information Page | Open the [beatmap info page](/wiki/Beatmap_information) on the osu! website. |
 | This Beatmap's Thread | Open the beatmap's forum thread. |
 
 ## Help
