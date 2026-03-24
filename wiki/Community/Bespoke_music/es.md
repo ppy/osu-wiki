@@ -93,6 +93,7 @@ translation_keys:
     "Round of 128 (.+)": \1 de los sesentaicuatroavos de final
     "Round of (\\d+) (.+)": \2 de la ronda de \1
     "Qualifiers (.+)": \1 de las clasificatorias
+    "Pool (.) (.+)": \2 de la pool \1
     # bracket
     "^Runoff Bracket (.+)": \1 del bracket adicional
     "^Tier (\\d) (.+)": \2 del Tier \1
@@ -1805,7 +1806,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 | Enlaces |  | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
-|  |  | Ruby My Dear - Machine A Papillon[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2523293) | Pool 3 Mapa de desempate |
+|  |  | Ruby My Dear - Machine A Papillon[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2523293) | Mapa de desempate de la pool 3 |
 
 #### ![](/wiki/shared/mode/taiko.png) Southeast Asia Taiko Championship
 
