@@ -120,14 +120,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 ## Match schedule: Round of 16
 
+### Friday, 27 March 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| 2 | Taiwan ::{ flag=TW }:: | ::{ flag=NO }:: Norway | [Mar 27 (Fri) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260327T120000&p1=1440&p2=241&p3=187) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 28 March 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | 1 | Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Mar 28 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T080000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) |
-| 6 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Mar 28 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T090000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) |
-| 2 | Taiwan ::{ flag=TW }:: | ::{ flag=NO }:: Norway | [Mar 28 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T100000&p1=1440&p2=241&p3=187) | [osulive](https://twitch.tv/osulive) |
-| 4 | South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | [Mar 28 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T110000&p1=1440&p2=235&p3=195) | [osulive](https://twitch.tv/osulive) |
+| 4 | South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | [Mar 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T120000&p1=1440&p2=235&p3=195) | [osulive](https://twitch.tv/osulive) |
+| 14 | Philippines ::{ flag=PH }:: | ::{ flag=SE }:: Sweden | [Mar 28 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T150000&p1=1440&p2=145&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 9 | Colombia ::{ flag=CO }:: | ::{ flag=VN }:: Vietnam | [Mar 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T160000&p1=1440&p2=41&p3=95) | [osulive](https://twitch.tv/osulive) |
 | 7 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Mar 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T170000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) |
 | 3 | United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Mar 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T180000&p1=1440&p2=263&p3=136) | [osulive](https://twitch.tv/osulive) |
@@ -136,16 +141,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 5 | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Mar 29 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T020000&p1=1440&p2=232&p3=264) | [osulive](https://twitch.tv/osulive) |
+| 5 | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Mar 29 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T000000&p1=1440&p2=232&p3=264) | [osulive](https://twitch.tv/osulive) |
 | 13 | Peru ::{ flag=PE }:: | ::{ flag=MY }:: Malaysia | [Mar 29 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T030000&p1=1440&p2=131&p3=122) | [osulive](https://twitch.tv/osulive) |
-| 14 | Philippines ::{ flag=PH }:: | ::{ flag=SE }:: Sweden | [Mar 29 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T100000&p1=1440&p2=145&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 10 | Hong Kong ::{ flag=HK }:: | ::{ flag=NL }:: Netherlands | [Mar 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T110000&p1=1440&p2=102&p3=16) | [osulive](https://twitch.tv/osulive) |
 | 16 | Poland ::{ flag=PL }:: | ::{ flag=DE }:: Germany | [Mar 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T120000&p1=1440&p2=262&p3=37) | [osulive](https://twitch.tv/osulive) |
+| 6 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Mar 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T130000&p1=1440&p2=33&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 15 | Switzerland ::{ flag=CH }:: | ::{ flag=PT }:: Portugal | [Mar 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T130000&p1=1440&p2=270&p3=133) | [osulive](https://twitch.tv/osulive) |
 | 11 | Argentina ::{ flag=AR }:: | ::{ flag=SK }:: Slovakia | [Mar 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T150000&p1=1440&p2=51) | [osulive](https://twitch.tv/osulive) |
 | 8 | Italy ::{ flag=IT }:: | ::{ flag=RU }:: Russian Federation | [Mar 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T160000&p1=1440&p2=215&p3=166) | [osulive](https://twitch.tv/osulive) |
 | 12 | Mexico ::{ flag=MX }:: | ::{ flag=CA }:: Canada | [Mar 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T170000&p1=1440&p2=155&p3=188) | [osulive](https://twitch.tv/osulive) |
-|  | Quarterfinals | mappool showcase | [Mar 29 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+|  | Quarterfinals | mappool showcase | [Mar 29 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
 
@@ -308,7 +313,7 @@ Group H:
 
 ### Round of 16
 
-**[Download the mappack here (123 MB)](https://packs.ppy.sh/P317%20-%20osu%21taiko%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
+**[Download the mappack here (123 MB)](https://packs.ppy.sh/P317%20-%20osu!taiko%20World%20Cup%202026%3A%20Round%20of%2016.zip?1774380497)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2729260283)
 
 - No Mod
@@ -328,7 +333,7 @@ Group H:
   2. [A-One - Side by Side (OnosakiHito) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2527072#taiko/5582922)
 - Free Mod
   1. [Zekk - Quantum L3ap (Maimaing) \[Inn3r Oni\]](https://osu.ppy.sh/beatmapsets/2527065#taiko/5582908)
-  2. [Memme - Erebus (Ectomic) \[Inner Oni (TWC2026)\]](https://osu.ppy.sh/beatmapsets/2527070#taiko/5582920)
+  2. [Kagetora. - Tenchi-Kaibyaku (Nwolf) \[Misplaced Oni\]](https://osu.ppy.sh/beatmapsets/2528068#taiko/5585695)
 - Tiebreaker
   1. **[Cansol - Out of Place (Nurend) \[Wandering Wolf\]](https://osu.ppy.sh/beatmapsets/2527074#taiko/5582924)**
 
