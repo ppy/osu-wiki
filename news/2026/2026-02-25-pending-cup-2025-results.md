@@ -98,15 +98,16 @@ The finalist with the **highest points** out of the **3** tracks will receive a 
 
 ### Contest points
 
-In addition, the finalists at **1st and 2nd place** per track receive the following amount of [contest points](/wiki/Contests/Contest_points):
+In addition, the per-track **winners** get 2 [contest points](/wiki/Contests/Contest_points) and the **runner-ups** get 1 point, plus one extra point for the **grand prize recipient**:
 
 | Mapper | Points |
 | :-- | --: |
+| [MaestroSplinter](https://osu.ppy.sh/users/6707918) | +3 |
 | [fowwo](https://osu.ppy.sh/users/4547551) | +2 |
 | [Matsuyuki Ame](https://osu.ppy.sh/users/12763959) | +2 |
-| [MaestroSplinter](https://osu.ppy.sh/users/6707918) | +1 |
 | [Alty](https://osu.ppy.sh/users/16407988) | +1 |
 | [0ppinOsu](https://osu.ppy.sh/users/12551840) | +1 |
+| [Aoinabi](https://osu.ppy.sh/users/10120527) | +1 |
 
 View the entire contest point leaderboards [on the wiki](/wiki/Contests/Contest_points#leaderboards)!
 
