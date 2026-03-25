@@ -1,6 +1,6 @@
 name: Label pull request
 on:
-  pull_request:
+  pull_request_target:
     branches:
       - master
     types:
@@ -11,7 +11,6 @@ jobs:
     permissions:
       contents: read
       pull-requests: write
-      issues: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/labeler@v5
+      - uses: actions/labeler@634933edcd8ababfe52f92936142cc22ac488b1b # v6.0.1
