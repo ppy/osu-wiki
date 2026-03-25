@@ -21,7 +21,7 @@ The group stage returns to the osu!taiko World Cup, featuring a round-robin form
 
 ## Group stage results
 
-8 Groups of 3 teams each drummed their way through the group stage. Here are their results laid out:
+**Eight Groups** of **three teams each** drummed their way through the group stage. Here are their results laid out. Please note, that **PF** (Points For) reflects a team’s total scoring output, while **PA** (Points Against) captures what they’ve given up defensively. The resulting **PD** (Point Difference)—the gap between the two—offers a quick snapshot of overall performance and often serves as the deciding factor when teams are tied in the standings.
 
 **Group A:**
 
