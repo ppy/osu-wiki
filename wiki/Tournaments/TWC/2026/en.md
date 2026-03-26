@@ -130,12 +130,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 1 | Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Mar 28 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T080000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) |
+| 12 | Mexico ::{ flag=MX }:: | ::{ flag=CA }:: Canada | [Mar 28 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T020000&p1=1440&p2=155&p3=188) | [osulive](https://twitch.tv/osulive) |
+| 1 | Japan ::{ flag=JP }:: | ::{ flag=AU }:: Australia | [Mar 28 (Sat) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T060000&p1=1440&p2=248&p3=57) | [osulive](https://twitch.tv/osulive) |
 | 4 | South Korea ::{ flag=KR }:: | ::{ flag=FR }:: France | [Mar 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T120000&p1=1440&p2=235&p3=195) | [osulive](https://twitch.tv/osulive) |
 | 14 | Philippines ::{ flag=PH }:: | ::{ flag=SE }:: Sweden | [Mar 28 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T150000&p1=1440&p2=145&p3=239) | [osulive](https://twitch.tv/osulive) |
-| 9 | Colombia ::{ flag=CO }:: | ::{ flag=VN }:: Vietnam | [Mar 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T160000&p1=1440&p2=41&p3=95) | [osulive](https://twitch.tv/osulive) |
+| 3 | United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Mar 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T160000&p1=1440&p2=263&p3=136) | [osulive](https://twitch.tv/osulive) |
 | 7 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Mar 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T170000&p1=1440&p2=45&p3=101) | [osulive](https://twitch.tv/osulive) |
-| 3 | United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Mar 28 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260328T180000&p1=1440&p2=263&p3=136) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 29 March 2026
 
@@ -143,19 +143,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | :-: | --: | :-- | :-- | :-: |
 | 5 | Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Mar 29 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T000000&p1=1440&p2=232&p3=264) | [osulive](https://twitch.tv/osulive) |
 | 13 | Peru ::{ flag=PE }:: | ::{ flag=MY }:: Malaysia | [Mar 29 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T030000&p1=1440&p2=131&p3=122) | [osulive](https://twitch.tv/osulive) |
-| 10 | Hong Kong ::{ flag=HK }:: | ::{ flag=NL }:: Netherlands | [Mar 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T110000&p1=1440&p2=102&p3=16) | [osulive](https://twitch.tv/osulive) |
-| 16 | Poland ::{ flag=PL }:: | ::{ flag=DE }:: Germany | [Mar 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T120000&p1=1440&p2=262&p3=37) | [osulive](https://twitch.tv/osulive) |
 | 6 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Mar 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T130000&p1=1440&p2=33&p3=108) | [osulive_2](https://twitch.tv/osulive_2) |
 | 15 | Switzerland ::{ flag=CH }:: | ::{ flag=PT }:: Portugal | [Mar 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T130000&p1=1440&p2=270&p3=133) | [osulive](https://twitch.tv/osulive) |
+| 10 | Hong Kong ::{ flag=HK }:: | ::{ flag=NL }:: Netherlands | [Mar 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T140000&p1=1440&p2=102&p3=16) | [osulive](https://twitch.tv/osulive) |
 | 11 | Argentina ::{ flag=AR }:: | ::{ flag=SK }:: Slovakia | [Mar 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T150000&p1=1440&p2=51) | [osulive](https://twitch.tv/osulive) |
+| 9 | Colombia ::{ flag=CO }:: | ::{ flag=VN }:: Vietnam | [Mar 29 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T153000&p1=1440&p2=41&p3=95) | [osulive_2](https://twitch.tv/osulive_2) |
 | 8 | Italy ::{ flag=IT }:: | ::{ flag=RU }:: Russian Federation | [Mar 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T160000&p1=1440&p2=215&p3=166) | [osulive](https://twitch.tv/osulive) |
-| 12 | Mexico ::{ flag=MX }:: | ::{ flag=CA }:: Canada | [Mar 29 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T170000&p1=1440&p2=155&p3=188) | [osulive](https://twitch.tv/osulive) |
+| 16 | Poland ::{ flag=PL }:: | ::{ flag=DE }:: Germany | [Mar 29 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T160000&p1=1440&p2=262&p3=37) | [osulive_2](https://twitch.tv/osulive_2) |
 |  | Quarterfinals | mappool showcase | [Mar 29 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260329T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
 
 ### Group stage
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1MvHFY0DyOOcmwRhCN7FirTi58o9DMnY5fhSjOZ-iHxM?rm=minimal).
 Saturday, 21 March 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
