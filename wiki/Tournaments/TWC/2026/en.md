@@ -157,6 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 ### Group stage
 
 Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1MvHFY0DyOOcmwRhCN7FirTi58o9DMnY5fhSjOZ-iHxM?rm=minimal).
+
 Saturday, 21 March 2026:
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
