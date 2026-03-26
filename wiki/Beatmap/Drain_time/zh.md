@@ -4,6 +4,8 @@ tags:
   - drain length
   - 掉血时间
   - 掉血长度
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 # 掉血时间

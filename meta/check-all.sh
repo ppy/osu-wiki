@@ -53,9 +53,9 @@ changed_files="$(mktemp)"
 
 run_test 'file size' xargs -0r meta/check-file-sizes.sh <"$changed_files"
 grep -z '\.md$' <"$changed_files" | run_test Remark xargs -0r meta/remark.sh
-run_test 'YAML style' osu-wiki-tools check-yaml
-run_test link osu-wiki-tools check-links --all
+run_test 'YAML style' uv tool run osu-wiki-tools check-yaml
+run_test link uv tool run osu-wiki-tools check-links --all
 
 if test -n "$(git log master..)"; then
-  run_test 'outdated article' osu-wiki-tools check-outdated-articles --no-recommend-autofix
+  run_test 'outdated article' uv tool run osu-wiki-tools check-outdated-articles --no-recommend-autofix
 fi
