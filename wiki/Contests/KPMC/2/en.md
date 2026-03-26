@@ -9,7 +9,7 @@ tags:
 
 ![KPMC#2 banner](img/banner.jpg)
 
-The **K-Pop Mapping Contest #2** (***KPMC#2***) was a mapping contest hosted by the `#sd_kpop` team for the osu!mania and osu!standard game modes, with an aim to promote K-pop songs to a wider audience of mappers and players. It was the second instalment of the K-Pop Mapping Contest.
+The **K-Pop Mapping Contest #2** (***KPMC#2***) was a mapping contest hosted by the `#sd_kpop` team for the osu!mania and osu! game modes, with an aim to promote K-Pop songs to a wider audience of mappers and players. It was the second instalment of the K-Pop Mapping Contest.
 
 ## Contest schedule
 
@@ -29,7 +29,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | Designer | ::{ flag=ID }:: [kim hyunjin](https://osu.ppy.sh/users/9456733) |
 | Playtester | ::{ flag=ID }:: [_yea](https://osu.ppy.sh/users/20834055), ::{ flag=PL }:: [Korzei](https://osu.ppy.sh/users/11921815) |
 | Judge (osu!mania) | ::{ flag=PH }:: [Hytex](https://osu.ppy.sh/users/8536263), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418), ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643), ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693) |
-| Judge (osu!standard) | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058), ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964), ::{ flag=TH }:: [Kensuke](https://osu.ppy.sh/users/4314710), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=US }:: [Passionate](https://osu.ppy.sh/users/10194509) |
+| Judge (osu!) | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058), ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964), ::{ flag=TH }:: [Kensuke](https://osu.ppy.sh/users/4314710), ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981), ::{ flag=US }:: [Passionate](https://osu.ppy.sh/users/10194509) |
 
 ## Prizes
 
@@ -38,9 +38,9 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months osu!supporter, profile badge, Ranked status[^ranked] |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months osu!supporter, Ranked status[^ranked] |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months osu!supporter, Ranked status[^ranked] |
-| Playtester's Pick[^playtester] | 1 month osu!supporter |
+| Playtester's pick[^playtester] | 1 month osu!supporter |
 
-![KPMC#2 osu!mania badge](img/badge.jpg) ![KPMC#2 osu!standard badge](img/badge2.jpg)
+![KPMC#2 osu!mania badge](img/badge.jpg) ![KPMC#2 osu! badge](img/badge2.jpg)
 
 ## Links
 
@@ -53,7 +53,7 @@ The playtester's pick and top 5 beatmaps were showcased during the [results anno
 More detailed scores and judge comments are available to view on the respective game modes' Mappers' Guild listing:
 
 - [osu!mania](https://mappersguild.com/contests/results?contest=69198d9689c030b585d6804b)
-- [osu!standard](https://mappersguild.com/contests/results?contest=69198f2a89c030b585d68132)
+- [osu!](https://mappersguild.com/contests/results?contest=69198f2a89c030b585d68132)
 
 ### osu!mania
 
@@ -64,7 +64,7 @@ More detailed scores and judge comments are available to view on the respective 
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | [ITZY - 8-BIT HEART](https://osu.ppy.sh/beatmapsets/2508590) | 406 | 3.998 |
 | Playtester's pick[^playtester] | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | [QWER - REBOUND](https://osu.ppy.sh/beatmapsets/2508792) | 359 | -0.183 |
 
-### osu!standard
+### osu!
 
 | Place | Mapper | Song (map link) | Raw score (500) | Standardised score |
 | :-: | :-- | :-- | :-- | :-- |
@@ -78,9 +78,9 @@ More detailed scores and judge comments are available to view on the respective 
 ### Contest rules
 
 - **Collaboration work is not allowed for this contest.** Submissions must be made individually.
-- **Only one submission per user is allowed.** Participants must submit for either the osu!mania or osu!standard game mode.
+- **Only one submission per user is allowed.** Participants must submit for either the osu!mania or osu! game mode.
 - Submissions must be in .osz format.
-- Submissions must be made for the **osu!mania** or **osu!standard** game mode only.
+- Submissions must be made for the **osu!mania** or **osu!** game mode only.
 - Submissions can follow an open song choice, as long as the song is **Korean language and Pop genre**.
 - Submissions must not contain music by disallowed artists under [content usage permissions](/wiki/Rules/Content_usage_permissions#audio).
 - Submissions must adhere to the [ranking criteria](/wiki/Ranking_criteria).
@@ -94,7 +94,7 @@ More detailed scores and judge comments are available to view on the respective 
 - Submissions must include a custom hitnormal file.
 - Submissions must be one single beatmap with a difficulty of Hard or higher.
 
-#### osu!standard rules**
+#### osu! rules
 
 - Submissions must include custom or regular hitsounds.
 - Submissions must be one single beatmap with a difficulty between 3.7* to 6.0*.
@@ -103,7 +103,7 @@ More detailed scores and judge comments are available to view on the respective 
 
 Each map is scored out of 100 points. The judging criteria for each mode are as follows:
 
-| Criteria | ![osu!mania](img/mania.png) | ![osu!standard](img/standard.png) | Description |
+| Criteria | ![osu!mania](img/mania.png) | ![osu!](img/standard.png) | Description |
 | :-- | :-: | :-: | :-- |
 | **Music Representation** | 25 | 25 | How well the map reflects the music through its emphasis, patterning, etc. |
 | **Creativity** | 25 | 20 | How the map stands out compared to the other submissions. |
