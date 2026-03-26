@@ -1,4 +1,5 @@
-<!-- TODO: Link to Organisations page when it exists -->
+<!-- TODO: Rewite to be mainly about the club with links to tournaments-->
+<!-- TODO: Move to Community?-->
 
 # osu! Riverside tournaments
 
