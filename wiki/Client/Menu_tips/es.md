@@ -8,8 +8,6 @@ tags:
   - consejos
   - pista
   - pistas
-outdated_translation: true
-outdated_since: 228236db3b65b6f9f76ba8f88a12314284d085c1
 ---
 
 <!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-es -->
@@ -119,7 +117,7 @@ Estos consejos aparecen en la parte inferior del menú principal en [osu!(lazer)
 - ¡Arrastra y suelta cualquier imagen en el editor de skins para cargarla rápidamente!
 - ¡Puedes crear preajustes de mods para facilitar la elección de tus combinaciones favoritas!
 - Muchos mods tienen ajustes de personalización que cambian drásticamente su funcionamiento. ¡Haz clic en el botón `Personalizar` en el selector de mods para ver los ajustes!
-- ¡Presiona `Ctrl` + `Mayús` + `R` para cambiar a una skin aleatoria!
+- ¡Presiona `Ctrl` + `Mayús` + `R` para cambiar a una skin aleatoria! También puedes usar `Ctrl` + `Mayús` + `E` y `Ctrl` + `Mayús` + `T` para ir cambiando de skins.
 - Presiona `Ctrl` + `Mayús` + `F` para alternar el contador de FPS. ¡Pero asegúrate de no prestarle demasiada atención!
 - Mientras ves una repetición, ¡presiona `Ctrl` + `H` para cambiar la configuración de la repetición!
 - ¡Puedes copiar fácilmente los mods de las puntuaciones de una tabla de clasificación haciendo clic con el botón derecho del ratón!
