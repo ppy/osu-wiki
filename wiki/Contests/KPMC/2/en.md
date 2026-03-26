@@ -9,7 +9,7 @@ tags:
 
 ![KPMC#2 banner](img/banner.jpg)
 
-The **K-Pop Mapping Contest #2** (***KPMC#2***) was a mapping contest hosted by the #sd_kpop team for the osu!mania and osu!standard game modes, with an aim to promote K-pop songs to a wider audience of mappers and players. It was the second instalment of the K-Pop Mapping Contest.
+The **K-Pop Mapping Contest #2** (***KPMC#2***) was a mapping contest hosted by the `#sd_kpop` team for the osu!mania and osu!standard game modes, with an aim to promote K-pop songs to a wider audience of mappers and players. It was the second instalment of the K-Pop Mapping Contest.
 
 ## Contest schedule
 
@@ -62,7 +62,7 @@ More detailed scores and judge comments are available to view on the respective 
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) | [Dreamcatcher - BEcause](https://osu.ppy.sh/beatmapsets/2508561) | 423 | 6.101 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [Pyra-san](https://osu.ppy.sh/users/31126430) | [TWICE - What Is Love?](https://osu.ppy.sh/beatmapsets/2508559) | 407 | 4.264 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | [ITZY - 8-BIT HEART](https://osu.ppy.sh/beatmapsets/2508590) | 406 | 3.998 |
-| Playtester's Pick[^playtester] | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | [QWER - REBOUND](https://osu.ppy.sh/beatmapsets/2508792) | 359 | -0.183 |
+| Playtester's pick[^playtester] | ::{ flag=NO }:: [Chrisse](https://osu.ppy.sh/users/18382591) | [QWER - REBOUND](https://osu.ppy.sh/beatmapsets/2508792) | 359 | -0.183 |
 
 ### osu!standard
 
@@ -71,7 +71,7 @@ More detailed scores and judge comments are available to view on the respective 
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [William K](https://osu.ppy.sh/users/2261651) | [PARK JIHOON - Gallery](https://osu.ppy.sh/beatmapsets/2508518) | 420 | 5.214 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CL }:: [Vyassel](https://osu.ppy.sh/users/14450486) | [LE SSERAFIM - CRAZY](https://osu.ppy.sh/beatmapsets/2508541) | 392 | 3.765 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=US }:: [im yeojin](https://osu.ppy.sh/users/20907417) | [ARTMS - Birth](https://osu.ppy.sh/beatmapsets/2508861) | 396 | 3.598 |
-| Playtester's Pick[^playtester] | ::{ flag=PL }:: [Gresiu](https://osu.ppy.sh/users/3930357) | [Yves - Soap (feat. PinkPantheress)](https://osu.ppy.sh/beatmapsets/2508713) | 246 | -7.865 |
+| Playtester's pick[^playtester] | ::{ flag=PL }:: [Gresiu](https://osu.ppy.sh/users/3930357) | [Yves - Soap (feat. PinkPantheress)](https://osu.ppy.sh/beatmapsets/2508713) | 246 | -7.865 |
 
 ## Ruleset
 
@@ -88,13 +88,13 @@ More detailed scores and judge comments are available to view on the respective 
 - Videos, skins, and storyboards are not allowed.
 - Submitting your map to the BSS before the results announcement is not allowed and will result in disqualification.
 
-**osu!mania-specific rules**
+#### osu!mania rules
 
 - Submissions must be between 4K and 7K.
 - Submissions must include a custom hitnormal file.
 - Submissions must be one single beatmap with a difficulty of Hard or higher.
 
-**osu!standard-specific rules**
+#### osu!standard rules**
 
 - Submissions must include custom or regular hitsounds.
 - Submissions must be one single beatmap with a difficulty between 3.7* to 6.0*.
