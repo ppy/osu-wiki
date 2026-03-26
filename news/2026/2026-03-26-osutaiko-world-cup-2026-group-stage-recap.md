@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2026: Group Stage Recap"
-date: 2026-03-26 23:30:00 +0000
+date: 2026-03-26 23:00:00 +0000
 series: world_cups
 ---
 
