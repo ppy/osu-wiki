@@ -1,0 +1,20 @@
+---
+tags:
+  - hit objects
+---
+
+# Drumroll
+
+![](img/taiko_drumroll.png "Drumroll, with the judgement circle on the left side")
+
+**Drumrolls** are [hit objects](/wiki/Gameplay/Hit_object) in [osu!taiko](/wiki/Game_mode/osu!taiko) [beatmaps](/wiki/Beatmap). They appear as yellow horizontal bars and move from right to left on the conveyer belt. The user is required to hit either part of the drum for each white tick found inside the drumroll once they are above the white **judgement circle**.
+
+## Judgement
+
+Hitting drumrolls correctly will not refill the [health bar](/wiki/Gameplay/Health). When missed, drumrolls reward no score.
+
+Each successful hit on the white ticks gives a static 300 score and adds to the `DRUM TICK` judgement.
+
+## Trivia
+
+- In [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin), drumrolls require the player to hit the drum as fast as possible.
