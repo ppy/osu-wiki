@@ -4,7 +4,9 @@ stub: true
 
 # Gameplay
 
-The gameplay category houses pages relating to various elements of osu! gameplay. This page lists many common terms and provides a summary of the linked main article.
+The gameplay category houses pages related to various core elements and concepts on how players interact with the game. This page lists many common terms and provides a summary of the linked main article.
+
+<!-- lint ignore heading-increment -->
 
 ### Accuracy
 
@@ -16,7 +18,7 @@ The gameplay category houses pages relating to various elements of osu! gameplay
 
 *Main page: [Choke](Choke)*
 
-The term **Choke** is typically used when a player breaks a nearly full combo, or suddenly fails after playing well, near the end of a [beatmap](Beatmap).
+The term **Choke** is typically used when a player breaks a nearly full combo, or suddenly fails after playing well, near the end of a [beatmap](/wiki/Beatmap).
 
 ### Combo (score multiplier)
 
@@ -26,9 +28,9 @@ The term **Choke** is typically used when a player breaks a nearly full combo, o
 
 ### Combo fire
 
-*Main page: *[Combo fire](Combo_fire)*
+*Main page: [Combo fire](Combo_fire)*
 
-**Combo fire** was a visual element dependant on the current [combo milestone](#Combo-milestone). It was disabled due to performance concerns.
+**Combo fire** was a visual element dependant on the current [combo milestone](#combo-milestone). It was disabled due to performance concerns.
 
 ### Combo milestone
 
@@ -40,7 +42,7 @@ The term **Choke** is typically used when a player breaks a nearly full combo, o
 
 *Main page: [Combo multiplier effect](Combo_multiplier_effect)*
 
-The **combo multiplier effect** is a bug with [scoreV1](Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](Score/ScoreV2) and is not present in osu!(lazer).
+The **combo multiplier effect** is a bug with [scoreV1](/wiki/Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](/wiki/Score/ScoreV2) and is not present in osu!(lazer).
 
 ### Comboburst
 
@@ -52,19 +54,19 @@ The **combo multiplier effect** is a bug with [scoreV1](Score/ScoreV1) allowing 
 
 *Main page: [Daily challenge](Daily_challenge)*
 
-The **daily challenge** is a multiplayer mode in [osu!lazer](Client/Release_stream/Lazer) where players compete to achieve the highest score on a specific beatmap. The beatmap is the same for all players and changes every day.
+The **daily challenge** is a multiplayer mode in [osu!lazer](/wiki/Client/Release_stream/Lazer) where players compete to achieve the highest score on a specific beatmap. The beatmap is the same for all players and changes every day.
 
 ### Dash
 
 *Main page: [Dash](Dash)*
 
-The **dash** is a term used in relation to [osu!catch](Game_mode/osu!catch) describing a movement between two objects when a player is required to use the dash key to catch both.
+The **dash** is a term used in relation to [osu!catch](/wiki/Game_mode/osu!catch) describing a movement between two objects when a player is required to use the dash key to catch both.
 
 ### Dash snapping
 
 *Main page: [Dash snapping](Dash_snapping)*
 
-**Dash snapping** refers to the timing precision required when dashing between consecutive [fruits](Hit_object/Fruit) to collect both if normal movement speed is insufficient.
+**Dash snapping** refers to the timing precision required when dashing between consecutive [fruits](/wiki/Hit_object/Fruit) to collect both if normal movement speed is insufficient.
 
 ### Drain time
 
@@ -76,7 +78,7 @@ The **dash** is a term used in relation to [osu!catch](Game_mode/osu!catch) desc
 
 *Main page: [Edge dash](Edge_dash)*
 
-The **edge dash** (also knowns as a pixel dash) is a term used in osu!catch for a very large spacing between two active objects where no [hyperfruit](Hit_object/Hyperfruit) is generated.
+The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a very large spacing between two active objects where no [hyperfruit](/wiki/Hit_object/Hyperfruit) is generated.
 
 ### Fingerlock
 
@@ -92,7 +94,7 @@ The **edge dash** (also knowns as a pixel dash) is a term used in osu!catch for 
 
 ### Game modifier
 
-*Main page: [Game modifier](Game_modifier), also see [Game modifier(lazer)](Game_modifier_(lazer))*
+*Main page: [Game modifier (osu!stable)](/wiki/Game_modifier) and [Game modifier (osu!lazer)](/wiki/Game_modifier_(lazer))*
 
 **Game modifiers** (mods) are optional modifications to how a beatmap plays. Mods that change the effective difficulty often have score multipliers in reflecting the difficulty change.
 
@@ -112,7 +114,8 @@ The **edge dash** (also knowns as a pixel dash) is a term used in osu!catch for 
 
 *Main page: [Hit object](Hit_object)*
 
-**Hit objects** are the primary way players interact with the game while playing a beatmap. They types of hit objects encountered depends on the gamemode as per the table below.
+**Hit objects** are the primary way players interact with the game while playing a beatmap. The types of hit objects encountered depends on the gamemode as per the table below.
+
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [fruits](/wiki/Gameplay/Hit_object/Fruit) | notes |
@@ -130,7 +133,7 @@ A **Hyperdash** is the large movement performed when a hyperfruit is caught in [
 
 *Main page: [Input device](Input_device)*
 
-An **Input device** is a device used to control input. Common input devices incude but are not limited to: [mice](Input_device/Mouse), [keyboards](Input_device/Keyboard), and [tablets](Input_device/Graphics_tablet).
+An **input device** is a device used to control input. Common input devices include but are not limited to: [mice](Input_device/Mouse), [keyboards](Input_device/Keyboard), and [tablets](Input_device/Graphics_tablet).
 
 ### Judgement
 
@@ -216,7 +219,7 @@ A **replay** is a rebroadcast or direct emulation of a play, either by a player 
 
 *Main page: [Tablet cover](Tablet_cover)*
 
-A **Tablet cover** is a sheet of protective material, not unlike a screen protector for a smartphone, that encases or adheres to the surface of a graphics tablet to reduce wear.
+A **tablet cover** is a sheet of protective material, like a screen protector for a smartphone, that encases or adheres to the surface of a graphics tablet to reduce wear.
 
 ### Unstable rate
 
