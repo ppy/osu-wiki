@@ -12,7 +12,7 @@ translation_keys:
   text:
     total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas dentro de osu!.
   graph:
-    title: Música hecha a medida a lo largo del tiempo
+    title: Música hecha a medida a lo largo del tiempo
     alt_text: Gráfico de la música hecha a medida a lo largo del tiempo
     xlabel: Año
     ylabel: Recuento
