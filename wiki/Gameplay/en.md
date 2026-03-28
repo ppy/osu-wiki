@@ -140,12 +140,7 @@ An **input device** is a device used to control input. Common input devices incl
 ### Judgement
 
 *Main page: [Judgement](/wiki/Gameplay/Judgement)*
-## Passed file size test.
-## Running Remark test...
 
-npm notice
-npm notice New major version of npm available! 10.8.2 -> 11.12.1
-npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.12.1
 A **judgement**, or **hit result**, is the outcome of interacting with a hit object during its hit window. Score and accuracy are calculated based on which judgements are received. 
 
 ### Kiai time
