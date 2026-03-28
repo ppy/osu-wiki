@@ -2,6 +2,8 @@
 stub: true
 ---
 
+<!--TODO: should probabyl add points for many more terms, like 'beatmap', -->
+
 # Gameplay
 
 The gameplay category houses pages related to various core elements and concepts on how players interact with the game. This page lists many common terms and provides a summary of the linked main article.
@@ -36,13 +38,13 @@ The term **Choke** is typically used when a player breaks a nearly full combo, o
 
 *Main page: [Combo milestone](Combo_milestone)*
 
-**Combo milestones** are specific [combo](#combo-score-multiplier) values that trigger visual effects.
+**Combo milestones** are specific [combo](#combo-(score-multiplier)) values that trigger visual effects.
 
 ### Combo multiplier effect
 
 *Main page: [Combo multiplier effect](Combo_multiplier_effect)*
 
-The **combo multiplier effect** is a bug with [scoreV1](/wiki/Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](/wiki/Score/ScoreV2) and is not present in osu!(lazer).
+The **combo multiplier effect** is a bug with [scoreV1](Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](Score/ScoreV2) and is not present in osu!(lazer).
 
 ### Comboburst
 
@@ -94,7 +96,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 ### Game modifier
 
-*Main page: [Game modifier (osu!stable)](/wiki/Game_modifier) and [Game modifier (osu!lazer)](/wiki/Game_modifier_(lazer))*
+*Main page: [Game modifier (osu!stable)](Game_modifier) and [Game modifier (osu!lazer)](Game_modifier_(lazer))*
 
 **Game modifiers** (mods) are optional modifications to how a beatmap plays. Mods that change the effective difficulty often have score multipliers in reflecting the difficulty change.
 
@@ -108,7 +110,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 *Main page: [Health](Health)*
 
-**Health** (HP) determines if a player has passed a beatmap, and can be seen in the [health bar](Client/Interface/Health_bar).
+**Health** (HP) determines if a player has passed a beatmap, and can be seen in the [health bar](/wiki/Client/Interface/Health_bar).
 
 ### Hit object
 
@@ -127,7 +129,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 *Main page: [Hyperdash](Hyperdash)*
 
-A **Hyperdash** is the large movement performed when a hyperfruit is caught in [osu!catch](Game_mode/osu!catch).
+A **Hyperdash** is the large movement performed when a hyperfruit is caught in [osu!catch](/wiki/Game_mode/osu!catch).
 
 ### Input device
 
@@ -175,7 +177,7 @@ A **pass** describes the completion of a beatmap or a certain beatmap section wi
 
 *Main page: [Play time](/wiki/Beatmap/Play_time)*
 
-**Play time** is the the combined [break time](Beatmap/Break) and drain time of a beatmap.
+**Play time** is the the combined [break time](/wiki/Beatmap/Break) and drain time of a beatmap.
 
 ### Quick play
 
@@ -195,7 +197,7 @@ A **replay** is a rebroadcast or direct emulation of a play, either by a player 
 
 *Main page: [Score](Score)*
 
-**Score** is a numerical measurement of a player's performance in a beatmap. The formula used to calculate it is different per game mode and different again per scoring version, but generally speaking is dependant on: player judgements, combo multiplier, the [difficulty multiplier](Score/ScoreV1/#difficulty-multiplier) of the beatmap, and [mod multiplier](Game_modifier/Mod_multiplier).
+**Score** is a numerical measurement of a player's performance in a beatmap. The formula used to calculate it is different per game mode and different again per scoring version, but generally speaking is dependant on: player judgements, combo multiplier, the [difficulty multiplier](Score/ScoreV1/osu!/#difficulty-multiplier) of the beatmap, and [mod multiplier](Game_modifier/Mod_multiplier).
 
 ### Slider break
 
