@@ -53,7 +53,7 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 Đây là cách cài đặt hoạt động nếu người dùng gây khó chịu đang hoạt động trong trò chơi:
 
 1. Nhấn vào tên người dùng của họ và ấn vào nút có tiêu đề `Report User...` màu đỏ 
-2. Lựa chọn danh mục lý do và thêm chi tiết (không bắt buộc)  
+2. Lựa chọn mục lý do và thêm chi tiết (không bắt buộc)  
 
 ### Giao diện báo cáo trò chuyện trong osu!(lazer) {id=lazer-reports}
 
@@ -61,8 +61,8 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 ![](img/report-lazer-2.png "Hộp thoại báo cáo trong trò chơi")
 
-1. Nhấn chuột phải hoặc giữ lâu tên của người dùng gây khó chịu và nhấn vào nút đỏ tiêu đề `Báo cáo` 
-2. Lựa chọn danh mục lý do và thêm chi tiết ( Trừ khi tùy chọn danh mục lý do được chọn là `Khác(nhập bên dưới)`
+1. Nhấn chuột phải hoặc giữ lâu tên người dùng gây khó chịu và nhấn vào nút màu đỏ tiêu đề `Báo cáo` 
+2. Lựa chọn mục lý do và thêm chi tiết ( Trừ khi tùy chọn danh mục lý do được chọn là `Khác(nhập bên dưới)`
 
 ## Website
 
@@ -73,7 +73,7 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 ![](img/report-user-web.png "Hộp thoại báo cáo trên website")
 
 1. Ấn vào nút hình ba chấm dọc và chọn `Report`
-2. Chọn danh mục lý do và thêm chi tiết (không bắt buộc)
+2. Chọn mục lý do và thêm chi tiết (không bắt buộc)
 
 ### Diễn đàn {id=forum}
 
@@ -81,28 +81,28 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 1. Di chuyển con trỏ chuột đến bài đăng.
 2. Trong các nút bấm xuất hiện ở góc trên bên phải của bài đăng, nhấn vào nút biển cảnh báo.
-3. Lựa chọn danh mục lý do và thêm chi tiết. 
+3. Lựa chọn mục lý do và thêm chi tiết. 
 
 ### Phần bình luận 
 
 ![](img/report-user-comment.png "Nút báo cáo trên bình luận website")
 
 1. Bên dưới bình luận, nhấn vào liên kết `Báo cáo` 
-2. Lựa chọn danh mục lý do và thêm chi tiết 
+2. Lựa chọn mục lý do và thêm chi tiết 
 
 ### Beatmap 
 
 ![](img/report-beatmap.png "Nút báo cáo trên trang beatmap")
 
 1. Nhấn vào nút ba chấm dọc và chọn `Báo cáo` 
-2. Lựa chọn danh mục báo cáo và thêm chi tiết 
+2. Lựa chọn mục báo cáo và thêm chi tiết 
 
 ### Thảo luận beatmap 
 
 ![](img/report-user-discussion.png "Nút báo cáo trên bài đăng thảo luận")
 
 1. Bên dưới bài đăng thảo luận, nhấn vào nút `Báo cáo`. 
-2. Lựa chọn danh mục lý do và thêm chi tiết.
+2. Lựa chọn mục lý do và thêm chi tiết.
 
 ### Danh sách điểm số
 
@@ -112,7 +112,7 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 1. Cuộn xuống đến phần `Xếp hạng`, hoặc `Lịch sử` với các lần chơi gần đây và tìm kiếm điểm số.
 2. Tại bên phải của điểm số, nhấn vào nút với ba dấu chấm dọc và chọn `Báo cáo điểm số`. 
-3. Lựa chọn danh mục lý do và thêm chi tiết.
+3. Lựa chọn mục lý do và thêm chi tiết.
 
 #### Danh sách điểm số beatmap 
 
@@ -120,7 +120,7 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 1. Di chuyển con trỏ chuột đến điểm số 
 2. Tại bên phải của điểm số, nhấn vào nút hình ba chấm dọc và chọn `Báo cáo`
-3. Lựa chọn danh mục báo cáo và thêm chi tiết 
+3. Lựa chọn mục báo cáo và thêm chi tiết 
 
 ### Team 
 
