@@ -44,7 +44,7 @@ The term **Choke** is typically used when a player breaks a nearly full combo, o
 
 *Main page: [Combo multiplier effect](Combo_multiplier_effect)*
 
-The **combo multiplier effect** is a bug with [scoreV1](Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](Score/ScoreV2) and is not present in osu!(lazer).
+The **combo multiplier effect** is a bug with [scoreV1](Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](Score/#scorev2) and is not present in osu!(lazer).
 
 ### Comboburst
 
