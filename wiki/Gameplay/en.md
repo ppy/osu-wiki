@@ -165,7 +165,7 @@ A **judgement**, or **hit result**, is the outcome of interacting with a hit obj
 
 *Main page: [Pass](/wiki/Gameplay/Pass)*
 
-A **pass** describes the completion of a beatmap or a certain beatmap section without using fail-preventing mods (e.g. No Fail), or reaching the break section with below 50% health.
+A **pass** describes the completion of a beatmap, or a beatmap section whilst remaining above 50% health at the [break section](/wiki/Beatmap/Break), and without using fail-preventing mods (e.g. [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)).
 
 ### Play style
 
