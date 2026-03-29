@@ -15,7 +15,7 @@ A slideshow showcasing all the entries set to the tunes of [**Mili**](https://os
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/282/spring2026-voting.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
