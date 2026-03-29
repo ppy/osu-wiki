@@ -1,6 +1,6 @@
 # Beatmap information
 
-![](img/beatmap-info.png "A beatmap information page")
+![](img/beatmap-info.png "The beatmap information page of \"xi - Blue Zenith\" mapped by Asphyxia")
 
 The **beatmap information page** displays various contents about a [beatmap](/wiki/Beatmap), such as its metadata, user rating, and comments. This article details the many aspects and features the information page has to offer.
 
@@ -97,7 +97,7 @@ The `Nominators` section is added as soon as the beatmap is nominated by [Beatma
 
 After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags) from the osu!(lazer) client. Upon reaching 5 votes on an user tag, it will be displayed in the `User Tags` segment.
 
-After the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), the pack(s) it is added to will be listed in the `Beatmap Packs` segment.
+If the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), the pack(s) it is added to will be listed in the `Beatmap Packs` segment.
 
 ### Success rate display
 
