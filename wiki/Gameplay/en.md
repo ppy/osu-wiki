@@ -20,7 +20,7 @@ The gameplay category houses pages related to various core elements and concepts
 
 *Main page: [Choke](/wiki/Gameplay/Choke)*
 
-The term **Choke** is typically used when a player breaks a nearly full combo, or suddenly fails after playing well, near the end of a [beatmap](/wiki/Beatmap).
+The term **choke** is typically used when a player breaks a nearly full combo, or suddenly fails after playing well, near the end of a [beatmap](/wiki/Beatmap).
 
 ### Combo (score multiplier)
 
@@ -86,7 +86,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 *Main page: [Fingerlock](/wiki/Gameplay/Fingerlock)*
 
-**Fingerlock** is is a term used to describe the sensation of momentarily losing control of one's fingers, feeling as though they have locked up.
+**Fingerlock** is a term used to describe the sensation of momentarily losing control of one's fingers, feeling as though they have locked up.
 
 ### Full combo
 
@@ -104,7 +104,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 *Main page: [Grade](/wiki/Gameplay/Grade)*
 
-**Grades** are letters (S,A,B,C, etc.) that represent how well a player performed on a given play of a beatmap, they normally appear beside scores.
+**Grades** are letters (S,A,B,C, etc.) that represent how well a player performed on a given play of a beatmap. They normally appear beside scores.
 
 ### Health
 
@@ -116,7 +116,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 *Main page: [Hit object](/wiki/Gameplay/Hit_object)*
 
-**Hit objects** are the primary way players interact with the game while playing a beatmap. The types of hit objects encountered depends on the gamemode as per the table below.
+**Hit objects** are the primary way players interact with the game while playing a beatmap. The types of hit objects encountered depends on the game mode as per the table below.
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
@@ -129,7 +129,7 @@ The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a
 
 *Main page: [Hyperdash](/wiki/Gameplay/Hyperdash)*
 
-A **Hyperdash** is the large movement performed when a hyperfruit is caught in [osu!catch](/wiki/Game_mode/osu!catch).
+A **hyperdash** is the large movement performed when a hyperfruit is caught in [osu!catch](/wiki/Game_mode/osu!catch).
 
 ### Input device
 
