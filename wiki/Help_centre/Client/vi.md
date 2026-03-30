@@ -6,7 +6,7 @@ no_native_review: true
 
 Trang chính: [Trung tâm trợ giúp](/wiki/Help_centre)
 
-Bạn đang gặp một vài sự cố với client của game? Hãy tìm xem liệu vấn đề của bạn có nằm trong số những vấn đề phổ biến mà người dùng của chúng tôi đang mắc phải ở đây.
+Bạn đang gặp rắc rối với client của game? Hãy tìm xem liệu vấn đề của bạn có nằm trong danh sách giữa những vấn đề phổ biến nhất mà người dùng của chúng tôi đang gặp phải ở đây.
 
 ## Các lỗi và sự cố {id=crash}
 
