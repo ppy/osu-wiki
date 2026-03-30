@@ -13,7 +13,7 @@ Większość problemów technicznych można rozwiązać, szukając odpowiedzi lu
 
 ## Pomoc ogólna
 
-W przypadku problemów z kontem, płatnościami, odwołaniami od blokad, zapytań o turnieje oraz **czegokolwiek związanego z potrzebą pomocy w osu!**, prosimy o kontakt z [zespołem wsparcia konta](https://osu.ppy.sh/wiki/pl/People/Account_support_team) poprzez wysłanie wiadomości e-mail na adres [accounts@ppy.sh](mailto:accounts@ppy.sh) (pytania dotyczące konta) lub [osu@ppy.sh](mailto:osu@ppy.sh) (pozostałe sprawy).
+W przypadku problemów z kontem, płatnościami, odwołaniami od blokad, zapytań o turnieje oraz **czegokolwiek związanego z potrzebą pomocy w osu!**, prosimy o kontakt z [zespołem wsparcia konta](/wiki/People/Account_support_team) poprzez wysłanie wiadomości e-mail na adres [accounts@ppy.sh](mailto:accounts@ppy.sh) (pytania dotyczące konta) lub [osu@ppy.sh](mailto:osu@ppy.sh) (pozostałe sprawy).
 
 ## Kontakt z peppym
 
