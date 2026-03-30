@@ -10,22 +10,22 @@ Bạn đang gặp rắc rối với client của game? Hãy tìm xem liệu vấ
 
 ## Các lỗi và sự cố {id=crash}
 
-### Tôi đã thay đổi cài đặt của mình, và bây giờ tôi không thể bắt đầu osu! hoặc bị treo game {id=incorrect-settings}
+### Tôi đã thay đổi cài đặt của mình, và bây giờ tôi không thể bắt đầu osu! hoặc bị đơ {id=incorrect-settings}
 
-**Đặt lại osu! trở về cài đặt mặc định sẽ khắc phục vấn đề này trong hầu hết các trường hợp.**
+**Việc đặt lại osu! trở lại cài đặt mặc định sẽ khắc phục vấn đề này trong hầu hết các trường hợp.**
 
-Làm theo các bước sau để khôi phục osu! về cài đặt mặc định:
+Làm theo những bước sau để đặt lại osu! về cài đặt mặc định:
 
 1. Mở osu! trong khi nhấn giữ phím `Shift` trên bàn phím của bạn.
-2. Tiếp tục giữ phím `Shift` cho đến khi bạn thấy hộp thoại khôi phục osu!.
+2. Tiếp tục giữ phím `Shift` cho đến khi bạn thấy hộp thoại nhắc khôi phục osu!.
 3. Khi `osu! configuration (thiết lập osu!)` mở ra, nhấn nút `reset settings (khôi phục cài đặt)`.
-4. Nếu bạn thử rồi mà vẫn không thành công, mở lại hộp thoại và nhấn `repair osu! (sửa chữa osu!)`.
+4. Nếu bạn thử rồi mà vẫn không thành công, mở lại hộp thoại trở lại và nhấn `repair osu! (sửa chữa osu!)`.
 
-### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map multiplayer {id=broken-links}
+### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map trong nhiều người chơi {id=broken-links}
 
 **Hãy đảm bảo rằng bạn không chạy osu! ở chế độ tương thích với Windows, và cũng chắc chắn rằng bạn đã xác định trình duyệt web mặc định trong cài đặt hệ thống của mình.**
 
-Vấn đề này đôi khi xảy ra do sự tương tác với chế độ tương thích, và cũng có thể đơn giản do game không tìm thấy trình duyệt mặc định để mở liên kết trang web.
+Vấn đề này đôi khi xảy ra do sự tác động với chế độ tương thích, và cũng có thể đơn giản do game không tìm thấy trình duyệt mặc định để mở với liên kết trang web.
 
 #### Game của bạn có đang chạy dưới chế độ tương thích với Windows không? {id=windows-compatibility}
 
@@ -34,9 +34,9 @@ Vấn đề này đôi khi xảy ra do sự tương tác với chế độ tươ
 1. Mở thư mục installation osu! và tìm tệp `osu!.exe`.
 2. Nhấp chuột phải vào `osu!.exe` và chọn `Properties` từ menu thả xuống. 
 3. Chuyển đến tab `Tương thích (Compatibility)`.
-4. Tìm một ô đánh dấu có tên `Chạy chương trình này ở chế độ tương thích` trong phần `Chế độ tương thích' (Compatibility mode)`.
+4. Tìm một ô đánh dấu có tiêu đề `Chạy chương trình này ở chế độ tương thích` trong phần `Chế độ tương thích' (Compatibility mode)`.
 5. Nếu ô này được chọn, hãy nhấp vào nó một lần nữa để tắt chức năng này.
-6. Nếu game của bạn đang mở, hãy đóng client và mở lại game.
+6. Nếu game của bạn đang mở, hãy đóng client và mở lại game một lần nữa.
 
 #### Bạn đã thiết lập trình duyệt web mặc định chưa?  {id=default-browser}
 
