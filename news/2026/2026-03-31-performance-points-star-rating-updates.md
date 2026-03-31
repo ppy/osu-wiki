@@ -88,9 +88,7 @@ As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https:/
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/aim-strain-influence.png)
 
-In effect, higher spacing patterns as well as slower jumps will generally see a buff. On the contrary, smaller spacing patterns as well as some faster jumps will generally see a nerf.
-
-Some examples of beatmaps buffed by this change:
+In effect, higher spacing patterns as well as slower jumps will generally see a buff. On the contrary, smaller spacing patterns as well as some faster jumps will generally see a nerf. Some examples of beatmaps buffed by this change:
 
 - [dj TAKA - quaver [Crescendo]](https://osu.ppy.sh/beatmapsets/423527#osu/915210): 7.36* --> 7.84*
 - [Halozy - Sentimental Skyscraper [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288): 6.94* --> 7.53*
