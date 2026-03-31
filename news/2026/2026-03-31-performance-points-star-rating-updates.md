@@ -88,13 +88,13 @@ As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https:/
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/aim-strain-influence.png)
 
+As the graph shows, this is not a total fix and higher BPMs are generally still more rewarding, but to a lesser extent.
+
 In effect, higher spacing patterns as well as slower jumps will generally see a buff. On the contrary, smaller spacing patterns as well as some faster jumps will generally see a nerf. Some examples:
 
 - [dj TAKA - quaver [Crescendo]](https://osu.ppy.sh/beatmapsets/423527#osu/915210): 7.36* --> 7.84*
 - [Halozy - Sentimental Skyscraper [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288): 6.94* --> 7.53*
 - [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869): 6.79* --> 7.15*
-
-This isn't a complete fix, and further changes should be made in this area over time, but it is a beginning step in the right direction.
 
 ### Replace Speed accuracy scaling with deviation scaling
 
