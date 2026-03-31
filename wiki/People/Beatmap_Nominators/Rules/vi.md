@@ -1,6 +1,6 @@
 # Quy tắc đối với người đề cử beatmap
 
-Đây là danh sách các quy tắc áp dụng với những điều [người đề cử](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi làm đề cử các beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
+Đây là danh sách các quy tắc áp dụng những điều [người đề cử](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi làm đề cử các beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
 
 Người đề cử beatmap có công cụ để đề cử beatmap và định hình hệ sinh thái osu! qua thúc đẩy nội dung mới hướng tới việc được đưa vào danh sách chính thức; vì lý do này, họ đều phải chấp hành các quy tắc này mọi lúc. Việc vi phạm bất kỳ những điều này có thể dẫn đến người đề cử beatmap tương ứng bị xóa khỏi Nhóm đề cử beatmap. Các vi phạm với mỗi quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
 
@@ -35,10 +35,10 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 - **Không đề cử beatmap với vấn đề không thể được xếp hạng.** [Tiêu Chí Xếp Hạng chung](/wiki/Ranking_criteria) và Tiêu Chí Xếp Hạng theo tất cả chế độ chơi áp dụng cho các mapset với độ khó thuộc từng chế độ.
 - **Không đề cử các beatmap mà bạn đã có đóng góp.** Điều này bao gồm bất kỳ đóng góp quan trọng như là việc làm mapping, hitsound, storyboard, skin, hoặc điều chỉnh tốc độ nốt bấm.
-- **Không đề cử một beatmap chưa được kiểm tra kỹ lưỡng tất cả độ khó trong chế độ mà bạn đang đề cử** Kiểm tra không đúng cách bao gồm chỉ chạy công cụ modding trước khi đề cử hoặc thậm chí còn không tải beatmap về.
+- **Không đề cử một beatmap chưa được kiểm tra kỹ lưỡng tất cả độ khó trong chế độ mà bạn đang đề cử.** Kiểm tra không đúng cách bao gồm chỉ chạy công cụ modding trước khi đề cử hoặc thậm chí còn không tải beatmap về.
 - **Không đề cử beatmap nếu bạn không chắc về điều gì đó.** Trong những trường hợp này, hãy hỏi người đề cử chung với sự giúp đỡ trước khi quyết định một cách vội vàng. Điều này bao gồm không quen chế độ game, sự nghi ngờ về vùng xám/vấn đề không thể xếp hạng, về chất lượng hoặc thời gian phức tạp.
 - **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Có khả năng đánh giá beatmap một cách hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding, là một phần cốt lõi với khả năng đánh giá chất lượng của một beatmap. Nếu bạn bị xem là chưa có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về khả năng đánh giá beatmap của bạn. 
-- **Đảm bảo không bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** các bài đăng với không câu phản hồi đầy đủ có thể tính như đã bỏ qua. Khi có nghi ngờ, kiểm tra lại nếu quy tắc ứng xử đối với mapping và modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
+- **Đảm bảo không bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** các bài đăng chưa có câu phản hồi đầy đủ có thể tính như đã bỏ qua. Khi có nghi ngờ, kiểm tra lại nếu quy tắc ứng xử đối với mapping và modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
 
 ### Khả năng chuyên môn 
 
@@ -46,9 +46,9 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 ## Đặt lại đề cử 
 
-- **Khi đặt lại đề cử của một beatmap, dòng đầu tiên của bài đăng phải chứa ngắn gọn lý do của việc đặt lại** Liên kết đơn giản đến bài đăng là chưa đủ, bạn nên thử tóm tắt bài viết liên quan. Trong trường hợp mất tư cách, việc viết đơn giản là được yêu cầu cũng chưa đủ, bạn phải liên kết bất kỳ bài đăng vấn đề liên quan trong thảo luận beatmap trừ khi beatmap đang có quá nhiều bài đăng. 
-- **Nếu một beatmap được đề cử chứa vấn đề không thể xếp hạng, các đề cử của nó bắt buộc được đặt lại** Điều này áp dụng ngay cả khi bạn không có ý định đề cử beatmap
-- **đảm bảo bạn đang xem tại phiên bản cập nhật mới nhất của beatmap trước khi đặt lại đề cử beatmap**
+- **Khi đặt lại đề cử của một beatmap, dòng đầu tiên của bài đăng phải chứa ngắn gọn lý do của việc đặt lại.** Liên kết đơn giản đến bài đăng là chưa đủ, bạn nên thử tóm tắt bài viết liên quan. Trong trường hợp mất tư cách, việc viết đơn giản là được yêu cầu cũng chưa đủ, bạn phải liên kết bất kỳ bài đăng vấn đề liên quan trong thảo luận beatmap trừ khi beatmap đang có quá nhiều bài đăng. 
+- **Nếu một beatmap được đề cử chứa vấn đề không thể xếp hạng, các đề cử của nó bắt buộc được đặt lại.** Điều này áp dụng ngay cả khi bạn không có ý định đề cử beatmap
+- **đảm bảo bạn đang xem tại phiên bản cập nhật mới nhất của beatmap trước khi đặt lại đề cử beatmap.**
 
 ### Loại khỏi đủ tư cách
 
