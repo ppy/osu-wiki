@@ -109,7 +109,9 @@ As a result, you can expect:
 - High OD, lower accuracy scores on Speed-heavy maps to be buffed
 - Low OD scores on Speed-heavy maps to be nerfed
 
-<!-- graph to show deviation scaling -->
+An example of how this scales for a DTHR score on [Manticora - Humiliation Supreme [Extreme]](https://osu.ppy.sh/beatmapsets/2364885#osu/5119288):
+
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/speed-deviation-scaling.png)
 
 ### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
 
