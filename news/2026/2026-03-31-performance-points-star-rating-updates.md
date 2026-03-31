@@ -1,0 +1,159 @@
+---
+layout: post
+title: Performance Points & Star Rating Updates
+date: 2026-03-31 00:00:00 +0000
+series: ranking_system_updates
+---
+
+We are SO back.
+
+![](/wiki/shared/news/banners/pp-sr-pippi-yuzu.jpg)
+
+This time around only osu! is receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
+
+All changes made in this round are intended to keep the general understanding of per-score PP values the same. This means that if a score's (or beatmap's max) PP value has decreased, it is due to that beatmap or score being overweighted until now. As a result, individual users may see a large jump in their PP, in either direction.
+
+If you find yourself scratching your head when reading, consider consulting the [performance points (PP)](/wiki/Performance_points) wiki article to gain a greater understanding of the topics.
+
+## Release schedule
+
+### ✅ Star rating recalculation
+
+Unlike previous runs, we've updated all star ratings in the background, maintaining a separate copy. These will go live in the near future.
+
+### 🏃 Reprocess performance values of negligible scores (1 - 2 days)
+
+To start with, we are reprocessing the PP values of scores which are insignificant. This means starting with scores worth a very low amount of PP and working upwards in a way that doesn't affect the competitive nature of the rankings.
+
+This can be done in the background, without stopping the world.
+
+### ⏳ Reprocess performance values of all scores (3 - 5 days)
+
+We now need to reprocess all remaining 3 billion scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!(stable) and osu!(lazer)). This is the most time-consuming part of the deploy process.
+
+During this period:
+
+- Scores in the "Best Performance" on user profiles may be **out of order or not be visible at all**.
+- All player total PP, global ranks, country ranks, and profile ranking graphs **will be frozen** in time until we're done reprocessing things. If we didn't freeze things, users would question their rank and PP jumping all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
+
+### ⏳ Reprocess total PP values for all users (12 hours)
+
+Bring everything back in line with expectations.
+
+### ⏳ Re-enabling of global rank history updates
+
+Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+
+### ⏳ Reindexing (2 - 3 days)
+
+This will fix scores occasionally being out of order on profiles under "best performance", and in some rare cases not being displayed at all.
+
+## osu!
+
+### Change Speed difficulty summation to be a harmonic sum
+
+First, some context: final difficulty is formed by doing a weighted sum of all difficulty chunks, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that skills have needed a length bonus in PP in order to ensure that adding more notes increases the reward for a map.
+
+Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal length with a higher number of difficult notes.
+
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/harmonic-summation.png)
+
+### Replace AR and HD bonuses with a new Reading skill
+
+Currently, any reward for playing beatmaps with a difficult AR (both high and low) or with HD comes from static multipliers in the Aim and Speed skills. This means these buffs are based off of the AR value only, and do not consider the difficulty required to read patterns.
+
+Thanks to a [brand new skill](https://github.com/ppy/osu/pull/33196) created by [kwotaq](https://osu.ppy.sh/users/8195972) (with some early contributions from [moonpoint](https://osu.ppy.sh/users/9558549)), these bonuses are now replaced by a new skill called Reading.
+
+This new Reading skill aims to replace the current bonuses by calculating the density at each note and using that to scale reading difficulty, alongside some basic angle bonuses. As the old bonuses were a single multiplier onto Aim and Speed, you can expect to see losses for very high ranking players as their scores were receiving too much bonus for simply being high AR, as well as some buffs on high AR in the lower rankings due to not providing _enough_ reward.
+
+As a result of the density changes, you can expect to see large scale buffs on low AR scores (especially when paired with HD).
+
+### Improve angle calculation to better represent the path taken on sliders
+
+Aim calculations have a set of angle bonuses intended to award difficulty for patterns which are awkward to aim. For sliders, these angles are calculated by estimating the lazy path a player would take in order to correctly hit a slider. Until now, the calculated path has been unrealistic and resulted in a lot of unfair buffs to certain slider patterns.
+
+A [change](https://github.com/ppy/osu/pull/35555) by [Nisico](https://osu.ppy.sh/users/23384384) improves this by changing which parts of the slider are used to form the angle.
+
+An example of before (white) vs after (green), where these sliders were incorrectly buffed previously:
+
+<!-- todo: fix stanr's visualisation tool to correctly show live angles -->
+
+### aim strain influence (Come up with a title)
+
+Until now, aim evaluation has prioritised high BPMs with lower distances over low BPMs with higher distances. This is due to a mechanism to decay difficulty which scales by time.
+
+Thanks to a [change](https://github.com/ppy/osu/pull/36417) by [Natelytle](https://osu.ppy.sh/users/17607667), we can now change this mechanism without adverse affects to strain.
+
+As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by [StanR](https://osu.ppy.sh/users/7217455) were made in order to bring aim evaluation closer to awarding increases in BPM and distance equally:
+
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/aim-strain-influence.png)
+
+In effect, higher spacing patterns as well as slower jumps will generally see a buff. On the contrary, smaller spacing patterns as well as some faster jumps will generally see a nerf.
+
+This isn't a complete fix, and further changes should be made in this area over time, but it is a beginning step in the right direction.
+
+### Replace Speed accuracy scaling with deviation scaling
+
+https://github.com/ppy/osu/pull/36475
+
+### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
+
+https://github.com/ppy/osu/pull/36902
+
+### Nerf repeated angles in Snap Aim
+
+https://github.com/ppy/osu/pull/36559
+
+### Replace fixed-length strain chunking with variable-length strains
+
+https://github.com/ppy/osu/pull/33351
+
+### Adjust miss penalty to be harsher on initial impact
+
+A [change](https://github.com/ppy/osu/pull/37040) by [StanR](https://osu.ppy.sh/users/7217455) was made in order to harshen the miss penalty's initial impact:
+
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/miss-penalty.png)
+
+In practice:
+
+- 1-3 miss scores will lose PP
+- 4-9 miss scores will stay roughly the same
+- 9+ miss scores will slightly gain PP
+
+### Minor changes
+
+- A [fix](https://github.com/ppy/osu/pull/29993) by [Givy120](https://osu.ppy.sh/users/10560705) to make the comparison between slider and slider-less aim difficulty more accurate
+- A [fix](https://github.com/ppy/osu/pull/36599) by [molneya](https://osu.ppy.sh/users/8945180) to nerf total difficulty for Flashlight when Reading difficulty is extremely high
+- A [fix](https://github.com/ppy/osu/pull/36216) by [StanR](https://osu.ppy.sh/users/7217455) to fix aim slider bonuses being awarded to the incorrect note
+- A [fix](https://github.com/ppy/osu/pull/36644) by [StanR](https://osu.ppy.sh/users/7217455) to prevent zero-difficulty beatmaps returning NaN star rating
+- A [set](https://github.com/ppy/osu/pull/36569) of [fixes](https://github.com/ppy/osu/pull/36593) by [StanR](https://osu.ppy.sh/users/7217455) to improve slider-to-circle Rhythm difficulty
+- A [set](https://github.com/ppy/osu/pull/36773) of [fixes](https://github.com/ppy/osu/pull/36806) by [StanR](https://osu.ppy.sh/users/7217455) to fix slider velocity calculations using inflated velocity
+- A [fix](https://github.com/ppy/osu/pull/36209) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix score-based miss estimations using incorrect multipliers for scores with mods
+- A [fix](https://github.com/ppy/osu/pull/36558) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix no-movement doubles inflating aim difficulty
+- A [set of fixes](https://github.com/ppy/osu/pull/36999) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve flow aim evaluation for overlapping notes and sliders
+- A [change](https://github.com/ppy/osu/pull/35962) by [Givy120](https://osu.ppy.sh/users/10560705) to skip score-based miss estimations for ScoreV2
+- A [change](https://github.com/ppy/osu/pull/33019) by [Givy120](https://osu.ppy.sh/users/10560705) to consider Hidden's "only hide approach circles" setting in flashlight calculations
+- A [change](https://github.com/ppy/osu/pull/35724) by [Givy120](https://osu.ppy.sh/users/10560705) to adjust full-combo threshold depending on how difficult sliders are
+- A [change](https://github.com/ppy/osu/pull/36466) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure alternating angles do not explode Reading difficulty
+- A [change](https://github.com/ppy/osu/pull/36554) by [Givy120](https://osu.ppy.sh/users/10560705) to harshen Speed deviation scaling at lower difficulties
+- A [change](https://github.com/ppy/osu/pull/36623) by [Givy120](https://osu.ppy.sh/users/10560705) to nerf Reading's perfect-stack bonus for Hidden
+- A [change](https://github.com/ppy/osu/pull/36148) by [StanR](https://osu.ppy.sh/users/7217455) to scale doubletap detections more harshly, punishing some edge case beatmaps
+- A [change](https://github.com/ppy/osu/pull/36513) to [StanR](https://osu.ppy.sh/users/7217455) to remove a now unnecessary high CS slider nerf
+- A [change](https://github.com/ppy/osu/pull/36063) by [StanR](https://osu.ppy.sh/users/7217455) to simplify final star rating calculations
+- A [change](https://github.com/ppy/osu/pull/36669) by [StanR](https://osu.ppy.sh/users/7217455) to uncap Accuracy PP's object count bonus
+- A [change](https://github.com/ppy/osu/pull/36985) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Relax PP
+- A [change](https://github.com/ppy/osu/pull/36855) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Touch Device difficulty
+- A [change](https://github.com/ppy/osu/pull/37099) by [StanR](https://osu.ppy.sh/users/7217455) to buff longer jump sections
+- A [change](https://github.com/ppy/osu/pull/36967) by [StanR](https://osu.ppy.sh/users/7217455) to rescale Aim difficulty to meet community expectations
+- A [change](https://github.com/ppy/osu/pull/37147) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Aim to meet community expectations
+- A [refactor](https://github.com/ppy/osu/pull/35817) by [Givy120](https://osu.ppy.sh/users/10560705) to remove some unnecessary difficulty code
+- A [refactor](https://github.com/ppy/osu/pull/36465) by [Givy120](https://osu.ppy.sh/users/10560705) to simplify Reading's Hidden difficulty calculation
+- A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by [Rian8337](https://osu.ppy.sh/users/5383997) to improve readability of Reading calculations
+- A [refactor](https://github.com/ppy/osu/pull/36064) by [StanR](https://osu.ppy.sh/users/7217455) to improve star rating code quality
+- A [refactor](https://github.com/ppy/osu/pull/36112) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve performance in some areas of difficulty calculation
+
+---
+
+A huge thanks to the contributors of these changes as well as the community of people who helped by providing their feedback. If you'd like to learn more about the development of performance points, you may want to take a look in the `#difficulty-osu` channel of the [osu! Discord server](https://discord.gg/ppy), or even join the [Performance Points Discord server](https://discord.gg/aqPCnXu) dedicated to developing and discussing performance points.
+
+—the performance point committees
