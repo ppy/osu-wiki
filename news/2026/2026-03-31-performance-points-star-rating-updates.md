@@ -90,6 +90,12 @@ As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https:/
 
 In effect, higher spacing patterns as well as slower jumps will generally see a buff. On the contrary, smaller spacing patterns as well as some faster jumps will generally see a nerf.
 
+Some examples of beatmaps buffed by this change:
+
+- [dj TAKA - quaver [Crescendo]](https://osu.ppy.sh/beatmapsets/423527#osu/915210): 7.36* --> 7.84*
+- [Halozy - Sentimental Skyscaper [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288): 6.94* --> 7.53*
+- [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869): 6.79* --> 7.15*
+
 This isn't a complete fix, and further changes should be made in this area over time, but it is a beginning step in the right direction.
 
 ### Replace Speed accuracy scaling with deviation scaling
