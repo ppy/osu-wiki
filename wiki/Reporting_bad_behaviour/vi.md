@@ -2,7 +2,7 @@
 
 osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hành Toàn cầu (GMT)](/wiki/People/Global_Moderation_Team), hoạt động nhằm giữ cho trò chơi và toàn bộ cộng đồng luôn an toàn và sạch sẽ. Nếu bạn nhận thấy một hành vi phá luật hoặc nội dung không phù hợp, hãy báo cáo bằng cách sử dụng một trong những phương pháp được mô tả bên dưới. Ngoài ra, bạn có thể liên lạc trực tiếp đến bất kỳ người điều hành nào đang hoạt động nếu báo cáo của bạn không được xử lý đúng cách trong một khoản thời gian phù hợp - chỉ nên làm như một biện pháp cuối. 
 
-Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
+Các báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
 
 ## Các trường hợp đặc biệt
 
@@ -21,7 +21,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ### Lệnh !report 
 
-*Thận trọng: việc báo cáo người dùng qua lệnh `!report` trong osu!(lazer) hoặc qua website sẽ khiến cho báo cáo thành **hiển thị công khai cho mọi người** thay vào đó, vui lòng [sử dụng báo cáo trên menu](#lazer-reports) hoặc báo cáo họ thông qua [trang hồ sơ của họ](#trang-hồ-sơ).*
+*Thận trọng: việc báo cáo người dùng qua lệnh `!report` trong osu!(lazer) hoặc qua website sẽ khiến cho báo cáo **hiển thị công khai cho mọi người** thay vào đó, vui lòng [sử dụng báo cáo trên menu](#lazer-reports) hoặc báo cáo họ thông qua [trang hồ sơ của họ](#trang-hồ-sơ).*
 
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
@@ -42,7 +42,7 @@ Nếu trong tên người dùng có khoảng trắng, thay thế chúng thành d
 
 Nếu báo cáo của bạn được gửi thành công, Bancho sẽ hiển thị cho bạn một tin nhắn riêng tư cho biết rằng người kiểm duyệt đã nhận được cảnh báo.
 
-Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lòng báo cáo người dùng qua [menu cáo báo](#lazer-reports) thay vào đó.   
+Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lòng báo cáo người dùng qua [menu báo cáo](#lazer-reports) thay vào đó.   
 
 ### Trong giao diện trò chơi osu!(stable) {id=stable-reports}
 
@@ -116,7 +116,7 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 #### Danh sách điểm số beatmap 
 
-![](img/report-score-beatmap.png "Nút báo cáo trên kỉ lục điểm số trong một danh sách điểm số beatmap")
+![](img/report-score-beatmap.png "Nút báo cáo trên kỷ lục điểm số trong một danh sách điểm số beatmap")
 
 1. Di chuyển con trỏ chuột đến điểm số 
 2. Tại bên phải của điểm số, nhấn vào nút hình ba chấm dọc và chọn `Báo cáo`
@@ -129,6 +129,6 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 1. Nhấn vào nút hình ba chấm dọc và chọn `Báo cáo đội`
 2. Lựa chọn danh mục báo cáo và thêm chi tiết
 
-## Tài liệu tham thảo 
+## Tài liệu tham khảo 
 
 [^invalid-reports]: Không giống như các danh mục khác, beatmap được xếp hạng không thể được báo cáo thông qua website.
