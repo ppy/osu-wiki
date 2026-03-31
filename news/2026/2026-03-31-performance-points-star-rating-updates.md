@@ -98,7 +98,18 @@ In effect, higher spacing patterns as well as slower jumps will generally see a 
 
 ### Replace Speed accuracy scaling with deviation scaling
 
-https://github.com/ppy/osu/pull/36475
+Tapping deviation is a statistic similar to unstable rate created by [Frostium](https://osu.ppy.sh/users/8202998), combining a score's hit statistics, OD and amount of difficult "speed notes" (high-strain notes relevant to speed PP) in a beatmap. This metric has already been in use in order to nerf scores that require tapping improperly (e.g. "rake tapping").
+
+Thanks to a [change](https://github.com/ppy/osu/pull/36475) by [StanR](https://osu.ppy.sh/users/7217455), we are now using this deviation metric as a replacement for accuracy scaling within Speed.
+
+The main goal with replacing accuracy scaling is to fix an inequality for scores set on higher ODs with non-perfect accuracy. Due to the nature of arbitrarily scaling Speed by accuracy and OD, scores with lower accuracies on high OD may be worth less PP than if they were played at a lower OD. Deviation is a normalised metric, meaning we can more accurately represent how inaccurate a score was.
+
+As a result, you can expect:
+
+- High OD, lower accuracy scores on Speed-heavy maps to be buffed
+- Low OD scores on Speed-heavy maps to be nerfed
+
+<!-- graph to show deviation scaling -->
 
 ### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
 
