@@ -44,7 +44,7 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 - **Không trực tiếp cho một beamap đủ điều kiện mà không có bất kỳ liên lạc nào với mapper** Người làm map có thể đã tự thay đổi sau lần đề cử cuối cùng, nên việc đề cử một beatmap mà không liên lạc với mapper có thể dẫn đến việc loại vô ích. 
 
-# Đặt lại đề cử 
+## Đặt lại đề cử 
 
 - **Khi đặt lại đề cử của một beatmap, dòng đầu tiên của bài đăng phải chứa ngắn ngọn lý do của việc đặt lại** Liên kết đơn giản đến bài đăng là chưa đủ, bạn nên thử tóm tắt bài viết liên quan. Trong trường hợp mất tư cách, việc viết đơn giản là được yêu cầu cũng chưa đủ, bạn phải liên kết bất kỳ bài đăng vấn đề liên quan trong thảo luận beatmap trừ khi beatmap đang có quá nhiều bài đăng. 
 - **Nếu một beatmap được đề cử chứa vấn đề không thể xếp hạng, các đề cử của nó bắt buộc được đặt lại** Điều này áp dụng ngay cả khi bạn không có ý định đề cử beatmap
@@ -65,10 +65,10 @@ Vui lòng xem trang [phủ quyết beatmap](/wiki/People/Beatmap_Nominators/Beat
 
 - **Không phủ quyết beatmap với chế độ game bạn chưa đủ điều kiện chính thức** Bạn không được phép đề cử chúng, vì việc chặn đề cử mà không có khả năng đề cử lại beatmap sẽ chẳng hợp lý, điều này không áp dụng đến các phủ quyết về âm thanh, hình nền, hoặc nội dụng khác không liên quan trực tiếp đến chế độ game của beatmap
 - **Bạn có thể phủ quyết một beatmap bằng việc đăng vấn đề bạn nghĩ cần được giải quyết trước khi đạt trạng thái Ranked trong diễn đàn với tem vấn đề hoặc yêu cầu tương ứng trong thảo luận modding** Điều này sẽ ngăn beatmap tiếp tục tiến tới trạng thái Ranked. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một tem yêu cầu để giữ beatmap ở trạng thái Đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử lại sau khi lệnh phủ quyết được dở bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận phát sinh và cố gắng đạt được sự đồng thuận. 
-- **Đừng phủ quyết các beatmap không thể Ranked.** Không thể được ranked nghĩa là không có Người đề cử nào khác nên đề cử, và mapper buộc phải sửa, tương tự như cách một veto được duy trì hoạt động.
+- **Đừng phủ quyết các beatmap không thể Ranked.** Không thể được xếp hạng nghĩa là không có Người đề cử nào khác nên đề cử, và mapper buộc phải sửa, tương tự như cách một veto được duy trì hoạt động.
 - **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi có thể được đề cử lại. Việc này có thể xảy ra nếu Người đề cử đã phủ quyết quyết định gỡ bỏ lệnh phủ quyết sau khi có thảo luận thỏa đáng hoặc beatmap đã được chỉnh sửa phù hợp, hoặc nếu mapper hoặc Người đề cử yêu cầu trung gian và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
 
-# Ghi chú
+## Ghi chú
 
 [^multi-key-mode]: Các beatmap với nhiều phím được tính là 2 đề cử cho mục đích hoạt động.
 [^new-jury]: Ban giám khảo là các thành viên BN và NAT của chế độ chơi liên quan, hoặc tất cả các thành viên BN và NAT nếu việc phủ quyết không thuộc riêng chế độ chơi nào.
