@@ -78,7 +78,7 @@ An example of before (white) vs after (green), where these sliders were incorrec
 
 <!-- todo: fix stanr's visualisation tool to correctly show live angles -->
 
-### aim strain influence (Come up with a title)
+### Improve relationship between distance and BPM increases in Aim
 
 Until now, aim evaluation has prioritised high BPMs with lower distances over low BPMs with higher distances. This is due to a mechanism to decay difficulty which scales by time.
 
