@@ -130,6 +130,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 21 | France ::{ flag=FR }:: | ::{ flag=MY }:: Malaysia | [Apr 04 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T143000&p1=1440&p2=195&p3=122) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 18 | Finland ::{ flag=FI }:: | ::{ flag=NL }:: Netherlands | [Apr 04 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T160000&p1=1440&p2=101&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 22 | United Kingdom ::{ flag=GB }:: | ::{ flag=SE }:: Sweden | [Apr 04 (Sat) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T173000&p1=1440&p2=136&p3=239) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 32 | Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Apr 04 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T183000&p1=1440&p2=45&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 23 | Norway ::{ flag=NO }:: | ::{ flag=PT }:: Portugal | [Apr 04 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T190000&p1=1440&p2=187&p3=133) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 5 April 2026
@@ -139,7 +140,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 20 | New Zealand ::{ flag=NZ }:: | ::{ flag=CA }:: Canada | [Apr 05 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T000000&p1=1440&p2=264&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 30 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 05 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T020000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 26c | Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Apr 05 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T040000&p1=1440&p2=188&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 29 | Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 05 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T080000&p1=1440&p2=248&p3=241) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 29 | Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 05 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T060000&p1=1440&p2=248&p3=241) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 26a | New Zealand ::{ flag=NZ }:: | ::{ flag=ID }:: Indonesia | [Apr 05 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T093000&p1=1440&p2=264&p3=108) | *TBD* | [^potential-match] |
 | 26b | New Zealand ::{ flag=NZ }:: | ::{ flag=SK }:: Slovakia | [Apr 05 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T093000&p1=1440&p2=264) | *TBD* | [^potential-match] |
 | 27c | Sweden ::{ flag=SE }:: | ::{ flag=FR }:: France | [Apr 05 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T093000&p1=1440&p2=239&p3=195) | *TBD* | [^potential-match] |
@@ -156,12 +157,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 26d | Canada ::{ flag=CA }:: | ::{ flag=SK }:: Slovakia | [Apr 05 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T163000&p1=1440&p2=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 28c | Germany ::{ flag=DE }:: | ::{ flag=NO }:: Norway | [Apr 05 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T173000&p1=1440&p2=37&p3=187) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 28d | Germany ::{ flag=DE }:: | ::{ flag=PT }:: Portugal | [Apr 05 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T173000&p1=1440&p2=37&p3=133) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 32 | Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Apr 05 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T180000&p1=1440&p2=45&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 |  | Semifinals | mappool showcase | [Apr 05 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1wpsHIKzBg7RcDeh4mjHVtV8XMBddD3iwD_ex549ImEU?rm=minimal).
 
 Saturday, 28 March 2026:
 
@@ -349,6 +351,7 @@ Group H:
 
 ### Quarterfinals
 
+**[Download the mappack here (104 MB)](https://packs.ppy.sh/P318%20-%20osu%21taiko%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
 [View the showcase VOD here](https://www.twitch.tv/videos/2734988514)
 
 - No Mod
@@ -372,7 +375,7 @@ Group H:
   2. [MYUKKE. - Unknown Amnasia (Yuemiao) \[i forgor\]](https://osu.ppy.sh/beatmapsets/2441332#taiko/5326296)
   3. [Hyparpax - depth meter (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/2530720#taiko/5593723)
 - Tiebreaker///\\\
-  1. penoreri - Vacant Rhapsody (hz404) \[BEAUTIFUL EMPTINESS.\] (link pending)
+  1. **[penoreri - Vacant Rhapsody (hz404) \[BEAUTIFUL EMPTINESS.\]](https://osu.ppy.sh/beatmapsets/2531045#taiko/5594583)**
 
 ### Round of 16
 
