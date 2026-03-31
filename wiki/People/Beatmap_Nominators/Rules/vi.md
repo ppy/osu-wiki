@@ -1,6 +1,6 @@
 # Quy tắc đối với người đề cử beatmap
 
-Đây là danh sách các quy tắc áp dụng những điều [người đề cử](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi làm đề cử các beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
+Đây là danh sách các quy tắc áp dụng những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi làm đề cử các beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
 
 Người đề cử beatmap có công cụ để đề cử beatmap và định hình hệ sinh thái osu! qua thúc đẩy nội dung mới hướng tới việc được đưa vào danh sách chính thức; vì lý do này, họ đều phải chấp hành các quy tắc này mọi lúc. Việc vi phạm bất kỳ những điều này có thể dẫn đến người đề cử beatmap tương ứng bị xóa khỏi Nhóm đề cử beatmap. Các vi phạm với mỗi quy tắc có thể được báo cáo trực tiếp đến NAT thông qua [website quản lý BN](https://bn.mappersguild.com/reports)
 
