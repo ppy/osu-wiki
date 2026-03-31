@@ -6,7 +6,7 @@ Người đề cử beatmap có công cụ để đề cử beatmap và định 
 
 ## Kỳ vọng 
 
-Tất cả các người đề cử beatmap đều được mong đợi cố gắng hết sức tuân thủ theo các nguyên tắc trong bài viết [Kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
+Tất cả các người đề cử beatmap đều được mong đợi cố gắng hết sức tuân thủ theo các nguyên tắc trong bài viết [kỳ vọng đối với người đề cử beatmap](/wiki/People/Beatmap_Nominators/Expectations)
 
 Hành vi sai trái kéo dài đối với những kỳ vọng là căn cứ để loại bỏ theo quyết định của NAT.
 
@@ -42,7 +42,7 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 ### Khả năng chuyên môn 
 
-- **Không trực tiếp đưa một beatmap vào trạng thái đủ điều kiện mà không có bất kỳ liên lạc nào với mapper** Người làm map có thể đã tự thay đổi sau lần đề cử cuối cùng, nên việc đề cử một beatmap mà không liên lạc với mapper có thể dẫn đến việc loại vô ích. 
+- **Không trực tiếp đưa một beatmap vào trạng thái đủ điều kiện mà không có bất kỳ liên lạc nào với mapper.** Người làm map có thể đã tự thay đổi sau lần đề cử cuối cùng, nên việc đề cử một beatmap mà không liên lạc với mapper có thể dẫn đến việc loại vô ích. 
 
 ## Đặt lại đề cử 
 
@@ -54,17 +54,17 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 - **Chỉ các thành viên chính thức mới có quyền loại beatmap, bất kể lý do.** Tuy nhiên, các thành viên thử việc vẫn có thể tham gia thảo luận và báo cáo beatmap như mọi người khác.
 - **Việc loại beatmap chủ yếu nên được thực hiện với những beatmap có vấn đề khiến không thể xếp hạng, hoặc nếu chủ sở hữu beatmap yêu cầu.**
-- **Yêu cầu hủy tư cách bởi chủ beatmap có thể được áp dụng ngay lập tức** Điều này bao gồm chính bản thân bạn, trong trường hợp bạn muốn tự hủy trạng thái đủ tư cách
+- **Yêu cầu hủy tư cách bởi chủ beatmap có thể được áp dụng ngay lập tức.** Điều này bao gồm chính bản thân bạn, trong trường hợp bạn muốn tự hủy trạng thái đủ tư cách
 - **Các vấn đề có thể được giảm bớt qua offset trực tuyến, tag hoặc tương tự vẫn phải bị loại.** Trong trường hợp không khả thi, hãy liên hệ một thành viên NAT, offset trực tuyến và tag chỉ áp dụng được với website, vì vậy người chơi vẫn sẽ có vấn đề trong client ngoài trừ sửa trước khi xếp hạng. 
-- **Các beatmap đủ điều kiện có vấn đề không được xếp hạng hoặc vấn đề nghiêm trọng bắt buộc phải bị loại khỏi đủ tư cách ngay lập tức**
-- **Không được loại beatmap đủ tư cách với chế độ game mà bạn không đủ điều kiện tiêu chuẩn chính thức** Điều này không áp dụng cho trường hợp bị loại liên quan đến audio, hình nền, hoặc nội dung khác mà không liên quan trực tuyến đến chế độ game của beatmap.
+- **Các beatmap đủ điều kiện có vấn đề không được xếp hạng hoặc vấn đề nghiêm trọng bắt buộc phải bị loại khỏi đủ tư cách ngay lập tức.**
+- **Không được loại beatmap đủ tư cách với chế độ game mà bạn không đủ điều kiện tiêu chuẩn chính thức.** Điều này không áp dụng cho trường hợp bị loại liên quan đến audio, hình nền, hoặc nội dung khác mà không liên quan trực tuyến đến chế độ game của beatmap.
 
 ### Sự phủ quyết
 
 Vui lòng xem trang [phủ quyết beatmap](/wiki/People/Beatmap_Nominators/Beatmap_Veto) để đầy đủ thông tin về quá trình phủ quyết
 
-- **Không phủ quyết beatmap với chế độ game bạn chưa đủ điều kiện chính thức** Bạn không được phép đề cử chúng, vì việc chặn đề cử mà không có khả năng đề cử lại beatmap sẽ chẳng hợp lý, điều này không áp dụng đến các phủ quyết về âm thanh, hình nền, hoặc nội dung khác không liên quan trực tiếp đến chế độ game của beatmap
-- **Bạn có thể phủ quyết một beatmap bằng việc đăng vấn đề bạn nghĩ cần được giải quyết trước khi đạt trạng thái Ranked trong diễn đàn với tem vấn đề hoặc yêu cầu tương ứng trong thảo luận modding** Điều này sẽ ngăn beatmap tiếp tục tiến tới trạng thái Ranked. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một tem yêu cầu để giữ beatmap ở trạng thái Đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử lại sau khi lệnh phủ quyết được dỡ bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận phát sinh và cố gắng đạt được sự đồng thuận. 
+- **Không phủ quyết beatmap với chế độ game bạn chưa đủ điều kiện chính thức.** Bạn không được phép đề cử chúng, vì việc chặn đề cử mà không có khả năng đề cử lại beatmap sẽ chẳng hợp lý, điều này không áp dụng đến các phủ quyết về âm thanh, hình nền, hoặc nội dung khác không liên quan trực tiếp đến chế độ game của beatmap
+- **Bạn có thể phủ quyết một beatmap bằng việc đăng vấn đề bạn nghĩ cần được giải quyết trước khi đạt trạng thái Ranked trong diễn đàn với tem vấn đề hoặc yêu cầu tương ứng trong thảo luận modding.** Điều này sẽ ngăn beatmap tiếp tục tiến tới trạng thái Ranked. Một beatmap đã đủ tư cách có thể bị phủ quyết bằng cách sử dụng một tem yêu cầu để giữ beatmap ở trạng thái Đủ tư cách trong lúc thảo luận. Người đề cử khác sẽ không thể đề cử lại sau khi lệnh phủ quyết được dỡ bỏ. Bài đăng phủ quyết phải bao gồm một vấn đề rõ ràng và lý do ngăn quá trình xếp hạng của beatmap. Bạn cũng phải tham gia vào cuộc thảo luận phát sinh và cố gắng đạt được sự đồng thuận. 
 - **Đừng phủ quyết các beatmap không thể Ranked.** Không thể được xếp hạng nghĩa là không có Người đề cử nào khác nên đề cử, và mapper buộc phải sửa, tương tự như cách một veto được duy trì hoạt động.
 - **Đừng đề cử các beatmap đã bị phủ quyết.** Một beatmap phải được hủy lệnh phủ quyết trước khi có thể được đề cử lại. Việc này có thể xảy ra nếu Người đề cử đã phủ quyết quyết định gỡ bỏ lệnh phủ quyết sau khi có thảo luận thỏa đáng hoặc beatmap đã được chỉnh sửa phù hợp, hoặc nếu mapper hoặc người đề cử yêu cầu trung gian và ban giám khảo[^new-jury] quyết định rằng lệnh phủ quyết là không cần thiết hoặc không hợp lệ.
 
