@@ -84,7 +84,7 @@ Until now, aim evaluation has prioritised high BPMs with lower distances over lo
 
 Thanks to a [change](https://github.com/ppy/osu/pull/36417) by [Natelytle](https://osu.ppy.sh/users/17607667), we can now change this mechanism without adverse affects to strain.
 
-As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by [StanR](https://osu.ppy.sh/users/7217455) were made in order to bring aim evaluation closer to awarding increases in BPM and distance equally:
+As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by [StanR](https://osu.ppy.sh/users/7217455) were made in order to edge this mechanism closer towards rewarding BPM and distance increases equally:
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/aim-strain-influence.png)
 
