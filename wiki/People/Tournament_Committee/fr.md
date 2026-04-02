@@ -152,23 +152,30 @@ Les membres du comité des tournois bénéficient des avantages suivants:
 
 ## Membres du comité des tournois
 
-- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619)
+- ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+- ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186)
+- ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061)
 - ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
-- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
 - ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973)
+- ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317)
 
 ## Membres du comité des concours
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
+- ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
 - ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
 
 ## Alumni

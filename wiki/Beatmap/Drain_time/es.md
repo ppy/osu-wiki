@@ -3,8 +3,6 @@ stub: true
 tags:
   - drain length
   - duración de drenaje
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 # Tiempo de drenaje
@@ -13,4 +11,4 @@ El **tiempo de drenaje** se refiere a la duración total de un [beatmap](/wiki/B
 
 Los beatmaps con tiempos de drenaje muy largos generalmente son llamados *[maratones](/wiki/Beatmap/Marathon)* debido a que requieren una resistencia más allá de lo normal para poder completarlos.
 
-La página de información del beatmap en el sitio web calcula el tiempo de drenaje (etiquetado como `Duración del drenaje`) basándose únicamente en los tiempos de inicio de los objetos, por lo que si el último objeto del mapa es un [slider](/wiki/Gameplay/Hit_object/Slider) o [spinner](/wiki/Gameplay/Hit_object/Spinner), el tiempo de drenaje se mostrará incorrectamente.
+La página de [información del beatmap](/wiki/Beatmap_information) en el sitio web calcula el tiempo de drenaje (etiquetado como `Duración del drenaje`) basándose únicamente en los tiempos de inicio de los objetos, por lo que si el último objeto del mapa es un [slider](/wiki/Gameplay/Hit_object/Slider) o [spinner](/wiki/Gameplay/Hit_object/Spinner), el tiempo de drenaje se mostrará incorrectamente.
