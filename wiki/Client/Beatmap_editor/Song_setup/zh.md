@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+---
+
 # 歌曲设置 (Song Setup) 窗口
 
 歌曲设置是[谱面编辑器](/wiki/Client/Beatmap_editor)中的第四个部分，包含了对谱面元数据、难度、设计的设置以及其他杂项设置。
