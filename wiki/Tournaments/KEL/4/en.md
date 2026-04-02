@@ -9,7 +9,7 @@ tags:
 
 ![KEL LAN Tournament 4](img/banner.jpg)
 
-**KEL LAN Tournament 4** is a 1v1 multi-bracket LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988) and ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016). It's the fourth instalment of the KEL LAN Tournament series.
+**KEL LAN Tournament 4** was a 1v1 multi-bracket LAN tournament located in Gdańsk, Poland hosted by ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988) and ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016). It was the fourth instalment of the KEL LAN Tournament series.
 
 ## Tournament schedule
 
@@ -23,11 +23,13 @@ tags:
 
 ## Prizes
 
+The KEL LAN Tournament 4 offered a $400 cash prize pool. A keyboard and keypads provided by [Wooting](https://wooting.io/).
+
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of the prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 40% of the prize pool, unique profile badge, Wooting 60HE v2 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 25% of the prize pool, Wooting UwU |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 15% of the prize pool, Wooting UwU |
 | 4th place | 12% of the prize pool |
 | 5th–6th place | 8% of the prize pool |
 
@@ -39,13 +41,13 @@ tags:
 | :-- | :-- |
 | Organisers | ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016) |
 | Admins | ::{ flag=PL }:: [Daria Maria](https://osu.ppy.sh/users/10806219), ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=AT }:: [FCnt](https://osu.ppy.sh/users/7336729) |
-| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526) |
+| Production team | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384) |
 | Developer | ::{ flag=GB }:: [ilw8](https://osu.ppy.sh/users/14167692), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454), ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384) |
 | Mappooler | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233) |
 | Playtesters | ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=RU }:: [desuqe](https://osu.ppy.sh/users/9712285), ::{ flag=NL }:: [G e n g a o z o](https://osu.ppy.sh/users/14390731), ::{ flag=RU }:: [Markrum](https://osu.ppy.sh/users/11854446), ::{ flag=FI }:: [nemq](https://osu.ppy.sh/users/11644972), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=RU }:: [nejzha](https://osu.ppy.sh/users/8105138) |
 | GFX | ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=RU }:: [Ang](https://osu.ppy.sh/users/19124145) |
-| Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=US }:: [freddiiieeee](https://osu.ppy.sh/users/7112839), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=IN }:: [TsukiUwU](https://osu.ppy.sh/users/14926905), ::{ flag=EE }:: [megahello](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706) |
-| Commentators | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=PT }:: [berniee](https://osu.ppy.sh/users/8106595), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=CA }:: [ExiaXD](https://osu.ppy.sh/users/17241883), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [MrHyena](https://osu.ppy.sh/users/2442779), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=PL }:: [Etfard](https://osu.ppy.sh/users/13676120), ::{ flag=SG }:: [gamicrayola](https://osu.ppy.sh/users/29426345), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619) |
+| Referees | ::{ flag=PL }:: [Anczak](https://osu.ppy.sh/users/8587966), ::{ flag=PL }:: [flapczek](https://osu.ppy.sh/users/8210988), ::{ flag=SE }:: [ellen-](https://osu.ppy.sh/users/7630166), ::{ flag=FI }:: [kimi321](https://osu.ppy.sh/users/6962961), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [myksmyks](https://osu.ppy.sh/users/6840526), ::{ flag=HU }:: [Szofiianne](https://osu.ppy.sh/users/30979400), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022), ::{ flag=DE }:: [roseykira](https://osu.ppy.sh/users/29021628), ::{ flag=EE }:: [MEGAHELLO](https://osu.ppy.sh/users/11155994), ::{ flag=PL }:: [StalowyRycerz](https://osu.ppy.sh/users/36748030), ::{ flag=RO }:: [Wilted Rose](https://osu.ppy.sh/users/11068604), ::{ flag=PL }:: [Wojtulas](https://osu.ppy.sh/users/12975155), ::{ flag=FI }:: [Nikva](https://osu.ppy.sh/users/21353706), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026) |
+| Commentators | ::{ flag=PL }:: [_demo](https://osu.ppy.sh/users/3556891), ::{ flag=RO }:: [BeZonaurul](https://osu.ppy.sh/users/11068604), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=UA }:: [Filoxen](https://osu.ppy.sh/users/24454271), ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [MrHyena](https://osu.ppy.sh/users/2442779), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=IT }:: [Spazza17](https://osu.ppy.sh/users/3516241), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650) |
 | Sheeter | ::{ flag=SK }:: [Mavosiik](https://osu.ppy.sh/users/18927594), ::{ flag=PL }:: [P a t r i c k](https://osu.ppy.sh/users/6814521) |
 
 ## Links
@@ -215,7 +217,7 @@ tags:
 6. Players will `!roll` in matches. The winner may choose between a pick or ban order, and the other player may choose the remaining order.
 7. Players have 1 ban from Round of 32 to Round of 16 and 2 bans throughout the rest of bracket stage.
    - Ban order is ABBA, and all bans must happen at the start of the match.
-8. Players will be allowed 120 seconds to either pick or ban and 120 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
+8. Players will be allowed 90 seconds to either pick or ban and 90 seconds to ready up. If a player takes more time than allotted for any of the above actions, the procedures adopted will be as follows:
    - First occurrence:
      - A 30-second extension is given along with a verbal warning.
 If a player does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
