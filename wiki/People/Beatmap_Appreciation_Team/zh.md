@@ -8,8 +8,6 @@ tags:
 
 # 谱面审核团队
 
-<!-- TODO: QAT stub and explain relation to QAT up here too -->
-
 **谱面审核团队**（即 Beatmap Appreciation Team，简称 ***BAT***，曾用名 *谱面核准团队*）是一个在[论坛摸图](/wiki/Modding/Forum_modding)系统中负责监督谱面[上架和下架流程](/wiki/Beatmap_ranking_procedure)的团队。BAT 成员还拥有基本的游戏内及论坛管理工具，这些工具与[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 使用的相同。
 
 在 2013 年 4 月与[谱面协助团队](/wiki/People/Mapping_Assistance_Team) (*MAT*) 合并之前，BAT 一直与 MAT 共同负责评估[谱面](/wiki/Beatmap)质量，并决定哪些内容能够进入[上架 (Ranked)](/wiki/Beatmap/Category#ranked) 类别。
@@ -17,8 +15,6 @@ tags:
 自 2013 年 5 月 15 日起，BAT 由一群 [BAT 管理员](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers) (*BATm*) 统一管理，他们负责监督 BAT 的运作，并在必要时提供指导。
 
 ## 历史
-
-<!-- TODO: Much more info required here -->
 
 BAT 最早可追溯至 2008 年。
 
