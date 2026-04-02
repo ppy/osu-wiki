@@ -13,7 +13,7 @@ tags:
 ![Screenshot of the BPM indicator on the beatmap information page](img/beatmap-info.png "The song's tempo, equal to 187, can be seen on the top corner of the beatmap information page")
 :::
 
-**Tempo** refers to the speed of a song. It is typically measured in **beats per minute** (***BPM***), meaning the number of [whole musical beats](/wiki/Music_theory/Beat) in a minute of a song. For example, a tempo of 60 beats per minute signifies one beat per second, while a tempo of 120 beats per minute is twice as rapid, signifying two beats every second. The tempo directly affects a lot of gameplay aspects, such as [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), or [kiai time](/wiki/Gameplay/Kiai_time) strobing. Beatmap information pages display tempo beside a [metronome](https://en.wikipedia.org/wiki/Metronome) symbol, a device used by musicians that assists in playing to a regular pulse.
+**Tempo** refers to the speed of a song. It is typically measured in **beats per minute** (***BPM***), meaning the number of [whole musical beats](/wiki/Music_theory/Beat) in a minute of a song. For example, a tempo of 60 beats per minute signifies one beat per second, while a tempo of 120 beats per minute is twice as rapid, signifying two beats every second. The tempo directly affects a lot of gameplay aspects, such as [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), or [kiai time](/wiki/Gameplay/Kiai_time) strobing. [Beatmap information pages](/wiki/Beatmap_information) display tempo beside a [metronome](https://en.wikipedia.org/wiki/Metronome) symbol, a device used by musicians that assists in playing to a regular pulse.
 
 ## Gameplay
 
