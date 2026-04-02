@@ -44,9 +44,9 @@
 - **如果标题或艺术家中含有出现两次、用于将部分字段分成一个组的符号，则符号前后与其他字段相邻的位置必须添加空格。** 比如，`歌曲★标题★`应修改为`歌曲 ★标题★`。
 
 - **如果以下 Unicode 符号子集可以罗马化，应该在前后添加空格：**
-  - [补充箭头-A](https://zh.wikipedia.org/zh-cn/%E8%A1%A5%E5%85%85%E7%AE%AD%E5%A4%B4-A)、[箭头补充-B (Supplemental Arrows-B)](https://zh.wikipedia.org/zh-cn/%E8%A1%A5%E5%85%85%E7%AE%AD%E5%A4%B4-B)、[杂项符号和箭头](https://zh.wikipedia.org/zh-cn/%E6%9D%82%E9%A1%B9%E7%AC%A6%E5%8F%B7%E5%92%8C%E7%AE%AD%E5%A4%B4)
-  - [什锦符号](https://zh.wikipedia.org/zh-cn/%E4%BB%80%E9%94%A6%E7%AC%A6%E5%8F%B7%20(Unicode%E5%8C%BA%E6%AE%B5))
-  - [杂项符号](https://zh.wikipedia.org/zh-cn/%E6%9D%82%E9%A1%B9%E7%AC%A6%E5%8F%B7%20(Unicode%E5%8C%BA%E6%AE%B5))
+  - [补充箭头-A (Supplemental Arrows-A)](https://www.qiuwenbaike.cn/wiki/%E8%A1%A5%E5%85%85%E7%AE%AD%E5%A4%B4-A)、[补充箭头-B (Supplemental Arrows-B)](https://www.qiuwenbaike.cn/wiki/%E8%A1%A5%E5%85%85%E7%AE%AD%E5%A4%B4-B)、[杂项符号和箭头 (Miscellaneous Symbols and Arrows)](https://www.qiuwenbaike.cn/wiki/%E6%9D%82%E9%A1%B9%E7%AC%A6%E5%8F%B7%E5%92%8C%E7%AE%AD%E5%A4%B4%EF%BC%88Unicode%E5%8C%BA%E5%9D%97%EF%BC%89)
+  - [装饰符号 (Dingbats)](https://www.qiuwenbaike.cn/wiki/Dingbat)
+  - [杂项符号 (Miscellaneous Symbols)](https://www.qiuwenbaike.cn/wiki/%E6%9D%82%E9%A1%B9%E7%AC%A6%E5%8F%B7%EF%BC%88Unicode%E5%8C%BA%E5%9D%97%EF%BC%89)
 
   若艺术家有意使用符号且不暗示空格，则不适用此规则。比如，`。✰302？ionwan2go✰。` 应该罗马化成 `.*302?ionwan2go*.`，而不是 `. * 302 ? ionwan2go * .`。其他字符集则应根据具体情况处理。
 
@@ -231,7 +231,7 @@
 ### 规定：语言和书写系统罗马化
 
 - **日语**
-  - 使用[修正平文式罗马字方案](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)。
+  - 使用[修正平文式罗马字方案](https://www.qiuwenbaike.cn/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)。
   - 除非歌曲或艺术家为了艺术化，混用了大小写（例如全大写或全小写的英文单词），否则遵守标题大小写[^title-case]规定。
   - 罗马化 `ā` 为 `aa`、`ū` 为 `uu`、`ē` 为 `ee`、`ī` 为 `ii`。
   - 根据日语原读法为 `おお` 或 `おう`，`ō` 分别罗马化为 `oo` 或者 `ou`。
@@ -239,11 +239,11 @@
 - **汉语**
   - 除专有名词外，必须将每个字逐个罗马化、首字母大写、并且在字与字之间添加空格。
   - 忽略拼音声调标识。
-  - 普通话：使用[汉语拼音方案](https://zh.wikipedia.org/zh-cn/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
-  - 广东话：使用[粤语拼音方案](https://baike.baidu.com/item/%E7%B2%A4%E8%AF%AD%E6%8B%BC%E9%9F%B3)
+  - 普通话：使用[汉语拼音方案](https://www.qiuwenbaike.cn/wiki/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3)
+  - 广东话：使用[粤语拼音方案](https://www.qiuwenbaike.cn/wiki/%E7%B2%A4%E8%AF%AD%E6%B3%A8%E9%9F%B3%E7%AC%A6%E5%8F%B7)
   - 其他方言：如何处理由谱师自行决定，建议咨询母语者。
 - **西里尔字母**
-  - 使用 [BGN/PCGN 系统](https://zh.wikipedia.org/zh-cn/BGN/PCGN%E7%BD%97%E9%A9%AC%E5%8C%96%E7%B3%BB%E7%BB%9F)。
+  - 使用 [BGN/PCGN 系统](https://www.qiuwenbaike.cn/wiki/BGN/PCGN%E4%BF%84%E8%AF%AD%E7%BD%97%E9%A9%AC%E5%8C%96%E7%B3%BB%E7%BB%9F)。
   - `Е` 和 `е`：若单独出现，或位于 `a`、`e`、`ё`、`и`、`о`、`у`、`ы`、`э`、`ю`、`я`、`й`、`ъ`、`ь` 之后，罗马化为 `ye`。其他情况下罗马化为 `e`。
   - `ё`：如果出现在 `ж`、`ч`、`ш`、`щ` 之后，罗马化为 `o`。其他情况罗马化为 `yo`。
   - 如果 `е` 作为 `ё` 的艺术化替代使用，此时也可以罗马化为 `yo` 。只要任一元数据字段中存在 `ё`，其替代拼写均应添加至标签 (`Tags`)。

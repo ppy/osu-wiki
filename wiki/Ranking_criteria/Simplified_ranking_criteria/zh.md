@@ -30,27 +30,27 @@
 - **取决于游戏模式和歌曲长度，谱面所需的最低难度不能低于：**
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!](/wiki/shared/mode/osu.png "osu!") osu! |
-| --: | :-: |
+| :-- | :-: |
 | **0:30 到 3:30** | Normal |
 | **3:30 到 4:15** | Hard |
 | **4:15 到 5:00** | Insane |
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko | ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch |
-| --: | :-: | :-: |
+| :-- | :-: | :-: |
 | **0:30 到 2:30** | Futsuu | Salad |
 | **2:30 到 3:15** | Muzukashii | Platter |
 | **3:15 到 4:00** | Oni | Rain |
 
 | [掉血时间](/wiki/Beatmap/Drain_time) | ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania |
-| --: | :-: |
+| :-- | :-: |
 | **0:30 到 2:00** | Normal |
 | **2:00 到 2:45** | Hard |
 | **2:45 到 3:30** | Insane |
 
 ### 打击音效
 
-- **谱面必须[下音效](/wiki/Beatmapping/Hitsound)。** osu!mania 谱面除外。
-- **所有可点击的物件必须能让玩家听到（有足够的反馈）。**
+- **谱面必须[有音效](/wiki/Beatmapping/Hitsound)。** osu!mania 谱面除外。
+- **所有可点击的物件必须有听觉反馈。**
 
 ### 时间轴
 
@@ -69,7 +69,7 @@
 - **元数据（歌曲信息）必须准确无误。**
   - 使用一个[主要的元数据来源](/wiki/Beatmap/Primary_metadata_source)。
   - 如果歌曲已有已上架 (Ranked) 或社区喜爱谱面 (Loved) 的谱面，请使用该谱面的元数据，除非它存在明显的错误。
-- **使用[修正平文式罗马音方案](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)作为日文罗马音方案。**
+**使用[修正平文式罗马音方案](https://www.qiuwenbaike.cn/wiki/%E5%B9%B3%E6%96%87%E5%BC%8F%E7%BD%97%E9%A9%AC%E5%AD%97)作为日文罗马音方案。**
 
 ### 标签
 
@@ -167,7 +167,7 @@
 
 - **[Auto 模组](/wiki/Gameplay/Game_modifier/Auto)必须能 SS。**
 - **[跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)的后一个物件不应过于靠近游戏区域的左右边缘。** 可以放置在 x = 16 和 x = 496 之间。
-- **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应完全匹配[下落速度 (AR)](/wiki/Beatmap/Approach_rate)**。
+- **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应等于[下落速度 (AR)](/wiki/Beatmap/Approach_rate)**。
 
 ### osu!mania
 
@@ -200,7 +200,7 @@
 - **在合理的范围内，保持一致性。**
   - 如果歌曲某些部分重复出现，那么你的谱面排列也应该重复出现。
   - 但是，如果只是简单地复制粘贴这些排列，那就太无聊了。所以如果出现以上情况，你可以在不改变作图概念和风格的同时，适当调整某些排列的位置和方向。
-- **问问你自己，谱面内的物件是否全部符合 *”谱面的所有元素都应该起到表现歌曲的作用“* 这条原则。**
-  - **例子 1：** ”这个物件是如何表现歌曲中出现的声音的？“
+- **问问你自己，谱面内的物件是否全部符合 *“谱面的所有元素都应该起到表现歌曲的作用”* 这条原则。**
+  - **例子 1：** “这个物件是如何表现歌曲中出现的声音的？”
   - **例子 2：** “这一部分物件是如何表现歌曲这部分的大致情绪的？”
 - **考虑其他玩家会如何解读你的谱面。** 如果你的表现方式不够直观和清晰，那很可能会让其他玩家认为你并没有很好地表现歌曲！

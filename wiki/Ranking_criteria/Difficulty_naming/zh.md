@@ -10,33 +10,33 @@
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Easy（简单）
-- ![](/wiki/shared/diff/normal-o.png?20211215) Normal（普通）
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hard（困难）
-- ![](/wiki/shared/diff/insane-o.png?20211215) Insane（疯狂）
-- ![](/wiki/shared/diff/expert-o.png?20211215) Expert（专家）
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
-#### 替代选择
+#### 替代方案
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner（初学者）：比 Easy 简单
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：处于 Normal 和 Hard 之间
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：处于 Hard 和 Insane 之间
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：通常等同于 Expert
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：比 Expert 困难
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner：难度低于 Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced：难度位于 Normal 和 Hard 之间
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper：难度位于 Hard 和 Insane 之间
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra：替代 Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme：难度高于 Expert
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan（简单）
-- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu（普通）
-- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii（困难）
-- ![](/wiki/shared/diff/insane-t.png?20211215) Oni（鬼）
-- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni（里鬼）
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner Oni
 
-#### 替代选择
+#### 替代方案
 
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu（初学者）：比 Kantan 简单
-- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni（表鬼）：通常等同于 Inner Oni
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni（地狱鬼）：比 Inner Oni 困难
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu：难度低于 Kantan
+- ![](/wiki/shared/diff/expert-t.png?20211215) Ura Oni：替代 Inner Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni：难度高于 Inner Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -46,9 +46,9 @@
 - ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
-#### 替代选择
+#### 替代方案
 
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：比 Overdose 困难
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge：难度高于 Overdose
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -160,19 +160,19 @@
 
 ### maimai, CHUNITHM, Ongeki
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) EASY（简单）
-- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC（初级）
-- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED（高级）
-- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT（专家）
-- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER（大师）
+- ![](/wiki/shared/diff/easy-o.png?20211215) EASY
+- ![](/wiki/shared/diff/normal-o.png?20211215) BASIC
+- ![](/wiki/shared/diff/hard-o.png?20211215) ADVANCED
+- ![](/wiki/shared/diff/insane-o.png?20211215) EXPERT
+- ![](/wiki/shared/diff/expert-o.png?20211215) MASTER
 
 #### maimai
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER（宗师）
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Re:MASTER
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA（究极）/ WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 
