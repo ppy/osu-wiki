@@ -157,7 +157,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 25d | Netherlands ::{ flag=NL }:: | ::{ flag=VN }:: Vietnam | [Apr 05 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T140000&p1=1440&p2=16&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 26c | Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Apr 05 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T160000&p1=1440&p2=188&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 26d | Canada ::{ flag=CA }:: | ::{ flag=SK }:: Slovakia | [Apr 05 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T183000&p1=1440&p2=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Semifinals | mappool showcase | [Apr 05 (Sun) 19:30 UTC (estimated](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+|  | Semifinals | mappool showcase | [Apr 05 (Sun) 19:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
