@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d685bfe83f7122680c9cd6f03302682063de11ce
----
-
 # Spielmodi
 
 osu! hat vier integrierte **Spielmodi** mit verschiedenen Mechaniken, die ursprünglich von anderen Rhythmusspielen inspiriert sind:
@@ -43,7 +38,7 @@ Um zwischen den Modi zu wechseln, klicke in osu!(stable) auf den Button `Mode` u
 
 *Hauptseite: [osu!catch](osu!catch)*
 
-In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand herab und der Spieler muss sie zum Beat fangen. Zu diesem Zweck kontrolliert er einen Fänger mit Teller auf dem Kopf, um die besagten Früchte einzufangen. Dieser Modus basiert lose auf einem Minispiel innerhalb einer [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation, wovon man glaubt, dass sie wiederum auf dem Modus *EZ2CATCH* aus der [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Serie basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
+Beim Spielmodus *osu!catch* müssen Spieler einen Fänger steuern, um Früchte verschiedener Sorten, die vom oberen Bildschirmrand herabfallen, im Beat zu sammeln. Dieser Modus ist lose an das Minispiel "Catch It!!" aus den frühen Versionen von [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm] (eine [Beatmania](https://en.wikipedia.org/wiki/Beatmania)-Simulation für PC) angelehnt, die wiederum auf dem Modus *EZ2CATCH* aus dem [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ)-Arcadesystem basiert. Das Maskottchen von osu!catch ist [Yuzu](/wiki/Mascots#yuzu), ein blauhaariger Junge.
 
 ![Gameplay von osu!catch](/wiki/shared/catch-gameplay.jpg "osu!catch-Gameplay")
 
@@ -60,6 +55,10 @@ In *osu!catch* fallen Früchte verschiedener Sorten vom oberen Bildschirmrand he
 Mit `.dll`-Dateien kann man in osu!(lazer) weitere Spielmodi (auch genannt Rulesets) manuell installieren. Durch sie hat man neue Möglichkeiten, das Spiel und seine Beatmaps zu spielen. Benutzerdefinierte Spielmodi, ähnlich wie die Hauptspielmodi, sind oft von anderen Rhythmusspielen inspiriert.
 
 Eine vollständige Liste aller benutzerdefinierten Spielmodi kann [dieser GitHub-Diskussion](https://github.com/ppy/osu/discussions/13096) entnommen werden.
+
+## Referenzen
+
+[^rdm]: [YouTube-Video von peppy (15.10.2008) "rdm catch it! mode"](https://www.youtube.com/watch?v=ZEgzSYiWBtM).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

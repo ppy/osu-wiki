@@ -124,6 +124,7 @@ Los siguientes sonidos del juego se pueden personalizar para los beatmaps.
 | `failsound.wav` | Se reproduce si el jugador muere en el mapa en cualquier momento |
 | `sectionpass.wav` | Se reproduce a mitad de un descanso con mucha HP restante |
 | `sectionfail.wav` | Se reproduce a mitad de un descanso con poca HP restante |
+| `fountain-shoot.wav` | Se reproduce al comienzo del kiai time |
 
 Notas:
 
@@ -133,6 +134,25 @@ Notas:
 - `failsound.wav`：
   - No está previsto que dure más que la animación de muerte (unos 5 segundos).
   - Usar una pista de audio larga afectará al rendimiento del cliente del juego, ya que se carga cada vez que juegas un beatmap, incluso si nuncas mueres. No debe superar unos pocos kilobytes.
+- `fountain-shoot.wav`:
+  - Este sonido solo se usa en [osu!(lazer)](/wiki/Client/Release_stream/Lazer). No tiene ningún efecto en osu!(stable).
+  - El sonido se reproduce con la animación de la fuente al comienzo de cada sección kiai de un mapa.
+  - También se reproducirá en el menú principal cuando el cliente esté en primer plano.
+
+## Sonidos en la pantalla de grados (solo en Lazer)
+
+En la versión [Lazer](/wiki/Client/Release_stream/Lazer) del juego, se añadieron nuevos componentes para mostrar los grados, los cuales se pueden personalizar en el editor de osu!. Los siguientes elementos de audio se pueden usar para personalizarlos. No tienen ningún efecto en osu!(stable).
+
+Los sonidos de visualización de los grados solo se reproducirán si se añade al menos un componente de visualización para los grados en tu skin actual.
+
+| Nombre del archivo | Uso |
+| :-- | :-- |
+| `rank-up.wav` | Se reproduce al obtener un grado más alto |
+| `rank-down.wav` | Se reproduce al obtener un grado más bajo |
+
+Notas:
+
+- `rank-down.wav` se reproducirá inmediatamente después de que pierdas el grado más alto que tenías, pero cualquier otro cambio de grado se retrasará hasta 1,5 segundos.
 
 ### Sonidos en las pantallas de juego
 
@@ -142,6 +162,15 @@ Se supone que estos sonidos no deben superar unos pocos kilobytes, ya que usar u
 
 - Se reproduce en la pantalla de resultados después de pasar un mapa.
 - Debe tener un formato `.mp3` o `.ogg` en los beatmaps que busquen la clasificación.
+
+En la versión [Lazer](/wiki/Client/Release_stream/Lazer) del juego, puedes elegir qué audio se reproduce por cada grado. Sin embargo, no tienen ningún efecto en osu!(stable), y allí siempre se reproducirá `applause.wav`.
+
+`applause-{g}.wav`
+
+Notas:
+
+- `{g}` puede remplazarse por las letras `S`, `A`, `B`, `C` o `D`.
+- No se puede reproducir ningún sonido para el grado `F`, ya que nunca se llega a la pantalla de resultados cuando se falla un beatmap.
 
 `pause-loop.wav`:
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+---
+
 # Как изменить исполнителя или название карты
 
 *Оригинальный гайд: [Full Submission with Title/Artist Change -- Mistakes by NoHitter (захвачен peppy)](https://osu.ppy.sh/community/forums/topics/24443)*

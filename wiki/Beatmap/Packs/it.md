@@ -22,7 +22,7 @@ I pacchetti di beatmap sono suddivisi in 7 categorie con un indicatore speciale 
 
 | Indicatore | Categoria | Tipi di Beatmap |
 | :-: | :-- | :-- |
-| **S** | Standard | Beatmap [Classificate](/wiki/Beatmap/Category#ranked) o [Approvate]( /wiki/Beatmap/Category#approved) |
+| **S** | Standard | Beatmap [Classificate](/wiki/Beatmap/Category#ranked) o [Approvate](/wiki/Beatmap/Category#approved) |
 | **F** | Artista in primo piano | Brani di [Artisti in primo piano](/wiki/People/Featured_Artists) |
 | **P** | Tornei | Mappools dei [tornei](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Beatmap scelte dalla community nel [Progetto Amata](/wiki/Community/Project_Loved) |

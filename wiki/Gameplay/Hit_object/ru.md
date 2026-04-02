@@ -1,8 +1,6 @@
 ---
 tags:
   - hit objects
-outdated_translation: true
-outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 ---
 
 # Игровые объекты
@@ -11,7 +9,7 @@ outdated_since: d6c7c0584fb357f15e4cb27909721fed36058c8e
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | Ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
+| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | [Дон и кат](/wiki/Gameplay/Hit_object/Hit) | Фрукты (fruits) | Ноты (notes) |
 | [Слайдеры](/wiki/Gameplay/Hit_object/Slider) (sliders) | Драмроллы (drumrolls) | Цепочки фруктов (fruit trails) | Холд-ноты (hold notes) |
 | [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | dendens | Бананы (bananas) | x |
 | x | x | Гиперфрукты (hyperfruits) | x |

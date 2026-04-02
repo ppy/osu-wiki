@@ -35,7 +35,7 @@ Además de las insignias de grupo de usuarios otorgadas por la pertenencia a un 
 
 ### Moderación
 
-*Véase también: [Reportar mala conducta § Foro](/wiki/Reporting_bad_behaviour#foro)*
+*Véase también: [Reportar mala conducta § Foro](/wiki/Reporting_bad_behaviour#foros)*
 
 Los [moderadores](/wiki/People/Global_Moderation_Team) son usuarios que mantienen los foros limpios y apropiados, y responden a las dudas relacionadas con ello. Los moderadores pueden editar o eliminar publicaciones o temas inapropiados, fijar temas y moverlos entre diferentes foros, y evitar temporalmente que los infractores publiquen [silenciándolos](/wiki/Silence).
 

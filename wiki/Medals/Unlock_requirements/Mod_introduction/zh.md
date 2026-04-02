@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+outdated_translation: true
+outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
 ---
 
 # 模组入门奖章解锁条件

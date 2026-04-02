@@ -1,27 +1,21 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 9e27b13d4f2dba800fbdb69bb4f724b48d2b60eb
----
-
 # .osu (文件格式)
 
 **`.osu`** 是一种简单易懂的，用于存储 osu! 谱面难度信息的文件格式。
 
 ## 结构
 
-文件第一行描述了谱面文件存储格式的版本。目前，`osu file format v14` 是最新版。
+文件第一行指定了该文件格式的版本。目前 `osu file format v14` 是最新版（[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 使用的是 v128）。
 
 之后的内容分为多个章节，并由方括号包裹的章节标题所分隔。
 
 | 章节 | 描述 | 内容类型 |
 | :-- | :-- | :-- |
 | `[General]` | 谱面的总体信息 | `键: 值` 对 |
-| `[Editor]` | 可在谱面编辑器内显示的信息 | `键: 值` 对 |
+| `[Editor]` | 用于谱面编辑器的一些设置 | `键: 值` 对 |
 | `[Metadata]` | 用于识别谱面的[元数据](/wiki/Client/Beatmap_editor/Song_setup#基本设定-(general)) | `键:值` 对 |
 | `[Difficulty]` | 即[谱面难度设定](/wiki/Client/Beatmap_editor/Song_setup#谱面难度设定-(difficulty)) | `键:值` 对 |
 | `[Events]` | 谱面显示设定，故事板事件 | 逗号分隔的列表 |
-| `[TimingPoints]` | 时间轴设定 | 逗号分隔的列表 |
+| `[TimingPoints]` | 时间轴与控制点设定 | 逗号分隔的列表 |
 | `[Colours]` | 连击、皮肤颜色 | `键 : 值` 对 |
 | `[HitObjects]` | 击打物件 | 逗号分隔的列表 |
 
@@ -35,19 +29,19 @@ outdated_since: 9e27b13d4f2dba800fbdb69bb4f724b48d2b60eb
 | `PreviewTime` | Integer（整型） | 在选中谱面时的歌曲预览点位置（毫秒） | -1 |
 | `Countdown` | Integer（整型） | 在第一个物件之前出现的倒计时速度 (`0` = 无倒计时, `1` = 正常速度, `2` = 一半速度, `3` = 二倍速度) | 1 |
 | `SampleSet` | String（字符串） | 当时间点（红线、绿线）未覆盖设置时的默认音效组（`Normal`、`Soft`、`Drum`） | Normal |
-| `StackLeniency` | Decimal（精准小数） | 当物件重叠在同一个位置时，决定物件之间是否出现堆叠效果[的阈](/wiki/Beatmap/Stack_leniency)值（0-1） | 0.7 |
+| `StackLeniency` | Decimal（精准小数） | 当物件重叠在同一个位置时，决定物件之间是否出现堆叠效果的[阈值](/wiki/Beatmap/Stack_leniency)（0-1） | 0.7 |
 | `Mode` | Integer（整型） | 游戏模式（`0` = osu!、`1` = osu!taiko、`2` = osu!catch、`3` = osu!mania） | 0 |
-| `LetterboxInBreaks` | Boolean（布尔值） | 是否开启谱面休息段使用黑边填充设置 | 0 |
+| `LetterboxInBreaks` | Boolean（布尔值） | 谱面休息段是否使用黑边填充 | 0 |
 | `StoryFireInFront` | Boolean（布尔值） | *已弃用* | 1 |
 | `UseSkinSprites` | Boolean（布尔值） | 是否允许故事板使用玩家皮肤元素 | 0 |
 | `AlwaysShowPlayfield` | Boolean（布尔值） | *已弃用* | 0 |
 | `OverlayPosition` | String（字符串） | 设置物件皮肤覆盖层与数字层之间的关系（`NoChange` = 使用玩家皮肤设定， `Below` = 覆盖层绘制于数字之下，`Above` = 覆盖层绘制于数字之上） | NoChange |
-| `SkinPreference` | String（字符串） | 推荐在游玩时使用的皮肤名称 |  |
-| `EpilepsyWarning` | Boolean（布尔值） | 是否开启谱面闪烁（癫痫）警告 | 0 |
+| `SkinPreference` | String（字符串） | 游玩时优先使用的皮肤名称 |  |
+| `EpilepsyWarning` | Boolean（布尔值） | 谱面开始前是否显示谱面闪烁（癫痫）警告 | 0 |
 | `CountdownOffset` | Integer（整型） | 谱面第一个物件之前的倒计时的偏移值（拍子） | 0 |
 | `SpecialStyle` | Boolean（布尔值） | 是否在 osu!mania 谱面中启用 BMS 风格（N+1 键）的键位设置 | 0 |
 | `WidescreenStoryboard` | Boolean（布尔值） | 是否开启故事板的宽屏显示 | 0 |
-| `SamplesMatchPlaybackRate` | Boolean（布尔值） | 是否允许当变速类型模组开启时，改变音效的播放速率 | 0 |
+| `SamplesMatchPlaybackRate` | Boolean（布尔值） | 当变速类型模组开启时，是否改变音效的播放速率 | 0 |
 
 ## 编辑器
 
@@ -89,18 +83,18 @@ outdated_since: 9e27b13d4f2dba800fbdb69bb4f724b48d2b60eb
 
 ## 事件
 
-*事件语法：* `类型,开始时间,参数`
+*事件语法：*`类型,开始时间,参数`
 
 - **`类型`（字符串或者整型）：** 事件类型，可以用名称或数字来表示。
 - **`开始时间`（整型）：** 事件开始时间，以谱面音频开始为原点，单位是毫秒。如果事件的开启时间未确定，则默认为 0。
-- **`参数`（逗号分隔的数组）：** 特定的， 在不同事件类型中发挥作用的参数。
+- **`参数`（逗号分隔的数组）：** 特定的，在不同事件类型中发挥作用的参数。
 
 ### 背景
 
 *背景语法：*`0,0,文件名,x 轴位置,y 轴位置`
 
 - **`文件名`（字符串）：** 背景图片在谱面文件夹内的文件名或者相对路径。若文件路径周围包含英文双引号，则也可被识别。
-- **`x 轴位置`（整型）** 和 **`y 轴位置`（整型）：** 以屏幕中心为原点的背景图片位置偏移值，单位是  [osu! 像素](/wiki/Client/Beatmap_editor/osu!_pixel)。例如，`50,100` 表示这张背景图片在游玩时，需要移动至屏幕中心向右移动 50 osu! 像素，向下移动 100 osu! 像素显示。如果偏移值为 `0,0`，也可以忽略不写。
+- **`x 轴位置`（整型）** 和 **`y 轴位置`（整型）：** 以屏幕中心为原点的背景图片位置偏移值，单位是 [osu! 像素](/wiki/Client/Beatmap_editor/osu!_pixel)。例如，`50,100` 表示这张背景图片在游玩时，需要移动至屏幕中心向右移动 50 osu! 像素，向下移动 100 osu! 像素显示。如果偏移值为 `0,0`，也可以忽略不写。
 
 ### 视频
 

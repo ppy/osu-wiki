@@ -10,3 +10,4 @@ GBC系列赛事的主页面。
 - [GB Cup 2024 线下赛](GBC_2024_IRL)
 - [GB Cup 2024 秋季赛](GBC_2024_Autumn)
 - [GB Cup 2025 春季赛](GBC_2025_Spring)
+- [GB Cup 2025 秋季赛](GBC_2025_Autumn)

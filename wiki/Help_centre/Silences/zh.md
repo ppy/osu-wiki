@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
+---
+
 # 禁言
 
 **禁言** 是一个术语，即限制玩家在 osu! 社区内聊天活动的惩罚。[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 和 [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员可以禁言其他玩家，来保证网站和游戏内有一个和善文明的环境。

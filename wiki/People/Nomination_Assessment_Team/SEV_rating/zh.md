@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 30adfc34244017104c315372f4c66246fde1b92e
----
-
 # SEV 分数
 
 SEV 是[审核评估团队](/wiki/People/Nomination_Assessment_Team) (*NAT*) 使用的一套内部系统，用于评估[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)与[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 过错的相关性。这个分数分为两个值，显示为*明显性/严重性*。其中明显性范围为 0-2，严重性范围为 0-3，简单的数字能确保团队成员易于理解，并快速评估。
