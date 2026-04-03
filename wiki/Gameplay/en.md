@@ -2,7 +2,7 @@
 stub: true
 ---
 
-<!--TODO: should probabyl add points for many more terms, like 'beatmap', 'miss', etc. -->
+<!--TODO: should probably add points for many more terms, like 'beatmap', 'miss', etc. -->
 
 # Gameplay
 
@@ -14,7 +14,7 @@ The gameplay category houses pages related to various core elements and concepts
 
 *Main page: [Accuracy](/wiki/Gameplay/Accuracy)*
 
-**Accuracy** is a percentage measure of a player's ability to hit [hit objects](#hit-object) on time. The formula for calculating accuracy differs between game modes, but is generally calculated based on the ratio of the total amount of points earned from hitting objects, to the maximum amount of points earnable for the same objects.
+**Accuracy** is a percentage measure of a player's ability to hit [hit objects](#hit-object) on time. The formula for calculating accuracy differs between game modes, but is generally calculated based on the ratio of the various judgements earned from hitting objects.
 
 ### Choke
 
@@ -80,7 +80,7 @@ The **dash** is a term used in relation to [osu!catch](/wiki/Game_mode/osu!catch
 
 *Main page: [Edge dash](/wiki/Gameplay/Edge_dash)*
 
-The **edge dash** (also known as a pixel dash) is a term used in osu!catch for a very large spacing between two active objects where no [hyperfruit](/wiki/Hit_object/Hyperfruit) is generated.
+The **edge dash** (also known as a pixel dash) is a term used in [osu!catch](/wiki/Game_mode/osu!catch) for a very large spacing between two active objects where no [hyperfruit](/wiki/Hit_object/Hyperfruit) is generated.
 
 ### Fingerlock
 
@@ -159,7 +159,7 @@ A **judgement**, or **hit result**, is the outcome of interacting with a hit obj
 
 *Main page: [Notelock](/wiki/Gameplay/Judgement/Notelock)*
 
-**Notelock** is where interaction with one hit object is *locked* behind interaction with another. Normally notelock plays a barely noticable but positive role, preventing players from missing parts of a beatmap, or on higher and faster difficulties, from losing the rhythm and going off-sync.
+**Notelock** is where interaction with one hit object is *locked* behind interaction with another. Normally, notelock plays a barely noticeable but positive role, preventing players from missing parts of a beatmap, or on higher and faster difficulties, from losing the rhythm and going off-sync.
 
 ### Pass
 
@@ -177,7 +177,7 @@ A **pass** describes the completion of a beatmap, or a beatmap section whilst re
 
 *Main page: [Play time](/wiki/Beatmap/Play_time)*
 
-**Play time** is the the combined [break time](/wiki/Beatmap/Break) and drain time of a beatmap.
+**Play time** is the the combined [break time](/wiki/Beatmap/Break) and [drain time](/wiki/Beatmap/Drain_time) of a beatmap.
 
 ### Quick play
 
@@ -215,7 +215,7 @@ A **replay** is a rebroadcast or direct emulation of a play, either by a player 
 
 *Main page: [Spinner trap](/wiki/Gameplay/Spinner_trap)*
 
-**Spinner trap** is a term used in osu!catch when the fruit directly after a banana shower (the osu!catch equivalent of the spinner) is not easily accessible naturally.
+**Spinner trap** is a term used in [osu!catch](/wiki/Game_mode/osu!catch) when the fruit directly after a banana shower (the osu!catch equivalent of the spinner) is not easily accessible naturally.
 
 ### Tablet cover
 
@@ -233,4 +233,4 @@ A **tablet cover** is a sheet of protective material, like a screen protector fo
 
 *Main page: [Walk](/wiki/Gameplay/Walk)*
 
-The **walk** is a term used in relation to osu!catch and refers to the movement done between two objects without pressing the dash key.
+The **walk** is a term used in relation to [osu!catch](/wiki/Game_mode/osu!catch) and refers to the movement done between two objects without pressing the dash key.
