@@ -15,8 +15,8 @@ tags:
 
 | 阶段 | 时间 |
 | --: | :-- |
-| 报名阶段 | 2013-10-15/2013-10-28 |
-| 抽签 | 2013-10-31 (16:00 UTC) |
+| 报名 | 2013-10-15/2013-10-28 |
+| 直播抽签 | 2013-10-31 (16:00 UTC) |
 | 小组赛 | 2013-11-08/2013-11-10 |
 | 十六强赛 | 2013-11-16/2013-11-17 |
 | 四分之一决赛 | 2013-11-24 |
@@ -91,7 +91,7 @@ osu! 2013 世界杯由众多社区成员举办。
 
 ## 分组
 
-| 头号种子 | 高排种子 | 中排种子 | 低排种子 |
+| 头号种子 | 高位种子 | 中位种子 | 低位种子 |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=CN }:: 中国 | ::{ flag=AR }:: 阿根廷 | ::{ flag=AU }:: 澳大利亚 | ::{ flag=BE }:: 比利时 |
 | ::{ flag=DE }:: 德国 | ::{ flag=BR }:: 巴西 | ::{ flag=AT }:: 奥地利 | ::{ flag=BG }:: 保加利亚 |
@@ -122,7 +122,7 @@ osu! 2013 世界杯由众多社区成员举办。
 
 - NoMod
   1. [Ryu\* vs. kors k - Force of Wind (Jenny) \[Extra\]](https://osu.ppy.sh/beatmapsets/44519#osu/142239)
-  2. [O-Life 日本 - Yakujinsama no Couple Dance (AngelHoney) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16990#osu/95954)
+  2. [O-Life Japan - Yakujinsama no Couple Dance (AngelHoney) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/16990#osu/95954)
   3. [RYO - Shuffle Heaven (Nemis) \[eXtra\]](https://osu.ppy.sh/beatmapsets/85802#osu/235470)
   4. [AU - Infinite of Nuclear Fusion (OnosakiHito) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/35211#osu/291285)
   5. [Neru - Ningen Shikkaku (nold\_1702) \[Posthumous\]](https://osu.ppy.sh/beatmapsets/86983#osu/237848)
@@ -410,7 +410,7 @@ osu! 2013 世界杯由众多社区成员举办。
 
 1. osu! 世界杯是按国家/地区组队的，4v4 的团队比赛。
 2. 每一轮的比赛选图由选图人员在比赛开始之前的周日提前公布。只有这些图会在相应的比赛中使用。
-   - 有一张图会作为决胜图，只有平局时才使用这张图。
+   - 有一张图会作为决胜 (tiebreaker) 图，只有仅剩一分且平局时才使用这张图。
    - 选图会有 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 和 FreeMod 的分类。
 3. 比赛日程将由比赛委员会拟定（见下）。
 4. 若组织者或裁判均无空闲时间，比赛将会推迟。
@@ -423,7 +423,7 @@ osu! 2013 世界杯由众多社区成员举办。
 10. 若参与比赛的玩家不足 4 人，比赛可推迟最多 15 分钟。
 11. 允许比赛中换人。
     - 每次换图最多只能换一个人。
-12. 卡顿不能作为拒用某一张比赛图的理由。
+12. 卡顿不能作为重赛某张图的理由。
 13. 在小组赛阶段，“默认获胜”记作 4:0 获胜，+2.5 倍的分数计算。
 14. 意外状况将由裁判处理。裁判的处理决定可能会根据比赛委员会的意见发生改变。
 15. 对此规则的任何修改都会经由公告通知。
@@ -434,7 +434,7 @@ osu! 2013 世界杯由众多社区成员举办。
    - 每个队伍最多可以有 8 名玩家。
    - 必须选择一位队长代表队伍。
 2. 每个队伍代表一个国家或地区。所有队员必须来自同一个国家或地区。
-3. 报名步骤为，[填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform)，然后[给 Loctav 发送私信](https://osu.ppy.sh/home/messages/users/71366)，标题为“OWC Registration”
+3. 报名步骤为：[填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform)，然后[给 Loctav 发送私信](https://osu.ppy.sh/home/messages/users/71366)，标题为“OWC Registration”
    - 队长可以[通知比赛委员会](https://osu.ppy.sh/home/messages/users/71366)来更改队员组成。
 4. 所有报名信息及其修改请求由比赛委员会审核后添加到参赛者名单。
 5. 队伍总数为 32，先到先得。
@@ -443,14 +443,14 @@ osu! 2013 世界杯由众多社区成员举办。
 ### 阶段说明
 
 1. 在第一个阶段（小组赛）中，所有队伍分成 8 组，每组有 4 支队伍。
-2. 每小组中的任何队伍都会跟同一小组中的其他队伍进行比赛。
+2. 每小组中的任一队伍都会跟同一小组中的其他队伍进行比赛。
 3. 通过以下优先级对组内的每个队伍进行排名：
-   - 最多总胜场数。
-   - 最高胜负比 `{(谱面胜场数) - (谱面败场数)}`。
+   - 最高比赛胜场数。
+   - 最高 `{(谱面胜场数) - (谱面败场数)}`。
    - 最高谱面胜场数。
    - 最高 `∑{(总分差) / (最高分数)}`。
    - 重赛的获胜者。
-4. 其中，小组赛中排名前二的队伍将进入淘汰赛阶段。
+4. 小组赛中每组排名前二的队伍将进入淘汰赛阶段。
 5. 在淘汰赛阶段，获胜的队伍将会晋级并进入下一场比赛，没有获胜的队伍将会被淘汰。
 6. **获胜条件：**
    - 小组赛中，你需要在比赛中获得四张图的胜利。（七局四胜）
@@ -461,7 +461,7 @@ osu! 2013 世界杯由众多社区成员举办。
 
 1. 裁判将提前 30 分钟创建多人游戏房间。参赛选手必须在这段时间内集合。
    - 房间将上锁。裁判会尽快给双方队长发送密码和多人游戏邀请。
-   - 房间设置为 osu!、Team-Vs、获胜条件：“得分”。房间名必须是“osu! World Cup 2013: 蓝队 vs 红队”。
+   - 房间设置为 osu!、Team-Vs、获胜条件：“得分 (Score)”。房间名必须是“osu! World Cup 2013: 蓝队 vs 红队”。
    - 房间名中提到的第一个队伍必须是蓝队，第二个队伍必须是红队。
 2. 裁判将从外部加入房间。裁判将通过可以同时旁观多人的客户端旁观比赛。
 3. 参赛选手可以自由选择一张热身图。
@@ -469,7 +469,7 @@ osu! 2013 世界杯由众多社区成员举办。
    - NoMod 模式的图可以自由选择。
    - 选择特定 mod 的图的次数有限。每队队长在每场比赛中，只能从每个限定 mod 模式中选一张图。
      - 淘汰赛阶段不限 FreeMod 的选图次数。
-   - 出现平局时，必须使用决胜图。
+   - 仅剩一分且平局时，必须使用决胜 (tiebreaker) 图 。
    - 队长必须通过私信将选用的图告知裁判。
 5. 双方队长都必须截图保存每一局的结果。裁判会提醒队长截图。
 6. 比赛结果将通过统计表格发布。
@@ -484,7 +484,7 @@ osu! 2013 世界杯由众多社区成员举办。
 6. Hidden、HardRock 以及 DoubleTime 图需使用相应模组游玩。
 7. FreeMod 图将会激活所有模组，任何玩家都可以选用 Hidden、HardRock、Flashlight，或者不使用任何模组。玩家可选择多个模组。
 8. 决胜图按 FreeMod 规则游玩。
-9. NoMod 模式图数量：
+9. NoMod 图数量：
    - 小组赛：10 张
    - 淘汰赛：6 张
 10. 模组指定图数量：
