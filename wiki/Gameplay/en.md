@@ -34,8 +34,7 @@ The gameplay category houses pages related to various core elements and concepts
 - [Pass](/wiki/Gameplay/Pass)
 - [Play style](/wiki/Gameplay/Play_style)
 - [Play time](/wiki/Beatmap/Play_time)
-- [Quick play](/wiki/Gameplay/Quick_play)
-<!--TODO: quick play may be replaced with ranked play if and when that happens this and the main article will need an update-->
+- [Quick play](/wiki/Gameplay/Quick_play) <!--TODO: quick play may be replaced with ranked play if and when that happens this and the main article will need an update-->
 - [Replay](/wiki/Gameplay/Replay)
 - [Score](/wiki/Gameplay/Score)
 - [ScoreV1](/wiki/Gameplay/Score/ScoreV1)
@@ -45,15 +44,18 @@ The gameplay category houses pages related to various core elements and concepts
 - [Unstable rate](/wiki/Gameplay/Unstable_rate)
 
 ## osu!
+
 - [Hit circle](/wiki/Gameplay/Hit_object/Hit_circle)
 - [Slider](/wiki/Gameplay/Hit_object/Slider)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Spinner](/wiki/Gameplay/Hit_object/Spinner)
 
 ## osu!taiko
+
 - [Don & Kat](/wiki/Gameplay/Hit_object/Hit)
 - Drumroll
 - Denden
+
 ## osu!catch
 
 - [Bananas](/wiki/Gameplay/Hit_object/Banana)
@@ -68,5 +70,6 @@ The gameplay category houses pages related to various core elements and concepts
 - [Walk](/wiki/Gameplay/Walk)
 
 ## osu!mania
+
 - Note
 - Hold note
