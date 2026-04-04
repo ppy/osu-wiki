@@ -1,236 +1,72 @@
----
-stub: true
----
-
-<!--TODO: should probably add points for many more terms, like 'beatmap', 'miss', etc. -->
+<!--TODO: link other articles when available: 'miss', 'drumroll', etc. -->
 
 # Gameplay
 
-The gameplay category houses pages related to various core elements and concepts on how players interact with the game. This page lists many common terms and provides a summary of the linked main article.
-
-<!-- lint ignore heading-increment -->
-
-### Accuracy
-
-*Main page: [Accuracy](/wiki/Gameplay/Accuracy)*
-
-**Accuracy** is a percentage measure of a player's ability to hit [hit objects](#hit-object) on time. The formula for calculating accuracy differs between game modes, but is generally calculated based on the ratio of the various judgements earned from hitting objects.
-
-### Choke
-
-*Main page: [Choke](/wiki/Gameplay/Choke)*
-
-The term **choke** is typically used when a player breaks a nearly full combo, or suddenly fails after playing well, near the end of a [beatmap](/wiki/Beatmap).
-
-### Combo (score multiplier)
-
-*Main page: [Combo (score multiplier)](/wiki/Gameplay/Combo_(score_multiplier))*
-
-**Combo** refers to the number of objects hit consecutively without missing or [sliderbreaking](#slider-break).
-
-### Combo fire
-
-*Main page: [Combo fire](/wiki/Gameplay/Combo_fire)*
-
-**Combo fire** was a visual element dependant on the current [combo milestone](#combo-milestone). It was disabled due to performance concerns.
-
-### Combo milestone
-
-*Main page: [Combo milestone](/wiki/Gameplay/Combo_milestone)*
-
-**Combo milestones** are specific [combo](#combo-(score-multiplier)) values that trigger visual effects.
-
-### Combo multiplier effect
-
-*Main page: [Combo multiplier effect](/wiki/Gameplay/Combo_multiplier_effect)*
-
-The **combo multiplier effect** is a bug with [scoreV1](/wiki/Gameplay/Score/ScoreV1) allowing score to count backwards. This bug is not relevant for [scoreV2](/wiki/Gameplay/Score#scorev2) and is not present in osu!(lazer).
-
-### Comboburst
-
-*Main page: [Comboburst](/wiki/Gameplay/Comboburst)*
-
-**Combo bursts** celebrate achieving a combo milestone by flashing a combo burst image. These images are different for each game mode.
-
-### Daily challenge
-
-*Main page: [Daily challenge](/wiki/Gameplay/Daily_challenge)*
-
-The **daily challenge** is a multiplayer mode in [osu!lazer](/wiki/Client/Release_stream/Lazer) where players compete to achieve the highest score on a specific beatmap. The beatmap is the same for all players and changes every day.
-
-### Dash
-
-*Main page: [Dash](/wiki/Gameplay/Dash)*
-
-The **dash** is a term used in relation to [osu!catch](/wiki/Game_mode/osu!catch) describing a movement between two objects when a player is required to use the dash key to catch both.
-
-### Dash snapping
-
-*Main page: [Dash snapping](/wiki/Gameplay/Dash_snapping)*
-
-**Dash snapping** refers to the timing precision required when dashing between consecutive [fruits](/wiki/Hit_object/Fruit) to collect both if normal movement speed is insufficient.
-
-### Drain time
-
-*Main page: [Drain time](/wiki/Beatmap/Drain_time)*
-
-**Drain time** refers to the total duration of a beatmap where the player's [health](#health) is decreasing.
-
-### Edge dash
-
-*Main page: [Edge dash](/wiki/Gameplay/Edge_dash)*
-
-The **edge dash** (also known as a pixel dash) is a term used in [osu!catch](/wiki/Game_mode/osu!catch) for a very large spacing between two active objects where no [hyperfruit](/wiki/Hit_object/Hyperfruit) is generated.
-
-### Fingerlock
-
-*Main page: [Fingerlock](/wiki/Gameplay/Fingerlock)*
-
-**Fingerlock** is a term used to describe the sensation of momentarily losing control of one's fingers, feeling as though they have locked up.
-
-### Full combo
-
-*Main page: [Full combo](/wiki/Gameplay/Full_combo)*
-
-**Full combo** (FC) is a term used to describe a player obtaining the maximum possible combo on a beatmap.
-
-### Game modifier
-
-*Main page: [Game modifier (osu!stable)](/wiki/Gameplay/Game_modifier) and [Game modifier (osu!lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
-
-**Game modifiers** (mods) are optional modifications to how a beatmap plays. Mods that change the effective difficulty often have score multipliers in reflecting the difficulty change.
-
-### Grade
-
-*Main page: [Grade](/wiki/Gameplay/Grade)*
-
-**Grades** are letters (S,A,B,C, etc.) that represent how well a player performed on a given play of a beatmap. They normally appear beside scores.
-
-### Health
-
-*Main page: [Health](/wiki/Gameplay/Health)*
-
-**Health** (HP) determines if a player has passed a beatmap, and can be seen in the [health bar](/wiki/Client/Interface/Health_bar).
-
-### Hit object
-
-*Main page: [Hit object](/wiki/Gameplay/Hit_object)*
-
-**Hit objects** are the primary way players interact with the game while playing a beatmap. The types of hit objects encountered depends on the game mode as per the table below.
-
-| [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
-| :-: | :-: | :-: | :-: |
-| [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) | [Don & Kat](/wiki/Gameplay/Hit_object/Hit) | [fruits](/wiki/Gameplay/Hit_object/Fruit) | notes |
-| [sliders](/wiki/Gameplay/Hit_object/Slider) | drumrolls | [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) | hold notes |
-| [spinners](/wiki/Gameplay/Hit_object/Spinner) | dendens | [bananas](/wiki/Gameplay/Hit_object/Banana) | x |
-| x | x | [hyperfruits](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
-
-### Hyperdash
-
-*Main page: [Hyperdash](/wiki/Gameplay/Hyperdash)*
-
-A **hyperdash** is the large movement performed when a hyperfruit is caught in [osu!catch](/wiki/Game_mode/osu!catch).
-
-### Input device
-
-*Main page: [Input device](/wiki/Gameplay/Input_device)*
-
-An **input device** is a device used to control input. Common input devices include but are not limited to: [mice](/wiki/Gameplay/Input_device/Mouse), [keyboards](/wiki/Gameplay/Input_device/Keyboard), and [tablets](/wiki/Gameplay/Input_device/Graphics_tablet).
-
-### Judgement
-
-*Main page: [Judgement](/wiki/Gameplay/Judgement)*
-
-A **judgement**, or **hit result**, is the outcome of interacting with a hit object during its hit window. Score and accuracy are calculated based on which judgements are received. 
-
-### Kiai time
-
-*Main page: [Kiai time](/wiki/Gameplay/Kiai_time)*
-
-**Kiai time**, or **kiai**, is a set of distinctive visual effects emphasising a part of a beatmap. Kiai sections are indicated by spraying star fountains, stars falling from under the cursor, and hit objects flashing to the beat.
-
-### Mind block
-
-*Main page: [Mind block](/wiki/Gameplay/Mind_block)*
-
-**Mind block** is a term used to describe when a player repeatedly fails or misses on what was a previously easy section of a beatmap, often during or as a result of retrying said beatmap repeatedly.
-
-### Notelock
-
-*Main page: [Notelock](/wiki/Gameplay/Judgement/Notelock)*
-
-**Notelock** is where interaction with one hit object is *locked* behind interaction with another. Normally, notelock plays a barely noticeable but positive role, preventing players from missing parts of a beatmap, or on higher and faster difficulties, from losing the rhythm and going off-sync.
-
-### Pass
-
-*Main page: [Pass](/wiki/Gameplay/Pass)*
-
-A **pass** describes the completion of a beatmap, or a beatmap section whilst remaining above 50% health at the [break section](/wiki/Beatmap/Break), and without using fail-preventing mods (e.g. [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)).
-
-### Play style
-
-*Main page: [Play style](/wiki/Gameplay/Play_style)*
-
-**Play style** refers to the way a user chooses to play their chosen game modes, typically describing how they use their input devices.
-
-### Play time
-
-*Main page: [Play time](/wiki/Beatmap/Play_time)*
-
-**Play time** is the the combined [break time](/wiki/Beatmap/Break) and [drain time](/wiki/Beatmap/Drain_time) of a beatmap.
-
-### Quick play
-
-*Main page: [Quick play](/wiki/Gameplay/Quick_play)*
-
-**Quick play** is a queue-based multiplayer mode introduced in osu!lazer. Lobbies are formed of up to 8 players of similar skill level and matches last for 5 rounds.
-
+The gameplay category houses pages related to various core elements and concepts on how players interact with the game.
+
+## Common terms
+
+- [Accuracy](/wiki/Gameplay/Accuracy)
+- [Beatmap](/wiki/Beatmap)
+- [Break](/wiki/Beatmap/Break)
+- [Choke](/wiki/Gameplay/Choke)
+- [Combo (score multiplier)](/wiki/Gameplay/Combo_(score_multiplier))
+- [Combo fire](/wiki/Gameplay/Combo_fire)
+- [Combo milestone](/wiki/Gameplay/Combo_milestone)
+- [Combo multiplier effect](/wiki/Gameplay/Combo_multiplier_effect)
+- [Comboburst](/wiki/Gameplay/Comboburst)
+- [Daily challenge](/wiki/Gameplay/Daily_challenge)
+- [Difficulty multiplier](/wiki/Gameplay/Score/ScoreV1/osu!#difficulty-multiplier)
+- [Drain time](/wiki/Beatmap/Drain_time)
+- [Fingerlock](/wiki/Gameplay/Fingerlock)
+- [Full combo](/wiki/Gameplay/Full_combo)
+- [Game modifier (osu!stable)](/wiki/Gameplay/Game_modifier) and [Game modifier (osu!lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+- [Grade](/wiki/Gameplay/Grade)
+- [Health](/wiki/Gameplay/Health)
+- [Hit object](/wiki/Gameplay/Hit_object)
+- [Input device](/wiki/Gameplay/Input_device)
+- [Judgement](/wiki/Gameplay/Judgement)
+- [Kiai time](/wiki/Gameplay/Kiai_time)
+- [Mind block](/wiki/Gameplay/Mind_block)
+- Miss
+- [Mod multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier)
+- [Notelock](/wiki/Gameplay/Judgement/Notelock)
+- [Pass](/wiki/Gameplay/Pass)
+- [Play style](/wiki/Gameplay/Play_style)
+- [Play time](/wiki/Beatmap/Play_time)
+- [Quick play](/wiki/Gameplay/Quick_play)
 <!--TODO: quick play may be replaced with ranked play if and when that happens this and the main article will need an update-->
+- [Replay](/wiki/Gameplay/Replay)
+- [Score](/wiki/Gameplay/Score)
+- [ScoreV1](/wiki/Gameplay/Score/ScoreV1)
+- [ScoreV2](/wiki/Gameplay/Score#scorev2)
+- [Spectating](/wiki/Gameplay/Spectating)
+- [Tablet cover](/wiki/Gameplay/Tablet_cover)
+- [Unstable rate](/wiki/Gameplay/Unstable_rate)
 
-### Replay
+## osu!
+- [Hit circle](/wiki/Gameplay/Hit_object/Hit_circle)
+- [Slider](/wiki/Gameplay/Hit_object/Slider)
+- [Slider break](/wiki/Gameplay/Judgement/Slider_break)
+- [Spinner](/wiki/Gameplay/Hit_object/Spinner)
 
-*Main page: [Replay](/wiki/Gameplay/Replay)*
+## osu!taiko
+- [Don & Kat](/wiki/Gameplay/Hit_object/Hit)
+- Drumroll
+- Denden
+## osu!catch
 
-A **replay** is a rebroadcast or direct emulation of a play, either by a player or a perfect play done by the [Auto](/wiki/Gameplay/Game_modifier/Auto) mod.
+- [Bananas](/wiki/Gameplay/Hit_object/Banana)
+- [Dash](/wiki/Gameplay/Dash)
+- [Dash snapping](/wiki/Gameplay/Dash_snapping)
+- [Edge dash](/wiki/Gameplay/Edge_dash)
+- [Fruits](/wiki/Gameplay/Hit_object/Fruit)
+- [Hyperdash](/wiki/Gameplay/Hyperdash)
+- [Hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit)
+- [Juice stream](/wiki/Gameplay/Hit_object/Juice_stream)
+- [Spinner trap](/wiki/Gameplay/Spinner_trap)
+- [Walk](/wiki/Gameplay/Walk)
 
-### Score
-
-*Main page: [Score](/wiki/Gameplay/Score)*
-
-**Score** is a numerical measurement of a player's performance in a beatmap. The formula used to calculate it is different per game mode and different again per scoring version, but generally speaking is dependant on: player judgements, combo multiplier, the [difficulty multiplier](/wiki/Gameplay/Score/ScoreV1/osu!#difficulty-multiplier) of the beatmap, and [mod multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier).
-
-### Slider break
-
-*Main page: [Slider break](/wiki/Gameplay/Judgement/Slider_break)*
-
-**Slider break** is where a player breaks combo by not fully completing a slider.
-
-### Spectating
-
-*Main page: [Spectating](/wiki/Gameplay/Spectating)*
-
-**Spectating** is the act of watching another player playing a beatmap, usually via the ingame spectate function.
-
-### Spinner trap
-
-*Main page: [Spinner trap](/wiki/Gameplay/Spinner_trap)*
-
-**Spinner trap** is a term used in [osu!catch](/wiki/Game_mode/osu!catch) when the fruit directly after a banana shower (the osu!catch equivalent of the spinner) is not easily accessible naturally.
-
-### Tablet cover
-
-*Main page: [Tablet cover](/wiki/Gameplay/Tablet_cover)*
-
-A **tablet cover** is a sheet of protective material, like a screen protector for a smartphone, that encases or adheres to the surface of a graphics tablet to reduce wear.
-
-### Unstable rate
-
-*Main page: [Unstable rate](/wiki/Gameplay/Unstable_rate)*
-
-**Unstable rate** is a measurement of the variation in hit error throughout a play.
-
-### Walk
-
-*Main page: [Walk](/wiki/Gameplay/Walk)*
-
-The **walk** is a term used in relation to [osu!catch](/wiki/Game_mode/osu!catch) and refers to the movement done between two objects without pressing the dash key.
+## osu!mania
+- Note
+- Hold note
