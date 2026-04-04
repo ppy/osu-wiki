@@ -19,7 +19,7 @@ The Round of 16 is here! Higher seeded teams join the fight for the crown. As th
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2729260283" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Round of 16 mappool table](/wiki/shared/news/2026-04-05-taiko-world-cup-2026-round-of-16-recap/mappool-ro16.jpg)
+![Round of 16 mappool table](/wiki/shared/news/2026-04-05-taiko-world-cup-2026-round-of-16-recap/mappool-table-ro16.jpg)
 
 ## osu! originals
 
