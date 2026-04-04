@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2026: Group Stage Recap"
+title: "osu!taiko World Cup 2026: Round of 16 Recap"
 date: 2026-04-05 12:00:00 +0000
 series: world_cups
 ---
