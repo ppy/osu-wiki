@@ -7,7 +7,7 @@ series: ranking_system_updates
 
 We are SO back.
 
-![](/wiki/shared/news/banners/pp-sr-pippi-yuzu.jpg)
+![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
 
 This time around only osu! and osu!taiko are receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
