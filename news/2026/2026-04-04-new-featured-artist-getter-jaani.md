@@ -19,7 +19,7 @@ Here on osu! however, [Andrea](https://osu.ppy.sh/users/33599)'s [Nightcore remi
 
 On [**Getter Jaani**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/536), you can see (and hear) the full range of **Getter Jaani**'s sound. We snagged the classic *Rockefeller Street* (and its official Nightcore rendition), plus *Valged Oeoed* for osu!'s Estonian speakers, and even her latest track *The Game*!
 
-Pick out a `.osz` and start mapping. If you need some inspiration first, look no further than the giant rectangular boxes below.
+Pick out a `.osz` and start mapping. If you need some inspiration first, look no further than the giant rectangular box below.
 
 ### Getter Jaani - The Game
 
