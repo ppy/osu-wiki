@@ -54,7 +54,7 @@ The gameplay category houses pages related to various core elements and concepts
 
 - [Don & Kat](/wiki/Gameplay/Hit_object/Hit)
 - Drumroll
-- Denden
+- Swell
 
 ## osu!catch
 
