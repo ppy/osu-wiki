@@ -5,11 +5,11 @@ date: 2026-04-05 12:00:00 +0000
 series: world_cups
 ---
 
-New round, new exciting matches in this year's osu!taiko World Cup. Catch up with the results of the Round of 16 matches before this weekend's quarterfinals!
+New round, new exciting matches in this year's osu!taiko World Cup. Catch up with the results of the Round of 16 matches before this weekend's Quarterfinals!
 
 ![](/wiki/shared/news/2026-04-05-taiko-world-cup-2026-round-of-16-recap/banner.jpg)
 
-The Round of 16 is here! Higher seeded teams join the fight for the crown. As the first limination round commences, the pressure is high to perform well and advance to the next rounds of the tournament.
+The Round of 16 is here! Higher-seeded teams join the fight for the crown. As the first elimination round commences, the pressure is high to perform well and advance to the next rounds of the tournament.
 
 ## Mappool showcase
 
@@ -33,9 +33,9 @@ We saw the osu! original production team back with the first appearance in the o
     </audio>
 </div>
 
-A brand new artist has made their first appearance in osu! world cups. Electronic composer [OLDUCT](https://osu.ppy.sh/beatmaps/artists/535) has released [Buy Now!](https://osu.ppy.sh/beatmapsets/2527043#taiko/5582858) for the osu!taiko World Cup 2026. Mapped by [miyagishima](https://osu.ppy.sh/users/8027517) and serving as the NM2 slot of the pool, this map combines 1/4, 1/6 and 1/9 snaps for a challenging rhythm experience. The beautifully crafted storyboard by [Kafka](https://osu.ppy.sh/users/9148291) and [Initial_D](https://osu.ppy.sh/users/8382535) adds the cherry on top.
+A brand-new artist has made their first appearance in osu! world cups with the release of [Buy Now!](https://osu.ppy.sh/beatmapsets/2527043#taiko/5582858) by [OLDUCT](https://osu.ppy.sh/beatmaps/artists/535). Mapped by [miyagishima](https://osu.ppy.sh/users/8027517) and serving as the NM2 slot of the pool, this map combines 1/4, 1/6 and 1/9 snaps for a challenging rhythm experience. The beautifully crafted storyboard by [Kafka](https://osu.ppy.sh/users/9148291) and [Initial_D](https://osu.ppy.sh/users/8382535) adds the cherry on top.
 
-Please check out the **showcase video** below, to relive the magic moment of it's release!
+Please check out the showcase video below in case you missed its livestream reveal!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Dhuwobw8px4" frameborder="0" allowfullscreen></iframe>
@@ -63,7 +63,7 @@ The drumming continued throughout the Round of 16, with each team trying their b
 | 8 | **Italy** ::{ flag=IT }:: | **5** | 3 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120825806) | [#1](https://www.twitch.tv/videos/2734882833) |
 | 16 | Poland ::{ flag=PL }:: | 1 | **5** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/120825969) | [#1](https://www.twitch.tv/videos/2734903172) |
 
-Interested in more numbers and more well put-together information? Check out the [detailed statistics for this round](https://docs.google.com/spreadsheets/d/1wpsHIKzBg7RcDeh4mjHVtV8XMBddD3iwD_ex549ImEU?rm=minimal).
+Interested in more numbers? Check out the [statistics spreadsheet](https://docs.google.com/spreadsheets/d/1wpsHIKzBg7RcDeh4mjHVtV8XMBddD3iwD_ex549ImEU?rm=minimal) for all the details.
 
 Unfortunately for a few teams, their journey ended this round. We want to give a special shoutout to the following teams for their amazing efforts and we hope to see them return next year: ::{ flag=MX }:: Mexico, ::{ flag=PH }:: The Philippines, ::{ flag=PE }:: Peru, ::{ flag=CH }:: Switzerland, ::{ flag=HK }:: Hong Kong, ::{ flag=AR }:: Argentina, ::{ flag=CO }:: Colombia and ::{ flag=PL }:: Poland.
 
@@ -101,6 +101,6 @@ All in all, neither Vietnam nor Colombia have held back any punches during this 
 
 ---
 
-Thank you for reading this far! The quarterfinals are happening this weekend on the [osulive Twitch channel](https://www.twitch.tv/osulive), and you can use the schedules on the [TWC 2026 wiki page](/wiki/Tournaments/TWC/2026) to plan your watch parties. See you next week!
+Thank you for reading this far! The Quarterfinals are happening this weekend on the [osulive Twitch channel](https://www.twitch.tv/osulive), and you can use the schedules on the [TWC 2026 wiki page](/wiki/Tournaments/TWC/2026) to plan your watch parties. See you next week!
 
 —Hivie & Yasuho
