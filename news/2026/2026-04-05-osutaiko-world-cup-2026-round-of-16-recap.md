@@ -23,7 +23,7 @@ The Round of 16 is here! Higher seeded teams join the fight for the crown. As th
 
 ## osu! originals
 
-We saw the osu! original production team back with the first appearance of the year during the Round of 16!
+We saw the osu! original production team back with the first appearance in the osu!taiko World Cup 2026 during the Round of 16!
 
 [![](/wiki/shared/news/2026-04-05-taiko-world-cup-2026-round-of-16-recap/buy-now-banner.jpg)](https://osu.ppy.sh/beatmapsets/2527043#taiko/5582858)
 
@@ -35,7 +35,11 @@ We saw the osu! original production team back with the first appearance of the y
 
 A brand new artist has made their first appearance in osu! world cups. Electronic composer [OLDUCT](https://osu.ppy.sh/beatmaps/artists/535) has released [Buy Now!](https://osu.ppy.sh/beatmapsets/2527043#taiko/5582858) for the osu!taiko World Cup 2026. Mapped by [miyagishima](https://osu.ppy.sh/users/8027517) and serving as the NM2 slot of the pool, this map combines 1/4, 1/6 and 1/9 snaps for a challenging rhythm experience. The beautifully crafted storyboard by [Kafka](https://osu.ppy.sh/users/9148291) and [Initial_D](https://osu.ppy.sh/users/8382535) adds the cherry on top.
 
-Please check out the [showcase video](https://youtu.be/Dhuwobw8px4) to relive the magic moment of it's release!
+Please check out the **showcase video** below, to relive the magic moment of it's release!
+
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Dhuwobw8px4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Round of 16 results
 
