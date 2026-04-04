@@ -42,7 +42,7 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 
 ### Trạng thái đủ tư cách
 
-- **Không trực tiếp đưa một beatmap vào trạng thái đủ điều kiện mà không có bất kỳ liên lạc nào với mapper.** Người làm map có thể đã tự thay đổi sau lần đề cử cuối cùng, nên việc đề cử một beatmap mà không liên lạc với mapper có thể dẫn đến việc loại vô ích. 
+- **Không trực tiếp đưa một beatmap vào trạng thái đủ tư cách mà không có bất kỳ liên lạc nào với mapper.** Người làm map có thể đã tự thay đổi sau lần đề cử cuối cùng, nên việc đề cử một beatmap mà không liên lạc với mapper có thể dẫn đến việc loại vô ích. 
 
 ## Đặt lại đề cử 
 
