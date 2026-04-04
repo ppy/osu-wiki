@@ -55,7 +55,7 @@ tags:
 
 ### Bad Apple 排行榜挑战
 
-"Bad Apple 排行榜挑战" 是 osu! 2012 年愚人节玩笑的一部分，是一个基于多张包含歌曲 "Bad Apple!!" 的谱面的搞笑排行榜挑战。通过 [一篇新闻帖](https://osu.ppy.sh/community/forums/posts/1431905) 于 2012 年 4 月 1 日宣布，这个排行榜挑战在当时实际上是一个正常运作的挑战，显示了在精选的任何一张 "Bad Apple!!" 谱面中获得最高[ Ranked 得分](/wiki/Gameplay/Score/Ranked_score) 的前 40 名玩家。[^bad-apple-chart][^bad-apple-news] 上述新闻帖的摘录如下：
+"Bad Apple 排行榜挑战" 是 osu! 2012 年愚人节玩笑的一部分，是一个基于多张包含歌曲 "Bad Apple!!" 的谱面的搞笑排行榜挑战。通过 [一篇新闻帖](https://osu.ppy.sh/community/forums/posts/1431905) 于 2012 年 4 月 1 日宣布，这个排行榜挑战在当时实际上是一个正常运作的挑战，显示了在精选的任何一张 "Bad Apple!!" 谱面中获得最高[Ranked得分](/wiki/Gameplay/Score/Ranked_score) 的前 40 名玩家。[^bad-apple-chart][^bad-apple-news] 上述新闻帖的摘录如下：
 
 > 我们决定将这个挑战献给有史以来最伟大的歌曲和视频，Bad Apple!!。你可以在这里找到这个很棒的挑战
 >
