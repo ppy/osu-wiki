@@ -13,7 +13,7 @@ Perhaps not what you'd expect from a rhythm game, **Getter Jaani** is an Estonia
 
 Here on osu! however, [Andrea](https://osu.ppy.sh/users/33599)'s [Nightcore remix of *Rockefeller Street*](https://osu.ppy.sh/beatmapsets/33842) brought **Getter Jaani** to the limelight, especially thanks to these anonymous heroes:
 
-<div align="center">
+<div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/JPVIgshtOag" frameborder="0" allowfullscreen></iframe>
 </div>
 
