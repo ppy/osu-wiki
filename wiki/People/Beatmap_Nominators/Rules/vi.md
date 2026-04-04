@@ -40,7 +40,7 @@ Khi một đợt đánh giá người đề cử beatmap được tạo ra và h
 - **Không đề cử một beatmap nếu bạn không thể đánh giá hợp lý.** Có khả năng đánh giá beatmap một cách hợp lý dựa trên việc chơi thử hoặc kinh nghiệm modding, là một phần cốt lõi với khả năng đánh giá chất lượng của một beatmap. Nếu bạn bị xem là chưa có đủ kỹ năng chơi hoặc kinh nghiệm modding, chúng tôi có thể đặt nghi vấn về khả năng đánh giá beatmap của bạn. 
 - **Đảm bảo không có bài đăng mod nào trong [thảo luận beatmap](/wiki/Beatmap_discussion) bị bỏ qua trước khi đề cử một beatmap.** các bài đăng chưa có câu phản hồi đầy đủ có thể tính như đã bỏ qua. Khi có nghi ngờ, kiểm tra lại nếu quy tắc ứng xử đối với mapping và modding bị vi phạm trên cuộc thảo luận beatmap và hành động phù hợp. 
 
-### Khả năng chuyên môn 
+### Trạng thái đủ tư cách
 
 - **Không trực tiếp đưa một beatmap vào trạng thái đủ điều kiện mà không có bất kỳ liên lạc nào với mapper.** Người làm map có thể đã tự thay đổi sau lần đề cử cuối cùng, nên việc đề cử một beatmap mà không liên lạc với mapper có thể dẫn đến việc loại vô ích. 
 
