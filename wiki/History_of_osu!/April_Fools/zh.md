@@ -41,7 +41,7 @@ tags:
 
 ### osu!core
 
-"osu!core" 是 osu! 2011 年愚人节恶作剧的名称。这个恶作剧导致每张谱面的音频都被调整音高并加快速度，风格类似于 [Nightcore](https://en.wikipedia.org/wiki/Nightcore) 混音。虽然这只是一个愚人节玩笑，但它后来成为了现实，[Nightcore 模组](/wiki/Gameplay/Game_modifier/Nightcore) 后来作为可玩的[游戏模式](/wiki/Gameplay/Game_modifier) 被引入 osu!。[^nightcore-yt][^nightcore-frontpage][^fl-forums]
+"osu!core" 是 osu! 2011 年愚人节恶作剧的名称。这个恶作剧导致每张谱面的音频都被调整音高并加快速度，风格类似于 [Nightcore](https://en.wikipedia.org/wiki/Nightcore) 混音。虽然这只是一个愚人节玩笑，但在 [Nightcore 模组](/wiki/Gameplay/Game_modifier/Nightcore)后来作为可玩的[游戏模式](/wiki/Gameplay/Game_modifier) 被引入 osu! 时，便成为了现实。[^nightcore-yt][^nightcore-frontpage][^fl-forums]
 
 ## 2012 年
 
