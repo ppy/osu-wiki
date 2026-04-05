@@ -27,7 +27,7 @@ tags:
 
 ### touhosu!
 
-作为 2010 年愚人节恶作剧，osu! 网站以及游戏内的主菜单界面被更改为主题，加入了東方Project（Touhou Project）的角色和引用。这些变化包括添加了角色雾雨魔理沙，并在主菜单和网站的某些区域显示不同颜色的蝴蝶，呈圆形图案排列，同时将网站某些区域的名称 "osu!" 替换为 "touhosu!"。[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
+作为 2010 年愚人节恶作剧，osu! 网站以及游戏内的主菜单界面改用带有[东方 Project (Touhou Project)](https://www.qiuwenbaike.cn/wiki/%E4%B8%9C%E6%96%B9Project) 人物与元素的主题。这些变化包括添加了角色雾雨魔理沙，并在主菜单和网站的某些区域显示不同颜色的蝴蝶，呈圆形图案排列，同时将网站某些区域的名称“osu!”替换为“touhosu!”。[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
 ![](img/2010-touhosu-main-screen.png "2010 年 4 月 1 日 osu! 中的主菜单界面")
 
