@@ -17,7 +17,7 @@ tags:
 
 ## 2009 年
 
-### "Lemon Tree" 被 上架
+### “Lemon Tree”被上架
 
 [谱面](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](https://osu.ppy.sh/beatmapsets/57878#osu/174267) 于 2009 年 4 月 1 日被 [Ranked](/wiki/Beatmap/Category#ranked)，作为当年愚人节玩笑的一部分。这个谱面很大程度上是社区内的一个梗，用户们开玩笑说这样的谱面应该永远保持上架状态。[^lemontree-reddit][^lemontree-post-machol30][^lemontree-post-peppy] 不久后，其上架状态被审核团队移除。[^lemontree-post-machol30]
 
