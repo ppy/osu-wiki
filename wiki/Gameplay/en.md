@@ -1,4 +1,4 @@
-<!--TODO: link other articles when available: 'miss', 'drumroll', etc. -->
+<!--TODO: link other articles when available: 'miss', taiko hit objects, mania heading, mania hit objects, etc. -->
 
 # Gameplay
 
@@ -29,7 +29,6 @@ Index page for articles related to core gameplay elements and concepts.
 - [Judgement](/wiki/Gameplay/Judgement)
 - [Kiai time](/wiki/Gameplay/Kiai_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
-- Miss
 - [Mod multiplier](/wiki/Gameplay/Game_modifier/Mod_multiplier)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
@@ -54,8 +53,6 @@ Index page for articles related to core gameplay elements and concepts.
 ## osu!taiko
 
 - [Don & Kat](/wiki/Gameplay/Hit_object/Hit)
-- Drumroll
-- Swell
 
 ## osu!catch
 
@@ -69,8 +66,3 @@ Index page for articles related to core gameplay elements and concepts.
 - [Juice stream](/wiki/Gameplay/Hit_object/Juice_stream)
 - [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Walk](/wiki/Gameplay/Walk)
-
-## osu!mania
-
-- Note
-- Hold note
