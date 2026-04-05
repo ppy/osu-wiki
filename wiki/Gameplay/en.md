@@ -2,7 +2,7 @@
 
 # Gameplay
 
-The gameplay category houses pages related to various core elements and concepts on how players interact with the game.
+Index page for articles related to core gameplay elements and concepts.
 
 ## Common terms
 
@@ -20,7 +20,8 @@ The gameplay category houses pages related to various core elements and concepts
 - [Drain time](/wiki/Beatmap/Drain_time)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Full combo](/wiki/Gameplay/Full_combo)
-- [Game modifier (osu!stable)](/wiki/Gameplay/Game_modifier) and [Game modifier (osu!lazer)](/wiki/Gameplay/Game_modifier_(lazer))
+- [Game modifier](/wiki/Gameplay/Game_modifier)
+- [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))
 - [Grade](/wiki/Gameplay/Grade)
 - [Health](/wiki/Gameplay/Health)
 - [Hit object](/wiki/Gameplay/Hit_object)
