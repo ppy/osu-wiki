@@ -47,7 +47,7 @@ tags:
 
 ### 网站上的 Flashlight/Hidden 模组
 
-2012 年 4 月 1 日，整个 osu! 网站每次加载页面时，有 50% 的几率会 "启用" [Flashlight (FL) 模式](/wiki/Gameplay/Game_modifier/Flashlight) 或 [Hidden (HD) 模式](/wiki/Gameplay/Game_modifier/Hidden)（HD 概率 3/10；FL 概率 1/5）。下图展示了当时用户看到网页。[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
+2012 年 4 月 1 日，每次加载 osu! 网站时，整个页面有 50% 的几率会 "启用" [Flashlight (FL) 模组](/wiki/Gameplay/Game_modifier/Flashlight) 或 [Hidden (HD) 模组](/wiki/Gameplay/Game_modifier/Hidden)（HD 概率 3/10；FL 概率 1/5）。下图展示了那时用户观感的现代版重现。[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
 ![](img/2012-flashlight.gif "启用 Flashlight 模式后网站的样子")
 
