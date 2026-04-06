@@ -53,7 +53,7 @@ The winning entry with the highest judging score across all categories receives 
 - [Discord server](https://discord.com/invite/fVgU9pA)
 - [Forum post (English)](https://osu.ppy.sh/community/forums/topics/2143230)
 - [Forum post (Chinese)](https://osu.ppy.sh/community/forums/topics/2143231)
-- [Results announcement](https://osu.ppy.sh/home/news/2026-02-25-pending-cup-2025-results)
+l [Results announcement news post](https://osu.ppy.sh/home/news/2026-04-06-pending-cup-2025-results)
 
 ## Songs
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pending Cup 2025 Results
-date: 2026-02-25 21:00:00 +0800
+date: 2026-04-06 21:00:00 +0800
 ---
 
 The longest-running annual beatmapping contest has wrapped up another thrilling year and is ready to present its victors!
