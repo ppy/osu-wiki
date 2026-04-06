@@ -51,7 +51,7 @@ Yes, that's the official remix's metadata. Try playing some of these:
     <source src="https://assets.ppy.sh/artists/536/Rockefeller%20Street/Getter%20Jaani%20-%20Rockefeller%20Street.mp3">
 </audio>
 
-### Getter Jaani & Koit Toome - Valged Oeoed
+### Getter Jaani & Koit Toome - Valged Ood
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/536/Songs/Getter%20Jaani%20%26%20Koi%20Toome%20-%20Valged%20Oeoed.mp3">
