@@ -365,13 +365,14 @@ Group H:
 
 ### Semifinals
 
+**[Download the mappack here (99 MB)](https://packs.ppy.sh/P319%20-%20osu%21taiko%20World%20Cup%202026%3A%20Semifinals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2740668428)
 
 - No Mod
   1. [seatrus - TEMP3ST (\_mtk) \[D3ATH TWC VER.\]](https://osu.ppy.sh/beatmapsets/2534351#taiko/5604104)
-  2. Skybreak - NOLIGHT (feat. HeyBela) (rubies87) \[INNERONI\] (link pending)
+  2. [Skybreak - NOLIGHT (feat. HeyBela) (rubies87) \[INNERONI\]](https://osu.ppy.sh/beatmapsets/2534739#taiko/5605025)
   3. [BlackY - ULT!MATE END (Cut Ver.) (JarvisGaming) \[explode\]](https://osu.ppy.sh/beatmapsets/2534370#taiko/5604161)
-  4. pa-o-mu99999 - Bobobo-bo Bo-bobo (Jayceko) \[!!!   !!\] (link pending)
+  4. [pa-o-mu99999 - Bobobo-bo Bo-bobo (Jayceko) \[!!! ? ? !!\]](https://osu.ppy.sh/beatmapsets/2534673#taiko/5604911)
   5. [Fallujah - Carved From Stone (2024 Remaster) (Heaxys) \[Eternal\]](https://osu.ppy.sh/beatmapsets/2534385#taiko/5604193)
   6. [ALEPH - SIGNALBURNERRR (Z419) \[CODE: FUZE\]](https://osu.ppy.sh/beatmapsets/2534365#taiko/5604141)
 - Hidden
