@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 1bbe65b950ea3f9978bdbd5bcb423978c1f8e738
----
-
 # Turniere
 
 Dieser Bereich ist für osu!-Turniere bestimmt. Turniere haben ihr eigenes Forum, das man [über diesen Link](https://osu.ppy.sh/community/forums/55) finden kann.
@@ -99,7 +94,7 @@ Offizielle Turniere, die vom osu!-Team organisiert werden.
 | [osu!mania 4K World Cup 2024](MWC/2024_4K) | 18.07.2024 | 29.09.2024 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China | ::{ flag=TH }:: Thailand |
 | [osu!mania 7K World Cup 2025](MWC/2025_7K) | 12.12.2024 | 23.02.2025 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=PH }:: Philippinen |
 | [osu!mania 4K World Cup 2025](MWC/2025_4K) | 17.07.2025 | 28.09.2025 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China |
-| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11.12.2025 | 22.02.2026 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K World Cup 2026](MWC/2026_7K) | 11.12.2025 | 22.02.2026 | ::{ flag=KR }:: Südkorea | ::{ flag=PH }:: Philippinen | ::{ flag=JP }:: Japan |
 
 ## Community
 
@@ -356,6 +351,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
 | [osu! Indonesia Tournament #13 (2023)](OIT/2023) | 19.06.2023 | 30.07.2023 | ::{ flag=ID }:: [lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
 | [osu! Indonesia Tournament #14 (2024)](OIT/2024) | 23.09.2024 | 03.11.2024 | ::{ flag=ID }:: [DEETO](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [NazunaAmemiya](https://osu.ppy.sh/users/12159899) |
+| [osu! Indonesia Tournament #15 (2025) ft. Stella](OIT/2025) | 29.12.2025 | 15.02.2026 | ::{ flag=ID }:: [lifelineO](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [MineFrostID](https://osu.ppy.sh/users/12159899) | ::{ flag=ID }:: [Hakui Koyori](https://osu.ppy.sh/users/10717635) |
 
 #### osu! Malaysia Tournament
 
@@ -527,7 +523,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [UK Community Cup X](UKCC/X) | 06.02.2021 | 12.04.2021 | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [Voss](https://osu.ppy.sh/users/7657761) | ::{ flag=GB }:: [Kerantina](https://osu.ppy.sh/users/7516484) |
 | [UK Community Cup 10](UKCC/10) | 11.09.2021 | 31.10.2021 | ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050) | ::{ flag=GB }:: [majoreh](https://osu.ppy.sh/users/7959222) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) |
 | [UK Community Cup 11](UKCC/11) | 23.01.2022 | 03.04.2022 | Luciano Fan Club | denial piano | The |
-| [UK Community Cup 12](UKCC/12) | 18.03.2023 | 30.04.2023 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896 ) |
+| [UK Community Cup 12](UKCC/12) | 18.03.2023 | 30.04.2023 | ::{ flag=GB }:: [Accolibed](https://osu.ppy.sh/users/9269034) | ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761) | ::{ flag=GB }:: [rudj](https://osu.ppy.sh/users/11592896) |
 | [UK Community Cup 13](UKCC/13) | 08.06.2025 | 27.07.2025 | *TBD* | *TBD* | *TBD* |
 
 #### Ulat Bulu Cup
@@ -623,14 +619,14 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Intermediate Global Taiko Showdown 2018](GTS/IGTS_2018) | 04.08.2018 | 16.09.2018 | ::{ flag=MY }:: Malaysia | ::{ flag=NL }:: Niederlande | ::{ flag=US }:: Vereinigte Staaten |
-| [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 08.06.2019 | 14.07.2019 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States A | ::{ flag=CL }:: Chile |
+| [Intermediate Global Taiko Showdown 2019](GTS/IGTS_2019) | 08.06.2019 | 14.07.2019 | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten A | ::{ flag=CL }:: Chile |
 | [Advanced Global Taiko Showdown 2019](GTS/AGTS_2019) | 10.08.2019 | 14.09.2019 | ::{ flag=JP }:: Japan | ::{ flag=CA }:: Kanada | ::{ flag=RU }:: Russische Föderation A |
 | [Katacheh Global Taiko Showdown 2019](GTS/KGTS_2019) | 28.09.2019 | 13.10.2019 | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451) |
 | [Continental Global Taiko Showdown 2019](GTS/CGTS_2019) | 02.11.2019 | 02.02.2020 | Asien (Global), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) (Asien), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) (Europa), ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) (Nordamerika), ::{ flag=SG }:: [Blerargh](https://osu.ppy.sh/users/7609510) (Ozeanien/SEA), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669) (Südamerika) | Europa (Global), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401) (Asien), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166) (Europa), ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) (Nordamerika), ::{ flag=SG }:: [Element118](https://osu.ppy.sh/users/2283992) (Ozeanien/SEA), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) (Südamerika) | Nordamerika (Global), ::{ flag=JP }:: [asuasu\_yura](https://osu.ppy.sh/users/2875968) (Asien), ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945) (Europa), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) (Nordamerika), ::{ flag=PH }:: [Pochacco](https://osu.ppy.sh/users/2927742) (Ozeanien/SEA), ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) (Südamerika) |
 | [Expert Global Taiko Showdown 2020](GTS/EGTS_2020) | 05.30.2020 | 18.07.2020 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897) | ::{ flag=JP }:: [nananass](https://osu.ppy.sh/users/7231722) |
 | [Intermediate Global Taiko Showdown 2020](GTS/IGTS_2020) | 06.06.2020 | 19.07.2020 | ::{ flag=US }:: Vereinigte Staaten A | ::{ flag=JP }:: Japan A | ::{ flag=SG }:: Singapur |
 | [Advanced Global Taiko Showdown 2020](GTS/AGTS_2020) | 12.09.2020 | 01.11.2020 | ::{ flag=SG }:: Singapur | ::{ flag=CN }:: China A | ::{ flag=JP }:: Japan A |
-| [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 05.12.2020 | 07.02.2021 | ::{ flag=HK }:: Hong Kong | ::{ flag=CA }:: Canada | ::{ flag=RO }:: Romania |
+| [Beginners Global Taiko Showdown 2020](GTS/BGTS_2020) | 05.12.2020 | 07.02.2021 | ::{ flag=HK }:: Hong Kong | ::{ flag=CA }:: Kanada | ::{ flag=RO }:: Rumänien |
 | [Continental Global Taiko Showdown 2021](GTS/CGTS_2021) | 06.02.2021 | 17.04.2021 | Asien | Europa | Nordamerika |
 | [Advanced Global Taiko Showdown 2021](GTS/AGTS_2021) | 15.05.2021 | 27.06.2021 | ::{ flag=US }:: Vereinigte Staaten A | ::{ flag=SG }:: Singapur A | ::{ flag=MY }:: Malaysia A |
 | [Rising Global Taiko Showdown 2021](GTS/RGTS_2021) | 12.06.2021 | 25.07.2021 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=CN }:: China A |
@@ -664,6 +660,13 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Taiko 2v2 Convert Tourney v2](TCT/v2) | 02.05.2020 | 07.06.2020 | 87 (::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) | Tacos and Schabowy (::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) | j h q w 2 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
 | [Taiko 2v2 Convert Tourney v3](TCT/v3) | 06.05.2021 | 20.06.2021 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
 | [Taiko Convert Tournament v4](TCT/v4) | 05.06.2022 | 31.07.2022 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
+
+#### Taiko Frontier
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Blaze Killing Taiko Frontier](Taiko_Frontier/BKTF_1) | 04.10.2025 | 23.11.2025 | **寿命** (::{ flag=JP }:: **[makaki](https://osu.ppy.sh/users/21893710)**, ::{ flag=JP }:: [nuku0315](https://osu.ppy.sh/users/8772103), ::{ flag=VN }:: [njshift1](https://osu.ppy.sh/users/16688499)) | **The King's Guard** (::{ flag=NO }:: **[Nurend Fanboy](https://osu.ppy.sh/users/18916920)**, ::{ flag=NO }:: [Vendelicious](https://osu.ppy.sh/users/8818089), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142)) | **DaiKiu volviste a tomar temporada 4** (::{ flag=CL }:: **[DaiKiu](https://osu.ppy.sh/users/4232665)**, ::{ flag=CL }:: [Kioshinxs](https://osu.ppy.sh/users/14433939), ::{ flag=AU }:: [Necromancy](https://osu.ppy.sh/users/1890084)) |
+| [Nightmare Taiko Frontier](Taiko_Frontier/NTF_1) | 17.01.2026 | 08.03.2026 | ::{ flag=JP }:: [\_Kan2](https://osu.ppy.sh/users/7160196) | ::{ flag=DE }:: [dragonmaxx](https://osu.ppy.sh/users/12160279) | ::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757) |
 
 #### Taiko Last Man Standing
 
