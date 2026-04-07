@@ -47,7 +47,7 @@ It is recommended to download beatmap packs directly from the official beatmap p
 As of now, all beatmap packs are stored internally in the `packs.ppy.sh` server. If in any case this server becomes inaccessible or slow to reach, there are mirror sites set up by others that you can use for your convenience as follows:
 
 - Hinamizawa.ai - osu! data hub
-  - [Mirror Website](https://hinamizawa.ai/osu/map-packs/) by ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
+  - [Mirror website](https://hinamizawa.ai/osu/map-packs/) by ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
 - Old storage prior to `packs.ppy.sh` migration ( ~2023-05-07)
   - [MEGA drive](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) by ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
 - [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
