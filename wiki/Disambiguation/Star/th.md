@@ -1,20 +1,22 @@
 ---
 stub: true
-outdated_translation: true
-outdated_since: f5a0dcb73f1d1cc3e45755f34468b203b9ad973c
 ---
 
-# ดาว
+<!-- term definition is outdated now that forum-based modding is gone -->
 
-**ดาว** มีความหมาย 4 แบบ:
+<!-- we could keep this as a piece of history or something but "stars" are pretty much only used in the context of "star rating" nowadays (didn't edit the original glossary entry) -->
 
-1. ในสถานะขอ[งการวิจารณ์บีทแมพ](/wiki/Modding/Forum_modding) ซึ่งผู้ดูแลจะตัดสินว่าบีทแมพนั้นไปในทางที่ถูกแล้ว แต่ต้องการการปรับปรุงเล็กน้อยก่อนที่จะได้รับการอนุมัติด้วย [bubble](/wiki/Modding/Bubble)
-   - เช่น การปรับการวางจังหวะ การเว้นจังหวะผิดในบางจุด หรือสร้างระดับความยากเพิ่ม
-   - ดาวที่เป็นกราฟิกอยู่ใกล้ ๆ ชื่อหัวข้อกระทู้ของบีทแมพนั้น ๆ
-   - ผู้ดูแลคนอื่นอาจจะเอาดาวออกหากคิดว่าบีทแมพนั้นยังต้องพัฒนาอีก
-2. "ระดับความยากดาว" (Star rating)
-   - เป็นสัญลักษณ์บอกระดับความยากของบีทแมพ
-3. [Kudosu](/wiki/Modding/Kudosu)
-   - ดาวที่ให้นักวิจารณ์บีทแมพ ซึ่งเอาดาวไปเพิ่มให้กับบีทแมพอื่นได้ (เพื่อให้อยู่หน้าแรก ๆ ของกระทู้)
-4. "[Star Priority](/wiki/Modding/Star_priority)" (แต้มระดับดาว)
-   - ดาวที่[ผู้สนับสนุน osu!](/wiki/osu!supporter)มี และใช้ในฟอรั่ม [Feature Requests](https://osu.ppy.sh/community/forums/4)
+# Star (แก้ความกำกวม)
+
+**Star** (ดาว) อาจหมายถึง:
+
+1. ขั้นตอนหนึ่งในกระบวนการ [Mod ในฟอรัม (Forum modding)](/wiki/Modding/Forum_modding) สมัยก่อน ซึ่งผู้ดูแลจะพิจารณาว่าบีทแมพนั้นมาถูกทางแล้วแต่ยังต้องการการปรับปรุงเล็กน้อย ก่อนที่จะได้รับสถานะ [Bubble](/wiki/Modding/Bubble)
+   - ตัวอย่างเช่น การปรับแต่งจังหวะ (Timing), การแก้ไขระยะห่างโน้ตที่ผิดพลาด หรือการเพิ่มระดับความยากให้ครบชุด
+   - บีทแมพที่ได้รับดาวจะมีรูปดาวแสดงอยู่ข้างชื่อหัวข้อกระทู้
+   - ดาวอาจถูกถอดออกโดยผู้ดูแลคนอื่นหากเห็นว่าบีทแมพนั้นยังต้องปรับปรุงเพิ่มเติม
+2. อีกคำหนึ่งที่ใช้เรียก "[ระดับดาว (Star rating)](/wiki/Beatmap/Star_rating)"
+   - สัญลักษณ์ที่ใช้แทนค่าความยากของบีทแมพ
+3. อีกคำหนึ่งที่ใช้เรียก "[Kudosu](/wiki/Modding/Kudosu)"
+   - คะแนนที่มอบให้กับผู้ที่ช่วยตรวจแมพ (Modder) ซึ่งสามารถนำไปใช้เพื่อดันบีทแมพให้เด่นกว่าแมพอื่นในรายการได้
+4. อีกคำหนึ่งที่ใช้เรียก "[Star Priority](/wiki/Modding/Star_priority)"
+   - ดาวที่มอบให้กับผู้ที่เป็น [osu!supporter](/wiki/osu!supporter) สำหรับใช้เพื่อสนับสนุนหัวข้อในฟอรัม [Feature Requests](https://osu.ppy.sh/community/forums/4)

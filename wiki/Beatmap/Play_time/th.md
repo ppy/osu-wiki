@@ -1,8 +1,11 @@
 ---
-outdated_translation: true
-outdated_since: 8c56ed23ae6de441e56810d08640071e3cb1aeda
+stub: true
+tags:
+  - length
+  - playtime
+  - total length
 ---
 
 # Play time
 
-**Play time** คือระยะเวลาทั้งหมดของ [beatmap](/wiki/Beatmap) ซึ่งรวมถึงช่วงก่อนเริ่ม และช่วง Break ซึ่งส่วนใหญ่จะตรงกับระยะเวลาของเพลง
+**Play time** (เวลาเล่น) คือระยะเวลารวมของ [ช่วงพัก (Break time)](/wiki/Beatmap/Break) และ [เวลาที่ต้องเล่นจริง (Drain time)](/wiki/Beatmap/Drain_time) ของ [Beatmap](/wiki/Beatmap) โดยระยะเวลานี้จะไม่รวมช่วงนำเข้า (Lead-in) หรือช่วงหลังจบเพลง (Outro) โดยปกติ Play time จะสอดคล้องกับความยาวของเพลงใน Beatmap นั้นๆ

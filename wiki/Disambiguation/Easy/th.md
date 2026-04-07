@@ -1,0 +1,10 @@
+# Easy (แก้ความกำกวม)
+
+**Easy** อาจหมายถึง:
+
+- [ตัวปรับแต่งเกม (Game modifier)](/wiki/Gameplay/Game_modifier/Easy)
+- [ระดับความยาก (Difficulty)](/wiki/Beatmap/Difficulty) ของบีทแมพ:
+  - ![](/wiki/shared/diff/easy-o.png?20211215) Easy สำหรับโหมด osu!
+  - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan สำหรับโหมด osu!taiko
+  - ![](/wiki/shared/diff/easy-c.png?20211215) Cup สำหรับโหมด osu!catch
+  - ![](/wiki/shared/diff/easy-m.png?20211215) EZ สำหรับโหมด osu!mania
