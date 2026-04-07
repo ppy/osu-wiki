@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
+---
+
 # Requisitos de desbloqueo para las medallas de Beatmap Packs
 
 | Nombre de la medalla | Requisito |
