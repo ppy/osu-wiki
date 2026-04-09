@@ -23,7 +23,7 @@ Los paquetes de beatmaps se dividen en 7 categorías con un indicador de letra e
 | Indicador | Categoría | Tipos de beatmaps |
 | :-: | :-- | :-- |
 | **S** | Standard | Beatmaps [clasificados](/wiki/Beatmap/Category#ranked) y [aprobados](/wiki/Beatmap/Category#approved) |
-| **F** | Artista Destacado | Canciones de los beatmaps de los [Artistas destacados](/wiki/People/Featured_Artists), principalmente de las misiones completadas por el [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| **F** | Artista Destacado | Canciones de los beatmaps de los [Artistas Destacados](/wiki/People/Featured_Artists), principalmente de las misiones completadas por el [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | **P** | Torneo | Mappools de [torneos oficiales](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Beatmaps elegidos por la comunidad en el [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Destacados | Paquetes de desafíos de beatmaps de temporada de [Beatmap Spotlights](/wiki/Beatmap_Spotlights), anteriormente conocidos como *Charts* |
