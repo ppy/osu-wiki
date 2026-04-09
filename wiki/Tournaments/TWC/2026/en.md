@@ -124,23 +124,23 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 33 | Taiwan ::{ flag=TW }:: | ::{ flag=NZ }:: New Zealand | [Apr 11 (Sat) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T060000&p1=1440&p2=241&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35 | China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Apr 11 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T080000&p1=1440&p2=33&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 39 | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 11 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T100000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 36 | Italy ::{ flag=IT }:: | ::{ flag=GB }:: United Kingdom | [Apr 11 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T140000&p1=1440&p2=215&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 40 | Chile ::{ flag=CL }:: | ::{ flag=BR }:: Brazil | [Apr 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T160000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 34 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Apr 11 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T180000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 33 | Taiwan ::{ flag=TW }:: | ::{ flag=NZ }:: New Zealand | [Apr 11 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T100000&p1=1440&p2=241&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 35 | China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Apr 11 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T110000&p1=1440&p2=33&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 39 | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T130000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 34 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Apr 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T160000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 36 | Italy ::{ flag=IT }:: | ::{ flag=GB }:: United Kingdom | [Apr 11 (Sat) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T193000&p1=1440&p2=215&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 12 April 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
+| 40 | Chile ::{ flag=CL }:: | ::{ flag=BR }:: Brazil | [Apr 12 (Sun) 00:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T003000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 37a | United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 12 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T030000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 37b | United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [Apr 12 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T030000&p1=1440&p2=263&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37c | Finland ::{ flag=FI }:: | ::{ flag=TW }:: Taiwan | [Apr 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T100000&p1=1440&p2=101&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 37d | Finland ::{ flag=FI }:: | ::{ flag=NZ }:: New Zealand | [Apr 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T100000&p1=1440&p2=101&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38a | Italy ::{ flag=IT }:: | ::{ flag=CN }:: China | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=215&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38b | Italy ::{ flag=IT }:: | ::{ flag=AU }:: Australia | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=215&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 38a | Italy ::{ flag=IT }:: | ::{ flag=CN }:: China | [Apr 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T110000&p1=1440&p2=215&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 38b | Italy ::{ flag=IT }:: | ::{ flag=AU }:: Australia | [Apr 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T110000&p1=1440&p2=215&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 37c | Finland ::{ flag=FI }:: | ::{ flag=TW }:: Taiwan | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=101&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38c | United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 38d | United Kingdom ::{ flag=GB }:: | ::{ flag=AU }:: Australia | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=136&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 |  | Finals | mappool showcase | [Apr 12 (Sun) 14:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
