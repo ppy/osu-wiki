@@ -282,7 +282,6 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | ::{ flag=CN }:: [Pata-Mon](https://osu.ppy.sh/users/6149313) | Chino |
 | ::{ flag=US }:: [The Cosmic Chef](https://osu.ppy.sh/users/23354688) |  |
 
-
 #### osu!taiko
 
 | Nombre | Idiomas adicionales |
