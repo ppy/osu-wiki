@@ -6,4 +6,4 @@ Each [hit object](/wiki/Gameplay/Hit_object) has a time frame called **hit windo
 
 The length of a hit window is affected by the [overall difficulty](/wiki/Beatmap/Overall_difficulty) as well as rate-changing mods like [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [Half Time](/wiki/Gameplay/Game_modifier/Half_Time).
 
-osu!catch has no concept of timing, so any hit objects will be judged as either hit or missed.
+[osu!catch](/wiki/Game_mode/osu!catch) has no concept of timing, so any hit objects will be judged as either hit or missed.
