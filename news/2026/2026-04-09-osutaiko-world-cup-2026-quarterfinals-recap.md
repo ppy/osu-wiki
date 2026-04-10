@@ -76,6 +76,8 @@ The quarterfinals concluded with a total of 16 matches, with each team trying th
 | 25a | **Finland** ::{ flag=FI }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120874845) | [#1](https://www.twitch.tv/videos/2740575347) |
 | 31 | **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/120874995) | [#1](https://www.twitch.tv/videos/2740582571) |
 
+Despite their efforts, a few teams have been unfortunately eliminated from the tournament. We still want to give them a special shoutout and we hope to see them return next year: ::{ flag=PT }:: Portugal, ::{ flag=DE }:: Germany, ::{ flag=VN }:: Vietnam, ::{ flag=SE }:: Sweden, ::{ flag=NO }:: Norway, ::{ flag=SK }:: Slovakia, ::{ flag=MY }:: Malaysia, ::{ flag=NL }:: The Netherlands, ::{ flag=RU }:: Russian Federation, ::{ flag=CA }:: Canada, ::{ flag=ID }:: Indonesia and ::{ flag=FR }:: France.
+
 ## Match highlights
 
 ### ::{ flag=FR }:: France vs. ::{ flag=MY }:: Malaysia
