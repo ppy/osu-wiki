@@ -39,6 +39,8 @@ Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released son
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/y-BsRNpkVUU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+---
+
 [![](/wiki/shared/news/2026-04-09-osutaiko-world-cup-2026-quarterfinals-recap/uynet-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610)
 
 <div class="osu-md__paragraph">
