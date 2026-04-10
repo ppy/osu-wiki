@@ -33,7 +33,7 @@ Two more new songs have been produced for the osu!taiko World Cup 2026. Read on 
     </audio>
 </div>
 
-Well-known producer from multiple osu! World Cups and osu! featured artist [Cansol](https://osu.ppy.sh/beatmaps/artists/407) returns with a newly produced song for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with an unique rhythm and a catchy melody. A perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate Jazz Invasion by clicking on the banner and by checking out the showcase video below!
+Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a newly produced song for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with an unique rhythm and a catchy melody. A perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate Jazz Invasion by clicking on the banner and by checking out the showcase video below!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/y-BsRNpkVUU" frameborder="0" allowfullscreen></iframe>
