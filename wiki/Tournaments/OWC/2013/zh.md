@@ -9,7 +9,7 @@ tags:
 
 ![OWC 2013 标志](img/logo.jpg)
 
-**osu! 2013 世界杯** (***OWC 2013***) 是由 [osu! 团队](/wiki/People/osu!_team)举办的，基于国家/地区的 osu! 锦标赛。本届 osu! 世界杯是第四届。
+**osu! 世界杯 2013** (***OWC 2013***) 是由 [osu! 团队](/wiki/People/osu!_team)举办的，基于国家/地区的 osu! 锦标赛。本届 osu! 世界杯是第四届。
 
 ## 赛程
 
