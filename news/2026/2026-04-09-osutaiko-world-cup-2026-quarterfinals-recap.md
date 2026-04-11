@@ -29,9 +29,7 @@ Spectators were treated to lively and entertaining matches between the top teams
 
 ## osu! originals
 
-Two more new songs have been produced for the osu!taiko World Cup 2026. Read on to find out more about them and give their respective maps a try by clicking on the banners below!
-
-[![](/wiki/shared/news/2026-04-09-osutaiko-world-cup-2026-quarterfinals-recap/cansol-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650)
+Two more new songs have been produced for the osu!taiko World Cup 2026. Read on to find out more about them and give their respective maps a try.
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -39,15 +37,13 @@ Two more new songs have been produced for the osu!taiko World Cup 2026. Read on 
     </audio>
 </div>
 
-Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a new osu! original for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with a unique rhythm and a catchy melody, making for a perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate *Jazz Invasion* by clicking on the banner (or viewing the video below) to check out the map by [Nurend](https://osu.ppy.sh/users/9905079) and [uone](https://osu.ppy.sh/users/5321719)!
+Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a new osu! original for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with a unique rhythm and a catchy melody making this song, mapped by [Nurend](https://osu.ppy.sh/users/9905079) and [uone](https://osu.ppy.sh/users/5321719), a perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate *Jazz Invasion* by viewing the video below.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/y-BsRNpkVUU" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ---
-
-[![](/wiki/shared/news/2026-04-09-osutaiko-world-cup-2026-quarterfinals-recap/uynet-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610)
 
 <div class="osu-md__paragraph">
     <audio controls>
