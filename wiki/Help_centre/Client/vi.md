@@ -22,22 +22,22 @@ tags:
 
 Trang chính: [Trung tâm trợ giúp](/wiki/Help_centre)
 
-Bạn đang gặp rắc rối với client của game? Hãy tìm xem liệu vấn đề của bạn có nằm trong danh sách giữa những vấn đề phổ biến nhất mà người dùng của chúng tôi đang gặp phải ở đây.
+Bạn đang gặp sự cố với client của trò chơi? Hãy tìm xem liệu vấn đề của bạn có trong danh sách những vấn đề phổ biến nhất mà người dùng của chúng tôi đang mắc phải ở đây.
 
 ## Các lỗi và sự cố {id=crash}
 
 ### Tôi đã thay đổi cài đặt của mình, và bây giờ tôi không thể bắt đầu osu! hoặc bị đơ {id=incorrect-settings}
 
-**Việc đặt lại osu! trở lại cài đặt mặc định sẽ khắc phục vấn đề này trong hầu hết các trường hợp.**
+**Việc đặt osu! trở lại cài đặt mặc định sẽ khắc phục vấn đề này trong hầu hết các trường hợp.**
 
-Làm theo những bước sau để đặt lại osu! về cài đặt mặc định:
+Làm theo những bước sau để đặt osu! về cài đặt mặc định:
 
 1. Mở osu! trong khi nhấn giữ phím `Shift` trên bàn phím của bạn.
 2. Tiếp tục giữ phím `Shift` cho đến khi bạn thấy hộp thoại nhắc khôi phục osu!.
 3. Khi `osu! configuration (thiết lập osu!)` mở ra, nhấn nút `reset settings (khôi phục cài đặt)`.
 4. Nếu bạn thử rồi mà vẫn không thành công, mở lại hộp thoại và nhấn `repair osu! (sửa chữa osu!)`.
 
-### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map trong nhiều người chơi {id=broken-links}
+### osu! đã bị treo khi tôi ấn vào một liên kết hoặc map trong multiplayer {id=broken-links}
 
 **Hãy đảm bảo rằng bạn không chạy osu! ở chế độ tương thích với Windows, và cũng chắc chắn rằng bạn đã xác định trình duyệt web mặc định trong cài đặt hệ thống của mình.**
 
@@ -49,8 +49,8 @@ Vấn đề này đôi khi xảy ra do sự tác động với chế độ tươ
 
 1. Mở thư mục installation osu! và tìm tệp `osu!.exe`.
 2. Nhấp chuột phải vào `osu!.exe` và chọn `Properties` từ menu thả xuống. 
-3. Chuyển đến tab `Tương thích (Compatibility)`.
-4. Tìm một ô đánh dấu có tiêu đề `Chạy chương trình này ở chế độ tương thích` trong phần `Chế độ tương thích' (Compatibility mode)`.
+3. Chuyển đến tab `Compatibility`.
+4. Tìm một ô đánh dấu có tiêu đề `Run this program in compatibility mode` trong phần `Compatibility mode`.
 5. Nếu ô này được chọn, hãy nhấp vào nó một lần nữa để tắt chức năng này.
 6. Nếu game của bạn đang mở, hãy đóng client và mở lại game một lần nữa.
 
@@ -141,7 +141,7 @@ Nếu không có phương pháp nào trong số này hiệu quả, như biện p
 7. Đổi tên file theo ý bạn muốn, tên gì cũng được, miễn là nó không được đặt tên là "osu!", rồi nhấn `Enter`.
 8. Khởi động lại osu!.
 
-*Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) ngày 19-05-2021. Nếu bạn vẫn gặp vấn đề này, vui lòng [cho chúng tôi biết](https://github.com/ppy/osu-stable-issues/issues).*
+*Lưu ý: Một bản vá cho vấn đề này đã được thêm vào phiên bản [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) ngày 19-05-2021. Nếu bạn vẫn gặp lỗi này, vui lòng [cho chúng tôi biết](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### Danh sách bài hát của tôi cứ tự cuộn! {id=songs-list-scrolling}
 
@@ -505,9 +505,9 @@ Thông thường vấn đề này sẽ biến mất sau khi bạn đóng mọi t
 
 #### Trò chơi có được cập nhật gần đây không? {id=lag-after-update}
 
-**Đôi khi sau khi cập nhật, client có thể gặp trục trặc mà không rõ lý do.**
+**Đôi khi sau một cập nhật, client có thể gặp trục trặc mà dường như không rõ lý do.**
 
-Nếu bạn dang có rất nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bị lag vì bản cập nhật. Trình osu! có thể đang xử lý lại đống beatmap của bạn để tính toán lại độ khó.
+Nếu bạn đang có nhiều beatmap, hãy chờ ít nhất 10–15 phút trước khi đổ lỗi cho bị lag vì bản cập nhật. Client của osu! có thể đang xử lý các beatmap của bạn để tính toán lại độ khó.
 
 Nếu vẫn không cải thiện, khởi động lại máy có thể giúp một phần.
 
