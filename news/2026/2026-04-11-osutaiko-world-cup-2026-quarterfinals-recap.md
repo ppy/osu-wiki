@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2026: Quarterfinals Recap"
-date: 2026-04-10 22:00:00 +0000
+date: 2026-04-11 16:00:00 +0000
 series: world_cups
 ---
 
