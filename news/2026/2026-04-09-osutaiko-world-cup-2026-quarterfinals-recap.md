@@ -13,12 +13,6 @@ Spectators were treated to lively and entertaining matches between the top teams
 
 ## Mappool showcase
 
-<style>
-    .osu-md--news .audio-player {
-        max-width: inherit;
-    }
-</style>
-
 **[Download the mappool here! (104 MB)](https://packs.ppy.sh/P318%20-%20osu!taiko%20World%20Cup%202026%3A%20Quarterfinals.zip?1775107454)**
 
 <div align="center" class="osu-md__paragraph">
@@ -29,33 +23,21 @@ Spectators were treated to lively and entertaining matches between the top teams
 
 ## osu! originals
 
-Two more new songs have been produced for the osu!taiko World Cup 2026. Read on to find out more about them and give their respective maps a try.
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/407/Songs/Cansol_-_Jazz_Invasion.mp3">
-    </audio>
-</div>
-
-Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a new osu! original for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with a unique rhythm and a catchy melody making this song, mapped by [Nurend](https://osu.ppy.sh/users/9905079) and [uone](https://osu.ppy.sh/users/5321719), a perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate *Jazz Invasion* by viewing the video below.
+Two more new songs have been produced for the osu!taiko World Cup 2026. Read on to find out more about them, watch their showcase videos and give their respective maps a try.
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/y-BsRNpkVUU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+Producer [Cansol](https://osu.ppy.sh/beatmaps/artists/407), who has released songs for other World Cup iterations in the past, returns with a new osu! original for the osu!taiko World Cup 2026. [Jazz Invasion](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650) combines 178 beats per minute with a unique rhythm and a catchy melody making this song, mapped by [Nurend](https://osu.ppy.sh/users/9905079) and [uone](https://osu.ppy.sh/users/5321719), a perfect fit for the Quarterfinals' NM6 slot. Experience the ultimate *Jazz Invasion* today!
+
 ---
-
-<div class="osu-md__paragraph">
-    <audio controls>
-        <source src="https://assets.ppy.sh/artists/453/Songs/uynet_-_Lunar_Eclipse.mp3"
-    </audio>
-</div>
-
-[uynet](https://osu.ppy.sh/beatmaps/artists/453), known for being a Featured Artist and for loving the piano and overwhelmingly cute stuff, returns with a brand-new song for the osu!taiko World Cup 2026. [Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) is the most recent addition to his Featured Artist listing and the HR2 slot in the Quarterfinals pool mapped by [X a v y](https://osu.ppy.sh/users/3738344) and [5_5](https://osu.ppy.sh/users/6853438). For anyone who missed the showcase, we present the video below!
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/lPRDPSB5Nj0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+[uynet](https://osu.ppy.sh/beatmaps/artists/453), known for being a Featured Artist and for loving the piano and overwhelmingly cute stuff, returns with a brand-new song for the osu!taiko World Cup 2026. [Lunar Eclipse](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610) is the most recent addition to his Featured Artist listing and the HR2 slot in the Quarterfinals pool mapped by [X a v y](https://osu.ppy.sh/users/3738344) and [5_5](https://osu.ppy.sh/users/6853438).
 
 ## Quarterfinals results
 
