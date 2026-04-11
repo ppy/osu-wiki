@@ -7,7 +7,7 @@ series: world_cups
 
 Lots of matches, lots of maps and lots of exciting moments during the osu!taiko World Cup 2026 Quarterfinals. Read on to find out everything you need to know about what happened last weekend.
 
-![](/wiki/shared/news/2026-04-09-osutaiko-world-cup-2026-quarterfinals-recap/banner.jpg)
+![](/wiki/shared/news/2026-04-11-osutaiko-world-cup-2026-quarterfinals-recap/banner.jpg)
 
 Spectators were treated to lively and entertaining matches between the top teams this game mode has to offer. The Quarterfinals held a total of 16 matches and the strongest players from all over the world were able to show off their impressive skills.
 
@@ -19,7 +19,7 @@ Spectators were treated to lively and entertaining matches between the top teams
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2734988514" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Quarterfinals mappool table](/wiki/shared/news/2026-04-09-osutaiko-world-cup-2026-quarterfinals-recap/pool-qf.jpg)
+![Quarterfinals mappool table](/wiki/shared/news/2026-04-11-osutaiko-world-cup-2026-quarterfinals-recap/pool-qf.jpg)
 
 ## osu! originals
 
