@@ -167,7 +167,7 @@ Khi tất cả các tệp `.osz` từ gói lưu trữ đã nằm trong thư mụ
 
 Nhấn `Shift` + `Tab` trong khi đang chơi sẽ bật/tắt HUD trong game và cho phép bạn hiển thị lại các thành phần này.
 
-Nếu bạn đã thay đổi phím tắt để bật/tắt bảng điểm, thì thao tác này có thể sẽ không hoạt động. Bạn có thể kiểm tra tổ hợp phím hiện trong `Options` → `Cài đặt phím` → `In-Game` → `Toggle Scoreboard`. Sau đó, hãy thay phím `Tab` bằng phím bạn đã chọn (ví dụ: `Shift` + `V`
+Nếu bạn đã thay đổi phím tắt để bật/tắt bảng điểm, thì thao tác này có thể sẽ không hoạt động. Bạn có thể kiểm tra tổ hợp phím hiện trong `Options` → `Cài đặt phím` → `In-Game` → `Toggle Scoreboard`. Sau đó, hãy thay phím `Tab` bằng phím bạn đã chọn (ví dụ: `Shift` + `V`).
 
 ### Điểm số cá nhân của tôi bị mất! {id=no-scores}
 
