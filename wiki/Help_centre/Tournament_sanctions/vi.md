@@ -24,7 +24,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 Điều này bao gồm những trường hợp như:
 
-- Như đã nêu ở trên, việc sử dụng bất kỳ công cụ gian lận bên thứ ba hoặc tiện ích để giành lợi thế
+- Như đã nêu ở trên, việc sử dụng bất kỳ công cụ gian lận bên thứ ba hoặc tiện ích để giành được lợi thế
 - Sử dụng nhiều tài khoản để tham gia giải đấu
 - Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác
 - Chia sẻ tài khoản trong khi tham gia một giải đấu hỗ trợ chính thức
