@@ -15,7 +15,7 @@ With a total of **4,974** votes casted by **2,906** different users, we're excit
 
 ## Finalists
 
-[![](https://assets.ppy.sh/contests/282/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/282/winners/Triantafyllia.png)
+[![](https://assets.ppy.sh/contests/282/banners/Triantafyllia.jpg)](https://assets.ppy.sh/contests/282/winners/Triantafyllia.jpg)
 
 [**Triantafyllia**](https://osu.ppy.sh/users/17084594) made waves with a stunning painting of Mocha and Alisa against the sweetest of sunflowers and cherry blossoms. **1352** of you were impressed by such a flowery display, earning this entry the winning spot in this contest by just *two* votes!
 
@@ -45,11 +45,11 @@ A romantic entry brought to you by [**girls kissing**](https://osu.ppy.sh/users/
 
 Unfortunately, it has by rule 3 been vetoed from being featured in the main menu.
 
-[![](https://assets.ppy.sh/contests/282/banners/tehfire.jpg)](https://assets.ppy.sh/contests/282/winners/tehfire.png)
+[![](https://assets.ppy.sh/contests/282/banners/tehfire.jpg)](https://assets.ppy.sh/contests/282/winners/tehfire.jpg)
 
 [**tehfire**](https://osu.ppy.sh/users/7082924)'s dazzling scene of a touching moment between pippi and Mocha gave way for **1032** voters to instantly give their hearts for the entry that would surely end up near the top (and it did!).
 
-[![](https://assets.ppy.sh/contests/282/banners/Arushii.jpg)](https://assets.ppy.sh/contests/282/winners/Arushii.png)
+[![](https://assets.ppy.sh/contests/282/banners/Arushii.jpg)](https://assets.ppy.sh/contests/282/winners/Arushii.jpg)
 
 [**Arushii**](https://osu.ppy.sh/users/15664628), like many other osu! artists, collectively agreed that a giant tablet pen is pippi's canon weapon of choice. Presented with another majestic view into pippi's adventures, **885** people recognised the travails before them and were left to wonder where it would lead them next.
 
@@ -61,7 +61,7 @@ Unfortunately, it has by rule 3 been vetoed from being featured in the main menu
 
 [**h3p0**](https://osu.ppy.sh/users/15875092) took on the spring picnic motif in style, incorporating vibrant greens, a familiar cat and a striking statue just beyond the stone gate, which **862** voters may or may not know the origins of. It's a mystery.
 
-[![](https://assets.ppy.sh/contests/282/banners/Ferineon.jpg)](https://assets.ppy.sh/contests/282/winners/Ferineon.png)
+[![](https://assets.ppy.sh/contests/282/banners/Ferineon.jpg)](https://assets.ppy.sh/contests/282/winners/Ferineon.jpg)
 
 [**Ferineon**](https://osu.ppy.sh/users/23930728) simply drew an exquisite dress for Mocha, and in the starlight her beauty resonated with **831** viewers who made spared no haste in including the art piece in their "favourites" collection.
 
@@ -89,7 +89,7 @@ It wouldn't be a fanart contest without [peppy](https://osu.ppy.sh/users/2) bles
 
 The spring theme came to [**Yonkoli**](https://osu.ppy.sh/users/11415706) very naturally. The idea couldn't be simpler: pippi in a forest with flowing water and colourful flowers. Then we got a wild mix of colours, shadow patterns, big and small details, all coming together... naturally.
 
-[![](https://assets.ppy.sh/contests/282/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/282/winners/-%20Y%20u%20m%20i%20J%20i-.png)
+[![](https://assets.ppy.sh/contests/282/banners/-%20Y%20u%20m%20i%20J%20i-.jpg)](https://assets.ppy.sh/contests/282/winners/-%20Y%20u%20m%20i%20J%20i-.jpg)
 
 [**- Y u m i J i-**](https://osu.ppy.sh/users/7656048)'s proud florist pippi stands out in a endearing painting-like art style, making for a piece that just couldn't be missed.
 
@@ -97,11 +97,11 @@ The spring theme came to [**Yonkoli**](https://osu.ppy.sh/users/11415706) very n
 
 Glasses? Check. Mocha keychain? Check. Flower hairpin? Check. pippi is ready for the school day, and so were we to welcome [**Seml**](https://osu.ppy.sh/users/25660611)'s fashionable drawing of her for display on the main menu.
 
-[![](https://assets.ppy.sh/contests/282/banners/Sm0llBanana.jpg)](https://assets.ppy.sh/contests/282/winners/Sm0llBanana.png)
+[![](https://assets.ppy.sh/contests/282/banners/Sm0llBanana.jpg)](https://assets.ppy.sh/contests/282/winners/Sm0llBanana.jpeg)
 
 [**Sm0llBanana**](https://osu.ppy.sh/users/21295136) envisioned pippi, Taikonator 3000 and Chirou having a relaxing time at a quaint pine forest creek, infusing a unique touch of lighting polish for an utmost soothing environment.
 
-[![](https://assets.ppy.sh/contests/282/banners/wxyz.jpg)](https://assets.ppy.sh/contests/282/winners/wxyz.png)
+[![](https://assets.ppy.sh/contests/282/banners/wxyz.jpg)](https://assets.ppy.sh/contests/282/winners/wxyz.jpeg)
 
 [**wxyz**](https://osu.ppy.sh/users/14954732)'s pippi and Mocha are walking downtown for the day, perhaps for an afternoon picnic?
 
