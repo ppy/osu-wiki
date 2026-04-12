@@ -383,7 +383,7 @@ Group H:
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2746363340)
 
 - No Mod
-  1. [dennoko-P - Super-Focused Limit Break (\_Rise) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616128)
+  1. [dennoko-P - Super-Focused Limit Break (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129)
   2. [ISLTR - nism (Cut Ver.) (ekumea1123) \[Hollow\]](https://osu.ppy.sh/beatmapsets/2537884#taiko/5616113)
   3. [Camellia - QuomodocunquizE (Skidooskei) \[Lunar Simians from Outer Space (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2537895#taiko/5616138)
   4. [XH & sugosugiii - STYLE! feat. Kasane Teto (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2537893#taiko/5616136)
@@ -393,7 +393,7 @@ Group H:
   1. [Luna Fozer - Overjoy \* OVERDOSE!! (Nwolf) \[LET'S GO (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2508420#taiko/5616165)
   2. [mimizu feat. Kasane Teto SV - Tatakina (gaston\_2199) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/2448776#taiko/5346739)
 - Hard Rock
-  1. [nitro (as "summersick") - summersick (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/2004014#taiko/4167538)
+  1. [nitro (as "summersick") - summersick (\_Rise) \[Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2004014#taiko/5616166)
   2. [Ludicin - Obliterate (Shinsekai-) \[Annihilation\]](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167)
 - Double Time
   1. [Ironmouse & Camellia - Waifu Jam (osu! edit) (Backfire) \[TWC Jam\]](https://osu.ppy.sh/beatmapsets/2537941#taiko/5616282)
@@ -403,7 +403,7 @@ Group H:
   2. [Zekk - Fluctuation (4sbet1) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2537913#taiko/5616183)
   3. Ice - Etude for the Sinners (iceOC) \[Song of Sin\] (link pending)
 - Tiebreaker
-  1. [TWC Sound Team FLiPFORCE - ON.UR.MARKS... (Jayceko) \[BRACE.FOR.IMPACT...\] (link pending)
+  1. **[TWC Sound Team FLiPFORCE - ON.UR.MARKS... (Jayceko) \[BRACE.FOR.IMPACT...\] (link pending)**
 
 ### Semifinals
 
