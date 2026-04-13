@@ -118,36 +118,51 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, 11 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 33 | Taiwan ::{ flag=TW }:: | ::{ flag=NZ }:: New Zealand | [Apr 11 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T100000&p1=1440&p2=241&p3=264) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 35 | China ::{ flag=CN }:: | ::{ flag=AU }:: Australia | [Apr 11 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T110000&p1=1440&p2=33&p3=57) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 39 | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T130000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 34 | United States ::{ flag=US }:: | ::{ flag=FI }:: Finland | [Apr 11 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T160000&p1=1440&p2=263&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 36 | Italy ::{ flag=IT }:: | ::{ flag=GB }:: United Kingdom | [Apr 11 (Sat) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260411T193000&p1=1440&p2=215&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Sunday, 12 April 2026
+### Saturday, 18 April 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 40 | Chile ::{ flag=CL }:: | ::{ flag=BR }:: Brazil | [Apr 12 (Sun) 00:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T003000&p1=1440&p2=232&p3=45) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 37a | United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 12 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T030000&p1=1440&p2=263&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37b | United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [Apr 12 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T030000&p1=1440&p2=263&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37d | Finland ::{ flag=FI }:: | ::{ flag=NZ }:: New Zealand | [Apr 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T100000&p1=1440&p2=101&p3=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38a | Italy ::{ flag=IT }:: | ::{ flag=CN }:: China | [Apr 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T110000&p1=1440&p2=215&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38b | Italy ::{ flag=IT }:: | ::{ flag=AU }:: Australia | [Apr 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T110000&p1=1440&p2=215&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 37c | Finland ::{ flag=FI }:: | ::{ flag=TW }:: Taiwan | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=101&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38c | United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 38d | United Kingdom ::{ flag=GB }:: | ::{ flag=AU }:: Australia | [Apr 12 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T120000&p1=1440&p2=136&p3=57) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Finals | mappool showcase | [Apr 12 (Sun) 14:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260412T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 41 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 18 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T100000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 42 | Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Apr 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 19 April 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 44 | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 19 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 43c | Taiwan ::{ flag=TW }:: | ::{ flag=KR }:: South Korea | [Apr 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T100000&p1=1440&p2=241&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43d | Taiwan ::{ flag=TW }:: | ::{ flag=CN }:: China | [Apr 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T100000&p1=1440&p2=241&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43a | Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Apr 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T130000&p1=1440&p2=45&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43b | Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T130000&p1=1440&p2=45&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+|  | Grand Finals | mappool showcase | [Apr 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
+### Semifinals
+
+Saturday, 11 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 33 | **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/120915604) | [#1](https://www.twitch.tv/videos/2745509637) |
+| 35 | **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120915912) | [#1](https://www.twitch.tv/videos/2745509636) |
+| 39 | **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/120916660) | [#1](https://www.twitch.tv/videos/2745512622) |
+| 34 | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/120918218) | [#1](https://www.twitch.tv/videos/2745562049) |
+| 36 | **Italy** ::{ flag=IT }:: | **6** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/120919997) | [#1](https://www.twitch.tv/videos/2745734198) |
+
+Sunday, 12 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 40 | **Chile** ::{ flag=CL }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/120922024) | [#1](https://www.twitch.tv/videos/2745993870) |
+| 37a | United States ::{ flag=US }:: | 3 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/120922696) | [#1](https://www.twitch.tv/videos/2746035528) |
+| 38a | Italy ::{ flag=IT }:: | 6 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/120924693) | [#1](https://www.twitch.tv/videos/2746243641) |
+
 ### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ZxXYJ5zsbxS8evLrhaX6sn9okERfyJhcG-vlgCbZVTk?rm=minimal).
 
 Saturday, 4 April 2026:
 
@@ -362,6 +377,33 @@ Group H:
 | #3 | ::{ flag=CO }:: Colombia | **0** | 2 | 0 | 10 | **-10** | 30 |
 
 ## Mappools
+
+### Finals
+
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2746363340)
+
+- No Mod
+  1. [dennoko-P - Super-Focused Limit Break (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129)
+  2. [ISLTR - nism (Cut Ver.) (ekumea1123) \[Hollow\]](https://osu.ppy.sh/beatmapsets/2537884#taiko/5616113)
+  3. [Camellia - QuomodocunquizE (Skidooskei) \[Lunar Simians from Outer Space (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2537895#taiko/5616138)
+  4. [XH & sugosugiii - STYLE! feat. Kasane Teto (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2537893#taiko/5616136)
+  5. [Demon King - Tyrannical Reign of the Deceiver (Xay) \[Invictus\]](https://osu.ppy.sh/beatmapsets/2537898#taiko/5616147)
+  6. [sheeno mirin - I found it out (Raphalge) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2098220#taiko/4401158)
+- Hidden
+  1. [Luna Fozer - Overjoy \* OVERDOSE!! (Nwolf) \[LET'S GO (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2508420#taiko/5616165)
+  2. [mimizu feat. Kasane Teto SV - Tatakina (gaston\_2199) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/2448776#taiko/5346739)
+- Hard Rock
+  1. [nitro (as "summersick") - summersick (\_Rise) \[Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2004014#taiko/5616166)
+  2. [Ludicin - Obliterate (Shinsekai-) \[Annihilation\]](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167)
+- Double Time
+  1. [Ironmouse & Camellia - Waifu Jam (osu! edit) (Backfire) \[TWC Jam\]](https://osu.ppy.sh/beatmapsets/2537941#taiko/5616282)
+  2. [Nakajima Megumi - TRY UNITE! (aran Remix) (Sped Up Ver.) (radar) \[Collab\]](https://osu.ppy.sh/beatmapsets/1968855#taiko/4083716)
+- Free Mod
+  1. [xi - Bad Elixir (raynald) \[Fermi Majestia One\]](https://osu.ppy.sh/beatmapsets/2537915#taiko/5616186)
+  2. [Zekk - Fluctuation (4sbet1) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2537913#taiko/5616183)
+  3. Ice - Etude for the Sinners (iceOC) \[Song of Sin\] (link pending)
+- Tiebreaker
+  1. **[TWC Sound Team FLiPFORCE - ON.UR.MARKS... (Jayceko) \[BRACE.FOR.IMPACT...\] (link pending)**
 
 ### Semifinals
 
