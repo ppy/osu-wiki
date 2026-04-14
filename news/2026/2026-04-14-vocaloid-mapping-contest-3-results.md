@@ -61,6 +61,9 @@ On March 29th we hosted a Twitch livestream to showcase all of the maps of the c
 | 6th | ::{ flag=EC }:: [Foco_](https://osu.ppy.sh/users/11481057) and ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17989/43d0390e788f6fe4b1d702a3fdfe8a0be7dd5aadb1c2fdbae3b1b7546b933de4.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76571/results)
 | 7th | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) and ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17860/ae348c6a6a0585b2c39bd7d9b4acd1fc1348b44d19e642e0cd917ce2a7f488f2.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76565/results)
 
+### osu!catch results
+
+Unfortunately, due to lack of entries, this mode's second phase ended in no contest!
 
 ### osu!mania results
 
