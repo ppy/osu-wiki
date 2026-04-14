@@ -2,7 +2,7 @@
 layout: post
 title: "Vocaloid Mapping Contest 3 Conclusion"
 date: 2026-03-30 20:00:00 +0000
-series:
+series: community_contests
 ---
 
 After 6 months, we finally have our winners!
@@ -15,7 +15,7 @@ As a quick recap, this whole contest is themed around twos. Just like Hatsune Mi
 
 In the **PARALLEL** round, one mapper created a beatmap for **mimizu**, and the other created a beatmap for **MARETU**. In the **SWAP** round, the mapper who created a beatmap for **mimizu** now created one for the **MARETU** song that their teammate had mapped in the previous round, and vice versa. However, this came with a significant limitation: their interpretation and approach to mapping the song had to be unique. The more similar the two difficulties of the same song were, the more they would be penalised by the judging panel! This highly experimental limitation forced mappers to think outside the box and create cohesive, interesting maps, without stepping on each other's approach to mapping the song. If mapper A chose to map the obvious approach, mapper B was incentivised to choose something less obvious! 
 
-The top 6 of each round progressed onto the final stage, the results of which can be found in our last newspost from [January](https://osu.ppy.sh/home/news/2026-01-11-vocaloid-mapping-contest-3-phase-1-results-new-featured-artist-epiaeon). In that newspost, we also announced the third and final Featured Artist, **ePiaeon**!
+The top 6 of each round progressed onto the final stage, the results of which can be found in our last news post from [January](https://osu.ppy.sh/home/news/2026-01-11-vocaloid-mapping-contest-3-phase-1-results-new-featured-artist-epiaeon). In that news post, we also announced the third and final Featured Artist, **ePiaeon**!
 
 In Phase 2, by contrast, teams had to instead work *collaboratively* to create a full, rankable mapset featuring multiple difficulties for one of **ePiaeon**'s songs. Instead of judging uniqueness, judge's evaluated the team's cohesion. Those same pairs that had to be opposites had to now work together. And now, we'll see how they did!
 
@@ -84,7 +84,7 @@ A very special thanks this round goes to **ePiaeon**, not only for allowing us t
 
 Of course, this contest would not have been possible without the people working behind the scenes. In particular, { flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) provided an incredible amount of support throughout every stage of the event. Simply put, this would not exist without him.
 
-Thank you as well to ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418), who helped bring **mimizu**, **MARETU**, and **ePiaeon** into the Featured Artist lineup. Expanding the Featured Artist catalogue is a core part of what makes the Vocaloid Mapping Contest special, and this would not have happened without that effort.
+Thank you as well to ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), who helped bring **mimizu**, **MARETU**, and **ePiaeon** into the Featured Artist lineup. Expanding the Featured Artist catalogue is a core part of what makes the Vocaloid Mapping Contest special, and this would not have happened without that effort.
 
 Another huge shoutout to ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), who dedicated countless hours to the livestream production, including editing and rendering visuals, providing commentary, and offering constant support throughout the contest. Her contributions played a massive role in making this event what it is. On a personal note, her biggest contribution was giving me the motivation to run this contest in the first place, and to carry it through to the end.
 
