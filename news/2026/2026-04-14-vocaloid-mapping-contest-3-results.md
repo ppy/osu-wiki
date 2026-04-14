@@ -87,7 +87,7 @@ Thank you to every team who took part in this contest. It has been a long journe
 
 A very special thanks this round goes to **ePiaeon**, not only for allowing us to feature his incredible music, but also for joining the results stream. His thoughtful commentary and behind-the-scenes insight into the song added a whole new layer to the experience. Be sure to show him some love!
 
-Of course, this contest would not have been possible without the people working behind the scenes. In particular, { flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) provided an incredible amount of support throughout every stage of the event. Simply put, this would not exist without him.
+Of course, this contest would not have been possible without the people working behind the scenes. In particular, ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) provided an incredible amount of support throughout every stage of the event. Simply put, this would not exist without him.
 
 Thank you as well to ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), who helped bring **mimizu**, **MARETU**, and **ePiaeon** into the Featured Artist lineup. Expanding the Featured Artist catalogue is a core part of what makes the Vocaloid Mapping Contest special, and this would not have happened without that effort.
 
