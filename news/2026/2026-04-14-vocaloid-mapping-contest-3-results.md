@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vocaloid Mapping Contest 3 Conclusion"
+title: "Vocaloid Mapping Contest 3: Results"
 date: 2026-04-14 20:00:00 +0000
 series: community_contests
 ---
