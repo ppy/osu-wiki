@@ -49,7 +49,7 @@ The **results livestreams** were broadcast live on the [*Vocaloid Appreciation T
 - [YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam)
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-10-05-vocaloid-mapping-contest-3)
 - [Phase 1 results news post](https://osu.ppy.sh/home/news/2026-01-11-vocaloid-mapping-contest-3-phase-1-results-new-featured-artist-epiaeon)
-- [Phase 2 results news post](https://osu.ppy.sh/home/news/2026-03-30-Vocaloid-Mapping-Contest-3-Conclusion)
+- [Phase 2 results news post](https://osu.ppy.sh/home/news/2026-04-14-vocaloid-mapping-contest-3-results)
 - [Phase 1 results announcement VOD](https://www.youtube.com/watch?v=7em6QqlrP9Q)
 - [Phase 2 results announcement VOD](https://www.youtube.com/watch?v=ggkGNKPhbRs)
 - **Contest listings**
