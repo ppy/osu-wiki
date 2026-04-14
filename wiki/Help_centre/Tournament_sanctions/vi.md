@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7701883189d72811c58c78b7630b8369787623b6
+---
+
 # Lệnh xử phạt giải đấu
 
 *Trang chính: [trung tâm trợ giúp](/wiki/Help_centre)* 
