@@ -52,9 +52,9 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 ### Change Speed difficulty summation to be a harmonic sum
 
-First, some context: final difficulty is formed by doing a weighted sum of all difficulty chunks, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that skills have needed a length bonus in PP in order to ensure that adding more notes increases the reward for a map.
+First, some context: a core principal in difficulty calculation is chunking. Rather than difficulty being awarded for every single object, chunking splits the map into 400ms segments and the hardest note in each chunk is the difficulty for that chunk. Final difficulty is formed by doing a weighted sum of all difficulty chunks, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that skills have needed a length bonus in PP in order to ensure that adding more notes increases the reward for a map.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal length with a higher number of difficult notes.
+Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal length with a higher number of difficult notes.
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/harmonic-summation.png)
 
@@ -165,6 +165,7 @@ In practice:
 - A [change](https://github.com/ppy/osu/pull/37147) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Aim to meet community expectations
 - A [refactor](https://github.com/ppy/osu/pull/35817) by [Givy120](https://osu.ppy.sh/users/10560705) to remove some unnecessary difficulty code
 - A [refactor](https://github.com/ppy/osu/pull/36465) by [Givy120](https://osu.ppy.sh/users/10560705) to simplify Reading's Hidden difficulty calculation
+- A [refactor](https://github.com/ppy/osu/pull/37119) by [kwotaq](https://osu.ppy.sh/users/8195972) to improve Aim evaluation code quality
 - A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by [Rian8337](https://osu.ppy.sh/users/5383997) to improve readability of Reading calculations
 - A [refactor](https://github.com/ppy/osu/pull/36064) by [StanR](https://osu.ppy.sh/users/7217455) to improve star rating code quality
 - A [refactor](https://github.com/ppy/osu/pull/36112) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve performance in some areas of difficulty calculation
