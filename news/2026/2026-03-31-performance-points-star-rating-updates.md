@@ -123,7 +123,11 @@ https://github.com/ppy/osu/pull/36559
 
 ### Replace fixed-length strain chunking with variable-length strains
 
-https://github.com/ppy/osu/pull/33351
+As mentioned earlier, chunking is a core principal in difficulty. Another issue with said chunking is that it is prone to fluctuations without changing a map's difficulty. Adjusting a map's offset, for example, is one way that chunking could result in decreasing or increasing star rating without any difference on the difficulty. Rate changes are another, where 0.01 increments could see a decrease in star rating due to the BPM change. Since chunks are a fixed size, changing BPM or offset will result in shifting which chunks certain notes in a beatmap fall into thus changing final difficulty.
+
+Thanks to a [change](https://github.com/ppy/osu/pull/33351) by [Finadoggie](https://osu.ppy.sh/users/14182048), chunks are now tied to objects and are allowed to vary in size. This means that offset and BPM changes are no longer able to influence difficulty on their own.
+
+Ultimately, this results in random (albeit minor) gains and losses across the board as previous chunking was essentially a random number generator by itself.
 
 ### Adjust miss penalty to be harsher on initial impact
 
