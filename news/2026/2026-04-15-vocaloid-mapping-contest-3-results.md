@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Vocaloid Mapping Contest 3: Results"
-date: 2026-04-14 20:00:00 +0000
+date: 2026-04-15 20:00:00 +0000
 series: community_contests
 ---
 
 After 6 months, we finally have our winners!
 
-![](/wiki/shared/news/2026-04-14-vocaloid-mapping-contest-3-results/banner.jpg)
+![](/wiki/shared/news/2026-04-15-vocaloid-mapping-contest-3-results/banner.jpg)
 
 Just in case you missed it, the Vocaloid Mapping Contest is a [two-phase contest that started in September](https://osu.ppy.sh/home/news/2025-10-05-vocaloid-mapping-contest-3) to highlight two new Featured Artists.
 
