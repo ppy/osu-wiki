@@ -54,7 +54,7 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 Final difficulty is formed by doing a geometric sum of difficulties, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that a length bonus in PP has been necessary in order to ensure that adding more notes increases the reward for a map.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal length with a higher number of difficult notes.
+Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal object count with a higher number of difficult notes.
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/harmonic-summation.png)
 
