@@ -50,6 +50,16 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 ## osu!
 
+### Replace AR and HD bonuses with a new Reading skill
+
+Currently, any reward for playing beatmaps with a difficult AR (both high and low) or with HD comes from static multipliers in the Aim and Speed skills. This means these buffs are based off of the AR value only, and do not consider the difficulty required to read patterns.
+
+Thanks to a [brand new skill](https://github.com/ppy/osu/pull/33196) created by [kwotaq](https://osu.ppy.sh/users/8195972) (with some early contributions from [moonpoint](https://osu.ppy.sh/users/9558549)), these bonuses are now replaced by a new skill called Reading.
+
+This new Reading skill aims to replace the current bonuses by calculating the density at each note and using that to scale reading difficulty, alongside some basic angle bonuses. As the old bonuses were a single multiplier onto Aim and Speed, you can expect to see losses for very high ranking players as their scores were receiving too much bonus for simply being high AR, as well as some buffs on high AR in the lower rankings due to not providing _enough_ reward.
+
+As a result of the density changes, you can expect to see large scale buffs on low AR scores (especially when paired with HD).
+
 ### Change Speed difficulty summation to be a harmonic sum
 
 Final difficulty is formed by doing a geometric sum of difficulties, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that a length bonus in PP has been necessary in order to ensure that adding more notes increases the reward for a map.
@@ -65,16 +75,6 @@ First, some context: a core principal in difficulty calculation is chunking. Rat
 Thanks to a [change](https://github.com/ppy/osu/pull/33351) by [Finadoggie](https://osu.ppy.sh/users/14182048), chunks are now tied to objects and are allowed to vary in size. This means that offset and BPM changes are no longer able to influence difficulty on their own.
 
 Ultimately, this results in random (albeit minor) gains and losses across the board as previous chunking was essentially a random number generator by itself.
-
-### Replace AR and HD bonuses with a new Reading skill
-
-Currently, any reward for playing beatmaps with a difficult AR (both high and low) or with HD comes from static multipliers in the Aim and Speed skills. This means these buffs are based off of the AR value only, and do not consider the difficulty required to read patterns.
-
-Thanks to a [brand new skill](https://github.com/ppy/osu/pull/33196) created by [kwotaq](https://osu.ppy.sh/users/8195972) (with some early contributions from [moonpoint](https://osu.ppy.sh/users/9558549)), these bonuses are now replaced by a new skill called Reading.
-
-This new Reading skill aims to replace the current bonuses by calculating the density at each note and using that to scale reading difficulty, alongside some basic angle bonuses. As the old bonuses were a single multiplier onto Aim and Speed, you can expect to see losses for very high ranking players as their scores were receiving too much bonus for simply being high AR, as well as some buffs on high AR in the lower rankings due to not providing _enough_ reward.
-
-As a result of the density changes, you can expect to see large scale buffs on low AR scores (especially when paired with HD).
 
 ### Improve angle calculation to better represent the path taken on sliders
 
