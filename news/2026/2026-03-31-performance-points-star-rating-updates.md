@@ -52,11 +52,19 @@ This will fix scores occasionally being out of order on profiles under "best per
 
 ### Change Speed difficulty summation to be a harmonic sum
 
-First, some context: a core principal in difficulty calculation is chunking. Rather than difficulty being awarded for every single object, chunking splits the map into 400ms segments and the hardest note in each chunk is the difficulty for that chunk. Final difficulty is formed by doing a weighted sum of all difficulty chunks, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that skills have needed a length bonus in PP in order to ensure that adding more notes increases the reward for a map.
+Final difficulty is formed by doing a geometric sum of difficulties, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that a length bonus in PP has been necessary in order to ensure that adding more notes increases the reward for a map.
 
 Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal length with a higher number of difficult notes.
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/harmonic-summation.png)
+
+### Replace fixed-length strain chunking with variable-length strains
+
+First, some context: a core principal in difficulty calculation is chunking. Rather than difficulty being awarded for every single object, chunking splits the map into 400ms segments and the hardest note in each chunk is the difficulty for that chunk. However, this causes issues, as it is prone to fluctuations without changing a beatmap's difficulty. Adjusting a beatmap's offset, for example, is one way that chunking could result in changing star rating without changing the perceived difficulty. Rate changes are another, where 0.01 increments could see a decrease in star rating due to the BPM change. This is due to chunks being a fixed size, meaning BPM and offset changes will shift which chunks certain notes in a beatmap fall into (thus changing final difficulty).
+
+Thanks to a [change](https://github.com/ppy/osu/pull/33351) by [Finadoggie](https://osu.ppy.sh/users/14182048), chunks are now tied to objects and are allowed to vary in size. This means that offset and BPM changes are no longer able to influence difficulty on their own.
+
+Ultimately, this results in random (albeit minor) gains and losses across the board as previous chunking was essentially a random number generator by itself.
 
 ### Replace AR and HD bonuses with a new Reading skill
 
@@ -120,14 +128,6 @@ https://github.com/ppy/osu/pull/36902
 ### Nerf repeated angles in Snap Aim
 
 https://github.com/ppy/osu/pull/36559
-
-### Replace fixed-length strain chunking with variable-length strains
-
-As mentioned earlier, chunking is a core principal in difficulty. Another issue with said chunking is that it is prone to fluctuations without changing a map's difficulty. Adjusting a map's offset, for example, is one way that chunking could result in decreasing or increasing star rating without any difference on the difficulty. Rate changes are another, where 0.01 increments could see a decrease in star rating due to the BPM change. Since chunks are a fixed size, changing BPM or offset will result in shifting which chunks certain notes in a beatmap fall into thus changing final difficulty.
-
-Thanks to a [change](https://github.com/ppy/osu/pull/33351) by [Finadoggie](https://osu.ppy.sh/users/14182048), chunks are now tied to objects and are allowed to vary in size. This means that offset and BPM changes are no longer able to influence difficulty on their own.
-
-Ultimately, this results in random (albeit minor) gains and losses across the board as previous chunking was essentially a random number generator by itself.
 
 ### Adjust miss penalty to be harsher on initial impact
 
