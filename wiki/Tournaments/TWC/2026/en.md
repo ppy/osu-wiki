@@ -124,8 +124,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 41 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 18 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T100000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 42 | Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Apr 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T140000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 42 | Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Apr 18 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T030000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 41 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T120000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 43a | Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Apr 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T140000&p1=1440&p2=45&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ### Sunday, 19 April 2026
 
@@ -134,13 +135,14 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 44 | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 19 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 43c | Taiwan ::{ flag=TW }:: | ::{ flag=KR }:: South Korea | [Apr 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T100000&p1=1440&p2=241&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43d | Taiwan ::{ flag=TW }:: | ::{ flag=CN }:: China | [Apr 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T100000&p1=1440&p2=241&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 43a | Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Apr 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T130000&p1=1440&p2=45&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43b | Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T130000&p1=1440&p2=45&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 |  | Grand Finals | mappool showcase | [Apr 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1jfo9ZsZN2hBsc9Av1JGodXUZnj_6hru9PT2JZ_Feeq4?rm=minimal).
 
 Saturday, 11 April 2026:
 
@@ -158,7 +160,7 @@ Sunday, 12 April 2026:
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | 40 | **Chile** ::{ flag=CL }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/120922024) | [#1](https://www.twitch.tv/videos/2745993870) |
 | 37a | United States ::{ flag=US }:: | 3 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/120922696) | [#1](https://www.twitch.tv/videos/2746035528) |
-| 38a | Italy ::{ flag=IT }:: | 6 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/120924693) | [#1](https://www.twitch.tv/videos/2746243641) |
+| 38a | Italy ::{ flag=IT }:: | 5 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/120924693) | [#1](https://www.twitch.tv/videos/2746243641) |
 
 ### Quarterfinals
 
@@ -380,6 +382,7 @@ Group H:
 
 ### Finals
 
+**[Download the mappack here (131 MB)](https://packs.ppy.sh/P320%20-%20osu%21taiko%20World%20Cup%202026%3A%20Finals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2746363340)
 
 - No Mod
@@ -401,9 +404,9 @@ Group H:
 - Free Mod
   1. [xi - Bad Elixir (raynald) \[Fermi Majestia One\]](https://osu.ppy.sh/beatmapsets/2537915#taiko/5616186)
   2. [Zekk - Fluctuation (4sbet1) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2537913#taiko/5616183)
-  3. Ice - Etude for the Sinners (iceOC) \[Song of Sin\] (link pending)
+  3. [Ice - Etude for the Sinners (iceOC) \[Song of Sin\]](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517)
 - Tiebreaker
-  1. **[TWC Sound Team FLiPFORCE - ON.UR.MARKS... (Jayceko) \[BRACE.FOR.IMPACT...\] (link pending)**
+  1. **[TWC Sound Team "FLiPFORCE" - ON.UR.MARKS... (Jayceko) \[BRACE.FOR.IMPACT...\]](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417)**
 
 ### Semifinals
 
