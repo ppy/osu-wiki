@@ -127,6 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 42 | Brazil ::{ flag=BR }:: | ::{ flag=TW }:: Taiwan | [Apr 18 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T030000&p1=1440&p2=45&p3=241) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 41 | South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T120000&p1=1440&p2=235&p3=33) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 43a | Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Apr 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T140000&p1=1440&p2=45&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43b | Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 18 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260418T140000&p1=1440&p2=45&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 
 ### Sunday, 19 April 2026
 
@@ -135,8 +136,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 | 44 | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 19 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 43c | Taiwan ::{ flag=TW }:: | ::{ flag=KR }:: South Korea | [Apr 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T100000&p1=1440&p2=241&p3=235) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 43d | Taiwan ::{ flag=TW }:: | ::{ flag=CN }:: China | [Apr 19 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T100000&p1=1440&p2=241&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 43b | Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 19 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T130000&p1=1440&p2=45&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Grand Finals | mappool showcase | [Apr 19 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+|  | Grand Finals | mappool showcase | [Apr 19 (Sun) 14:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260419T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
