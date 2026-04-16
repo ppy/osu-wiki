@@ -60,6 +60,8 @@ This new Reading skill aims to replace the current bonuses by calculating the de
 
 As a result of the density changes, you can expect to see large scale buffs on low AR scores (especially when paired with HD).
 
+<!-- todo: possible reading strain graph -->
+
 ### Change Speed difficulty summation to be a harmonic sum
 
 Final difficulty is formed by doing a geometric sum of difficulties, meaning that only a certain number of notes end up contributing a non-negligible amount of difficulty. This means that a length bonus in PP has been necessary in order to ensure that adding more notes increases the reward for a map.
@@ -158,6 +160,7 @@ In practice:
 - A [change](https://github.com/ppy/osu/pull/36466) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure alternating angles do not explode Reading difficulty
 - A [change](https://github.com/ppy/osu/pull/36554) by [Givy120](https://osu.ppy.sh/users/10560705) to harshen Speed deviation scaling at lower difficulties
 - A [change](https://github.com/ppy/osu/pull/36623) by [Givy120](https://osu.ppy.sh/users/10560705) to nerf Reading's perfect-stack bonus for Hidden
+- A [change](https://github.com/ppy/osu/pull/36555) by [piiid](https://osu.ppy.sh/users/37091194) to rebalance Aim bonuses for Traceable
 - A [change](https://github.com/ppy/osu/pull/36148) by [StanR](https://osu.ppy.sh/users/7217455) to scale doubletap detections more harshly, punishing some edge case beatmaps
 - A [change](https://github.com/ppy/osu/pull/36513) to [StanR](https://osu.ppy.sh/users/7217455) to remove a now unnecessary high CS slider nerf
 - A [change](https://github.com/ppy/osu/pull/36063) by [StanR](https://osu.ppy.sh/users/7217455) to simplify final star rating calculations
