@@ -129,7 +129,19 @@ https://github.com/ppy/osu/pull/36902
 
 ### Nerf repeated angles in Snap Aim
 
-https://github.com/ppy/osu/pull/36559
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/pink-hair-girl.png)
+
+Remember her?
+
+Well, thanks to a [change](https://github.com/ppy/osu/pull/36559) by [kwotaq](https://osu.ppy.sh/users/8195972), acute-angled jumps now receive a nerf depending on their repetitiveness.
+
+This nerf also takes the jump's vectors into account - repetitive acute angles that also lack any rotation are nerfed the most. This also means that unpredictable and generally uncomfortable jumps receive a buff as well.
+
+Some examples of beatmaps nerfed by this change:
+
+- [Porcelain Black - Pretty Little Psycho (Nightcore & Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2390209#osu/5176402) with DT: 7.74* --> 7.35*
+- [Miley Cyrus - The Best of Both Worlds (Nightcore & Cut Ver.) [Kumocha's Extra]](https://osu.ppy.sh/beatmapsets/2495916#osu/5486311) with DT: 7.69* --> 7.39*
+- [Kano - Cherry Pop (Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2464474#osu/5394208) with DT: 8.69* --> 8.33*
 
 ### Adjust miss penalty to be harsher on initial impact
 
