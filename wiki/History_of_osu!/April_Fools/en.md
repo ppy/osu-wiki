@@ -192,22 +192,22 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 ### More toggles
 
 ::: Infobox
-![](img/2026-toggles.png "Toggles")
+![Toggles section visible during April Fools' day](img/2026-toggles.png "Toggles section visible during April Fools' day")
 :::
 
-In the options sidebar, there was a new `Toggles` section accessible in osu!(lazer) on 1 April 2026[^2026], featuring a text saying "You wanted toggles, we give you toggles" and a single toggle below. This toggle would cause new toggles to appear when clicked. Silly labels on the toggles like "toggle chaos" or "toggle entropy" added to the comedic effect.
+In the options sidebar, there was a new `Toggles` section accessible in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on 1 April 2026,[^2026] featuring text saying "You wanted toggles, we give you toggles" and a single toggle below. This toggle caused new toggles to appear when clicked, labelled with silly names like "toggle chaos" or "toggle entropy" for comedic effect.
 
-Activating any toggle would often select or deselect other toggles and apply random effects on the game client, some of which would stay effective while playing a beatmap. Some of the effects the users were able to encounter when clicking on a toggle:
+Activating any toggle would select or deselect other toggles and apply random effects, some of which stayed effective even while playing a beatmap:
 
-- an osu! icon moving around the screen like the [DVD logo screensaver](https://en.wikipedia.org/wiki/DVD_screensaver)
+- An osu! icon moving around the screen like the [DVD logo screensaver](https://en.wikipedia.org/wiki/DVD_screensaver)
 - osu! doing a barrel roll[^barrel-roll]
-- the menu interface having a new colour design
-- various sound effects such as distorted audio
-- the game window being slightly tilted
+- The menu interface having a new colour scheme
+- Various sound effects such as distorted audio
+- The game window being slightly tilted
 
-When clicking too many toggles, osu! eventually would play a crash animation by zooming in and fading to black. Following that, the game was accessible again, however, in the `Toggles` section there was now a text saying "..on second thought, no more toggles for you." A button with the text "But please peppy" below that would play a buzzer sound and display the text "no" when clicked. After pressing the button enough times, the dialogue would ultimately reset itself, displaying one toggle as described above again.
+When clicking too many toggles, osu! would eventually "crash" by playing a sound of glass shattering, zooming in and fading to black, then return to a normal state. However, the `Toggles` section would then have text saying "..on second thought, no more toggles for you.", and a button below that labelled "But please peppy" would play a buzzer sound and display the text "no" when clicked. Pressing the button enough times would reset the `Toggles` section and display one random toggle as described above.
 
-This new section in the options menu representing placeholders for actual settings serves as a reference to the many features desired by users as seen on [GitHub discussions](https://github.com/ppy/osu/discussions) and in the [Feature Requests](https://osu.ppy.sh/community/forums/4) forum. The [developers](/wiki/People/Developers) want to prevent the options menu from becoming too overloaded by moving the settings elsewhere in the user interface.
+This toggle section was added in reference to the many requests on [GitHub discussions](https://github.com/ppy/osu/discussions) and in the [Feature Requests](https://osu.ppy.sh/community/forums/4) forum that have proposed adding toggles for various features. The [developers](/wiki/People/Developers) want to prevent the options menu from becoming too overloaded.
 
 ## Notes and references
 
@@ -296,5 +296,5 @@ This new section in the options menu representing placeholders for actual settin
 [^sneeze-2-forums]: [Forum thread by MilkyIQ (2021-04-01) "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Forum thread by GreatTurtleKing (2021-04-01) "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
 
-[^2026]: [osu!(lazer) source code on GitHub](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
-[^barrel-roll]: A reference to the famous Google easter egg, where the website would roll over when typing "do a barrel roll" into the search bar.
+[^2026]: [osu!(lazer) source code](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
+[^barrel-roll]: A reference to a meme from [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64), where Peppy Hare advises the player to "Do a barrel roll!", i.e. rotate 360 degrees.
