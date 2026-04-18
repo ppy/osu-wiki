@@ -207,7 +207,7 @@ Activating any toggle would select or deselect other toggles and apply random ef
 
 When clicking too many toggles, osu! would eventually "crash" by playing a sound of glass shattering, zooming in and fading to black, then return to a normal state. However, the `Toggles` section would then have text saying "..on second thought, no more toggles for you.", and a button below that labelled "But please peppy" would play a buzzer sound and display the text "no" when clicked. Pressing the button enough times would reset the `Toggles` section and display one random toggle as described above.
 
-This toggle section was added in reference to the many requests on [GitHub discussions](https://github.com/ppy/osu/discussions) and in the [Feature Requests](https://osu.ppy.sh/community/forums/4) forum that have proposed adding toggles for various features. The [developers](/wiki/People/Developers) want to prevent the options menu from becoming too overloaded.
+This toggle section was added in reference to the many requests on [GitHub discussions](https://github.com/ppy/osu/discussions) and in the [Feature Requests](https://osu.ppy.sh/community/forums/4) forum that have proposed adding toggles for various features. The [developers](/wiki/People/Developers) want to prevent the options menu from becoming too cluttered.[^toggles-comment]
 
 ## Notes and references
 
@@ -298,3 +298,4 @@ This toggle section was added in reference to the many requests on [GitHub discu
 
 [^2026]: [osu!(lazer) source code](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
 [^barrel-roll]: A reference to a meme from [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64), where Peppy Hare advises the player to "Do a barrel roll!", i.e. rotate 360 degrees.
+[^toggles-comment]: [GitHub comment by peppy (2023-04-16)](https://github.com/ppy/osu/pull/23200#issuecomment-1510138723)
