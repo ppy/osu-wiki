@@ -7,7 +7,7 @@ series: community_contests
 
 Welcome to **osu! Beatmapping World Championship (o!bwc)** 2026!
 
-![](https://regraz.s-ul.eu/Xmw6cSU6)
+![](/wiki/shared/news/2026-04-18-osu-beatmapping-world-championship-2026/banner.jpg)
 
 ## Introduction
 
