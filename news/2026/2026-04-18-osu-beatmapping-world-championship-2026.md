@@ -29,13 +29,13 @@ This year's iteration will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy
   - Each team consists of 4 - 6 members, with one member as the captain of the team.
   - Captain is responsible for organizing and managing their team and progress, as well as communicating with the hosts.
   - All the members of a team must possess the same flag.
-  - Team names must be appropriate and follow [osu! rules](https://osu.ppy.sh/wiki/en/Rules).
+  - Team names must be appropriate and follow [osu! rules](/wiki/Rules).
 - **Beatmapping**
   - This contest is for the osu! mode only.
   - Along with your submission, you must declare the contribution of your team member. For example, a list of sections mapped by each individual mapper in your team. As this is a team-based contest, members that lack contribution may be excluded from awards and prizes and disqualified from the contest.
   - Your submission must be an `.osz` file exported from the osu! in-game editor.
   - You must submit at the designated submission site.
-  - Your submission should comply with the [ranking criteria](https://osu.ppy.sh/wiki/en/Ranking_criteria) when applicable.
+  - Your submission should comply with the [ranking criteria](/wiki/Ranking_criteria) when applicable.
   - Your submission should not contain information that reveals the identity of your team.
   - Do not upload or share your submission with others beyond your team before the results announcement.
   - You are allowed to use custom hitsounds and custom combo colors. However, you are not allowed to add backgrounds, videos, or storyboards.
