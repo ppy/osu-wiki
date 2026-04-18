@@ -11,7 +11,7 @@ The **osu! Beatmapping World Championship (o!bwc)** returns for 2026!
 
 [o!bwc](/wiki/Contests/o!bwc) is an international beatmapping contest that brings together beatmappers from around the world to showcase their creativity, expertise, and passion for mapping. Teams represent their home country and compete through qualifiers and intense clash rounds, all in pursuit of the championship title.
 
-This year's edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you're a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621) or register directly [here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
+This year's edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you're a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621) or [register directly here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
 
 ## Schedule
 
@@ -35,7 +35,7 @@ At the start of each stage, teams are given a new set of songs to map. Once the 
 
 ## Registration
 
-**[Click here to register for this contest!](https://form-auth.ppy.sh/form/2026-bwc-registrations)**
+[![**Click here to register for this contest!**](/wiki/shared/news/2026-04-18-osu-beatmapping-world-championship-2026/register.png)](https://form-auth.ppy.sh/form/2026-bwc-registrations)
 
 Teams consist of 4–6 members representing the same country. If multiple teams register under the same flag, only the highest-ranking team from the qualifiers will advance to the knockout stage. Team captains must join the contest's [Discord server](https://discord.com/invite/QGzz3n655u) to stay up to date with announcements. Other members in the team are also strongly encouraged to join.
 
