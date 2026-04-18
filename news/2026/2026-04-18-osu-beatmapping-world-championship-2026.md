@@ -11,7 +11,7 @@ The **osu! Beatmapping World Championship (o!bwc)** returns for 2026!
 
 [o!bwc](/wiki/Contests/o!bwc) is an international beatmapping contest that brings together beatmappers from around the world to showcase their creativity, expertise, and passion for mapping. Teams represent their home country and compete through qualifiers and intense clash rounds, all in pursuit of the championship title.
 
-This year’s edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you’re a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621), or register directly [here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
+This year's edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you're a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621) or register directly [here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
 
 ## Schedule
 
@@ -37,19 +37,19 @@ At the start of each stage, teams are given a new set of songs to map. Once the 
 
 **[Click here to register for this contest!](https://form-auth.ppy.sh/form/2026-bwc-registrations)**
 
-Teams consist of 4–6 members representing the same country. If multiple teams register under the same flag, only the highest-ranking team from qualifiers will advance to the knockout stage. Team captains must join the contest’s [Discord server](https://discord.com/invite/QGzz3n655u) to stay up to date with announcements. Other members in the team are also strongly encouraged to join.
+Teams consist of 4–6 members representing the same country. If multiple teams register under the same flag, only the highest-ranking team from the qualifiers will advance to the knockout stage. Team captains must join the contest's [Discord server](https://discord.com/invite/QGzz3n655u) to stay up to date with announcements. Other members in the team are also strongly encouraged to join.
 
 ## Beatmapping and submission
 
-Each team submits a single map per round, along with a clear list of contributions from members. Submissions should follow the [ranking criteria](/wiki/Ranking_criteria) where applicable and must remain anonymous and unpublished until results each round are revealed. Custom hitsounds and combo colours are allowed, but backgrounds, videos, and storyboards are not permitted. Metadata such as artist and tags should not be modified either.
+Each team submits a single map per round, along with a clear list of contributions from members. Submissions should follow the [ranking criteria](/wiki/Ranking_criteria) where applicable and must remain anonymous and unpublished until results each round are revealed. Custom hitsounds and combo colours are allowed, but backgrounds, videos and storyboards are not permitted. Metadata such as artist and tags should not be modified either.
 
 ## Judging
 
-There will be two judging panels: one for the qualifier round and one for the clash rounds. In qualifiers, submissions are evaluated based on **expertise**, **creativity**, and overall **impression**, with scores standardised across judges. In clash rounds, judging shifts to a voting system where each matchup is decided simply by majority vote, with the winning team advances to the next.
+There will be two judging panels: one for the qualifier round and one for the clash rounds. In the qualifiers, submissions are evaluated based on **expertise**, **creativity**, and overall **impression**, with scores standardised across judges. In clash rounds, judging shifts to a voting system where each matchup is decided simply by majority vote, with the winning team advancing to the next round.
 
-## Prizes and Awards
+## Prizes and awards
 
-Top teams may receive Elite Mapper Points, profile badges, and osu!supporter or cash prizes after the contest concludes, depending on sponsorship and approval.
+Top teams may receive [contest points](/wiki/Contests/Contest_points), profile badges, and osu!supporter or cash prizes after the contest concludes, depending on sponsorship and approval.
 
 ---
 
