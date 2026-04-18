@@ -5,7 +5,7 @@ tags:
 
 # Drumroll
 
-![](img/taiko_drumroll.png "Drumroll, with the judgement circle on the left side")
+![Drumroll, with the judgement circle on the left side](img/taiko_drumroll.png "Drumroll, with the judgement circle on the left side")
 
 **Drumrolls** are [hit objects](/wiki/Gameplay/Hit_object) in [osu!taiko](/wiki/Game_mode/osu!taiko) [beatmaps](/wiki/Beatmap). They appear as yellow horizontal bars and move from right to left on the conveyor belt. The player is required to hit either part of the drum for each white tick found inside the drumroll once they are on the white *judgement circle* to the right of the drum.
 
