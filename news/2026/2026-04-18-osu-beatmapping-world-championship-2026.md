@@ -5,96 +5,54 @@ date: 2026-04-18 20:00:00 +0000
 series: community_contests
 ---
 
-Welcome to **osu! Beatmapping World Championship (o!bwc)** 2026!
+The **osu! Beatmapping World Championship (o!bwc)** returns for 2026!
 
 ![](/wiki/shared/news/2026-04-18-osu-beatmapping-world-championship-2026/banner.jpg)
 
-osu! Beatmapping World Championship (o!bwc) is a global beatmapping contest that brings together beatmappers from across the world to showcase their creativity, expertise, and passion for mapping. In this competition, teams represent their home country and work collaboratively to craft the best maps, and compete against others to make out of qualifiers as well as survive through intense clash rounds. Whether you're a seasoned mapper or an aspiring new talent, o!bwc welcomes you to team up and join us in this premiere beatmapping venue!
+[o!bwc](/wiki/Contests/o!bwc) is an international beatmapping contest that brings together beatmappers from around the world to showcase their creativity, expertise, and passion for mapping. Teams represent their home country and compete through qualifiers and intense clash rounds, all in pursuit of the championship title.
 
-This year's iteration will be hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you're a seasoned mapper or a rising talent, we invite you to team up and take part in this beatmapping event! Join the [Discord server](https://discord.com/invite/QGzz3n655u) and visit the [forum thread]() for more information, or just [register for the contest here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
+This year’s edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), and ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909). Whether you’re a seasoned mapper or just getting started, gather your team and take part! Join the [Discord server](https://discord.com/invite/QGzz3n655u), visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621), or register directly [here](https://form-auth.ppy.sh/form/2026-bwc-registrations).
 
-## Rules
-
-- **Format**
-  - o!bwc is round-based which consists of a qualifier round and several clash rounds.
-  - Qualifier round:
-    - Qualifier round is ranking-based. Please refer to the Judging section below for more details.
-    - In case there are multiple teams from one country registered, only the team that ranks the highest will pass the qualifier round even if they are ranked within the first 16 places. In this case, the qualification will be passed to lower ranked teams of countries that have not seen a qualified team above.
-  - Clash Rounds:
-    - Clash rounds consist of tight-time head-to-head matches between two teams and only one of the teams will proceed into the next round. Please refer to the Judging section below for more details.
-    - After Qualifiers, Round of 16 matches will be decided according to the ranking of each team in the qualifying round.
-    - Clash Rounds are single elimination.
-- **Country and team**
-  - o!bwc is a team-based beatmapping contest.
-  - Each team consists of 4 - 6 members, with one member as the captain of the team.
-  - Captain is responsible for organizing and managing their team and progress, as well as communicating with the hosts.
-  - All the members of a team must possess the same flag.
-  - Team names must be appropriate and follow [osu! rules](/wiki/Rules).
-- **Beatmapping**
-  - This contest is for the osu! mode only.
-  - Along with your submission, you must declare the contribution of your team member. For example, a list of sections mapped by each individual mapper in your team. As this is a team-based contest, members that lack contribution may be excluded from awards and prizes and disqualified from the contest.
-  - Your submission must be an `.osz` file exported from the osu! in-game editor.
-  - You must submit at the designated submission site.
-  - Your submission should comply with the [ranking criteria](/wiki/Ranking_criteria) when applicable.
-  - Your submission should not contain information that reveals the identity of your team.
-  - Do not upload or share your submission with others beyond your team before the results announcement.
-  - You are allowed to use custom hitsounds and custom combo colors. However, you are not allowed to add backgrounds, videos, or storyboards.
-  - Do not modify metadata such as Artist and Tags.
-
-## Songs
-
-- The songs and templates to map will be announced at the beginning of each round.
-
-## Judging
-
-- It is mandatory for judges to give comments and reasons behind their judging.
-- Submissions are anonymous to judges.
-- There will be two panels of judges, one for the Qualifier Round, and the other for the Clash Rounds.
-- **Qualifier Round Judging Criteria:**
-  - **Expertise (45%)**: How well the map reflects the music elements, with an emphasis on music reflection, pattern/rhythm consistency, coherence, and playability.
-  - **Creativity (45%)**: How the map stands out compared to current mapping trends and other submissions. Generic maps or copy-paste concepts are discouraged. Creativity built on top of solid expertise is more than important as well.
-  - **Judge's Impression (10%)**: Judges can award or deduct points based on specific noteworthy aspects as they deem appropriate, such as outstanding sections and hitsounds or vice versa.
-  - Judging scores will be standardized.
-- **Clash Rounds Judging Criteria:**
-  - Clash Rounds are based on voting. In each clash round, teams are separated in to groups of 2.
-  - Judges can vote based on their own criteria, but must supply reasonable comments to support their decision.
-  - Each judge has one vote for each group and they must vote for one team. The team with highest number of votes will pass this round and the other will be eliminated.
-
-## Prize
-
-- **Elite Mapper Points**: Elite Mapper Points may be awarded after the contest has concluded (pending approval).
-- **Badges**: Badges may be awarded after the contest has concluded (pending approval).
-- **osu!supporter and Cash Prizes**: osu!supporter and Cash Prizes are awarded to the top teams after the contest has concluded. Availability depends on the sponsorship secured.
-
-## Schedule (Tentative)
+## Schedule
 
 | Event | Dates |
 | --: | :-- |
-| Registration | 2026-04-18 – 2026-05-02 |
-| Screening | 2026-05-02 – 2026-05-09 |
-| Qualifier | 2026-05-09 – 2026-06-06 |
-| Round of 16 | 2026-06-06 – 2026-07-04 |
-| Quarterfinals | 2026-07-04 – 2026-07-25 |
-| Semifinals | 2026-07-25 – 2026-08-15 |
-| Finals | 2026-08-15 – 2026-09-05 |
+| Registration | April 18 – May 2 |
+| Screening | May 2 – May 9 |
+| **Qualifier Round** | May 9 – June 6 |
+| **Round of 16** | June 6 – July 4 |
+| **Quarterfinals** | July 4 – July 25 |
+| **Semifinals** | July 25 – August 15 |
+| **Finals** | August 15 – September 5 |
 
-Notes:
+The schedule may change slightly depending on the progress of the contest.
 
-- In every round, mapping takes 2 weeks.
-- In Qualifier and Round of 16, judging takes 2 week due to higher number of entries.
-- In Quarterfinals, Semifinals and Finals, judging takes 1 week.
+## Format
+
+**o!bwc** is a team-based beatmapping contest for the **osu! game mode**, beginning with a ranking-based qualifier round before moving into single-elimination clash rounds.
+
+At the start of each stage, teams are given a new set of songs to map. Once the competition reaches the clash stage, teams face off in head-to-head matchups, where a ban-pick phase at the beginning of each round adds an extra strategic element alongside the mapping itself.
+
+## Registration
+
+**[Click here to register for this contest!](https://form-auth.ppy.sh/form/2026-bwc-registrations)**
+
+Teams consist of 4–6 members representing the same country. If multiple teams register under the same flag, only the highest-ranking team from qualifiers will advance to the knockout stage. Team captains must join the contest’s [Discord server](https://discord.com/invite/QGzz3n655u) to stay up to date with announcements. Other members in the team are also strongly encouraged to join.
+
+## Beatmapping and submission
+
+Each team submits a single map per round, along with a clear list of contributions from members. Submissions should follow the [ranking criteria](/wiki/Ranking_criteria) where applicable and must remain anonymous and unpublished until results each round are revealed. Custom hitsounds and combo colours are allowed, but backgrounds, videos, and storyboards are not permitted. Metadata such as artist and tags should not be modified either.
+
+## Judging
+
+There will be two judging panels: one for the qualifier round and one for the clash rounds. In qualifiers, submissions are evaluated based on **expertise**, **creativity**, and overall **impression**, with scores standardised across judges. In clash rounds, judging shifts to a voting system where each matchup is decided simply by majority vote, with the winning team advances to the next.
+
+## Prizes and Awards
+
+Top teams may receive Elite Mapper Points, profile badges, and osu!supporter or cash prizes after the contest concludes, depending on sponsorship and approval.
 
 ---
 
-Big thanks to everyone involved:
-
-| Role | People |
-| :-- | :-- |
-| Hosts | [-White](https://osu.ppy.sh/users/16276548), [Chaoslitz](https://osu.ppy.sh/users/3621552), [Mafumafu](https://osu.ppy.sh/users/3076909), [momoyo](https://osu.ppy.sh/users/12469536) |
-| Helpers | [Ttmnzk](https://osu.ppy.sh/users/2495509) (GFX), [Noffy](https://osu.ppy.sh/users/1541323) (Commentator), [fieryrage](https://osu.ppy.sh/users/3533958) (Commentator), [Lince Cosmico](https://osu.ppy.sh/users/6070370) (Assisting Song Selection) |
-| Judges (Qualifier) | [wafer](https://osu.ppy.sh/users/9416836), [ascended](https://osu.ppy.sh/users/4564285), [yaspo](https://osu.ppy.sh/users/4945926), [ktgster](https://osu.ppy.sh/users/53378), [NeKroMan4ik](https://osu.ppy.sh/users/11387664) |
-| Judges (Clash Rounds) | [-kevincela-](https://osu.ppy.sh/users/266596), [Lince Cosmico](https://osu.ppy.sh/users/6070370), [iljaaz](https://osu.ppy.sh/users/8501291), [Flins](https://osu.ppy.sh/users/11119539), [Mun](https://osu.ppy.sh/users/6699165), [fowwo](https://osu.ppy.sh/users/4547551), [osu mapman](https://osu.ppy.sh/users/1848318) |
-
-And after reading all that, you know what to do. Get ready to show off your mapping skills and represent your country in **o!bwc 2025**. Good luck!
+Please visit the [forum thread](https://osu.ppy.sh/community/forums/topics/2196621) for more detailed rules and information. After reading all that, you know what to do. Get ready to show off your mapping skills and represent your country in **o!bwc 2026**. Good luck!
 
 —momoyo, -White, Chaoslitz, Mafumafu
