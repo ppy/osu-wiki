@@ -205,7 +205,7 @@ Activating any toggle would select or deselect other toggles and apply random ef
 - Various sound effects such as distorted audio
 - The game window being slightly tilted
 
-When clicking too many toggles, osu! would eventually "crash" by playing a sound of glass shattering, zooming in and fading to black, then return to a normal state. However, the `Toggles` section would then have text saying "..on second thought, no more toggles for you.", and a button below that labelled "But please peppy" would play a buzzer sound and display the text "no" when clicked. Pressing the button enough times would reset the `Toggles` section and display one random toggle as described above.
+When clicking too many toggles, osu! would eventually "crash" by playing a sound of glass shattering, zooming in and fading to black, then return to a normal state. However, the `Toggles` section would then have text saying "..on second thought, no more toggles for you.", and a button below labelled "But please peppy" that would play a buzzer sound and display the text "no" when clicked. Pressing the button enough times would reset the `Toggles` section and display one random toggle as described above.
 
 This toggle section was added in reference to the many requests on [GitHub discussions](https://github.com/ppy/osu/discussions) and in the [Feature Requests](https://osu.ppy.sh/community/forums/4) forum that have proposed adding toggles for various features. The [developers](/wiki/People/Developers) want to prevent the options menu from becoming too cluttered.[^toggles-comment]
 
