@@ -26,6 +26,7 @@ The mentee signups are currently open, and close on the **26th of April**!
 | ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | UTC-8 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | UTC-7 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | UTC-5 |
+| ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122) | UTC-5 |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) | UTC-4 |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) | UTC-3:30 |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) | UTC+0 |
