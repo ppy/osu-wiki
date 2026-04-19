@@ -111,6 +111,6 @@ You can find more information on these mentors in their [detailed overview](http
 
 ---
 
-If you have further questions, don't hesitate to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1dVbDmk2Z6RsosS8rN11cfjCPMLKMuCjrICOVqTW2KH4/edit?usp=sharing) or [join our Discord server](https://discord.com/invite/Ft2FtXmBgx)!
+If you have further questions, don't hesitate to reach out to the [organisation team](https://docs.google.com/spreadsheets/d/1toJq0wEuhNcvGpwlUD3m969-LZE0HwkHCippWo8TvgY/edit?gid=0#gid=0) or [join our Discord server](https://discord.com/invite/Ft2FtXmBgx)!
 
 —the Mentorship Organisation Team
