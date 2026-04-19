@@ -34,7 +34,7 @@ The mentee signups are currently open, and close on the **26th of April**!
 | ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596) | UTC+2 |
 | ::{ flag=PL }:: [App](https://osu.ppy.sh/users/13650508) | UTC+2 |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | UTC+2 |
-| ::{ flag=NL }:: [Mattay](https://osu.ppy.sh/users/9748303) | UTC+2 |
+| ::{ flag=ZA }:: [Mattay](https://osu.ppy.sh/users/9748303) | UTC+2 |
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | UTC+3 |
 
 You can find more information on these mentors in their [detailed overview](https://docs.google.com/spreadsheets/d/1PrL5cXwU-EMIkUaRKPHbRsi-AUeicQhZZR2QkjVDevM/edit) and apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSfs10qNps9y4DrTcUjZEc5u28bpqUdHXaxDrcUDWGhmufN9eA/viewform). 
@@ -48,8 +48,8 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | UTC+2 |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | UTC+2 |
 | ::{ flag=CN }:: [RTrigger](https://osu.ppy.sh/users/25308131) | UTC+8 |
-| ::{ flag=CN }:: [Syrion-](https://osu.ppy.sh/users/15380643) | UTC+8 |
-| ::{ flag=CN }:: [NineSey](https://osu.ppy.sh/users/25454675) | UTC+8 |
+| ::{ flag=CA }:: [Syrion-](https://osu.ppy.sh/users/15380643) | UTC+8 |
+| ::{ flag=HK }:: [NineSey](https://osu.ppy.sh/users/25454675) | UTC+8 |
 | ::{ flag=CN }:: [[GB]Cinelia](https://osu.ppy.sh/users/24289042) | UTC+8 |
 | ::{ flag=CN }:: [V1do-](https://osu.ppy.sh/users/17527968) | UTC+8 |
 | ::{ flag=CN }:: [Breakrio](https://osu.ppy.sh/users/1653229) | UTC+8 |
@@ -89,7 +89,7 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | osu! | UTC+8 |
 | ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania | UTC+2 |
 | ::{ flag=CN }:: [Breakrio](https://osu.ppy.sh/users/1653229) | osu!mania | UTC+8 |
-| ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
+| ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
 | ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | osu!catch | UTC+2 |
 | ::{ flag=DE }:: [Daletto](https://osu.ppy.sh/users/7592136) | osu!catch | UTC+2 |
 
