@@ -419,7 +419,6 @@ Group H:
 - Tiebreaker
   1. **Camellia - Thule (Zetera) \[Finis Mundi\] (link pending)**
 
-
 ### Finals
 
 **[Download the mappack here (131 MB)](https://packs.ppy.sh/P320%20-%20osu%21taiko%20World%20Cup%202026%3A%20Finals.zip)**\
