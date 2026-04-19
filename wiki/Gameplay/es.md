@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 86bcea506c8351bae272c30a553bcbd1f42ea1f3
+---
+
 # Juego
 
 - [Precisión](Accuracy)

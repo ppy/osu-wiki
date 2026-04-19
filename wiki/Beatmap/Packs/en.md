@@ -23,7 +23,7 @@ Beatmap packs are split into 7 categories with a special letter indicator:
 | Indicator | Category | Beatmap types |
 | :-: | :-- | :-- |
 | **S** | Standard | [Ranked](/wiki/Beatmap/Category#ranked) and [Approved](/wiki/Beatmap/Category#approved) beatmaps |
-| **F** | Featured Artist | Songs from [Featured Artists](/wiki/People/Featured_Artists) |
+| **F** | Featured Artist | Songs from [Featured Artists](/wiki/People/Featured_Artists) beatmaps, primarily [Mappers' Guild](/wiki/Community/Mappers_Guild)'s completed quests |
 | **P** | Tournament | [Official tournament](https://osu.ppy.sh/community/tournaments) mappools |
 | **L** | Project Loved | Beatmaps chosen by the community in [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Spotlights | Seasonal beatmap challenge packs from the [Beatmap Spotlights](/wiki/Beatmap_Spotlights), formerly known as *Charts* |
@@ -46,10 +46,12 @@ It is recommended to download beatmap packs directly from the official beatmap p
 
 As of now, all beatmap packs are stored internally in the `packs.ppy.sh` server. If in any case this server becomes inaccessible or slow to reach, there are mirror sites set up by others that you can use for your convenience as follows:
 
-- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
-  - [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) by ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+- Hinamizawa.ai - osu! data hub
+  - [Mirror website](https://hinamizawa.ai/osu/map-packs/) by ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
 - Old storage prior to `packs.ppy.sh` migration ( ~2023-05-07)
   - [MEGA drive](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) by ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) by ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
   - [Mirror website](http://osu.yas-online.net/) by ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630)
 
