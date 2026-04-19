@@ -83,7 +83,7 @@ You can find more information on these mentors in their [detailed overview](http
 | :-- | :-- | :-- |
 | ::{ flag=US }:: [Scorf](https://osu.ppy.sh/users/17038784) | osu! | UTC-8 |
 | ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) & ::{ flag=US }:: [pancakespk](https://osu.ppy.sh/users/26131645) | osu! | UTC-7 & UTC-8 |
-| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-3 |
+| ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | osu! | UTC-4 |
 | ::{ flag=NL }:: [Syph](https://osu.ppy.sh/users/4858573) | osu! | UTC+2 |
 | ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | osu! | UTC+7 |
 | ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | osu! | UTC+8 |
