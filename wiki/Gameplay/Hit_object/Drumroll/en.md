@@ -13,7 +13,7 @@ tags:
 
 Hitting drumrolls correctly will not refill the [health bar](/wiki/Gameplay/Health). When missed, drumrolls reward no score.
 
-Each successful hit on the white ticks gives a static 300 bonus score.
+Each successful hit on the white ticks gives a static 300 bonus score. Big drumrolls work the same as the regular ones, but each tick awards a static 720 bonus score instead.
 
 ## Trivia
 
