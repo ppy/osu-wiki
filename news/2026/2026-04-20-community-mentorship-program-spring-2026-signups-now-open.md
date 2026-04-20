@@ -91,13 +91,14 @@ You can find more information on these mentors in their [detailed overview](http
 | ::{ flag=CN }:: [Breakrio](https://osu.ppy.sh/users/1653229) | osu!mania | UTC+8 |
 | ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | osu!taiko | UTC+9 |
 | ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | osu!catch | UTC+2 |
-| ::{ flag=DE }:: [Daletto](https://osu.ppy.sh/users/7592136) | osu!catch | UTC+2 |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | osu!catch | UTC+2 |
 
 For modding, each game mode has their separate overview: 
 
 - [osu! mentors](https://docs.google.com/spreadsheets/d/1hXMTAFDdhjpQP72WyfDkjOnZECf6DO_Ba5sxjpowUKw/edit?gid=2064960339#gid=2064960339)
 - [osu!mania mentors](https://docs.google.com/spreadsheets/d/1AcZHY7OylKGEgzgfryqLr9FOI6-oXdNqPT2Zistz3Yo/edit?gid=2064960339#gid=2064960339)
 - [osu!taiko mentors](https://docs.google.com/spreadsheets/d/1cjhM_wRE-BmH5v1iVF_uP1Jp6uLNamS7aCnjAQmEQb4/edit?gid=2064960339#gid=2064960339)
+- [osu!catch mentors](https://docs.google.com/spreadsheets/d/1Ac7_geRabvpRb60dxeLWYhIYzj9D_aDNzw2P8ZlhJ08/edit?gid=2064960339#gid=2064960339)
 
 You can apply to them [through this form](https://docs.google.com/forms/d/e/1FAIpQLSedojsQxwaUWRPZ_AeP_bMr3GNsWMy62MpVwHQfyPtQfeSxXw/viewform).
 
