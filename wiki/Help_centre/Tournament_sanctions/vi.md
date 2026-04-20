@@ -24,13 +24,13 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 Điều này bao gồm những trường hợp như:
 
-- Như đã nêu ở trên, bất kỳ việc sử dụng công cụ gian lận của bên thứ ba hoặc tiện ích nào để giành lợi thế
-- Sử dụng nhiều tài khoản để tham gia giải đấu
-- Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác
-- Chia sẻ tài khoản trong khi tham gia một giải đấu hỗ trợ chính thức
+- Như đã nêu ở trên, bất kỳ việc sử dụng công cụ gian lận bên thứ ba hoặc tiện ích để giành được lợi thế.
+- Sử dụng nhiều tài khoản để tham gia giải đấu.
+- Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác.
+- Chia sẻ tài khoản trong khi tham gia một giải đấu hỗ trợ chính thức.
 - Kết hợp thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
 - Lạm dụng vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
-- Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức vượt xa phạm vi chỉ trích.
+- Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức nằm ngoài phạm vi chỉ trích.
 
 ## Tôi có thể làm gì sau khi đã bị cấm thi đấu? {id=while-banned}
 
@@ -95,4 +95,4 @@ Trong những trường hợp hiếm hoi, [nhóm hỗ trợ tài khoản](/wiki/
 ![](img/tourney-ban-profile.png "Lệnh cấm thi đấu trên hồ sơ của người dùng")
 :::
 
-Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua cách thức khác với [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng khi đang hoạt động. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm người tổ chức và cấm nhân viên) đều không hiển thị theo cách này.
+Lệnh cấm thi đấu vô thời hạn và các lệnh cấm thi đấu được áp dụng qua cách thức khác với [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) đều hiển thị trên hồ sơ của người dùng trong toàn bộ thời gian bị cấm được đề cập, cộng thêm **28 ngày** sau khi lệnh cấm hết hiệu lực. Lệnh xử phạt giải đấu khác (VD: giám sát việc tổ chức, cấm người tổ chức và cấm nhân viên) đều không hiển thị theo cách này.
