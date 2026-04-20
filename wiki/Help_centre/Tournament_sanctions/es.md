@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7701883189d72811c58c78b7630b8369787623b6
+---
+
 # Sanciones de los torneos
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*

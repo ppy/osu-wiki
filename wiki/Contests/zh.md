@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 09ee3bc08ca5a694eae7b5ccd63d8ece582ecd9e
+---
+
 <!-- Please check redirects after adding new sections with year numbers. -->
 
 # 竞赛
