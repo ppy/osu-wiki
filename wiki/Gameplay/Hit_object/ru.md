@@ -1,6 +1,8 @@
 ---
 tags:
   - hit objects
+outdated_translation: true
+outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
 ---
 
 # Игровые объекты

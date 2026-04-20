@@ -32,7 +32,7 @@ This contest currently offers a cash prize pool of $400, distributed among the t
 | 2nd | 9% of the cash prize pool, 6 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 | 3rd | 6% of the cash prize pool, 4 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 
-![Pending Cup 2025 badge prizes](img/grand-prize.jpg "Pending Cup 2025 badge prize")
+![Pending Cup 2025 badge prizes](img/track-prize.jpg "Pending Cup 2025 badge prize")
 
 ### Grand prize
 
