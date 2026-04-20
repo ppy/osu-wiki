@@ -149,9 +149,9 @@ This competition has come to an end and resulted in the following podium:
   5. [Memme – Uranus (qodtjr) \[Neptune\]](https://osu.ppy.sh/beatmapsets/746714#mania/1573714)
   6. [Air Carnival - Ka Tong Dui Bai (\_Stan) \[Unreal 1.1x \[132bpm\]\]](https://osu.ppy.sh/beatmapsets/628470#mania/3445535)
   7. [Maksim Mrvica - Croatian Rhapsody (Wilben\_Chan) \[Lunatic x1.1\]](https://osu.ppy.sh/beatmapsets/1684539#mania/3441883)
-  8. [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (\_Stan) \[Exploration\]]( https://osu.ppy.sh/beatmapsets/1685886#mania/3445529)
-  9. [YUC'e - Cinderella Syndrome (KafuuChino) \[Affection\]]( https://osu.ppy.sh/beatmapsets/728088#mania/1537244)
-  10. [ExileLord - Speed Test (Cut Ver.) (\_Stan) \[Overbrim\]]( https://osu.ppy.sh/beatmapsets/1685889#mania/3445532)
+  8. [BEMANI Sound Team "Power Of Nature" - Tadoru Kimi wo Koete (\_Stan) \[Exploration\]](https://osu.ppy.sh/beatmapsets/1685886#mania/3445529)
+  9. [YUC'e - Cinderella Syndrome (KafuuChino) \[Affection\]](https://osu.ppy.sh/beatmapsets/728088#mania/1537244)
+  10. [ExileLord - Speed Test (Cut Ver.) (\_Stan) \[Overbrim\]](https://osu.ppy.sh/beatmapsets/1685889#mania/3445532)
   11. [HO-KAGO TEA TIME - Tenshi ni Fureta yo! (Asterisk DnB Remix) (Kawawa) \[WAWACORE!!\]](https://osu.ppy.sh/beatmapsets/853402#mania/1783610)
 - Tiebreaker
   1. **[Camellia - FM Synthesis Experiment (AncuL) \[Oscillation\]](https://osu.ppy.sh/beatmapsets/1132164#mania/2364828)**

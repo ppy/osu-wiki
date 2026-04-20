@@ -17,7 +17,7 @@ This month's **34** submissions were evaluated by a team of experienced mappers,
 
 | Rank | Beatmap | Judging | Musical representation (60) | Creativity (60) | Gameplay (60) | Limitation (30) | Raw total | Standardized total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [One Good Reason](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contests/results?submission=5f20b19f014d4d10626e7c09 ) | 53 | 49 | 53 | 28 | **183** | **8.94** |
+| \#1 | [One Good Reason](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contests/results?submission=5f20b19f014d4d10626e7c09) | 53 | 49 | 53 | 28 | **183** | **8.94** |
 | \#2 | [Eon](https://osu.ppy.sh/beatmapsets/1244558#osu/2587071) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contests/results?submission=5f20b027014d4d10626e7bef) | 51 | 42 | 50 | 28 | **171** | **6.32** |
 | \#3 | [Eon](https://osu.ppy.sh/beatmapsets/1244150#osu/2586272) by [Cris-](https://osu.ppy.sh/users/6175280) | [see details](https://mappersguild.com/contests/results?submission=5f20aff2014d4d10626e7be8) | 44 | 35 | 44 | 22 | **145** | **1.24** |
 | \#4 | [Eon](https://osu.ppy.sh/beatmapsets/1244472#osu/2586922) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contests/results?submission=5f20afe1014d4d10626e7be5) | 39 | 30 | 43 | 21 | **133** | **-0.40** |

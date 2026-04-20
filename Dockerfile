@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM ghcr.io/astral-sh/uv:python3.14-bookworm-slim
 
 RUN apt-get update
 
@@ -19,8 +19,8 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y ca-certificates curl gnupg
 WORKDIR /osu-wiki
 
 # Install osu-wiki tool dependencies
-COPY package.json package-lock.json requirements.txt ./
-RUN npm install && npm install -g osu-wiki && pip3 install -r requirements.txt
+COPY package.json package-lock.json pyproject.toml uv.lock ./
+RUN npm install && npm install -g osu-wiki && uv sync
 
 # Run the container with UID and GID of the host
 COPY meta/docker-entrypoint.sh /
