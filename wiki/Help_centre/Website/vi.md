@@ -1,38 +1,38 @@
 # Website 
 
-*Trang chín: [Trung tâm trợ giúp](/wiki/Help_centre)*
+*Trang chính: [Trung tâm trợ giúp](/wiki/Help_centre)*
 
 Phần này dành riêng cho các vấn đề liên quan đến website của osu!
 
 ## Vấn đề thường gặp {id=common-issues}
 
-### Tôi vẫn chưa nhận được câu trả lời đến phiếu hỗ trợ và nó đã hơn 2 tuần! {id=support-no-reply}
+### Tôi vẫn chưa nhận được câu trả lời cho phiếu hỗ trợ và nó đã hơn 2 tuần! {id=support-no-reply}
 
-**Hầu hết thời gian, điều này là do một lượng lớn phiếu hỗ trợ đến hệ thống của chúng tôi cùng lúc.**
+**Phần lớn thời gian, điều này là do một số lượng lớn phiếu được gửi đến hệ thống của chúng tôi cùng lúc.**
 
-Bạn luôn có thể gửi một câu trả lời duy nhất cho phiếu hỗ trợ đang mở của mình để hỏi về tình trạng trường hợp của bạn, nhưng hãy chắc chắn là đừng làm điều này quá một hoặc hai lần mỗi tuần. Bạn cũng có thể liên hệ chúng tôi trên Twitter tại [@osu!support](https://twitter.com/osusupport) để hỏi về phiếu của bạn. 
+Bạn luôn có thể gửi một câu trả lời duy nhất cho phiếu hỗ trợ hiện tại đang mở của mình để hỏi về tình trạng trường hợp của bạn, nhưng đảm bảo đừng làm điều này hơn một hoặc hai lần mỗi tuần. Bạn cũng có thể liên hệ chúng tôi trên Twitter tại [@osusupport](https://twitter.com/osusupport) để hỏi về phiếu của bạn. 
 
-Trong các hoàn cảnh hiếm gặp, các phiếu hỗ trợ bởi các người dùng thường xuyên vi phạm có thể bị cố tình phớt lờ, mặc dù [Đội ngũ hỗ trợ](/wiki/People/The_Team/Account_support_team) sẽ **luôn** nói cho bạn biết khi họ sẽ không còn phản hồi đến bạn trước. nếu bạn vẫn chưa nhận được một thông báo như vậy, bạn không cần bận tâm về nó!
+Trong các hoàn cảnh hiếm gặp, các phiếu hỗ trợ từ các người dùng thường xuyên vi phạm có thể bị cố tình phớt lờ, mặc dù [Đội ngũ hỗ trợ](/wiki/People/The_Team/Account_support_team) sẽ **luôn** nói cho bạn biết khi họ sẽ không còn phản hồi nữa đến bạn trước. Nếu bạn chưa nhận được một thông báo như vậy, bạn không cần bận tâm về nó!
 
-### Tôi có thể hoàn toàn chặn người dùng khác liên lạc từ tôi? {id=ignore-user}
+### Tôi có thể hoàn toàn chặn người dùng khác liên lạc với mình không? {id=ignore-user}
 
 **Vâng, chắc chắn rồi.**
 
-Trong sự việc rằng người dùng khác đang làm phiền bạn thông qua tin nhắn riêng trên diễn đàn hoặc thông qua client trò chơi của chính mình, ở đây có một vài bước mà bạn có thể tự thực hiện để lọc bỏ tin nhắn của họ.
+Trong trường hợp rằng người dùng khác đang quấy rối bạn thông qua tin nhắn riêng trên diễn đàn hoặc qua chín client của trò chơi, ở đây có một vài bước mà bạn có thể tự thực hiện để lọc bỏ tin nhắn từ họ.
 
-#### Chặn lại người dùng giao tiếp bạn từ trong trò chơi. {id=ignore-user-in-game}
+#### Chặn một người dùng liên lạc với bạn từ trong trò chơi. {id=ignore-user-in-game}
 
-**Để chặn người dùng đang gửi bạn các tin nhắn trong game, chỉ cần thêm họ đến danh sách phớt lờ của bạn.** 
+**Để chặn một người dùng gửi tin nhắn cho bạn từ trong trò chơi, cách đơn giản là thêm họ vào danh sách phớt lờ của bạn.** 
 
-1. Nhấp vào nút menu `Tùy Chọn` trong trò chơi.  
-2. Gõ "ignore" để lọc danh sách tùy chọn và chuyển đến phần `Danh Sách phớt lờ trò chuyện`.
-3. Thêm tên người dùng vi phạm vào danh sách, tách mỗi người dùng mới bằng một khoảng trắng, và thay thế mọi khoảng trắng trong tên của họ bằng dấu gạch dưới (ví dụ, một người dùng đặt tên *The Gatekeeper* trở thành *The_Gatekeeper*).
+1. Nhấp vào nút menu `Options` trong trò chơi.  
+2. Gõ `ignore` để lọc danh sách tùy chọn đến mục `Danh Sách phớt lờ trò chuyện`.
+3. Thêm tên người dùng gây khó chịu vào danh sách, tách mỗi người dùng mới với một dấu cách, và thay thế bất kỳ khoảng trống trong tên của họ bằng dấu gạch dưới (ví dụ, một người dùng đặt tên là *The Gatekeeper* sẽ trở thành *The_Gatekeeper*).
 
 Bạn sẽ không còn thấy tin nhắn trò chuyện công cộng từ bất kỳ người dùng nào trong danh sách đó, cũng như không nhận được tin nhắn riêng từ họ.
 
 Nếu bạn muốn bỏ qua các thông báo nổi bật, tin nhắn riêng tư hoặc tin nhắn công cộng, bạn chỉ cần thêm lần lượt `@h`, `@p`, `@c` vào tên người dùng của họ. `The_Gatekeeper@c` sẽ bỏ qua tin nhắn của người dùng này trong các kênh công cộng. Bạn cũng có thể kết hợp các lựa chọn này: `The_Gatekeeper@ph` sẽ bỏ qua thông báo nổi bật và tin nhắn riêng tư, nhưng vẫn để các tin nhắn công cộng hiển thị.
 
-#### Chặn tất cả người không phải bạn bè gửi tin nhắn riêng trong trò chơi. {id=ignore-strangers-in-game}
+#### Chặn tất cả người dùng không phải là bạn bè nhắn tin riêng trong trò chơi. {id=ignore-strangers-in-game}
 
 Nếu bạn muốn ngừng nhận tin nhắn riêng từ những người không có trong danh sách bạn bè, hãy làm theo các bước dưới đây. **Lưu ý: các người điều hành không bị ảnh hưởng bởi tính năng này và luôn có thể gửi tin nhắn riêng cho bạn, nếu bạn cảm thấy một người điều hành đang quấy rối bạn mặc dù đã có tính năng này, bạn nên liên hệ với [đội ngũ hỗ trợ của chúng tôi](mailto:support@ppy.sh).**
 
@@ -40,7 +40,7 @@ Nếu bạn muốn ngừng nhận tin nhắn riêng từ những người không
 2. Gõ `block` để lọc danh sách các tùy chọn về phần Chat trong trò chơi.
 3. Nhấp vào cài đặt xuất hiện để kích hoạt nó.
 
-Người dùng không có trong danh sách bạn bè của bạn sẽ không thể liên lạc đến bạn.
+Người dùng không có trong danh sách bạn bè của bạn sẽ không thể liên lạc với bạn.
 
 ### Ngừng mọi tin nhắn riêng tư mới từ diễn đàn gửi đến bạn. {id=ignore-strangers-website}
 
@@ -54,7 +54,7 @@ Nếu một người dùng vẫn đang quấy rối bạn qua những phương t
 
 Hãy chắc chắn bao gồm bất kỳ nhật ký trò chuyện hoặc bằng chứng nào trong email và đội ngũ hỗ trợ của chúng tôi sẽ xem xét trường hợp của bạn và giải quyết cho bạn.
 
-### Những trang 'Tôi!' mà tôi thấy trên hồ sơ của những người chơi khác là gì? {id=userpage}
+### Những trang 'me!' mà tôi thấy trên hồ sơ của những người chơi khác là gì? {id=userpage}
 
 Trang 'Tôi!' hoặc các trang người dùng là những phần đặc biệt trên hồ sơ mà tất cả người chơi có [thẻ supporter](https://osu.ppy.sh/home/support) đều có quyền truy cập. Chúng có thể chứa bất kỳ thứ gì bạn muốn — hình ảnh thành tích của bạn, các beatmap của bạn, cơ bản là bất kỳ điều gì bạn thích!
 
