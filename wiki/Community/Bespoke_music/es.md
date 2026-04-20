@@ -139,7 +139,7 @@ Actualmente, hay un total de **1288** canciones documentadas hechas dentro de os
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2Yf0IKXyvzuGquXC7VJ2L9 "Spotify") |  | nekodex - Main Theme 2.0[^fa] | Tema principal de [osu!stream](/wiki/osu!stream) |
 |  |  | nekodex - new beginnings[^fa] | Canción actual del tutorial |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/osu-stream-theme "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=uhdiFT0o6SU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2PKPsvIZ6e9CudTSQEd5ix "Spotify") |  | nekodex - osu!stream theme[^fa] | Antiguo tema principal de [osu!stream](/wiki/osu!stream) |
-|  |  | nekodex - ranked play bgm loop[^fa] | osu!(lazer) "ranked play" theme |
+|  |  | nekodex - ranked play bgm loop[^fa] | Tema del modo de «partidas clasificatorias» de osu!(lazer) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/welcome-to-christmas "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22welcome%20to%20christmas%21%22 "osu! original") | nekodex - welcome to christmas\! | Tema de osu! para la Navidad/invierno de 2014 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/welcome-to-osu "SoundCloud") |  | nekodex - welcome to osu\![^fa] | Antiguo tema de osu! |
 |  |  | Peter Lambert - osu! tutorial | Antigua canción del tutorial |
