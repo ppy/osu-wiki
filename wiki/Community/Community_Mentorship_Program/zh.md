@@ -15,6 +15,6 @@ tags:
 
 ## 早期的指导计划
 
-2010 到 2013 年期间，社区指导计划建立起来，让缺乏经验的谱师能直接从 [谱面审核团队 (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) 以及 [作图辅助团队 (*MAT*)](/wiki/People/Mapping_Assistance_Team) 的成员那里进行学习。
+2010 到 2013 年期间，社区指导计划建立起来，让缺乏经验的谱师能直接从 [谱面审核团队 (*BAT*)](/wiki/People/Beatmap_Appreciation_Team) 以及 [谱面协助团队 (*MAT*)](/wiki/People/Mapping_Assistance_Team) 的成员那里进行学习。
 
 在这个计划的不同阶段，[Ephemeral](https://osu.ppy.sh/users/102335)、[Shiro](https://osu.ppy.sh/users/113005) 和 [Kurai](https://osu.ppy.sh/users/77089) 依次负责组织工作。
