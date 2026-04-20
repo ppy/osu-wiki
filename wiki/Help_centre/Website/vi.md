@@ -1,16 +1,12 @@
----
-no_native_review: true
----
-
-# Trang website 
+# Website 
 
 *Trang chín: [Trung tâm trợ giúp](/wiki/Help_centre)*
 
-Phần này dành riêng cho các vấn đề liên quan đến trang website osu!
+Phần này dành riêng cho các vấn đề liên quan đến website của osu!
 
 ## Vấn đề thường gặp {id=common-issues}
 
-### Tôi vẫn chưa nhận được câu trả lời đến phiếu hỗ trợ của tôi và nó đã hơn 2 tuần. {id=support-no-reply}
+### Tôi vẫn chưa nhận được câu trả lời đến phiếu hỗ trợ và nó đã hơn 2 tuần! {id=support-no-reply}
 
 **Hầu hết thời gian, điều này là do một lượng lớn phiếu hỗ trợ đến hệ thống của chúng tôi cùng lúc.**
 
