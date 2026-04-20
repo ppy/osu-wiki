@@ -36,6 +36,7 @@ translation_keys:
     "Current osu!\\(lazer\\) main theme": Tema principal actual de osu!(lazer)
     "Current tutorial song": Canción actual del tutorial
     "Former \\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": Antiguo tema principal de [osu!stream](/wiki/osu!stream)
+    "osu!\\(lazer\\) \"ranked play\" theme": Tema del modo de «partidas clasificatorias» de osu!(lazer)
     "Former osu! theme": Antiguo tema de osu!
     "Former tutorial song": Antigua canción del tutorial
     "Halloween 2016 osu! theme": Tema de osu! para Halloween de 2016

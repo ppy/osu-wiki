@@ -35,6 +35,7 @@ translation_keys:
     "Current": 当前
     "osu!\\(lazer\\) main theme": osu!(lazer) 主主题曲
     "osu! theme": osu! 主题曲
+    "osu!\\(lazer\\) \"ranked play\" theme": osu!(lazer) 排位模式主题曲
     " tutorial song": 教程歌曲
     "Christmas/Winter (\\d{4}) ": "\\1 年圣诞节/冬季 "
     "Halloween 2016 ": "2016 年万圣节 "
