@@ -3,6 +3,8 @@ stub: true
 tags:
   - FC
 no_native_review: true
+outdated_translation: true
+outdated_since: cfef44fa9c881a508f155745740cb091b5422c84
 ---
 
 # Combo complet
