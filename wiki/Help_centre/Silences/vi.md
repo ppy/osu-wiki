@@ -7,7 +7,7 @@ tags:
 
 # Sự im lặng
 
-**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên wedsite lẫn trong game.
+**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường an toàn, cả trên wedsite lẫn trong game.
 
 ## Những hạn chế
 
@@ -29,7 +29,7 @@ Một người dùng có một im lặng đang hoạt động không thể làm 
 ![](img/silence-ingame.png "Cảnh báo im lặng trong trò chuyện")
 :::
 
-Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí của ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
+Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
 
 ## Thời lượng
 
