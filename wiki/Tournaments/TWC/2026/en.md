@@ -44,14 +44,15 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | Managers | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selectors | ::{ flag=SE }:: **[Nurend](https://osu.ppy.sh/users/9905079)**, ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=JP }:: [miyagishima](https://osu.ppy.sh/users/8027517), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417) |
 | Mappool playtesters | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=FR }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=ID }:: [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [My Angel Eru](https://osu.ppy.sh/users/26454214), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=JP }:: [shinjinhome](https://osu.ppy.sh/users/30147970), ::{ flag=US }:: [Shyguy](https://osu.ppy.sh/users/178038), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344) |
-| Mappers | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707), ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=GB }:: [Meguminx\_MAS](https://osu.ppy.sh/users/17797595), ::{ flag=JP }:: [miyagishima](https://osu.ppy.sh/users/8027517), ::{ flag=JP }:: [My Angel Eru](https://osu.ppy.sh/users/26454214), ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417), *more TBA* |
+| Mappers | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957), ::{ flag=HK }:: [\_mtk](https://osu.ppy.sh/users/9468283), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=JP }:: [\_yu68](https://osu.ppy.sh/users/6170507), ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [5\_5](https://osu.ppy.sh/users/6853438), ::{ flag=HK }:: [aabc271](https://osu.ppy.sh/users/155707), ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032), ::{ flag=ID }:: [Alwaysyukaz](https://osu.ppy.sh/users/4999506), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=JP }:: [ekumea1123](https://osu.ppy.sh/users/9119501), ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311), ::{ flag=PH }:: [Eyenine](https://osu.ppy.sh/users/1259391), ::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073), ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851), ::{ flag=FR }:: [Heaxys](https://osu.ppy.sh/users/5671417), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=JP }:: [hz404](https://osu.ppy.sh/users/14947043), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=HK }:: [JarvisGaming](https://osu.ppy.sh/users/8601048), ::{ flag=US }:: [Jayceko](https://osu.ppy.sh/users/19951350), ::{ flag=JP }:: [layxa](https://osu.ppy.sh/users/14800030), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=GB }:: [Meguminx\_MAS](https://osu.ppy.sh/users/17797595), ::{ flag=JP }:: [miyagishima](https://osu.ppy.sh/users/8027517), ::{ flag=JP }:: [My Angel Eru](https://osu.ppy.sh/users/26454214), ::{ flag=CN }:: [N a N a](https://osu.ppy.sh/users/11341131), ::{ flag=RU }:: [Nozdormu](https://osu.ppy.sh/users/7169208), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=PL }:: [Paraxia](https://osu.ppy.sh/users/14001000), ::{ flag=IT }:: [Quorum](https://osu.ppy.sh/users/5200775), ::{ flag=ID }:: [raynald](https://osu.ppy.sh/users/25094413), ::{ flag=NO }:: [roufou](https://osu.ppy.sh/users/1109122), ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029), ::{ flag=US }:: [SolaEclipse](https://osu.ppy.sh/users/6621158), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=DE }:: [Undead Alice](https://osu.ppy.sh/users/17415683), ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719), ::{ flag=TW }:: [X a v y](https://osu.ppy.sh/users/3738344), ::{ flag=DE }:: [Xay](https://osu.ppy.sh/users/961417), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
 | Commentators | **::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)**, ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Bronzecrank](https://osu.ppy.sh/users/14173115), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=GB }:: [Ethan_Taikotris](https://osu.ppy.sh/users/16968817), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
 | Commentators (special guests) | ::{ flag=SE }:: [-Anchor-](https://osu.ppy.sh/users/1352257), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=PH }:: [LivelyPeninsula](https://osu.ppy.sh/users/11517895), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [Sparky](https://osu.ppy.sh/users/3187959), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Referees | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=AR }:: [KlBBY](https://osu.ppy.sh/users/12182138), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
+| News team | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
 | Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Musician | [Cansol](https://osu.ppy.sh/beatmaps/artists/407), [OLDUCT](https://lit.link/olduct), [uynet](https://osu.ppy.sh/beatmaps/artists/453) |
+| Musician | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107), [Camellia](https://osu.ppy.sh/beatmaps/artists/31), [Cansol](https://osu.ppy.sh/beatmaps/artists/407), [dennoko-P](https://x.com/dennoko_p), [Ennnn](https://soundcloud.com/ennnn), [OLDUCT](https://lit.link/olduct), [TWC SOUND TEAM "FLiPFORCE"](https://soundcloud.com/elw00d/on-ur-marks), [uynet](https://osu.ppy.sh/beatmaps/artists/453) |
 
 ## Links
 
@@ -69,7 +70,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[ottenst](https://osu.ppy.sh/users/13488325)**, [SUPERNOOB20](https://osu.ppy.sh/users/16422988) |
-| ::{ flag=AU }:: | **Australia** | **[Frostetic](https://osu.ppy.sh/users/30388979)**, [Jaye](https://osu.ppy.sh/users/4841352), [spIyrg](https://osu.ppy.sh/users/8379046), [xso](https://osu.ppy.sh/users/13984403) |
+| ::{ flag=AU }:: | **Australia** | **[Frostetic](https://osu.ppy.sh/users/30388979)**, [Jaye](https://osu.ppy.sh/users/4841352), [spIyrg](https://osu.ppy.sh/users/8379046) |
 | ::{ flag=BY }:: | **Belarus** | **[quinnq](https://osu.ppy.sh/users/34132397)**, [foreyn](https://osu.ppy.sh/users/26215857) |
 | ::{ flag=BE }:: | **Belgium** | **[XOlifreX](https://osu.ppy.sh/users/4328137)**, [Brentywenty](https://osu.ppy.sh/users/22753946) |
 | ::{ flag=BR }:: | **Brazil** | **[Foxeru](https://osu.ppy.sh/users/7479684)**, [miwoo](https://osu.ppy.sh/users/12630336), [Skid](https://osu.ppy.sh/users/3044264), [Kyoumo](https://osu.ppy.sh/users/8145223), [HiroK](https://osu.ppy.sh/users/4050738), [irie-](https://osu.ppy.sh/users/29727936) |
@@ -118,48 +119,91 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
 
-## Match schedule: Quarterfinals
+## Match schedule: Grand Finals
 
-### Saturday, 4 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 24 | Australia ::{ flag=AU }:: | ::{ flag=DE }:: Germany | [Apr 04 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T100000&p1=1440&p2=57&p3=37) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 17 | Russian Federation ::{ flag=RU }:: | ::{ flag=VN }:: Vietnam | [Apr 04 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T130000&p1=1440&p2=166&p3=95) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 22 | United Kingdom ::{ flag=GB }:: | ::{ flag=SE }:: Sweden | [Apr 04 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T130000&p1=1440&p2=136&p3=239) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 23 | Norway ::{ flag=NO }:: | ::{ flag=PT }:: Portugal | [Apr 04 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T130000&p1=1440&p2=187&p3=133) |  | [^losers-bracket] |
-| 19 | Indonesia ::{ flag=ID }:: | ::{ flag=SK }:: Slovakia | [Apr 04 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T140000&p1=1440&p2=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 21 | France ::{ flag=FR }:: | ::{ flag=MY }:: Malaysia | [Apr 04 (Sat) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T143000&p1=1440&p2=195&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 18 | Finland ::{ flag=FI }:: | ::{ flag=NL }:: Netherlands | [Apr 04 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T160000&p1=1440&p2=101&p3=16) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 28c | Germany ::{ flag=DE }:: | ::{ flag=NO }:: Norway | [Apr 04 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T160000&p1=1440&p2=37&p3=187) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-| 32 | Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Apr 04 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T183000&p1=1440&p2=45&p3=215) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 28d | Germany ::{ flag=DE }:: | ::{ flag=PT }:: Portugal | [Apr 04 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260404T190000&p1=1440&p2=37&p3=133) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
-
-### Sunday, 5 April 2026
+### Saturday, 25 April 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 20 | New Zealand ::{ flag=NZ }:: | ::{ flag=CA }:: Canada | [Apr 05 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T000000&p1=1440&p2=264&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 30 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 05 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T040000&p1=1440&p2=263&p3=235) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 29 | Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 05 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T060000&p1=1440&p2=248&p3=241) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 27c | Sweden ::{ flag=SE }:: | ::{ flag=FR }:: France | [Apr 05 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T093000&p1=1440&p2=239&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 27d | Sweden ::{ flag=SE }:: | ::{ flag=MY }:: Malaysia | [Apr 05 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T093000&p1=1440&p2=239&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 26a | New Zealand ::{ flag=NZ }:: | ::{ flag=ID }:: Indonesia | [Apr 05 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T100000&p1=1440&p2=264&p3=108) | *TBD* | [^potential-match] |
-| 26b | New Zealand ::{ flag=NZ }:: | ::{ flag=SK }:: Slovakia | [Apr 05 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T103000&p1=1440&p2=264) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 27a | United Kingdom ::{ flag=GB }:: | ::{ flag=FR }:: France | [Apr 05 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T110000&p1=1440&p2=136&p3=195) | *TBD* | [^potential-match] |
-| 27b | United Kingdom ::{ flag=GB }:: | ::{ flag=MY }:: Malaysia | [Apr 05 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T110000&p1=1440&p2=136&p3=122) | *TBD* | [^potential-match] |
-| 28a | Australia ::{ flag=AU }:: | ::{ flag=NO }:: Norway | [Apr 05 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T110000&p1=1440&p2=57&p3=187) | *TBD* | [^potential-match] |
-| 28b | Australia ::{ flag=AU }:: | ::{ flag=PT }:: Portugal | [Apr 05 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T110000&p1=1440&p2=57&p3=133) | *TBD* | [^potential-match] |
-| 25a | Finland ::{ flag=FI }:: | ::{ flag=RU }:: Russian Federation | [Apr 05 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T123000&p1=1440&p2=101&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 25c | Netherlands ::{ flag=NL }:: | ::{ flag=RU }:: Russian Federation | [Apr 05 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T123000&p1=1440&p2=16&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 31 | Chile ::{ flag=CL }:: | ::{ flag=CN }:: China | [Apr 05 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T130000&p1=1440&p2=232&p3=33) | [osulive](https://twitch.tv/osulive) or [osulive_2](https://twitch.tv/osulive_2)[^stream-pending] | [^winners-bracket] |
-| 25b | Finland ::{ flag=FI }:: | ::{ flag=VN }:: Vietnam | [Apr 05 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T140000&p1=1440&p2=101&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 25d | Netherlands ::{ flag=NL }:: | ::{ flag=VN }:: Vietnam | [Apr 05 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T140000&p1=1440&p2=16&p3=95) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 26c | Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Apr 05 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T160000&p1=1440&p2=188&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 26d | Canada ::{ flag=CA }:: | ::{ flag=SK }:: Slovakia | [Apr 05 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T183000&p1=1440&p2=188) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-|  | Semifinals | mappool showcase | [Apr 05 (Sun) 19:30 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260405T193000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 45 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Apr 25 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T020000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
+| SM | Grand Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+
+### Sunday, 26 April 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 46a | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 26 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260426T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+| 46b | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 26 (Sun) 10:00 UTC](https://wwwtimeanddate.com/worldclock/converter.html?iso=20260426T100000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Match results
+
+### Finals
+
+Saturday, 18 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 42 | Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/120962349) | [#1](https://www.twitch.tv/videos/2750862446) |
+| 41 | **South Korea** ::{ flag=KR }:: | **7** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/120964470) | [#1](https://www.twitch.tv/videos/2751065444) |
+| 43c | Taiwan ::{ flag=TW }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120965282) | [#1](https://www.twitch.tv/videos/2751160028) |
+
+Sunday, 19 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 44 | **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/120970266) | [#1](https://www.twitch.tv/videos/2751656269) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1jfo9ZsZN2hBsc9Av1JGodXUZnj_6hru9PT2JZ_Feeq4?rm=minimal).
+
+Saturday, 11 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 33 | **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/120915604) | [#1](https://www.twitch.tv/videos/2745509637) |
+| 35 | **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/120915912) | [#1](https://www.twitch.tv/videos/2745509636) |
+| 39 | **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/120916660) | [#1](https://www.twitch.tv/videos/2745512622) |
+| 34 | **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/120918218) | [#1](https://www.twitch.tv/videos/2745562049) |
+| 36 | **Italy** ::{ flag=IT }:: | **6** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/120919997) | [#1](https://www.twitch.tv/videos/2745734198) |
+
+Sunday, 12 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 40 | **Chile** ::{ flag=CL }:: | **6** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/120922024) | [#1](https://www.twitch.tv/videos/2745993870) |
+| 37a | United States ::{ flag=US }:: | 3 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/120922696) | [#1](https://www.twitch.tv/videos/2746035528) |
+| 38a | Italy ::{ flag=IT }:: | 5 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/120924693) | [#1](https://www.twitch.tv/videos/2746243641) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ZxXYJ5zsbxS8evLrhaX6sn9okERfyJhcG-vlgCbZVTk?rm=minimal).
+
+Saturday, 4 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 24 | **Australia** ::{ flag=AU }:: | **6** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/120865872) | [#1](https://www.twitch.tv/videos/2739701122) |
+| 17 | **Russian Federation** ::{ flag=RU }:: | **6** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/120866933) | [#1](https://www.twitch.tv/videos/2739782751) |
+| 22 | **United Kingdom** ::{ flag=GB }:: | **6** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/120866878) | [#1](https://www.twitch.tv/videos/2739738672) |
+| 23 | Norway ::{ flag=NO }:: | 2 | **6** | ::{ flag=PT }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/120866887) | [#1](https://www.twitch.tv/videos/2739738672?t=0h34m17s) |
+| 19 | **Indonesia** ::{ flag=ID }:: | **6** | 3 | ::{ flag=SK }:: Slovakia | [#1](https://osu.ppy.sh/community/matches/120867365) | [#1](https://www.twitch.tv/videos/2739784069) |
+| 21 | **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/120867600) | [#1](https://www.twitch.tv/videos/2739798373) |
+| 18 | **Finland** ::{ flag=FI }:: | **6** | 3 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/120868348) | [#1](https://www.twitch.tv/videos/2739854250) |
+| 32 | **Brazil** ::{ flag=BR }:: | **6** | 3 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/120869531) | [#1](https://www.twitch.tv/videos/2739973163) |
+
+Sunday, 5 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 20 | **New Zealand** ::{ flag=NZ }:: | **6** | -1 | ::{ flag=CA }:: Canada | *win by default* |  |
+| 30 | United States ::{ flag=US }:: | 2 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120872649) | [#1](https://www.twitch.tv/videos/2740357631) |
+| 29 | **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/120873120) | [#1](https://www.twitch.tv/videos/2740408698) |
+| 26a | **New Zealand** ::{ flag=NZ }:: | **6** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/120873992) | [#1](https://www.twitch.tv/videos/2740491526) |
+| 27a | **United Kingdom** ::{ flag=GB }:: | **6** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/120874303) | [#1](https://www.twitch.tv/videos/2740515648) |
+| 28b | **Australia** ::{ flag=AU }:: | **6** | 0 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/120874351) | [#1](https://www.twitch.tv/videos/2740517105) |
+| 25a | **Finland** ::{ flag=FI }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/120874845) | [#1](https://www.twitch.tv/videos/2740575347) |
+| 31 | **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/120874995) | [#1](https://www.twitch.tv/videos/2740582571) |
 
 ### Round of 16
 
@@ -349,10 +393,93 @@ Group H:
 
 ## Mappools
 
+### Grand Finals
+
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2752041926)
+
+- No Mod
+  1. [Frums - Mdrqnxtagon (\_yu68) \[Oni\]](https://osu.ppy.sh/beatmapsets/2541443#taiko/5627063)
+  2. [Ennnn - Silver Bullet (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/2541444#taiko/5627069)
+  3. [DJ Raisei - Tenshi No Mau Tokoro feat. Hatsune Miku (N a N a) \[Isitoria Celeste\]](https://osu.ppy.sh/beatmapsets/2541446#taiko/5627071)
+  4. doro - f43v3qqqqqqqq52c4f4c425 (X a v y) \[q\] (link pending)
+  5. [Rings of Saturn - Divine Authority (Xay) \[Anders\]](https://osu.ppy.sh/beatmapsets/2541455#taiko/5627099)
+  6. [NAKED AUTOMATA - If we don't talk again, remember I loved you (Paraxia) \[adieu, toi que j'aime\]](https://osu.ppy.sh/beatmapsets/2541453#taiko/5627097)
+- Hidden
+  1. [Ruby My Dear - Saint Patron (Alchyr) \[Fantom of TWC\]](https://osu.ppy.sh/beatmapsets/2541452#taiko/5627095)
+  2. [kaitendaentai - Hubris (ikin5050) \[Icarus\]](https://osu.ppy.sh/beatmapsets/2541457#taiko/5627104)
+- Hard Rock
+  1. [ISLTR - Ochimasita\_210106 (wth) \[Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2137740#taiko/5627107)
+  2. [LV.4 feat. Chiaki Iwasaki - B.O.L. (Cut Ver.) (iceOC) \[Frozen feat. G-Tea\]](https://osu.ppy.sh/beatmapsets/2541459#taiko/5627106)
+- Double Time
+  1. [Kou! - sub/zerO (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2541460#taiko/5627109)
+  2. [Nanaki feat.GUMI - Mousou Kajitsu (Chromoxx) \[Delusional Fantasy\]](https://osu.ppy.sh/beatmapsets/602993#taiko/1273614)
+- Free Mod
+  1. [DJ Raisei - #Kurutta Minzoku AGNIKAYANIZM (Meguminx\_MAS) \[Biochemical Soup\]](https://osu.ppy.sh/beatmapsets/2541463#taiko/5627118)
+  2. [Tenno Otsuge - REMEMBER MAZE w/DJ Raisei (Backfire) \[And\]](https://osu.ppy.sh/beatmapsets/2541476#taiko/5627150)
+  3. [X2lowline - dimension2k (cut ver.) (hz404) \[2048 dimensions\]](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997)
+- Tiebreaker
+  1. **[Camellia - THULE feat. Camellia (Zetera) \[Finis Mundi\]](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)**
+
+### Finals
+
+**[Download the mappack here (131 MB)](https://packs.ppy.sh/P320%20-%20osu%21taiko%20World%20Cup%202026%3A%20Finals.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2746363340)
+
+- No Mod
+  1. [dennoko-P - Super-Focused Limit Break (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129)
+  2. [ISLTR - nism (Cut Ver.) (ekumea1123) \[Hollow\]](https://osu.ppy.sh/beatmapsets/2537884#taiko/5616113)
+  3. [Camellia - QuomodocunquizE (Skidooskei) \[Lunar Simians from Outer Space (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2537895#taiko/5616138)
+  4. [XH & sugosugiii - STYLE! feat. Kasane Teto (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2537893#taiko/5616136)
+  5. [Demon King - Tyrannical Reign of the Deceiver (Xay) \[Invictus\]](https://osu.ppy.sh/beatmapsets/2537898#taiko/5616147)
+  6. [sheeno mirin - I found it out (Raphalge) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/2098220#taiko/4401158)
+- Hidden
+  1. [Luna Fozer - Overjoy \* OVERDOSE!! (Nwolf) \[LET'S GO (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/2508420#taiko/5616165)
+  2. [mimizu feat. Kasane Teto SV - Tatakina (gaston\_2199) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/2448776#taiko/5346739)
+- Hard Rock
+  1. [nitro (as "summersick") - summersick (\_Rise) \[Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2004014#taiko/5616166)
+  2. [Ludicin - Obliterate (Shinsekai-) \[Annihilation\]](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167)
+- Double Time
+  1. [Ironmouse & Camellia - Waifu Jam (osu! edit) (Backfire) \[TWC Jam\]](https://osu.ppy.sh/beatmapsets/2537941#taiko/5616282)
+  2. [Nakajima Megumi - TRY UNITE! (aran Remix) (Sped Up Ver.) (radar) \[Collab\]](https://osu.ppy.sh/beatmapsets/1968855#taiko/4083716)
+- Free Mod
+  1. [xi - Bad Elixir (raynald) \[Fermi Majestia One\]](https://osu.ppy.sh/beatmapsets/2537915#taiko/5616186)
+  2. [Zekk - Fluctuation (4sbet1) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/2537913#taiko/5616183)
+  3. [Ice - Etude for the Sinners (iceOC) \[Song of Sin\]](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517)
+- Tiebreaker
+  1. **[TWC Sound Team "FLiPFORCE" - ON.UR.MARKS... (Jayceko) \[BRACE.FOR.IMPACT...\]](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417)**
+
+### Semifinals
+
+**[Download the mappack here (99 MB)](https://packs.ppy.sh/P319%20-%20osu%21taiko%20World%20Cup%202026%3A%20Semifinals.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2740668428)
+
+- No Mod
+  1. [seatrus - TEMP3ST (\_mtk) \[D3ATH TWC VER.\]](https://osu.ppy.sh/beatmapsets/2534351#taiko/5604104)
+  2. [Skybreak - NOLIGHT (feat. HeyBela) (rubies87) \[INNERONI\]](https://osu.ppy.sh/beatmapsets/2534739#taiko/5605025)
+  3. [BlackY - ULT!MATE END (Cut Ver.) (JarvisGaming) \[explode\]](https://osu.ppy.sh/beatmapsets/2534370#taiko/5604161)
+  4. [pa-o-mu99999 - Bobobo-bo Bo-bobo (Jayceko) \[!!! ? ? !!\]](https://osu.ppy.sh/beatmapsets/2534673#taiko/5604911)
+  5. [Fallujah - Carved From Stone (2024 Remaster) (Heaxys) \[Eternal\]](https://osu.ppy.sh/beatmapsets/2534385#taiko/5604193)
+  6. [ALEPH - SIGNALBURNERRR (Z419) \[CODE: FUZE\]](https://osu.ppy.sh/beatmapsets/2534365#taiko/5604141)
+- Hidden
+  1. [Riya - IMPULSE (Quorum) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2534380#taiko/5604182)
+  2. [Xyris - Terrablazer (Alwaysyukaz) \[Laevatain\]](https://osu.ppy.sh/beatmapsets/2534374#taiko/5604173)
+- Hard Rock
+  1. [Toromaru - Erinyes (tasuke912) \[Retaliation\]](https://osu.ppy.sh/beatmapsets/2534384#taiko/5604192)
+  2. [MITCH DOWNVELL - not sakura (roufou) \[Neue\]](https://osu.ppy.sh/beatmapsets/2534381#taiko/5604184)
+- Double Time
+  1. [Camellia - Maze of Vignere Square (Undead Alice) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2534390#taiko/5604200)
+  2. [Aiobahn feat. KOTOKO - INTERNET YAMERO (Yasuho) \[GLORP YAMERO\]](https://osu.ppy.sh/beatmapsets/2534395#taiko/5604207)
+- Free Mod
+  1. [MetaHumanBoi - ILLUSTRIOUS DRIFTERS (miyagishima) \[RACE!\]](https://osu.ppy.sh/beatmapsets/2534393#taiko/5604205)
+  2. [Aiyru - Elevator (Grape\_Tea) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2534394#taiko/5604206)
+  3. [fool - TO THE NEXT (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/2534404#taiko/5604231)
+- Tiebreaker
+  1. **[Laur - SEV-26 (uone) \[Malignant Madness\]](https://osu.ppy.sh/beatmapsets/2534398#taiko/5604215)**
+
 ### Quarterfinals
 
 **[Download the mappack here (104 MB)](https://packs.ppy.sh/P318%20-%20osu!taiko%20World%20Cup%202026%3A%20Quarterfinals.zip?1775107454)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2734988514)
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2734988514)
 
 - No Mod
   1. [exnoiz - Chen Man (X a v y) \[reze\]](https://osu.ppy.sh/beatmapsets/2530667#taiko/5593609)
@@ -406,7 +533,7 @@ Group H:
 ### Group stage
 
 **[Download the mappack here (70 MB)](https://packs.ppy.sh/P316%20-%20osu!taiko%20World%20Cup%202026%3A%20Group%20stage.zip?1773881345)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2723456293?t=1h23m2s)
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2723456293?t=1h23m2s)
 
 - No Mod
   1. [Iyowa feat. Kasane Teto - BABEL (Sebola) \[Shinjiteru\]](https://osu.ppy.sh/beatmapsets/1987197#taiko/4127942)
@@ -432,7 +559,7 @@ Group H:
 ### Qualifiers
 
 **[Download the mappack here (39 MB)](https://packs.ppy.sh/P315%20-%20osu%21taiko%20World%20Cup%202026%3A%20Qualifiers.zip)**\
-[View the showcase VOD here](https://www.twitch.tv/videos/2717118872)
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2717118872)
 
 - No Mod
   1. [Aitsuki Nakuru - Presenter\* (Eriha) \[Eriha & hz404's Special Gift\*\]](https://osu.ppy.sh/beatmapsets/2519558#taiko/5560420)
@@ -676,7 +803,6 @@ The final bracket configuration will be as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum.
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
-[^mappool-showcase]: Mappool showcase — schedule subject to rescheduling without prior notice, depending on preceding matches
+[^showmatch]: Grand Finals showmatch
+[^lb-grand-finals]: Losers bracket Grand Finals match
+[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding losers bracket Grand Finals match
