@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
+---
+
 # 曲包奖章解锁条件
 
 | 奖章名称 | 条件 |

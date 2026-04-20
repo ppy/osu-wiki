@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 509c538fba6a848cf044b98104f2a8466b38bf83 Doryan
+outdated_translation: true
+outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
 ---
 
 # Conditions de déverrouillage des médailles : Beatmap Packs
