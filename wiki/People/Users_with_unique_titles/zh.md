@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 09ee3bc08ca5a694eae7b5ccd63d8ece582ecd9e
+---
+
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常与[玩家组](/wiki/People/User_group)相关联，但下面列出的用户是因其他原因而获得他们的头衔。大多数头衔是对贡献或成就的奖励，剩下的则是 osu! 历史上标志性或有趣的象征。
