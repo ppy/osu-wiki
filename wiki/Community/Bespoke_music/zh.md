@@ -121,7 +121,7 @@ osu! 内目前共有 **1288** 首已记录的定制歌曲。
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2Yf0IKXyvzuGquXC7VJ2L9 "Spotify") |  | nekodex - Main Theme 2.0[^fa] | [osu!stream](/wiki/osu!stream) 主主题曲 |
 |  |  | nekodex - new beginnings[^fa] | 当前教程歌曲 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/osu-stream-theme "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=uhdiFT0o6SU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2PKPsvIZ6e9CudTSQEd5ix "Spotify") |  | nekodex - osu!stream theme[^fa] | 曾经的 [osu!stream](/wiki/osu!stream) 主主题曲 |
-|  |  | nekodex - ranked play bgm loop[^fa] | osu!(lazer) "ranked play" theme |
+|  |  | nekodex - ranked play bgm loop[^fa] | osu!(lazer) 排位模式主题曲 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/welcome-to-christmas "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22welcome%20to%20christmas%21%22 "osu! original") | nekodex - welcome to christmas\! | 2014 年圣诞节/冬季 osu! 主题曲 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/welcome-to-osu "SoundCloud") |  | nekodex - welcome to osu\![^fa] | 曾经的 osu! 主题曲 |
 |  |  | Peter Lambert - osu! tutorial | 曾经的教程歌曲 |
