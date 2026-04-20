@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 322adbb5c9e8e17fc68e6e7f019e8ca93bd53544
+---
+
 # Наборы карт
 
 **Наборы карт** (англ. *beatmap packs*) — сжатые архивы, содержащие [карты](/wiki/Beatmap) определённой категории. Их можно найти в [списке наборов карт](https://osu.ppy.sh/beatmaps/packs).

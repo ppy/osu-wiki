@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 09ee3bc08ca5a694eae7b5ccd63d8ece582ecd9e
+---
+
 # Concursos
 
 Esta sección está dedicada a los concursos que se llevan a cabo en toda la comunidad de osu!.
