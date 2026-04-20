@@ -8,7 +8,7 @@ Phần này dành riêng cho các vấn đề liên quan đến website của os
 
 ### Tôi vẫn chưa nhận được câu trả lời cho phiếu hỗ trợ và nó đã hơn 2 tuần! {id=support-no-reply}
 
-**Phần lớn thời gian, điều này là do một số lượng lớn phiếu được gửi đến hệ thống của chúng tôi cùng lúc.**
+**Hầu hết thời gian, điều này là do một số lượng lớn phiếu được gửi đến hệ thống của chúng tôi cùng lúc.**
 
 Bạn luôn có thể gửi một câu trả lời duy nhất cho phiếu hỗ trợ hiện tại đang mở của mình để hỏi về tình trạng trường hợp của bạn, nhưng đảm bảo đừng làm điều này hơn một hoặc hai lần mỗi tuần. Bạn cũng có thể liên hệ chúng tôi trên Twitter tại [@osusupport](https://twitter.com/osusupport) để hỏi về phiếu của bạn. 
 
