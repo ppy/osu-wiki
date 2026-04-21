@@ -197,8 +197,8 @@ Vote YES now, and leave "W hitsounding" in the comments!!
 *description written by [Skill](https://osu.ppy.sh/users/7802027)*
 
 > \
-> Waiter! Waiter! More **PLACEHOLDER_0** maps in Loved, please!\
-> You got it.\
+> Waiter! Waiter! More [apoq](https://osu.ppy.sh/users/4349246) maps in Loved, please!\
+> You got it.
 > 
 
 This month's dedicated Skill-certified aim pick is [apoq's](https://osu.ppy.sh/users/4349246) map of [Jun Goto & Nozomi Momijidani & Sora Kaneshiro - Monochrome Kajuen (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/832950#osu/1744843)
