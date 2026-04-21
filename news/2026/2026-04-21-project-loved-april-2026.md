@@ -17,7 +17,7 @@ We have some team updates hot off the press, please welcome the following:
 
 - [Oceanus](https://osu.ppy.sh/users/9164100), [Nepijin](https://osu.ppy.sh/users/11734610), and [myucchii](https://osu.ppy.sh/users/10072733) to the osu!mania captains!
 - [tapperruiii](https://osu.ppy.sh/users/36301446), [Leomine](https://osu.ppy.sh/users/13277919), [fvrex](https://osu.ppy.sh/users/11863699), and [Slyme](https://osu.ppy.sh/users/11695793) to the metadata reviewers! ([aceticke](https://osu.ppy.sh/users/8838763) too, i guess. who even is that?)
-- Stepping down we have [Phob](https://osu.ppy.sh/users/11817622) from osu!catch and [SunApple](https://osu.ppy.sh/users/11817622) from osu!mania, please give them your farewells!
+- Stepping down we have [Phob](https://osu.ppy.sh/users/6069462) from osu!catch and [SunApple](https://osu.ppy.sh/users/11817622) from osu!mania, please give them your farewells!
 
 As always, thank you for voting in the last round! View the results here:
 
