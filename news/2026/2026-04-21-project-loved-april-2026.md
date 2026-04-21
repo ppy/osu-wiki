@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: April 2026"
-date: 2026-04-21 12:10:00 +0000
+date: 2026-04-21 12:15:00 +0000
 series: project_loved
 ---
 
@@ -9,19 +9,18 @@ Project Loved is here to save you from the April showers!
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
-Welcome to this month's round of Project Loved picks! Are we new to the game, just checking the news for the first time, or just unsure in general? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/).
+Welcome to this month's round of Project Loved picks! Are we new to the game, just checking the news for the first time, or just unsure in general? Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll. Alternatively you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/).
 
 And yes, you too can help us out! Simply hop on over to the Loved website and submit any maps you feel are deserving of our attention. You can even review suggestions from other players!
 
 We have some team updates hot off the press, please welcome the following:
 
 - [Oceanus](https://osu.ppy.sh/users/9164100), [Nepijin](https://osu.ppy.sh/users/11734610), and [myucchii](https://osu.ppy.sh/users/10072733) to the osu!mania captains!
-
 - [tapperruiii](https://osu.ppy.sh/users/36301446), [Leomine](https://osu.ppy.sh/users/13277919), [fvrex](https://osu.ppy.sh/users/11863699), and [Slyme](https://osu.ppy.sh/users/11695793) to the metadata reviewers! ([aceticke](https://osu.ppy.sh/users/8838763) too, i guess. who even is that?)
-
 - Stepping down we have [Phob](https://osu.ppy.sh/users/11817622) from osu!catch and [SunApple](https://osu.ppy.sh/users/11817622) from osu!mania, please give them your farewells!
 
 As always, thank you for voting in the last round! View the results here:
+
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/2189671?n=2)
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/2189662?n=2)
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2189658?n=2)
@@ -198,7 +197,7 @@ Vote YES now, and leave "W hitsounding" in the comments!!
 *description written by [Skill](https://osu.ppy.sh/users/7802027)*
 
 > \
-> Waiter! Waiter! More __PLACEHOLDER_0__ maps in Loved, please!\
+> Waiter! Waiter! More **PLACEHOLDER_0** maps in Loved, please!\
 > You got it.\
 > 
 
@@ -499,6 +498,6 @@ That's all from us this month! All the beatmaps that pass voting will reach the 
 
 And a special thank you to this month's replay contributors: [Chaoslitz](https://osu.ppy.sh/users/3621552), [Petal](https://osu.ppy.sh/users/7354729), [-Kori](https://osu.ppy.sh/users/12490530), [nevqr](https://osu.ppy.sh/users/14269506), [seros](https://osu.ppy.sh/users/10562853), [dressurf](https://osu.ppy.sh/users/758406), [Utiba](https://osu.ppy.sh/users/11354436), and [Riot](https://osu.ppy.sh/users/4256461)!
 
-More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the #osu-loved channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the #osu-loved channel of the [osu! Discord server](https://discord.com/invite/ppy) if you have any questions, concerns, or are interested in helping out.
 
 —aceticke
