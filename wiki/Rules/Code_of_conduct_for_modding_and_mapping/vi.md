@@ -12,7 +12,7 @@
 
 ## Phản hồi với một bài đăng mod
 
-Trách nhiệm của một mapper là theo dõi và phản hổi các cuộc thảo luận mới nhất đến các beatmap của mình. Phớt lờ các đề xuất hoặc không phản hồi kịp thời có thể làm những người mod khác nản lòng và không muốn tham gia thảo luận nữa.
+Trách nhiệm của một mapper là theo dõi và phản hồi các cuộc thảo luận mới nhất đến các beatmap của mình. Phớt lờ các đề xuất hoặc không phản hồi kịp thời có thể làm những người mod khác nản lòng và không muốn tham gia thảo luận nữa.
 
 Khi phản hồi đến đề xuất của ai đó, điều quan trọng là phải xem xét những điểm sau:
 
