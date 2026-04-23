@@ -52,7 +52,7 @@ Trên trang beatmap, bạn có thể báo cáo một người dùng trong bảng
 
 ### Trong trò chuyện trò chơi 
 
-Cách báo cáo này **không được khuyến khích** vì các báo cáo trong trò chơi chủ yếu liên quan đến trò chuyện.
+Cách báo cáo này **không được khuyến khích** vì các báo cáo trong trò chơi chủ yếu liên quan đến trò chuyện. 
 
 Sử dụng lệnh `!report` trong bất kỳ kênh công cộng nào để thông báo cho các người điều hành trò chuyện. Các người chơi khác sẽ không thấy báo cáo của bạn trong trò chuyện.
 
@@ -61,11 +61,11 @@ Sử dụng lệnh `!report` trong bất kỳ kênh công cộng nào để thô
 Ví dụ: !report người_dùng_đó suspected cheating.
 ```
 
-Sự giúp đỡ của bạn trong việc phát hiện hành vi gian lận rất được trân trọng. Chúng tôi xem xét mọi báo cáo mà chúng tôi nhận được, nhưng điều đó không có nghĩa là tất cả chúng đều sẽ dẫn đến chúng tôi thực hiện hành động, bạn cũng có thể gửi email trực tiếp đến [osu@ppy.sh](mailto:osu@ppy.sh) để nhận được phản hồi tương đối nhanh chóng.
+Sự giúp đỡ của bạn trong việc phát hiện hành vi gian lận rất được trân trọng. Chúng tôi xem xét mọi báo cáo mà chúng tôi nhận được, nhưng điều đó không có nghĩa là tất cả chúng đều sẽ dẫn đến chúng tôi thực hiện hành động! bạn cũng có thể gửi email trực tiếp đến [osu@ppy.sh](mailto:osu@ppy.sh) để nhận được phản hồi tương đối nhanh chóng.
 
 ## Sử dụng phần cứng chuyên dụng có được coi là gian lận không?
 
-Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
+Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
 
 ## Làm thế nào tôi có thể kháng cáo hạn chế của mình ?
 
