@@ -108,6 +108,34 @@ Details can be found on the **[information spreadsheet](https://docs.google.com/
 
 ## Mappools
 
+### Grand Finals
+**[Download the mappack here! (246 MB)](https://drive.google.com/file/d/1Ifsn8CTraNUkqbxAwXydPqVTrr0xskXq/)**\
+[View the showcase VOD here](https://www.youtube.com/watch?v=Siymy0rQxy4)\
+[View the showcase VOD (Chinese commentary) here](https://www.bilibili.com/video/BV1U6sSzvEKb/)
+
+- Coordination
+  1. [Monster Siren Records - See you soon (ImperialTrinity) \[See you next time\]](https://osu.ppy.sh/beatmapsets/2455632#mania/5366705)
+  2. [Ariabl'eyeS - Meikai no Shisha (\[Crz\]Crysarlene) \[Messenger\]](https://osu.ppy.sh/beatmapsets/2455624#mania/5366693)
+  3. [takehirotei - TIMING HELL \~The Perpetual Chaotically Unsynced Pendulum\~ (EpsilonMaiagare, TheFunk, Hylotl) \[Convergence\]](https://osu.ppy.sh/beatmapsets/2455661#mania/5366777)
+- Technical
+  1. [Kairiki Bear feat. flower - Lemming Ming (kemu Remix) (Micleak) \[I want to be compensated \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/2040875#mania/4257678)
+  2. [V0iD - Sugar Killa (Paturages, \[Crz\]Crysarlene, Yuiesta) \[Diabetes\]](https://osu.ppy.sh/beatmapsets/2455627#mania/5366696)
+  3. [Hylen - Minerva (\[Crz\]Crysarlene) \[Ravenheart\]](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970)
+  4. [Supire - Dead Aire (ImperialTrinity) \[Shut Love\]](https://osu.ppy.sh/beatmapsets/2455636#mania/5366710)
+- Wildcard
+  1. [Camellia - Hello (BPM) 2023 (Raveille, FelixSpade, EpsilonMaiagare, ImperialTrinity, Polytetral, HowToPlayLN, DannyPX, Akatsumi Chan, Saemitsu) \[RELEASE THIS ALREADY IT'S BEEN 2 YEARS\]](https://osu.ppy.sh/beatmapsets/2455598#mania/5366645)
+  2. [ALI - TEENAGE CITY RIOT (feat. R-Shitei) (epic man 2) \[SHOW TIME 1.1x (218bpm)\]](https://osu.ppy.sh/beatmapsets/2454563#mania/5363657)
+  3. [Ludicin - Blossom of Ashes (\[Crz\]Crysarlene, gzdongsheng) \[Divination of Calamity\]](https://osu.ppy.sh/beatmapsets/2455603#mania/5366651)
+  4. [Camellia - Speedrun (Muses) \[Mission Success (OMLN4 Edit)\]](https://osu.ppy.sh/beatmapsets/2455607#mania/5366658)
+- Density
+  1. [katagiri - Code Name\: Sierra (Cut Ver.) (Yuiesta) \[Prototype\: 4'05''\]](https://osu.ppy.sh/beatmapsets/2455623#mania/5366692)
+  2. [Wolpis Carter - Oxalis (Cut Ver.) (Paturages, FelixSpade) \[Clematis 1.05x (265bpm)\]](https://osu.ppy.sh/beatmapsets/2455631#mania/5366703)
+  3. [Lime - Cynosure (Hylotl) \[Stella illa quae Polaris dicitur 1.05x\]](https://osu.ppy.sh/beatmapsets/2421360#mania/5267522)
+  4. [seatrus - Abendstern (Begin) \[LN Abendstern 1.05x (259bpm)\]](https://osu.ppy.sh/beatmapsets/2455617#mania/5366679)
+  5. [Gram vs Camellia - Ragnarok (Akatsumi Chan) \[The Final Devastation (intro cut/edit)\]](https://osu.ppy.sh/beatmapsets/2081662#mania/5366832)
+- Tiebreaker
+  1. **[o!mLN4 Sound Team - Illusion's End \~ Reflection's Awakening (Paturages, FelixSpade, EpsilonMaiagare, ImperialTrinity, \[Crz\]Crysarlene, Polytetral, HowToPlayLN, Akatsumi Chan, Ainer, Yuiesta, TheFunk, epic man 2, Micleak, Hylotl) \[Dilemma of Inverse Worlds\: Sin's Absolution\]](https://osu.ppy.sh/beatmapsets/2455633#mania/5366706)**
+
 ### Finals
 
 **[Download the mappack here! (189 MB)](https://drive.google.com/file/d/1vI47cbbceBJMDym15C0-VobxGgcLGR9E/)**\
