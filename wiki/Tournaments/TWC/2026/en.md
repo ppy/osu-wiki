@@ -125,8 +125,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 45 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Apr 25 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T020000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-| SM | Grand Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| SM | Grand Finals | showmatch | [Apr 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
+| 45 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Apr 25 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T140000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
 
 ### Sunday, 26 April 2026
 
@@ -395,13 +395,14 @@ Group H:
 
 ### Grand Finals
 
+**[Download the mappack here (126 MB)](https://packs.ppy.sh/P321%20-%20osu%21taiko%20World%20Cup%202026%3A%20Grand%20Finals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2752041926)
 
 - No Mod
   1. [Frums - Mdrqnxtagon (\_yu68) \[Oni\]](https://osu.ppy.sh/beatmapsets/2541443#taiko/5627063)
   2. [Ennnn - Silver Bullet (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/2541444#taiko/5627069)
   3. [DJ Raisei - Tenshi No Mau Tokoro feat. Hatsune Miku (N a N a) \[Isitoria Celeste\]](https://osu.ppy.sh/beatmapsets/2541446#taiko/5627071)
-  4. doro - f43v3qqqqqqqq52c4f4c425 (X a v y) \[q\] (link pending)
+  4. [doro - f43v3qqqqqqqq52c4f4c425 (X a v y) \[q\]](https://osu.ppy.sh/beatmapsets/2541555#taiko/5627367)
   5. [Rings of Saturn - Divine Authority (Xay) \[Anders\]](https://osu.ppy.sh/beatmapsets/2541455#taiko/5627099)
   6. [NAKED AUTOMATA - If we don't talk again, remember I loved you (Paraxia) \[adieu, toi que j'aime\]](https://osu.ppy.sh/beatmapsets/2541453#taiko/5627097)
 - Hidden
@@ -418,7 +419,7 @@ Group H:
   2. [Tenno Otsuge - REMEMBER MAZE w/DJ Raisei (Backfire) \[And\]](https://osu.ppy.sh/beatmapsets/2541476#taiko/5627150)
   3. [X2lowline - dimension2k (cut ver.) (hz404) \[2048 dimensions\]](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997)
 - Tiebreaker
-  1. **[Camellia - THULE feat. Camellia (Zetera) \[Finis Mundi\]](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)**
+  1. **[Camellia feat. Camellia - Thule (Zetera) \[Finis Mundi\]](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)**
 
 ### Finals
 
