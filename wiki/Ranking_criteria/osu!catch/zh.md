@@ -157,8 +157,8 @@
 
 - **不应在单个[中果](/wiki/Hit_object/Juice_stream#中果)和/或滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **不应连续使用不同节拍细分的[基础](/wiki/Gameplay/Dash_snapping#基础对齐)[红果跳](/wiki/Gameplay/Hyperdash)。** 比如：1/1 红果跳不应该接 1/2 红果跳。
-- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)不应与任何形式的其他高阶[跳](/wiki/Gameplay/Dash)结合使用。** 如果使用，则不能组成[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列，并且高阶跳必须位于该高阶红果跳之前。
-- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)不应该接[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 的[跳](/wiki/Gameplay/Dash)。**
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)不应与任何形式的其他高阶[白果跳](/wiki/Gameplay/Dash)结合使用。** 如果使用，则不能组成[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 排列，并且高阶白果跳必须位于该高阶红果跳之前。
+- **[高阶](/wiki/Gameplay/Dash_snapping#高阶对齐)[红果跳](/wiki/Gameplay/Hyperdash)不应该接[反向 (Antiflow)](/wiki/Beatmapping/Antiflow) 的[白果跳](/wiki/Gameplay/Dash)。**
 - **不应在其他[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)之间使用[极限跳](/wiki/Gameplay/Edge_dash)。**
 - **不应使用[转盘陷阱](/wiki/Gameplay/Spinner_trap)。**
 - **谱面物件密度应主要遵循 1/2 + 1/4 和/或 1/3 + 1/6 节奏。** 1/8 及更高密度的节奏应极少使用。
