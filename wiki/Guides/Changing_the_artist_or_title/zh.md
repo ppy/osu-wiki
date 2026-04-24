@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
----
-
 # 如何更改谱面的艺术家或标题
 
 *[Full Submission with Title/Artist Change -- Mistakes，作者 NoHitter（已被 peppy 接手）](https://osu.ppy.sh/community/forums/topics/24443)*
@@ -22,7 +17,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
   6. 用 `文件` > `打开...` 修改其他难度的艺术家或标题信息。
   7. 完整上传谱面。
 - 复杂方法（保留本地更改）：
-  1. 打开 osu! 网页上你的谱面信息页。
+  1. 打开 osu! 网页上你的[谱面信息页](/wiki/Beatmap_information)。
   2. 打开歌曲设置 (Song setup) 页面，将艺术家或标题设置回网页上的值。
   3. 转到选歌页面并按下 `F5` 键，等一会儿。
   4. 进入编辑器。确保“网络相关”菜单已启用（没有变灰）。
