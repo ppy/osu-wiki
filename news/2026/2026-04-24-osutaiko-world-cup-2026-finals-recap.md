@@ -9,7 +9,7 @@ Approaching the summit of the osu!taiko World Cup 2026, the last remaining teams
 
 ![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/banner.jpg)
 
-With only a handful of teams remaining, stakes and the pressure were high to outpeform any team that was still aiming for a podium finish. Blood, sweat and tears were pouring down each player's face as they drummed their way through the Finals, and it was a fantastic sight to see them put up a great show for the crowds. Only a couple more steps towards the finish line, but we are yet to see who will take home the trophy.
+With only a handful of teams remaining, stakes and the pressure were high to outperform any team that was still aiming for a podium finish. Blood, sweat and tears were pouring down each player's face as they drummed their way through the Finals, and it was a fantastic sight to see them put up a great show for the crowds. Only a couple more steps towards the finish line, but we are yet to see who will take home the trophy.
 
 ## Mappool showcase
 
@@ -29,7 +29,7 @@ osu! original enjoyers ate good this week, with two brand-new songs being releas
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/tcrkNSxnKLI" frameborder="0" allowfullscreen></iframe>
 </div>
 
-First new original (and also the No Mod 1 in the pool) is [dennoko-P - Super-Focused Limit Break](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129) mapped by [_Rise](https://osu.ppy.sh/users/5217107). A fast-paced, 260 BPM song with a lot of rhythm changes an energetic vocaloid voice, that make this piece another great addition to the TWC 2026 osu! original lineup. And due to the intense nature of the song, players really need to be... *super-focused*.
+First new original (and also the No Mod 1 in the pool) is [dennoko-P - Super-Focused Limit Break](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129) mapped by [_Rise](https://osu.ppy.sh/users/5217107). A fast pace of 260 BPM, lots of rhythm changes and an energetic Vocaloid voice make this piece another great addition to the TWC 2026 osu! original lineup. And due to the intense nature of the song, players really need to be... *super-focused*.
 
 ---
 
@@ -37,7 +37,7 @@ First new original (and also the No Mod 1 in the pool) is [dennoko-P - Super-Foc
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/fVZFhyIbW6Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The second new song is a sequel to [last year's osu!taiko World Cup Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722). We get to see yet another hyperflip marathon, this time brewed overseas! The **TWC Sound Team "FLiPFORCE"** proudly presents [ON.UR.MARKS...](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417). 7 minutes and 30 seconds of pure bliss, mapped by none other than [Jayceko](https://osu.ppy.sh/users/19951350), who has excelled his craft in dariacore and hyperflip songs over the years, and [Backfire](https://osu.ppy.sh/users/263110) whose mapping skills add the cherry on top. This **Finals tiebreaker** is a must-play for any osu!taiko player, that likes to see their fingers burn throughout this wonderful song and map. Not to mention, the beautifully put-together storyboard by [Kuroise](https://osu.ppy.sh/users/14547127), [Noffy](https://osu.ppy.sh/users/1541323) and [Coppertine](https://osu.ppy.sh/users/7279762) add a whole new level of awesomeness to this map, that you will want to check out for yourself!
+The second new song is a sequel to [last year's osu!taiko World Cup Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722). We get to see yet another hyperflip marathon, this time brewed overseas! The **TWC Sound Team "FLiPFORCE"** proudly presents [ON.UR.MARKS...](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417). 7 minutes and 30 seconds of pure bliss, mapped by none other than [Jayceko](https://osu.ppy.sh/users/19951350), who has excelled his craft in dariacore and hyperflip songs over the years, and [Backfire](https://osu.ppy.sh/users/263110) whose mapping skills add the cherry on top. This **Finals tiebreaker** is a must-play for any osu!taiko player that likes to see their fingers burn. Not to mention, the beautifully crafted storyboard by [Kuroise](https://osu.ppy.sh/users/14547127), [Noffy](https://osu.ppy.sh/users/1541323) and [Coppertine](https://osu.ppy.sh/users/7279762) adds such a whole new level of awesomeness to this map, that you will want to check it out for yourself!
 
 ## Finals results
 
@@ -48,7 +48,7 @@ The second new song is a sequel to [last year's osu!taiko World Cup Grand Finals
 | 43c | Taiwan ::{ flag=TW }:: | 3 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/120965282) | [#1](https://www.twitch.tv/videos/2751160028) |
 | 44 | **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/120970266) | [#1](https://www.twitch.tv/videos/2751656269) |
 
-Unfortunately for ::{ flag=BR }:: **Brazil** and ::{ flag=TW }:: **Taiwan**, their run ended in the Finals. After a very strong match between these two teams, that even went to tiebreaker, Taiwan faced a tough challenge against ::{ flag=KR }:: **South Korea**, in which they were able to get 3 points on the board, before ultimately losing the match 7–2. Their performance is still considered a great achievement, and both ::{ flag=BR }:: **Brazil** and ::{ flag=TW }:: **Taiwan** deserve a shoutout for their marvelous efforts throughout the tournament.
+Unfortunately for ::{ flag=BR }:: **Brazil** and ::{ flag=TW }:: **Taiwan**, their run ended in the Finals. After a very strong match between these two teams, one that even went to tiebreaker, Taiwan faced a tough challenge against ::{ flag=KR }:: **South Korea**. They were able to get 3 points on the board, before ultimately losing the match 7–2, but their performance is still considered a great achievement, and both ::{ flag=BR }:: **Brazil** and ::{ flag=TW }:: **Taiwan** deserve a shout-out for their marvellous efforts throughout the tournament.
 
 Check out [all the statistics for this round](https://drive.google.com/drive/folders/15yu_oHZGBSKOJtZqimSfcw7a9py1uipL) to get a better overview of the performance of each team during the Finals.
 
@@ -93,7 +93,7 @@ WIP by Hivie
     }
 </style>
 
-Many viewers who have been following the World Cups noticed this week's tiebreaker song is a sequel to last year's TWC Grand Finals Tiebreaker, [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722). Last year's storyboard told a much darker story, following Tatsuma as his existence became deeply tied to music, only to be broken by the loss of it. This year Tatsuma returns in a completely different light. Instead of despair, he begins an isekai adventure alongside all official osu! mascots.
+Many viewers who have been following the World Cups noticed this week's tiebreaker song is a sequel to last year's TWC Grand Finals tiebreaker, [BUZZ CUTZ](https://osu.ppy.sh/beatmapsets/2358247#taiko/5090722). Last year's storyboard told a much darker story, following Tatsuma as his existence became deeply tied to music, only to be broken by the loss of it. This year Tatsuma returns in a completely different light. Instead of despair, he begins an isekai adventure alongside all official osu! mascots.
 
 <div class="news-chat-quote__text-container">
 
@@ -119,7 +119,7 @@ For the majority of the projects I've been in, the narrative was always towards 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/1541323">Noffy</a></p>
 
-The biggest difference for me was actually directly making full sections of the storyboard itself this year, where in BUZZ CUTZ I mainly oversaw the story, emotional support for everyone working on it, and providing assets and supporting ideas as needed. The elements of the story I helped incorporate into BUZZ CUTZ partly reflected personal fears I hold, spurred by memories of when an illness totally ruined my hearing for a month before and how I couldn't interact with anyone in the same way for a while. There was a very certain feeling packed in there of "present, but seperated". So ON.UR.MARKS… being able to show the ability for someone who started off alone being able to connect with others, create things, and help out was a lot of fun and healing too. I think that progression reflects a lot of the joy of connecting and creating in a group. Even when we're lonely, we have the power to support each other! …And enjoy our Isekai life!!
+The biggest difference for me was actually directly making full sections of the storyboard itself this year, where in BUZZ CUTZ I mainly oversaw the story, emotional support for everyone working on it, and providing assets and supporting ideas as needed. The elements of the story I helped incorporate into BUZZ CUTZ partly reflected personal fears I hold, spurred by memories of when an illness totally ruined my hearing for a month before and how I couldn't interact with anyone in the same way for a while. There was a very certain feeling packed in there of "present, but seperated". So ON.UR.MARKS... being able to show the ability for someone who started off alone being able to connect with others, create things, and help out was a lot of fun and healing too. I think that progression reflects a lot of the joy of connecting and creating in a group. Even when we're lonely, we have the power to support each other! ...And enjoy our Isekai life!!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -175,11 +175,12 @@ Some of the most difficult I have encountered was definitely Yuzu's flying secti
 
 ## Score highlights
 
-- Shoutouts are due to ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027). After yet again being one of the top performers all weekend, scores like his 99.92 % FC on [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3) and his stunning 1x100 finish on [Ludicin - Obliterate](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167) (HR2) didn't fail to impress casters and viewers alike. Setting these scores in a Finals round is definitely a feat of his skill, and we're excited to see him continue his strong performance in the upcoming Grand Finals round.
+- Shout-outs are due to ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027). After yet again being one of the top performers all weekend, scores like his 99.92% FC on [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3) and his stunning 1x100 finish on [Ludicin - Obliterate](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167) (HR2) didn't fail to impress casters and viewers alike. Setting these scores in a Finals round is definitely a feat of his skill, and we're excited to see him continue his strong performance in the upcoming Grand Finals round.
 
 ---
 
-And that's a wrap for the Finals recap! One final round remains, which will determine the winner of the osu!taiko World Cup 2026, and we're looking forward to seeing you all for the grande finale.
+And that's a wrap for the Finals recap! One final round remains, which will determine the winner of the osu!taiko World Cup 2026, and we're looking forward to seeing you all for the grand finale.
+
 Head over to the [TWC 2026 wiki page](/wiki/Tournaments/TWC/2026) to find out about all the match schedules and other necessary information and follow the [osulive Twitch channel](https://www.twitch.tv/osulive) to get notified when we go live.
 
 —Hivie, Sakura006 & Yasuho
