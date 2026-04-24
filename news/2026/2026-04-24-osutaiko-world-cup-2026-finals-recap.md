@@ -145,7 +145,7 @@ Working on Tatsuma's encounters with Mocha, pippi, the slimes, and the "love int
 
 As we worked on this in the early planning phase, there was also the concern that illustrating 6 characters in every scene would take much longer time wise than we had available. This excluded the type of isekai where a fully assembled party journeys to save the world. This influenced what we would do for the story, where we had the idea of Tatsuma meeting them and growing his group of friends scene by scene. I think this ended up a lot of fun to showcase what kind of problems each mascot ran into. After that was figured out is where I went a little off the rails in story ideas and I'm incredibly grateful for my fellow storyboarders and all of our illustrators to make it come to life and help wind it into something much more concrete to show as visuals.
 
-![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/comparison-image-sb.png)
+![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/comparison-sb.png)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
