@@ -28,9 +28,9 @@
 - **[水果串（滑条）](/wiki/Gameplay/Hit_object/Juice_stream)中的最后一个[大果](/wiki/Gameplay/Hit_object/Fruit)应按照歌曲节拍结构[对齐](/wiki/Beatmapping/Snapping)。** 例如，应使用 1/4、1/8、1/16 节拍细分来贴合直拍 (Straight Beat) 结构的歌曲，使用 1/6、1/12 节拍细分来贴合摇摆拍 (Swing Beat) 结构的歌曲。
 - **[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)的终点需要与游戏区域的左右边缘保持一定的距离。** 当玩家冲到这个区域之外（小于 x:16 或大于 x:496 的区域）时，可能会感觉被强行挡了一下。
 - **[连击](/wiki/Beatmapping/Combo)不要无端设得太大。** 经常使用新连击组来清空盘子，能确保玩家的视线不会被盘子上的[水果](/wiki/Gameplay/Hit_object/Fruit)所阻挡。
-- **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 的值必须与[下落速度 (AR)](/wiki/Beatmapping/Approach_rate) 相同。** 如果总得分将溢出，必须使用一个更低的值（这个值只会影响 [ScoreV1](/wiki/Gameplay/Score/ScoreV1/osu!catch) 下谱面的理论最高分）。
+- **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应该与[下落速度 (AR)](/wiki/Beatmap/Approach_rate) 的值相同。** 如果发生分数溢出，则应使用更低的值。
 - **[滑条点倍率](/wiki/Beatmapping/Slider_tick_rate)应按歌曲节奏类型来设置。** 举个例子 ，若歌曲中某段仅使用 1/3 节奏，那么倍率 2 并不适用于整张谱面。
-- **避免使用亮度约为 50 或更低的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 如果玩家的背景暗化设得很高，较暗的连击颜色会影响[大果](/wiki/Gameplay/Hit_object/Fruit)的可读性。
+- **避免使用亮度小于等于 50 的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 如果玩家的背景暗化设得很高，较暗的连击颜色会影响读图。
 - **在[Kiai 段落](/wiki/Gameplay/Kiai_time)中，避免使用亮度约为 220 或更高的[连击颜色](/wiki/Beatmapping/Combo_colour)。** 在 Kiai 段落中使用较亮的连击颜色，会发出强烈、让眼睛感到不适的脉冲光效。
 
 ### 皮肤
@@ -82,9 +82,9 @@
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 6。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 2-3 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 2.5。
+- [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 6。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 2-3 之间。
+- [水果大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 2.5。
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
@@ -108,9 +108,9 @@
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 7。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 3-4 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 3。
+- [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 7。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 3-4 之间。
+- [水果大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 3。
 
 ### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
@@ -138,9 +138,9 @@
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 8。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 4-5 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 3.5。
+- [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 8。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 4-5 之间。
+- [水果大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 3.5。
 
 ### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
@@ -165,9 +165,9 @@
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应小于或等于 9。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应在 5-6 之间。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应小于或等于 4。
+- [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应小于或等于 9。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应在 5-6 之间。
+- [水果大小 (CS)](/wiki/Beatmap/Circle_size) 应小于或等于 4。
 
 ### ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
 
@@ -182,9 +182,9 @@
 
 #### 难度设定准则
 
-- [下落速度 (AR)](/wiki/Beatmapping/Approach_rate)、[分数因子 (OD)](/wiki/Beatmapping/Overall_difficulty) 应大于或等于 9。
-- [扣血速度 (HP)](/wiki/Beatmapping/HP_drain_rate) 应大于或等于 5。
-- [物件大小 (CS)](/wiki/Beatmapping/Circle_size) 应大于或等于 4。
+- [下落速度 (AR)](/wiki/Beatmap/Approach_rate)、[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应大于或等于 9。
+- [掉血速度 (HP)](/wiki/Beatmap/HP_drain_rate) 应大于或等于 5。
+- [水果大小 (CS)](/wiki/Beatmap/Circle_size) 应大于或等于 4。
 
 ## 备注
 
