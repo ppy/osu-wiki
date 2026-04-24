@@ -166,7 +166,7 @@
 ### osu!catch
 
 - **[Auto 模组](/wiki/Gameplay/Game_modifier/Auto)必须能 SS。**
-- **[跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)的后一个物件不应过于靠近游戏区域的左右边缘。** 可以放置在 x = 16 和 x = 496 之间。
+- **[白果跳](/wiki/Gameplay/Dash)和[红果跳](/wiki/Gameplay/Hyperdash)的后一个物件不应过于靠近游戏区域的左右边缘。** 可以放置在 x = 16 和 x = 496 之间。
 - **[分数因子 (OD)](/wiki/Beatmap/Overall_difficulty) 应等于[下落速度 (AR)](/wiki/Beatmap/Approach_rate)**。
 
 ### osu!mania
@@ -183,7 +183,7 @@
 
 **谱面的所有元素都应该起到表现歌曲的作用。**
 
-这个原则听起来很简单，但它可能是上架谱面时最容易引起讨论的方面！诠释一首歌曲没有*唯一正确的方式*，因此每个人的诠释都各不相同，而[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 将判断你的诠释是否足以让谱面获得上架资格。
+这个原则听起来很简单，但它可能是上架谱面时最容易引起讨论的方面！诠释一首歌曲没有*唯一正确的方式*，因此每个人的诠释都各不相同。[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 将判断你的诠释是否足以让谱面获得上架资格。
 
 虽然无法准确解释如何表现歌曲，但以下这些提示应该能够引导你前往正确的方向：
 
