@@ -179,7 +179,7 @@ Some of the most difficult I have encountered was definitely Yuzu's flying secti
 
 ---
 
-And that's a wrap for the Finals recap! One final round determines the winner of the osu!taiko World Cup 2026, and we're looking forward to seeing you all there.
+And that's a wrap for the Finals recap! One final round remains, which will determine the winner of the osu!taiko World Cup 2026, and we're looking forward to seeing you all for the grande finale.
 Head over to the [TWC 2026 wiki page](/wiki/Tournaments/TWC/2026) to find out about all the match schedules and other necessary information and follow the [osulive Twitch channel](https://www.twitch.tv/osulive) to get notified when we go live.
 
 —Hivie, Sakura006 & Yasuho
