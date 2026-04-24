@@ -8,7 +8,7 @@
 
 ## 初始成员
 
-上架标准委员会的成员是精心挑选的，旨在代表不同地区的玩家和谱师，类似于[三头同盟](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate)的成员构成。
+上架标准委员会的成员是精心挑选的，旨在代表不同地区的玩家和谱师，类似于[三头同盟](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#三头同盟)的成员构成。
 
 ### osu! 成员
 
