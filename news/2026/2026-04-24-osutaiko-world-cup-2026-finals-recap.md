@@ -62,7 +62,17 @@ Check out [all the statistics for this round](https://drive.google.com/drive/fol
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2750862446" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-WIP by Hivie
+With a 6–7 score outcome, you can be certain that ::{ flag=TW }:: **Taiwan** vs. ::{ flag=BR }:: **Brazil** has been by far the most intense match of this week. So, let's take a moment to unpack this mighty showdown.
+
+Taiwan — the underdog seed-wise — started this match very strongly with a comfortable 4–0 lead through a multitude of difficult skillsets presented by [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3), [nitro (as "summersick") - summersick](https://osu.ppy.sh/beatmapsets/2004014#taiko/5616166) (HR1), [Camellia - QuomodocunquizE](https://osu.ppy.sh/beatmapsets/2537895#taiko/5616138) (NM3), and [ISLTR - nism (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2537884#taiko/5616113) (NM2).
+
+However, Brazil's fate was far from sealed. Their comeback began on [Demon King - Tyrannical Reign of the Deceiver](https://osu.ppy.sh/beatmapsets/2537898#taiko/5616147) (NM5), a stamina-heavy pick that played right into one of their strongest skillsets. With an SS from ::{ flag=BR }:: [miwoo](https://osu.ppy.sh/users/12630336) and a near-SS from ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), Brazil finally broke through Taiwan's opening streak. They carried that momentum forward through [Nakajima Megumi - TRY UNITE! (aran Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1968855#taiko/4083716) (DT2) with a double FC, and followed it up on [sheeno mirin - I found it out](https://osu.ppy.sh/beatmapsets/2098220#taiko/4401158) (NM6).
+
+The comeback reached its peak on [Ironmouse & Camellia - Waifu Jam (osu! edit)](https://osu.ppy.sh/beatmapsets/2537941#taiko/5616282) (DT1), where ::{ flag=BR }:: [miwoo](https://osu.ppy.sh/users/12630336) held the only FC in the lobby to bring Brazil all the way back to 4–4. Right as they looked ready to take full control, Taiwan swung the match back in their favour on this round's osu! original, [dennoko-P - Super-Focused Limit Break](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129) (NM1), reclaiming the lead.
+
+Their moment didn't last long however. Brazil struck back immediately on [XH & sugosugiii - STYLE! feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2537893#taiko/5616136) (NM4) and equalized once again, and [mimizu feat. Kasane Teto SV - Tatakina](https://osu.ppy.sh/beatmapsets/2448776#taiko/5346739) (HD2) pushed them into the lead for the first time, putting Brazil at match point and leaving Taiwan with zero room for error. With things looking bleak, Taiwan made their next pick count on [Zekk - Fluctuation](https://osu.ppy.sh/beatmapsets/2537913#taiko/5616183) (FM2), narrowly clutching the point and forcing a tiebreaker.
+
+The finale commenced on the osu! original [TWC Sound Team "FLiPFORCE" - ON.UR.MARKS...](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417) (TB), where both teams fought tooth and nail. Brazil held a solid lead for most of the map, but Taiwan steadily chipped away until overtaking them around the final quarter. From there, the lead bounced back and forth in a breathtaking closing stretch, with Taiwan ultimately holding on to win by 9,448 points. Both teams delivered a commendable performance — Taiwan's strong opening, Brazil's comeback, and the tense tiebreaker finish all came together to form a very memorable showdown.
 
 ## Storyboarder Interview
 
