@@ -93,9 +93,9 @@ translation_keys:
 
 本文列出了专为 osu! 或其他与 osu! 相关的活动（如锦标赛、作图竞赛和[精选艺术家](/wiki/People/Featured_Artists)公布）创作（或以其他方式首发的）的歌曲。
 
-尽管并非所有这些歌曲都经过官方授权并收录在[精选艺术家库](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1)中，但被收录的那一部分歌曲被称为“osu! 原创曲”(osu! originals)，并在其各自艺术家的页面上用 ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! 原创曲") 标签加以区分（本文中用图标 ![osu! 原创曲](/wiki/shared/link/original.png "osu! 原创曲") 来表示）。根据 [osu! 音乐许可政策](/wiki/Legal/Music_licensing)，这些歌曲以非排他性条款授权在 osu! 中使用。
+此列表中部分歌曲未经过官方授权，且未收录在[精选艺术家库](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1)中。
 
-相反，此列表中的其他所有歌曲并未经过授权，使用前可能需要获得许可。更多信息请参见[内容使用许可](/wiki/Rules/Content_usage_guidelines)。
+被收录的歌曲被称为“osu! 原创曲”(osu! originals)，在其各自艺术家的页面上用 ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! 原创曲") 标签加以区分（本文中用图标 ![osu! 原创曲](/wiki/shared/link/original.png "osu! 原创曲") 来表示）。根据 [osu! 音乐许可政策](/wiki/Legal/Music_licensing)，这些歌曲以非排他性条款授权在 osu! 中使用。本文中没有此标签的歌曲均未授权，使用前可能需要获得许可。更多信息请参见[内容使用许可](/wiki/Rules/Content_usage_guidelines)。
 
 <!--由于本列表内容持续增长，页面内容的更新通过外部电子表格 (https://docs.google.com/spreadsheets/d/1o--KQKvNF9JtmZmTGuzN6KyBpFwoQDr98TWRHhrzh-E) 进行，而非直接在 wiki 上编辑。若想添加歌曲或申请更改，请通过开发服务器的 #osu-wiki 频道联系，或与任意 wiki 维护者沟通，无需提交 PR。-->
 
