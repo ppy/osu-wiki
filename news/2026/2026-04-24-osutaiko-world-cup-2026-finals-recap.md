@@ -179,14 +179,11 @@ On the technical side of things, the most challenging element was editing the ba
 
 Some of the most difficult I have encountered was definitely Yuzu's flying sections as they involved a pseudo-Live2d animation technique semi popularised from [Stellar Memories](https://osu.ppy.sh/beatmapsets/1588624#osu/3244619) and various storyboards produced by [Initial D](https://osu.ppy.sh/users/8382535). Cutting and repainting parts of Yuzu's illustration as well as hand placing each movement of both angel illustrations were tedious but heavily paid off in the end.
 
-<div align="center" class="osu-md__paragraph">
-  <video width="95%" autoplay loop muted playsinline>
+<div class="osu-md__paragraph" style="display: flex">
+  <video width="50%" autoplay loop muted playsinline>
       <source src="https://assets.ppy.sh/media/news/2025-04-25-yuzu.webm" type="video/webm" preload="none">
   </video>
-</div>
-
-<div align="center" class="osu-md__paragraph">
-  <video width="95%" autoplay loop muted playsinline>
+  <video width="50%" autoplay loop muted playsinline>
       <source src="https://assets.ppy.sh/media/news/2025-04-25-yuzu-l2d.webm" type="video/webm" preload="none">
   </video>
 </div>
@@ -194,7 +191,7 @@ Some of the most difficult I have encountered was definitely Yuzu's flying secti
 This method was also done for both Tatsuma and Mocha casually sitting down by the river as well as separating Mocha's ears to give life to both characters. Another element that I am proud of is the smooth star background for the ship scenes using ultra wide star images.
 
 <div align="center" class="osu-md__paragraph">
-  <video width="95%" autoplay loop muted playsinline>
+  <video width="50%" autoplay loop muted playsinline>
       <source src="https://assets.ppy.sh/media/news/2025-04-25-mocha.webm" type="video/webm" preload="none">
   </video>
 </div>
