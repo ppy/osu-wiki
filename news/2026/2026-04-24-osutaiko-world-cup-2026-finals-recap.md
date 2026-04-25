@@ -72,7 +72,9 @@ Their moment didn't last long however. Brazil struck back immediately on [XH & s
 
 The finale commenced on the osu! original [TWC Sound Team "FLiPFORCE" - ON.UR.MARKS...](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417) (TB), where both teams fought tooth and nail. Brazil held a solid lead for most of the map, but Taiwan steadily chipped away until overtaking them around the final quarter. From there, the lead bounced back and forth in a breathtaking closing stretch, with Taiwan ultimately holding on to win by 9,448 points. Both teams delivered a commendable performance — Taiwan's strong opening, Brazil's comeback, and the tense tiebreaker finish all came together to form a very memorable showdown.
 
-## Storyboarder Interview
+## Storyboarder interview
+
+![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/coppertine-kuroise-and-noffy.png)
 
 <style>
     .news-chat-quote__avatar {
