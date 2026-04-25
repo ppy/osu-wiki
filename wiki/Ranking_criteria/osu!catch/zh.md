@@ -12,10 +12,10 @@
 
 #### 规定
 
-- **你的谱面必须理论上可以 SS。** 这意味着必须理论上能够完全接住所有[大果](/wiki/Hit_object/Fruit)、[中果](/wiki/Hit_object/Juice_stream#中果)和[小果](/wiki/Hit_object/Juice_stream#小果)。
+- **你的谱面必须理论上可以 SS。** 这意味着必须理论上能够完全接住所有[大果](/wiki/Gameplay/Hit_object/Fruit)、[中果](/wiki/Gameplay/Hit_object/Juice_stream#中果)和[小果](/wiki/Gameplay/Hit_object/Juice_stream#小果)。
 - **除非强制使用默认皮肤，否则谱面必须设置至少两种不同的自定义[连击颜色](/wiki/Beatmapping/Combo_colour)。**
   - 任何情况下，连击颜色组都不能容易与谱面的背景图片、故事板、背景视频相混淆。
-- **请勿在 hitnormal 音效较弱时使用[按键音](/wiki/Beatmapping/Hitsound#keysound)。** 如果按键音与音乐过于相似，玩家接住[大果](/wiki/Hit_object/Fruit)时获得的反馈将会非常微弱。
+- **请勿在 hitnormal 音效较弱时使用[按键音](/wiki/Beatmapping/Hitsound#keysound)。** 如果按键音与音乐过于相似，玩家接住[大果](/wiki/Gameplay/Hit_object/Fruit)时获得的反馈将会非常微弱。
 - **如果谱面的[掉血时间](/wiki/Beatmap/Drain_time)...**
   - **...小于 2:30**，则最低难度不得高于 Salad，或提供包含至少 4 个难度的合理难度分布[^proper-spread]。
   - **...在 2:30 到 3:15 之间**，则最低难度不得高于 Platter，或提供包含至少 3 个难度的合理难度分布[^proper-spread]。
