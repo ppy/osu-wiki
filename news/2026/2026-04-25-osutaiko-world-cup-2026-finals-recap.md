@@ -117,7 +117,9 @@ Welcome to the group interview! It's great to see many of the same designers ret
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/7279762">Coppertine</a></p>
 
-It was a nice change of pace, coming from a more abstract driven narrative to a very visual narrative that made us think outside the box a lot of times. One major change for me is the change in how I produced my storyboard sections. While previously working with storybrew, this time I only used the storyboard design editor and a simple notepad. This allowed easier collaboration with Noffy and Kuroise to both prototype and implement my storyboard sections by hand without having to code each sprite individually. This also allowed me to fine tune movement and animations for both Tatsuma and all the mascots without spending extra time typing out each movement.
+It was a nice change of pace, coming from a more abstract driven narrative to a very visual narrative that made us think outside the box a lot of times. One major change for me is the change in how I produced my storyboard sections. While previously working with storybrew, this time I only used the storyboard design editor and a simple notepad.
+
+This allowed easier collaboration with Noffy and Kuroise to both prototype and implement my storyboard sections by hand without having to code each sprite individually. This also allowed me to fine tune movement and animations for both Tatsuma and all the mascots without spending extra time typing out each movement.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14547127" style="background-image: url('/wiki/shared/avatars/Kuroise-3.jpg')"></a>
 
@@ -129,7 +131,9 @@ For the majority of the projects I've been in, the narrative was always towards 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/1541323">Noffy</a></p>
 
-The biggest difference for me was actually directly making full sections of the storyboard itself this year, where in BUZZ CUTZ I mainly oversaw the story, emotional support for everyone working on it, and providing assets and supporting ideas as needed. The elements of the story I helped incorporate into BUZZ CUTZ partly reflected personal fears I hold, spurred by memories of when an illness totally ruined my hearing for a month before and how I couldn't interact with anyone in the same way for a while. There was a very certain feeling packed in there of "present, but seperated". So ON.UR.MARKS... being able to show the ability for someone who started off alone being able to connect with others, create things, and help out was a lot of fun and healing too. I think that progression reflects a lot of the joy of connecting and creating in a group. Even when we're lonely, we have the power to support each other! ...And enjoy our Isekai life!!
+The biggest difference for me was actually directly making full sections of the storyboard itself this year, where in BUZZ CUTZ I mainly oversaw the story, emotional support for everyone working on it, and providing assets and supporting ideas as needed. The elements of the story I helped incorporate into BUZZ CUTZ partly reflected personal fears I hold, spurred by memories of when an illness totally ruined my hearing for a month before and how I couldn't interact with anyone in the same way for a while.
+
+There was a very certain feeling packed in there of "present, but seperated". So ON.UR.MARKS... being able to show the ability for someone who started off alone being able to connect with others, create things, and help out was a lot of fun and healing too. I think that progression reflects a lot of the joy of connecting and creating in a group. Even when we're lonely, we have the power to support each other! ...And enjoy our Isekai life!!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
@@ -141,7 +145,9 @@ Throughout the storyboard we saw Tatsuma meeting each osu! mascot one by one and
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
-We didn't want our little Tatsuma to continue his dark story, therefore we decided to have him in an isekai where we can make him silly! Dariacore is a complicated genre to storyboard for, so each section had to be distinct. We decided to go for an RPG-like narrative in which Tatsuma recruits all osu! mascots by helping them, that way we could have a very unique storyboard all throughout. Given the long duration of the song, we also opted to include some minigames for Tatsuma to do that were more static design-wise but also distinctive enough to justify it. These minigames helped give the storyboard more life while also saving time.
+We didn't want our little Tatsuma to continue his dark story, therefore we decided to have him in an isekai where we can make him silly! Dariacore is a complicated genre to storyboard for, so each section had to be distinct. We decided to go for an RPG-like narrative in which Tatsuma recruits all osu! mascots by helping them, that way we could have a very unique storyboard all throughout.
+
+Given the long duration of the song, we also opted to include some minigames for Tatsuma to do that were more static design-wise but also distinctive enough to justify it. These minigames helped give the storyboard more life while also saving time.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7279762" style="background-image: url('/wiki/shared/avatars/coppertine.jpg')"></a>
 
@@ -153,7 +159,9 @@ Working on Tatsuma's encounters with Mocha, pippi, the slimes, and the "love int
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/1541323">Noffy</a></p>
 
-As we worked on this in the early planning phase, there was also the concern that illustrating 6 characters in every scene would take much longer time wise than we had available. This excluded the type of isekai where a fully assembled party journeys to save the world. This influenced what we would do for the story, where we had the idea of Tatsuma meeting them and growing his group of friends scene by scene. I think this ended up a lot of fun to showcase what kind of problems each mascot ran into. After that was figured out is where I went a little off the rails in story ideas and I'm incredibly grateful for my fellow storyboarders and all of our illustrators to make it come to life and help wind it into something much more concrete to show as visuals.
+As we worked on this in the early planning phase, there was also the concern that illustrating 6 characters in every scene would take much longer time wise than we had available. This excluded the type of isekai where a fully assembled party journeys to save the world. This influenced what we would do for the story, where we had the idea of Tatsuma meeting them and growing his group of friends scene by scene.
+
+I think this ended up a lot of fun to showcase what kind of problems each mascot ran into. After that was figured out is where I went a little off the rails in story ideas and I'm incredibly grateful for my fellow storyboarders and all of our illustrators to make it come to life and help wind it into something much more concrete to show as visuals.
 
 ![](/wiki/shared/news/2026-04-25-osutaiko-world-cup-2026-finals-recap/comparison-sb.png)
 
@@ -167,13 +175,17 @@ When working on each mini story, how did you decide what kind of visuals or inte
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14547127">Kuroise</a></p>
 
-I've worked on the fishing, combat and building minigames and they were all tricky to execute: First, we needed a lot of illustrations. I'm glad I got to work with a group of illustrators as they were always available to provide assets for us. For example, [[celes]](https://osu.ppy.sh/users/9108428) made all the fishes, [HiROdoge](https://osu.ppy.sh/users/15251809) made the Tatsuma fighting assets, [Tuzzi0v0](https://osu.ppy.sh/users/29834309) made the sewing assets and [-pineapple-](https://osu.ppy.sh/users/11523326) did the space background. Second, each section had to be distinct from one another so everything had to be planned beforehand accordingly. I've made all sections with uniqueness in mind, but that doesn't mean all the ideas were fully original. In fact, all sections were inspired by past games I've watched or played: Fishing was inspired by Stardew Valley, Combat was inspired by Muse Dash and UNBEATABLE and Building was inspired by Minecraft and Terraria.
+I've worked on the fishing, combat and building minigames and they were all tricky to execute: First, we needed a lot of illustrations. I'm glad I got to work with a group of illustrators as they were always available to provide assets for us. For example, [[celes]](https://osu.ppy.sh/users/9108428) made all the fishes, [HiROdoge](https://osu.ppy.sh/users/15251809) made the Tatsuma fighting assets, [Tuzzi0v0](https://osu.ppy.sh/users/29834309) made the sewing assets and [-pineapple-](https://osu.ppy.sh/users/11523326) did the space background.
+
+Second, each section had to be distinct from one another so everything had to be planned beforehand accordingly. I've made all sections with uniqueness in mind, but that doesn't mean all the ideas were fully original. In fact, all sections were inspired by past games I've watched or played: Fishing was inspired by Stardew Valley, Combat was inspired by Muse Dash and UNBEATABLE and Building was inspired by Minecraft and Terraria.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/1541323" style="background-image: url('/wiki/shared/avatars/Noffy.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-nat" href="https://osu.ppy.sh/users/1541323">Noffy</a></p>
 
-On the technical side of things, the most challenging element was editing the background assets provided a little bit to be able to seamlessly loop them in the walking scenes. The original illustration was intended as a static background, so modifying it took time and testing to avoid any obvious edges showing. Story wise, there was a very intentional progression from fishing, a common JRPG side activity, to slimes battle, and then it slowly gets more out there with the ship repair and taking off into space as the story becomes distinctly Tatsuma's own. Tatsuma managed to find everyone and grow his party! Now that just leaves the question of if the idea of going into space to find Tatsuma's original home planet will work out for Tatsuma and his party or not.
+On the technical side of things, the most challenging element was editing the background assets provided a little bit to be able to seamlessly loop them in the walking scenes. The original illustration was intended as a static background, so modifying it took time and testing to avoid any obvious edges showing.
+
+Story wise, there was a very intentional progression from fishing, a common JRPG side activity, to slimes battle, and then it slowly gets more out there with the ship repair and taking off into space as the story becomes distinctly Tatsuma's own. Tatsuma managed to find everyone and grow his party! Now that just leaves the question of if the idea of going into space to find Tatsuma's original home planet will work out for Tatsuma and his party or not.
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/7279762" style="background-image: url('/wiki/shared/avatars/coppertine.jpg')"></a>
 
