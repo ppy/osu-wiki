@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2026: Finals Recap"
-date: 2026-04-24 14:00:00 +0000
+date: 2026-04-25 19:00:00 +0000
 series: world_cups
 ---
 
 Approaching the summit of the osu!taiko World Cup 2026, the last remaining teams put up a great show in this year's Finals.
 
-![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/banner.jpg)
+![](/wiki/shared/news/2026-04-25-osutaiko-world-cup-2026-finals-recap/banner.jpg)
 
 With only a handful of teams remaining, stakes and the pressure were high to outperform any team that was still aiming for a podium finish. Blood, sweat and tears were pouring down each player's face as they drummed their way through the Finals, and it was a fantastic sight to see them put up a great show for the crowds. Only a couple more steps towards the finish line, but we are yet to see who will take home the trophy.
 
@@ -19,7 +19,7 @@ With only a handful of teams remaining, stakes and the pressure were high to out
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2746363340" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/finals-pool.jpg)
+![Finals mappool table](/wiki/shared/news/2026-04-25-osutaiko-world-cup-2026-finals-recap/finals-pool.jpg)
 
 ## osu! originals
 
@@ -74,7 +74,7 @@ The finale commenced on the osu! original [TWC Sound Team "FLiPFORCE" - ON.UR.MA
 
 ## Storyboarder interview
 
-![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/coppertine-kuroise-and-noffy.png)
+![](/wiki/shared/news/2026-04-25-osutaiko-world-cup-2026-finals-recap/coppertine-kuroise-and-noffy.png)
 
 <style>
     .news-chat-quote__avatar {
@@ -155,7 +155,7 @@ Working on Tatsuma's encounters with Mocha, pippi, the slimes, and the "love int
 
 As we worked on this in the early planning phase, there was also the concern that illustrating 6 characters in every scene would take much longer time wise than we had available. This excluded the type of isekai where a fully assembled party journeys to save the world. This influenced what we would do for the story, where we had the idea of Tatsuma meeting them and growing his group of friends scene by scene. I think this ended up a lot of fun to showcase what kind of problems each mascot ran into. After that was figured out is where I went a little off the rails in story ideas and I'm incredibly grateful for my fellow storyboarders and all of our illustrators to make it come to life and help wind it into something much more concrete to show as visuals.
 
-![](/wiki/shared/news/2026-04-24-osutaiko-world-cup-2026-finals-recap/comparison-sb.png)
+![](/wiki/shared/news/2026-04-25-osutaiko-world-cup-2026-finals-recap/comparison-sb.png)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10365024" style="background-image: url('/wiki/shared/avatars/Sakura006.jpg')"></a>
 
