@@ -62,9 +62,7 @@ Check out [all the statistics for this round](https://drive.google.com/drive/fol
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2750862446" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-With a 6–7 score outcome, you can be certain that ::{ flag=TW }:: **Taiwan** vs. ::{ flag=BR }:: **Brazil** has been by far the most intense match of this week. So, let's take a moment to unpack this mighty showdown.
-
-Taiwan — the underdog seed-wise — started this match very strongly with a comfortable 4–0 lead through a multitude of difficult skillsets presented by [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3), [nitro (as "summersick") - summersick](https://osu.ppy.sh/beatmapsets/2004014#taiko/5616166) (HR1), [Camellia - QuomodocunquizE](https://osu.ppy.sh/beatmapsets/2537895#taiko/5616138) (NM3), and [ISLTR - nism (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2537884#taiko/5616113) (NM2).
+With a 6–7 score outcome, you can be certain that ::{ flag=TW }:: **Taiwan** vs. ::{ flag=BR }:: **Brazil** has been by far the most intense match of this week. So, let's take a moment to unpack this mighty showdown. Taiwan — the underdog seed-wise — started this match very strongly with a comfortable 4–0 lead through a multitude of difficult skillsets presented by [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3), [nitro (as "summersick") - summersick](https://osu.ppy.sh/beatmapsets/2004014#taiko/5616166) (HR1), [Camellia - QuomodocunquizE](https://osu.ppy.sh/beatmapsets/2537895#taiko/5616138) (NM3), and [ISLTR - nism (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2537884#taiko/5616113) (NM2).
 
 However, Brazil's fate was far from sealed. Their comeback began on [Demon King - Tyrannical Reign of the Deceiver](https://osu.ppy.sh/beatmapsets/2537898#taiko/5616147) (NM5), a stamina-heavy pick that played right into one of their strongest skillsets. With an SS from ::{ flag=BR }:: [miwoo](https://osu.ppy.sh/users/12630336) and a near-SS from ::{ flag=BR }:: [Skid](https://osu.ppy.sh/users/3044264), Brazil finally broke through Taiwan's opening streak. They carried that momentum forward through [Nakajima Megumi - TRY UNITE! (aran Remix) (Sped Up Ver.)](https://osu.ppy.sh/beatmapsets/1968855#taiko/4083716) (DT2) with a double FC, and followed it up on [sheeno mirin - I found it out](https://osu.ppy.sh/beatmapsets/2098220#taiko/4401158) (NM6).
 
@@ -185,7 +183,7 @@ Some of the most difficult I have encountered was definitely Yuzu's flying secti
 
 ## Score highlights
 
-- Shout-outs are due to ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027). After yet again being one of the top performers all weekend, scores like his 99.92% FC on [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3) and his stunning 1x100 finish on [Ludicin - Obliterate](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167) (HR2) didn't fail to impress casters and viewers alike. Setting these scores in a Finals round is definitely a feat of his skill, and we're excited to see him continue his strong performance in the upcoming Grand Finals round.
+Shout-outs are due to ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027). After yet again being one of the top performers all weekend, scores like his 99.92% FC on [Ice - Etude for the Sinners](https://osu.ppy.sh/beatmapsets/2538045#taiko/5616517) (FM3) and his stunning 1x100 finish on [Ludicin - Obliterate](https://osu.ppy.sh/beatmapsets/2537908#taiko/5616167) (HR2) didn't fail to impress casters and viewers alike. Setting these scores in a Finals round is definitely a feat of his skill, and we're excited to see him continue his strong performance in the upcoming Grand Finals round.
 
 ---
 
