@@ -63,7 +63,6 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/54)
 - [Challonge bracket](https://challonge.com/TWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/192) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1664)
 
 ## Participants
 
@@ -121,23 +120,26 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 ## Match schedule: Grand Finals
 
-### Saturday, 25 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| SM | Grand Finals | showmatch | [Apr 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| 45 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Apr 25 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T140000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-
 ### Sunday, 26 April 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 46a | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 26 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260426T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 | 46b | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 26 (Sun) 10:00 UTC](https://wwwtimeanddate.com/worldclock/converter.html?iso=20260426T100000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 25 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| SM | **Team kddk** | **6** | 5 | Team bongo | [#1](https://osu.ppy.sh/community/matches/121010479) | [#1](https://www.twitch.tv/videos/2756724314) |
+| 45 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/121010905) | [#1](https://www.twitch.tv/videos/2756777848) |
+
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1aC38wGYXcqKhDjm_ZLKPcIVIpq89R-H722CyK9tAXcU?rm=minimal).
 
 Saturday, 18 April 2026:
 
@@ -804,6 +806,4 @@ The final bracket configuration will be as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum.
-[^showmatch]: Grand Finals showmatch
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding losers bracket Grand Finals match
+[^grand-finals]: Grand Finals match
