@@ -60,7 +60,7 @@
 
 在 **例外情况** 下可以违反准则。这些例外情况必须能够详细解释，说明违反准则的原因，以及不违反准则将如何影响谱面的整体质量。
 
-- **低于 Inner Oni 的任何难度之间不得有巨大差距。**对于客串难度可适当放宽要求，以便协调不同谱师的难度分工。
+- **低于 Inner Oni 的任何难度之间不得有巨大差距。** 对于客串难度可适当放宽要求，以便协调不同谱师的难度分工。
 - **避免背景图中的重点被太鼓游玩区域遮挡住。**
 - **若考虑使用不同的滑条速度，则应使滑条速度与歌曲的强弱相关联。** 即不应该在高潮处使用较慢的滑条速度，也不应在平缓处使用较快的滑条速度。
 - **避免在复杂节奏中使用滑条速度平滑渐变的作图技法。** 这可能会影响玩家的读图。所以应在使用渐变 SV 时采用容易分辨的简单节奏，以避免音符重叠干扰读图。
@@ -92,8 +92,8 @@
 | :-: | :-: | :-: | :-- |
 | ![](/wiki/shared/diff/easy-t.png?20211215) **Kantan** | 3/1 或更长 | ![3/1](img/kantan.png "3/1") | 每 32-36 拍需要一个休息段 |
 | ![](/wiki/shared/diff/normal-t.png?20211215) **Futsuu** | 2/1 或更长 | ![2/1](img/futsuu.png "2/1") | 每 32-36 拍需要一个休息段 |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 1) | 3/2 或更长 | ![3/2](img/muzu1.png "3/2") | 每 32-36 拍需要一个休息段 |
-| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** (option 2) | 3 个连续的 1/1 或更长 | ![3 consecutive 1/1](img/muzu2.png "3 consecutive 1/1") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** （选项 1） | 3/2 或更长 | ![3/2](img/muzu1.png "3/2") | 每 32-36 拍需要一个休息段 |
+| ![](/wiki/shared/diff/hard-t.png?20211215) **Muzukashii** （选项 2） | 3 个连续的 1/1 或更长 | ![3 consecutive 1/1](img/muzu2.png "3 consecutive 1/1") | 每 32-36 拍需要一个休息段 |
 | ![](/wiki/shared/diff/insane-t.png?20211215) **Oni** | 1/1 或更长 | ![1/1](img/oni.png "1/1") | 每 16-20 拍需要一个休息段 |
 
 ### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
