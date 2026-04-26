@@ -52,6 +52,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 
 ### Automatización
 
@@ -85,7 +86,6 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) ![][osu!]
 - [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 - [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Barrel_Roll) ![][osu!]
 - [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different) ![][osu!]
 - [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Floating_Fruits) ![][osu!catch]
