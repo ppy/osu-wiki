@@ -26,7 +26,7 @@ osu! sử dụng các chỉ số tự động hóa kết hợp với xác nhận
 
 ## Chứng minh rằng tôi/họ đang gian lận! Hãy cho chúng tôi biết bạn biết như thế nào!
 
-Nhóm hỗ trợ sẽ không cung cấp bất kỳ "bằng chứng" liên quan đến các hạn chế nhưng tất cả đều được đặt ra với nghi ngờ có cơ sở, người dùng bình thường rất khó bị nhắm đến bởi những hành động như vậy.
+Nhóm hỗ trợ sẽ không cung cấp bất kỳ "bằng chứng" liên quan đến các hạn chế nhưng tất cả đều được đặt ra với sự nghi ngờ có cơ sở, người dùng bình thường rất khó bị nhắm đến bởi những hành động như vậy.
 
 ## Tôi sẽ làm một video để chứng minh mình vô tội!
 
@@ -52,7 +52,7 @@ Trên trang beatmap, bạn có thể báo cáo một người dùng trong bảng
 
 ### Trong trò chuyện trò chơi 
 
-Cách báo cáo này **không được khuyến khích** vì các báo cáo trong trò chơi chủ yếu liên quan đến trò chuyện. 
+Cách báo cáo này **không được khuyến khích** vì các báo cáo trong trò chơi chủ yếu liên quan đến chat. 
 
 Sử dụng lệnh `!report` trong bất kỳ kênh công cộng nào để thông báo cho các người điều hành trò chuyện. Các người chơi khác sẽ không thấy báo cáo của bạn trong trò chuyện.
 
