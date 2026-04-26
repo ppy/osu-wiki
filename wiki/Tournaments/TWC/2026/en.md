@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2026 banner](img/twc2026-banner.jpg)
 
-The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the sixteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2026** (***TWC 2026***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2026 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!taiko World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!taiko World Cup 2026 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, limited-edition merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, limited-edition merch, profile badge |
 
+![](img/twc2026-badge-1st.png "TWC 2026 winner badge") ![](img/twc2026-badge-2nd.png "TWC 2026 2nd-place badge") ![](img/twc2026-badge-3rd.png "TWC 20266 3rd-place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!taiko World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -118,13 +120,9 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Sunday, 26 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 46b | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 26 (Sun) 10:00 UTC](https://wwwtimeanddate.com/worldclock/converter.html?iso=20260426T100000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/twc2026-podium.jpg "TWC 2026 podium")
 
 ## Match results
 
@@ -136,6 +134,12 @@ Saturday, 25 April 2026:
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
 | SM | **Team kddk** | **6** | 5 | Team bongo | [#1](https://osu.ppy.sh/community/matches/121010479) | [#1](https://www.twitch.tv/videos/2756724314) |
 | 45 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/121010905) | [#1](https://www.twitch.tv/videos/2756777848) |
+
+Sunday, 26 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 46b | **Japan** ::{ flag=JP }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/121017600) | [#1](https://www.twitch.tv/videos/2757488797) |
 
 ### Finals
 
@@ -602,7 +606,7 @@ Group H:
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
       - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
-      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
+      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
