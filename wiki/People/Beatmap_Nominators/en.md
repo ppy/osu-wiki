@@ -166,8 +166,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | Chinese |
 | ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) | Russian |
 | ::{ flag=ID }:: [\[-E S I A-\]](https://osu.ppy.sh/users/5159715) | Indonesian |
+| ::{ flag=KR }:: [6\_9](https://osu.ppy.sh/users/2998248) | Korean |
 | ::{ flag=VN }:: [Amasugi](https://osu.ppy.sh/users/10415491) | Vietnamese, Japanese |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
+| ::{ flag=RU }:: [Dekovner](https://osu.ppy.sh/users/19859015) | Russian |
+| ::{ flag=FO }:: [doink](https://osu.ppy.sh/users/22522738) | Danish |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japanese |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese, Japanese |
@@ -188,9 +191,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | German, Serbian, Japanese |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japanese |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | Russian |
+| ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793) | French |
 | ::{ flag=CA }:: [SN707](https://osu.ppy.sh/users/31404061) | Korean |
 | ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
 | ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669) | Spanish |
+| ::{ flag=FR }:: [Wanijimaru](https://osu.ppy.sh/users/22670606) | French, Spanish |
 | ::{ flag=TW }:: [wth](https://osu.ppy.sh/users/8957119) | Chinese |
 | ::{ flag=JP }:: [yakisode](https://osu.ppy.sh/users/35619347) | Japanese |
 
@@ -287,13 +292,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 #### osu!taiko
 
-| Name | Additional languages |
-| :-- | :-- |
-| ::{ flag=KR }:: [6\_9](https://osu.ppy.sh/users/2998248) | Korean |
-| ::{ flag=RU }:: [Dekovner](https://osu.ppy.sh/users/19859015) | Russian |
-| ::{ flag=FO }:: [doink](https://osu.ppy.sh/users/22522738) | Danish |
-| ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793) | French |
-| ::{ flag=FR }:: [Wanijimaru](https://osu.ppy.sh/users/22670606) | French, Spanish |
+No members at this time.
 
 #### osu!catch
 
