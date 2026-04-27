@@ -12,7 +12,7 @@ Time for some fresh leaderboards.
 
 Thank you to everybody who participated in the [survey posted back in January](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers).
 
-The existing mod multipliers used in osu!(lazer) have been a point of contention over the past few years as they have resulted in unfair leaderboards, resulting in the creation of this survey. Following careful interpretation of the survey results as well as discussions amongst those involved, we can now present a set of changes to mod multipliers for the **osu!(lazer) client**.
+The existing mod multipliers used in osu!(lazer) have been a point of contention over the past few years as they have resulted in unfair leaderboards, which is why this survey was created. Following careful interpretation of the survey results as well as discussions amongst those involved, we can now present a set of changes to mod multipliers for the **osu!(lazer) client**.
 
 ## Classic mod
 
