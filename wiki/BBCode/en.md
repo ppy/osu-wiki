@@ -15,6 +15,34 @@ A set of correct and incorrect usages of nested tags is described below:
 - `[centre][b]text[/b][/centre]` is correct
 - `[b][centre]text[/b][/centre]` is incorrect
 
+## Alignment
+
+Alignment tags are used to control the horizontal positioning of text and BBCode elements. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be aligned accordingly with the alignment tag, but the vertical line of the quote block will remain on the left.
+
+### Left
+
+```
+[left]text[/left]
+```
+
+The `[left]` tag is used to align content to the left. All content is aligned left by default.
+
+### Centre
+
+```
+[centre]text[/centre]
+```
+
+The `[centre]` tag is used to align content to the centre. This is most often used for stylistic effect in titles, headers, or poems.
+
+### Right
+
+```
+[right]text[/right]
+```
+
+The `[right]` tag is used to align content to the right.
+
 ## Tags
 
 BBCode, like many other markup languages, formats text using a system of tags, which is indicated by a pair of square brackets (`[]`). These tags are divided into "opening" and "closing" tags, which are differentiated via the inclusion of a forward slash (`/`). Specifically, closing tags contain a forward slash right after the opening bracket, while open tags do not.
