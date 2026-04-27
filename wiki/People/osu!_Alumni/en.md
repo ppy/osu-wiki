@@ -167,6 +167,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ::{ flag=CA }:: [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ::{ flag=GB }:: [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | NAT |
 | ::{ flag=JP }:: [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ::{ flag=KR }:: [minyeob](https://osu.ppy.sh/users/9207) | BAT |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | NAT |
