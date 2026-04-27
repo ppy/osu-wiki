@@ -65,9 +65,9 @@ However, due to how this mod interacts with the Hidden (HD) mod, the multiplier 
 
 ---
 
-For those who are interested in doing their own interpretations of the survey results, you can see an anonymised view of the results [here](https://osu.ppy.sh).
+<!-- todo: replace with real results link -->
 
----
+For those who are interested in doing their own interpretations of the survey results, you can see an anonymised view of the results [here](https://osu.ppy.sh).
 
 Once again, many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey, programming the spreadsheet and interpreting the results.
 
