@@ -202,14 +202,6 @@ The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformat
 
 Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
 
-### Centre
-
-```
-[centre]text[/centre]
-```
-
-The `[centre]` tag is used to align text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
-
 ### URL
 
 ```
