@@ -476,6 +476,33 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 | Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
+#### [Newspaper Cup \#8 (2022)](https://osu.ppy.sh/community/forums/topics/1457197)
+
+| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | ![Gold crown][GCrown] (Novice winner)[^newspaper-cup-8-novice] | Results |
+| :-- | :-: | :-- | :-- | :-- | :-- | :-- |
+| Vocal[^newspaper-cup-8-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) and ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) | ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573) and ::{ flag=CA }:: [arkisol](https://osu.ppy.sh/users/9331411) | ::{ flag=CN }:: [FORMless000](https://osu.ppy.sh/users/8697654) | ::{ flag=CN }:: [FORMless000](https://osu.ppy.sh/users/8697654) | [#1](https://osu.ppy.sh/community/forums/topics/1457197) |
+| Instrumental[^newspaper-cup-8-instrumental] | ![osu!][osu!] | ::{ flag=CL }:: [Pyo](https://osu.ppy.sh/users/6641784) | ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) and ::{ flag=US }:: [zhuxiaoyan](https://osu.ppy.sh/users/5129592) | ::{ flag=CN }:: [X Light](https://osu.ppy.sh/users/1814662) | ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268) | [#1](https://osu.ppy.sh/community/forums/topics/1457197) |
+
+#### [Newspaper Cup \#9 (2023)](https://osu.ppy.sh/community/forums/topics/1718458)
+
+| Song | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-- | :-: | :-- | :-- | :-- | :-- |
+| Kobayashi Yuuya(IOSYS) feat. miko - Pizza ga Tabetakute Shouganai Minasan no Kimochi o Daibenshimashita | ![osu!][osu!] | ::{ flag=HK }:: [Agllius](https://osu.ppy.sh/users/25353372) | ::{ flag=CN }:: [\-AkamatsuKaede\-](https://osu.ppy.sh/users/10927454) | ::{ flag=CN }:: [Graphical](https://osu.ppy.sh/users/21397778) | [#1](https://osu.ppy.sh/community/forums/topics/1747425) |
+| Nardis - Spencer (Cut Ver.) | ![osu!][osu!] | ::{ flag=CN }:: [Graphical](https://osu.ppy.sh/users/21397778) | ::{ flag=CN }:: [\-AkamatsuKaede\-](https://osu.ppy.sh/users/10927454) | ::{ flag=CN }:: [Robinia](https://osu.ppy.sh/users/16081750) | [#1](https://osu.ppy.sh/community/forums/topics/1747425) |
+
+#### [Newspaper Cup \#10 (2024)](https://osu.ppy.sh/community/forums/topics/1854946)
+
+| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-- | :-: | :-- | :-- | :-- | :-- |
+| Vocal[^newspaper-cup-10-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [Lost world](https://osu.ppy.sh/users/22414293) | ::{ flag=UA }:: [Judge1st](https://osu.ppy.sh/users/10610737) | ::{ flag=HK }:: [\-Sabao\-](https://osu.ppy.sh/users/17361895) | [#1](https://mappersguild.com/contests/results?contest=65b08f18d254449b92a641b8) |
+| Instrumental[^newspaper-cup-10-instrumental] | ![osu!][osu!] | ::{ flag=CN }:: [Lost world](https://osu.ppy.sh/users/22414293) | ::{ flag=CN }:: [Decay Limerence](https://osu.ppy.sh/users/4814169) | ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988)[^newspaper-cup-10-instrumental-badge] | [#1](https://mappersguild.com/contests/results?contest=647ed683857fb2a47bfe3bc8) |
+
+#### [Newspaper Cup \#11 (2025)](https://osu.ppy.sh/community/forums/topics/2030364)
+
+| Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-- | :-: | :-- | :-- | :-- |
+| ![osu!][osu!] | ::{ flag=CN }:: [PEALEERD_TAK](https://osu.ppy.sh/users/6214002) | ::{ flag=CN }:: [Mimosa M](https://osu.ppy.sh/users/24010320) | ::{ flag=CN }:: [YeLing](https://osu.ppy.sh/users/14726718) | [#1](https://mappersguild.com/contests/results?contest=6834fbb0fc4f78a776326a8a) |
+
 ### Russian Community Beatmapping Contest
 
 The **Russian Community Beatmapping Contest** is a mapping contest for Russian-speaking community members with no specific country restrictions, meaning anyone who can speak Russian language can participate.
@@ -489,10 +516,16 @@ The **Russian Community Beatmapping Contest** is a mapping contest for Russian-s
 
 ## Notes
 
+[^newspaper-cup-10-instrumental-badge]: According to the contest rules, when a contestant submits multiple entries, only the highest-scoring entry is counted towards the final score. Therefore, the badge was awarded to the next novice contestant in the lower-scoring track.
+[^newspaper-cup-10-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: Snail's House - Sunflower and katagiri - Urushi. 
+[^newspaper-cup-10-instrumental]: The Instrumental category provides mappers with a choice of two different songs to be mapped: Yui Ogura - Empty//Princess and marasy x Jin x kemu feat. Kagamine Rin - Shinjinrui. 
+[^newspaper-cup-8-novice]: The Novice category was introduced to reward the best-performing novice mappers in each category regardless of their final placement. The details of what counts as a "novice mapper" can be found in [this forum post](https://osu.ppy.sh/community/forums/topics/1457197).
+[^newspaper-cup-8-vocal]: The Vocal category provides mappers with a choice of five different songs to be mapped: Three feat Kagamine Len - Junky Night Town Orchestra, Wanuka - Patchwork, ZUTOMAYO - Stay Foolish, Qrispy Joybox feat. Tokiwa Yu - Shiratsuyu no Kaze, and PUP - Can't Win.
+[^newspaper-cup-8-instrumental]: The Instrumental category provides mappers with a choice of five different songs to be mapped: kors k - Flash Back 90’s (Extended), Umeboshi Chazuke - Midnight Trickster, FizzD - Super Battleworn Insomniac, UNDEAD CORPORATION - Chiri Yuku Mono wa Umi no Hana, and xi - Breakthrough Atmosphere.
 [^pending-cup-11-track2-3]: The two tracks were combined to meet [official beatmapping contest support](/wiki/Contests/Official_support) requirements.
 [^pending-cup-11-track2-3-badge]: As the contest rules stated if a contestant submits entries for multiple tracks, only the higher scoring entry will be counted towards final scorings, badge eligibility was given to the next ranked contestant in the lower scoring track.
 [^pending-cup-10-vocal]: The Vocal category provides mappers with a choice of five different songs to be mapped: Wotamin - Kinetic Henai Club, Shikata Akiko - Expressive Hill -Harmonics EOLIA-, Feryquitous - Estahv, Eve/rei sirose - Airhead, NceS - Burn.
-[^pending-cup-10-fa-instrumental]: The Instrumental and Featured Artist categories were combined to meet [Official beatmapping contest support](/wiki/Contests/Official_support) requirements. The category provides mappers with a choice of 10 different songs to be mapped: Instrumental: The Brutal King - theme of Rance, Ebico & jioyi - Slit, sasakure.UK - Helix of Garatia, kamome sano - init\(\), and Nankumo - DRAGONLADY; Featured Artist: A.SAKA - REIMEI, Annabel - Wormhole, Morimori Atsushi - Realization, polysha feat. Sennzai - Hurt Urge, Raimukun - Cthulhu.
+[^pending-cup-10-fa-instrumental]: The Instrumental and Featured Artist categories were combined to meet the [official beatmapping contest support](/wiki/Contests/Official_support) requirements. The category provides mappers with a choice of 10 different songs to be mapped: Instrumental: The Brutal King - theme of Rance, Ebico & jioyi - Slit, sasakure.UK - Helix of Garatia, kamome sano - init\(\), and Nankumo - DRAGONLADY; Featured Artist: A.SAKA - REIMEI, Annabel - Wormhole, Morimori Atsushi - Realization, polysha feat. Sennzai - Hurt Urge, and Raimukun - Cthulhu.
 [^pending-cup-9-fa]: The Featured Artist category provides mappers with a choice of five different songs to be mapped: MYUUKE. - The 89's Momentum, yukitani - Amusing Colorful Pudding., BlackY - Sakura Ranman Cleopatra, UMEBOSHICHAZUKE - ICHIBANBOSHIROCKET, and Frums - Jam with Pancake.
 [^pending-cup-9-vocal]: The Vocal category provides mappers with a choice of five different songs to be mapped: Eve - Dramaturgy, Kaf - Soshite Hana ni Naru, 96Neko feat. Kogeinu - Akatsuki Arrival, Ado - Odo, and kradness & Reol - Oni KYOKAN.
 [^pending-cup-9-instrumental]: The Instrumental category provides mappers with a choice of five different songs to be mapped: BEMANI Sound Team Yvya - Vitrum, Luar - Vindication, M2U - Tian Di Kai Pi, MiddleIsland - Lilac, nato - Nihilism \(Another ver.\)

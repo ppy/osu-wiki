@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2026 banner](img/twc2026-banner.jpg)
 
-The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the sixteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2026** (***TWC 2026***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2026** (***TWC 2026***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2026 offers a $2,000 cash prize pool and limited-edition merch.
+The osu!taiko World Cup 2026 offered a $2,000 cash prize pool and limited-edition merch.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!taiko World Cup 2026 offers a $2,000 cash prize pool and limited-edition
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, limited-edition merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, limited-edition merch, profile badge |
 
+![](img/twc2026-badge-1st.png "TWC 2026 winner badge") ![](img/twc2026-badge-2nd.png "TWC 2026 2nd-place badge") ![](img/twc2026-badge-3rd.png "TWC 20266 3rd-place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The osu!taiko World Cup 2026 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -50,7 +52,7 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 | Referees | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=AR }:: [KlBBY](https://osu.ppy.sh/users/12182138), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statisticians | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | News team | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=GB }:: [overdahedge2015](https://osu.ppy.sh/users/9864847), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
+| osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=AU }:: [\-pineapple\-](https://osu.ppy.sh/users/11523326), ::{ flag=US }:: [\[celes\]](https://osu.ppy.sh/users/9108428), ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=HK }:: [Arushii](https://osu.ppy.sh/users/15664628), ::{ flag=US }:: [Boolmaster Flex](https://osu.ppy.sh/users/5394681), ::{ flag=PH }:: [chocomilku\-](https://osu.ppy.sh/users/16687756), ::{ flag=AU }:: [Coppertine](https://osu.ppy.sh/users/7279762), ::{ flag=PH }:: [Creameries](https://osu.ppy.sh/users/15851364), ::{ flag=PH }:: [Danimato](https://osu.ppy.sh/users/23541645), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=CA }:: [enviyuu](https://osu.ppy.sh/users/12084808), ::{ flag=MY }:: [HiROdoge](https://osu.ppy.sh/users/15251809), ::{ flag=CN }:: [hourius](https://osu.ppy.sh/users/12580298), ::{ flag=TH }:: [Initial D](https://osu.ppy.sh/users/8382535), ::{ flag=HK }:: [Isuzaki](https://osu.ppy.sh/users/39126469), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=BR }:: [Jhown](https://osu.ppy.sh/users/14772488), ::{ flag=UA }:: [konchaan](https://osu.ppy.sh/users/30003504), ::{ flag=MY }:: [Kourihase](https://osu.ppy.sh/users/13298982), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=MY }:: [mochasan\_](https://osu.ppy.sh/users/23804364), ::{ flag=US }:: [mohca](https://osu.ppy.sh/users/14499702), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825), ::{ flag=IE }:: [naraicat](https://osu.ppy.sh/users/6419788), ::{ flag=VN }:: [Ningguang](https://osu.ppy.sh/users/8500334), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=MY }:: [R3aCt10n](https://osu.ppy.sh/users/17020051), ::{ flag=IN }:: [Raybean](https://osu.ppy.sh/users/16676388), ::{ flag=ID }:: [smsrdzc](https://osu.ppy.sh/users/38505034), ::{ flag=JP }:: [sugosugiii](https://osu.ppy.sh/users/15118952), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CA }:: [Tuzzi0v0](https://osu.ppy.sh/users/29834309), ::{ flag=ID }:: [Yamanin Zephyr](https://osu.ppy.sh/users/9148291), ::{ flag=MY }:: [Z419](https://osu.ppy.sh/users/9912966) |
 | Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Musician | [ALEPH](https://osu.ppy.sh/beatmaps/artists/107), [Camellia](https://osu.ppy.sh/beatmaps/artists/31), [Cansol](https://osu.ppy.sh/beatmaps/artists/407), [dennoko-P](https://x.com/dennoko_p), [Ennnn](https://soundcloud.com/ennnn), [OLDUCT](https://lit.link/olduct), [TWC SOUND TEAM "FLiPFORCE"](https://soundcloud.com/elw00d/on-ur-marks), [uynet](https://osu.ppy.sh/beatmaps/artists/453) |
 
@@ -63,7 +65,6 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/54)
 - [Challonge bracket](https://challonge.com/TWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/192) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1664)
 
 ## Participants
 
@@ -119,25 +120,30 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b38d4e22d9926c8e0bb24c5a634ac8d).
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 25 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| SM | Grand Finals | showmatch | [Apr 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T130000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-| 45 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Apr 25 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T140000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-
-### Sunday, 26 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 46a | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 26 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260426T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
-| 46b | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 26 (Sun) 10:00 UTC](https://wwwtimeanddate.com/worldclock/converter.html?iso=20260426T100000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
+![](img/twc2026-podium.jpg "TWC 2026 podium")
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 25 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| SM | **Team kddk** | **6** | 5 | Team bongo | [#1](https://osu.ppy.sh/community/matches/121010479) | [#1](https://www.twitch.tv/videos/2756724314) |
+| 45 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/121010905) | [#1](https://www.twitch.tv/videos/2756777848) |
+
+Sunday, 26 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 46b | **Japan** ::{ flag=JP }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/121017600) | [#1](https://www.twitch.tv/videos/2757488797) |
+
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1aC38wGYXcqKhDjm_ZLKPcIVIpq89R-H722CyK9tAXcU?rm=minimal).
 
 Saturday, 18 April 2026:
 
@@ -600,7 +606,7 @@ Group H:
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
       - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
-      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
+      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
@@ -804,6 +810,3 @@ The final bracket configuration will be as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum.
-[^showmatch]: Grand Finals showmatch
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding losers bracket Grand Finals match
