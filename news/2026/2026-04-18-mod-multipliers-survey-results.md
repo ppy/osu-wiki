@@ -12,11 +12,41 @@ Time for some fresh leaderboards.
 
 Thank you to everybody who participated in the [survey posted back in January](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers).
 
-To recap - the new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the stable release. You can [read about these changes on the wiki](https://osu.ppy.sh/wiki/en/Help_centre/Upgrading_to_lazer#gameplay-differences). As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Classic) applied, which was set to a 0.96x mod multiplier. This, amongst other mods, have been a point of contention over the past few years, resulting in the creation of this survey.
+To recap - the new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the stable release. You can [read about these changes on the wiki](https://osu.ppy.sh/wiki/en/Help_centre/Upgrading_to_lazer#gameplay-differences).
+
+## Classic mod
+
+As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](https://osu.ppy.sh/wiki/en/Gameplay/Game_modifier/Classic) applied, which was set to a 0.96x mod multiplier. This, amongst other mods, have been a point of contention over the past few years, resulting in the creation of this survey.
+
+Following this survey, we have updated the Classic mod multiplier for **all** game modes. All other mod multiplier changes in this newspost will be for the **osu!** game mode only.
+
+<!-- todo: update osu! CL multiplier with real value -->
+
+### osu!
+
+Before: 0.96x
+After: x.xxx
+
+### osu!taiko
+
+Before: 0.96x
+After: 1.0x
+
+### osu!catch
+
+Before: 0.96x
+After: 1.0x
+
+### osu!mania
+
+Before: 0.96x
+After: 1.0x
 
 ## Survey results
 
 Following careful interpretation of the survey results as well as discussions amongst those involved, we can now present a set of changes to mod multipliers for the **osu!(lazer) client**:
+
+<!-- todo: replace with image of real multipliers -->
 
 ![](/wiki/shared/news/2026-04-18-mod-multipliers-survey-results/mod-multipliers.png)
 
@@ -28,8 +58,8 @@ Alongside the changes shown above, there are also some multiplier changes which 
 
 Assuming no other mods, the new multipliers for PM are as follows:
 
-- Before: 1.04x
-- After: 1.02x
+Before: 1.04x
+After: 1.02x
 
 However, due to how this mod interacts with the Hidden (HD) mod, the multiplier will be further reduced to 1.01x when paired alongside HD.
 
