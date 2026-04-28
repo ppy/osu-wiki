@@ -14,6 +14,20 @@ Thank you to everybody who participated in the [survey posted back in January](h
 
 The existing mod multipliers used in osu!(lazer) have been a point of contention over the past few years as they have resulted in unfair leaderboards, which is why this survey was created. What followed was careful interpretation of survey responses (~3600 in total) as well as discussion amongst those involved to rebalance leaderboards. Today, we finally present new mod multipliers for the **osu!(lazer) client**.
 
+## Release schedule
+
+### ✅ osu!(lazer) client update
+
+A new release featuring updated mod multipliers has been published. This means all new scores will be using the new multipliers.
+
+### 🏃 Recalculate total score of all scores (3-5 days)
+
+To start with, we are recalculating the total score of all scores to account for the new multipliers. This means that leaderboards may appear in an unexpected order whilst calculations are ongoing.
+
+### ⏳ Reprocess first places
+
+Once all scores are recalculated, we need to reprocess first places to reflect the updated leaderboards. First places may appear incorrect until this process is complete.
+
 ## Classic mod
 
 To recap - the new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the osu!(stable) client. You can [read about these changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences).
