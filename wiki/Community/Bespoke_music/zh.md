@@ -29,62 +29,61 @@ translation_keys:
     song: 歌曲
     beatmap: 谱面
     notes: 备注
-  table_note:  # 这些替换规则会按顺序对每个 备注/图池 槽位执行
-    # 常规备注
-    "Former": 曾经的
-    "Current": 当前
-    "osu!\\(lazer\\) main theme": osu!(lazer) 主主题曲
-    "osu! theme": osu! 主题曲
-    "osu!\\(lazer\\) \"ranked play\" theme": osu!(lazer) 排位模式主题曲
-    " tutorial song": 教程歌曲
-    "Christmas/Winter (\\d{4}) ": "\\1 年圣诞节/冬季 "
-    "Halloween 2016 ": "2016 年万圣节 "
-    "Summer 2023 ": "2023 年夏季 "
-    "Original composition for \\[osu!stream\\]\\(/wiki/osu!stream\\)": 为 [osu!stream](/wiki/osu!stream) 原创的作品
-    "\\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": "[osu!stream](/wiki/osu!stream) 主主题曲"
-    "Cutscene background music": 过场动画背景音乐
-    "Ending credits theme": 落幕音乐
-    "Livestream BGM": 直播背景音乐
-    "Main theme": 主主题曲
-    "Trailer music": 预告片音乐
-    # 特例
-    "(osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?)": \1 和 \2
+  table_note:
+    Former: 曾经的
+    Current: 当前
+    osu!\(lazer\) main theme: osu!(lazer) 主主题曲
+    osu! theme: osu! 主题曲
+    osu!\(lazer\) "ranked play" theme: osu!(lazer) 排位模式主题曲
+    ' tutorial song': 教程歌曲
+    'Christmas/Winter (\d{4}) ': '\1 年圣诞节/冬季 '
+    'Halloween 2016 ': '2016 年万圣节 '
+    'Summer 2023 ': '2023 年夏季 '
+    Original composition for \[osu!stream\]\(/wiki/osu!stream\): 为 [osu!stream](/wiki/osu!stream)
+      原创的作品
+    \[osu!stream\]\(/wiki/osu!stream\) main theme: '[osu!stream](/wiki/osu!stream)
+      主主题曲'
+    Cutscene background music: 过场动画背景音乐
+    Ending credits theme: 落幕音乐
+    Livestream BGM: 直播背景音乐
+    Main theme: 主主题曲
+    Trailer music: 预告片音乐
+    (osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?): \1 和 \2
     '(\d+)\s+Pool #?(\w+)': \1 图池 \2 中的
     '(\w+?)\s+Pool #?(\w+)': \1图池 \2 中的
     '^Pool #?(\w+)': 图池 \1 中的
-    "Day (\\d+)": 第 \1 天
-    "5k division": 5K 组
-    " & ": 与
-    # 轮次
-    "LAN": 线下赛
-    "Swiss Week (\\d+) (.+)": 瑞士轮第 \1 周 \2
-    "Swiss Stage (\\d+) (.+)": 瑞士轮阶段 \1 \2
-    "Knockout Stage (\\d+) (.+)": 淘汰赛阶段 \1 \2
-    "Knockout Week (\\d+) (.+)": 淘汰赛第 \1 周 \2
-    "Week (\\d+) (.+)": 第 \1 周 \2
-    "Knockout (\\d+) (.+)": 淘汰赛轮次 \1 的 \2
-    "Bracket Stage": 分组淘汰赛
-    "Group Stage": 小组赛
-    "Round Robin": 循环赛
-    "Battle Royale 1v1": 大逃杀 1v1
-    "Playoff (\\d+) (.+)": 季后附加赛 \1 的 \2
-    "Playoffs": 季后附加赛
-    "Face-Offs": 大乱斗
-    "Grand [Ff]inals": 总决赛
-    "Semifinals": 半决赛
-    "Quarterfinals": 四分之一决赛
-    "[Ff]inals": 决赛
-    "Round of (\\d+)": \1 强赛
-    "Qualifiers? Stage (\\d+)": 资格赛阶段 \1
-    "Qualifiers": 资格赛
-    # 对阵分组
-    "Last Chance Bracket": 败者复活赛
-    "^Runoff Bracket": 附加名次赛
-    "^Tier (\\d) (.+)": Tier \1 \2
-    # 槽位
-    "tiebreaker": TB
-    " wildcard": 外卡
-    " pick": " 选图"
+    Day (\d+): 第 \1 天
+    5k division: 5K 组
+    ' & ': 与
+    LAN: 线下赛
+    Swiss Week (\d+) (.+): 瑞士轮第 \1 周 \2
+    Swiss Stage (\d+) (.+): 瑞士轮阶段 \1 \2
+    Knockout Stage (\d+) (.+): 淘汰赛阶段 \1 \2
+    Knockout Week (\d+) (.+): 淘汰赛第 \1 周 \2
+    Week (\d+) (.+): 第 \1 周 \2
+    Knockout (\d+) (.+): 淘汰赛轮次 \1 的 \2
+    Bracket Stage: 分组淘汰赛
+    Group Stage: 小组赛
+    Round Robin: 循环赛
+    Battle Royale 1v1: 大逃杀 1v1
+    Playoff (\d+) (.+): 季后附加赛 \1 的 \2
+    Playoffs: 季后附加赛
+    Face-Offs: 大乱斗
+    Grand [Ff]inals: 总决赛
+    Semifinals: 半决赛
+    Quarterfinals: 四分之一决赛
+    '[Ff]inals': 决赛
+    Round of (\d+): \1 强赛
+    Qualifiers? Stage (\d+): 资格赛阶段 \1
+    Qualifiers: 资格赛
+    Last Chance Bracket: 败者复活赛
+    ^Runoff Bracket: 附加名次赛
+    ^Tier (\d) (.+): Tier \1 \2
+    tiebreaker: TB
+    ' wildcard': 外卡
+    ' pick': ' 选图'
+outdated_translation: true
+outdated_since: 2f576e595cc820db0f9aa95ae94f575057313d7f
 ---
 
 <!-- “统计”部分和“列表”部分的所有内容都是自动化翻译的。如果一条翻译有误、格式不正确或需要更新，请通过开发服务器上的 `#osu-wiki` 频道联系 wiki 维护者。 -->
