@@ -50,7 +50,7 @@ After: 1.0x
 
 ![](/wiki/shared/news/2026-04-18-mod-multipliers-survey-results/mod-multipliers.png)
 
-Alongside the changes shown above, there are also mods with multiplier changes which aren't a simple number tweak. osu!(lazer) adds a series of new fun mods for all to enjoy, and some of these mods change gameplay significantly when paired with other mods. As a result, these cases will have different multipliers depending on what other mods are enabled:
+Alongside the changes shown above, there are also mods with multiplier changes which aren't a simple number tweak. osu!(lazer) adds a series of new fun mods for all to enjoy, and some of these mods' difficulty is reduced when paired with other mods. As a result, these cases will have different multipliers depending on what other mods are enabled:
 
 <!-- todo: replace with non-placeholders -->
 
