@@ -201,13 +201,13 @@ En su lanzamiento, el concurso fue nombrado «Best of», ya que la premisa inici
 | [#41](https://osu.ppy.sh/home/news/2024-09-06-autumn-fanart-contest) | Autumn 2024 Fanart Contest | Otoño | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534) | [#1](https://osu.ppy.sh/home/news/2024-10-09-autumn-2024-fanart-results), [#2](https://osu.ppy.sh/community/contests/221) |
 | [#42](https://osu.ppy.sh/home/news/2024-12-03-midnight-moment-art-contest) | Midnight Moment Art Contest | Las mascotas de osu! compartiendo un momento en una noche de invierno | ::{ flag=CA }:: [leeian](https://osu.ppy.sh/users/12595640) | ::{ flag=ID }:: [KAITO thighs](https://osu.ppy.sh/users/13103233) | ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849) | [#1](https://osu.ppy.sh/home/news/2025-01-01-midnight-moment-art-contest-results), [#2](https://osu.ppy.sh/community/contests/226) |
 
-### Locus
+### [Locus](Locus)
 
 **Locus 2025** es un concurso de varias etapas lanzado a principios de 2025 para acercar a los círculos creativos de osu! en el que los participantes deben crear beatmaps con música y visuales totalmente originales.
 
-| Año | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
-| :-: | :-- | :-- | :-- | :-- |
-| [2025](/wiki/Contests/Locus/2025) | *Por determinar* | *Por determinar* | *Por determinar* | *Por determinar* |
+| Año | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | 4th | 5th | Resultados |
+| :-: | :-- | :-- | :-- | :-- | :-- | :-- |
+| [2025](/wiki/Contests/Locus/2025) | [Koto Spirit - Locus of Hexagram](https://osu.ppy.sh/beatmapsets/2412260) por el equipo Hexagram (::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=HK }:: [Otosaka-Yu](https://osu.ppy.sh/users/3170678), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853), ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) y ::{ flag=JP }:: [TARA-376](https://osu.ppy.sh/users/37407910)) | [takehirotei - Halboku no Altra Vita](https://osu.ppy.sh/beatmapsets/2412331) por el equipo Sylenth2 v7.2769420 "Unlimited Synth Works" (::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=MY }:: [takehirotei](https://osu.ppy.sh/users/11793794), ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023), ::{ flag=MY }:: [Etsuko Marvia](https://osu.ppy.sh/users/13893348) y ::{ flag=MY }:: [Kardshark](https://osu.ppy.sh/users/4724315)) | [Will Stetson - Of Our Time](https://osu.ppy.sh/beatmapsets/2412232) por el equipo 5Head (::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992), ::{ flag=US }:: [Will Stetson](https://osu.ppy.sh/users/4909088), ::{ flag=CA }:: [KiAme](https://osu.ppy.sh/users/37416442), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) y ::{ flag=US }:: [tofumang](https://osu.ppy.sh/users/4817223)) | [Akiri - Vespera Stella](https://osu.ppy.sh/beatmapsets/2412328) por el equipo Vespera (::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024), ::{ flag=US }:: [Akiri\-](https://osu.ppy.sh/users/19587411), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) y ::{ flag=CA }:: [Xiaoraini](https://osu.ppy.sh/users/3607337)) | [ArXe - Locus Amoenus (feat. Megurine Luka)](https://osu.ppy.sh/beatmapsets/2412292) por el equipo Vocaloid Lovers (::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=US }:: [Defy](https://osu.ppy.sh/users/15428357), ::{ flag=KR }:: [Kawashiro](https://osu.ppy.sh/users/1533796) y ::{ flag=SG }:: [Type](https://osu.ppy.sh/users/7520534)) | [#1](Locus/2025) |
 
 ### osu! Beatmap Blueprints Contest
 
@@ -469,8 +469,35 @@ Aunque la pending cup inicialmente estaba destinada principalmente a los miembro
 
 | Categoría | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=AU }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+
+#### [Newspaper Cup \#8 (2022)](https://osu.ppy.sh/community/forums/topics/1457197)
+
+| Categoría | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | ![Corona de oro][GCrown] (Ganador de la categoría Novice)[^newspaper-cup-8-novice] | Resultados |
+| :-- | :-: | :-- | :-- | :-- | :-- | :-- |
+| Vocal[^newspaper-cup-8-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) y ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509) | ::{ flag=MX }:: [funny](https://osu.ppy.sh/users/8473573) y ::{ flag=CA }:: [arkisol](https://osu.ppy.sh/users/9331411) | ::{ flag=CN }:: [FORMless000](https://osu.ppy.sh/users/8697654) | ::{ flag=CN }:: [FORMless000](https://osu.ppy.sh/users/8697654) | [#1](https://osu.ppy.sh/community/forums/topics/1457197) |
+| Instrumental[^newspaper-cup-8-instrumental] | ![osu!][osu!] | ::{ flag=CL }:: [Pyo](https://osu.ppy.sh/users/6641784) | ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) y ::{ flag=US }:: [zhuxiaoyan](https://osu.ppy.sh/users/5129592) | ::{ flag=CN }:: [X Light](https://osu.ppy.sh/users/1814662) | ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268) | [#1](https://osu.ppy.sh/community/forums/topics/1457197) |
+
+#### [Newspaper Cup \#9 (2023)](https://osu.ppy.sh/community/forums/topics/1718458)
+
+| Canción | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
+| :-- | :-: | :-- | :-- | :-- | :-- |
+| Kobayashi Yuuya(IOSYS) feat. miko - Pizza ga Tabetakute Shouganai Minasan no Kimochi o Daibenshimashita | ![osu!][osu!] | ::{ flag=HK }:: [Agllius](https://osu.ppy.sh/users/25353372) | ::{ flag=CN }:: [\-AkamatsuKaede\-](https://osu.ppy.sh/users/10927454) | ::{ flag=CN }:: [Graphical](https://osu.ppy.sh/users/21397778) | [#1](https://osu.ppy.sh/community/forums/topics/1747425) |
+| Nardis - Spencer (Cut Ver.) | ![osu!][osu!] | ::{ flag=CN }:: [Graphical](https://osu.ppy.sh/users/21397778) | ::{ flag=CN }:: [\-AkamatsuKaede\-](https://osu.ppy.sh/users/10927454) | ::{ flag=CN }:: [Robinia](https://osu.ppy.sh/users/16081750) | [#1](https://osu.ppy.sh/community/forums/topics/1747425) |
+
+#### [Newspaper Cup \#10 (2024)](https://osu.ppy.sh/community/forums/topics/1854946)
+
+| Categoría | Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
+| :-- | :-: | :-- | :-- | :-- | :-- |
+| Vocal[^newspaper-cup-10-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [Lost world](https://osu.ppy.sh/users/22414293) | ::{ flag=UA }:: [Judge1st](https://osu.ppy.sh/users/10610737) | ::{ flag=HK }:: [\-Sabao\-](https://osu.ppy.sh/users/17361895) | [#1](https://mappersguild.com/contests/results?contest=65b08f18d254449b92a641b8) |
+| Instrumental[^newspaper-cup-10-instrumental] | ![osu!][osu!] | ::{ flag=CN }:: [Lost world](https://osu.ppy.sh/users/22414293) | ::{ flag=CN }:: [Decay Limerence](https://osu.ppy.sh/users/4814169) | ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988)[^newspaper-cup-10-instrumental-badge] | [#1](https://mappersguild.com/contests/results?contest=647ed683857fb2a47bfe3bc8) |
+
+#### [Newspaper Cup \#11 (2025)](https://osu.ppy.sh/community/forums/topics/2030364)
+
+| Modo | ![Corona de oro][GCrown] | ![Corona de plata][SCrown] | ![Corona de bronce][BCrown] | Resultados |
+| :-- | :-: | :-- | :-- | :-- |
+| ![osu!][osu!] | ::{ flag=CN }:: [PEALEERD_TAK](https://osu.ppy.sh/users/6214002) | ::{ flag=CN }:: [Mimosa M](https://osu.ppy.sh/users/24010320) | ::{ flag=CN }:: [YeLing](https://osu.ppy.sh/users/14726718) | [#1](https://mappersguild.com/contests/results?contest=6834fbb0fc4f78a776326a8a) |
 
 ### Russian Community Beatmapping Contest
 
@@ -485,6 +512,12 @@ Aunque la pending cup inicialmente estaba destinada principalmente a los miembro
 
 ## Notas
 
+[^newspaper-cup-10-instrumental-badge]: Según las reglas del concurso, si un concursante envía varias creaciones, solo la que obtenga la puntuación más alta se tendrá en cuenta para la puntuación final. Por lo tanto, la insignia se otorgó al siguiente concursante novato de la categoría con menor puntuación.
+[^newspaper-cup-10-vocal]: La categoría «Vocal» ofrece a los mappers la posibilidad de elegir entre 2 canciones diferentes para crear sus mapas: «Snail's House - Sunflower» y «katagiri - Urushi».
+[^newspaper-cup-10-instrumental]: La categoría «Instrumental» ofrece a los mappers la posibilidad de elegir entre 2 canciones diferentes para crear sus mapas: «Yui Ogura - Empty//Princess» y «marasy x Jin x kemu feat. Kagamine Rin - Shinjinrui». 
+[^newspaper-cup-8-novice]: La categoría «Novice» se introdujo para premiar a los mappers novatos con mejor rendimiento en cada categoría, independientemente de su posición final. Los detalles sobre qué se considera un «mapper novato» se pueden consultar en [esta publicación del foro](https://osu.ppy.sh/community/forums/topics/1457197).
+[^newspaper-cup-8-vocal]: La categoría «Vocal» ofrece a los mappers la posibilidad de elegir entre 5 canciones diferentes para crear sus mapas: «Three feat. Kagamine Len - Junky Night Town Orchestra», «Wanuka - Patchwork», «ZUTOMAYO - Stay Foolish», «Qrispy Joybox feat. Tokiwa Yu - Shiratsuyu no Kaze» y «PUP - Can't Win».
+[^newspaper-cup-8-instrumental]: La categoría «Instrumental» ofrece a los mappers la posibilidad de elegir entre 5 canciones diferentes para crear sus mapas: «kors k - Flash Back 90’s (Extended)», «Umeboshi Chazuke - Midnight Trickster», «FizzD - Super Battleworn Insomniac», «UNDEAD CORPORATION - Chiri Yuku Mono wa Umi no Hana» y «xi - Breakthrough Atmosphere».
 [^pending-cup-11-track2-3]: Las dos pistas se combinaron para cumplir los requisitos del [soporte oficial para concursos de beatmapping](/wiki/Contests/Official_support).
 [^pending-cup-11-track2-3-badge]: Tal y como se indicaba en las reglas del concurso, si un participante enviaba dificultades para distintas pistas, solo se tendría en cuenta la dificultad con mayor puntuación para la puntuación final; en caso de que el participante no reuniera los requisitos para obtener la insignia, esta se otorgaría al siguiente participante en la clasificación de la pista con menor puntuación.
 [^pending-cup-10-vocal]: La categoría «Vocal» ofrece a los mappers la posibilidad de elegir entre 5 canciones diferentes para crear sus mapas: «Wotamin - Kinetic Henai Club», «Shikata Akiko - Expressive Hill -Harmonics EOLIA-», «Feryquitous - Estahv», «Eve/rei sirose - Airhead» y «NceS - Burn».
