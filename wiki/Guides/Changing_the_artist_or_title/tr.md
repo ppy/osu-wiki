@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+---
+
 # Bir beatmapin sanatçısı ya da başlığı nasıl değiştirilir
 
 *[NoHitter tarafından "Full Submission with Title/Artist Change -- Mistakes" (peppy tarafından gasp edildi)](https://osu.ppy.sh/community/forums/topics/24443)*

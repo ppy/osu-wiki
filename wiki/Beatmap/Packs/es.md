@@ -23,7 +23,7 @@ Los paquetes de beatmaps se dividen en 7 categorías con un indicador de letra e
 | Indicador | Categoría | Tipos de beatmaps |
 | :-: | :-- | :-- |
 | **S** | Standard | Beatmaps [clasificados](/wiki/Beatmap/Category#ranked) y [aprobados](/wiki/Beatmap/Category#approved) |
-| **F** | Artista Destacado | Canciones de [Artistas Destacados](/wiki/People/Featured_Artists) |
+| **F** | Artista Destacado | Canciones de los beatmaps de los [Artistas Destacados](/wiki/People/Featured_Artists), principalmente de las misiones completadas por el [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | **P** | Torneo | Mappools de [torneos oficiales](https://osu.ppy.sh/community/tournaments) |
 | **L** | Project Loved | Beatmaps elegidos por la comunidad en el [Project Loved](/wiki/Community/Project_Loved) |
 | **R** | Destacados | Paquetes de desafíos de beatmaps de temporada de [Beatmap Spotlights](/wiki/Beatmap_Spotlights), anteriormente conocidos como *Charts* |
@@ -46,10 +46,12 @@ Se recomienda descargar los paquetes de beatmaps directamente desde el listado o
 
 Por ahora, todos los paquetes de beatmaps se almacenan internamente en el servidor `packs.ppy.sh`. Si en algún caso este servidor se vuelve inaccesible o de lento acceso, existen sitios espejo creados por otras personas que puedes usar para tu comodidad como se indica a continuación:
 
-- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
-  - [Hoja de cálculo de Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) por ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
+- Hinamizawa.ai - Un centro de datos de osu!
+  - [Sitio web espejo](https://hinamizawa.ai/osu/map-packs/) por ::{ flag=CW }:: [TheMoonBunny](https://osu.ppy.sh/users/902250)
 - Almacenamiento antiguo antes de la migración a `packs.ppy.sh` (7/5/2023)
   - [MEGA drive](https://mega.nz/folder/Rl4hkKZQ#L1LXE4UgMH00eJF1xqMytw) por ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907)
+- [(Un)official Beatmap Pack Sheet](https://osu.ppy.sh/community/forums/topics/1528191)
+  - [Hoja de cálculo de Google](https://docs.google.com/spreadsheets/d/1gcXL9gubcWEKY1X2taxJdBGjFrqEpkNmjHU7LFpcJRo) por ::{ flag=KR }:: [Shige-Tori\[a\]](https://osu.ppy.sh/users/4459449)
 - [osu! Beatmap Pack Mirror v2](https://osu.ppy.sh/community/forums/topics/57381)
   - [Sitio web espejo](http://osu.yas-online.net/) por ::{ flag=DE }:: [nanashirei](https://osu.ppy.sh/users/807630)
 

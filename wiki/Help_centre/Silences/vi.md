@@ -1,10 +1,13 @@
 ---
-no_native_review: true
+tags:
+  - mute
+  - timeout
+  - cấm trò chuyện
 ---
 
 # Sự im lặng
 
-**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên trang web lẫn trong game.
+**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường sạch sẽ, cả trên website lẫn trong game.
 
 ## Những hạn chế
 
@@ -26,29 +29,29 @@ Một người dùng có một im lặng đang hoạt động không thể làm 
 ![](img/silence-ingame.png "Cảnh báo im lặng trong trò chuyện")
 :::
 
-Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí của ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
+Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
 
 ## Thời lượng
 
 Thời lượng của một im lặng bắt đầu từ 5 phút và thường gấp đôi với mỗi vi phạm sau đó, tối đa đến 28 ngày, nhưng thời gian ban đầu có thể thay đổi tùy thuộc vào vi phạm đã thực hiện và lịch sử của người dùng trước đó. Các yếu tố được xem xét khi xác định độ dài của một im lặng tính vào:
 
 - **Bầu không khí**: Tình trạng của môi trường trò chuyện hiện tại.
-- **Tần suất vi phạm**: sự lặp đi lặp lại bất chấp những lần im lặng trước đó đã được áp dụng.
+- **Tần suất vi phạm**: sự lặp lại bất chấp những lần im lặng trước đó được áp dụng.
 - **Lịch sử**: bản ghi của những vi phạm trước đó
-- **Mức độ nghiêm trọng**: sự nghiêm trọng của hành vi vi phạm đã thực hiện.
+- **Mức độ nghiêm trọng**: sự nghiêm trọng của hành vi đã thực hiện
 
 Trong một số các trường hợp, người dùng có thể nhận được một cảnh báo cuối cùng trước khi [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) được áp dụng, cung cấp một cơ hội để ngừng lại hành vi vi phạm.
 
-## Những lý do phổ biến cho im lặng
+## Những lý do phổ biến của im lặng
 
-Một số các lý do phổ biến tại sao người dùng nhận được im lặng trong trò chuyện cộng đồng bao gồm, nhưng không giới hạn :
+Một số các lý do phổ biến tại sao người dùng nhận được im lặng trong trò chuyện cộng đồng bao gồm, nhưng không giới hạn:
 
-- **Gửi thư rác hoặc làm tràn ngập trò chuyện**: không cần giải thích thêm
-- **Lạm dụng chữ in hoa**: trò chuyện bằng tất cả các chữ cái in hoa
+- **Gửi thư rác hoặc làm tràn ngập trò chuyện**: Không cần giải thích thêm
+- **Lạm dụng chữ in hoa**: Trò chuyện bằng tất cả các chữ cái in hoa
 - **Hành vi/cuộc trò chuyện không phù hợp**: Trò chuyện công cộng không phải là một nơi dành cho các thảo luận nội dung không phù hợp với mọi lứa tuổi hoặc đối với các chủ đề gây kích động.
-- **Phân biệt chủng tộc**: phân biệt đối xử hoặc căm ghét dựa trên chủng tộc, tôn giáo, giới tính và những thứ tương tự.
+- **Phân biệt chủng tộc**: Phân biệt đối xử hoặc căm ghét dựa trên chủng tộc, tôn giáo, giới tính và những thứ tương tự.
 - **Quảng cáo** – Khuyến mãi sản phẩm hoặc dịch vụ, điều này bao gồm các liên kết mời tham gia Discord và các liên kết phát trực tuyến khác như Twitch và YouTube.
-- **Nội dung không mong muốn**: Các trang web chứa nội dung vi phạm bản quyền, nội dung gây hoảng sợ, giới thiệu và các thứ tương tự
+- **Nội dung không mong muốn**: Các wedsite chứa nội dung vi phạm bản quyền, gây hoảng sợ, giới thiệu và các thứ tương tự
 
 Lệnh cấm im lặng cũng có thể được áp dụng đối với người dùng vì những lý do khác, chẳng hạn (nhưng không giới hạn):
 

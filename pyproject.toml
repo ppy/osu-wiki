@@ -1,0 +1,7 @@
+[project]
+name = "osu-wiki"
+version = "0.1.0"
+requires-python = ">=3.14.3"
+dependencies = [
+    "osu-wiki-tools==2.5.0",
+]
