@@ -2,7 +2,7 @@
 
 osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hành Toàn cầu (GMT)](/wiki/People/Global_Moderation_Team), hoạt động nhằm giữ cho trò chơi và toàn bộ cộng đồng luôn an toàn và sạch sẽ. Nếu bạn nhận thấy một hành vi phá luật hoặc nội dung không phù hợp, hãy báo cáo bằng cách sử dụng một trong những phương pháp được mô tả bên dưới. Ngoài ra, bạn có thể liên lạc trực tiếp đến bất kỳ người điều hành nào đang hoạt động nếu báo cáo của bạn không được xử lý đúng cách trong một khoản thời gian phù hợp - chỉ nên làm như một biện pháp cuối. 
 
-Các báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
+Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
 
 ## Các trường hợp đặc biệt
 

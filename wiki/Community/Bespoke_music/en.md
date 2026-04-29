@@ -11,9 +11,11 @@ tags:
 
 This article lists songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements.
 
-While not all of these songs are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1), the songs that do are called "osu! originals", and are distinguished by the ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! original") label on their respective artists' pages (![osu! original](/wiki/shared/link/original.png "osu! original") in this article). They are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing).
+Note that some of the songs listed are not officially licensed nor included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1).
 
-Conversely, all other songs in this list are not officially licensed by the game and may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) for more information.
+Officially licensed songs are called "osu! originals", and are distinguished by the ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! original") label on their respective artists' pages (![osu! original](/wiki/shared/link/original.png "osu! original") in this article). They are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing).
+
+Songs without such labels in this list are not officially licensed by the game and may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) for more information.
 
 <!--Due to the ever-growing nature of this list, updates to this page are done through an external spreadsheet (https://docs.google.com/spreadsheets/d/1o--KQKvNF9JtmZmTGuzN6KyBpFwoQDr98TWRHhrzh-E) instead of directly on the wiki. If you’d like to add a song or ask for a change, please reach out to the #osu-wiki channel on the development server or get in touch with one of the wiki maintainers rather than submitting a pull request.-->
 
