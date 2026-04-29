@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Tagi beatmap
 
 *Nie mylić z [poziomami trudności TAG](/wiki/Beatmap/TAG_beatmaps).*
