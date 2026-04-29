@@ -14,6 +14,8 @@ tags:
   - le jour des poissons d'avril
   - blague
   - histoire
+outdated_translation: true
+outdated_since: 4f9c331bc757b108e9dd898868803cf12a49e99f
 ---
 
 # L'histoire d'osu! concernant les April Fools' day jokes

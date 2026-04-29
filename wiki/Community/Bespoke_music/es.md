@@ -10,7 +10,8 @@ tags:
   - música
 translation_keys:
   text:
-    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas dentro de osu!.
+    total_count: Actualmente, hay un total de **{total}** canciones documentadas hechas
+      dentro de osu!.
   graph:
     title: Música hecha a medida a lo largo del tiempo
     alt_text: Gráfico de la música hecha a medida a lo largo del tiempo
@@ -29,81 +30,88 @@ translation_keys:
     song: Canción
     beatmap: Beatmap
     notes: Notas
-  table_note:  # these replacements all execute in sequence per note/mappool slot
-    # note
-    "2015 osu! theme": Tema de osu! de 2015
-    "Christmas/Winter (\\d{4}) osu! theme": Tema de osu! para la Navidad/invierno de \1
-    "Current osu!\\(lazer\\) main theme": Tema principal actual de osu!(lazer)
-    "Current tutorial song": Canción actual del tutorial
-    "Former \\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": Antiguo tema principal de [osu!stream](/wiki/osu!stream)
-    "Former osu! theme": Antiguo tema de osu!
-    "Former tutorial song": Antigua canción del tutorial
-    "Halloween 2016 osu! theme": Tema de osu! para Halloween de 2016
-    "Original composition for \\[osu!stream\\]\\(/wiki/osu!stream\\)": Composición original para [osu!stream](/wiki/osu!stream)
-    "Summer 2023 osu! theme": Tema de osu! para el verano de 2023
-    "\\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": Tema principal de [osu!stream](/wiki/osu!stream)
-    "Cutscene background music": Música de fondo para las escenas
-    "Ending credits theme": Canción de los créditos
-    "Livestream BGM": Música de fondo de la transmisión en vivo
-    "Main theme": Tema principal
-    "Trailer music": Música del tráiler
-    # specific/unique exceptions
-    "Finals & Last Chance Bracket Pool #1 (.+)": \1 de las finales y del bracket de última oportunidad \#1
-    "Finals HD3 \\(osu!\\), finals NM1 \\(osu!catch\\)": HD3 de las finales (osu!), NM1 de las finales (osu!catch)
-    "Day (\\d) (.{3}) \\((.+)\\) / Day (\\d) (.{3}) \\((.+)\\)": \2 del día \1 (\3) / \5 del día \4 (\6)
-    "(osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?)": \1 y \2
-    "Day (\\d+) tiebreaker \\((.+)\\)": Mapa de desempate del día \1 (\2)
-    "Qualifier Stage (\\d+)": Mapa de la fase clasificatoria \1
-    "Knockout Stage (\\d+) Pool (.) (.+)": \3 de la pool \2 en la fase de eliminación \1
-    "Pool (.+) Free Mod pick": Pool \1, selección Free Mod
-    "Grand Finals 7th pick": Séptimo beatmap seleccionado en la gran final
-    "Finals 7th pick": Séptimo beatmap seleccionado en las finales
-    "Semifinals/Finals (.+)(?= \\()": \1 de las semifinales/finales
-    "Quarterfinals HD pick \\(B5\\)": Selección HD de los cuartos de final (B5)
-    "Quarterfinals & Semifinals NM pick \\(C11\\)": Selección NM de las semifinales/finales (C11)
-    "Quarterfinals & Semifinals (.+)": \1 de los cuartos de final y las semifinales
-    "Finals & Grand Finals (.+)": \1 de las finales y la gran final
-    "Round of 16 & Quarterfinals (.+)": \1 de los octavos y cuartos de final
-    "Quarterfinals NM4 \\(5k division\\)": NM4 de los cuartos de final (división 5k)
-    "Grand Finals RC7 \\(7K\\)": RC7 de la gran final (7K)
-    "osu! TECH2 \\(NM\\)": NM del TECH2 de osu!
-    # round
-    "LAN (.+)": \1 de la LAN
-    "Swiss Week (\\d+) (.+)": \2 de la semana suiza \1
-    "Swiss Stage (\\d+) (.+)": \2 de la fase suiza \1
-    "Knockout Stage (\\d+) (.+)": \2 de la fase de eliminación \1
-    "Knockout Week (\\d+) (.+)": \2 de la semana de eliminación \1
-    "Week (\\d+) (.+)": \2 de la semana \1
-    "Knockout (\\d+) (.+)": \2 de la ronda de eliminación \1
-    "Bracket Stage (.+)": \1 de la fase de llaves
-    "Group Stage (.+)": \1 de la fase de grupos
-    "Round Robin (.+)": \1 del todos contra todos
-    "Battle Royale 1v1 (.+)": \1 del Battle Royale 1v1
-    "Playoff (\\d+) (.+)": \2 de las eliminatorias \1
-    "Playoffs (.+)": \1 de las eliminatorias
-    "Face-Offs (.+)": \1 de los enfrentamientos directos
-    "Grand Finals (.+)": \1 de la gran final
-    "Finals (.+)": \1 de las finales
-    "Semifinals (.+)": \1 de las semifinales
-    "Quarterfinals (.+)(?= \\()?": \1 de los cuartos de final
-    "Round of 16 (.+)": \1 de los octavos de final
-    "Round of 32 (.+)": \1 de los dieciseisavos de final
-    "Round of 64 (.+)": \1 de los treintaidosavos de final
-    "Round of 96 (.+)": \1 de los cuarentaiochoavos de final
-    "Round of 128 (.+)": \1 de los sesentaicuatroavos de final
-    "Round of (\\d+) (.+)": \2 de la ronda de \1
-    "Qualifiers (.+)": \1 de las clasificatorias
-    "Pool (.) (.+)": \2 de la pool \1
-    # bracket
-    "^Runoff Bracket (.+)": \1 del bracket adicional
-    "^Tier (\\d) (.+)": \2 del Tier \1
-    "^(osu!(?:taiko|catch|mania)?) (.+)": \2 de \1
-    # slot
-    "tiebreaker": Mapa de desempate
-    "technical": Mapa técnico
-    "wildcard": Comodín
-    "\\b(.{2}) pick": Selección \1
-    "\"Mango\" pick": Selección «Mango»
+  table_note:
+    2015 osu! theme: Tema de osu! de 2015
+    Christmas/Winter (\d{4}) osu! theme: Tema de osu! para la Navidad/invierno de
+      \1
+    Current osu!\(lazer\) main theme: Tema principal actual de osu!(lazer)
+    Current tutorial song: Canción actual del tutorial
+    Former \[osu!stream\]\(/wiki/osu!stream\) main theme: Antiguo tema principal de
+      [osu!stream](/wiki/osu!stream)
+    osu!\(lazer\) "ranked play" theme: Tema del modo de «partidas clasificatorias»
+      de osu!(lazer)
+    Former osu! theme: Antiguo tema de osu!
+    Former tutorial song: Antigua canción del tutorial
+    Halloween 2016 osu! theme: Tema de osu! para Halloween de 2016
+    Original composition for \[osu!stream\]\(/wiki/osu!stream\): Composición original
+      para [osu!stream](/wiki/osu!stream)
+    Summer 2023 osu! theme: Tema de osu! para el verano de 2023
+    \[osu!stream\]\(/wiki/osu!stream\) main theme: Tema principal de [osu!stream](/wiki/osu!stream)
+    Cutscene background music: Música de fondo para las escenas
+    Ending credits theme: Canción de los créditos
+    Livestream BGM: Música de fondo de la transmisión en vivo
+    Main theme: Tema principal
+    Trailer music: Música del tráiler
+    'Finals & Last Chance Bracket Pool #1 (.+)': "\\1 de las finales y del bracket\
+      \ de última oportunidad \\#1"
+    Finals HD3 \(osu!\), finals NM1 \(osu!catch\): HD3 de las finales (osu!), NM1
+      de las finales (osu!catch)
+    Day (\d) (.{3}) \((.+)\) / Day (\d) (.{3}) \((.+)\): \2 del día \1 (\3) / \5 del
+      día \4 (\6)
+    (osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?): \1 y \2
+    Day (\d+) tiebreaker \((.+)\): Mapa de desempate del día \1 (\2)
+    Qualifier Stage (\d+): Mapa de la fase clasificatoria \1
+    Knockout Stage (\d+) Pool (.) (.+): \3 de la pool \2 en la fase de eliminación
+      \1
+    Pool (.+) Free Mod pick: Pool \1, selección Free Mod
+    Grand Finals 7th pick: Séptimo beatmap seleccionado en la gran final
+    Finals 7th pick: Séptimo beatmap seleccionado en las finales
+    Semifinals/Finals (.+)(?= \(): \1 de las semifinales/finales
+    Quarterfinals HD pick \(B5\): Selección HD de los cuartos de final (B5)
+    Quarterfinals & Semifinals NM pick \(C11\): Selección NM de las semifinales/finales
+      (C11)
+    Quarterfinals & Semifinals (.+): \1 de los cuartos de final y las semifinales
+    Finals & Grand Finals (.+): \1 de las finales y la gran final
+    Round of 16 & Quarterfinals (.+): \1 de los octavos y cuartos de final
+    Quarterfinals NM4 \(5k division\): NM4 de los cuartos de final (división 5k)
+    Grand Finals RC7 \(7K\): RC7 de la gran final (7K)
+    osu! TECH2 \(NM\): NM del TECH2 de osu!
+    LAN (.+): \1 de la LAN
+    Swiss Week (\d+) (.+): \2 de la semana suiza \1
+    Swiss Stage (\d+) (.+): \2 de la fase suiza \1
+    Knockout Stage (\d+) (.+): \2 de la fase de eliminación \1
+    Knockout Week (\d+) (.+): \2 de la semana de eliminación \1
+    Week (\d+) (.+): \2 de la semana \1
+    Knockout (\d+) (.+): \2 de la ronda de eliminación \1
+    Bracket Stage (.+): \1 de la fase de llaves
+    Group Stage (.+): \1 de la fase de grupos
+    Round Robin (.+): \1 del todos contra todos
+    Battle Royale 1v1 (.+): \1 del Battle Royale 1v1
+    Playoff (\d+) (.+): \2 de las eliminatorias \1
+    Playoffs (.+): \1 de las eliminatorias
+    Face-Offs (.+): \1 de los enfrentamientos directos
+    Grand Finals (.+): \1 de la gran final
+    Finals (.+): \1 de las finales
+    Semifinals (.+): \1 de las semifinales
+    Quarterfinals (.+)(?= \()?: \1 de los cuartos de final
+    Round of 16 (.+): \1 de los octavos de final
+    Round of 32 (.+): \1 de los dieciseisavos de final
+    Round of 64 (.+): \1 de los treintaidosavos de final
+    Round of 96 (.+): \1 de los cuarentaiochoavos de final
+    Round of 128 (.+): \1 de los sesentaicuatroavos de final
+    Round of (\d+) (.+): \2 de la ronda de \1
+    Qualifiers (.+): \1 de las clasificatorias
+    Pool (.) (.+): \2 de la pool \1
+    ^Runoff Bracket (.+): \1 del bracket adicional
+    ^Tier (\d) (.+): \2 del Tier \1
+    ^(osu!(?:taiko|catch|mania)?) (.+): \2 de \1
+    tiebreaker: Mapa de desempate
+    technical: Mapa técnico
+    wildcard: Comodín
+    \b(.{2}) pick: Selección \1
+    '"Mango" pick': Selección «Mango»
+outdated_translation: true
+outdated_since: 2f576e595cc820db0f9aa95ae94f575057313d7f
 ---
 
 <!-- Everything inside the "Estadísticas" (Statistics) and "Listado" (Listing) sections is automated. If a translation there is incorrect, malformatted or needs to be updated, please reach out to a wiki maintainer in the `#osu-wiki` channel on the development server. -->
@@ -118,9 +126,9 @@ Por el contrario, el resto de canciones de esta lista no tienen licencia oficial
 
 ## Estadísticas
 
-Actualmente, hay un total de **1262** canciones documentadas hechas dentro de osu!.
+Actualmente, hay un total de **1288** canciones documentadas hechas dentro de osu!.
 
-![Gráfico de la música hecha a medida a lo largo del tiempo](img/bespoke-music-over-time-ES.png?20260324)
+![Gráfico de la música hecha a medida a lo largo del tiempo](img/bespoke-music-over-time-ES.png?20260420)
 
 ## Listado
 
@@ -139,6 +147,7 @@ Actualmente, hay un total de **1262** canciones documentadas hechas dentro de os
 | [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2Yf0IKXyvzuGquXC7VJ2L9 "Spotify") |  | nekodex - Main Theme 2.0[^fa] | Tema principal de [osu!stream](/wiki/osu!stream) |
 |  |  | nekodex - new beginnings[^fa] | Canción actual del tutorial |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/osu-stream-theme "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=uhdiFT0o6SU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2PKPsvIZ6e9CudTSQEd5ix "Spotify") |  | nekodex - osu!stream theme[^fa] | Antiguo tema principal de [osu!stream](/wiki/osu!stream) |
+|  |  | nekodex - ranked play bgm loop[^fa] | Tema del modo de «partidas clasificatorias» de osu!(lazer) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/welcome-to-christmas "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=nekodex&query=%22welcome%20to%20christmas%21%22 "osu! original") | nekodex - welcome to christmas\! | Tema de osu! para la Navidad/invierno de 2014 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/nekodex/welcome-to-osu "SoundCloud") |  | nekodex - welcome to osu\![^fa] | Antiguo tema de osu! |
 |  |  | Peter Lambert - osu! tutorial | Antigua canción del tutorial |
@@ -434,6 +443,19 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=K2PMCl3YWHU "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=7_7&query=%22BUZZ%20CUTZ%22 "osu! original") | TWC Sound Team "Strike Back Squad" - BUZZ CUTZ | [#1](https://osu.ppy.sh/beatmapsets/2358247) | Mapa de desempate de la gran final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Pb8ePbT0ANc "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yoho&query=%22Ocean%27s%20Legacy%22 "osu! original") | yoho - Ocean's Legacy | [#1](https://osu.ppy.sh/beatmapsets/2358194) | NM3 de la gran final |
 
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2026](/wiki/Tournaments/TWC/2026)
+
+| Enlaces |  | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Kzi-trSYpnY "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=ALEPH&query=%22SIGNALBURNERRR%22 "osu! original") | ALEPH - SIGNALBURNERRR | [#1](https://osu.ppy.sh/beatmapsets/2534365) | NM6 de las semifinales |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=SvAJvV0HEvE "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://cametek.bandcamp.com/track/ule-thule "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Camellia&query=%22Thule%22 "osu! original") | Camellia feat. Camellia - Thule | [#1](https://osu.ppy.sh/beatmapsets/2541488) | Mapa de desempate de la gran final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/cansol/jazz-invasion "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=y-BsRNpkVUU&pp=ygUUY2Fuc29sIGphenogaW52YXNpb24%3D "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Cansol&query=%22Jazz%20Invasion%22 "osu! original") | Cansol - Jazz Invasion | [#1](https://osu.ppy.sh/beatmapsets/2530688) | NM6 de los cuartos de final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Gm_QNjDHWNI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/33X6SheEU3xS6yTlho8f2b "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=dennoko-P&query=%22Super-Focused%20Limit%20Break%22 "osu! original") | dennoko-P - Super-Focused Limit Break | [#1](https://osu.ppy.sh/beatmapsets/2537890) | NM1 de las finales |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=rGx88iTMWxI "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ennnn&query=%22Silver%20Bullet%22 "osu! original") | Ennnn - Silver Bullet | [#1](https://osu.ppy.sh/beatmapsets/2541444) | NM2 de la gran final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=I-ztWTa5Ca4 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=OLDUCT&query=%22Buy%20Now%21%22 "osu! original") | OLDUCT - Buy Now\! | [#1](https://osu.ppy.sh/beatmapsets/2527043) | NM2 de los octavos de final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rreali/sets/taiko "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=fVZFhyIbW6Y "YouTube") |  | TWC Sound Team "FLiPFORCE" - ON.UR.MARKS... | [#1](https://osu.ppy.sh/beatmapsets/2538002) | Mapa de desempate de las finales |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lPRDPSB5Nj0 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=uynet&query=%22Lunar%20Eclipse%22 "osu! original") | uynet - Lunar Eclipse | [#1](https://osu.ppy.sh/beatmapsets/2530668) | HR2 de los cuartos de final |
+
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 | Enlaces |  | Canción | Beatmap | Notas |
@@ -478,7 +500,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LoF2hGkpBcU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4TuFOb8jxz2jsI34a1HVEG "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=A-One&query=%22Side%20by%20Side%22 "osu! original") | A-One - Side by Side | [#1](https://osu.ppy.sh/beatmapsets/2395293) | MM1 de las semifinales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/iceloki/nostalgia-sonatina-op3 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RnZyDkWU7lU "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ice&query=%22Nostalgia%20Sonatina%20Op.3%22 "osu! original") | Ice - Nostalgia Sonatina Op.3 | [#1](https://osu.ppy.sh/beatmapsets/2395265) | MM3 de las semifinales |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=6U-sGJTy_08 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Marmalade%20butcher&query=%22SUTEGORO%22 "osu! original") | Marmalade butcher - SUTEGORO | [#1](https://osu.ppy.sh/beatmapsets/2395265) | HD1 de las semifinales |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=7bAlxXR0Lp4 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ruby%20My%20Dear&query=%22Petit%20Poney%22 "osu! original") | Ruby My Dear - Petit Poney | [#1](https://osu.ppy.sh/beatmapsets/2398893) | HR1 de las finales |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/prspct-recordings/ruby-my-dear-petit-poney "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UBDChA2K53o "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6EZc0T6kNPJs5YKrT24Wmx "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://prspctrecordings.bandcamp.com/track/petit-poney "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ruby%20My%20Dear&query=%22Petit%20Poney%22 "osu! original") | Ruby My Dear - Petit Poney | [#1](https://osu.ppy.sh/beatmapsets/2398893) | HR1 de las finales |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=jaQTq6-NwFo "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/52yoVPdy0g25psXisPqKLm "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Symholic&query=%22Veil%20of%20Ash%22 "osu! original") | Symholic feat. Rina Komatsu - Veil of Ash | [#1](https://osu.ppy.sh/beatmapsets/2391791) | Mapa de desempate de los cuartos de final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/vorso/heliosphere "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=yZ67Bqdt1RY "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/7JNvc6JPnnW8pThHzUEVsO "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Vorso&query=%22Heliosphere%22 "osu! original") | Vorso - Heliosphere | [#1](https://osu.ppy.sh/beatmapsets/2391836) | NM3 de los cuartos de final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=26_ccrBc0a0 "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://wangleline.bandcamp.com/track/goodbye-to-your-vicious-cycles-from-osu-catch-world-cup-2025 "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=WangleLine&query=%22Goodbye%20to%20Your%20Vicious%20Cycles%22 "osu! original") | WangleLine - Goodbye to Your Vicious Cycles | [#1](https://osu.ppy.sh/beatmapsets/2402735) | HD3 de la gran final |
@@ -541,7 +563,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zplwhlj8wmw3/oumuamua-osu-mwc-4k-2025 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=hezZhdjDgxU "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=muyu&query=%22%60Oumuamua%22 "osu! original") | muyu - `Oumuamua | [#1](https://osu.ppy.sh/beatmapsets/2421220) | HB2 de los dieciseisavos de final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/whos-raphiiel/onceforgotten-nothingremains "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=zKybfN5I6SM "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Raphiiel&query=%22Once%20Forgotten%2C%20Nothing%20Remains%22 "osu! original") | Raphiiel - Once Forgotten, Nothing Remains | [#1](https://osu.ppy.sh/beatmapsets/2438757) | Mapa de desempate de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/roerdtm/orphic "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=YVxAUyeKmkM "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://roer.bandcamp.com/track/orph-c "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=roer&query=%22orph%E1%B4%89c%22 "osu! original") | roer - orphᴉc | [#1](https://osu.ppy.sh/beatmapsets/2438747) | HB1 de la gran final |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Sq_uh5uC--I "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ruby%20My%20Dear&query=%22Saint%20Patron%22 "osu! original") | Ruby My Dear - Saint Patron | [#1](https://osu.ppy.sh/beatmapsets/2431994) | HB3 de las semifinales |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/prspct-recordings/saint-patron-8 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=Jp0b6IIIeVA "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3uPr2zLYBw97Pe88hvjVLE "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://prspctrecordings.bandcamp.com/track/saint-patron "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ruby%20My%20Dear&query=%22Saint%20Patron%22 "osu! original") | Ruby My Dear - Saint Patron | [#1](https://osu.ppy.sh/beatmapsets/2431994) | HB3 de las semifinales |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UbYVGZcGqmk "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sad%20Keyboard%20Guy&query=%22Void%2F%2FShader%20%28feat.%20xia%29%22 "osu! original") | Sad Keyboard Guy & Myntian - Void//Shader (feat. xia) | [#1](https://osu.ppy.sh/beatmapsets/2428561) | Mapa de desempate de los cuartos de final |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K)
@@ -613,6 +635,7 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 
 | Enlaces |  | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rokunoyume/nowhere-heaven-slow-reverb-ver "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=INrPJgd7QTs "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4dsy4aw12fXw5O9VXizX1s "Spotify") |  | 777system - NOWHERE HEAVEN | [#1](https://osu.ppy.sh/beatmapsets/2527040) | Mapa de desempate de la gran final |
 |  |  | rejd - ::Eternity | [#1](https://osu.ppy.sh/beatmapsets/2520300) | HD2 de las semifinales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/wat-43506101/relentless-anxiety "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=eqPC2a2KGQI "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2uZM2btI4jpLCAlsDpXMdi "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://xenjes.bandcamp.com/track/relentless-anxiety "Bandcamp") |  | XenjeS - RELENTLESS ANXIETY[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2520302) | HR3 de las semifinales |
 
@@ -770,6 +793,16 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-luytens-star "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=sblgIglxhvI "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Doomsday&query=%22Luyten%27s%20Star%22 "osu! original") | Doomsday - Luyten's Star | [#1](https://osu.ppy.sh/beatmapsets/2134395) | Mapa de desempate de los cuartos de final y las semifinales |
 |  |  | supercell feat. Hatsune Miku - Black*Rock Shooter (djkirakira remix) | [#1](https://osu.ppy.sh/beatmapsets/2134651) | HR1 de los cuartos de final y las semifinales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sydosys/echoes-of-the-past-ft-hatsune "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://sydosys.bandcamp.com/album/echoes-of-the-past "Bandcamp") |  | Sydosys - Echoes of the Past[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2137990) | Mapa de desempate de las finales y del bracket de última oportunidad \#1 |
+
+#### ![](/wiki/shared/mode/osu.png) [Battle of the Box 2026: Waifu Cup](https://osu.ppy.sh/community/forums/topics/2178368)
+
+| Enlaces |  | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+|  |  | djkirakira - hanashite | [#1](https://osu.ppy.sh/beatmapsets/2530776) | Mapa de desempate de las semifinales |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/user-598209031/doomsday-kehai "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=GQ-s68KeTl4 "YouTube") |  | Doomsday - Kehai[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2538155) | Mapa de desempate de la gran final |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=NGugkxeTe5U "YouTube") |  | nominomu - Inochi, Moroi Katachi de (feat. Hatsune Miku) | [#1](https://osu.ppy.sh/beatmapsets/2523102) | Mapa de desempate de los octavos de final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/constellations "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=J_jQIpcYCWA "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5vCGymQPxelViWeAyH1kDH "Spotify") |  | Redside - Constellations (feat. Hatsune Miku)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2535063) | Mapa de desempate de las finales |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=-KQIgxa03n4 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/1twlMTgXGkiFrYU0IQaJ00 "Spotify") |  | Retro - Kageutsushi (feat. Hatsune Miku) | [#1](https://osu.ppy.sh/beatmapsets/2527114) | Mapa de desempate de los cuartos de final |
 
 #### ![](/wiki/shared/mode/osu.png) [Bingsu!](https://osu.ppy.sh/community/forums/topics/2011772)
 
@@ -2182,9 +2215,12 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | Enlaces |  | Canción | Beatmap | Notas |
 | --: | :-: | :-- | :-: | :-- |
 |  |  | C3NTELL4 - Heavenly | [#1](https://osu.ppy.sh/beatmapsets/2509844) | Mapa de desempate de los octavos de final |
+| [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://amaristia.bandcamp.com/track/paradox-seeker "Bandcamp") |  | CNARG Sound Team - Paradox Seeker | [#1](https://osu.ppy.sh/beatmapsets/2524472) | Mapa de desempate de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/evilestpetshop/vibe "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://evilestpetshop.bandcamp.com/track/dj-youre-killing-my-vibe "Bandcamp") |  | flickery - dj... you're killing my vibe | [#1](https://osu.ppy.sh/beatmapsets/2520391) | HB3 de las finales |
+|  |  | lanelanelane - pohC\_ionuG | [#1](https://osu.ppy.sh/beatmapsets/2524481) | RC7 de la gran final |
 |  |  | pm04034 - Fragment Switcher | [#1](https://osu.ppy.sh/beatmapsets/2520399) | Mapa de desempate de las finales |
 |  |  | Primbe - Psychomachia | [#1](https://osu.ppy.sh/beatmapsets/2514632) | Mapa de desempate de los cuartos de final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/primbe/sparkbeat "SoundCloud") |  | Primbe - Sparkbeat | [#1](https://osu.ppy.sh/beatmapsets/2524485) | LN2 de la gran final |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/hyperflux-serenity-cnarg-4k "SoundCloud") |  | Sillot - Hyperflux Serenity | [#1](https://osu.ppy.sh/beatmapsets/2516951) | Mapa de desempate de las semifinales |
 
 #### ![](/wiki/shared/mode/mania.png) [DDS Tournament](https://osu.ppy.sh/community/forums/topics/1418287)
@@ -2254,6 +2290,12 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/volterror "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=J5K268geYqs "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://vnmcproductions.bandcamp.com/track/volt-error "Bandcamp") |  | Sillot - VOLT.Error | [#1](https://osu.ppy.sh/beatmapsets/2288132) | LN2 de las finales |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=y2R_oOy9Gsg "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://vnmcproductions.bandcamp.com/track/the-horizons-encore "Bandcamp") |  | THE BEAT WIZARD - The Horizon's Encore | [#1](https://osu.ppy.sh/beatmapsets/2284829) | LN2 de las semifinales |
 | [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://vnmcproductions.bandcamp.com/track/mechanical-blossom "Bandcamp") |  | Wooden - MECHANICAL BLOSSOM | [#1](https://osu.ppy.sh/beatmapsets/2281609) | Mapa de desempate de los cuartos de final |
+
+#### ![](/wiki/shared/mode/mania.png) [Mania Mod Masters](https://osu.ppy.sh/community/forums/topics/2148920)
+
+| Enlaces |  | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/heyych/hiddentruths "SoundCloud") |  | h. feat. arccat - hidden truths \~fading memories, flashing realities\~ | [#1](https://osu.ppy.sh/beatmapsets/2538331#) | Mapa de desempate de la gran final |
 
 #### ![](/wiki/shared/mode/mania.png) [Meow Mania](https://osu.ppy.sh/community/forums/topics/1838608)
 
@@ -2443,6 +2485,16 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/manu_gmr-22/hardware-heart-come-back-vnmc7k2025cm-semifinals-tiebreaker "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=SdOwoJ6v0q0 "YouTube") |  | Sillot - Hardware Heart: "Come back" | [#1](https://osu.ppy.sh/beatmapsets/2321839) | Mapa de desempate de las semifinales |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dj-slax/disharmony-induced-lunacy "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=5aB-VEKzjHw "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://slax23.bandcamp.com/track/disharmony-induced-lunacy "Bandcamp") |  | Slax - Disharmony-Induced Lunacy | [#1](https://osu.ppy.sh/beatmapsets/2329705) | RC6 de la gran final |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=KrqdIkbbEMw "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/3KKEtdNYfg8ZM6HCI0VG3G "Spotify") |  | Umeboshi Chazuke - Happiness EXplosion!\![^fa] | [#1](https://osu.ppy.sh/beatmapsets/2311576) | HB1 de los octavos de final |
+
+#### ![](/wiki/shared/mode/mania.png) [Vietnamese National Mania Championship 7K 2026: Dispersion](https://osu.ppy.sh/community/forums/topics/2166825)
+
+| Enlaces |  | Canción | Beatmap | Notas |
+| --: | :-: | :-- | :-: | :-- |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/azure_s_0513_20861911/stairs-of-il "SoundCloud") |  | azure - Stairs of IΛ | [#1](https://osu.ppy.sh/beatmapsets/2527990) | HB1 de las semifinales |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/bubble_composer/portrait "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=OPvSE4s2IOE "YouTube") |  | BUBBLE - PORTRAiT | [#1](https://osu.ppy.sh/beatmapsets/2534978) | HB1 de la gran final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/coulmusic/rivus-nexus "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=8ermBD4yANg "YouTube") |  | kuro vs. coul - rivus nexus[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/2534983) | EX3 de la gran final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rokunoyume/morethanjusthypertrance "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LfxKINtvtms "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/3J0tdRanFB6f5kky88Fm0y "Spotify") |  | log() - MORETHANJUSTHYPERTRANCE | [#1](https://osu.ppy.sh/beatmapsets/2534971) | Mapa de desempate de la gran final |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/seomeenu/fuchsine "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DEIe-WnaM8Y "YouTube") |  | minu - fuchsine | [#1](https://osu.ppy.sh/beatmapsets/2534976) | RC5 de la gran final |
 
 #### ![](/wiki/shared/mode/mania.png) [osu! Philippines Nationals 2021](https://osu.ppy.sh/community/forums/topics/1306124)
 
@@ -2873,6 +2925,8 @@ Estas canciones forman parte del [EP tomspicy osu! collection 01](https://osu.pp
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/trainer-lolxd/tetratone-altissimo "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=lGoWLWbLBfk "YouTube") |  | Trina Lydia - TETRATONE ALTiSSiMO | [#1](https://osu.ppy.sh/beatmapsets/2234187#mania/4745284) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/veetacrush/alcyonelegy "SoundCloud") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/2Y0LKYvTfT4SnoXIMYTCOt "Spotify") |  | VeetaCrush - Alcyonelegy | [#1](https://osu.ppy.sh/beatmapsets/2234187#mania/4745287) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/velamy/ineedayellowbebber "SoundCloud") |  | velamy - bebbercore | [#1](https://osu.ppy.sh/beatmapsets/2232144) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/velamy/egress-2 "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://velamy.bandcamp.com/track/egress "Bandcamp") |  | velamy - egress | [#1](https://osu.ppy.sh/beatmapsets/2501843) |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/velamy/mirae-1 "SoundCloud") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://velamy.bandcamp.com/track/mirae "Bandcamp") |  | velamy - mirae | [#1](https://osu.ppy.sh/beatmapsets/2490508) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/vinxis/the-ascending-journey "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=NAqdOfIVm2A "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/album/4SpxIVrMmuh65c70z6ZPvo "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://vinxis.bandcamp.com/track/the-ascending-journey "Bandcamp") |  | VINXIS - Joushou no Tabi \~ The Ascending Journey[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1857663) |
 |  |  | Visionary - EVERYTHING BLACK (REMIX) | [#1](https://osu.ppy.sh/beatmapsets/2421280) |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/zxnx/passion "SoundCloud") |  | ZxNX - PASS1ON[^fa] | [#1](https://osu.ppy.sh/beatmapsets/2234936#mania/4747563) |

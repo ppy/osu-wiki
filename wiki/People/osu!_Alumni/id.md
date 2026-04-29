@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 68df2a7820396f85d1466c9b3ebcfa812835f122
+outdated_translation: true
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
 ---
 
 # osu! Alumni
