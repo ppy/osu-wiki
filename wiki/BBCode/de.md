@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7fa474084e554f5f57e21a9bc899cfa4381a8ea1
+---
+
 # BBCode
 
 **BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. in Forenbeiträgen, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
