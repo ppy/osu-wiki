@@ -52,7 +52,7 @@ translation_keys:
     Livestream BGM: Música de fondo de la transmisión en vivo
     Main theme: Tema principal
     Trailer music: Música del tráiler
-    'Finals & Last Chance Bracket Pool #1 (.+)': "\\1 de las finales y del bracket\
+    "Finals & Last Chance Bracket Pool #1 (.+)": "\\1 de las finales y del bracket\
       \ de última oportunidad \\#1"
     Finals HD3 \(osu!\), finals NM1 \(osu!catch\): HD3 de las finales (osu!), NM1
       de las finales (osu!catch)
