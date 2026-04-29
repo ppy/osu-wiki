@@ -1,4 +1,4 @@
-# Quy tắc ứng xử dành cho modding và mapping
+# Quy tắc ứng xử với modding và mapping
 
 **Bộ quy tắc ứng xử đối với modding và mapping** là tập hợp các quy tắc và hướng dẫn áp dụng cho toàn bộ các thành viên [modding](/wiki/Modding) và [mapping](/wiki/Beatmapping) trong osu! và cũng là một phần mở rộng của các [quy tắc cộng đồng osu!](/wiki/Rules). Bộ quy tắc nhằm đảm bảo rằng các cuộc thảo luận về mapping và modding trong các chủ đề diễn ra tích cực, mang tính xây dựng và hiệu quả. Bộ quy tắc này giúp mọi người có cùng cách hiểu và kỳ vọng khi tham gia. Khi tham gia vào môi trường modding và mapping, bạn bắt buộc phải tuân theo bộ quy tắc ứng xử này. Việc vi phạm các quy tắc này có thể dẫn đến việc các [hình phạt được áp dụng trên tài khoản của bạn](/wiki/Help_centre/Silences). 
 
@@ -29,6 +29,6 @@ Khi không thể đi đến thống nhất, hãy tham khảo các nguyên tắc 
 
 - **Hãy hỏi nếu bạn không chắc về điều gì đó.** Hãy yêu cầu người liên quan giải thích điều họ muốn nói, họ chắc chắn sẽ sẵn sàng giải thích kỹ hơn cho bạn nếu bạn hỏi lại.
 - **Nhờ sự giúp đỡ từ những người có nhiều kinh nghiệm hơn.** Chẳng hạn như các thành viên của [BN](/wiki/People/Beatmap_Nominators) hoặc [NAT](/wiki/People/Nomination_Assessment_Team). Mặc dù họ là những người bận rộn, nhưng họ cũng có khả năng giúp bạn đi đến được sự đồng thuận.
-- **Cởi mở với nhau.** Nếu bạn nhận ra có một lựa chọn hợp lý hơn so với đề xuất ban đầu của mình, đừng ngại để cái tôi sang một bên. Không nên vội cho rằng ý kiến của người khác là sai, vì vậy hãy cố gắng hiểu những quan điểm khác thay vì chỉ trích chúng.
+- **Cởi mở khi đón nhận những ý kiến ​​khác.** Nếu bạn nhận ra có một lựa chọn hợp lý hơn so với đề xuất ban đầu của mình, đừng ngại để cái tôi sang một bên. Không nên vội cho rằng ý kiến của người khác là sai, vì vậy hãy cố gắng hiểu những quan điểm khác thay vì chỉ trích chúng.
 - **Nếu mọi việc trở nên căng thẳng, hãy nghỉ ngơi một chút.** Việc duy trì trạng thái tâm trí đúng đắn khi thảo luận là rất quan trọng. Nếu bạn không thể thuyết phục người khác bằng lý lẽ, thì việc nổi nóng cũng chẳng giúp ích được gì.
 - **Báo cáo hành vi xấu.** Khi tình hình có dấu hiệu mất kiểm soát hoặc cuộc thảo luận đang lệch khỏi chủ đề ban đầu, [hãy gọi một người điều hành](/wiki/Reporting_bad_behaviour). Đừng góp phần làm vấn đề trở nên tệ hơn bằng cách tiếp tục đăng bài.
