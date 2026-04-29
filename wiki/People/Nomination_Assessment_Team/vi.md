@@ -1,6 +1,8 @@
 ---
 tags:
   - NAT
+outdated_translation: true
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
 ---
 
 # Đội ngũ Đánh giá Đề cử

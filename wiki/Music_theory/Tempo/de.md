@@ -4,8 +4,6 @@ tags:
   - tempo
   - beats per minute
   - Beats pro Minute
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 # Tempo
@@ -16,7 +14,7 @@ outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ![Screenshot der BPM-Anzeige auf der Beatmap-Informationsseite](img/beatmap-info-DE.png "Das Tempo des Songs (181) ist in der oberen Ecke der Beatmap-Informationsseite sichtbar")
 :::
 
-Der Begriff **Tempo** bezieht sich auf die Geschwindigkeit eines Songs. Normalerweise wird das Tempo in **Beats pro Minute** (***BPM***) gemessen, also in der Anzahl an [ganzen Noten](/wiki/Music_theory/Beat) in einer Minute des Songs. Beispielsweise entspricht ein Tempo von 60 Beats pro Minute einem Beat pro Sekunde, während ein Tempo von 120 Beats pro Minute doppelt so schnell ist und zwei Beats je Sekunde entspricht. Das Tempo wirkt sich auf viele Aspekte des Spiels aus, wie zum Beispiel die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) und das Aufleuchten der Hit-Objekte während der [Kiai-Zeit](/wiki/Gameplay/Kiai_time). Beatmap-Informationsseiten geben das Tempo neben einem Metronomsymbol an. Ein [Metronom](https://de.wikipedia.org/wiki/Metronom) ist ein von Musikern verwendetes Gerät, das "durch akustische Impulse in gleichmäßigen Zeitintervallen ein Tempo vorgibt"[^metronom].
+Der Begriff **Tempo** bezieht sich auf die Geschwindigkeit eines Songs. Normalerweise wird das Tempo in **Beats pro Minute** (***BPM***) gemessen, also in der Anzahl an [ganzen Noten](/wiki/Music_theory/Beat) in einer Minute des Songs. Beispielsweise entspricht ein Tempo von 60 Beats pro Minute einem Beat pro Sekunde, während ein Tempo von 120 Beats pro Minute doppelt so schnell ist und zwei Beats je Sekunde entspricht. Das Tempo wirkt sich auf viele Aspekte des Spiels aus, wie zum Beispiel die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) und das Aufleuchten der Hit-Objekte während der [Kiai-Zeit](/wiki/Gameplay/Kiai_time). [Beatmap-Informationsseiten](/wiki/Beatmap_information) geben das Tempo neben einem Metronomsymbol an. Ein [Metronom](https://de.wikipedia.org/wiki/Metronom) ist ein von Musikern verwendetes Gerät, das "durch akustische Impulse in gleichmäßigen Zeitintervallen ein Tempo vorgibt"[^metronom].
 
 ## Gameplay
 

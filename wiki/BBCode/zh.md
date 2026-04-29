@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 7fa474084e554f5f57e21a9bc899cfa4381a8ea1
+---
+
 # BBCode
 
 **BBCode** 是一种[标记语言](https://zh.wikipedia.org/wiki/%E7%BD%AE%E6%A0%87%E8%AF%AD%E8%A8%80)，用于 osu! 论坛乃至互联网上的绝大多数论坛。它通过标签包裹文本来实现富文本格式，包括设置格式、属性、嵌入内容等等。在 osu! 网站上，BBCode 被广泛应用于论坛帖子、个性签名、玩家主页以及谱面描述等多处。
