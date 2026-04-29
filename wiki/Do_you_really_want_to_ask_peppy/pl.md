@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Czy naprawdę chcesz skontaktować się z peppym?
 
 Cześć! Peppy rozumie twoją chęć do prywatnego skontaktowania się, ale prosi abyś zrozumiał, że to **nie** jest miejsce, gdzie możesz poprosić go o pomoc/wsparcie. Oddziela on pomoc techniczną osu! od prywatnych wiadomości, a samo nadążanie za tymi prywatnymi wiadomościami jest już wystarczająco trudne i męczące. W związku z tym prosi abyś odnióśł się do poniższych opcji. Skorzystaj z tej, która najbardziej odpowiada twojemu problemowi.
