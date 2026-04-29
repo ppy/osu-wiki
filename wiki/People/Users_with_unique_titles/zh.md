@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 09ee3bc08ca5a694eae7b5ccd63d8ece582ecd9e
+---
+
 # 拥有特殊头衔的玩家
 
 玩家的头衔通常与[玩家组](/wiki/People/User_group)相关联，但下面列出的用户是因其他原因而获得他们的头衔。大多数头衔是对贡献或成就的奖励，剩下的则是 osu! 历史上标志性或有趣的象征。
@@ -193,7 +198,7 @@
 
 *主文章：[优秀提名者](/wiki/People/Elite_Nominators)*
 
-自 2020 年以来，[谱面提名成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
+自 2020 年以来，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
 
 - ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)[^elite-note]
