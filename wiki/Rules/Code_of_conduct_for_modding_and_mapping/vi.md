@@ -6,7 +6,7 @@
 
 - **Mục đích của modding là để giúp đỡ người lập bản đồ cải thiện công việc của họ.** Nếu bạn không hứng thú với việc giúp đỡ người khác hoặc thúc đẩy một cuộc thảo luận lành mạnh, thì tốt nhất đừng nên tham gia vào việc thảo luận.
 - **Cân nhắc kỹ nội dung bạn sắp đăng, lý do bạn đăng và người mà bạn muốn hướng đến.** Điều này sẽ đảm bảo rằng ý định tốt nhất của bạn được truyền đạt rõ ràng và bài đăng của bạn dễ hiểu.
-- **Luôn giữ thái độ thân thiện.** Các cuộc thảo luận mở cho tất cả người dùng. Mọi người đều được hoan nghênh tham gia, bao gồm cả những người mới trong cộng đồng. Hãy kiên nhẫn, thấu hiểu lẫn nhau và đưa ra nhiều giải thích càng tốt để mọi người có thể học hỏi và cải thiện nhanh hơn.
+- **Giữ thái độ thân thiện trong trò chuyện.** Các cuộc thảo luận mở cho tất cả người dùng. Mọi người đều được hoan nghênh tham gia, bao gồm cả những người mới trong cộng đồng. Hãy kiên nhẫn, thấu hiểu lẫn nhau và đưa ra nhiều giải thích càng tốt để mọi người có thể học hỏi và cải thiện nhanh hơn.
 - **Đối xử với người khác theo cách bạn muốn được đối xử.** Mọi người sẽ dễ tiếp nhận những góp ý tử tế và hữu ích hơn là những lời lẽ mang tính công kích. Giữ đúng chủ đề và tránh các bình luận xúc phạm cá nhân, thù ghét và những trò đùa không đúng chỗ để không làm lệch hướng cuộc thảo luận.
 - **Chỉ sử dụng [trang thảo luận](/wiki/Beatmap_discussion) để góp ý/sửa đổi các vấn đề liên quan đến beatmap.** Thảo luận các đề xuất của bạn với những thành viên khác trong cộng đồng. Nếu không, mối quan tâm của bạn khó có khả năng được những người có thẩm quyền xử lý lắng nghe một cách thích đáng.
 
