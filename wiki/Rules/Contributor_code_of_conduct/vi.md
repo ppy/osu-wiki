@@ -26,7 +26,7 @@ Những hành vi không thể chấp nhận bao gồm:
 
 ## Trách nhiệm thực thi
 
-- Các lãnh đạo cộng đồng chịu trách nhiệm làm rõ và thực thi các tiêu chuẩn của chúng tôi về hành vi chấp nhận được và sẽ thực hiện các biện pháp khắc phục phù hợp và công bằng đối với bất kỳ hành vi nào mà họ cho là không phù hợp, đe dọa, xúc phạm hoặc có hại.
+- Các lãnh đạo cộng đồng chịu trách nhiệm làm rõ và thực thi các tiêu chuẩn của chúng tôi về hành vi chấp nhận được và sẽ thực hiện các biện pháp khắc phục phù hợp và công bằng đối với bất kỳ hành vi nào mà họ cho là không phù hợp, đe dọa, xúc phạm hoặc gây hại.
 - Các lãnh đạo cộng đồng có quyền và trách nhiệm xóa, chỉnh sửa hoặc từ chối các đóng góp khác không phù hợp với Bộ Quy Tắc Ứng Xử này, và sẽ thông báo lý do cho các quyết định kiểm duyệt khi thích hợp.
 
 ## Phạm vi áp dụng
