@@ -36,13 +36,13 @@ translation_keys:
     osu! theme: osu! 主题曲
     osu!\(lazer\) "ranked play" theme: osu!(lazer) 排位模式主题曲
     ' tutorial song': 教程歌曲
-    'Christmas/Winter (\d{4}) ': '\1 年圣诞节/冬季 '
-    'Halloween 2016 ': '2016 年万圣节 '
-    'Summer 2023 ': '2023 年夏季 '
+    'Christmas/Winter (\d{4}) ': "\\1 年圣诞节/冬季 "
+    'Halloween 2016 ': "2016 年万圣节 "
+    'Summer 2023 ': "2023 年夏季 "
     Original composition for \[osu!stream\]\(/wiki/osu!stream\): 为 [osu!stream](/wiki/osu!stream)
       原创的作品
-    \[osu!stream\]\(/wiki/osu!stream\) main theme: '[osu!stream](/wiki/osu!stream)
-      主主题曲'
+    \[osu!stream\]\(/wiki/osu!stream\) main theme: "[osu!stream](/wiki/osu!stream)
+      主主题曲"
     Cutscene background music: 过场动画背景音乐
     Ending credits theme: 落幕音乐
     Livestream BGM: 直播背景音乐
@@ -81,7 +81,7 @@ translation_keys:
     ^Tier (\d) (.+): Tier \1 \2
     tiebreaker: TB
     ' wildcard': 外卡
-    ' pick': ' 选图'
+    ' pick': " 选图"
 outdated_translation: true
 outdated_since: 2f576e595cc820db0f9aa95ae94f575057313d7f
 ---
