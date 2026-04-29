@@ -10,6 +10,8 @@ tags:
   - legacy
   - Aprilscherz
   - Witz
+outdated_translation: true
+outdated_since: 4f9c331bc757b108e9dd898868803cf12a49e99f
 ---
 
 # Geschichte der osu!-Aprilscherze
