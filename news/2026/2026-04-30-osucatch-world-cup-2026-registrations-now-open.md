@@ -9,8 +9,6 @@ Our premier fruit-catching competition returns – The osu!catch World Cup is ba
 
 ![](/wiki/Tournaments/CWC/2026/img/cwc2026-banner.jpg)
 
-[![Click here to register for CWC 2026](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/register-news.png)](https://osu.ppy.sh/community/tournaments/55)
-
 ## Format changes
 
 The 2026 osu!catch World Cup will introduce the protect system to the regular pick/ban phase. In this system, each team has to protect one beatmap before the ban phase can take place. This ensures that each team can play one map of their choice, which creates more avenues for strategising.
@@ -57,7 +55,7 @@ The 1st-place team will receive 50% of the prize pool, limited-edition merch, a 
 
 ## How do I register?
 
-**[Click here to register for CWC 2026!](https://osu.ppy.sh/community/tournaments/55)**
+[![Click here to register for CWC 2026](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/register-news.png)](https://osu.ppy.sh/community/tournaments/55)
 
 Please note that teams will be formed by each country's captain *after* the registration phase has concluded. **The deadline for registering is May 15, 23:59 UTC. Make sure to submit yours before it's too late — no exceptions will be made.**
 
