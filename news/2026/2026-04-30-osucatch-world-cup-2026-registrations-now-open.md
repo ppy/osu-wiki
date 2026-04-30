@@ -19,7 +19,7 @@ The 2026 osu!catch World Cup will introduce the protect system to the regular pi
 
 This year's mappool structure introduces several adjustments meant to refine core catch skillsets and improve map quality and consistency. As such, we've opted to remove the gimmick (often easily circumvented by lane covers) and convert slots (difficult to source consistently), as well as MM3 (which was removed in favour adding NM5), respectively.
 
-To replace these, the No Mod pool now focuses on more fundamental mechanics, with NM1 focusing on streams, NM3 on jumps, and the newly added NM5 being a speed pick. NM4 was changed into a slot for "convert-like" patterns  . For the Double Time bracket, DT1 is now a dedicated stamina pick, moving high AR to DT3 to better pair with the streams slot, which naturally has a higher density (in most cases).
+To replace these, the No Mod pool now focuses on more fundamental mechanics, with NM1 focusing on streams, NM3 on jumps, and the newly added NM5 being a speed pick. NM4 was changed into a slot for "convert-like" patterns. For the Double Time bracket, DT1 is now a dedicated stamina pick, moving high AR to DT3 to better pair with the streams slot, which naturally has a higher density (in most cases).
 
 Please refer to the tables below for a more in-depth breakdown of the mappool changes:
 
