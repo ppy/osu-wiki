@@ -1,4 +1,4 @@
-# Bộ quy tắc ứng xử của cộng tác viên
+# Bộ quy tắc ứng xử với cộng tác viên
 
 ## Cam kết của chúng tôi
 
