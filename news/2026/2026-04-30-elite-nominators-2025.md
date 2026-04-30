@@ -13,13 +13,9 @@ In case you're new here, the [Elite Nominator](/wiki/People/Elite_Nominators) aw
 
 This year, we took the opportunity to address some points of feedback we've received from the community. So, we're introducing the following changes:
 
-In the hope for of making the process more balanced and fair, we've developed a comprehensive scoring formula that we used to select Elite Nominators, instead of relying on manual picks guided by basic nomination stats. While we cannot share the exact formula, we can give some insight on the most important variables that compound it.
+Elite Nominators used to be picked manually with the help of some basic nomination statistics, but this time we've used a more comprehensive scoring formula that should be more fair and balanced, although we can't share the exact formula lest we invoke Goodhart's law. For more information on our updates process, please refer to the [Elite Nominators wiki page](/wiki/People/Elite_Nominators).
 
-Aside from the expected stats like nomination count and nomination reset rate, we've also taken into account the unique number of mappers and the number of new mappers nominated, with notable and severe resets applying a penalty multiplier depending on their severity. This ensures a somewhat balanced approach to the selection process, so alongside raw activity, BNs who focus on promoting a solid variety of mappers — new and experienced alike — will see those efforts reflected in their final scores.
-
-This is our first iteration of the scoring system, and we'd be more than happy to hear your feedback towards it. If you have any suggestions or anything that should be factored in, please don't hesitate to comment down below!
-
-For our second change, we've decided to have the osu! team handle any and all the NAT picks for this accolade, which has been made possible thanks to the aforementioned scoring formula which ensures that all recipients have truly earned their spot.
+In addition, we've decided to have the osu! team handle any and all the NAT picks for this accolade, which has been made possible thanks to the aforementioned formula which ensures that all recipients have truly earned their spot.
 
 Without further ado, let's get right into it!
 
