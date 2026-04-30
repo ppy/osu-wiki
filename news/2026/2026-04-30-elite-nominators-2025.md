@@ -123,7 +123,7 @@ The nominations did not only include your regular 4K and 7K but also included mo
 
 We are happy to see their 2025 journey culminating in yet another recognition for their massive efforts, and we hope that people can also recognize said effort. Congratulations once more!
 
-[![](/wiki/shared/news/2026-04-30-elite-nominators-2025/pyrasan.jpg)](https://osu.ppy.sh/users/31126430)
+[![](/wiki/shared/news/2026-04-30-elite-nominators-2025/pyra-san.jpg)](https://osu.ppy.sh/users/31126430)
 
 Throughout 2025, [Pyra-san](https://osu.ppy.sh/users/31126430) has stood out as one of the key driving forces behind osu!mania's continued growth, earning their well-deserved recognition as 2025's Elite Nominator through unwavering dedication. With an impressive number of nominations, Pyra-san has consistently demonstrated both efficiency and a keen eye for quality, ensuring that every map they worked on met a high standard before reaching the Ranked section for players to enjoy.
 
@@ -131,15 +131,15 @@ Their efforts have been particularly influential in numerous anti-meta charts th
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/maxus.jpg)](https://osu.ppy.sh/users/4335785)
 
-[Maxus](https://osu.ppy.sh/users/4335785) TODO WRITE
+[Maxus](https://osu.ppy.sh/users/4335785) needs fairly little introduction, arguably none for any user minimally invested in the mapping scene — let it be in the Ranked section, in the 7K tournament community, or mapping contests alike! This made their name analogous with anything mapping adjacent. As such, it should come as no surprise that their nominations throughout 2025 were nothing short of impressive, both in quantity and quality. Outside of the many maps they helped pushing during that period of time, they were of great help ranking many of the [7K World Cup osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) spreads that many users get to enjoy nowadays on all levels of play. Unfortunately, a short paragraph would be insufficient to recap all of their contributions to the mapping scene throughout the year. However, their impact in the scene is more than apparent even as we reach the halfway point of 2026, making this the third time they've got this prestigious accolade — congratulations!
 
-[![](/wiki/shared/news/2026-04-30-elite-nominators-2025/akasha.jpg)](https://osu.ppy.sh/users/2596306)
+[![](/wiki/shared/news/2026-04-30-elite-nominators-2025/akasha-.jpg)](https://osu.ppy.sh/users/2596306)
 
-[Akasha-](https://osu.ppy.sh/users/2596306) TODO WRITE
+Another osu!mania NAT member worth giving a shout-out to for their contributions is [Akasha-](https://osu.ppy.sh/users/2596306). A known, friendly face around the mapping and modding community, role notwithstanding. Their nomination repertoire for 2025 was bar none, with a good mix of genres, styles, difficulties, and even keymodes. All while having one of the cleanest records amongst the mode's BN group! If that wasn't enough, this was all done while coordinating most — if not all — BN mentorship cycles for the gamemode, as well as keeping up with their assigned tasks as an [evaluator](/wiki/People/Nomination_Assessment_Team#evaluation). While these contributions may not be groundbreaking on their own, being able to achieve everything they did at once was no easy task, and for that we would like to extend our thanks.
 
 ---
 
-As usual, many thanks to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) for handling this year's descriptions for the BNs, and congratulations to all the recipients for their outstanding work towards these well-earned accolades!
+As usual, many thanks to the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) for handling this year's descriptions for the BNs, [TtmnZk](https://osu.ppy.sh/users/2495509) for creating this year's banner designs, and congratulations to all the recipients for their outstanding work towards these well-earned accolades!
 
 See you next year!
 
