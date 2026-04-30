@@ -13,21 +13,21 @@ Our premier fruit-catching competition returns – The osu!catch World Cup is ba
 
 ## Format changes
 
-The 2026 osu!catch World Cup will introduce the protect system to the regular pick/ban phase. In this system, each team has to protect one beatmap before the ban phase can take place. This ensures that each team can play one map of their choice, which creates more avenues for strategizing.
+The 2026 osu!catch World Cup will introduce the protect system to the regular pick/ban phase. In this system, each team has to protect one beatmap before the ban phase can take place. This ensures that each team can play one map of their choice, which creates more avenues for strategising.
 
 ## Mappool changes
 
-This year's mappool structure introduces several adjustments meant to refine core catch skillsets and improve map quality and consistency. As such, we've opted to remove the gimmick (often easily circumvented by lane covers) and convert slots (difficult to source consistently), as well as MM3 (which was removed in favour adding NM5), respectively.
+This year's mappool structure introduces several adjustments meant to refine core osu!catch skill sets and improve map quality and consistency. As such, we've opted to remove the gimmick (often easily circumvented by lane covers) and convert slots (difficult to source consistently), as well as MM3 (which was removed in favour of adding NM5).
 
 To replace these, the No Mod pool now focuses on more fundamental mechanics, with NM1 focusing on streams, NM3 on jumps, and the newly added NM5 being a speed pick. NM4 was changed into a slot for "convert-like" patterns. For the Double Time bracket, DT1 is now a dedicated stamina pick, moving high AR to DT3 to better pair with the streams slot, which naturally has a higher density (in most cases).
 
 Please refer to the tables below for a more in-depth breakdown of the mappool changes:
 
-**Qualifier stage**
+### Qualifier stage
 
 ![CWC qualifier pool comparison](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/quals.png)
 
-**Bracket stage**
+### Bracket stage
 
 ![CWC bracket pool comparison](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/bracket.png)
 
@@ -53,7 +53,7 @@ For more details pertaining to the tournament, refer to the **[osu!catch World C
 
 The osu!catch World Cup 2026 offers a $2,000 prize pool, along with limited-edition merch!
 
-The 1st place team will receive 50% of the prize pool, limited-edition merch, a profile badge, and the **osu!catch Champion** user title for one year. The 2nd and 3rd place teams will receive 30% and 20% of the prize pool respectively, alongside limited-edition merch and a profile badge.
+The 1st-place team will receive 50% of the prize pool, limited-edition merch, a profile badge and the **osu!catch Champion** user title for one year. The 2nd- and 3rd-place teams will receive 30% and 20% of the prize pool respectively, alongside limited-edition merch and a profile badge.
 
 ## How do I register?
 
