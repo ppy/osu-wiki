@@ -1,8 +1,8 @@
 ---
 tags:
-  - CWC
-  - CWC2026
-  - CWC 2026
+  - CWC
+  - CWC2026
+  - CWC 2026
 ---
 
 # osu!catch World Cup 2026
