@@ -148,3 +148,33 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) | osu!mania |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | osu!mania |
+
+### 2025
+
+*For the news post, see: [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-04-30-elite-nominators-2025)*
+
+| Name | Game mode |
+| :-- | :-- |
+| ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | osu! |
+| ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | osu! |
+| ::{ flag=ID }:: [SupaV](https://osu.ppy.sh/users/19511007) | osu! |
+| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) | osu! |
+| ::{ flag=RU }:: [44444444444444](https://osu.ppy.sh/users/12357714) | osu! |
+| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | osu! |
+| ::{ flag=US }:: [Wanpachi](https://osu.ppy.sh/users/12157130) | osu! |
+| ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | osu! |
+| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | osu! |
+| ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579) | osu!taiko |
+| ::{ flag=ID }:: [\[-E S I A-\]](https://osu.ppy.sh/users/5159715) | osu!taiko |
+| ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | osu!taiko |
+| ::{ flag=DE }:: [DizzyOracel](https://osu.ppy.sh/users/32159666) | osu!catch |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | osu!catch |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | osu!mania |
+| ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | osu!mania |
+| ::{ flag=ID }:: [Pyra-san](https://osu.ppy.sh/users/31126430) | osu!mania |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | osu!mania |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | osu!mania |
+
+## 2025 `.add-badge` commands
+
+The lines below are for awarding the [profile badge](/wiki/Community/Profile_badge) to 2025 Elite Nominators. Badge image filenames match those shown above (`elite-nominator.png`, `elite-nominator-2.png`, `elite-nominator-3.png`).
