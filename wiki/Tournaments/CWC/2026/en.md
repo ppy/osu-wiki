@@ -137,12 +137,11 @@ The osu!catch World Cup 2026 is run by various community members.
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1.
-   - The exact formula that will be used for all teams (and for each map) is `Map percentage = Team score / MAX score`, where:
-     - `Map percentage` is the percentage awarded to the current team
-     - `Team score` is the score the current team achieved on the current map
-     - `MAX score` is the highest score achieved for the current map
-   - The final team score to be sorted is defined as `Final score = SUM(Map percentage)`, i.e. the sum of each map's `Map percentage`.
+9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1. The exact formula that will be used for all teams (and for each map) is `Map percentage = Team score / MAX score`, where:
+   - `Map percentage` is the percentage awarded to the current team
+   - `Team score` is the score the current team achieved on the current map
+   - `MAX score` is the highest score achieved for the current map
+The final team score to be sorted is defined as `Final score = SUM(Map percentage)`, i.e. the sum of each map's `Map percentage`.
 10. Only the top 32 seeded teams will advance to the Round of 32.
 
 ### Stage instructions
@@ -162,20 +161,21 @@ The osu!catch World Cup 2026 is run by various community members.
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Teams must join the lobby in that period.
    - The room settings are `Game mode: "osu!catch"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `CWC2026: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each captain must use `!roll` once in the match's chatroom. After the rolls are set, the pick and ban phase will have the following steps:
-   - The winner of the `!roll` may choose to either pick first and ban second, or pick second and ban first.
-   - The loser of the `!roll` will follow the remaining pick order.
-3. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
+2. Each team may ban **one beatmap** per match. These beatmaps may not be picked by any team for the entire duration of the match.
+3. Each captain must use `!roll` once in the match's chatroom. After the rolls are set, the pick and ban phase will have the following steps:
+   1. The **roll winner** starts by protecting one beatmap, followed by a protect from the **roll loser**. They may not protect the same beatmap. **Protected beatmaps may not be banned**.
+   2. The **roll loser bans one beatmap**, followed by a ban from **roll winner**.
+   3. The **roll winner picks** the first beatmap of the match.
+   4. Both teams will then take turns picking a beatmap from the mappool.
 4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
-     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to pick.
-     - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below, i.e. a random pick will be used for a pick timer, and the match will be forcefully started for a ready timer.
-   - On subsequent occurrences:
+     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to prepare/pick.
+     - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
-     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
+     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team (if applicable), starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is (e.g. 2 *versus* 2 players or similar combinations).
      - Repeat offenders may receive further sanctions from the tournament managers.
 5. In the case of a team starting a map with less than the optimal number of players on their roster due to an unforeseen circumstance (e.g. a technical issue or unavoidable player absence), the team in question will be granted the right to fill their roster before play commences. The remainder of the original roster must stay the same, i.e. only player additions are allowed.
-6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional, and is always incremented to the current running timer.*.
+6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional, and is always applied at the end of the currently running timer.*.
    - The tactical timeout may be called on a tiebreaker, irrespecive of which team asked for it, or how many timeouts remain available.
 
 ### Mappool instructions
