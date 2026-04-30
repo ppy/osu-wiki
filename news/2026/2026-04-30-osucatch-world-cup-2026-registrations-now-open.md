@@ -23,11 +23,11 @@ Please refer to the tables below for a more in-depth breakdown of the mappool ch
 
 ### Qualifier stage
 
-![CWC qualifier pool comparison](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/quals.png)
+![CWC qualifier pool comparison](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/quals.png?2)
 
 ### Bracket stage
 
-![CWC bracket pool comparison](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/bracket.png)
+![CWC bracket pool comparison](/wiki/shared/news/2026-04-30-osucatch-world-cup-2026-registrations-now-open/bracket.png?2)
 
 ---
 
