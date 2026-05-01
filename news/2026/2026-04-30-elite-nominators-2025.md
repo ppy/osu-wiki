@@ -5,7 +5,7 @@ date: 2026-04-30 14:00:00 +0000
 series: miscellaneous
 ---
 
-Join us in celebrating the best of the best among those who dedicate their time and effort to keep the ranked section of osu! alive and thriving.
+Join us in celebrating the best of the best among those who dedicate their time and effort to keep the Ranked section of osu! alive and thriving.
 
 ![](/wiki/shared/news/2026-04-30-elite-nominators-2025/banner.jpg)
 
@@ -40,25 +40,25 @@ With this exceptional showcase of performance as a Beatmap Nominator in 2025, it
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/supav.jpg)](https://osu.ppy.sh/users/19511007)
 
-[SupaV](https://osu.ppy.sh/users/19511007) has made a noticeable difference for his very first full year as a Beatmap Nominator! Not only has he helped push a huge number of beatmaps — 173 across 8 months in 2025 — but he's done so with a steady attentiveness to bringing many different kinds of styles and songs to the ranked section. SupaV has been proactive all year long to put himself out there to help, whether that is volunteering to help push Locus contest maps, actively putting himself out there to help cover other maps that came to need a 2nd Beatmap Nominator, or regularly participating in a variety of ranked discussions. SupaV's efforts to help osu! mappers has not gone unnoticed, and he has proven himself as an Elite Nominator.
+[SupaV](https://osu.ppy.sh/users/19511007) has made a noticeable difference for his very first full year as a Beatmap Nominator! Not only has he helped push a huge number of beatmaps — 173 across 8 months in 2025 — but he's done so with a steady attentiveness to bringing many different kinds of styles and songs to the Ranked section. SupaV has been proactive all year long to put himself out there to help, whether that is volunteering to help push Locus contest maps, actively putting himself out there to help cover other maps that came to need a 2nd Beatmap Nominator, or regularly participating in a variety of discussion around the Ranked section. SupaV's efforts to help osu! mappers has not gone unnoticed, and he has proven himself as an Elite Nominator.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/godhacc.jpg)](https://osu.ppy.sh/users/10023225)
 
-Entering the scene in late 2024, [GodHacc](https://osu.ppy.sh/users/10023225) has made a name for himself with his contributions to the ranked section. In 2025 alone, he helped many people in the community, pushing forward an insane total of 145 maps with a big majority of those covering a wide variety of mappers and mapping styles. Despite their high activity, they also maintained a very clean record consisting mostly of minor resets over the past year, demonstrating their vigilance and dedication to map quality. It is without a doubt that they deserve recognition for their efforts, and so we would like to congratulate him with the Elite Nominator title!
+Entering the scene in late 2024, [GodHacc](https://osu.ppy.sh/users/10023225) has made a name for himself with his contributions to the Ranked section. In 2025 alone, he helped many people in the community, pushing forward an insane total of 145 maps with a big majority of those covering a wide variety of mappers and mapping styles. Despite their high activity, they also maintained a very clean record consisting mostly of minor resets over the past year, demonstrating their vigilance and dedication to map quality. It is without a doubt that they deserve recognition for their efforts, and so we would like to congratulate him with the Elite Nominator title!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/44444444444444.jpg)](https://osu.ppy.sh/users/12357714)
 
-[44444444444444](https://osu.ppy.sh/users/12357714), or aiyoko as they were previously known as during their first full year as a BN in 2025, came in strong with one of the highest nomination counts among all BNs at 135, despite taking a month off! During their tenure, aiyoko has helped bring variety to the ranked section, shown in their 115 nominations by different mappers across some niche and underappreciated genres.
+[44444444444444](https://osu.ppy.sh/users/12357714), or aiyoko as they were previously known as during their first full year as a BN in 2025, came in strong with one of the highest nomination counts among all BNs at 135, despite taking a month off! During their tenure, aiyoko has helped bring variety to the Ranked section, shown in their 115 nominations by different mappers across some niche and underappreciated genres.
 
 This is a feat very much worth celebrating, and we are more than happy to award them with their first, but hopefully not last, Elite Nominator title! Here's to 44444444444443 more!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/kanui.jpg)](https://osu.ppy.sh/users/14940019)
 
-Since their BN debut in late 2024, [Kanui](https://osu.ppy.sh/users/14940019) has made a positive impact on the community. Over the past year, they have strongly contributed to the ranked section with a whopping 136 nominations while also maintaining a nearly flawless record, an impressive feat. His consistent dedication to bringing quality maps of both a diverse selection of songs and mapping styles to osu! has earned him a spot among the highest performers in the mode. Their profound accomplishments and close attention to detail in the scene make it clear that they are well-deserving of the Elite Nominator Title, Congrats!
+Since their BN debut in late 2024, [Kanui](https://osu.ppy.sh/users/14940019) has made a positive impact on the community. Over the past year, they have strongly contributed to the Ranked section with a whopping 136 nominations while also maintaining a nearly flawless record, an impressive feat. His consistent dedication to bringing quality maps of both a diverse selection of songs and mapping styles to osu! has earned him a spot among the highest performers in the mode. Their profound accomplishments and close attention to detail in the scene make it clear that they are well-deserving of the Elite Nominator Title, Congrats!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/wanpachi.jpg)](https://osu.ppy.sh/users/12157130)
 
-Debuted in early 2024 & Elite Nominator for the entire 2025, [Wanpachi](https://osu.ppy.sh/users/12157130) has been consistently contributing heavily to the ranked section with a high amount of nominations yet a very small quantity of resets. Out of his 132 nominations in the past year 115 are unique mappers which shows a high diversity when it comes to mappers and not to mention the maps themselves.
+Debuted in early 2024 & Elite Nominator for the entire 2025, [Wanpachi](https://osu.ppy.sh/users/12157130) has been consistently contributing heavily to the Ranked section with a high amount of nominations yet a very small quantity of resets. Out of his 132 nominations in the past year 115 are unique mappers which shows a high diversity when it comes to mappers and not to mention the maps themselves.
 
 Wanpachi kept consistent high activity for the past 2 years and almost a clean record which is very impressive. Such efforts deserve to be featured and a 2nd Elite Nominator award!
 
@@ -78,17 +78,21 @@ Although Flask chose to step down after his five-year tenure, his contributions 
 
 An old face returns to the Elite Nominator roster. [iRedi](https://osu.ppy.sh/users/8005579) has proven himself again, gaining the 2nd tier of the Elite Nominator badge and title. His nomination activity remains steady above anyone else and with the low amount of resets he well deserves this award once again. Joining the Beatmap Nominators back in December of 2023, his performance has not once decreased. Continuing to push high quality maps ranging from simple sets to a few of the hardest maps this gamemode has ever seen in 2025 as well. A community member who stood out with his stellar modding skills throughout the entirety of his tenure and high presence in modding discussions even on maps he doesn't end up nominating. Truly a great help for both new and experienced mappers across the board!
 
-Now starting his third year as a Beatmap Nominator, he influenced not only the ranked section with his nominations (now sitting at a very solid 471 nominations) but also with his own ranked maps, hitting 100 ranked maps fairly recently, making him join the Centaurian Mapper roster.
+Now starting his third year as a Beatmap Nominator, he influenced not only the Ranked section with his nominations (now sitting at a very solid 471 nominations) but also with his own Ranked maps, hitting 100 Ranked maps fairly recently, making him join the Centaurian Mapper roster.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/esia.jpg)](https://osu.ppy.sh/users/5159715)
 
-Joining the Beatmap Nominators in early 2024, [[-E S I A-]](https://osu.ppy.sh/users/5159715) has quickly made a name for himself in the mapping and modding scene. With over 200 nominations in the past year with a clean reset record to boot, he has established himself as an approachable, reliable and hardworking BN that is efficient and easy to work with. Despite his high activity, his modding quality and attention to detail has never been lacking, and he has also managed to promote a wide variety of maps, from simple TV-size anime and K-Pop songs to difficult high BPM and stream maps, showing his exceptional modding capabilities. Not only that, he also frequently makes an effort to check the Qualified section and ensure that pesky metadata and timing mistakes don't slip through to Ranked.
+Joining the Beatmap Nominators in early 2024, [[-E S I A-]](https://osu.ppy.sh/users/5159715) has quickly made a name for himself in the mapping and modding scene. With over 200 nominations in the past year with a clean reset record to boot, he has established himself as an approachable, reliable and hardworking BN that is efficient and easy to work with.
+
+Despite his high activity, his modding quality and attention to detail has never been lacking, and he has also managed to promote a wide variety of maps, from simple TV-size anime and K-Pop songs to difficult high BPM and stream maps, showing his exceptional modding capabilities. Not only that, he also frequently makes an effort to check the Qualified section and ensure that pesky metadata and timing mistakes don't slip through to Ranked.
 
 With his dedication and consistent efforts over the last 2 years as well as an admirable work ethic, his performance has been nothing short of outstanding and we think it is only fitting to present him with the title of Elite Nominator!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/ryxliee.jpg)](https://osu.ppy.sh/users/15823344)
 
-Pioneering in the Russian osu!taiko mapping and modding scene, we want to give a special shoutout to [Ryxliee](https://osu.ppy.sh/users/15823344), who has made a name for himself in the past 2 years as he kept his activity up to a maximum. Early in his Beatmap Nominator days, it was clear that he would surpass any activity thresholds we have ever seen. Gaining BN experience fast and with a steady rising nomination count, Ryxliee has promoted some of the most popular maps known these days. With his interest in many genres and map styles, he helped a lot of new mappers getting their first maps ranked. Known as a pocket BN for many, he kept his activity at an all-time high during 2025, triggering his eval card creation on a regular monthly or even bi-weekly basis.
+Pioneering in the Russian osu!taiko mapping and modding scene, we want to give a special shoutout to [Ryxliee](https://osu.ppy.sh/users/15823344), who has made a name for himself in the past 2 years as he kept his activity up to a maximum. Early in his Beatmap Nominator days, it was clear that he would surpass any activity thresholds we have ever seen. Gaining BN experience fast and with a steady rising nomination count, Ryxliee has promoted some of the most popular maps known these days.
+
+With his interest in many genres and map styles, he helped a lot of new mappers getting their first maps ranked. Known as a pocket BN for many, he kept his activity at an all-time high during 2025, triggering his eval card creation on a regular monthly or even bi-weekly basis.
 
 Sitting at a very impressive 546 nominated beatmaps, Ryxliee is one of the most active BN ever. And due to that fact alone, we are very happy to award him the Elite Nominator title for his outstanding contribution towards the osu!taiko modding scene throughout 2025!
 
@@ -98,7 +102,8 @@ Sitting at a very impressive 546 nominated beatmaps, Ryxliee is one of the most 
 
 During 2025, [DizzyOracel](https://osu.ppy.sh/users/32159666) delivered an impressive performance as a Beatmap Nominator. Despite joining BN only fairly recently, starting in May 2025, he managed to nominate an outstanding total of 107 beatmaps in a shorter time frame than other nominators.
 
-Throughout the year, DizzyOracel showed no hesitation in nominating a wide range of maps, from easy and accessible maps to more challenging ones, as well as other unconventional picks. He also actively supported the mappers who were ranking their maps for the first time, helping more people take their first steps into osu!catch mapping. This proactive approach played a significant role in osu!catch gaining 37% more ranked maps in 2025 compared to the previous year.
+Throughout the year, DizzyOracel showed no hesitation in nominating a wide range of maps, from easy and accessible maps to more challenging ones, as well as other unconventional picks. He also actively supported the mappers who were ranking their maps for the first time, helping more people take their first steps into osu!catch mapping. This proactive approach played a significant role in osu!catch gaining 37% more Ranked maps in 2025 compared to the previous year.
+
 Now established as an Elite Nominator, DizzyOracel's future contributions to the osu!catch community are highly anticipated.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/spectator.jpg)](https://osu.ppy.sh/users/702598)
@@ -131,7 +136,9 @@ Their efforts have been particularly influential in numerous anti-meta charts th
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/maxus.jpg)](https://osu.ppy.sh/users/4335785)
 
-[Maxus](https://osu.ppy.sh/users/4335785) needs fairly little introduction, arguably none for any user minimally invested in the mapping scene — let it be in the Ranked section, in the 7K tournament community, or mapping contests alike! This made their name analogous with anything mapping adjacent. As such, it should come as no surprise that their nominations throughout 2025 were nothing short of impressive, both in quantity and quality. Outside of the many maps they helped pushing during that period of time, they were of great help ranking many of the [7K World Cup osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) spreads that many users get to enjoy nowadays on all levels of play. Unfortunately, a short paragraph would be insufficient to recap all of their contributions to the mapping scene throughout the year. However, their impact in the scene is more than apparent even as we reach the halfway point of 2026, making this the third time they've got this prestigious accolade — congratulations!
+[Maxus](https://osu.ppy.sh/users/4335785) needs fairly little introduction, arguably none for any user minimally invested in the mapping scene — let it be in the Ranked section, in the 7K tournament community, or mapping contests alike! This made their name analogous with anything mapping adjacent. As such, it should come as no surprise that their nominations throughout 2025 were nothing short of impressive, both in quantity and quality. Outside of the many maps they helped pushing during that period of time, they were of great help ranking many of the [7K World Cup osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) spreads that many users get to enjoy nowadays on all levels of play.
+
+Unfortunately, a short paragraph would be insufficient to recap all of their contributions to the mapping scene throughout the year. However, their impact in the scene is more than apparent even as we reach the halfway point of 2026, making this the third time they've got this prestigious accolade — congratulations!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/akasha-.jpg)](https://osu.ppy.sh/users/2596306)
 
