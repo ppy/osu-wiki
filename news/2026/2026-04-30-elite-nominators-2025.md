@@ -36,7 +36,7 @@ With this exceptional showcase of performance as a Beatmap Nominator in 2025, it
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/daycore.jpg)](https://osu.ppy.sh/users/5596337)
 
-[Daycore](https://osu.ppy.sh/users/5596337), while joining in the middle of 2024, has been consistently maintaining a high amount of monthly nominations with not many severe resets. He's reached almost 300 total nominations in such a small amount of time, for most people, while carefully checking all their requests — keeping such consistency and modding quality throughout his activity is something worth mentioning. In 2025 alone, he reached a total of 170 nominations with 0 severe disqualifications. Such accomplishment is not easy at all to attain, hence why this year we've awarded him with the huge Elite Nominator title & badge!
+[Daycore](https://osu.ppy.sh/users/5596337), while joining in the middle of 2024, has been consistently maintaining a high amount of monthly nominations with not many severe resets. He's reached almost 300 total nominations in such a small amount of time, for most people, while carefully checking all their requests — keeping such consistency and modding quality throughout his activity is something worth mentioning. In 2025 alone, he reached a total of 170 nominations with 0 severe disqualifications. Such accomplishment is not easy at all to attain, hence why this year we've awarded him with the huge Elite Nominator title and badge!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/supav.jpg)](https://osu.ppy.sh/users/19511007)
 
@@ -58,7 +58,7 @@ Since their BN debut in late 2024, [Kanui](https://osu.ppy.sh/users/14940019) ha
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/wanpachi.jpg)](https://osu.ppy.sh/users/12157130)
 
-Debuted in early 2024 & Elite Nominator for the entire 2025, [Wanpachi](https://osu.ppy.sh/users/12157130) has been consistently contributing heavily to the Ranked section with a high amount of nominations yet a very small quantity of resets. Out of his 132 nominations in the past year 115 are unique mappers which shows a high diversity when it comes to mappers and not to mention the maps themselves.
+Debuted in early 2024 and Elite Nominator for the entire 2025, [Wanpachi](https://osu.ppy.sh/users/12157130) has been consistently contributing heavily to the Ranked section with a high amount of nominations yet a very small quantity of resets. Out of his 132 nominations in the past year 115 are unique mappers which shows a high diversity when it comes to mappers and not to mention the maps themselves.
 
 Wanpachi kept consistent high activity for the past 2 years and almost a clean record which is very impressive. Such efforts deserve to be featured and a 2nd Elite Nominator award!
 
