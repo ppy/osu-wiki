@@ -1,23 +1,23 @@
 # Beatmap information
 
-![](img/beatmap-info.png "The beatmap information page of \"xi - Blue Zenith\" mapped by Asphyxia")
-
 The **beatmap information page** displays various contents about a [beatmap](/wiki/Beatmap), such as its metadata, user rating, and comments.
 
 At the top-left, next to the currently selected `info` tab, is the [beatmap discussion](/wiki/Beatmap_discussion) tab used for [modding](/wiki/Modding) a beatmap.
 
 ## Difficulty menu
 
+![Difficulty menu](img/difficulty-menu.png "Difficulty menu section")
+
 This is the main section of the information page, containing the most important details about a beatmap. The background is the cutout version of the beatmap's background image.
 
 ### Mapping information
 
 ::: Infobox
-![](img/game-mode-selection.png "Game mode selection")
+![Game mode selection](img/game-mode-selection.png "Game mode selection")
 :::
 
 ::: Infobox
-![](img/mapping-info.png "Mapping information")
+![Mapping information](img/mapping-info.png "Mapping information")
 :::
 
 Users are able to choose for which [game mode](/wiki/Game_mode) they want to view difficulty statistics in by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes for which there is no difficulty available will be greyed out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
@@ -34,13 +34,13 @@ Further below, the following action buttons may be present, arranged from left t
 
 - **Favourite:** Adds this beatmap to the favourites section in the user's profile.
 - **Download:** Download the beatmap. If the beatmap has a background video, the user can choose to download the beatmap with or without the video.
-- **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file. [osu!supporter](/wiki/osu!supporter) is required to use this feature.
+- **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file. To use this feature in the osu!(stable) client, an [osu!supporter](/wiki/osu!supporter) is required.
 - **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard), or the [WIP and Pending](/wiki/Beatmap/Category#wip-and-pending) categories, the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu will appear, revealing the `report` button.
 
 ### Statistics panel
 
 ::: Infobox
-![](img/statistics-panel.png "Statistics panel showing the beatmap settings")
+![Statistics panel](img/statistics-panel.png "Statistics panel showing the beatmap settings")
 :::
 
 To the right side of the difficulty menu is the statistics panel. Above the panel, the beatmap's category can be seen. Small icons will indicate if the beatmap has a video or a storyboard. When clicking the triangle-shaped button below the category, a short preview of the song will be played. Pause the preview by clicking a second time.
@@ -60,7 +60,7 @@ Depending on the game mode, the following difficulty settings may be visible, al
 At the bottom of the statistics panel is the [star rating](/wiki/Beatmap/Star_rating), which is an algorithmic abstraction of a map's difficulty.
 
 ::: Infobox
-![](img/user-rating.png "User rating")
+![User rating](img/user-rating.png "User rating")
 :::
 
 If the beatmap is [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved) or [Loved](/wiki/Beatmap/Category#loved), the user rating will be displayed below the statistics panel. After passing one difficulty of a beatmap in osu!(stable), users are able to vote between 1 and 10 stars based on how much they liked it.
@@ -70,6 +70,8 @@ If the user votes 6 stars or more (positive vote), the bar will be coloured gree
 The rating graph below the user rating shows the proportion of votes for each star value.
 
 ## Metadata
+
+![Metadata](img/metadata.png "Metadata section")
 
 ### Beatmap description
 
@@ -83,7 +85,7 @@ The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable
 ### Keywords
 
 ::: Infobox
-![](img/metadata.png "Metadata keywords")
+![Metadata keywords](img/metadata-keywords.png "Metadata keywords")
 :::
 
 In addition to gameplay-related statistics, every beatmap includes metadata fields to improve a beatmap's searchability. Before submitting a beatmap as part of the [ranking process](/wiki/Beatmap_ranking_procedure), a mapper is required to add this information to the beatmap:
@@ -102,7 +104,7 @@ If the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), they will b
 ### Success rate display
 
 ::: Infobox
-![](img/success-rate.png "Success rate display")
+![Success rate display](img/success-rate.png "Success rate display")
 :::
 
 The success rate display visualises how many players were able to successfully pass the difficulty. Beneath the success rate bar, a paragraph shows the exact percentage value, along with the specific numbers of successful passes and total plays for the difficulty.
@@ -111,7 +113,7 @@ Below is a diagram showing a map's points of failure, showing at what points use
 
 ## Hype train
 
-![](img/hype-train.png "Hype train section of a Qualified beatmap")
+![Hype train](img/hype-train.png "Hype train section of a Qualified beatmap")
 
 If a beatmap is [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending) or [Qualified](/wiki/Beatmap/Category#qualified), the hype train section is visible. Descriptions of the current status of the beatmap can be found on the left side of this section, while hype count and buttons are displayed on the right side. Depending on the beatmap's category, the description will be different.
 
@@ -121,7 +123,7 @@ Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there 
 
 ## Rankings
 
-![](img/rankings.png "Global ranking on a beatmap and the top score")
+![Global ranking](img/rankings.png "Global ranking on a beatmap and the top score")
 
 If a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved) or [Loved](/wiki/Beatmap/Category#loved), it has access to leaderboards, on which players can compete against each other.
 
@@ -136,7 +138,7 @@ Hovering over a score will reveal 3 dots at the right side of the menu. Clicking
 
 ## Comments
 
-![](img/comments.png "Textbox for posting comments and sorting options")
+![Comments](img/comments.png "Textbox for posting comments and sorting options")
 
 In the comment section, users are able to exchange their opinions about the beatmap. The beatmap host also has the ability to pin a comment, which will cause it to be displayed at the top of the section. The number at the top reflects the number of total comments. Comments can be sorted by either most recent, oldest, or comments with the most upvotes by selecting the respective sort mode below the input box. To post a new comment, write something in the textbox, and click `Post` or press `Enter`.
 
