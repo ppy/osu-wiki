@@ -2,14 +2,14 @@
 
 **Elite Nominators** are members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) who have gone above and beyond the call in order to display an exceptional dedication towards the [ranking process](/wiki/Beatmap_ranking_procedure) and the overall health of the [mapping](/wiki/Beatmapping) community by standing out as some of the best nominators of their times.
 
-Elite Nominators are selected by the Nomination Assessment Team through a custom formula[^formula-release-date] dedicated to asseessing performance based on the following factors:
+Elite Nominators are selected by the Nomination Assessment Team through a custom formula[^formula-release-date] dedicated to assessing performance based on the following factors:
 
 - Amount of [nominations](/wiki/Beatmap_ranking_procedure#nominations)
 - Variety of unique mappers nominated
 - Amount of new mappers promoted to the Ranked section
 - A penalty based on the amount and [severity](/wiki/People/Nomination_Assessment_Team/SEV_rating) of [nomination resets](/wiki/Beatmap_ranking_procedure#nomination-resets) received[^reset-penalty-note]
 
-In addition, the NAT may consider other factors when selecting Elite Nominators, such as the quality of nominated beatmaps, quality of [modding](/wiki/Modding), behaviour inside and outside of modding spaces, and anything else that make the nominator stand out from the rest.
+In addition, the NAT may consider other factors when selecting Elite Nominators, such as the quality of nominated beatmaps, quality of [modding](/wiki/Modding), behaviour inside and outside of modding spaces and anything else that make the nominator stand out from the rest.
 
 NAT members eligible for this award are assessed and handpicked by members of [the osu! team](/wiki/People/osu!_team) with assistance from the aforementioned formula.
 
@@ -179,4 +179,4 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 ## Notes
 
 [^formula-release-date]: This formula was first introduced in [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-04-30-elite-nominators-2025).
-[^reset-penalty-note]: Minor resets with a [severity](/wiki/People/Nomination_Assessment_Team/SEV_rating) rating of `0/0` aren't included in this calculation.
+[^reset-penalty-note]: Minor resets with a [severity](/wiki/People/Nomination_Assessment_Team/SEV_rating) rating of `0/0` are not included in this calculation.
