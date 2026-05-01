@@ -15,7 +15,7 @@ This year, we took the opportunity to address some points of feedback we've rece
 
 Elite Nominators used to be picked manually with the help of some basic nomination statistics, but this time we've used a more comprehensive scoring formula that should be more fair and balanced, although we can't share the exact formula lest we invoke Goodhart's law. For more information on our updates process, please refer to the [Elite Nominators wiki page](/wiki/People/Elite_Nominators).
 
-In addition, we've decided to have the osu! team handle any and all the NAT picks for this accolade, which has been made possible thanks to the aforementioned formula which ensures that all recipients have truly earned their spot.
+In addition, we've decided to have the osu! team handle any and all the NAT picks for this accolade (instead of delegating to the NAT itself), which has been made possible thanks to the aforementioned formula which ensures that all recipients have truly earned their spot.
 
 Without further ado, let's get right into it!
 
