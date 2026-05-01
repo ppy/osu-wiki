@@ -36,11 +36,11 @@ With this exceptional showcase of performance as a Beatmap Nominator in 2025, it
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/daycore.jpg)](https://osu.ppy.sh/users/5596337)
 
-[Daycore](https://osu.ppy.sh/users/5596337), while joining in the middle of 2024, has been consistently maintaining a high amount of monthly nominations with not many severe resets. He's reached almost 300 total nominations in such a small amount of time, for most people, while carefully checking all their requests — keeping such consistency and modding quality throughout his activity is something worth mentioning. In 2025 alone, he reached a total of 170 nominations with 0 severe disqualifications. Such accomplishment is not easy at all to attain, hence why this year we've awarded him with the huge Elite Nominator title and badge!
+[Daycore](https://osu.ppy.sh/users/5596337), while joining in the middle of 2024, has been consistently maintaining a high amount of monthly nominations with not many severe resets. He's reached almost 300 total nominations in such a small amount of time, for most people, while carefully checking all their requests — keeping such consistency and modding quality throughout his activity is something worth mentioning. In 2025 alone, he reached a total of 170 nominations with zero severe disqualifications. Such accomplishment is not easy at all to attain, hence why this year we've awarded him with the huge Elite Nominator title and badge!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/supav.jpg)](https://osu.ppy.sh/users/19511007)
 
-[SupaV](https://osu.ppy.sh/users/19511007) has made a noticeable difference for his very first full year as a Beatmap Nominator! Not only has he helped push a huge number of beatmaps — 173 across 8 months in 2025 — but he's done so with a steady attentiveness to bringing many different kinds of styles and songs to the Ranked section. SupaV has been proactive all year long to put himself out there to help, whether that is volunteering to help push Locus contest maps, actively putting himself out there to help cover other maps that came to need a 2nd Beatmap Nominator, or regularly participating in a variety of discussion around the Ranked section. SupaV's efforts to help osu! mappers has not gone unnoticed, and he has proven himself as an Elite Nominator.
+[SupaV](https://osu.ppy.sh/users/19511007) has made a noticeable difference for his very first full year as a Beatmap Nominator! Not only has he helped push a huge number of beatmaps — 173 across 8 months in 2025 — but he's done so with a steady attentiveness to bringing many different kinds of styles and songs to the Ranked section. SupaV has been proactive all year long to put himself out there to help, whether that is volunteering to help push [Locus](/wiki/Contests/Locus/2025) contest maps, actively putting himself out there to help cover other maps that came to need a 2nd Beatmap Nominator, or regularly participating in a variety of discussion around the Ranked section. SupaV's efforts to help osu! mappers has not gone unnoticed, and he has proven himself as an Elite Nominator.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/godhacc.jpg)](https://osu.ppy.sh/users/10023225)
 
@@ -54,35 +54,37 @@ This is a feat very much worth celebrating, and we are more than happy to award 
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/kanui.jpg)](https://osu.ppy.sh/users/14940019)
 
-Since their BN debut in late 2024, [Kanui](https://osu.ppy.sh/users/14940019) has made a positive impact on the community. Over the past year, they have strongly contributed to the Ranked section with a whopping 136 nominations while also maintaining a nearly flawless record, an impressive feat. His consistent dedication to bringing quality maps of both a diverse selection of songs and mapping styles to osu! has earned him a spot among the highest performers in the mode. Their profound accomplishments and close attention to detail in the scene make it clear that they are well-deserving of the Elite Nominator Title, Congrats!
+Since their BN debut in late 2024, [Kanui](https://osu.ppy.sh/users/14940019) has made a positive impact on the community. Over the past year, they have strongly contributed to the Ranked section with a whopping 136 nominations while also maintaining a nearly flawless record, an impressive feat. His consistent dedication to bringing quality maps of both a diverse selection of songs and mapping styles to osu! has earned him a spot among the highest performers in the mode. Their profound accomplishments and close attention to detail in the scene make it clear that they are well-deserving of the Elite Nominator title, congrats!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/wanpachi.jpg)](https://osu.ppy.sh/users/12157130)
 
-Debuted in early 2024 and Elite Nominator for the entire 2025, [Wanpachi](https://osu.ppy.sh/users/12157130) has been consistently contributing heavily to the Ranked section with a high amount of nominations yet a very small quantity of resets. Out of his 132 nominations in the past year 115 are unique mappers which shows a high diversity when it comes to mappers and not to mention the maps themselves.
+Debuted in early 2024 and Elite Nominator for the entire 2025, [Wanpachi](https://osu.ppy.sh/users/12157130) has been consistently contributing heavily to the Ranked section with a high amount of nominations yet a very small quantity of resets. Out of his 132 nominations in the past year, 115 are unique mappers, which shows a high diversity when it comes to mappers and not to mention the maps themselves.
 
 Wanpachi kept consistent high activity for the past 2 years and almost a clean record which is very impressive. Such efforts deserve to be featured and a 2nd Elite Nominator award!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/flask.jpg)](https://osu.ppy.sh/users/959763)
 
-[Flask](https://osu.ppy.sh/users/959763) has been a steadfast pillar of the mapping community for years, consistently contributing his efforts to support its growth. During his BN work in 2025, while his nomination count was not the highest compared to other nominators, his flawless record of zero notable resets and an impressive 12.8% nomination rate for entirely new mappers highlights both his meticulousness in BN work and his dedication to helping newcomers find their place in the community.
+[Flask](https://osu.ppy.sh/users/959763) has been a steadfast pillar of the mapping community for years, consistently contributing his efforts to support its growth. While his nomination count was not the highest compared to other nominators during his BN work in 2025, his flawless record of zero notable resets and an impressive 12.8% nomination rate for entirely new mappers highlights both his meticulousness in BN work and his dedication to helping newcomers find their place in the community.
 
 Although Flask chose to step down after his five-year tenure, his contributions throughout the past year are undeniable. For his diligence, precision, and commitment to fostering new talent, Flask has rightfully earned the Elite Nominator badge. Congratulations!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/fllecc.jpg)](https://osu.ppy.sh/users/14060327)
 
-[fllecc](https://osu.ppy.sh/users/14060327) has quietly put together one of the most well-rounded performances of the year, leading all Beatmap Nominators in the osu! game mode with the highest number of nominations in 2025. His work consistently emphasized both reach and variety, covering a wide range of mappers and styles while maintaining a steady level of quality control, all while keeping up with his NAT workload!
+[fllecc](https://osu.ppy.sh/users/14060327) has quietly put together one of the most well-rounded performances of the year, leading all Beatmap Nominators in the osu! game mode with the highest number of nominations in 2025. His work consistently emphasised both reach and variety, covering a wide range of mappers and styles while maintaining a steady level of quality control, all while keeping up with his NAT workload!
 
 ### osu!taiko
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/iredi.jpg)](https://osu.ppy.sh/users/8005579)
 
-An old face returns to the Elite Nominator roster. [iRedi](https://osu.ppy.sh/users/8005579) has proven himself again, gaining the 2nd tier of the Elite Nominator badge and title. His nomination activity remains steady above anyone else and with the low amount of resets he well deserves this award once again. Joining the Beatmap Nominators back in December of 2023, his performance has not once decreased. Continuing to push high quality maps ranging from simple sets to a few of the hardest maps this gamemode has ever seen in 2025 as well. A community member who stood out with his stellar modding skills throughout the entirety of his tenure and high presence in modding discussions even on maps he doesn't end up nominating. Truly a great help for both new and experienced mappers across the board!
+An old face returns to the Elite Nominator roster. [iRedi](https://osu.ppy.sh/users/8005579) has proven himself again, gaining the 2nd tier of the Elite Nominator badge and title. His nomination activity remains steady above anyone else and with the low amount of resets he well deserves this award once again. Joining the Beatmap Nominators back in December of 2023, his performance has not once decreased.
 
-Now starting his third year as a Beatmap Nominator, he influenced not only the Ranked section with his nominations (now sitting at a very solid 471 nominations) but also with his own Ranked maps, hitting 100 Ranked maps fairly recently, making him join the Centaurian Mapper roster.
+Continuing to push high-quality maps ranging from simple sets to a few of the hardest maps this game mode has ever seen in 2025 as well. A community member who stood out with his stellar modding skills throughout the entirety of his tenure and high presence in modding discussions even on maps he doesn't end up nominating. Truly a great help for both new and experienced mappers across the board!
+
+Now starting his third year as a Beatmap Nominator, he influenced not only the Ranked section with his nomination count (now sitting at a very solid 471), but also with his own Ranked maps, hitting 100 Ranked maps fairly recently, making him join the [Centurion Mapper](/wiki/People/Centurions) roster.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/esia.jpg)](https://osu.ppy.sh/users/5159715)
 
-Joining the Beatmap Nominators in early 2024, [[-E S I A-]](https://osu.ppy.sh/users/5159715) has quickly made a name for himself in the mapping and modding scene. With over 200 nominations in the past year with a clean reset record to boot, he has established himself as an approachable, reliable and hardworking BN that is efficient and easy to work with.
+Joining the Beatmap Nominators in early 2024, [[-E S I A-]](https://osu.ppy.sh/users/5159715) has quickly made a name for himself in the mapping and modding scene. With over 200 nominations in the past year with a clean reset record to boot, he has established himself as an approachable, reliable and hardworking BN who is efficient and easy to work with.
 
 Despite his high activity, his modding quality and attention to detail has never been lacking, and he has also managed to promote a wide variety of maps, from simple TV-size anime and K-Pop songs to difficult high BPM and stream maps, showing his exceptional modding capabilities. Not only that, he also frequently makes an effort to check the Qualified section and ensure that pesky metadata and timing mistakes don't slip through to Ranked.
 
@@ -94,7 +96,7 @@ Pioneering in the Russian osu!taiko mapping and modding scene, we want to give a
 
 With his interest in many genres and map styles, he helped a lot of new mappers getting their first maps ranked. Known as a pocket BN for many, he kept his activity at an all-time high during 2025, triggering his eval card creation on a regular monthly or even bi-weekly basis.
 
-Sitting at a very impressive 546 nominated beatmaps, Ryxliee is one of the most active BN ever. And due to that fact alone, we are very happy to award him the Elite Nominator title for his outstanding contribution towards the osu!taiko modding scene throughout 2025!
+Sitting at a very impressive 546 nominated beatmaps, Ryxliee is one of the most active BNs ever. Due to that fact alone, we are very happy to award him the Elite Nominator title for his outstanding contribution towards the osu!taiko modding scene throughout 2025!
 
 ### osu!catch
 
@@ -108,7 +110,7 @@ Now established as an Elite Nominator, DizzyOracel's future contributions to the
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/spectator.jpg)](https://osu.ppy.sh/users/702598)
 
-[Spectator](https://osu.ppy.sh/users/702598) has once again proven to be a pillar behind osu!catch's ranked scene, securing back-to-back Elite Nominator accolades with another standout year. As both a NAT and an ever-present figure in the mapping scene, Spectator's activity remained a prominent constant — consistently pushing maps forward and keeping the scene moving at full pace. Earning this accolade for the second year in a row, his impact is impossible to overlook, and his presence continues to define the rhythm of osu!catch's ranked output.
+[Spectator](https://osu.ppy.sh/users/702598) has once again proven to be a pillar behind osu!catch's ranked scene, securing back-to-back Elite Nominator accolades with another standout year. As both an NAT member and an ever-present figure in the mapping scene, Spectator's activity remained a prominent constant — consistently pushing maps forward and keeping the scene moving at full pace. Earning this accolade for the second year in a row, his impact is impossible to overlook, and his presence continues to define the rhythm of osu!catch's Ranked output.
 
 ### osu!mania
 
@@ -116,33 +118,33 @@ Now established as an Elite Nominator, DizzyOracel's future contributions to the
 
 [Quenlla](https://osu.ppy.sh/users/4725379)'s commitment to the osu!mania Ranked scene all throughout 2025 has been more than commendable. Not satisfied with "only" nominating 136 unique sets, their dedication to Featured Artist beatmaps and Mappers' Guild quests went above and beyond our wildest expectations. As such, they're the only user to date that has got a badge from modding and nominating for the Mappers' Guild *alone* — halfway from getting their second one, in fact!
 
-While this isn't their first rodeo as an Elite Nominator, being recognised as such all the way back in 2022 just one year after joining the team. A prime example of someone who set themselves a very high bar, and yet still managed to reach it with effort to spare. Who would've thought they would outdo themselves just a few years later?
+While this isn't their first rodeo as an Elite Nominator, being recognised as such all the way back in 2022 just one year after joining the team, they've set themselves a very high bar, and yet still managed to reach it with effort to spare. Who would've thought they would outdo themselves just a few years later?
 
 Their contributions to the community have been nothing but positive ever since joining the Beatmap Nominators all the way back in 2021. Seeing them spearhead the usage of licensed and original content has been the cherry on top of the cake, however.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/carpihat.jpg)](https://osu.ppy.sh/users/10085090)
 
-With a whopping 148 nominations, [Carpihat](https://osu.ppy.sh/users/10085090) has shown immense nomination prowess and has worked tirelessly towards this milestone a second time. A big round of applause for them! If you remember from last year's Community Contributors news post, Carpihat delivered a stellar performance, not falling short this time as well.
+With a whopping 148 nominations, [Carpihat](https://osu.ppy.sh/users/10085090) has shown immense nomination prowess and has worked tirelessly towards this milestone a second time. A big round of applause for them! If you remember from last year's [Community Contributor announcement](https://osu.ppy.sh/home/news/2025-03-24-community-contributors-elite-nominators-2024), Carpihat delivered a stellar performance, not falling short this time as well.
 
-The nominations did not only include your regular 4K and 7K but also included more anti-meta this time around, containing a lot of variety coming from them. Be it that incredibly difficult boss map or that calm and gentle uplifting easy spread for everyone to enjoy.
+The nominations did not only include your regular 4K and 7K, but also some more variety in anti-meta picks, be it that incredibly difficult boss map or that calm and gentle uplifting easy spread for everyone to enjoy.
 
-We are happy to see their 2025 journey culminating in yet another recognition for their massive efforts, and we hope that people can also recognize said effort. Congratulations once more!
+We are happy to see their 2025 journey culminating in yet another recognition for their massive efforts, and we hope that people can also recognise said effort. Congratulations once more!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/pyra-san.jpg)](https://osu.ppy.sh/users/31126430)
 
 Throughout 2025, [Pyra-san](https://osu.ppy.sh/users/31126430) has stood out as one of the key driving forces behind osu!mania's continued growth, earning their well-deserved recognition as 2025's Elite Nominator through unwavering dedication. With an impressive number of nominations, Pyra-san has consistently demonstrated both efficiency and a keen eye for quality, ensuring that every map they worked on met a high standard before reaching the Ranked section for players to enjoy.
 
-Their efforts have been particularly influential in numerous anti-meta charts throughout the year, helping these maps gain the recognition and refinement they rightfully deserve. Through excellence, consistency, and meaningful support of diverse key modes, Pyra-san has proven themselves more than worthy of the Elite Nominator 2025 title.
+Their efforts have been particularly influential in numerous anti-meta charts throughout the year, helping these maps gain the recognition and refinement they rightfully deserve. Through excellence, consistency and meaningful support of diverse key modes, Pyra-san has proven themselves more than worthy of the Elite Nominator 2025 title.
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/maxus.jpg)](https://osu.ppy.sh/users/4335785)
 
-[Maxus](https://osu.ppy.sh/users/4335785) needs fairly little introduction, arguably none for any user minimally invested in the mapping scene — let it be in the Ranked section, in the 7K tournament community, or mapping contests alike! This made their name analogous with anything mapping adjacent. As such, it should come as no surprise that their nominations throughout 2025 were nothing short of impressive, both in quantity and quality. Outside of the many maps they helped pushing during that period of time, they were of great help ranking many of the [7K World Cup osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) spreads that many users get to enjoy nowadays on all levels of play.
+[Maxus](https://osu.ppy.sh/users/4335785) needs fairly little introduction, arguably none for any user minimally invested in the mapping scene — let it be in the Ranked section, in the 7K tournament community, or mapping contests alike! This made their name analogous with anything mapping adjacent. As such, it should come as no surprise that their nominations throughout 2025 were nothing short of impressive, both in quantity and quality. Outside of the many maps they helped pushing during that period of time, they were of great help ranking many of the [7K World Cup osu! originals](/wiki/Community/Bespoke_music#official-tournament-releases) that many users get to enjoy nowadays on all levels of play.
 
 Unfortunately, a short paragraph would be insufficient to recap all of their contributions to the mapping scene throughout the year. However, their impact in the scene is more than apparent even as we reach the halfway point of 2026, making this the third time they've got this prestigious accolade — congratulations!
 
 [![](/wiki/shared/news/2026-04-30-elite-nominators-2025/akasha-.jpg)](https://osu.ppy.sh/users/2596306)
 
-Another osu!mania NAT member worth giving a shout-out to for their contributions is [Akasha-](https://osu.ppy.sh/users/2596306). A known, friendly face around the mapping and modding community, role notwithstanding. Their nomination repertoire for 2025 was bar none, with a good mix of genres, styles, difficulties, and even keymodes. All while having one of the cleanest records amongst the mode's BN group! If that wasn't enough, this was all done while coordinating most — if not all — BN mentorship cycles for the gamemode, as well as keeping up with their assigned tasks as an [evaluator](/wiki/People/Nomination_Assessment_Team#evaluation). While these contributions may not be groundbreaking on their own, being able to achieve everything they did at once was no easy task, and for that we would like to extend our thanks.
+Another osu!mania NAT member worth giving a shout-out to for their contributions is [Akasha-](https://osu.ppy.sh/users/2596306). A known, friendly face around the mapping and modding community, role notwithstanding. Their nomination repertoire for 2025 was bar none, with a good mix of genres, styles, difficulties and even key modes. All while having one of the cleanest records amongst the mode's BN group! If that wasn't enough, this was all done while coordinating most — if not all — BN mentorship cycles for the game mode, as well as keeping up with their assigned tasks as an [evaluator](/wiki/People/Nomination_Assessment_Team#evaluation). While these contributions may not be groundbreaking on their own, being able to achieve everything they did at once was no easy task, and for that we would like to extend our thanks.
 
 ---
 
