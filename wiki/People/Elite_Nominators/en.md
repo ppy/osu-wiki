@@ -178,5 +178,5 @@ Starting from [7 February 2020](https://osu.ppy.sh/home/news/2020-02-07-communit
 
 ## Notes
 
-[^formula-release-date]: This formula was first introduced in [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-04-30-elite-nominators-2025).
+[^formula-release-date]: This formula was first introduced in the [Community Contributors 2025: Elite Nominators](https://osu.ppy.sh/home/news/2026-04-30-elite-nominators-2025) news post.
 [^reset-penalty-note]: Minor resets with a [severity](/wiki/People/Nomination_Assessment_Team/SEV_rating) rating of `0/0` are not included in this calculation.
