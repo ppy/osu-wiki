@@ -2,7 +2,7 @@
 
 ![](img/beatmap-info.png "The beatmap information page of \"xi - Blue Zenith\" mapped by Asphyxia")
 
-The **beatmap information page** displays various contents about a [beatmap](/wiki/Beatmap), such as its metadata, user rating, and comments. This article details the many aspects and features the information page has to offer.
+The **beatmap information page** displays various contents about a [beatmap](/wiki/Beatmap), such as its metadata, user rating, and comments.
 
 At the top-left, next to the currently selected `info` tab, is the [beatmap discussion](/wiki/Beatmap_discussion) tab used for [modding](/wiki/Modding) a beatmap.
 
@@ -20,7 +20,7 @@ This is the main section of the information page, containing the most important 
 ![](img/mapping-info.png "Mapping information")
 :::
 
-Users are able to choose for which [game mode](/wiki/Game_mode) they want to view difficulty statistics in by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes for which there is no difficulty available will be greyed-out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
+Users are able to choose for which [game mode](/wiki/Game_mode) they want to view difficulty statistics in by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes for which there is no difficulty available will be greyed out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
 
 On the left side, right below the `info`/`discussion` tab selection is the difficulty section which lists every difficulty in the beatmap. The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Hovering over one of the icons will reveal the difficulty's name, the mapper of the difficulty and its star rating shown below. Clicking the icon will select this difficulty as the active one, causing some of the beatmap statistics on the page to change accordingly. The mapper's name can be clicked to view their profile.
 
@@ -97,7 +97,7 @@ The `Nominators` section is added as soon as the beatmap is nominated by [Beatma
 
 After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags) from the osu!(lazer) client. Upon reaching 5 votes on an user tag, it will be displayed in the `User Tags` segment.
 
-If the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), the pack(s) it is added to will be listed in the `Beatmap Packs` segment.
+If the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), they will be listed in the `Beatmap Packs` segment.
 
 ### Success rate display
 
@@ -125,7 +125,7 @@ Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there 
 
 If a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved) or [Loved](/wiki/Beatmap/Category#loved), it has access to leaderboards, on which players can compete against each other.
 
-Four leaderboards can be accessed from the beatmap information page, those being `Global Ranking`, `Country Ranking`, `Friend Ranking`, and `Team Ranking`. Note that the Country and Friend leaderboards require [osu!supporter](/wiki/osu!supporter) for usage. Each difficulty has its own leaderboards. Selecting one of the tabs at the top of the menu will also display the respective leaderboard in the score listing below. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact [mod](/wiki/Gameplay/Game_modifier) combination.
+Four leaderboards can be accessed from the beatmap information page, those being `Global Ranking`, `Country Ranking`, `Friend Ranking`, and `Team Ranking`. Note that the Country and Friend leaderboards require [osu!supporter](/wiki/osu!supporter) to view. Each difficulty has its own leaderboard. Selecting one of the tabs at the top of the menu will also display the respective leaderboard in the score listing below. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact [mod](/wiki/Gameplay/Game_modifier) combination.
 The score listing shows up to 50 top scores, while the best score is highlighted with an enlarged score card.
 
 Hovering over a score will reveal 3 dots at the right side of the menu. Clicking on the dots opens up a menu with 3 options:
