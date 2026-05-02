@@ -83,11 +83,11 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ### Tournament registration
 
-1. Every user interested in playing will be be required to sign up by playing in the official Qualifier playlist. Completing every map of the playlist is *required* to be considered for seeding.
+1. Every user interested in playing will be required to sign up by playing in the official Qualifier playlist. Completing every map of the playlist is *required* to be considered for seeding.
 2. To ensure valid registrations, every qualifying participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments. To be successfully accepted on the tournament, players are required to not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. Participants will be briefed on further steps via an announcement message on the website.
 4. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators, statisticians, and streamers.
-   - The tournament managers must ensure that such staff members do not have access to priviledged information, e.g. Qualifiers score information, mappool information before the mappool showcase, etc. They are to be treated as regular players whenever possible.
+   - The tournament managers must ensure that such staff members do not have access to privileged information, e.g. Qualifiers score information, mappool information before the mappool showcase, etc. They are to be treated as regular players whenever possible.
 
 ### Qualifier information
 
@@ -119,7 +119,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 3. The draft order will be composed of a ban/protect phase and a pick/play phase.
 4. The ban/protect phase will start with the lower seeded player banning one map, followed by the higher seeded player banning one map. Afterwards, the lower seeded player will protect one map, followed by the higher seeded player protecting one map. Lastly, the lower seeded player will once again ban a map, followed by the higher seeded player banning a final map.
    - Protected maps may only be picked by the player who protected them, and may not be banned.
-5. After the ban/protect phase, players will take turns picking maps from the available pool, following the ABBA order, starting with the higher seedeed player.
+5. After the ban/protect phase, players will take turns picking maps from the available pool, following the ABBA order, starting with the higher seeded player.
 6. The bracket stage will have two phases (one per weekend):
    - For the first weekend, a single-elimination bracket will be played from the Round of 32 up until the Quarterfinals.
    - For the second weekend, a double-elimination bracket will be played, from Quarterfinals up until the Grand Finals.
