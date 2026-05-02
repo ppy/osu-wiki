@@ -37,7 +37,7 @@ For this stage, your **lowest scoring map will be removed for the seeding calcul
 
 ![Player example for qualifiers playlist](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/azer-steamhappy.png)
 
-Afterwards, we will export results to a spreadsheet, applying [%MAX seeding](/wiki/Tournaments/Common_seeding_methods#percent-max) to all valid entries. The **top 32** players will be invited to play in the bracket stage.
+Afterwards, we will apply [%MAX seeding](/wiki/Tournaments/Common_seeding_methods#percent-max) to all valid entries. The **top 32** players will be invited to play in the bracket stage.
 
 ## Bracket stage match format
 
