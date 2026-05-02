@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gates Open for the Lazer Grand Arena 2026
-date: 2026-05-02 20:00:00 +0000
+date: 2026-05-02 23:30:00 +0000
 series: world_cups
 ---
 
@@ -24,8 +24,8 @@ Catch the full qualifier mappool reveal live on the [osulive Twitch channel](htt
 | Qualifier mappool showcase | May 3 (18:00 UTC) |
 | Qualifier stage | May 3 (19:00 UTC) – May 10 (19:00 UTC) |
 | Qualifiers results / Week 1 mappool showcase | May 10 (21:00 UTC) |
-| Bracket stage (single elimination) | May 17 & May 18 |
-| Top 8 (double elimination) | May 24 & May 25 |
+| Bracket stage (single elimination) | May 16 & May 17 |
+| Top 8 (double elimination) | May 23 & May 24 |
 
 ## Registration / Qualifier stage
 
