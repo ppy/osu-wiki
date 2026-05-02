@@ -9,7 +9,7 @@ Find out how to participate and where to watch!
 
 ![](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/banner.jpg)
 
-For this year, LGA returns with its core format unchanged, except for the addition of a bracket reset in the Grand Finals if required. We think the foundation has matured enough for us to focus on bettering the player and viewer experiences.
+For this year, LGA returns with its core format unchanged, except for the addition of a bracket reset in the Grand Finals if required. We think the tournament's foundation has matured enough for us to focus on bettering the player and viewer experiences.
 
 For more details pertaining to the tournament, please refer to the **[Lazer Grand Arena 2026 wiki article](/wiki/Tournaments/LGA/2026)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
@@ -45,13 +45,13 @@ Here's a refresher:
 
 ![](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/bracket-stage.jpg)
 
-In the Lazer Grand Arena format, the match starts with the Blue player (low seed). Both players alternate to ban one map, protect one map, and a second ban. Protected maps can't be banned by either player and may only be picked by the player who protected them.
+In the Lazer Grand Arena format, the match starts with the Blue player (low seed). Both players alternate to ban one map, protect one map, and ban a second map. Protected maps can't be banned by either player and may only be picked by the player who protected them.
 
 The match itself is a best-of-five, with each point being played in "sets" of two maps each. The Red player (high seed) makes the first pick, following an A-B-B-A order for the remainder of the match. In practice, this means that players take turns first picking for each new set.
 
 Scoring is cumulative within a set. The scores from the two maps are combined, and the player with the highest total score earns one point. The first player to reach three points wins. If the match reaches a 2 to 2 tie, the fifth set expands into a three map brawl, concluding with a brand new osu! original beatmap.
 
-The bracket stage kicks off with **single elimination** for the Round of 32 and Round of 16. Once we get to the Top 8, a Losers bracket is introducted, shifting the format to a **double elimination bracket** for the remainter of the tournament.
+The bracket stage kicks off with **single elimination** for the Round of 32 and Round of 16. Once we get to the Top 8, a Losers bracket is introduced, shifting the format to a **double elimination bracket** for the remainder of the tournament.
 
 ---
 
