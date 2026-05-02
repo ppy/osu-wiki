@@ -140,6 +140,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
       - `Player Map Score` is the score the player being evaluated achieved on the current map, taking the best score out of two.
       - `MAX Score` is the highest score achieved for the current map across all players and all runs.
 - For the bracket stage, maps will be played in sets of two, and the player with the highest cumulative score for each set wins a point. The first player to win 3 sets wins the match (best of 5).
+  - *Note: for the Grand Finals match, the player that is coming from the winners bracket is required to win one match, that is, one best of 5, to win the tournament. The player coming from the losers bracket, however, needs to win 2 matches.*
 
 ### Match procedures
 

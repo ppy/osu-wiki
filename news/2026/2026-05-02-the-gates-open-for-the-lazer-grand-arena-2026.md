@@ -7,9 +7,7 @@ series: world_cups
 
 Find out how to participate and where to watch!
 
-![](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/banner.jpg)
-
-For this year, LGA returns with its core format unchanged, as we think the foundation has matured enough for us to focus on bettering the player and viewer experiences.
+![](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/)
 
 For this year, LGA returns with its core format unchanged, except for the addition of a bracket reset in the Grand Finals if required. We think the foundation has matured enough for us to focus on bettering the player and viewer experiences.
 
