@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Gates Open for the Lazer Grand Arena 2026"
+title: The Gates Open for the Lazer Grand Arena 2026
 date: 2026-05-02 20:00:00 +0000
 series: world_cups
 ---
