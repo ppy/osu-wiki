@@ -37,7 +37,7 @@ The playlist will run for **one week**, closing on **Sunday, May 10 at 19:00 UTC
 
 For this stage, your **lowest scoring map will be removed for the seeding calculations**, and **NoFail is enforced** for every map. Only the **highest score for each map is counted**. To have your scores considered for seeding, you need to **have at least one submitted play for each map of the playlist** (indicated by the blue checkmark with a "Completed Beatmaps" tooltip inside the playlist). Refer to the following image for an example of a valid submission:
 
-![Player example for qualifiers playlist](azer-steamhappy.png)
+![Player example for qualifiers playlist](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/azer-steamhappy.png)
 
 Afterwards, we will export results to a spreadsheet, applying [%MAX seeding](/wiki/Tournaments/Common_seeding_methods#percent-max) to all valid entries. The **top 32** players will be invited to play in the bracket stage.
 
@@ -45,7 +45,7 @@ Afterwards, we will export results to a spreadsheet, applying [%MAX seeding](/wi
 
 Here's a refresher:
 
-![](/wiki/shared/news/2026-05-02-lazer-grand-arena-2026-announcement/bracket-stage.jpg)
+![](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/bracket-stage.jpg)
 
 In the Lazer Grand Arena format, the match starts with the Blue player (low seed). Both players alternate to ban one map, protect one map, and a second ban. Protected maps can't be banned by either player and may only be picked by the player who protected them.
 
