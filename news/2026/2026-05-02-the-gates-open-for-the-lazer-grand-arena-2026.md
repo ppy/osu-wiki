@@ -11,7 +11,7 @@ Find out how to participate and where to watch!
 
 For this year, LGA returns with its core format unchanged, except for the addition of a bracket reset in the Grand Finals if required. We think the foundation has matured enough for us to focus on bettering the player and viewer experiences.
 
-For more details pertaining to the tournament, please refer to the **[Lazer Grand Arena 2026 wiki article](/wiki/Tournaments/LGA/2026)**. You can also discuss this event in the **[official discussion thread]({DISC_THREAD})** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+For more details pertaining to the tournament, please refer to the **[Lazer Grand Arena 2026 wiki article](/wiki/Tournaments/LGA/2026)**. You can also discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)** or the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Qualifiers mappool showcase
 
