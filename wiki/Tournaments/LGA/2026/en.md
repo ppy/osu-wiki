@@ -68,7 +68,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
   2. (1.35x) [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5036420)
   3. (1.6x) [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
 - Lazer Mod
-  1. ([Deflate](/wiki/Gameplay/Game_modifier/Deflate)) [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
+  1. ([Deflate](/wiki/Gameplay/Game_modifier/Deflate) - Starting Size: 1.6) [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
 
 ## Ruleset
 
