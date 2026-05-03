@@ -63,12 +63,12 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - Hard Rock
   1. [Aether Realm - The Tower (LotsOfBagel) \[Sh4rq\_'s Extreme\]](https://osu.ppy.sh/beatmapsets/2150260#osu/4570065)
   2. [uynet - Never Rezort (Garden) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2214270#osu/4933836)
-- Double Time
-  1. [Serani Poji - where is smiley? (ac8129464363) \[?\]](https://osu.ppy.sh/beatmapsets/2182420#osu/4611146)
-  2. [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5036420)
-  3. [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
+- Double Time (variable speed multiplier)
+  1. (1.6x) [Serani Poji - where is smiley? (ac8129464363) \[?\]](https://osu.ppy.sh/beatmapsets/2182420#osu/4611146)
+  2. (1.35x) [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5036420)
+  3. (1.6x) [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
 - Lazer Mod
-  1. [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
+  1. ([Deflate](/wiki/Gameplay/Game_modifier/Deflate)) [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
 
 ## Ruleset
 
