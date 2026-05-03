@@ -17,6 +17,8 @@ For more details pertaining to the tournament, please refer to the **[Lazer Gran
 
 [![Qualifier stage mappool](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/quals-pool.png)](https://docs.google.com/spreadsheets/d/1FD3pHWllqbfzKg55KyOBwcVV0EXc6tHTaGEXB8rXQ2A/edit?rm=minimal&gid=1873156621#gid=1873156621)
 
+**[Download the mappack here (107 MB)](https://packs.ppy.sh/P322%20-%20Lazer%20Grand%20Arena%202026%3A%20Qualifiers.zip)**
+
 In case you missed it, watch the VOD for the full qualifier mappool reveal below, or view the full mappool in the [information spreadsheet](https://docs.google.com/spreadsheets/d/1FD3pHWllqbfzKg55KyOBwcVV0EXc6tHTaGEXB8rXQ2A/edit?rm=minimal&gid=1873156621#gid=1873156621).
 
 <div align="center" class="osu-md__paragraph">
