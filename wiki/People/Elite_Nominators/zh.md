@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2e4084ceec5bdfd409b082031957e3e4c5e778e7
+---
+
 # 优秀提名者
 
 **优秀提名者**是超出要求，作为社区最好的提名者而脱颖而出；在谱面上架流程和作图社区中表现积极，做出非凡贡献的 [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员。

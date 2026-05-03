@@ -143,11 +143,11 @@ chiv (as Central Cee): We can go pick for pick....
 
 BATBALL (as Lil Baby): Scratch that, we can go month for month.
 
-Hey Guys. Lil Batyball here. I just went band 4 band with [chiv]( https://osu.ppy.sh/users/6701656) on storyboard gimmick maps these past months.
+Hey Guys. Lil Batyball here. I just went band 4 band with [chiv](https://osu.ppy.sh/users/6701656) on storyboard gimmick maps these past months.
 
 chiv: W Crashout Bro.
 
-This month I nominated [Bad Apple!!]( https://osu.ppy.sh/beatmapsets/1936770#osu/4003309) for this month's *Gameplay Gimmicks* pick. Although this map may not be a simulation through a Desmos graphing calculator, [Pisapou](https://osu.ppy.sh/users/16640021) has cooked up an interactive monochrome storyboard experience that features custom charting from 14 different rhythm games. You really have to check it out for yourselves. Vote YES!! NOW!
+This month I nominated [Bad Apple!!](https://osu.ppy.sh/beatmapsets/1936770#osu/4003309) for this month's *Gameplay Gimmicks* pick. Although this map may not be a simulation through a Desmos graphing calculator, [Pisapou](https://osu.ppy.sh/users/16640021) has cooked up an interactive monochrome storyboard experience that features custom charting from 14 different rhythm games. You really have to check it out for yourselves. Vote YES!! NOW!
 
 [![](/wiki/shared/news/2024-11-15-project-loved-november-2024/1886343.jpg)](https://osu.ppy.sh/community/forums/topics/2003531)
 

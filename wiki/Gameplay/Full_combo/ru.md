@@ -4,6 +4,8 @@ tags:
   - FC
   - ФК
   - Фулл комбо
+outdated_translation: true
+outdated_since: cfef44fa9c881a508f155745740cb091b5422c84
 ---
 
 # Полное комбо

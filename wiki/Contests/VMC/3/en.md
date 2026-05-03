@@ -8,11 +8,11 @@ tags:
 
 ![VMC banner](img/banner.jpg)
 
-The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest hosted by the Vocaloid Appreciation Team (VAT). Its purpose is to *promote VOCALOID, UTAU, and other vocal synth music*, giving both popular and overlooked songs a chance to shine.
+The **Vocaloid Mapping Contest** (***VMC***) was a beatmapping contest hosted by the Vocaloid Appreciation Team (VAT). Its purpose is to *promote VOCALOID, UTAU, and other vocal synth music*, giving both popular and overlooked songs a chance to shine.
 
-Participants compete to create the *best beatmap possible*, with their entries judged by some of the most talented and respected VOCALOID-focused mappers in the osu! community.
+Participants competed to create the *best beatmap possible*, with their entries judged by some of the most talented and respected VOCALOID-focused mappers in the osu! community.
 
-The third iteration of the contest introduces a *multi-phase format* featuring the **PARALLEL**, **SWAP**, and **DUET** rounds. This year also celebrates multiple Featured Artists whose songs were specifically chosen for the competition, along with continued support for every game mode.
+This third iteration of the contest introduced a *multi-phase format* featuring the **PARALLEL**, **SWAP**, and **DUET** rounds. It also celebrates multiple Featured Artists whose songs were specifically chosen for the competition, along with continued support for every game mode.
 
 ## Contest schedule
 
@@ -24,40 +24,91 @@ The third iteration of the contest introduces a *multi-phase format* featuring t
 | SWAP submission deadline | 2025-12-07 |
 | Judging | 2025-12-19/2025-01-02 |
 | Results livestream | 2026-01-11 (18:00 UTC) |
-| DUET submission deadline | 2026-02-22 |
-| Judging | 2026-02-25/2026-03-13 |
-| Results livestream | 2026-03-22 |
+| DUET submission deadline | 2026-03-01 |
+| Judging | 2026-02-25/2026-03-18 |
+| Results livestream | 2026-03-29 |
 
 All deadlines end at 23:59 UTC.
 
-The **results livestreams** will be broadcast live on the [*Vocaloid Appreciation Team* Twitch channel](https://www.twitch.tv/vocaloidappreciationteam), with commentary and live reactions. Recordings will later be available on the [*Vocaloid Appreciation Team* YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam).
+The **results livestreams** were broadcast live on the [*Vocaloid Appreciation Team* Twitch channel](https://www.twitch.tv/vocaloidappreciationteam), with commentary and live reactions. Recordings are available on the [*Vocaloid Appreciation Team* YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam).
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
 | 1st | Two laptops (courtesy of [**Noobie_Potato**](https://osu.ppy.sh/users/15174655)) for osu! mode winners, 6 months of osu!supporter, [contest points](/wiki/Contests/Contest_points), **VMC3 Winner** profile badge, entry fast-tracked to Ranked status |
-| 2nd | 3 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
+| 2nd | 4 months of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
 | 3rd | 1 month of osu!supporter, [contest points](/wiki/Contests/Contest_points) |
-| SWAP round winner | 3 months of osu!supporter, possible badge and/or [contest points](/wiki/Contests/Contest_points) |
-
-All participating mappers will receive feedback from experienced members of the community to help them improve their skills.
-
-Reach out to [-White](https://osu.ppy.sh/users/16276548) or head over to the contest's [main website](https://www.vat.gg/vmc3) if you are interested in sponsoring this event!
+| SWAP round winner | 4 months of osu!supporter, possible badge and/or [contest points](/wiki/Contests/Contest_points) |
 
 ## Links
 
-- [Main website](https://www.vat.gg/vmc3)
+- [Main website](https://www.vat.gg/things-we-do/mapping-contests/vmc3)
 - [Discord server](https://discord.com/invite/EruvDHaReY)
 - [Twitch channel](https://www.twitch.tv/vocaloidappreciationteam)
 - [YouTube channel](https://www.youtube.com/@VocaloidAppreciationTeam)
 - [Announcement news post](https://osu.ppy.sh/home/news/2025-10-05-vocaloid-mapping-contest-3)
 - [Phase 1 results news post](https://osu.ppy.sh/home/news/2026-01-11-vocaloid-mapping-contest-3-phase-1-results-new-featured-artist-epiaeon)
+- [Phase 2 results news post](https://osu.ppy.sh/home/news/2026-04-17-vocaloid-mapping-contest-3-results)
+- [Phase 1 results announcement VOD](https://www.youtube.com/watch?v=7em6QqlrP9Q)
+- [Phase 2 results announcement VOD](https://www.youtube.com/watch?v=ggkGNKPhbRs)
 - **Contest listings**
   - [PARALLEL & SWAP round (osu!)](https://osu.ppy.sh/community/contests/261)
   - [PARALLEL & SWAP round (osu!taiko)](https://osu.ppy.sh/community/contests/262)
   - [PARALLEL & SWAP round (osu!catch)](https://osu.ppy.sh/community/contests/263)
   - [PARALLEL & SWAP round (osu!mania)](https://osu.ppy.sh/community/contests/264)
+  - [DUET round (osu!)](https://osu.ppy.sh/community/contests/271)
+  - [DUET round (osu!taiko)](https://osu.ppy.sh/community/contests/272)
+  - [DUET round (osu!catch)](https://osu.ppy.sh/community/contests/273)
+  - [DUET round (osu!mania)](https://osu.ppy.sh/community/contests/274)
+
+## Phase 2 results
+
+### osu! results
+
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/271).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/1RaDCueKmLPj9z_-c6s7Ry0eXqH2nhjSSQCoIMRa_SMk/edit?usp=sharing).
+
+| # | Team | Entry | Results |
+| :-: | :-- | :-- | :-- |
+| 1st | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) and ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17996/97536ec58a758d626ee6618d5cbc2c52df279b026792e3bff10689b1446eae08.osz) | [View](https://osu.ppy.sh/community/contests/271/entries/76558/results) |
+| 2nd | ::{ flag=AU }:: [nominomu](https://osu.ppy.sh/users/30485380) and ::{ flag=LT }:: [Amefystol](https://osu.ppy.sh/users/26748801) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17862/623b160eb1dc6089cfc9d434fe8dc7e32a9045b66ee6f13282e66346f26cbd6e.osz) | [View](https://osu.ppy.sh/community/contests/271/entries/76554/results) |
+| 3rd | ::{ flag=RU }:: [alvearia](https://osu.ppy.sh/users/6248691) and ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17971/d9a77c140f1690260ef925ca78d438905055ae7d8f81cceb9e437e2604b222b7.osz) | [View](https://osu.ppy.sh/community/contests/271/entries/76557/results) |
+| 4th | ::{ flag=TW }:: [Alty](https://osu.ppy.sh/users/16407988) and ::{ flag=JP }:: [Phten02](https://osu.ppy.sh/users/16678364) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17940/01b68cb359ec5f59932fcbb822a3bed7f73d0e7515c1733dbac1ec18caa4f157.osz) | [View](https://osu.ppy.sh/community/contests/271/entries/76556/results) |
+| 5th | ::{ flag=ES }:: [CebollaVladimir](https://osu.ppy.sh/users/15308238) and ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17921/2269e2487b185b25267ec2522fc60f5f5625a28f13602a1fc7241eb708649265.osz) | [View](https://osu.ppy.sh/community/contests/271/entries/76555/results) |
+
+### osu!taiko results
+
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/272).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/1Xjw1uGK5_Ful_Dr9KCS6h7xVUyVxKNAjogMnjYBV7ss/edit?usp=sharing).
+
+| # | Team | Entry | Results |
+| :-: | :-- | :-- | :-- |
+| 1st | ::{ flag=IT }:: [chmekoe](https://osu.ppy.sh/users/7807444) and ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17946/fc4bfba0dfdf96474f441388512b4605ecb10c09db05a8069476210474508c50.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76566/results) |
+| 2nd | ::{ flag=US }:: [Molybdenum](https://osu.ppy.sh/users/14708449) and ::{ flag=FR }:: [Kin](https://osu.ppy.sh/users/480689) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17978/6b856ffef813c033b594d64e165e6db289871296f7b06a42a1a9a24c1beea28d.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76570/results) |
+| 3rd | ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) and ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17977/d2ddc577dccfc052aeccce61272761b9a9d43c66f8c231c9e22ac1dc1512ca52.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76569/results) |
+| 4th | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) and ::{ flag=KR }:: [SN707](https://osu.ppy.sh/users/31404061) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17962/318e8d8174972813031cb49cd9ae08b21160425468f6bbdf1ba31bf69624351c.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76567/results) |
+| 5th | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17970/e2668ef9a52196a30e03b2bdcc81cf124e3dc90fa5f6033f4a5a2ef86d9ae489.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76568/results) |
+| 6th | ::{ flag=EC }:: [Foco_](https://osu.ppy.sh/users/11481057) and ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17989/43d0390e788f6fe4b1d702a3fdfe8a0be7dd5aadb1c2fdbae3b1b7546b933de4.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76571/results) |
+| 7th | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) and ::{ flag=AU }:: [Nintendo 64](https://osu.ppy.sh/users/30481748) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17860/ae348c6a6a0585b2c39bd7d9b4acd1fc1348b44d19e642e0cd917ce2a7f488f2.osz) | [View](https://osu.ppy.sh/community/contests/272/entries/76565/results) |
+
+### osu!catch results
+
+Due to lack of participants, this round ended in no contest.
+
+### osu!mania results
+
+View the [maps and scores on the contest page](https://osu.ppy.sh/community/contests/274).\
+View the [full judge comments on the judging spreadsheet](https://docs.google.com/spreadsheets/d/1bftw1GlZ6UKF7RtPT-C-DBM49kHNBLF3s3EZHVQVG7E/edit?usp=sharing).
+
+| # | Team | Entry | Results |
+| :-: | :-- | :-- | :-- |
+| 1st | ::{ flag=RU }:: [Kurisu Makise](https://osu.ppy.sh/users/2790640) and ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17924/befd38fb240c6b86739b6c9b5472dee6b2e416de3a0f72bee8c9b892903c0afd.osz) | [View](https://osu.ppy.sh/community/contests/274/entries/76560/results) |
+| 2nd | ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) and ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17993/cfd12baf72d4c3643ada347bc7382e4b5e408dcd68cc3bb049e1d3d67b48884c.osz) | [View](https://osu.ppy.sh/community/contests/274/entries/76563/results) |
+| 3rd | ::{ flag=US }:: [Znow](https://osu.ppy.sh/users/15513303) and ::{ flag=MX }:: [N4iveDx](https://osu.ppy.sh/users/21340543) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17907/faf3ffca71ab0ee23696dd3e8336674db9dcd0707456c89f438c7187d450bf51.osz) | [View](https://osu.ppy.sh/community/contests/274/entries/76559/results) |
+| 4th | ::{ flag=VN }:: [GamerChris](https://osu.ppy.sh/users/36042814) and ::{ flag=US }:: [jazzman123](https://osu.ppy.sh/users/31943070) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17965/82bbf1117497562b76cafcace105fe30b220137645a0ea8c3b5da8bdfdef9cdc.osz) | [View](https://osu.ppy.sh/community/contests/274/entries/76561/results) |
+| 5th | ::{ flag=CA }:: [xstra](https://osu.ppy.sh/users/13106165) and ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17995/400a72a77b997213a8072617c9b1cf1f622c97ff3c97e166ff911ce3ea646bf8.osz) | [View](https://osu.ppy.sh/community/contests/274/entries/76564/results) |
+| 6th | ::{ flag=US }:: [y u](https://osu.ppy.sh/users/30360950) and ::{ flag=JP }:: [Kanomi](https://osu.ppy.sh/users/37694048) | [ePiaeon - FLOP ERA](https://assets.ppy.sh/user-contest-entries/17992/56883cf047022b07e6dafeefeb667cc0d7bd07b5d9dfbf6121c07a0b01c5437a.osz) | [View](https://osu.ppy.sh/community/contests/274/entries/76562/results) |
 
 ## Phase 1 results
 
@@ -122,10 +173,10 @@ View the [full judge comments on the judging spreadsheet](https://docs.google.co
 
 ## Ruleset
 
-- **Submissions must use songs from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505).** Cut versions are not allowed.
+- **Submissions must use songs from [**MARETU**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/504) and [**mimizu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/505).** Cut versions are not allowed. Phase 2 Submissions must use [FLOP ERA](https://assets.ppy.sh/artists/519/FLOP%20ERA/ePiaeon%20-%20FLOP%20ERA.osz) from [**ePiaeon**'s Featured Artist Listing](https://osu.ppy.sh/beatmaps/artists/519).
 - **Teams must submit a team roster anytime prior to submitting Round 1 entries.** Only teams of two are allowed to participate. Mappers may not participate solo. Teams may not be changed after roster submissions.
 - **Submissions must be in `.osz` format.**
-- **Beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria).** Minor mistakes (like an off-screen object) can be forgiven, but intentional unrankable elements will result in disqualification.
+- **Beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria).** Minor mistakes (like an off-screen object) can be forgiven, but intentional unrankable elements will result in disqualification. An exception was made regarding large spread gaps in Phase 2.
 - **Maps must remain anonymous** until after the results are announced. Metadata will be anonymized before judging.
 - **No storyboards or videos** are to be included in submissions.
 - **No manual `.osu` file edits** beyond what is possible in the editor.
@@ -147,7 +198,9 @@ View the [full judge comments on the judging spreadsheet](https://docs.google.co
 
 The judging process is split between **Phase 1 (PARALLEL & SWAP Rounds)** and **Phase 2 (DUET Round)**. Each phase includes its own unique primary category, while all other criteria apply equally to both.
 
-In Phase 1, each map for Song A is scored individually in Relevance, Creativity, Expertise, and Overall Impression. The scores in each criteria are added. Then, these two maps are put side to side a 'Uniqueness' score is added. This is worth 25% of the raw score. This process repeats for Song B. Song B's averaged criteria scores are then averaged with Song A's, which are then standardized to determine the final placements.
+In Phase 1, each map for Song A is scored individually in Relevance, Creativity, Expertise, and Overall Impression. The scores in each criteria are added. Then, these two maps are put side to side a 'Uniqueness' score is added. This is worth 25% of the raw score. This process repeats for Song B. Song B's averaged criteria scores are then averaged with Song A's, which are then standardized to determine the final placements. 
+
+In Phase 2, individual difficulties were weighted, with the higher difficulties being worth more. Details and formulas are available on the detailed judge spreadsheets.
 
 | Criterion | Points | Description |
 | :-: | :-: | :-- |
@@ -166,12 +219,12 @@ In Phase 1, each map for Song A is scored individually in Relevance, Creativity,
 | Special thanks | ::{ flag=US }:: [Pishifat](https://osu.ppy.sh/users/3178418), ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) |
 | Designer | ::{ flag=CA }:: [Kaetwo](https://osu.ppy.sh/users/1997719) |
 
-| Game mode | Judges |
-| :-: | :-- |
-| osu! | ::{ flag=CN }}:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=US }}:: [squishyguppy](https://osu.ppy.sh/users/4116573), ::{ flag=US }}:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=RU }}:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664), ::{ flag=CN }}:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=BY }}:: [Flins](https://osu.ppy.sh/users/11119539), ::{ flag=CA }}:: [Shanipika](https://osu.ppy.sh/users/6336729) |
-| osu!taiko | ::{ flag=US }}:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=RU }}:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226) |
-| osu!catch | ::{ flag=NL }}:: [Chatie](https://osu.ppy.sh/users/6524765), ::{ flag=PH }}:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }}:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=ES }}:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AT }}:: [Daletto](https://osu.ppy.sh/users/7592136) |
-| osu!mania | ::{ flag=ID }}:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }}:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=DO }}:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=CN }}:: [Carpihat](https://osu.ppy.sh/users/10085090) |
+| Game mode | Phase 1 judges | Phase 2 judges |
+| :-: | :-- | :-- |
+| osu! | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=US }:: [squishyguppy](https://osu.ppy.sh/users/4116573), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=BY }:: [Flins](https://osu.ppy.sh/users/11119539), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729) | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=US }:: [squishyguppy](https://osu.ppy.sh/users/4116573), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=BY }:: [Flins](https://osu.ppy.sh/users/11119539), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) |
+| osu!taiko | ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027), ::{ flag=RU }:: [\_HeLLFly\_](https://osu.ppy.sh/users/14225226), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) |
+| osu!catch | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | N/A |
+| osu!mania | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785), ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=CN }:: [Carpihat](https://osu.ppy.sh/users/10085090) | ::{ flag=AU }:: [Decku](https://osu.ppy.sh/users/13360768), ::{ flag=US }:: [Akasha-](https://osu.ppy.sh/users/16010604), ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773), ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |
 
 ## Contest format
 
@@ -201,7 +254,7 @@ Tip: form your team and start planning early to avoid last-minute rushes. Plan a
 *Note: Due to a judging error, the top 7 osu!taiko teams advance to this round.*
 
 - The **top 6 teams** from the SWAP Round advance to this final phase.
-- Both team members will **collaborate directly** to create a **single cohesive mapset** for a selected song.
+- Both team members will **collaborate directly** to create a **single cohesive mapset** for *FLOP ERA* by **ePiaeon**.
 - **Every difficulty in the submission must be created collaboratively.**
 
 This three-phase structure challenges teams to demonstrate:

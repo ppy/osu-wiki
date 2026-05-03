@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2e4084ceec5bdfd409b082031957e3e4c5e778e7
+---
+
 # Элитные номинаторы
 
 **Элитные номинаторы** - это члены команды [номинаторов](/wiki/People/Beatmap_Nominators) и [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team), которые продемонстрировали исключительную преданность [процессу ранкинга](/wiki/Beatmap_ranking_procedure) и сообществу [маппинга](/wiki/Beatmapping) в целом, став одними из лучших номинаторов своего времени.

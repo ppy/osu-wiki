@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
+---
+
 # Cara mengganti artis atau judul lagu dari sebuah beatmap
 
 *[Full Submission with Title/Artist Change -- Mistakes oleh NoHitter (dibajak oleh peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
