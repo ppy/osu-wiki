@@ -62,7 +62,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
   1. [Sewerslvt - Cyberia Lyr3 (lkepler) \[lkepler's extreme\]](https://osu.ppy.sh/beatmapsets/2443939#osu/5417173)
   2. [Avaraya - Kanashibari Ni Attara (tak) \[tak's extra\]](https://osu.ppy.sh/beatmapsets/2545954#osu/5640510)
 - Hard Rock
-  1. [Aether Realm - The Tower (Sh4rq) \[Sh4rq\_'s Extreme\]](https://osu.ppy.sh/beatmapsets/2150260#osu/4570065)
+  1. [Aether Realm - The Tower (Sh4rq\_) \[Sh4rq\_'s Extreme\]](https://osu.ppy.sh/beatmapsets/2150260#osu/4570065)
   2. [uynet - Never Rezort (Wispy) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2214270#osu/4933836)
 - Double Time (variable speed multiplier)
   1. (1.6x) [Serani Poji - where is smiley? (ac8129464363) \[?\]](https://osu.ppy.sh/beatmapsets/2182420#osu/4611146)
