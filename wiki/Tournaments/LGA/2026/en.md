@@ -70,7 +70,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - Lazer Mod
   1. [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
 
-
 ## Ruleset
 
 ### Tournament rules
