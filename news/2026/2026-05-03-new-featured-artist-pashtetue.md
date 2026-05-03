@@ -9,9 +9,9 @@ Unrestrained by genre, **Pashtetue** erupts into our Featured Artist catalogue!
 
 ![](https://assets.ppy.sh/artists/541/header.jpg)
 
-From humble origins as the guitarist in a band to his sprouting solo career, **Pashtetue** currently draws inspiration from major players in the electronic dance music scene like *Justice*, *Chemical Brothers*, and *Daft Punk*. Experimentation plays a significant role in **Pashtetue**'s music though, so you might also hear hints of *Death Grips*, *Nine Inch Nails*, and *deadmau5* throughout **Pashtetue**'s compositions!
+From humble origins as the guitarist in a band to his sprouting solo career, **Pashtetue** currently draws inspiration from major players in the electronic dance music scene like *Justice*, *Chemical Brothers* and *Daft Punk*. Experimentation plays a significant role in **Pashtetue**'s music though, so you might also hear hints of *Death Grips*, *Nine Inch Nails*, and *deadmau5* throughout **Pashtetue**'s compositions!
 
-Here on osu!, **Pashtetue** is a [passionate osu!taiko player](https://osu.ppy.sh/users/36407814) whose sound has only begun to penetrate the Ranked section through [a beatmap of F\*ck the Discoman / Future Monster](https://osu.ppy.sh/beatmapsets/2484298) as of early 2026. Now that **Pashtetue** is one of osu!'s Featured Artists, his increased presence in the Ranked section is only a matter of time!
+Here on osu!, **Pashtetue** is a [passionate osu!taiko player](https://osu.ppy.sh/users/36407814) whose sound has only begun to penetrate the Ranked section through [a beatmap of *F\*ck the Discoman / Future Monster*](https://osu.ppy.sh/beatmapsets/2484298) as of early 2026. Now that **Pashtetue** is one of osu!'s Featured Artists, his increased presence in the Ranked section is only a matter of time!
 
 A grand total of **10** tracks are part of [**Pashtetue**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/541). Be part of osu!'s upcoming dance wave by picking up a pre-timed `.osz` and creating your own map.
 
@@ -47,9 +47,9 @@ Everyone appreciates music, but listening to music while playing a map unlocks a
 
 ---
 
-Congratulations! As of reading this, you're officially an osu! mapper! Listen to the previews on [**Pashtetue**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/541), download a beatmap template, and fulfill your mapping destiny.
+Congratulations! As of reading this, you're officially an osu! mapper! Listen to the previews on [**Pashtetue**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/541), download a beatmap template, and fulfil your mapping destiny.
 
-We have something you'd never expect next weekend: a brand new Featured Artist.
+We have something you'd never expect next weekend: a brand-new Featured Artist.
 
 Stay tuned!
 
