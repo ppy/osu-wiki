@@ -37,7 +37,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Hosts |  ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
+| Hosts | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) |
 | Designer | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) |
 | Statistician | ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) |
 | Video Editor | ::{ flag=ID }:: [Mirsaaa](https://osu.ppy.sh/users/15328093) |
