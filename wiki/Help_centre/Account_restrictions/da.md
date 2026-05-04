@@ -76,7 +76,7 @@ Hvis vi beslutter, at du godt må komme tilbage, kræver vi, at du accepterer no
 - **Du skal ikke benytte andres konti eller lignende,** inklusiv at spille på delte computere.
 - **Enhver grov overtrædelse af reglerne vil medføre en begrænsning**. Dette inkluderer lange silences.
 
-Brugere, der kommer tilbage under standardbetingelserne ovenfor, er også [udelukkede fra officielle og badgede turneringer](/wiki/Help_centre/Tournament_sanctions#tournament-bans), både som spiller og som medhjælper/arrangør. Varigheden af denne karantæne er 1 år for hver overtrædelse (hvis en bruger får sin begrænsning ophævet for anden gang, vil karantænen vare 2 år). Ophævelsesmailen specificerer varigheden af karantænen.
+Brugere, der kommer tilbage under standardbetingelserne ovenfor, er også [udelukkede fra officielle og badgede turneringer](/wiki/Help_centre/Tournament_sanctions#turneringskarantæne), både som spiller og som medhjælper/arrangør. Varigheden af denne karantæne er 1 år for hver overtrædelse (hvis en bruger får sin begrænsning ophævet for anden gang, vil karantænen vare 2 år). Ophævelsesmailen specificerer varigheden af karantænen.
 
 **Snyd eller kontodeling i en officiel eller badged turnering medfører brugerens tidsubestemte udelukkelse fra sådanne turneringer i fremtiden.** Der kan anmodes om ophævelse af denne karantæne efter to år, men den bliver kun ophævet, hvis brugeren har ydet betydelig hjælp i at forbedre fællesskabets turneringer.
 
