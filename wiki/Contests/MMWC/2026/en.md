@@ -13,14 +13,14 @@ The **osu!mania Mapping World Cup 2026** (***MMWC 2026***) is a country-based, m
 ## Schedule
 
 | Event | Timestamp (UTC) |
-| :-- | :-- |
-| Registration phase | 2026-03-15 – 2026-04-01 |
-| Qualification Stage mapping phase | 2026-04-03 – 2026-04-23 |
-| Qualification Stage judging phase | 2026-04-25 – 2026-05-15 |
-| Group Stage mapping phase | 2026-05-23 – 2026-06-11 |
-| Group Stage judging phase | 2026-06-13 – 2026-06-26 |
-| Final Stage mapping phase | 2026-07-03 – 2026-07-23 |
-| Final Stage judging phase | 2026-07-25 – 2026-08-07 |
+| :-- :---------------------------------
+| Registration phase | 2026-03-15 – 2026-04-01 (23:59) |
+| Qualification Stage mapping phase | 2026-04-03 – 2026-04-23 (23:59) |
+| Qualification Stage judging phase | 2026-04-25 – 2026-05-15 (23:59) |
+| Group Stage mapping phase | 2026-05-23 – 2026-06-11 (23:59) |
+| Group Stage judging phase | 2026-06-13 – 2026-06-26 (23:59) |
+| Final Stage mapping phase | 2026-07-03 – 2026-07-23 (23:59) |
+| Final Stage judging phase | 2026-07-25 – 2026-08-07 (23:59) |
 | Final results | 2026-08-15 |
 
 ## Prizes
