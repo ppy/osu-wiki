@@ -17,11 +17,11 @@ Join us as we go over just a few highlights of the tournament, from the results 
 
 ![Podium](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/podium.jpg)
 
-Congratulations to ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=PL }:: [liliel](https://osu.ppy.sh/users/13108233), ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985), and ::{ flag=PL }:: [ecca](https://osu.ppy.sh/users/30947671) for winning the Waifu Cup! Fun fact: this was MALISZEWSKI's third time participating, and their first-ever first-place finish! They beat the odds, coming back from the losers' bracket and securing a 7-2 bracket reset victory against ::{ flag=KR }:: [Suyong_](https://osu.ppy.sh/users/8799923), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437), and ::{ flag=KR }:: [mx10000](https://osu.ppy.sh/users/3730848), who finish in 2nd place. Finally, shoutout to our 3rd place finishing team, which consisted of ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=KR }:: [Chipori](https://osu.ppy.sh/users/7027766), and ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017)!
+Congratulations to ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=PL }:: [liliel](https://osu.ppy.sh/users/13108233), ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) and ::{ flag=PL }:: [ecca](https://osu.ppy.sh/users/30947671) for winning the Waifu Cup! Fun fact: this was MALISZEWSKI's third time participating and their first-ever first-place finish! They beat the odds, coming back from the losers' bracket and securing a 7–2 bracket reset victory against ::{ flag=KR }:: [Suyong_](https://osu.ppy.sh/users/8799923), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) and ::{ flag=KR }:: [mx10000](https://osu.ppy.sh/users/3730848), who finished in 2nd place. Finally, shout-outs to our 3rd-place-finishing team, which consisted of ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=KR }:: [Chipori](https://osu.ppy.sh/users/7027766) and ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017)!
 
 ## Custom works
 
-Battle of the Box wouldn't be what it is without sharing all the amazing work that goes into the custom maps, backgrounds, and music! Unfortunately, including everything in this news post would mean you'd be scrolling for way too long…
+Battle of the Box wouldn't be what it is without sharing all the amazing work that goes into the custom maps, backgrounds and music! Unfortunately, including everything in this news post would mean you'd be scrolling for way too long...
 
 **[View all the Battle of the Box 2026 custom maps and backgrounds here!](https://docs.google.com/spreadsheets/d/1xyGaHNA_ARVtEw_39G5_XykZJhKboPBcDHlycNg-tmA/edit?gid=1750133504#gid=1750133504)**
 
@@ -33,7 +33,7 @@ Battle of the Box wouldn't be what it is without sharing all the amazing work th
     }
 </style>
 
-One particular highlight from this year is that we were honoured to introduce **five** original works to the osu! Community, all featuring Hatsune Miku (and one featuring Megurine Luka)! Check them all out below by listening to the previews, and click their song banners to view the beatmaps themselves.
+One particular highlight from this year is that we were honoured to introduce [**five** original works](/wiki/Community/Bespoke_music#battle-of-the-box-2026%3A-waifu-cup) to the osu! community, all featuring Hatsune Miku (and one featuring Megurine Luka)! Check them all out below by listening to the previews, and click their song banners to view the beatmaps themselves.
 
 #### Round of 16
 
@@ -126,14 +126,16 @@ To commemorate this, both of us hosts wanted to write a personal message to all 
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/3717598">xootynator</a></p>
 
-Thank you to all staff, creatives, and players for another amazing iteration of BotB! I hope everyone leaves this tournament with some good memories, new friends, or even a new favourite map! I'll never forget how blessed I am to be connected to such amazing and hardworking people in the tournament community. Please keep shining and being creative, everyone!
+Thank you to all staff, creatives and players for another amazing iteration of BotB! I hope everyone leaves this tournament with some good memories, new friends, or even a new favourite map! I'll never forget how blessed I am to be connected to such amazing and hardworking people in the tournament community. Please keep shining and being creative, everyone!
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14252162" style="background-image: url('/wiki/shared/avatars/Fulserish.jpg')"></a>
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14252162">Fulserish</a></p>
 
 
-Every year, the one thing that I could always be excited to work on was Battle of the Box. You have no idea how blessed we are to have worked with the best of the best in this community to create an environment where creativity and enjoyment come first, above all else. Which is especially why I can't easily express how sad I am to close our doors now. Sadly, life comes first, and all good things must come to an end. Nonetheless, I'm excited for what the future holds, not just for myself, but for everyone. So whether you were with us from the beginning or just joined us this iteration, **thank you** from the bottom of my heart for being a part of this journey.
+Every year, the one thing that I could always be excited to work on was Battle of the Box. You have no idea how blessed we are to have worked with the best of the best in this community to create an environment where creativity and enjoyment come first, above all else. Which is especially why I can't easily express how sad I am to close our doors now. Sadly, life comes first, and all good things must come to an end.
+
+Nonetheless, I'm excited for what the future holds, not just for myself, but for everyone. So whether you were with us from the beginning or just joined us this iteration, **thank you** from the bottom of my heart for being a part of this journey.
 
 </div>
 
