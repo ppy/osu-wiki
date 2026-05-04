@@ -30,9 +30,10 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=CA }:: [ploot](https://osu.ppy.sh/users/7802400) |
-| Mappool playtester | *TBA* |
-| Mapper | *TBA* |
+| Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=GR }:: [Miles](https://osu.ppy.sh/users/6761639), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=CA }:: [steamhappy](https://osu.ppy.sh/users/7802400) |
+| Mappool helper | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=FR }:: [Matha](https://osu.ppy.sh/users/2438482), ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
+| Mappool playtester | ::{ flag=US }:: [1ncert](https://osu.ppy.sh/users/12522447), ::{ flag=PL }:: [Agent5d](https://osu.ppy.sh/users/5472693), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dwagon](https://osu.ppy.sh/users/9975427), ::{ flag=PL }:: [Eirra](https://osu.ppy.sh/users/3493804), ::{ flag=FR }:: [FaunaMyBeloved](https://osu.ppy.sh/users/20074187), ::{ flag=CL }:: [GalaxyGaming](https://osu.ppy.sh/users/4587526), ::{ flag=RU }:: [KladVomzin01](https://osu.ppy.sh/users/11801407), ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251), ::{ flag=US }:: [luvouva](https://osu.ppy.sh/users/8914929), ::{ flag=US }:: [Rinko Shirokane](https://osu.ppy.sh/users/16416081), ::{ flag=PA }:: [Toua](https://osu.ppy.sh/users/5136821), ::{ flag=CL }:: [Wawillo](https://osu.ppy.sh/users/9184161), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
+| Mapper | ::{ flag=JP }:: [Agelatte](https://osu.ppy.sh/users/12710311), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), *more TBA* |
 | Commentator | *TBA* |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
@@ -58,11 +59,11 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
   3. [POP ART TOWN - Chameleon (Agelatte) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2547498#osu/5646149)
   4. [xaev - toby fox discovers the hyperpop soundfont (Evil-) \[ummm yeah like hopes and dreams or whateverrrrrrrrrr :rolling\_eyes:\]](https://osu.ppy.sh/beatmapsets/2394728#osu/5186516)
 - Hidden
-  1. [Sewerslvt - Cyberia Lyr3 (Daycore) \[lkepler's extreme\]](https://osu.ppy.sh/beatmapsets/2443939#osu/5417173)
-  2. [Avaraya - Kanashibari Ni Attara (Creepattack) \[tak's extra\]](https://osu.ppy.sh/beatmapsets/2545954#osu/5640510)
+  1. [Sewerslvt - Cyberia Lyr3 (lkepler) \[lkepler's extreme\]](https://osu.ppy.sh/beatmapsets/2443939#osu/5417173)
+  2. [Avaraya - Kanashibari Ni Attara (tak) \[tak's extra\]](https://osu.ppy.sh/beatmapsets/2545954#osu/5640510)
 - Hard Rock
-  1. [Aether Realm - The Tower (LotsOfBagel) \[Sh4rq\_'s Extreme\]](https://osu.ppy.sh/beatmapsets/2150260#osu/4570065)
-  2. [uynet - Never Rezort (Garden) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2214270#osu/4933836)
+  1. [Aether Realm - The Tower (Sh4rq\_) \[Sh4rq\_'s Extreme\]](https://osu.ppy.sh/beatmapsets/2150260#osu/4570065)
+  2. [uynet - Never Rezort (Wispy) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2214270#osu/4933836)
 - Double Time (variable speed multiplier)
   1. (1.6x) [Serani Poji - where is smiley? (ac8129464363) \[?\]](https://osu.ppy.sh/beatmapsets/2182420#osu/4611146)
   2. (1.35x) [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5036420)

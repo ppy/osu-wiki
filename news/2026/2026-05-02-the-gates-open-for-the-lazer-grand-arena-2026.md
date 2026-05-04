@@ -41,7 +41,7 @@ No sign-up required — **just play!** Find the pinned playlist in-game by searc
 
 The playlist will run for **one week**, closing on **Sunday, May 10 at 19:00 UTC**. To participate, you will have to complete the **12 playlist maps** using a total of **18 tries**. The only requirement to participate is to not have violated any of the [osu! community rules](/wiki/Rules) in the past 12 months. To that end, all qualifying participants will be screened, as with any tournament.
 
-For this stage, your **lowest scoring map will be removed for the seeding calculations**, and **NoFail is enforced** for every map. Only the **highest score for each map is counted**. To have your scores considered for seeding, you need to **have at least one submitted play for each map of the playlist** (indicated by the blue checkmark with a "Completed Beatmaps" tooltip inside the playlist). Refer to the following image for an example of a valid submission:
+For this stage, your **lowest-scoring map will be removed for the seeding calculations**, and **No Fail is enforced** for every map. Only the **highest score for each map is counted**, and to have your scores considered for seeding, you need to **have at least one submitted play for each map of the playlist** (indicated by the blue checkmark with a "Completed Beatmaps" tooltip inside the playlist). Refer to the following image for an example of a valid submission:
 
 ![Player example for qualifiers playlist](/wiki/shared/news/2026-05-02-the-gates-open-for-the-lazer-grand-arena-2026/azer-steamhappy.png)
 
@@ -57,9 +57,9 @@ In the Lazer Grand Arena format, the match starts with the Blue player (low seed
 
 The match itself is a best-of-five, with each point being played in "sets" of two maps each. The Red player (high seed) makes the first pick, following an A-B-B-A order for the remainder of the match. In practice, this means that players take turns first picking for each new set.
 
-Scoring is cumulative within a set. The scores from the two maps are combined, and the player with the highest total score earns one point. The first player to reach three points wins. If the match reaches a 2 to 2 tie, the fifth set expands into a three map brawl, concluding with a brand new osu! original beatmap.
+Scoring is cumulative within a set. The scores from the two maps are combined, and the player with the highest total score earns one point. The first player to reach three points wins. If the match reaches a 2 to 2 tie, the fifth set expands into a three-map brawl, concluding with a brand-new osu! original beatmap.
 
-The bracket stage kicks off with **single elimination** for the Round of 32 and Round of 16. Once we get to the Top 8, a Losers bracket is introduced, shifting the format to a **double elimination bracket** for the remainder of the tournament.
+The bracket stage kicks off with **single elimination** for the Round of 32 and Round of 16. Once we get to the top 8, a losers' bracket is introduced, shifting the format to a **double-elimination bracket** for the remainder of the tournament.
 
 ---
 
