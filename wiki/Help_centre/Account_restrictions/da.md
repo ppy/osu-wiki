@@ -60,7 +60,7 @@ Hvis en konto blev retfærdigt begrænset, beder vi brugeren om at vente et styk
 
 ## Min nedkølingsperiode er forbi. Hvordan anmoder jeg om at komme tilbage? {id=appeal}
 
-Du kan anmode om at få din begrænsning ophævet ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh) med emnet `Restriction Appeal: <brugernavn>`. Vær sikker på, at du sender anmodningen fra mailadressen, der er tilknyttet din konto. Du kan forvente et svar indenfor to uger, efter du har sendt os denne mail. Hvis du ikke har fået et svar efter en uge, så kontakter os venligst per Twitter eller mail — det er muligt, at vi ikke har modtaget den.
+Du kan anmode om at få din begrænsning ophævet ved at sende en mail til [accounts@ppy.sh](mailto:accounts@ppy.sh) med emnet `Restriction Appeal: <brugernavn>`. Vær sikker på, at du sender anmodningen fra mailadressen, der er tilknyttet din konto. Du kan forvente et svar indenfor to uger, efter du har sendt os denne mail. Hvis du ikke har fået et svar efter en uge, så send os gerne en opfølgningsmail — den oprindelige mail har måske ikke kunnet nå os af en eller anden grund.
 
 Når du anmoder om ophævelse, forventer vi, at den indeholder forklaringer om følgende:
 
