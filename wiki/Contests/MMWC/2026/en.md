@@ -46,7 +46,7 @@ The osu!mania Mapping World Cup 2026 is run by various community members.
 
 ## Participants
 
-| | Country/Continent | Members | Note |
+|  | Country/Continent | Members | Note |
 | :-: | :-: | :-- | :-- |
 | ![](https://reirei.s-ul.eu/J0H3cSDY) | **North America** | **[Zonifyy](https://osu.ppy.sh/users/10244543)**, [Asymetrical](https://osu.ppy.sh/users/15863480), [Nezu-](https://osu.ppy.sh/users/21963245), [snowsnowsonsnow](https://osu.ppy.sh/users/8160564) | - |
 | ![](https://reirei.s-ul.eu/G7e4T2Vn) | **South America** | **[APRL03](https://osu.ppy.sh/users/11394892)**, [Gndsklgb](https://osu.ppy.sh/users/25617005), [MilesNoobkk](https://osu.ppy.sh/users/22656756), [XxFoxFirexX352](https://osu.ppy.sh/users/25479095) | - |
