@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
 tags:
   - mute
   - timeout
@@ -15,7 +13,7 @@ tags:
 ## Begrænsninger
 
 ::: Infobox
-![](img/silence-profile-DA.png "En silence på en brugers profil")
+![](img/silence-profile-DA.png?1 "En silence på en brugers profil")
 :::
 
 En bruger, der er silenced, kan ikke gøre følgende:
