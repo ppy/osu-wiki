@@ -132,7 +132,6 @@ Thank you to all staff, creatives and players for another amazing iteration of B
 
 <p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/14252162">Fulserish</a></p>
 
-
 Every year, the one thing that I could always be excited to work on was Battle of the Box. You have no idea how blessed we are to have worked with the best of the best in this community to create an environment where creativity and enjoyment come first, above all else. Which is especially why I can't easily express how sad I am to close our doors now. Sadly, life comes first, and all good things must come to an end.
 
 Nonetheless, I'm excited for what the future holds, not just for myself, but for everyone. So whether you were with us from the beginning or just joined us this iteration, **thank you** from the bottom of my heart for being a part of this journey.
