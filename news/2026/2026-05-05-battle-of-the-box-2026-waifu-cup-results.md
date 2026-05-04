@@ -35,7 +35,7 @@ Battle of the Box wouldn't be what it is without sharing all the amazing work th
 
 One particular highlight from this year is that we were honoured to introduce [**five** original works](/wiki/Community/Bespoke_music#battle-of-the-box-2026%3A-waifu-cup) to the osu! community, all featuring Hatsune Miku (and one featuring Megurine Luka)! Check them all out below by listening to the previews, and click their song banners to view the beatmaps themselves.
 
-#### Round of 16
+#### Round of 16: nominomu - Inochi, Moroi Katachi de (feat. Hatsune Miku)
 
 [![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/inochi.jpg)](https://osu.ppy.sh/beatmapsets/2523102#osu/5571596)
 
@@ -45,7 +45,7 @@ One particular highlight from this year is that we were honoured to introduce [*
     </audio>
 </div>
 
-#### Quarterfinals
+#### Quarterfinals: Retro - Kageutsushi (feat. Hatsune Miku)
 
 [![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/kageutsushi.jpg)](https://osu.ppy.sh/beatmapsets/2527114#osu/5583022)
 
@@ -55,7 +55,7 @@ One particular highlight from this year is that we were honoured to introduce [*
     </audio>
 </div>
 
-#### Semifinals
+#### Semifinals: djkirakira - hanashite
 
 [![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/hanashite.jpg)](https://osu.ppy.sh/beatmapsets/2530776#osu/5593932)
 
@@ -65,7 +65,7 @@ One particular highlight from this year is that we were honoured to introduce [*
     </audio>
 </div>
 
-#### Finals
+#### Finals: Redside feat. Hatsune Miku - Constellations
 
 [![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/constellations.jpg)](https://osu.ppy.sh/beatmapsets/2535063#osu/5605799)
 
@@ -75,7 +75,7 @@ One particular highlight from this year is that we were honoured to introduce [*
     </audio>
 </div>
 
-#### Grand Finals
+#### Grand Finals: Doomsday - Kehai
 
 [![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/kehai.jpg)](https://osu.ppy.sh/beatmapsets/2538155#osu/5616813)
 
