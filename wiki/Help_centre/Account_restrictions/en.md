@@ -54,7 +54,7 @@ If an account has been found to be rightfully restricted, we will ask that the u
 
 ## My cooldown has passed. How do I appeal? {id=appeal}
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject line `Restriction Appeal: <username>`. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within two weeks. If you have not received one by then, please contact us on Twitter or by email — there is a chance we may not have received it.
+You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject line `Restriction Appeal: <username>`. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within two weeks. If you have not received one by then, don't hesitate to send a follow-up email as the original may have gotten lost for one reason or another.
 
 When appealing, we expect the following points to be covered:
 
