@@ -54,7 +54,7 @@ if [[ -z ${post+_} ]]; then
   fi
 fi
 
-date=$(echo "$post" | grep -Po '\d{4}-\d\d-\d\d')
+date=$(echo "$post" | grep -Eo '[0-9]{4}-[0-9]{2}-[0-9]{2}')
 if [[ -z $date ]]; then
   echo "'$post' does not seem to be a news post (no date in file name)" >&2; exit 1
 fi
@@ -62,17 +62,23 @@ fi
 if [[ -z $new_date ]]; then
   new_date=$(date -u +%Y-%m-%d)
 fi
-if ! echo "$new_date" | grep -qPo '\d{4}-\d\d-\d\d'; then
+if ! echo "$new_date" | grep -qE '[0-9]{4}-[0-9]{2}-[0-9]{2}'; then
   echo "'$new_date' does not look like a date in yyyy-mm-dd format" >&2; exit 1
 fi
 
 new_post=${post//$date/$new_date}
 
-image_folder="wiki/shared/news/$(echo "$post" | grep -Po '(?<=news/\d{4}/).*(?=\.md)')"
+image_folder="wiki/shared/news/${post##*/}"
+image_folder="${image_folder%.md}"
 new_image_folder=${image_folder//$date/$new_date}
 
-sed -i "s/$date/$new_date/g" "$post"
-mv -T "$post" "$new_post"
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  sed -i '' "s/$date/$new_date/g" "$post"
+else
+  sed -i "s/$date/$new_date/g" "$post"
+fi
+
+mv "$post" "$new_post"
 if [[ -d $image_folder ]]; then
-  mv -T "$image_folder" "$new_image_folder"
+  mv "$image_folder" "$new_image_folder"
 fi
