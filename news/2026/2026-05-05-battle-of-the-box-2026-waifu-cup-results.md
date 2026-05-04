@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Battle of the Box 2026: Waifu Cup Concludes"
+title: "Battle of the Box 2026: Waifu Cup - Results"
 date: 2026-05-05 15:00:00 +0000
 series: community_tournaments
 ---
 
 The flag has been waved, and a new racing champion has claimed the Waifu Cup in Battle of the Box!
 
-![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/banner.jpg)
+![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/banner.jpg)
 
 From around the world, players fought tooth and nail for their chance to take the Waifu Cup. This iteration of Battle of the Box, the flagship tournament of [xootynator](https://osu.ppy.sh/users/3717598), was filled with close matches and nail-biter moments, but finally, after a month of competition, a new champion has been crowned!
 
@@ -15,7 +15,7 @@ Join us as we go over just a few highlights of this tournament that [began in Fe
 
 ## Summary
 
-![Podium](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/podium.jpg)
+![Podium](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/podium.jpg)
 
 Congratulations to ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=PL }:: [liliel](https://osu.ppy.sh/users/13108233), ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) and ::{ flag=PL }:: [ecca](https://osu.ppy.sh/users/30947671) for winning the Waifu Cup! Fun fact: this was MALISZEWSKI's third time participating and their first-ever first-place finish! They beat the odds, coming back from the losers' bracket and securing a 7–2 bracket reset victory against ::{ flag=KR }:: [Suyong_](https://osu.ppy.sh/users/8799923), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) and ::{ flag=KR }:: [mx10000](https://osu.ppy.sh/users/3730848), who finished in 2nd place. Finally, shout-outs to our 3rd-place-finishing team, which consisted of ::{ flag=KR }:: [Amamya Kokoro](https://osu.ppy.sh/users/2511839), ::{ flag=HK }:: [misha awa](https://osu.ppy.sh/users/14503423), ::{ flag=KR }:: [Chipori](https://osu.ppy.sh/users/7027766) and ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017)!
 
@@ -37,7 +37,7 @@ One particular highlight from this year is that we were honoured to introduce [*
 
 #### Round of 16
 
-[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/inochi.jpg)](https://osu.ppy.sh/beatmapsets/2523102#osu/5571596)
+[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/inochi.jpg)](https://osu.ppy.sh/beatmapsets/2523102#osu/5571596)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -47,7 +47,7 @@ One particular highlight from this year is that we were honoured to introduce [*
 
 #### Quarterfinals
 
-[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/kageutsushi.jpg)](https://osu.ppy.sh/beatmapsets/2527114#osu/5583022)
+[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/kageutsushi.jpg)](https://osu.ppy.sh/beatmapsets/2527114#osu/5583022)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -57,7 +57,7 @@ One particular highlight from this year is that we were honoured to introduce [*
 
 #### Semifinals
 
-[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/hanashite.jpg)](https://osu.ppy.sh/beatmapsets/2530776#osu/5593932)
+[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/hanashite.jpg)](https://osu.ppy.sh/beatmapsets/2530776#osu/5593932)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -67,7 +67,7 @@ One particular highlight from this year is that we were honoured to introduce [*
 
 #### Finals
 
-[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/constellations.jpg)](https://osu.ppy.sh/beatmapsets/2535063#osu/5605799)
+[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/constellations.jpg)](https://osu.ppy.sh/beatmapsets/2535063#osu/5605799)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -77,7 +77,7 @@ One particular highlight from this year is that we were honoured to introduce [*
 
 #### Grand Finals
 
-[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-concludes/kehai.jpg)](https://osu.ppy.sh/beatmapsets/2538155#osu/5616813)
+[![](/wiki/shared/news/2026-05-05-battle-of-the-box-2026-waifu-cup-results/kehai.jpg)](https://osu.ppy.sh/beatmapsets/2538155#osu/5616813)
 
 <div class="osu-md__paragraph">
     <audio controls>
