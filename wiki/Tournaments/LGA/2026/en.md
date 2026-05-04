@@ -40,9 +40,35 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1FD3pHWllqbfzKg55KyOBwcVV0EXc6tHTaGEXB8rXQ2A?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)
 - [Challonge bracket](https://challonge.com/LGA2026)
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (107 MB)](https://packs.ppy.sh/P322%20-%20Lazer%20Grand%20Arena%202026%3A%20Qualifiers.zip)**\
+[Watch the showcase VOD here](https://www.youtube.com/watch?v=Xoz6WYPu9IQ)
+
+- No Mod
+  1. [Kushi - Sakura no Zenya (Nightcore Mix) (buddon) \[Mutual Promise\]](https://osu.ppy.sh/beatmapsets/2500628#osu/5500905)
+  2. [Mechina - Imperialus (ItsWinter) \[Empyrean\]](https://osu.ppy.sh/beatmapsets/2028143#osu/4226271)
+  3. [POP ART TOWN - Chameleon (Agelatte) \[Extreme\]](https://osu.ppy.sh/beatmapsets/2547498#osu/5646149)
+  4. [xaev - toby fox discovers the hyperpop soundfont (Evil-) \[ummm yeah like hopes and dreams or whateverrrrrrrrrr :rolling\_eyes:\]](https://osu.ppy.sh/beatmapsets/2394728#osu/5186516)
+- Hidden
+  1. [Sewerslvt - Cyberia Lyr3 (Daycore) \[lkepler's extreme\]](https://osu.ppy.sh/beatmapsets/2443939#osu/5417173)
+  2. [Avaraya - Kanashibari Ni Attara (Creepattack) \[tak's extra\]](https://osu.ppy.sh/beatmapsets/2545954#osu/5640510)
+- Hard Rock
+  1. [Aether Realm - The Tower (LotsOfBagel) \[Sh4rq\_'s Extreme\]](https://osu.ppy.sh/beatmapsets/2150260#osu/4570065)
+  2. [uynet - Never Rezort (Garden) \[Wispy's Extra\]](https://osu.ppy.sh/beatmapsets/2214270#osu/4933836)
+- Double Time (variable speed multiplier)
+  1. (1.6x) [Serani Poji - where is smiley? (ac8129464363) \[?\]](https://osu.ppy.sh/beatmapsets/2182420#osu/4611146)
+  2. (1.35x) [DJ SHARPNEL - CYBER INDUCTANCE (mithew) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/2342474#osu/5036420)
+  3. (1.6x) [Halozy - Heart of Night (Chaoslitz) \[Life of Loneliness\]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
+- Lazer Mod
+  1. ([Deflate](/wiki/Gameplay/Game_modifier/Deflate) - Starting Size: 1.6) [Hyunmin Cho - Pathway to Atelier (Mir) \[Starward Ascent\]](https://osu.ppy.sh/beatmapsets/2547930#osu/5647278)
 
 ## Ruleset
 
@@ -100,7 +126,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
    - Double Time: 3 beatmaps
    - Lazer Mod: 1 beatmap
 4. Players will participate in an osu!(lazer) playlist lobby, which can be completed anywhere from **Sunday, May 3 19:00 UTC** to **Sunday, May 10 19:00 UTC**.
-   - The playlist to be played is titled `Lazer Grand Arena 2026 - Qualifiers`, hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
+   - The playlist to be played is titled [Lazer Grand Arena 2026 - Qualifiers (Official)](https://osu.ppy.sh/multiplayer/rooms/2759137), hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
    - *Notice: the playlist **closes** on May 10, 19:00 UTC, at which point no new scores will be allowed. No exceptions will be made.*
 5. Players will have **18 tries** to use across the **12 playlist entries**, with no restrictions on the order of play or amount of tries per individual item.
    - To be eligible for seeding, every player must submit ***at least*** one score for every beatmap listed.
