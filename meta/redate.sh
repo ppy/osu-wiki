@@ -13,6 +13,10 @@ help() {
   echo "  -h       print this help message" >&2
 }
 
+if [[ $# -eq 0 ]]; then
+  help; exit 0
+fi
+
 while getopts ":ht:" opt; do
   case $opt in
     h)
