@@ -1,24 +1,26 @@
 # Xử lý hành vi chơi xấu
 
-## Tại sao tôi bị hạn chế?
+## Điều gì được xem là chơi không công bằng?
 
-Một người dùng có thể gặp phải hạn chế nếu họ làm bất kỳ điều gì sau đây:
+Những điều sau đây được xem là chơi không công bằng và nói chung sẽ khiến người dùng bị hạn chế:
 
-- Hành vi sai trái liên tục bất kể số lần vi phạm họ tích lũy
-- Tránh né hình phạt bằng cách tạo một tài khoản mới
-- Chia sẻ tài khoản của họ với người dùng khác
-- Sử dụng nhiều tài khoản
-- Hack hoặc gian lận (xem bên dưới)
-
-## Điều gì được coi là sử dụng nhiều tài khoản?
-
-Mỗi người chỉ có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm, những vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước đó sẽ bị hạn chế.
+- Hack hoặc gian lận
+- Tạo nhiều tài khoản hoặc chia sẻ tài khoản với người khác
+- Sử dụng tài khoản khác ngoài cái đầu tiên của họ để tham gia giải đấu 
 
 ## Điều gì được coi là gian lận?
 
 Các [quy tắc](/wiki/Rules) chỉ ra rằng bất kỳ hình thức thao túng nào đối với client, chẳng hạn như hack điểm số, chuỗi full-combo được kích hoạt bằng macro, auto-aim và bất cứ điều gì khác rằng chơi trò chơi thay vì tự chơi đều được coi là gian lận. 
 
-Đây là một quy tắc một lần phạt, kẻ gian lận sẽ bị hạn chế lần đầu tiên với thời gian không xác định. [Nhóm hỗ trợ](/wiki/People/Account_support_team) có thể quyết định gỡ bỏ hạn chế nếu người vi phạm thành công trong việc kháng cáo.
+Đây là một quy tắc một lần phạt, kẻ gian lận sẽ bị hạn chế lần đầu tiên với thời gian không xác định. [Nhóm hỗ trợ](/wiki/People/Account_support_team) có thể quyết định gỡ bỏ hạn chế nếu người vi phạm gửi kháng cáo hợp lệ sau ít nhất sáu tháng.
+
+## Sử dụng phần cứng chuyên dụng có được coi là gian lận không?
+
+Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
+
+## Điều gì được coi là sử dụng nhiều tài khoản và chia sẻ tài khoản?
+
+Mỗi người chỉ có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm, những vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước đó sẽ bị hạn chế. Lưu ý rằng tạo tài khoản phụ để tham gia giải đấu được xem là vi phạm đặc biệt nghiêm trọng và sẽ dẫn đến hạn chế ngay lập tức, cũng như kèm theo lệnh cấm vô thời hạn khỏi bất kỳ giải đấu được hỗ trợ chính thức và cuộc thi nếu vi phạm liên quan đến vụ việc như thế.
 
 ## Tôi đã bị hạn chế vì gian lận, nhưng tôi không gian lận!
 
@@ -62,10 +64,6 @@ Ví dụ: !report người_dùng_đó suspected cheating.
 ```
 
 Sự giúp đỡ của bạn trong việc phát hiện hành vi gian lận rất được trân trọng. Chúng tôi xem xét mọi báo cáo mà chúng tôi nhận được, nhưng điều đó không có nghĩa là tất cả chúng đều sẽ dẫn đến chúng tôi thực hiện hành động! bạn cũng có thể gửi email trực tiếp đến [osu@ppy.sh](mailto:osu@ppy.sh) để nhận được phản hồi tương đối nhanh chóng.
-
-## Sử dụng phần cứng chuyên dụng có được coi là gian lận không?
-
-Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
 
 ## Làm thế nào tôi có thể kháng cáo hạn chế của mình ?
 
