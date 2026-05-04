@@ -11,7 +11,7 @@ The flag has been waved, and a new racing champion has claimed the Waifu Cup in 
 
 From around the world, players fought tooth and nail for their chance to take the Waifu Cup. This iteration of Battle of the Box, the flagship tournament of [xootynator](https://osu.ppy.sh/users/3717598), was filled with close matches and nail-biter moments, but finally, after a month of competition, a new champion has been crowned!
 
-Join us as we go over just a few highlights of the tournament, from the results to the custom songs, and as we discuss what's next!
+Join us as we go over just a few highlights of this tournament that [began in February](https://osu.ppy.sh/home/news/2026-02-12-battle-of-the-box-2026-waifu-cup-registrations-now-open), from the results to the custom songs, and as we discuss what's next!
 
 ## Summary
 
