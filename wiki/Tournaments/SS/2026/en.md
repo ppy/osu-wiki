@@ -373,216 +373,355 @@ Showcase VOD unavailable
 
 Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](/wiki/en/Tournaments/Common_seeding_methods).
 
-| Rank | Player | Z-Sum | Avg. Score | NM1 | NM2 | NM3 | NM4 | HD1 | HD2 | HR1 | HR2 | DT1 | DT2 |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| 1 | ::{ flag=ES }:: ESCRUPULILLO | 24.3 | 682275 | #1 972934 | #5 620698 | #2 483452 | #2 464130 | #2 686486 | #2 625419 | #1 622178 | #3 506991 | #6 684287 | #1 1156175 |
-| 2 | ::{ flag=ES }:: A L E P H | 23.39 | 670227 | #12 436388 | #4 651486 | #4 451484 | #1 511731 | #1 1062416 | #3 434220 | #2 447051 | #1 670651 | #2 1111205 | #5 925636 |
-| 3 | ::{ flag=ES }:: towny1 | 17.05 | 575870 | #4 660214 | #2 907389 | #3 454539 | #5 361497 | #6 449424 | #6 353851 | #13 279330 | #2 533580 | #9 638817 | #3 1120055 |
-| 4 | ::{ flag=ES }:: [dekori] | 14.89 | 564090 | #8 474428 | #1 922779 | #6 366665 | #20 182408 | #10 399265 | #11 277188 | #4 419015 | #10 341885 | #1 1132512 | #2 1124757 |
-| 5 | ::{ flag=ES }:: marbl | 12.4 | 467860 | #22 329467 | #7 567851 | #7 363173 | #9 294513 | #3 506774 | #1 704904 | #19 258822 | #6 376842 | #5 701183 | #10 575075 |
-| 6 | ::{ flag=ES }:: JoanaBob | 12.29 | 483914 | #3 723794 | #23 377182 | #13 315533 | #6 344980 | #4 474875 | #9 279307 | #6 356060 | #11 321743 | #7 657487 | #4 988182 |
-| 7 | ::{ flag=ES }:: Dario | 10.72 | 430741 | #9 456876 | #10 491065 | #10 351238 | #4 393689 | #8 422899 | #4 416619 | #10 293169 | #8 354660 | #10 633638 | #14 493556 |
-| 8 | ::{ flag=ES }:: Palodex | 10.01 | 405935 | #14 417569 | #19 411895 | #5 394513 | #3 450181 | #5 473631 | #5 404685 | #18 261550 | #12 317760 | #14 538532 | #21 389031 |
-| 9 | ::{ flag=ES }:: Jairofrancaso | 7.9 | 388231 | #7 528277 | #15 449284 | #8 363157 | #11 284192 | #11 391611 | #19 215947 | #12 288834 | #16 248523 | #4 806476 | #28 306012 |
-| 10 | ::{ flag=ES }:: aguacateh_ | 6.65 | 382705 | #29 279588 | #13 470356 | #21 257640 | #10 291158 | #27 260844 | #14 258895 | #21 246236 | #14 290654 | #3 829598 | #8 642082 |
-| 11 | ::{ flag=ES }:: AARONGAMER1 | 6.49 | 374137 | #5 635254 | #3 707391 | #24 231130 | #29 125296 | #22 280589 | #31 84107 | #3 431743 | #13 308298 | #18 474385 | #16 463181 |
-| 12 | ::{ flag=ES }:: MusicDropZ | 6.3 | 355886 | #20 332251 | #22 380771 | #22 246130 | #8 297049 | #15 326860 | #13 270870 | #8 314695 | #9 346266 | #13 560302 | #15 483664 |
-| 13 | ::{ flag=ES }:: NHarmonia | 5.59 | 331844 | #6 583761 | #26 326006 | #12 321827 | #18 195029 | #28 256291 | #38 38145 | #5 378008 | #4 496212 | #16 494078 | #30 229087 |
-| 14 | ::{ flag=ES }:: P_F_C_PRO | 5.23 | 325027 | #11 439312 | #38 143958 | #1 494081 | #24 153994 | #9 405391 | #29 100458 | #11 292813 | #7 354989 | #17 493870 | #22 371407 |
-| 15 | ::{ flag=ES }:: PEAC 4 | 4.5 | 337533 | #18 359239 | #20 408979 | #33 173876 | #13 260051 | #20 292833 | #22 207226 | #9 302375 | #20 218944 | #12 607742 | #12 544067 |
-| 16 | ::{ flag=ES }:: Derin | 4.33 | 338164 | #2 811764 | #35 166124 | #14 308488 | #39 85572 | #36 186904 | #15 251064 | #39 106745 | #5 397456 | #19 460401 | #9 607118 |
-| 17 | ::{ flag=ES }:: Scaryz | 4.3 | 298435 | #15 412125 | #33 225656 | #9 354196 | #7 343777 | #17 308728 | #21 211681 | #7 324567 | #21 195856 | #34 277284 | #26 330476 |
-| 18 | ::{ flag=ES }:: Kalal331 | 3.58 | 336446 | #26 304054 | #8 553124 | #17 279746 | #23 158866 | #18 302632 | #32 78228 | #26 203710 | #25 179236 | #11 612296 | #7 692572 |
-| 19 | ::{ flag=ES }:: PEAC 10 | 2.33 | 284244 | #16 390254 | #17 418158 | #15 301055 | #15 219944 | #13 346661 | #27 111655 | #32 156108 | #17 246486 | #32 286293 | #23 365823 |
-| 20 | ::{ flag=ES }:: Alexis_xX | 2.06 | 285746 | #33 245824 | #14 456427 | #11 324416 | #25 135677 | #21 292377 | #28 108659 | #24 218011 | #19 232542 | #15 523125 | #27 320397 |
-| 21 | ::{ flag=ES }:: Widelux13 | 1.24 | 266672 | #10 442093 | #32 236140 | #30 206461 | #21 169354 | #12 366181 | #12 272891 | #28 202090 | #35 112895 | #31 295179 | #24 363433 |
-| 22 | ::{ flag=ES }:: Omeguii | 1.11 | 257640 | #19 350051 | #12 472153 | #26 223547 | #22 159285 | #7 448413 | #34 67858 | #14 267822 | #24 179819 | #39 189774 | #33 217674 |
-| 23 | ::{ flag=ES }:: EZHD | 0.67 | 275646 | #25 311241 | #21 394939 | #25 224113 | #32 111058 | #30 236748 | #48 18504 | #15 266046 | #28 169758 | #33 278095 | #6 745957 |
-| 24 | ::{ flag=ES }:: Murkano | 0.67 | 273353 | #28 289857 | #11 487640 | #20 266077 | #30 124053 | #41 151347 | #36 39417 | #27 202255 | #27 174914 | #8 648484 | #25 349482 |
-| 25 | ::{ flag=ES }:: _jeff | 0.64 | 262084 | #23 326744 | #25 365838 | #28 215824 | #35 100864 | #14 337784 | #18 216300 | #29 180428 | #23 184892 | #30 295505 | #20 396665 |
-| 26 | ::{ flag=ES }:: marc559_ | 0.59 | 258283 | #36 210374 | #24 375120 | #34 161453 | #12 268460 | #24 270968 | #8 309472 | #37 120509 | #33 124816 | #25 329558 | #17 412096 |
-| 27 | ::{ flag=ES }:: PEAC 3 | 0.45 | 265619 | #17 361659 | #16 447948 | #31 200423 | #33 110867 | #43 133737 | #52 14299 | #23 237716 | #15 289420 | #20 448894 | #18 411227 |
-| 28 | ::{ flag=ES }:: Fieera | 0.29 | 233445 | #27 303774 | #37 147213 | #16 282858 | #14 243314 | #25 269156 | #20 214893 | #22 245053 | #38 93611 | #24 345579 | #36 189002 |
-| 29 | ::{ flag=ES }:: PEAC 2 | 0.18 | 246060 | #21 332190 | #29 285458 | #27 218145 | #19 184229 | #32 223462 | #26 128647 | #20 246730 | #26 176641 | #36 256019 | #19 409078 |
-| 30 | ::{ flag=ES }:: - Izayoi - | 0.17 | 259264 | #30 273610 | #27 319873 | #23 245085 | #41 77656 | #19 296777 | #43 25309 | #17 263113 | #22 191339 | #22 358023 | #13 541850 |
-| 31 | ::{ flag=ES }:: atisuma | -0.13 | 262338 | #40 170740 | #6 576798 | #18 279356 | #43 74002 | #39 157355 | #44 25228 | #33 155502 | #18 236559 | #21 400182 | #11 547659 |
-| 32 | ::{ flag=ES }:: Alvaroping1 | -1.54 | 213642 | #13 431887 | #40 132336 | #46 98707 | #16 199982 | #34 220683 | #30 85180 | #16 263718 | #31 133968 | #23 351771 | #32 218189 |
-| 33 | ::{ flag=ES }:: aleotcapitalist | -3.26 | 196494 | #24 323819 | #18 413903 | #36 142339 | #42 76929 | #33 223294 | #33 70197 | #35 144618 | #46 55699 | #28 309188 | #35 204956 |
-| 34 | ::{ flag=ES }:: EDn | -3.75 | 174926 | #35 214782 | #44 70629 | #43 106305 | #31 113416 | #31 235169 | #16 223378 | #30 171095 | #37 96303 | #27 311891 | #34 206293 |
-| 35 | ::{ flag=ES }:: Zaik0 | -3.84 | 163419 | #34 233570 | #36 160284 | #29 210137 | #26 134991 | #16 311886 | #39 31313 | #25 204213 | #42 60069 | #38 203622 | #43 84109 |
-| 36 | ::{ flag=ES }:: comandocYT | -4.06 | 158422 | #45 140451 | #30 240934 | #19 268162 | #28 131319 | #38 183336 | #10 278638 | #46 63662 | #44 57382 | #46 96996 | #40 123341 |
-| 37 | ::{ flag=ES }:: LaBestiaPrecoz | -4.21 | 149728 | #46 134652 | #46 54417 | #32 193508 | #27 132481 | #35 189262 | #7 345062 | #36 141684 | #39 90424 | #44 118975 | #42 96817 |
-| 38 | ::{ flag=ES }:: Sakuya- | -4.67 | 148290 | #38 186490 | #45 66554 | #35 152521 | #17 195393 | #37 184420 | #23 174290 | #42 84045 | #32 126904 | #40 186214 | #39 126069 |
-| 39 | ::{ flag=ES }:: Guillr | -4.92 | 158998 | #31 255379 | #31 236733 | #40 122153 | #48 60871 | #40 155626 | #53 12040 | #31 163528 | #29 155340 | #35 257061 | #38 171244 |
-| 40 | ::{ flag=ES }:: Edrran | -5.96 | 142443 | #37 195349 | #43 95754 | #41 111064 | #50 57034 | #46 127012 | #46 23383 | #34 150433 | #34 121964 | #26 316589 | #31 225849 |
-| 41 | ::{ flag=ES }:: MeiFTW | -6.01 | 139004 | #32 246558 | #34 203585 | #50 72018 | #36 99362 | #44 133145 | #49 18458 | #38 110329 | #30 146812 | #41 171240 | #37 188538 |
-| 42 | ::{ flag=ES }:: Pinwi_ | -6.98 | 103117 | #51 77733 | #52 30854 | #39 125938 | #34 110446 | #29 240544 | #17 218313 | #44 73749 | #41 68282 | #53 33548 | #48 51767 |
-| 43 | ::{ flag=ES }:: Tenjun | -7.03 | 129001 | #44 144765 | #9 547732 | #45 101719 | #52 53780 | #50 87893 | #55 11732 | #48 53194 | #53 29572 | #42 157124 | #41 102495 |
-| 44 | ::{ flag=ES }:: n0ught | -7.29 | 113223 | #41 162723 | #39 142964 | #37 139327 | #46 66226 | #48 96346 | #42 27234 | #41 86173 | #40 75544 | #37 255570 | #44 80122 |
-| 45 | ::{ flag=ES }:: Agatem | -7.65 | 101612 | #42 154501 | #42 99394 | #44 103004 | #44 73537 | #26 266892 | #45 23403 | #43 75538 | #45 56401 | #45 103582 | #46 59869 |
-| 46 | ::{ flag=ES }:: FestivalFour179 | -7.67 | 95527 | #39 185040 | #54 25937 | #48 89982 | #38 89190 | #23 273706 | #24 162256 | #49 49160 | #54 27791 | #54 27667 | #55 24544 |
-| 47 | ::{ flag=ES }:: laGmaN | -7.94 | 91547 | #43 151736 | #51 30924 | #38 134106 | #37 98407 | #51 85099 | #41 29134 | #40 90423 | #36 110507 | #43 140862 | #49 44272 |
-| 48 | ::{ flag=ES }:: leo24012007 | -8.02 | 120071 | #50 92360 | #28 306157 | #53 46365 | #55 31318 | #55 43369 | #54 11845 | #51 43523 | #43 58132 | #29 305134 | #29 262509 |
-| 49 | ::{ flag=ES }:: Krla | -8.24 | 90012 | #53 69478 | #41 102746 | #47 90745 | #47 63866 | #42 150646 | #25 149024 | #45 64076 | #47 54702 | #47 77598 | #45 77235 |
-| 50 | ::{ flag=ES }:: darkmichigun | -9.75 | 60954 | #48 104565 | #53 26994 | #49 87815 | #40 82287 | #45 127940 | #57 31 | #47 59031 | #50 36562 | #52 43129 | #51 41183 |
-| 51 | ::{ flag=ES }:: supley | -9.83 | 60312 | #52 75092 | #50 40539 | #42 110102 | #45 66310 | #52 77752 | #40 29593 | #50 44344 | #48 49487 | #48 68019 | #50 41886 |
-| 52 | ::{ flag=ES }:: Feren | -10.55 | 51562 | #47 121588 | #47 53776 | #52 57539 | #54 41706 | #54 47047 | #47 18613 | #52 40988 | #49 40433 | #50 58061 | #53 35874 |
-| 53 | ::{ flag=ES }:: 500skills | -10.66 | 50002 | #55 40493 | #49 43020 | #54 35354 | #51 54526 | #49 94658 | #35 50074 | #55 30932 | #52 30633 | #49 64351 | #47 55981 |
-| 54 | ::{ flag=ES }:: sandro114 | -10.93 | 41043 | #56 34053 | #55 25110 | #51 58856 | #49 59997 | #53 72510 | #37 39364 | #54 34189 | #51 30655 | #55 25476 | #54 30222 |
-| 55 | ::{ flag=ES }:: - ryochi - | -11.07 | 42914 | #49 99942 | #48 49432 | #56 25735 | #53 42192 | #47 96576 | #51 18222 | #53 35178 | #57 6999 | #57 16789 | #52 38076 |
-| 56 | ::{ flag=ES }:: Seto | -12 | 27029 | #54 43946 | #56 17140 | #55 30848 | #57 15884 | #56 28213 | #56 10518 | #56 22161 | #55 24564 | #51 53596 | #56 23417 |
-| 57 | ::{ flag=ES }:: Erikillo | -12.38 | 18079 | #57 18489 | #57 7710 | #57 21617 | #56 28278 | #57 20356 | #50 18431 | #57 16565 | #56 20460 | #56 17240 | #57 11648 |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/1).
+
+| Rank | Player | Z-Sum | Avg. Score |
+| :-- | :-- | :-- | :-- |
+| #1 | ::{ flag=ES }:: ESCRUPULILLO | 24.3 | 682275 |
+| #2 | ::{ flag=ES }:: A L E P H | 23.39 | 670227 |
+| #3 | ::{ flag=ES }:: towny1 | 17.05 | 575870 |
+| #4 | ::{ flag=ES }:: [dekori] | 14.89 | 564090 |
+| #5 | ::{ flag=ES }:: marbl | 12.4 | 467860 |
+| #6 | ::{ flag=ES }:: JoanaBob | 12.29 | 483914 |
+| #7 | ::{ flag=ES }:: Dario | 10.72 | 430741 |
+| #8 | ::{ flag=ES }:: Palodex | 10.01 | 405935 |
+| #9 | ::{ flag=ES }:: Jairofrancaso | 7.9 | 388231 |
+| #10 | ::{ flag=ES }:: aguacateh_ | 6.65 | 382705 |
+| #11 | ::{ flag=ES }:: AARONGAMER1 | 6.49 | 374137 |
+| #12 | ::{ flag=ES }:: MusicDropZ | 6.3 | 355886 |
+| #13 | ::{ flag=ES }:: NHarmonia | 5.59 | 331844 |
+| #14 | ::{ flag=ES }:: P_F_C_PRO | 5.23 | 325027 |
+| #15 | ::{ flag=ES }:: PEAC 4 | 4.5 | 337533 |
+| #16 | ::{ flag=ES }:: Derin | 4.33 | 338164 |
+| #17 | ::{ flag=ES }:: Scaryz | 4.3 | 298435 |
+| #18 | ::{ flag=ES }:: Kalal331 | 3.58 | 336446 |
+| #19 | ::{ flag=ES }:: PEAC 10 | 2.33 | 284244 |
+| #20 | ::{ flag=ES }:: Alexis_xX | 2.06 | 285746 |
+| #21 | ::{ flag=ES }:: Widelux13 | 1.24 | 266672 |
+| #22 | ::{ flag=ES }:: Omeguii | 1.11 | 257640 |
+| #23 | ::{ flag=ES }:: EZHD | 0.67 | 275646 |
+| #24 | ::{ flag=ES }:: Murkano | 0.67 | 273353 |
+| #25 | ::{ flag=ES }:: _jeff | 0.64 | 262084 |
+| #26 | ::{ flag=ES }:: marc559_ | 0.59 | 258283 |
+| #27 | ::{ flag=ES }:: PEAC 3 | 0.45 | 265619 |
+| #28 | ::{ flag=ES }:: Fieera | 0.29 | 233445 |
+| #29 | ::{ flag=ES }:: PEAC 2 | 0.18 | 246060 |
+| #30 | ::{ flag=ES }:: - Izayoi - | 0.17 | 259264 |
+| #31 | ::{ flag=ES }:: atisuma | -0.13 | 262338 |
+| #32 | ::{ flag=ES }:: Alvaroping1 | -1.54 | 213642 |
+| #33 | ::{ flag=ES }:: aleotcapitalist | -3.26 | 196494 |
+| #34 | ::{ flag=ES }:: EDn | -3.75 | 174926 |
+| #35 | ::{ flag=ES }:: Zaik0 | -3.84 | 163419 |
+| #36 | ::{ flag=ES }:: comandocYT | -4.06 | 158422 |
+| #37 | ::{ flag=ES }:: LaBestiaPrecoz | -4.21 | 149728 |
+| #38 | ::{ flag=ES }:: Sakuya- | -4.67 | 148290 |
+| #39 | ::{ flag=ES }:: Guillr | -4.92 | 158998 |
+| #40 | ::{ flag=ES }:: Edrran | -5.96 | 142443 |
+| #41 | ::{ flag=ES }:: MeiFTW | -6.01 | 139004 |
+| #42 | ::{ flag=ES }:: Pinwi_ | -6.98 | 103117 |
+| #43 | ::{ flag=ES }:: Tenjun | -7.03 | 129001 |
+| #44 | ::{ flag=ES }:: n0ught | -7.29 | 113223 |
+| #45 | ::{ flag=ES }:: Agatem | -7.65 | 101612 |
+| #46 | ::{ flag=ES }:: FestivalFour179 | -7.67 | 95527 |
+| #47 | ::{ flag=ES }:: laGmaN | -7.94 | 91547 |
+| #48 | ::{ flag=ES }:: leo24012007 | -8.02 | 120071 |
+| #49 | ::{ flag=ES }:: Krla | -8.24 | 90012 |
+| #50 | ::{ flag=ES }:: darkmichigun | -9.75 | 60954 |
+| #51 | ::{ flag=ES }:: supley | -9.83 | 60312 |
+| #52 | ::{ flag=ES }:: Feren | -10.55 | 51562 |
+| #53 | ::{ flag=ES }:: 500skills | -10.66 | 50002 |
+| #54 | ::{ flag=ES }:: sandro114 | -10.93 | 41043 |
+| #55 | ::{ flag=ES }:: - ryochi - | -11.07 | 42914 |
+| #56 | ::{ flag=ES }:: Seto | -12 | 27029 |
+| #57 | ::{ flag=ES }:: Erikillo | -12.38 | 18079 |
 
 ### Group Stage
 
-- 8 Round-Robin format Groups.
-- Each group has 4 players.
-- All matches are Bo9.
-- The top 2 players of each group will move on to the Play-Off.
-- For more information, look below under the Groups section.
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/4).
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Friday, 6 March | 16:00 | **aleotcapitalist** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: MeiFTW | [#C2](https://osu.ppy.sh/community/matches/120665907) | Furina | Furina [vod](https://www.youtube.com/watch?v=H8NX8BnYFhY) | Furina, junamat |
-| Friday, 6 March | 17:00 | **Alvaroping1** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Guillr | [#F6](https://osu.ppy.sh/community/matches/120666265) | Furina | Furina [vod](https://www.youtube.com/watch?v=QV-d4uuVR7U) | A L E P H, marbl |
-| Friday, 6 March | 18:00 | **Scaryz** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: _jeff | [#C1](https://osu.ppy.sh/community/matches/120666813) | junamat | Furina [vod](https://www.youtube.com/watch?v=UKdiYM7U2ms) | Furina, junamat |
-| Friday, 6 March | 19:00 | **Zodd** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: PEAC 3 | [#G1](https://osu.ppy.sh/community/matches/120667030) | Furina | Furina *no vod* | Furina, junamat, Scaryz |
-| Saturday, 7 March | 17:00 | Freire ::{ flag=ES }:: | 3 | 5 | ::{ flag=ES }:: **Alvaroping1** | [#F1](https://osu.ppy.sh/community/matches/120674157) | Furina | Furina [vod](https://www.youtube.com/watch?v=NUahjGJQtJM) | Furina, Hide in room |
-| Saturday, 7 March | 17:00 | **marc559_** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: n0ught | [#E4](https://osu.ppy.sh/community/matches/120674157) | jdfs | no stream | - |
-| Saturday, 7 March | 18:00 | Guillr ::{ flag=ES }:: | 3 | 5 | ::{ flag=ES }:: **laGmaN** | [#F2](https://osu.ppy.sh/community/matches/120674629) | jdfs | no stream | - |
-| Saturday, 7 March | 18:00 | Kalal331 ::{ flag=ES }:: | 4 | 5 | ::{ flag=ES }:: **Fieera** | [#A1](https://osu.ppy.sh/community/matches/120674652) | Furina | Furina [vod](https://www.youtube.com/watch?v=Fooq7BAlde0) | Hide in room, Towny1 |
-| Saturday, 7 March | 19:00 | **marc559_** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: EDn | [#E6](https://osu.ppy.sh/community/matches/120675259) | Furina | Furina *no vod* | Scaryz, Towny1 |
-| Saturday, 7 March | 19:00 | **Murkano** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Agatem | [#D5](https://osu.ppy.sh/community/matches/120675186) | jdfs | no stream | - |
-| Saturday, 7 March | 20:00 | **PEAC 3** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: Pinwi_ | [#G4](https://osu.ppy.sh/community/matches/120675598) | jdfs | Furina [vod](https://www.youtube.com/watch?v=JMnJXn7neFU) | Hide in room, Towny1 |
-| Saturday, 7 March | 21:00 | **Widelux13** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: FestivalFour179 | [#B5](https://osu.ppy.sh/community/matches/120676143) | Furina | Furina [vod](https://www.youtube.com/watch?v=DLsYukcMyUM) | Furina, Hide in room |
-| Sunday, 8 March | 16:00 | **Zaik0** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Pinwi_ | [#G2](https://osu.ppy.sh/community/matches/120682219) | Furina | Furina *no vod* | Scaryz, Jurumas |
-| Sunday, 8 March | 17:00 | **Edrran** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: leo24012007 | [#H2](https://osu.ppy.sh/community/matches/120682713) | Furina | jdfs [vod](https://www.youtube.com/watch?v=8saKyf4glYk) | Scaryz, Jurumas |
-| Sunday, 8 March | 18:00 | **Freire** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: laGmaN | #F5 | *win by default* | no stream | - |
-| Sunday, 8 March | 18:00 | **Kalal331** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Tenjun | [#A5](https://osu.ppy.sh/community/matches/120683156) | Furina | jdfs [vod](https://www.youtube.com/watch?v=oKMkWKUTfH8) | Scaryz, EDn |
-| Sunday, 8 March | 19:00 | **Fieera** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: comandocYT | [#A6](https://osu.ppy.sh/community/matches/120683552) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=Qk8Yw__sktk) | SansREPZ, Kalal331, Hide in room |
-| Sunday, 8 March | 19:00 | **Zodd** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: Zaik0 | [#G3](https://osu.ppy.sh/community/matches/120683599) | junamat | no stream | - |
-| Sunday, 8 March | 19:00 | **Alexis_xX** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: n0ught | [#E5](https://osu.ppy.sh/community/matches/120683623) | Furina | no stream | - |
-| Sunday, 8 March | 20:00 | **_jeff** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: MeiFTW | [#C4](https://osu.ppy.sh/community/matches/120684027) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=UdbYht6nqyY) | SansREPZ, Kalal331, Hide in room |
-| Sunday, 8 March | 21:00 | **- Izayoi -** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: FestivalFour179 | [#B4](https://osu.ppy.sh/community/matches/120684613) | Furina | no stream | - |
-| Sunday, 8 March | 21:00 | **Omeguii** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: PEAC 2 | [#H1](https://osu.ppy.sh/community/matches/120684536) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=slDa8GHXhBs) | Dario, junamat |
-| Sunday, 8 March | 22:00 | **atisuma** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: LaBestiaPrecoz | [#D6](https://osu.ppy.sh/community/matches/120684984) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=e2biYjmRGac) | Furina, Kalal331, Hide in room |
-| Thursday, 12 March | 19:00 | **Freire** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Guillr | [#F3](https://osu.ppy.sh/community/matches/120708772) | jdfs | no stream | - |
-| Friday, 13 March | 17:30 | **Scaryz** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: MeiFTW | #C5 | *win by default* | no stream | - |
-| Friday, 13 March | 18:00 | **- Izayoi -** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Sakuya- | [#B6](https://osu.ppy.sh/community/matches/120714430) | Furina | Furina [vod](https://www.youtube.com/watch?v=lFTv-j0RPxU) | Scaryz, EDn |
-| Friday, 13 March | 19:00 | **Omeguii** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: leo24012007 | [#H5](https://osu.ppy.sh/community/matches/120714806) | junamat | no stream | - |
-| Friday, 13 March | 19:00 | **Alexis_xX** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: EDn | [#E3](https://osu.ppy.sh/community/matches/120714829) | Furina | jdfs [vod](https://www.youtube.com/watch?v=3L4zXlnDjLE) | Scaryz, Towny1 |
-| Friday, 13 March | 21:00 | Omeguii ::{ flag=ES }:: | 4 | 5 | ::{ flag=ES }:: **Edrran** | [#H3](https://osu.ppy.sh/community/matches/120715709) | junamat | jdfs [vod](https://www.youtube.com/watch?v=fxt_ZqqsFok) | jdfs, Towny1 |
-| Friday, 13 March | 22:00 | **Kalal331** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: comandocYT | #A3 | *win by default* | no stream | - |
-| Friday, 13 March | 23:00 | **Murkano** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: atisuma | [#D1](https://osu.ppy.sh/community/matches/120716557) | Furina | no stream | - |
-| Saturday, 14 March | 16:00 | **Alexis_xX** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: marc559_ | [#E1](https://osu.ppy.sh/community/matches/120721630) | Furina | Furina [vod](https://www.youtube.com/watch?v=h5baefmPwC0) | Towny1, Scaryz |
-| Saturday, 14 March | 17:00 | **Zodd** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Pinwi_ | [#G5](https://osu.ppy.sh/community/matches/120722011) | junamat | jdfs *no vod* | - |
-| Saturday, 14 March | 18:00 | **Fieera** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Tenjun | [#A4](https://osu.ppy.sh/community/matches/120722477) | junamat | no stream | - |
-| Saturday, 14 March | 19:00 | **Sakuya-** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: FestivalFour179 | [#B2](https://osu.ppy.sh/community/matches/120722993) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=3XLWdYB37x8) | jdfs, Scaryz |
-| Saturday, 14 March | 19:00 | **Alvaroping1** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: laGmaN | [#F4](https://osu.ppy.sh/community/matches/120722996) | Furina | no stream | - |
-| Saturday, 14 March | 20:00 | PEAC 2 ::{ flag=ES }:: | 3 | 5 | ::{ flag=ES }:: **Edrran** | [#H6](https://osu.ppy.sh/community/matches/120723492) | jdfs | jdfs *no vod* | jdfs, Scaryz |
-| Saturday, 14 March | 21:00 | EDn ::{ flag=ES }:: | 3 | 5 | ::{ flag=ES }:: **n0ught** | [#E2](https://osu.ppy.sh/community/matches/120723951) | Furina | Furina [vod](https://www.youtube.com/watch?v=WZrTz4lWl5Y) | Furina, Scaryz, Hide in room |
-| Saturday, 14 March | 22:00 | **PEAC 2** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: leo24012007 | #H4 | *win by default* | no stream | - |
-| Saturday, 14 March | 23:00 | comandocYT ::{ flag=ES }:: | 0 | 5 | ::{ flag=ES }:: **Tenjun** | #A2 | *win by default* | no stream | - |
-| Sunday, 15 March | 17:00 | **LaBestiaPrecoz** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Agatem | [#D2](https://osu.ppy.sh/community/matches/120730337) | Furina | no stream | - |
-| Sunday, 15 March | 18:00 | **_jeff** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: aleotcapitalist | [#C6](https://osu.ppy.sh/community/matches/120730741) | junamat | jdfs [vod](https://www.youtube.com/watch?v=ZJeG9xpzhwU) | Scaryz, jdfs |
-| Sunday, 15 March | 19:00 | **atisuma** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Agatem | [#D4](https://osu.ppy.sh/community/matches/120731278) | Furina | no stream | - |
-| Sunday, 15 March | 20:00 | **Widelux13** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Sakuya- | [#B3](https://osu.ppy.sh/community/matches/120731661) | junamat | Hide in room *no vod* | Scaryz, Hide in room |
-| Sunday, 15 March | 20:00 | PEAC 3 ::{ flag=ES }:: | 0 | 5 | ::{ flag=ES }:: **Zaik0** | #G6 | *win by default* | no stream | - |
-| Sunday, 15 March | 21:00 | **Murkano** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: LaBestiaPrecoz | #D3 | *win by default* | no stream | - |
-| Sunday, 15 March | 23:00 | **Widelux13** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: - Izayoi - | [#B1](https://osu.ppy.sh/community/matches/120732641) | Furina | Hide in room *no vod* | Furina, Hide in room |
-| Monday, 16 March | 19:00 | **Scaryz** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: aleotcapitalist | [#C3](https://osu.ppy.sh/community/matches/120737781) | junamat | no stream | - |
+Friday, 6 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| C2 | **aleotcapitalist** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: MeiFTW | [#1](https://osu.ppy.sh/community/matches/120665907) | [#1](https://www.youtube.com/watch?v=H8NX8BnYFhY) | Furina | Furina | Furina, junamat |
+| F6 | **Alvaroping1** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: Guillr | [#1](https://osu.ppy.sh/community/matches/120666265) | [#1](https://www.youtube.com/watch?v=QV-d4uuVR7U) | Furina | Furina | A L E P H, marbl |
+| C1 | **Scaryz** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: _jeff | [#1](https://osu.ppy.sh/community/matches/120666813) | [#1](https://www.youtube.com/watch?v=UKdiYM7U2ms) | junamat | Furina | Furina, junamat |
+| G1 | **Zodd** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: PEAC 3 | [#1](https://osu.ppy.sh/community/matches/120667030) | - | Furina | Furina | Furina, junamat, Scaryz |
+
+Saturday, 7 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| F1 | Freire ::{ flag=ES }:: | 3 | **5** | ::{ flag=ES }:: **Alvaroping1** | [#1](https://osu.ppy.sh/community/matches/120674157) | [#1](https://www.youtube.com/watch?v=NUahjGJQtJM) | Furina | Furina | Furina, Hide in room |
+| E4 | **marc559_** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: n0ught | [#1](https://osu.ppy.sh/community/matches/120674157) | - | jdfs | - | - |
+| F2 | Guillr ::{ flag=ES }:: | 3 | **5** | ::{ flag=ES }:: **laGmaN** | [#1](https://osu.ppy.sh/community/matches/120674629) | - | jdfs | - | - |
+| A1 | Kalal331 ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **Fieera** | [#1](https://osu.ppy.sh/community/matches/120674652) | [#1](https://www.youtube.com/watch?v=Fooq7BAlde0) | Furina | Furina | Hide in room, Towny1 |
+| E6 | **marc559_** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: EDn | [#1](https://osu.ppy.sh/community/matches/120675259) | - | Furina | Furina | Scaryz, Towny1 |
+| D5 | **Murkano** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: Agatem | [#1](https://osu.ppy.sh/community/matches/120675186) | - | jdfs | - | - |
+| G4 | **PEAC 3** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: Pinwi_ | [#1](https://osu.ppy.sh/community/matches/120675598) | [#1](https://www.youtube.com/watch?v=JMnJXn7neFU) | jdfs | Furina | Hide in room, Towny1 |
+| B5 | **Widelux13** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: FestivalFour179 | [#1](https://osu.ppy.sh/community/matches/120676143) | [#1](https://www.youtube.com/watch?v=DLsYukcMyUM) | Furina | Furina | Furina, Hide in room |
+
+Sunday, 8 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| G2 | **Zaik0** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: Pinwi_ | [#1](https://osu.ppy.sh/community/matches/120682219) | - | Furina | Furina | Scaryz, Jurumas |
+| H2 | **Edrran** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: leo24012007 | [#1](https://osu.ppy.sh/community/matches/120682713) | [#1](https://www.youtube.com/watch?v=8saKyf4glYk) | Furina | jdfs | Scaryz, Jurumas |
+| F5 | **Freire** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: laGmaN | WBD | - | - | - | - |
+| A5 | **Kalal331** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: Tenjun | [#1](https://osu.ppy.sh/community/matches/120683156) | [#1](https://www.youtube.com/watch?v=oKMkWKUTfH8) | Furina | jdfs | Scaryz, EDn |
+| A6 | 19:00 | **Fieera** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: comandocYT | [#1](https://osu.ppy.sh/community/matches/120683552) | [#1](https://www.youtube.com/watch?v=Qk8Yw__sktk) | jdfs | jdfs | SansREPZ, Kalal331, Hide in room |
+| G3 | 19:00 | **Zodd** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: Zaik0 | [#1](https://osu.ppy.sh/community/matches/120683599) | - | junamat | - | - |
+| E5 | **Alexis_xX** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: n0ught | [#1](https://osu.ppy.sh/community/matches/120683623) | - | Furina | - | - |
+| C4 | **_jeff** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: MeiFTW | [#1](https://osu.ppy.sh/community/matches/120684027) | [#1](https://www.youtube.com/watch?v=UdbYht6nqyY) | jdfs | jdfs | SansREPZ, Kalal331, Hide in room |
+| B4 | **- Izayoi -** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: FestivalFour179 | [#1](https://osu.ppy.sh/community/matches/120684613) | - | Furina | - | - |
+| H1 | **Omeguii** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: PEAC 2 | [#1](https://osu.ppy.sh/community/matches/120684536) | [#1](https://www.youtube.com/watch?v=slDa8GHXhBs) | jdfs | jdfs | Dario, junamat |
+| D6 | **atisuma** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: LaBestiaPrecoz | [#1](https://osu.ppy.sh/community/matches/120684984) | [#1](https://www.youtube.com/watch?v=e2biYjmRGac) | jdfs | jdfs | Furina, Kalal331, Hide in room |
+
+Thursday, 12 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| F3 | **Freire** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: Guillr | [#1](https://osu.ppy.sh/community/matches/120708772) | - | jdfs | - | - |
+
+Friday, 13 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| C5 | **Scaryz** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: MeiFTW | WBD | - | - | - | - |
+| B6 | **- Izayoi -** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: Sakuya- | [#1](https://osu.ppy.sh/community/matches/120714430) | [#1](https://www.youtube.com/watch?v=lFTv-j0RPxU) | Furina | Furina | Scaryz, EDn |
+| H5 | **Omeguii** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: leo24012007 | [#1](https://osu.ppy.sh/community/matches/120714806) | - | junamat | - | - |
+| E3 | **Alexis_xX** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: EDn | [#1](https://osu.ppy.sh/community/matches/120714829) | [#1](https://www.youtube.com/watch?v=3L4zXlnDjLE) | Furina | jdfs | Scaryz, Towny1 |
+| H3 | Omeguii ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **Edrran** | [#1](https://osu.ppy.sh/community/matches/120715709) | [#1](https://www.youtube.com/watch?v=fxt_ZqqsFok) | junamat | jdfs | jdfs, Towny1 |
+| A3 | **Kalal331** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: comandocYT | WBD | - | - | - | - |
+| D1 | **Murkano** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: atisuma | [#1](https://osu.ppy.sh/community/matches/120716557) | - | Furina | - | - |
+
+Saturday, 14 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| E1 | 16:00 | **Alexis_xX** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: marc559_ | [#1](https://osu.ppy.sh/community/matches/120721630) | [#1](https://www.youtube.com/watch?v=h5baefmPwC0) | Furina | Furina | Towny1, Scaryz |
+| G5 | 17:00 | **Zodd** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: Pinwi_ | [#1](https://osu.ppy.sh/community/matches/120722011) | - | junamat | jdfs | - |
+| A4 | 18:00 | **Fieera** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: Tenjun | [#1](https://osu.ppy.sh/community/matches/120722477) | - | junamat | - | - |
+| B2 | 19:00 | **Sakuya-** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: FestivalFour179 | [#1](https://osu.ppy.sh/community/matches/120722993) | [#1](https://www.youtube.com/watch?v=3XLWdYB37x8) | jdfs | jdfs | jdfs, Scaryz |
+| F4 | 19:00 | **Alvaroping1** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: laGmaN | [#1](https://osu.ppy.sh/community/matches/120722996) | - | Furina | - | - |
+| H6 | 20:00 | PEAC 2 ::{ flag=ES }:: | 3 | **5** | ::{ flag=ES }:: **Edrran** | [#1](https://osu.ppy.sh/community/matches/120723492) | - | jdfs | jdfs | jdfs, Scaryz |
+| E2 | 21:00 | EDn ::{ flag=ES }:: | 3 | **5** | ::{ flag=ES }:: **n0ught** | [#1](https://osu.ppy.sh/community/matches/120723951) | [#1](https://www.youtube.com/watch?v=WZrTz4lWl5Y) | Furina | Furina | Furina, Scaryz, Hide in room |
+| H4 | 22:00 | **PEAC 2** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: leo24012007 | WBD | - | - | - | - |
+| A2 | 23:00 | comandocYT ::{ flag=ES }:: | 0 | **5** | ::{ flag=ES }:: **Tenjun** | WBD | - | - | - | - |
+
+Sunday, 15 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| D2 | **LaBestiaPrecoz** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: Agatem | [#1](https://osu.ppy.sh/community/matches/120730337) | - | Furina | - | - |
+| C6 | **_jeff** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: aleotcapitalist | [#1](https://osu.ppy.sh/community/matches/120730741) | [#1](https://www.youtube.com/watch?v=ZJeG9xpzhwU) | junamat | jdfs | Scaryz, jdfs |
+| D4 | **atisuma** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: Agatem | [#1](https://osu.ppy.sh/community/matches/120731278) | - | Furina | - | - |
+| B3 | **Widelux13** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: Sakuya- | [#1](https://osu.ppy.sh/community/matches/120731661) | - | junamat | Hide in room | Scaryz, Hide in room |
+| G6 | PEAC 3 ::{ flag=ES }:: | 0 | **5** | ::{ flag=ES }:: **Zaik0** | WBD | - | - | - | - |
+| D3 | **Murkano** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: LaBestiaPrecoz | WBD | - | - | - | - |
+| B1 | **Widelux13** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: - Izayoi - | [#1](https://osu.ppy.sh/community/matches/120732641) | - | Furina | Hide in room | Furina, Hide in room |
+
+Monday, 16 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| C3 | **Scaryz** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: aleotcapitalist | [#1](https://osu.ppy.sh/community/matches/120737781) | - | junamat | - | - |
 
 ### Round of 32
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Friday, 20 March | 17:00 | **[dekori]** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: - Izayoi - | [#5](https://osu.ppy.sh/community/matches/120761768) | Furina | Furina *no vod* | - |
-| Friday, 20 March | 19:00 | **Jairofrancaso** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: Alvaroping1 | [#4](https://osu.ppy.sh/community/matches/120762593) | Furina | Furina *no vod* | - |
-| Friday, 20 March | 20:00 | **marbl** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Kalal331 | [#7](https://osu.ppy.sh/community/matches/120762977) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=bFj3Edx1uOI) | - |
-| Friday, 20 March | 20:00 | PEAC 4 ::{ flag=ES }:: | 4 | 5 | ::{ flag=ES }:: **Zodd** | [#10](https://osu.ppy.sh/community/matches/120762966) | Furina | no stream | - |
-| Friday, 20 March | 21:00 | MusicDropZ ::{ flag=ES }:: | 4 | 5 | ::{ flag=ES }:: **Widelux13** | [#8](https://osu.ppy.sh/community/matches/120763388) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=I0JRzeiVdMQ) | jdfs, towny1, junamat |
-| Saturday, 21 March | 16:00 | **aguacateh_** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: Edrran | [#12](https://osu.ppy.sh/community/matches/120769177) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=SU_5oKj1nUk) | - |
-| Saturday, 21 March | 16:00 | **Palodex** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: _jeff | [#3](https://osu.ppy.sh/community/matches/120769176) | Furina | no stream | - |
-| Saturday, 21 March | 17:00 | **JoanaBob** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: marc559_ | [#15](https://osu.ppy.sh/community/matches/120769604) | jdfs | jdfs *no vod* | jdfs, towny1 |
-| Saturday, 21 March | 17:00 | **P_F_C_PRO** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Alexis_xX | [#14](https://osu.ppy.sh/community/matches/120769602) | junamat | no stream | - |
-| Saturday, 21 March | 19:00 | **Dario** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Zaik0 | [#11](https://osu.ppy.sh/community/matches/120770461) | Furina | no stream | - |
-| Saturday, 21 March | 21:00 | AARONGAMER1 ::{ flag=ES }:: | 4 | 5 | ::{ flag=ES }:: **Murkano** | [#16](https://osu.ppy.sh/community/matches/120771454) | Furina | no stream | - |
-| Sunday, 22 March | 18:30 | Derin ::{ flag=ES }:: | 1 | 5 | ::{ flag=ES }:: **Scaryz** | [#2](https://osu.ppy.sh/community/matches/120778410) | Furina | jdfs [vod](https://www.youtube.com/watch?v=sJf8osAMlrg) | jdfs, Hide in room |
-| Sunday, 22 March | 19:00 | **ESCRUPULILLO** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Freire | [#1](https://osu.ppy.sh/community/matches/120778677) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=mTgyLrSdVZs) | jdfs, Hide in room |
-| Sunday, 22 March | 19:00 | **A L E P H** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: PEAC 2 | [#9](https://osu.ppy.sh/community/matches/120778685) | junamat | no stream | - |
-| Monday, 23 March | 21:00 | **towny1** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: atisuma | [#13](https://osu.ppy.sh/community/matches/120786128) | jdfs | no stream | - |
-| Tuesday, 24 March | 22:00 | **NHarmonia** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Fieera | [#6](https://osu.ppy.sh/community/matches/120792360) | Furina | no stream | - |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/5).
+
+Friday, 20 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 05 | **[dekori]** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: - Izayoi - | [#1](https://osu.ppy.sh/community/matches/120761768) | - | Furina | Furina | - |
+| 04 | **Jairofrancaso** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: Alvaroping1 | [#1](https://osu.ppy.sh/community/matches/120762593) | - | Furina | Furina | - |
+| 07 | **marbl** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: Kalal331 | [#1](https://osu.ppy.sh/community/matches/120762977) | [#1](https://www.youtube.com/watch?v=bFj3Edx1uOI) | jdfs | jdfs | - |
+| 10 | PEAC 4 ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **Zodd** | [#1](https://osu.ppy.sh/community/matches/120762966) | - | Furina | - | - |
+| 08 | MusicDropZ ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **Widelux13** | [#1](https://osu.ppy.sh/community/matches/120763388) | [#1](https://www.youtube.com/watch?v=I0JRzeiVdMQ) | jdfs | jdfs | jdfs, towny1, junamat |
+
+Saturday, 21 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 12 | **aguacateh_** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: Edrran | [#1](https://osu.ppy.sh/community/matches/120769177) | [#1](https://www.youtube.com/watch?v=SU_5oKj1nUk) | jdfs | jdfs | - |
+| 03 | **Palodex** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: _jeff | [#1](https://osu.ppy.sh/community/matches/120769176) | - | Furina | - | - |
+| 15 | **JoanaBob** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: marc559_ | [#1](https://osu.ppy.sh/community/matches/120769604) | - | jdfs | jdfs | jdfs, towny1 |
+| 14 | **P_F_C_PRO** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: Alexis_xX | [#1](https://osu.ppy.sh/community/matches/120769602) | - | junamat | - | - |
+| 11 | **Dario** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: Zaik0 | [#1](https://osu.ppy.sh/community/matches/120770461) | - | Furina | - | - |
+| 16 | AARONGAMER1 ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **Murkano** | [#1](https://osu.ppy.sh/community/matches/120771454) | - | Furina | - | - |
+
+Sunday, 22 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 02 | Derin ::{ flag=ES }:: | 1 | **5** | ::{ flag=ES }:: **Scaryz** | [#1](https://osu.ppy.sh/community/matches/120778410) | [#1](https://www.youtube.com/watch?v=sJf8osAMlrg) | Furina | jdfs | jdfs, Hide in room |
+| 01 | **ESCRUPULILLO** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: Freire | [#1](https://osu.ppy.sh/community/matches/120778677) | [#1](https://www.youtube.com/watch?v=mTgyLrSdVZs) | jdfs | jdfs | jdfs, Hide in room |
+| 09 | **A L E P H** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: PEAC 2 | [#1](https://osu.ppy.sh/community/matches/120778685) | - | junamat | - | - |
+
+Monday, 23 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 13 | **towny1** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: atisuma | [#1](https://osu.ppy.sh/community/matches/120786128) | - | jdfs | - | - |
+
+Tuesday, 24 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 06 | **NHarmonia** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: Fieera | [#1](https://osu.ppy.sh/community/matches/120792360) | - | Furina | - | - |
 
 ### Round of 16
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Friday, 27 March | 17:00 | Palodex ::{ flag=ES }:: | 4 | 6 | ::{ flag=ES }:: **Jairofrancaso** | [#26](https://osu.ppy.sh/community/matches/120810276) | Furina | Furina *no vod* | towny, Jurumas |
-| Friday, 27 March | 18:00 | marc559_ ::{ flag=ES }:: | 1 | 6 | ::{ flag=ES }:: **AARONGAMER1** | [#24](https://osu.ppy.sh/community/matches/120809839) | Furina | Furina *no vod* | Jurumas, Scaryz |
-| Saturday, 28 March | 17:00 | **ESCRUPULILLO** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: Scaryz | [#25](https://osu.ppy.sh/community/matches/120817399) | Furina | no stream | - |
-| Saturday, 28 March | 19:00 | **[dekori]** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: NHarmonia | [#27](https://osu.ppy.sh/community/matches/120818338) | junamat | no stream | - |
-| Saturday, 28 March | 19:00 | Kalal331 ::{ flag=ES }:: | 5 | 6 | ::{ flag=ES }:: **MusicDropZ** | [#20](https://osu.ppy.sh/community/matches/120818348) | Furina | Furina *no vod* | Scaryz, ESCRUPULILLO, towny1 |
-| Saturday, 28 March | 20:00 | - Izayoi - ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: Fieera | #19 | *win by default* | no stream | - |
-| Saturday, 28 March | 21:00 | **towny1** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: P_F_C_PRO | [#31](https://osu.ppy.sh/community/matches/120819327) | Furina | Furina *no vod* | Scaryz, ESCRUPULILLO, Furina, Hide in room |
-| Sunday, 29 March | 17:00 | **atisuma** ::{ flag=ES }:: | 6 | 5 | ::{ flag=ES }:: Alexis_xX | [#23](https://osu.ppy.sh/community/matches/120825266) | junamat | no stream | - |
-| Sunday, 29 March | 18:00 | **Dario** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: aguacateh_ | [#30](https://osu.ppy.sh/community/matches/120825777) | junamat | Hide in room *no vod* | towny, ESCRUPULILLO |
-| Sunday, 29 March | 19:00 | **A L E P H** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: PEAC 10 | [#29](https://osu.ppy.sh/community/matches/120826252) | junamat | Hide in room *no vod* | towny, Scaryz, Hide in room |
-| Sunday, 29 March | 20:00 | **JoanaBob** ::{ flag=ES }:: | 6 | 2 | ::{ flag=ES }:: Murkano | [#32](https://osu.ppy.sh/community/matches/120826768) | Furina | Hide in room *no vod* | Scaryz, Diesel, Hide in room |
-| Sunday, 29 March | 20:00 | Zaik0 ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: Edrran | #22 | *win by default* | no stream | - |
-| Sunday, 29 March | 20:30 | **PEAC 2** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: PEAC 4 | [#21](https://osu.ppy.sh/community/matches/120826955) | junamat | no stream | - |
-| Sunday, 29 March | 22:00 | EZHD ::{ flag=ES }:: | 2 | 6 | ::{ flag=ES }:: **Derin** | [#17](https://osu.ppy.sh/community/matches/120827692) | Furina | no stream | - |
-| Monday, 30 March | 13:00 | _jeff ::{ flag=ES }:: | 4 | 6 | ::{ flag=ES }:: **Alvaroping1** | [#18](https://osu.ppy.sh/community/matches/120831195) | junamat | no stream | - |
-| Monday, 30 March | 21:00 | **marbl** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: Widelux13 | [#28](https://osu.ppy.sh/community/matches/120834038) | Furina | Furina *no vod* | Furina, Hide in room, Scaryz |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/6).
+
+Friday, 27 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 26 | Palodex ::{ flag=ES }:: | 4 | **6** | ::{ flag=ES }:: **Jairofrancaso** | [#1](https://osu.ppy.sh/community/matches/120810276) | - | Furina | Furina | towny, Jurumas |
+| 24 | marc559_ ::{ flag=ES }:: | 1 | **6** | ::{ flag=ES }:: **AARONGAMER1** | [#1](https://osu.ppy.sh/community/matches/120809839) | - | Furina | Furina | Jurumas, Scaryz |
+
+Saturday, 28 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 25 | **ESCRUPULILLO** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: Scaryz | [#1](https://osu.ppy.sh/community/matches/120817399) | - | Furina | - | - |
+| 27 | **[dekori]** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: NHarmonia | [#1](https://osu.ppy.sh/community/matches/120818338) | - | junamat | - | - |
+| 20 | Kalal331 ::{ flag=ES }:: | 5 | **6** | ::{ flag=ES }:: **MusicDropZ** | [#1](https://osu.ppy.sh/community/matches/120818348) | - | Furina | Furina | Scaryz, ESCRUPULILLO, towny1 |
+| 19 | **- Izayoi -** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: Fieera | WBD | - | - | - | - |
+| 31 | 21:00 | **towny1** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: P_F_C_PRO | [#1](https://osu.ppy.sh/community/matches/120819327) | - | Furina | Furina | Scaryz, ESCRUPULILLO, Furina, Hide in room |
+
+Sunday, 29 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 23 | **atisuma** ::{ flag=ES }:: | **6** | 5 | ::{ flag=ES }:: Alexis_xX | [#1](https://osu.ppy.sh/community/matches/120825266) | - | junamat | - | - |
+| 30 | **Dario** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: aguacateh_ | [#1](https://osu.ppy.sh/community/matches/120825777) | - | junamat | Hide in room | towny, ESCRUPULILLO |
+| 29 | **A L E P H** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: PEAC 10 | [#1](https://osu.ppy.sh/community/matches/120826252) | - | junamat | Hide in room | towny, Scaryz, Hide in room |
+| 32 | **JoanaBob** ::{ flag=ES }:: | **6** | 2 | ::{ flag=ES }:: Murkano | [#1](https://osu.ppy.sh/community/matches/120826768) | - | Furina | Hide in room | Scaryz, Diesel, Hide in room |
+| 22 | **Zaik0** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: Edrran | WBD | - | - | - | - |
+| 21 | **PEAC 2** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: PEAC 4 | [#1](https://osu.ppy.sh/community/matches/120826955) | - | junamat | - | - |
+| 17 | EZHD ::{ flag=ES }:: | 2 | **6** | ::{ flag=ES }:: **Derin** | [#1](https://osu.ppy.sh/community/matches/120827692) | - | Furina | - | - |
+
+Monday, 30 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 18 | _jeff ::{ flag=ES }:: | 4 | **6** | ::{ flag=ES }:: **Alvaroping1** | [#1](https://osu.ppy.sh/community/matches/120831195) | - | junamat | - | - |
+| 28 | **marbl** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: Widelux13 | [#1](https://osu.ppy.sh/community/matches/120834038) | - | Furina | Furina | Furina, Hide in room, Scaryz |
 
 ### Quarterfinals
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Thursday, 2 April | 19:00 | **towny1** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: JoanaBob | [#48](https://osu.ppy.sh/community/matches/120853030) | Furina | no stream | - |
-| Friday, 3 April | 16:00 | aguacateh_ ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: - Izayoi - | #38 | *win by default* | no stream | - |
-| Friday, 3 April | 19:00 | Murkano ::{ flag=ES }:: | 3 | 6 | ::{ flag=ES }:: **Derin** | [#40](https://osu.ppy.sh/community/matches/120861027) | junamat | no stream | - |
-| Friday, 3 April | 21:00 | Scaryz ::{ flag=ES }:: | FF | 0 | ::{ flag=ES }:: AARONGAMER1 | #33 | *win by default* | no stream | - |
-| Friday, 3 April | 21:00 | NHarmonia ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: Zaik0 | #35 | *win by default* | no stream | - |
-| Saturday, 4 April | 17:00 | **Palodex** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: atisuma | [#34](https://osu.ppy.sh/community/matches/120868065) | Furina | no stream | - |
-| Saturday, 4 April | 18:00 | **P_F_C_PRO** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: Alvaroping1 | [#39](https://osu.ppy.sh/community/matches/120868425) | jdfs | no stream | - |
-| Saturday, 4 April | 19:00 | **ESCRUPULILLO** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: Jairofrancaso | [#45](https://osu.ppy.sh/community/matches/120868815) | Hide in room | jdfs [vod](https://www.youtube.com/watch?v=okSCN7At_kw) | Hide in room, towny1 |
-| Saturday, 4 April | 20:00 | **[dekori]** ::{ flag=ES }:: | 6 | 2 | ::{ flag=ES }:: marbl | [#46](https://osu.ppy.sh/community/matches/120869339) | Furina | jdfs [vod](https://www.youtube.com/watch?v=NKPbInTFI_o) | Hide in room, Scaryz, towny1, ESCRUPULILLO |
-| Saturday, 4 April | 21:00 | **PEAC 10** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: MusicDropZ | [#37](https://osu.ppy.sh/community/matches/120869796) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=kWQr0Ei3jDI) | Hide in room, Scaryz, jdfs |
-| Saturday, 4 April | 22:00 | Widelux13 ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: PEAC 2 | #36 | *win by default* | no stream | - |
-| Sunday, 5 April | 17:00 | **Derin** ::{ flag=ES }:: | 6 | 3 | ::{ flag=ES }:: P_F_C_PRO | [#44](https://osu.ppy.sh/community/matches/120875972) | Furina | no stream | - |
-| Sunday, 5 April | 18:00 | **A L E P H** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: Dario | [#47](https://osu.ppy.sh/community/matches/120876409) | Furina | Hide in room  *no vod* | Hide in room, Scaryz |
-| Sunday, 5 April | 19:00 | **aguacateh_** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: PEAC 10 | [#43](https://osu.ppy.sh/community/matches/120876903) | Hide in room | Hide in room  *no vod* | Hide in room, Scaryz |
-| Monday, 6 April | 18:00 | Widelux13 ::{ flag=ES }:: | 3 | 6 | ::{ flag=ES }:: **NHarmonia** | [#42](https://osu.ppy.sh/community/matches/120883824) | Furina | no stream | - |
-| Monday, 6 April | 20:00 | **Palodex** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: AARONGAMER1 | [#41](https://osu.ppy.sh/community/matches/120884598) | junamat | no stream | - |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/7).
+
+Thursday, 2 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 48 | **towny1** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: JoanaBob | [#1](https://osu.ppy.sh/community/matches/120853030) | - | Furina | - | - |
+
+Friday, 3 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 38 | **aguacateh_** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: - Izayoi - | WBD | - | - | - | - |
+| 40 | Murkano ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **Derin** | [#1](https://osu.ppy.sh/community/matches/120861027) | - | junamat | - | - |
+| 33 | Scaryz ::{ flag=ES }:: | FF | **0** | ::{ flag=ES }:: **AARONGAMER1** | WBD | - | - | - | - |
+| 35 | **NHarmonia** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: Zaik0 | WBD | - | - | - | - |
+
+Saturday, 4 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 34 | **Palodex** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: atisuma | [#1](https://osu.ppy.sh/community/matches/120868065) | - | Furina | - | - |
+| 39 | **P_F_C_PRO** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: Alvaroping1 | [#1](https://osu.ppy.sh/community/matches/120868425) | - | jdfs | - | - |
+| 45 | **ESCRUPULILLO** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: Jairofrancaso | [#1](https://osu.ppy.sh/community/matches/120868815) | [#1](https://www.youtube.com/watch?v=okSCN7At_kw) | Hide in room | jdfs | Hide in room, towny1 |
+| 46 | **[dekori]** ::{ flag=ES }:: | 6 | 2 | ::{ flag=ES }:: marbl | [#1](https://osu.ppy.sh/community/matches/120869339) | [#1](https://www.youtube.com/watch?v=NKPbInTFI_o) | Furina | jdfs | Hide in room, Scaryz, towny1, ESCRUPULILLO |
+| 37 | **PEAC 10** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: MusicDropZ | [#1](https://osu.ppy.sh/community/matches/120869796) | [#1](https://www.youtube.com/watch?v=kWQr0Ei3jDI) | jdfs | jdfs | Hide in room, Scaryz, jdfs |
+| 36 | Widelux13 ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: PEAC 2 | WBD | - | - | - | - |
+
+Sunday, 5 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 44 | **Derin** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: P_F_C_PRO | [#1](https://osu.ppy.sh/community/matches/120875972) | - | Furina | - | - |
+| 47 | **A L E P H** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: Dario | [#1](https://osu.ppy.sh/community/matches/120876409) | - | Furina | Hide in room | Hide in room, Scaryz |
+| 43 | **aguacateh_** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: PEAC 10 | [#1](https://osu.ppy.sh/community/matches/120876903) | - | Hide in room | Hide in room | Hide in room, Scaryz |
+
+Monday, 6 April:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 42 | Widelux13 ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **NHarmonia** | [#1](https://osu.ppy.sh/community/matches/120883824) | - | Furina | - | - |
+| 41 | **Palodex** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: AARONGAMER1 | [#1](https://osu.ppy.sh/community/matches/120884598) | - | junamat | - | - |
 
 ### Semifinals
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Saturday, 11 April | 17:00 | **JoanaBob** ::{ flag=ES }:: | 7 | 5 | ::{ flag=ES }:: NHarmonia | [#52](https://osu.ppy.sh/community/matches/120917639) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=SNhcuWlL4As) | Hide in room, Scaryz |
-| Saturday, 11 April | 19:00 | **Jairofrancaso** ::{ flag=ES }:: | 7 | 1 | ::{ flag=ES }:: aguacateh_ | [#49](https://osu.ppy.sh/community/matches/120918745) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=A4epOzrkQBk) | Hide in room, Scaryz |
-| Saturday, 11 April | 20:00 | **marbl** ::{ flag=ES }:: | 7 | 4 | ::{ flag=ES }:: Derin | [#50](https://osu.ppy.sh/community/matches/120919222) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=bACyOtFftxU) | Hide in room, Scaryz |
-| Saturday, 11 April | 22:00 | **Dario** ::{ flag=ES }:: | 7 | 6 | ::{ flag=ES }:: Palodex | [#51](https://osu.ppy.sh/community/matches/120920220) | Furina | Furina [vod](https://www.youtube.com/watch?v=VwA4WCO3ItQ) | Hide in room, Scaryz, Furina |
-| Sunday, 12 April | 18:00 | JoanaBob ::{ flag=ES }:: | 0 | 7 | ::{ flag=ES }:: **Dario** | [#54](https://osu.ppy.sh/community/matches/120926801) | jdfs | Furina [vod](https://www.youtube.com/watch?v=GDEzdGOT8qE) | Hide in room, Scaryz, jdfs |
-| Sunday, 12 April | 19:00 | **ESCRUPULILLO** ::{ flag=ES }:: | 7 | 2 | ::{ flag=ES }:: [dekori] | [#55](https://osu.ppy.sh/community/matches/120927257) | jdfs | Furina [vod](https://www.youtube.com/watch?v=-U9tKXNW4AE) | Hide in room, Scaryz, jdfs |
-| Sunday, 12 April | 20:00 | marbl ::{ flag=ES }:: | 1 | 7 | ::{ flag=ES }:: **Jairofrancaso** | [#53](https://osu.ppy.sh/community/matches/120927800) | jdfs | Furina [vod](https://www.youtube.com/watch?v=Sy1astLkk7A) | Hide in room, Scaryz, jdfs |
-| Tuesday, 14 April | 19:00 | **A L E P H** ::{ flag=ES }:: | 7 | 0 | ::{ flag=ES }:: towny1 | [#56](https://osu.ppy.sh/community/matches/120940047) | jdfs | Furina [vod](https://www.youtube.com/watch?v=on2RWfHHz-g) | Furina, Scaryz |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/8).
+
+Saturday, 11 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 52 | **JoanaBob** ::{ flag=ES }:: | **7** | 5 | ::{ flag=ES }:: NHarmonia | [#1](https://osu.ppy.sh/community/matches/120917639) | [#1](https://www.youtube.com/watch?v=SNhcuWlL4As) | jdfs | jdfs | Hide in room, Scaryz |
+| 49 | **Jairofrancaso** ::{ flag=ES }:: | **7** | 1 | ::{ flag=ES }:: aguacateh_ | [#1](https://osu.ppy.sh/community/matches/120918745) | [#1](https://www.youtube.com/watch?v=A4epOzrkQBk) | jdfs | jdfs | Hide in room, Scaryz |
+| 50 | **marbl** ::{ flag=ES }:: | **7** | 4 | ::{ flag=ES }:: Derin | [#1](https://osu.ppy.sh/community/matches/120919222) | [#1](https://www.youtube.com/watch?v=bACyOtFftxU) | jdfs | jdfs | Hide in room, Scaryz |
+| 51 | **Dario** ::{ flag=ES }:: | **7** | 6 | ::{ flag=ES }:: Palodex | [#1](https://osu.ppy.sh/community/matches/120920220) | [#1](https://www.youtube.com/watch?v=VwA4WCO3ItQ) | Furina | Furina | Hide in room, Scaryz, Furina |
+
+Sunday, 12 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 54 | JoanaBob ::{ flag=ES }:: | 0 | **7** | ::{ flag=ES }:: **Dario** | [#1](https://osu.ppy.sh/community/matches/120926801) | [#1](https://www.youtube.com/watch?v=GDEzdGOT8qE) | jdfs | Furina | Hide in room, Scaryz, jdfs |
+| 55 | **ESCRUPULILLO** ::{ flag=ES }:: | **7** | 2 | ::{ flag=ES }:: [dekori] | [#1](https://osu.ppy.sh/community/matches/120927257) | [#1](https://www.youtube.com/watch?v=-U9tKXNW4AE) | jdfs | Furina | Hide in room, Scaryz, jdfs |
+| 53 | marbl ::{ flag=ES }:: | 1 | **7** | ::{ flag=ES }:: **Jairofrancaso** | [#1](https://osu.ppy.sh/community/matches/120927800) | [#1](https://www.youtube.com/watch?v=Sy1astLkk7A) | jdfs | Furina | Hide in room, Scaryz, jdfs |
+
+Tuesday, 14 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 56 | **A L E P H** ::{ flag=ES }:: | **7** | 0 | ::{ flag=ES }:: towny1 | [#1](https://osu.ppy.sh/community/matches/120940047) | [#1](https://www.youtube.com/watch?v=on2RWfHHz-g) | jdfs | Furina | Furina, Scaryz |
 
 ### Finals
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Friday, 17 April | 19:00 | [dekori] ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: Dario | #57 | *win by default* | no stream | - |
-| Friday, 17 April | 19:00 | **towny1** ::{ flag=ES }:: | 7 | 1 | ::{ flag=ES }:: Jairofrancaso | [#58](https://osu.ppy.sh/community/matches/120958985) | Furina | Furina [vod](https://www.youtube.com/watch?v=9QSyb5yp3yQ) | Scaryz, A L E P H |
-| Saturday, 18 April | 20:00 | **towny1** ::{ flag=ES }:: | 7 | 6 | ::{ flag=ES }:: [dekori] | [#59](https://osu.ppy.sh/community/matches/120967175) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=BwMh2yAeqsc) | Furina, junamat |
-| Sunday, 19 April | 19:00 | ESCRUPULILLO ::{ flag=ES }:: | 1 | 7 | ::{ flag=ES }:: **A L E P H** | [#60](https://osu.ppy.sh/community/matches/120974698) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=EzC45eGLZwM) | Scaryz, junamat |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/9).
+
+Friday, 17 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 57 | **[dekori]** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: Dario | WBD | - | - | - | - |
+| 58 | **towny1** ::{ flag=ES }:: | **7** | 1 | ::{ flag=ES }:: Jairofrancaso | [#1](https://osu.ppy.sh/community/matches/120958985) | [#1](https://www.youtube.com/watch?v=9QSyb5yp3yQ) | Furina | Furina | Scaryz, A L E P H |
+
+Saturday, 18 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 59 | **towny1** ::{ flag=ES }:: | **7** | 6 | ::{ flag=ES }:: [dekori] | [#1](https://osu.ppy.sh/community/matches/120967175) | [#1](https://www.youtube.com/watch?v=BwMh2yAeqsc) | jdfs | jdfs | Furina, junamat |
+
+Sunday, 19 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 60 | ESCRUPULILLO ::{ flag=ES }:: | 1 | **7** | ::{ flag=ES }:: **A L E P H** | [#1](https://osu.ppy.sh/community/matches/120974698) | [#1](https://www.youtube.com/watch?v=EzC45eGLZwM) | jdfs | jdfs | Scaryz, junamat |
 
 ### Grand Finals
 
-| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
-| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
-| Saturday, 25 April | 19:00 | ESCRUPULILLO ::{ flag=ES }:: | 7 | 8 | ::{ flag=ES }:: **towny1** | [#61](https://osu.ppy.sh/community/matches/121012417) | Furina | Furina [vod](https://www.youtube.com/watch?v=4Mvm3IUj4JI) | Hide in room, jdfs, Scaryz |
-| Sunday, 26 April | 18:00 | **A L E P H** ::{ flag=ES }:: | 8 | 2 | ::{ flag=ES }:: towny1 | [#62](https://osu.ppy.sh/community/matches/121019897) | jdfs | Furina [vod](https://www.youtube.com/watch?v=JSsOagiNuGo) | Furina, Scaryz |
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/10).
+
+Saturday, 25 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 61 | ESCRUPULILLO ::{ flag=ES }:: | 7 | **8** | ::{ flag=ES }:: **towny1** | [#1](https://osu.ppy.sh/community/matches/121012417) | [#1](https://www.youtube.com/watch?v=4Mvm3IUj4JI) | Furina | Furina | Hide in room, jdfs, Scaryz |
+
+Sunday, 26 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- | :-- |
+| 62 | **A L E P H** ::{ flag=ES }:: | **8** | 2 | ::{ flag=ES }:: towny1 | [#1](https://osu.ppy.sh/community/matches/121019897) | [#1](https://www.youtube.com/watch?v=JSsOagiNuGo) | jdfs | Furina | Furina, Scaryz |
 
 ## Groups
 
@@ -591,7 +730,7 @@ Groups were made with a draw. Players were separated in 2 different groups using
 - First draft: Seeds 17-20, 25-28, 33-36, 41-44
 - Second draft: Seeds 21-24, 29-32, 37-40, 45-48
 
-Now that we had 4 "boxes" per draft, we rolled a D4 and went through the cards in order. If for example we rolled a 3, the third card would get chosen from the first box. If we have 3 cards and we rolled a four, we would go back to the first card, rolling the cards as we went. 4 groups came from each draft, formed by one player from each box. The metric used for ranking players inside a group are Points in favor (PIF) and Points against (PA). The difference of PIF - PA is the score of a player
+Now that we had 4 "boxes" per draft, we rolled a D4 and went through the cards in order. If for example we rolled a 3, the third card would get chosen from the first box. If we have 3 cards and we rolled a four, we would go back to the first card, rolling the cards as we went. 4 groups came from each draft, formed by one player from each box. The metric used for ranking players inside a group are Points in favor (PIF) and Points against (PA). The difference of PIF - PA is the score of a player. In the case of a tie, qualifiers seed will be used to decide who's on top.
 
 After the group stage, the two top players from each group go to round of 32 playoffs, assigning the seeds by doing an average seed for each group. Here's how it is done for each one of them:
 
