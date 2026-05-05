@@ -363,7 +363,7 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 
 ### Qualifiers results
 
-Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods).
+Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](/wiki/en/Tournaments/Common_seeding_methods).
 
 | Rank | Player | Z-Sum | Avg. Score | NM1 | NM2 | NM3 | NM4 | HD1 | HD2 | HR1 | HR2 | DT1 | DT2 |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -433,7 +433,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 - The top 2 players of each group will move on to the Play-Off.
 - For more information, look below under the Groups section.
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 6 March | 16:00 | **aleotcapitalist** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: MeiFTW | [#C2](https://osu.ppy.sh/community/matches/120665907) | Furina | Furina [vod](https://www.youtube.com/watch?v=H8NX8BnYFhY) | Furina, junamat |
 | Friday, 6 March | 17:00 | **Alvaroping1** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Guillr | [#F6](https://osu.ppy.sh/community/matches/120666265) | Furina | Furina [vod](https://www.youtube.com/watch?v=QV-d4uuVR7U) | A L E P H, marbl |
@@ -457,7 +457,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 | Sunday, 8 March | 20:00 | **_jeff** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: MeiFTW | [#C4](https://osu.ppy.sh/community/matches/120684027) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=UdbYht6nqyY) | SansREPZ, Kalal331, Hide in room |
 | Sunday, 8 March | 21:00 | **- Izayoi -** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: FestivalFour179 | [#B4](https://osu.ppy.sh/community/matches/120684613) | Furina | no stream | - |
 | Sunday, 8 March | 21:00 | **Omeguii** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: PEAC 2 | [#H1](https://osu.ppy.sh/community/matches/120684536) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=slDa8GHXhBs) | Dario, junamat |
-| Sunday, 8 March | 22:00 | **atisuma** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: LaBestiaPrecoz | [#D6](https://osu.ppy.sh/community/matches/120684984) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=e2biYjmRGac) | Furina, Kalal331, Hide in room   |
+| Sunday, 8 March | 22:00 | **atisuma** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: LaBestiaPrecoz | [#D6](https://osu.ppy.sh/community/matches/120684984) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=e2biYjmRGac) | Furina, Kalal331, Hide in room |
 | Thursday, 12 March | 19:00 | **Freire** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Guillr | [#F3](https://osu.ppy.sh/community/matches/120708772) | jdfs | no stream | - |
 | Friday, 13 March | 17:30 | **Scaryz** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: MeiFTW | #C5 | *win by default* | no stream | - |
 | Friday, 13 March | 18:00 | **- Izayoi -** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Sakuya- | [#B6](https://osu.ppy.sh/community/matches/120714430) | Furina | Furina [vod](https://www.youtube.com/watch?v=lFTv-j0RPxU) | Scaryz, EDn |
@@ -477,7 +477,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 | Saturday, 14 March | 23:00 | comandocYT ::{ flag=ES }:: | 0 | 5 | ::{ flag=ES }:: **Tenjun** | #A2 | *win by default* | no stream | - |
 | Sunday, 15 March | 17:00 | **LaBestiaPrecoz** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Agatem | [#D2](https://osu.ppy.sh/community/matches/120730337) | Furina | no stream | - |
 | Sunday, 15 March | 18:00 | **_jeff** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: aleotcapitalist | [#C6](https://osu.ppy.sh/community/matches/120730741) | junamat | jdfs [vod](https://www.youtube.com/watch?v=ZJeG9xpzhwU) | Scaryz, jdfs |
-| Sunday, 15 March | 19:00 | **atisuma** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Agatem | [#D4](https://osu.ppy.sh/community/matches/120731278) | Furina | no stream | -|
+| Sunday, 15 March | 19:00 | **atisuma** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Agatem | [#D4](https://osu.ppy.sh/community/matches/120731278) | Furina | no stream | - |
 | Sunday, 15 March | 20:00 | **Widelux13** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: Sakuya- | [#B3](https://osu.ppy.sh/community/matches/120731661) | junamat | Hide in room *no vod* | Scaryz, Hide in room |
 | Sunday, 15 March | 20:00 | PEAC 3 ::{ flag=ES }:: | 0 | 5 | ::{ flag=ES }:: **Zaik0** | #G6 | *win by default* | no stream | - |
 | Sunday, 15 March | 21:00 | **Murkano** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: LaBestiaPrecoz | #D3 | *win by default* | no stream | - |
@@ -486,7 +486,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 
 ### Round of 32
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 20 March | 17:00 | **[dekori]** ::{ flag=ES }:: | 5 | 1 | ::{ flag=ES }:: - Izayoi - | [#5](https://osu.ppy.sh/community/matches/120761768) | Furina | Furina *no vod* | - |
 | Friday, 20 March | 19:00 | **Jairofrancaso** ::{ flag=ES }:: | 5 | 2 | ::{ flag=ES }:: Alvaroping1 | [#4](https://osu.ppy.sh/community/matches/120762593) | Furina | Furina *no vod* | - |
@@ -497,7 +497,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 | Saturday, 21 March | 16:00 | **Palodex** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: _jeff | [#3](https://osu.ppy.sh/community/matches/120769176) | Furina | no stream | - |
 | Saturday, 21 March | 17:00 | **JoanaBob** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: marc559_ | [#15](https://osu.ppy.sh/community/matches/120769604) | jdfs | jdfs *no vod* | jdfs, towny1 |
 | Saturday, 21 March | 17:00 | **P_F_C_PRO** ::{ flag=ES }:: | 5 | 3 | ::{ flag=ES }:: Alexis_xX | [#14](https://osu.ppy.sh/community/matches/120769602) | junamat | no stream | - |
-| Saturday, 21 March | 19:00 | **Dario** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Zaik0 | [#11](https://osu.ppy.sh/community/matches/120770461) | Furina | no stream  | - |
+| Saturday, 21 March | 19:00 | **Dario** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Zaik0 | [#11](https://osu.ppy.sh/community/matches/120770461) | Furina | no stream | - |
 | Saturday, 21 March | 21:00 | AARONGAMER1 ::{ flag=ES }:: | 4 | 5 | ::{ flag=ES }:: **Murkano** | [#16](https://osu.ppy.sh/community/matches/120771454) | Furina | no stream | - |
 | Sunday, 22 March | 18:30 | Derin ::{ flag=ES }:: | 1 | 5 | ::{ flag=ES }:: **Scaryz** | [#2](https://osu.ppy.sh/community/matches/120778410) | Furina | jdfs [vod](https://www.youtube.com/watch?v=sJf8osAMlrg) | jdfs, Hide in room |
 | Sunday, 22 March | 19:00 | **ESCRUPULILLO** ::{ flag=ES }:: | 5 | 0 | ::{ flag=ES }:: Freire | [#1](https://osu.ppy.sh/community/matches/120778677) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=mTgyLrSdVZs) | jdfs, Hide in room |
@@ -507,7 +507,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 
 ### Round of 16
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 27 March | 17:00 | Palodex ::{ flag=ES }:: | 4 | 6 | ::{ flag=ES }:: **Jairofrancaso** | [#26](https://osu.ppy.sh/community/matches/120810276) | Furina | Furina *no vod* | towny, Jurumas |
 | Friday, 27 March | 18:00 | marc559_ ::{ flag=ES }:: | 1 | 6 | ::{ flag=ES }:: **AARONGAMER1** | [#24](https://osu.ppy.sh/community/matches/120809839) | Furina | Furina *no vod* | Jurumas, Scaryz |
@@ -528,7 +528,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 
 ### Quarterfinals
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Thursday, 2 April | 19:00 | **towny1** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: JoanaBob | [#48](https://osu.ppy.sh/community/matches/120853030) | Furina | no stream | - |
 | Friday, 3 April | 16:00 | aguacateh_ ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: - Izayoi - | #38 | *win by default* | no stream | - |
@@ -549,7 +549,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 
 ### Semifinals
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Saturday, 11 April | 17:00 | **JoanaBob** ::{ flag=ES }:: | 7 | 5 | ::{ flag=ES }:: NHarmonia | [#52](https://osu.ppy.sh/community/matches/120917639) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=SNhcuWlL4As) | Hide in room, Scaryz |
 | Saturday, 11 April | 19:00 | **Jairofrancaso** ::{ flag=ES }:: | 7 | 1 | ::{ flag=ES }:: aguacateh_ | [#49](https://osu.ppy.sh/community/matches/120918745) | jdfs | jdfs [vod](https://www.youtube.com/watch?v=A4epOzrkQBk) | Hide in room, Scaryz |
@@ -562,7 +562,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 
 ### Finals
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 17 April | 19:00 | [dekori] ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: Dario | #57 | *win by default* | no stream | - |
 | Friday, 17 April | 19:00 | **towny1** ::{ flag=ES }:: | 7 | 1 | ::{ flag=ES }:: Jairofrancaso | [#58](https://osu.ppy.sh/community/matches/120958985) | Furina | Furina [vod](https://www.youtube.com/watch?v=9QSyb5yp3yQ) | Scaryz, A L E P H |
@@ -571,7 +571,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 
 ### Grand Finals
 
-| Day | Time | Player 1 | | | Player 2 | Match link | Referee | Streamer | Casters |
+| Day | Time | Player 1 |  |  | Player 2 | Match link | Referee | Streamer | Casters |
 | :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Saturday, 25 April | 19:00 | ESCRUPULILLO ::{ flag=ES }:: | 7 | 8 | ::{ flag=ES }:: **towny1** | [#61](https://osu.ppy.sh/community/matches/121012417) | Furina | Furina [vod](https://www.youtube.com/watch?v=4Mvm3IUj4JI) | Hide in room, jdfs, Scaryz |
 | Sunday, 26 April | 18:00 | **A L E P H** ::{ flag=ES }:: | 8 | 2 | ::{ flag=ES }:: towny1 | [#62](https://osu.ppy.sh/community/matches/121019897) | jdfs | Furina [vod](https://www.youtube.com/watch?v=JSsOagiNuGo) | Furina, Scaryz |
@@ -803,7 +803,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 3. Default lobby schedules will be available on the tournament website. If none of the lobbies suit you, you may request a new lobby in the dedicated Discord channel (#qualifiers-schedule).
 4. In the room, you will play the maps in order (NoMod -> Hidden -> HardRock -> DoubleTime) (10 maps).
 5. The mappool can only be played once.
-6. The scoring system used will be Z-Score. Refer to [this wiki page](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods) in order to check out how it works.
+6. The scoring system used will be Z-Score. Refer to [this wiki page](/wiki/en/Tournaments/Common_seeding_methods) in order to check out how it works.
 7. Qualifiers results will remain private throughout the process; lobby links will not be public either.
 8. If a player is found sniping mp links from qualifier rooms, they will be irrevocably disqualified without the possibility of appeal if they are participating in the tournament.
 9. If someone intentionally decides not to play a map (remaining AFK for the entire duration), they will be penalized with a x0.75 multiplier to all their qualifier scores. This penalty will be reviewed on a case-by-case basis.
