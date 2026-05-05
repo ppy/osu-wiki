@@ -6,7 +6,7 @@ Los Elite Nominators son seleccionados por el Nomination Assessment Team mediant
 
 - Variedad en los mappers únicos nominados
 - Número de nuevos mappers promovidos a la sección de clasificados
-- Una penalización basada en el número y la [severidad](/wiki/People/Nomination_Assessment_Team/SEV_rating) de los [restablecimientos de nominaciones](/wiki/Beatmap_ranking_procedure#nomination-resets) recibidos[^reset-penalty-note]
+- Una penalización basada en el número y la [severidad](/wiki/People/Nomination_Assessment_Team/SEV_rating) de los [restablecimientos de nominaciones](/wiki/Beatmap_ranking_procedure#restablecimiento-de-nominaciones) recibidos[^reset-penalty-note]
 
 Además, el NAT puede tener en cuenta otros factores a la hora de seleccionar a los Elite Nominators, como la calidad de los beatmaps nominados, la calidad del [modding](/wiki/Modding), el comportamiento dentro y fuera de los espacios de modding y cualquier otro aspecto que haga que el nominador destaque sobre el resto.
 
