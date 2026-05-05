@@ -366,7 +366,7 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](https://osu.ppy.sh/wiki/en/Tournaments/Common_seeding_methods).
 
 | Rank | Player | Z-Sum | Avg. Score | NM1 | NM2 | NM3 | NM4 | HD1 | HD2 | HR1 | HR2 | DT1 | DT2 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | 1 | ::{ flag=ES }:: ESCRUPULILLO | 24.3 | 682275 | #1 972934 | #5 620698 | #2 483452 | #2 464130 | #2 686486 | #2 625419 | #1 622178 | #3 506991 | #6 684287 | #1 1156175 |
 | 2 | ::{ flag=ES }:: A L E P H | 23.39 | 670227 | #12 436388 | #4 651486 | #4 451484 | #1 511731 | #1 1062416 | #3 434220 | #2 447051 | #1 670651 | #2 1111205 | #5 925636 |
 | 3 | ::{ flag=ES }:: towny1 | 17.05 | 575870 | #4 660214 | #2 907389 | #3 454539 | #5 361497 | #6 449424 | #6 353851 | #13 279330 | #2 533580 | #9 638817 | #3 1120055 |
@@ -434,7 +434,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 - For more information, look below under the Groups section.
 
 | Day                | Time   | Player 1                            |     |     | Player 2                        | Match link                             | Referee          | Streamer     | Casters                          |
-|:-------------------|:-------|:------------------------------------|----:|----:|:--------------------------------|:---------------------------------------|:-----------------|:-------------|:---------------------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 6 March    | 16:00  | **aleotcapitalist** ::{ flag=ES }:: |   5 |   1 | ::{ flag=ES }:: MeiFTW          | [#C2](https://osu.ppy.sh/community/matches/120665907) | Furina           | Furina [vod](https://www.youtube.com/watch?v=H8NX8BnYFhY)      | Furina, junamat                  |
 | Friday, 6 March    | 17:00  | **Alvaroping1** ::{ flag=ES }::     |   5 |   0 | ::{ flag=ES }:: Guillr          | [#F6](https://osu.ppy.sh/community/matches/120666265) | Furina           | Furina [vod](https://www.youtube.com/watch?v=QV-d4uuVR7U)      | A L E P H, marbl                 |
 | Friday, 6 March    | 18:00  | **Scaryz** ::{ flag=ES }::          |   5 |   2 | ::{ flag=ES }:: _jeff           | [#C1](https://osu.ppy.sh/community/matches/120666813) | junamat          | Furina [vod](https://www.youtube.com/watch?v=UKdiYM7U2ms)      | Furina, junamat                  |
@@ -487,7 +487,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ### Round of 32
 
 | Day                | Time   | Player 1                          |     |     | Player 2                      | Match link                                            | Referee   | Streamer   | Casters               |
-|:-------------------|:-------|:----------------------------------|----:|----:|:------------------------------|:------------------------------------------------------|:----------|:-----------|:----------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 20 March   | 17:00  | **[dekori]** ::{ flag=ES }::      |   5 |   1 | ::{ flag=ES }:: - Izayoi -    | [#5](https://osu.ppy.sh/community/matches/120761768)                 | Furina    | Furina *no vod*    | -                     |
 | Friday, 20 March   | 19:00  | **Jairofrancaso** ::{ flag=ES }:: |   5 |   2 | ::{ flag=ES }:: Alvaroping1   | [#4](https://osu.ppy.sh/community/matches/120762593)                 | Furina    | Furina *no vod*    | -                     |
 | Friday, 20 March   | 20:00  | **marbl** ::{ flag=ES }::         |   5 |   0 | ::{ flag=ES }:: Kalal331      | [#7](https://osu.ppy.sh/community/matches/120762977)                 | jdfs      | jdfs [vod](https://www.youtube.com/watch?v=bFj3Edx1uOI)      | -                     |
@@ -508,7 +508,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ### Round of 16
 
 | Day                | Time   | Player 1                         |     |     | Player 2                          | Match link                                            | Referee          | Streamer     | Casters                                    |
-|:-------------------|:-------|:---------------------------------|----:|:----|:----------------------------------|:------------------------------------------------------|:-----------------|:-------------|:-------------------------------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 27 March   | 17:00  | Palodex ::{ flag=ES }::          |   4 | 6   | ::{ flag=ES }:: **Jairofrancaso** | [#26](https://osu.ppy.sh/community/matches/120810276) | Furina           | Furina *no vod*      | towny, Jurumas                             |
 | Friday, 27 March   | 18:00  | marc559_ ::{ flag=ES }::         |   1 | 6   | ::{ flag=ES }:: **AARONGAMER1**   | [#24](https://osu.ppy.sh/community/matches/120809839) | Furina           | Furina *no vod*      | Jurumas, Scaryz                            |
 | Saturday, 28 March | 17:00  | **ESCRUPULILLO** ::{ flag=ES }:: |   6 | 1   | ::{ flag=ES }:: Scaryz            | [#25](https://osu.ppy.sh/community/matches/120817399) | Furina           | no stream    | -                                          |
@@ -529,7 +529,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ### Quarterfinals
 
 | Day               | Time   | Player 1                         |     |     | Player 2                      | Match link                                            | Referee          | Streamer     | Casters                                    |
-|:------------------|:-------|:---------------------------------|:----|:----|:------------------------------|:------------------------------------------------------|:-----------------|:-------------|:-------------------------------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Thursday, 2 April | 19:00  | **towny1** ::{ flag=ES }::       | 6   | 4   | ::{ flag=ES }:: JoanaBob      | [#48](https://osu.ppy.sh/community/matches/120853030) | Furina           | no stream    | -                                          |
 | Friday, 3 April   | 16:00  | aguacateh_ ::{ flag=ES }::       | 0   | FF  | ::{ flag=ES }:: - Izayoi -    | #38                                                   | *win by default* | no stream    | -                                          |
 | Friday, 3 April   | 19:00  | Murkano ::{ flag=ES }::          | 3   | 6   | ::{ flag=ES }:: **Derin**     | [#40](https://osu.ppy.sh/community/matches/120861027) | junamat          | no stream    | -                                          |
@@ -550,7 +550,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ### Semifinals
 
 | Day                | Time   | Player 1                          |     |     | Player 2                          | Match link                                            | Referee   | Streamer   | Casters                      |
-|:-------------------|:-------|:----------------------------------|----:|----:|:----------------------------------|:------------------------------------------------------|:----------|:-----------|:-----------------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Saturday, 11 April | 17:00  | **JoanaBob** ::{ flag=ES }::      |   7 |   5 | ::{ flag=ES }:: NHarmonia         | [#52](https://osu.ppy.sh/community/matches/120917639) | jdfs      | jdfs [vod](https://www.youtube.com/watch?v=SNhcuWlL4As)      | Hide in room, Scaryz         |
 | Saturday, 11 April | 19:00  | **Jairofrancaso** ::{ flag=ES }:: |   7 |   1 | ::{ flag=ES }:: aguacateh_        | [#49](https://osu.ppy.sh/community/matches/120918745) | jdfs      | jdfs [vod](https://www.youtube.com/watch?v=A4epOzrkQBk)      | Hide in room, Scaryz         |
 | Saturday, 11 April | 20:00  | **marbl** ::{ flag=ES }::         |   7 |   4 | ::{ flag=ES }:: Derin             | [#50](https://osu.ppy.sh/community/matches/120919222) | jdfs      | jdfs [vod](https://www.youtube.com/watch?v=bACyOtFftxU)      | Hide in room, Scaryz         |
@@ -563,7 +563,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ### Finals
 
 | Day                | Time   | Player 1                     |     |     | Player 2                      | Match link                                            | Referee          | Streamer   | Casters           |
-|:-------------------|:-------|:-----------------------------|----:|:----|:------------------------------|:------------------------------------------------------|:-----------------|:-----------|:------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Friday, 17 April   | 19:00  | [dekori] ::{ flag=ES }::     |   0 | FF  | ::{ flag=ES }:: Dario         | #57                                                   | *win by default* | no stream  | -                 |
 | Friday, 17 April   | 19:00  | **towny1** ::{ flag=ES }::   |   7 | 1   | ::{ flag=ES }:: Jairofrancaso | [#58](https://osu.ppy.sh/community/matches/120958985) | Furina           | Furina [vod](https://www.youtube.com/watch?v=9QSyb5yp3yQ)    | Scaryz, A L E P H |
 | Saturday, 18 April | 20:00  | **towny1** ::{ flag=ES }::   |   7 | 6   | ::{ flag=ES }:: [dekori]      | [#59](https://osu.ppy.sh/community/matches/120967175) | jdfs             | jdfs [vod](https://www.youtube.com/watch?v=BwMh2yAeqsc)      | Furina, junamat   |
@@ -572,7 +572,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ### Grand Finals
 
 | Day                | Time   | Player 1                      |     |     | Player 2                   | Match link                                            | Referee   | Streamer   | Casters                    |
-|:-------------------|:-------|:------------------------------|----:|----:|:---------------------------|:------------------------------------------------------|:----------|:-----------|:---------------------------|
+| :-- | :-- | :-- | --: | --: | :-- | :-- | :-- | :-- | :-- |
 | Saturday, 25 April | 19:00  | ESCRUPULILLO ::{ flag=ES }::  |   7 |   8 | ::{ flag=ES }:: **towny1** | [#61](https://osu.ppy.sh/community/matches/121012417) | Furina    | Furina [vod](https://www.youtube.com/watch?v=4Mvm3IUj4JI)    | Hide in room, jdfs, Scaryz |
 | Sunday, 26 April   | 18:00  | **A L E P H** ::{ flag=ES }:: |   8 |   2 | ::{ flag=ES }:: towny1     | [#62](https://osu.ppy.sh/community/matches/121019897) | jdfs      | Furina [vod](https://www.youtube.com/watch?v=JSsOagiNuGo)    | Furina, Scaryz             |
 
@@ -588,7 +588,7 @@ Now that we had 4 "boxes" per draft, we rolled a D4 and went through the cards i
 After the group stage, the two top players from each group go to round of 32 playoffs, assigning the seeds by doing an average seed for each group. Here's how it is done for each one of them:
 
 | Group | Avg. qualifying seed | Top 1 seed for playoffs | Top 2 seed for playoffs |
-| :-- | :--: | :--: | :--: |
+| :-- | :-: | :-: | :-: |
 | A | 31.25 | 20 | 28 |
 | B | 33.75 | 21 | 29 |
 | C | 29.00 | 17 | 25 |
@@ -603,7 +603,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group A
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #20 Fieera | 0 | 15 | 5 | 10 |
 | 2 | #28 Kalal331 | 0 | 14 | 6 | 8 |
 | 3 | Tenjun | 0 | 7 | 15 | -8 |
@@ -612,7 +612,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | A1 | Kalal331 | 4 - 5 | **Fieera** | [Link](https://osu.ppy.sh/community/matches/120674652) |
 | A2 | comandocYT | 0 - 5 | **Tenjun** | FF |
 | A3 | **Kalal331** | 5 - 0 | comandocYT | FF |
@@ -623,7 +623,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group B
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #21 Widelux13 | 0 | 15 | 4 | 11 |
 | 2 | #29 - Izayoi - | 0 | 13 | 10 | 3 |
 | 3 | Sakuya- | 0 | 9 | 10 | -1 |
@@ -632,7 +632,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | B1 | **Widelux13** | 5 - 3 | - Izayoi - | [Link](https://osu.ppy.sh/community/matches/120732641) |
 | B2 | **Sakuya**- | 5 - 0 | FestivalFour179 | [Link](https://osu.ppy.sh/community/matches/120722993) |
 | B3 | **Widelux13** | 5 - 1 | Sakuya- | [Link](https://osu.ppy.sh/community/matches/120731661) |
@@ -643,7 +643,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group C
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #17 Scaryz | 0 | 15 | 3 | 12 |
 | 2 | #25 _jeff | 0 | 12 | 8 | 4 |
 | 3 | aleotcapitalist | 0 | 9 | 11 | -2 |
@@ -652,7 +652,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | C1 | **Scaryz** | 5 - 2 | _jeff | [Link](https://osu.ppy.sh/community/matches/120666813) |
 | C2 | **aleotcapitalist** | 5 - 1 | MeiFTW | [Link](https://osu.ppy.sh/community/matches/120665907) |
 | C3 | **Scaryz** | 5 - 1 | aleotcapitalist | [Link](https://osu.ppy.sh/community/matches/120737781) |
@@ -663,7 +663,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group D
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #22 Murkano | 0 | 15 | 4 | 11 |
 | 2 | #30 Atisuma | 0 | 11 | 8 | 3 |
 | 3 | LaBestiaPrecoz | 0 | 8 | 13 | -5 |
@@ -672,7 +672,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | D1 | **Murkano** | 5 - 1 | atisuma | [Link](https://osu.ppy.sh/community/matches/120716557) |
 | D2 | **LaBestiaPrecoz** | 5 - 3 | Agatem | [Link](https://osu.ppy.sh/community/matches/120730337) |
 | D3 | **Murkano** | 5 - 0 | LaBestiaPrecoz | FF |
@@ -683,7 +683,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group E
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #19 Alexis_xX | 0 | 15 | 3 | 12 |
 | 2 | #27 marc559_ | 0 | 12 | 9 | 3 |
 | 3 | n0ught | 0 | 6 | 13 | -7 |
@@ -692,7 +692,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | E1 | **Alexis_xX** | 5 - 2 | marc559_ | [Link](https://osu.ppy.sh/community/matches/120721630) |
 | E2 | EDn | 3 - 5 | **n0ught** | [Link](https://osu.ppy.sh/community/matches/120723951) |
 | E3 | **Alexis_xX** | 5 - 1 | EDn | [Link](https://osu.ppy.sh/community/matches/120714829) |
@@ -703,7 +703,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group F
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #24 Alvaroping1 | 0 | 15 | 3 | 12 |
 | 2 | #32 Freire | 0 | 13 | 5 | 8 |
 | 3 | laGmaN | 0 | 5 | 13 | -8 |
@@ -712,7 +712,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | F1 | Freire | 3 - 5 | **Alvaroping1** | [Link](https://osu.ppy.sh/community/matches/120674157) |
 | F2 | Guillr | 3 - 5 | **laGmaN** | [Link](https://osu.ppy.sh/community/matches/120674629) |
 | F3 | **Freire** | 5 - 0 | Guillr | [Link](https://osu.ppy.sh/community/matches/120708772) |
@@ -723,7 +723,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group G
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | #18 Zodd | 0 | 15 | 5 | 10 |
 | 2 | #26 Zaik0 | 0 | 12 | 6 | 6 |
 | 3 | PEAC 3 | 0 | 7 | 12 | -5 |
@@ -732,7 +732,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | G1 | **Zodd** | 5 - 2 | PEAC 3 | [Link](https://osu.ppy.sh/community/matches/120667030) |
 | G2 | **Zaik0** | 5 - 1 | Pinwi_ | [Link](https://osu.ppy.sh/community/matches/120682219) |
 | G3 | **Zodd** | 5 - 2 | Zaik0 | [Link](https://osu.ppy.sh/community/matches/120683599) |
@@ -743,7 +743,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ### Group H
 
 | # | Player | Pts | PIF | PA | SUM |
-| :-- | :--- | :--: | :--: | :--: | :--: |
+| :-- | :-- | :-: | :-: | :-: | :-: |
 | 1 | Omeguii | 0 | 14 | 6 | 8 |
 | 2 | #23 Edrran | 0 | 15 | 8 | 7 |
 | 3 | #31 PEAC 2 | 0 | 8 | 10 | -2 |
@@ -752,7 +752,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 #### Match History
 
 | Match | Red Team | Score | Blue Team | MP Link |
-| :--- | :--- | :---: | :--- | :--- |
+| :-- | :-- | :-: | :-- | :-- |
 | H1 | **Omeguii** | 5 - 0 | PEAC 2 | [Link](https://osu.ppy.sh/community/matches/120684536) |
 | H2 | **Edrran** | 5 - 1 | leo24012007 | [Link](https://osu.ppy.sh/community/matches/120682713) |
 | H3 | Omeguii | 4 - 5 | **Edrran** | [Link](https://osu.ppy.sh/community/matches/120715709) |
