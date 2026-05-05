@@ -23,6 +23,16 @@ The **Lazer Grand Arena 2026** (***LGA 2026***) is an osu!(lazer) tournament hos
 | Bracket stage (single elimination) | 2026-05-16/2026-05-17 |
 | Top 8 (double elimination) | 2026-05-23/2026-05-24 |
 
+## Prizes
+
+Lazer Grand Arena 2026 offers a $1,000 cash prize pool.
+
+| Placing | Prizes |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, profile badge |
+
 ## Organisation
 
 The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and various community members.
