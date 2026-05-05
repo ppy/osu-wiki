@@ -59,19 +59,21 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 
 ## Links
 
-#### Last iterations
-- Spanish Showdown 2024: https://2024.spanishshowdown.es
-- Spanish Showdown 2025: https://2025.spanishshowdown.es
+### Last iterations
 
-#### About current iteration
-- Web: https://www.spanishshowdown.es
-- Twitch: https://twitch.tv/SpanishShowdown
-- Discord: https://discord.gg/cQ2j2Qu4Kb
-- Bracket: https://challonge.com/SS2026
-- Youtube: https://youtube.com/@SpanishShowdown
-- Liquipedia: https://liquipedia.net/osu/Spanish_Showdown/2026
-- Forum post: https://osu.ppy.sh/community/forums/topics/2176155
-- Fallback sheet: https://docs.google.com/spreadsheets/d/1FgbuKpRj0HYLiZOZQOS04q10KKCR18MGRTgaCbD3xCA/edit?gid=1648385434#gid=1648385434
+- Spanish Showdown 2024: <https://2024.spanishshowdown.es>
+- Spanish Showdown 2025: <https://2025.spanishshowdown.es>
+
+### About current iteration
+
+- Web: <https://www.spanishshowdown.es>
+- Twitch: <https://twitch.tv/SpanishShowdown>
+- Discord: <https://discord.gg/cQ2j2Qu4Kb>
+- Bracket: <https://challonge.com/SS2026>
+- Youtube: <https://youtube.com/@SpanishShowdown>
+- Liquipedia: <https://liquipedia.net/osu/Spanish_Showdown/2026>
+- Forum post: <https://osu.ppy.sh/community/forums/topics/2176155>
+- Fallback sheet: <https://docs.google.com/spreadsheets/d/1FgbuKpRj0HYLiZOZQOS04q10KKCR18MGRTgaCbD3xCA/edit?gid=1648385434#gid=1648385434>
 
 ## Participants
 
@@ -577,6 +579,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 ## Groups
 
 Groups were made with a draw. Players were separated in 2 different groups using qualifier results as follows:
+
 - First draft: Seeds 17-20, 25-28, 33-36, 41-44
 - Second draft: Seeds 21-24, 29-32, 37-40, 45-48
 
@@ -598,6 +601,7 @@ After the group stage, the two top players from each group go to round of 32 pla
 Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879) 
 
 ### Group A
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #20 Fieera | 0 | 15 | 5 | 10 |
@@ -606,6 +610,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | comandocYT | 0 | 0 | 15 | -15 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | A1 | Kalal331 | 4 - 5 | **Fieera** | [Link](https://osu.ppy.sh/mp/120674652) |
@@ -616,6 +621,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | A6 | **Fieera** | 5 - 0 | comandocYT | [Link](https://osu.ppy.sh/mp/120683552) |
 
 ### Group B
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #21 Widelux13 | 0 | 15 | 4 | 11 |
@@ -624,6 +630,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | FestivalFour | 0 | 2 | 15 | -13 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | B1 | **Widelux13** | 5 - 3 | - Izayoi - | [Link](https://osu.ppy.sh/mp/120732641) |
@@ -634,6 +641,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | B6 | **- Izayoi -** | 5 - 3 | Sakuya- | [Link](https://osu.ppy.sh/mp/120714430) |
 
 ### Group C
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #17 Scaryz | 0 | 15 | 3 | 12 |
@@ -642,6 +650,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | MeiFTW | 0 | 1 | 15 | -14 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | C1 | **Scaryz** | 5 - 2 | _jeff | [Link](https://osu.ppy.sh/mp/120666813) |
@@ -652,6 +661,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | C6 | **_jeff** | 5 - 3 | aleotcapitalist | [Link](https://osu.ppy.sh/mp/120730741) |
 
 ### Group D
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #22 Murkano | 0 | 15 | 4 | 11 |
@@ -660,6 +670,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | Agatem | 0 | 6 | 15 | -9 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | D1 | **Murkano** | 5 - 1 | atisuma | [Link](https://osu.ppy.sh/mp/120716557) |
@@ -670,6 +681,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | D6 | **atisuma** | 5 - 3 | LaBestiaPrecoz | [Link](https://osu.ppy.sh/mp/120684984) |
 
 ### Group E
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #19 Alexis_xX | 0 | 15 | 3 | 12 |
@@ -678,6 +690,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | EDn | 0 | 7 | 15 | -8 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | E1 | **Alexis_xX** | 5 - 2 | marc559_ | [Link](https://osu.ppy.sh/mp/120721630) |
@@ -688,6 +701,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | E6 | **marc559_** | 5 - 3 | EDn | [Link](https://osu.ppy.sh/mp/120675259) |
 
 ### Group F
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #24 Alvaroping1 | 0 | 15 | 3 | 12 |
@@ -696,6 +710,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | Guillr | 0 | 3 | 15 | -12 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | F1 | Freire | 3 - 5 | **Alvaroping1** | [Link](https://osu.ppy.sh/mp/120674157) |
@@ -706,6 +721,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | F6 | **Alvaroping1** | 5 - 0 | Guillr | [Link](https://osu.ppy.sh/mp/120666265) |
 
 ### Group G
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | #18 Zodd | 0 | 15 | 5 | 10 |
@@ -714,6 +730,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | Pinwi_ | 0 | 4 | 15 | -11 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | G1 | **Zodd** | 5 - 2 | PEAC 3 | [Link](https://osu.ppy.sh/mp/120667030) |
@@ -724,6 +741,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | G6 | PEAC 3 | 0 - 5 | **Zaik0** | FF |
 
 ### Group H
+
 | # | Player | Pts | PIF | PA | SUM |
 | :-- | :--- | :--: | :--: | :--: | :--: |
 | 1 | Omeguii | 0 | 14 | 6 | 8 |
@@ -732,6 +750,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 | 4 | leo24012007 | 0 | 2 | 15 | -13 |
 
 #### Match History
+
 | Match | Red Team | Score | Blue Team | MP Link |
 | :--- | :--- | :---: | :--- | :--- |
 | H1 | **Omeguii** | 5 - 0 | PEAC 2 | [Link](https://osu.ppy.sh/mp/120684536) |
@@ -744,6 +763,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 ## Ruleset
 
 ### General ruleset
+
 1. Score v2 will be used.
 2. Spanish-only tournament; only players with the Spanish flag on their profile may participate.
 3. Open Rank.
@@ -758,6 +778,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 12. Grand Finals: Best of 15.
 
 ### General structure
+
 1. This is a Spanish national 1v1 tournament for the osu!standard mode. Players may sign up regardless of their rank.
 2. All players must be in the tournament's Discord server for its duration; otherwise, they will be disqualified.
 3. Score V2 will always be used as the scoring metric.
@@ -769,12 +790,14 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 9. Tournament staff members cannot play in the tournament, with the exception of commentators, streamers, and GFX creators. Only eliminated players may participate in refereeing duties.
 
 ### Mappool structure
+
 1. Qualifiers (6.9*): 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
 2. Group Stage (6.3*), Ro32 (6.5*), Ro16 (6.8*): 5 NoMod, 2 Hidden, 2 HardRock, 3 DoubleTime, 1 Tiebreaker.
 3. QF (7.1*), SF (7.4*): 6 NoMod, 3 Hidden, 3 HardRock, 4 DoubleTime, 1 Tiebreaker.
 4. F (7.7*), GF (8.0*): 6 NoMod, 4 Hidden, 4 HardRock, 4 DoubleTime, 1 Tiebreaker.
 
 ### Qualifiers stage
+
 1. During qualifiers, after signing up for a lobby, 15 minutes before it starts, you will be notified through discord and 5 minutes before it you will receive in-game invitations (please ensure you are online).
 2. In case of not receiving the invitation or a sudden disconnection, contact the referee assigned to the room.
 3. Default lobby schedules will be available on the tournament website. If none of the lobbies suit you, you may request a new lobby in the dedicated Discord channel (#qualifiers-schedule).
@@ -786,6 +809,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 9. If someone intentionally decides not to play a map (remaining AFK for the entire duration), they will be penalized with a x0.75 multiplier to all their qualifier scores. This penalty will be reviewed on a case-by-case basis.
 
 ### Playoffs stage
+
 1. The room will be created, and invitations will be sent to both players. If you do not receive an invitation, let the staff know.
 2. Players are required to be punctual. Therefore, if a player is 10 minutes late from the established time, they will lose their bans. If they are 15 minutes late, the victory will be awarded to the opponent.
 3. You have until 12 hours before both the new and old match times to change the schedule (flexibility for this rule will be reviewed case-by-case; staff reserves the right to approve them).
