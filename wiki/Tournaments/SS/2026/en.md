@@ -371,7 +371,7 @@ Showcase VOD unavailable
 
 ### Qualifiers results
 
-Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](/wiki/en/Tournaments/Common_seeding_methods).
+Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](/wiki/Tournaments/Common_seeding_methods).
 
 Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/1).
 
@@ -950,7 +950,7 @@ Watch the drawing VOD [here!](https://youtu.be/ISG7TqshQVU&t=2879)
 3. Default lobby schedules will be available on the tournament website. If none of the lobbies suit you, you may request a new lobby in the dedicated Discord channel (#qualifiers-schedule).
 4. In the room, you will play the maps in order (NoMod -> Hidden -> HardRock -> DoubleTime) (10 maps).
 5. The mappool can only be played once.
-6. The scoring system used will be Z-Score. Refer to [this wiki page](/wiki/en/Tournaments/Common_seeding_methods) in order to check out how it works.
+6. The scoring system used will be Z-Score. Refer to [this wiki page](/wiki/Tournaments/Common_seeding_methods) in order to check out how it works.
 7. Qualifiers results will remain private throughout the process; lobby links will not be public either.
 8. If a player is found sniping mp links from qualifier rooms, they will be irrevocably disqualified without the possibility of appeal if they are participating in the tournament.
 9. If someone intentionally decides not to play a map (remaining AFK for the entire duration), they will be penalized with a x0.75 multiplier to all their qualifier scores. This penalty will be reviewed on a case-by-case basis.
