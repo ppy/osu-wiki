@@ -43,7 +43,7 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 
 ## Organisation
 
-| Position | Members |
+| Position | Member(s) |
 | :-- | :-- |
 | Hosts | ::{ flag=ES }:: Furina, ::{ flag=ES }:: jdfs, ::{ flag=ES }:: Hide in room |
 | Mappool Selection & QA | ::{ flag=ES }:: Hide in room, ::{ flag=ES }:: Sakorii, ::{ flag=ES }:: Furina |
@@ -59,21 +59,21 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 
 ## Links
 
-### Last iterations
-
-- Spanish Showdown 2024: <https://2024.spanishshowdown.es>
-- Spanish Showdown 2025: <https://2025.spanishshowdown.es>
-
 ### About current iteration
 
-- Web: <https://www.spanishshowdown.es>
-- Twitch: <https://twitch.tv/SpanishShowdown>
-- Discord: <https://discord.gg/cQ2j2Qu4Kb>
-- Bracket: <https://challonge.com/SS2026>
-- Youtube: <https://youtube.com/@SpanishShowdown>
-- Liquipedia: <https://liquipedia.net/osu/Spanish_Showdown/2026>
-- Forum post: <https://osu.ppy.sh/community/forums/topics/2176155>
-- Fallback sheet: <https://docs.google.com/spreadsheets/d/1FgbuKpRj0HYLiZOZQOS04q10KKCR18MGRTgaCbD3xCA/edit?gid=1648385434#gid=1648385434>
+- [Web](https://www.spanishshowdown.es)
+- [Twitch](https://twitch.tv/SpanishShowdown)
+- [Discord](https://discord.gg/cQ2j2Qu4Kb)
+- [Bracket](https://challonge.com/SS2026)
+- [Youtube](https://youtube.com/@SpanishShowdown)
+- [Liquipedia](https://liquipedia.net/osu/Spanish_Showdown/2026)
+- [Forum post](https://osu.ppy.sh/community/forums/topics/2176155)
+- [Fallback sheet](https://docs.google.com/spreadsheets/d/1FgbuKpRj0HYLiZOZQOS04q10KKCR18MGRTgaCbD3xCA/edit?gid=1648385434#gid=1648385434)
+
+### Last iterations
+
+- [Spanish Showdown 2024](https://2024.spanishshowdown.es) 
+- [Spanish Showdown 2025](https://2025.spanishshowdown.es)
 
 ## Participants
 
@@ -161,6 +161,9 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 
 ### Qualifiers
 
+**[Download the mappack here](https://drive.google.com/file/d/1kIngmO5VDQRgyo1hYO1s3ZnvS0lFgtRX/view?usp=sharing)**
+**[View the showcase VOD here](https://www.youtube.com/watch?v=0OJZtsKK4hs)**
+
 - NoMod
   1. [ShinRa-Bansho - Toge [:x]](https://osu.ppy.sh/beatmapsets/2254623#osu/4796031)
   2. [EBIMAYO - NIGHTMARE INVITATION [NIGHTMARE]](https://osu.ppy.sh/beatmapsets/2414345#osu/5245557)
@@ -176,9 +179,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
   1. [TRUE - DREAM SOLISTER [wkyik's Insane]](https://osu.ppy.sh/beatmapsets/359501#osu/790428)
   2. [senya - Yureru Koi wa Nami no Gotoku (Autobahn Remix) [Insane: Speed]](https://osu.ppy.sh/beatmapsets/1867693#osu/3842022)
 
-*[Mappool download here](https://drive.google.com/file/d/1kIngmO5VDQRgyo1hYO1s3ZnvS0lFgtRX/view?usp=sharing)*
-
 ### Group Stage
+
+**[Download the mappack here](https://drive.google.com/file/d/1493f5McwuqJMqmD-_G86LWbJOsQv0IgK/view?usp=sharing)**
+**[View the showcase VOD here](https://youtu.be/ISG7TqshQVU&t=5022)**
 
 - NoMod
   1. [supercell - Rock 'n' Roll Nandesu no [Rock 'n' Roll]](https://osu.ppy.sh/beatmapsets/1927622#osu/4653432)
@@ -199,9 +203,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 - Tiebreaker
   1. **[t+pazolite - Gumbarlzo! [FOREVER LOVED!]](https://osu.ppy.sh/beatmapsets/2476607#osu/5436733)**
 
-*[Mappool download here](https://drive.google.com/file/d/1493f5McwuqJMqmD-_G86LWbJOsQv0IgK/view?usp=sharing)*
-
 ### Round of 32
+
+**[Download the mappack here](https://drive.google.com/file/d/1phRnH2Y89DeGvmP-sBNUY6l5ynAH3IMv/view?usp=sharing)**
+**[View the showcase VOD here](https://www.youtube.com/watch?v=iS8rw_p7Ekw)**
 
 - NoMod
   1. [Tsubaki - Kyun Kyun Tamaran Inaba-tan. [Pyon Pyon ft. rollpan]](https://osu.ppy.sh/beatmapsets/2199045#osu/4653764)
@@ -222,9 +227,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 - Tiebreaker
   1. **[technoplanet - Fairy-tale Planetarium [Fantasista]](https://osu.ppy.sh/beatmapsets/1563083#osu/3191900)**
 
-*[Mappool download here](https://drive.google.com/file/d/1phRnH2Y89DeGvmP-sBNUY6l5ynAH3IMv/view?usp=sharing)*
-
 ### Round of 16
+
+**[Mappool download here](https://drive.google.com/file/d/1Yre3oSL1JaA2pfY-F90KX9pjQNE0RLjP/view?usp=sharing)**
+Showcase VOD unavailable
 
 - NoMod
   1. [Feryquitous feat. Natsume Itsuki - Happy Enforcer [Nau Mot 1]](https://osu.ppy.sh/beatmapsets/2251201/osu/4787734)
@@ -245,9 +251,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 - Tiebreaker
   1. **[Seraph - Resurrection [Fallen]](https://osu.ppy.sh/beatmapsets/2500857#osu/5501664)**
 
-*[Mappool download here](https://drive.google.com/file/d/1Yre3oSL1JaA2pfY-F90KX9pjQNE0RLjP/view?usp=sharing)*
-
 ### Quarterfinals
+
+**[Mappack download here](https://drive.google.com/file/d/16KrVenLNEVdw5P6jaJBy7gdSOyFre8xj/view?usp=sharing)**
+Showcase VOD unavailable
 
 - NoMod
   1. [Rise Against - Entertainment [end (me)]](https://osu.ppy.sh/beatmapsets/1416098#osu/2918331)
@@ -272,9 +279,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 - Tiebreaker
   1. **[Pirendora - eclipsization [May The Time God Be On Your Side For The Final Battle]](https://osu.ppy.sh/beatmapsets/2351558#osu/5060664)**
 
-*[Mappack download here](https://drive.google.com/file/d/16KrVenLNEVdw5P6jaJBy7gdSOyFre8xj/view?usp=sharing)*
-
 ### Semifinals
+
+**[Download the mappack here](https://drive.google.com/file/d/1bCtQs0JJHEqmcN-1QExg_HUkgUQOYfgR/view?usp=sharing)**
+**[View the showcase VOD here](https://www.youtube.com/watch?v=sk0sem-EaX0)**
 
 - NoMod
   1. [MyGO!!!!! - Utaimashou Narashimashou [111]](https://osu.ppy.sh/beatmapsets/2535010#osu/5605659)
@@ -299,9 +307,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 - Tiebreaker
   1. **[FELT - Lies in Reality [Reflection]](https://osu.ppy.sh/beatmapsets/1851016#osu/3802584)**
 
-*[Mappack download here](https://drive.google.com/file/d/1bCtQs0JJHEqmcN-1QExg_HUkgUQOYfgR/view?usp=sharing)*
-
 ### Finals
+
+**[Download the mappack here](https://drive.google.com/file/d/1WadsQZfYlUG3Y4EVAtCYR_r0Pd82g_rE/view?usp=sharing)**
+**[View the showcase VOD here](https://www.youtube.com/watch?v=abskrgz161A)**
 
 - NoMod
   1. [hasu - Pile Of Corpses [alden & melon's Abyss]](https://osu.ppy.sh/beatmapsets/2196123#osu/4647035)
@@ -328,9 +337,10 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 - Tiebreaker
   1. **[katagiri - Kyuukou [Echoes of the Forgotten]](https://osu.ppy.sh/beatmapsets/1952542#osu/4043359)**
 
-*[Mappack download here](https://drive.google.com/file/d/1WadsQZfYlUG3Y4EVAtCYR_r0Pd82g_rE/view?usp=sharing)*
-
 ### Grand Finals
+
+**[Mappack download here](https://drive.google.com/file/d/1Y4Ss9e_bRauL1QOFbG8KsoJwfkS1EWx6/view?usp=sharing)**
+**[View the showcase VOD here](https://www.youtube.com/watch?v=KCo_BzVNlPA)**
 
 - NoMod
   1. [FELT - Lost My Way [collab normal]](https://osu.ppy.sh/beatmapsets/2541987#osu/5628393)
@@ -356,8 +366,6 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
   4. [Minatsu Eru - Kessen [JHC's Another]](https://osu.ppy.sh/beatmapsets/2375327#osu/5253878)
 - Tiebreaker
   1. **[Laur - SEV-26 [Abnormal Severe Neural Decay]](https://osu.ppy.sh/beatmapsets/2511820#osu/5558461)**
-
-*[Mappack download here](https://drive.google.com/file/d/1Y4Ss9e_bRauL1QOFbG8KsoJwfkS1EWx6/view?usp=sharing)*
 
 ## Match results
 
