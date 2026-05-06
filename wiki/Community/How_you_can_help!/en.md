@@ -45,7 +45,7 @@ The osu! community has a significant competitive tournament scene for players of
 
 ## Help improve the future of osu!
 
-- If you have any ideas about how to improve the [ranking criteria](/wiki/Ranking_criteria), such as removing an outdated rule, write up a proposal, post it to [the Ranking Criteria forum](https://osu.ppy.sh/community/forums/87), and discuss it with other community members.
+- If you have any ideas about how to improve the [ranking criteria](/wiki/Ranking_criteria), such as removing an outdated rule, write up a proposal and post it to [the Ranking Criteria forum](https://osu.ppy.sh/community/forums/87), then discuss it with other community members.
 - If you found a bug in osu!(lazer), or if you have any other kind of suggestion about how to make osu!(lazer) better, read the [Contributing Guidelines](https://github.com/ppy/osu/blob/master/CONTRIBUTING.md) for the relevant GitHub repository to help you decide the best course of action, including opening an issue or discussion.
 - If you want to make a bug report or suggest an improvement to the website, [open an issue](https://github.com/ppy/osu-web/issues/new) on the website's GitHub repository.
 
