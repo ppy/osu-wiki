@@ -21,6 +21,7 @@ While official projects are for the most part run by the [osu! team](/wiki/Peopl
 
 | Logo | Name | Project lead | Description |
 | :-: | :-- | :-- | :-- |
+|  | [osu!arcade](/wiki/Community/Projects/osu!arcade) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Prototype for an arcade cabinet running a touch-based version of osu! |
 |  | [osu!performance](https://github.com/ppy/osu-performance/) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Part of the game handling the calculations of [performance points](/wiki/Performance_points) (pp) |
 | ![](img/logo_osu_stream.png) | [osu!stream](/wiki/osu!stream) | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | Special version of osu! for handheld iOS and Android devices |
 |  | [osu! iPhone](https://osu.ppy.sh/community/forums/topics/9193) | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Official iPhone port of osu! |
