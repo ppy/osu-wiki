@@ -7,7 +7,7 @@ Although it has *arcade* in its name, features typical for arcade machines like 
 ## First prototype
 
 ::: Infobox
-![osu!arcade machine at 2010's Wai-con](img/2010_Waicon.jpeg "osu!arcade machine at 2010's Wai-con")
+![osu!arcade machine at 2010's Wai-con](img/2010_Wai-con.jpg "osu!arcade machine at 2010's Wai-con")
 :::
 
 For the [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth in January 2010, peppy wanted to create a booth for osu! with the goal to make osu! more known in the local community.[^wai-con] With only a few days to prepare everything before the event, the first prototype for an arcade machine was spontaneously built. The prototype was a slanted box with external speakers at the side which used a modified version of osu!(stable) as the game.[^wai-con-video][^kingking9-profile]
@@ -19,7 +19,7 @@ Many convention visitors wanted to try out the arcade machine, so much so that a
 ## Second prototype
 
 ::: Infobox
-![Second prototype](img/Prototype_v2.jpg "Second prototype")
+![Second prototype](img/prototype_v2.jpg "Second prototype")
 :::
 
 Around early to mid 2012, a second prototype was developed.[^tweet-1][^tweet-2] It featured two speakers which were integrated into the cabinet. The touchscreen used a precise optical-based system.[^optical] Furthermore, an [Arduino](https://en.wikipedia.org/wiki/Arduino) [microcontroller](https://en.wikipedia.org/wiki/Microcontroller) controlled LED lights that would flash according to the music.[^music-light][^design-documents] Support for local multiplayer between two arcades was added in August 2012.[^local-multi]
