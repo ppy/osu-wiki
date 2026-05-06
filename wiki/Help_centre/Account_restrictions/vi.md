@@ -39,6 +39,7 @@ Có một vài lý do khiến một tài khoản bị hạn chế.
 - **Đó không phải là tài khoản đầu tiên của bạn.** Chơi nhiều tài khoản là phạm quy. Mọi tài khoản trừ tài khoản đầu tiên sẽ bị hạn chế vĩnh viễn, nhưng tài khoản gốc ở hầu hết các trường hợp sẽ không bị ảnh hưởng và chúng tôi mong bạn tiếp tục chơi bằng tài khoản đó. Nếu sự việc này nghiêm trọng hoặc đang lạm dụng hệ thống, tài khoản gốc có thể bị im lặng để cảnh cáo bạn tránh tạo thêm tài khoản, và lệnh hạn chế sẽ được áp dụng nếu việc này vẫn tiếp tục tái diễn. Nếu tài khoản của bạn bị hạn chế và bạn biết mình còn tài khoản khác, xin đừng truy cập vào các tài khoản bị hạn chế mà hay quay về với cái gốc. Nếu bạn gặp vấn đề về việc truy cập hay xác thực, xin hãy gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) để chúng tôi có thể giúp bạn khôi phục lại quyền truy cập.
 - **Bạn đã cho người khác chơi trên tài khoản của bạn.** Chia sẻ tài khoản cũng phạm quy. Nếu bạn cho ai đó dùng tài khoản của bạn, nó sẽ bị hạn chế, và người chơi sử dụng nó cũng có thể sẽ bị im lặng hoặc hạn chế. Nếu điều này chỉ là do sơ ý, hãy cho chúng tôi biết càng sớm càng tốt qua email [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **Bạn gian lận.** Sử dụng chương trình từ bên thứ ba, macros hay bất cứ hình thức gì giúp bạn có lợi thế không công bằng sẽ khiến tài khoản bạn bị hạn chế ngay lập tức.
+- **Bạn tiếp tục cư xử không đúng mực hoặc đăng nội dung không phù hợp.** Người dùng khi nhận được [im lặng](/wiki/Help_centre/Silences) sau vi phạm quy tắc trong trò chuyện, bình luận, thảo luận beatmap, trên diễn đàn, hoặc trong các trường hợp khác sẽ bị hạn chế sau đó. [Nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) sẽ cung cấp cho người dùng một cảnh báo cuối cùng nếu họ sắp bị hạn chế do lịch sử gần đây của họ đối với im lặng và vi phạm quy tắc. 
 - **Lý do khác.** Đội ngũ quản lý tài khoản có quyền hạn chế một tài khoản cho các trường hợp không được đề cập ở ba điều trên.
 
 Nếu việc hạn chế tài khoản của bạn là chính đáng, chúng tôi yêu cầu bạn phải chờ một khoảng thời gian trước khi xin khiếu nại. Cái này được gọi là *thời gian chờ*, và khoảng thời gian này thay đổi tuỳ vào lỗi vi phạm.
@@ -53,7 +54,7 @@ Nếu việc hạn chế tài khoản của bạn là chính đáng, chúng tôi
 
 ## Thời gian chờ của tôi đã hết. Khiếu nại thế nào? {id=appeal}
 
-Bạn có thể khiếu nại bằng cách gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) có ghi tên tài khoản của bạn. Hãy chắc là bạn gửi khiếu nại từ địa chỉ email liên kết với tài khoản của bạn. Sau khi gửi khiếu nại, hãy chờ phản hồi trong khoảng 1 tuần. Nếu bạn không nhận được phản hồi sau 1 tuần, hãy liên hệ chúng tôi qua twitter hoặc email - có khả năng chúng tôi chưa nhận được email của bạn.
+Bạn có thể khiếu nại bằng cách gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) với dòng tiêu đề `Restriction Appeal: <username>`. Hãy chắc là bạn gửi khiếu nại từ địa chỉ email liên kết với tài khoản của bạn. Sau khi gửi khiếu nại, hãy chờ phản hồi trong khoảng 2 tuần. Nếu bạn không nhận được phản hồi sau đó, đừng ngần ngại gửi email nhắc lại, vì email ban đầu có thể đã bị thất lạc vì lý do nào đó.
 
 Khi khiếu nại, chúng tôi mong bạn sẽ đề cập những thứ sau đây:
 
