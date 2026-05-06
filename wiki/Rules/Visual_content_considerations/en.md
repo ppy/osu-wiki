@@ -5,21 +5,21 @@ tags:
 
 # Visual content considerations
 
-As per [Community Rule #5](/wiki/Rules#community-rules), all visual content submitted or uploaded to osu! must be considered as appropriate for an all-ages game.
+As per [community rule 5](/wiki/Rules#community-rules), all visual content (i.e. images, videos and links) uploaded to or made available from osu! must be appropriate for an all-ages game.
 
 This includes:
 
-- submitted beatmaps, **even those tagged as [explicit](/wiki/Rules/Explicit_content)**
-- profile details (avatars, cover images)
-- any other attachments or hyperlinks (forum posts, comments, beatmap discussion posts)
-
-In the interest of keeping things as clean as possible, Community Rule 5 applies to anything that could be reasonably considered "questionable".
+- content in submitted beatmaps (background images, videos, storyboards), **even those tagged as [explicit](/wiki/Rules/Explicit_content)**
+- profile details (avatars, cover images and userpages)
+- any other attachments or hyperlinks (forum posts, comments, beatmap discussion posts, etc.)
 
 ## Important things to consider
 
+In the interest of keeping things as clean as possible, community rule 5 applies to anything that could be reasonably considered "questionable".
+
 All pictures should be judged as they are, without factoring in any other cases before them. Decide based on what you see.
 
-Please also understand that we are a global, multicultural community with widely varying thoughts, opinions, and values on the topic of what is and isn't allowed.
+Please also understand that we are a global, multicultural community with widely varying thoughts, opinions and values on the topic of what is and isn't allowed.
 
 When in doubt, aim to accommodate the collective values shared by the largest portion of the osu! community in general.
 
@@ -47,19 +47,19 @@ Images or visual elements containing examples of the following may be considered
 - mild romance, flirting or intimate affection (hugging, embracing, kissing without sexual connotations, hand-holding, etc.)
 - swimsuits of reasonable design (standard swimwear with general coverage, ordinary bikini)
 
-In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (ie: specifically created) video content. This must be granted directly from the support team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
+In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (i.e. specifically created) video content. This must be granted directly from the support team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Getting your image assessed
 
 *See: [Content voting process](/wiki/Rules/Content_voting_process).*
 
-Images that are used anywhere on the site outside of a beatmap (avatars, profile covers, userpages, etc) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
+Visual content that is used anywhere on the site outside of a beatmap (avatars, profile covers, beatmap descriptions, etc.) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 
-If you are unsure about an image that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The image will be raised to a vote that must pass by a considerable majority, or will be automatically denied.
+If you are unsure about any visual content that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The visual content will be raised to a vote that must pass by a considerable majority, or it will be automatically denied.
 
-**The result of any vote is final**, unless the image is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
+**The result of any vote is final**, unless the visual content is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
-At all times, [the osu! team](/wiki/People/osu!_team) reserves the right to unilaterally declare any piece of content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
+At all times, [the osu! team](/wiki/People/osu!_team) reserves the right to unilaterally declare any content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
 
 ## What happens if my image isn't okay?
 
