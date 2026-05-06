@@ -69,7 +69,7 @@ Ví dụ: !report người_dùng_đó suspected cheating.
 
 Sự giúp đỡ của bạn trong việc phát hiện hành vi gian lận rất được trân trọng. Chúng tôi xem xét mọi báo cáo mà chúng tôi nhận được, nhưng điều đó không có nghĩa là tất cả chúng đều sẽ dẫn đến chúng tôi thực hiện hành động! bạn cũng có thể gửi email trực tiếp đến [osu@ppy.sh](mailto:osu@ppy.sh) để nhận được phản hồi tương đối nhanh chóng.
 
-## Làm thế nào tôi có thể kháng cáo hạn chế của mình khi vi phạm? {id=appeal}
+## Làm thế nào tôi có thể kháng cáo hạn chế của mình khi bị hạn chế? {id=appeal}
 
 Đợi ít nhất ba tháng (sáu tháng nếu bạn gian lận) sau khi hạn chế mới nhất được áp dụng trước khi kháng cáo,[^restriction-length] gửi email của bạn đến [accounts@ppy.sh](mailto:accounts@ppy.sh) và sử dụng dòng tiêu đề là `Restriction Appeal: <tên người dùng>`
 
