@@ -1,10 +1,14 @@
 # How you can help
 
-osu! has a very vibrant community composed of people from all around the world, and anyone can be a part of the community in their own way! Below are just some of the ways you can help the community:
+osu! has a very vibrant community composed of people from all around the world, and anyone can be a part of the community in their own way! 
+
+While this article cannot cover all the ways you can help the osu! community, **even just playing the game can make osu! even more awesome**!
+
+Below are just some of the ways you can help the community:
 
 ## Help out with the wiki
 
-The wiki is osu!'s official knowledge base that contains just about everything you might want to know about osu!. As such, the osu! wiki is always looking for people to keep its information up to date, add fresh information about almost anything related to osu!, translate articles to their native languages, or even just fix typos.
+The wiki is osu!'s official knowledge base that contains just about everything you might want to know about osu!. As such, the osu! wiki is always looking for people to keep its information up-to-date, add fresh information about almost anything related to osu!, translate articles to their native languages, or even just fix typos.
 
 If you want to learn more on how to propose changes to the osu! wiki, read the [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide). If you're looking for ways to help out, see [the wiki's issue tracker](https://github.com/ppy/osu-wiki/issues) or [this page on wiki maintenance](/wiki/osu!_wiki/Maintenance#routines).
 
@@ -41,14 +45,10 @@ The osu! community has a significant competitive tournament scene for players of
 - If you want to help out by staffing, look for a tournament or contest with open staff applications. If you're new, it's recommended to pick one that's not badged (i.e. officially supported) or otherwise high-stakes. 
 - Give **constructive** criticism to the organisers of a tournament. Most tournaments and contests will have Discord channels, forms, or other dedicated avenues for providing feedback.
 - If you notice a violation of the official support rules in an officially supported contest or tournament, please [report it to the relevant committee](https://tcomm.hivie.tn/reports/create).
-- **If you have accumulated significant experience staffing community events**, try organising and hosting your own tournament or contests!
+- **If you have accumulated significant experience staffing community events**, try organising and hosting your own tournament or contest!
 
 ## Help improve the future of osu!
 
 - If you have any ideas about how to improve the [ranking criteria](/wiki/Ranking_criteria), such as removing an outdated rule, write up a proposal and post it to [the Ranking Criteria forum](https://osu.ppy.sh/community/forums/87), then discuss it with other community members.
 - If you found a bug in osu!(lazer), or if you have any other kind of suggestion about how to make osu!(lazer) better, read the [Contributing Guidelines](https://github.com/ppy/osu/blob/master/CONTRIBUTING.md) for the relevant GitHub repository to help you decide the best course of action, including opening an issue or discussion.
 - If you want to make a bug report or suggest an improvement to the website, [open an issue](https://github.com/ppy/osu-web/issues/new) on the website's GitHub repository.
-
----
-
-While this article cannot cover all the ways you can help the osu! community, even just playing the game can make osu! even more awesome!
