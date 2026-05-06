@@ -54,7 +54,7 @@ Nếu việc hạn chế tài khoản của bạn là chính đáng, chúng tôi
 
 ## Thời gian chờ của tôi đã hết. Khiếu nại thế nào? {id=appeal}
 
-Bạn có thể khiếu nại bằng cách gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) với dòng tiêu đề `Restriction Appeal: <username>`. Hãy chắc là bạn gửi khiếu nại từ địa chỉ email liên kết với tài khoản của bạn. Sau khi gửi khiếu nại, hãy chờ phản hồi trong khoảng 2 tuần. Nếu bạn không nhận được phản hồi sau đó, đừng ngần ngại gửi email nhắc lại, vì email ban đầu có thể đã bị thất lạc với lý do nào đó.
+Bạn có thể khiếu nại bằng cách gửi email tới [accounts@ppy.sh](mailto:accounts@ppy.sh) với dòng tiêu đề `Restriction Appeal: <username>`. Hãy chắc là bạn gửi khiếu nại từ địa chỉ email liên kết với tài khoản của bạn. Sau khi gửi khiếu nại, hãy chờ phản hồi trong khoảng 2 tuần. Nếu bạn không nhận được phản hồi sau đó, đừng ngần ngại gửi email nhắc lại, vì email trước đó có thể đã bị thất lạc.
 
 Khi khiếu nại, chúng tôi mong bạn sẽ đề cập những thứ sau đây:
 
