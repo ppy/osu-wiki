@@ -19,7 +19,7 @@ tags:
 |  |  |
 | :-- | :-- |
 | Acrónimo | TC |
-| Tipo | Diversión |
+| Tipo | Aumento de dificultad |
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | 1,00x |
 | Estado | Clasificado |

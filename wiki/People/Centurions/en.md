@@ -1,20 +1,20 @@
 # Centurions
 
-Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) [Ranked](/wiki/Beatmap/Category#ranked) [beatmaps](/wiki/Beatmap). Starting from [11 July 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), their outstanding dedication towards helping make osu! more awesome through beatmaps is recognised through the following rewards:
+Centurions are users who have achieved the prestigious milestone of creating **one hundred** (or more) [ranked](/wiki/Beatmap/Category#ranked) [beatmaps](/wiki/Beatmap). Starting from [11 July 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), their outstanding dedication towards helping make osu! more awesome through beatmaps is recognised through the following rewards:
 
-- The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 Ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
+- The Centurion [beatmap packs](/wiki/Beatmap/Packs): for each 100 ranked beatmaps, the mapper will be granted the opportunity to select 10 beatmaps to be included in a beatmap pack, which will be available for download in the [theme category](https://osu.ppy.sh/beatmaps/packs?type=theme) of the [beatmap pack listing](https://osu.ppy.sh/beatmaps/packs).
 - A special Centurion [profile badge](/wiki/Community/Profile_badge).
 
 ![Centurion badge](img/centurion.png "Centurion badge (100+ beatmaps ranked)")
 
 ## List of Centurions
 
-| Name | 1st Ranked beatmap | 100th Ranked beatmap | Centurion packs |
+| Name | 1st ranked beatmap | 100th ranked beatmap | Centurion packs |
 | :-- | :-- | :-- | :-- |
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | [2022-05-28](https://osu.ppy.sh/beatmapsets/1475077) | [2025-11-11](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | [2020-07-13](https://osu.ppy.sh/beatmapsets/1173956) | [2025-04-28](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [2019-11-06](https://osu.ppy.sh/beatmapsets/1057765) | [2023-08-23](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-01-11](https://osu.ppy.sh/beatmapsets/11975) | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [2009-02-27](https://osu.ppy.sh/beatmapsets/5396)[^andrea-first-ranked-date] | [2010-12-10](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [2018-05-06](https://osu.ppy.sh/beatmapsets/757813) | [2019-09-26](https://osu.ppy.sh/beatmapsets/935244) |  |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [2015-11-02](https://osu.ppy.sh/beatmapsets/329829) | [2019-10-31](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | [2007-10-25](https://osu.ppy.sh/beatmapsets/122) | [2010-08-04](https://osu.ppy.sh/beatmapsets/17885) |  |
@@ -36,6 +36,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | [2015-03-21](https://osu.ppy.sh/beatmapsets/278813) | [2024-12-23](https://osu.ppy.sh/beatmapsets/2211027) | [#1](https://osu.ppy.sh/beatmaps/packs/TM27) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [2017-12-09](https://osu.ppy.sh/beatmapsets/623924) | [2020-11-24](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | [2016-11-18](https://osu.ppy.sh/beatmapsets/474376) | [2026-03-14](https://osu.ppy.sh/beatmapsets/2467848) | [#1](https://osu.ppy.sh/beatmaps/packs/TM37) |
 | ::{ flag=PL }:: [ririco](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-09-28](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [2021-10-12](https://osu.ppy.sh/beatmapsets/1493511) | [2025-09-17](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
@@ -49,5 +50,9 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 
 ## Trivia
 
-- The first user to reach 100 Ranked beatmaps was ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), on 4 August 2010.
-- Amongst all Centurions, it takes approximately **5.5 years** (around 2021 days) to rank 100 beatmaps on average.<!--Stats available at https://chromb.uk/centurions/data.json , now automated by chromb.-->
+- The first user to reach 100 ranked beatmaps was ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), on 4 August 2010.
+- Amongst all Centurions, it takes approximately **5.6 years** (around 2059 days) to rank 100 beatmaps on average.<!--Stats available at https://chromb.uk/centurions/data.json , now automated by chromb.-->
+
+## Notes
+
+[^andrea-first-ranked-date]: Due to a system glitch, the website incorrectly shows [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) as ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599)'s first ranked beatmap (with a listed date of 2009-01-11). However, this beatmap was actually ranked roughly a year later on [2010-01-14](https://osu.ppy.sh/community/forums/posts/295050) instead.

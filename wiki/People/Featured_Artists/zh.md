@@ -4,7 +4,7 @@ tags:
   - 精选艺术家
   - 艺术家
 outdated_translation: true
-outdated_since: 4a57d1720d1bc5b89b904b0d0f3d29020d32e9df
+outdated_since: 05a8dcd9e67c270f7391bfe96d8eb97c535c5636
 ---
 
 # 精选艺术家
@@ -112,6 +112,7 @@ outdated_since: 4a57d1720d1bc5b89b904b0d0f3d29020d32e9df
 | ::{ flag=JP }:: [MIDInco](https://osu.ppy.sh/users/3809507) | [MIDInco](https://osu.ppy.sh/beatmaps/artists/515) |
 | ::{ flag=US }:: [MintyDoggo](https://osu.ppy.sh/users/10416815) | [Myntian](https://osu.ppy.sh/beatmaps/artists/495) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
+| ::{ flag=MY }:: [mochasan_](https://osu.ppy.sh/users/23804364) | [Ariz Kayaba](https://osu.ppy.sh/beatmaps/artists/533) |
 | ::{ flag=FI }:: [naikou_i_guess](https://osu.ppy.sh/users/29139453) | [Naikou](https://osu.ppy.sh/beatmaps/artists/471) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |

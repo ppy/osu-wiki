@@ -1,6 +1,14 @@
 ---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - muteo
+  - mutear
+  - baneo del chat
+  - baneado del chat
 outdated_translation: true
-outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 ---
 
 # Silencio
@@ -10,7 +18,7 @@ outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
 ## Limitaciones
 
 ::: Infobox
-![](img/silence-profile-ES.png "Registro de un silencio en la página de perfil")
+![](img/silence-profile-ES.png?1 "Registro de un silencio en la página de perfil")
 :::
 
 Un usuario que tiene un silencio activo no puede hacer lo siguiente:

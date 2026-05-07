@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 219425135e0e352c29938c496df2e189d65caec8
+---
+
 # 百夫长
 
 百夫长即已经达成了里程碑——创作了一百张（或更多）[已上架](/wiki/Beatmap/Category#ranked)[谱面](/wiki/Beatmap)的玩家。从 [2023 年 7 月](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories)开始，他们通过制作谱面，帮助 osu! 变得更加出色多彩的杰出奉献精神已被认可；并获得了以下奖励：
@@ -36,6 +41,7 @@
 | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | [2015-03-21](https://osu.ppy.sh/beatmapsets/278813) | [2024-12-23](https://osu.ppy.sh/beatmapsets/2211027) | [#1](https://osu.ppy.sh/beatmaps/packs/TM27) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [2017-03-13](https://osu.ppy.sh/beatmapsets/542755) | [2019-08-31](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [2017-12-09](https://osu.ppy.sh/beatmapsets/623924) | [2020-11-24](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | [2016-11-18](https://osu.ppy.sh/beatmapsets/474376) | [2026-03-14](https://osu.ppy.sh/beatmapsets/2467848) | [#1](https://osu.ppy.sh/beatmaps/packs/TM37) |
 | ::{ flag=PL }:: [ririco](https://osu.ppy.sh/users/700887) | [2011-03-28](https://osu.ppy.sh/beatmapsets/26544) | [2024-08-01](https://osu.ppy.sh/beatmapsets/2106029) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [2017-06-10](https://osu.ppy.sh/beatmapsets/598791) | [2022-09-28](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [2021-10-12](https://osu.ppy.sh/beatmapsets/1493511) | [2025-09-17](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
@@ -50,4 +56,4 @@
 ## 冷知识
 
 - 第一个上架 100 张谱面的玩家是 ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363)，于 2010 年 8 月 4 日达成。
-- 总体来说，上架 100 张谱面平均需要 **5.5 年**（大约 2021 天）。<!--Stats from https://chromb.uk/centurions/data.json-->
+- 总体来说，上架 100 张谱面平均需要 **5.6 年**（大约 2059 天）。<!--Stats from https://chromb.uk/centurions/data.json-->

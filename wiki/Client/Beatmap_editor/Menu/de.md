@@ -126,7 +126,7 @@
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Informationsseite dieser Beatmap | Öffnet die Informationsseite der Beatmap auf der osu!-Webseite. |
+| Informationsseite dieser Beatmap | Öffnet die [Informationsseite der Beatmap](/wiki/Beatmap_information) auf der osu!-Webseite. |
 | Forenbeitrag dieser Beatmap | Öffnet den Beatmap-Thread. |
 
 ## Hilfe
