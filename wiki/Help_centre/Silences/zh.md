@@ -6,6 +6,8 @@ tags:
   - 禁言
   - 超时
   - 聊天封禁
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 ---
 
 # 禁言
@@ -15,7 +17,7 @@ tags:
 ## 限制
 
 ::: Infobox
-![](img/silence-profile-ZH.png "个人主页的被禁言记录")
+![](img/silence-profile-ZH.png?1 "个人主页的被禁言记录")
 :::
 
 处于禁言状态的玩家不能：

@@ -126,7 +126,7 @@ Cada punto de tiempo influye en una parte específica del mapa, comúnmente llam
 
 *Sintaxis de los puntos de tiempo:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
-- **`time` (Entero):** Tiempo de inicio de la sección de tiempo, en milisegundos desde el comienzo del audio del beatmap. El final de la sección de tiempo es el tiempo del siguiente punto de tiempo (o nunca, si este es el último punto de tiempo).
+- **`time` (Decimal):** Tiempo de inicio de la sección de tiempo, en milisegundos desde el comienzo del audio del beatmap. El final de la sección de tiempo es el tiempo del siguiente punto de tiempo (o nunca, si este es el último punto de tiempo).
 - **`beatLength` (Decimal):** Esta propiedad tiene dos significados:
   - Para los puntos de tiempo no heredados, la duración de un pulso, en milisegundos.
   - Para los puntos de tiempo heredados, un multiplicador de velocidad del slider inverso negativo, como porcentaje. Por ejemplo, `-50` haría que todos los sliders en esta sección de tiempo fueran el doble de rápidos que `SliderMultiplier`.

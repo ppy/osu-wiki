@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 322adbb5c9e8e17fc68e6e7f019e8ca93bd53544
 tags:
   - beatmap packs
   - pack
