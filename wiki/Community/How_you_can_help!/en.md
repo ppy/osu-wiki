@@ -1,10 +1,6 @@
 # How you can help!
 
-osu! has a very vibrant community composed of people from all around the world, and anyone can be a part of the community in their own way! 
-
-While this article cannot cover all the ways you can help the osu! community, **even just playing the game can make osu! even more awesome**!
-
-Below are just some of the ways you can help the community:
+osu! has a very vibrant community composed of people from all around the world, and anyone can be a part of the community in their own way! Below are just some of the ways you can help the community:
 
 ## Help out with the wiki
 
@@ -14,9 +10,9 @@ If you want to learn more on how to propose changes to the osu! wiki, read the [
 
 ## Help others improve their beatmaps
 
-In osu!, all beatmaps are made by members of the community. However, learning to make good beatmaps is a long process, and proper feedback is essential when doing so. Anyone can offer this feedback, including you! Giving feedback on a beatmap in order to improve the map or the mapper is called *modding*. If you're looking to start doing this, read about [how to mod](/wiki/Modding#how-to-mod) and make sure to check the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). You might also want to read about [common mistakes new modders make](/wiki/Guides/Common_modding_mistakes) to avoid making similar mistakes yourself.
+In osu!, all beatmaps are made by members of the community. However, learning to make good beatmaps is a long process, and proper feedback is essential when doing so. The process of offering constructive feedback is called *modding*, and anyone, including you, can participate! For starters, learn [how to mod](/wiki/Modding#how-to-mod) and make sure to check the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). You might also want to read about [common mistakes new modders make](/wiki/Guides/Common_modding_mistakes) to avoid making them yourself.
 
-If you are playing a map that is going for the [Ranked](/wiki/Beatmap/Category#ranked) status and notice something that could be improved about it, don't hesitate to give feedback! If you're looking to delve deeper into modding, consider setting up a modding queue in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60). Please read about [how the forum works](https://osu.ppy.sh/community/forums/topics/726725) before you do so.
+If you are playing a map that is going for the [Ranked](/wiki/Beatmap/Category#ranked) status and notice something that could be improved, don't hesitate to give feedback! If you're looking to delve deeper into modding, consider setting up a modding queue in the [Modding Queues forum](https://osu.ppy.sh/community/forums/60). Please read about [how the forum works](https://osu.ppy.sh/community/forums/topics/726725) before you do so.
 
 ## Help keep osu! clean and safe
 
@@ -24,12 +20,8 @@ If you are playing a map that is going for the [Ranked](/wiki/Beatmap/Category#r
 
 osu! has a team — the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT) — that is dedicated to keeping the game a safe place for everybody by monitoring the forums, chat and other parts of the website around the clock as well as responding to reports of misbehaviour. That said, you can also help keep osu! safe and friendly!
 
-- Read the [rules](/wiki/Rules), [visual content considerations](/wiki/Rules/Visual_content_considerations), [song content rules](/wiki/Rules/Song_content_rules), and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). Knowing the rules in the first place helps you both understand when to report misbehaviour and prevent breaking the rules yourself.
-- If you see someone you think is breaking the rules, [report them](/wiki/Reporting_bad_behaviour). A GMT member will respond to your report promptly.
-- If your report has gone unanswered after several days, send a moderator a message and ask why. Sometimes, they will not have answered it because they just haven't gotten to it yet. Other times, the content you reported will have been deemed to be unproblematic. Take it as a chance to learn how the rules are applied in practice. 
-- If you see someone you think is cheating, [report the user](/wiki/Reporting_bad_behaviour#profile-page) or [their potentially cheated scores](/wiki/Reporting_bad_behaviour#score-listing) — **do not** mention their names in chat, forums or anywhere else on osu!, as this can encourage cheating. If you need further tools for analysis of a suspicious score, use a community-maintained replay analysis tool such as [Circleguard](https://github.com/circleguard/circleguard).
-- If you think a map that is about to be Ranked has a questionable or inappropriate background, submit a report via [the BN Management website](https://bn.mappersguild.com/reports). You can make the difference between an inappropriate background making it to Ranked and it being stopped!
-- If you get silenced yourself, contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and ask them for an explanation if you're at all unsure what the reason is. This can help you understand the rules better and thereby make it less likely that you get silenced again.
+- Read the [rules](/wiki/Rules) thoroughly. If you see something you think breaks the rules, [report it](/wiki/Reporting_bad_behaviour). A GMT member will respond to your report promptly. If your report was about potential foul play, and you need further tools for analysis of a suspicious score, use a community-maintained replay analysis tool such as [Circleguard](https://github.com/circleguard/circleguard).
+- If you think a map that is about to be Ranked has a questionable or inappropriate background, submit a report via [the BN Management website](https://bn.mappersguild.com/reports). You can make the difference between an inappropriate background making it to the Ranked section and it being stopped!
 
 ## Help other people have fun
 
