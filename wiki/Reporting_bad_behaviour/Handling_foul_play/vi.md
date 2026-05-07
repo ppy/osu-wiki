@@ -16,13 +16,13 @@ Các [quy tắc](/wiki/Rules) chỉ ra rằng bất kỳ hình thức thao túng
 
 ## Sử dụng phần cứng chuyên dụng có được coi là gian lận không? {id=hardware}
 
-Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ. Điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc những thứ tương tự vậy đều bị coi là không được phép.
+Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ. Điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc những thứ tương tự vậy đều không được phép.
 
-## Điều gì được coi là sử dụng nhiều tài khoản và chia sẻ tài khoản? {id=multi-share}
+## Điều gì được coi là sử dụng nhiều tài khoản hoặc chia sẻ tài khoản? {id=multi-share}
 
 Mỗi người chỉ có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm. Vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước đó sẽ bị hạn chế. Lưu ý rằng tạo tài khoản phụ để tham gia giải đấu được xem là vi phạm đặc biệt nghiêm trọng và sẽ dẫn đến hạn chế ngay lập tức, cũng như kèm theo một [lệnh cấm vô thời hạn khỏi bất kỳ giải đấu và cuộc thi được hỗ trợ chính thức](/wiki/Help_centre/Tournament_sanctions#lệnh-cấm-thi-đấu) nếu vi phạm liên quan đến sự kiện như thế.
 
-Việc cho phép người khác sử dụng tài khoản của người dùng khác cũng bị nghiêm cấm tuyệt đối, và sẽ thường gây ra hạn chế trong lần vi phạm đầu tiên. Việc này nhằm ngăn người chơi kĩ năng cao hơn "boost" tài khoản người dùng khác hoặc sử dụng để tham gia giải đấu nằm ngoài phạm vi kĩ năng của họ, cũng như để ngăn người dùng khỏi việc tránh né hình phạt được đặt ra cho tài khoản gốc. Nếu bạn vô tình lỡ cho phép người dùng khác chơi trên tài khoản của bạn, vui lòng liên hệ [accounts@ppy.sh](mailto:accounts@ppy.sh) để giải thích càng sớm càng tốt. 
+Việc cho phép người khác sử dụng tài khoản của người dùng khác cũng bị nghiêm cấm tuyệt đối, và thường sẽ gây ra hạn chế trong lần vi phạm đầu tiên. Việc này nhằm ngăn người chơi kĩ năng cao hơn "boost" tài khoản người dùng khác hoặc sử dụng để tham gia giải đấu nằm ngoài phạm vi kĩ năng của họ, cũng như để ngăn người dùng khỏi việc tránh né hình phạt được đặt ra cho tài khoản gốc. Nếu bạn đã vô tình cho phép người dùng khác chơi trên tài khoản của bạn, vui lòng liên hệ [accounts@ppy.sh](mailto:accounts@ppy.sh) càng sớm càng tốt. 
 
 ## Tôi đã bị hạn chế vì chơi không công bằng, nhưng tôi không làm trái luật! {id=false-restriction}
 
