@@ -428,7 +428,6 @@ Sunday, 13 July 2025:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bojii** ::{ flag=PH }:: | **7** | 0 | ::{ flag=PH }:: lyvet | [#1](https://osu.ppy.sh/community/matches/118663903) |
-| lyvet ::{ flag=PH }:: | 0 | 0 | ::{ flag=PH }:: bojii | [#1]() |
 
 #### Finals
 

@@ -36,6 +36,7 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | [21/03/2015](https://osu.ppy.sh/beatmapsets/278813) | [23/12/2024](https://osu.ppy.sh/beatmapsets/2211027) | [#1](https://osu.ppy.sh/beatmaps/packs/TM27) |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) | [13/03/2017](https://osu.ppy.sh/beatmapsets/542755) | [31/08/2019](https://osu.ppy.sh/beatmapsets/894701) | [#1](https://osu.ppy.sh/beatmaps/packs/TM13) |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) | [09/12/2017](https://osu.ppy.sh/beatmapsets/623924) | [24/11/2020](https://osu.ppy.sh/beatmapsets/1205168) | [#1](https://osu.ppy.sh/beatmaps/packs/TM3) |
+| ::{ flag=TW }:: [Plus4j](https://osu.ppy.sh/users/4086497) | [18/11/2016](https://osu.ppy.sh/beatmapsets/474376) | [14/03/2026](https://osu.ppy.sh/beatmapsets/2467848) | [#1](https://osu.ppy.sh/beatmaps/packs/TM37) |
 | ::{ flag=PL }:: [ririco](https://osu.ppy.sh/users/700887) | [28/03/2011](https://osu.ppy.sh/beatmapsets/26544) | [01/08/2024](https://osu.ppy.sh/beatmapsets/2106029) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | [10/06/2017](https://osu.ppy.sh/beatmapsets/598791) | [28/09/2022](https://osu.ppy.sh/beatmapsets/1832561) | [#1](https://osu.ppy.sh/beatmaps/packs/TM4) |
 | ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344) | [12/10/2021](https://osu.ppy.sh/beatmapsets/1493511) | [17/09/2025](https://osu.ppy.sh/beatmapsets/2420424) | [#1](https://osu.ppy.sh/beatmaps/packs/TM34) |
@@ -50,4 +51,4 @@ I centurioni sono utenti che hanno raggiunto il prestigioso traguardo della crea
 ## Curiosità
 
 - Il primo utente a raggiungere le 100 beatmap classificate è stato ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), il 4 agosto 2010.
-- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **5,5 anni** (circa 2021 giorni) per classificare 100 beatmap.<!--Stats from https://chromb.uk/centurions/data.json-->
+- Facendo la media tra tutti i centurioni, ci vogliono approssimativamente **5,6 anni** (circa 2059 giorni) per classificare 100 beatmap.<!--Stats from https://chromb.uk/centurions/data.json-->

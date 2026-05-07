@@ -1,6 +1,12 @@
 ---
+tags:
+  - mute
+  - timeout
+  - chat ban
+  - Auszeit
+  - Chatsperre
 outdated_translation: true
-outdated_since: ab33806e03d394319729869ceb062c3ae9154ae9
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 ---
 
 # Stummschaltung
@@ -10,7 +16,7 @@ Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem 
 ## Beschränkungen
 
 ::: Infobox
-![](img/silence-profile-DE.png "Eintrag einer Stummschaltung auf der Profilseite")
+![](img/silence-profile-DE.png?1 "Eintrag einer Stummschaltung auf der Profilseite")
 :::
 
 Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nicht machen:

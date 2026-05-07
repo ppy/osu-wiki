@@ -128,7 +128,7 @@ Each timing point influences a specified portion of the map, commonly called a "
 
 *Timing point syntax:* `time,beatLength,meter,sampleSet,sampleIndex,volume,uninherited,effects`
 
-- **`time` (Integer):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
+- **`time` (Decimal):** Start time of the timing section, in milliseconds from the beginning of the beatmap's audio. The end of the timing section is the next timing point's time (or never, if this is the last timing point).
 - **`beatLength` (Decimal):** This property has two meanings:
   - For uninherited timing points, the duration of a beat, in milliseconds.
   - For inherited timing points, a negative inverse slider velocity multiplier, as a percentage. For example, `-50` would make all sliders in this timing section twice as fast as `SliderMultiplier`.

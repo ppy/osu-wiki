@@ -1,5 +1,7 @@
 ---
 legal: true
+outdated_translation: true
+outdated_since: b1776120326b6dbcb16e18460dafcbcef1c68706
 ---
 
 # osu! gizlilik politikası

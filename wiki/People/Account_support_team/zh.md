@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
+---
+
 # 账号支持团队
 
 *对于管理特定子论坛的团队，请参见[技术支持团队](/wiki/People/Technical_Support_Team)*。
@@ -24,7 +29,7 @@
   - 个人资料上内容的移除；
   - 谱面的移除；
   - 论坛帖和评论的移除。
-- 你[想要承认](/wiki/Reporting_bad_behaviour/Handling_foul_play#我要是违规了怎么办？)的不当行为。
+- 你[想要承认](/wiki/Reporting_bad_behaviour/Handling_foul_play#如果我违反了规则，我能做些什么？)的不当行为。
 - [无法使用账号所绑定的邮箱](/wiki/Help_centre/Account#sign-in)，或账号被盗。
 - 用户名[回退和打错字所致的小错误修改](/wiki/Help_centre/Account#name-changes)。
 - [注册机器人 (Bot) 账户](/wiki/Bot_account)。
