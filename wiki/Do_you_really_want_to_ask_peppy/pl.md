@@ -1,19 +1,18 @@
 ---
-outdated_translation: true
-outdated_since: d80f130d2ee1a1de26188b49560c8b6ed876fd56
+no_native_review: true
 ---
 
 # Czy naprawdę chcesz skontaktować się z peppym?
 
-Cześć. Ja ([peppy](https://osu.ppy.sh/users/2)) rozumiem twoją chęć do prywatnego skontaktowania się ze mną, ale musisz najpierw zrozumieć, że to **nie** jest miejsce, gdzie możesz mnie poprosić o pomoc. Oddzielam pomoc techniczną dla osu! od prywatnych wiadomości, a samo nadążanie za tymi drugimi jest już wystarczająco trudne i męczące. W związku z tym pragnę przyciągnąć twoją uwagę do poniższych opcji. Skorzystaj z tej, która najbardziej odpowiada twojemu problemowi.
+Cześć! Peppy rozumie twoją chęć do prywatnego skontaktowania się, ale prosi abyś zrozumiał, że to **nie** jest miejsce, gdzie możesz poprosić go o pomoc/wsparcie. Oddziela on pomoc techniczną osu! od prywatnych wiadomości, a samo nadążanie za tymi prywatnymi wiadomościami jest już wystarczająco trudne i męczące. W związku z tym prosi abyś odnióśł się do poniższych opcji. Skorzystaj z tej, która najbardziej odpowiada twojemu problemowi.
 
 ## Pomoc techniczna
 
-Większość problemów technicznych można rozwiązać poprzez znalezienie odpowiedniego wątku (lub założenie nowego) na [forum pomocy technicznej](https://osu.ppy.sh/community/forums/5). Jest tam wiele innych osób, które mogą ci pomóc, więc znajdziesz rozwiązanie szybciej, niż kontaktując się ze mną.
+Większość problemów technicznych można rozwiązać, szukając odpowiedzi lub zamieszczając wpis na [forum pomocy](https://osu.ppy.sh/community/forums/5). Jest tam wiele innych osób, które pomogą Ci z Twoimi problemami, dzięki czemu znajdziesz rozwiązanie szybciej niż kontaktując się z peppym.
 
 ## Pomoc ogólna
 
-Dla problemów związanych z kontem, opłatami, korespondencji dotyczącej blokad konta, pytań odnośnie turniejów oraz **wszystkich pozostałych spraw** wyślij e-maila na adres [accounts@ppy.sh](mailto:accounts@ppy.sh) (pytania dotyczące kont) lub [osu@ppy.sh](mailto:osu@ppy.sh) (pozostałe).
+W przypadku problemów z kontem, płatnościami, odwołaniami od blokad, zapytań o turnieje oraz **czegokolwiek związanego z potrzebą pomocy w osu!**, prosimy o kontakt z [zespołem wsparcia konta](/wiki/People/Account_support_team) poprzez wysłanie wiadomości e-mail na adres [accounts@ppy.sh](mailto:accounts@ppy.sh) (pytania dotyczące konta) lub [osu@ppy.sh](mailto:osu@ppy.sh) (pozostałe sprawy).
 
 ## Kontakt z peppym
 
