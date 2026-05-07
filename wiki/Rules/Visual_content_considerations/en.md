@@ -9,7 +9,7 @@ As per [community rule 5](/wiki/Rules#community-rules), all visual content (i.e.
 
 This includes:
 
-- content in submitted beatmaps (background images, videos, storyboards), **even those tagged as [explicit](/wiki/Rules/Explicit_content)**
+- content in submitted beatmaps (i.e. background images, videos and storyboards), **even those tagged as [explicit](/wiki/Rules/Explicit_content)**
 - profile details (avatars, cover images and userpages)
 - any other attachments or hyperlinks (forum posts, comments, beatmap discussion posts, etc.)
 
