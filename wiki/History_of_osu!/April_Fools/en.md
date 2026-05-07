@@ -187,7 +187,29 @@ April Fools' day 2020 recycled the same joke from the previous year, which cause
 
 April Fools' day 2021 recycled the same joke from the previous two years, which was a 1 in 20 chance of hearing a sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
 
-## References
+## 2026
+
+### More toggles
+
+::: Infobox
+![Toggles section visible during April Fools' day](img/2026-toggles.png "Toggles section visible during April Fools' day")
+:::
+
+In the options sidebar, there was a new `Toggles` section accessible in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) on 1 April 2026,[^2026] featuring text saying "You wanted toggles, we give you toggles" and a single toggle below. This toggle caused new toggles to appear when clicked, labelled with silly names like "toggle chaos" or "toggle entropy" for comedic effect.
+
+Activating any toggle would select or deselect other toggles and apply random effects, some of which stayed effective even while playing a beatmap:
+
+- An osu! icon moving around the screen like the [DVD logo screensaver](https://en.wikipedia.org/wiki/DVD_screensaver)
+- osu! doing a barrel roll[^barrel-roll]
+- The menu interface having a new colour scheme
+- Various sound effects such as distorted audio
+- The game window being slightly tilted
+
+When clicking too many toggles, osu! would eventually "crash" by playing a sound of glass shattering, zooming in and fading to black, then return to a normal state. However, the `Toggles` section would then have text saying "..on second thought, no more toggles for you.", and a button below labelled "But please peppy" that would play a buzzer sound and display the text "no" when clicked. Pressing the button enough times would reset the `Toggles` section and display one random toggle as described above.
+
+This toggle section was added in reference to the many requests on [GitHub discussions](https://github.com/ppy/osu/discussions) and in the [Feature Requests](https://osu.ppy.sh/community/forums/4) forum that have proposed adding toggles for various features. The [developers](/wiki/People/Developers) want to prevent the options menu from becoming too cluttered.[^toggles-comment]
+
+## Notes and references
 
 [^lemontree-reddit]: [Reddit post by u/5522Luca in r/osugame (2017-04-10) "Reminder the Osu! April Fools 2009? This beatmap was ranked."](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/)
 [^lemontree-post-machol30]: [Forum post by machol30 (2009-04-03) in "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/posts/106774)
@@ -273,3 +295,7 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 [^sneeze-2-reddit-2]: [Reddit post by u/ohmaytt in r/osugame (2020-04-01) "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Forum thread by MilkyIQ (2021-04-01) "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Forum thread by GreatTurtleKing (2021-04-01) "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
+
+[^2026]: [osu!(lazer) source code](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
+[^barrel-roll]: A reference to a meme from [Star Fox 64](https://en.wikipedia.org/wiki/Star_Fox_64), where Peppy Hare advises the player to "Do a barrel roll!", i.e. rotate 360 degrees.
+[^toggles-comment]: [GitHub comment by peppy (2023-04-16)](https://github.com/ppy/osu/pull/23200#issuecomment-1510138723)
