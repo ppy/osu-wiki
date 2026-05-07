@@ -1,4 +1,4 @@
-# How you can help
+# How you can help!
 
 osu! has a very vibrant community composed of people from all around the world, and anyone can be a part of the community in their own way! 
 
@@ -27,7 +27,7 @@ osu! has a team — the [Global Moderation Team](/wiki/People/Global_Moderation_
 - Read the [rules](/wiki/Rules), [visual content considerations](/wiki/Rules/Visual_content_considerations), [song content rules](/wiki/Rules/Song_content_rules), and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). Knowing the rules in the first place helps you both understand when to report misbehaviour and prevent breaking the rules yourself.
 - If you see someone you think is breaking the rules, [report them](/wiki/Reporting_bad_behaviour). A GMT member will respond to your report promptly.
 - If your report has gone unanswered after several days, send a moderator a message and ask why. Sometimes, they will not have answered it because they just haven't gotten to it yet. Other times, the content you reported will have been deemed to be unproblematic. Take it as a chance to learn how the rules are applied in practice. 
-- If you see someone you think is cheating, [report the user](/wiki/Reporting_bad_behaviour#profile-page) or [their potentially cheated scores](/wiki/Reporting_bad_behaviour#score-listing) — **don't** mention their names in chat, forums or anywhere else on osu!, as this can encourage cheating. If you need further tools for analysis of a suspicious score, use a community-maintained replay analysis tool such as [Circleguard](https://github.com/circleguard/circleguard).
+- If you see someone you think is cheating, [report the user](/wiki/Reporting_bad_behaviour#profile-page) or [their potentially cheated scores](/wiki/Reporting_bad_behaviour#score-listing) — **do not** mention their names in chat, forums or anywhere else on osu!, as this can encourage cheating. If you need further tools for analysis of a suspicious score, use a community-maintained replay analysis tool such as [Circleguard](https://github.com/circleguard/circleguard).
 - If you think a map that is about to be Ranked has a questionable or inappropriate background, submit a report via [the BN Management website](https://bn.mappersguild.com/reports). You can make the difference between an inappropriate background making it to Ranked and it being stopped!
 - If you get silenced yourself, contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and ask them for an explanation if you're at all unsure what the reason is. This can help you understand the rules better and thereby make it less likely that you get silenced again.
 
@@ -52,3 +52,4 @@ The osu! community has a significant competitive tournament scene for players of
 - If you have any ideas about how to improve the [ranking criteria](/wiki/Ranking_criteria), such as removing an outdated rule, write up a proposal and post it to [the Ranking Criteria forum](https://osu.ppy.sh/community/forums/87), then discuss it with other community members.
 - If you found a bug in osu!(lazer), or if you have any other kind of suggestion about how to make osu!(lazer) better, read the [Contributing Guidelines](https://github.com/ppy/osu/blob/master/CONTRIBUTING.md) for the relevant GitHub repository to help you decide the best course of action, including opening an issue or discussion.
 - If you want to make a bug report or suggest an improvement to the website, [open an issue](https://github.com/ppy/osu-web/issues/new) on the website's GitHub repository.
+- Help translate the website and osu!(lazer) into other languages via [Crowdin](https://crowdin.com/project/osu-web).
