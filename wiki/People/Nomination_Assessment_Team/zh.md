@@ -142,10 +142,9 @@ NAT 领导人的职责是：
 | ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | 芬兰语 |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | 汉语 |
-| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | 法语，西班牙语 |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | 汉语 |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
+| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | 罗马尼亚语 |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | 德语 |
 
@@ -154,9 +153,9 @@ NAT 领导人的职责是：
 | 用户名 | 其他语言 |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 汉语 |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 粤语，汉语 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | 一部分德语 |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
 
 #### osu!catch
@@ -165,7 +164,6 @@ NAT 领导人的职责是：
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | 德语 |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | 韩语 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | 韩语 |
 
 #### osu!mania

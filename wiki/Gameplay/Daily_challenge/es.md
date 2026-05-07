@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0bb2c43f0d6e6d0d036dfb8f55f343e0cd0cbe19
+---
+
 # Desafío diario
 
 El **desafío diario** es un modo multijugador de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) en el que los jugadores pueden acumular una racha al pasar beatmaps diarios consecutivos con una dificultad creciente, la cual se reinicia cada 7 días.

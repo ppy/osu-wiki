@@ -20,11 +20,11 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "osu-wiki-tools", specifier = "==2.5.0" }]
+requires-dist = [{ name = "osu-wiki-tools", specifier = "==2.5.1" }]
 
 [[package]]
 name = "osu-wiki-tools"
-version = "2.5.0"
+version = "2.5.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "braceexpand" },
@@ -32,9 +32,9 @@ dependencies = [
     { name = "types-pyyaml" },
     { name = "yamllint" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/72/10/5e536e669dd1e3551645a4465218a81ccd64c1f6759a04b2271c9b9d2f14/osu_wiki_tools-2.5.0.tar.gz", hash = "sha256:ed5f70cc2fccfbd860d22aed0fda682b0fa2f0427888ff0c648bf9669cac8d5a", size = 46372, upload-time = "2026-03-07T14:35:49.196Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/60/41/080f2a406313e09c000c9afc27e5c809c6a4d22708e8d699db19a116c2cd/osu_wiki_tools-2.5.1.tar.gz", hash = "sha256:ab26e8745ad8b77db1b19e49f541704f69dfdcad133fec5e15eafb926a3fd7a2", size = 46788, upload-time = "2026-04-29T12:49:47.848Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/28/13/b774ab1d0277db2dc4140c0101ff95d62024ff2cfa16ccd8ca2e22745195/osu_wiki_tools-2.5.0-py3-none-any.whl", hash = "sha256:771d306e18da6db0d7d7732b9e5bc9e111710d3ca643b247021b8116793b086e", size = 37437, upload-time = "2026-03-07T14:35:47.965Z" },
+    { url = "https://files.pythonhosted.org/packages/0f/64/fa7747d62221e71c8ac78864d327047f270e7f9be2b2148eb95a659b9f29/osu_wiki_tools-2.5.1-py3-none-any.whl", hash = "sha256:1f59f2597d0ead989ee6ef12470440d66debffed594a9c2714507f27db96a6f3", size = 37582, upload-time = "2026-04-29T12:49:46.345Z" },
 ]
 
 [[package]]

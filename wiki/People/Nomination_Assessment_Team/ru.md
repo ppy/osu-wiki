@@ -3,6 +3,8 @@ tags:
   - NAT
   - нат
   - наты
+outdated_translation: true
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
 ---
 
 # Команда оценки номинаций
