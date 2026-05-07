@@ -3,6 +3,8 @@ tags:
   - FA
   - 精选艺术家
   - 艺术家
+outdated_translation: true
+outdated_since: 05a8dcd9e67c270f7391bfe96d8eb97c535c5636
 ---
 
 # 精选艺术家

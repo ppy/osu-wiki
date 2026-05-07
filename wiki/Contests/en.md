@@ -473,7 +473,7 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 | Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=AU }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
 #### [Newspaper Cup \#8 (2022)](https://osu.ppy.sh/community/forums/topics/1457197)
