@@ -8,7 +8,7 @@ Below are just some of the ways you can help the community:
 
 ## Help out with the wiki
 
-The wiki is osu!'s official knowledge base that contains just about everything you might want to know about osu!. As such, the osu! wiki is always looking for people to keep its information up-to-date, add fresh information about almost anything related to osu!, translate articles to their native languages, or even just fix typos.
+The wiki is osu!'s official knowledge base that contains just about everything you might want to know about osu!. As such, the osu! wiki is always looking for people to keep its information up to date, add fresh information about almost anything related to osu!, translate articles to their native languages, or even just fix typos.
 
 If you want to learn more on how to propose changes to the osu! wiki, read the [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide). If you're looking for ways to help out, see [the wiki's issue tracker](https://github.com/ppy/osu-wiki/issues) or [this page on wiki maintenance](/wiki/osu!_wiki/Maintenance#routines).
 
