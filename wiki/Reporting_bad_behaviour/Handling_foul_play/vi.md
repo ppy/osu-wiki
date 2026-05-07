@@ -10,21 +10,21 @@ Những điều sau đây được xem là chơi không công bằng và nói ch
 
 ## Điều gì được coi là gian lận? {id=what-foul}
 
-Các [quy tắc](/wiki/Rules) chỉ ra rằng bất kỳ hình thức thao túng nào đối với client, chẳng hạn như hack điểm số, chuỗi full-combo được kích hoạt bằng macro, auto-aim và bất cứ điều gì khác rằng chơi trò chơi thay vì tự chơi đều được coi là gian lận. 
+Các [quy tắc](/wiki/Rules) chỉ ra rằng bất kỳ hình thức thao túng nào đối với client, chẳng hạn như hack điểm số, các chuỗi full-combo sử dụng macro, auto-aim và bất cứ thứ gì chơi thay vì người chơi đều được coi là gian lận. 
 
-Đây là một quy tắc một lần phạt, kẻ gian lận sẽ bị hạn chế lần đầu tiên với thời gian không xác định. [Nhóm hỗ trợ](/wiki/People/Account_support_team) có thể quyết định gỡ bỏ hạn chế nếu người vi phạm gửi kháng cáo hợp lệ sau ít nhất sáu tháng.
+Đây là quy tắc vi phạm một lần, người gian lận sẽ bị hạn chế vô thời hạn ngay lần đầu tiên. [Nhóm hỗ trợ](/wiki/People/Account_support_team) có thể quyết định gỡ bỏ hạn chế nếu người vi phạm gửi kháng cáo hợp lệ sau ít nhất sáu tháng.
 
 ## Sử dụng phần cứng chuyên dụng có được coi là gian lận không? {id=hardware}
 
-Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ, điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc bất kỳ thiết bị tương tự nào đều bị coi là không được phép.
+Các thiết bị ngoại vi như bảng vẽ và màn hình cảm ứng là hợp lệ. Tuy nhiên, bất kỳ thứ gì làm giảm kỹ năng cần thiết để chơi (ví dụ: việc sử dụng fidget spinners trên bảng vẽ) hoặc hủy bỏ/vượt qua tác dụng của các bộ điều chỉnh trong trò chơi đều không hợp lệ. Điều này có nghĩa là việc sử dụng nhiều máy tính, bộ chia đầu vào hoặc những thứ tương tự vậy đều bị coi là không được phép.
 
 ## Điều gì được coi là sử dụng nhiều tài khoản và chia sẻ tài khoản? {id=multi-share}
 
-Mỗi người chỉ có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm. Vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước đó sẽ bị hạn chế. Lưu ý rằng tạo tài khoản phụ để tham gia giải đấu được xem là vi phạm đặc biệt nghiêm trọng và sẽ dẫn đến hạn chế ngay lập tức, cũng như kèm theo lệnh cấm vô thời hạn khỏi bất kỳ giải đấu được hỗ trợ chính thức và cuộc thi nếu vi phạm liên quan đến sự kiện như thế.
+Mỗi người chỉ có thể sử dụng **một** tài khoản. Tạo tài khoản mới là hoàn toàn bị cấm. Vi phạm lần đầu sẽ bị xử phạt bằng hình thức im lặng với độ dài khác nhau tùy thuộc vào số lượng tài khoản đã tạo. Người dùng tiếp tục tạo tài khoản mới mặc dù đã có cảnh báo trước đó sẽ bị hạn chế. Lưu ý rằng tạo tài khoản phụ để tham gia giải đấu được xem là vi phạm đặc biệt nghiêm trọng và sẽ dẫn đến hạn chế ngay lập tức, cũng như kèm theo một [lệnh cấm vô thời hạn khỏi bất kỳ giải đấu và cuộc thi được hỗ trợ chính thức](/wiki/Help_centre/Tournament_sanctions#tournament-bans) nếu vi phạm liên quan đến sự kiện như thế.
 
-Việc cho phép người khác sử dụng tài khoản của người dùng khác cũng bị nghiêm cấm tuyệt đối, và sẽ thường gây ra hạn chế trong lần vi phạm đầu tiên. Việc này nhằm ngăn người chơi kĩ năng cao hơn "tăng cường" tài khoản người dùng khác hoặc sử dụng để tham gia trong giải đấu nằm ngoài phạm vi kĩ năng của họ, cũng như để ngăn người dùng khỏi việc tránh né hình phạt được ban hành từ tài khoản gốc. Nếu bạn vô tình lỡ cho phép người dùng khác chơi trên tài khoản của bạn, vui lòng liên hệ [accounts@ppy.sh](mailto:accounts@ppy.sh) để giải thích. 
+Việc cho phép người khác sử dụng tài khoản của người dùng khác cũng bị nghiêm cấm tuyệt đối, và sẽ thường gây ra hạn chế trong lần vi phạm đầu tiên. Việc này nhằm ngăn người chơi kĩ năng cao hơn "boost" tài khoản người dùng khác hoặc sử dụng để tham gia giải đấu nằm ngoài phạm vi kĩ năng của họ, cũng như để ngăn người dùng khỏi việc tránh né hình phạt được đặt ra cho tài khoản gốc. Nếu bạn vô tình lỡ cho phép người dùng khác chơi trên tài khoản của bạn, vui lòng liên hệ [accounts@ppy.sh](mailto:accounts@ppy.sh) để giải thích càng sớm càng tốt. 
 
-## Tôi đã bị hạn chế vì chơi không công bằng, nhưng tôi tuân thủ luật lệ! {id=false-restriction}
+## Tôi đã bị hạn chế vì chơi không công bằng, nhưng tôi không làm trái luật! {id=false-restriction}
 
 Xem thêm tại: [Hạn chế tài khoản § Tài khoản tôi bị hạn chế! Tôi phải làm gì?](/wiki/Help_centre/Account_restrictions#what)
 
@@ -40,11 +40,13 @@ Xin lỗi, nhưng nếu bạn đã bị hạn chế, nhóm hỗ trợ đã chắ
 
 ## Tôi phát hiện ai đó chắc chắn đang gian lận/chơi không công bằng. Tôi có thể nhận ra qua replay/điểm số của họ! Tôi nên làm gì? {id=report}
 
-Giữ bình tĩnh và **đừng thảo luận về những pha chơi của họ trong trò chuyện công cộng**. Đừng làm cho họ chú ý quá mức hoặc yêu cầu người khác xem họ, bạn nên báo cáo người dùng đó và không nhắc đến họ ở bất cứ đâu. Có ba cách để làm điều đó:
+Giữ bình tĩnh và **đừng thảo luận về những lần chơi của họ trong trò chuyện công cộng** — làm vậy là đi ngược lại với [nội quy chat](/wiki/Rules#in-game-chat-rules) và có thể khiến bạn bị [im lặng](/wiki/Help_centre/Silences). Đừng chú ý quá mức đến họ hoặc yêu cầu người khác xem họ.
+
+Bạn nên báo cáo người dùng đó và không nhắc đến họ ở bất cứ đâu. Có ba cách để làm điều đó:
 
 ### Hồ sơ người dùng 
 
-**Đây là cách hay dùng để báo cáo nghi ngờ hành vi không công bằng vì nó cung cấp nhiều thông tin nhất cho các thành viên trong nhóm hỗ trợ.**
+**Đây là phương thức được khuyến nghị để báo cáo nghi ngờ hành vi không công bằng vì nó cung cấp nhiều thông tin nhất cho các thành viên trong nhóm hỗ trợ.**
 
 Trên các hồ sơ người dùng, một nút `Báo cáo` sẽ xuất hiện khi bạn nhấn vào ba dấu chấm bên cạnh nút `Tin nhắn`. Viết bất kỳ thông tin rằng có thể chứng minh người dùng đang hành xử không đúng.   
 
