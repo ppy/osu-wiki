@@ -2,7 +2,19 @@
 
 The **beatmap information page** displays various contents about a [beatmap](/wiki/Beatmap), such as its metadata, user rating, and comments.
 
+## Navigation
+
+:::infobox
+![Info/Discussion tab selection](img/tab.png "Info/Discussion tab selection")
+:::
+
+::: Infobox
+![Game mode selection](img/game-mode-selection.png "Game mode selection")
+:::
+
 At the top-left, next to the currently selected `info` tab, is the [beatmap discussion](/wiki/Beatmap_discussion) tab used for [modding](/wiki/Modding) a beatmap.
+
+The four icons at the top-right shows which [game mode](/wiki/Game_mode) is currently selected. The number indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes with no difficulty available will be greyed out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
 
 ## Difficulty menu
 
@@ -13,29 +25,25 @@ This is the main section of the information page, containing the most important 
 ### Mapping information
 
 ::: Infobox
-![Game mode selection](img/game-mode-selection.png "Game mode selection")
-:::
-
-::: Infobox
 ![Mapping information](img/mapping-info.png "Mapping information")
 :::
 
-Users are able to choose for which [game mode](/wiki/Game_mode) they want to view difficulty statistics in by clicking on their respective icons in the game mode selection at the top-right. The number next to the icons indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes for which there is no difficulty available will be greyed out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
+This panel lists the song title, the artist, the host mapper's avatar and username, the beatmap's submitted date and last changed date, and information for every difficulty.
 
-On the left side, right below the `info`/`discussion` tab selection is the difficulty section which lists every difficulty in the beatmap. The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Hovering over one of the icons will reveal the difficulty's name, the mapper of the difficulty and its star rating shown below. Clicking the icon will select this difficulty as the active one, causing some of the beatmap statistics on the page to change accordingly. The mapper's name can be clicked to view their profile.
+The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Selecting a difficulty will update the statistics on the page accordingly.
 
-Next to this display are the total play count of the beatmap, and the number of users who have added this beatmap to their favourites. When hovering over the favourite count, up to 50 avatars of users favouriting this beatmap will be displayed. If the beatmap is in the [Pending](/wiki/Beatmap/Category#wip-and-pending) category, the nomination count will also be displayed before the play count and favourite count.
+Below the current difficulty's name, mapper and star rating are the beatmap's total play count, favourite count — and nomination count if the beatmap is in the [Pending](/wiki/Beatmap/Category#wip-and-pending) category. When hovering over the favourite count, up to 50 avatars of users favouriting this beatmap will be displayed.
 
 Beneath these numbers, the title and artist are displayed. Clicking them will automatically search for other beatmaps with the exact same song title or artist.
 
-Then comes the host mapper's avatar and username, along with the beatmap's submitted date and last changed date (e.g. when the beatmap was moved to a different [category](/wiki/Beatmap/Category) or updated by its host).
+The name of the host mapper and guest mappers can be clicked to view their profile.
 
 Further below, the following action buttons may be present, arranged from left to right:
 
 - **Favourite:** Adds this beatmap to the favourites section in the user's profile.
 - **Download:** Download the beatmap. If the beatmap has a background video, the user can choose to download the beatmap with or without the video.
 - **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file. To use this feature in the osu!(stable) client, an [osu!supporter](/wiki/osu!supporter) tag is required.
-- **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard), or the [WIP and Pending](/wiki/Beatmap/Category#wip-and-pending) categories, the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu will appear, revealing the `report` button.
+- **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard) or [WIP and Pending](/wiki/Beatmap/Category#wip-and-pending) categories, the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu will appear, revealing the `report` button.
 
 ### Statistics panel
 
