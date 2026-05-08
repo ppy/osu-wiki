@@ -34,7 +34,7 @@ Further below, the following action buttons may be present, arranged from left t
 
 - **Favourite:** Adds this beatmap to the favourites section in the user's profile.
 - **Download:** Download the beatmap. If the beatmap has a background video, the user can choose to download the beatmap with or without the video.
-- **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file. To use this feature in the osu!(stable) client, an [osu!supporter](/wiki/osu!supporter) is required.
+- **osu!direct**: Download the beatmap directly in the game client without requiring to manually open the file. To use this feature in the osu!(stable) client, an [osu!supporter](/wiki/osu!supporter) tag is required.
 - **Report:** If the beatmap is in either the [graveyard](/wiki/Beatmap/Category#graveyard), or the [WIP and Pending](/wiki/Beatmap/Category#wip-and-pending) categories, the user has the ability to [report the beatmap](/wiki/Reporting_bad_behaviour#beatmap), should there be any rule-violating content. By clicking on the 3 dots, a dropdown menu will appear, revealing the `report` button.
 
 ### Statistics panel
@@ -128,6 +128,7 @@ Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there 
 If a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), [Approved](/wiki/Beatmap/Category#approved) or [Loved](/wiki/Beatmap/Category#loved), it has access to leaderboards, on which players can compete against each other.
 
 Four leaderboards can be accessed from the beatmap information page, those being `Global Ranking`, `Country Ranking`, `Friend Ranking`, and `Team Ranking`. Note that the Country and Friend leaderboards require [osu!supporter](/wiki/osu!supporter) to view. Each difficulty has its own leaderboard. Selecting one of the tabs at the top of the menu will also display the respective leaderboard in the score listing below. Clicking on one or several mod icons in the filter menu allows the user to show solely scores with that exact [mod](/wiki/Gameplay/Game_modifier) combination.
+
 The score listing shows up to 50 top scores, while the best score is highlighted with an enlarged score card.
 
 Hovering over a score will reveal 3 dots at the right side of the menu. Clicking on the dots opens up a menu with 3 options:
