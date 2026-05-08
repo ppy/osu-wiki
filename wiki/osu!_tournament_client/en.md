@@ -32,11 +32,11 @@ Inside a tournament configuration the necessary assets can be supplied to displa
   - Mods
   - Videos
 
-Then use tools inside the osu! tournament client to manage the details.
+To manage tournament details, use tools inside the tournament client:
 
-- Use `Team Editor` to manage teams and players.
-- Use `Rounds Editor` to manage rounds and mappools.
-- Use `Bracket Editor` to create new matches and manage the teams, rounds, and time for each match.
+- `Team Editor`: Edit teams and players.
+- `Rounds Editor`: Manage rounds and mappools.
+- `Bracket Editor`: Create new matches and manage teams, rounds, and time for each match.
 
 ## Customisation
 
