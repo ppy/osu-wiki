@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
+---
+
 # 账号支持团队
 
 *对于管理特定子论坛的团队，请参见[技术支持团队](/wiki/People/Technical_Support_Team)*。

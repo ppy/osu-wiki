@@ -29,60 +29,57 @@ translation_keys:
     song: 歌曲
     beatmap: 谱面
     notes: 备注
-  table_note:  # 这些替换规则会按顺序对每个 备注/图池 槽位执行
-    # 常规备注
-    "Former": 曾经的
-    "Current": 当前
-    "osu!\\(lazer\\) main theme": osu!(lazer) 主主题曲
-    "osu! theme": osu! 主题曲
-    "osu!\\(lazer\\) \"ranked play\" theme": osu!(lazer) 排位模式主题曲
+  table_note:
+    Former: 曾经的
+    Current: 当前
+    osu!\(lazer\) main theme: osu!(lazer) 主主题曲
+    osu! theme: osu! 主题曲
+    osu!\(lazer\) "ranked play" theme: osu!(lazer) 排位模式主题曲
     " tutorial song": 教程歌曲
     "Christmas/Winter (\\d{4}) ": "\\1 年圣诞节/冬季 "
     "Halloween 2016 ": "2016 年万圣节 "
     "Summer 2023 ": "2023 年夏季 "
-    "Original composition for \\[osu!stream\\]\\(/wiki/osu!stream\\)": 为 [osu!stream](/wiki/osu!stream) 原创的作品
-    "\\[osu!stream\\]\\(/wiki/osu!stream\\) main theme": "[osu!stream](/wiki/osu!stream) 主主题曲"
-    "Cutscene background music": 过场动画背景音乐
-    "Ending credits theme": 落幕音乐
-    "Livestream BGM": 直播背景音乐
-    "Main theme": 主主题曲
-    "Trailer music": 预告片音乐
-    # 特例
-    "(osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?)": \1 和 \2
-    '(\d+)\s+Pool #?(\w+)': \1 图池 \2 中的
-    '(\w+?)\s+Pool #?(\w+)': \1图池 \2 中的
-    '^Pool #?(\w+)': 图池 \1 中的
-    "Day (\\d+)": 第 \1 天
-    "5k division": 5K 组
+    Original composition for \[osu!stream\]\(/wiki/osu!stream\): 为 [osu!stream](/wiki/osu!stream)
+      原创的作品
+    \[osu!stream\]\(/wiki/osu!stream\) main theme: "[osu!stream](/wiki/osu!stream)
+      主主题曲"
+    Cutscene background music: 过场动画背景音乐
+    Ending credits theme: 落幕音乐
+    Livestream BGM: 直播背景音乐
+    Main theme: 主主题曲
+    Trailer music: 预告片音乐
+    (osu!(?:taiko|catch|mania)?) and (osu!(?:taiko|catch|mania)?): \1 和 \2
+    "(\\d+)\\s+Pool #?(\\w+)": \1 图池 \2 中的
+    "(\\w+?)\\s+Pool #?(\\w+)": \1图池 \2 中的
+    "^Pool #?(\\w+)": 图池 \1 中的
+    Day (\d+): 第 \1 天
+    5k division: 5K 组
     " & ": 与
-    # 轮次
-    "LAN": 线下赛
-    "Swiss Week (\\d+) (.+)": 瑞士轮第 \1 周 \2
-    "Swiss Stage (\\d+) (.+)": 瑞士轮阶段 \1 \2
-    "Knockout Stage (\\d+) (.+)": 淘汰赛阶段 \1 \2
-    "Knockout Week (\\d+) (.+)": 淘汰赛第 \1 周 \2
-    "Week (\\d+) (.+)": 第 \1 周 \2
-    "Knockout (\\d+) (.+)": 淘汰赛轮次 \1 的 \2
-    "Bracket Stage": 分组淘汰赛
-    "Group Stage": 小组赛
-    "Round Robin": 循环赛
-    "Battle Royale 1v1": 大逃杀 1v1
-    "Playoff (\\d+) (.+)": 季后附加赛 \1 的 \2
-    "Playoffs": 季后附加赛
-    "Face-Offs": 大乱斗
-    "Grand [Ff]inals": 总决赛
-    "Semifinals": 半决赛
-    "Quarterfinals": 四分之一决赛
+    LAN: 线下赛
+    Swiss Week (\d+) (.+): 瑞士轮第 \1 周 \2
+    Swiss Stage (\d+) (.+): 瑞士轮阶段 \1 \2
+    Knockout Stage (\d+) (.+): 淘汰赛阶段 \1 \2
+    Knockout Week (\d+) (.+): 淘汰赛第 \1 周 \2
+    Week (\d+) (.+): 第 \1 周 \2
+    Knockout (\d+) (.+): 淘汰赛轮次 \1 的 \2
+    Bracket Stage: 分组淘汰赛
+    Group Stage: 小组赛
+    Round Robin: 循环赛
+    Battle Royale 1v1: 大逃杀 1v1
+    Playoff (\d+) (.+): 季后附加赛 \1 的 \2
+    Playoffs: 季后附加赛
+    Face-Offs: 大乱斗
+    Grand [Ff]inals: 总决赛
+    Semifinals: 半决赛
+    Quarterfinals: 四分之一决赛
     "[Ff]inals": 决赛
-    "Round of (\\d+)": \1 强赛
-    "Qualifiers? Stage (\\d+)": 资格赛阶段 \1
-    "Qualifiers": 资格赛
-    # 对阵分组
-    "Last Chance Bracket": 败者复活赛
-    "^Runoff Bracket": 附加名次赛
-    "^Tier (\\d) (.+)": Tier \1 \2
-    # 槽位
-    "tiebreaker": TB
+    Round of (\d+): \1 强赛
+    Qualifiers? Stage (\d+): 资格赛阶段 \1
+    Qualifiers: 资格赛
+    Last Chance Bracket: 败者复活赛
+    ^Runoff Bracket: 附加名次赛
+    ^Tier (\d) (.+): Tier \1 \2
+    tiebreaker: TB
     " wildcard": 外卡
     " pick": " 选图"
 ---
@@ -93,9 +90,11 @@ translation_keys:
 
 本文列出了专为 osu! 或其他与 osu! 相关的活动（如锦标赛、作图竞赛和[精选艺术家](/wiki/People/Featured_Artists)公布）创作（或以其他方式首发的）的歌曲。
 
-尽管并非所有这些歌曲都经过官方授权并收录在[精选艺术家库](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1)中，但被收录的那一部分歌曲被称为“osu! 原创曲”(osu! originals)，并在其各自艺术家的页面上用 ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! 原创曲") 标签加以区分（本文中用图标 ![osu! 原创曲](/wiki/shared/link/original.png "osu! 原创曲") 来表示）。根据 [osu! 音乐许可政策](/wiki/Legal/Music_licensing)，这些歌曲以非排他性条款授权在 osu! 中使用。
+此列表中部分歌曲未经过官方授权，且未收录在[精选艺术家库](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1)中。
 
-相反，此列表中的其他所有歌曲并未经过授权，使用前可能需要获得许可。更多信息请参见[内容使用许可](/wiki/Rules/Content_usage_guidelines)。
+被收录的歌曲被称为“osu! 原创曲”(osu! originals)，在其各自艺术家的页面上用 ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! 原创曲") 标签加以区分（本文中用图标 ![osu! 原创曲](/wiki/shared/link/original.png "osu! 原创曲") 来表示）。根据 [osu! 音乐许可政策](/wiki/Legal/Music_licensing)，这些歌曲以非排他性条款授权在 osu! 中使用。
+
+本文中没有此标签的歌曲均未授权，使用前可能需要获得许可。更多信息请参见[内容使用许可](/wiki/Rules/Content_usage_guidelines)。
 
 <!--由于本列表内容持续增长，页面内容的更新通过外部电子表格 (https://docs.google.com/spreadsheets/d/1o--KQKvNF9JtmZmTGuzN6KyBpFwoQDr98TWRHhrzh-E) 进行，而非直接在 wiki 上编辑。若想添加歌曲或申请更改，请通过开发服务器的 #osu-wiki 频道联系，或与任意 wiki 维护者沟通，无需提交 PR。-->
 
@@ -284,7 +283,7 @@ osu! 内目前共有 **1288** 首已记录的定制歌曲。
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=PCc2tM3YWs0 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6zwHRDxgCUZ6G0FvVI9E2S "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=NIWASHI&query=%22Harder%20Than%20Diamond%22 "osu! original") | NIWASHI - Harder Than Diamond | [#1](https://osu.ppy.sh/beatmapsets/1884920) | 决赛 FM4 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/dksslqj/sanctuary "SoundCloud") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Rabbit%20House&query=%22Sanctuary%22 "osu! original") | Rabbit House - Sanctuary | [#1](https://osu.ppy.sh/beatmapsets/1889094) | 总决赛 HR2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/channel-thenewlimee/myths-orbis "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=g8vY8MZbUNU "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://raimukun.bandcamp.com/track/myths-orbis "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Raimukun&query=%22Myths%20Orbis%22 "osu! original") | Raimukun - Myths Orbis | [#1](https://osu.ppy.sh/beatmapsets/1889095) | 总决赛 NM2 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/sidequest "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=O-u84yuea_M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/11LpGOC4EDTbiTvUKRKDFp "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Redside&query=%22Sidequest%22 "osu! original") | Redside - Sidequest | [#1](https://osu.ppy.sh/beatmapsets/1880625) | 四分之一决赛 HR3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/redside100/sidequest "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=O-u84yuea_M "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/11LpGOC4EDTbiTvUKRKDFp "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Redside&query=%22Sidequest%22 "osu! original") | Redside - Sidequest | [#1](https://osu.ppy.sh/beatmapsets/1876071) | 四分之一决赛 HR3 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rurinn/onostrapha "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=DyBxCLcrY-c "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=rN&query=%22onostrapha%22 "osu! original") | rN - onostrapha | [#1](https://osu.ppy.sh/beatmapsets/1884914) | 决赛 FM2 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/seatrus_frontier/seatrus-exxtra-judgement "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=pjZbdWcPvsU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4OXF492Ge8DkLIfMI4tlmz "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=seatrus&query=%22EXXTRA%20JUDGEMENT%22 "osu! original") | seatrus - EXXTRA JUDGEMENT | [#1](https://osu.ppy.sh/beatmapsets/1889132) | 总决赛 TB |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/sephid/thunderstrike-1988 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=iddcX63D2Ag "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Sephid&query=%22Thunderstrike%201988%22 "osu! original") | Sephid - Thunderstrike 1988 | [#1](https://osu.ppy.sh/beatmapsets/1889109) | 总决赛 HD3 |
@@ -473,7 +472,7 @@ osu! 内目前共有 **1288** 首已记录的定制歌曲。
 | 链接 |  | 歌曲 | 谱面 | 备注 |
 | --: | :-: | :-- | :-: | :-- |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=LoF2hGkpBcU "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/4TuFOb8jxz2jsI34a1HVEG "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=A-One&query=%22Side%20by%20Side%22 "osu! original") | A-One - Side by Side | [#1](https://osu.ppy.sh/beatmapsets/2395293) | 半决赛 MM1 |
-| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/iceloki/nostalgia-sonatina-op3 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RnZyDkWU7lU "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ice&query=%22Nostalgia%20Sonatina%20Op.3%22 "osu! original") | Ice - Nostalgia Sonatina Op.3 | [#1](https://osu.ppy.sh/beatmapsets/2395265) | 半决赛 MM3 |
+| [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/iceloki/nostalgia-sonatina-op3 "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=RnZyDkWU7lU "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ice&query=%22Nostalgia%20Sonatina%20Op.3%22 "osu! original") | Ice - Nostalgia Sonatina Op.3 | [#1](https://osu.ppy.sh/beatmapsets/2395334) | 半决赛 MM3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=6U-sGJTy_08 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Marmalade%20butcher&query=%22SUTEGORO%22 "osu! original") | Marmalade butcher - SUTEGORO | [#1](https://osu.ppy.sh/beatmapsets/2395265) | 半决赛 HD1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/prspct-recordings/ruby-my-dear-petit-poney "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=UBDChA2K53o "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/6EZc0T6kNPJs5YKrT24Wmx "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://prspctrecordings.bandcamp.com/track/petit-poney "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Ruby%20My%20Dear&query=%22Petit%20Poney%22 "osu! original") | Ruby My Dear - Petit Poney | [#1](https://osu.ppy.sh/beatmapsets/2398893) | 决赛 HR1 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=jaQTq6-NwFo "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/52yoVPdy0g25psXisPqKLm "Spotify") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Symholic&query=%22Veil%20of%20Ash%22 "osu! original") | Symholic feat. Rina Komatsu - Veil of Ash | [#1](https://osu.ppy.sh/beatmapsets/2391791) | 四分之一决赛 TB |
@@ -589,7 +588,7 @@ osu! 内目前共有 **1288** 首已记录的定制歌曲。
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/rhe4/primordial-complex "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=0_xQNr5k1dM "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=celtix&query=%22Primordial%20Complex%22 "osu! original") | celtix - Primordial Complex | [#1](https://osu.ppy.sh/beatmapsets/2508585) | 总决赛 RC7 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=G8bX-IGIS3w "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Genesis&query=%22Omega%20Protocol%22 "osu! original") | Genesis - Omega Protocol | [#1](https://osu.ppy.sh/beatmapsets/2508606) | 总决赛 HB3 |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=cJN1hPrbPO8 "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/0G17lWy4rSb0bPnXvnD3ib "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://hitnex.bandcamp.com/track/spark-of-mayhem "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Kobaryo&query=%22Spark%20of%20Mayhem%22 "osu! original") | Kobaryo feat. blaxervant - Spark of Mayhem | [#1](https://osu.ppy.sh/beatmapsets/2505214) | 决赛 EX1 |
-| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=V03neDJITjA "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5Lrc8jC0xxpStlQTaO4ysv "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://last-labyrinth1.bandcamp.com/track/sev-26 "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Laur&query=%22SEV-26%22 "osu! original") | Laur - SEV-26 | [#1](https://osu.ppy.sh/beatmapsets/2508802) | 总决赛 TB |
+| [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=V03neDJITjA "YouTube") [![Spotify](/wiki/shared/link/Spotify.png)](https://open.spotify.com/track/5Lrc8jC0xxpStlQTaO4ysv "Spotify") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://last-labyrinth1.bandcamp.com/track/sev-26 "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Laur&query=%22SEV-26%22 "osu! original") | Laur - SEV-26 | [#1](https://osu.ppy.sh/beatmapsets/2508618) | 总决赛 TB |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=G9JdmWW5BsQ "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=penoreri&query=%22Vacant%20Rhapsody%22 "osu! original") | penoreri - Vacant Rhapsody | [#1](https://osu.ppy.sh/beatmapsets/2501778) | 半决赛 TB |
 | [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=_hcCtzoczj4 "YouTube") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=qfeileadh&query=%22Petals%20%7EMebuku%20Kotoba%7E%22 "osu! original") | qfeileadh feat. Resonance Moeko - Petals \~Mebuku Kotoba\~ | [#1](https://osu.ppy.sh/beatmapsets/2501756) | 半决赛 RC1 |
 | [![SoundCloud](/wiki/shared/link/SoundCloud.png)](https://soundcloud.com/takehirotei/seishun-no-hacking "SoundCloud") [![YouTube](/wiki/shared/link/YouTube.png)](https://www.youtube.com/watch?v=hrLqwCEY5ks "YouTube") [![Bandcamp](/wiki/shared/link/Bandcamp.png)](https://takehirotei.bandcamp.com/album/seishun-no-hacking "Bandcamp") | [![osu! original](/wiki/shared/link/original.png)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=takehirotei&query=%22SEISHUN%3A%2F%2FNO_HACKING%22 "osu! original") | takehirotei - SEISHUN://NO\_HACKING | [#1](https://osu.ppy.sh/beatmapsets/2498399) | 四分之一决赛 TB |
