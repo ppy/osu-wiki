@@ -1,20 +1,16 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: b2b0d04d34cbf6d41998176a875479b31b9b89aa
 ---
 
 # Umstellung auf lazer
 
 osu!(lazer) ist das nächste große Update des Spiels. In den letzten Jahren wurde das Spiel von Grund auf neu implementiert.
 
-Diese neue Version soll die bestehende Version des Spiels (Stable) vollständig ersetzen. Es gibt allerdings noch Arbeit zu erledigen, bevor das passieren kann. Am Ende des Tages entscheiden **die Spieler**, wann das geschieht und wir werden die vorherige Version weiter pflegen, bis die Nutzer migriert sind.
+Auch wenn diese Version viele neue Funktionen bietet, die nicht in osu!(stable) zu finden sind, gibt es einige Funktionen, die nur in einem der beiden Clients vorhanden sind. Am Ende des Tages entscheiden **die Spieler**, auf welcher Version sie spielen möchten, und sie bestimmen, wie lange wir die vorherige Version weiter pflegen.
 
 "lazer" ist ein Deckname und wird irgendwann verschwinden, wenn es die Hauptversion des Spiels wird. Der Rest dieses Dokuments bezeichnet zur Vereinfachung osu!(lazer) als "lazer" und osu!(stable) als "stable".
 
 ## Vergleich der Funktionen
-
-*Für eine Liste der Unterschiede in den Spielmechaniken, siehe: [Unterschiede im Gameplay in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer im Vergleich zu stable. Beachte, dass sich die Übersicht fortlaufend ändert — im Laufe der Zeit ist das Endziel die Umsetzung aller Features, die den Spielern wichtig sind.
 
@@ -111,6 +107,309 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Beatmap-Einreichung | ![Ja][true] | ![Ja][true] |
 | Storyboard-Editor | ![Ja][true] | ![Nein][false] |
 | Cross-Kompatibilität | ![Ja][true] | ![Ja][true] |
+
+## Unterschiede im Gameplay
+
+### Allgemein
+
+#### Die Easy-Mod pausiert das Spiel nicht mehr, wenn die Lebenspunkte wiederhergestellt werden
+
+Anstatt, dass das Spiel pausiert während sich die Lebensleiste füllt, wird die Gesundheit sofort wiederhergestellt.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Ja][true] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Unterschiede im Bewertungssystem
+
+Die Anforderungen für die Genauigkeit (und Beurteilungen) für jede [Note](/wiki/Gameplay/Grade) sehen in osu!(stable) wie folgt aus:
+
+| Note | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100 % | 100 % | 100 % |
+| S | >90 % GREATs/300s (≤1 % MEHs/50s, keine Misses) | >98 % | >95 % |
+| A | >80 % GREATs/300s (keine Misses) oder >90 % GREATs/300s | >94 % | >90 % |
+| B | >70 % GREATs/300s (keine Misses) oder >80 % GREATs/300s | >90 % | >80 % |
+| C | >60 % GREATs/300s | >85 % | >70 % |
+
+In osu!(lazer) hingegen gibt es folgende Anforderungen:
+
+| Note | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100 % | 100 % | alle [Beurteilungen](/wiki/Gameplay/Judgement/osu!mania) sind GREAT oder PERFECT |
+| S | ≥95 % (keine Misses) | ≥98 % | ≥95 % |
+| A | ≥90 % | ≥94 % | ≥90 % |
+| B | ≥80 % | ≥90 % | ≥80 % |
+| C | ≥70 % | ≥85 % | ≥70 % |
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Unterschiede im Punktesystem
+
+Das Punktesystem in lazer ist ähnlich zu ScoreV2, wobei alle Scores, die mit ScoreV1 erzielt wurden, in das neue System migriert werden.
+
+Es gibt zwei voneinander unabhängige Anzeigemodi für Scores: *standardisiert* und *klassisch*. Beim standardisierten Punktesystem wird der Punktestand auf maximal 1.000.000 Punkte begrenzt, wobei Boni und Punktemultiplikatoren nicht einberechnet sind (ähnlich zu ScoreV2). Im Vergleich dazu ist das klassische Punktesystem dasselbe wie das standardisierte, nur dass die Punkte quadratisch mit der Menge der Hit-Objekte in einer Beatmap skaliert sind (wie in ScoreV1). Der Anzeigemodus kann in den Einstellungen ausgewählt werden, wobei alle Punktedarstellungen automatisch angepasst werden.
+
+Darüber hinaus gibt es Unterschiede, wie viele Punkte man für jedes Hit-Objekt und jede Beurteilung in Relation zueinander bekommen kann.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Storyboardtrigger sind nicht implementiert
+
+Einige Storyboards enthalten Funktionen, die auf Spielereingaben oder die Lebenspunkte reagieren.
+
+![](img/sb-triggers.gif)
+
+### osu!
+
+#### Notelock wurde lascher eingestellt
+
+![](img/notelock.gif)
+
+In dichten Patterns ist es nun leichter, nach Verfehlen eines Hit-Objekts weiterzuspielen.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Ja][true] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Sliderköpfe erfassen beim Treffen die Genauigkeit
+
+![](img/slideracc.gif)
+
+In stable musste man bei Slidern bisher nur die Genauigkeit einer MEH-Beurteilung (50er) erreichen, um eine perfekte Beurteilung zu bekommen. Das geschah aus historischen Gründen, fühlt sich aber in einem Rhythmusspiel nicht richtig an. Sliderköpfe erfassen nun die Genauigkeit.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Ja][true] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Mehr Kulanz bei Sliderköpfen
+
+Wenn man einen Slider zu früh trifft, startet der Follow-Circle jetzt sofort im Führungsmodus, auch wenn der Cursor den Sliderball verlässt, bevor der Slider startet.
+
+![](img/slider-early-leniency.gif)
+
+Des Weiteren werden beim zu späten Klicken eines Sliders alle Ticks oder Wiederholungen, die bereits vorüber sind, als absolviert gewertet.
+
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg)
+
+Siehe [dieses englische YouTube-Video](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s) für eine detaillierte Erklärung.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Sliderenden sind nun leichter zu treffen
+
+Bei sehr schnellen Slidern muss der Cursor im Bereich für die letzten 36 ms sein, und nicht mehr im Bereich für exakt 36 ms vor dem Sliderende (Erhöhung der Trefferkulanz).
+
+Siehe [dieses englische YouTube-Video](https://www.youtube.com/watch?v=SlWKKA-ltZY) für eine detaillierte Erklärung.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Das Verfehlen eines Sliderkopfes führt zu einem Miss
+
+Bislang unterbrach die Combo beim Verfehlen eines Sliderkopfes (entweder, weil er nicht oder außerhalb des Trefferfensters getroffen wird), aber führte zu keinem Miss. Eine Beurteilung konnte man durch Abschluss des Rests des Sliders trotzdem noch erhalten. Dies ermöglichte Spielern Scores mit einer geringen maximalen Combo zu erzielen, obwohl sie genau genommen keine Misses hatten.
+
+In lazer bekommt man beim Verfehlen des Sliderkopfes einen MISS für den gesamten Slider. Punkte, Combo und Genauigkeit können danach aber noch durch Sliderticks, -wiederholungen und -enden erzielt werden.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Sliderenden erzeugen keine Hitsounds, wenn sie nicht getroffen werden
+
+Solange man Slider überhaupt trifft, spielt stable ihre Hitsounds ab, auch wenn man das Sliderende verfehlt. In lazer entsprechen die Hitsounds 1:1 den Eingaben.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Ja][true] |
+| Umkehrbar mit der Classic-Mod | ![Ja][true] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Die Begrenzung der Spingeschwindigkeit von 477 RPM beim Spinner wurde entfernt
+
+Anstatt der Geschwindigkeitsbegrenzung werden nun die Punkte limitiert, die durch die Gesamtzahl der Rotationen, die bei einem bestimmten RPM-Wert (Umdrehungen pro Minute) im Spinner erreichbar sind, bestimmt werden (abhängig vom OD-Wert).
+
+Das bedeutet, dass die maximale Punktzahl früh durch ein schnelleres Spinnen erzielt werden kann, wobei danach keine weiteren Punkte für die restliche Dauer des Spinners vergeben werden.
+
+Die erforderliche RPM, um die maximale Punktzahl zu bekommen, ist wie folgt:
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Slider, die wie in Aspire-Beatmaps Programmfehler ausnutzen, werden nicht unterstützt
+
+![](img/aspire-slider.gif)
+
+Einige experimentelle Beatmaps nutzen Programmfehler im Stable-Client aus, die abartige Slidermechaniken ermöglichen. Dies geht von Slidern der Länge null, die sich wie unsichtbare Kreise verhalten, bis hin zu Slidern, die sich über den gesamten Bildschirm erstrecken oder die sehr stark gequetscht sind.
+
+Es steht noch zur Debatte, in wie weit Aspire-Beatmaps kompatibel sein sollen in Zukunft. Beispielsweise könnten unsichtbare Kreise eine tatsächlich unterstützte Funktion sein.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+### osu!taiko
+
+#### Noten, die mit Swells überlappen, können nicht getroffen werden
+
+In einigen Beatmaps mit Gimmicks überlappen Noten mit Swells.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Drumrolls verhindern kein wildes Durcheinandertippen
+
+In stable war es nicht möglich, Drumrolls zu schnell oder zu langsam zu treffen. Diese Limitierung wurde wie in ScoreV2 aufgehoben.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Der Mittelpunkt der Taschenlampe stimmt mit dem Beurteilungskreis überein
+
+In stable ist der Mittelpunkt der Taschenlampe bei der Mod Flashlight etwas nach unten und nach rechts versetzt, wodurch mehr Hit-Objekte sichtbar sind.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Ja][true] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+### osu!catch
+
+#### Die Generierung von Hyperdashes kann in einigen Fällen unterschiedlich sein
+
+Dies führt möglicherweise zu ungenauen Beurteilungen in Replays und einem erhöhten Schwierigkeitslevel.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Die Generierung von Juice-Streams kann in einigen Fällen unterschiedlich sein
+
+Dies führt möglicherweise zu ungenauen Beurteilungen in Replays.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+### osu!mania
+
+#### Köpfe und Enden von Hold-Notes vergeben Beurteilungen
+
+Dies funktioniert ähnlich zu ScoreV2 in stable.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Ticks von Hold-Notes wurden entfernt
+
+In stable erhöht sich die Combo bei Hold-Notes alle 100 ms, wohingegen "Ticks von Hold-Notes" in lazer die Combo jedes Tickinterval erhöht haben.
+
+Hold-Notes haben in lazer keine Ticks, was bedeutet, dass Hold-Notes die Combo nur am Anfang und am Ende erhöhen. Wie in stable bricht die Combo allerdings sofort ab, wenn man den Slider loslässt.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Übermäßige Scrollgeschwindigkeiten sind nur eingeschränkt verfügbar
+
+Einige Beatmaps mit SV-Gimmicks wie Teleportationen oder Stopps sehen nicht wie beabsichtigt aus, aber sind ansonsten spielbar.
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Ja][true] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Ja][true] |
+
+#### Das Trefferfenster der Beurteilung PERFECT skaliert mit OD
+
+Früher waren das konstante ±16 ms, unabhängig von der [allgemeinen Schwierigkeit](/wiki/Beatmap/Overall_difficulty) (OD).
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Nein][false] |
+| Umkehrbar mit der Classic-Mod | ![Ja][true] |
+| Absichtliche Änderung | ![Ja][true] |
+| Weitere Prüfung notwendig | ![Nein][false] |
+
+#### Die Mod Flashlight hat keinen weichen Rand
+
+![](img/mania-flashlight.gif)
+
+|  |  |
+| :-- | :-: |
+| Abwärtskompatibel | ![Ja][true] |
+| Umkehrbar mit der Classic-Mod | ![Nein][false] |
+| Absichtliche Änderung | ![Nein][false] |
+| Weitere Prüfung notwendig | ![Ja][true] |
 
 ## lazer ausprobieren
 
