@@ -496,16 +496,18 @@ Scores of all mod combinations appear on leaderboards.
 
 However, only the following mods will award performance points for now:
 
+*Only the **default configuration** of customisation options is eligible for performance points, unless otherwise noted.*
+
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (Configuring `Adjust pitch` is allowed)
+  - Half Time (**Only** configuring `Adjust pitch` is allowed)
   - Daycore
 - Difficulty Increase
   - Hard Rock (Not for osu!mania)
   - Sudden Death (Configuring `Also fail when missing a slider tail` (osu! only) and `Restart on fail` is allowed)
   - Perfect (Configuring `Require perfect hits` (osu!mania only) and `Restart on fail` is allowed)
-  - Double Time (Configuring `Adjust pitch` is allowed)
+  - Double Time (**Only** configuring `Adjust pitch` is allowed)
   - Nightcore
   - Fade In (osu!mania only)
   - Hidden
@@ -532,8 +534,6 @@ However, only the following mods will award performance points for now:
   - No Scope (osu! & osu!catch only, configuring `Hidden at combo` is allowed)
 - System
   - Touch Device
-
-Only the default configuration of customisation options is eligible for performance points, unless otherwise noted above.
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
