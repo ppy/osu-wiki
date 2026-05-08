@@ -84,7 +84,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Multiplayer commands | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
-| Ranked Play | ![No][false] | ![Yes][true] |
+| Ranked play | ![No][false] | ![Yes][true] |
 | Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
