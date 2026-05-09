@@ -15,7 +15,7 @@ tags:
 ## 限制
 
 ::: Infobox
-![](img/silence-profile-ZH.png "个人主页的被禁言记录")
+![](img/silence-profile-ZH.png?1 "个人主页的被禁言记录")
 :::
 
 处于被禁言状态的玩家不能：
