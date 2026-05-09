@@ -28,7 +28,7 @@ This is the main section of the information page, containing the most important 
 ![Mapping information](img/mapping-info.png "Mapping information")
 :::
 
-This panel lists the song title, the artist, the host mapper's avatar and username, the beatmap's submitted date and last changed date, and information for every difficulty.
+This panel lists the song title, the artist, the host mapper's avatar and username, the beatmap's submitted date and last changed date, together with information for every difficulty.
 
 The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Selecting a difficulty will update the statistics on the page accordingly.
 
