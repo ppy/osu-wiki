@@ -61,8 +61,8 @@ Lưu ý rằng lệnh `!report` không hoạt động trong osu!(lazer), vui lò
 
 ![](img/report-lazer-2.png "Hộp thoại báo cáo trong trò chơi")
 
-1. Nhấn chuột phải hoặc giữ lâu tên người dùng gây khó chịu và nhấn vào nút màu đỏ tiêu đề `Báo cáo` 
-2. Lựa chọn mục lý do và thêm chi tiết ( Trừ khi tùy chọn danh mục lý do được chọn là `Khác(nhập bên dưới)`
+1. Nhấn chuột phải hoặc giữ lâu tên người dùng gây khó chịu và ấn vào tiêu đề `Báo cáo` 
+2. Lựa chọn mục lý do và thêm chi tiết (Trừ khi tùy chọn danh mục lý do được chọn là `Khác(nhập bên dưới)`
 
 ## Website
 
