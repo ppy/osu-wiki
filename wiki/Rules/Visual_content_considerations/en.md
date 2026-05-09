@@ -25,7 +25,7 @@ When in doubt, aim to accommodate the collective values shared by the largest po
 
 ## Criteria
 
-Images or visual elements containing any of the following are **not allowed**:
+Images or other visual content containing any of the following are **not allowed**:
 
 - **sexual content involving or targeted at minors**
 - **excessive violence, gore, dismemberment, decapitation, or maiming**
@@ -36,11 +36,11 @@ Images or visual elements containing any of the following are **not allowed**:
 - **depictions of deliberately inflammatory political, cultural, religious, or social content**
 - **imagery depicting suicidal or self-harming behaviour, including preparation or imminent attempts**
 
-In addition, images or visual elements that could be reasonably appraised as being of poor quality (in either objective image quality or subjective composition/creation) may also be prevented from being used in a beatmap in cases where they are not directly related to any relevant subject matter.
+In addition, images or other visual content that could be reasonably appraised as being of poor quality (in either objective image/video quality or subjective composition/creation) may also be prevented from being used in a beatmap in cases where they are not directly related to any relevant subject matter.
 
 ## Exceptions
 
-Images or visual elements containing examples of the following may be considered acceptable:
+Images or other visual content containing examples of the following may be considered acceptable:
 
 - mild to moderate depictions of violence (small amounts of blood, non-critical or superficial wounding)
 - artistic nudity (in the context of classical artwork, or work related to the element, such as album art with minor nudity present)
@@ -49,11 +49,11 @@ Images or visual elements containing examples of the following may be considered
 
 In certain circumstances, some exceptions may apply for artistic use of high-effort content, such as storyboards or bespoke (i.e. specifically created) video content. This must be granted directly from the support team. Those interested may contact them directly via [support@ppy.sh](mailto:support@ppy.sh).
 
-## Getting your image assessed
+## Getting your visual content assessed
 
 *See: [Content voting process](/wiki/Rules/Content_voting_process).*
 
-Visual content that is used anywhere on the site outside of a beatmap (avatars, profile covers, beatmap descriptions, etc.) are **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
+Visual content that is used anywhere on the site outside of a beatmap (avatars, profile covers, beatmap descriptions, etc.) is **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 
 If you are unsure about any visual content that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The visual content will be raised to a vote that must pass by a considerable majority, or it will be automatically denied.
 
@@ -61,9 +61,9 @@ If you are unsure about any visual content that is going to be included in a bea
 
 At all times, [the osu! team](/wiki/People/osu!_team) reserves the right to unilaterally declare any content either valid or invalid at their discretion, regardless of any previous voting held on the matter.
 
-## What happens if my image isn't okay?
+## What happens if my visual content isn't okay?
 
-Any images, videos, or visual content the GMT deems inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silences) for 43 hours depending on the severity of the offence and the user's relevant history.
+Any images or other visual content the GMT deems inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silences) for 43 hours depending on the severity of the offence and the user's relevant history.
 
 For inappropriate visual content on beatmaps, silences will generally not be handed out as long as the visual content is not severely inappropriate and the user removes the offending content within a reasonable time frame.
 
