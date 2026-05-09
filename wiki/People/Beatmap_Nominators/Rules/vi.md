@@ -26,7 +26,7 @@ Hoạt động của người đề cử beatmap được đánh giá trên số
 - Người đề cử Beatmap đa chế độ phải đề cử ít nhất 3 beatmap mỗi chế độ chơi thành thạo trong khoảng thời gian 90 ngày.
  - Cảnh báo hoạt động trong chế độ chơi liên quan sẽ được cấp khi không đáp ứng được quy tắc này
  - Thấp hơn **2** đề cử trong chế độ chơi cụ thể sẽ luôn dẫn tới việc bị loại khỏi người đề cử của chế độ chơi đó 
-- Khi nhận được cảnh báo hoạt động, các yêu cầu hoạt động tối thiểu phải được đáp ứng sau 30 ngày
+- Khi nhận cảnh báo hoạt động, các yêu cầu hoạt động tối thiểu phải được đáp ứng sau 30 ngày
 - Nếu không đạt được yêu cầu tối thiểu khi đã được cảnh báo trong vòng 1 năm sẽ dẫn đến bị loại khỏi vai trò đề cử Beatmap.
 
 Khi một đợt đánh giá người đề cử beatmap được tạo ra và họ vẫn cần phải đáp ứng các điều kiện hoạt động tối thiểu. Họ sẽ nhận được một lời nhắc thông qua [bot NAT](https://osu.ppy.sh/users/6616586) và sẽ được cung cấp 7 ngày để đáp ứng chỉ tiêu.
