@@ -14,7 +14,7 @@
 
 Trách nhiệm của một mapper là theo dõi và phản hồi các cuộc thảo luận mới về beatmap của mình. Phớt lờ các đề xuất hoặc không phản hồi kịp thời có thể làm những người modder khác nản lòng và không muốn tham gia thảo luận nữa.
 
-Khi phản hồi đến đề xuất của ai đó, điều quan trọng là phải xem xét những điểm sau:
+Khi phản hồi đối với đề xuất của ai đó, điều quan trọng là phải xem xét những điểm sau:
 
 - **Hãy coi tất cả các đề xuất đều hợp lệ và có giá trị như nhau.** Đừng vội vàng kết luận về tính hợp lệ của một đề xuất khi chưa đánh giá kỹ lưỡng trước.
 - **Giải thích rõ ràng cho quyết định của bạn.** Nêu rõ những gì bạn đã thay đổi, và nếu bạn không đồng ý với một đề xuất, hãy giải thích lý do và những gì bạn đã làm thay vào đó. Điều này không chỉ giúp người modding học hỏi thêm mà còn giúp những lần mod sau này được điều chỉnh phù hợp với ý tưởng hoặc cách làm của bạn.
