@@ -122,7 +122,7 @@ The NAT leader aims to cover the following tasks:
 
 *Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
 
-The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists all of the team members. In addition to areas mentioned below, all NAT members take part in [reviewing audio and visual content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-visual-content-assessed).
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
