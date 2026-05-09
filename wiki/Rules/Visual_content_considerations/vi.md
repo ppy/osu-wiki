@@ -50,7 +50,7 @@ Xem thêm tại: [Quá trình bỏ phiếu nội dung hình ảnh](/wiki/Rules/C
 
 Các hình ảnh được sử dụng ở bất kỳ đâu trên trang web ngoại trừ beatmap (ảnh đại diện, ảnh bìa hồ sơ, trang người dùng, v.v.) đều **không** nằm trong quy trình bỏ phiếu được giải thích bên dưới và có thể bị xóa bỏ bất cứ lúc nào theo toàn quyền quyết định của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT).
 
-Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đưa ra bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
+Nếu bạn không chắc chắn về một hình ảnh được đưa vào beatmap theo bất kỳ cách nào, **vui lòng gửi yêu cầu qua [trang gửi báo cáo cho người đề cử beatmap](https://bn.mappersguild.com/reports)**. Hình ảnh đó sẽ được đưa thành một cuộc bỏ phiếu và bắt buộc đạt được đa số phiếu đáng kể, còn không sẽ tự động bị từ chối.
 
 **Kết quả của cuộc bỏ phiếu là kết quả cuối cùng**, trừ khi hình ảnh bị thay đổi đáng kể để cố gắng giải quyết bất kỳ các yếu tố có thể gây vấn đề được nêu ra trong thảo luận.
 
