@@ -58,9 +58,9 @@ Thanks to a [brand new skill](https://github.com/ppy/osu/pull/33196) created by 
 
 This new Reading skill aims to replace the current bonuses by calculating the density at each note and using that to scale reading difficulty, alongside some basic angle bonuses. As the old bonuses were a single multiplier onto Aim and Speed, you can expect to see losses for very high ranking players as their scores were receiving too much bonus for simply being high AR, as well as some buffs on high AR in the lower rankings due to not providing _enough_ reward.
 
-As a result of the density changes, you can expect to see large scale buffs on low AR scores (especially when paired with HD).
+As a result of the density changes, you can expect to see large scale buffs on low AR scores (especially when paired with HD):
 
-<!-- todo: possible reading strain graph -->
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/heat-abnormal-graph.png)
 
 ### Change Speed difficulty summation to be a harmonic sum
 
@@ -84,9 +84,7 @@ Aim calculations have a set of angle bonuses intended to award difficulty for pa
 
 A [change](https://github.com/ppy/osu/pull/35555) by [Nisico](https://osu.ppy.sh/users/23384384) improves this by changing which parts of the slider are used to form the angle.
 
-An example of before (white) vs after (green), where these sliders were incorrectly buffed previously:
-
-<!-- todo: fix stanr's visualisation tool to correctly show live angles -->
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/slider-angles.png)
 
 ### Improve relationship between distance and BPM increases in Aim
 
