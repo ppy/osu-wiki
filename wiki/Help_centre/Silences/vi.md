@@ -12,7 +12,7 @@ tags:
 ## Những hạn chế
 
 ::: Infobox
-![](img/silence-profile.png "Lịch sử im lặng trong trang hồ sơ")
+![](img/silence-profile.png?1 "Lịch sử im lặng trong trang hồ sơ")
 :::
 
 Một người dùng có một im lặng đang hoạt động không thể làm những điều sau đây:
@@ -30,6 +30,8 @@ Một người dùng có một im lặng đang hoạt động không thể làm 
 :::
 
 Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
+
+Khi được áp dụng, im lặng sẽ được hiển thị công khai dưới tab `trạng thái tài khoản` của hồ sơ người dùng bị im lặng, và vẫn tiếp tục hiển thị trong 28 ngày sau khi kết thúc. Nếu im lặng hiện tại đang hoạt động, thời lượng của nó cũng sẽ được hiển thị trong tab này. Và khi người dùng có 3 hoặc thêm im lặng được hiển thị, hoặc nếu có một im lặng hiển thị kéo dài hơn 43 giờ, một cảnh báo về trạng thái hồ sơ của người dùng cũng được hiển thị. 
 
 ## Thời lượng
 
@@ -61,9 +63,15 @@ Lệnh cấm im lặng cũng có thể được áp dụng đối với người
 
 ## Kháng cáo
 
-Trong khi các hình thức im lặng được áp dụng để duy trì một môi trường cộng đồng tích cực, đôi khi lỗi cũng có thể xảy ra. Nếu bạn tin rằng hình thức im lặng áp dụng cho bạn là lỗi hoặc không công bằng, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#accounts@ppy.sh) tại [accounts@ppy.sh](mailto:accounts@ppy.sh) và giải thích tình huống.
+Trong khi các hình thức im lặng được áp dụng để duy trì một môi trường cộng đồng tích cực, đôi khi lỗi cũng có thể xảy ra. Nếu bạn tin rằng hình thức im lặng áp dụng cho bạn là lỗi hoặc không công bằng, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#accounts@ppy.sh) tại [accounts@ppy.sh](mailto:accounts@ppy.sh) và giải thích tình huống. bạn cũng có thể yêu cầu giải thích rõ ràng về lý do im lặng của bạn.
 
 Hãy nhớ rằng bạn bắt buộc sử dụng địa chỉ email liên quan với tài khoản osu! của bạn và đề cập đến tên người dùng của bạn để xác nhận đó là bạn.
+
+## Cách nào để tôi tránh bị im lặng ?
+
+Đọc kĩ và theo [các quy tắc](/wiki/Rules), [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations), [Quy định nội dung bài hát](/wiki/Rules/Song_content_rules), và [quy tắc ứng xử với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). Nếu bạn không chắc liệu điều bạn muốn làm hoặc nói có vi phạm quy định hay không, hãy hỏi [một thành viên của nhóm điều hành toàn cầu](https://osu.ppy.sh/groups/4). 
+
+Ngoài ra, nếu bạn có bài đăng trên diễn đàn cũ, beatmap, bình luận, hoặc những thứ tương tự mà bạn cho rằng chứa nội dung không phù hợp, bạn cũng nên đơn giản là xóa đi hoặc chỉnh sửa phần nội dung nếu có thể. Nếu bạn không thể chỉnh sửa hoặc xóa nội dung vì bất kỳ lý do nào, liên hệ một thành viên của nhóm điều hành toàn cầu để xóa bỏ chúng.
 
 ## Tài liệu tham khảo
 
