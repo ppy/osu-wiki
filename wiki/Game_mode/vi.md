@@ -1,4 +1,4 @@
-# Các chế độ chơi của osu!
+# Chế độ chơi của osu!
 
 osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong game với những lối chơi khác nhau, thường được lấy cảm hứng từ các tựa game nhịp điệu khác:
 
@@ -22,7 +22,7 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 
 *Trang chính: [osu!](osu!)*
 
-*osu!* là chế độ chơi mặc định của game, nơi mà bạn phải bấm vào những nốt tròn, nhấn giữ những nốt dài, và xoay những nốt yêu cầu theo nhịp của bài nhạc. Nó được dựa theo tựa game nhịp điệu của [iNiS](https://en.wikipedia.org/wiki/INiS)' là *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. osu! có nhân vật biểu tượng là [pippi](/wiki/Mascots#pippi), một cô gái với mái tóc màu hồng và đen.
+*osu!* là chế độ chơi mặc định của game, nơi mà bạn phải bấm vào những nốt tròn, nhấn giữ nốt dài, và xoay spinner theo yêu cầu nhịp của bài nhạc. Nó được dựa theo tựa game nhịp điệu của là *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* của [iNiS](https://en.wikipedia.org/wiki/INiS). osu! có nhân vật biểu tượng là [pippi](/wiki/Mascots#pippi), một cô gái với mái tóc màu hồng và đen.
 
 ![Lối chơi của osu!](/wiki/shared/osu-gameplay.jpg " Lối chơi của osu!")
 
@@ -38,15 +38,15 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 
 *Trang chính: [osu!catch](osu!catch)*
 
-*osu!catch* là chế độ mà người chơi điều khiển một nhân vật đang cầm mâm hứng những món trái cây rơi xuống từ trên màn hình xuống theo điệu nhạc. Nó gần như dựa trên minigame "Catch It!!" trong khoảng thời gian đầu của [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], một giả lập của [Beatmania](https://en.wikipedia.org/wiki/Beatmania) dành cho PC, về sau đã trở thành một chế độ *EZ2CATCH* của hệ thống arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Nhân vật biểu tượng của osu!catch là [Yuzu](/wiki/Mascots#yuzu), một cậu bé tóc xanh.
+*osu!catch* là chế độ mà người chơi điều khiển một nhân vật đang cầm mâm hứng những món trái cây rơi xuống từ trên màn hình xuống theo điệu nhạc. Nó gần như dựa trên minigame "Catch It!!" trong các phiên bản đầu tiên của [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], một giả lập của [Beatmania](https://en.wikipedia.org/wiki/Beatmania) dành cho PC, mà bản thân nó cũng được lấy cảm hứng từ chế độ *EZ2CATCH* của hệ thống arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Nhân vật biểu tượng của osu!catch là [Yuzu](/wiki/Mascots#yuzu), một cậu bé tóc xanh.
 
 ![Lối chơi của osu!catch](/wiki/shared/catch-gameplay.jpg "Lối chơi của osu!catch")
 
 ## ![][osu!mania] osu!mania
 
-*Main page: [osu!mania](osu!mania)*
+*Trang chính: [osu!mania](osu!mania)*
 
-*osu!mania* là một chế độ chơi theo hướng các nốt cuộn từ trên xuống (VSRG) được thiết kế để mô phỏng cách chơi piano. chế độ lần đầu được [thực hiện và giới thiệu](https://osu.ppy.sh/community/forums/topics/100751) bởi [woc2006](https://osu.ppy.sh/users/1105845), và được lấy cảm hứng từ tựa game có lối chơi tương tự (có tên [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) và [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Nhân vật biểu tượng của osu!mania là cặp sinh đôi [Mani and Mari](/wiki/Mascots#mani-&-mari),cả hai đều có mái tóc trắng và tím.
+*osu!mania* là một chế độ chơi theo hướng các nốt cuộn từ trên xuống (VSRG) được thiết kế để mô phỏng cách chơi piano. Chế độ này lần đầu được  [thực hiện và giới thiệu](https://osu.ppy.sh/community/forums/topics/100751) bởi [woc2006](https://osu.ppy.sh/users/1105845), và được lấy cảm hứng từ tựa game có lối chơi tương tự (cụ thể là [Dance Dance Revolution](https://en.wikipedia.org/wiki/Dance_Dance_Revolution) và [Beatmania](https://en.wikipedia.org/wiki/Beatmania)). Nhân vật biểu tượng của osu!mania là cặp sinh đôi [Mani and Mari](/wiki/Mascots#mani-&-mari), cả hai đều có mái tóc trắng và tím.
 
 ![Lối chơi của osu!mania](/wiki/shared/mania-gameplay.jpg "Lối chơi của osu!mania")
 
