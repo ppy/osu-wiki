@@ -18,7 +18,7 @@ outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 ## Limitaciones
 
 ::: Infobox
-![](img/silence-profile-ES.png "Registro de un silencio en la página de perfil")
+![](img/silence-profile-ES.png?1 "Registro de un silencio en la página de perfil")
 :::
 
 Un usuario que tiene un silencio activo no puede hacer lo siguiente:
