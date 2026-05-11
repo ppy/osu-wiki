@@ -56,6 +56,66 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)
 - [Challonge bracket](https://challonge.com/LGA2026)
 
+## Match schedule: Week 1
+
+### Saturday, 16 May 2026
+
+| ID | Round | High seed | Low seed | Match time | Twitch stream |
+| :-: | :-- | --: | :-- | :-- | :-: |
+| 1 | RO32 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=US }:: [Crestive](https://osu.ppy.sh/users/10909049) | [May 16 (Sat) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T010000&p1=1440) |  |
+| 13 | RO32 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | ::{ flag=US }:: [BlueChinchompa](https://osu.ppy.sh/users/14494717) | [May 16 (Sat) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T010000&p1=1440) |  |
+| 11 | RO32 | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=US }:: [Rykic](https://osu.ppy.sh/users/12667143) | [May 16 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T020000&p1=1440) |  |
+| 5 | RO32 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [May 16 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T030000&p1=1440) |  |
+| 12 | RO32 | [runnysunny](https://osu.ppy.sh/users/15339747) ::{ flag=DE }:: | ::{ flag=AU }:: [Drox](https://osu.ppy.sh/users/4309566) | [May 16 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T090000&p1=1440) |  |
+| 15 | RO32 | [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | [May 16 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T100000&p1=1440) |  |
+| 3 | RO32 | [NeliNyan](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | ::{ flag=FR }:: [MyzeJD](https://osu.ppy.sh/users/3257847) | [May 16 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T110000&p1=1440) |  |
+| 9 | RO32 | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) | [May 16 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T120000&p1=1440) |  |
+| 14 | RO32 | [maxim](https://osu.ppy.sh/users/9459674) ::{ flag=RU }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 16 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T130000&p1=1440) |  |
+| 10 | RO32 | [Drxvmik](https://osu.ppy.sh/users/11383358) ::{ flag=SK }:: | ::{ flag=US }:: [xymbii](https://osu.ppy.sh/users/10809844) | [May 16 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T160000&p1=1440) |  |
+| 4 | RO32 | [Ivaxa](https://osu.ppy.sh/users/15406985) ::{ flag=PL }:: | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | [May 16 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T170000&p1=1440) |  |
+| 16 | RO32 | [Riot](https://osu.ppy.sh/users/4256461) ::{ flag=MX }:: | ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131) | [May 16 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T180000&p1=1440) |  |
+| 8 | RO32 | [sorinica17](https://osu.ppy.sh/users/15095811) ::{ flag=RO }:: | ::{ flag=US }:: [TrickyPugster](https://osu.ppy.sh/users/8082362) | [May 16 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T190000&p1=1440) |  |
+| 7 | RO32 | [alfiu](https://osu.ppy.sh/users/17724014) ::{ flag=CL }:: | ::{ flag=US }:: [RyooYamada](https://osu.ppy.sh/users/9896317) | [May 16 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T200000&p1=1440) |  |
+| 2 | RO32 | [Wanderio](https://osu.ppy.sh/users/16529875) ::{ flag=CA }:: | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [May 16 (Sat) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T210000&p1=1440) |  |
+| 6 | RO32 | [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) | [May 16 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260516T220000&p1=1440) |  |
+
+### Sunday, 17 May 2026
+
+| ID | Round | High seed | Low seed | Match time | Twitch stream |
+| :-: | :-- | --: | :-- | :-- | :-: |
+| 19a | RO16 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 17 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T000000&p1=1440) |  |
+| 19b | RO16 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) | [May 17 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T000000&p1=1440) |  |
+| 19c | RO16 | [gilgamesh815](https://osu.ppy.sh/users/14040810) ::{ flag=US }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 17 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T000000&p1=1440) |  |
+| 19d | RO16 | [gilgamesh815](https://osu.ppy.sh/users/14040810) ::{ flag=US }:: | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) | [May 17 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T000000&p1=1440) |  |
+| 17a | RO16 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875) | [May 17 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T010000&p1=1440) |  |
+| 17b | RO16 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [May 17 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T010000&p1=1440) |  |
+| 17c | RO16 | [Crestive](https://osu.ppy.sh/users/10909049) ::{ flag=US }:: | ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875) | [May 17 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T010000&p1=1440) |  |
+| 17d | RO16 | [Crestive](https://osu.ppy.sh/users/10909049) ::{ flag=US }:: | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [May 17 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T010000&p1=1440) |  |
+| 22d | RO16 | [Rykic](https://osu.ppy.sh/users/12667143) ::{ flag=US }:: | ::{ flag=AU }:: [Drox](https://osu.ppy.sh/users/4309566) | [May 17 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T020000&p1=1440) |  |
+| 22b | RO16 | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=AU }:: [Drox](https://osu.ppy.sh/users/4309566) | [May 17 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T030000&p1=1440) |  |
+| 24a | RO16 | [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | [May 17 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T030000&p1=1440) |  |
+| 23d | RO16 | [BlueChinchompa](https://osu.ppy.sh/users/14494717) ::{ flag=US }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 17 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T040000&p1=1440) |  |
+| 23b | RO16 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 17 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T090000&p1=1440) |  |
+| 23a | RO16 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | ::{ flag=RU }:: [maxim](https://osu.ppy.sh/users/9459674) | [May 17 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T100000&p1=1440) |  |
+| 18a | RO16 | [NeliNyan](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) | [May 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T110000&p1=1440) |  |
+| 18b | RO16 | [NeliNyan](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | [May 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T110000&p1=1440) |  |
+| 18c | RO16 | [MyzeJD](https://osu.ppy.sh/users/3257847) ::{ flag=FR }:: | ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) | [May 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T110000&p1=1440) |  |
+| 18d | RO16 | [MyzeJD](https://osu.ppy.sh/users/3257847) ::{ flag=FR }:: | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | [May 17 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T110000&p1=1440) |  |
+| 24b | RO16 | [aknzx](https://osu.ppy.sh/users/9938943) ::{ flag=AU }:: | ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131) | [May 17 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T130000&p1=1440) |  |
+| 24c | RO16 | [A L E P H](https://osu.ppy.sh/users/6735738) ::{ flag=ES }:: | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | [May 17 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T150000&p1=1440) |  |
+| 21a | RO16 | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=SK }:: [Drxvmik](https://osu.ppy.sh/users/11383358) | [May 17 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T160000&p1=1440) |  |
+| 21b | RO16 | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=US }:: [xymbii](https://osu.ppy.sh/users/10809844) | [May 17 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T160000&p1=1440) |  |
+| 21c | RO16 | [AllyrD](https://osu.ppy.sh/users/9561644) ::{ flag=FI }:: | ::{ flag=SK }:: [Drxvmik](https://osu.ppy.sh/users/11383358) | [May 17 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T160000&p1=1440) |  |
+| 21d | RO16 | [AllyrD](https://osu.ppy.sh/users/9561644) ::{ flag=FI }:: | ::{ flag=US }:: [xymbii](https://osu.ppy.sh/users/10809844) | [May 17 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T160000&p1=1440) |  |
+| 23c | RO16 | [BlueChinchompa](https://osu.ppy.sh/users/14494717) ::{ flag=US }:: | ::{ flag=RU }:: [maxim](https://osu.ppy.sh/users/9459674) | [May 17 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T170000&p1=1440) |  |
+| 22c | RO16 | [Rykic](https://osu.ppy.sh/users/12667143) ::{ flag=US }:: | ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747) | [May 17 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T180000&p1=1440) |  |
+| 20a | RO16 | [alfiu](https://osu.ppy.sh/users/17724014) ::{ flag=CL }:: | ::{ flag=RO }:: [sorinica17](https://osu.ppy.sh/users/15095811) | [May 17 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T190000&p1=1440) |  |
+| 20b | RO16 | [alfiu](https://osu.ppy.sh/users/17724014) ::{ flag=CL }:: | ::{ flag=US }:: [TrickyPugster](https://osu.ppy.sh/users/8082362) | [May 17 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T190000&p1=1440) |  |
+| 20c | RO16 | [RyooYamada](https://osu.ppy.sh/users/9896317) ::{ flag=US }:: | ::{ flag=RO }:: [sorinica17](https://osu.ppy.sh/users/15095811) | [May 17 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T190000&p1=1440) |  |
+| 20d | RO16 | [RyooYamada](https://osu.ppy.sh/users/9896317) ::{ flag=US }:: | ::{ flag=US }:: [TrickyPugster](https://osu.ppy.sh/users/8082362) | [May 17 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T190000&p1=1440) |  |
+| 22a | RO16 | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747) | [May 17 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T200000&p1=1440) |  |
+| 24d | RO16 | [A L E P H](https://osu.ppy.sh/users/6735738) ::{ flag=ES }:: | ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131) | [May 17 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T200000&p1=1440) |  |
+
 ## Match results
 
 ### Qualifiers
