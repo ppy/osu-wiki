@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0ad74729d42a03df29f787cc719600ecd54f853b
+---
+
 # osu!-Turnier-Client
 
 Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) mit zusätzlichen Szenen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
