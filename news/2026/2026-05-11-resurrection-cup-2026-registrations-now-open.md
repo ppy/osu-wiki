@@ -9,7 +9,7 @@ We're back!
 
 ![](/wiki/shared/news/2026-05-11-resurrection-cup-2026-registrations-now-open/banner.jpg)
 
-[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/2205168), or ResCup for short, is an annual open-rank 3v3, team size 6 tournament that seeks to highlight the pinnacle of the osu!standard tournament scene.
+[Resurrection Cup](https://osu.ppy.sh/community/forums/topics/2205168), or ResCup for short, is an annual open-rank 3v3, team size 5 tournament that seeks to highlight the pinnacle of the osu! tournament scene.
 
 ## What's new?
 
