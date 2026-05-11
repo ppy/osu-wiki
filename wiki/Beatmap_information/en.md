@@ -20,7 +20,7 @@ The four icons at the top-right shows which [game mode](/wiki/Game_mode) is curr
 
 ![Difficulty menu](img/difficulty-menu.png "Difficulty menu section")
 
-This is the main section of the information page, containing the most important details about a beatmap. The background is the cutout version of the beatmap's background image.
+This is the main section of the information page, containing the most important details about a beatmap. The background is the cropped version of the beatmap's background image.
 
 ### Mapping information
 
@@ -85,9 +85,9 @@ The rating graph below the user rating shows the proportion of votes for each st
 
 The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable by the mapper often used for...
 
-- ...linking resources such as the background image's source or hitsound samples used.
+- ...linking resources such as the background image's source or [hitsound samples](/wiki/Beatmapping/Hitsound) used.
 - ...recommending relevant contents to the song, such as its music video or the official website of the artist.
-- ...commending other users for their help (e.g. guest mappers, modders, storyboarders).
+- ...commending other users for their help (e.g. [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding), [storyboarders](/wiki/Storyboard).
 - ...trivia related to the beatmap (e.g. mapping milestones).
 
 ### Keywords
