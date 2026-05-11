@@ -6,7 +6,7 @@
 
 ## 谱师标签 (Mapper tags)
 
-*有关谱师标签的规则，请参见：[谱面上架标准/元数据 § 标签](/wiki/Ranking_criteria/Metadata#tags)*
+*有关谱师标签的规则，请参见：[谱面上架标准/元数据 § 标签](/wiki/Ranking_criteria/Metadata#标签-(tags))*
 
 **谱师标签**是描述谱面或歌曲有用背景信息的标签，例如专辑名称或歌曲制作的目的媒介。顾名思义，这些标签由谱面创建者 (host) 在尝试[推动谱面上架](/wiki/Beatmap_ranking_procedure)时添加。
 
