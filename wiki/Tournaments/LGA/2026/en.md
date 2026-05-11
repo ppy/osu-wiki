@@ -318,7 +318,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
    - For the second weekend, a double-elimination bracket will be played, from Quarterfinals up until the Grand Finals.
 7. All matches for each weekend will utilise the same mappool.
    - Each pool will feature 15 maps, organised as such:
-     - No Mod: 4 beatmaps
+     - No Mod: 5 beatmaps
      - Hidden: 3 beatmaps
      - Hard Rock: 3 beatmaps
      - Double Time: 3 beatmaps
