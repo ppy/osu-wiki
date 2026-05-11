@@ -3,61 +3,55 @@ tags:
   - TWC
   - TWC2021
   - 世界杯
-outdated_translation: true
-outdated_since: fd12864fe0d9d5c4e43f09e681be0c1ad040e200
 ---
 
-# osu!taiko 2021 世界杯
+# osu!taiko 世界杯 2021
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/osu!_team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
-
-*注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
-
-*注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
-
-*注意：除非特殊说明，本文所提到的货币单位均以* **USD（美元）** *为准。*
+**osu!taiko 世界杯 2021** (***TWC 2021***) 是由 [osu! 团队](/wiki/People/osu!_team)举办的，基于国家/地区的 osu!taiko 锦标赛。本届 osu!taiko 世界杯是第十一届。
 
 ## 赛程
 
 | 阶段 | 时间 |
 | --: | :-- |
-| 报名阶段 | 2021-02-04/2021-02-18 |
-| 抽签 | 2021-02-27 (14:00 UTC+8) |
+| 报名 | 2021-02-04/2021-02-18 |
+| 直播抽签 | 2021-02-27 (14:00 UTC+8) |
 | 小组赛 | 2021-03-06/2021-03-07 |
 | 十六强赛 | 2021-03-13/2021-03-14 |
 | 四分之一决赛 | 2021-03-20/2021-03-21 |
 | 半决赛 | 2021-03-27/2021-03-28 |
-| 决赛：第一周 | 2021-04-03/2021-04-04 |
-| 决赛：第二周 | 2021-04-10/2021-04-11 |
+| 决赛第一周 | 2021-04-03/2021-04-04 |
+| 决赛第二周 | 2021-04-10/2021-04-11 |
 
 ## 奖品
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150，个人资料徽章，以及为期一年的 “osu!taiko Champion” 头衔 |
-| ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
-| ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
+| ![金冠](/wiki/shared/crown-gold.png "冠军") | 每人 $150、个人资料徽章、为期一年的 *osu!taiko Champion* 头衔 |
+| ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80、个人资料徽章 |
+| ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40、个人资料徽章 |
 
-## 工作人员
+![](img/badge1.png "TWC 2021 冠军徽章") ![](img/badge2.png "TWC 2021 亚军徽章") ![](img/badge3.png "TWC 2021 季军徽章")
 
-osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
+## 组织
+
+osu!taiko 世界杯 2021 由众多社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
 | 比赛管理 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
-| 图池管理 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107) |
+| 选图 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107) |
 | 解说 | ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=US }:: [Ethaaaan](https://osu.ppy.sh/users/9536977), ::{ flag=US }:: [incandescence](https://osu.ppy.sh/users/6256027), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718), ::{ flag=US }:: [Mister Boo](https://osu.ppy.sh/users/2598555), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) |
 | 裁判 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| 统计员 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
+| 统计 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) |
 
-## 相关链接
+## 链接
 
 - [论坛讨论帖](https://osu.ppy.sh/community/forums/topics/1241159)
 - [Twitch 直播间](https://www.twitch.tv/osulive)
 - [Challonge 对阵表](https://challonge.com/TWC_2021)
-- 由 ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的 [竞猜](https://pickem.hwc.hr/tournaments/53)
+- 由 ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) 举办的[竞猜页面](https://pickem.hwc.hr/tournaments/53)
 - **[谷歌统计表](https://docs.google.com/spreadsheets/d/e/2PACX-1vTImDZNlIdekerlWWr-TR82GKRflboYOcu3ZEqqeTuaSKQfOuY5WO2rS8p5lPjbvtZ5xZdY_iVGNcTI/pubhtml)**
 
 ## 参赛选手
@@ -97,29 +91,110 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | ::{ flag=US }:: | **美国** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [cheese salad](https://osu.ppy.sh/users/6349821), [R J](https://osu.ppy.sh/users/6490509), [3san](https://osu.ppy.sh/users/8050850), [ChurroChef](https://osu.ppy.sh/users/9258564) |
 | ::{ flag=VN }:: | **越南** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [\_Kuroni\_](https://osu.ppy.sh/users/6159305), [-BunZ-](https://osu.ppy.sh/users/7556673), [SaraSoul](https://osu.ppy.sh/users/13493346) |
 
-## 比赛排程：十六强赛
+## 颁奖信息
 
-*小提示：* **中国标准时间** *（又名* **北京时间** *）比协调世界时间快八小时（* **UTC+08** *）。*
-
-### 2021 年 3 月 13 日，星期六
-
-| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | :-- | :-: | :-: | :-: |
-| 菲律宾 ::{ flag=PH }:: | ::{ flag=KR }:: 韩国 | **20:00 UTC+08** | 20:00 UTC+08 | 21:00 UTC+09 |
-| 德国 ::{ flag=DE }:: | ::{ flag=SG }:: 新加坡 | **21:00 UTC+08** | 14:00 UTC+01 | 21:00 UTC+08 |
-| 阿根廷 ::{ flag=AR }:: | ::{ flag=ID }:: 印度尼西亚 | **22:00 UTC+08** | 11:00 UTC-03 | 21:00 UTC+07 |
-| 巴西 ::{ flag=BR }:: | ::{ flag=MY }:: 马来西亚 | **23:00 UTC+08** | 12:00 UTC-03 | 23:00 UTC+08 |
-
-### 2021 年 3 月 14 日，星期日
-
-| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | :-- | :-: | :-: | :-: |
-| 中国 ::{ flag=CN }:: | ::{ flag=CA }:: 加拿大 | **11:00 UTC+08** | 11:00 UTC+08 | 22:00 (星期六) UTC-05 |
-| 台湾 ::{ flag=TW }:: | ::{ flag=US }:: 美国 | **21:00 UTC+08** | 12:00 UTC+08 | 21:00 (星期六) UTC-07 |
-| 葡萄牙 ::{ flag=PT }:: | ::{ flag=JP }:: 日本 | **21:00 UTC+08** | 13:00 UTC | 22:00 UTC+09 |
-| 意大利 ::{ flag=IT }:: | ::{ flag=TH }:: 泰国 | **23:00 UTC+08** | 16:00 UTC+01 | 22:00 UTC+07 |
+![](img/podium.jpg "TWC 2021 颁奖信息")
 
 ## 图池
+
+### 总决赛
+
+- NoMod
+  1. [Kobaryo - Rainbow Freeze (1RoHa\_) \[Nube Oni\]](https://osu.ppy.sh/beatmapsets/673392#taiko/1425158)
+  2. [REDALiCE vs MASAKI - BUCHiGiRE Berserker (Long ver) (Firce777) \[Firce777's Taiko (TWC ver.)\]](https://osu.ppy.sh/beatmapsets/1422679#taiko/2929979)
+  3. [Kobaryo - Kumo No Kireme [feat. Kourin.] (Sayaka-) \[Infinite Apocalypse\]](https://osu.ppy.sh/beatmapsets/370678#taiko/906962)
+  4. [Beneath The Massacre - Absurd Hero (Heaxys) \[TWC 2021 Grandfinals - NM4\]](https://osu.ppy.sh/beatmapsets/1422657#taiko/2929952)
+  5. [Rahatt - Matusa Bomber (nananass) \[nas\]](https://osu.ppy.sh/beatmapsets/1336341#taiko/2928466)
+  6. [Dz'Xa - Izumi 7983 (Ulqui) \[COLLAPSING MINDS\]](https://osu.ppy.sh/beatmapsets/1422684#taiko/2929985)
+- Hidden
+  1. [Her Bright Skies - The Glorious (Final Sketch Remix) (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/750181#taiko/1579882)
+  2. [Blotted Science - Cretaceous Chasm (Mew) \[Inevitable Extinction\]](https://osu.ppy.sh/beatmapsets/1422697#taiko/2930004)
+- HardRock
+  1. [antiPLUR - Speed of Link (Skull Kid) \[Special\]](https://osu.ppy.sh/beatmapsets/477116#taiko/1019139)
+  2. [Camellia - KillerBeast (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2239078)
+- DoubleTime
+  1. [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/395660#taiko/861023)
+  2. [Sota Fujimori - Transport -Extended Mix- (Raiden) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742538#taiko/1566143)
+- FreeMod
+  1. [Neko Kanimaru - Hidamari no Machi - A! (PING) \[AHA!\]](https://osu.ppy.sh/beatmapsets/600477#taiko/2929588)
+  2. [II-L - VANGUARD-2 (Faputa) \[TRAILBLAZING\]](https://osu.ppy.sh/beatmapsets/1422686#taiko/2929992)
+  3. [Camellia - Flamewall (Cut Ver.) (\_mtk) \[ETERNAL FLAME\]](https://osu.ppy.sh/beatmapsets/1422689#taiko/2929995)
+- Tiebreaker
+  1. **[TWC Sound Team "Zeroth Powers" - One One (Firce777) \[BLOOD GOD FEAR\]](https://osu.ppy.sh/beatmapsets/1422682#taiko/2929983)**
+
+### 决赛
+
+- NoMod
+  1. [Camellia - SCREW // owo // SCREW (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1230293#taiko/2557747)
+  2. [Metaroom - Angel (Genjuro) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/1415961#taiko/2918088)
+  3. [Colorful Sounds Port - ETERNAL DRAIN (\_yu68) \[DX\]](https://osu.ppy.sh/beatmapsets/573197#taiko/1214311)
+  4. [DubscribeS - Blood Rave (Final Sketch Remix) (tasuke912) \[TAIKO-HOLiC\]](https://osu.ppy.sh/beatmapsets/523630#taiko/1111605)
+  5. [Camellia - \*Feels Seasickness...\* (Firce777) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/958050#taiko/2005989)
+  6. [Lazhward - CFIT (-Kazu-) \[Bicolor Airline\]](https://osu.ppy.sh/beatmapsets/1273664#taiko/2724417)
+- Hidden
+  1. [YUTO - Theory (te2035) \[LEGGENDARIA Oni\]](https://osu.ppy.sh/beatmapsets/1187561#taiko/2483087)
+  2. [Cranky - R176 (7\_7 Remix) (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/1416001#taiko/2918150)
+- HardRock
+  1. [Camellia as "Bang Riot" - Blastix Riotz (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/351644#taiko/774996)
+  2. [Silentroom - F1055 (HiroK) \[Flowness\]](https://osu.ppy.sh/beatmapsets/1224716#taiko/2547165)
+- DoubleTime
+  1. [DragonForce - Symphony of the Night (Raiden) \[Tatsujin\]](https://osu.ppy.sh/beatmapsets/555073#taiko/1174919)
+  2. [cillia - Ringo Uri no Utakata Shoujo (mintong89) \[Ringo Oni\]](https://osu.ppy.sh/beatmapsets/398423#taiko/866288)
+- FreeMod
+  1. [Groovecube - How Are You (cdhsausageboy) \[I'm Die, Thank You Forever.\]](https://osu.ppy.sh/beatmapsets/1415947#taiko/2918060)
+  2. [Culprate & Dictate - Pencilina (KyouRekii87) \[Taiko-K-2\]](https://osu.ppy.sh/beatmapsets/1097657#taiko/2911497)
+  3. [Hatsune Miku - boku-boku (Lan wings) \[Ishida's Hell Taiko\]](https://osu.ppy.sh/beatmapsets/51611#taiko/176945)
+- Tiebreaker
+  1. **[Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) (Cynplytholowazy) \[Pardon My Insolence, But Could You Please Enjoy Capushellowazy's Taiko Flavor?\]](https://osu.ppy.sh/beatmapsets/1415979#taiko/2918121)**
+
+### 半决赛
+
+- NoMod
+  1. [TAROLIN - world.[NOT].excuse(nxc); (applerss) \[world.execute(me);\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528895)
+  2. [.alucard - Dream Chamber (Socus) \[#unavoidable_nihil\]](https://osu.ppy.sh/beatmapsets/1408782#taiko/2904953)
+  3. [rerulili - Noushou Sakuretsu Girl (Consified) \[twc feat. consified\]](https://osu.ppy.sh/beatmapsets/1408783#taiko/2904882)
+  4. [Hideous Divinity - When Flesh Unfolds (frukoyurdakul) \[Merciless Oni\]](https://osu.ppy.sh/beatmapsets/1408767#taiko/2904856)
+  5. [phonon - polyriddim (GNKait) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1272221#taiko/2643612)
+  6. [leroy - ricky bobby (Ulqui) \[HYPERVENTILATION\]](https://osu.ppy.sh/beatmapsets/1408768#taiko/2904857)
+- Hidden
+  1. [Kobaryo - SEITEN NO TERIYAKI (Backfire) \[Taikocalypse\]](https://osu.ppy.sh/beatmapsets/1408776#taiko/2904868)
+  2. [Crimsona - Hyper Fiber World Spectrum (4sbet1) \[Collab Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1405771#taiko/2904878)
+- HardRock
+  1. [Kurokotei - Serphut (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1408888#taiko/2905127)
+  2. [Katagiri - Track 40 (rezi888) \[230mP\]](https://osu.ppy.sh/beatmapsets/1408775#taiko/2904867)
+- DoubleTime
+  1. [Anamanaguchi - Blackout City (Sushi) \[Taiko Inner Oni\]](https://osu.ppy.sh/beatmapsets/67226#taiko/195478)
+  2. [Infected Mushroom - Spitfire (yea) \[Attack\]](https://osu.ppy.sh/beatmapsets/880548#taiko/1841309)
+- FreeMod
+  1. [sak respect for Arata Iiyoshi - Reason of being (D o t) \[tasuke's Upheaval\]](https://osu.ppy.sh/beatmapsets/809965#taiko/1733315)
+  2. [Shiron - Deadly Dolly Dance (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1408773#taiko/2904864)
+  3. [DJ Sharpnel - Gate Openerz (LZD) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1408781#taiko/2904879)
+- Tiebreaker
+  1. **[Dz'Xa - RAGECONTROLEX (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/1408772#taiko/2904863)**
+
+### 四分之一决赛
+
+- NoMod
+  1. [MisoilePunch - Fin.ArcDeaR (OzzyOzrock) \[End.OniDrum\]](https://osu.ppy.sh/beatmapsets/731630#taiko/1543921)
+  2. [Dz'Xa - 8284-TM (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1335803#taiko/2767410)
+  3. [38 Ban - Milk Crown on Sonnetica (\_Rise) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1349766#taiko/2794625)
+  4. [hana@\*omori - Seimei no wa wo tsumuide (Ozu) \[F Inner Oni (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/707622#taiko/2893294)
+  5. [EZFG - Bluff Liar (Nwolf) \[Fake Oni\]](https://osu.ppy.sh/beatmapsets/1402191#taiko/2892727)
+- Hidden
+  1. [sasakure.UK - Xlo (zkane2) \[irregular time signature\]](https://osu.ppy.sh/beatmapsets/1402226#taiko/2892771)
+  2. [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Zetera) \[Ura Dial\]](https://osu.ppy.sh/beatmapsets/1402214#taiko/2892755)
+- HardRock
+  1. [Memme - Platina (Naryuga) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402927#taiko/2893927)
+  2. [Fleshgod Apocalypse - Pathfinder (Raiden) \[Terror Oni\]](https://osu.ppy.sh/beatmapsets/454951#taiko/975271)
+- DoubleTime
+  1. [HyuN - Grin (radar) \[when the when\]](https://osu.ppy.sh/beatmapsets/1402385#taiko/2893024)
+  2. [Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/312658#taiko/697898)
+- FreeMod
+  1. [Brymir - Nephilim (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/727270#taiko/1535391)
+  2. [Yu_Asahina - Gianduja (Alchyr) \[Oni\]](https://osu.ppy.sh/beatmapsets/1402196#taiko/2892733)
+  3. [ARM - Rhododendron (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/386620#taiko/844135)
+- Tiebreaker
+  1. **[Toby Fox/Toby Fox (remixed by Camellia) - MEGALOVANIA (Camellia Remix) (7\_7) \[7oni\]](https://osu.ppy.sh/beatmapsets/1042172#taiko/2892022)**
 
 ### 十六强赛
 
@@ -170,11 +245,96 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 ## 比赛结果
 
+### 总决赛
+
+2021 年 4 月 11 日，星期日：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **巴西** ::{ flag=BR }:: | 3 | **7** | ::{ flag=KR }:: 韩国 | [#1](https://osu.ppy.sh/community/matches/80529663) |
+| **日本** ::{ flag=JP }:: | **7** | 1 | ::{ flag=KR }:: 韩国 | [#1](https://osu.ppy.sh/community/matches/80546558) |
+
+### 决赛
+
+2021 年 4 月 3 日，星期六：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **韩国** ::{ flag=KR }:: | **7** | 2 | ::{ flag=SG }:: 新加坡 | [#1](https://osu.ppy.sh/community/matches/79834055) |
+| 阿根廷 ::{ flag=AR }:: | 0 | **7** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/79871567) |
+
+2021 年 4 月 4 日，星期日：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 加拿大 ::{ flag=CA }:: | 1 | **7** | ::{ flag=KR }:: **韩国** | [#1](https://osu.ppy.sh/community/matches/79899853) |
+| 巴西 ::{ flag=BR }:: | 1 | **7** | ::{ flag=JP }:: **日本** | [#1](https://osu.ppy.sh/community/matches/79949196) |
+
+### 半决赛
+
+2021 年 3 月 27 日，星期六：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **新加坡** ::{ flag=SG }:: | **7** | 5 | ::{ flag=TW }:: 台湾 | [#1](https://osu.ppy.sh/community/matches/79197123) |
+| **意大利** ::{ flag=IT }:: | **7** | 0 | ::{ flag=CN }:: 中国 | [#1](https://osu.ppy.sh/community/matches/79203211) |
+| **加拿大** ::{ flag=CA }:: | **7** | 0 | ::{ flag=ID }:: 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/79210161) |
+| **美国** ::{ flag=US }:: | **7** | 6 | ::{ flag=DE }:: 德国 | [#1](https://osu.ppy.sh/community/matches/79232333) |
+| **巴西** ::{ flag=BR }:: | **7** | 1 | ::{ flag=AR }:: 阿根廷 | [#1](https://osu.ppy.sh/community/matches/79244750) |
+
+2021 年 3 月 28 日，星期日：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 韩国 ::{ flag=KR }:: | 2 | **7** | ::{ flag=JP }:: **日本** | [#1](https://osu.ppy.sh/community/matches/79267151) |
+| 意大利 ::{ flag=IT }:: | 6 | **7** | ::{ flag=SG }:: **新加坡** | [#1](https://osu.ppy.sh/community/matches/79298956) |
+| 美国 ::{ flag=US }:: | 2 | **7** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/79334060) |
+
+### 四分之一决赛
+
+2021 年 3 月 20 日，星期六：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 菲律宾 ::{ flag=PH }:: | 4 | **6** | ::{ flag=CN }:: **中国** | [#1](https://osu.ppy.sh/community/matches/78548578) |
+| 马来西亚 ::{ flag=MY }:: | 3 | **6** | ::{ flag=DE }:: **德国** | [#1](https://osu.ppy.sh/community/matches/78552131) |
+| **巴西** ::{ flag=BR }:: | **6** | 1 | ::{ flag=SG }:: 新加坡 | [#1](https://osu.ppy.sh/community/matches/78555915) |
+| 意大利 ::{ flag=IT }:: | 1 | **6** | ::{ flag=AR }:: **阿根廷** | [#1](https://osu.ppy.sh/community/matches/78581348) |
+
+2021年3月21日，星期日：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 美国 ::{ flag=US }:: | 1 | **6** | ::{ flag=JP }:: **日本** | [#1](https://osu.ppy.sh/community/matches/78615570) |
+| **韩国** ::{ flag=KR }:: | **6** | 5 | ::{ flag=CA }:: 加拿大 | [#1](https://osu.ppy.sh/community/matches/78619292) |
+| 泰国 ::{ flag=TH }:: | 2 | **6** | ::{ flag=ID }:: **印度尼西亚** | [#1](https://osu.ppy.sh/community/matches/78626428) |
+| **台湾** ::{ flag=TW }:: | **6** | 0 | ::{ flag=PT }:: 葡萄牙 | [#1](https://osu.ppy.sh/community/matches/78649420) |
+
+### 十六强赛
+
+2021 年 3 月 13 日，星期六：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 菲律宾 ::{ flag=PH }:: | 1 | **6** | ::{ flag=KR }:: **韩国** | [#1](https://osu.ppy.sh/community/matches/77952082) |
+| 德国 ::{ flag=DE }:: | 5 | **6** | ::{ flag=SG }:: **新加坡** | [#1](https://osu.ppy.sh/community/matches/77955289) |
+| **阿根廷** ::{ flag=AR }:: | **6** | 4 | ::{ flag=ID }:: 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/77959235) |
+| **巴西** ::{ flag=BR }:: | **6** | 1 | ::{ flag=MY }:: 马来西亚 | [#1](https://osu.ppy.sh/community/matches/77963937) |
+
+2021 年 3 月 14 日，星期日：
+
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 中国 ::{ flag=CN }:: | 0 | **6** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/78023120) |
+| 台湾 ::{ flag=TW }:: | 1 | **6** | ::{ flag=US }:: **美国** | [#1](https://osu.ppy.sh/community/matches/78026482) |
+| 葡萄牙 ::{ flag=PT }:: | 0 | **6** | ::{ flag=JP }:: **日本** | [#1](https://osu.ppy.sh/community/matches/78051556) |
+| **意大利** ::{ flag=IT }:: | **6** | 0 | ::{ flag=TH }:: 泰国 | [#1](https://osu.ppy.sh/community/matches/78059865) |
+
 ### 小组赛
 
-2021 年 3 月 5 日，星期六：
+2021 年 3 月 6 日，星期六：
 
-| A 队 |  |  | B 队 | MP Link |
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **意大利** ::{ flag=IT }:: | **5** | 0 | ::{ flag=NZ }:: 新西兰 | [#1](https://osu.ppy.sh/community/matches/77352667) |
 | **台湾** ::{ flag=TW }:: | **5** | 1 | ::{ flag=AU }:: 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/77354834) |
@@ -200,11 +360,11 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 | **巴西** ::{ flag=BR }:: | **5** | 0 | ::{ flag=CH }:: 瑞士 | [#1](https://osu.ppy.sh/community/matches/77383848) |
 | **美国** ::{ flag=US }:: | **5** | 0 | ::{ flag=NL }:: 荷兰 | [#1](https://osu.ppy.sh/community/matches/77389214) |
 | **巴西** ::{ flag=BR }:: | **5** | 1 | ::{ flag=GB }:: 英国 | [#1](https://osu.ppy.sh/community/matches/77388556) |
-| **阿根廷** ::{ flag=AR }:: | **5** | 0 | ::{ flag=CR }:: 哥斯达黎加 | *win by default* |
+| **阿根廷** ::{ flag=AR }:: | **5** | 0 | ::{ flag=CR }:: 哥斯达黎加 | *默认获胜* |
 
-2021 年 3 月 6 日，星期日
+2021 年 3 月 7 日，星期日：
 
-| A 队 |  |  | B 队 | MP Link |
+| 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **墨西哥** ::{ flag=MX }:: | **5** | 4 | ::{ flag=CO }:: 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77416885) |
 | **韩国** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CO }:: 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/77421221) |
@@ -234,7 +394,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 ### 锦标赛规则
 
-1. osu!taiko世界杯是基于国家/地区的团体比赛，在 osu!taiko 模式中进行。
+1. osu!taiko 世界杯是基于国家/地区的团体比赛，在 osu!taiko 模式中进行。
    - **虽然本次比赛计划为 2v2，但可能会根据报名人数而改变。**
 2. 分数计算基于 Score V2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
@@ -242,10 +402,10 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
    - 图池包含 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 以及 Freemod
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
-6. Failed 的分数不会算入队伍得分中。
+6. 失败选手的分数不会算入队伍得分中。
 7. 允许使用视觉设置来调整背景暗化或禁用谱面背景。
 8. 如果一个谱面平局，则分数作废并重赛。
-9. 如果选手掉线，则视为 Failed。
+9. 如果选手掉线，则视为失败。
    - 谱面开始 30 秒或 25% 内的掉线（以最短的为准）可申请重赛，这由裁判决定。谱面也可能会因此强制结束。
    - **如果重赛，两个队伍的上场选手不能进行改变，不会因为重赛而允许队伍改变上场选手。如果之前上场的队员无法参加，可作例外处理，由裁判决定。**
 10. 除非分数作废，否则不能在同一场比赛中多次选择一张谱面。
@@ -258,7 +418,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 17. 严禁通过犯规动作破坏比赛，侮辱和挑衅其他成员或裁判，故意延误比赛或其他不当行为。
 18. 多人游戏聊天室基于 [osu! 社区守则](/wiki/Rules)。
     - 违反聊天守则会被禁言。被禁言的玩家不能进入多人游戏房间，必须暂时进行交换。
-19. 小组赛中，“不战而胜”（*Win by default*）视为 4:0，得 1 分。
+19. 小组赛中，“默认获胜” (*Win by default*) 视为 4:0，得 1 分。
 20. 意外事件由比赛管理人员处理。特定情况下，裁判可以根据自己的判断放宽限制。
 21. 违反比赛规则的处罚包括但不限于：
     - 取消当前谱面的上场资格。
@@ -286,33 +446,37 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 ### 阶段说明
 
 1. 在第一阶段（小组赛），队伍将分为8组，每组4个队伍。
+
 2. 小组的每个队伍都会在比赛中相遇。
+
 3. 通过以下优先级对组内的每个队伍进行排名：
-   - 最多总胜场数。
-   - 最高胜负比 `{(谱面胜场数) - (谱面败场数)}`。
+   - 最高比赛胜场数。
+   - 最高 `{(谱面胜场数) - (谱面败场数)}`。
    - 最高谱面胜场数。
    - **如果并列，取其在相遇比赛中的获胜者。**
    - 如果三个队伍同时并列
      - 最高 `∑{(总分差) / (最高分数)}`。
      - 重赛的获胜者。
+
 4. 每个小组的前两名将进入淘汰赛阶段。
    - 这可能会随着实际的小组赛设置而改变。
+
 5. 接下来的阶段是双败赛制。这意味着获胜者将进入胜者组，否则进入败者组。
+
 6. 基于[这个图片](/wiki/shared/stages-visual.png)，比赛分为以下几个阶段：
 
-| 阶段 | 比赛 ID |
-| --: | :-- |
-| 十六强 | A, B, C, D, E, F, G, H |
-| 四分之一决赛 | I, J, K, L, R, S, T, U |
-| 半决赛 | M, N, V, W, X, Y, Z, AA |
-| 决赛 | O, AB, AC, AD |
-| 总决赛 | AE, P, Q |
+   | 阶段 | 比赛 ID |
+   | --: | :-- |
+   | 十六强 | A, B, C, D, E, F, G, H |
+   | 四分之一决赛 | I, J, K, L, R, S, T, U |
+   | 半决赛 | M, N, V, W, X, Y, Z, AA |
+   | 决赛 | O, AB, AC, AD |
+   | 总决赛 | AE, P, Q |
 
-#### 获胜条件
-
-- 在小组赛中，9 局 5 胜（BO5）。
-- 在十六强赛和四分之一决赛中，11 局 6 胜（BO11）。
-- 在半决赛，决赛和总决赛中，13 局 7 胜（BO13）。
+7. 各阶段的**获胜条件**如下：
+   - 在小组赛中，9 局 5 胜（BO5）。
+   - 在十六强赛和四分之一决赛中，11 局 6 胜（BO11）。
+   - 在半决赛，决赛和总决赛中，13 局 7 胜（BO13）。
 
 ### 比赛说明
 
@@ -328,14 +492,13 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
    - 决胜局只能选择 Tiebreaker。
 6. 队伍将有 2 分钟的时间选择谱面，以及 2 分钟的准备时间。
    - 如果队伍花费超过 2 分钟的时间来选择谱面，他们将收到裁判的警告，随后，裁判将使用 `!roll X` 从图池中随机选择一张谱面，其中 X 是被随机的可选谱面数量。
-   - 每支队伍在**每场比赛**时将有一次**两分钟**的“战术暂停”可以在选图时使用。*战术暂停是可选的，不强迫使用。*.
+   - 每支队伍在**每场比赛**时将有一次**两分钟**的“战术暂停”可以在选图时使用。*战术暂停是可选的，不强迫使用。*
 7. 资格赛的结果将通过 Google Sheets 统计表发布。
 
 ### 图池说明
 
-1. 小组赛，十六强赛，四分之一决赛，半决赛以及决赛都会使用他们各自的图池。
-   - 其中总决赛和决赛使用相同图池。
-2. 图池包含五组: NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 和 FreeMod。
+1. 小组赛、十六强赛、四分之一决赛、半决赛、决赛、总决赛都会使用他们各自的图池。
+2. 图池包含五组: NoMod、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 和 FreeMod。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 TB（Tiebreaker）。
 5. NoMod 图池不能使用任何 Mod。
@@ -359,4 +522,4 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 5. **只有在两支队伍都同意的情况下，才考虑重新排程，你需要在比赛进行的那一周的星期三 23:59 UTC+0 之前安排可用时间并通知比赛管理团队。**
 6. **只有队长才能申请重新排程。**
    - **除非绝对必要，否则不要申请重新排程。比赛管理团队仍有权拒绝该请求。**
-7. 队长有权负责队伍的可用性，以确保每个队伍可以在每场比赛上场至少四名队员。如果队伍无法提供两名队员参加比赛，则该比赛将被视为弃权。
+7. 队长负责保证队伍能够参赛。成员更多的队伍更容易确保凑齐至少两名选手进行每场比赛。如果队伍无法提供两名队员参加比赛，则该比赛将被视为弃权。
