@@ -3,6 +3,8 @@ tags:
   - mute
   - timeout
   - cấm trò chuyện
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 ---
 
 # Sự im lặng
@@ -12,7 +14,7 @@ tags:
 ## Những hạn chế
 
 ::: Infobox
-![](img/silence-profile.png "Lịch sử im lặng trong trang hồ sơ")
+![](img/silence-profile.png?1 "Lịch sử im lặng trong trang hồ sơ")
 :::
 
 Một người dùng có một im lặng đang hoạt động không thể làm những điều sau đây:

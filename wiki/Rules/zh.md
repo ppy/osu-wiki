@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
+---
+
 # 规章制度
 
 这些规章制度确保了 osu! 社区能对所有人都有一个有趣而友好的氛围。
