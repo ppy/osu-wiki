@@ -6,7 +6,7 @@ tags:
 
 # Spanish Showdown 2026
 
-![banner](https://methalox.s-ul.eu/QoTGDhpU)
+![Spanish Showdown 2026 banner](img/banner.png)
 
 Spanish Showdown 2026 (SS26) is the most well known spanish-only 1v1 open rank tournament, featuring low SR pools at lower stages for new players and a very high skill ceiling in later stages. Only the best will prevail.
 
@@ -39,7 +39,7 @@ This year's iteration offered 482.15€ and a total of 2y of supporter thanks to
 | 5th, 6th | 2.105% of the prize pool |
 | 7th, 8th | 1.155% of the prize pool |
 
-![](https://aleph-003.s-ul.eu/G6SXBB59)
+![Spanish Showdown 2026 badge](img/badge.png)
 
 ## Organisation
 
