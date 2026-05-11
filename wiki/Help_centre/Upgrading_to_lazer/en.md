@@ -502,18 +502,18 @@ However, only the following mods will award performance points for now:
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (**Only** configuring `Adjust pitch` is allowed)
+  - Half Time (Configuring `Adjust pitch` is allowed)
   - Daycore
 - Difficulty Increase
   - Hard Rock (Not for osu!mania)
-  - Sudden Death (Configuring `Also fail when missing a slider tail` (osu! only) and `Restart on fail` is allowed)
-  - Perfect (Configuring `Require perfect hits` (osu!mania only) and `Restart on fail` is allowed)
-  - Double Time (**Only** configuring `Adjust pitch` is allowed)
+  - Sudden Death (All customisation options are allowed)
+  - Perfect (All customisation options are allowed)
+  - Double Time (Configuring `Adjust pitch` is allowed)
   - Nightcore
   - Fade In (osu!mania only)
   - Hidden
   - Traceable (osu! only)
-  - Cover (osu!mania only, configuring `Direction` is allowed)
+  - Cover (osu!mania only, all customisation options are allowed)
   - Flashlight
   - Blinds (osu! only)
   - Accuracy Challenge (All customisation options are allowed)
@@ -521,8 +521,8 @@ However, only the following mods will award performance points for now:
   - Spun Out (osu! only)
 - Conversion
   - Alternate (osu! only)
-  - Single Tap (osu! & osu!taiko only)
   - Swap (osu!taiko only)
+  - Single Tap (osu! & osu!taiko only)
   - Mirror (osu!mania only)
   - Four Keys (osu!mania only)
   - Five Keys (osu!mania only)
@@ -532,7 +532,7 @@ However, only the following mods will award performance points for now:
   - Nine Keys (osu!mania only)
 - Fun
   - Muted (All customisation options are allowed)
-  - No Scope (osu! & osu!catch only, configuring `Hidden at combo` is allowed)
+  - No Scope (osu! & osu!catch only, all customisation options are allowed)
 - System
   - Touch Device
 
