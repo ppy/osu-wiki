@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 2e4084ceec5bdfd409b082031957e3e4c5e778e7
+---
+
 # Elite Nominators
 
 Los **Elite Nominators** son miembros de los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) que han ido más allá de la llamada para mostrar una dedicación excepcional hacia el [proceso de clasificación](/wiki/Beatmap_ranking_procedure) y la salud general de la comunidad de [mapping](/wiki/Beatmapping) destacándose como algunos de los mejores nominadores de su época.

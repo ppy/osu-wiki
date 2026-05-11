@@ -2,7 +2,9 @@
 
 The **daily challenge** is a multiplayer mode in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) where players are able to build up a streak by passing consecutive daily beatmaps with an increasing difficulty that resets every 7 days.
 
-Beatmaps in the challenge are curated by a panel of contributors and are mainly set to [Featured Artist](/wiki/People/Featured_Artists) tracks. On certain days, these beatmaps may come with a mod forced onto users, requiring them to pass the beatmap with the selected mod.
+Beatmaps in the challenge are curated by a panel of contributors. Sometimes, beatmaps can be themed around a specific genre, artist, or a gimmick. At the end of every month, a week is dedicated to highlighting high-quality beatmaps from the previous month, which is handled by a few members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team).
+
+Beatmaps may occasioanlly feature a mod forced onto users, requiring them to pass the beatmap with the selected mod.
 
 The current and all past daily challenges can be found on the [daily challenge rankings page](https://osu.ppy.sh/rankings/daily-challenge).
 
@@ -42,16 +44,18 @@ Play streaks are displayed on the user's profile with different colours dependin
 
 ## Contributors
 
-The project is organised by ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). The following community members are responsible for picking beatmaps:
+The project is organised by ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976). The following community members are responsible for selecting beatmaps:
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
-- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464)
+- ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327)
+- ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
 - ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
+- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
 
 ## Trivia
 

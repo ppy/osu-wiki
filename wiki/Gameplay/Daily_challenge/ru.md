@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0bb2c43f0d6e6d0d036dfb8f55f343e0cd0cbe19
 ---
 
 # Карта дня

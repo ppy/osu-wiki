@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
----
-
 # 模组入门奖章解锁条件
 
 | 奖章名称 | 条件 |
@@ -18,3 +13,5 @@ outdated_since: 8b6f6798c3487a7ec6bf1dbd592dbd96f50f4443
 | Risk Averse | 在启用 [NoFail](/wiki/Gameplay/Game_modifier/No_Fail) 模组的情况下，通过一张过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 谱面。 |
 | Slowboat | 在启用 [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) 模组的情况下，通过一张过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 谱面。 |
 | Burned Out | 在启用 [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) 模组的情况下，通过一张过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 谱面。由于其他游戏模式没有 `Spun Out` 模组，此奖章只能在 [osu!](/wiki/Game_mode/osu!) 游戏模式中获得。 |
+| Gear Shift | 在启用 [转换 (Conversion)](/wiki/Gameplay/Game_modifier_(lazer)#转换) 类别中的任意模组的情况下，通过一张过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 谱面。此奖章只能在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中获得，因为该模组类别仅限于该版本的客户端。 |
+| Game Night | 在启用 [娱乐 (Fun)](/wiki/Gameplay/Game_modifier_(lazer)#娱乐) 类别中的任意模组的情况下，通过一张过审 (Qualified)、上架 (Ranked) 或达标 (Approved) 谱面。此奖章只能在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中获得，因为该模组类别仅限于该版本的客户端。 |
