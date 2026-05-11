@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
----
-
 # Restricciones de cuenta
 
 *Página principal: [Centro de ayuda](/wiki/Help_centre)*
@@ -44,7 +39,8 @@ Hay varias razones por las cuales una cuenta puede ser restringida.
 - **No es tu primera cuenta.** Las multicuentas están en contra de las reglas. Cualquier cuenta que no sea la cuenta original de un jugador será permanentemente restringida, pero su cuenta original en la mayoría de los casos seguirá abierta y el jugador es alentado a seguir jugando en ella. Si el uso de multicuentas es severo o abusivo, se aplicará un silencio a la cuenta original como advertencia para que deje de crear nuevas cuentas, y se restringirá la cuenta principal si el uso de multicuentas continúa. Si tu cuenta es restringida y sabes que tienes otras cuentas, por favor, no continúes accediendo a las cuentas restringidas que tienes y continúa jugando en tu cuenta original. Si tienes problemas para acceder o para verificarla, envíanos un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) para que podamos ayudarte a recuperar el acceso a ella.
 - **Has permitido que alguien juegue en tu cuenta.** Compartir cuentas también va contra de las reglas. Si permites que alguien use tu cuenta, será restringida, y el jugador que la usó probablemente recibirá un silencio o una restricción en su cuenta. Si esto ha sucedido accidentalmente, háznoslo saber lo antes posible enviando un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **Hiciste trampa.** Usar programas de terceros, macros o cualquier forma de ventaja injusta dará como resultado una restricción inmediata.
-- **Otros casos.** El equipo de cuentas se reserva el derecho de restringir una cuenta por casos que no están cubiertos por las tres razones anteriores.
+- **Has tenido una conducta inadecuada continuamente o has publicado contenido inapropiado.** Los usuarios que son [silenciados](/wiki/Help_centre/Silences) constatemente por infringir las reglas en el chat, la sección de comentarios, las discusiones de beatmaps, los foros o en otros casos, acabarán siendo restringidos. El [Global Moderation Team](/wiki/People/Global_Moderation_Team) suele enviar una última advertencia a los usuarios que están a punto de ser restringidos debido a su historial reciente de silencios e incumplimientos de las reglas.
+- **Otros casos.** El equipo de cuentas se reserva el derecho de restringir una cuenta por casos que no están cubiertos por las cuatro razones anteriores.
 
 Si una cuenta ha sido restringida legítimamente, le pediremos al usuario que espere antes de enviar una apelación. Esto es referido como *tiempo de espera*, y su duración varía dependiendo de las infracciones que hayan tomado lugar.
 
@@ -58,11 +54,11 @@ Si una cuenta ha sido restringida legítimamente, le pediremos al usuario que es
 
 ## Mi tiempo de espera ha terminado. ¿Cómo puedo apelar? {id=appeal}
 
-Puedes apelar enviando un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) incluyendo el nombre de tu cuenta. Asegúrate de enviar el correo desde la dirección de correo asociada a tu cuenta. Después de que envíes tu apelación, espera una respuesta en el plazo de una semana. Si no has recibido una para ese entonces, contáctanos vía correo o twitter, es posible que no la hayamos recibido.
+Puedes apelar enviando un correo a [accounts@ppy.sh](mailto:accounts@ppy.sh) con el asunto `Restriction Appeal: <nombre de usuario>`. Asegúrate de enviar el correo desde la dirección de correo asociada a tu cuenta. Después de que envíes tu apelación, espera una respuesta en el plazo de dos semanas. Si no has recibido una respuesta hasta entonces, no dudes en enviar un correo de seguimiento, ya que es posible que el original se haya perdido por alguna razón.
 
 Mientras apelas, esperamos que cubras los siguientes puntos:
 
-- **Historial de la cuenta.** No necesitas ser muy detallado. Esto debe incluir todas tus infracciones a las reglas más importantes (multicuentas, compartir tu cuenta, trampas, o silencios importantes). No necesitas recordar cada fecha, cada silencio, o cada cuenta que has creado, mientras seas honesto con lo que hiciste. Esto incluye cualquier regla que hayas roto mientras estabas restringido, si aplica.
+- **Historial de la cuenta.** No necesitas ser muy detallado. Esto debe incluir todas tus infracciones a las reglas más importantes (multicuentas, compartir tu cuenta, trampas, o silencios importantes). No hace falta que recuerdes cada fecha, cada silencio o cada cuenta que creaste, siempre y cuando seas honesto sobre lo que hiciste. Esto incluye cualquier regla que hayas roto mientras estabas restringido, si aplica.
 - **Por qué rompiste las reglas.** Una explicación sobre lo que te llevó a decidir crear más cuentas, prestar tu cuenta, hacer trampa, etc. nos ayudará (y a ti) a determinar si estás o no en riesgo de infringir las reglas otra vez. Si continuaste infringiendo las reglas mientras estabas restringido, también nos interesa saber por qué.
 - **Cómo conseguiste los medios para hacerlo.** Esto aplica principalmente al hacer trampa, queremos saber dónde conseguiste la herramienta que usaste, cómo la encontraste, y si sigue o no presente en tu ordenador.
 - **Por qué deberíamos permitirte regresar.** La mayor parte del tiempo, esto se enlaza con el segundo punto. ¡Solo queremos asegurarnos de que no romperás las reglas de nuevo! Por favor, entiende que entre más infracciones haya en el historial de tu cuenta, más esperaremos en esta sección de la apelación.
@@ -73,7 +69,7 @@ Si decidimos dejarte regresar, te solicitaremos que aceptes algunos términos an
 
 - **No vas a infringir las reglas otra vez.** Esto incluye hacer trampa y compartir tu cuenta.
 - **No vas a crear otra cuenta, ya sea para ti o alguien más.**
-- **No deberás asociarte con otras cuentas.** Incluye jugar en ordenadores compartidos.
+- **No deberás asociarte con otras cuentas**, incluyendo jugar en ordenadores compartidos.
 - **Cualquier mala conducta mayor resultará en una restricción inmediata.** Esto incluye silencios importantes.
 
 Los jugadores que regresen al juego mediante una apelación, según los términos estándar anteriores, también [estarán vetados de los torneos oficiales y con insignia](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos), tanto como competidores como miembros del equipo organizador del torneo. La duración de este veto es de un año (si es la segunda apelación del usuario, el veto dura 2 años). El correo electrónico del levantamiento de la restricción aclarará la duración de esta prohibición.
@@ -98,7 +94,7 @@ Hay algunas razones por las cuales una apelación puede ser denegada.
 
 En la mayoría de los casos, cada restricción en tu cuenta duplica la duración de la próxima restricción y el tiempo de espera asociado con ella.
 
-Por ejemplo, si estás restringido por hacer trampa, regresas a la apelación y luego vuelves a hacer trampa, estarás restringido por un mínimo de 12 meses (el doble de la base de seis meses) antes de que revisemos cualquier tipo de apelación de tu parte. Si regresas después de esto y vuelves a hacer trampa, estarás restringido por un mínimo de 24 meses.
+Por ejemplo, si estás restringido por hacer trampa, regresas a la apelación y luego vuelves a hacer trampa, estarás restringido por un mínimo de 12 meses (el doble del plazo base de seis meses) antes de que revisemos cualquier tipo de apelación de tu parte. Si regresas después de esto y vuelves a hacer trampa, estarás restringido por un mínimo de 24 meses.
 
 Como nota adicional, se vuelve cada vez más difícil regresar en cualquier tipo de apelación después de tu primera ofensa, ya que debemos considerar tus acciones pasadas y si vale la pena el tiempo y el riesgo involucrados en quitarte las restricciones. Muy pocos jugadores (si es que hay alguno) regresan con éxito a la comunidad después de su tercera restricción.
 
@@ -113,7 +109,7 @@ En el caso en el que sientas que tus correos no están siendo leídos, envíanos
 
 Todos los correos enviados a la dirección de correo de revisión serán investigados por terceros que no están relacionados en las operaciones cotidianas del equipo de soporte y marcado para revisión o revisión adicional.
 
-Por favor, ten en cuenta que enviar un correo a esta dirección solo garantiza un segundo vistazo/inicial respuesta a tu apelación, no garantiza un cambio en el resultado si te han encontrado violando las expectativas involucradas en el proceso de apelación.
+Por favor, ten en cuenta que enviar un correo a esta dirección solo garantiza un segundo vistazo/inicial respuesta a tu apelación; no garantiza un cambio en el resultado si te han encontrado violando las expectativas involucradas en el proceso de apelación.
 
 **Solo responderemos a solicitudes para revisión de apelaciones/investigaciones vía correos enviados a [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Por favor, no intentes contactar a los miembros del equipo de soporte (o miembros del equipo de voluntarios) vía Twitter, Discord, o cualquier otra plataforma para evitar esta política; ellos no pueden ayudarte.
 

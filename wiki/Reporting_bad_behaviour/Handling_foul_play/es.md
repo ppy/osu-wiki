@@ -1,35 +1,36 @@
----
-outdated_translation: true
-outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
----
-
 # Gestión del juego sucio
 
-## ¿Por qué estoy restringido?
+## ¿Qué se considera juego sucio? {id=what}
 
-Un usuario puede ser restringido si hace cualquiera de las siguientes cosas:
+Lo siguiente se considera juego sucio y, por lo general, dará lugar a la restricción del usuario:
 
-- Tener una mala conducta continua, independientemente del número de infracciones que acumulen.
-- Evadir un castigo haciendose otra cuenta.
-- Compartir su cuenta con otros usuarios.
-- Multicuentas.
-- Hacking o hacer trampa.
+- [Hacer trampa](#what-foul).
+- [Crear varias cuentas o compartir una cuenta con otra persona](#multi-share).
+- Usar una cuenta distinta para participar en un torneo.
 
-## ¿Qué se considera multicuenta?
-
-Cada usuario solo puede usar **una** cuenta. Crear otras cuentas está estrictamente prohibido. Las primeras infracciones se sancionarán con un silencio de duración variante según el número de cuentas creadas. Los usuarios que sigan creando nuevas cuentas a pesar de las advertencias previas serán restringidos.
-
-## ¿Qué se considera hacer trampa?
+## ¿Qué se considera hacer trampa? {id=what-foul}
 
 Las [reglas](/wiki/Rules) indican que cualquier forma de manipulación del cliente, como el manejo indebido de las puntuaciones, secuencias de combo completo habilitadas por macros, autoapuntado y cualquier otra cosa que juegue por el jugador, se considera hacer trampa.
 
-Esta regla se aplica solo con una infracción. Los tramposos serán restringidos en su primera infracción por tiempo indefinido. El [equipo de soporte](/wiki/People/Account_support_team) puede decidir retirar la restricción si su apelación es aceptada.
+Esta regla se aplica solo con una infracción. Los tramposos serán restringidos en su primera infracción por tiempo indefinido. El [equipo de soporte](/wiki/People/Account_support_team) puede decidir retirar la restricción si se presenta una apelación válida tras un plazo mínimo de seis meses.
 
-## He sido restringido por hacer trampa, ¡pero no hice trampa!
+## ¿El uso de periféricos especializados se considera como hacer trampa?
 
-osu! usa parámetros automatizados combinados con confirmación manual. Si no sabes por qué estás restringido, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Periféricos como tabletas gráficas o pantallas táctiles están permitidos. Cualquier cosa que disminuya la habilidad necesaria para jugar (por ejemplo, usar fidget spinners en una tableta gráfica) o cancela/anula el efecto de los modificadores del juego no lo están. Esto significa que el uso de varios ordenadores, divisores de entrada, o cualquier otra cosa de ese estilo es considerado un no rotundo.
 
-## ¡Demuéstrame que estaba haciendo trampa! ¡Me gustaría saber qué pruebas tienes!
+## ¿Qué se considera multicuenta o uso compartido de cuentas? {id=multi-share}
+
+Cada usuario solo puede usar **una** cuenta. Crear otras cuentas está estrictamente prohibido. Las primeras infracciones se sancionarán con un silencio de duración variante según el número de cuentas creadas. Los usuarios que sigan creando nuevas cuentas a pesar de las advertencias previas serán restringidos. Ten en cuenta que crear una cuenta adicional para participar en un torneo se considera una infracción muy grave y dará lugar a una restricción inmediata, así como a un [veto indefinido de cualquier torneo o concurso con soporte oficial](/wiki/Help_centre/Tournament_sanctions#vetos-de-los-torneos).
+
+Permitir que otra persona use la cuenta de otro usuario también está estrictamente prohibido y, por lo general, conllevará una restricción en la primera infracción. El objetivo es evitar que los jugadores con un alto nivel de habilidad «potencien» las cuentas de otros usuarios o las usen para participar en torneos que no se ajustan a su nivel, así como impedir que los usuarios eludan las sanciones impuestas a sus cuentas originales. Si has permitido que otro usuario juegue con tu cuenta por error, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh) lo antes posible.
+
+## He sido restringido por hacer trampa, ¡pero no hice trampa! {id=false-restriction}
+
+*Véase también: [Restricciones de cuenta § ¡Mi cuenta ha sido restringida! ¿Qué puedo hacer?](/wiki/Help_centre/Account_restrictions#what)*
+
+osu! usa parámetros automatizados junto con una verificación manual para detectar cualquier tipo de trampa. Si no sabes por qué estás restringido, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh).
+
+## ¡Demuéstrenme que estaba haciendo trampa! ¡Me gustaría saber qué pruebas tienen!
 
 El equipo de soporte no te proporcionará ninguna «prueba» sobre las restricciones, pero todas se realizan con sospechas bien fundamentadas. Es muy poco probable que los usuarios normales sean blanco de este tipo de acciones.
 
@@ -37,9 +38,11 @@ El equipo de soporte no te proporcionará ninguna «prueba» sobre las restricci
 
 Lo sentimos, pero si has sido restringido, el equipo de soporte ya está seguro de que estás haciendo trampa. Un vídeo no ayudará, ya que estos pueden ser manipulados.
 
-## He encontrado a alguien que definitivamente está haciendo trampa. ¡Puedo darme cuenta por su repetición/puntuación! ¿Qué debería hacer?
+## He encontrado a alguien que definitivamente está haciendo trampa/no está jugando limpio. ¡Puedo darme cuenta por su repetición/puntuación! ¿Qué debería hacer? {id=report}
 
-Mantén la calma y **no hables de sus puntuaciones en chats públicos**. No le des atención no deseada o le pidas a otros que hagan de espectador. Deberías reportar al usuario y no mencionarlos en ningún lado. Hay tres formas de hacerlo.
+Mantén la calma y **no hables de sus puntuaciones en chats públicos**, hacerlo va en contra de las [reglas del chat](/wiki/Rules#reglas-del-chat-del-juego) y puede provocar que te [silencien](/wiki/Help_centre/Silences). No le des atención no deseada o le pidas a otros que hagan de espectador.
+
+Deberías reportar al usuario y no mencionarlos en ningún lado. Hay tres formas de hacerlo.
 
 ### Perfil del usuario
 
@@ -59,7 +62,7 @@ En las páginas de los beatmaps, puedes reportar a un usuario en las clasificaci
 
 Esta forma de reportar **no es recomendable**, ya que los reportes dentro del juego están relacionados casi siempre con el chat.
 
-Usa el comando `!report` en cualquier canal público para informar a los moderadores del chat. Otros jugadores no verán tus reportes en el chat.
+Usa el comando `!report` en cualquier canal para informar a los moderadores del chat. Si estás usando osu!(lazer), haz clic con el botón derecho o mantén pulsado el nombre de usuario del infractor. Otros jugadores no verán tus reportes en el chat.
 
 ```
 Formato: !report <nombre de usuario> <razón>
@@ -68,25 +71,23 @@ Ejemplo: !report este_usuario suspected cheating
 
 Apreciamos mucho tu ayuda para reportar el juego sucio. Revisamos todos los reportes que recibimos, ¡pero eso no significa que todos nos lleven a tomar medidas! También puedes enviar un correo electrónico directamente a [osu@ppy.sh](mailto:osu@ppy.sh) para una respuesta relativamente rápida.
 
-## ¿El uso de periféricos especializados se considera como hacer trampa?
+## He sido restringido por juego sucio. ¿Cómo puedo apelar mi restricción? {id=appeal}
 
-Periféricos como tabletas gráficas o pantallas táctiles están permitidos. Cualquier cosa que disminuya la habilidad necesaria para jugar (por ejemplo, usar fidget spinners en una tableta gráfica) o cancela/anula el efecto de los modificadores del juego no lo están. Esto significa que el uso de varios ordenadores, divisores de entrada, o cualquier otra cosa de ese estilo es considerado un no rotundo.
+*Véase también: [Restricciones de cuenta § Mi tiempo de espera ha terminado. ¿Cómo puedo apelar?](/wiki/Help_centre/Account_restrictions#appeal)*
 
-## ¿Cómo puedo apelar mi restricción?
-
-Espera al menos tres meses después de la última restricción aplicada antes de apelar[^restriction-length]. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y usa el asunto `Restriction Appeal: <nombre de usuario>`
+Espera al menos tres meses (seis meses si fuiste restringido por hacer trampa) después de la última restricción aplicada antes de apelar[^restriction-length]. Envía tus correos a [accounts@ppy.sh](mailto:accounts@ppy.sh) y escribe en el asunto `Restriction Appeal: <nombre de usuario>`.
 
 El equipo de soporte espera que los usuarios presenten un historial completo de sus acciones y den razones por las que no volverán a infringir las reglas en el futuro.
 
 *Nos puede tomar tiempo responder a tu apelación, pero ninguna apelación será ignorada.*
 
-## ¿Qué puedo hacer si he roto las reglas?
+## ¿Qué puedo hacer si he roto las reglas? {id=admit}
 
 Si has infringido las reglas y quieres confesar, ponte en contacto con [accounts@ppy.sh](mailto:accounts@ppy.sh) y explica lo que has hecho. La honestidad es muy apreciada y es probable que esto no resulte en un castigo permanente.
 
-## ¿Cómo puedo evitar ser silenciado o restringido?
+## ¿Cómo puedo evitar ser silenciado o restringido por juego sucio? {id=how-follow}
 
-Lee atentamente y sigue las [reglas](/wiki/Rules). Si no estás seguro sobre si lo que quieres hacer sería romper las reglas, pregúntale a un miembro del [Global Moderation Team](/wiki/People/Global_Moderation_Team). Si no sabes a quién preguntarle, [haz clic aquí](https://osu.ppy.sh/users/5999631).
+Lee atentamente y sigue las [reglas](/wiki/Rules). Si no estás seguro sobre algo que quieres hacer, como una configuración de hardware específica que deseas usar, y no sabes si va en contra de las reglas, consulta al [equipo de soporte de cuentas](mailto:accounts@ppy.sh).
 
 ## Notas
 
