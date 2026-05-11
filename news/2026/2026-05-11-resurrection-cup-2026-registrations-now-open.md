@@ -46,6 +46,7 @@ To register, grab at least 3 friends and fill out the [registration form](https:
 We also encourage spectators to join the [Discord server](https://discord.com/invite/UNzyfgGfeu) in order to keep up with important announcements and livestream notifications. For more information, check out the [forum post](https://osu.ppy.sh/community/forums/topics/2205168) and [main sheet](https://docs.google.com/spreadsheets/d/1Md62htYhsmBaVn8eM29XJBgaFCbmvcLJyqdcu5k9Gwo).
 
 ---
+
 One last thing: all of our originals for [Resurrection Cup 2025](/wiki/Tournaments/RESC/2025) have been added to the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/462)!
 
 We hope to see you around!
