@@ -141,7 +141,7 @@ The score listing shows up to 50 top scores, while the best score is highlighted
 
 Hovering over a score will reveal 3 dots at the right side of the menu. Clicking on the dots opens up a menu with 3 options:
 
-- **View details:** The score details will be visualised on a single page.
+- **View details:** The score will be visualised on a single page.
 - **Download replay:** Download the [replay](/wiki/Gameplay/Replay) file.
 - **Report score:** Users can file a report on a suspicious score if they believe foul play was involved.
 
