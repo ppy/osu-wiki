@@ -14,7 +14,7 @@ The **beatmap information page** displays various contents about a [beatmap](/wi
 
 At the top-left, next to the currently selected `info` tab, is the [beatmap discussion](/wiki/Beatmap_discussion) tab used for [modding](/wiki/Modding) a beatmap.
 
-The four icons at the top-right shows which [game mode](/wiki/Game_mode) is currently selected. The number indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode. Game modes with no difficulty available will be greyed out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
+The four icons at the top-right show which [game mode](/wiki/Game_mode) is currently selected. The number indicates the total number of [difficulties](/wiki/Beatmap/Difficulty) for each game mode, and game modes with no difficulty available will be greyed out. Difficulties mapped in [osu!](/wiki/Game_mode/osu!) are automatically available as [converts](/wiki/Beatmap/Converts) in the other game modes.
 
 ## Difficulty menu
 
@@ -32,11 +32,11 @@ This panel lists the song title, the artist, the host mapper's avatar and userna
 
 The game mode icons are coloured according to the [star rating colour spectrum](/wiki/Beatmap/Difficulty#difficulty-and-star-rating). Selecting a difficulty will update the statistics on the page accordingly.
 
-Below the current difficulty's name, mapper and star rating are the beatmap's total play count, favourite count — and nomination count if the beatmap is in the [Pending](/wiki/Beatmap/Category#wip-and-pending) category. When hovering over the favourite count, up to 50 avatars of users favouriting this beatmap will be displayed.
+Below the current difficulty's name, mapper and star rating are some statistics about the beatmap, including the play count, favourite count and nomination count (where [applicable](/wiki/Beatmap/Category#wip-and-pending)). When hovering over the favourite count, up to 50 avatars of users favouriting the beatmap will be displayed.
 
 Beneath these numbers, the title and artist are displayed. Clicking them will automatically search for other beatmaps with the exact same song title or artist.
 
-The name of the host mapper and guest mappers can be clicked to view their profile.
+The names of the host mapper and guest mappers can be clicked to view their profiles.
 
 Further below, the following action buttons may be present, arranged from left to right:
 
@@ -86,8 +86,8 @@ The rating graph below the user rating shows the proportion of votes for each st
 The [beatmap description](/wiki/Beatmap/Beatmap_description) is a field editable by the mapper often used for...
 
 - ...linking resources such as the background image's source or [hitsound samples](/wiki/Beatmapping/Hitsound) used.
-- ...recommending relevant contents to the song, such as its music video or the official website of the artist.
-- ...commending other users for their help (e.g. [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding), [storyboarders](/wiki/Storyboard).
+- ...linking to relevant media surrounding the song, such as its music video or the official website of the artist.
+- ...crediting other users for their contributions (e.g. [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding), [storyboarders](/wiki/Storyboard).
 - ...trivia related to the beatmap (e.g. mapping milestones).
 
 ### Keywords
@@ -105,7 +105,7 @@ In addition to gameplay-related statistics, every beatmap includes metadata fiel
 
 The `Nominators` section is added as soon as the beatmap is nominated by [Beatmap Nominators](/wiki/People/Beatmap_Nominators) as part of the [ranking process](/wiki/Beatmap_ranking_procedure).
 
-After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags) from the osu!(lazer) client. Upon reaching 5 votes on an user tag, it will be displayed in the `User Tags` segment.
+After the beatmap is ranked, users are able to vote for [user tags](/wiki/Beatmap/Beatmap_tags#user-tags) from the osu!(lazer) client. Upon reaching 5 votes on a user tag, it will be displayed in the `User Tags` segment.
 
 If the beatmap is added to any [beatmap packs](/wiki/Beatmap/Packs), they will be listed in the `Beatmap Packs` segment.
 
@@ -125,7 +125,7 @@ Below is a diagram showing a map's points of failure, showing at what points use
 
 If a beatmap is [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending) or [Qualified](/wiki/Beatmap/Category#qualified), the hype train section is visible. Descriptions of the current status of the beatmap can be found on the left side of this section, while hype count and buttons are displayed on the right side. Depending on the beatmap's category, the description will be different.
 
-Users can use the `Hype Beatmap` button to redirect to the [discussion page](/wiki/Beatmap_discussion) and [hype](/wiki/Beatmap/Hype) the beatmap, indicating that they want the beatmap to be ranked. The `Hype Beatmap` button will turn grey and become unclickable after the user has hyped the beatmap.
+The `Hype Beatmap` button redirects to the [discussion page](/wiki/Beatmap_discussion) where people can [hype](/wiki/Beatmap/Hype) the beatmap, i.e. indicate that they want it to be ranked. The `Hype Beatmap` button will turn grey and become unclickable after the user has hyped the beatmap.
 
 Typically, if a beatmap is [Qualified](/wiki/Beatmap/Category#qualified), there is a `Report Problem` button beneath the `Hype Beatmap` button, which will also take users to the discussion page, but with the intention of reporting any problems that might have been missed during the nomination phase.
 
