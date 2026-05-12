@@ -5,7 +5,7 @@ tags:
 
 # Visual content considerations
 
-As per [community rule 5](/wiki/Rules#community-rules), all visual content (i.e. images, videos and links) uploaded to or made available from osu! must be appropriate for an all-ages game.
+As per [community rule 5](/wiki/Rules#community-rules), all visual content (i.e. images, videos and links) in osu! must be appropriate for an all-ages game.
 
 This includes:
 
@@ -55,7 +55,7 @@ In certain circumstances, some exceptions may apply for artistic use of high-eff
 
 Visual content that is used anywhere on the site outside of a beatmap (avatars, profile covers, beatmap descriptions, etc.) is **not** subject to the voting procedure explained below and may be removed at any time at the discretion of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT).
 
-If you are unsure about any visual content that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The visual content will be raised to a vote that must pass by a considerable majority, or it will be automatically denied.
+If you are unsure about any visual content that is going to be included in a beatmap in any way, **please submit a request via [the Beatmap Nominator Report Submission page](https://bn.mappersguild.com/reports).** The visual content will be raised to a vote that it must pass with a considerable majority, or it will be automatically denied.
 
 **The result of any vote is final**, unless the visual content is significantly altered in an attempt to resolve any potentially problematic elements raised during discussion.
 
@@ -63,7 +63,7 @@ At all times, [the osu! team](/wiki/People/osu!_team) reserves the right to unil
 
 ## What happens if my visual content isn't okay?
 
-Any images or other visual content the GMT deem inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silences) for 43 hours depending on the severity of the offence and the user's relevant history.
+Any images or other visual content the GMT deems inappropriate are removed from the website. Additionally, the user that uploaded that visual content may be [silenced](/wiki/Help_centre/Silences) for 43 hours depending on the severity of the offence and the user's relevant history.
 
 For inappropriate visual content on beatmaps, silences will generally not be handed out as long as the visual content is not severely inappropriate and the user removes the offending content within a reasonable time frame.
 
