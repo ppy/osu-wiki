@@ -17,14 +17,14 @@ tags:
 | Registration | April 18 – May 2 |
 | Screening | May 2 – May 12 |
 | Qualifier round | May 12 – June 13 |
-| Round of 16 |  June 13 – July 11 |
+| Round of 16 | June 13 – July 11 |
 | Quarterfinals | July 11 – August 1 |
 | Semifinals | August 1 – August 22 |
 | Finals | August 22 – September 12 |
 
 ## Prizes
 
-Top teams may receive [contest points](https://osu.ppy.sh/wiki/en/Contests/Contest_points), profile badges and osu!supporter or cash prizes after the contest concludes, depending on sponsorship and approval.
+Top teams may receive [contest points](/wiki/Contests/Contest_points), profile badges and osu!supporter or cash prizes after the contest concludes, depending on sponsorship and approval.
 
 ## Organisation
 
