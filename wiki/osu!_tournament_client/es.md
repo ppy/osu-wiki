@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0ad74729d42a03df29f787cc719600ecd54f853b
+---
+
 # Cliente para torneos de osu!
 
 El **cliente para torneos de osu!** es el cliente oficial que se superpone a [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) con escenas suplementarias e información relevante para un torneo de osu! durante una transmisión en vivo.
