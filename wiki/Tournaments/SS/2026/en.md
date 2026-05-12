@@ -269,7 +269,7 @@ Showcase VOD unavailable
   4. [Yuuyu - Akutagawa Ryuunosuke no Kappa ~ Candid Friend [Collab Insane]](https://osu.ppy.sh/beatmapsets/1703912#osu/4042385)
 - Tiebreaker
   1. **[Pirendora - eclipsization [May The Time God Be On Your Side For The Final Battle]](https://osu.ppy.sh/beatmapsets/2351558#osu/5060664)**
- 
+
 ### Round of 16
 
 **[Download the mappack here](https://drive.google.com/file/d/1Yre3oSL1JaA2pfY-F90KX9pjQNE0RLjP/view?usp=sharing)**\
@@ -371,7 +371,7 @@ Ordered by Z-Sum. For more info on how this seeding method works, check it out [
 Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/1).
 
 | Rank | Player | Z-Sum | Avg. score |
-| :-: | :-- |--: | --: |
+| :-: | :-- | --: | --: |
 | #1 | ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 24.3 | 682275 |
 | #2 | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | 23.39 | 670227 |
 | #3 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | 17.05 | 575870 |
