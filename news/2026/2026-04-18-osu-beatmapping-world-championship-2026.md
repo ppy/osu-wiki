@@ -20,7 +20,7 @@ This year's edition is hosted by ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/use
 | Registration | April 18 – May 2 |
 | Screening | May 2 – May 12 |
 | **Qualifier round** | May 12 – June 13 |
-| **Round of 16** |  June 13 – July 11 |
+| **Round of 16** | June 13 – July 11 |
 | **Quarterfinals** | July 11 – August 1 |
 | **Semifinals** | August 1 – August 22 |
 | **Finals** | August 22 – September 12 |
