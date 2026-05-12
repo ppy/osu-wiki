@@ -475,7 +475,6 @@ Monday, 6 April:
 | 42 | [Widelux13](https://osu.ppy.sh/users/3938945) ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **[NHarmonia](https://osu.ppy.sh/users/9582556)** | [#1](https://osu.ppy.sh/community/matches/120883824) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
 | 41 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [AARONGAMER1](https://osu.ppy.sh/users/13147189) | [#1](https://osu.ppy.sh/community/matches/120884598) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
 
-
 ### Round of 16
 
 Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/6).
