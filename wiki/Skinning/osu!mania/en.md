@@ -435,7 +435,7 @@ Notes:
 
 ### Default Key Layout
 
-The following table shows which note, long note, and key images are used by default for each column, depending on the key count.
+Below is the default note image layout for each column, by key count.
 
 | Keycount | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
 |------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
