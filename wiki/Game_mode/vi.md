@@ -14,7 +14,7 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 - `Ctrl` + `3` cho osu!catch
 - `Ctrl` + `4` cho osu!mania
 
-![Giao diện lựa chọn chế độ chơi ở osu!(stable)](/wiki/shared/Interface_mode.png "Giao diện lựa chọn chế độ chơi ở osu!(stable)")
+![Giao diện lựa chọn chế độ chơi ở osu!(lazer)](/wiki/shared/Interface_mode.png "Giao diện lựa chọn chế độ chơi ở osu!(lazer)")
 
 ![Giao diện lựa chọn chế độ chơi](/wiki/shared/Interface_mode_lazer.png "Giao diện lựa chọn chế độ chơi ở osu!(lazer)")
 
@@ -38,7 +38,7 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 
 *Trang chính: [osu!catch](osu!catch)*
 
-*osu!catch* là chế độ mà người chơi điều khiển một nhân vật đang cầm mâm hứng những món trái cây rơi xuống từ trên màn hình xuống theo điệu nhạc. Nó gần như dựa trên minigame "Catch It!!" trong các phiên bản đầu tiên của [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], một giả lập của [Beatmania](https://en.wikipedia.org/wiki/Beatmania) dành cho PC, mà bản thân nó cũng được lấy cảm hứng từ chế độ *EZ2CATCH* của hệ thống arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Nhân vật biểu tượng của osu!catch là [Yuzu](/wiki/Mascots#yuzu), một cậu bé tóc xanh.
+*osu!catch* là chế độ mà người chơi điều khiển một nhân vật hứng những món trái cây rơi từ trên màn hình xuống theo điệu nhạc. Nó phần nào dựa trên minigame "Catch It!!" trong các phiên bản đầu tiên của [rdm/rhythm-it](https://nvyu.net/rdm/jp/)[^rdm], một giả lập của [Beatmania](https://en.wikipedia.org/wiki/Beatmania) dành cho PC, mà bản thân nó cũng được lấy cảm hứng từ chế độ *EZ2CATCH* của hệ thống arcade [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Nhân vật biểu tượng của osu!catch là [Yuzu](/wiki/Mascots#yuzu), một cậu bé tóc xanh.
 
 ![Lối chơi của osu!catch](/wiki/shared/catch-gameplay.jpg "Lối chơi của osu!catch")
 
@@ -54,7 +54,7 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 
 Trong osu!(lazer), người chơi có thể cài thêm một số chế độ chơi tùy chỉnh (có thể gọi là tinh chỉnh quy tắc) qua các file `.dll`. Chúng sử dụng thư viện beatmap hiện có để giới thiệu các cách mới để chơi game osu!. Giống như các chế độ chính, chúng thường được lấy cảm hứng từ những tựa game nhịp điệu khác.
 
-Danh sách chế độ chơi đầy đủ có thể tìm được trong [phần thảo luận ở GitHub](https://github.com/ppy/osu/discussions/13096).
+Danh sách đầy đủ các chế độ chơi tùy chỉnh có thể tìm được trong [phần thảo luận ở GitHub](https://github.com/ppy/osu/discussions/13096).
 
 ## Liên kết
 
