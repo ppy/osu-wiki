@@ -14,9 +14,9 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 - `Ctrl` + `3` cho osu!catch
 - `Ctrl` + `4` cho osu!mania
 
-![Giao diện lựa chọn chế độ chơi ở osu!(lazer)](/wiki/shared/Interface_mode.png "Giao diện lựa chọn chế độ chơi ở osu!(lazer)")
+![Giao diện lựa chọn chế độ chơi của osu!(stable)](/wiki/shared/Interface_mode.png "Giao diện lựa chọn chế độ chơi ở osu!(stable)")
 
-![Giao diện lựa chọn chế độ chơi](/wiki/shared/Interface_mode_lazer.png "Giao diện lựa chọn chế độ chơi ở osu!(lazer)")
+![Giao diện lựa chọn chế độ chơi của osu!(lazer)](/wiki/shared/Interface_mode_lazer.png "Giao diện lựa chọn chế độ chơi ở osu!(lazer)")
 
 ## ![][osu!] osu!
 
@@ -52,7 +52,7 @@ osu! hiện tại có 4 **chế độ chơi** được tích hợp sẵn trong g
 
 ## Chế độ tùy chỉnh
 
-Trong osu!(lazer), người chơi có thể cài thêm một số chế độ chơi tùy chỉnh (có thể gọi là tinh chỉnh quy tắc) qua các file `.dll`. Chúng sử dụng thư viện beatmap hiện có để giới thiệu các cách mới để chơi game osu!. Giống như các chế độ chính, chúng thường được lấy cảm hứng từ những tựa game nhịp điệu khác.
+Trong osu!(lazer), người chơi có thể cài thêm một số chế độ chơi tùy chỉnh (có thể gọi là tinh chỉnh quy tắc) qua các tệp `.dll`. Chúng sử dụng thư viện beatmap hiện có để giới thiệu các cách mới để chơi game osu!. Giống như các chế độ chính, chúng thường được lấy cảm hứng từ những tựa game nhịp điệu khác.
 
 Danh sách đầy đủ các chế độ chơi tùy chỉnh có thể tìm được trong [phần thảo luận ở GitHub](https://github.com/ppy/osu/discussions/13096).
 
