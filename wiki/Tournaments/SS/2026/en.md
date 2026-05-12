@@ -156,7 +156,7 @@ This year's iteration offered €482.15 and a total of 2 years of osu!supporter 
 
 ### Grand Finals
 
-**[Download the mappack here](https://drive.google.com/file/d/1Y4Ss9e_bRauL1QOFbG8KsoJwfkS1EWx6/view?usp=sharing)**\
+**[Download the mappack here (228 MB)](https://drive.google.com/file/d/1Y4Ss9e_bRauL1QOFbG8KsoJwfkS1EWx6/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=KCo_BzVNlPA)
 
 - No Mod
@@ -186,7 +186,7 @@ This year's iteration offered €482.15 and a total of 2 years of osu!supporter 
 
 ### Finals
 
-**[Download the mappack here](https://drive.google.com/file/d/1WadsQZfYlUG3Y4EVAtCYR_r0Pd82g_rE/view?usp=sharing)**\
+**[Download the mappack here (183 MB)](https://drive.google.com/file/d/1WadsQZfYlUG3Y4EVAtCYR_r0Pd82g_rE/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=abskrgz161A)
 
 - No Mod
@@ -216,7 +216,7 @@ This year's iteration offered €482.15 and a total of 2 years of osu!supporter 
 
 ### Semifinals
 
-**[Download the mappack here](https://drive.google.com/file/d/1bCtQs0JJHEqmcN-1QExg_HUkgUQOYfgR/view?usp=sharing)**\
+**[Download the mappack here (144 MB)](https://drive.google.com/file/d/1bCtQs0JJHEqmcN-1QExg_HUkgUQOYfgR/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=sk0sem-EaX0)
 
 - No Mod
@@ -244,7 +244,7 @@ This year's iteration offered €482.15 and a total of 2 years of osu!supporter 
 
 ### Quarterfinals
 
-**[Download the mappack here](https://drive.google.com/file/d/16KrVenLNEVdw5P6jaJBy7gdSOyFre8xj/view?usp=sharing)**\
+**[Download the mappack here (136 MB)](https://drive.google.com/file/d/16KrVenLNEVdw5P6jaJBy7gdSOyFre8xj/view?usp=sharing)**\
 Showcase VOD unavailable
 
 - No Mod
@@ -272,7 +272,7 @@ Showcase VOD unavailable
 
 ### Round of 16
 
-**[Download the mappack here](https://drive.google.com/file/d/1Yre3oSL1JaA2pfY-F90KX9pjQNE0RLjP/view?usp=sharing)**\
+**[Download the mappack here (95 MB)](https://drive.google.com/file/d/1Yre3oSL1JaA2pfY-F90KX9pjQNE0RLjP/view?usp=sharing)**\
 Showcase VOD unavailable
 
 - No Mod
@@ -296,7 +296,7 @@ Showcase VOD unavailable
 
 ### Round of 32
 
-**[Download the mappack here](https://drive.google.com/file/d/1phRnH2Y89DeGvmP-sBNUY6l5ynAH3IMv/view?usp=sharing)**\
+**[Download the mappack here (94 MB)](https://drive.google.com/file/d/1phRnH2Y89DeGvmP-sBNUY6l5ynAH3IMv/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=iS8rw_p7Ekw)
 
 - No Mod
@@ -320,7 +320,7 @@ Showcase VOD unavailable
 
 ### Group Stage
 
-**[Download the mappack here](https://drive.google.com/file/d/1493f5McwuqJMqmD-_G86LWbJOsQv0IgK/view?usp=sharing)**\
+**[Download the mappack here (87 MB)](https://drive.google.com/file/d/1493f5McwuqJMqmD-_G86LWbJOsQv0IgK/view?usp=sharing)**\
 [View the showcase VOD here](https://youtu.be/ISG7TqshQVU&t=5022)
 
 - No Mod
@@ -344,7 +344,7 @@ Showcase VOD unavailable
 
 ### Qualifiers
 
-**[Download the mappack here](https://drive.google.com/file/d/1kIngmO5VDQRgyo1hYO1s3ZnvS0lFgtRX/view?usp=sharing)**\
+**[Download the mappack here (76 MB)](https://drive.google.com/file/d/1kIngmO5VDQRgyo1hYO1s3ZnvS0lFgtRX/view?usp=sharing)**\
 [View the showcase VOD here](https://www.youtube.com/watch?v=0OJZtsKK4hs)
 
 - No Mod
