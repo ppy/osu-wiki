@@ -364,71 +364,202 @@ Showcase VOD unavailable
 
 ## Match results
 
-### Qualifier results
+### Grand Finals
 
-Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](/wiki/Tournaments/Common_seeding_methods).
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/10).
 
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/1).
+Saturday, 25 April 2026:
 
-| Rank | Player | Z-Sum | Avg. score |
-| :-: | :-- | --: | --: |
-| #1 | ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 24.3 | 682275 |
-| #2 | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | 23.39 | 670227 |
-| #3 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | 17.05 | 575870 |
-| #4 | ::{ flag=ES }:: [[dekori]](https://osu.ppy.sh/users/17465075) | 14.89 | 564090 |
-| #5 | ::{ flag=ES }:: [marbl](https://osu.ppy.sh/users/9895270) | 12.4 | 467860 |
-| #6 | ::{ flag=ES }:: [JoanaBob](https://osu.ppy.sh/users/10966302) | 12.29 | 483914 |
-| #7 | ::{ flag=ES }:: [Dario](https://osu.ppy.sh/users/4739655) | 10.72 | 430741 |
-| #8 | ::{ flag=ES }:: [Palodex](https://osu.ppy.sh/users/11821902) | 10.01 | 405935 |
-| #9 | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | 7.9 | 388231 |
-| #10 | ::{ flag=ES }:: [aguacateh_](https://osu.ppy.sh/users/34226059) | 6.65 | 382705 |
-| #11 | ::{ flag=ES }:: [AARONGAMER1](https://osu.ppy.sh/users/13147189) | 6.49 | 374137 |
-| #12 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | 6.3 | 355886 |
-| #13 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | 5.59 | 331844 |
-| #14 | ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) | 5.23 | 325027 |
-| #15 | ::{ flag=ES }:: [PEAC 4](https://osu.ppy.sh/users/10559526) | 4.5 | 337533 |
-| #16 | ::{ flag=ES }:: [Derin](https://osu.ppy.sh/users/6297102) | 4.33 | 338164 |
-| #17 | ::{ flag=ES }:: [Scaryz](https://osu.ppy.sh/users/21622646) | 4.3 | 298435 |
-| #18 | ::{ flag=ES }:: [Kalal331](https://osu.ppy.sh/users/8433636) | 3.58 | 336446 |
-| #19 | ::{ flag=ES }:: [PEAC 10](https://osu.ppy.sh/users/11830831) | 2.33 | 284244 |
-| #20 | ::{ flag=ES }:: [Alexis_xX](https://osu.ppy.sh/users/14153496) | 2.06 | 285746 |
-| #21 | ::{ flag=ES }:: [Widelux13](https://osu.ppy.sh/users/3938945) | 1.24 | 266672 |
-| #22 | ::{ flag=ES }:: [Omeguii](https://osu.ppy.sh/users/10596572) | 1.11 | 257640 |
-| #23 | ::{ flag=ES }:: [EZHD](https://osu.ppy.sh/users/15101114) | 0.67 | 275646 |
-| #24 | ::{ flag=ES }:: [Murkano](https://osu.ppy.sh/users/15907157) | 0.67 | 273353 |
-| #25 | ::{ flag=ES }:: [_jeff](https://osu.ppy.sh/users/8335721) | 0.64 | 262084 |
-| #26 | ::{ flag=ES }:: [marc559_](https://osu.ppy.sh/users/22037489) | 0.59 | 258283 |
-| #27 | ::{ flag=ES }:: [PEAC 3](https://osu.ppy.sh/users/12048359) | 0.45 | 265619 |
-| #28 | ::{ flag=ES }:: [Fieera](https://osu.ppy.sh/users/15254495) | 0.29 | 233445 |
-| #29 | ::{ flag=ES }:: [PEAC 2](https://osu.ppy.sh/users/15961685) | 0.18 | 246060 |
-| #30 | ::{ flag=ES }:: [\- Izayoi \-](https://osu.ppy.sh/users/14791081) | 0.17 | 259264 |
-| #31 | ::{ flag=ES }:: [atisuma](https://osu.ppy.sh/users/15207748) | -0.13 | 262338 |
-| #32 | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | -1.54 | 213642 |
-| #33 | ::{ flag=ES }:: [aleotcapitalist](https://osu.ppy.sh/users/36396047) | -3.26 | 196494 |
-| #34 | ::{ flag=ES }:: [EDn](https://osu.ppy.sh/users/10771616) | -3.75 | 174926 |
-| #35 | ::{ flag=ES }:: [Zaik0](https://osu.ppy.sh/users/18296881) | -3.84 | 163419 |
-| #36 | ::{ flag=ES }:: [comandocYT](https://osu.ppy.sh/users/17594074) | -4.06 | 158422 |
-| #37 | ::{ flag=ES }:: [LaBestiaPrecoz](https://osu.ppy.sh/users/13174212) | -4.21 | 149728 |
-| #38 | ::{ flag=ES }:: [Sakuya-](https://osu.ppy.sh/users/4638940) | -4.67 | 148290 |
-| #39 | ::{ flag=ES }:: [Guillr](https://osu.ppy.sh/users/15842178) | -4.92 | 158998 |
-| #40 | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) | -5.96 | 142443 |
-| #41 | ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805) | -6.01 | 139004 |
-| #42 | ::{ flag=ES }:: [Pinwi_](https://osu.ppy.sh/users/21412869) | -6.98 | 103117 |
-| #43 | ::{ flag=ES }:: [Tenjun](https://osu.ppy.sh/users/35745799) | -7.03 | 129001 |
-| #44 | ::{ flag=ES }:: [n0ught](https://osu.ppy.sh/users/36687057) | -7.29 | 113223 |
-| #45 | ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | -7.65 | 101612 |
-| #46 | ::{ flag=ES }:: [FestivalFour179](https://osu.ppy.sh/users/19744046) | -7.67 | 95527 |
-| #47 | ::{ flag=ES }:: [laGmaN](https://osu.ppy.sh/users/12781215) | -7.94 | 91547 |
-| #48 | ::{ flag=ES }:: [leo24012007](https://osu.ppy.sh/users/23762052) | -8.02 | 120071 |
-| #49 | ::{ flag=ES }:: [Krla](https://osu.ppy.sh/users/6360419) | -8.24 | 90012 |
-| #50 | ::{ flag=ES }:: [darkmichigun](https://osu.ppy.sh/users/15227406) | -9.75 | 60954 |
-| #51 | ::{ flag=ES }:: [supley](https://osu.ppy.sh/users/7063961) | -9.83 | 60312 |
-| #52 | ::{ flag=ES }:: [Feren](https://osu.ppy.sh/users/15539015) | -10.55 | 51562 |
-| #53 | ::{ flag=ES }:: [500skills](https://osu.ppy.sh/users/19036038) | -10.66 | 50002 |
-| #54 | ::{ flag=ES }:: [sandro114](https://osu.ppy.sh/users/11394526) | -10.93 | 41043 |
-| #55 | ::{ flag=ES }:: [- ryochi -](https://osu.ppy.sh/users/25873691) | -11.07 | 42914 |
-| #56 | ::{ flag=ES }:: [Seto](https://osu.ppy.sh/users/20226674) | -12 | 27029 |
-| #57 | ::{ flag=ES }:: [Erikillo](https://osu.ppy.sh/users/20388417) | -12.38 | 18079 |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 61 | [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) ::{ flag=ES }:: | 7 | **8** | ::{ flag=ES }:: **[towny1](https://osu.ppy.sh/users/16512684)** | [#1](https://osu.ppy.sh/community/matches/121012417) | [#1](https://www.youtube.com/watch?v=4Mvm3IUj4JI) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [jdfs](https://osu.ppy.sh/users/8644604), [Scaryz](https://osu.ppy.sh/users/21622646) |
+
+Sunday, 26 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 62 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **8** | 2 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | [#1](https://osu.ppy.sh/community/matches/121019897) | [#1](https://www.youtube.com/watch?v=JSsOagiNuGo) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244), [Scaryz](https://osu.ppy.sh/users/21622646) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/9).
+
+Friday, 17 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 57 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Dario](https://osu.ppy.sh/users/4739655) | *win by default* | - | - | - | - |
+| 58 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **7** | 1 | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | [#1](https://osu.ppy.sh/community/matches/120958985) | [#1](https://www.youtube.com/watch?v=9QSyb5yp3yQ) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Scaryz](https://osu.ppy.sh/users/21622646), [A L E P H](https://osu.ppy.sh/users/6735738) |
+
+Saturday, 18 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 59 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **7** | 6 | ::{ flag=ES }:: [[dekori]](https://osu.ppy.sh/users/17465075) | [#1](https://osu.ppy.sh/community/matches/120967175) | [#1](https://www.youtube.com/watch?v=BwMh2yAeqsc) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244), [junamat](https://osu.ppy.sh/users/12296128) |
+
+Sunday, 19 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 60 | [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) ::{ flag=ES }:: | 1 | **7** | ::{ flag=ES }:: **[A L E P H](https://osu.ppy.sh/users/6735738)** | [#1](https://osu.ppy.sh/community/matches/120974698) | [#1](https://www.youtube.com/watch?v=EzC45eGLZwM) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Scaryz](https://osu.ppy.sh/users/21622646), [junamat](https://osu.ppy.sh/users/12296128) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/8).
+
+Saturday, 11 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 52 | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ::{ flag=ES }:: | **7** | 5 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/120917639) | [#1](https://www.youtube.com/watch?v=SNhcuWlL4As) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
+| 49 | **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** ::{ flag=ES }:: | **7** | 1 | ::{ flag=ES }:: [aguacateh_](https://osu.ppy.sh/users/34226059) | [#1](https://osu.ppy.sh/community/matches/120918745) | [#1](https://www.youtube.com/watch?v=A4epOzrkQBk) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
+| 50 | **[marbl](https://osu.ppy.sh/users/9895270)** ::{ flag=ES }:: | **7** | 4 | ::{ flag=ES }:: [Derin](https://osu.ppy.sh/users/6297102) | [#1](https://osu.ppy.sh/community/matches/120919222) | [#1](https://www.youtube.com/watch?v=bACyOtFftxU) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
+| 51 | **[Dario](https://osu.ppy.sh/users/4739655)** ::{ flag=ES }:: | **7** | 6 | ::{ flag=ES }:: [Palodex](https://osu.ppy.sh/users/11821902) | [#1](https://osu.ppy.sh/community/matches/120920220) | [#1](https://www.youtube.com/watch?v=VwA4WCO3ItQ) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [Furina](https://osu.ppy.sh/users/16393244) |
+
+Sunday, 12 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 54 | [JoanaBob](https://osu.ppy.sh/users/10966302) ::{ flag=ES }:: | 0 | **7** | ::{ flag=ES }:: **[Dario](https://osu.ppy.sh/users/4739655)** | [#1](https://osu.ppy.sh/community/matches/120926801) | [#1](https://www.youtube.com/watch?v=GDEzdGOT8qE) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
+| 55 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | **7** | 2 | ::{ flag=ES }:: [[dekori]](https://osu.ppy.sh/users/17465075) | [#1](https://osu.ppy.sh/community/matches/120927257) | [#1](https://www.youtube.com/watch?v=-U9tKXNW4AE) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
+| 53 | [marbl](https://osu.ppy.sh/users/9895270) ::{ flag=ES }:: | 1 | **7** | ::{ flag=ES }:: **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** | [#1](https://osu.ppy.sh/community/matches/120927800) | [#1](https://www.youtube.com/watch?v=Sy1astLkk7A) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
+
+Tuesday, 14 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 56 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **7** | 0 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | [#1](https://osu.ppy.sh/community/matches/120940047) | [#1](https://www.youtube.com/watch?v=on2RWfHHz-g) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244), [Scaryz](https://osu.ppy.sh/users/21622646) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/7).
+
+Thursday, 2 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 48 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [JoanaBob](https://osu.ppy.sh/users/10966302) | [#1](https://osu.ppy.sh/community/matches/120853030) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+
+Friday, 3 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 38 | **[aguacateh_](https://osu.ppy.sh/users/34226059)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [\- Izayoi \-](https://osu.ppy.sh/users/14791081) | *win by default* | - | - | - | - |
+| 40 | [Murkano](https://osu.ppy.sh/users/15907157) ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **[Derin](https://osu.ppy.sh/users/6297102)** | [#1](https://osu.ppy.sh/community/matches/120861027) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+| 33 | [Scaryz](https://osu.ppy.sh/users/21622646) ::{ flag=ES }:: | FF | **0** | ::{ flag=ES }:: **[AARONGAMER1](https://osu.ppy.sh/users/13147189)** | *win by default* | - | - | - | - |
+| 35 | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Zaik0](https://osu.ppy.sh/users/18296881) | *win by default* | - | - | - | - |
+
+Saturday, 4 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 34 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: [atisuma](https://osu.ppy.sh/users/15207748) | [#1](https://osu.ppy.sh/community/matches/120868065) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 39 | **[P_F_C_PRO](https://osu.ppy.sh/users/23731093)** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | [#1](https://osu.ppy.sh/community/matches/120868425) | - | [jdfs](https://osu.ppy.sh/users/8644604) | - | - |
+| 45 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | [#1](https://osu.ppy.sh/community/matches/120868815) | [#1](https://www.youtube.com/watch?v=okSCN7At_kw) | [Hide in room](https://osu.ppy.sh/users/14272234) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [towny1](https://osu.ppy.sh/users/16512684) |
+| 46 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | 6 | 2 | ::{ flag=ES }:: [marbl](https://osu.ppy.sh/users/9895270) | [#1](https://osu.ppy.sh/community/matches/120869339) | [#1](https://www.youtube.com/watch?v=NKPbInTFI_o) | [Furina](https://osu.ppy.sh/users/16393244) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [towny1](https://osu.ppy.sh/users/16512684), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) |
+| 37 | **[PEAC 10](https://osu.ppy.sh/users/11830831)** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | [#1](https://osu.ppy.sh/community/matches/120869796) | [#1](https://www.youtube.com/watch?v=kWQr0Ei3jDI) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
+| 36 | [Widelux13](https://osu.ppy.sh/users/3938945) ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: [PEAC 2](https://osu.ppy.sh/users/15961685) | *win by default* | - | - | - | - |
+
+Sunday, 5 April 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 44 | **[Derin](https://osu.ppy.sh/users/6297102)** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) | [#1](https://osu.ppy.sh/community/matches/120875972) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 47 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: [Dario](https://osu.ppy.sh/users/4739655) | [#1](https://osu.ppy.sh/community/matches/120876409) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
+| 43 | **[aguacateh_](https://osu.ppy.sh/users/34226059)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [PEAC 10](https://osu.ppy.sh/users/11830831) | [#1](https://osu.ppy.sh/community/matches/120876903) | - | [Hide in room](https://osu.ppy.sh/users/14272234) | [Hide in room](https://osu.ppy.sh/users/14272234) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
+
+Monday, 6 April:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 42 | [Widelux13](https://osu.ppy.sh/users/3938945) ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **[NHarmonia](https://osu.ppy.sh/users/9582556)** | [#1](https://osu.ppy.sh/community/matches/120883824) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 41 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [AARONGAMER1](https://osu.ppy.sh/users/13147189) | [#1](https://osu.ppy.sh/community/matches/120884598) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/6).
+
+Friday, 27 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 26 | [Palodex](https://osu.ppy.sh/users/11821902) ::{ flag=ES }:: | 4 | **6** | ::{ flag=ES }:: **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** | [#1](https://osu.ppy.sh/community/matches/120810276) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | towny, [Jurumas](https://osu.ppy.sh/users/14915346) |
+| 24 | [marc559_](https://osu.ppy.sh/users/22037489) ::{ flag=ES }:: | 1 | **6** | ::{ flag=ES }:: **[AARONGAMER1](https://osu.ppy.sh/users/13147189)** | [#1](https://osu.ppy.sh/community/matches/120809839) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Jurumas](https://osu.ppy.sh/users/14915346), [Scaryz](https://osu.ppy.sh/users/21622646) |
+
+Saturday, 28 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 25 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [Scaryz](https://osu.ppy.sh/users/21622646) | [#1](https://osu.ppy.sh/community/matches/120817399) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 27 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/120818338) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+| 20 | [Kalal331](https://osu.ppy.sh/users/8433636) ::{ flag=ES }:: | 5 | **6** | ::{ flag=ES }:: **[MusicDropZ](https://osu.ppy.sh/users/12759554)** | [#1](https://osu.ppy.sh/community/matches/120818348) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Scaryz](https://osu.ppy.sh/users/21622646), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), [towny1](https://osu.ppy.sh/users/16512684) |
+| 19 | **[\- Izayoi \-](https://osu.ppy.sh/users/14791081)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Fieera](https://osu.ppy.sh/users/15254495) | *win by default* | - | - | - | - |
+| 31 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) | [#1](https://osu.ppy.sh/community/matches/120819327) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Scaryz](https://osu.ppy.sh/users/21622646), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), [Furina](https://osu.ppy.sh/users/16393244), [Hide in room](https://osu.ppy.sh/users/14272234) |
+
+Sunday, 29 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 23 | **[atisuma](https://osu.ppy.sh/users/15207748)** ::{ flag=ES }:: | **6** | 5 | ::{ flag=ES }:: [Alexis_xX](https://osu.ppy.sh/users/14153496) | [#1](https://osu.ppy.sh/community/matches/120825266) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+| 30 | **[Dario](https://osu.ppy.sh/users/4739655)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [aguacateh_](https://osu.ppy.sh/users/34226059) | [#1](https://osu.ppy.sh/community/matches/120825777) | - | [junamat](https://osu.ppy.sh/users/12296128) | [Hide in room](https://osu.ppy.sh/users/14272234) | towny, [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) |
+| 29 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: [PEAC 10](https://osu.ppy.sh/users/11830831) | [#1](https://osu.ppy.sh/community/matches/120826252) | - | [junamat](https://osu.ppy.sh/users/12296128) | [Hide in room](https://osu.ppy.sh/users/14272234) | towny, [Scaryz](https://osu.ppy.sh/users/21622646), [Hide in room](https://osu.ppy.sh/users/14272234) |
+| 32 | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ::{ flag=ES }:: | **6** | 2 | ::{ flag=ES }:: [Murkano](https://osu.ppy.sh/users/15907157) | [#1](https://osu.ppy.sh/community/matches/120826768) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234) | [Scaryz](https://osu.ppy.sh/users/21622646), [Diesel](https://osu.ppy.sh/users/21949886), [Hide in room](https://osu.ppy.sh/users/14272234) |
+| 22 | **[Zaik0](https://osu.ppy.sh/users/18296881)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) | *win by default* | - | - | - | - |
+| 21 | **[PEAC 2](https://osu.ppy.sh/users/15961685)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [PEAC 4](https://osu.ppy.sh/users/10559526) | [#1](https://osu.ppy.sh/community/matches/120826955) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+| 17 | [EZHD](https://osu.ppy.sh/users/15101114) ::{ flag=ES }:: | 2 | **6** | ::{ flag=ES }:: **[Derin](https://osu.ppy.sh/users/6297102)** | [#1](https://osu.ppy.sh/community/matches/120827692) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+
+Monday, 30 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 18 | [_jeff](https://osu.ppy.sh/users/8335721) ::{ flag=ES }:: | 4 | **6** | ::{ flag=ES }:: **[Alvaroping1](https://osu.ppy.sh/users/15289150)** | [#1](https://osu.ppy.sh/community/matches/120831195) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+| 28 | **[marbl](https://osu.ppy.sh/users/9895270)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [Widelux13](https://osu.ppy.sh/users/3938945) | [#1](https://osu.ppy.sh/community/matches/120834038) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244), [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/5).
+
+Friday, 20 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 05 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: [\- Izayoi \-](https://osu.ppy.sh/users/14791081) | [#1](https://osu.ppy.sh/community/matches/120761768) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | - |
+| 04 | **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | [#1](https://osu.ppy.sh/community/matches/120762593) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | - |
+| 07 | **[marbl](https://osu.ppy.sh/users/9895270)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [Kalal331](https://osu.ppy.sh/users/8433636) | [#1](https://osu.ppy.sh/community/matches/120762977) | [#1](https://www.youtube.com/watch?v=bFj3Edx1uOI) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | - |
+| 10 | [PEAC 4](https://osu.ppy.sh/users/10559526) ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **[PEAC 10](https://osu.ppy.sh/users/11830831)** | [#1](https://osu.ppy.sh/community/matches/120762966) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 08 | [MusicDropZ](https://osu.ppy.sh/users/12759554) ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **[Widelux13](https://osu.ppy.sh/users/3938945)** | [#1](https://osu.ppy.sh/community/matches/120763388) | [#1](https://www.youtube.com/watch?v=I0JRzeiVdMQ) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [towny1](https://osu.ppy.sh/users/16512684), [junamat](https://osu.ppy.sh/users/12296128) |
+
+Saturday, 21 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 12 | **[aguacateh_](https://osu.ppy.sh/users/34226059)** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) | [#1](https://osu.ppy.sh/community/matches/120769177) | [#1](https://www.youtube.com/watch?v=SU_5oKj1nUk) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | - |
+| 03 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [_jeff](https://osu.ppy.sh/users/8335721) | [#1](https://osu.ppy.sh/community/matches/120769176) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 15 | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [marc559_](https://osu.ppy.sh/users/22037489) | [#1](https://osu.ppy.sh/community/matches/120769604) | - | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [towny1](https://osu.ppy.sh/users/16512684) |
+| 14 | **[P_F_C_PRO](https://osu.ppy.sh/users/23731093)** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: [Alexis_xX](https://osu.ppy.sh/users/14153496) | [#1](https://osu.ppy.sh/community/matches/120769602) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+| 11 | **[Dario](https://osu.ppy.sh/users/4739655)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [Zaik0](https://osu.ppy.sh/users/18296881) | [#1](https://osu.ppy.sh/community/matches/120770461) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+| 16 | [AARONGAMER1](https://osu.ppy.sh/users/13147189) ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **[Murkano](https://osu.ppy.sh/users/15907157)** | [#1](https://osu.ppy.sh/community/matches/120771454) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
+
+Sunday, 22 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 02 | [Derin](https://osu.ppy.sh/users/6297102) ::{ flag=ES }:: | 1 | **5** | ::{ flag=ES }:: **[Scaryz](https://osu.ppy.sh/users/21622646)** | [#1](https://osu.ppy.sh/community/matches/120778410) | [#1](https://www.youtube.com/watch?v=sJf8osAMlrg) | [Furina](https://osu.ppy.sh/users/16393244) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [Hide in room](https://osu.ppy.sh/users/14272234) |
+| 01 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [EZHD](https://osu.ppy.sh/users/15101114) | [#1](https://osu.ppy.sh/community/matches/120778677) | [#1](https://www.youtube.com/watch?v=mTgyLrSdVZs) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [Hide in room](https://osu.ppy.sh/users/14272234) |
+| 09 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [PEAC 2](https://osu.ppy.sh/users/15961685) | [#1](https://osu.ppy.sh/community/matches/120778685) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
+
+Monday, 23 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 13 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [atisuma](https://osu.ppy.sh/users/15207748) | [#1](https://osu.ppy.sh/community/matches/120786128) | - | [jdfs](https://osu.ppy.sh/users/8644604) | - | - |
+
+Tuesday, 24 March 2026:
+
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
+| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
+| 06 | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: [Fieera](https://osu.ppy.sh/users/15254495) | [#1](https://osu.ppy.sh/community/matches/120792360) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
 
 ### Group Stage
 
@@ -522,201 +653,71 @@ Monday, 16 March 2026:
 | :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
 | C3 | **[Scaryz](https://osu.ppy.sh/users/21622646)** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: [aleotcapitalist](https://osu.ppy.sh/users/36396047) | [#1](https://osu.ppy.sh/community/matches/120737781) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
 
-### Round of 32
+### Qualifier results
 
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/5).
+Ordered by Z-Sum. For more info on how this seeding method works, check it out [here](/wiki/Tournaments/Common_seeding_methods).
 
-Friday, 20 March 2026:
+Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/1).
 
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 05 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: [\- Izayoi \-](https://osu.ppy.sh/users/14791081) | [#1](https://osu.ppy.sh/community/matches/120761768) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | - |
-| 04 | **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | [#1](https://osu.ppy.sh/community/matches/120762593) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | - |
-| 07 | **[marbl](https://osu.ppy.sh/users/9895270)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [Kalal331](https://osu.ppy.sh/users/8433636) | [#1](https://osu.ppy.sh/community/matches/120762977) | [#1](https://www.youtube.com/watch?v=bFj3Edx1uOI) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | - |
-| 10 | [PEAC 4](https://osu.ppy.sh/users/10559526) ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **[PEAC 10](https://osu.ppy.sh/users/11830831)** | [#1](https://osu.ppy.sh/community/matches/120762966) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 08 | [MusicDropZ](https://osu.ppy.sh/users/12759554) ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **[Widelux13](https://osu.ppy.sh/users/3938945)** | [#1](https://osu.ppy.sh/community/matches/120763388) | [#1](https://www.youtube.com/watch?v=I0JRzeiVdMQ) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [towny1](https://osu.ppy.sh/users/16512684), [junamat](https://osu.ppy.sh/users/12296128) |
-
-Saturday, 21 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 12 | **[aguacateh_](https://osu.ppy.sh/users/34226059)** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) | [#1](https://osu.ppy.sh/community/matches/120769177) | [#1](https://www.youtube.com/watch?v=SU_5oKj1nUk) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | - |
-| 03 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [_jeff](https://osu.ppy.sh/users/8335721) | [#1](https://osu.ppy.sh/community/matches/120769176) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 15 | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [marc559_](https://osu.ppy.sh/users/22037489) | [#1](https://osu.ppy.sh/community/matches/120769604) | - | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [towny1](https://osu.ppy.sh/users/16512684) |
-| 14 | **[P_F_C_PRO](https://osu.ppy.sh/users/23731093)** ::{ flag=ES }:: | **5** | 3 | ::{ flag=ES }:: [Alexis_xX](https://osu.ppy.sh/users/14153496) | [#1](https://osu.ppy.sh/community/matches/120769602) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-| 11 | **[Dario](https://osu.ppy.sh/users/4739655)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [Zaik0](https://osu.ppy.sh/users/18296881) | [#1](https://osu.ppy.sh/community/matches/120770461) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 16 | [AARONGAMER1](https://osu.ppy.sh/users/13147189) ::{ flag=ES }:: | 4 | **5** | ::{ flag=ES }:: **[Murkano](https://osu.ppy.sh/users/15907157)** | [#1](https://osu.ppy.sh/community/matches/120771454) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-
-Sunday, 22 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 02 | [Derin](https://osu.ppy.sh/users/6297102) ::{ flag=ES }:: | 1 | **5** | ::{ flag=ES }:: **[Scaryz](https://osu.ppy.sh/users/21622646)** | [#1](https://osu.ppy.sh/community/matches/120778410) | [#1](https://www.youtube.com/watch?v=sJf8osAMlrg) | [Furina](https://osu.ppy.sh/users/16393244) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [Hide in room](https://osu.ppy.sh/users/14272234) |
-| 01 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [EZHD](https://osu.ppy.sh/users/15101114) | [#1](https://osu.ppy.sh/community/matches/120778677) | [#1](https://www.youtube.com/watch?v=mTgyLrSdVZs) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604), [Hide in room](https://osu.ppy.sh/users/14272234) |
-| 09 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [PEAC 2](https://osu.ppy.sh/users/15961685) | [#1](https://osu.ppy.sh/community/matches/120778685) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-
-Monday, 23 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 13 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **5** | 0 | ::{ flag=ES }:: [atisuma](https://osu.ppy.sh/users/15207748) | [#1](https://osu.ppy.sh/community/matches/120786128) | - | [jdfs](https://osu.ppy.sh/users/8644604) | - | - |
-
-Tuesday, 24 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 06 | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ::{ flag=ES }:: | **5** | 1 | ::{ flag=ES }:: [Fieera](https://osu.ppy.sh/users/15254495) | [#1](https://osu.ppy.sh/community/matches/120792360) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-
-### Round of 16
-
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/6).
-
-Friday, 27 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 26 | [Palodex](https://osu.ppy.sh/users/11821902) ::{ flag=ES }:: | 4 | **6** | ::{ flag=ES }:: **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** | [#1](https://osu.ppy.sh/community/matches/120810276) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | towny, [Jurumas](https://osu.ppy.sh/users/14915346) |
-| 24 | [marc559_](https://osu.ppy.sh/users/22037489) ::{ flag=ES }:: | 1 | **6** | ::{ flag=ES }:: **[AARONGAMER1](https://osu.ppy.sh/users/13147189)** | [#1](https://osu.ppy.sh/community/matches/120809839) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Jurumas](https://osu.ppy.sh/users/14915346), [Scaryz](https://osu.ppy.sh/users/21622646) |
-
-Saturday, 28 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 25 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [Scaryz](https://osu.ppy.sh/users/21622646) | [#1](https://osu.ppy.sh/community/matches/120817399) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 27 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/120818338) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-| 20 | [Kalal331](https://osu.ppy.sh/users/8433636) ::{ flag=ES }:: | 5 | **6** | ::{ flag=ES }:: **[MusicDropZ](https://osu.ppy.sh/users/12759554)** | [#1](https://osu.ppy.sh/community/matches/120818348) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Scaryz](https://osu.ppy.sh/users/21622646), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), [towny1](https://osu.ppy.sh/users/16512684) |
-| 19 | **[\- Izayoi \-](https://osu.ppy.sh/users/14791081)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Fieera](https://osu.ppy.sh/users/15254495) | *win by default* | - | - | - | - |
-| 31 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) | [#1](https://osu.ppy.sh/community/matches/120819327) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Scaryz](https://osu.ppy.sh/users/21622646), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), [Furina](https://osu.ppy.sh/users/16393244), [Hide in room](https://osu.ppy.sh/users/14272234) |
-
-Sunday, 29 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 23 | **[atisuma](https://osu.ppy.sh/users/15207748)** ::{ flag=ES }:: | **6** | 5 | ::{ flag=ES }:: [Alexis_xX](https://osu.ppy.sh/users/14153496) | [#1](https://osu.ppy.sh/community/matches/120825266) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-| 30 | **[Dario](https://osu.ppy.sh/users/4739655)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [aguacateh_](https://osu.ppy.sh/users/34226059) | [#1](https://osu.ppy.sh/community/matches/120825777) | - | [junamat](https://osu.ppy.sh/users/12296128) | [Hide in room](https://osu.ppy.sh/users/14272234) | towny, [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) |
-| 29 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: [PEAC 10](https://osu.ppy.sh/users/11830831) | [#1](https://osu.ppy.sh/community/matches/120826252) | - | [junamat](https://osu.ppy.sh/users/12296128) | [Hide in room](https://osu.ppy.sh/users/14272234) | towny, [Scaryz](https://osu.ppy.sh/users/21622646), [Hide in room](https://osu.ppy.sh/users/14272234) |
-| 32 | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ::{ flag=ES }:: | **6** | 2 | ::{ flag=ES }:: [Murkano](https://osu.ppy.sh/users/15907157) | [#1](https://osu.ppy.sh/community/matches/120826768) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234) | [Scaryz](https://osu.ppy.sh/users/21622646), [Diesel](https://osu.ppy.sh/users/21949886), [Hide in room](https://osu.ppy.sh/users/14272234) |
-| 22 | **[Zaik0](https://osu.ppy.sh/users/18296881)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) | *win by default* | - | - | - | - |
-| 21 | **[PEAC 2](https://osu.ppy.sh/users/15961685)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [PEAC 4](https://osu.ppy.sh/users/10559526) | [#1](https://osu.ppy.sh/community/matches/120826955) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-| 17 | [EZHD](https://osu.ppy.sh/users/15101114) ::{ flag=ES }:: | 2 | **6** | ::{ flag=ES }:: **[Derin](https://osu.ppy.sh/users/6297102)** | [#1](https://osu.ppy.sh/community/matches/120827692) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-
-Monday, 30 March 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 18 | [_jeff](https://osu.ppy.sh/users/8335721) ::{ flag=ES }:: | 4 | **6** | ::{ flag=ES }:: **[Alvaroping1](https://osu.ppy.sh/users/15289150)** | [#1](https://osu.ppy.sh/community/matches/120831195) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-| 28 | **[marbl](https://osu.ppy.sh/users/9895270)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [Widelux13](https://osu.ppy.sh/users/3938945) | [#1](https://osu.ppy.sh/community/matches/120834038) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244), [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
-
-### Quarterfinals
-
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/7).
-
-Thursday, 2 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 48 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [JoanaBob](https://osu.ppy.sh/users/10966302) | [#1](https://osu.ppy.sh/community/matches/120853030) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-
-Friday, 3 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 38 | **[aguacateh_](https://osu.ppy.sh/users/34226059)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [\- Izayoi \-](https://osu.ppy.sh/users/14791081) | *win by default* | - | - | - | - |
-| 40 | [Murkano](https://osu.ppy.sh/users/15907157) ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **[Derin](https://osu.ppy.sh/users/6297102)** | [#1](https://osu.ppy.sh/community/matches/120861027) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-| 33 | [Scaryz](https://osu.ppy.sh/users/21622646) ::{ flag=ES }:: | FF | **0** | ::{ flag=ES }:: **[AARONGAMER1](https://osu.ppy.sh/users/13147189)** | *win by default* | - | - | - | - |
-| 35 | **[NHarmonia](https://osu.ppy.sh/users/9582556)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Zaik0](https://osu.ppy.sh/users/18296881) | *win by default* | - | - | - | - |
-
-Saturday, 4 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 34 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: [atisuma](https://osu.ppy.sh/users/15207748) | [#1](https://osu.ppy.sh/community/matches/120868065) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 39 | **[P_F_C_PRO](https://osu.ppy.sh/users/23731093)** ::{ flag=ES }:: | 6 | 1 | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | [#1](https://osu.ppy.sh/community/matches/120868425) | - | [jdfs](https://osu.ppy.sh/users/8644604) | - | - |
-| 45 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | 6 | 0 | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | [#1](https://osu.ppy.sh/community/matches/120868815) | [#1](https://www.youtube.com/watch?v=okSCN7At_kw) | [Hide in room](https://osu.ppy.sh/users/14272234) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [towny1](https://osu.ppy.sh/users/16512684) |
-| 46 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | 6 | 2 | ::{ flag=ES }:: [marbl](https://osu.ppy.sh/users/9895270) | [#1](https://osu.ppy.sh/community/matches/120869339) | [#1](https://www.youtube.com/watch?v=NKPbInTFI_o) | [Furina](https://osu.ppy.sh/users/16393244) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [towny1](https://osu.ppy.sh/users/16512684), [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) |
-| 37 | **[PEAC 10](https://osu.ppy.sh/users/11830831)** ::{ flag=ES }:: | 6 | 4 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | [#1](https://osu.ppy.sh/community/matches/120869796) | [#1](https://www.youtube.com/watch?v=kWQr0Ei3jDI) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
-| 36 | [Widelux13](https://osu.ppy.sh/users/3938945) ::{ flag=ES }:: | 0 | FF | ::{ flag=ES }:: [PEAC 2](https://osu.ppy.sh/users/15961685) | *win by default* | - | - | - | - |
-
-Sunday, 5 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 44 | **[Derin](https://osu.ppy.sh/users/6297102)** ::{ flag=ES }:: | **6** | 3 | ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) | [#1](https://osu.ppy.sh/community/matches/120875972) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 47 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **6** | 0 | ::{ flag=ES }:: [Dario](https://osu.ppy.sh/users/4739655) | [#1](https://osu.ppy.sh/community/matches/120876409) | - | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
-| 43 | **[aguacateh_](https://osu.ppy.sh/users/34226059)** ::{ flag=ES }:: | **6** | 1 | ::{ flag=ES }:: [PEAC 10](https://osu.ppy.sh/users/11830831) | [#1](https://osu.ppy.sh/community/matches/120876903) | - | [Hide in room](https://osu.ppy.sh/users/14272234) | [Hide in room](https://osu.ppy.sh/users/14272234) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
-
-Monday, 6 April:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 42 | [Widelux13](https://osu.ppy.sh/users/3938945) ::{ flag=ES }:: | 3 | **6** | ::{ flag=ES }:: **[NHarmonia](https://osu.ppy.sh/users/9582556)** | [#1](https://osu.ppy.sh/community/matches/120883824) | - | [Furina](https://osu.ppy.sh/users/16393244) | - | - |
-| 41 | **[Palodex](https://osu.ppy.sh/users/11821902)** ::{ flag=ES }:: | **6** | 4 | ::{ flag=ES }:: [AARONGAMER1](https://osu.ppy.sh/users/13147189) | [#1](https://osu.ppy.sh/community/matches/120884598) | - | [junamat](https://osu.ppy.sh/users/12296128) | - | - |
-
-### Semifinals
-
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/8).
-
-Saturday, 11 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 52 | **[JoanaBob](https://osu.ppy.sh/users/10966302)** ::{ flag=ES }:: | **7** | 5 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/120917639) | [#1](https://www.youtube.com/watch?v=SNhcuWlL4As) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
-| 49 | **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** ::{ flag=ES }:: | **7** | 1 | ::{ flag=ES }:: [aguacateh_](https://osu.ppy.sh/users/34226059) | [#1](https://osu.ppy.sh/community/matches/120918745) | [#1](https://www.youtube.com/watch?v=A4epOzrkQBk) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
-| 50 | **[marbl](https://osu.ppy.sh/users/9895270)** ::{ flag=ES }:: | **7** | 4 | ::{ flag=ES }:: [Derin](https://osu.ppy.sh/users/6297102) | [#1](https://osu.ppy.sh/community/matches/120919222) | [#1](https://www.youtube.com/watch?v=bACyOtFftxU) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646) |
-| 51 | **[Dario](https://osu.ppy.sh/users/4739655)** ::{ flag=ES }:: | **7** | 6 | ::{ flag=ES }:: [Palodex](https://osu.ppy.sh/users/11821902) | [#1](https://osu.ppy.sh/community/matches/120920220) | [#1](https://www.youtube.com/watch?v=VwA4WCO3ItQ) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [Furina](https://osu.ppy.sh/users/16393244) |
-
-Sunday, 12 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 54 | [JoanaBob](https://osu.ppy.sh/users/10966302) ::{ flag=ES }:: | 0 | **7** | ::{ flag=ES }:: **[Dario](https://osu.ppy.sh/users/4739655)** | [#1](https://osu.ppy.sh/community/matches/120926801) | [#1](https://www.youtube.com/watch?v=GDEzdGOT8qE) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
-| 55 | **[ESCRUPULILLO](https://osu.ppy.sh/users/18217876)** ::{ flag=ES }:: | **7** | 2 | ::{ flag=ES }:: [[dekori]](https://osu.ppy.sh/users/17465075) | [#1](https://osu.ppy.sh/community/matches/120927257) | [#1](https://www.youtube.com/watch?v=-U9tKXNW4AE) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
-| 53 | [marbl](https://osu.ppy.sh/users/9895270) ::{ flag=ES }:: | 1 | **7** | ::{ flag=ES }:: **[Jairofrancaso](https://osu.ppy.sh/users/16420295)** | [#1](https://osu.ppy.sh/community/matches/120927800) | [#1](https://www.youtube.com/watch?v=Sy1astLkk7A) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [Scaryz](https://osu.ppy.sh/users/21622646), [jdfs](https://osu.ppy.sh/users/8644604) |
-
-Tuesday, 14 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 56 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **7** | 0 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | [#1](https://osu.ppy.sh/community/matches/120940047) | [#1](https://www.youtube.com/watch?v=on2RWfHHz-g) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244), [Scaryz](https://osu.ppy.sh/users/21622646) |
-
-### Finals
-
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/9).
-
-Friday, 17 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 57 | **[[dekori]](https://osu.ppy.sh/users/17465075)** ::{ flag=ES }:: | **0** | FF | ::{ flag=ES }:: [Dario](https://osu.ppy.sh/users/4739655) | *win by default* | - | - | - | - |
-| 58 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **7** | 1 | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | [#1](https://osu.ppy.sh/community/matches/120958985) | [#1](https://www.youtube.com/watch?v=9QSyb5yp3yQ) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Scaryz](https://osu.ppy.sh/users/21622646), [A L E P H](https://osu.ppy.sh/users/6735738) |
-
-Saturday, 18 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 59 | **[towny1](https://osu.ppy.sh/users/16512684)** ::{ flag=ES }:: | **7** | 6 | ::{ flag=ES }:: [[dekori]](https://osu.ppy.sh/users/17465075) | [#1](https://osu.ppy.sh/community/matches/120967175) | [#1](https://www.youtube.com/watch?v=BwMh2yAeqsc) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244), [junamat](https://osu.ppy.sh/users/12296128) |
-
-Sunday, 19 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 60 | [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) ::{ flag=ES }:: | 1 | **7** | ::{ flag=ES }:: **[A L E P H](https://osu.ppy.sh/users/6735738)** | [#1](https://osu.ppy.sh/community/matches/120974698) | [#1](https://www.youtube.com/watch?v=EzC45eGLZwM) | [jdfs](https://osu.ppy.sh/users/8644604) | [jdfs](https://osu.ppy.sh/users/8644604) | [Scaryz](https://osu.ppy.sh/users/21622646), [junamat](https://osu.ppy.sh/users/12296128) |
-
-### Grand Finals
-
-Detailed statistics for this round can be found [here](https://www.spanishshowdown.es/stats/10).
-
-Saturday, 25 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 61 | [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) ::{ flag=ES }:: | 7 | **8** | ::{ flag=ES }:: **[towny1](https://osu.ppy.sh/users/16512684)** | [#1](https://osu.ppy.sh/community/matches/121012417) | [#1](https://www.youtube.com/watch?v=4Mvm3IUj4JI) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244) | [Hide in room](https://osu.ppy.sh/users/14272234), [jdfs](https://osu.ppy.sh/users/8644604), [Scaryz](https://osu.ppy.sh/users/21622646) |
-
-Sunday, 26 April 2026:
-
-| ID | Player 1 |  |  | Player 2 | Match link | VOD link | Referee | Streamer | Casters |
-| :-: | :-- | :-: | :-: | --: | :-- | :-- | :-- | :-- | :-- |
-| 62 | **[A L E P H](https://osu.ppy.sh/users/6735738)** ::{ flag=ES }:: | **8** | 2 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | [#1](https://osu.ppy.sh/community/matches/121019897) | [#1](https://www.youtube.com/watch?v=JSsOagiNuGo) | [jdfs](https://osu.ppy.sh/users/8644604) | [Furina](https://osu.ppy.sh/users/16393244) | [Furina](https://osu.ppy.sh/users/16393244), [Scaryz](https://osu.ppy.sh/users/21622646) |
+| Rank | Player | Z-Sum | Avg. score |
+| :-: | :-- | --: | --: |
+| #1 | ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876) | 24.3 | 682275 |
+| #2 | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | 23.39 | 670227 |
+| #3 | ::{ flag=ES }:: [towny1](https://osu.ppy.sh/users/16512684) | 17.05 | 575870 |
+| #4 | ::{ flag=ES }:: [[dekori]](https://osu.ppy.sh/users/17465075) | 14.89 | 564090 |
+| #5 | ::{ flag=ES }:: [marbl](https://osu.ppy.sh/users/9895270) | 12.4 | 467860 |
+| #6 | ::{ flag=ES }:: [JoanaBob](https://osu.ppy.sh/users/10966302) | 12.29 | 483914 |
+| #7 | ::{ flag=ES }:: [Dario](https://osu.ppy.sh/users/4739655) | 10.72 | 430741 |
+| #8 | ::{ flag=ES }:: [Palodex](https://osu.ppy.sh/users/11821902) | 10.01 | 405935 |
+| #9 | ::{ flag=ES }:: [Jairofrancaso](https://osu.ppy.sh/users/16420295) | 7.9 | 388231 |
+| #10 | ::{ flag=ES }:: [aguacateh_](https://osu.ppy.sh/users/34226059) | 6.65 | 382705 |
+| #11 | ::{ flag=ES }:: [AARONGAMER1](https://osu.ppy.sh/users/13147189) | 6.49 | 374137 |
+| #12 | ::{ flag=ES }:: [MusicDropZ](https://osu.ppy.sh/users/12759554) | 6.3 | 355886 |
+| #13 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | 5.59 | 331844 |
+| #14 | ::{ flag=ES }:: [P_F_C_PRO](https://osu.ppy.sh/users/23731093) | 5.23 | 325027 |
+| #15 | ::{ flag=ES }:: [PEAC 4](https://osu.ppy.sh/users/10559526) | 4.5 | 337533 |
+| #16 | ::{ flag=ES }:: [Derin](https://osu.ppy.sh/users/6297102) | 4.33 | 338164 |
+| #17 | ::{ flag=ES }:: [Scaryz](https://osu.ppy.sh/users/21622646) | 4.3 | 298435 |
+| #18 | ::{ flag=ES }:: [Kalal331](https://osu.ppy.sh/users/8433636) | 3.58 | 336446 |
+| #19 | ::{ flag=ES }:: [PEAC 10](https://osu.ppy.sh/users/11830831) | 2.33 | 284244 |
+| #20 | ::{ flag=ES }:: [Alexis_xX](https://osu.ppy.sh/users/14153496) | 2.06 | 285746 |
+| #21 | ::{ flag=ES }:: [Widelux13](https://osu.ppy.sh/users/3938945) | 1.24 | 266672 |
+| #22 | ::{ flag=ES }:: [Omeguii](https://osu.ppy.sh/users/10596572) | 1.11 | 257640 |
+| #23 | ::{ flag=ES }:: [EZHD](https://osu.ppy.sh/users/15101114) | 0.67 | 275646 |
+| #24 | ::{ flag=ES }:: [Murkano](https://osu.ppy.sh/users/15907157) | 0.67 | 273353 |
+| #25 | ::{ flag=ES }:: [_jeff](https://osu.ppy.sh/users/8335721) | 0.64 | 262084 |
+| #26 | ::{ flag=ES }:: [marc559_](https://osu.ppy.sh/users/22037489) | 0.59 | 258283 |
+| #27 | ::{ flag=ES }:: [PEAC 3](https://osu.ppy.sh/users/12048359) | 0.45 | 265619 |
+| #28 | ::{ flag=ES }:: [Fieera](https://osu.ppy.sh/users/15254495) | 0.29 | 233445 |
+| #29 | ::{ flag=ES }:: [PEAC 2](https://osu.ppy.sh/users/15961685) | 0.18 | 246060 |
+| #30 | ::{ flag=ES }:: [\- Izayoi \-](https://osu.ppy.sh/users/14791081) | 0.17 | 259264 |
+| #31 | ::{ flag=ES }:: [atisuma](https://osu.ppy.sh/users/15207748) | -0.13 | 262338 |
+| #32 | ::{ flag=ES }:: [Alvaroping1](https://osu.ppy.sh/users/15289150) | -1.54 | 213642 |
+| #33 | ::{ flag=ES }:: [aleotcapitalist](https://osu.ppy.sh/users/36396047) | -3.26 | 196494 |
+| #34 | ::{ flag=ES }:: [EDn](https://osu.ppy.sh/users/10771616) | -3.75 | 174926 |
+| #35 | ::{ flag=ES }:: [Zaik0](https://osu.ppy.sh/users/18296881) | -3.84 | 163419 |
+| #36 | ::{ flag=ES }:: [comandocYT](https://osu.ppy.sh/users/17594074) | -4.06 | 158422 |
+| #37 | ::{ flag=ES }:: [LaBestiaPrecoz](https://osu.ppy.sh/users/13174212) | -4.21 | 149728 |
+| #38 | ::{ flag=ES }:: [Sakuya-](https://osu.ppy.sh/users/4638940) | -4.67 | 148290 |
+| #39 | ::{ flag=ES }:: [Guillr](https://osu.ppy.sh/users/15842178) | -4.92 | 158998 |
+| #40 | ::{ flag=ES }:: [Edrran](https://osu.ppy.sh/users/15627043) | -5.96 | 142443 |
+| #41 | ::{ flag=ES }:: [MeiFTW](https://osu.ppy.sh/users/15049805) | -6.01 | 139004 |
+| #42 | ::{ flag=ES }:: [Pinwi_](https://osu.ppy.sh/users/21412869) | -6.98 | 103117 |
+| #43 | ::{ flag=ES }:: [Tenjun](https://osu.ppy.sh/users/35745799) | -7.03 | 129001 |
+| #44 | ::{ flag=ES }:: [n0ught](https://osu.ppy.sh/users/36687057) | -7.29 | 113223 |
+| #45 | ::{ flag=ES }:: [Agatem](https://osu.ppy.sh/users/18202514) | -7.65 | 101612 |
+| #46 | ::{ flag=ES }:: [FestivalFour179](https://osu.ppy.sh/users/19744046) | -7.67 | 95527 |
+| #47 | ::{ flag=ES }:: [laGmaN](https://osu.ppy.sh/users/12781215) | -7.94 | 91547 |
+| #48 | ::{ flag=ES }:: [leo24012007](https://osu.ppy.sh/users/23762052) | -8.02 | 120071 |
+| #49 | ::{ flag=ES }:: [Krla](https://osu.ppy.sh/users/6360419) | -8.24 | 90012 |
+| #50 | ::{ flag=ES }:: [darkmichigun](https://osu.ppy.sh/users/15227406) | -9.75 | 60954 |
+| #51 | ::{ flag=ES }:: [supley](https://osu.ppy.sh/users/7063961) | -9.83 | 60312 |
+| #52 | ::{ flag=ES }:: [Feren](https://osu.ppy.sh/users/15539015) | -10.55 | 51562 |
+| #53 | ::{ flag=ES }:: [500skills](https://osu.ppy.sh/users/19036038) | -10.66 | 50002 |
+| #54 | ::{ flag=ES }:: [sandro114](https://osu.ppy.sh/users/11394526) | -10.93 | 41043 |
+| #55 | ::{ flag=ES }:: [- ryochi -](https://osu.ppy.sh/users/25873691) | -11.07 | 42914 |
+| #56 | ::{ flag=ES }:: [Seto](https://osu.ppy.sh/users/20226674) | -12 | 27029 |
+| #57 | ::{ flag=ES }:: [Erikillo](https://osu.ppy.sh/users/20388417) | -12.38 | 18079 |
 
 ## Groups
 
