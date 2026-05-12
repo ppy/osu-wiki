@@ -42,6 +42,7 @@ Top teams may receive [contest points](https://osu.ppy.sh/wiki/en/Contests/Conte
 - [Contest listing](https://osu.ppy.sh/community/contests/284)
 - [Discord server](https://discord.com/invite/QGzz3n655u)
 - [Twitch livestream](https://www.twitch.tv/osubwc/)
+- [YouTube channel](https://www.youtube.com/@osubwc8023)
 - [Twitter account](https://twitter.com/osubwc)
 
 ## Participants
