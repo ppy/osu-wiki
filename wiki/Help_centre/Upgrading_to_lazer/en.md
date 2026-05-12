@@ -84,6 +84,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Multiplayer commands | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
+| Ranked play | ![No][false] | ![Yes][true] |
 | Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
@@ -96,6 +97,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Custom hitsound sample sets | ![Yes][true] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
 | Pattern rotation | ![Yes][true] | ![Yes][true] |
@@ -495,38 +497,44 @@ Scores of all mod combinations appear on leaderboards.
 
 However, only the following mods will award performance points for now:
 
+*Only the **default configuration** of customisation options is eligible for performance points, unless otherwise noted.*
+
 - Difficulty reduction
   - Easy
   - No Fail
-  - Half Time (only 0.75x, configuring `Adjust pitch` is allowed)
-  - Daycore (only 0.75x)
+  - Half Time (Configuring `Adjust pitch` is allowed)
+  - Daycore
 - Difficulty Increase
-  - Hard Rock (not for osu!mania)
-  - Sudden Death (Configuring `Restart on fail` is allowed)
-  - Perfect (Configuring `Restart on fail` is allowed)
+  - Hard Rock (Not for osu!mania)
+  - Sudden Death (All customisation options are allowed)
+  - Perfect (All customisation options are allowed)
+  - Double Time (Configuring `Adjust pitch` is allowed)
+  - Nightcore
+  - Fade In (osu!mania only)
   - Hidden
-  - Nightcore (only 1.5x)
-  - Double Time (only 1.5x, configuring `Adjust pitch` is allowed)
+  - Traceable (osu! only)
+  - Cover (osu!mania only, all customisation options are allowed)
   - Flashlight
-  - Blinds
-  - Accuracy Challenge
-- Conversion (osu!mania only)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+  - Blinds (osu! only)
+  - Accuracy Challenge (All customisation options are allowed)
+- Automation
+  - Spun Out (osu! only)
+- Conversion
+  - Alternate (osu! only)
+  - Swap (osu!taiko only)
+  - Single Tap (osu! & osu!taiko only)
+  - Mirror (osu!mania only)
+  - Four Keys (osu!mania only)
+  - Five Keys (osu!mania only)
+  - Six Keys (osu!mania only)
+  - Seven Keys (osu!mania only)
+  - Eight Keys (osu!mania only)
+  - Nine Keys (osu!mania only)
 - Fun
-  - Muted
-  - No Scope
-- Automation (osu! only)
-  - Spun out
+  - Muted (All customisation options are allowed)
+  - No Scope (osu! & osu!catch only, all customisation options are allowed)
 - System
   - Touch Device
-
-Only the default configuration of customisation options is eligible for performance points, unless otherwise noted above.
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
@@ -596,7 +604,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+If you need to make changes to a beatmap, please use the in-game beatmap editor. To access the raw files for a beatmap set, you can use the **Edit externally** option under the **File** menu.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 
