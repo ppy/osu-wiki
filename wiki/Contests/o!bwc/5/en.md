@@ -37,6 +37,7 @@ Top teams may receive [contest points](/wiki/Contests/Contest_points), profile b
 
 ## Links
 
+- [**Information spreadsheet**](https://docs.google.com/spreadsheets/d/19bo4Jvu5QtGc7cBK52hR5k0d_N3gb9gxPQj9Uo3uMPg/edit)
 - [Announcement news post](https://osu.ppy.sh/home/news/2026-04-18-osu-beatmapping-world-championship-2026)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2196621?n=1)
 - [Contest listing](https://osu.ppy.sh/community/contests/284)
