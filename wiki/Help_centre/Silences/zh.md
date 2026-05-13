@@ -72,7 +72,7 @@ tags:
 
 ## 如何避免被禁言？
 
-认真阅读并遵守[规章制度](/wiki/Rules)、[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)、[歌曲内容规定](/wiki/Rules/Song_content_rules)以及[行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)。如果你不确定你想做或者说的事情是否会违反规章制度，请向[全局管理团队 (GMT) 的成员](https://osu.ppy.sh/groups/4)询问。
+认真阅读并遵守[规章制度](/wiki/Rules)、[视觉内容注意事项](/wiki/Rules/Visual_content_considerations)、[歌曲内容规定](/wiki/Rules/Song_content_rules)以及[行为准则：摸图和作图](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)。如果你不确定你想做或者说的事情是否会违反规章制度，请询问[全局管理团队 (GMT) 的成员](https://osu.ppy.sh/groups/4)。
 
 另外，如果你认为你有一条旧论坛帖子、谱面、评论或者其他内容包含不当内容，如果你可以的话，最好直接删掉它或者编辑掉那些不当内容。如果你由于某种原因无法删除或者编辑它们，请联系一位全局管理团队 (GMT) 的成员来让他们帮忙移除。
 
