@@ -35,6 +35,16 @@ In case you missed it, watch the VOD for the full qualifier mappool reveal below
 | Bracket stage (single elimination) | May 16 & May 17 |
 | Top 8 (double elimination) | May 23 & May 24 |
 
+## Prizes
+
+Lazer Grand Arena 2026 offers a $1,000 cash prize pool and profile badges for the top 3 finishers!
+
+| Placing | Prizes |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, profile badge |
+
 ## Registration / Qualifier stage
 
 No sign-up required — **just play!** Find the pinned playlist in-game by searching for "[Lazer Grand Arena 2026 - Qualifiers (Official)](https://osu.ppy.sh/multiplayer/rooms/2759137)", hosted by [LeoFLT](https://osu.ppy.sh/users/3668779).
