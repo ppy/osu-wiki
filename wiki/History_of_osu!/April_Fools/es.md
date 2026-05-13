@@ -195,7 +195,7 @@ El día de los Inocentes de 2021 recicló la misma broma de los dos años anteri
 
 ## 2026
 
-### Más opciones
+### Más botones
 
 ::: Infobox
 ![La barra lateral de opciones durante el día de los Inocentes](img/2026-toggles.png "Sección de Toggles visible durante el día de los Inocentes")
@@ -209,7 +209,7 @@ Al activar cualquier opción, se seleccionaban o deseleccionaban otras opciones 
 - osu! haciendo un giro de 360 grados[^barrel-roll]
 - La interfaz del menú tuvo una nueva paleta de colores
 - Diversos efectos de sonido, como audio distorsionado
-- La ventana del juego está ligeramente inclinada
+- La ventana del juego estaba ligeramente inclinada
 
 Si se activaban demasiados botones, osu! se «congelaba» y reproducía un sonido de cristales rompiéndose, hacía un zoom y se oscurecía, para luego volver al estado normal. Sin embargo, la sección `Toggles` mostraba un texto que decía «...on second thought, no more toggles for you.», y debajo había un botón con que decía «But please peppy» que, al pulsarlo, emitía un pitido y mostraba el texto «no». Si pulsabas el botón las veces suficientes, se restablecería la sección `Toggles` y se mostraba un botón aleatorio, tal y como se ha descrito anteriormente.
 
