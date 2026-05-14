@@ -9,7 +9,7 @@ We are SO back.
 
 ![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
 
-This time around only osu! and osu!taiko are receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
+This time around osu!, osu!taiko and osu!catch are receiving updates to difficulty and performance calculations. This news post will discuss what has changed in a format that should be understandable to you, the player!
 
 All changes made in this round are intended to keep the general understanding of per-score PP values the same. This means that if a score's (or beatmap's max) PP value has decreased, it is due to that beatmap or score being overweighted until now. As a result, individual users may see a large jump in their PP, in either direction.
 
@@ -186,6 +186,25 @@ In practice:
 - A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by [Rian8337](https://osu.ppy.sh/users/5383997) to improve readability of Reading calculations
 - A [refactor](https://github.com/ppy/osu/pull/36064) by [StanR](https://osu.ppy.sh/users/7217455) to improve star rating code quality
 - A [refactor](https://github.com/ppy/osu/pull/36112) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve performance in some areas of difficulty calculation
+<!-- todo: update -->
+
+## osu!taiko
+
+### Nerf long gaps in frequent rhythm changes
+
+Patterns of frequent rhythm changes followed by long gaps would previously award unexpectedly high rhythm difficulty. This [change](https://github.com/ppy/osu/pull/37200) by [rloseise](https://osu.ppy.sh/users/6793778) targets and penalises this specific case.
+
+Some examples of beatmaps affected by this change:
+
+- [Halozy - Masshiro na Yuki [Lucent Downfall]](https://osu.ppy.sh/beatmapsets/2350118#taiko/5056926): 6.89* -> 6.18*
+- [Risuko, Mona from STAR*ANIS - Otona Mode [YUC'e Remix] [Hell Oni]](https://osu.ppy.sh/beatmapsets/2334877#taiko/5012694): 6.90* -> 5.92*
+- [Risuko, Mona from STAR*ANIS - Otona Mode [YUC'e Remix] [Unspoken Feelings]](https://osu.ppy.sh/beatmapsets/2334877#taiko/5033325): 8.46* -> 7.50*
+- [Kobaryo - Theme of Psychopath Justice [Speed Insanity]](https://osu.ppy.sh/beatmapsets/2129662#taiko/4478259): 10.89* -> 10.17*
+
+### Minor changes
+
+- A [change](https://github.com/ppy/osu/pull/36628) by [StanR](https://osu.ppy.sh/users/7217455) to return 0 difficulty for swells and drum rolls
+- A [change](https://github.com/ppy/osu/pull/36671) by [StanR](https://osu.ppy.sh/users/7217455) to use the full hit-window for rhythm calculations
 
 ---
 
