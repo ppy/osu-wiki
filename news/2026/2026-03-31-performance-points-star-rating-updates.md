@@ -156,37 +156,37 @@ In practice:
 ### Minor changes
 
 - A [fix](https://github.com/ppy/osu/pull/29993) by [Givy120](https://osu.ppy.sh/users/10560705) to make the comparison between slider and slider-less aim difficulty more accurate
+- A [fix](https://github.com/ppy/osu/pull/37264) by [Givy120](https://osu.ppy.sh/users/10560705) to include 50s in osu!(stable) slider break estimations
+- A [fix](https://github.com/ppy/osu/pull/37636) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure that patterns too spaced to be doubletapped are not penalised by doubletap nerfs
+- A [fix](https://github.com/ppy/osu/pull/37263) by [Givy120](https://osu.ppy.sh/users/10560705) to improve stability of osu!(stable) slider break estimations
 - A [fix](https://github.com/ppy/osu/pull/36599) by [molneya](https://osu.ppy.sh/users/8945180) to nerf total difficulty for Flashlight when Reading difficulty is extremely high
 - A [fix](https://github.com/ppy/osu/pull/36216) by [StanR](https://osu.ppy.sh/users/7217455) to fix aim slider bonuses being awarded to the incorrect note
-- A [fix](https://github.com/ppy/osu/pull/36644) by [StanR](https://osu.ppy.sh/users/7217455) to prevent zero-difficulty beatmaps returning NaN star rating
 - A [set](https://github.com/ppy/osu/pull/36569) of [fixes](https://github.com/ppy/osu/pull/36593) by [StanR](https://osu.ppy.sh/users/7217455) to improve slider-to-circle Rhythm difficulty
+- A [fix](https://github.com/ppy/osu/pull/37609) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm complexity is decreased for long islands
 - A [set](https://github.com/ppy/osu/pull/36773) of [fixes](https://github.com/ppy/osu/pull/36806) by [StanR](https://osu.ppy.sh/users/7217455) to fix slider velocity calculations using inflated velocity
 - A [fix](https://github.com/ppy/osu/pull/36209) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix score-based miss estimations using incorrect multipliers for scores with mods
-- A [fix](https://github.com/ppy/osu/pull/36558) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix no-movement doubles inflating aim difficulty
 - A [set of fixes](https://github.com/ppy/osu/pull/36999) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve flow aim evaluation for overlapping notes and sliders
 - A [change](https://github.com/ppy/osu/pull/35962) by [Givy120](https://osu.ppy.sh/users/10560705) to skip score-based miss estimations for ScoreV2
-- A [change](https://github.com/ppy/osu/pull/33019) by [Givy120](https://osu.ppy.sh/users/10560705) to consider Hidden's "only hide approach circles" setting in flashlight calculations
+- A [change](https://github.com/ppy/osu/pull/33019) by [Givy120](https://osu.ppy.sh/users/10560705) to consider Hidden's "only hide approach circles" setting in Flashlight calculations
 - A [change](https://github.com/ppy/osu/pull/35724) by [Givy120](https://osu.ppy.sh/users/10560705) to adjust full-combo threshold depending on how difficult sliders are
 - A [change](https://github.com/ppy/osu/pull/36466) by [Givy120](https://osu.ppy.sh/users/10560705) to ensure alternating angles do not explode Reading difficulty
 - A [change](https://github.com/ppy/osu/pull/36554) by [Givy120](https://osu.ppy.sh/users/10560705) to harshen Speed deviation scaling at lower difficulties
 - A [change](https://github.com/ppy/osu/pull/36623) by [Givy120](https://osu.ppy.sh/users/10560705) to nerf Reading's perfect-stack bonus for Hidden
+- A [change](https://github.com/ppy/osu/pull/36900) by [molneya](https://osu.ppy.sh/users/8945180) to remove accuracy bonus for Flashlight
 - A [change](https://github.com/ppy/osu/pull/36555) by [piiid](https://osu.ppy.sh/users/37091194) to rebalance Aim bonuses for Traceable
 - A [change](https://github.com/ppy/osu/pull/36148) by [StanR](https://osu.ppy.sh/users/7217455) to scale doubletap detections more harshly, punishing some edge case beatmaps
 - A [change](https://github.com/ppy/osu/pull/36513) to [StanR](https://osu.ppy.sh/users/7217455) to remove a now unnecessary high CS slider nerf
 - A [change](https://github.com/ppy/osu/pull/36063) by [StanR](https://osu.ppy.sh/users/7217455) to simplify final star rating calculations
 - A [change](https://github.com/ppy/osu/pull/36669) by [StanR](https://osu.ppy.sh/users/7217455) to uncap Accuracy PP's object count bonus
-- A [change](https://github.com/ppy/osu/pull/36985) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Relax PP
-- A [change](https://github.com/ppy/osu/pull/36855) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Touch Device difficulty
 - A [change](https://github.com/ppy/osu/pull/37099) by [StanR](https://osu.ppy.sh/users/7217455) to buff longer jump sections
-- A [change](https://github.com/ppy/osu/pull/36967) by [StanR](https://osu.ppy.sh/users/7217455) to rescale Aim difficulty to meet community expectations
-- A [change](https://github.com/ppy/osu/pull/37147) by [StanR](https://osu.ppy.sh/users/7217455) to rebalance Aim to meet community expectations
 - A [refactor](https://github.com/ppy/osu/pull/35817) by [Givy120](https://osu.ppy.sh/users/10560705) to remove some unnecessary difficulty code
 - A [refactor](https://github.com/ppy/osu/pull/36465) by [Givy120](https://osu.ppy.sh/users/10560705) to simplify Reading's Hidden difficulty calculation
 - A [refactor](https://github.com/ppy/osu/pull/37119) by [kwotaq](https://osu.ppy.sh/users/8195972) to improve Aim evaluation code quality
 - A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by [Rian8337](https://osu.ppy.sh/users/5383997) to improve readability of Reading calculations
-- A [refactor](https://github.com/ppy/osu/pull/36064) by [StanR](https://osu.ppy.sh/users/7217455) to improve star rating code quality
+- A [refactor](https://github.com/ppy/osu/pull/37460) by [Natelytle](https://osu.ppy.sh/users/17607667) to improve difficulty code quality
+- A [set](https://github.com/ppy/osu/pull/36064) of [refactors](https://github.com/ppy/osu/pull/37621) by [StanR](https://osu.ppy.sh/users/7217455) to improve star rating code quality
+- A [refactor](https://github.com/ppy/osu/pull/37654) by [StanR](https://osu.ppy.sh/users/7217455) to improve osu!(stable) slider break estimation code quality
 - A [refactor](https://github.com/ppy/osu/pull/36112) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve performance in some areas of difficulty calculation
-<!-- todo: update -->
 
 ## osu!taiko
 
