@@ -15,7 +15,7 @@ The **osu!catch World Cup 2026** (***CWC 2026***) is a country-based osu!catch t
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2026-04-30 (18:00 UTC) / 2026-05-15 (23:59 UTC) |
+| Registration phase | 2026-04-30 (18:00 UTC) / 2026-05-16 (23:59 UTC) |
 | Qualifier showcase | 2026-05-24 (14:00 UTC) |
 | Qualifier stage | 2026-05-30 / 2026-05-31 |
 | Round of 32 | 2026-06-06 / 2026-06-07 |
