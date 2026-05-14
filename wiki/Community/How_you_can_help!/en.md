@@ -45,3 +45,7 @@ The osu! community has a significant competitive tournament scene for players of
 - If you found a bug in osu!(lazer), or if you have any other kind of suggestion about how to make osu!(lazer) better, read the [Contributing Guidelines](https://github.com/ppy/osu/blob/master/CONTRIBUTING.md) for the relevant GitHub repository to help you decide the best course of action, including opening an issue or discussion.
 - If you want to make a bug report or suggest an improvement to the website, [open an issue](https://github.com/ppy/osu-web/issues/new) on the website's GitHub repository.
 - Help translate the website and osu!(lazer) into other languages via [Crowdin](https://crowdin.com/project/osu-web).
+
+---
+
+While this article cannot cover all the ways you can help the osu! community, **even just playing the game can make osu! even more awesome**!
