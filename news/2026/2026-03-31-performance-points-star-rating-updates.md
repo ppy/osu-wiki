@@ -190,7 +190,7 @@ In practice:
 
 ## osu!taiko
 
-### Nerf long gaps in frequent rhythm changes
+### Nerf long gaps during frequent rhythm changes
 
 Patterns of frequent rhythm changes followed by long gaps would previously award unexpectedly high rhythm difficulty. This [change](https://github.com/ppy/osu/pull/37200) by [rloseise](https://osu.ppy.sh/users/6793778) targets and penalises this specific case.
 
