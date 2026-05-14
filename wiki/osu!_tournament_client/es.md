@@ -31,7 +31,7 @@ Dentro de la configuración de un torneo, se pueden proporcionar los recursos ne
   - Flags
   - Mods
   - Videos
- 
+
 Para gestionar los detalles del torneo, usa las herramientas disponibles dentro del cliente:
 
 - `Team Editor`: Edita equipos y jugadores.
