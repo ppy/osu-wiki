@@ -206,6 +206,14 @@ Some examples of beatmaps affected by this change:
 - A [change](https://github.com/ppy/osu/pull/36628) by [StanR](https://osu.ppy.sh/users/7217455) to return 0 difficulty for swells and drum rolls
 - A [change](https://github.com/ppy/osu/pull/36671) by [StanR](https://osu.ppy.sh/users/7217455) to use the full hit-window for rhythm calculations
 
+## osu!catch
+
+### Nerf linear spacings
+
+Beatmaps such as [CRIM3S - Stay Ugly [PHOB;S jiov\erdddd (DELUGE)(ddose]](https://osu.ppy.sh/beatmapsets/2485027#fruits/5454338) have abused the fact that linear spaced patterns with no variability don't require additional inputs and yield a lot of difficulty.
+
+A [change](https://github.com/ppy/osu/pull/37287) by [Kitsunivy](https://osu.ppy.sh/users/7055384) was made in order to ensure these patterns are penalised due to them not requiring any additional inputs.
+
 ---
 
 A huge thanks to the contributors of these changes as well as the community of people who helped by providing their feedback. If you'd like to learn more about the development of performance points, you may want to take a look in the `#difficulty-osu` channel of the [osu! Discord server](https://discord.gg/ppy), or even join the [Performance Points Discord server](https://discord.gg/aqPCnXu) dedicated to developing and discussing performance points.
