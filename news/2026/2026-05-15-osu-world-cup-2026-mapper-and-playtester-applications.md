@@ -13,7 +13,6 @@ The osu! World Cup mappooling team is shifting gears into full motion for the ne
 
 In case you've been living under a rock for the past decade, the [osu! World Cup](/wiki/Tournaments/OWC) is our annual country-based tournament, organised by the osu! team in collaboration with many community members. Held since 2011, it's widely regarded as the pinnacle of competitive osu!, bringing together the world's top players and countries to compete at the highest level — the perfect way to close out the year for both participants and spectators alike.
 
-
 If you wish to be involved in projects such as Imperial Circus Dead Decadence's [Yuuaku no Inori](https://www.youtube.com/watch?v=d5b9JtprsV8), t+pazolite's [Gumbarlzo](https://www.youtube.com/watch?v=esGtekfbdBg&pp=0gcJCQQLAYcqIYzv), ELFENSJóN's [Hexen Noir](https://www.youtube.com/watch?v=_aiV-u_bMf4), and many others, register your interest via one of the forms below:
 
 **[Click here to apply as a mapper](https://leoflt.com/forms/owc2026-mapping-apps)**
