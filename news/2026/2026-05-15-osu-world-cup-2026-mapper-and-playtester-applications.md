@@ -15,7 +15,7 @@ In case you've been living under a rock for the past decade, the [osu! World Cup
 
 If you wish to be involved in projects such as Imperial Circus Dead Decadence's [Yuuaku no Inori](https://www.youtube.com/watch?v=d5b9JtprsV8), t+pazolite's [Gumbarlzo](https://www.youtube.com/watch?v=esGtekfbdBg&pp=0gcJCQQLAYcqIYzv), ELFENSJóN's [Hexen Noir](https://www.youtube.com/watch?v=_aiV-u_bMf4), and many others, register your interest via one of the forms below:
 
-**[Click here to apply as a mapper](https://leoflt.com/forms/owc2026-mapping-apps)**
+**[Click here to apply as a mapper](https://leoflt.com/forms/owc2026-mapping-apps)**. Note that this year, we are also looking for mappers who would be interested in helping out with spreads (lower difficulties in mapsets) for osu! originals.
 
 **[Click here to apply as a playtester](https://leoflt.com/forms/owc2026-testing-apps)**
 
