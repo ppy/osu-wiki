@@ -10,7 +10,7 @@ tags:
 
 # Lazer Grand Arena 2026
 
-![LGA 2026 banner](img/lga2026-banner.jpg)
+![LGA 2026 banner](img/lga2026-banner.jpg?2)
 
 The **Lazer Grand Arena 2026** (***LGA 2026***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the third instalment of the Lazer Grand Arena series.
 
