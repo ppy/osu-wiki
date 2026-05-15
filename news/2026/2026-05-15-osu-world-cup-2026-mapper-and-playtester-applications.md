@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu! World Cup 2026 Mapper and Playtester Applications
-date: 2026-05-15 18:00:00 +0000
+date: 2026-05-15 17:30:00 +0000
 series: world_cups
 ---
 
