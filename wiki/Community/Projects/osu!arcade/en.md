@@ -10,11 +10,11 @@ Although it has *arcade* in its name, features typical for arcade machines like 
 ![osu!arcade machine at 2010's Wai-con](img/2010_Wai-con.jpg "osu!arcade machine at 2010's Wai-con")
 :::
 
-For the [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth in January 2010, peppy wanted to create a booth for osu! with the goal to make osu! more known in the local community.[^wai-con] With only a few days to prepare everything before the event, the first prototype for an arcade machine was spontaneously built. The prototype was a slanted box with external speakers at the side which used a modified version of osu!(stable) as the game.[^wai-con-video][^kingking9-profile]
+For the [Wai-con](https://en.wikipedia.org/wiki/Wai-Con) anime convention in Perth in January 2010, peppy wanted to create a booth for osu! with the goal to make osu! more known in the local community.[^wai-con] With only a few days to prepare everything before the event, the first prototype for an arcade machine was spontaneously built. The prototype was a slanted box with external speakers at the side, running a modified version of osu!(stable).[^wai-con-video][^kingking9-profile]
 
 Throughout the 2-day convention, peppy tried to get feedback by watching both beginners as well as veterans of [Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) and [Elite Beat Agents](/wiki/iNiS_games#elite-beat-agents) play the game.
 
-Many convention visitors wanted to try out the arcade machine, so much so that at most times it was hard to see the screen due to the constant stream of people gathered around the cabinet. Overall, the community acclaimed the arcade machine, although some people criticised that playing too much could lead to sore fingers.[^sore-fingers]
+Many convention visitors wanted to try out the arcade machine, so much so that at most times it was hard to see the screen due to the constant stream of people gathered around the cabinet. Overall, the community acclaimed the arcade machine, although some people pointed out that playing too much could lead to sore fingers.[^sore-fingers]
 
 ## Second prototype
 
@@ -28,7 +28,7 @@ The prototype was showcased to the public running [osu!stream](/wiki/osu!stream)
 
 ## Discontinuation
 
-In the following years, the osu!arcade project was abandoned due to a shift in focus on the development of osu!(stable) and later osu!(lazer). Additionally, the prototype was never mass-produced as the costs for creating a new cabinet were too expensive.
+In the following years, the osu!arcade project was abandoned due to a shift in focus on the development of osu!(stable) and later osu!(lazer). Additionally, the prototype was never mass-produced as the costs for creating a new cabinet were too high.
 
 ## References
 
