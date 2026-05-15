@@ -28,6 +28,8 @@ The prototype was showcased to the public running [osu!stream](/wiki/osu!stream)
 
 In August 2012, support for local multiplayer was added to osu!stream specifically for the arcade.[^local-multi] Included with the multiplayer was a custom server and real-time synced cursors, an exclusive feature not present in any other osu! variant.[^multi-arcade]
 
+Later that year, peppy experimented with support for converting [osu!](/wiki/Game_mode/osu!) [beatmaps](/wiki/Beatmap) to osu!stream, so a more diverse collection of maps could be played on the arcade cabinet.[^conversion]
+
 ## Discontinuation
 
 In the following years, the osu!arcade project was discontinued due to a shift in focus on the development of osu!(stable) and later osu!(lazer). Additionally, the prototype was never mass-produced as the costs for creating a new cabinet were too high.[^mass-production]
@@ -49,4 +51,5 @@ In the following years, the osu!arcade project was discontinued due to a shift i
 [^multi-arcade]: [GitHub comment by peppy (2026-05-07)](https://github.com/ppy/osu-wiki/pull/14697/changes#r3201696782)
 [^rflan]: [YouTube video by Dean Herbert (2012-10-17) "osu!arcade @ RFLAN (highlights #1)"](https://www.youtube.com/watch?v=3RZ0e5QxUj8)
 [^oneup]: [YouTube video by Dean Herbert (2012-09-19) "osu!arcade @ OneUp Microcinema"](https://www.youtube.com/watch?v=aIDqzD09Sus)
+[^conversion]: [Blog post by peppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
 [^mass-production]: [YouTube comment by Dean Herbert (2014) in "[osu!stream/osu!arcade] OK Go - This Too Shall Pass"](https://www.youtube.com/watch?v=LQjYwpDnBec&lc=UgyqSDvx465RZdZqSE14AaABAg)
