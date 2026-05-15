@@ -19,7 +19,6 @@ If you wish to be involved in projects such as Imperial Circus Dead Decadence's 
 
 Note that this year, we are also looking for mappers who would be interested in helping out with spreads (lower difficulties in mapsets) for osu! originals.
 
-
 [![Click here to apply as a playtester](/wiki/shared/news/2026-05-15-osu-world-cup-2026-mapper-and-playtester-applications/tester-signup.png)](https://leoflt.com/forms/owc2026-testing-apps)
 
 *Please note: If accepted into either role, you will no longer be eligible to participate as a player in the tournament. Both forms require authentication via your osu! account for identification purposes.*
