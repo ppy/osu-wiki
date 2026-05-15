@@ -5,7 +5,7 @@ date: 2026-05-15 15:00:00 +0000
 series: world_cups
 ---
 
-Ever wanted to contribute with mapping or playtesting for osu!'s biggest tournament? Sign-ups for mappers and playtesters are now open!
+Ever wanted to contribute to osu!'s biggest tournament? Sign-ups for mappers and playtesters are now open!
 
 ![](/wiki/shared/news/banners/OWC_Master_Logo.png)
 
