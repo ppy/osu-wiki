@@ -11,9 +11,9 @@ Our newest Featured Artist was caught floating in the wind.
 
 While **dandeless** physically resides in the United States, her digital waveforms call your eardrums home. **dandeless** has mastered intersplicing genres like drum & bass, jungle, footwork and breakcore with compositions that will (affectionately) haunt listeners for life, and you're about to hear why.
 
-The rhythm game scene is no stranger to **dandeless**. *Phigros*, *Rizline*, *Paradigm: Reboot*, *vivid/stasis*, *Dynamix Universe*, and years worth of *BMS* charts have each been graced by **dandeless**' aural experiments, and osu! is officially being added to that list today!
+The rhythm game scene is no stranger to **dandeless**. *Phigros*, *Rizline*, *Paradigm: Reboot*, *vivid/stasis*, *Dynamix Universe* and years worth of *BMS* charts that have each been graced by **dandeless**' aural experiments. Today, osu! is officially being added to that list!
 
-**6** songs are available to download from [**dandeless**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/544)! Technically speaking, 6 "pre-timed beatmap templates synchronized to different songs" are available to download, but that's a bit of a mouthful.
+**6** songs are available to download from [**dandeless**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/544)! Technically speaking, 6 "pre-timed beatmap templates synchronised to different songs" are available to download, but that's a bit of a mouthful.
 
 Get a glimpse into **dandeless**' mind through these previews:
 
