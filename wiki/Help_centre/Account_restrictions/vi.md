@@ -8,9 +8,9 @@ Khi một tài khoản bị hạn chế, người dùng sẽ không thể tươn
 
 Những chức năng sau sẽ bị tắt đối với tài khoản bị hạn chế:
 
-- khả năng tham dự các cuộc thi chính thức
-- khả năng tham dự và hỗ trợ tổ chức các giải đấu chính thức
-- khả năng tham dự multiplayer
+- khả năng tham gia các cuộc thi chính thức
+- khả năng tham gia và giúp tổ chức các giải đấu và cuộc thi được chính thức
+- khả năng tham gia multiplayer
 - chat trong game
 - nhắn tin riêng tư
 - đăng bài lên diễn đàn hay đăng bình luận
