@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
----
-
 # Đội ngũ hỗ trợ tài khoản 
 
 Đối với một nhóm điều hành các diễn đàn nhỏ nhất định, xem: [Nhóm hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team)
@@ -31,7 +25,7 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
  - Xóa nội dung hồ sơ; 
  - Xóa beatmap; 
  - Xóa bỏ bài đăng diễn đàn và bình luận. 
-- Những hành vi sai trái mà bạn [muốn thừa nhận](/wiki/Reporting_bad_behaviour/Handling_foul_play#tôi-có-thể-làm-gì-nếu-tôi-đã-vi-phạm-quy-tắc?)
+- Những hành vi sai trái mà bạn [muốn thừa nhận](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit)
 - [Mất quyền truy cập vào email](/wiki/Help_centre/Account#sign-in) liên kết với tài khoản osu! của bạn, hoặc khi tài khoản của bạn bị đánh cắp.
 - [Hoàn lại và sửa lỗi chính tả nhỏ](/wiki/Help_centre/Account#name-changes) trong tên người dùng.
 - [Đăng ký tài khoản bot](/wiki/Bot_account).
