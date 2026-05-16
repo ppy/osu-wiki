@@ -11,7 +11,7 @@ tags:
 
 Bài viết này liệt kê các bài hát được sáng tác dành riêng (hoặc ra mắt lần đầu tiên) cho osu! hoặc các sự kiện khác liên quan đến osu! như các giải đấu, cuộc thi và các thông báo [Nghệ sĩ nổi bật](/wiki/People/Featured_Artists).
 
-Lưu ý rằng một số bài hát trong danh sách này chưa được cấp bản quyền chính thức cũng như không có trong [Featured Artist library](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1).
+Lưu ý rằng một số bài hát trong danh sách này chưa được cấp bản quyền chính thức cũng như không có trong [Thư viện Nghệ sĩ nổi bật](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1).
 
 Các bài hát được cấp bản quyền chính thức được gọi là "osu! originals" (dịch thô: "Bản gốc của osu!"), và được phân biệt bằng nhãn ![GỐC](/wiki/shared/link/original-pill.png "osu! original") trên trang riêng của nghệ sĩ (![osu! original](/wiki/shared/link/original.png "osu! original") trong bài viết này). Chúng đã được cấp phép để sử dụng không độc quyền trong osu! dựa trên [Chính sách cấp phép âm nhạc của osu!](/wiki/Legal/Music_licensing).
 
