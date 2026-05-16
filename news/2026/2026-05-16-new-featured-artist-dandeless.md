@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: dandeless"
-date: 2026-05-16 20:00:00 +0000
+date: 2026-05-16 20:30:00 +0000
 series: featured_artists
 ---
 
