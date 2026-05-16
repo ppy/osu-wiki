@@ -113,8 +113,25 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | 24d | RO16 | [fedoragoose](https://osu.ppy.sh/users/2323131) ::{ flag=AT }:: | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | [May 17 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T200000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) |
 | 19a | RO16 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [May 17 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T210000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 | 19c | RO16 | [Zylice](https://osu.ppy.sh/users/5033077) ::{ flag=CA }:: | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [May 17 (Sun) 21:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T210000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| SC | RO16 | week 2 mappool showcase |  | [May 17 (Sun) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260517T220000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
+
+### Week 1
+
+Friday, 15 May 2026:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| RO32 | **[Ivaxa](https://osu.ppy.sh/users/15406985)** ::{ flag=PL }:: | **3** | 1 | ::{ flag=NL }:: [John ethken](https://osu.ppy.sh/users/641155) | [#1](https://osu.ppy.sh/multiplayer/rooms/2896076/events) |  |
+| RO32 | [maxim](https://osu.ppy.sh/users/9459674) ::{ flag=RU }:: | 0 | **3** | ::{ flag=PH }:: **[enri](https://osu.ppy.sh/users/8640970)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2891924/events) |  |
+
+Saturday, 16 May 2026:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| RO32 | **[TTv_UFO](https://osu.ppy.sh/users/14676719)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [#1](https://osu.ppy.sh/multiplayer/rooms/2899945/events) |  |
+| RO32 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | 0 | 0 | ::{ flag=US }:: [BlueChinchompa](https://osu.ppy.sh/users/14494717) | [#1](https://osu.ppy.sh/multiplayer/rooms/2900161/events) |  |
 
 ### Qualifiers
 
