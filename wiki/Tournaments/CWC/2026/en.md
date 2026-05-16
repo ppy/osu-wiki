@@ -53,10 +53,9 @@ The osu!catch World Cup 2026 is run by various community members.
 
 ## Links
 
-[![Click here to register for CWC 2026](img/register-wiki.png)](https://osu.ppy.sh/community/tournaments/55)
-
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2201978)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/55)
 
 ## Ruleset
 

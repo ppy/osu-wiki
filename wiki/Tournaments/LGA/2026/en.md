@@ -412,4 +412,3 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
-[^stream-pending]: Either osulive or osulive_2, depending on stream availability at match time
