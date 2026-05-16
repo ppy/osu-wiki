@@ -74,7 +74,7 @@ Los archivos de vídeo deben colocarse en `<tu-torneo>/Videos` y se requieren no
 | Escena | Archivo(s) |
 | :-- | :-- |
 | Calendario | `schedule` |
-| Fase de llaves del torneo | `ladder` |
+| Bracket | `ladder` |
 | Introducción de los equipos | `teamintro` |
 | Clasificación de grupos | `seeding` |
 | Map Pool | `mappool` |
