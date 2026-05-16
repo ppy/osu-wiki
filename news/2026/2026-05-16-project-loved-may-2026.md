@@ -14,7 +14,6 @@ Welcome back to Project Loved, yet another month! If it's not "back", but "for t
 Before getting to the picks, we do have some team-related news for you:
 
 - From the fruit-catching osu!catch captains, both [5ean](https://osu.ppy.sh/users/76200029) and [Dahcreeper](https://osu.ppy.sh/users/6926006) have decided to retire as captains, please send your thanks to them for picking many great maps over the last 3 years!
-
 - And from the key-smashing osu!mania captains, our friend [Maxus](https://osu.ppy.sh/users/4335785) has also stepped down. Please thank him for his dedicated contributions, not only to Loved, but in a truly astounding array of modding and mapping-related endeavours!
 
 Related with the above, **both the osu!catch and osu!mania captains have decided to open applications** to get some fresh faces in the team. Please note the osu!mania team are looking for **7k-specific** captains! If you think you'd be a good fit for that, click one of the boxes and fill one of the forms below:
@@ -246,7 +245,7 @@ Play this masterpiece and vote "yes!" to help this map get to Loved status. ❤�
 180 BPM, 2:32 | 6.35★\
 *description written by [nevqr](https://osu.ppy.sh/users/14269506)*
 
-What happens when 5 seasoned Taiwanese mappers collab on a [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) song? Uhhhhh, idk, the map is [__PLACEHOLDER_0__unknown...__PLACEHOLDER_1__](https://osu.ppy.sh/beatmapsets/2441332#taiko/5326296)
+What happens when 5 seasoned Taiwanese mappers collab on a [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) song? Uhhhhh, idk, the map is *[unknown...](https://osu.ppy.sh/beatmapsets/2441332#taiko/5326296)*
 
 Originating from the [Taiko Mapping World Cup 2025](/wiki/Contests/TMWC/2025) and winning the first round, [Unknown Amnasia](https://osu.ppy.sh/beatmapsets/2441332#taiko/5326296) has since found its place in non-mapping tournaments too! Whether you've played in [Renaissance Cup](https://osu.ppy.sh/community/forums/topics/2162238) or [TWC 2026](/wiki/Tournaments/TWC/2026), you'll know that FM2 is what the map's all about.
 
@@ -396,13 +395,13 @@ If this sounds like your kind of experience, make sure to cast your vote and hel
 
 Excuse me — is this a good technical map?
 
-Maps like [__PLACEHOLDER_0__#2wise4u__PLACEHOLDER_1__](https://osu.ppy.sh/beatmapsets/1629611#mania/5371293) and [__PLACEHOLDER_2__Zia's 4K Stream Training Pack__PLACEHOLDER_3__](https://osu.ppy.sh/beatmapsets/1561185#mania/3188408) have made [Zia](https://osu.ppy.sh/users/7979303) well-known as a stream-focused mapper, but this is a particularly well-crafted technical map from them.
+Maps like *[#2wise4u](https://osu.ppy.sh/beatmapsets/1629611#mania/5371293)* and *[Zia's 4K Stream Training Pack](https://osu.ppy.sh/beatmapsets/1561185#mania/3188408)* have made [Zia](https://osu.ppy.sh/users/7979303) well-known as a stream-focused mapper, but this is a particularly well-crafted technical map from them.
 
 Technical maps often focus on a single dominant idea, such as minijack + burst or trill + grace, which can make the overall experience feel somewhat one-dimensional. In contrast, this map delivers a more varied and layered structure, featuring light handstream patterns that transition into low-density jack with trilly technical elements, followed by grace-based burst sections.
 
 After the mid-map break, the general structure mirrors the first half, but what stands out is the strong control over pattern density throughout. Combined with a relatively low OD of 6.5 for a rice map, the patterns feel smooth and satisfying to play.
 
-If you're looking for a technical map that isn't overly punishing and instead offers a more "pure fun" experience, consider giving your vote to [__PLACEHOLDER_4__Excuse me, RIP (3R2 Remix)__PLACEHOLDER_5__](https://osu.ppy.sh/beatmapsets/1502865#mania/3079061) to help it reach Loved !!
+If you're looking for a technical map that isn't overly punishing and instead offers a more "pure fun" experience, consider giving your vote to *[Excuse me, RIP (3R2 Remix)](https://osu.ppy.sh/beatmapsets/1502865#mania/3079061)* to help it reach Loved !!
 
 [![](/wiki/shared/news/2026-05-16-project-loved-may-2026/433249.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
