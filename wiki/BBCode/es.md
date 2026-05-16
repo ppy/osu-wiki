@@ -27,7 +27,7 @@ Las etiquetas de alineación se usan para controlar la posición horizontal del 
 
 La etiqueta `[left]` se usa para alinear el contenido a la izquierda. De forma predeterminada, todo el contenido está alineado a la izquierda.
 
-### Centrar
+### Centro
 
 ```
 [centre]texto[/centre]
