@@ -47,4 +47,4 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 
 ## [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
-[Yêu cầu hỗ trợ chính thức cho các giải đấu](/wiki/Tournaments/Official_support) và thắc mắc chung về các giải đấu trong sự tư vấn với [Ủy ban Giải đấu](/wiki/People/Tournament_Committee).
+[Yêu cầu hỗ trợ chính thức cho các giải đấu](/wiki/Tournaments/Official_support) và giải đáp thắc mắc chung về các giải đấu trong sự tư vấn với [Ủy ban Giải đấu](/wiki/People/Tournament_Committee).
