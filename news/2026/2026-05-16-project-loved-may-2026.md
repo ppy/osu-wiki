@@ -42,13 +42,13 @@ And now here are the May 2026 picks, as always remember you can test them out in
 
 ## osu!
 
-The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/15173952), [Bernkastel](https://osu.ppy.sh/users/5154946), [Chaoslitz](https://osu.ppy.sh/users/3621552), [chiv](https://osu.ppy.sh/users/6701656), [MALISZEWSKI](https://osu.ppy.sh/users/12408961), [momoyo](https://osu.ppy.sh/users/12469536), [Petal](https://osu.ppy.sh/users/7354729), [plambob](https://osu.ppy.sh/users/10077431), [Riot](https://osu.ppy.sh/users/4256461), [seros](https://osu.ppy.sh/users/10562853), and [Wispy](https://osu.ppy.sh/users/11106929)!
+The osu! Loved candidates were chosen by [BATBALL](https://osu.ppy.sh/users/15173952), [Bernkastel](https://osu.ppy.sh/users/5154946), [Chaoslitz](https://osu.ppy.sh/users/3621552), [chiv](https://osu.ppy.sh/users/6701656), [MALISZEWSKI](https://osu.ppy.sh/users/12408961), [momoyo](https://osu.ppy.sh/users/12469536), [Petal](https://osu.ppy.sh/users/7354729), [Riot](https://osu.ppy.sh/users/4256461), [seros](https://osu.ppy.sh/users/10562853), and [Wispy](https://osu.ppy.sh/users/11106929)!
 
 **[Click here to download all of this round's osu! picks!](https://packs.ppy.sh/LR92%20-%20Project%20Loved:%20May%202026%20(osu!).zip)**
 
 <div align="center">
   <video width="95%" controls>
-    <source src="https://assets.ppy.sh/project-loved/2026/2026-05-osuHD-web.mp4" type="video/mp4" preload="none">
+    <source src="https://assets.ppy.sh/project-loved/2026/2026-05-osuHD-2-web.mp4" type="video/mp4" preload="none">
   </video>
 </div>
 
@@ -141,22 +141,6 @@ Hello chat,
 Let's give a warm welcome to another [BarkingMadDog](https://osu.ppy.sh/users/3475189) masterpiece and another Touhou banger — [BUTAOTOME - Yokubou no Kozuchi](https://osu.ppy.sh/beatmapsets/1065419#osu/2230996). This map was made for the [osu! World Cup 2019](/wiki/Tournaments/OWC/2019#round-of-16) as a Ro16 NM1. For those of you that had been around since, I'm sure this map is something that makes you nostalgic even just a little bit. Don't be fooled by its nature as a jump map, you might also need to make use of the other key in certain sections as well!
 
 Now, let's immortalize this map by voting YES and giving it a deserving spot in Loved!
-
-[![](/wiki/shared/news/2026-05-16-project-loved-may-2026/73348.jpg)](https://osu.ppy.sh/community/forums/topics/)
-
-[MillhioreF - Waltz o' the Irish](https://osu.ppy.sh/beatmapsets/73348#osu) by [MillhioreF](https://osu.ppy.sh/users/941094)\
-1 – 60 BPM, 1:04 | 0.00★, 0.00★, 0.14★\
-*description written by [plambob](https://osu.ppy.sh/users/10077431)*
-
-This month marks the [5-year anniversary](https://www.reddit.com/r/osugame/comments/ne3e5t/millhioref_waltz_o_the_irish_is_now_no_longer/) of this map being removed from the Loved category, and I think now would be the perfect time to bring this masterpiece back.
-
-Please welcome [MillhioreF](https://osu.ppy.sh/users/941094)'s [Waltz o' the Irish](https://osu.ppy.sh/beatmapsets/73348#osu) to May's Project Loved voting.
-
-This map's Most Crazy? difficulty has had a particular alteration for it to be once again deemed Loved-friendly, the change being the removal of the 960 BPM deathstream in the intro, with buzzsliders taking its place instead. The rest, however, remains unchanged and just as Crazy? as ever.
-
-Additionally, the slow slider o' the irish difficulty will be making a return. Despite its laughable star rating, this may be one of the most difficult maps to pass due to the sheer time sink that this map requires, so be sure to prepare accordingly if you're planning to tackle this ultra-marathon.
-
-Let's give this mapset a warm welcome back into the Loved category. Vote Yes!
 
 [![](/wiki/shared/news/2026-05-16-project-loved-may-2026/1665501.jpg)](https://osu.ppy.sh/community/forums/topics/)
 
