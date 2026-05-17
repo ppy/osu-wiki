@@ -57,6 +57,57 @@ The osu!catch World Cup 2026 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2201978)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/55)
 
+## Participants
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Story](https://osu.ppy.sh/users/8172283)** |
+| ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** |
+| ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)** |
+| ::{ flag=BR }:: | **Brazil** | **[soapsoup](https://osu.ppy.sh/users/16388591)** |
+| ::{ flag=CA }:: | **Canada** | **[sularis](https://osu.ppy.sh/users/14571181)** |
+| ::{ flag=CL }:: | **Chile** | **[Lechu FAQ 35P](https://osu.ppy.sh/users/2872000)** |
+| ::{ flag=CN }:: | **China** | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** |
+| ::{ flag=CO }:: | **Colombia** | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)** |
+| ::{ flag=FI }:: | **Finland** | **[Veeti](https://osu.ppy.sh/users/12863098)** |
+| ::{ flag=FR }:: | **France** | **[Electr0o](https://osu.ppy.sh/users/9484428)** |
+| ::{ flag=DE }:: | **Germany** | **[Marvmallow](https://osu.ppy.sh/users/8403032)** |
+| ::{ flag=GR }:: | **Greece** | **[\[Romanos\]](https://osu.ppy.sh/users/4682813)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[autofanboy](https://osu.ppy.sh/users/636114)** |
+| ::{ flag=IS }:: | **Iceland** | **[birkir](https://osu.ppy.sh/users/4348967)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Zvenx](https://osu.ppy.sh/users/14613788)** |
+| ::{ flag=IL }:: | **Israel** | **[gal1](https://osu.ppy.sh/users/9424481)** |
+| ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[insaneskills](https://osu.ppy.sh/users/7699172)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Moeruattack](https://osu.ppy.sh/users/4480237)** |
+| ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Roasted Chicken](https://osu.ppy.sh/users/9461160)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Starwide](https://osu.ppy.sh/users/9926856)** |
+| ::{ flag=NO }:: | **Norway** | **[CyCeph](https://osu.ppy.sh/users/4586304)** |
+| ::{ flag=PH }:: | **Philippines** | **[-Isla-](https://osu.ppy.sh/users/17745759)** |
+| ::{ flag=PL }:: | **Poland** | **[Phob](https://osu.ppy.sh/users/6069462)** |
+| ::{ flag=PT }:: | **Portugal** | **[AfonsoMPt](https://osu.ppy.sh/users/13294871)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[Nerris](https://osu.ppy.sh/users/11202866)** |
+| ::{ flag=RS }:: | **Serbia** | **[jenki](https://osu.ppy.sh/users/27081472)** |
+| ::{ flag=SG }:: | **Singapore** | **[Ekseff](https://osu.ppy.sh/users/13966422)** |
+| ::{ flag=SK }:: | **Slovakia** | **[micqaal](https://osu.ppy.sh/users/20512411)** |
+| ::{ flag=KR }:: | **South Korea** | **[qwhj79](https://osu.ppy.sh/users/7547506)** |
+| ::{ flag=ES }:: | **Spain** | **[Sprint](https://osu.ppy.sh/users/13845399)** |
+| ::{ flag=SE }:: | **Sweden** | **[amni sd](https://osu.ppy.sh/users/16669841)** |
+| ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)** |
+| ::{ flag=TW }:: | **Taiwan** | **[eauikk](https://osu.ppy.sh/users/1177233)** |
+| ::{ flag=TH }:: | **Thailand** | **[Azuria](https://osu.ppy.sh/users/16102533)** |
+| ::{ flag=TR }:: | **Türkiye** | **[shimu](https://osu.ppy.sh/users/14318796)** |
+| ::{ flag=UA }:: | **Ukraine** | **[MegaMix](https://osu.ppy.sh/users/18152711)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)** |
+| ::{ flag=US }:: | **United States** | **[trooperr](https://osu.ppy.sh/users/32028459)** |
+| ::{ flag=VN }:: | **Vietnam** | **[NamSPro](https://osu.ppy.sh/users/11387006)** |
+
+Captains are listed in **bold**. Individual team compositions subject to change until **23 May, 23:59 UTC**. This list was last updated on **17 May 2026**.
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
+
 ## Ruleset
 
 ### Tournament rules
