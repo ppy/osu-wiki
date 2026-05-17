@@ -99,7 +99,7 @@ The first came right at the start: as the players loaded in, it took everyone a 
 
 After the brush with death that was their match with Chile, South Korea dusted themselves off, rested up, and prepared for championship Sunday. What waited for them can take many names: some call it TWC's bonus round, some call it the final boss, some have compared it to arcade game kill–screens. We'll just call it a Grand Finals match against Japan.
 
-As expected, the squad that hasn't lost since 2013 got off to a solid start. Three straight comfortable wins on [FM1](https://osu.ppy.sh/beatmapsets/2541463#taiko/5627118), [HD1](https://osu.ppy.sh/beatmapsets/2541452#taiko/5627095), [FM3](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997) (with an unreal 99.6% HDHR FC from sraim!) and a less comfortable win on NM2 brought the defending champions to a 4–0 lead. The tournament seemed to be over already, and the natural order of osu!taiko was set to continue.
+As expected, the squad that hasn't lost since 2013 got off to a solid start. Three straight comfortable wins on [FM1](https://osu.ppy.sh/beatmapsets/2541463#taiko/5627118), [HD1](https://osu.ppy.sh/beatmapsets/2541452#taiko/5627095), [FM3](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997) (with an unreal 99.6% HDHR FC from [sraim](https://osu.ppy.sh/users/29485001/taiko)!) and a less comfortable win on NM2 brought the defending champions to a 4–0 lead. The tournament seemed to be over already, and the natural order of osu!taiko was set to continue.
 
 Something seemed to change in Korea, though. A double FC from ::{ flag=KR }:: [Peaceful](https://osu.ppy.sh/users/165027/taiko) and ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349/taiko) on [HD2](https://osu.ppy.sh/beatmapsets/2541457#taiko/5627104) got them on the board, but just as quickly, Japan whipped out a double FC on DT1, with an astonishing 99.03% from mechanics superstar ::{ flag=JP }:: [_Kan2](https://osu.ppy.sh/users/7160196), and claimed another break point on [NM4](https://osu.ppy.sh/beatmapsets/2541555#taiko/5627367) to secure five match points. All hope seemed lost again, as it tends to be when your opponent invented the game you're playing.
 
@@ -233,7 +233,7 @@ A lot of players did a lot of playing during TWC 2026, and some left very impres
 | #1 | ::{ flag=CL }:: ulko | Grand Finals | NM5 | 908 pp |
 | #2 | ::{ flag=JP }:: sraim | Grand Finals | FM3 | 868 pp |
 | #3 | ::{ flag=BR }:: miwoo | Finals | NM5 | 832 pp |
-| #4 | ::{ flag=SK }:: Peaceful | Grand Finals | FM3 | 814 pp |
+| #4 | ::{ flag=KR }:: Peaceful | Grand Finals | FM3 | 814 pp |
 | #5 | ::{ flag=BR }:: Skid | Finals | NM5 | 809 pp |
 
 ### Grand Finals closest maps
