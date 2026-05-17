@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "osu!taiko World Cup 2026 Concludes"
+title: osu!taiko World Cup 2026 Concludes
 date: 2026-05-18 18:00:00 +0000
 series: world_cups
 ---
