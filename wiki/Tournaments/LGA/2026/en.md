@@ -85,59 +85,6 @@ Saturday, 16 May 2026:
 | RO32 | **[tekkito](https://osu.ppy.sh/users/7075211)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [Rykic](https://osu.ppy.sh/users/12667143) | [#1](https://osu.ppy.sh/multiplayer/rooms/2909440/events) | [#1](https://www.twitch.tv/videos/2773672022) |
 | RO32 | **[alfiu](https://osu.ppy.sh/users/17724014)** ::{ flag=CL }:: | **3** | 2 | ::{ flag=US }:: [RyooYamada](https://osu.ppy.sh/users/9896317) | [#1](https://osu.ppy.sh/multiplayer/rooms/2910228/events) | [#1](https://www.twitch.tv/videos/2773757014) |
 | RO32 | **[Wanderio](https://osu.ppy.sh/users/16529875)** ::{ flag=CA }:: | **3** | 2 | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [#1](https://osu.ppy.sh/multiplayer/rooms/2911011/events) | [#1](https://www.twitch.tv/videos/2773778185) |
-## Match results
-
-### Week 1
-
-Saturday, 16 May 2026:
-
-| Stage | High seed |  |  | Low seed | Match link | VOD link |
-| :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| RO32 | **[TTv_UFO](https://osu.ppy.sh/users/14676719)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [#1](https://osu.ppy.sh/multiplayer/rooms/2899945/events) | [#1](https://www.twitch.tv/videos/2773160790) |
-| RO32 | **[ASecretBox](https://osu.ppy.sh/users/7341183)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [BlueChinchompa](https://osu.ppy.sh/users/14494717) | [#1](https://osu.ppy.sh/multiplayer/rooms/2900161/events) | [#1](https://www.twitch.tv/videos/2773184727) |
-| RO32 | **[runnysunny](https://osu.ppy.sh/users/15339747)** ::{ flag=DE }:: | **3** | 0 | ::{ flag=AU }:: [Drox](https://osu.ppy.sh/users/4309566) | [#1](https://osu.ppy.sh/multiplayer/rooms/2902479/events) | [#1](https://www.twitch.tv/videos/2773491612) |
-| RO32 | **[aknzx](https://osu.ppy.sh/users/9938943)** ::{ flag=AU }:: | **3** | 1 | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | [#1](https://osu.ppy.sh/multiplayer/rooms/2902999/events) | [#1](https://www.twitch.tv/videos/2773491610) |
-| RO32 | **[NeliNyan](https://osu.ppy.sh/users/2511839)** ::{ flag=KR }:: | **3** | 0 | ::{ flag=FR }:: [MyzeJD](https://osu.ppy.sh/users/3257847) | [#1](https://osu.ppy.sh/multiplayer/rooms/2903501/events) | [#1](https://www.twitch.tv/videos/2773491611) |
-| RO32 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) | [#1](https://osu.ppy.sh/multiplayer/rooms/2904096/events) | [#1](https://www.twitch.tv/videos/2773491613) |
-| RO16 | [ASecretBox](https://osu.ppy.sh/users/7341183) ::{ flag=AU }:: | FF | **3** | ::{ flag=PH }:: **[enri](https://osu.ppy.sh/users/8640970)** |  |  |
-| RO32 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [Crestive](https://osu.ppy.sh/users/10909049) | [#1](https://osu.ppy.sh/multiplayer/rooms/2906195/events) | [#1](https://www.twitch.tv/videos/2773493003) |
-| RO32 | **[sorinica17](https://osu.ppy.sh/users/15095811)** ::{ flag=RO }:: | **3** | 0 | ::{ flag=US }:: [TrickyPugster](https://osu.ppy.sh/users/8082362) | [#1](https://osu.ppy.sh/multiplayer/rooms/2907857/events) | [#1](https://www.twitch.tv/videos/2773580910) |
-| RO32 | **[Zylice](https://osu.ppy.sh/users/5033077)** ::{ flag=CA }:: | **3** | 0 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) | [#1](https://osu.ppy.sh/multiplayer/rooms/2908616/events) | [#1](https://www.twitch.tv/videos/2773639882) |
-| RO32 | [Riot](https://osu.ppy.sh/users/4256461) ::{ flag=MX }:: | 1 | **3** | ::{ flag=AT }:: **[fedoragoose](https://osu.ppy.sh/users/2323131)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2908588/events) | [#1](https://www.twitch.tv/videos/2773635818) |
-| RO32 | **[tekkito](https://osu.ppy.sh/users/7075211)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [Rykic](https://osu.ppy.sh/users/12667143) | [#1](https://osu.ppy.sh/multiplayer/rooms/2909440/events) | [#1](https://www.twitch.tv/videos/2773672022) |
-| RO32 | **[alfiu](https://osu.ppy.sh/users/17724014)** ::{ flag=CL }:: | **3** | 2 | ::{ flag=US }:: [RyooYamada](https://osu.ppy.sh/users/9896317) | [#1](https://osu.ppy.sh/multiplayer/rooms/2910228/events) | [#1](https://www.twitch.tv/videos/2773757014) |
-| RO32 | **[Wanderio](https://osu.ppy.sh/users/16529875)** ::{ flag=CA }:: | **3** | 2 | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [#1](https://osu.ppy.sh/multiplayer/rooms/2911011/events) | [#1](https://www.twitch.tv/videos/2773778185) |
-
-Sunday, 17 May 2026:
-
-| Stage | High seed |  |  | Low seed | Match link | VOD link |
-| :-- | --: | :-: | :-: | :-- | :-- | :-- |
-| RO16 | **[TTv_UFO](https://osu.ppy.sh/users/14676719)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) |  |
-| RO16 | **[BoshyMan741](https://osu.ppy.sh/users/4830687)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) |  |
-| RO16 | **[Wanderio](https://osu.ppy.sh/users/16529875)** ::{ flag=CA }:: | **3** | 0 | ::{ flag=US }:: [Crestive](https://osu.ppy.sh/users/10909049) | [#1](https://osu.ppy.sh/multiplayer/rooms/2920389/events) |  |
-| RO16 | **[Flameztear](https://osu.ppy.sh/users/13207763)** ::{ flag=US }:: | **3** | 0 | ::{ flag=US }:: [Crestive](https://osu.ppy.sh/users/10909049) | [#1](https://osu.ppy.sh/multiplayer/rooms/2920389/events) |  |
-| RO16 | [Drox](https://osu.ppy.sh/users/4309566) ::{ flag=AU }:: | 1 | **3** | ::{ flag=US }:: **[Rykic](https://osu.ppy.sh/users/12667143)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2924114/events) |  |
-| RO16 | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | 1 | **3** | ::{ flag=AU }:: **[Drox](https://osu.ppy.sh/users/4309566)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2924114/events) |  |
-| RO16 | **[aknzx](https://osu.ppy.sh/users/9938943)** ::{ flag=AU }:: | **3** | 1 | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | [#1](https://osu.ppy.sh/multiplayer/rooms/2918915/events) |  |
-| RO16 | [NeliNyan](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | FF | **3** | ::{ flag=PL }:: **[Ivaxa](https://osu.ppy.sh/users/15406985)** |  |  |
-| RO16 | [NeliNyan](https://osu.ppy.sh/users/2511839) ::{ flag=KR }:: | FF | **3** | ::{ flag=PL }:: **[Ivaxa](https://osu.ppy.sh/users/15406985)** |  |  |
-| RO16 | **[aknzx](https://osu.ppy.sh/users/9938943)** ::{ flag=AU }:: | **3** | 1 | ::{ flag=AT }:: [fedoragoose](https://osu.ppy.sh/users/2323131) | [#1](https://osu.ppy.sh/multiplayer/rooms/2918915/events) | [#1](https://www.twitch.tv/videos/2774651351) |
-| RO32 | [Drxvmik](https://osu.ppy.sh/users/11383358) ::{ flag=SK }:: | 1 | **3** | ::{ flag=US }:: **[xymbii](https://osu.ppy.sh/users/10809844)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2919912/events) | [#1](https://www.twitch.tv/videos/2774659662) |
-| RO16 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875) | [#1](https://osu.ppy.sh/multiplayer/rooms/2920389/events) | [#1](https://www.twitch.tv/videos/2774658225) |
-| RO16 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=CA }:: [Wanderio](https://osu.ppy.sh/users/16529875) | [#1](https://osu.ppy.sh/multiplayer/rooms/2920389/events) | [#1](https://www.twitch.tv/videos/2774658225) |
-| RO16 | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=US }:: [Flameztear](https://osu.ppy.sh/users/13207763) | [#1](https://osu.ppy.sh/multiplayer/rooms/2920389/events) |  |
-| RO16 | **[Riot](https://osu.ppy.sh/users/4256461)** ::{ flag=MX }:: | **3** | 1 | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | [#1](https://osu.ppy.sh/multiplayer/rooms/2918915/events) |  |
-| RO16 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=SK }:: [Drxvmik](https://osu.ppy.sh/users/11383358) | [#1](https://osu.ppy.sh/multiplayer/rooms/2921002/events) |  |
-| RO16 | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 0 | ::{ flag=US }:: [xymbii](https://osu.ppy.sh/users/10809844) | [#1](https://osu.ppy.sh/multiplayer/rooms/2921002/events) | [#1](https://www.twitch.tv/videos/2774658226) |
-| RO16 | **[Drxvmik](https://osu.ppy.sh/users/11383358)** ::{ flag=SK }:: | **3** | 0 | ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) | [#1](https://osu.ppy.sh/multiplayer/rooms/2921002/events) |  |
-| RO16 | **[xymbii](https://osu.ppy.sh/users/10809844)** ::{ flag=US }:: | **3** | 0 | ::{ flag=FI }:: [AllyrD](https://osu.ppy.sh/users/9561644) | [#1](https://osu.ppy.sh/multiplayer/rooms/2921002/events) |  |
-| RO16 | [runnysunny](https://osu.ppy.sh/users/15339747) ::{ flag=DE }:: | 1 | **3** | ::{ flag=US }:: **[Rykic](https://osu.ppy.sh/users/12667143)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2924114/events) |  |
-| RO16 | **[alfiu](https://osu.ppy.sh/users/17724014)** ::{ flag=CL }:: | **3** | FF | ::{ flag=RO }:: [sorinica17](https://osu.ppy.sh/users/15095811) |  |  |
-| RO16 | [tekkito](https://osu.ppy.sh/users/7075211) ::{ flag=US }:: | 1 | **3** | ::{ flag=DE }:: **[runnysunny](https://osu.ppy.sh/users/15339747)** | [#1](https://osu.ppy.sh/multiplayer/rooms/2924114/events) | [#1](https://www.twitch.tv/videos/2774662970) |
-| RO16 | **[fedoragoose](https://osu.ppy.sh/users/2323131)** ::{ flag=AT }:: | **3** | 1 | ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738) | [#1](https://osu.ppy.sh/multiplayer/rooms/2918915/events) |  |
-| RO16 | **[TTv_UFO](https://osu.ppy.sh/users/14676719)** ::{ flag=US }:: | **3** | 0 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) | [#1](https://www.twitch.tv/videos/2774662966) |
-| RO16 | **[TTv_UFO](https://osu.ppy.sh/users/14676719)** ::{ flag=US }:: | **3** | 0 | ::{ flag=CA }:: [Zylice](https://osu.ppy.sh/users/5033077) | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) | [#1](https://www.twitch.tv/videos/2774662966) |
-| RO16 | **[Zylice](https://osu.ppy.sh/users/5033077)** ::{ flag=CA }:: | **3** | 0 | ::{ flag=US }:: [gilgamesh815](https://osu.ppy.sh/users/14040810) | [#1](https://osu.ppy.sh/multiplayer/rooms/2924723/events) |  |
 
 Sunday, 17 May 2026:
 
