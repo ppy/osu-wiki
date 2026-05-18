@@ -2,8 +2,7 @@
 tags:
   - hit objects
   - objetos de golpeo
-outdated_translation: true
-outdated_since: ae529c3d01b7067006ddbf21f2e9eadf2bd19192
+  - objetos
 ---
 
 # Objetos
@@ -13,8 +12,8 @@ Los *objetos* son elementos donde los jugadores pueden interactuar jugando un [b
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
 | [Círculos](/wiki/Gameplay/Hit_object/Hit_circle) | [Don y Kat](/wiki/Gameplay/Hit_object/Hit) | [Frutas](/wiki/Gameplay/Hit_object/Fruit) | Notas |
-| [Sliders](/wiki/Gameplay/Hit_object/Slider) | Redobles de tambor | [Corriente de jugo](/wiki/Gameplay/Hit_object/Juice_stream) | Notas largas |
-| [Spinners](/wiki/Gameplay/Hit_object/Spinner) | Dendens | [Plátanos](/wiki/Gameplay/Hit_object/Banana) | x |
+| [Sliders](/wiki/Gameplay/Hit_object/Slider) | [Redobles de tambor](/wiki/Gameplay/Hit_object/Drumroll) | [Corriente de jugo](/wiki/Gameplay/Hit_object/Juice_stream) | Notas largas |
+| [Spinners](/wiki/Gameplay/Hit_object/Spinner) | [Swells](/wiki/Gameplay/Hit_object/Swell) | [Plátanos](/wiki/Gameplay/Hit_object/Banana) | x |
 | x | x | [Hiperfrutas](/wiki/Gameplay/Hit_object/Hyperfruit) | x |
 
 Desde el punto de vista de la programación, las notas largas en osu!mania no son el equivalente a los sliders de osu!, aunque han sido agrupados juntos para la simplificación de la tabla. Otros elementos con los que no se interactúan durante el juego, como la barra de salud o las estrellas del kiai, se consideran mejoras del juego o parte de la interfaz del usuario.
