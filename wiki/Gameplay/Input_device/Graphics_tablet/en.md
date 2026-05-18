@@ -13,6 +13,7 @@ A **graphics tablet**, or just *tablet*, is an input device that is originally i
 ![](img/os-tabletpc-option.jpg "OS TabletPC support in osu!")
 
 <!-- TODO: mention tap-x as a way of clicking with a tablet -->
+
 <!-- TODO: add osu!(lazer) tablet settings, including high precision mouse -->
 
 ## OpenTabletDriver
