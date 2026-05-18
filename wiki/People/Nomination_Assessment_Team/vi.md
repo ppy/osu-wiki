@@ -1,10 +1,3 @@
----
-tags:
-  - NAT
-outdated_translation: true
-outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
----
-
 # Đội ngũ Đánh giá Đề cử
 
 *Xem thêm: [Đánh giá Đề cử viên](Evaluations), [Đánh giá mức độ nghiêm trọng](SEV_rating)*
@@ -147,7 +140,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng Nga |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng pháp, Tây Ban Nha |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Trung Quốc |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=RO }:: [bms](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Tiếng Đức |
 
@@ -156,9 +149,9 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tiếng Trung Quốc |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Tiếng Trung Quốc |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng Ả Rập, Tiếng đức |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Tiếng Bồ Đào Nha |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Một ít tiếng Đức |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Tiếng Đức, một chút tiếng Pháp |
 
 #### osu!catch
@@ -167,7 +160,6 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Tiếng Đức |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Hàn Quốc |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Hàn Quốc |
 
 #### osu!mania
