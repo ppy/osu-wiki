@@ -212,9 +212,11 @@ Some examples of beatmaps affected by this change:
 
 ### Nerf linear spacings
 
-Beatmaps such as [CRIM3S - Stay Ugly [PHOB;S jiov\erdddd (DELUGE)(ddose]](https://osu.ppy.sh/beatmapsets/2485027#fruits/5454338) have abused the fact that linear spaced patterns with no variability don't require additional inputs and yield a lot of difficulty.
+Beatmaps such as [CRIM3S - Stay Ugly [PHOB;S jiov\erdddd (DELUGE)(ddose]](https://osu.ppy.sh/beatmapsets/2485027#fruits/5454338) abuse the fact that linear spaced patterns with no variability don't require additional input.
 
-A [change](https://github.com/ppy/osu/pull/37287) by [Kitsunivy](https://osu.ppy.sh/users/7055384) was made in order to ensure these patterns are penalised due to them not requiring any additional inputs.
+A [change](https://github.com/ppy/osu/pull/37287) by [Kitsunivy](https://osu.ppy.sh/users/7055384) was made in order to ensure linear patterns which don't require additional inputs are punished accordingly.
+
+[CRIM3S - Stay Ugly [PHOB;S jiov\erdddd (DELUGE)(ddose]](https://osu.ppy.sh/beatmapsets/2485027#fruits/5454338) +DTHR is nerfed from 12.33* to 9.25* as a result of this change.
 
 ---
 
