@@ -56,6 +56,38 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)
 - [Challonge bracket](https://challonge.com/LGA2026)
 
+## Match schedule: Week 2
+
+### Saturday, 23 May 2026
+
+| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
+| :-: | :-- | --: | :-- | :-- | :-: | :-: |
+| 46 | QF | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 23 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T020000&p1=1440) |  | [^winners-bracket] |
+| 48 | QF | [enri](https://osu.ppy.sh/users/8640970) ::{ flag=PH }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 23 (Sat) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T050000&p1=1440) |  | [^winners-bracket] |
+| 45 | QF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=PL }:: [Ivaxa](https://osu.ppy.sh/users/15406985) | [May 23 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T090000&p1=1440) |  | [^winners-bracket] |
+| 47 | QF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747) | [May 23 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T110000&p1=1440) |  | [^winners-bracket] |
+| 54a | LR1 | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 54b | LR1 | [runnysunny](https://osu.ppy.sh/users/15339747) ::{ flag=DE }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 54c | LR1 | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 54d | LR1 | [runnysunny](https://osu.ppy.sh/users/15339747) ::{ flag=DE }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 56a | SF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 56b | SF | [runnysunny](https://osu.ppy.sh/users/15339747) ::{ flag=DE }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 56c | SF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 56d | SF | [runnysunny](https://osu.ppy.sh/users/15339747) ::{ flag=DE }:: | ::{ flag=AU }:: [aknzx](https://osu.ppy.sh/users/9938943) | [May 23 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T140000&p1=1440) |  | depends on: 47, 48[^potential-match] |
+| 53b | LR1 | [Ivaxa](https://osu.ppy.sh/users/15406985) ::{ flag=PL }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T180000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+| 53d | LR1 | [Ivaxa](https://osu.ppy.sh/users/15406985) ::{ flag=PL }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T180000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+| 55b | SF | [Ivaxa](https://osu.ppy.sh/users/15406985) ::{ flag=PL }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T180000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+| 55d | SF | [Ivaxa](https://osu.ppy.sh/users/15406985) ::{ flag=PL }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 23 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260523T180000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+
+### Sunday, 24 May 2026
+
+| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
+| :-: | :-- | --: | :-- | :-- | :-: | :-: |
+| 53a | LR1 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 24 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T030000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+| 53c | LR1 | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 24 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T030000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+| 55a | SF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 24 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T030000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+| 55c | SF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 24 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T030000&p1=1440) |  | depends on: 45, 46[^potential-match] |
+
 ## Match results
 
 ### Week 1
@@ -432,7 +464,10 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 
+
 ## Notes
 
+[^winners-bracket]: Winners bracket match
+[^potential-match]: Potential match — final matchup depends on the results of the preceding matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
