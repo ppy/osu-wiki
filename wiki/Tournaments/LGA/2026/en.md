@@ -464,7 +464,6 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 
-
 ## Notes
 
 [^winners-bracket]: Winners bracket match
