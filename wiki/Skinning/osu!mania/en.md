@@ -433,7 +433,7 @@ Notes:
 
 ---
 
-### Default Key Layout
+### Default key layout
 
 Below is the default note image layout for each column, by key count.
 
