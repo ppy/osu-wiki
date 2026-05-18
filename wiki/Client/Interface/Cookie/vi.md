@@ -19,4 +19,4 @@ Bảng dưới đây liệt kê tất cả cookie từng được sử dụng tr
 | ![The 2011 osu! logo](img/2011fixedcolour.png) | 2011 | Sử dụng *Verdana*. |
 | ![The 2014 osu! logo](img/2014@2x.png) | 2014 | Sử dụng *Aller*. |
 | ![The present osu! logo](img/2016@2x.png) | 2016 – hiện tại | Sử dụng *Aller* |
-| *Không có hình ảnh* | Tháng 1 2024 – Tháng 5 2024 | Sử dụng *Torus*, chỉ được sử dụng trong một khoảng gian ngắn do bị chỉ trích |
+| *Không có hình ảnh* | Tháng 1 2024 – Tháng 5 2024 | Sử dụng *Torus*, chỉ được sử dụng trong một khoảng thời gian ngắn do bị chỉ trích |
