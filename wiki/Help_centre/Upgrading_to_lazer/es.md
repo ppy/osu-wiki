@@ -84,6 +84,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Comandos multijugador | ![Sí][true] | ![No][false] |
 | Tag cooperativo | ![Sí][true] | ![No][false] |
 | Listas de juego (tablas de clasificación seleccionadas por los usuarios) | ![No][false] | ![Sí][true] |
+| Partidas clasificatorias | ![No][false] | ![Sí][true] |
 | Actualizar beatmaps con cambios en línea | ![Parcial][partial][^map-only] | ![Sí][true][^all-files] |
 
 ### Editor
@@ -96,6 +97,7 @@ La siguiente es una lista detallada del **estado actual** de lazer en comparaci�
 | Editor de osu!mania | ![Sí][true] | ![Sí][true] |
 | Abrir dificultad como referencia | ![Sí][true] | ![No][false] |
 | Velocidad del slider / volumen por objeto | ![No][false] | ![Sí][true] |
+| Conjuntos de muestras personalizadas de hitsounds | ![Sí][true] | ![Sí][true] |
 | Tipos de curva de sliders por segmento | ![No][false] | ![Sí][true] |
 | División y fusión de sliders | ![No][false] | ![Sí][true] |
 | Rotación de patrón | ![Sí][true] | ![Sí][true] |
@@ -489,38 +491,44 @@ Las puntuaciones de todas las combinaciones de mods aparecen en las tablas de cl
 
 Sin embargo, por ahora solo los siguientes mods concederán puntos de rendimiento:
 
+*Solo la **configuración predeterminada** de las opciones de personalización de los mods otorga puntos de rendimiento, a menos que se indique lo contrario.*
+
 - Reducción de la dificultad
   - Easy
   - No Fail
-  - Half Time (solo 0,75x, se puede usar `Adjust pitch`)
-  - Daycore (solo 0,75x)
+  - Half Time (Se puede usar `Adjust pitch`)
+  - Daycore
 - Aumento de la dificultad
-  - Hard Rock (no para osu!mania)
-  - Sudden Death (Se puede usar `Restart on fail`)
-  - Perfect (Se puede usar `Restart on fail`)
+  - Hard Rock (No para osu!mania)
+  - Sudden Death (Se pueden usar todas las opciones de personalización)
+  - Perfect (Se pueden usar todas las opciones de personalización)
+  - Double Time (Se puede usar `Adjust pitch`)
+  - Nightcore
+  - Fade In (Solo en osu!mania)
   - Hidden
-  - Nightcore (solo 1,5x)
-  - Double Time (solo 1,5x, se puede usar `Adjust pitch`)
+  - Traceable (Solo en osu!)
+  - Cover (Solo en osu!mania, se pueden usar todas las opciones de personalización)
   - Flashlight
-  - Blinds
-  - Accuracy Challenge
-- Conversión (solo osu!mania)
-  - Mirror
-  - Four Keys
-  - Five Keys
-  - Six Keys
-  - Seven Keys
-  - Eight Keys
-  - Nine Keys
+  - Blinds (Solo en osu!)
+  - Accuracy Challenge (Se pueden usar todas las opciones de personalización)
+- Automatización
+  - Spun Out (Solo en osu!)
+- Conversión
+  - Alternate (Solo en osu!)
+  - Swap (Solo en osu!taiko)
+  - Single Tap (Solo en osu! y osu!taiko)
+  - Mirror (Solo en osu!mania)
+  - Four Keys (Solo en osu!mania)
+  - Five Keys (Solo en osu!mania)
+  - Six Keys (Solo en osu!mania)
+  - Seven Keys (Solo en osu!mania)
+  - Eight Keys (Solo en osu!mania)
+  - Nine Keys (Solo en osu!mania)
 - De diversión
-  - Muted
-  - No Scope
-- Automatización (solo osu!)
-  - Spun out
+  - Muted (Se pueden usar todas las opciones de personalización)
+  - No Scope (Solo en osu! y osu!catch, se pueden usar todas las opciones de personalización)
 - Sistema
   - Touch Device
-
-Solo la configuración predeterminada de las opciones de personalización es elegible para obtener puntos de rendimiento, a menos que se indique lo contrario anteriormente.
 
 #### No me gustan las nuevas mecánicas de juego. ¿Puedo restaurar las antiguas mecánicas como eran en stable?
 
@@ -590,7 +598,7 @@ Tenemos una enorme reserva de características y mejoras solicitadas por usuario
 
 ¡No hay carpeta de canciones en lazer! Esto nos permite hacer cosas geniales como no requerir de presionar `F5` en la pantalla del selector de canciones para actualizar los beatmaps (porque los beatmaps siempre están en buen estado) y reduce el espacio en disco usado por beatmaps en un 20-40 %. Puedes leer más sobre [la manera en la que lazer almacena archivos](/wiki/Client/Release_stream/Lazer/File_storage).
 
-Si necesitas hacer cambios a un beatmap, por favor, usa el editor. A medida que avancemos introduciremos un modo en el editor que vuelva temporalmente accesible la carpeta de un beatmap para edición externa. Esto te permitirá usar herramientas externas en un beatmap durante el proceso de creación.
+Si necesitas hacer cambios en un beatmap, usa el editor de beatmaps del juego. Para acceder a los archivos de un beatmap, puedes usar la opción **Editar externamente** del menú **Archivo**.
 
 #### Ahora que «osu!direct» está disponible para todos los jugadores, ¿los supporters tendrán algún nuevo beneficio?
 

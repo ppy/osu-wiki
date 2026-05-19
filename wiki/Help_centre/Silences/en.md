@@ -12,7 +12,7 @@ tags:
 ## Limitations
 
 ::: Infobox
-![](img/silence-profile.png "Silence record in the profile page")
+![](img/silence-profile.png?1 "Silence record in the profile page")
 :::
 
 A user who has an active silence cannot do the following:
