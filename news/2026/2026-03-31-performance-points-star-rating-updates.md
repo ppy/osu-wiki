@@ -166,6 +166,7 @@ In practice:
 - A [set](https://github.com/ppy/osu/pull/36569) of [fixes](https://github.com/ppy/osu/pull/36593) by [StanR](https://osu.ppy.sh/users/7217455) to improve slider-to-circle Rhythm difficulty
 - A [fix](https://github.com/ppy/osu/pull/37609) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm complexity is decreased for long islands
 - A [set](https://github.com/ppy/osu/pull/36773) of [fixes](https://github.com/ppy/osu/pull/36806) by [StanR](https://osu.ppy.sh/users/7217455) to fix slider velocity calculations using inflated velocity
+- A [fix](https://github.com/ppy/osu/pull/37624) by [StanR](https://osu.ppy.sh/users/7217455) to ensure the slider end penalty scales with difficulty correctly
 - A [fix](https://github.com/ppy/osu/pull/36209) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix score-based miss estimations using incorrect multipliers for scores with mods
 - A [set of fixes](https://github.com/ppy/osu/pull/36999) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve flow aim evaluation for overlapping notes and sliders
 - A [change](https://github.com/ppy/osu/pull/35962) by [Givy120](https://osu.ppy.sh/users/10560705) to skip score-based miss estimations for ScoreV2
@@ -186,7 +187,7 @@ In practice:
 - A [refactor](https://github.com/ppy/osu/pull/37119) by [kwotaq](https://osu.ppy.sh/users/8195972) to improve Aim evaluation code quality
 - A [set](https://github.com/ppy/osu/pull/36918) of [refactors](https://github.com/ppy/osu/pull/36944) by [Rian8337](https://osu.ppy.sh/users/5383997) to improve readability of Reading calculations
 - A [refactor](https://github.com/ppy/osu/pull/37460) by [Natelytle](https://osu.ppy.sh/users/17607667) to improve difficulty code quality
-- A [set](https://github.com/ppy/osu/pull/36064) of [refactors](https://github.com/ppy/osu/pull/37621) by [StanR](https://osu.ppy.sh/users/7217455) to improve star rating code quality
+- A [set](https://discord.com/channels/1166126757141827775/1166126758261686294/1506273339835158558) of [refactors](https://github.com/ppy/osu/pull/37623) by [StanR](https://osu.ppy.sh/users/7217455) to move more difficulty adjustments to apply per-note
 - A [refactor](https://github.com/ppy/osu/pull/37654) by [StanR](https://osu.ppy.sh/users/7217455) to improve osu!(stable) slider break estimation code quality
 - A [refactor](https://github.com/ppy/osu/pull/36112) by [tsunyoku](https://osu.ppy.sh/users/11315329) to improve performance in some areas of difficulty calculation
 
