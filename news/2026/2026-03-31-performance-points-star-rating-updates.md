@@ -106,6 +106,16 @@ In effect, higher spacing patterns as well as slower jumps will generally see a 
 - [Halozy - Sentimental Skyscraper [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288): 6.94* --> 7.53*
 - [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869): 6.79* --> 7.15*
 
+### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
+
+Up until now, all star rating for flow aim has come from a bonus for distance on the Speed skill. This was particularly frustrating to work with, as it meant having no control over flow aim difficulty beyond the distance, whilst also being attached to the tapping skill.
+
+Thanks to a [change](https://github.com/ppy/osu/pull/36902) by [StanR](https://osu.ppy.sh/users/7217455), this distance bonus has been replaced with a new flow aim difficulty evaluator in the Aim skill.
+
+This change is only laying the ground work for future flow aim improvements, but flow aim now considers velocity and angle changes rather than simply distance.
+
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/flow-aim-graph.png)
+
 ### Replace Speed accuracy scaling with deviation scaling
 
 Tapping deviation is a statistic similar to unstable rate created by [Frostium](https://osu.ppy.sh/users/8202998), combining a score's hit statistics, OD and amount of difficult "speed notes" (high-strain notes relevant to speed PP) in a beatmap. This metric has already been in use in order to nerf scores that require tapping improperly (e.g. "rake tapping").
@@ -122,16 +132,6 @@ As a result, you can expect:
 An example of how this scales for a DTHR score on [Manticora - Humiliation Supreme [Extreme]](https://osu.ppy.sh/beatmapsets/2364885#osu/5119288):
 
 ![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/speed-deviation-scaling.png)
-
-### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
-
-Up until now, all star rating for flow aim has come from a bonus for distance on the Speed skill. This was particularly frustrating to work with, as it meant having no control over flow aim difficulty beyond the distance, whilst also being attached to the tapping skill.
-
-Thanks to a [change](https://github.com/ppy/osu/pull/36902) by [StanR](https://osu.ppy.sh/users/7217455), this distance bonus has been replaced with a new flow aim difficulty evaluator in the Aim skill.
-
-This change is only laying the ground work for future flow aim improvements, but flow aim now considers more than just distance. Namely velocity changes and angle changes.
-
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/flow-aim-graph.png)
 
 ### Nerf repeated angles in Snap Aim
 
