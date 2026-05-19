@@ -125,7 +125,13 @@ An example of how this scales for a DTHR score on [Manticora - Humiliation Supre
 
 ### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
 
-https://github.com/ppy/osu/pull/36902
+Up until now, all star rating for flow aim has come from a bonus for distance on the Speed skill. This was particularly frustrating to work with, as it meant having no control over flow aim difficulty beyond the distance, whilst also being attached to the tapping skill.
+
+Thanks to a [change](https://github.com/ppy/osu/pull/36902) by [StanR](https://osu.ppy.sh/users/7217455), this distance bonus has been replaced with a new flow aim difficulty evaluator in the Aim skill.
+
+This change is only laying the ground work for future flow aim improvements, but flow aim now considers more than just distance. Namely velocity changes and angle changes.
+
+![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/flow-aim-graph.png)
 
 ### Nerf repeated angles in Snap Aim
 
