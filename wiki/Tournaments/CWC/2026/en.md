@@ -64,7 +64,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=AR }:: | **Argentina** | **[Story](https://osu.ppy.sh/users/8172283)**, [SirGonzaxz](https://osu.ppy.sh/users/17309439), [Naarkz](https://osu.ppy.sh/users/19490380), [\[225\]Zeus](https://osu.ppy.sh/users/8329151) |
 | ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** |
 | ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)**, [\[ Ajia \]](https://osu.ppy.sh/users/17578266), [ElSkeffeFanBoy](https://osu.ppy.sh/users/12239488), [Jezse](https://osu.ppy.sh/users/11390632), [snowflake-](https://osu.ppy.sh/users/10742890), [\[ Zhiend \]](https://osu.ppy.sh/users/7474404) |
-| ::{ flag=BR }:: | **Brazil** | **[soapsoup](https://osu.ppy.sh/users/16388591)** |
+| ::{ flag=BR }:: | **Brazil** | **[\[MG\] ExRoiBoi](https://osu.ppy.sh/users/25147371)**, [soapsoup](https://osu.ppy.sh/users/16388591), [Tharja](https://osu.ppy.sh/users/4882003), [JESP2310](https://osu.ppy.sh/users/14729191), [Brienus](https://osu.ppy.sh/users/22420912), [A l z a i](https://osu.ppy.sh/users/9610569) |
 | ::{ flag=CA }:: | **Canada** | **[Cole Caufield](https://osu.ppy.sh/users/19290397)** |
 | ::{ flag=CL }:: | **Chile** | **[Pekorrat](https://osu.ppy.sh/users/1250096)**, [Aryssiel](https://osu.ppy.sh/users/2389481), [Stark](https://osu.ppy.sh/users/1565036), [Smukur](https://osu.ppy.sh/users/6434318), [Osuun](https://osu.ppy.sh/users/7143968), [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000) |
 | ::{ flag=CN }:: | **China** | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** |
@@ -73,7 +73,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=FR }:: | **France** | **[Electr0o](https://osu.ppy.sh/users/9484428)** |
 | ::{ flag=DE }:: | **Germany** | **[wonderleif](https://osu.ppy.sh/users/14744799)** |
 | ::{ flag=GR }:: | **Greece** | **[\[Romanos\]](https://osu.ppy.sh/users/4682813)**, [- VayKay -](https://osu.ppy.sh/users/2559954), [JackPaX](https://osu.ppy.sh/users/11226645), [Miliski](https://osu.ppy.sh/users/30866868), [snap](https://osu.ppy.sh/users/10643997), [Tervi](https://osu.ppy.sh/users/20969950) |
-| ::{ flag=HK }:: | **Hong Kong** | **[autofanboy](https://osu.ppy.sh/users/636114)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[autofanboy](https://osu.ppy.sh/users/636114)**, [HineX](https://osu.ppy.sh/users/13854), [littlepiggod](https://osu.ppy.sh/users/12331683), [CheungB](https://osu.ppy.sh/users/788406), [fua](https://osu.ppy.sh/users/21138904), [bakugan2win](https://osu.ppy.sh/users/2602338) |
 | ::{ flag=IS }:: | **Iceland** | **[kiriwi](https://osu.ppy.sh/users/6953927)**, [birkir](https://osu.ppy.sh/users/4348967), [Orrisnae](https://osu.ppy.sh/users/22920579), [moppen](https://osu.ppy.sh/users/14977845), [Teini](https://osu.ppy.sh/users/14169321) |
 | ::{ flag=ID }:: | **Indonesia** | **[Zvenx](https://osu.ppy.sh/users/14613788)** |
 | ::{ flag=IL }:: | **Israel** | **[gal1](https://osu.ppy.sh/users/9424481)**, [Nendus](https://osu.ppy.sh/users/22005940), [Tourb0](https://osu.ppy.sh/users/19471527), [Rai](https://osu.ppy.sh/users/7258362), [maor](https://osu.ppy.sh/users/20006045), [DIDARIYO](https://osu.ppy.sh/users/34544821) |
@@ -87,7 +87,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=NO }:: | **Norway** | **[CyCeph](https://osu.ppy.sh/users/4586304)**, [Benita](https://osu.ppy.sh/users/4023183), [Loff](https://osu.ppy.sh/users/8947341), [manok](https://osu.ppy.sh/users/18569771), [Firdibirdy](https://osu.ppy.sh/users/20803806), [Vikki](https://osu.ppy.sh/users/33305106) |
 | ::{ flag=PH }:: | **Philippines** | **[-Isla-](https://osu.ppy.sh/users/17745759)** |
 | ::{ flag=PL }:: | **Poland** | **[madcin](https://osu.ppy.sh/users/2957534)**, [trig0n](https://osu.ppy.sh/users/3704228), [Mawers](https://osu.ppy.sh/users/14522883), [Phob](https://osu.ppy.sh/users/6069462), [Mniam](https://osu.ppy.sh/users/6050530), [Blue Vaporous](https://osu.ppy.sh/users/8800023) |
-| ::{ flag=PT }:: | **Portugal** | **[AfonsoMPt](https://osu.ppy.sh/users/13294871)** |
+| ::{ flag=PT }:: | **Portugal** | **[DemiGod Yoxide](https://osu.ppy.sh/users/6205809)**, [AfonsoMPt](https://osu.ppy.sh/users/13294871), [ExPin](https://osu.ppy.sh/users/16935754), [GoncS](https://osu.ppy.sh/users/19423459), [Hiroto-](https://osu.ppy.sh/users/14917517), [Rosa](https://osu.ppy.sh/users/7385703) |
 | ::{ flag=RU }:: | **Russian Federation** | **[Nerris](https://osu.ppy.sh/users/11202866)**, [Morusya](https://osu.ppy.sh/users/13681464), [xDark](https://osu.ppy.sh/users/31355067), [smelly DVD box](https://osu.ppy.sh/users/6647589), [ArthurEdikovich](https://osu.ppy.sh/users/18171621), [genius357](https://osu.ppy.sh/users/30382199) |
 | ::{ flag=RS }:: | **Serbia** | **[jenki](https://osu.ppy.sh/users/27081472)**, [bugfinder1610](https://osu.ppy.sh/users/11630179), [lepinja77](https://osu.ppy.sh/users/11189453), [Nami\_Chan](https://osu.ppy.sh/users/12884733), [optm](https://osu.ppy.sh/users/14477534) |
 | ::{ flag=SG }:: | **Singapore** | **[Ekseff](https://osu.ppy.sh/users/13966422)**, [McButt](https://osu.ppy.sh/users/18018708), [NoBudgetGuy](https://osu.ppy.sh/users/28498328), [QuailLover](https://osu.ppy.sh/users/26383230) |
@@ -100,9 +100,9 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=TH }:: | **Thailand** | **[-Blacky-](https://osu.ppy.sh/users/7551572)**, [Azuria](https://osu.ppy.sh/users/16102533), [Char0n](https://osu.ppy.sh/users/17838855), [EzyS](https://osu.ppy.sh/users/16271283), [G1ilbert](https://osu.ppy.sh/users/7408055), [N3Marry](https://osu.ppy.sh/users/13222425) |
 | ::{ flag=TR }:: | **Türkiye** | **[shimu](https://osu.ppy.sh/users/14318796)**, [Teoman](https://osu.ppy.sh/users/29824043), [Yasi6n](https://osu.ppy.sh/users/17482520), [nohut](https://osu.ppy.sh/users/35980302), [Comi\_](https://osu.ppy.sh/users/31855500) |
 | ::{ flag=UA }:: | **Ukraine** | **[257](https://osu.ppy.sh/users/13123942)**, [Metalia](https://osu.ppy.sh/users/15558360), [Shadowbolts1](https://osu.ppy.sh/users/13962882), [wolozon](https://osu.ppy.sh/users/36914600), [nazar kapanacha](https://osu.ppy.sh/users/17314832), [EHEPGODAP](https://osu.ppy.sh/users/13079214) |
-| ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Nathanial](https://osu.ppy.sh/users/9169747), [Upbeat](https://osu.ppy.sh/users/10702118), [John glizzy](https://osu.ppy.sh/users/18416646), [Adisi](https://osu.ppy.sh/users/12182399) |
 | ::{ flag=US }:: | **United States** | **[trooperr](https://osu.ppy.sh/users/32028459)** |
-| ::{ flag=VN }:: | **Vietnam** | **[NamSPro](https://osu.ppy.sh/users/11387006)** |
+| ::{ flag=VN }:: | **Vietnam** | **[NamSPro](https://osu.ppy.sh/users/11387006)**, [duongduo020810](https://osu.ppy.sh/users/35689909), [Krystal Quan](https://osu.ppy.sh/users/20569104), [nothing0074](https://osu.ppy.sh/users/17804095), [ElenaMii](https://osu.ppy.sh/users/9874807), [DyAnhLikeLemon](https://osu.ppy.sh/users/30352551) |
 
 Captains are listed in **bold**. Individual team compositions subject to change until **23 May, 23:59 UTC**. This list was last updated on **20 May 2026**.
 
