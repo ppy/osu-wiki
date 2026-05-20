@@ -134,6 +134,8 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1nGVwz3CkVO34zVnW90iaFnuUANc1qsY6/view?usp=sharing)**
+
 - Rice
   1. [Alicemetix feat. Kasane Teto - Unclearness (BKwind) \[Tetoflip+\]](https://osu.ppy.sh/beatmapsets/2321807#mania/4974383)
   2. [Plum - Dustwind (\_Stan) \[Deshope\]](https://osu.ppy.sh/beatmapsets/2321808#mania/4974384)
