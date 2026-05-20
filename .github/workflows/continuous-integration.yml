@@ -60,11 +60,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: create master branch from remote master
-        run: git branch master origin/master
 
       - name: set up Node.js
         id: setup-node
@@ -90,12 +85,13 @@ jobs:
       - name: Install dependencies (Python)
         run: uv sync
 
-      - name: detect changed files
-        id: detect-changed-files
+      - name: restore changed files
         run: |
-          changed_files="$(mktemp)"
-          git diff --diff-filter=d --name-only --no-renames -z master >"$changed_files"
-          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
+          CHANGED_FILES_PATH="$RUNNER_TEMP/changed_files"
+          jq -j '.[] + "\u0000"' <<<"$CHANGED_JSON" > "$CHANGED_FILES_PATH"
+          echo "CHANGED_FILES=$CHANGED_FILES_PATH" >> "$GITHUB_ENV"
+        env:
+          CHANGED_JSON: ${{ needs.check-should-ci.outputs.changed_files }}
 
       - name: check file sizes
         run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
