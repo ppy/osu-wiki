@@ -55,6 +55,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)
 - [Challonge bracket](https://challonge.com/LGA2026)
+- [Support your favorite player with a support banner](https://osu.ppy.sh/store/products/1696) 
 
 ## Match schedule: Week 2
 
