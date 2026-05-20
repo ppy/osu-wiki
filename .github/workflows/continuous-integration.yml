@@ -27,32 +27,43 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const owner = context.repo.owner;
-            const repo = context.repo.repo;
+            const { owner, repo } = context.repo;
+            const pr = context.payload.pull_request;
+            const action = context.payload.action;
             const result = { shouldRun: 'false', changedFiles: JSON.stringify([]) };
 
-            if (context.payload.pull_request) {
-              const pr = context.payload.pull_request;
-              const prNumber = pr.number;
+            if (!pr) return result;
 
-              const files = [];
-              for await (const resp of github.paginate.iterator(github.rest.pulls.listFiles, { owner, repo, pull_number: prNumber, per_page: 100 })) {
-                for (const f of resp.data) {
-                  if (f.status !== 'removed') files.push(f.filename);
-                }
+            const FLAGS = ['SKIP_REMARK', 'SKIP_WIKILINK_CHECK'];
+            const shouldRun = false;
+
+            if (action === 'opened' || action === 'reopened' || action === 'synchronize') {
+              shouldRun = true;
+            } else if (action === 'edited') {
+              const bodyChange = context.payload.changes && context.payload.changes.body;
+              if (bodyChange) {
+                const oldBody = bodyChange.from || '';
+                const newBody = pr.body || '';
+                shouldRun = FLAGS.some(flag => oldBody.includes(flag) !== newBody.includes(flag));
               }
-
-              const oldBody = context.payload.changes && context.payload.changes.body && context.payload.changes.body.from || '';
-              const newBody = context.payload.changes && context.payload.changes.body && context.payload.changes.body.to || pr.body || '';
-              const flagRegex = /SKIP_REMARK|SKIP_WIKILINK_CHECK/;
-              const oldHas = flagRegex.test(oldBody);
-              const newHas = flagRegex.test(newBody);
-
-              const shouldRun = files.length > 0 || (context.payload.action === 'edited' && oldHas !== newHas);
-              result.shouldRun = shouldRun ? 'true' : 'false';
-              result.changedFiles = JSON.stringify(files);
             }
 
+            if (!shouldRun) return result;
+
+            const prNumber = pr.number;
+
+            const files = [];
+            const iter = github.paginate.iterator(github.rest.pulls.listFiles, {
+              owner, repo, pull_number: pr.number, per_page: 100,
+            });
+            for await (const resp of iter) {
+              for (const f of resp.data) {
+                if (f.status !== 'removed') files.push(f.filename);
+              }
+            }
+
+            result.shouldRun = 'true';
+            result.changedFiles = JSON.stringify(files);
             return result;
 
   ci:
