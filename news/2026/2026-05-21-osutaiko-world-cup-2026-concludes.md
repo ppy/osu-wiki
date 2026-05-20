@@ -57,9 +57,9 @@ The grand showdown of the osu!taiko World Cup 2026 started with the showcase of 
 
 | ID | Team A |  |  | Team B | Match link | VOD link |
 | :-: | --: | :-: | :-: | :-- | :-- | :-- |
-| SM | **Team kddk** | **6** | 5 | Team bongo | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121010479) | [#1](https://www.twitch.tv/videos/2756724314) |
-| 45 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121010905) | [#1](https://www.twitch.tv/videos/2756777848) |
-| 46b | **Japan** ::{ flag=JP }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121017600) | [#1](https://www.twitch.tv/videos/2757488797) |
+| SM | **Team kddk** | **6** | 5 | Team bongo | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121010479) | [![#1](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/2756724314) |
+| 45 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121010905) | [![#1](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/2756777848) |
+| 46b | **Japan** ::{ flag=JP }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [![#1](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/121017600) | [![#1](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/2757488797) |
 
 ## Match recap
 
