@@ -96,17 +96,21 @@ jobs:
           CHANGED_JSON: ${{ needs.check-should-ci.outputs.changed_files }}
 
       - name: check file sizes
+        if: ${{ !cancelled() }}
         run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
       - name: run remark on changed files
+        if: ${{ !cancelled() }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_REMARK') }}
         run: |
           grep -z '\.md$' <"$CHANGED_FILES" | \
           REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
 
       - name: run yamllint on .yaml and .md files
+        if: ${{ !cancelled() }}
         run: uv tool run osu-wiki-tools check-yaml --format github
 
       - name: find broken wikilinks
+        if: ${{ !cancelled() }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
         run: uv tool run osu-wiki-tools check-links --all --format github
