@@ -35,7 +35,7 @@ jobs:
             if (!pr) return result;
 
             const FLAGS = ['SKIP_REMARK', 'SKIP_WIKILINK_CHECK'];
-            const shouldRun = false;
+            let shouldRun = false;
 
             if (action === 'opened' || action === 'reopened' || action === 'synchronize') {
               shouldRun = true;
