@@ -627,6 +627,6 @@ Congratulations again to our podium teams for a successful campaign, and congrat
 
 ![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/twc2026-credits.png)
 
-As always, thank you, too, for following this year's edition! As the osu!taiko World Cup 2026 draws to a close, more is always on the way in the World Cup circuit, like the third iteration of the Lazer Grand Arena that is currently being held. Check out the [information page](/wiki/tournaments/lga/2026) for more details if you're interested and can't wait for more osu!taiko World Cup action!
+As always, thank you, too, for following this year's edition! As the osu!taiko World Cup 2026 draws to a close, more is always on the way in the World Cup circuit, like the third iteration of the Lazer Grand Arena that is currently being held. Check out the [information page](/wiki/tournaments/lga/2026) for more details if you're interested and can't wait for more World Cup action!
 
 —Hivie, Nurend, overdahedge2015, Sakura006 & Yasuho
