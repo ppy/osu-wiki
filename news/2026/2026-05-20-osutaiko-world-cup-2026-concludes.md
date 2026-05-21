@@ -1,13 +1,13 @@
 ---
 layout: post
 title: osu!taiko World Cup 2026 Concludes
-date: 2026-05-21 23:45:00 +0000
+date: 2026-05-20 23:50:00 +0000
 series: world_cups
 ---
 
 With one last weekend of inhuman plays and nail-biting action, the osu!taiko World Cup 2026 finished with a bang!
 
-![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/banner.jpg)
+![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/banner.jpg)
 
 After 5 rounds of the strongest osu!taiko players from around the world battling it out on harder and harder maps, only three teams could make it to the Grand Finals: mainstays Japan and South Korea, alongside a dangerous newcomer, Chile. These three teams met on the last weekend of April to give us 2 of the best matches in TWC history.
 
@@ -29,7 +29,7 @@ Detailed summaries of both this week's matches can be found below — we usually
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://player.twitch.tv/?autoplay=false&parent=osu.ppy.sh&video=2752041926" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 </div>
 
-![Finals mappool table](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/mappool-gf.jpg)
+![Finals mappool table](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/mappool-gf.jpg)
 
 The Grand Finals mappool this year brought plenty of surprises. From the return of long-time world #1 [_yu68](https://osu.ppy.sh/users/6170507) with a remap of [Frums - Mdrqnxtagon](https://osu.ppy.sh/beatmapsets/2541443#taiko/5627063) for NM1, to a former tiebreaker song in DT with [4sbet1](https://osu.ppy.sh/users/11563671)'s map of [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2541460#taiko/5627109) as DT1, and of course, the whopping **10.35 star rating** on the crown jewel osu! original tiebreaker, [Camellia - THULE](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199). The remaining teams had plenty of challenges to conquer in addition to the tough task of figuring out all 16 maps in just one week.
 
@@ -153,7 +153,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
 
 ### Quarterfinals
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/jazz-invasion-cansol-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/jazz-invasion-cansol-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530688#taiko/5593650)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -161,7 +161,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
     </audio>
 </div>
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/lunar-eclipse-uynet-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/lunar-eclipse-uynet-banner.jpg)](https://osu.ppy.sh/beatmapsets/2530668#taiko/5593610)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -171,7 +171,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
 
 ### Semifinals
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/signalburner-aleph-banner.jpg)](https://osu.ppy.sh/beatmapsets/2534365#taiko/5604141)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/signalburner-aleph-banner.jpg)](https://osu.ppy.sh/beatmapsets/2534365#taiko/5604141)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -181,7 +181,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
 
 ### Finals
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/limitbreak-banner.jpg)](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/limitbreak-banner.jpg)](https://osu.ppy.sh/beatmapsets/2537890#taiko/5616129)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -189,7 +189,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
     </audio>
 </div>
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/on-ur-marks-banner.jpg)](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/on-ur-marks-banner.jpg)](https://osu.ppy.sh/beatmapsets/2538002#taiko/5616417)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -199,7 +199,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
 
 ### Grand Finals
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/silver-bullet-banner.jpg)](https://osu.ppy.sh/beatmapsets/2541444#taiko/5627069)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/silver-bullet-banner.jpg)](https://osu.ppy.sh/beatmapsets/2541444#taiko/5627069)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -207,7 +207,7 @@ With every World Cup comes a host of fresh new music to feast your ears on. This
     </audio>
 </div>
 
-[![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/thule-banner.jpg)](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)
+[![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/thule-banner.jpg)](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)
 
 <div class="osu-md__paragraph">
     <audio controls>
@@ -268,7 +268,7 @@ More in-depth statistics for every round can be found in the [stats folder](http
 
 ## Interviews
 
-![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/Polytetral-and-Mune.png)
+![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/Polytetral-and-Mune.png)
 
 <style>
     .news-chat-quote__avatar {
@@ -431,7 +431,7 @@ At the same time, receiving feedback from other designers helps me to reflect on
 
 </div>
 
-![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/elwood-interview.png)
+![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/elwood-interview.png)
 
 <style>
     .news-chat-quote__avatar {
@@ -520,7 +520,7 @@ I think a slower BPM could've been an interesting direction, it would've definit
 
 </div>
 
-![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/monkeydluffy3u4-interview.png)
+![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/monkeydluffy3u4-interview.png)
 
 <style>
     .news-chat-quote__avatar {
@@ -625,7 +625,7 @@ As long as I'm healthy, and still finding joy in the tournament, you'll see [mon
 
 Congratulations again to our podium teams for a successful campaign, and congratulations in fact to all 43 participating teams! Every placement was hotly contested this year, and many thanks are in order for the many people who brought TWC together this year.
 
-![](/wiki/shared/news/2026-05-21-osutaiko-world-cup-2026-concludes/twc2026-credits.png)
+![](/wiki/shared/news/2026-05-20-osutaiko-world-cup-2026-concludes/twc2026-credits.png)
 
 As always, thank you, too, for following this year's edition! As the osu!taiko World Cup 2026 draws to a close, more is always on the way in the World Cup circuit, like the third iteration of the Lazer Grand Arena that is currently being held. Check out the [information page](/wiki/tournaments/lga/2026) for more details if you're interested and can't wait for more osu!taiko World Cup action!
 
