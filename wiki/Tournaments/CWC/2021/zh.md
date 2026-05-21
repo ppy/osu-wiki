@@ -92,9 +92,9 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
 | ::{ flag=US }:: | **美国** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ::{ flag=VN }:: | **越南** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
-## 颁奖
+## 颁奖信息
 
-![](img/podium.jpg "CWC 2021 颁奖")
+![](img/podium.jpg "CWC 2021 颁奖信息")
 
 ## 图池
 
@@ -242,7 +242,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
 
 ### 总决赛
 
-2021 年 5 月 29 日，星期六：
+2021 年 6 月 6 日，星期日：
 
 | A 队 |  |  | B 队 | MP link |
 | --: | :-: | :-: | :-- | :-- |
