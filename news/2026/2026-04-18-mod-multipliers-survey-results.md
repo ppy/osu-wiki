@@ -14,6 +14,8 @@ Thank you to everybody who participated in the [survey posted back in January](h
 
 The existing mod multipliers used in osu!(lazer) have been a point of contention over the past few years as they have resulted in unfair leaderboards, which is why this survey was created. What followed was careful interpretation of survey responses (~3600 in total) as well as discussion amongst those involved to rebalance leaderboards. Today, we finally present new mod multipliers for the **osu!(lazer) client**.
 
+All changes cited will **not** be replicated in the osu!(stable) client as it is **feature locked** and all data collected during the survey was provided with osu!(lazer)'s **standardised scoring** in mind - score multipliers for osu!(lazer) require greater differences than those in osu!(stable) due to the difference in score algorithm.
+
 ## Classic mod
 
 To recap - the new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the osu!(stable) client. You can [read about these changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences).
