@@ -312,16 +312,16 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 15 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| af- | 6 | **7** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117182855) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 61 | af- | 6 | **7** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117182855) | [#1](https://www.bilibili.com/video/BV15nwSe8E4M) |
 
 Sunday, 16 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| VanWilder | 4 | **7** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117198061) |
-| **QingJiDing** | **7** | 6 | VanWilder | [#1](https://osu.ppy.sh/community/matches/117199225) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 62 | VanWilder | 4 | **7** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117198061) | [#1](https://www.bilibili.com/video/BV15nwSe8E4M?p=2) |
+| 63 | **QingJiDing** | **7** | 6 | VanWilder | [#1](https://osu.ppy.sh/community/matches/117199225) | [#1](https://www.bilibili.com/video/BV15nwSe8E4M?p=3) |
 
 ### Finals
 
@@ -329,17 +329,17 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 8 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Watch01** | **7** | 2 | tangjinxi | [#1](https://osu.ppy.sh/community/matches/117098250) |
-| **VanWilder** | **7** | 4 | af- | [#1](https://osu.ppy.sh/community/matches/117101095) |
-| zec | 0 | **7** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117102571) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 57 | **Watch01** | **7** | 2 | tangjinxi | [#1](https://osu.ppy.sh/community/matches/117098250) | [#1](https://www.bilibili.com/video/BV1pNNoevEux) |
+| 60 | **VanWilder** | **7** | 4 | af- | [#1](https://osu.ppy.sh/community/matches/117101095) | [#1](https://www.bilibili.com/video/BV1pNNoevEux?p=4) |
+| 58 | zec | 0 | **7** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117102571) | [#1](https://www.bilibili.com/video/BV1pNNoevEux?p=2) |
 
 Sunday, 9 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **QingJiDing** | **7** | 6 | Watch01 | [#1](https://osu.ppy.sh/community/matches/117115929) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 59 | **QingJiDing** | **7** | 6 | Watch01 | [#1](https://osu.ppy.sh/community/matches/117115929) | [#1](https://www.bilibili.com/video/BV1pNNoevEux?p=3) |
 
 ### Semifinals
 
@@ -347,26 +347,26 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Saturday, 1 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **[Crz]Reimu** | **6** | 0 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/117021476) |
-| HxcQ777 | 2 | **6** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117021508) |
-| **af-** | **6** | 0 | zec | [#1](https://osu.ppy.sh/community/matches/117022098) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 49 | **[Crz]Reimu** | **6** | 0 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/117021476) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc) |
+| 50 | HxcQ777 | 2 | **6** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/117021508) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=2) |
+| 56 | **af-** | **6** | 0 | zec | [#1](https://osu.ppy.sh/community/matches/117022098) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=8) |
 
 Sunday, 2 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **tangjinxi** | **6** | 5 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/117032204) |
-| _Yiiiii | 4 | **6** | **[GB]hej_067** | [#1](https://osu.ppy.sh/community/matches/117032210) |
-| **QingJiDing** | **6** | 2 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/117035350) |
-| Watch01 | 1 | **6** | **VanWilder** | [#1](https://osu.ppy.sh/community/matches/117036008) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 51 | **tangjinxi** | **6** | 5 | Shenzouz | [#1](https://osu.ppy.sh/community/matches/117032204) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=3) |
+| 52 | _Yiiiii | 4 | **6** | **[GB]hej_067** | [#1](https://osu.ppy.sh/community/matches/117032210) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=4) |
+| 53 | **QingJiDing** | **6** | 2 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/117035350) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=5) |
+| 55 | Watch01 | 1 | **6** | **VanWilder** | [#1](https://osu.ppy.sh/community/matches/117036008) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=7) |
 
 Monday, 3 February 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| [GB]hej_067 | 5 | **6** | **tangjinxi** | [#1](https://osu.ppy.sh/community/matches/117047851) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 54 | [GB]hej_067 | 5 | **6** | **tangjinxi** | [#1](https://osu.ppy.sh/community/matches/117047851) | [#1](https://www.bilibili.com/video/BV1JDPDe1ENc?p=6) |
 
 ### Quarterfinals
 
@@ -374,44 +374,44 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Wednesday, 22 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| YuLiangSSS | -1 | **0** | **Randumbs** | - |
-| 9eater | 1 | **6** | **hero_jeff** | [#1](https://osu.ppy.sh/community/matches/116903514) |
-| **fishbone2445** | **6** | 2 | 1405512654 | [#1](https://osu.ppy.sh/community/matches/116903539) |
-| **QingJiDing** | **6** | 0 | Myon_299792458 | [#1](https://osu.ppy.sh/community/matches/116903792) |
-| idqoos123 | 0 | **6** | **AWMRone** | [#1](https://osu.ppy.sh/community/matches/116904078) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 38 | YuLiangSSS | -1 | **0** | **Randumbs** | - |  |
+| 33 | 9eater | 1 | **6** | **hero_jeff** | [#1](https://osu.ppy.sh/community/matches/116903514) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr) |
+| 37 | **fishbone2445** | **6** | 2 | 1405512654 | [#1](https://osu.ppy.sh/community/matches/116903539) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=5) |
+| 39 | **QingJiDing** | **6** | 0 | Myon_299792458 | [#1](https://osu.ppy.sh/community/matches/116903792) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=6) |
+| 40 | idqoos123 | 0 | **6** | **AWMRone** | [#1](https://osu.ppy.sh/community/matches/116904078) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=7) |
 
 Thursday, 23 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Randumbs | 3 | **6** | **fishbone2445** | [#1](https://osu.ppy.sh/community/matches/116914603) |
-| AWMRone | 2 | **6** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/116915201) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 43 | Randumbs | 3 | **6** | **fishbone2445** | [#1](https://osu.ppy.sh/community/matches/116914603) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=10) |
+| 44 | AWMRone | 2 | **6** | **QingJiDing** | [#1](https://osu.ppy.sh/community/matches/116915201) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=11) |
 
 Friday, 24 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **af-** | **6** | 2 | tangjinxi | [#1](https://osu.ppy.sh/community/matches/116926313) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 47 | **af-** | **6** | 2 | tangjinxi | [#1](https://osu.ppy.sh/community/matches/116926313) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=14) |
 
 Saturday, 25 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **zec** | **6** | 2 | _Yiiiii | [#1](https://osu.ppy.sh/community/matches/116937086) |
-| **Shenzouz** | **6** | 0 | Mito Van | [#1](https://osu.ppy.sh/community/matches/116938516) |
-| **VanWilder** | **6** | 4 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/116939045) |
-| SilentParleHorn | 4 | **6** | **-[Ulazis]-** | [#1](https://osu.ppy.sh/community/matches/116939680) |
-| **[GB]hej_067** | **6** | 0 | [AR]aLEKdexter | [#1](https://osu.ppy.sh/community/matches/116940050) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 48 | **zec** | **6** | 2 | _Yiiiii | [#1](https://osu.ppy.sh/community/matches/116937086) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=15) |
+| 34 | **Shenzouz** | **6** | 0 | Mito Van | [#1](https://osu.ppy.sh/community/matches/116938516) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=2) |
+| 46 | **VanWilder** | **6** | 4 | HxcQ777 | [#1](https://osu.ppy.sh/community/matches/116939045) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=13) |
+| 35 | SilentParleHorn | 4 | **6** | **-[Ulazis]-** | [#1](https://osu.ppy.sh/community/matches/116939680) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=3) |
+| 36 | **[GB]hej_067** | **6** | 0 | [AR]aLEKdexter | [#1](https://osu.ppy.sh/community/matches/116940050) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=4) |
 
 Sunday, 26 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Shenzouz** | **6** | 3 | hero_jeff | [#1](https://osu.ppy.sh/community/matches/116950011) |
-| **[GB]hej_067** | **6** | 0 | -[Ulazis]- | [#1](https://osu.ppy.sh/community/matches/116954092) |
-| **Watch01** | **6** | 2 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/116954009) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 41 | **Shenzouz** | **6** | 3 | hero_jeff | [#1](https://osu.ppy.sh/community/matches/116950011) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=8) |
+| 42 | **[GB]hej_067** | **6** | 0 | -[Ulazis]- | [#1](https://osu.ppy.sh/community/matches/116954092) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=9) |
+| 45 | **Watch01** | **6** | 2 | [Crz]Reimu | [#1](https://osu.ppy.sh/community/matches/116954009) | [#1](https://www.bilibili.com/video/BV1JdfYYDEfr?p=12) |
 
 ### Round of 16
 
@@ -419,34 +419,34 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 17 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| AsahinaMikuru | 1 | **5** | **[AR]aLEKdexter** | [#1](https://osu.ppy.sh/community/matches/116843650) |
-| **af-** | **5** | 1 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/116843634) |
-| YuLiangSSS | -1 | **0** | **tangjinxi** | [#1](https://osu.ppy.sh/community/matches/116843835) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 21 | AsahinaMikuru | 1 | **5** | **[AR]aLEKdexter** | [#1](https://osu.ppy.sh/community/matches/116843650) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=4) |
+| 29 | **af-** | **5** | 1 | fishbone2445 | [#1](https://osu.ppy.sh/community/matches/116843634) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=9) |
+| 30 | YuLiangSSS | -1 | **0** | **tangjinxi** | [#1](https://osu.ppy.sh/community/matches/116843835) |  |
 
 Saturday, 18 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| vvvxx | 1 | **5** | **1405512654** | [#1](https://osu.ppy.sh/community/matches/116853454) |
-| 80zero | -1 | **0** | **hero_jeff** | [#1](https://osu.ppy.sh/community/matches/116855242) |
-| SnowySummer | -1 | **0** | **AWMRone** | [#1](https://osu.ppy.sh/community/matches/116856259) |
-| BlueHaze | -1 | **0** | **Mito Van** | [#1](https://osu.ppy.sh/community/matches/116856234) |
-| Shenzouz | 4 | **5** | **[Crz]Reimu** | [#1](https://osu.ppy.sh/community/matches/116856304) |
-| QingJiDing | 4 | **5** | **zec** | [#1](https://osu.ppy.sh/community/matches/116856973) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 20 | vvvxx | 1 | **5** | **1405512654** | [#1](https://osu.ppy.sh/community/matches/116853454) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=2) |
+| 24 | 80zero | -1 | **0** | **hero_jeff** | [#1](https://osu.ppy.sh/community/matches/116855242) |  |
+| 17 | SnowySummer | -1 | **0** | **AWMRone** | [#1](https://osu.ppy.sh/community/matches/116856259) |  |
+| 23 | BlueHaze | -1 | **0** | **Mito Van** | [#1](https://osu.ppy.sh/community/matches/116856234) |  |
+| 26 | Shenzouz | 4 | **5** | **[Crz]Reimu** | [#1](https://osu.ppy.sh/community/matches/116856304) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=7) |
+| 31 | QingJiDing | 4 | **5** | **zec** | [#1](https://osu.ppy.sh/community/matches/116856973) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=10) |
 
 Sunday, 19 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **-[Ulazis]-** | **5** | 4 | quailty | [#1](https://osu.ppy.sh/community/matches/116867754) |
-| Just A GRJ | 2 | **5** | **Randumbs** | [#1](https://osu.ppy.sh/community/matches/116868195) |
-| **VanWilder** | **0** | -1 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/116869002) |
-| **HxcQ777** | **5** | 1 | [GB]hej_067 | [#1](https://osu.ppy.sh/community/matches/116868946) |
-| **Myon_299792458** | **5** | 2 | Fate_Yakumo | [#1](https://osu.ppy.sh/community/matches/116870004) |
-| **Watch01** | **5** | 1 | 9eater | [#1](https://osu.ppy.sh/community/matches/116869943) |
-| **_Yiiiii** | **5** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/116870535) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 22 | **-[Ulazis]-** | **5** | 4 | quailty | [#1](https://osu.ppy.sh/community/matches/116867754) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=5) |
+| 19 | Just A GRJ | 2 | **5** | **Randumbs** | [#1](https://osu.ppy.sh/community/matches/116868195) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=3) |
+| 27 | **VanWilder** | **0** | -1 | SilentParleHorn | [#1](https://osu.ppy.sh/community/matches/116869002) |  |
+| 28 | **HxcQ777** | **5** | 1 | [GB]hej_067 | [#1](https://osu.ppy.sh/community/matches/116868946) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=8) |
+| 18 | **Myon_299792458** | **5** | 2 | Fate_Yakumo | [#1](https://osu.ppy.sh/community/matches/116870004) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN) |
+| 25 | **Watch01** | **5** | 1 | 9eater | [#1](https://osu.ppy.sh/community/matches/116869943) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=6) |
+| 32 | **_Yiiiii** | **5** | 0 | idqoos123 | [#1](https://osu.ppy.sh/community/matches/116870535) | [#1](https://www.bilibili.com/video/BV1EwwCeEEdN?p=11) |
 
 ### Round of 32
 
@@ -454,34 +454,34 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 10 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **af-** | **5** | 0 | AsahinaMikuru | [#1](https://osu.ppy.sh/community/matches/116769687) |
-| **_Yiiiii** | **5** | 0 | 80zero | [#1](https://osu.ppy.sh/community/matches/116769699) |
-| **9eater** | **5** | 2 | AWMRone | [#1](https://osu.ppy.sh/community/matches/116770100) |
-| **[Crz]Reimu** | **5** | 0 | Fate_Yakumo | [#1](https://osu.ppy.sh/community/matches/116770534) |
-| **tangjinxi** | **5** | 1 | quailty | [#1](https://osu.ppy.sh/community/matches/116770609) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 9 | **af-** | **5** | 0 | AsahinaMikuru | [#1](https://osu.ppy.sh/community/matches/116769687) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=9) |
+| 15 | **_Yiiiii** | **5** | 0 | 80zero | [#1](https://osu.ppy.sh/community/matches/116769699) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=15) |
+| 2 | **9eater** | **5** | 2 | AWMRone | [#1](https://osu.ppy.sh/community/matches/116770100) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=2) |
+| 4 | **[Crz]Reimu** | **5** | 0 | Fate_Yakumo | [#1](https://osu.ppy.sh/community/matches/116770534) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=4) |
+| 12 | **tangjinxi** | **5** | 1 | quailty | [#1](https://osu.ppy.sh/community/matches/116770609) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=12) |
 
 Saturday, 11 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **zec** | **5** | 0 | Mito Van | [#1](https://osu.ppy.sh/community/matches/116779896) |
-| **VanWilder** | **5** | 1 | Just A GRJ | [#1](https://osu.ppy.sh/community/matches/116780025) |
-| **Watch01** | **5** | 0 | SnowySummer | [#1](https://osu.ppy.sh/community/matches/116781606) |
-| **QingJiDing** | **5** | 0 | BlueHaze | [#1](https://osu.ppy.sh/community/matches/116781657) |
-| **fishbone2445** | **5** | 1 | [AR]aLEKdexter | [#1](https://osu.ppy.sh/community/matches/116782104) |
-| **YuLiangSSS** | **5** | 1 | -[Ulazis]- | [#1](https://osu.ppy.sh/community/matches/116782123) |
-| hero_jeff | 2 | **5** | **idqoos123** | [#1](https://osu.ppy.sh/community/matches/116783486) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 14 | **zec** | **5** | 0 | Mito Van | [#1](https://osu.ppy.sh/community/matches/116779896) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=14) |
+| 5 | **VanWilder** | **5** | 1 | Just A GRJ | [#1](https://osu.ppy.sh/community/matches/116780025) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=5) |
+| 1 | **Watch01** | **5** | 0 | SnowySummer | [#1](https://osu.ppy.sh/community/matches/116781606) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx) |
+| 13 | **QingJiDing** | **5** | 0 | BlueHaze | [#1](https://osu.ppy.sh/community/matches/116781657) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=13) |
+| 10 | **fishbone2445** | **5** | 1 | [AR]aLEKdexter | [#1](https://osu.ppy.sh/community/matches/116782104) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=10) |
+| 11 | **YuLiangSSS** | **5** | 1 | -[Ulazis]- | [#1](https://osu.ppy.sh/community/matches/116782123) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=11) |
+| 16 | hero_jeff | 2 | **5** | **idqoos123** | [#1](https://osu.ppy.sh/community/matches/116783486) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=16) |
 
 Sunday, 12 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **[GB]hej_067** | **5** | 2 | 1405512654 | [#1](https://osu.ppy.sh/community/matches/116792045) |
-| **Shenzouz** | **5** | 0 | Myon_299792458 | [#1](https://osu.ppy.sh/community/matches/116794303) |
-| **SilentParleHorn** | **5** | 1 | Randumbs | [#1](https://osu.ppy.sh/community/matches/116794729) |
-| **HxcQ777** | **5** | 1 | vvvxx | [#1](https://osu.ppy.sh/community/matches/116795264) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 8 | **[GB]hej_067** | **5** | 2 | 1405512654 | [#1](https://osu.ppy.sh/community/matches/116792045) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=8) |
+| 3 | **Shenzouz** | **5** | 0 | Myon_299792458 | [#1](https://osu.ppy.sh/community/matches/116794303) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=3) |
+| 6 | **SilentParleHorn** | **5** | 1 | Randumbs | [#1](https://osu.ppy.sh/community/matches/116794729) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=6) |
+| 7 | **HxcQ777** | **5** | 1 | vvvxx | [#1](https://osu.ppy.sh/community/matches/116795264) | [#1](https://www.bilibili.com/video/BV1rXcpefEHx?p=7) |
 
 ### Play-off
 
@@ -489,34 +489,34 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 Friday, 3 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **AsahinaMikuru** | **4** | 1 | shadiaojunshi | [#1](https://osu.ppy.sh/community/matches/116697570) |
-| **SnowySummer** | **0** | -1 | Wind God Boy | [#1](https://osu.ppy.sh/community/matches/116699060) |
-| **AWMRone** | **4** | 0 | -fm777- | [#1](https://osu.ppy.sh/community/matches/116699440) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 115 | **AsahinaMikuru** | **4** | 1 | shadiaojunshi | [#1](https://osu.ppy.sh/community/matches/116697570) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=15) |
+| 116 | **SnowySummer** | **0** | -1 | Wind God Boy | [#1](https://osu.ppy.sh/community/matches/116699060) |  |
+| 101 | **AWMRone** | **4** | 0 | -fm777- | [#1](https://osu.ppy.sh/community/matches/116699440) | [#1](https://www.bilibili.com/video/BV1bArxYwExt) |
 
 Saturday, 4 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **BlueHaze** | **4** | 1 | Solitary_Dream | [#1](https://osu.ppy.sh/community/matches/116706132) |
-| **1405512654** | **4** | 0 | UU9 | [#1](https://osu.ppy.sh/community/matches/116706897) |
-| **-[Ulazis]-** | **4** | 1 | koi7iii | [#1](https://osu.ppy.sh/community/matches/116707258) |
-| **vvvxx** | **4** | 1 | WhiteArrow3 | [#1](https://osu.ppy.sh/community/matches/116707545) |
-| **idqoos123** | **4** | 2 | YuuOoo | [#1](https://osu.ppy.sh/community/matches/116707858) |
-| **Mito Van** | **4** | 1 | 6XvX7 | [#1](https://osu.ppy.sh/community/matches/116708917) |
-| **80zero** | **4** | 3 | chuang1227 | [#1](https://osu.ppy.sh/community/matches/116709123) |
-| **quailty** | **4** | 1 | Ist1na | [#1](https://osu.ppy.sh/community/matches/116709609) |
-| **Just A GRJ** | **4** | 0 | [GB]R-Trigger | [#1](https://osu.ppy.sh/community/matches/116709563) |
-| **[AR]aLEKdexter** | **4** | 1 | Postal0177 | [#1](https://osu.ppy.sh/community/matches/116710172) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 114 | **BlueHaze** | **4** | 1 | Solitary_Dream | [#1](https://osu.ppy.sh/community/matches/116706132) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=14) |
+| 105 | **1405512654** | **4** | 0 | UU9 | [#1](https://osu.ppy.sh/community/matches/116706897) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=5) |
+| 110 | **-[Ulazis]-** | **4** | 1 | koi7iii | [#1](https://osu.ppy.sh/community/matches/116707258) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=10) |
+| 112 | **vvvxx** | **4** | 1 | WhiteArrow3 | [#1](https://osu.ppy.sh/community/matches/116707545) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=12) |
+| 106 | **idqoos123** | **4** | 2 | YuuOoo | [#1](https://osu.ppy.sh/community/matches/116707858) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=6) |
+| 103 | **Mito Van** | **4** | 1 | 6XvX7 | [#1](https://osu.ppy.sh/community/matches/116708917) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=3) |
+| 111 | **80zero** | **4** | 3 | chuang1227 | [#1](https://osu.ppy.sh/community/matches/116709123) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=11) |
+| 107 | **quailty** | **4** | 1 | Ist1na | [#1](https://osu.ppy.sh/community/matches/116709609) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=7) |
+| 113 | **Just A GRJ** | **4** | 0 | [GB]R-Trigger | [#1](https://osu.ppy.sh/community/matches/116709563) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=13) |
+| 102 | **[AR]aLEKdexter** | **4** | 1 | Postal0177 | [#1](https://osu.ppy.sh/community/matches/116710172) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=2) |
 
 Sunday, 5 January 2025:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| DannyXLee | 0 | **4** | **Myon_299792458** | [#1](https://osu.ppy.sh/community/matches/116718519) |
-| **Fate_Yakumo** | **4** | 2 | YOKUNANA | [#1](https://osu.ppy.sh/community/matches/116720604) |
-| **Randumbs** | **4** | 1 | Samyuan1216 | [#1](https://osu.ppy.sh/community/matches/116720964) |
+| ID | Player 1 |  |  | Player 2 | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 109 | DannyXLee | 0 | **4** | **Myon_299792458** | [#1](https://osu.ppy.sh/community/matches/116718519) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=9) |
+| 108 | **Fate_Yakumo** | **4** | 2 | YOKUNANA | [#1](https://osu.ppy.sh/community/matches/116720604) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=8) |
+| 104 | **Randumbs** | **4** | 1 | Samyuan1216 | [#1](https://osu.ppy.sh/community/matches/116720964) | [#1](https://www.bilibili.com/video/BV1bArxYwExt?p=4) |
 
 ### Qualifiers
 
