@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!mania 7K World Cup 2027 Mapper and Playtester Applications
-date: 2026-05-22 10:00:00 +0000
+date: 2026-05-23 03:00:00 +0000
 series: world_cups
 ---
 
@@ -19,7 +19,7 @@ The [osu!mania 7K World Cup](/wiki/Tournaments/MWC/2026_7K) is our annual osu!ma
 
 If you wish to be involved in projects such as [Laur - SEV-26](https://www.youtube.com/watch?v=2b46pWr4cR8), [Genesis - Omega ProtocoL](https://www.youtube.com/watch?v=G8bX-IGIS3w), [Kobaryo - Spark of Mayhem](https://www.youtube.com/watch?v=quTkPHZYXls), among others, register your interest via the form below:
 
-[![Click here to apply](/wiki/shared/news/2026-05-22-osumania-7k-world-cup-2027-mapper-and-playtesters-applications/signup-button.png)](https://docs.google.com/forms/d/e/1FAIpQLSdU14ciC02Atosir58cXG5m4Iu-gJU96G1AEfU0MwjGP_94pA/viewform)
+[![Click here to apply](/wiki/shared/news/2026-05-22-osumania-7k-world-cup-2027-mapper-and-playtesters-applications/signup-button.png)](https://leoflt.com/forms/mwc7k2027-apps)
 
 *Please note: If accepted into either role, you will no longer be eligible to participate as a player in the tournament. Both forms require authentication via your osu! account for identification purposes.*
 
