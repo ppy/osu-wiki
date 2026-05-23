@@ -16,7 +16,7 @@ The **osu!catch World Cup 2026** (***CWC 2026***) is a country-based osu!catch t
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2026-04-30 (18:00 UTC) / 2026-05-16 (23:59 UTC) |
-| Qualifier showcase | 2026-05-24 (14:00 UTC) |
+| Qualifier showcase | 2026-05-24 (13:00 UTC) |
 | Qualifier stage | 2026-05-30 / 2026-05-31 |
 | Round of 32 | 2026-06-06 / 2026-06-07 |
 | Round of 16 | 2026-06-13 / 2026-06-14 |
@@ -63,43 +63,43 @@ The osu!catch World Cup 2026 is run by various community members.
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[Story](https://osu.ppy.sh/users/8172283)**, [SirGonzaxz](https://osu.ppy.sh/users/17309439), [Naarkz](https://osu.ppy.sh/users/19490380), [\[225\]Zeus](https://osu.ppy.sh/users/8329151) |
-| ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** |
+| ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)**, [CrimsonPleaseee](https://osu.ppy.sh/users/3743985), [Talicrons](https://osu.ppy.sh/users/6264535), [turt-](https://osu.ppy.sh/users/7630990), [MrRed](https://osu.ppy.sh/users/6358902), [Tenax](https://osu.ppy.sh/users/11635646) |
 | ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)**, [\[ Ajia \]](https://osu.ppy.sh/users/17578266), [ElSkeffeFanBoy](https://osu.ppy.sh/users/12239488), [Jezse](https://osu.ppy.sh/users/11390632), [snowflake-](https://osu.ppy.sh/users/10742890), [\[ Zhiend \]](https://osu.ppy.sh/users/7474404) |
 | ::{ flag=BR }:: | **Brazil** | **[\[MG\] ExRoiBoi](https://osu.ppy.sh/users/25147371)**, [soapsoup](https://osu.ppy.sh/users/16388591), [Tharja](https://osu.ppy.sh/users/4882003), [JESP2310](https://osu.ppy.sh/users/14729191), [Brienus](https://osu.ppy.sh/users/22420912), [A l z a i](https://osu.ppy.sh/users/9610569) |
 | ::{ flag=CA }:: | **Canada** | **[Cole Caufield](https://osu.ppy.sh/users/19290397)** |
 | ::{ flag=CL }:: | **Chile** | **[Pekorrat](https://osu.ppy.sh/users/1250096)**, [Aryssiel](https://osu.ppy.sh/users/2389481), [Stark](https://osu.ppy.sh/users/1565036), [Smukur](https://osu.ppy.sh/users/6434318), [Osuun](https://osu.ppy.sh/users/7143968), [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000) |
-| ::{ flag=CN }:: | **China** | **[Nene Sakura](https://osu.ppy.sh/users/6701104)** |
-| ::{ flag=CO }:: | **Colombia** | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)** |
+| ::{ flag=CN }:: | **China** | **[Nene Sakura](https://osu.ppy.sh/users/6701104)**, [Kaffu-](https://osu.ppy.sh/users/10681880), [Mwallx](https://osu.ppy.sh/users/4319655), [Cornet](https://osu.ppy.sh/users/18468376), [dazzulay](https://osu.ppy.sh/users/1948043), [Crystal](https://osu.ppy.sh/users/1646397) |
+| ::{ flag=CO }:: | **Colombia** | **[Dakary-](https://osu.ppy.sh/users/18076539)**, [HelpMePleasee](https://osu.ppy.sh/users/10835397), [Juansy-](https://osu.ppy.sh/users/12588215), [Zyonii](https://osu.ppy.sh/users/9519851), [smn3to](https://osu.ppy.sh/users/35116982), [ItsAkashi-](https://osu.ppy.sh/users/7073746) |
 | ::{ flag=HR }:: | **Croatia** | **[doddo](https://osu.ppy.sh/users/5166056)**, [Slikarus](https://osu.ppy.sh/users/19513752), [-Malaise](https://osu.ppy.sh/users/16030914), [brainstorm](https://osu.ppy.sh/users/20846774) |
 | ::{ flag=DK }:: | **Denmark** | **[tjukas](https://osu.ppy.sh/users/19132590)**, [Peperonni](https://osu.ppy.sh/users/7392020), [Osten](https://osu.ppy.sh/users/4417929), [Kanhaking](https://osu.ppy.sh/users/37313746) |
 | ::{ flag=FI }:: | **Finland** | **[Veeti](https://osu.ppy.sh/users/12863098)**, [-Kaguya](https://osu.ppy.sh/users/5351518), [ES Jonne](https://osu.ppy.sh/users/7024526), [YERTI](https://osu.ppy.sh/users/1490757), [Tohtori G-piste](https://osu.ppy.sh/users/6109660), [Inry](https://osu.ppy.sh/users/6794660) |
-| ::{ flag=FR }:: | **France** | **[Electr0o](https://osu.ppy.sh/users/9484428)** |
-| ::{ flag=DE }:: | **Germany** | **[wonderleif](https://osu.ppy.sh/users/14744799)** |
+| ::{ flag=FR }:: | **France** | **[Natsuko](https://osu.ppy.sh/users/8266817)**, [Electr0o](https://osu.ppy.sh/users/9484428), [Pitsuwa](https://osu.ppy.sh/users/8417565), [Zelepha](https://osu.ppy.sh/users/6201167), [Nelys](https://osu.ppy.sh/users/8422828), [Holloh](https://osu.ppy.sh/users/7612994) |
+| ::{ flag=DE }:: | **Germany** | **[wonderleif](https://osu.ppy.sh/users/14744799)**, [Marvmallow](https://osu.ppy.sh/users/8403032), [Lume](https://osu.ppy.sh/users/4691991), [NoteKuroi](https://osu.ppy.sh/users/186642), [Yuno4life](https://osu.ppy.sh/users/6477025), [-Nirfu-](https://osu.ppy.sh/users/7332050) |
 | ::{ flag=GR }:: | **Greece** | **[\[Romanos\]](https://osu.ppy.sh/users/4682813)**, [- VayKay -](https://osu.ppy.sh/users/2559954), [JackPaX](https://osu.ppy.sh/users/11226645), [Miliski](https://osu.ppy.sh/users/30866868), [snap](https://osu.ppy.sh/users/10643997), [Tervi](https://osu.ppy.sh/users/20969950) |
 | ::{ flag=HK }:: | **Hong Kong** | **[autofanboy](https://osu.ppy.sh/users/636114)**, [HineX](https://osu.ppy.sh/users/13854), [littlepiggod](https://osu.ppy.sh/users/12331683), [CheungB](https://osu.ppy.sh/users/788406), [fua](https://osu.ppy.sh/users/21138904), [bakugan2win](https://osu.ppy.sh/users/2602338) |
 | ::{ flag=IS }:: | **Iceland** | **[kiriwi](https://osu.ppy.sh/users/6953927)**, [birkir](https://osu.ppy.sh/users/4348967), [Orrisnae](https://osu.ppy.sh/users/22920579), [moppen](https://osu.ppy.sh/users/14977845), [Teini](https://osu.ppy.sh/users/14169321) |
-| ::{ flag=ID }:: | **Indonesia** | **[Zvenx](https://osu.ppy.sh/users/14613788)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)**, [Intel21](https://osu.ppy.sh/users/1272422), [Keita](https://osu.ppy.sh/users/3355617), [Nekuro](https://osu.ppy.sh/users/3222638), [Nomiru](https://osu.ppy.sh/users/17514687), [Taskmaster](https://osu.ppy.sh/users/3027065) |
 | ::{ flag=IL }:: | **Israel** | **[gal1](https://osu.ppy.sh/users/9424481)**, [Nendus](https://osu.ppy.sh/users/22005940), [Tourb0](https://osu.ppy.sh/users/19471527), [Rai](https://osu.ppy.sh/users/7258362), [maor](https://osu.ppy.sh/users/20006045), [DIDARIYO](https://osu.ppy.sh/users/34544821) |
-| ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)** |
+| ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)**, [sawarabi](https://osu.ppy.sh/users/29847781), [S B K](https://osu.ppy.sh/users/29783499), [sennkouhanabi](https://osu.ppy.sh/users/1700008), [tominaga](https://osu.ppy.sh/users/30267184), [Touca](https://osu.ppy.sh/users/32920228) |
 | ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)**, [Joyy](https://osu.ppy.sh/users/14084526), [Karins](https://osu.ppy.sh/users/16087303), [Voxargenteae](https://osu.ppy.sh/users/10774235) |
 | ::{ flag=LT }:: | **Lithuania** | **[insaneskills](https://osu.ppy.sh/users/7699172)**, [iMeskka](https://osu.ppy.sh/users/20920064), [nenoriu](https://osu.ppy.sh/users/6385052), [VenusPower](https://osu.ppy.sh/users/18336171) |
-| ::{ flag=MY }:: | **Malaysia** | **[Moeruattack](https://osu.ppy.sh/users/4480237)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Zakrusta](https://osu.ppy.sh/users/5034270)**, [ZenoX-](https://osu.ppy.sh/users/9626549), [Yeury](https://osu.ppy.sh/users/9434933), [rantabie](https://osu.ppy.sh/users/13630137), [Moeruattack](https://osu.ppy.sh/users/4480237), [Evirir](https://osu.ppy.sh/users/8126553) |
 | ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)**, [Cowboy](https://osu.ppy.sh/users/1237535), [MILK\_16](https://osu.ppy.sh/users/9137627), [Astrea](https://osu.ppy.sh/users/3845678), [Renesmee](https://osu.ppy.sh/users/9610211) |
 | ::{ flag=NL }:: | **Netherlands** | **[Roasted Chicken](https://osu.ppy.sh/users/9461160)**, [Fyunix](https://osu.ppy.sh/users/2503365), [Simon4158](https://osu.ppy.sh/users/524489), [woodpamp](https://osu.ppy.sh/users/3809967), [wen294](https://osu.ppy.sh/users/2265974) |
 | ::{ flag=NZ }:: | **New Zealand** | **[Starwide](https://osu.ppy.sh/users/9926856)**, [Youitchi](https://osu.ppy.sh/users/9897006), [Wettham77](https://osu.ppy.sh/users/14476098), [SeagullBob](https://osu.ppy.sh/users/25517912) |
 | ::{ flag=NO }:: | **Norway** | **[CyCeph](https://osu.ppy.sh/users/4586304)**, [Benita](https://osu.ppy.sh/users/4023183), [Loff](https://osu.ppy.sh/users/8947341), [manok](https://osu.ppy.sh/users/18569771), [Firdibirdy](https://osu.ppy.sh/users/20803806), [Vikki](https://osu.ppy.sh/users/33305106) |
-| ::{ flag=PH }:: | **Philippines** | **[-Isla-](https://osu.ppy.sh/users/17745759)** |
+| ::{ flag=PH }:: | **Philippines** | **[-Isla-](https://osu.ppy.sh/users/17745759)**, [Awakr](https://osu.ppy.sh/users/21072409), [Chrisuly](https://osu.ppy.sh/users/12203613), [Fuyuka-](https://osu.ppy.sh/users/10597843), [Nadeshiko\_Aino](https://osu.ppy.sh/users/34776777) |
 | ::{ flag=PL }:: | **Poland** | **[madcin](https://osu.ppy.sh/users/2957534)**, [trig0n](https://osu.ppy.sh/users/3704228), [Mawers](https://osu.ppy.sh/users/14522883), [Phob](https://osu.ppy.sh/users/6069462), [Mniam](https://osu.ppy.sh/users/6050530), [Blue Vaporous](https://osu.ppy.sh/users/8800023) |
 | ::{ flag=PT }:: | **Portugal** | **[DemiGod Yoxide](https://osu.ppy.sh/users/6205809)**, [AfonsoMPt](https://osu.ppy.sh/users/13294871), [ExPin](https://osu.ppy.sh/users/16935754), [GoncS](https://osu.ppy.sh/users/19423459), [Hiroto-](https://osu.ppy.sh/users/14917517), [Rosa](https://osu.ppy.sh/users/7385703) |
 | ::{ flag=RU }:: | **Russian Federation** | **[Nerris](https://osu.ppy.sh/users/11202866)**, [Morusya](https://osu.ppy.sh/users/13681464), [xDark](https://osu.ppy.sh/users/31355067), [smelly DVD box](https://osu.ppy.sh/users/6647589), [ArthurEdikovich](https://osu.ppy.sh/users/18171621), [genius357](https://osu.ppy.sh/users/30382199) |
 | ::{ flag=RS }:: | **Serbia** | **[jenki](https://osu.ppy.sh/users/27081472)**, [bugfinder1610](https://osu.ppy.sh/users/11630179), [lepinja77](https://osu.ppy.sh/users/11189453), [Nami\_Chan](https://osu.ppy.sh/users/12884733), [optm](https://osu.ppy.sh/users/14477534) |
 | ::{ flag=SG }:: | **Singapore** | **[Ekseff](https://osu.ppy.sh/users/13966422)**, [McButt](https://osu.ppy.sh/users/18018708), [NoBudgetGuy](https://osu.ppy.sh/users/28498328), [QuailLover](https://osu.ppy.sh/users/26383230) |
 | ::{ flag=SK }:: | **Slovakia** | **[micqaal](https://osu.ppy.sh/users/20512411)**, [Ticy](https://osu.ppy.sh/users/15142530), [nevqr](https://osu.ppy.sh/users/14269506), [Golden](https://osu.ppy.sh/users/12639462), [Nikolas](https://osu.ppy.sh/users/7759641), [koiasana](https://osu.ppy.sh/users/28645899) |
-| ::{ flag=KR }:: | **South Korea** | **[qwhj79](https://osu.ppy.sh/users/7547506)** |
+| ::{ flag=KR }:: | **South Korea** | **[qwhj79](https://osu.ppy.sh/users/7547506)**, [DevilFace](https://osu.ppy.sh/users/2253026), [maxqw123](https://osu.ppy.sh/users/3035276), [Ruiz](https://osu.ppy.sh/users/10095644), [Kuzino](https://osu.ppy.sh/users/158552), [tosurashgame](https://osu.ppy.sh/users/29511549) |
 | ::{ flag=ES }:: | **Spain** | **[Sprint](https://osu.ppy.sh/users/13845399)**, [Alepe](https://osu.ppy.sh/users/15273403), [MusicDropZ](https://osu.ppy.sh/users/12759554), [Race-](https://osu.ppy.sh/users/18660354) |
 | ::{ flag=SE }:: | **Sweden** | **[amni sd](https://osu.ppy.sh/users/16669841)**, [DataPata](https://osu.ppy.sh/users/985360), [Setomi79](https://osu.ppy.sh/users/2205929), [Shameimaru](https://osu.ppy.sh/users/20340480), [Wormsniffer](https://osu.ppy.sh/users/14337744) |
 | ::{ flag=CH }:: | **Switzerland** | **[TaikoWorldCup](https://osu.ppy.sh/users/11296097)**, [-Sheep-](https://osu.ppy.sh/users/25209874), [Melodies](https://osu.ppy.sh/users/7787785), [Pantero\_](https://osu.ppy.sh/users/34831329), [Rawrity](https://osu.ppy.sh/users/28222), [xXMysteryXx](https://osu.ppy.sh/users/11475426) |
-| ::{ flag=TW }:: | **Taiwan** | **[eauikk](https://osu.ppy.sh/users/1177233)** |
+| ::{ flag=TW }:: | **Taiwan** | **[Flyer](https://osu.ppy.sh/users/9767342)**, [\_Kitsune](https://osu.ppy.sh/users/35862678), [- S H -](https://osu.ppy.sh/users/2548278), [eauikk](https://osu.ppy.sh/users/1177233), [IceRain86](https://osu.ppy.sh/users/3359485), [Sanami](https://osu.ppy.sh/users/1629471) |
 | ::{ flag=TH }:: | **Thailand** | **[-Blacky-](https://osu.ppy.sh/users/7551572)**, [Azuria](https://osu.ppy.sh/users/16102533), [Char0n](https://osu.ppy.sh/users/17838855), [EzyS](https://osu.ppy.sh/users/16271283), [G1ilbert](https://osu.ppy.sh/users/7408055), [N3Marry](https://osu.ppy.sh/users/13222425) |
 | ::{ flag=TR }:: | **Türkiye** | **[shimu](https://osu.ppy.sh/users/14318796)**, [Teoman](https://osu.ppy.sh/users/29824043), [Yasi6n](https://osu.ppy.sh/users/17482520), [nohut](https://osu.ppy.sh/users/35980302), [Comi\_](https://osu.ppy.sh/users/31855500) |
 | ::{ flag=UA }:: | **Ukraine** | **[257](https://osu.ppy.sh/users/13123942)**, [Metalia](https://osu.ppy.sh/users/15558360), [Shadowbolts1](https://osu.ppy.sh/users/13962882), [wolozon](https://osu.ppy.sh/users/36914600), [nazar kapanacha](https://osu.ppy.sh/users/17314832), [EHEPGODAP](https://osu.ppy.sh/users/13079214) |
@@ -107,7 +107,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=US }:: | **United States** | **[trooperr](https://osu.ppy.sh/users/32028459)** |
 | ::{ flag=VN }:: | **Vietnam** | **[NamSPro](https://osu.ppy.sh/users/11387006)**, [duongduo020810](https://osu.ppy.sh/users/35689909), [Krystal Quan](https://osu.ppy.sh/users/20569104), [nothing0074](https://osu.ppy.sh/users/17804095), [ElenaMii](https://osu.ppy.sh/users/9874807), [DyAnhLikeLemon](https://osu.ppy.sh/users/30352551) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **23 May, 23:59 UTC**. This list was last updated on **21 May 2026**.
+Captains are listed in **bold**. Individual team compositions subject to change until **23 May, 23:59 UTC**. This list was last updated on **23 May 2026, 21:00 UTC**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 

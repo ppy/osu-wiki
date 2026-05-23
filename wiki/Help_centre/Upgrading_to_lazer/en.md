@@ -461,7 +461,7 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 Yes, but it won't show in "best performance" with "lazer mode" turned off on the website.
 
-It additionally not show in "first place ranks" regardless for now.
+It additionally doesn't show in "first place ranks" regardless for now.
 
 #### If I set a score on lazer, will it give performance points?
 
