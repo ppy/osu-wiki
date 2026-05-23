@@ -60,7 +60,6 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 
 ## Match schedule: Week 2
 
-
 ### Sunday, 24 May 2026
 
 | ID | Round | High seed | Low seed | Match time | Twitch stream |  |
