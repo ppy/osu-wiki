@@ -21,6 +21,7 @@ WORKDIR /osu-wiki
 # Install osu-wiki tool dependencies
 COPY package.json package-lock.json pyproject.toml uv.lock ./
 RUN npm install && npm install -g osu-wiki && uv sync
+RUN chmod o+rx /root
 
 # Run the container with UID and GID of the host
 COPY meta/docker-entrypoint.sh /

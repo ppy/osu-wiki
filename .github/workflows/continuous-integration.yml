@@ -70,9 +70,9 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
-        run: uv tool run osu-wiki-tools check-yaml --format github
+        run: uv run osu-wiki-tools check-yaml --format github
 
       - name: find broken wikilinks
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
-        run: uv tool run osu-wiki-tools check-links --all --format github
+        run: uv run osu-wiki-tools check-links --all --format github
