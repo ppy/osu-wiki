@@ -43,8 +43,8 @@ The osu!catch World Cup 2026 is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891) |
-| Mappool playtester | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=VN }:: [Tenwa](https://osu.ppy.sh/users/8525921), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Yunli](https://osu.ppy.sh/users/7226149), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |
-| Mapper | *TBA* |
+| Mappool playtester | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=VN }:: [Tenwa](https://osu.ppy.sh/users/8525921), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Yunli](https://osu.ppy.sh/users/7226149), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |
+| Mapper | ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=ID }:: [Mochi \-](https://osu.ppy.sh/users/20424806), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), *more TBA* |
 | Hitsounder | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=JP }:: [arthRo](https://osu.ppy.sh/users/21663721), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875) |
 | Commentator | *TBA* |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
@@ -54,9 +54,12 @@ The osu!catch World Cup 2026 is run by various community members.
 
 ## Links
 
+- **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1trl37cbvyTMVxCn2Tda4t0Za8FzJSiCGsqqntN8n7V0?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2201978)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/55)
+- [Challonge bracket](https://challonge.com/CWC2026)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/196) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
@@ -66,7 +69,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)**, [CrimsonPleaseee](https://osu.ppy.sh/users/3743985), [Talicrons](https://osu.ppy.sh/users/6264535), [turt-](https://osu.ppy.sh/users/7630990), [MrRed](https://osu.ppy.sh/users/6358902), [Tenax](https://osu.ppy.sh/users/11635646) |
 | ::{ flag=BE }:: | **Belgium** | **[ElSkeffe](https://osu.ppy.sh/users/6283136)**, [\[ Ajia \]](https://osu.ppy.sh/users/17578266), [ElSkeffeFanBoy](https://osu.ppy.sh/users/12239488), [Jezse](https://osu.ppy.sh/users/11390632), [snowflake-](https://osu.ppy.sh/users/10742890), [\[ Zhiend \]](https://osu.ppy.sh/users/7474404) |
 | ::{ flag=BR }:: | **Brazil** | **[\[MG\] ExRoiBoi](https://osu.ppy.sh/users/25147371)**, [soapsoup](https://osu.ppy.sh/users/16388591), [Tharja](https://osu.ppy.sh/users/4882003), [JESP2310](https://osu.ppy.sh/users/14729191), [Brienus](https://osu.ppy.sh/users/22420912), [A l z a i](https://osu.ppy.sh/users/9610569) |
-| ::{ flag=CA }:: | **Canada** | **[Cole Caufield](https://osu.ppy.sh/users/19290397)** |
+| ::{ flag=CA }:: | **Canada** | **[Cole Caufield](https://osu.ppy.sh/users/19290397)**, [Rekkit](https://osu.ppy.sh/users/24595723), [HydriZ](https://osu.ppy.sh/users/14329375), [sularis](https://osu.ppy.sh/users/14571181), [-Kana](https://osu.ppy.sh/users/8623922), [Depths](https://osu.ppy.sh/users/3935174) |
 | ::{ flag=CL }:: | **Chile** | **[Pekorrat](https://osu.ppy.sh/users/1250096)**, [Aryssiel](https://osu.ppy.sh/users/2389481), [Stark](https://osu.ppy.sh/users/1565036), [Smukur](https://osu.ppy.sh/users/6434318), [Osuun](https://osu.ppy.sh/users/7143968), [Lechu FAQ 35P](https://osu.ppy.sh/users/2872000) |
 | ::{ flag=CN }:: | **China** | **[Nene Sakura](https://osu.ppy.sh/users/6701104)**, [Kaffu-](https://osu.ppy.sh/users/10681880), [Mwallx](https://osu.ppy.sh/users/4319655), [Cornet](https://osu.ppy.sh/users/18468376), [dazzulay](https://osu.ppy.sh/users/1948043), [Crystal](https://osu.ppy.sh/users/1646397) |
 | ::{ flag=CO }:: | **Colombia** | **[Dakary-](https://osu.ppy.sh/users/18076539)**, [HelpMePleasee](https://osu.ppy.sh/users/10835397), [Juansy-](https://osu.ppy.sh/users/12588215), [Zyonii](https://osu.ppy.sh/users/9519851), [smn3to](https://osu.ppy.sh/users/35116982), [ItsAkashi-](https://osu.ppy.sh/users/7073746) |
@@ -104,12 +107,33 @@ The osu!catch World Cup 2026 is run by various community members.
 | ::{ flag=TR }:: | **Türkiye** | **[shimu](https://osu.ppy.sh/users/14318796)**, [Teoman](https://osu.ppy.sh/users/29824043), [Yasi6n](https://osu.ppy.sh/users/17482520), [nohut](https://osu.ppy.sh/users/35980302), [Comi\_](https://osu.ppy.sh/users/31855500) |
 | ::{ flag=UA }:: | **Ukraine** | **[257](https://osu.ppy.sh/users/13123942)**, [Metalia](https://osu.ppy.sh/users/15558360), [Shadowbolts1](https://osu.ppy.sh/users/13962882), [wolozon](https://osu.ppy.sh/users/36914600), [nazar kapanacha](https://osu.ppy.sh/users/17314832), [EHEPGODAP](https://osu.ppy.sh/users/13079214) |
 | ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Nathanial](https://osu.ppy.sh/users/9169747), [Upbeat](https://osu.ppy.sh/users/10702118), [John glizzy](https://osu.ppy.sh/users/18416646), [Adisi](https://osu.ppy.sh/users/12182399) |
-| ::{ flag=US }:: | **United States** | **[trooperr](https://osu.ppy.sh/users/32028459)** |
+| ::{ flag=US }:: | **United States** | **[trooperr](https://osu.ppy.sh/users/32028459)**, [Katsue](https://osu.ppy.sh/users/22708842), [mine](https://osu.ppy.sh/users/19476018), [Eunie](https://osu.ppy.sh/users/24092731), [rosld](https://osu.ppy.sh/users/4564521), [Dohland](https://osu.ppy.sh/users/5220511) |
 | ::{ flag=VN }:: | **Vietnam** | **[NamSPro](https://osu.ppy.sh/users/11387006)**, [duongduo020810](https://osu.ppy.sh/users/35689909), [Krystal Quan](https://osu.ppy.sh/users/20569104), [nothing0074](https://osu.ppy.sh/users/17804095), [ElenaMii](https://osu.ppy.sh/users/9874807), [DyAnhLikeLemon](https://osu.ppy.sh/users/30352551) |
 
-Captains are listed in **bold**. Individual team compositions subject to change until **23 May, 23:59 UTC**. This list was last updated on **23 May 2026, 21:00 UTC**.
+Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (89 MB)](https://packs.ppy.sh/P325%20-%20osu%21catch%20World%20Cup%202026%3A%20Qualifiers.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2779772253)
+
+- No Mod
+  1. [xi - over the top (Beepu) \[One of the World Fragments\]](https://osu.ppy.sh/beatmapsets/2558819#fruits/5685683)
+  2. [Xyris - FOXGLOVE (Rocma) \[Show You How it's Done Right\]](https://osu.ppy.sh/beatmapsets/2558820#fruits/5685685)
+  3. [takehirotei - Chronoexplorers (feat. Finite Limit) (Bunnrei) \[Encore\]](https://osu.ppy.sh/beatmapsets/2558822#fruits/5685687)
+- Hidden
+  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Devilish (Mochi -) \[Evil Temptation\]](https://osu.ppy.sh/beatmapsets/2558833#fruits/5685703)
+  2. [penoreri - Vacant Rhapsody (Cut Ver.) (F D Flourite) \[Fading Petals\]](https://osu.ppy.sh/beatmapsets/2558834#fruits/5685705)
+- Hard Rock
+  1. [BlackY - Mebius (Du5t) \[Resonance\]](https://osu.ppy.sh/beatmapsets/2558821#fruits/5685686)
+  2. [0 K - alte vola! (Mrbinking) \[stay high!\]](https://osu.ppy.sh/beatmapsets/2559073#fruits/5686420)
+- Double Time
+  1. [Kaguya (CV: Yuko Natsuyoshi), Yachiyo Runami (CV: Saori Hayami) - ray (Cosmic Princess Kaguya! Version) (Yumeno Himiko) \[Denshi no Umi\]](https://osu.ppy.sh/beatmapsets/2558845#fruits/5685743)
+  2. [Culprate & Bloom - Aurora (-Ken) \[Yoshi & Ken's Infinite Aura\]](https://osu.ppy.sh/beatmapsets/2558843#fruits/5685729)
 
 ## Ruleset
 

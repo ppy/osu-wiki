@@ -55,18 +55,20 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - **[Information spreadsheet](https://docs.google.com/spreadsheets/d/1FD3pHWllqbfzKg55KyOBwcVV0EXc6tHTaGEXB8rXQ2A?rm=minimal)**
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)
+- [Tournament listing](https://osu.ppy.sh/community/tournaments/56)
 - [Challonge bracket](https://challonge.com/LGA2026)
 - [Support your favorite player with a support banner](https://osu.ppy.sh/store/products/1696) 
 
-## Match schedule: Week 2
+## Match schedule: Week 3
 
-### Sunday, 24 May 2026
+### Saturday, 30 May 2026
 
 | ID | Round | High seed | Low seed | Match time | Twitch stream |  |
 | :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 58 | LR2 | [enri](https://osu.ppy.sh/users/8640970) ::{ flag=PH }:: | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [May 24 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T140000&p1=1440) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
-| 60 | F | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | [May 24 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T143000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 57 | LR2 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747) | [May 24 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260524T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 59 | LR3 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 30 (Sat) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T000000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 61a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 30 (Sat) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T000000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: [^losers-finals] |
+| 61b | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 30 (Sat) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T000000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: [^losers-finals] |
+| 62 | GF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | Winner of 61 | [May 30 (Sat) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T000000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Match results
 
@@ -84,6 +86,14 @@ Saturday, 23 May 2026:
 | SF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 1 | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [#1](https://osu.ppy.sh/multiplayer/rooms/3005632/events) | [#1](https://www.twitch.tv/videos/2778991448) |
 | SF | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 1 | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [#1](https://osu.ppy.sh/multiplayer/rooms/3007416/events) | [#1](https://www.twitch.tv/videos/2779296666) |
 | LR1 | [Ivaxa](https://osu.ppy.sh/users/15406985) ::{ flag=PL }:: | FF | **3** | ::{ flag=CL }:: **[alfiu](https://osu.ppy.sh/users/17724014)** |  |  |
+
+Sunday, 24 May 2026:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| LR2 | **[enri](https://osu.ppy.sh/users/8640970)** ::{ flag=PH }:: | **3** | 0 | ::{ flag=CL }:: [alfiu](https://osu.ppy.sh/users/17724014) | [#1](https://osu.ppy.sh/multiplayer/rooms/3021347/events) | [#1](https://www.twitch.tv/videos/2779853639) |
+| F | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 0 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | [#1](https://osu.ppy.sh/multiplayer/rooms/3021739/events) | [#1](https://www.twitch.tv/videos/2779855249) |
+| LR2 | **[TTv_UFO](https://osu.ppy.sh/users/14676719)** ::{ flag=US }:: | **3** | 0 | ::{ flag=DE }:: [runnysunny](https://osu.ppy.sh/users/15339747) | [#1](https://osu.ppy.sh/multiplayer/rooms/3024923/events) | [#1](https://www.twitch.tv/videos/2779975703) |
 
 ### Week 1
 
@@ -461,7 +471,8 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
+[^losers-finals]: Losers bracket Finals match — final matchup depends on the results of the preceding LR3 match
+[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding Losers Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
