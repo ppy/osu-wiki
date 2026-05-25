@@ -2,7 +2,7 @@
 
 *Hovedside: [Help centre](/wiki/Help_centre)*
 
-## Turneringskarantæne
+## Turneringskarantæner
 
 En turneringskarantæne (*tournament ban* på engelsk) forhindrer en spiller i at spille i officielle eller officielt støttede turneringer. Det begrænser også, i hvilken grad spilleren kan være medhjælper, eller på anden måde yde støtte, til sådanne turneringer.
 
