@@ -16,7 +16,7 @@ osu! có nhiều tài khoản Twitter khác nhau, mỗi tài khoản phục vụ
 | ![Ảnh đại diện của osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Kênh thông tin chính. |
 | ![Ảnh đại diện của BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Tấu hài cho cộng đồng khi có vấn đề xảy ra. |
 | ![Ảnh đại diện của NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Tin tức, thông báo và khảo sát cộng đồng bởi [NAT](/wiki/People/Nomination_Assessment_Team) (không được điều hành bởi [đội ngũ osu!](/wiki/People/osu!_team)). |
-| ![Ảnh đại diện của Ủy ban Giải đấu](img/osu_tcomm.jpg) | [@osu_tcomm](https://twitter.com/osu_tcomm) | Tin tức và thông báo về nhiều loại khác nhau liên quan đến giải đấu từ [Ủy ban Giải đấu](/wiki/People/Tournament_Committee) (không được điều hành bởi [Đội ngũ osu!](/wiki/People/osu!_team)). |
+| ![Ảnh đại diện của Ủy ban Giải đấu](img/osu_tcomm.jpg) | [@osu_tcomm](https://twitter.com/osu_tcomm) | Tin tức và thông báo về nhiều loại nội dung khác nhau liên quan đến giải đấu từ [Ủy ban Giải đấu](/wiki/People/Tournament_Committee) (không được điều hành bởi [Đội ngũ osu!](/wiki/People/osu!_team)). |
 | ![Ảnh đại diện của pp committee](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Thông báo về tính toán độ khó cho tất cả chế độ game, điều hành bởi [đội ngũ chuyên về pp](/wiki/People/Performance_Points_Committee). |
 
 ## Cá nhân
