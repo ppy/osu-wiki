@@ -55,7 +55,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 | ![](img/logo_opentabletdriver.png) | [OpenTabletDriver](https://opentabletdriver.net/) | ::{ flag=DK }:: [gonX](https://github.com/gonX) | Tabletgrafiktreiber für osu! mit geringer Latenz |
 | ![](img/logo_osr2mp4.png) | [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243) | ::{ flag=JP }:: [yuitora](https://osu.ppy.sh/users/11401118) | Konvertierungstool für die automatische Umwandlung von `.osr` zu `.mp4` |
 |  | [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143) | ::{ flag=US }:: [ThereGoesMySanity](https://osu.ppy.sh/users/4613296) | Software für Replay-Analysen, um die Ursache für einen Miss herauszufinden |
-|  | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Programm, mit dem Nutzer nicht lokal gespeicherte Replays anschauen können |
+|  | [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282) | ::{ flag=NL }:: [joeykapi](https://osu.ppy.sh/users/8779015) | Programm, mit dem Nutzer Replays anschauen können, die nicht lokal gespeichert wurden |
 |  | [TabletDriver](https://github.com/hawku/TabletDriver) | ::{ flag=FI }:: [HWK](https://osu.ppy.sh/users/1919864) | Tabletgrafiktreiber für osu! mit geringer Latenz |
 
 #### osu!
@@ -106,7 +106,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 |  | [A little approach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541) | ::{ flag=FR }:: [Grosinge](https://osu.ppy.sh/users/7505438) | Webseite, die basierend auf dem BPM-Wert des Songs eine optimale [Approach-Rate](/wiki/Beatmap/Approach_rate) vorschlägt |
 |  | [osu! Slider Creator Tool](https://osu.ppy.sh/community/forums/topics/536978) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Programm, mit dem sich handgezeichnete Formen in Slider umwandeln lassen |
 |  | [osu! Slider End Silencer](https://osu.ppy.sh/community/forums/topics/634268) | ::{ flag=US }:: [stUwUpid](https://osu.ppy.sh/users/5797359) | Tool, um die Hitsounds von Sliderenden automatisch stumm zu stellen |
-|  | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Anwendung, mit der leichter [perfekte Stacks](/wiki/Beatmapping/Mapping_techniques/Stack) zwischen Objekten kreiert werden können |
+|  | [osu! Stacking Tool](https://osu.ppy.sh/community/forums/topics/561477) | ::{ flag=NO }:: [Enitoni](https://osu.ppy.sh/users/9118958) | Anwendung, mit der leichter [perfekte Stacks](/wiki/Beatmapping/Mapping_techniques/Stack) zwischen Objekten erstellt werden können |
 | ![](img/logo_osucad.png) | [osucad](https://osucad.com) | ::{ flag=AT }:: [Maarvin](https://osu.ppy.sh/users/6411631) | Browserbasierter Beatmap-Editor, in dem mehrere Mapper zusammenarbeiten können |
 |  | [osu!trace](https://osu.ppy.sh/community/forums/topics/303844) | ::{ flag=US }:: [HedonicKnight](https://osu.ppy.sh/users/4834671) | Programm zum Nachzeichnen des Cursors, um den Spielfluss der Beatmap zu analysieren |
 
@@ -127,7 +127,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 |  | [O2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149) | ::{ flag=NL }:: [Nyanderfull](https://osu.ppy.sh/users/1191983) | Programm zur Konvertierung von O2jam-Charts im Format `.ojn` zu osu!mania-Beatmaps |
 |  | [osu!HitsoundManager](https://osu.ppy.sh/community/forums/topics/385832) | ::{ flag=US }:: [FrenzyLi](https://osu.ppy.sh/users/6256685) | Anwendung, um Hitsounds aus bestimmten Spalten von einem osu!mania-Schwierigkeitsgrad in einen anderen zu kopieren |
 |  | [OMISM](https://osu.ppy.sh/community/forums/topics/664319) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | Tool zum Konvertieren von osu!mania-Beatmaps zu Stepmania-Charts, das gleichzeitig dazu genutzt werden kann, Beatmap-Keysounds zu kopieren |
-|  | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Programm, um die Geschwindigkeit in osu!mania-Beatmaps anzupassen |
+|  | [omtrc - osu!mania timerate changer](https://osu.ppy.sh/community/forums/topics/618646) | ::{ flag=RU }:: [semyon422](https://osu.ppy.sh/users/4695318) | Programm, um die Geschwindigkeit von osu!mania-Beatmaps anzupassen |
 
 ### Storyboarding
 
@@ -190,7 +190,7 @@ Offizielle Projekte werden zum Großteil durch das [osu!-Team](/wiki/People/osu!
 | ![](img/logo_osucleaner.png) | [osu!cleaner](https://github.com/InvisibleSymbol/osu-cleaner) | ::{ flag=AT }:: [InvisibleSymbol](https://osu.ppy.sh/users/13506780) | Programm zur Sortierung und Löschung von Beatmaps auf der Basis bestimmter Filter |
 | ![](img/logo_osuocm_collection_manager.png) | [osu!ocm Collection Manager](https://osu.ppy.sh/community/forums/topics/554209) | ::{ flag=DE }:: [Yulivee](https://osu.ppy.sh/users/341447) | Tool zum Herunterladen von Beatmaps aus exportierten Sammlungen |
 |  | [osu!Sync](https://osu.ppy.sh/community/forums/topics/270446) | ::{ flag=DE }:: [naseweis520](https://osu.ppy.sh/users/4729376) | Programm zur Erstellung, Bearbeitung und dem Export von Sammlungen |
-|  | [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) | ::{ flag=US }:: [OMQ12](https://osu.ppy.sh/users/3160531) | `.bat`-Skript, um Beatmaps massenweise zu löschen |
+|  | [osu!vd](https://osu.ppy.sh/community/forums/topics/210509) | ::{ flag=US }:: [OMQ12](https://osu.ppy.sh/users/3160531) | `.bat`-Skript, um Videos von Beatmaps massenweise zu löschen |
 
 ### Beatmap-Spiegelserver
 
