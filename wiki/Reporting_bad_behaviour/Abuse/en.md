@@ -86,7 +86,7 @@ If you don't have any evidence, but only stories or rumours that you believe are
 
 ## I think I have acted inappropriately towards someone and want to admit it {id=own-misconduct}
 
-Send an email to [abuse@ppy.sh](mailto:abuse@ppy.sh) detailing any of your behaviour that you think may have been inappropriate. Include as many screenshots and chat logs as you can, and try to explain the context for why the behaviour was inappropriate if it is relevant.
+Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) detailing any of your behaviour that you think may have been inappropriate. Include as many screenshots and chat logs as you can, and try to explain the context for why the behaviour may have been inappropriate if it is not immediately obvious.
 
 ## My email has been ignored! {id=ignored}
 
