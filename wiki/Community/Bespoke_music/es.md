@@ -118,7 +118,7 @@ translation_keys:
 
 Este artículo enumera las canciones creadas específicamente para (o lanzadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [Artistas Destacados](/wiki/People/Featured_Artists).
 
-Ten en cuenta que algunas de las canciones de la lista no cuentan con licencia oficial no están incluidas en la [biblioteca de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1).
+Ten en cuenta que algunas de las canciones de la lista no cuentan con licencia oficial ni están incluidas en la [biblioteca de los Artistas Destacados](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1).
 
 Las canciones con licencia oficial se llaman «osu! originals» y se identifican mediante la etiqueta ![ORIGINAL](/wiki/shared/link/original-pill.png "osu! original") en las páginas de sus respectivos artistas (![osu! original](/wiki/shared/link/original.png "osu! original") en este artículo). Su uso en osu! está autorizado en condiciones no exclusivas, según la [política de licenciamiento de música de osu!](/wiki/Legal/Music_licensing).
 
