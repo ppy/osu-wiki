@@ -28,7 +28,7 @@ Ultralazer420 cần tìm một hình nền cho beatmap mới của họ mà họ
 
 Sau 3 ngày, cuộc bỏ phiếu đã kết thúc và kết quả được đưa ra
 
-52% của GMT và NAT chấp nhận hình ảnh này ổn, 48% thì không đồng ý
+52% phiếu của GMT và NAT chấp nhận hình ảnh này ổn, 48% thì không đồng ý
 
 Điều này có nghĩa là số phiếu của BN bây giờ được gộp vào tổng số phiếu, và những phiếu đó được sử dụng để quyết định kết quả
 
@@ -42,7 +42,7 @@ Một người dùng báo cáo một beatmap đủ tư cách được làm bởi
 
 Báo cáo đã được GMT và NAT xem xét. Sau khi đạt được sự đồng thuận với nhiều ý kiến khác nhau, nội dung đã được gửi thông qua quy trình bỏ phiếu và yêu cầu một bài đăng trong thảo luận của beatmap để ngăn không cho bản đồ được xếp hạng.
 
-Sau 7 ngày, cuộc bỏ phiếu đã kết thúc, 71% của GMT và NAT đồng ý rằng hình ảnh được chấp nhận, 29% thì không đồng ý.
+Sau 7 ngày, cuộc bỏ phiếu đã kết thúc, 71% phiếu của GMT và NAT đồng ý rằng hình ảnh được chấp nhận, 29% thì không đồng ý.
 
 Sau ít nhất 70% phiếu của GMT và NAT đã đồng ý rằng hình ảnh này được chấp nhận, số phiếu của BN không được tính vào.
 
