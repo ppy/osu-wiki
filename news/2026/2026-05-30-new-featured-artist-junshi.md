@@ -7,11 +7,11 @@ series: featured_artists
 
 Hip-hop and anime give off polar opposite impressions, yet our latest Featured Artist combines both as if it's natural.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/546/header.jpg)
 
 A master of his own alternative anime-influenced rap music, **Junshi** has been making a name for himself in the underground hip-hop scene since 2016.
 
-His first breakthrough track "Twilight 1995" found its way to hundreds of thousands of individuals' ears, kickstarting **Junshi**'s evolution into cloud rap and hyperpop, sprinkling in more anime and visual novel influences throughout his own emotional style.
+His first breakthrough track *Twilight 1995* found its way to hundreds of thousands of individuals' ears, kickstarting **Junshi**'s evolution into cloud rap and hyperpop, sprinkling in more anime and visual novel influences throughout his own emotional style.
 
 If you're already convinced (which you should be), you'll find **6** tracks on [**Junshi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/546), each available in a pre-timed beatmap template. That means you can load it in the editor and start mapping on frame 1.
 
@@ -23,38 +23,38 @@ Use your precise clicking skills to click on the "play" button for all of these 
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/546/release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 ### Junshi - Elfen Pipeline Design
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/546/Songs/Junshi%20-%20Elfen%20Pipeline%20Design.mp3">
 </audio>
 
 ### Junshi - Our Romance Shine Shrine
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/546/Songs/Junshi%20-%20Our%20Romance%20Shine%20Shrine.mp3">
 </audio>
 
 ### Junshi - Bloody Carpet; I Can't Let You Down
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/546/Songs/Junshi%20-%20Bloody%20Carpet%27%20I%20Can%27t%20Let%20You%20Down.mp3">
 </audio>
 
 ### Junshi - Lamina Palm Reading Lust
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/546/Songs/Junshi%20-%20Lamina%20Palm%20Reading%20Lust.mp3">
 </audio>
 
 ### Junshi - Velocior Fortunae
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/546/Songs/Junshi%20-%20Velocior%20Fortunae.mp3">
 </audio>
 
 ---
