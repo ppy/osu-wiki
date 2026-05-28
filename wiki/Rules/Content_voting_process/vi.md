@@ -4,7 +4,7 @@ Nội dung được gửi đến [Người đề cử Beatmap](/wiki/People/Beat
 
 ## Quy trình đánh giá 
 
-1. Một mapper, modder, hoặc thành viên cộng đồng có liên quan đề xuất bất kỳ yếu tố trực quan nào trong một beatmap để xem xét theo [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations) qua gửi báo cáo nội dung tại [website BN](https://bn.mappersguild.com/reports).
+1. Một mapper, modder, hoặc thành viên cộng đồng có liên quan đề xuất bất kỳ yếu tố trực quan nào trong một beatmap để xem xét theo [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations) qua việc gửi báo cáo nội dung tại [website BN](https://bn.mappersguild.com/reports).
 2. Các báo cáo sau đó được NAT và GMT đánh giá[^beatmap-nominators]. Trừ những trường hợp rõ ràng nhất, một "trường hợp nội dung" mới được làm trực tiếp và sẵn sàng để bỏ phiếu càng sớm càng tốt. Toàn bộ thành viên của BN, GMT và NAT đều đủ điều kiện để tham gia bỏ phiếu.
 3. Trong khi cuộc bỏ phiếu đang hoạt động, bất kỳ beatmap nào chứa đựng yếu tố trực quan được nói trên đều không thể đề cử hoặc đủ tư cách. Nếu map đang ở trạng thái đủ tư cách, một yêu cầu sửa đổi sẽ được đăng trong phần thảo luận modding, tạm dừng việc xếp hạng bản đồ cho đến khi cuộc bỏ phiếu kết thúc.
 4. Cuộc bỏ phiếu sẽ kết thúc sau một khoảng thời gian 3 ngày mà không có thêm phiếu mới, hoặc đủ 7 ngày kể từ khi cuộc bỏ phiếu bắt đầu, tùy điều kiện nào đến trước.
