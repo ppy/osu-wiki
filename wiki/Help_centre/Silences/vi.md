@@ -7,7 +7,7 @@ tags:
 
 # Sự im lặng
 
-**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường an toàn, cả trên wedsite lẫn trong game.
+**Im lặng** là một thuật ngữ được sử dụng để mô tả hình phạt giới hạn phương tiện giao tiếp của người dùng trong cộng đồng osu!. Các thành viên của [nhóm điều hành toàn cầu](/wiki/People/Global_Moderation_Team) và [nhóm đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) thường đưa ra hình phạt im lặng này để duy trì một môi trường lành mạnh, cả trên website lẫn trong game.
 
 ## Những hạn chế
 
@@ -35,7 +35,7 @@ Khi được áp dụng, im lặng sẽ được hiển thị công khai trong t
 
 ## Thời lượng
 
-Thời lượng của một im lặng bắt đầu từ 5 phút và thường gấp đôi với mỗi vi phạm sau đó, tối đa đến 28 ngày, nhưng thời gian ban đầu có thể thay đổi tùy thuộc vào vi phạm đã thực hiện và lịch sử của người dùng trước đó. Các yếu tố được xem xét khi xác định độ dài của một im lặng tính vào:
+Thời lượng của một im lặng bắt đầu từ 5 phút và thường gấp đôi với mỗi vi phạm sau đó, tối đa là 28 ngày, nhưng thời gian ban đầu có thể thay đổi tùy thuộc vào vi phạm đã thực hiện và lịch sử của người dùng trước đó. Các yếu tố được xem xét khi xác định độ dài của một im lặng bao gồm:
 
 - **Bầu không khí**: Tình trạng của môi trường trò chuyện hiện tại.
 - **Tần suất vi phạm**: sự lặp lại bất chấp những lần im lặng trước đó được áp dụng.
