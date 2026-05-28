@@ -15,12 +15,12 @@ tags:
 ![](img/silence-profile.png?1 "Lịch sử im lặng trong trang hồ sơ")
 :::
 
-Một người dùng có một im lặng đang hoạt động không thể làm những điều sau đây:
+Một người dùng có một im lặng đang có hiệu lực không thể làm những điều sau đây:
 
-- Sử dụng [trò chuyện](/wiki/Client/Interface/Chat_console) trực tuyến (công khai và riêng tư) cả trong game lẫn trên trang web.
+- Sử dụng [trò chuyện](/wiki/Client/Interface/Chat_console) trực tuyến (công khai và riêng tư) cả trong game lẫn trên website.
 - Đăng bài trên bất kỳ các diễn đàn của osu!
-- Đăng các bình luận bất kỳ nơi nào trên trang wed (beatmap, danh sách thay đổi, tin tức).
-- Tham gia vào trong [thảo luận beatmap](/wiki/Beatmap_discussion).
+- Đăng bình luận bất kỳ nơi nào trên wedsite (beatmap, danh sách thay đổi, tin tức).
+- Tham gia vào [thảo luận beatmap](/wiki/Beatmap_discussion).
 - Chỉnh sửa chi tiết hồ sơ, thay đổi avatar, ảnh bìa và trang người dùng.
 - Gửi và cập nhật beatmap
 - Tham gia vào chế độ [nhiều người chơi](/wiki/Client/Interface/Multiplayer).
@@ -29,9 +29,9 @@ Một người dùng có một im lặng đang hoạt động không thể làm 
 ![](img/silence-ingame.png "Cảnh báo im lặng trong trò chuyện")
 :::
 
-Một khi lệnh im lặng được áp dụng cho người dùng, tất cả các tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí ô nhập tin nhắn chứa thời gian của im lặng đang hoạt động.[^chat-cleanup]
+Một khi lệnh im lặng được áp dụng cho người dùng, toàn bộ tin nhắn của họ trong trò chuyện đều bị xóa bỏ và một thông báo sẽ được hiển thị trong vị trí ô nhập tin nhắn chứa thời lượng còn lại của im lặng đang hoạt động.[^chat-cleanup]
 
-Khi được áp dụng, im lặng sẽ được hiển thị công khai dưới tab `trạng thái tài khoản` của hồ sơ người dùng bị im lặng, và vẫn tiếp tục hiển thị trong 28 ngày sau khi kết thúc. Nếu im lặng hiện tại đang hoạt động, thời lượng của nó cũng sẽ được hiển thị trong tab này. Và khi người dùng có 3 hoặc thêm im lặng được hiển thị, hoặc nếu có một im lặng hiển thị kéo dài hơn 43 giờ, một cảnh báo về trạng thái hồ sơ của người dùng cũng được hiển thị. 
+Khi được áp dụng, im lặng sẽ được hiển thị công khai trong tab `trạng thái tài khoản` của hồ sơ người dùng bị im lặng, và vẫn tiếp tục hiển thị trong 28 ngày sau khi kết thúc. Nếu im lặng hiện tại đang hoạt động, thời lượng của nó cũng sẽ được hiển thị trong tab này. Và khi người dùng có 3 im lặng trở lên được hiển thị, hoặc nếu có một im lặng hiển thị kéo dài hơn 43 giờ, một cảnh báo sẽ xuất hiện trên hồ sơ người dùng. 
 
 ## Thời lượng
 
@@ -46,14 +46,14 @@ Trong một số các trường hợp, người dùng có thể nhận được 
 
 ## Những lý do phổ biến cho im lặng
 
-Một số các lý do phổ biến tại sao người dùng nhận được im lặng trong trò chuyện cộng đồng bao gồm, nhưng không giới hạn:
+Một số lý do phổ biến tại sao người dùng nhận được im lặng trong trò chuyện cộng đồng bao gồm, nhưng không giới hạn:
 
 - **Gửi thư rác hoặc làm tràn ngập trò chuyện**: Không cần giải thích thêm
-- **Lạm dụng chữ in hoa**: Trò chuyện bằng tất cả các chữ cái in hoa
+- **Lạm dụng chữ in hoa**: Sử dụng toàn bộ chữ cái in hoa trong trò chuyện
 - **Hành vi/cuộc trò chuyện không phù hợp**: Trò chuyện công cộng không phải là một nơi dành cho các thảo luận nội dung không phù hợp với mọi lứa tuổi hoặc đối với các chủ đề gây kích động.
 - **Phân biệt chủng tộc**: Phân biệt đối xử hoặc căm ghét dựa trên chủng tộc, tôn giáo, giới tính và những thứ tương tự.
 - **Quảng cáo** – Khuyến mãi sản phẩm hoặc dịch vụ, điều này bao gồm các liên kết mời tham gia Discord và các liên kết phát trực tuyến khác như Twitch và YouTube.
-- **Nội dung không mong muốn**: Các wedsite chứa nội dung vi phạm bản quyền, gây hoảng sợ, giới thiệu và các thứ tương tự
+- **Nội dung không mong muốn**: Các website chứa nội dung vi phạm bản quyền, gây hoảng sợ, liên kết giới thiệu và các thứ tương tự
 
 Lệnh cấm im lặng cũng có thể được áp dụng đối với người dùng vì những lý do khác, chẳng hạn (nhưng không giới hạn):
 
@@ -63,15 +63,15 @@ Lệnh cấm im lặng cũng có thể được áp dụng đối với người
 
 ## Kháng cáo
 
-Trong khi các hình thức im lặng được áp dụng để duy trì một môi trường cộng đồng tích cực, đôi khi lỗi cũng có thể xảy ra. Nếu bạn tin rằng hình thức im lặng áp dụng cho bạn là lỗi hoặc không công bằng, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#accounts@ppy.sh) tại [accounts@ppy.sh](mailto:accounts@ppy.sh) và giải thích tình huống. bạn cũng có thể yêu cầu giải thích rõ ràng về lý do im lặng của bạn.
+Trong khi các hình thức im lặng được áp dụng để duy trì một môi trường cộng đồng tích cực, đôi khi lỗi cũng có thể xảy ra. Nếu bạn tin rằng hình thức im lặng áp dụng cho bạn là lỗi hoặc không công bằng, vui lòng liên hệ [đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team#accounts@ppy.sh) tại [accounts@ppy.sh](mailto:accounts@ppy.sh) và giải thích tình huống. Bạn cũng có thể yêu cầu giải thích rõ ràng về lý do im lặng của bạn.
 
-Hãy nhớ rằng bạn bắt buộc sử dụng địa chỉ email liên quan với tài khoản osu! của bạn và đề cập đến tên người dùng của bạn để xác nhận đó là bạn.
+Hãy nhớ rằng bạn bắt buộc phải sử dụng địa chỉ email liên kết với tài khoản osu! của bạn và đề cập đến tên người dùng của bạn để xác nhận đó là bạn.
 
 ## Cách nào để tôi tránh bị im lặng ?
 
-Đọc kĩ và theo [các quy tắc](/wiki/Rules), [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations), [Quy định nội dung bài hát](/wiki/Rules/Song_content_rules), và [quy tắc ứng xử với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). Nếu bạn không chắc liệu điều bạn muốn làm hoặc nói có vi phạm quy định hay không, hãy hỏi [một thành viên của nhóm điều hành toàn cầu](https://osu.ppy.sh/groups/4). 
+Đọc kĩ và tuân thủ [các quy tắc](/wiki/Rules), [Những cân nhắc về nội dung trực quan](/wiki/Rules/Visual_content_considerations), [Quy định nội dung bài hát](/wiki/Rules/Song_content_rules), và [quy tắc ứng xử với modding và mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping). Nếu bạn không chắc liệu điều bạn muốn làm hoặc nói có vi phạm quy định hay không, hãy hỏi [một thành viên của nhóm điều hành toàn cầu](https://osu.ppy.sh/groups/4). 
 
-Ngoài ra, nếu bạn có bài đăng trên diễn đàn cũ, beatmap, bình luận, hoặc những thứ tương tự mà bạn cho rằng chứa nội dung không phù hợp, bạn cũng nên đơn giản là xóa đi hoặc chỉnh sửa phần nội dung nếu có thể. Nếu bạn không thể chỉnh sửa hoặc xóa nội dung vì bất kỳ lý do nào, liên hệ một thành viên của nhóm điều hành toàn cầu để xóa bỏ chúng.
+Ngoài ra, nếu bạn có bài đăng trên diễn đàn cũ, beatmap, bình luận, hoặc những thứ tương tự mà bạn cho rằng chứa nội dung không phù hợp, bạn cũng nên đơn giản là xóa hoặc chỉnh sửa phần nội dung đó nếu có thể. Nếu bạn không thể chỉnh sửa hoặc xóa nội dung vì bất kỳ lý do nào, liên hệ một thành viên của nhóm điều hành toàn cầu để họ xóa nội dung đó.
 
 ## Tài liệu tham khảo
 
