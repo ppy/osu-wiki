@@ -4,7 +4,7 @@
 
 ## Hành vi và ứng xử
 
-- **Mục đích của modding là để giúp đỡ người lập bản đồ cải thiện công việc của họ.** Nếu bạn không hứng thú với việc giúp đỡ người khác hoặc thúc đẩy một cuộc thảo luận lành mạnh, thì tốt nhất đừng nên tham gia vào việc thảo luận.
+- **Mục đích của modding là để giúp đỡ mapper cải thiện beatmap của họ.** Nếu bạn không hứng thú với việc giúp đỡ người khác hoặc thúc đẩy một cuộc thảo luận lành mạnh, thì tốt nhất đừng nên tham gia vào việc thảo luận.
 - **Cân nhắc kỹ nội dung bạn sắp đăng, lý do bạn đăng và người mà bạn muốn hướng đến.** Điều này sẽ đảm bảo rằng ý định tốt nhất của bạn được truyền đạt rõ ràng và bài đăng của bạn dễ hiểu.
 - **Giữ thái độ thân thiện trong trò chuyện.** Các cuộc thảo luận mở cho tất cả người dùng. Mọi người đều được hoan nghênh tham gia, bao gồm cả những người mới trong cộng đồng. Hãy kiên nhẫn, thấu hiểu lẫn nhau và đưa ra nhiều giải thích càng tốt để mọi người có thể học hỏi và cải thiện nhanh hơn.
 - **Đối xử với người khác theo cách bạn muốn được đối xử.** Mọi người sẽ dễ tiếp nhận những góp ý tử tế và hữu ích hơn là những lời lẽ mang tính công kích. Giữ đúng chủ đề và tránh các bình luận xúc phạm cá nhân, thù ghét và những trò đùa không đúng chỗ để không làm lệch hướng cuộc thảo luận.
@@ -12,18 +12,18 @@
 
 ## Phản hồi với một bài đăng mod
 
-Trách nhiệm của một mapper là theo dõi và phản hồi các cuộc thảo luận mới về beatmap của mình. Phớt lờ các đề xuất hoặc không phản hồi kịp thời có thể làm những người modder khác nản lòng và không muốn tham gia thảo luận nữa.
+Trách nhiệm của một mapper là theo dõi và phản hồi các cuộc thảo luận mới về beatmap của mình. Phớt lờ các đề xuất hoặc không phản hồi kịp thời có thể làm những modder khác nản lòng và không muốn tham gia thảo luận nữa.
 
-Khi phản hồi đối với đề xuất của ai đó, điều quan trọng là phải xem xét những điểm sau:
+Khi phản hồi đề xuất của ai đó, bạn cần phải xem xét những điểm sau:
 
 - **Hãy coi tất cả các đề xuất đều hợp lệ và có giá trị như nhau.** Đừng vội vàng kết luận về tính hợp lệ của một đề xuất khi chưa đánh giá kỹ lưỡng trước.
-- **Giải thích rõ ràng cho quyết định của bạn.** Nêu rõ những gì bạn đã thay đổi, và nếu bạn không đồng ý với một đề xuất, hãy giải thích lý do và những gì bạn đã làm thay vào đó. Điều này không chỉ giúp người modding học hỏi thêm mà còn giúp những lần mod sau này được điều chỉnh phù hợp với ý tưởng hoặc cách làm của bạn.
+- **Giải thích rõ ràng cho quyết định của bạn.** Nêu rõ những gì bạn đã thay đổi, và nếu bạn không đồng ý với một đề xuất, hãy giải thích lý do và những gì bạn đã làm thay vào đó. Điều này không chỉ giúp modder học hỏi thêm mà còn giúp những lần mod sau này được điều chỉnh để phù hợp với ý tưởng hoặc phong cách của bạn.
 - **Giữ bình tĩnh trong mọi trường hợp.** Nói những gì cần nói về lời giải thích của bản thân và không nói thêm gì nữa. Dù đề xuất có tệ đến mức nào, việc phản hồi bằng thái độ thù địch, mỉa mai, v.v... sẽ không giúp cải thiện tình hình hiện tại và còn gây thêm rắc rối cho chính bạn.
-- **Cung cấp bối cảnh vấn đề cụ thể.** Bằng cách đưa đầy đủ thông tin liên quan trong phản hồi với các mod, bạn sẽ giúp các người modding khác sau này dễ dàng hiểu được cuộc thảo luận hơn.
+- **Cung cấp bối cảnh vấn đề cụ thể.** Bằng cách đưa đầy đủ thông tin liên quan trong phản hồi với các mod, bạn sẽ giúp các modder khác sau dễ dàng hiểu được cuộc thảo luận hơn.
 
 ## Trao đổi và thảo luận thêm
 
-Đôi khi các cuộc thảo luận sẽ kéo dài đến mức với một lần mod và phản hồi đơn giản cũng không đủ để khiến tất cả các bên đi đến thống nhất. Có thể mapper không đồng ý với một đề xuất và modder thì không hài lòng với phản hồi của họ. Cách giải quyết lý tưởng nhất là nên cho cuộc thảo luận được giải quyết trong một khoảng thời gian hợp lý.
+Đôi khi các cuộc thảo luận sẽ kéo dài đến mức với một lần mod và phản hồi đơn giản cũng không đủ để khiến tất cả các bên đi đến thống nhất. Có thể mapper không đồng ý với một đề xuất và modder thì không hài lòng với phản hồi của họ. Trong điều kiện lý tưởng, mọi thảo luận nên được kết thúc trong một khoảng thời gian hợp lý.
 
 Khi không thể đi đến thống nhất, hãy tham khảo các nguyên tắc sau đây:
 
