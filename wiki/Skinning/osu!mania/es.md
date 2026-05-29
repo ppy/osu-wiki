@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 238835a67fc953aa2aa5a51f64149a1d862bfd62
+---
+
 # Skinning de osu!mania
 
 Desde la versión 2.5 o en versiones posteriores, los skinners ahora pueden personalizar completamente las notas y el escenario de osu!mania usando el archivo [skin.ini](/wiki/Skinning/skin.ini). Lo siguiente es lo que osu! reconocerá si uno elige no usar el `skin.ini` para una mayor personalización.
