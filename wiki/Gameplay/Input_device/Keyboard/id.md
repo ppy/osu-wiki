@@ -4,8 +4,8 @@ stub: true
 
 # Keyboard
 
-**Keyboard** adalah perangkat input paling umum yang digunakan untuk bermain osu!. Secara umum, tombol `Z` dan `X` digunakan untuk menekan dalam permainan, tapi juga dapat diubah ke tombol apapun sesuai dengan keinginan pengguna di opsi pengaturan osu!.
+**Keyboard** (papan tuts) adalah perangkat input yang paling umum digunakan untuk bermain osu!. Secara bawaan, tombol-tombol yang digunakan untuk mengeklik di dalam permainan adalah `Z` dan `X`, namun kedua tombol ini dapat diubah ke tombol mana pun yang kamu inginkan pada menu pengaturan osu!.
 
 ## Keypad
 
-**Keypad** adalah keyboard miniatur dengan satu set tombol terbatas. Keypad menjadi populer di osu! karena ukuran dan jumlah tombol yang sedikit, biasanya 2 atau 4.
+**Keypad** adalah keyboard versi miniatur dengan set tombol yang terbatas. Penggunaan keypad populer di osu! karena ukurannya yang kecil dan jumlah tombolnya yang sedikit, yang biasanya hanya 2 atau 4.
