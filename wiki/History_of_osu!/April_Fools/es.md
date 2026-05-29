@@ -195,7 +195,7 @@ El día de los Inocentes de 2021 recicló la misma broma de los dos años anteri
 
 ## 2026
 
-### Más botones
+### Más opciones
 
 ::: Infobox
 ![La barra lateral de opciones durante el día de los Inocentes](img/2026-toggles.png "Sección de Toggles visible durante el día de los Inocentes")
