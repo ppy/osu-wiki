@@ -71,9 +71,9 @@ Stelle sicher, dass du die mit deinem osu!-Account verknüpfte E-Mail-Adresse ve
 
 ## Wie vermeide ich, stumm geschaltet zu werden?
 
-Lies die [Regeln](/wiki/Rules), die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations), die [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) und das [Verhaltenskodex für Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas, die du sagen oder tun willst, einen Regelverstoß wäre, frag [ein Mitglied des globalen Moderationsteams](https://osu.ppy.sh/groups/4).
+Lies die [Regeln](/wiki/Rules), die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations), die [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) und den [Verhaltenskodex für Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas, das du sagen oder tun willst, einen Regelverstoß wäre, frag [ein Mitglied des globalen Moderationsteams](https://osu.ppy.sh/groups/4).
 
-Wenn du unsicher bist, ob einer deiner alten Forenbeiträge, Kommentare, Beatmaps, usw. unangemessene Inhalte enthält, ist es empfohlen, diesen Inhalt womöglich einfach zu löschen oder wegzubearbeiten. Kontaktiere bitte ein Mitglied des globalen Moderationsteams, falls einer solchen Löschung bzw. Bearbeitung nicht möglich ist.
+Wenn du unsicher bist, ob einer deiner alten Forenbeiträge, Kommentare, Beatmaps, usw. unangemessene Inhalte enthält, ist es empfohlen, diesen Inhalt womöglich einfach zu löschen oder wegzubearbeiten. Kontaktiere bitte ein Mitglied des globalen Moderationsteams, falls eine solche Löschung bzw. Bearbeitung nicht möglich ist.
 
 ## Referenzen
 
