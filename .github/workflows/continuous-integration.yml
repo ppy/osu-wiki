@@ -50,8 +50,6 @@ jobs:
 
             if (!shouldRun) return result;
 
-            const prNumber = pr.number;
-
             const files = [];
             const iter = github.paginate.iterator(github.rest.pulls.listFiles, {
               owner, repo, pull_number: pr.number, per_page: 100,
@@ -100,6 +98,7 @@ jobs:
 
       - name: Detect changed files
         id: detect-changed-files
+        # Use NUL as a separator to prevent filenames containing spaces and punctuation marks from tripping up the scripts.
         run: |
           CHANGED_FILES_PATH="$RUNNER_TEMP/changed_files"
           jq -j '.[] + "\u0000"' <<<"$CHANGED_JSON" > "$CHANGED_FILES_PATH"
