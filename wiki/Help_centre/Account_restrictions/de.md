@@ -54,7 +54,7 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 
 ## Meine Auszeit ist vorbei. Wie lege ich Beschwerde ein? {id=appeal}
 
-Du kannst durch eine E-Mail mit dem Betreff `Restriction Appeal: <Benutzername>` an accounts@ppy.sh eine Beschwerde einreichen. Stelle sicher, dass du die E-Mail von der E-Mail-Adresse aus sendest, die mit deinem Account verknüpft ist. Erwarte eine Antwort innerhalb von zwei Wochen, nachdem du die Beschwerde eingereicht hast. Wenn du danach noch keine Antwort erhalten hast, dann sende uns bitte eine weitere E-Mail — deine erste E-Mail hat vielleicht aus irgendwelchen Gründen verloren gegangen.
+Du kannst durch eine E-Mail mit dem Betreff `Restriction Appeal: <Benutzername>` an [accounts@ppy.sh](mailto:accounts@ppy.sh) eine Beschwerde einreichen. Stelle sicher, dass du die E-Mail von der E-Mail-Adresse aus sendest, die mit deinem Account verknüpft ist. Erwarte eine Antwort innerhalb von zwei Wochen, nachdem du die Beschwerde eingereicht hast. Wenn du danach noch keine Antwort erhalten hast, dann sende uns bitte eine weitere E-Mail — deine erste E-Mail hat vielleicht aus irgendwelchen Gründen verloren gegangen.
 
 Beim Einreichen einer Beschwerde erwarten wir die folgenden Punkte:
 
