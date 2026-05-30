@@ -19,11 +19,11 @@ Khi phản hồi đề xuất của ai đó, bạn cần phải xem xét những
 - **Hãy coi tất cả các đề xuất đều hợp lệ và có giá trị như nhau.** Đừng vội vàng kết luận về tính hợp lệ của một đề xuất khi chưa đánh giá kỹ lưỡng trước.
 - **Giải thích rõ ràng cho quyết định của bạn.** Nêu rõ những gì bạn đã thay đổi, và nếu bạn không đồng ý với một đề xuất, hãy giải thích lý do và những gì bạn đã làm thay vào đó. Điều này không chỉ giúp modder học hỏi thêm mà còn giúp những lần mod sau này được điều chỉnh để phù hợp với ý tưởng hoặc phong cách của bạn.
 - **Giữ bình tĩnh trong mọi trường hợp.** Nói những gì cần nói về lời giải thích của bản thân và không nói thêm gì nữa. Dù đề xuất có tệ đến mức nào, việc phản hồi bằng thái độ thù địch, mỉa mai, v.v... sẽ không giúp cải thiện tình hình hiện tại và còn gây thêm rắc rối cho chính bạn.
-- **Cung cấp bối cảnh vấn đề cụ thể.** Bằng cách đưa đầy đủ thông tin liên quan trong phản hồi với các mod, bạn sẽ giúp các modder khác sau dễ dàng hiểu được cuộc thảo luận hơn.
+- **Cung cấp bối cảnh vấn đề cụ thể.** Bằng cách đưa đầy đủ thông tin liên quan trong phản hồi với các mod, bạn sẽ giúp các modder sau dễ dàng hiểu được cuộc thảo luận hơn.
 
 ## Trao đổi và thảo luận thêm
 
-Đôi khi các cuộc thảo luận sẽ kéo dài đến mức với một lần mod và phản hồi đơn giản cũng không đủ để khiến tất cả các bên đi đến thống nhất. Có thể mapper không đồng ý với một đề xuất và modder thì không hài lòng với phản hồi của họ. Trong điều kiện lý tưởng, mọi thảo luận nên được kết thúc trong một khoảng thời gian hợp lý.
+Đôi khi các cuộc thảo luận sẽ kéo dài đến mức với một lần mod và phản hồi là không đủ để khiến tất cả các bên đi đến thống nhất. Có thể mapper không đồng ý với một đề xuất và modder thì không hài lòng với phản hồi của họ. Trong điều kiện lý tưởng, mọi thảo luận nên được kết thúc trong một khoảng thời gian hợp lý.
 
 Khi không thể đi đến thống nhất, hãy tham khảo các nguyên tắc sau đây:
 
