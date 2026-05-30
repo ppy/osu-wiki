@@ -19,7 +19,7 @@ Use your precise clicking skills to click on the "play" button for all of these 
 
 ### Junshi, 16:9 krollo - think~ fountain Confessional
 
-**Junshi**'s sound first made its way to osu! through a beatmap of [think~ fountain Confessional](https://osu.ppy.sh/beatmapsets/2507606) by [Lighten](https://osu.ppy.sh/users/7595619)!
+**Junshi**'s sound first made its way to osu! through a beatmap of [think~ fountain Confessional](https://osu.ppy.sh/beatmapsets/2507606) by [Lightin](https://osu.ppy.sh/users/7595619)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
