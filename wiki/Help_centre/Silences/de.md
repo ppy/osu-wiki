@@ -33,7 +33,7 @@ Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nich
 
 Nachdem ein Nutzer stumm geschaltet wurde, werden alle Nachrichten des Nutzers entfernt. Des Weiteren wird eine Warnung anstelle der Chateingabe angezeigt, die anmerkt, wann die Stummschaltung aufgehoben wird.[^chat-cleanup]
 
-Nachdem eine Stummschaltung gegen einen Nutzer festgelegt wird, ist die Stummschaltung für die Öffentlichkeit für 28 Tage nach ihrem Ablauf sichtbar. Falls ein Nutzer aktuell stumm geschaltet ist, wird die Dauer dieser Stummschaltung angezeigt. Hat ein Nutzer 3 sichtbare Stummschaltungen oder mehr, oder hat ein Nutzer eine sichtbare Stummschaltung, die 43 Stunden oder länger ist, so wird eine Warnung bezüglich des Rufs des Accounts auch angezeigt.
+Nachdem eine Stummschaltung gegen einen Nutzer festgelegt wird, ist die Stummschaltung für die Öffentlichkeit für 28 Tage nach ihrem Ablauf sichtbar. Falls ein Nutzer aktuell stumm geschaltet ist, wird die Dauer dieser Stummschaltung angezeigt. Hat ein Nutzer 3 oder mehr sichtbare Stummschaltungen, oder hat ein Nutzer eine sichtbare Stummschaltung, die 43 Stunden oder länger ist, so wird zusätzlich eine Warnung bezüglich des Rufs des Accounts angezeigt.
 
 ## Dauer
 
@@ -65,13 +65,13 @@ Nutzer erhalten Stummschaltungen möglicherweise auch aus den folgenden Gründen
 
 ## Einer Stummschaltung widersprechen
 
-Stummschaltungen sind wichtig für einen positiven Umgang in der Community, jedoch können Fehler passieren. Wenn du glaubst, zu Unrecht stumm geschaltet worden zu sein, dann kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh) und erkläre die Situation. Du kannst sie auch darum bitten, dir die Gründe für deiner Stummschaltung zu erklären.
+Stummschaltungen sind wichtig für einen positiven Umgang in der Community, jedoch können Fehler passieren. Wenn du glaubst, zu Unrecht stumm geschaltet worden zu sein, dann kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#accounts@ppy.sh) via [accounts@ppy.sh](mailto:accounts@ppy.sh) und erkläre die Situation. Du kannst sie auch darum bitten, dir die Gründe für deine Stummschaltung zu erklären.
 
 Stelle sicher, dass du die mit deinem osu!-Account verknüpfte E-Mail-Adresse verwendest. Erwähne deinen osu!-Benutzernamen, um zu bestätigen, dass du es bist.
 
 ## Wie vermeide ich, stumm geschaltet zu werden?
 
-Lies die [Regeln](/wiki/Rules), die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations), die [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) und den [Verhaltenskodex für Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas, das du sagen oder tun willst, einen Regelverstoß wäre, frag [ein Mitglied des globalen Moderationsteams](https://osu.ppy.sh/groups/4).
+Lies die [Regeln](/wiki/Rules), die [Empfehlungen für visuelle Inhalte](/wiki/Rules/Visual_content_considerations), die [Regeln für Songinhalte](/wiki/Rules/Song_content_rules) und den [Verhaltenskodex für Modding und Mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping) sorgfältig durch und befolge sie. Wenn du dir unsicher bist, ob etwas, das du sagen oder tun willst, ein Regelverstoß wäre, frag [ein Mitglied des globalen Moderationsteams](https://osu.ppy.sh/groups/4).
 
 Wenn du unsicher bist, ob einer deiner alten Forenbeiträge, Kommentare, Beatmaps, usw. unangemessene Inhalte enthält, ist es empfohlen, diesen Inhalt womöglich einfach zu löschen oder wegzubearbeiten. Kontaktiere bitte ein Mitglied des globalen Moderationsteams, falls eine solche Löschung bzw. Bearbeitung nicht möglich ist.
 
