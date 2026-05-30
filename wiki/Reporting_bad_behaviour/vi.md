@@ -1,6 +1,6 @@
 # Báo cáo hành vi xấu
 
-osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hành Toàn cầu (GMT)](/wiki/People/Global_Moderation_Team), hoạt động nhằm giữ cho trò chơi và toàn bộ cộng đồng luôn an toàn và sạch sẽ. Nếu bạn nhận thấy một hành vi phá luật hoặc nội dung không phù hợp, hãy báo cáo bằng cách sử dụng một trong những phương pháp được mô tả bên dưới. Ngoài ra, bạn có thể liên lạc trực tiếp đến bất kỳ người điều hành nào đang hoạt động nếu báo cáo của bạn không được xử lý đúng cách trong một khoản thời gian phù hợp - chỉ nên làm như một biện pháp cuối. 
+osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hành Toàn cầu (GMT)](/wiki/People/Global_Moderation_Team), hoạt động nhằm giữ cho trò chơi và toàn bộ cộng đồng luôn an toàn và lành mạnh. Nếu bạn nhận thấy một hành vi vi phạm quy định hoặc nội dung không phù hợp, hãy báo cáo bằng cách sử dụng một trong những phương pháp được mô tả bên dưới. Ngoài ra, bạn có thể liên lạc trực tiếp với bất kỳ người điều hành nào đang hoạt động nếu báo cáo của bạn không được xử lý đúng cách trong một khoảng thời gian phù hợp - chỉ nên được xem như một biện pháp cuối. 
 
 Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
 
@@ -8,7 +8,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 | Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
-| Lừa đảo/lừa đảo mạo danh trong tin nhắn riêng | Gửi báo cáo thông thường |
+| Lừa đảo/mạo danh trong tin nhắn riêng | Gửi báo cáo thông thường |
 | Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#danh-sách-lệnh). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
 | Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một [Đề cử viên Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua [website quản lý BN](https://bn.mappersguild.com/reports) |
