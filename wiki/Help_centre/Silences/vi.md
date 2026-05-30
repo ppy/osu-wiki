@@ -18,11 +18,11 @@ tags:
 Một người dùng có một im lặng đang có hiệu lực không thể làm những điều sau đây:
 
 - Sử dụng [trò chuyện](/wiki/Client/Interface/Chat_console) trực tuyến (công khai và riêng tư) cả trong game lẫn trên website.
-- Đăng bài trên bất kỳ các diễn đàn của osu!
+- Đăng bài trên bất kỳ các diễn đàn của osu!.
 - Đăng bình luận bất kỳ nơi nào trên wedsite (beatmap, danh sách thay đổi, tin tức).
 - Tham gia vào [thảo luận beatmap](/wiki/Beatmap_discussion).
 - Chỉnh sửa chi tiết hồ sơ, thay đổi avatar, ảnh bìa và trang người dùng.
-- Gửi và cập nhật beatmap
+- Gửi và cập nhật beatmap.
 - Tham gia vào chế độ [nhiều người chơi](/wiki/Client/Interface/Multiplayer).
 
 ::: Infobox
@@ -38,9 +38,9 @@ Khi được áp dụng, im lặng sẽ được hiển thị công khai trong t
 Thời lượng của một im lặng bắt đầu từ 5 phút và thường gấp đôi với mỗi vi phạm sau đó, tối đa là 28 ngày, nhưng thời gian ban đầu có thể thay đổi tùy thuộc vào vi phạm đã thực hiện và lịch sử của người dùng trước đó. Các yếu tố được xem xét khi xác định độ dài của một im lặng bao gồm:
 
 - **Bầu không khí**: Tình trạng của môi trường trò chuyện hiện tại.
-- **Tần suất vi phạm**: sự lặp lại bất chấp những lần im lặng trước đó được áp dụng.
-- **Lịch sử**: bản ghi của những vi phạm trước đó
-- **Mức độ nghiêm trọng**: sự nghiêm trọng của hành vi đã thực hiện.
+- **Tần suất vi phạm**: Sự lặp lại bất chấp những lần im lặng trước đó được áp dụng.
+- **Lịch sử**: Bản ghi của những vi phạm trước đó.
+- **Mức độ nghiêm trọng**: Sự nghiêm trọng của hành vi đã thực hiện.
 
 Trong một số các trường hợp, người dùng có thể nhận được một cảnh báo cuối cùng trước khi [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) được áp dụng, cung cấp một cơ hội để ngừng lại hành vi vi phạm.
 
