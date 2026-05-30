@@ -8,4 +8,4 @@ stub: true
 
 ## Keypad
 
-**Keypad** adalah keyboard versi miniatur dengan set tombol yang terbatas. Penggunaan keypad populer di osu! karena ukurannya yang kecil dan jumlah tombolnya yang sedikit, yang biasanya hanya 2 atau 4.
+**Keypad** adalah keyboard versi miniatur dengan jumlah tombol yang terbatas. Penggunaan keypad populer di osu! karena ukurannya yang kecil dan jumlah tombolnya yang sedikit, yang biasanya hanya 2 atau 4.
