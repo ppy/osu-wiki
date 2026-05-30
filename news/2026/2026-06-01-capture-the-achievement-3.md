@@ -4,6 +4,7 @@ title: Capture The Achievement 3
 date: 2026-06-01 20:00:00 +0000
 series: online_events
 ---
+
 Capture The Achievement returns this Summer with 75 new achievements to solve from July 3rd to July 13th! 
 
 ![](/wiki/shared/news/2026-06-01-capture-the-achievement-3/banner.jpg)
