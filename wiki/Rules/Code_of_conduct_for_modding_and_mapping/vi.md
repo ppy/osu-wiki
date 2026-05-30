@@ -23,7 +23,7 @@ Khi phản hồi đề xuất của ai đó, bạn cần phải xem xét những
 
 ## Trao đổi và thảo luận thêm
 
-Đôi khi các cuộc thảo luận sẽ kéo dài đến mức với một lần mod và phản hồi là không đủ để khiến tất cả các bên đi đến thống nhất. Có thể mapper không đồng ý với một đề xuất và modder thì không hài lòng với phản hồi của họ. Trong điều kiện lý tưởng, mọi thảo luận nên được kết thúc trong một khoảng thời gian hợp lý.
+Đôi khi các cuộc thảo luận sẽ kéo dài đến mức chỉ một lần mod và phản hồi là không đủ để khiến tất cả các bên đi đến thống nhất. Có thể mapper không đồng ý với một đề xuất và modder thì không hài lòng với phản hồi của họ. Trong điều kiện lý tưởng, mọi thảo luận nên được kết thúc trong một khoảng thời gian hợp lý.
 
 Khi không thể đi đến thống nhất, hãy tham khảo các nguyên tắc sau đây:
 
