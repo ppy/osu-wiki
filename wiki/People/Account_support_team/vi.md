@@ -8,7 +8,7 @@
 
 Nhóm **chỉ** có thể liên lạc được bằng cách gửi email đến [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh) hoặc  [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Danh tính các thành viên của nhóm được giữ bí mật để bảo vệ họ khỏi sự chú ý không mong muốn.
 
-Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu không bạn nhận được phản hồi trong vòng một tuần, thì nên gửi một tin nhắn nhắc về trường hợp đó.
+Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu bạn không nhận được phản hồi trong vòng một tuần, thì nên gửi một tin nhắn nhắc về trường hợp đó.
 
 ## Vai trò và nhiệm vụ 
 
@@ -33,7 +33,7 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 
 ## [support@ppy.sh](mailto:support@ppy.sh)
 
-*Lưu ý: Để báo cáo một trường hợp hành vi sai trái nghiêm trọng hoặc lạm dụng tình dục từ bất kỳ người dùng nào, bao gồm cả người điều hành, vui lòng tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse).*
+*Lưu ý: Để báo cáo một trường hợp hành vi sai trái nghiêm trọng hoặc lạm dụng tình dục từ bất kỳ người dùng nào, bao gồm cả người điều hành, vui lòng tham khảo mục [báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Lo ngại về hành vi sai trái của một người điều hành.
 - Lo ngại về việc một người điều hành vi phạm [Quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct).
@@ -47,4 +47,4 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 
 ## [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
-[Yêu cầu hỗ trợ chính thức cho các giải đấu](/wiki/Tournaments/Official_support) và giải đáp thắc mắc chung về các giải đấu trong sự tư vấn với [Ủy ban Giải đấu](/wiki/People/Tournament_Committee).
+[Yêu cầu hỗ trợ chính thức cho các giải đấu](/wiki/Tournaments/Official_support) và giải đáp thắc mắc chung về giải đấu trong sự tư vấn với [Ủy ban Giải đấu](/wiki/People/Tournament_Committee).
