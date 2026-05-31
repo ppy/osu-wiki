@@ -116,7 +116,6 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ::{ flag=JP }:: [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
-| ::{ flag=MY }:: [Naodere](https://osu.ppy.sh/users/36599162) | [Junshi](https://osu.ppy.sh/beatmaps/artists/546) |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ::{ flag=TH }:: [ohm002](https://osu.ppy.sh/users/4468239) | [log() / ohm002](https://osu.ppy.sh/beatmaps/artists/540) |
