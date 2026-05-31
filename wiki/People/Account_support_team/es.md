@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
----
-
 # Equipo de soporte de cuentas
 
 *Para un equipo que modera ciertos subforos, véase: [Technical Support Team](/wiki/People/Technical_Support_Team)*
@@ -29,7 +24,7 @@ Tienes que comunicarte con este equipo con respecto a temas relacionados con la 
   - eliminaciones de contenido del perfil;
   - eliminaciones de beatmaps;
   - eliminación de comentarios y publicaciones en el foro.
-- Instancias de mala conducta que [deseas admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
+- Instancias de mala conducta que [deseas admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit).
 - [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#sign-in) vinculado a tu cuenta de osu!, o cuando tu cuenta es robada.
 - [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#name-changes).
 - [Registros de cuentas bot](/wiki/Bot_account).
