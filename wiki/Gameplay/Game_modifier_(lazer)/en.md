@@ -41,7 +41,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) ![][osu!mania]
 - [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover)) ![][osu!mania]
+- [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]

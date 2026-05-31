@@ -16,7 +16,7 @@ Eine **Stummschaltung** (auch *Silence* genannt) ist eine Strafe, bei der einem 
 ## Beschränkungen
 
 ::: Infobox
-![](img/silence-profile-DE.png "Eintrag einer Stummschaltung auf der Profilseite")
+![](img/silence-profile-DE.png?1 "Eintrag einer Stummschaltung auf der Profilseite")
 :::
 
 Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nicht machen:
