@@ -63,6 +63,7 @@ The Lazer Grand Arena was run by the [osu! team](/wiki/People/osu!_team) and var
 ### Week 2, part two
 
 Friday, 29 May 2026:
+
 | Stage | High seed |  |  | Low seed | Match link | VOD link |
 | :-- | --: | :-: | :-: | :-- | :-- | :-- |
 | LR3 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | 1 | **3** | ::{ flag=PH }:: **[enri](https://osu.ppy.sh/users/8640970)** | [#1](https://osu.ppy.sh/multiplayer/rooms/3077766/events) | [#1](https://www.twitch.tv/videos/2783447532) |
@@ -478,8 +479,5 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 
 ## Notes
 
-[^losers-bracket]: Losers bracket match
-[^losers-finals]: Losers bracket Finals match — final matchup depends on the results of the preceding LR3 match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding Losers Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
