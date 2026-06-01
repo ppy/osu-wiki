@@ -22,7 +22,7 @@ tags:
 | Type | Conversion |
 | Game modes | ![][osu!taiko] |
 | Score multiplier | 1.00x |
-| Status | Unranked |
+| Status | Ranked |
 | Incompatible mods | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 
 :::
