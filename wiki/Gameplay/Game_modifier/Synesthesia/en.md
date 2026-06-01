@@ -20,7 +20,7 @@ tags:
 | :-- | :-- |
 | Acronym | SY |
 | Type | Fun |
-| Game modes | ![][osu!] |
+| Game modes | ![][osu!] ![][osu!catch] |
 | Score multiplier | 0.80x |
 | Status | Unranked |
 | Incompatible mods | None |
@@ -32,3 +32,4 @@ tags:
 <!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!catch]: /wiki/shared/mode/osu_catch.png "osu!catch"
