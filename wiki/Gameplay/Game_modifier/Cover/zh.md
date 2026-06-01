@@ -23,7 +23,7 @@ tags:
 | 默认快捷键 | `K` |
 | 游戏模式 | ![][osu!mania] |
 | 得分系数 | 1.00x |
-| 状态 | 不计入排名 |
+| 状态 | 计入排名 |
 | 不兼容的模组 | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
