@@ -23,7 +23,7 @@ tags:
 | 游戏模式 | ![][osu!] |
 | 得分系数 | 1.00x |
 | 状态 | 计入排名 |
-| 不兼容的模组 | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) |
+| 不兼容的模组 | | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
