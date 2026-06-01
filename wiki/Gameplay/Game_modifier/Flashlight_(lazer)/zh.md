@@ -27,8 +27,8 @@ tags:
 | 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.12x |
 | 得分系数 ![][osu!mania] | 1.00x |
 | 状态 | 计入排名 |
-| 不兼容的模组 ![][osu!] ![][osu!taiko] ![][osu!catch] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
-| 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| 不兼容的模组 ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| 不兼容的模组 ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) |
 
 :::
 
