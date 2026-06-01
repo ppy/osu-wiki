@@ -32,6 +32,6 @@ tags:
 
 The **Blinds** mod covers the entire screen with [shoji doors](https://en.wikipedia.org/wiki/Shoji) without the possibility to see the objects behind. The more successive misses the player gets, the more the doors open. Building up a combo will have the opposite effect.
 
-**This mod can't be customised through Customisation.**
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
