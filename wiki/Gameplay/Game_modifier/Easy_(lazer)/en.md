@@ -41,7 +41,7 @@ The **Easy** mod attempts to make the gameplay on any [beatmap](/wiki/Beatmap) p
 
 ![Easy customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/EZ.png)
 
-- **Extra Lives** (0–10, default 2): The number of extra lives when starting a beatmap.
+- **Extra Lives** (0–10, default: 2): The number of extra lives when starting a beatmap.
 
 *Using more or less than two extra lives makes this mod unranked.*
 
