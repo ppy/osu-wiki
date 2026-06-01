@@ -37,7 +37,7 @@ The **Accuracy Challenge** mod allows the player to set a minimum accuracy that 
 
 ![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60%-99%, default: 90%): Trigger a failure if accuracy goes below this value.
+- **Minimum accuracy** (60%-99.9%, default: 90%): Trigger a failure if accuracy goes below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
   - **Maximum achievable**: Fail if accuracy doesn't exceed this value when the map ends.
   - **Standard**: Fail if the accuracy goes strictly below the value.
