@@ -38,10 +38,10 @@ The **Sudden Death** mod triggers a failure on missing any object from a [beatma
 
 ![Sudden Death customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SD.png)
 
-- **Also fail when missing a slider tail** (default disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure.
-- **Restart on fail** (default disabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom.
+- **Also fail when missing a slider tail** (default: disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure. *This option is only available in osu!.*
+- **Restart on fail** (default: disabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom.
 
-*Changing any of the options here doesn't make the mod unrankable.*
+*Changing any of the options here doesn't make the mod unranked.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
