@@ -32,4 +32,4 @@ tags:
 <!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
-[osu!catch]: /wiki/shared/mode/osu_catch.png "osu!catch"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
