@@ -34,10 +34,12 @@ The **Muted** mod reduces music and [hitsound](/wiki/Beatmapping/Hitsound) volum
 
 ![Muted customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MU.png)
 
-- **Start muted** (default disabled): Reverses the effect of the mod. Volume will start muted, and increase with combo. If this setting is enabled, the *Final volume at combo* setting's minimum value is 1 instead of 0.
-- **Enable metronome** (default enabled): Adds a metronome beat that gets louder as the music gets quieter.
-- **Final volume at combo** (0–500, default 100): The combo at which the final volume will be reached. If set to 0 and *Start muted* is disabled, the volume will always be muted.
-- **Mute hit sounds** (default enabled): Causes the mod to affect hitsound volume in addition to music volume.
+- **Start muted** (default: disabled): Reverses the effect of the mod. Volume will start muted, and increase with combo. If this setting is enabled, the *Final volume at combo* setting's minimum value is 1 instead of 0.
+- **Enable metronome** (default: enabled): Adds a metronome beat that gets louder as the music gets quieter.
+- **Final volume at combo** (0–500, default: 100): The combo at which the final volume will be reached. If set to 0 and *Start muted* is disabled, the volume will always be muted.
+- **Mute hit sounds** (default: enabled): Causes the mod to affect hitsound volume in addition to music volume.
+
+*Changing any of the options here doesn't make the mod unranked.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
