@@ -29,6 +29,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Swap** mod interchanges all dons and kats in a beatmap. Drumrolls and Swells are not affected.
+
+**This mod cannot be customised.**
 
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
