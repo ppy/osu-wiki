@@ -38,7 +38,7 @@ tags:
 
 The **Hard Rock** mod aims to make the gameplay on any [beatmap](/wiki/Beatmap) harder by increasing the overall difficulty. It does that by raising the [circle size (CS)](/wiki/Beatmap/Circle_size) by 30%, the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [HP drain (HP)](/wiki/Beatmap/HP_drain_rate) and [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) by 40%, and more depending on the [game mode](/wiki/Game_mode) chosen.
 
-**This mod can't be customised through Customisation.**
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
