@@ -26,26 +26,6 @@ no_native_review: true
 
 現在你的分支更新到會與最新的repo同步。
 
----
-
-這種方法在大多數情況下都能行，但這功能本身都有限制，例如，你不能覆寫分支上任何不想要的更改，因為它只是與上游的`master`分支合併。
-
-如果你在使用GitHub工具時遇到任何問題，或者你想覆寫你分支的內容，你可以使用osu! wiki貢獻者編寫的腳本(workflow)。
-
-1. 到**你的分支**，然後選擇`Actions`(行動)分頁。
-
-2. 在左邊側欄上，找`Sync with ppy:master`。
-
-3. 按`Run workflow`(執行workflow)，並填寫一下選項：
-
-   ![GitHub 網站上的表格截圖如下述](img/github-actions-workflow-dispatch.png "GitHub操作workflow目錄")
-
-   - **Use workflow from**: 從...使用workflow，選擇你想要同步的分支的名稱。預設為`master`。
-   - **Create a backup of the selected branch**: 創建已選分支的備份，在嘗試更新前，創建一個叫`{分支名稱}-backup`的複本。
-   - **Overwrite all history of the selected branch**: 覆寫已選分支的所有修改，用`ppy:master`覆寫你分支內的所有內容，忽略所有不同的修改。預設會將`ppy:master`合併到已選分支內。
-
-4. 按`Run workflow`(執行workflow)並等待它運行完畢。如果你好奇它的運作，可以按`Sync with ppy:master` workflow 工作。
-
 ## 進行修改
 
 *參見：[分支工作流程 | Atlassian Git 教程](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)（英文）*
