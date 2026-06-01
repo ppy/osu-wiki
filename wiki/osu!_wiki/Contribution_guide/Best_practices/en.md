@@ -11,7 +11,7 @@ This page covers some of the tasks that you may face while contributing. The app
 ## Syncing the fork
 
 ::: Infobox
-![](img/update-branch.png "Updating the outdated branch")
+![](img/update-branch.png?1 "Updating the outdated branch")
 :::
 
 A *fork* is a snapshot of the original repository which doesn't update itself automatically. To always work with the latest version of the osu! wiki, you need to sync it before making changes. This can be done directly from GitHub:
