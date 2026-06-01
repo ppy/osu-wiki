@@ -45,6 +45,8 @@ The **Flashlight** mod restricts visibility of the playfield to a small illumina
 - **Flashlight size** (0.5-2.0, default: 1.0): Multiplier applied to the default flashlight size.
 - **Change size based on combo** (default: enabled): Decrease the flashlight size as combo increases.
 
+*Changing any of the options here makes the mod unranked.*
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
