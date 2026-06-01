@@ -41,6 +41,6 @@ The **Cover** mod hides a part of the playfield similarly to [Fade In](/wiki/Gam
   - **Along scroll**: Cover the playfield from above.
   - **Against scroll**: Cover the playfield from below.
 
-*Changing any of the options here doesn't make the mod unrankable.*
+*Changing any of the options here doesn't make the mod unranked.*
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
