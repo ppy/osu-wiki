@@ -22,7 +22,7 @@ tags:
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!] |
 | Multiplicador de puntuación | 1,00x |
-| Estado | No clasificado |
+| Estado | Clasificado |
 | Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap) |
 
 :::
