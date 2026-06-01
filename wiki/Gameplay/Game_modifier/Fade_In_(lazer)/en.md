@@ -34,6 +34,6 @@ tags:
 
 The **Fade In** mod makes notes initially invisible as they enter from above, gradually revealing them as they approach the bottom of the playfield. The fade effect initially covers about 20% of the playfield, but expands as the combo increases. At 500x combo, the fade effect reaches its maximum, covering 70% of the playfield and making notes appear much later.
 
-**This mod can't be customised through Customisation.**
+**This mod cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
