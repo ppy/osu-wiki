@@ -33,7 +33,7 @@ Inspired by the success of OWC2025's new format, 4WC2026 will feature its own tw
 
 ## How do I register?
 
-[![](/wiki/shared/news/2026-06-01-4-digit-world-cup-2026-registrations-now-open/registrations-banner.jpg)](https://projecthexagon.org/4wc-registration)
+[![](/wiki/shared/news/2026-06-01-4-digit-world-cup-2026-registrations-now-open/registration-banner.png)](https://projecthexagon.org/4wc-registration)
 
 Players who sign up and meet the following criteria will be eligible to participate:
 
