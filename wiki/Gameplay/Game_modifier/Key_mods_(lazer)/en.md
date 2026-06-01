@@ -33,7 +33,7 @@ tags:
 | Acronym | \[key count\]K |
 | Type | Conversion |
 | Game modes | ![][osu!mania] |
-| Score multiplier | 0.9x |
+| Score multiplier | 0.90x |
 | Status (4K–9K) | Ranked |
 | Status (1K–3K, 10K) | Unranked |
 | Incompatible mods | None |
