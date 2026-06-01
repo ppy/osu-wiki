@@ -29,6 +29,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Alternate** mod forces the player to perfectly alternate their two inputs, meaning they cannot use the same key twice in a row. If the player attempts to hit two consecutive hit objects with the same key, the second one will automatically result in a miss.
+
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
