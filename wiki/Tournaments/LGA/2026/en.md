@@ -12,7 +12,7 @@ tags:
 
 ![LGA 2026 banner](img/lga2026-banner.jpg?2)
 
-The **Lazer Grand Arena 2026** (***LGA 2026***) is an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the third instalment of the Lazer Grand Arena series.
+The **Lazer Grand Arena 2026** (***LGA 2026***) was an osu!(lazer) tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the third instalment of the Lazer Grand Arena series.
 
 ## Tournament schedule
 
@@ -25,7 +25,7 @@ The **Lazer Grand Arena 2026** (***LGA 2026***) is an osu!(lazer) tournament hos
 
 ## Prizes
 
-Lazer Grand Arena 2026 offers a $1,000 cash prize pool.
+Lazer Grand Arena 2026 offered a $1,000 cash prize pool.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,7 +35,7 @@ Lazer Grand Arena 2026 offers a $1,000 cash prize pool.
 
 ## Organisation
 
-The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and various community members.
+The Lazer Grand Arena was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -43,7 +43,7 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 | Mappool selector | ::{ flag=CA }:: [chiv](https://osu.ppy.sh/users/6701656), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=CN }:: [FcEazy](https://osu.ppy.sh/users/7825227), ::{ flag=TW }:: [Imokora](https://osu.ppy.sh/users/2472609), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [Pezz](https://osu.ppy.sh/users/10651106), ::{ flag=CA }:: [steamhappy](https://osu.ppy.sh/users/7802400) |
 | Mappool helper | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=CA }:: [El Condor Pasa](https://osu.ppy.sh/users/4415285), ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516), ::{ flag=RU }:: [netnesanya](https://osu.ppy.sh/users/6017901), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853) |
 | Mappool playtester | ::{ flag=US }:: [1ncert](https://osu.ppy.sh/users/12522447), ::{ flag=PL }:: [Agent5d](https://osu.ppy.sh/users/5472693), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dwagon](https://osu.ppy.sh/users/9975427), ::{ flag=PL }:: [Eirra](https://osu.ppy.sh/users/3493804), ::{ flag=FR }:: [FaunaMyBeloved](https://osu.ppy.sh/users/20074187), ::{ flag=CL }:: [GalaxyGaming](https://osu.ppy.sh/users/4587526), ::{ flag=RU }:: [KladVomzin01](https://osu.ppy.sh/users/11801407), ::{ flag=DE }:: [KSN](https://osu.ppy.sh/users/5442251), ::{ flag=US }:: [luvouva](https://osu.ppy.sh/users/8914929), ::{ flag=US }:: [Rinko Shirokane](https://osu.ppy.sh/users/16416081), ::{ flag=PA }:: [Toua](https://osu.ppy.sh/users/5136821), ::{ flag=CL }:: [Wawillo](https://osu.ppy.sh/users/9184161), ::{ flag=CA }:: [Wieran](https://osu.ppy.sh/users/2303856), ::{ flag=US }:: [wr8th](https://osu.ppy.sh/users/20276851) |
-| Mapper | ::{ flag=US }:: [1103](https://osu.ppy.sh/users/7306698), ::{ flag=US }:: [\-Doodle](https://osu.ppy.sh/users/12337329), ::{ flag=JP }:: [Agelatte](https://osu.ppy.sh/users/12710311), ::{ flag=CA }:: [alden](https://osu.ppy.sh/users/3545323), ::{ flag=CN }:: [AstralXynsm](https://osu.ppy.sh/users/16022233), ::{ flag=SE }:: [Chai the Tea](https://osu.ppy.sh/users/10234218), ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327), ::{ flag=JP }:: [iLyne](https://osu.ppy.sh/users/13924533), ::{ flag=DE }:: [inslider](https://osu.ppy.sh/users/11462830), ::{ flag=DK }:: [melonboy](https://osu.ppy.sh/users/3053382), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=FI }:: [oatmilk](https://osu.ppy.sh/users/16516525), ::{ flag=FI }:: [P\_O](https://osu.ppy.sh/users/831979), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=PL }:: [Rolniczy](https://osu.ppy.sh/users/8331132), ::{ flag=JP }:: [Sagu](https://osu.ppy.sh/users/4556542), ::{ flag=SE }:: [soik](https://osu.ppy.sh/users/4316633), ::{ flag=CA }:: [Vanya](https://osu.ppy.sh/users/19603724), ::{ flag=CN }:: [YeLing](https://osu.ppy.sh/users/14726718) |
+| Mapper | ::{ flag=US }:: [1103](https://osu.ppy.sh/users/7306698), ::{ flag=JP }:: [Agelatte](https://osu.ppy.sh/users/12710311), ::{ flag=CN }:: [AstralXynsm](https://osu.ppy.sh/users/16022233), ::{ flag=SE }:: [Chai the Tea](https://osu.ppy.sh/users/10234218), ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327), ::{ flag=JP }:: [iLyne](https://osu.ppy.sh/users/13924533), ::{ flag=DE }:: [inslider](https://osu.ppy.sh/users/11462830), ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812), ::{ flag=FI }:: [oatmilk](https://osu.ppy.sh/users/16516525), ::{ flag=FI }:: [P\_O](https://osu.ppy.sh/users/831979), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=US }:: [revoh](https://osu.ppy.sh/users/8165181), ::{ flag=PL }:: [Rolniczy](https://osu.ppy.sh/users/8331132), ::{ flag=JP }:: [Sagu](https://osu.ppy.sh/users/4556542), ::{ flag=SE }:: [soik](https://osu.ppy.sh/users/4316633), ::{ flag=CA }:: [Vanya](https://osu.ppy.sh/users/19603724), ::{ flag=CN }:: [YeLing](https://osu.ppy.sh/users/14726718) |
 | Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [hubbawubba](https://osu.ppy.sh/users/15910288), ::{ flag=CA }:: [I\-Flame](https://osu.ppy.sh/users/11257542), ::{ flag=KZ }:: [Lightin](https://osu.ppy.sh/users/7595619), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=GB }:: [SadShiba](https://osu.ppy.sh/users/10747626), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189), ::{ flag=GB }:: [TorvaZero](https://osu.ppy.sh/users/22609063), ::{ flag=AU }:: [Vordi](https://osu.ppy.sh/users/6659116) |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
@@ -57,35 +57,30 @@ The Lazer Grand Arena is run by the [osu! team](/wiki/People/osu!_team) and vari
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2202575)
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/56)
 - [Challonge bracket](https://challonge.com/LGA2026)
-- [Support your favorite player with a support banner](https://osu.ppy.sh/store/products/1696) 
-
-## Match schedule: Week 3
-
-### Friday, 29 May 2026
-
-| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
-| :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 59 | LR3 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 30 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260529T030000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
-### Saturday, 30 May 2026
-
-| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
-| :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 61b | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 30 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 59 [^losers-finals] |
-| 61a | LF | [MALISZEWSKI](https://osu.ppy.sh/users/12408961) ::{ flag=PL }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 30 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 59 [^losers-finals] |
-
-### Sunday, 31 May 2026
-
-| ID | Round | High seed | Low seed | Match time | Twitch stream |  |
-| :-: | :-- | --: | :-- | :-- | :-: | :-: |
-| 62 | GF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | Winner of 61 | [May 30 (Sat) @ TBD](https://www.timeanddate.com/worldclock/converter.html?iso=20260530T000000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 61 [^grand-finals] |
-| 62a | GF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | [May 31 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260531T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 61 [^grand-finals] |
-| 62c | GF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [May 31 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260531T150000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 61 [^grand-finals] |
-| 62b | GF | [mrekk](https://osu.ppy.sh/users/7562902) ::{ flag=AU }:: | ::{ flag=US }:: [TTv_UFO](https://osu.ppy.sh/users/14676719) | [May 31 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260531T160000&p1=1440) | [osulive](https://twitch.tv/osulive) | depends on: 61 [^grand-finals] |
 
 ## Match results
 
-### Week 2
+### Week 2, part two
+
+Friday, 29 May 2026:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| LR3 | [TTv_UFO](https://osu.ppy.sh/users/14676719) ::{ flag=US }:: | 1 | **3** | ::{ flag=PH }:: **[enri](https://osu.ppy.sh/users/8640970)** | [#1](https://osu.ppy.sh/multiplayer/rooms/3077766/events) | [#1](https://www.twitch.tv/videos/2783447532) |
+
+Saturday, 30 May 2026:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| LF | **[MALISZEWSKI](https://osu.ppy.sh/users/12408961)** ::{ flag=PL }:: | **3** | 1 | ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970) | [#1](https://osu.ppy.sh/multiplayer/rooms/3095306/events) | [#1](https://www.twitch.tv/videos/2784608896) |
+
+Sunday, 31 May 2026:
+
+| Stage | High seed |  |  | Low seed | Match link | VOD link |
+| :-- | --: | :-: | :-: | :-- | :-- | :-- |
+| GF | **[mrekk](https://osu.ppy.sh/users/7562902)** ::{ flag=AU }:: | **3** | 2 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961) | [#1](https://osu.ppy.sh/multiplayer/rooms/3108205/events) | [#1](https://www.twitch.tv/videos/2785395109) |
+
+### Week 2, part one
 
 Saturday, 23 May 2026:
 
@@ -484,8 +479,5 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27690601
 
 ## Notes
 
-[^losers-bracket]: Losers bracket match
-[^losers-finals]: Losers bracket Finals match — final matchup depends on the results of the preceding LR3 match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding Losers Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rating sum
