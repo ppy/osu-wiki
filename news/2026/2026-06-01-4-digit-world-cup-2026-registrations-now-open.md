@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "4 Digit World Cup 2026: Registrations Now Open!"
-date: 2026-06-01 12:00:00 +0000
+date: 2026-06-01 22:00:00 +0000
 series: community_tournaments
 ---
 
