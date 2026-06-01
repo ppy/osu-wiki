@@ -101,11 +101,11 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 #### Personal Presets
 
-The **Personal Presets** are located in a category of its own, allowing you to save any combination of mods directly into it. You can name them anything you like or add an extra description with it. Each Personal Presets are unique its game mode.
+The **Personal Presets** are located in a category of its own, allowing you to save any combination of mods directly into it. You can name them anything you like or add an extra description with it. Each Personal Presets are unique to its game mode.
 
 #### Customise
 
-Similar to the Difficulty Adjust (DA) mod, the pre-configured settings **Customise** guarantees a customizable gaming experience based on the mods you've chosen. Any change in these settings will result in your score being unranked.
+Similar to the Difficulty Adjust (DA) mod, the pre-configured settings **Customise** guarantees a customizable gaming experience based on the mods you've chosen. Note that changing these settings will usually result in your score being unranked.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
