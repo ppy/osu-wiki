@@ -37,9 +37,10 @@ The **Perfect** mod automatically restarts the [beatmap](/wiki/Beatmap) if the p
 
 ![Perfect customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/PF.png)
 
+- **Require perfect hits** (default: disabled): Getting anything other than a perfect hit (rainbow-coloured 300) will result in a failure. *This option is only available in osu!mania.*
 - **Restart on fail** (default: enabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom.
 
-*Enabling this option doesn't make the mod unranked.*
+*Changing any of the options here doesn't make the mod unranked.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
