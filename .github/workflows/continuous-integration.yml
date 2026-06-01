@@ -15,61 +15,69 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  check-should-ci:
-    name: determine if CI should run
+  precondition:
+    name: Determine if CI should run
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
     outputs:
-      should_run: ${{ fromJson(steps.calc.outputs.result).shouldRun }}
-      changed_files: ${{ fromJson(steps.calc.outputs.result).changedFiles }}
+      should_run_checks: ${{ steps.calc.outputs.should_run_checks }}
     steps:
-      - name: calculate PR changes
+      - name: Determine if CI should run
         id: calc
         uses: actions/github-script@v6
         with:
           script: |
-            const { owner, repo } = context.repo;
-            const pr = context.payload.pull_request;
             const action = context.payload.action;
-            const result = { shouldRun: 'false', changedFiles: JSON.stringify([]) };
-
-            if (!pr) return result;
+            if (action != 'edited') {
+              core.setOutput('should_run_checks', 'true');
+              console.log('PR status or contents have changed => will run checks');
+              return;
+            }
 
             const FLAGS = ['SKIP_REMARK', 'SKIP_WIKILINK_CHECK'];
-            let shouldRun = false;
-
-            if (action === 'opened' || action === 'reopened' || action === 'synchronize') {
-              shouldRun = true;
-            } else if (action === 'edited') {
-              const bodyChange = context.payload.changes && context.payload.changes.body;
-              if (bodyChange) {
-                const oldBody = bodyChange.from || '';
-                const newBody = pr.body || '';
-                shouldRun = FLAGS.some(flag => oldBody.includes(flag) !== newBody.includes(flag));
-              }
+            const oldBody = context.payload.changes?.body?.from || '';
+            const newBody = context.payload.pull_request?.body || '';
+            const hasChangedFlags = FLAGS.some(flag => oldBody.includes(flag) != newBody.includes(flag));
+            if (hasChangedFlags) {
+              console.log('PR flags have changed => will run checks');
+              core.setOutput('should_run_checks', 'true');
+              return;
             }
 
-            if (!shouldRun) return result;
+            // Only previously successful checks must be skipped. It is possible for a check to fail due to
+            // infrastructure issues or the contents of the PR; in this case, it must run as per usual instead of
+            // masking the error even if the flags haven't changed.
 
-            const files = [];
-            const iter = github.paginate.iterator(github.rest.pulls.listFiles, {
-              owner, repo, pull_number: pr.number, per_page: 100,
+            const { owner, repo } = context.repo;
+            const { data: thisRun } = await github.rest.actions.getWorkflowRun({
+              owner, repo, run_id: context.runId,
             });
-            for await (const resp of iter) {
-              for (const f of resp.data) {
-                if (f.status !== 'removed') files.push(f.filename);
-              }
-            }
+            const { data } = await github.rest.actions.listWorkflowRuns({
+              owner, repo,
+              workflow_id: thisRun.workflow_id,
+              head_sha: context.payload.pull_request.head.sha,
+              status: 'completed',
+            });
 
-            result.shouldRun = 'true';
-            result.changedFiles = JSON.stringify(files);
-            return result;
+            const previous = data.workflow_runs.find(run => run.id !== context.runId);
+            console.info(
+              'Previous workflow run for this commit: ' + JSON.stringify(previous?.url) +
+                ', conclusion: ' + JSON.stringify(previous?.conclusion)
+            );
+
+            const isFailureOrUnknown = previous?.conclusion !== 'success';
+            core.setOutput('should_run_checks', String(isFailureOrUnknown));
 
   ci:
     name: changed files
-    needs: check-should-ci
-    if: ${{ needs.check-should-ci.outputs.should_run == 'true' }}
+    needs: precondition
+    if: ${{ needs.precondition.outputs.should_run_checks == 'true' }}
     runs-on: ubuntu-latest
     steps:
+      # Clone the repo and only fetch the commit that triggered the workflow (omitted default of `fetch-depth: 1`).
+      # To get the full list of changed files and avoid `fetch-depth: 0` (fetches the whole history) or GitHub API
+      # (returns <=3,000 changed files), we manually fetch `master` later.
       - uses: actions/checkout@v4
 
       - name: set up Node.js
@@ -96,15 +104,14 @@ jobs:
       - name: Install dependencies (Python)
         run: uv sync
 
-      - name: Detect changed files
+      - name: detect changed files
         id: detect-changed-files
         # Use NUL as a separator to prevent filenames containing spaces and punctuation marks from tripping up the scripts.
         run: |
-          CHANGED_FILES_PATH="$RUNNER_TEMP/changed_files"
-          jq -j '.[] + "\u0000"' <<<"$CHANGED_JSON" > "$CHANGED_FILES_PATH"
-          echo "CHANGED_FILES=$CHANGED_FILES_PATH" >> "$GITHUB_ENV"
-        env:
-          CHANGED_JSON: ${{ needs.check-should-ci.outputs.changed_files }}
+          changed_files="$(mktemp)"
+          git fetch --no-tags --depth=1 origin master
+          git diff --diff-filter=d --name-only --no-renames -z origin/master HEAD > "$changed_files"
+          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
       - name: check file sizes
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
