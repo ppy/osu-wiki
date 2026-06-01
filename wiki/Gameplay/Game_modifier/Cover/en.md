@@ -23,7 +23,7 @@ tags:
 | Default shortcut key | `K` |
 | Game modes | ![][osu!mania] |
 | Score multiplier | 1.00x |
-| Status | Unranked |
+| Status | Ranked |
 | Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
