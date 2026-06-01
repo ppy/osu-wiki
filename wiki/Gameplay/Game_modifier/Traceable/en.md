@@ -29,8 +29,6 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
-
 The **Traceable** mod removes the [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) from the game, leaving the player with only the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle). Thus, it acts as the opposite of the [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) mod.
 
 **This mod cannot be customised.**
