@@ -23,7 +23,7 @@ tags:
 | 游戏模式 | ![][osu!] |
 | 得分系数 | 1.00x |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| 不兼容的模组 | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
