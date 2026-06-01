@@ -29,7 +29,7 @@ tags:
 | Multiplicador de puntuación ![][osu!mania] | 1,00x |
 | Estado | Clasificado |
 | Mods incompatibles ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
-| Mods incompatibles ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) |
+| Mods incompatibles ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) |
 
 :::
 
