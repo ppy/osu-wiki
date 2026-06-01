@@ -41,7 +41,7 @@ The **Flashlight** mod restricts visibility of the playfield to a small illumina
 
 ![Flashlight customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/FL.png)
 
-- **Follow delay** (120-1200, default: 120): Milliseconds until the flashlight reaches the cursor.
+- **Follow delay** (120-1200, default: 120): Milliseconds until the flashlight reaches the cursor. *This option is only available in osu!.*
 - **Flashlight size** (0.5-2.0, default: 1.0): Multiplier applied to the default flashlight size.
 - **Change size based on combo** (default: enabled): Decrease the flashlight size as combo increases.
 
