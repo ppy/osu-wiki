@@ -43,7 +43,10 @@ The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Appr
 
 ![Hidden customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
 
-- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on notes. Note that this makes the mod unranked and sets the score multiplier to 1.00x.
+- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on notes.
+
+*Note that enabling this setting makes the mod unranked and sets the score multiplier to 1.00x.*
+*Note that this setting is only available in osu!. In osu!taiko, osu!catch and osu!mania, this mod cannot be customised.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
