@@ -42,3 +42,4 @@ When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!s
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
