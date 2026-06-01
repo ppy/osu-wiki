@@ -40,6 +40,8 @@ The **Nightcore** mod behaves exactly as [Double Time](/wiki/Gameplay/Game_modif
 
 - **Speed increase** (1.01x-2.00x, default: 1.50x): The speed at which the map is played.
 
+*Using any speed other than 1.50x makes the mod unranked.*
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
