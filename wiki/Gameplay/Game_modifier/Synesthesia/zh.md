@@ -20,7 +20,7 @@ tags:
 | :-- | :-- |
 | 缩写 | SY |
 | 类别 | 娱乐 |
-| 游戏模式 | ![][osu!] |
+| 游戏模式 | ![][osu!] ![][osu!catch] |
 | 得分系数 | 0.80x |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | 无 |
@@ -32,3 +32,4 @@ tags:
 <!-- TODO description and settings -->
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
