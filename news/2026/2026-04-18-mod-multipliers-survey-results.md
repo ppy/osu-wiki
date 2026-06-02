@@ -56,6 +56,10 @@ The multiplier is further reduced by 0.02x if any of the mods are enabled, as th
 
 Finally, any mod multiplier for HD is surrendered if Blinds (BL) is enabled.
 
+### Traceable (TC)
+
+Like HD, any mod multiplier for TC is surrendered if Blinds (BL) is enabled.
+
 ### Flashlight (FL)
 
 Assuming no other mods, multipliers for FL are as follows:
