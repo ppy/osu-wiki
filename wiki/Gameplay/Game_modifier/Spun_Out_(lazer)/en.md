@@ -32,7 +32,7 @@ tags:
 *For the osu!stable version of this article, see: [Spun Out (mod)](/wiki/Gameplay/Game_modifier/Spun_Out)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Spun Out** mod assists the player by automatically completing all [spinners](https://osu.ppy.sh/wiki/en/Gameplay/Hit_object/Spinner). Depending on the [overall difficulty](https://osu.ppy.sh/wiki/en/Beatmap/Overall_difficulty) of the [beatmap](https://osu.ppy.sh/wiki/en/Beatmap), the mod spins at higher or lower spins per minute (SPM).
+The **Spun Out** mod assists the player by automatically completing all [spinners](/wiki/en/Gameplay/Hit_object/Spinner). Depending on the [overall difficulty](/wiki/en/Beatmap/Overall_difficulty) of the [beatmap](/wiki/en/Beatmap), the mod spins at higher or lower spins per minute (SPM).
 
 **This mod cannot be customised.**
 
