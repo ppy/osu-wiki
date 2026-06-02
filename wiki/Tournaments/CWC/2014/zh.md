@@ -28,7 +28,7 @@ tags:
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/crown-gold.png "冠军") | 6 个月 osu!supporter，个人资料徽章，以及 osu! merchandise |
+| ![金冠](/wiki/shared/crown-gold.png "冠军") | 6 个月 osu!supporter，个人资料徽章，以及 osu! 周边 |
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 3 个月 osu!supporter |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 1 个月 osu!supporter |
 
@@ -76,14 +76,14 @@ osu!catch 2014 世界杯由多位社区成员举办。
 | ::{ flag=NL }:: | **荷兰** | **[Givralii](https://osu.ppy.sh/users/2466879)**, [CakeAndBanana](https://osu.ppy.sh/users/1981424), [Greaper](https://osu.ppy.sh/users/2369776), [Nebux](https://osu.ppy.sh/users/2342051), [wesley221](https://osu.ppy.sh/users/2407265) |
 | ::{ flag=NZ }:: | **新西兰** | **[IQ166](https://osu.ppy.sh/users/1452911)**, [JakeCC](https://osu.ppy.sh/users/88973), [Nibble147](https://osu.ppy.sh/users/3866541) |
 | ::{ flag=NO }:: | **挪威** | **[Kiwikun](https://osu.ppy.sh/users/1794766)**, [Azeidith](https://osu.ppy.sh/users/2819676), [Hakkun](https://osu.ppy.sh/users/2179438), [lanki33](https://osu.ppy.sh/users/2535200), [Zerzxes](https://osu.ppy.sh/users/2094253) |
-| ::{ flag=PE }:: | **秘鲁** | *disbanded* |
-| ::{ flag=PH }:: | **菲律宾** | *disbanded* |
+| ::{ flag=PE }:: | **秘鲁** | *已解散* |
+| ::{ flag=PH }:: | **菲律宾** | *已解散* |
 | ::{ flag=PL }:: | **波兰** | **[WujekGrzyb](https://osu.ppy.sh/users/258289)**, [Kosmit](https://osu.ppy.sh/users/1749173), [Scorpionek](https://osu.ppy.sh/users/149730), [wampir](https://osu.ppy.sh/users/261497) |
 | ::{ flag=SG }:: | **新加坡** | **[Accel](https://osu.ppy.sh/users/1169796)**, [He Ang Erika](https://osu.ppy.sh/users/2451381), [Kagayane](https://osu.ppy.sh/users/1777691), [Otaku\_MQ](https://osu.ppy.sh/users/2650135), [Ridicule](https://osu.ppy.sh/users/3473425) |
 | ::{ flag=KR }:: | **韩国** | **[Spectator](https://osu.ppy.sh/users/702598)**, [dae6254](https://osu.ppy.sh/users/563262), [Frobe](https://osu.ppy.sh/users/670365), [Kuzino](https://osu.ppy.sh/users/158552), [Last Bubble](https://osu.ppy.sh/users/1302259) |
 | ::{ flag=ES }:: | **西班牙** | **[SK Eternal](https://osu.ppy.sh/users/588046)**, [Raimon](https://osu.ppy.sh/users/609627), [RAMONLINKK](https://osu.ppy.sh/users/843155), [Nokeru-Chan](https://osu.ppy.sh/users/602315), [sarkras](https://osu.ppy.sh/users/709625) |
 | ::{ flag=SE }:: | **瑞典** | **[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [-Airi-](https://osu.ppy.sh/users/2546340), [Negri\_sk](https://osu.ppy.sh/users/2231396), [Suzuki](https://osu.ppy.sh/users/2960209), [Walterx8](https://osu.ppy.sh/users/1993041) |
-| ::{ flag=TW }:: | **台湾** | *disqualified* |
+| ::{ flag=TW }:: | **台湾** | *取消资格* |
 | ::{ flag=TH }:: | **泰国** | **[boomngong](https://osu.ppy.sh/users/1090858)**, [0814587134](https://osu.ppy.sh/users/1054016), [Nansugumi](https://osu.ppy.sh/users/795915) |
 | ::{ flag=GB }:: | **英国** | **[destructor966](https://osu.ppy.sh/users/2667584)**, [bubbz](https://osu.ppy.sh/users/86414), [Nanomight](https://osu.ppy.sh/users/160439), [DarkKanaki](https://osu.ppy.sh/users/2614160), [Phlo10](https://osu.ppy.sh/users/2643155) |
 | ::{ flag=US }:: | **美国** | **[Zak](https://osu.ppy.sh/users/1375955)**, [-itsy\_v2-](https://osu.ppy.sh/users/2815946), [-Kurisu-](https://osu.ppy.sh/users/500696), [Minky](https://osu.ppy.sh/users/1978891), [-Ryuuji-](https://osu.ppy.sh/users/2107523), [TenguKing9](https://osu.ppy.sh/users/1637716) |
@@ -98,7 +98,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 | ::{ flag=TH }:: 泰国 | ::{ flag=CL }:: 智利 | ::{ flag=SG }:: 新加坡 | ::{ flag=MY }:: 马来西亚 | ::{ flag=NZ }:: 新西兰 | ::{ flag=FI }:: 芬兰 | ::{ flag=CA }:: 加拿大 | ::{ flag=UY }:: 乌拉圭 |
 | ::{ flag=US }:: 美国 | ::{ flag=EE }:: 爱沙尼亚 | ::{ flag=NO }:: 挪威 | ::{ flag=JP }:: 日本 | ::{ flag=SE }:: 瑞典 | ::{ flag=HR }:: 克罗地亚 | ::{ flag=BO }:: 玻利维亚 | ::{ flag=ID }:: 印度尼西亚 |
 
-![](img/bracket.jpg "CWC 2014 bracket")
+![](img/bracket.jpg "CWC 2014 分组")
 
 ## 颁奖信息
 
@@ -148,7 +148,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 - Tiebreaker
   1. **[t+pazolite - Cheatreal (caren\_sk) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/88180#fruits/240488)**
 
-### Semifinals
+### 半决赛
 
 **[下载图池 (205 MB)](https://www.mediafire.com/download/c2o11bznoryz8wk/CWC_Semifinals.rar)**
 
@@ -182,7 +182,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 - Tiebreaker
   1. **[Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmapsets/115011#fruits/297463)**
 
-### Quarterfinals
+### 四分之一决赛
 
 **[下载图池 (258 MB)](https://www.mediafire.com/download/nzg9u43a8tpxz85/CWC_Quarter_finals.rar)**
 
@@ -290,7 +290,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 
 2014 年 6 月 15 日，星期日：
 
-| A 队 |  |  | B 队 | MP link |
+| A 队 |  |  | B 队 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **瑞典** ::{ flag=SE }:: | **6** | 5 | ::{ flag=JP }:: 日本 | [#1](https://osu.ppy.sh/community/matches/7314303) |
 | 德国 ::{ flag=DE }:: | 3 | **6** | ::{ flag=KR }:: **韩国** | [#1](https://osu.ppy.sh/community/matches/7317343) |
@@ -359,7 +359,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 | **中国** ::{ flag=CN }:: | **4** | 3 | 印度尼西亚 ::{ flag=ID }:: | [#1](https://osu.ppy.sh/community/matches/6680664) |
 | 新西兰 ::{ flag=NZ }:: | 0 | **4** | **瑞典** ::{ flag=SE }:: | *不战而胜* |
 | 马来西亚 ::{ flag=MY }:: | 1 | **4** | **日本** ::{ flag=JP }:: | [#1](https://osu.ppy.sh/community/matches/6681641) |
-| 丹麦 ::{ flag=DK }:: | 0 | 0 | 新西兰 ::{ flag=NZ }:: | *nullified* |
+| 丹麦 ::{ flag=DK }:: | 0 | 0 | 新西兰 ::{ flag=NZ }:: | *无效* |
 | **台湾** ::{ flag=TW }:: | **4** | 0 | 荷兰 ::{ flag=NL }:: | [#1](https://osu.ppy.sh/community/matches/6681780) |
 | **印度尼西亚** ::{ flag=ID }:: | **4** | 0 | 乌拉圭 ::{ flag=UY }:: | [#1](https://osu.ppy.sh/community/matches/6682737) |
 | **香港** ::{ flag=HK }:: | **4** | 3 | 波兰 ::{ flag=PL }:: | [#1](https://osu.ppy.sh/community/matches/6682744) |
@@ -377,7 +377,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 
 ### 比赛规则
 
-1. osu! Catch the Beat World Cup 2014 是以国家/地区为单位的 3v3 比赛。
+1. osu! Catch the Beat 2014 世界杯是以国家/地区为单位的 3v3 比赛。
 2. 每轮比赛的图池会在比赛日的前一个星期日公布。比赛只会使用到公布中包含的这些图。
    - 有一张图专门用于决胜局 (Tiebreaker)，只会在决胜局出现。
    - 可能会有 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 或者 FreeMod 等比赛阶段。
@@ -387,7 +387,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
    - 失败后重新复活，视为通过了该谱面。
 6. 允许使用[视觉设置](/wiki/Client/Interface/Visual_settings)。
 7. 如果出现平局，则该回合结果无效。
-8. 如果玩家掉线，将会被视作 Failed。
+8. 如果玩家掉线，将会被视作失败。
 9. 除非回合结果无效，否则一张谱面不会在一场比赛中重复使用。
 10. 如果到场玩家少于 3 人，最多可以推迟 10 分钟开始比赛。
 11. 比赛中允许更换队员。
@@ -435,7 +435,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 
 1. 裁判将会提前 20 分钟创建比赛房间，玩家必须在这段时间内准备好进入房间。
    - 房间将上锁，裁判会尽快给两队队长发送密码和加入房间邀请。
-   - 房间的模式是 Catch the Beat，Team-Vs，胜利条件：“分数”。房间名必须为 "CtB World Cup 2014: TeamBlue vs TeamRed"
+   - 房间的模式是 Catch the Beat，Team-Vs，胜利条件：“分数”。房间名必须为 "CtB World Cup 2014: TeamBlue vs TeamRed"。
    - 房间名中第一个提到的队伍必须是蓝队，第二个提到的队伍必须是红队。
 2. 玩家们可以随意选两张热身图。
 3. 比赛过程中由双方队长轮流从选取池中选图。比赛之前双方队长必须分别在 `#multiplayer` 中使用一次`!roll`，以此决定哪一队首先选图。
@@ -448,7 +448,7 @@ osu!catch 2014 世界杯由多位社区成员举办。
 ### 图池说明
 
 1. 每个比赛阶段都有独立的图池。
-2. 每个图池里都有 5 个子图池：NoMod、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 以及 FreeMod
+2. 每个图池里都有 5 个子图池：NoMod、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 以及 FreeMod。
 3. 每个图池里总共会有 23 张图。
 4. 每个图池里都有一张决胜图。
 5. 在 NoMod 选图中，不会开启任何模组。
@@ -469,6 +469,6 @@ osu!catch 2014 世界杯由多位社区成员举办。
 
 1. 每个阶段将会使用**一个周末**的时间来进行。
 2. 小组赛阶段的各比赛时间可能会重叠。
-3. 所有淘汰赛阶段将会在星期六或星期天进行
+3. 所有淘汰赛阶段将会在星期六或星期天进行。
 4. 赛程表将会由赛事管理来编排。赛程表会在比赛前的星期天公布（例如在 5 月 4 日发布小组赛的赛程表）。赛事管理将会尝试根据参赛者的所在时区来调整比赛进行的时间。
-5. 每一队的队长负责通知其队伍的成员。成员更多的队伍更容易确保凑齐至少三名选手进行每场比赛。如果某支队伍无法提供三名选手进行比赛，本场比赛将会无效。
+5. 每一队的队长负责通知其队伍的成员。成员更多的队伍更容易确保凑齐至少三名选手进行每场比赛。如果某支队伍无法提供三名选手进行比赛，将被视作投降。
