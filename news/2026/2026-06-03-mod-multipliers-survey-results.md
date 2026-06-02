@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Mod Multipliers: Survey Results"
-date: 2026-04-18 18:00:00 +0000
+date: 2026-06-03 14:00:00 +0000
 series: ranking_system_updates
 ---
 
 Time for some fresh leaderboards.
 
-![](/wiki/shared/news/2026-04-18-mod-multipliers-survey-results/banner.jpg)
+![](/wiki/shared/news/2026-06-03-mod-multipliers-survey-results/banner.jpg)
 
 Thank you to everybody who participated in the [survey posted back in January](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers).
 
@@ -34,7 +34,7 @@ Following this survey, we have updated the Classic mod multiplier for **all** ga
 
 ## Survey results
 
-![](/wiki/shared/news/2026-04-18-mod-multipliers-survey-results/mod-multipliers.png)
+![](/wiki/shared/news/2026-06-03-mod-multipliers-survey-results/mod-multipliers.png)
 
 Alongside the changes shown above, there are also mods with multiplier changes which aren't a simple number tweak. osu!(lazer) adds a series of new fun mods for all to enjoy, and some of these mods' difficulty is reduced when paired with other mods. As a result, these cases will have different multipliers depending on what other mods are enabled:
 
