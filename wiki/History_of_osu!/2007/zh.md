@@ -44,7 +44,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ![](img/2007-09.jpg)
 
-2007 年 9 月 17 日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于 peppy 的主域名 ( `ppy.sh` )。[这条新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)被一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体发现并且发布了出来，而这条新闻则吸引了一些些对此有兴趣的音游人的注意力。
+2007 年 9 月 17 日是 osu! 被大众所公认的"生日"。我们今日所熟知的论坛在此日开通，并且托管于 peppy 的主域名 (`ppy.sh`)。一家叫做 [bemanstyle](http://bemanistyle.com/) 的媒体为此报道了[一则新闻](https://web.archive.org/web/20071221020801/http://www.bemanistyle.com/index.php?news_id=483)，吸引来了相当一批感兴趣的音游玩家。
 
 ![](img/2007-09_01.jpg "在编辑器中创建滑条")
 
@@ -76,7 +76,7 @@ osu! 在最开始其实是一个叫做 “应援测试 (ouentest)”[^ouentest] 
 
 ## 十一月
 
-新的 SS 评价被加入了评分系统，替换了以往在完美通过时给出的 S 级评分。[No Video](/wiki/Gameplay/Game_modifier/No_Video) 模组、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组以及与 Hidden 模组配套的 SH (银 S) 和 SSH (银 SS) 评价被加入到游戏中。玩家们现在首次可以根据时间轴段落来分段设置皮肤和 normal、soft 音效组。现在可以通过双击 `.osz` 谱面文件或将其拖动到 osu! 的图标或窗口中来加载它们。
+新的 SS 评价被加入了评分系统，在完美通过时取代 S 而给出。[No Video](/wiki/Gameplay/Game_modifier/No_Video) 模组、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组以及与 Hidden 模组配套的 SH (银 S) 和 SSH (银 SS) 评价被加入到游戏中。玩家们现在可以按时间轴分段设置皮肤和 normal、soft 音效组。现在可以通过双击 `.osz` 谱面包文件，或将其拖动到 osu! 的图标或窗口中来加载它们。
 
 ![](img/no_video.png "No Video (v1)")![](img/hidden.png "Hidden (v1)")
 
