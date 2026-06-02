@@ -2,7 +2,9 @@
 
 Die **tägliche Herausforderung** (auch *Daily Challenge*) ist ein Mehrspielermodus in [osu!(lazer)](/wiki/Client/Release_stream/Lazer), bei dem Spieler täglich in Folge immer schwieriger werdende Beatmaps abschließen müssen. Alle 7 Tage wird das Schwierigkeitsniveau zurückgesetzt.
 
-Für diesen Modus werden Beatmaps von einer Gruppe von Mitwirkenden ausgewählt, die hauptsächlich aus dem [Featured-Artist](/wiki/People/Featured_Artists)-Katalog stammen. An manchen Tagen werden möglicherweise Mods vorgegeben, mit denen die Beatmap abgeschlossen werden muss.
+Für diesen Modus werden Beatmaps von einer Gruppe von Mitwirkenden ausgewählt. Ab und zu verbindet die Beatmaps ein gemeinsames Thema wie ein bestimmtes Genre, ein Künstler oder ein Gimmick. Am Ende jedes Monats werden eine Woche lang hochwertige Beatmaps aus dem letzten Monat präsentiert, worum sich Mitglieder des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team) kümmern.
+
+An manchen Tagen werden möglicherweise Mods vorgegeben, mit denen die Beatmap abgeschlossen werden muss.
 
 Die aktuelle und alle vergangenen täglichen Herausforderungen werden auf der [Daily-Challenge-Ranglistenseite](https://osu.ppy.sh/rankings/daily-challenge) aufgelistet.
 
@@ -45,13 +47,15 @@ Spielserien werden auf dem Nutzerprofil abhängig von den erreichten Meilenstein
 Das Projekt wird von ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) geleitet. Die folgenden Community-Mitwirkenden sind für die Auswahl der Beatmaps verantwortlich:
 
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
-- ::{ flag=SE }:: [bite you death](https://osu.ppy.sh/users/6398464)
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464)
+- ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327)
+- ::{ flag=IT }:: [gansijiye](https://osu.ppy.sh/users/9704802)
 - ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052)
 - ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079)
-- ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802)
+- ::{ flag=US }:: [Willy](https://osu.ppy.sh/users/3521482)
+- ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
 
 ## Trivia
 

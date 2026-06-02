@@ -15,6 +15,34 @@ A continuación se describe un conjunto de usos correctos e incorrectos de las e
 - `[centre][b]texto[/b][/centre]` es correcto
 - `[b][centre]texto[/b][/centre]` es incorrecto
 
+## Alineación
+
+Las etiquetas de alineación se usan para controlar la posición horizontal del texto y los elementos de BBCode. Si se coloca dentro de una etiqueta `[quote]` o alrededor de ella, el texto del bloque de cita se alineará según la etiqueta de alineación, pero la línea vertical del bloque de cita seguirá estando a la izquierda.
+
+### Izquierda
+
+```
+[left]texto[/left]
+```
+
+La etiqueta `[left]` se usa para alinear el contenido a la izquierda. De forma predeterminada, todo el contenido está alineado a la izquierda.
+
+### Centro
+
+```
+[centre]texto[/centre]
+```
+
+La etiqueta `[centre]` se usa para alinear el texto al centro de una caja. Esto se usa con mayor frecuencia para efectos estilísticos en títulos, encabezados o poemas.
+
+### Derecha
+
+```
+[right]texto[/right]
+```
+
+La etiqueta `[right]` se usa para alinear el contenido a la derecha.
+
 ## Etiquetas
 
 BBCode, como muchos otros lenguajes de marcado, formatea el texto mediante un sistema de etiquetas, que se indica mediante un par de corchetes (`[]`). Estas etiquetas se dividen en etiquetas de «apertura» y «cierre», que se diferencian mediante la inclusión de una barra diagonal (`/`). Específicamente, las etiquetas de cierre contienen una barra inclinada justo después del corchete de apertura, mientras que las etiquetas de apertura no.
@@ -173,14 +201,6 @@ texto
 La etiqueta `[code]` se usa para crear *bloques de código preformateados* (también conocido como *texto preformateado*). En el sitio web de osu!, la etiqueta `[code]` formateará el texto en una fuente monoespaciada dentro de un cuadro gris semitransparente. Dar formato al texto dentro de un bloque de código le indicará al editor que trate el texto entre esas etiquetas literalmente, evitando así la conversión de cualquier etiqueta o código fuente en otra cosa.
 
 Dentro de los foros de osu!, los bloques de código se usan con mayor frecuencia para publicar el código fuente de un [storyboard](/wiki/Storyboard), o en tutoriales que requieren mostrar la sintaxis de las etiquetas, los comandos o el código fuente.
-
-### Centrar
-
-```
-[centre]texto[/centre]
-```
-
-La etiqueta `[centre]` se usa para alinear el texto al centro de una caja. Esto se usa con mayor frecuencia para efectos estilísticos en títulos, encabezados o poemas. Si se coloca dentro o alrededor de una etiqueta `[quote]`, el texto dentro del bloque de citas estará centrado, pero las líneas estilísticas y demás no.
 
 ### URL
 
