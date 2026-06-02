@@ -43,7 +43,8 @@ Alongside the changes shown above, there are also mods with multiplier changes w
 Assuming no other mods, multipliers for HD are as follows:
 
 - Before: `1.06x`
-- After: **`1.04x`** (when "Only fade approach circles" is enabled, this is further reduced by `0.02x`)
+- **After: `1.04x`**
+  - Only fade approach circles: `1.02x`
 
 The multiplier is further reduced by `0.02x` if any of the mods are enabled, as they provide timing information HD typically lacks:
 
@@ -64,7 +65,7 @@ Like HD, any mod multiplier for TC is surrendered if Blinds (BL) is enabled.
 Assuming no other mods, multipliers for FL are as follows:
 
 - Before: `1.12x`
-- After: **`1.2x`**
+- **After: `1.2x`**
 
 The multiplier is modified in these cases:
 
