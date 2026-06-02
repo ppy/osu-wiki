@@ -14,13 +14,13 @@ Thank you to everybody who participated in the [survey posted back in January](h
 
 The existing mod multipliers used in osu!(lazer) have been a point of contention over the past few years as they have resulted in unfair leaderboards, which is why this survey was created. What followed was careful interpretation of survey responses (~3,600 in total) as well as discussion amongst those involved to rebalance leaderboards. Today, we finally present new mod multipliers for the **osu!(lazer) client**.
 
-All changes cited will **not** be replicated in the osu!(stable) client as it is **feature locked** and all data collected during the survey was provided with osu!(lazer)'s **standardised scoring** in mind — score multipliers for osu!(lazer) require greater differences than those in osu!(stable) due to the difference in score algorithm.
+All changes cited will **not** be replicated in the osu!(stable) client as it is **feature-locked** and all data collected during the survey was provided with osu!(lazer)'s **standardised scoring** in mind — score multipliers for osu!(lazer) require greater differences than those in osu!(stable) due to the difference in score algorithm.
 
 ## Classic mod
 
 To recap: The new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the osu!(stable) client. You can [read about these changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences).
 
-As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](wiki/Gameplay/Game_modifier/Classic) applied which, until now, had a 0.96x mod multiplier.
+As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier/Classic) applied which, until now, had a 0.96x mod multiplier.
 
 Following this survey, we have updated the Classic mod multiplier for **all** game modes. All other mod multiplier changes in this newspost will be for the **osu!** game mode only.
 
@@ -89,28 +89,21 @@ The multiplier begins at 1.0x, and decreases by 0.05x per 0.1 change on each par
 
 #### Example
 
-A beatmap is:
-
-- CS 4
-- HP 5
-- OD 9
-- AR 9.2
-
-DA is enabled with:
-
-- CS 3.5
-- HP 5
-- OD 9
-- AR 9.5
+| Setting | Original Beatmap | DA Enabled |
+| :-- | :-- | :-- |
+| CS | 4.0 | 3.5 |
+| HP | 5.0 | 5.0 |
+| OD | 9.0 | 9.0 |
+| AR | 9.2 | 9.5 |
 
 In this case, the CS was decreased and the AR was increased. This works out like so:
 
-- CS penalty = 1.0 - 0.5 * (4 - 3.5) = 0.75
-- AR penalty = 1.0 - 0.5 * (9.5 - 9.2) = 0.85
+- CS penalty = `1.0 - 0.5 * (4 - 3.5) = 0.75`
+- AR penalty = `1.0 - 0.5 * (9.5 - 9.2) = 0.85`
 
 These penalties are then multiplied together to create the final multiplier, which works out as 0.6375x.
 
-Note that this applies just the same if the parameters are _increased_ - if this example was CS 4.5 instead of CS 3.5 the end multiplier would be the exact same.
+Note that this applies just the same if the parameters are *increased* - if this example was CS 4.5 instead of CS 3.5 the end multiplier would be the exact same.
 
 ---
 
