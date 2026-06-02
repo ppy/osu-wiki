@@ -56,9 +56,9 @@ Oplysninger om, hvorvidt du er i turneringskarantæne, kan videregives til turne
 
 ## Betingede arrangørkarantæner
 
-En bruger bliver sat på prøve, hvis de organiserer en turnering med en overtrædelse af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), som ikke kan blive rettet ved kommunikation til arrangøren, efter turneringen ender. Hvis en bruger kommer på prøve, bliver brugerens næste turnering grundigt gransket, både mens den bliver afviklet, og efter den er afsluttet. Mindre mangler, som ellers bare ville have været løst ved kontakt til arrangøren per email, vil forlænge prøveperioden. Betydelige overtrædelser af betingelserne for officiel støtte vil føre til en arrangørkarantæne eller mere indgribende straf efter turneringskomitéens skøn.
+En bruger får en betinget arrangørkarantæne (*hosting probation* på engelsk) og bliver dermed sat på prøve, hvis denne organiserer en turnering med en overtrædelse af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support), som ikke kan blive rettet ved kommunikation til arrangøren, efter turneringen ender. Hvis en bruger er på prøve, bliver brugerens næste turnering grundigt gransket, både mens den bliver afviklet og efter den er afsluttet. Mindre mangler, som ellers bare ville have været løst ved kontakt til arrangøren per email, vil forlænge karantænen. Betydelige overtrædelser af betingelserne for officiel støtte vil føre til en arrangørkarantæne eller mere indgribende straf efter turneringskomitéens skøn.
 
-En betinget arrangørkarantæne (*hosting probation* på engelsk) kan ophæves ved at organisere en turnering med ingen overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support) **overhovedet**, inklusive mindre problemer, der ville kræve en mail til arrangøren for at fikse. Eksempler inkluderer:
+En betinget arrangørkarantæne kan ophæves ved at organisere en turnering med ingen overtrædelser af [betingelserne for officiel støtte](/wiki/Tournaments/Official_support) **overhovedet**, inklusive mindre problemer, der ville kræve en mail til arrangøren for at fikse. Eksempler inkluderer:
 
 - Manglende medhjælpere på forumopslaget
 - Manglende offentlige resultater for kvalifikationsrunden
@@ -67,7 +67,7 @@ En betinget arrangørkarantæne (*hosting probation* på engelsk) kan ophæves v
 
 Brugere, hvis turneringer konstant har mindre problemer, som kræver mails fra komitéen for at rette, forbliver på prøve på ubestemt tid. Brugere, som overhovedet ikke prøver at forbedre kvaliteten af deres turneringer, mens de er på prøve, kan pålægges hårdere straffe i komitéens skøn. Betingede arrangørkarantæner udløber ikke automatisk.
 
-Hvis en bruger får en mere indgribende straf, som for eksempel en medhjælperkarantæne, bliver deres betingede arrangørkarantæne ophævet samtidig med straffen.
+Hvis en bruger får en mere indgribende straf, som for eksempel en medhjælperkarantæne, bortfalder deres betingede arrangørkarantæne, når denne straf bliver ophævet.
 
 ## Arrangørkarantæner
 
