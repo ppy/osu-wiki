@@ -43,8 +43,8 @@ Alongside the changes shown above, there are also mods with multiplier changes w
 
 Assuming no other mods, multipliers for HD are as follows:
 
-- Before: 1.04x
-- After: **1.02x** (when "Only fade approach circles" is enabled, this is further reduced by 0.02x)
+- Before: 1.06x
+- After: **1.04x** (when "Only fade approach circles" is enabled, this is further reduced by 0.02x)
 
 The multiplier is further reduced by 0.02x if any of the mods are enabled, as they provide timing information HD typically lacks:
 
