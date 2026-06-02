@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
----
-
 # Turniersanktionen
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
@@ -11,7 +6,7 @@ outdated_since: 96d3a3d81d124a47b12e27e6f5016131231ee31f
 
 Eine Turniersperre verbietet es einem Spieler, an offiziellen oder offiziell unterstützten Turnieren teilzunehmen. Inwieweit ein Spieler bei der Turnierorganisation mithelfen oder sich anderweitig bei diesen Turnieren einbringen kann, wird dadurch ebenfalls eingeschränkt.
 
-Turniersperren werden sehr selten alleine ausgehändigt, aber in der Regel unterliegen alle Spieler, die im Rahmen einer Standardbeschwerde für eine [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) zurückkehren, einer Sperre von mindestens einem Jahr.
+Turniersperren werden sehr selten alleine ausgehändigt, aber in der Regel unterliegen alle Spieler, die im Rahmen eines Standardgesuchs zur Aufhebung einer [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) zurückkehren, einer Sperre von mindestens einem Jahr.
 
 Durch die hohen Anforderungen bei Turnierspielen werden Turniersperren sehr ernst genommen und im Vergleich zu Accounteinschränkungen werden Turniersperren mit weniger Nachsicht behandelt.
 
@@ -21,7 +16,7 @@ Jede schwerwiegende Missachtung der [Community-Regeln](/wiki/Rules), die währen
 
 Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssymbolen/Beleidigungen (z. B. Hakenkreuze) durch die Verwendung des Cursor-Rauchs in gestreamten Matches.
 
-Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [der temporären Turniersperre mit einer Mindestdauer von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons). Das [Account-Support-Team](/wiki/People/Account_support_team) behält sich das Recht vor, Turniersperren in eigenem Ermessen zu verlängern.
+Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Gesuchsbedingungen zum Spiel zurückkehren, unterliegen auch [der temporären Turniersperre mit einer Mindestdauer von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons). Das [Account-Support-Team](/wiki/People/Account_support_team) behält sich das Recht vor, Turniersperren in eigenem Ermessen zu verlängern.
 
 ### Was führt dazu, dass jemand eine unbefristete Turniersperre erhält? {id=why-permanent}
 
@@ -53,7 +48,7 @@ Informationen über den Status deiner Turniersperre können Turnierveranstaltern
 | Missachtung des Personals oder Zeitverschwendung | 1 Monat oder mehr |  |
 | Multi-Accounting oder Betrug eines anderen Spielers während eines Turniers ermöglichen | 6 Monate oder mehr |  |
 | Fehlverhalten eines Spielers während eines offiziell unterstützten Turniers | 1 bis 2 Jahre |  |
-| Zurückkehren im Rahmen des üblichen Beschwerdeverfahrens | 1 bis 2 Jahre | Kann nach Ermessen des Account-Support-Teams länger sein |
+| Zurückkehren im Rahmen des üblichen Gesuchsverfahrens | 1 bis 2 Jahre | Kann nach Ermessen des Account-Support-Teams länger sein |
 | Multi-Accounting oder Teilen des Accounts während eines offiziell unterstützten Turniers | Unbefristet | Wird auch zu einer Einschränkung führen |
 | Benutzung von Drittanbieter-Tools oder andere Methoden zum Schummeln während eines offiziell unterstützten Turniers | Unbefristet | Wird auch zu einer Einschränkung führen |
 | Verwendung privater/vertraulicher Informationen zum Turnier, um einen unfairen Vorteil zu erlangen | Unbefristet | Kann auch zu einer Einschränkung führen |
@@ -84,12 +79,16 @@ Bei schweren Verstößen gegen die [offiziellen Unterstützungsregeln](/wiki/Tou
 
 Eine Aushilfssperre verhindert es einem Nutzer, in offiziellen oder offiziell unterstützen Turnieren mitzuhelfen. Ausgenommen hiervon sind Streaming, Kommentierung und Grafikdesign.
 
-## Kann ich gegen eine Turniersanktion eine Beschwerde einreichen? {id=appeal}
+## Kann ich gegen eine Turniersanktion eine Beschwerde/ein Gesuch einreichen? {id=appeal}
 
-Gegen Turniersanktionen, die nicht in Kombination mit den [üblichen Beschwerdebedingungen](/wiki/Help_centre/Account_restrictions#appeal-granted) verhängt worden sind, können Beschwerden innerhalb von 72 Stunden eingereicht werden. Nach Ablauf dieser Frist dürfen, mit der Ausnahme von unbefristeten Turniersperren, keine Beschwerden gegen Turniersanktionen eingereicht werden.
+Gegen Turniersanktionen, die nicht in Kombination mit den [üblichen Gesuchsbedingungen](/wiki/Help_centre/Account_restrictions#appeal-granted) verhängt worden sind, können Beschwerden innerhalb von 72 Stunden eingereicht werden. Nach Ablauf dieser Frist dürfen, mit der Ausnahme von unbefristeten Turniersperren, keine Beschwerden oder Gesuche gegen Turniersanktionen eingereicht werden.
 
-Gegen unbefristete Turniersperren dürfen Beschwerden eingereicht werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung der Beschwerde muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit der letzten Beschwerde warten, bevor die Sperre erneut angefochten werden kann.
+Gegen unbefristete Turniersperren dürfen Aufhebungsgesuche eingereicht werden, nachdem mindestens **zwei Jahre** (24 Monate) vergangen sind, seit sie erstmals in Kraft getreten sind. Von Benutzern, die eine unbefristete Turniersperre anfechten, wird erwartet, dass sie eine positive Beteiligung an der osu!-Community nachweisen, sei es in Turnieren oder anderweitig, und dass sie während dieser Zeit ein tadelloses Verhalten an den Tag legen. Im Falle einer Ablehnung des Gesuchs muss ein Nutzer mindestens **ein Jahr** (12 Monate) seit dem letzten Gesuch warten, bevor die Sperre erneut angefochten werden kann.
 
-Obwohl es wie oben beschrieben möglich ist, unbefristete Turniersperren anzufechten, sollte betont werden, dass für eine ernsthafte Aussicht auf Erfolg erhebliche Anstrengungen in der Community außerhalb des Beschwerdeschreibens erwartet werden. Eine Liste aller Nutzer, die erfolgreich eine unbefristete Turniersperre angefochten haben, ist [in diesem Forum-Thread verfügbar](https://osu.ppy.sh/community/forums/topics/1798871).
+Obwohl es wie oben beschrieben möglich ist, unbefristete Turniersperren anzufechten, sollte betont werden, dass für eine ernsthafte Aussicht auf Erfolg erhebliche Anstrengungen in der Community außerhalb des Gesuchschreibens erwartet werden. Eine Liste aller Nutzer, die erfolgreich eine unbefristete Turniersperre angefochten haben, ist [in diesem Forum-Thread verfügbar](https://osu.ppy.sh/community/forums/topics/1798871).
 
 In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
+
+## Sind Turniersanktionen für die Öffentlichkeit sichtbar? {id=visibility}
+
+Unbefristete Turniersperren und Turniersperren, die nicht in Kombination mit den [üblichen Gesuchsbedingungen](/wiki/Help_centre/Account_restrictions#appeal-granted) verhängt worden sind, sind für die gesamte Dauer der Sperre sowie für **28 Tage** danach auf dem Profil des betroffenen Nutzers sichtbar. Andere Turniersanktionen (d. h. Probezeiten, Veranstaltungsverbote und Aushilfssperren) sind nicht für die Öffentlichkeit auf dieser Weise sichtbar.
