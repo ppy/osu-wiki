@@ -123,11 +123,11 @@
 
 ![一张过审谱面的推荐进度部分](img/hype-train-ZH.png "一张过审谱面的推荐进度部分")
 
-如果谱面处于[制作中](/wiki/Beatmap/Category#wip-and-pending)、[待定](/wiki/Beatmap/Category#wip-and-pending)或[过审](/wiki/Beatmap/Category#qualified)状态，推荐进度部分将会显示。谱面当前状态的描述可以在此部分的左侧找到，而推荐数量和按钮则显示在右侧。根据谱面所属的类别，描述内容会有所不同。
+如果谱面处于[制作中](/wiki/Beatmap/Category#wip-and-pending)、[待定](/wiki/Beatmap/Category#wip-and-pending)或[过审](/wiki/Beatmap/Category#qualified)状态，则会显示推荐进度。该区域左侧显示谱面当前状态描述，而右侧显示推荐数和按钮。根据谱面所属类别，描述内容会有所不同。
 
-点击 `推荐谱面！` 按钮将会重定向到[谱面讨论页](/wiki/Beatmap_discussion)，在此可以为谱面投推荐票，表示希望该谱面被上架。用户为谱面投票后，`推荐谱面！` 按钮将变灰，并变得不可点击。
+点击 `推荐谱面！` 按钮将会跳转到[谱面讨论页](/wiki/Beatmap_discussion)，在此可以为谱面投推荐票，表示希望该谱面上架。用户为谱面投票后，`推荐谱面！` 按钮将变灰，并变得不可点击。
 
-特别地，如果谱面处于[过审](/wiki/Beatmap/Category#qualified)状态，`推荐谱面！` 按钮下方还会有一个 `报告问题` 按钮，用户点击后也会被重定向到谱面讨论页，但目的则是报告谱面中在提名阶段可能被遗漏的任何问题。
+特别地，如果谱面处于[过审](/wiki/Beatmap/Category#qualified)状态，`推荐谱面！` 按钮下方还会显示 `报告问题` 按钮，点击后依然会跳转到谱面讨论页，但目的则是报告在提名阶段内，谱面中可能被遗漏的任何问题。
 
 ## 排名
 
