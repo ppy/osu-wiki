@@ -10,9 +10,10 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 | :-- | :-- |
 | Lừa đảo/mạo danh trong tin nhắn riêng | Gửi báo cáo thông thường |
 | Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#danh-sách-lệnh). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
-| Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
+| Nội dung không phù hợp trong beatmap [được xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một [Đề cử viên Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua [website quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một thành viên của [NAT](/wiki/People/Nomination_Assessment_Team) hoặc [GMT](/wiki/People/Global_Moderation_Team) | [Nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) tại [support@ppy.sh](mailto:support@ppy.sh) |
+| Bắt chước beatmap của người khác hoặc vi phạm bản quyền | Nộp khiếu nại DMCA đến [copyright@ppy.sh](mailto:copyright@ppy.sh) theo như [chính sách bản quyền của osu!]()
 | Lạm dụng tình dục hoặc hành vi sai trái nghiêm trọng | Tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Đối với điều gì khác, xem các hướng dẫn bên dưới.
@@ -25,7 +26,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
-Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo điều này, sử dụng [lệnh !report](https://osu.ppy.sh/community/forums/topics/34843) được ưu tiên trong kênh nơi đã xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu với !report với một dấu cách, và bạn gửi nó từ osu!(stable) hoặc từ một client IRC, **nó chỉ được nhìn thấy bởi các người kiểm duyệt** và không một ai khác trong trò chuyện. Bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như phần được miêu tả bên dưới nếu bạn vẫn cảm thấy lo ngại.
+Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo điều này, sử dụng [lệnh !report](https://osu.ppy.sh/community/forums/topics/34843) được ưu tiên hơn trong kênh nơi đã xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu với !report với một dấu cách, và bạn gửi nó từ osu!(stable) hoặc từ một client IRC, **lệnh chỉ được nhìn thấy bởi các người kiểm duyệt** và không một ai khác trong trò chuyện. Bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như phần được miêu tả bên dưới nếu bạn vẫn cảm thấy lo ngại.
 
 Cú pháp của lệnh có 2 dạng:
 
