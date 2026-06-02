@@ -40,11 +40,11 @@ When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!s
 
 ![Classic customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/CL.png)
 
-- **No slider head accuracy requirement** (default: enabled): [Sliders](/wiki/en/Gameplay/Hit_object/Slider) will work the same way they used to in osu!stable, so slider heads don't have to be hit accurately.
-- **Apply classic note lock** (default: enabled): [Notelock](/wiki/en/Gameplay/Judgement/Notelock) will work the same way it used to in osu!stable.
+- **No slider head accuracy requirement** (default: enabled): [Sliders](/wiki/Gameplay/Hit_object/Slider) will work the same way they used to in osu!stable, so slider heads don't have to be hit accurately.
+- **Apply classic note lock** (default: enabled): [Notelock](/wiki/Gameplay/Judgement/Notelock) will work the same way it used to in osu!stable.
 - **Always play a slider's tail sample** (default: enabled): A slider's tail sample will always be played, even if it wasn't hit.
 - **Fade out hit circles earlier** (default: enabled): Hit circles will fade out into a miss, rather than after it.
-- **Classic health** (default: enabled): [Health](/wiki/en/Gameplay/Health) will work similar to how it used to in osu!stable.
+- **Classic health** (default: enabled): [Health](/wiki/Gameplay/Health) will work similar to how it used to in osu!stable.
 
 *Note that these settings are only available in osu!. In osu!taiko and osu!mania, this mod cannot be customised.*
 
