@@ -13,7 +13,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 | Nội dung không phù hợp trong beatmap [được xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một [Đề cử viên Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua [website quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một thành viên của [NAT](/wiki/People/Nomination_Assessment_Team) hoặc [GMT](/wiki/People/Global_Moderation_Team) | [Nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) tại [support@ppy.sh](mailto:support@ppy.sh) |
-| Bắt chước beatmap của người khác hoặc vi phạm bản quyền | Nộp khiếu nại DMCA đến [copyright@ppy.sh](mailto:copyright@ppy.sh) theo như [chính sách bản quyền của osu!]()
+| Sao chép trái phép beatmap của người khác hoặc vi phạm bản quyền | Nộp khiếu nại DMCA đến [copyright@ppy.sh](mailto:copyright@ppy.sh) theo như [chính sách bản quyền của osu!]()
 | Lạm dụng tình dục hoặc hành vi sai trái nghiêm trọng | Tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Đối với điều gì khác, xem các hướng dẫn bên dưới.
