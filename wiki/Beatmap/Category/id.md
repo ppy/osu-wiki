@@ -12,7 +12,7 @@ Suatu beatmap akan secara otomatis dipindahkan dari [Work in Progress dan Pendin
 
 ### Work in Progress dan Pending {id=wip-and-pending}
 
-Work in Progress (*WIP*) dan Pending adalah dua kategori yang diberikan kepada beatmap pada saat pertama kali diunggah. Beatmap dalam kedua kategori ini bisa berpindah ke kategori [Qualified](#qualified) apabila beatmap ini [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Proses ini pada umumnya mencakup pengkajian yang mendalam oleh para [modder](/wiki/Modding/Modder) melalui tahapan [modding](/wiki/Modding). Beatmap Work in Progress dan Pending tidak memiliki papan peringkat, namun akan tetap berkontribusi ke [statistik permainan](#statistik-beatmap-non-ranked) yang ada. Beatmap dalam kedua kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada layar pemilihan lagu.
+Work in Progress (*WIP*) dan Pending adalah dua kategori yang diberikan kepada beatmap pada saat pertama kali diunggah. Beatmap dalam kedua kategori ini bisa berpindah ke kategori [Qualified](#qualified) apabila beatmap ini [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) oleh setidaknya dua orang anggota [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Proses ini biasanya melibatkan banyak masukan dari para [modder](/wiki/Modding/Modder) melalui tahapan [modding](/wiki/Modding). Beatmap Work in Progress dan Pending tidak memiliki papan peringkat, namun akan tetap berkontribusi ke [statistik permainan](#statistik-beatmap-non-ranked) yang ada. Beatmap dalam kedua kategori ini ditandai dengan simbol tanda tanya (![](/wiki/shared/status/graveyard.png)) pada layar pemilihan lagu.
 
 Beatmap Work in Progress dan Pending yang sudah tidak aktif selama 4 minggu akan secara otomatis dipindahkan ke kategori [Graveyard](#graveyard).
 
@@ -32,7 +32,7 @@ Beatmap Ranked ditandai dengan simbol pangkat ganda (![](/wiki/shared/status/ran
 
 *Untuk informasi lebih lanjut seputar sejarah kategori Loved, kunjungi: [Sejarah Loved](/wiki/History_of_osu!/History_of_Loved)*
 
-Beatmap Loved adalah beatmap yang bisa jadi tidak memenuhi [kriteria ranking](/wiki/Ranking_criteria), namun *dicintai (loved)* oleh komunitas secara luas, dan oleh karenanya diangkat ke kategori ini secara berkala berdasarkan hasil pemungutan suara [Project Loved](/wiki/Community/Project_Loved). Beatmap Loved memiliki papan peringkat, namun tidak memberikan [performance point](/wiki/Performance_points) dan seluruh skor yang ada akan dihapus apabila beatmap ini dilepas dari kategori Loved. Beatmap dalam kategori ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) pada layar pemilihan lagu.
+Beatmap Loved adalah beatmap yang bisa jadi tidak memenuhi [kriteria ranking](/wiki/Ranking_criteria), namun *dicintai (loved)* oleh komunitas secara luas, dan oleh karenanya diangkat ke kategori ini secara berkala berdasarkan hasil pemungutan suara di [Project Loved](/wiki/Community/Project_Loved). Beatmap Loved memiliki papan peringkat, namun tidak memberikan [performance point](/wiki/Performance_points) dan seluruh skor yang ada akan dihapus apabila beatmap ini dilepas dari kategori Loved. Beatmap dalam kategori ini ditandai dengan simbol hati (![](/wiki/shared/status/loved.png)) pada layar pemilihan lagu.
 
 ## Sejarah
 
@@ -46,7 +46,7 @@ Beatmap dalam kategori ini ditandai dengan simbol centang (![](/wiki/shared/stat
 
 ### Kemunculan kategori Qualified
 
-Kategori [Qualified](#qualified) diperkenalkan pada bulan Agustus 2014 pada saat [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) untuk membuat agar beatmap yang baru Ranked menjadi lebih terlihat. Apabila suatu beatmap Qualified perlu didiskualifikasi dan dikembalikan ke Pending, statistik pemain tidak akan terpengaruh, karena sejak awal kategori ini sudah dirancang untuk tidak mencatat skor secara permanen. Kemunculan kategori ini berhasil meluruskan pandangan yang ada seputar proses ranking serta mengurangi tanggapan negatif dari komunitas seputar penganuliran status Ranked (*unrank*) pada beatmap.
+Kategori [Qualified](#qualified) diperkenalkan pada bulan Agustus 2014 pada saat [restrukturisasi BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) untuk membuat agar beatmap yang baru Ranked menjadi lebih terlihat. Apabila suatu beatmap Qualified perlu didiskualifikasi dan dikembalikan ke Pending, statistik pemain tidak akan terpengaruh, karena sejak awal kategori ini sendiri memang sejak awal dirancang untuk memberikan skor yang sementara. Kemunculan kategori ini berhasil meluruskan pandangan yang ada seputar proses ranking serta mengurangi tanggapan negatif dari komunitas seputar penganuliran status Ranked (*unrank*) pada beatmap.
 
 ### Statistik beatmap non-Ranked
 
