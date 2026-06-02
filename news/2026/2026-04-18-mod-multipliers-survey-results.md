@@ -102,7 +102,7 @@ In this case, the CS was decreased and the AR was increased. This works out like
 
 These penalties are then multiplied together to create the final multiplier, which works out as 0.6375x.
 
-Note that this applies just the same if the parameters are *increased* - if this example was CS 4.5 instead of CS 3.5 the end multiplier would be the exact same.
+Note that this applies just the same if the parameters are *increased* - if this example was CS 4.5 instead of CS 3.5, the end multiplier would be exactly the same.
 
 ---
 
