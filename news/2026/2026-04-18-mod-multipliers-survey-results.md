@@ -19,18 +19,18 @@ All changes cited will **not** be replicated in the osu!(stable) client as it is
 
 To recap: The new game client makes a lot of changes to both game mechanics and the scoring system which have been requested by players for years, yet many are incompatible with the osu!(stable) client. You can [read about these changes on the wiki](/wiki/Help_centre/Upgrading_to_lazer#gameplay-differences).
 
-As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier/Classic) applied which, until now, had a 0.96x mod multiplier.
+As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](/wiki/Gameplay/Game_modifier/Classic) applied which, until now, had a `0.96x` mod multiplier.
 
 Following this survey, we have updated the Classic mod multiplier for **all** game modes. All other mod multiplier changes in this newspost will be for the **osu!** game mode only.
 
 | Game mode | Before | After |
 | :-- | :-- | :-- |
-| ![](/wiki/shared/mode/osu.png) osu! | 0.96x | **0.985x*** |
-| ![](/wiki/shared/mode/taiko.png) osu!taiko | 0.96x | **1.0x** |
-| ![](/wiki/shared/mode/catch.png) osu!catch | 0.96x | **1.0x** |
-| ![](/wiki/shared/mode/mania.png) osu!mania | 0.96x | **1.0x** |
+| ![](/wiki/shared/mode/osu.png) osu! | `0.96x` | **`0.985x`*** |
+| ![](/wiki/shared/mode/taiko.png) osu!taiko | `0.96x` | **`1.0x`** |
+| ![](/wiki/shared/mode/catch.png) osu!catch | `0.96x` | **`1.0x`** |
+| ![](/wiki/shared/mode/mania.png) osu!mania | `0.96x` | **`1.0x`** |
 
-*when "Apply classic notelock" is disabled, this is further reduced to 0.96x
+*when "Apply classic notelock" is disabled, this is further reduced to `0.96x`
 
 ## Survey results
 
@@ -42,10 +42,10 @@ Alongside the changes shown above, there are also mods with multiplier changes w
 
 Assuming no other mods, multipliers for HD are as follows:
 
-- Before: 1.06x
-- After: **1.04x** (when "Only fade approach circles" is enabled, this is further reduced by 0.02x)
+- Before: `1.06x`
+- After: **`1.04x`** (when "Only fade approach circles" is enabled, this is further reduced by `0.02x`)
 
-The multiplier is further reduced by 0.02x if any of the mods are enabled, as they provide timing information HD typically lacks:
+The multiplier is further reduced by `0.02x` if any of the mods are enabled, as they provide timing information HD typically lacks:
 
 - Wiggle (WG)
 - Grow (GR)
@@ -63,28 +63,28 @@ Like HD, any mod multiplier for TC is surrendered if Blinds (BL) is enabled.
 
 Assuming no other mods, multipliers for FL are as follows:
 
-- Before: 1.12x
-- After: **1.2x**
+- Before: `1.12x`
+- After: **`1.2x`**
 
 The multiplier is modified in these cases:
 
-- Reduced by 0.02x per 0.1 increase to the "Flashlight size" setting
-- Reduced to 1.04x if the "Change size based on combo" setting is disabled
-- Reduced to 1.1x if Freeze Frame (FR) is enabled
+- Reduced by `0.02x` per 0.1 increase to the "Flashlight size" setting
+- Reduced to `1.04x` if the "Change size based on combo" setting is disabled
+- Reduced to `1.1x` if Freeze Frame (FR) is enabled
 
 ### Deflate (DF)
 
-Assuming no other mods and default settings, the multiplier for DF remains at 1.0x.
+Assuming no other mods and default settings, the multiplier for DF remains at `1.0x`.
 
-DF's multiplier is reduced by 0.02x per step in the "Starting size" setting.
+DF's multiplier is reduced by `0.02x` per step in the "Starting size" setting.
 
 ### Difficulty Adjust (DA)
 
-The old multiplier for DA was a flat 0.5x.
+The old multiplier for DA was a flat `0.5x`.
 
 The new multiplier is always variable, and scales by how far each map parameter (CS, HP, OD and AR) are from their original value.
 
-The multiplier begins at 1.0x, and decreases by 0.05x per 0.1 change on each parameter (to a minimum of 0.1x).
+The multiplier begins at `1.0x`, and decreases by `0.05x` per 0.1 change on each parameter (to a minimum of `0.1x`).
 
 #### Example
 
@@ -100,7 +100,7 @@ In this case, the CS was decreased and the AR was increased. This works out like
 - CS penalty = `1.0 - 0.5 * (4 - 3.5) = 0.75`
 - AR penalty = `1.0 - 0.5 * (9.5 - 9.2) = 0.85`
 
-These penalties are then multiplied together to create the final multiplier, which works out as 0.6375x.
+These penalties are then multiplied together to create the final multiplier, which works out as `0.6375x`.
 
 Note that this applies just the same if the parameters are *increased* - if this example was CS 4.5 instead of CS 3.5, the end multiplier would be exactly the same.
 
