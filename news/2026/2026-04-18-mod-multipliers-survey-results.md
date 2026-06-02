@@ -24,39 +24,93 @@ As a result of these changes, osu!(stable) scores get the ["Classic" mod (CL)](w
 
 Following this survey, we have updated the Classic mod multiplier for **all** game modes. All other mod multiplier changes in this newspost will be for the **osu!** game mode only.
 
-<!-- todo: update osu! CL multiplier with real value -->
-
 | Game mode | Before | After |
 | :-- | :-- | :-- |
-| ![](/wiki/shared/mode/osu.png) osu! | 0.96x | **x.xxx** |
+| ![](/wiki/shared/mode/osu.png) osu! | 0.96x | **0.985x*** |
 | ![](/wiki/shared/mode/taiko.png) osu!taiko | 0.96x | **1.0x** |
 | ![](/wiki/shared/mode/catch.png) osu!catch | 0.96x | **1.0x** |
 | ![](/wiki/shared/mode/mania.png) osu!mania | 0.96x | **1.0x** |
 
-## Survey results
+*when "Apply classic notelock" is disabled, this is further reduced to 0.96x
 
-<!-- todo: replace with image of real multipliers -->
+## Survey results
 
 ![](/wiki/shared/news/2026-04-18-mod-multipliers-survey-results/mod-multipliers.png)
 
 Alongside the changes shown above, there are also mods with multiplier changes which aren't a simple number tweak. osu!(lazer) adds a series of new fun mods for all to enjoy, and some of these mods' difficulty is reduced when paired with other mods. As a result, these cases will have different multipliers depending on what other mods are enabled:
 
-<!-- todo: replace with non-placeholders -->
+### Hidden (HD)
 
-### Placeholder Mod (PM)
-
-Assuming no other mods, the new multipliers for PM are as follows:
+Assuming no other mods, multipliers for HD are as follows:
 
 - Before: 1.04x
-- After: **1.02x**
+- After: **1.02x** (when "Only fade approach circles" is enabled, this is further reduced by 0.02x)
 
-However, due to how this mod interacts with the Hidden (HD) mod, the multiplier will be further reduced to 1.01x when paired alongside HD.
+The multiplier is further reduced by 0.02x if any of the mods are enabled, as they provide timing information HD typically lacks:
+
+- Wiggle (WG)
+- Grow (GR)
+- Deflate (DF)
+- Repel (RP)
+- Depth (DP)
+
+Finally, any mod multiplier for HD is surrendered if Blinds (BL) is enabled.
+
+### Flashlight (FL)
+
+Assuming no other mods, multipliers for FL are as follows:
+
+Before: 1.12x
+After: 1.2x
+
+The multiplier is modified in these cases:
+
+- Reduced by 0.02x per 0.1 increase to the "Flashlight size" setting
+- Reduced to 1.04x if the "Change size based on combo" setting is disabled
+- Reduced to 1.1x if Freeze Frame (FR) is enabled
+
+### Deflate (DF)
+
+Assuming no other mods and default settings, the multiplier for DF remains at 1.0x.
+
+DF's multiplier is reduced by 0.02x per step in the "Starting size" setting.
+
+### Difficulty Adjust (DA)
+
+The old multiplier for DA was a flat 0.5x.
+
+The new multiplier is always variable, and scales by how far each map parameter (CS, HP, OD and AR) are from their original value.
+
+The multiplier begins at 1.0x, and decreases by 0.05x per 0.1 change on each parameter (to a minimum of 0.1x).
+
+#### Example
+
+A beatmap is:
+
+- CS 4
+- HP 5
+- OD 9
+- AR 9.2
+
+DA is enabled with:
+
+- CS 3.5
+- HP 5
+- OD 9
+- AR 9.5
+
+In this case, the CS was decreased and the AR was increased. This works out like so:
+
+- CS penalty = 1.0 - 0.5 * (4 - 3.5) = 0.75
+- AR penalty = 1.0 - 0.5 * (9.5 - 9.2) = 0.85
+
+These penalties are then multiplied together to create the final multiplier, which works out as 0.6375x.
+
+Note that this applies just the same if the parameters are _increased_ - if this example was CS 4.5 instead of CS 3.5 the end multiplier would be the exact same.
 
 ---
 
-<!-- todo: replace with real results link -->
-
-For those who are interested in doing their own interpretations of the survey results, you can see an anonymised view of the results [in this page](https://osu.ppy.sh).
+For those who are interested in doing their own interpretations of the survey results, you can see an anonymised view of the results [in this page](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXW4VAKOx2_gBPQ8V-s0KR2p1O1AP3dt05bg7oDkNQRWo2B0WQ-onIZLahJn3xbRZ1m1U7tfUtANbQ/pubhtml).
 
 Once again, many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey, programming the spreadsheet and interpreting the results.
 
