@@ -60,8 +60,8 @@ Finally, any mod multiplier for HD is surrendered if Blinds (BL) is enabled.
 
 Assuming no other mods, multipliers for FL are as follows:
 
-Before: 1.12x
-After: 1.2x
+- Before: 1.12x
+- After: 1.2x
 
 The multiplier is modified in these cases:
 
