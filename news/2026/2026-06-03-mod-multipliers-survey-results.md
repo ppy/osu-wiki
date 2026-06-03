@@ -66,6 +66,56 @@ The multiplier is further reduced by `0.02x` if any of the mods are enabled, as 
 
 Finally, any mod multiplier for HD is surrendered if Blinds (BL) is enabled.
 
+### Double Time (DT) and Nightcore (NC)
+
+The multiplier for DT/NC is linear depending on the rate. The multiplier increases in steps of 0.1 rate, with this formula: `(rate - 1) * 0.46 + 1`
+
+For all rates that aren't the default (1.5x), there is a penalty of `0.01x` added. This penalty exists to encourage the use of DT's default rate, and to ensure that legacy DT scores still have a prominent spot on leaderboards.
+
+| Rate | Before | After |
+| :-- | :-- | :-- |
+| 1.1 | `1.02x` | `1.036x` |
+| 1.2 | `1.04x` | `1.082x` |
+| 1.3 | `1.06x` | `1.128x` |
+| 1.4 | `1.08x` | `1.174x` |
+| 1.5 | `1.1x` | `1.23x` |
+| 1.6 | `1.12x` | `1.266x` |
+| 1.7 | `1.14x` | `1.312x` |
+| 1.8 | `1.16x` | `1.358x` |
+| 1.9 | `1.18x` | `1.404x` |
+| 2.0 | `1.2x` | `1.45x` |
+
+### Half Time (HT) and Daycore (DC)
+
+The multiplier for HT/DC is linear depending on the rate. The multiplier decreases in steps of 0.05 rate, with this formula: `rate * 1.4 - 0.5`
+
+The `0.01x` penalty that exists for non-default rates in DT/NC does not apply here as it would result in too high a penalty for rates above `0.75x`, and the default rate is already encouraged enough with this formula.
+
+| Rate | Before | After |
+| :-- | :-- | :-- |
+| 0.95 | `0.5x` | `0.83x` |
+| 0.9 | `0.5x` | `0.76x` |
+| 0.85 | `0.4x` | `0.69x` |
+| 0.8 | `0.4x` | `0.62x` |
+| 0.75 | `0.3x` | `0.55x` |
+| 0.7 | `0.3x` | `0.48x` |
+| 0.65 | `0.2x` | `0.41x` |
+| 0.6 | `0.2x` | `0.34x` |
+| 0.55 | `0.1x` | `0.27x` |
+| 0.5 | `0.1x` | `0.2x` |
+
+### Wind Up (WU) and Wind Down (WD)
+
+The multiplier for WU/WD is a weighted multiplier of the minimum and maximum rates: `0.8 * mod_multiplier(minimum) + 0.2 * mod_multiplier(maximum)`
+
+For example:
+
+| Minimum Rate | Maximum Rate | Multiplier |
+| :-- | :-- | :-- |
+| 1.2 (`1.082x`) | 1.7 (`1.312x`) | `1.128x` |
+| 0.7 (`0.48x`) | 0.9 (`0.76x`) | `0.536x` |
+| 0.5 (`0.2x`) | 0.51 (`0.2x`) | `0.2x` |
+
 ### Traceable (TC)
 
 Assuming no other mods, multipliers for TC are as follows:
