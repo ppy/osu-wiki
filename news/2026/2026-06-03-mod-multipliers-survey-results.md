@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mod Multipliers: Survey Results"
-date: 2026-06-03 14:00:00 +0000
+date: 2026-06-03 15:00:00 +0000
 series: ranking_system_updates
 ---
 
@@ -125,5 +125,7 @@ Note that this applies just the same if the parameters are *increased* - if this
 For those who are interested in doing their own interpretations of the survey results, you can see an anonymised view of the results [in this page](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXW4VAKOx2_gBPQ8V-s0KR2p1O1AP3dt05bg7oDkNQRWo2B0WQ-onIZLahJn3xbRZ1m1U7tfUtANbQ/pubhtml).
 
 Once again, many thanks to ::{ flag=PL }:: [Maklovitz](https://osu.ppy.sh/users/9217626), ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611), ::{ flag=UA }:: [SomeMelGuy](https://osu.ppy.sh/users/8706541), ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455), ::{ flag=GB }:: [tsunyoku](https://osu.ppy.sh/users/11315329) and ::{ flag=FR }:: [Zyf](https://osu.ppy.sh/users/7475179), who were involved in organising the survey, programming the spreadsheet and interpreting the results.
+
+You are welcome to leave feedback in the comments below, but we've also set up a [forum thread](https://osu.ppy.sh/community/forums/topics/2211975?n=1) to allow for longer form feedback for anyone interested in sharing their thoughts!
 
 —tsunyoku
