@@ -68,7 +68,7 @@ Finally, any mod multiplier for HD is surrendered if Blinds (BL) is enabled.
 
 ### Double Time (DT) and Nightcore (NC)
 
-The multiplier for DT/NC is linear depending on the rate. The multiplier increases in steps of 0.1 rate, with this formula: `(rate - 1) * 0.46 + 1`.
+The multiplier for DT/NC is linear depending on the rate. The multiplier increases in steps of 0.1 rate, with this formula: `(rate - 1) * 0.46 + 1`
 
 For all rates that aren't the default (1.5x), there is a penalty of `0.01x` added. This penalty exists to encourage the use of DT's default rate, and to ensure that legacy DT scores still have a prominent spot on leaderboards.
 
