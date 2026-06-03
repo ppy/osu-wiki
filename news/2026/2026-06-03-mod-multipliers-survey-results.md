@@ -78,12 +78,12 @@ For all rates that aren't the default (1.5x), there is a penalty of `0.01x` adde
 | 1.2 | `1.04x` | `1.082x` |
 | 1.3 | `1.06x` | `1.128x` |
 | 1.4 | `1.08x` | `1.174x` |
-| 1.5 | `1.1x`  | `1.23x`  |
+| 1.5 | `1.1x` | `1.23x` |
 | 1.6 | `1.12x` | `1.266x` |
 | 1.7 | `1.14x` | `1.312x` |
 | 1.8 | `1.16x` | `1.358x` |
 | 1.9 | `1.18x` | `1.404x` |
-| 2.0 | `1.2x`  | `1.45x`  |
+| 2.0 | `1.2x` | `1.45x` |
 
 ### Half Time (HT) and Daycore (DC)
 
@@ -102,7 +102,7 @@ The `0.01x` penalty that exists for non-default rates in DT/NC does not apply he
 | 0.65 | `0.2x` | `0.41x` |
 | 0.6  | `0.2x` | `0.34x` |
 | 0.55 | `0.1x` | `0.27x` |
-| 0.5  | `0.1x` | `0.2x`  |
+| 0.5  | `0.1x` | `0.2x` |
 
 ### Wind Up (WU) and Wind Down (WD)
 
@@ -113,8 +113,8 @@ For example:
 | Minimum Rate | Maximum Rate | Multiplier |
 | :-- | :-- | :-- |
 | 1.2 (`1.082x`) | 1.7 (`1.312x`) | `1.128x` |
-| 0.7 (`0.48x`)  | 0.9 (`0.76x`)  | `0.536x` |
-| 0.5 (`0.2x`)   | 0.51 (`0.2x`)  | `0.2x`   |
+| 0.7 (`0.48x`) | 0.9 (`0.76x`) | `0.536x` |
+| 0.5 (`0.2x`) | 0.51 (`0.2x`) | `0.2x` |
 
 ### Traceable (TC)
 
