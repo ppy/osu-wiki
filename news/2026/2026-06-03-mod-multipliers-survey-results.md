@@ -44,7 +44,7 @@ Following this survey, we have updated the Classic mod multiplier for **all** ga
 
 ## Survey results
 
-![](/wiki/shared/news/2026-06-03-mod-multipliers-survey-results/mod-multipliers.png)
+![](/wiki/shared/news/2026-06-03-mod-multipliers-survey-results/mod-multipliers.png?2)
 
 Alongside the changes shown above, there are also mods with multiplier changes which aren't a simple number tweak. osu!(lazer) adds a series of new fun mods for all to enjoy, and some of these mods' difficulty is reduced when paired with other mods. As a result, these cases will have different multipliers depending on what other mods are enabled:
 
