@@ -9,11 +9,11 @@ Capture The Achievement returns this Summer with 75 new achievements to solve fr
 
 ![](/wiki/shared/news/2026-06-01-capture-the-achievement-3/banner.jpg)
 
-If this is your first time hearing of Capture The Achievement (CTA), it's a team event (1-5 players per team) where teams complete "achievements" to earn points, and the team with the most points wins. Each achievement has its own unique solution that requires some mixture of knowledge, research, technical and mechanical skill, and sometimes sheer dumb luck. The event is much more fun with a team, so I recommend gathering some friends or looking into the free agent section below.
+If this is your first time hearing of Capture The Achievement (CTA), it's a team event (1-5 players per team) where teams complete "achievements" to earn points, and the team with the most points wins. Each achievement has its own unique solution that requires some mixture of knowledge, research, technical and mechanical skill, and sometimes sheer dumb luck. The event is much more fun with a team, so I recommend gathering some friends or looking at the "what if I don't have a team" section.
 
-The last iteration of CTA took place last summer with 100 achievements across 16 days. This year, we've shortened the length and the number of achievements to focus on quality and decrease burnout for the competitive teams. In addition, we tweaked the scoring, tag system, and achievement release schedule based on feedback.
+The last iteration of CTA took place last summer with 100 achievements across 16 days. This year, we've shortened the length and decreased the number of achievements to reduce burnout for the competitive teams and focus on quality, respectively. In addition, we tweaked the scoring, tag system, and achievement release schedule based on feedback.
 
-The event will take place on the [CTA website](https://cta.sheppsu.me/) and you can join the [Discord server](https://discord.gg/kuE5mTZgqK) to see announcements, ask any specific questions, and interact with fellow players. 
+The event will take place on the [CTA website](https://cta.sheppsu.me/) and you can join the [Discord server](https://discord.gg/kuE5mTZgqK) to see announcements, ask any specific questions, or interact with fellow players. 
 
 ## Schedule & Achievement Release
 
@@ -45,7 +45,7 @@ Go to the [CTA website](https://cta.sheppsu.me/) and login by clicking the osu! 
 
 ## What if I don't have a team?
 
-There are a few options. Firstly, there is a free agent system to match you with a random team. After registering, you may opt into being a free agent and specify whether you plan on playing casually or competitively; this will help match you to a team. You can also try joining the [Discord server](https://discord.gg/kuE5mTZgqK) and using the #looking-for-team channel. Lastly, you could play solo, but I can't say I recommend it.
+There are a few options. Firstly, there is a free agent system to match you with a random team. After registering, you may opt into being a free agent and specify whether you plan on playing casually or competitively; this will help match you to a team. You can also try joining the [Discord server](https://discord.gg/kuE5mTZgqK) and using the #looking-for-team channel. Lastly, you could play solo, but I don't recommend it because it's less fun.
 
 ## What does an achievement look like?
 
