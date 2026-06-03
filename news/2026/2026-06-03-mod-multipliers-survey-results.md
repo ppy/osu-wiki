@@ -7,7 +7,7 @@ series: ranking_system_updates
 
 Time for some fresh leaderboards.
 
-![](/wiki/shared/news/2026-06-03-mod-multipliers-survey-results/banner.jpg)
+![](/wiki/shared/news/2026-06-03-mod-multipliers-survey-results/banner.jpg?1)
 
 Thank you to everybody who participated in the [survey posted back in January](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers).
 
