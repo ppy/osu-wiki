@@ -91,4 +91,4 @@ In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_sup
 
 ## Sind Turniersanktionen für die Öffentlichkeit sichtbar? {id=visibility}
 
-Unbefristete Turniersperren und Turniersperren, die nicht in Kombination mit den [üblichen Gesuchsbedingungen](/wiki/Help_centre/Account_restrictions#appeal-granted) verhängt worden sind, sind für die gesamte Dauer der Sperre sowie für **28 Tage** danach auf dem Profil des betroffenen Nutzers sichtbar. Andere Turniersanktionen (d. h. Probezeiten, Veranstaltungsverbote und Aushilfssperren) sind nicht für die Öffentlichkeit auf dieser Weise sichtbar.
+Unbefristete Turniersperren und Turniersperren, die nicht in Kombination mit den [üblichen Gesuchsbedingungen](/wiki/Help_centre/Account_restrictions#appeal-granted) verhängt worden sind, sind für die gesamte Dauer der Sperre sowie für **28 Tage** danach auf dem Profil des betroffenen Nutzers sichtbar. Andere Turniersanktionen (d. h. Probezeiten, Veranstaltungsverbote und Aushilfssperren) sind nicht für die Öffentlichkeit in der Form sichtbar.
