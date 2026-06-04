@@ -21,15 +21,15 @@ Inspired by the success of OWC2025's new format, 4WC2026 will feature its own tw
 
 | Event | Dates |
 | --: | :-- |
-| Registration phase | 1 June - 21 June (23:59 UTC) |
-| Team submission phase | 22 June - 26 June |
-| Qualifiers | 11 July - 12 July |
-| Group stage | 13 July - 27 July |
-| Round of 16 | 3 August - 9 August |
-| Quarterfinals | 10 August - 16 August |
-| Semifinals | 17 August - 23 August |
-| Finals | 24 August - 30 August |
-| Grand Finals | 31 August - 6 September |
+| Registration phase | 1 June – 21 June (23:59 UTC) |
+| Team submission phase | 22 June – 26 June |
+| Qualifiers | 11 July – 12 July |
+| Group stage | 13 July – 27 July |
+| Round of 16 | 3 August – 9 August |
+| Quarterfinals | 10 August – 16 August |
+| Semifinals | 17 August – 23 August |
+| Finals | 24 August – 30 August |
+| Grand Finals | 31 August – 6 September |
 
 ## How do I register?
 
