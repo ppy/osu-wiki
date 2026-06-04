@@ -39,7 +39,7 @@ The **Accuracy Challenge** mod allows the player to set a minimum accuracy that 
 
 - **Minimum accuracy** (60%-99%, default: 90%): Trigger a failure if accuracy goes below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
-  - **Maximum achievable**: Fail if the player is not able to achieve this threshold until the [beatmap](/wiki/Beatmap) ends even when hitting perfectly.
+  - **Maximum achievable**: Fail immediately if the threshold cannot be achieved by the end of the [beatmap](/wiki/Beatmap).
   - **Standard**: Fail if the accuracy goes strictly below the value.
 - Restart on fail (default: disabled): Restart the map when the accuracy goes below the minimum value specified.
 
