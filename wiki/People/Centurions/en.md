@@ -57,6 +57,7 @@ Centurions are users who have achieved the prestigious milestone of creating **o
 
 - The first user to reach 100 Ranked beatmaps was ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363), on 4 August 2010.
 - Amongst all Centurions, it takes approximately **6.1 years** (around 2221 days) to rank 100 beatmaps on average.<!--Stats available at https://chromb.uk/centurions/data.json , now automated by chromb.-->
+
 ## Notes
 
 [^andrea-first-ranked-date]: Due to a system glitch, the website incorrectly shows [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) as ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599)'s first ranked beatmap (with a listed date of 2009-01-11). However, this beatmap was actually ranked roughly a year later on [2010-01-14](https://osu.ppy.sh/community/forums/posts/295050) instead.
