@@ -1,17 +1,10 @@
----
-tags:
-  - NAT
-outdated_translation: true
-outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
----
-
 # Đội ngũ Đánh giá Đề cử
 
 *Xem thêm: [Đánh giá Đề cử viên](Evaluations), [Đánh giá mức độ nghiêm trọng](SEV_rating)*
 
 **Đội ngũ Đánh giá Đề cử** (***NAT***) là những người quản lý các [Đề cử viên](/wiki/People/Beatmap_Nominators) (*BN*) và đảm bảo những lĩnh vực liên quan đến beatmap trong osu! hoạt động bình thường.
 
-Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `NAT`, và tên người dùng hiện màu đỏ trong game. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), và có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) của beatmap, giống như những [thành viên chính thức](/wiki/People/Beatmap_Nominators#đề-cử-viên-chính-thức) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Nhìn chung, những thành viên của NAT chính là những BN với những chức năng, nhiệm vụ khác nhau. Vì thế, mọi [quy tắc](/wiki/People/Beatmap_Nominators/Rules) và [tiêu chuẩn riêng](/wiki/People/Beatmap_Nominators/Expectations) của Đề cử viên đều áp dụng cho thành viên của NAT với một số ngoại lệ nhất định để hoạt động.
+Thành viên của NAT được nhận diện bởi danh hiệu màu đỏ cam, huy hiệu [nhóm người dùng](/wiki/People/User_groups) mang chữ `NAT` và tên người dùng màu đỏ trong trò chơi. Họ có quyền quản lý toàn bộ website như [Đội ngũ Kiểm duyệt viên](/wiki/People/Global_Moderation_Team) (*GMT*), đồng thời cũng có khả năng [đề cử](/wiki/Beatmap_ranking_procedure#nominations) và [đặt lại đề cử](/wiki/Beatmap_ranking_procedure#nomination-resets) beatmap như [các thành viên chính thức](/wiki/People/Beatmap_Nominators#đề-cử-viên-chính-thức) của [Đội ngũ Đề cử viên](/wiki/People/Beatmap_Nominators) (*BNs*). Trong hầu hết trường hợp, thành viên NAT chính là các BN với những trách nhiệm khác nhau. Vì vậy, mọi [quy tắc BN](/wiki/People/Beatmap_Nominators/Rules) và [Kỳ vọng](/wiki/People/Beatmap_Nominators/Expectations) dành cho Đề cử viên đều áp dụng với thành viên NAT, với một số ngoại lệ nhất định vì mục đích hoạt động.
 
 **Tất cả thành viên của Đội ngũ Đánh giá Đề cử cam kết tuân thủ theo [Bộ quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct) bên cạnh [Quy tắc cộng đồng](/wiki/Rules).**
 
@@ -147,7 +140,7 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Tiếng Nga |
 | ::{ flag=KR }:: [momoyo](https://osu.ppy.sh/users/12469536) | Tiếng pháp, Tây Ban Nha |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | Trung Quốc |
-| ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071) | Romanian |
+| ::{ flag=RO }:: [bms](https://osu.ppy.sh/users/12366071) | Romanian |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) |  |
 | ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Tiếng Đức |
 
@@ -156,9 +149,9 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | Tên | Ngôn ngữ được sử dụng |
 | :-- | :-- |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tiếng Trung Quốc |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonese, Tiếng Trung Quốc |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Tiếng Ả Rập, Tiếng đức |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Tiếng Bồ Đào Nha |
-| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | Một ít tiếng Đức |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Tiếng Đức, một chút tiếng Pháp |
 
 #### osu!catch
@@ -167,7 +160,6 @@ Trưởng nhóm NAT phụ trách những việc sau:
 | :-- | :-- |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Tiếng Đức |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Hàn Quốc |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | Hàn Quốc |
 
 #### osu!mania
@@ -202,4 +194,4 @@ Những thành viên NAT sau đây giữ vai trò đánh giá là chủ yếu, n
 
 ---
 
-Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) sẽ làm đại diện cho NAT để gửi thông báo mà không cần một người dùng nhất định. Tài khoản có thể được sử dụng để gửi các bài đánh giá, tổ chức các đợt đánh giá thử, phân giải (trong trường hợp có khiếu nại về việc từ chối đề cử beatmap), báo cáo, kiểm tra, đánh giá nội dung và các mục đích khác.
+Ngoài ra, [tài khoản bot của Đội ngũ Đánh giá Đề cử](https://osu.ppy.sh/users/6616586) hoạt động như một đại diện NAT để gửi thông báo chung dưới một tài khoản người dùng mà không trực tiếp gắn với cá nhân nào. Bot có thể được sử dụng để gửi các phản hồi đánh giá, các đợt đánh giá thử, hòa giải, báo cáo và xem xét nội dung và các mục đích khác.
