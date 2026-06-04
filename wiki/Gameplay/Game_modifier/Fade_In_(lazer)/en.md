@@ -23,7 +23,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `H` |
 | Game modes | ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Ranked |
 | Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
