@@ -21,7 +21,7 @@ tags:
 | 缩写 | BR |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 1.00x |
+| 得分系数 | ``1.00x`` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
 
