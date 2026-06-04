@@ -1,6 +1,8 @@
 ---
 tags:
   - FA
+outdated_translation: true
+outdated_since: 177fca3da22b542d55d3e0dbf4f436ff3c138af7
 ---
 
 # Gesponserte Künstler

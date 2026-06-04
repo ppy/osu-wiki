@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 40e7a35ab519347caaa07e83eb12d3f9e4f70438
+---
+
 # Reportar mala conducta
 
 osu! tiene un equipo de moderadores, el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (GMT), que se encarga de mantener el juego y sus ecosistemas limpios y seguros. Si observas una conducta que infringe las reglas o es contenido inapropiado, repórtala utilizando uno de los métodos que se describen a continuación. Alternativamente, puedes comunicarte directamente con cualquiera de los moderadores en línea si tu reporte no se manejó correctamente dentro de un período de tiempo razonable, hazlo solo como último recurso.

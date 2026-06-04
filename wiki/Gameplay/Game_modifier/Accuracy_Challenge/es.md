@@ -5,6 +5,8 @@ tags:
   - acc challenge
   - desafío de precisión
   - reto de precisión
+outdated_translation: true
+outdated_since: e215e80e13e95487022e1aa1c68caf338f3ceb04
 ---
 
 # Accuracy Challenge (mod)
