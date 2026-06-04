@@ -23,9 +23,10 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `A` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] | 1.06x |
-| Score multiplier ![][osu!catch] | 1.12x |
-| Score multiplier ![][osu!mania] | 1.00x |
+| Score multiplier ![][osu!] | ``1.09x`` |
+| Score multiplier ![][osu!taiko] | ``1.06x`` |
+| Score multiplier ![][osu!catch] | ``1.12x`` |
+| Score multiplier ![][osu!mania] | ``1.00x`` |
 | Status ![][osu!] ![][osu!taiko] ![][osu!catch] | Ranked |
 | Status ![][osu!mania] | Unranked |
 | Incompatible mods ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |
