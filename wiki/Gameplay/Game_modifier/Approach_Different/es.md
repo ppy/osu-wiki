@@ -21,7 +21,7 @@ tags:
 | Acrónimo | AD |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 0,70x |
+| Multiplicador de puntuación | ``0,70x`` |
 | Estado | No clasificado |
 | Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
 
