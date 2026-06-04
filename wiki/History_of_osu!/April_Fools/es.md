@@ -14,8 +14,6 @@ tags:
   - broma
   - historia
   - legado
-outdated_translation: true
-outdated_since: 4f9c331bc757b108e9dd898868803cf12a49e99f
 ---
 
 # Historia de las bromas del día de los Inocentes de osu!
@@ -167,7 +165,7 @@ El 1 de abril de 2018, la [osu! cookie](/wiki/Brand_identity_guidelines) en la p
 
 ## 2019
 
-### Efecto de sonido de chica estornudando
+### Efecto de sonido de una chica estornudando
 
 Para el día de los Inocentes de 2019, había aproximadamente una probabilidad de 1 en 20 de escuchar el efecto de sonido de una chica estornudando al abrir un beatmap.[^sneeze-reddit][^sneeze-reddit-2][^sneeze-forums]
 
@@ -185,17 +183,39 @@ Para el día de los Inocentes de 2019, había aproximadamente una probabilidad d
 
 [«MillhioreF - Waltz o' the Irish (MillhioreF)»](https://osu.ppy.sh/beatmapsets/73348#osu/326585) —un beatmap de broma de hace mucho tiempo dentro de la comunidad— también fue [amado](/wiki/Beatmap/Category#loved) el 31 de marzo de 2020 como parte de esta broma.
 
-### Efecto de sonido de chica estornudando
+### Efecto de sonido de una chica estornudando
 
 El día de los Inocentes de 2020 recicló la misma broma del año anterior, lo que provocó una probabilidad de aproximadamente de 1 en 20 de escuchar el efecto de sonido de una chica con un tono alto estornudando al abrir un beatmap.[^sneeze-2-reddit][^sneeze-2-reddit-2]
 
 ## 2021
 
-### Efecto de sonido de chica estornudando
+### Efecto de sonido de una chica estornudando
 
 El día de los Inocentes de 2021 recicló la misma broma de los dos años anteriores, que era una probabilidad de 1 en 20 de escuchar un efecto de sonido de una chica con un tono alto estornudando al abrir un beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
 
-## Referencias
+## 2026
+
+### Más opciones
+
+::: Infobox
+![La barra lateral de opciones durante el día de los Inocentes](img/2026-toggles.png "Sección de Toggles visible durante el día de los Inocentes")
+:::
+
+En la barra lateral de opciones, apareció una nueva sección llamada `Toggles` en [osu!(lazer)](/wiki/Client/Release_stream/Lazer) el 1 de abril de 2026,[^2026] con el texto «You wanted toggles, we give you toggles» y un único botón de activación/desactivación debajo. Al hacer clic en este botón, aparecían nuevos botones con nombres poco serios como «toggle chaos» o «toggle entropy», con el fin de provocar una reacción cómica.
+
+Al activar cualquier opción, se seleccionaban o deseleccionaban otras opciones y se aplicaban efectos aleatorios, algunos de los cuales seguían activos incluso mientras se jugaba un beatmap:
+
+- Un icono de osu! que se movía por la pantalla como el [salvapantallas del logotipo de DVD](https://en.wikipedia.org/wiki/DVD_screensaver)
+- osu! haciendo un giro de 360 grados[^barrel-roll]
+- La interfaz del menú tuvo una nueva paleta de colores
+- Diversos efectos de sonido, como audio distorsionado
+- La ventana del juego estaba ligeramente inclinada
+
+Si se activaban demasiados botones, osu! se «congelaba» y reproducía un sonido de cristales rompiéndose, hacía un zoom y se oscurecía, para luego volver al estado normal. Sin embargo, la sección `Toggles` mostraba un texto que decía «...on second thought, no more toggles for you.», y debajo había un botón con que decía «But please peppy» que, al pulsarlo, emitía un pitido y mostraba el texto «no». Si pulsabas el botón las veces suficientes, se restablecería la sección `Toggles` y se mostraba un botón aleatorio, tal y como se ha descrito anteriormente.
+
+Esta sección de `Toggles` se añadió en respuesta a las numerosas peticiones recibidas en las [discusiones de GitHub](https://github.com/ppy/osu/discussions) y en el foro de [Feature Requests](https://osu.ppy.sh/community/forums/4), donde se proponía añadir opciones para diversas funciones. Los [desarrolladores](/wiki/People/Developers) no quieren que el menú de opciones se vuelva demasiado desordenado.[^toggles-comment]
+
+## Notas y referencias
 
 [^lemontree-reddit]: [Publicación de Reddit por u/5522Luca en r/osugame (10/4/2017) «Reminder the Osu! April Fools 2009? This beatmap was ranked.»](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/)
 [^lemontree-post-machol30]: [Publicación de foro por machol30 (3/4/2009) en «Best of No.1 Hits - Lemon Tree»](https://osu.ppy.sh/community/forums/posts/106774)
@@ -281,3 +301,7 @@ El día de los Inocentes de 2021 recicló la misma broma de los dos años anteri
 [^sneeze-2-reddit-2]: [Publicación de Reddit por u/ohmaytt en r/osugame (1/4/2020) «This year's osu! April Fool's Day joke»](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Hilo del foro por MilkyIQ (1/4/2021) «Is this not the third year in a row that we get sneezing girl?»](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Hilo del foro por GreatTurtleKing (1/4/2021) «i heard like a sneeze when i just started to play a song»](https://osu.ppy.sh/community/forums/topics/1286396)
+
+[^2026]: [Código fuente de osu! (lazer)](https://github.com/ppy/osu/commit/3edc428c3a084896ec6fcb4f09528cdd0668c0ef)
+[^barrel-roll]: Una referencia a un meme de [Star Fox 64](https://es.wikipedia.org/wiki/Star_Fox_64), en el que Peppy Hare aconseja al jugador con «Do a barrel roll!», es decir, que gire 360 grados.
+[^toggles-comment]: [Comentario de GitHub por peppy (16/4/2023)](https://github.com/ppy/osu/pull/23200#issuecomment-1510138723)
