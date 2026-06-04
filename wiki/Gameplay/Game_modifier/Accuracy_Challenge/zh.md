@@ -3,6 +3,8 @@ stub: true
 tags:
   - AC
   - acc challenge
+outdated_translation: true
+outdated_since: e215e80e13e95487022e1aa1c68caf338f3ceb04
 ---
 
 # Accuracy Challenge（模组）
