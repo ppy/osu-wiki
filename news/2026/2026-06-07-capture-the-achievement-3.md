@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Capture The Achievement 3
-date: 2026-06-01 20:00:00 +0000
+date: 2026-06-07 20:00:00 +0000
 series: online_events
 ---
 
 Capture The Achievement returns this Summer with 75 new achievements to solve from July 3rd to July 13th! 
 
-![](/wiki/shared/news/2026-06-01-capture-the-achievement-3/banner.jpg)
+![](/wiki/shared/news/2026-06-07-capture-the-achievement-3/banner.jpg)
 
 If this is your first time hearing of Capture The Achievement (CTA), it's a team event (1-5 players per team) where teams complete "achievements" to earn points, and the team with the most points wins. Each achievement has its own unique solution that requires some mixture of knowledge, research, technical and mechanical skill, and sometimes sheer dumb luck. The event is much more fun with a team, so I recommend gathering some friends or looking at the "what if I don't have a team" section.
 
@@ -53,8 +53,8 @@ An achievement has a title, description, tags, and possibly 1 or more beatmaps a
 
 The first image shows what was a "chat" achievement in CTA2, but we'll be phasing these out in favor of "password" achievements. The second image shows a password achievement, which has a text input to guess the password. A correct password input will give you the completion. You may also notice the difference in border colors. The red border indicates your team has not completed the achievement. The green border indicates that your team has completed it, which is also why the submit button is greyed out.
 
-![Achievement Example 1](/wiki/shared/news/2026-06-01-capture-the-achievement-3/achievement1.jpg)
-![Achievement Example 2](/wiki/shared/news/2026-06-01-capture-the-achievement-3/achievement2.jpg)
+![Achievement Example 1](/wiki/shared/news/2026-06-07-capture-the-achievement-3/achievement1.jpg)
+![Achievement Example 2](/wiki/shared/news/2026-06-07-capture-the-achievement-3/achievement2.jpg)
 
 If you're curious about the solution to **The Everlasting Epigrapher**, you can [click here](https://cta.sheppsu.me/achievements/314).
 
