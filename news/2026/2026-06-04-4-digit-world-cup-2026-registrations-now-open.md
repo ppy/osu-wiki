@@ -7,7 +7,7 @@ series: community_tournaments
 
 The 4 Digit World Cup is back with a new tempo!
 
-![](/wiki/shared/news/2026-06-01-4-digit-world-cup-2026-registrations-now-open/banner.jpg)
+![](/wiki/shared/news/2026-06-04-4-digit-world-cup-2026-registrations-now-open/banner.jpg)
 
 As the longest-running rank-restricted world cup since its inception in 2018, the [4 Digit World Cup](https://osu.ppy.sh/community/forums/topics/2211439) has always sought to deliver on its promise to be the premier tournament for 4 digits (#1,000–9,999).
 
@@ -33,7 +33,7 @@ Inspired by the success of OWC2025's new format, 4WC2026 will feature its own tw
 
 ## How do I register?
 
-[![](/wiki/shared/news/2026-06-01-4-digit-world-cup-2026-registrations-now-open/register.png)](https://projecthexagon.org/4wc-registration)
+[![](/wiki/shared/news/2026-06-04-4-digit-world-cup-2026-registrations-now-open/register.png)](https://projecthexagon.org/4wc-registration)
 
 Players who sign up and meet the following criteria will be eligible to participate:
 
