@@ -66,7 +66,6 @@ To request a new mediation, the mapper must contact a member of the NAT correspo
 
 **If the veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present, and the beatmap may not be eligible for another mediation unless the above criteria are fulfilled again.
 
-
 ## Examples
 
 ### Example 1
