@@ -28,7 +28,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Bloom** mod progressively makes the cursor bigger as the combo builds up until it reaches a set limit configurable. If you miss an object, the cursor returns to its original size.
+The **Bloom** mod progressively increases the cursor size as the combo builds up until it reaches the configured limit. Upon a [combobreak](/wiki/Gameplay/Judgement/Combobreak), the cursor returns to its original size.
 
 ## Customisation
 
