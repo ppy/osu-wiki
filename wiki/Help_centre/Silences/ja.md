@@ -10,7 +10,7 @@ outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 ## 制限の内容
 
 ::: Infobox
-![](img/silence-profile.png "プロフィールページでのアカウントの状態")
+![](img/silence-profile.png?1 "プロフィールページでのアカウントの状態")
 :::
 
 モデレーターによってサイレンスにされているユーザーは次のことができなくなります。

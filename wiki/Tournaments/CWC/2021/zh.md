@@ -2,21 +2,15 @@
 tags:
   - CWC
   - CWC2021
-outdated_translation: true
-outdated_since: 909111c95fe5a038b47049d84e14d9ea068c09f5
 ---
 
 # osu!catch 2021 世界杯
 
 ![CWC 2021 标志](/wiki/shared/news/banners/CWC2021.jpg)
 
-**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!团队](/wiki/People/osu!_team)举办的基于国家/地区间的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
+**osu!catch 2021 世界杯**（***CWC 2021***）是由 [osu!团队](/wiki/People/osu!_team)举办的，以国家/地区为单位的官方锦标赛。这是 osu!catch 世界杯的第 10 届。
 
-*注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 5 月 11 日 18:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/CWC/2021?locale=en)为准。*
-
-*注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
-
-*注意：除非特殊说明，本文所提到的货币单位均以* **USD（美元）** *为准。*
+*注意：除非特殊说明，本文所提到的时区均以 **UTC（协调世界时）** 为准，货币单位均以 **USD（美元）** 为准。*
 
 ## 赛程
 
@@ -39,7 +33,9 @@ outdated_since: 909111c95fe5a038b47049d84e14d9ea068c09f5
 | ![银冠](/wiki/shared/crown-silver.png "亚军") | 每人 $80，个人资料徽章 |
 | ![铜冠](/wiki/shared/crown-bronze.png "季军") | 每人 $40，个人资料徽章 |
 
-## 工作人员
+![](img/badge.png "CWC 2021 冠军徽章") ![](img/badge2.png "CWC 2021 亚军徽章") ![](img/badge3.png "CWC 2021 季军徽章")
+
+## 组织
 
 osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区成员举办。
 
@@ -77,7 +73,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
 | ::{ flag=DE }:: | **德国** | **[Vinci007](https://osu.ppy.sh/users/5030297)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Ginoshi](https://osu.ppy.sh/users/5398106), [Inryoku](https://osu.ppy.sh/users/6562920), [Marvmallow](https://osu.ppy.sh/users/8403032), [Inryuka](https://osu.ppy.sh/users/11635773) |
 | ::{ flag=HK }:: | **香港** | **[autofanboy](https://osu.ppy.sh/users/636114)**, [Latifah-sama](https://osu.ppy.sh/users/1226238), [Suigetsu Kyouka](https://osu.ppy.sh/users/1311496), [SakaNaz](https://osu.ppy.sh/users/1784164), [Novoids](https://osu.ppy.sh/users/5163523), [AutoLs](https://osu.ppy.sh/users/9155988) |
 | ::{ flag=ID }:: | **印度尼西亚** | **[Chroneko](https://osu.ppy.sh/users/5472877)**, [dika312](https://osu.ppy.sh/users/741613), [Madoka Ayukawa](https://osu.ppy.sh/users/1595221), [Netamaru](https://osu.ppy.sh/users/1830361), [Sololiquy](https://osu.ppy.sh/users/4350087), [LeWind](https://osu.ppy.sh/users/9718235) |
-| ::{ flag=IT }:: | **意大利** || **[Camme79](https://osu.ppy.sh/users/5220794)**, [Vitoooo](https://osu.ppy.sh/users/4039895), [Trollingor](https://osu.ppy.sh/users/4144266), [ArMa79](https://osu.ppy.sh/users/4982799), [Sachalin](https://osu.ppy.sh/users/11158870), [SirWaffle22](https://osu.ppy.sh/users/11754842) |
+| ::{ flag=IT }:: | **意大利** | **[Camme79](https://osu.ppy.sh/users/5220794)**, [Vitoooo](https://osu.ppy.sh/users/4039895), [Trollingor](https://osu.ppy.sh/users/4144266), [ArMa79](https://osu.ppy.sh/users/4982799), [Sachalin](https://osu.ppy.sh/users/11158870), [SirWaffle22](https://osu.ppy.sh/users/11754842) |
 | ::{ flag=JP }:: | **日本** | **[Molqus](https://osu.ppy.sh/users/1927193)**, [Rire](https://osu.ppy.sh/users/1513301), [Melu](https://osu.ppy.sh/users/2624179), [noob desu](https://osu.ppy.sh/users/4808804), [Kokutan](https://osu.ppy.sh/users/5994353), [gfbgd1](https://osu.ppy.sh/users/6061811) |
 | ::{ flag=MY }:: | **马来西亚** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)**, [murutattack](https://osu.ppy.sh/users/4480237), [HyPerNekoChan](https://osu.ppy.sh/users/9626549), [Green Ghost](https://osu.ppy.sh/users/10826368), [AstralLoki](https://osu.ppy.sh/users/14100384), [\[Pichu\]](https://osu.ppy.sh/users/14281462) |
 | ::{ flag=MX }:: | **墨西哥** | **[daxeroz](https://osu.ppy.sh/users/1170156)**, [Cowboy](https://osu.ppy.sh/users/1237535), [NanahiraWhen](https://osu.ppy.sh/users/5063961), [ElPolloOficial](https://osu.ppy.sh/users/8353249), [Firu](https://osu.ppy.sh/users/10516547) |
@@ -96,32 +92,83 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
 | ::{ flag=US }:: | **美国** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Zak](https://osu.ppy.sh/users/1375955), [Kisetsunotori](https://osu.ppy.sh/users/3692648), [Colin](https://osu.ppy.sh/users/5502521), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ::{ flag=VN }:: | **越南** | **[Cac](https://osu.ppy.sh/users/4744615)**, [Hana Yukiko](https://osu.ppy.sh/users/4964095), [mothernature](https://osu.ppy.sh/users/6403418), [Stardust Prism](https://osu.ppy.sh/users/8525921), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [Huytimeclock](https://osu.ppy.sh/users/10920086) |
 
-## Match schedule: 四分之一决赛
+## 颁奖信息
 
-### 2021 年 5 月 15 日，星期六
-
-| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | :-- | :-: | :-: | :-: |
-| 香港 ::{ flag=HK }:: | ::{ flag=CN }:: 中国 | **21:00 UTC+08** | 21:00 UTC+08 | 21:00 UTC+08 |
-| 芬兰 ::{ flag=FI }:: | ::{ flag=ID }:: 印度尼西亚 | **22:30 UTC+08** | 17:30 UTC+03 | 21:30 UTC+07 |
-
-### 2021 年 5 月 16 日，星期日
-
-| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | :-- | :-: | :-: | :-: |
-| 波兰 ::{ flag=PL }:: | ::{ flag=IT }:: 意大利 | **00:00 UTC+08** | 18:00 (星期六) UTC+02 | 18:00 (星期六) UTC+02 |
-| 韩国 ::{ flag=KR }:: | ::{ flag=CL }:: 智利 | **10:00 UTC+08** | 11:00 UTC+09 | 22:00 (星期六) UTC-04 |
-| 加拿大 ::{ flag=CA }:: | ::{ flag=TW }:: 台湾 | **11:30 UTC+08** | 22:30 (星期六) UTC-05 | 11:30 UTC+08 |
-| 澳大利亚 ::{ flag=AU }:: | ::{ flag=DE }:: 德国 | **20:30 UTC+08** | 22:30 UTC+010 | 14:30 UTC+02 |
-| 菲律宾 ::{ flag=PH }:: | ::{ flag=RU }:: 俄罗斯 | **22:00 UTC+08** | 22:00 UTC+08 | 17:00 UTC+03 |
-
-### 2021 年 5 月 17 日，星期一
-
-| A队 | B 队 | 比赛时间 | A 队当地时间 | B 队当地时间 |
-| --: | :-- | :-: | :-: | :-: |
-| 美国 ::{ flag=US }:: | ::{ flag=FR }:: 法国 | **01:00 UTC+08** | 13:00 (星期日) UTC-04 | 19:00 (星期日) UTC+02 |
+![](img/podium.jpg "CWC 2021 颁奖信息")
 
 ## 图池
+
+### 总决赛
+
+- NoMod
+  1. [Camellia - KillerBeast (Jemzuu) \[ULTRA BERZERK\]](https://osu.ppy.sh/beatmapsets/1478459#fruits/3033155)
+  2. [Silentroom vs. Frums - Aegleseeker (Jemzuu) \[Razor's Beyond\]](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024977)
+  3. [Camellia feat. Camellia - Hirugaeru Tsubasa Oikakete (Rocma) \[MXM\]](https://osu.ppy.sh/beatmapsets/1478449#fruits/3033136)
+  4. [Akiyama Uni - Rakujitsu ni Haeru Sakasajou (Yumeno Himiko) \[Rain\]](https://osu.ppy.sh/beatmapsets/1478454#fruits/3033148)
+  5. [uma vs. Morimori Atsushi - Re:End of a Dream (Battle) \[Re:Vival\]](https://osu.ppy.sh/beatmapsets/557039#fruits/1178810)
+  6. [Omoi - Teo (Kroytz) \[Motto!\]](https://osu.ppy.sh/beatmapsets/721804#fruits/1524103)
+- Hidden
+  1. [FictionJunction YUUKA - aikoi (F D Flourite) \[Prison (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/1478465#fruits/3033162)
+  2. [Luschka - Kami no Kotoba (Spectator) \[Sonorous\]](https://osu.ppy.sh/beatmapsets/1478471#fruits/3033170)
+  3. [SYUNN - Megalara Garuda (Callionet) \[Intensity\]](https://osu.ppy.sh/beatmapsets/536607#fruits/1137172)
+- HardRock
+  1. [Kagetora. - Crazy banger (Zyzyx) \[FATAL\]](https://osu.ppy.sh/beatmapsets/1393941#fruits/2877477)
+  2. [Zekk - Sugary Daydream (Du5t) \[oh yes... (cwc 2021 ver.)\]](https://osu.ppy.sh/beatmapsets/1478481#fruits/3033189)
+  3. [Riz vs. Shiron - veRtrageS (EvilElvis) \[Extreme\]](https://osu.ppy.sh/beatmapsets/473148#fruits/1011030)
+- DoubleTime
+  1. [CyoucyoP feat.Hatsune Miku - End of the World (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1478476#fruits/3033178)
+  2. [A.SAKA - Yosakura Fubuki (F D Flourite) \[Flourite & Himiko's ZHNotSteven\]](https://osu.ppy.sh/beatmapsets/1478483#fruits/3033192)
+  3. [GARNiDELiA - ambiguous (captin1) \[Nathan's Insane\]](https://osu.ppy.sh/beatmapsets/303867#fruits/814991)
+- Tiebreaker
+  1. **[Frums - of Ambrosia (Jemzuu) \[of Heavenly Collab\]](https://osu.ppy.sh/beatmapsets/1478486#fruits/3033197)**
+
+### 决赛
+
+- NoMod
+  1. [Nakamura Meiko - Scarlet Faith (F D Flourite) \[Oath\]](https://osu.ppy.sh/beatmapsets/1471236#fruits/3020437)
+  2. [t+pazolite - Third Time UNLucky (Deif) \[Charm\]](https://osu.ppy.sh/beatmapsets/1471237#fruits/3020439)
+  3. [technoplanet - Inscape [Extended Mix] (Jemzuu) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/1471669#fruits/3021155)
+  4. [LeaF - Armageddon (Greaper) \[Meltdown\]](https://osu.ppy.sh/beatmapsets/1471245#fruits/3020449)
+  5. [Giga feat. Reol - BRING IT ON (Yugu) \[HW's AnOther\]](https://osu.ppy.sh/beatmapsets/974362#fruits/2167873)
+  6. [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Sotarks) \[Agatsu's Extreme\]](https://osu.ppy.sh/beatmapsets/962050#fruits/2014387)
+- Hidden
+  1. [seatrus - MONONOKE (Deif) \[HIME\]](https://osu.ppy.sh/beatmapsets/1471249#fruits/3020457)
+  2. [James Landino - Hide and Seek (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471251#fruits/3020459)
+  3. [A.SAKA - Nanatsu Koyoto (xLolicore-) \[Kawa's Extra\]](https://osu.ppy.sh/beatmapsets/768281#fruits/1618445)
+- HardRock
+  1. [Lime - Chronomia (Rocma) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471328#fruits/3020579)
+  2. [Yousei Teikoku - Kuraki Sekai no Doukoku (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1471258#fruits/3020466)
+  3. [Trifect - Neverland (Ayayaaaa) \[V. Dakini Deadly\]](https://osu.ppy.sh/beatmapsets/1058959#fruits/2607001)
+- DoubleTime
+  1. [Amatsuki - DORAEMON (Verti) \[Best Friend\]](https://osu.ppy.sh/beatmapsets/1327531#fruits/2750179)
+  2. [Creo - In Circles (salchow) \[Pulse\]](https://osu.ppy.sh/beatmapsets/965558#fruits/2021199)
+  3. [Susumu Hirasawa - The Girl in Byakkoya (Pata-Mon) \[Gust's Insane\]](https://osu.ppy.sh/beatmapsets/770240#fruits/1885024)
+- Tiebreaker
+  1. **[Fleshgod Apocalypse - In Aeternum (Daletto) \[Daletto & Du5t's Giudizio Divino\]](https://osu.ppy.sh/beatmapsets/1471275#fruits/3020497)**
+
+### 半决赛
+
+- NoMod
+  1. [Caravan Palace - Dragons (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1464027#fruits/3007191)
+  2. [USAO - Cthugha (Greaper) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/1464062#fruits/3007246)
+  3. [cosMo@BousouP - Oceanus (Du5t) \[Deep Marine\]](https://osu.ppy.sh/beatmapsets/1463973#fruits/3007106)
+  4. [jioyi - Platinum (-MomoX) \[Special\]](https://osu.ppy.sh/beatmapsets/1463966#fruits/3007094)
+  5. [Kaf - Montage (Sparhten) \[Diffused Identity\]](https://osu.ppy.sh/beatmapsets/1344469#fruits/2784409)
+  6. [Nekomata Master+ - chaos eater -IIDX edition- (fanzhen0019) \[LeggendariA\]](https://osu.ppy.sh/beatmapsets/1169533#fruits/2439848)
+- Hidden
+  1. [Rohi - Slan Leat (Rocma) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1463978#fruits/3007113)
+  2. [KAKU P-MODEL - Sore ike! Halycon (Deif) \[Go for it!\]](https://osu.ppy.sh/beatmapsets/1463986#fruits/3007125)
+  3. [sekai - Zange Mairi (Yugu) \[Voice's Insane\]](https://osu.ppy.sh/beatmapsets/1176431#fruits/2853477)
+- HardRock
+  1. [MisoilePunch - AstroNotes. (Jemzuu) \[OverDose. (CWC HR Ver.)\]](https://osu.ppy.sh/beatmapsets/1464350#fruits/3007647)
+  2. [supercell - Rock 'n' Roll Nandesu no (Ascendance) \[Today is a beautiful day!\]](https://osu.ppy.sh/beatmapsets/1463994#fruits/3007144)
+  3. [siqlo - Dirigeant Decision (PandaHero) \[Extra\]](https://osu.ppy.sh/beatmapsets/1240362#fruits/2578746)
+- DoubleTime
+  1. [USAO - Showdown (Cut Ver.) (Rocma) \[Rain\]](https://osu.ppy.sh/beatmapsets/1464000#fruits/3007151)
+  2. [zts - miragecoordinator (Deif) \[Memoirs\]](https://osu.ppy.sh/beatmapsets/1464008#fruits/3007160)
+  3. [nameless x toa - Patchwork Staccato (Taeyang) \[Another\]](https://osu.ppy.sh/beatmapsets/416702#fruits/1962068)
+- Tiebreaker
+  1. **[BlackY - AlphaOmega (Evolutionary Extended ver.) (Jemzuu) \[Jemzuu vs. Du5t's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1464352#fruits/3007653)**
 
 ### 四分之一决赛
 
@@ -192,6 +239,71 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
   1. **[Muzzy - Spectrum (Greaper) \[Refraction\]](https://osu.ppy.sh/beatmapsets/1442175#fruits/2966667)**
 
 ## 比赛结果
+
+### 总决赛
+
+2021 年 6 月 6 日，星期日：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| **香港** ::{ flag=HK }:: | **7** | 2 | ::{ flag=US }:: 美国 | [#1](https://osu.ppy.sh/community/matches/85043526) |
+| **韩国** ::{ flag=KR }:: | **7** | 1 | ::{ flag=HK }:: 香港 | [#1](https://osu.ppy.sh/community/matches/85048985) |
+
+### 决赛
+
+2021 年 5 月 29 日，星期六：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| 香港 ::{ flag=HK }:: | 2 | **7** | ::{ flag=KR }:: **韩国** | [#1](https://osu.ppy.sh/community/matches/84480798) |
+| **法国** ::{ flag=FR }:: | **7** | 4 | ::{ flag=CA }:: 加拿大 | [#1](https://osu.ppy.sh/community/matches/84501984) |
+
+2021 年 5 月 30 日，星期日：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| 菲律宾 ::{ flag=PH }:: | 5 | **7** | ::{ flag=US }:: **美国** | [#1](https://osu.ppy.sh/community/matches/84533430) |
+| 法国 ::{ flag=FR }:: | 2 | **7** | ::{ flag=US }:: **美国** | [#1](https://osu.ppy.sh/community/matches/84568786) |
+
+### 半决赛
+
+2021 年 5 月 22 日，星期六：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| **香港** ::{ flag=HK }:: | **7** | 2 | ::{ flag=FR }:: 法国 | [#1](https://osu.ppy.sh/community/matches/83947449) |
+| **中国** ::{ flag=CN }:: | **7** | 3 | ::{ flag=ID }:: 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/83954086) |
+| **俄罗斯** ::{ flag=RU }:: | **7** | 4 | ::{ flag=IT }:: 意大利 | [#1](https://osu.ppy.sh/community/matches/83962187) |
+| 智利 ::{ flag=CL }:: | 6 | **7** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/83976382) |
+
+2021 年 5 月 23 日，星期日：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| **韩国** ::{ flag=KR }:: | **7** | 0 | ::{ flag=PH }:: 菲律宾 | [#1](https://osu.ppy.sh/community/matches/84026660) |
+| **美国** ::{ flag=US }:: | **7** | 0 | ::{ flag=AU }:: 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/84031481) |
+| **美国** ::{ flag=US }:: | **7** | 6 | ::{ flag=CN }:: 中国 | [#1](https://osu.ppy.sh/community/matches/84037566) |
+| 俄罗斯 ::{ flag=RU }:: | 4 | **7** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/84045711) |
+
+### 四分之一决赛
+
+2021 年 5 月 15 日，星期六：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| **香港** ::{ flag=HK }:: | **6** | 1 | ::{ flag=CN }:: 中国 | [#1](https://osu.ppy.sh/community/matches/83397495) |
+| 芬兰 ::{ flag=FI }:: | 0 | **6** | ::{ flag=ID }:: **印度尼西亚** | [#1](https://osu.ppy.sh/community/matches/83403222) |
+| 波兰 ::{ flag=PL }:: | 2 | **6** | ::{ flag=IT }:: **意大利** | [#1](https://osu.ppy.sh/community/matches/83409746) |
+
+2021 年 5 月 16 日，星期日：
+
+| A 队 |  |  | B 队 | MP link |
+| --: | :-: | :-: | :-- | :-- |
+| **韩国** ::{ flag=KR }:: | **6** | 1 | ::{ flag=CL }:: 智利 | [#1](https://osu.ppy.sh/community/matches/83452050) |
+| **加拿大** ::{ flag=CA }:: | **6** | 2 | ::{ flag=TW }:: 台湾 | [#1](https://osu.ppy.sh/community/matches/83456925) |
+| **澳大利亚** ::{ flag=AU }:: | **6** | 3 | ::{ flag=DE }:: 德国 | [#1](https://osu.ppy.sh/community/matches/83479138) |
+| **菲律宾** ::{ flag=PH }:: | **6** | 3 | ::{ flag=RU }:: 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/83483976) |
+| 美国 ::{ flag=US }:: | 5 | **6** | ::{ flag=FR }:: **法国** | [#1](https://osu.ppy.sh/community/matches/83491471) |
 
 ### 十六强赛
 
@@ -297,17 +409,16 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
 14. 如果选手在比赛过程中断线且团队无法进行替换，比赛最多可延迟 10 分钟。
 15. 必须尊重所有选手和裁判，遵循裁判和比赛管理员的指示，服从最终决定。
 16. 严禁通过违规操作，侮辱和挑衅其他成员或裁判，故意延误比赛或其他不当行为破坏比赛。
-17. 多人游戏聊天室基于 [osu! 社区守则](/wiki/Rules)。违反聊天守则会被禁言。被禁言的玩家不能进入多人游戏房间，禁言期间必须更换上场选手。
+17. 多人游戏聊天室需遵守[规章制度](/wiki/Rules)，违反者会被禁言。被禁言的玩家不能进入多人游戏房间，禁言期间必须更换上场选手。
 18. 小组赛中，“不战而胜”（*Win by default*）视为 5:0，得 1 分。
 19. 意外事件由比赛管理人员处理。特定情况下，裁判可以根据自己的判断放宽限制。
 20. 违反比赛规则的处罚包括但不限于：
-
-   - 取消当前谱面的上场资格。
-   - 取消本场比赛的上场资格。
-   - 判负（Lost by Default）。
-   - 取消整个锦标赛的参赛资格。
-   - 处以禁赛直到选手提出上诉。
-   - 将公示对以上规则进行的任何修改。
+    - 取消当前谱面的上场资格。
+    - 取消本场比赛的上场资格。
+    - 判负（Lost by Default）。
+    - 取消整个锦标赛的参赛资格。
+    - 处以禁赛直到选手提出上诉。
+    - 将公示对以上规则进行的任何修改。
 
 ### 比赛报名
 
@@ -318,7 +429,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
 2. 为确报名的真实性，比赛管理团队将检查每位报名玩家。
    - 每个报名玩家将被分配到其各自国家/地区的候选列表。
    - 报名玩家的 osu!catch 全球排名必须在 \#5000 以内。
-   - 报名玩家在过去的 12 个月内没有违反 [osu! 社区守则](/wiki/Rules)。
+   - 报名玩家在过去的 12 个月内没有违反[规章制度](/wiki/Rules)。
 3. 所有组建成功的队伍将在报名阶段结束后公布。
 4. 只有 32 个潜在实力最强大的国家/地区可以参加。一个国家/地区的潜在实力取决于所有有效候选人的在线统计数据。
    - 如果参赛国家/地区数量少于 32 个，那么这个数字可能会降低为 24，20 或 16，这取决于报名队伍的数量。这个目的是为了让更多国家/地区加入到比赛当中。
@@ -330,8 +441,8 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
    - 这会根据实际参赛队伍的数量进行改变。
 2. 小组的每个队伍都会在比赛中相遇。
 3. 通过以下优先级对组内的每个队伍进行排名：
-   - 最多总胜场数。
-   - 最高胜负比 `{(谱面胜场数) - (谱面败场数)}`。
+   - 最高比赛胜场数。
+   - 最高 `{(谱面胜场数) - (谱面败场数)}`。
    - 最高谱面胜场数。
    - **如果并列，取其在相遇比赛中的获胜者。**
    - 如果三个队伍同时并列
@@ -363,7 +474,7 @@ osu!catch 2021 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区�
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
 2. 每队队长可以选择禁用 **一张谱面**，本场比赛中无法选择被禁用的谱面。
 3. 谱面选择权将在两位队长之间交替。
-4. 两位队长必须在 `#multiplayer` 中使用 `!roll`。
+4. 两位队长必须在 `#multiplayer` 频道中使用一次 `!roll`。
    - `!roll` 胜的队伍先选择谱面。
    - `!roll` 输的队伍先禁用谱面。
 5. 接下来队长可以随意从图池中挑选谱面

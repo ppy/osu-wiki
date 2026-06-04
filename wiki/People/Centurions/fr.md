@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 219425135e0e352c29938c496df2e189d65caec8
 ---
 
 # Centurions

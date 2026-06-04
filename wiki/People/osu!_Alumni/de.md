@@ -165,9 +165,11 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
 | ::{ flag=CA }:: [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ::{ flag=GB }:: [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | NAT |
 | ::{ flag=JP }:: [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ::{ flag=KR }:: [minyeob](https://osu.ppy.sh/users/9207) | BAT |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | NAT |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | NAT |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | osu!dev |
 | ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) | BAT, QAT |
 | ::{ flag=US }:: [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
@@ -218,6 +220,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT, GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=AU }:: [Seika Kasanui](https://osu.ppy.sh/users/1190127) | QAT |

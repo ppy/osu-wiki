@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 219425135e0e352c29938c496df2e189d65caec8
+---
+
 # Центурионы
 
 Центурионы (англ. *centurions*) - это пользователи, преодолевшие порог в **сто** (или более) [ранкнутых](/wiki/Beatmap/Category#ranked) [карт](/wiki/Beatmap). Начиная с [11 июля 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), их стремление сделать osu! ещё круче отмечается:

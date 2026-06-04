@@ -1,18 +1,14 @@
----
-no_native_review: true
----
-
 # Đội ngũ hỗ trợ tài khoản 
 
 Đối với một nhóm điều hành các diễn đàn nhỏ nhất định, xem: [Nhóm hỗ trợ Kỹ thuật](/wiki/People/Technical_Support_Team)
 
 **Nhóm hỗ trợ tài khoản** là một nhóm người quản lý tài khoản người dùng, đồng thời tiếp nhận các kháng cáo về im lặng và hạn chế.
 
-## Điểm liên hệ
+## Điểm liên lạc
 
-Nhóm chỉ có thể liên lạc được bằng cách gửi email đến [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh) hoặc  [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Danh tính các thành viên của nhóm được giữ bí mật để bảo vệ họ khỏi sự chú ý không mong muốn.
+Nhóm **chỉ** có thể liên lạc được bằng cách gửi email đến [accounts@ppy.sh](mailto:accounts@ppy.sh), [support@ppy.sh](mailto:support@ppy.sh), [privacy@ppy.sh](mailto:privacy@ppy.sh) hoặc  [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Danh tính các thành viên của nhóm được giữ bí mật để bảo vệ họ khỏi sự chú ý không mong muốn.
 
-Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu không nhận được phản hồi trong vòng một tuần, thì nên gửi một tin nhắn nhắc về trường hợp đó.
+Thường mất vài ngày để bộ phận hỗ trợ trả lời email. Nếu không bạn nhận được phản hồi trong vòng một tuần, thì nên gửi một tin nhắn nhắc về trường hợp đó.
 
 ## Vai trò và nhiệm vụ 
 
@@ -29,7 +25,7 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
  - Xóa nội dung hồ sơ; 
  - Xóa beatmap; 
  - Xóa bỏ bài đăng diễn đàn và bình luận. 
-- Những hành vi sai trái mà bạn [muốn thừa nhận](/wiki/Reporting_bad_behaviour/Handling_foul_play#tôi-có-thể-làm-gì-nếu-tôi-đã-vi-phạm-quy-tắc?)
+- Những hành vi sai trái mà bạn [muốn thừa nhận](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit)
 - [Mất quyền truy cập vào email](/wiki/Help_centre/Account#sign-in) liên kết với tài khoản osu! của bạn, hoặc khi tài khoản của bạn bị đánh cắp.
 - [Hoàn lại và sửa lỗi chính tả nhỏ](/wiki/Help_centre/Account#name-changes) trong tên người dùng.
 - [Đăng ký tài khoản bot](/wiki/Bot_account).
@@ -51,4 +47,4 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 
 ## [tournaments@ppy.sh](mailto:tournaments@ppy.sh)
 
-[Yêu cầu hỗ trợ chính thức cho các giải đấu](/wiki/Tournaments/Official_support) và thắc mắc chung về các giải đấu trong sự tư vấn với [Ủy ban Giải đấu](/wiki/People/Tournament_Committee).
+[Yêu cầu hỗ trợ chính thức cho các giải đấu](/wiki/Tournaments/Official_support) và giải đáp thắc mắc chung về các giải đấu trong sự tư vấn với [Ủy ban Giải đấu](/wiki/People/Tournament_Committee).
