@@ -21,7 +21,7 @@ tags:
 | Acrónimo | CS |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!taiko] ![][osu!mania] |
-| Multiplicador de puntuación | 0,90x |
+| Multiplicador de puntuación | ``0,90x`` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
