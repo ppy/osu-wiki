@@ -21,7 +21,7 @@ tags:
 | Acrónimo | BR |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | ``1,00x`` |
 | Estado | No clasificado |
 | Mods incompatibles | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
 
