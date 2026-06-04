@@ -20,7 +20,7 @@ tags:
 | Acronym | BM |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Unranked |
 | Incompatible mods | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
 
@@ -34,7 +34,7 @@ The **Bloom** mod progressively makes the cursor bigger as the combo builds up u
 
 ![Bloom customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/BM.png)
 
-- **Max size at combo** (5–100, default 50): The combo count at which the cursor reaches its maximum size.
-- **Final size multiplier** (5.0–15.0, default 10.0): The multiplier applied to the cursor size when the combo reaches its maximum.
+- **Max size at combo** (5–100, default: 50): The combo count at which the cursor reaches its maximum size.
+- **Final size multiplier** (5.0–15.0, default: 10.0): The multiplier applied to the cursor size when the combo reaches its maximum.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
