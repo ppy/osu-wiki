@@ -22,7 +22,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `K` |
 | Game modes | ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Ranked |
 | Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
@@ -41,6 +41,6 @@ The **Cover** mod hides a part of the playfield similarly to [Fade In](/wiki/Gam
   - **Along scroll**: Cover the playfield from above.
   - **Against scroll**: Cover the playfield from below.
 
-*Changing any of the options here doesn't make the mod unranked.*
+Changing any of these settings will **not** cause your scores to be unranked.
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
