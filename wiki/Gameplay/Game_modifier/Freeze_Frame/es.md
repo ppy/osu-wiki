@@ -21,7 +21,7 @@ tags:
 | Acrónimo | FR |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | ``1,00x`` |
 | Estado | No clasificado |
 | Mods incompatibles | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
