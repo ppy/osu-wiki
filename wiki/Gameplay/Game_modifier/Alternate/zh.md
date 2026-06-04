@@ -21,7 +21,7 @@ tags:
 | 缩写 | AL |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 1.00x |
+| 得分系数 | ``1.00x`` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap) |
 
