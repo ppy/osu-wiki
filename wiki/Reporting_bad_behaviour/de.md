@@ -22,11 +22,9 @@ Für alles andere siehe die Anweisungen weiter unten.
 
 ### Der Befehl !report
 
-*Vorsicht: Beim Melden von Nutzern mit dem Befehl `!report` in osu!(lazer) oder auf der Webseite sind die Meldungen **für jeden sichtbar!** Nutze stattdessen das [Meldeformular](#lazer-reports) oder melde sie über [ihre Profilseite](#profilseite).*
-
 ![](img/report-command.jpg "Beispiel von der Benutzung des !report-Befehls")
 
-Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [Befehl `!report`](https://osu.ppy.sh/community/forums/topics/34843), vorzugsweise in dem Channel, in dem der Verstoß stattfand. Fühle dich nicht unter Druck gesetzt: Wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt (und sie von osu!(stable) oder aus einem IRC-Client heraus gesendet wurde), **dann ist sie nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay in osu!(stable)](#stable-reports) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
+Fehlverhalten im Chat ist der häufigste Verstoß. Um das zu melden, benutze den [Befehl `!report`](https://osu.ppy.sh/community/forums/topics/34843), vorzugsweise in dem Channel, in dem der Verstoß stattfand. Fühle dich nicht unter Druck gesetzt: Wenn deine Nachricht mit `!report` und einem Leerzeichen beginnt, **dann ist sie nur für Moderatoren sichtbar** und niemanden sonst im Chat. Du kannst auch die Meldefunktion via dem [Spiel-Overlay in osu!(stable)](#stable-reports) oder auf der [Profilseite des betreffenden Nutzers](#profilseite) wie unten beschrieben nutzen, wenn du immer noch Bedenken hast.
 
 Die Befehlssyntax hat zwei Formen:
 
