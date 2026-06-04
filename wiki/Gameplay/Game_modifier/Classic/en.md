@@ -21,10 +21,9 @@ tags:
 | Acronym | CL |
 | Type | Conversion |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Score multiplier | 0.96x |
+| Score multiplier | See [Scoring](#scoring) |
 | Status | Unranked |
 | Incompatible mods ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
-| Incompatible mods ![][osu!taiko] ![][osu!mania] | None |
 
 :::
 
@@ -34,7 +33,7 @@ The **Classic** mod emulates gameplay mechanics from osu!stable that have since 
 
 <!-- TODO probably more detail above -->
 
-When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!stable have this mod enabled with default settings. The mod's unranked status does not affect the scores in this case.
+When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!stable have this mod enabled with its default settings. The mod's unranked status does not affect the scores in this case.
 
 ## Customisation
 
@@ -49,6 +48,22 @@ When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!s
 *Note that these settings are only available in osu!. In osu!taiko and osu!mania, this mod cannot be customised.*
 
 <!-- explanation of why this is unranked could be interesting to write about here -clayton -->
+
+## Scoring
+
+### osu! ![][osu!]
+
+In osu!, Classic has a score multiplier of ``0.985x``. If **Apply classic note lock** is disabled (see [Customisation](#customisation)), this multiplier is reduced to ``0.96x``.
+
+In particular, this means that scores set on osu!stable get a score multiplier of ``0.985x``.
+
+### osu!taiko ![][osu!taiko]
+
+In osu!taiko, Classic has a score multiplier of ``1.00x``.
+
+### osu!mania ![][osu!mania]
+
+In osu!mania, Classic has a score multiplier of ``1.00x``.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
