@@ -116,6 +116,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 ## Match schedule: Round of 32
 
+### Friday, 6 June 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| 3 | Belgium ::{ flag=BE }:: | ::{ flag=PT }:: Portugal | [Jun 05 (Fri) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260605T190000&p1=1440&p2=48&p3=133) | [osulive](https://twitch.tv/osulive) |
+
 ### Saturday, 6 June 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
