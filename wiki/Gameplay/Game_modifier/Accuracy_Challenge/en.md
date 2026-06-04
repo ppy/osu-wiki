@@ -43,7 +43,7 @@ The **Accuracy Challenge** mod allows the player to set a minimum accuracy that 
   - **Standard**: Fail if the accuracy goes strictly below the value.
 - Restart on fail (default: disabled): Restart the map when the accuracy goes below the minimum value specified.
 
-*The mod is eligible for performance points regardless of the customisation options.*
+*The mod is rankable regardless of the customisation options.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
