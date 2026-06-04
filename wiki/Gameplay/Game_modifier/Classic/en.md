@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | Score multiplier | See [Scoring](#scoring) |
 | Status | Unranked |
-| Incompatible mods ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| Incompatible mods | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
 
 :::
 
