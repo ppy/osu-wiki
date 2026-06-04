@@ -33,7 +33,7 @@ The **Classic** mod emulates gameplay mechanics from osu!stable that have since 
 
 <!-- TODO probably more detail above -->
 
-When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!stable have this mod enabled with its default settings. The mod's unranked status does not affect the scores in this case.
+When viewed from osu!(lazer) or "Lazer mode" on the website, scores set in osu!stable automatically have this mod enabled with its default settings. The mod's unranked status does not affect the scores in this case.
 
 ## Customisation
 
@@ -55,11 +55,15 @@ When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!s
 
 In osu!, Classic has a score multiplier of ``0.985x``. If **Apply classic note lock** is disabled (see [Customisation](#customisation)), this multiplier is reduced to ``0.96x``.
 
-In particular, this means that scores set on osu!stable get a score multiplier of ``0.985x``.
+In particular, this means that scores set in osu!stable get a score multiplier of ``0.985x``.
 
 ### osu!taiko ![][osu!taiko]
 
 In osu!taiko, Classic has a score multiplier of ``1.00x``.
+
+### osu!catch ![][osu!catch]
+
+As seen above, the Classic mod does not exist in osu!catch. However, scores set in osu!stable in this ruleset still have the mod applied. In this case, it has a score multiplier of ``1.00x``.
 
 ### osu!mania ![][osu!mania]
 
@@ -67,4 +71,5 @@ In osu!mania, Classic has a score multiplier of ``1.00x``.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
+[osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
