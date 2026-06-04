@@ -29,8 +29,6 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
-
 When using the **Deflate** mod, all [hit objects](/wiki/Gameplay/Hit_object) appear larger than usual and shrink to their regular size, at which point the player is supposed to hit them. Thus, it acts as the opposite of the [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow) mod. Deflate also removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle).
 
 ## Customisation
