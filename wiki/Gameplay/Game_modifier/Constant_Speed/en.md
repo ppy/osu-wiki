@@ -21,7 +21,7 @@ tags:
 | Acronym | CS |
 | Type | Conversion |
 | Game modes | ![][osu!taiko] ![][osu!mania] |
-| Score multiplier | 0.90x |
+| Score multiplier | ``0.90x`` |
 | Status | Unranked |
 | Incompatible mods | None |
 
