@@ -21,7 +21,7 @@ tags:
 | Acronym | BU |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Unranked |
 | Incompatible mods | [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Barrel_Roll), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) |
 
