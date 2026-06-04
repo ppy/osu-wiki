@@ -85,8 +85,8 @@ Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,
 
 $$\max\left(0.1,\prod_{i=1}^4\max\big(0.1,1-0.5\cdot|A_i-B_i|\big)\right).$$
 
-<!-- stolen from news post https://github.com/ppy/osu-wiki/pull/14797 -->
 #### Example
+<!-- stolen from news post https://github.com/ppy/osu-wiki/pull/14797 -->
 
 To illustrate, consider a beatmap with the following parameters and these Difficulty Adjust settings chosen by the user:
 
