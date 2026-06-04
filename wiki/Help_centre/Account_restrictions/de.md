@@ -30,7 +30,7 @@ Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, m
 
 Wenn dein originaler Account nicht eingeschränkt ist, dann darfst du dich dort einloggen und normal weiterspielen, aber stelle sicher, dass du dich ab diesem Zeitpunkt nicht mehr in deine Multi-Accounts einloggst. Machst du es trotzdem, wird das zu härteren Strafen führen.
 
-Wenn dein Gesuch zugelassen wurde und dein Account nach dem Spielen erneut eingeschränkt wird, gerate nicht in Panik! Automatisierte Systeme könnten deinen Account fälschlicherweise gekennzeichnet haben, aber dein Account wird innerhalb von 24 Stunden wieder entsperrt, falls das der Fall sein sollte. Sende uns gerne eine E-Mail oder einen Tweet, um unsere Aufmerksamkeit zu gewinnen und schneller entsperrt zu werden!
+Wenn dein Gesuch zugelassen wurde und dein Account nach dem Spielen erneut eingeschränkt wird, gerate nicht in Panik! Automatisierte Systeme könnten deinen Account fälschlicherweise gekennzeichnet haben, aber dein Account wird innerhalb von 24 Stunden wieder entsperrt, falls das der Fall sein sollte. Sende uns gerne eine E-Mail oder einen Tweet, um uns darauf aufmerksam zu machen und schneller entsperrt zu werden!
 
 ## Warum wurde mein Account eingeschränkt? {id=why}
 
@@ -59,7 +59,7 @@ Du kannst durch eine E-Mail mit dem Betreff `Restriction Appeal: <Benutzername>`
 Beim Einreichen eines Gesuchs erwarten wir die folgenden Punkte:
 
 - **Geschichte deines Accounts.** Es muss nicht zu detailliert sein. Das hier sollte alle Verstöße gegen wichtige Vorschriften beinhalten (Multi-Accounting, das Teilen von Accounts, Schummeln oder Stummschaltungen). Du musst nicht an jedes Datum, jede Stummschaltung oder jeden Account, den du erstellt hast, denken, solange du mit deinen Taten ehrlich bist. Dies beinhaltet jede Regel, die du während der Einschränkung gebrochen hast, sofern anwendbar.
-- **Warum du die Regeln gebrochen hast.** Eine Erklärung, was dich dazu geführt hat, neue Accounts zu erstellen, deinen Account weiter zu geben, zu schummeln, usw. wird uns helfen (und dir) zu bestimmen, ob die Gefahr besteht, dass du einen weiteren Verstoß begehst. Wenn du während einer Einschränkung Verstöße begehst, dann sind wir ebenso daran interessiert zu wissen, warum.
+- **Warum du die Regeln gebrochen hast.** Eine Erklärung, was dich dazu gebracht hat, neue Accounts zu erstellen, deinen Account weiter zu geben, zu schummeln, usw. wird uns helfen (und dir) zu bestimmen, ob die Gefahr besteht, dass du einen weiteren Verstoß begehst. Wenn du während einer Einschränkung Verstöße begehst, dann sind wir ebenso daran interessiert zu wissen, warum.
 - **Wie du die Möglichkeiten erhalten hast.** Das bezieht sich am meisten auf Schummeln — wir wollen wissen, wie du an die benutzten Tools gelangt bist, wie du darauf gestoßen bist und ob sich die Tools noch auf deinem Computer befinden.
 - **Warum wir dich zurücklassen sollten.** Meistens bezieht sich das auf den zweiten Punkt. Wir wollen sicher gehen, dass du die Regeln nicht noch einmal brichst! Bitte verstehe, dass wir mehr in deinem Gesuch erwarten, wenn es viele Verstöße gab.
 
@@ -84,11 +84,11 @@ Manche Verstöße führen dazu, dass dein Account bei der Entsperrung zurückges
 
 Es gibt verschiedene Gründe, warum ein Gesuch abgelehnt werden kann.
 
-- **Sie wurde zu früh gesendet.** Wenn die Auszeit für deinen Account noch nicht vorüber ist, dann wird dein Gesuch abgelehnt. Sofern du unsicher bist, wann du das Gesuch einreichen kannst, dann antworte bitte auf unsere Antwort — wir werden dir das richtige Datum mitteilen.
+- **Das Gesuch wurde zu früh gesendet.** Wenn die Auszeit für deinen Account noch nicht vorüber ist, dann wird dein Gesuch abgelehnt. Sofern du unsicher bist, wann du das Gesuch einreichen kannst, dann antworte bitte auf unsere Antwort — wir werden dir das richtige Datum mitteilen.
 - **Dein Gesuch war unzureichend oder unvollständig.** Wenn dein Gesuch nicht ausreichend die 4 oben genannten Punkte abdeckt, fordern wir eine Überarbeitung. Das setzt **nicht** unbedingt die Auszeit für deinen Account zurück, und du darfst jederzeit dein neues Gesuch einreichen! Jedoch wird dein Gesuch wegen Unwahrheit abgelehnt und deine Auszeit auf mindestens **drei Monate** zurückgestellt, solltest du lügen oder Verstöße (hauptsächlich Multi-Accounting oder Schummeln) verschweigen, die du begangen hast. Das ist eine weitere Chance für dich, deine Aktionen zu reflektieren und sicher zu stellen, dass du nichts vergessen hast.
 - **Du bist ausgewichen oder hast auf anderen Accounts gespielt.** Einen weiteren Account zu erstellen, um zu spielen, während dein Account eingeschränkt ist, wird als Versuch, die Einschränkung zu umgehen, gewertet und setzt die Auszeit auf mindestens **drei Monate** zurück, ausgehend von dem Erstelldatum des weiteren Accounts. Wenn du zu oft versuchst, die Einschränkung zu umgehen, dann wird dein Gesuch möglicherweise dauerhaft abgelehnt. Wenn du noch während der Einschränkung deine Multi-Accounts nutzt, wird die Auszeit ebenfalls zurückgesetzt. Bedenke, dass Multi-Accounting gegen die [Regeln](/wiki/Rules) ist und erwartet wird, dass du nur auf deinem originalen Account spielst. Wenn du unsicher bist, welcher Account als dein originaler zählt, dann sende uns eine E-Mail und wir werden dich informieren!
 - **Du hast weitere Verstöße während einer Einschränkung begangen.** Es gibt keinen Grund, die Einschränkung für jemanden aufzuheben, der fortführend Regeln bricht, obwohl er bereits eingeschränkt wurde. Wenn du weiter Verstöße begehst, dann wird die Auszeit deines Accounts auf das Datum deines letzten Verstoßes zurückgesetzt. Im Falle von extremen oder weiterführenden Verstößen wird dein Gesuch möglicherweise dauerhaft abgelehnt.
-- **Dein früheres Verhalten ist zu schwerwiegend.** Bei extremen Verstößen oder bei Spielern, die nach einem erfolgreichen Gesuch nochmal eingeschränkt werden, werden wir möglicherweise dein Verhalten als zu massiv einordnen, als dass du das Spiel zum momentanen Zeitpunkt spielen darfst. Sollte das auf dich zutreffen, empfehlen wir dir, **eine lange Zeit** zu warten, bevor du ein weiteres Gesuch einreichst. Vergewissere dich, dass du in dieser Zeit keine weiteren Regeln brichst.
+- **Dein früheres Verhalten ist zu schwerwiegend.** Bei extremen Verstößen oder bei Spielern, die nach einem erfolgreichen Gesuch nochmal eingeschränkt werden, ordnen wir dein Verhalten möglicherweise als zu massiv ein, als dass du das Spiel zum momentanen Zeitpunkt spielen darfst. Sollte das auf dich zutreffen, empfehlen wir dir, **eine lange Zeit** zu warten, bevor du ein weiteres Gesuch einreichst. Vergewissere dich, dass du in dieser Zeit keine weiteren Regeln brichst.
 
 ## Was passiert, wenn ich nicht zum ersten Mal Gesuch einreiche? {id=subsequent-appeal}
 
@@ -107,7 +107,7 @@ Falls du denkst, dass deine E-Mails von unserem Support-Team nicht gelesen oder 
 - Alle vorher eingesendeten Gesuche/Beschwerden, die ignoriert/verweigert wurden
 - Eine kurze Zusammenfassung, warum du unzufrieden mit dem Ausgang des Gesuchs/der Beschwerde bist (sofern anwendbar)
 
-Alle E-Mails, die zu der `appeal-review`-Adresse gesendet werden, werden zur Überarbeitung oder weiterer Überprüfung gekennzeichnet und durch eine dritte Partei angeschaut, die nicht in das Tagesgeschäft des Support-Teams involviert ist.
+Alle E-Mails, die zu der `appeal-review`-Adresse gesendet werden, werden zur Überarbeitung oder weiteren Überprüfung gekennzeichnet und durch eine dritte Partei angeschaut, die nicht in das Tagesgeschäft des Support-Teams involviert ist.
 
 Bitte habe Verständnis, dass das Senden einer E-Mail an diese Adresse nur eine Garantie auf einen zweiten Blick/eine Antwort auf dein Gesuch/deine Beschwerde gibt. Der Ausgang des Gesuchs kann nicht garantiert werden, sofern du die Regeln innerhalb des Prozesses nicht eingehalten hast.
 
