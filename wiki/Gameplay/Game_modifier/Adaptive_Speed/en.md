@@ -21,8 +21,8 @@ tags:
 | Acronym | AS |
 | Type | Fun |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Score multiplier ![][osu!] | 0.10x |
-| Score multiplier ![][osu!taiko] ![][osu!mania] | 0.50x |
+| Score multiplier ![][osu!] | ``0.10x`` |
+| Score multiplier ![][osu!taiko] ![][osu!mania] | ``0.50x`` |
 | Status | Unranked |
 | Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
