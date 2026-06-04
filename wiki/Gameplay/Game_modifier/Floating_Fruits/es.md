@@ -21,7 +21,7 @@ tags:
 | Acrónimo | FF |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!catch] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | ``1,00x`` |
 | Estado | No clasificado |
 | Mods incompatibles | Ninguno |
 
