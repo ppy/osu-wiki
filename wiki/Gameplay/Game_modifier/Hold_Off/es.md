@@ -21,7 +21,7 @@ tags:
 | Acrónimo | HO |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 0,90x |
+| Multiplicador de puntuación | ``0,90x`` |
 | Estado | No clasificado |
 | Mods incompatibles | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
 
