@@ -21,7 +21,7 @@ tags:
 | 缩写 | SW |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!taiko] |
-| 得分系数 | 1.00x |
+| 得分系数 | ``1.00x`` |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 
