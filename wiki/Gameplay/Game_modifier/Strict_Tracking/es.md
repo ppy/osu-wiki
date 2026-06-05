@@ -20,9 +20,8 @@ tags:
 | :-- | :-- |
 | Acrónimo | ST |
 | Tipo | Aumento de dificultad |
-| Tecla de acceso directo predeterminada | `L` |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | ``1,00x`` |
 | Estado | No clasificado |
 | Mods incompatibles | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
 
