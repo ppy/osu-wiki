@@ -20,7 +20,7 @@ tags:
 | Acrónimo | MU |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | ``1,00x`` |
 | Estado | Clasificado |
 | Mods incompatibles | Ninguno |
 
