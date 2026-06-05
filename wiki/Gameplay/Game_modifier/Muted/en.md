@@ -20,7 +20,7 @@ tags:
 | Acronym | MU |
 | Type | Fun |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Ranked |
 | Incompatible mods | None |
 
@@ -39,7 +39,7 @@ The **Muted** mod reduces music and [hitsound](/wiki/Beatmapping/Hitsound) volum
 - **Final volume at combo** (0–500, default: 100): The combo at which the final volume will be reached. If set to 0 and *Start muted* is disabled, the volume will always be muted.
 - **Mute hit sounds** (default: enabled): Causes the mod to affect hitsound volume in addition to music volume.
 
-*Changing any of the options here doesn't make the mod unranked.*
+Changing any of these settings will **not** cause your scores to be unranked.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
