@@ -23,7 +23,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `S` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Ranked |
 | Incompatible mods | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
 
@@ -41,7 +41,7 @@ The **Sudden Death** mod triggers a failure on missing any object from a [beatma
 - **Also fail when missing a slider tail** (default: disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure. *This option is only available in osu!.*
 - **Restart on fail** (default: disabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom.
 
-*Changing any of the options here doesn't make the mod unranked.*
+Changing any of these settings will **not** cause your scores to be unranked.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
