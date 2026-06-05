@@ -35,12 +35,12 @@ When using the **Deflate** mod, all [hit objects](/wiki/Gameplay/Hit_object) app
 
 ![Deflate customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DF.png)
 
-- **Starting size** (1.0-25.0, default: 2.0): The initial size of all hit objects.
+- **Starting Size** (1.0-25.0, default: 2.0): The initial size of all hit objects.
 
 ## Scoring
 
-Deflate has a score multiplier of ``1.00x`` by default. For each ``0.1`` step the starting size is increased above the default value, this multiplier is reduced by ``0.002x``. Decreasing the starting size below the default value does not affect the multiplier.
+Deflate has a score multiplier of ``1.00x`` by default. For each ``0.1`` step the **Starting Size** is increased above the default value, this multiplier is reduced by ``0.002x``. Decreasing the **Starting Size** below the default value does not affect the multiplier.
 
-Thus, if $S$ is the chosen starting size, the score multiplier is given by $1-\max(0,0.02\cdot(S-2))$.
+Thus, if $S$ is the selected **Starting Size**, the score multiplier is given by $1-\max(0,0.02\cdot(S-2))$.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
