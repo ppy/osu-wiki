@@ -43,7 +43,7 @@ The **Easy** mod attempts to make the gameplay on any [beatmap](/wiki/Beatmap) p
 
 - **Extra Lives** (0–10, default: 2): The number of extra lives when starting a beatmap.
 
-Changing the number of extra lives will cause your scores to **unranked**.
+Changing the number of extra lives will cause your scores to be **unranked**.
 
 *Note that this setting is only available in osu!, osu!catch and osu!mania. In osu!taiko, this mod cannot be customised.*
 
