@@ -21,7 +21,7 @@ tags:
 | Acrónimo | SW |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!taiko] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | ``1,00x`` |
 | Estado | Clasificado |
 | Mods incompatibles | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 
