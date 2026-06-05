@@ -21,7 +21,7 @@ tags:
 | Acronym | TR |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Unranked |
 | Incompatible mods | [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
