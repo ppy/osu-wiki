@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newspaper Cup 2026: Results"
-date: 2026-05-18 12:00:00 +0000
+date: 2026-06-05 17:00:00 +0000
 series: community_contests
 ---
 
@@ -11,7 +11,7 @@ The longest-running annual beatmapping contest for novice mappers, the Newspaper
 
 [NPC 2026 kicked off back in January.](https://osu.ppy.sh/home/news/2026-01-14-newspaper-cup-2026) It was originally a Chinese mapping contest to promote novice mappers, which had its first iteration in 2015. Throughout the past years, the Newspaper Cup has strived to encourage fresh bloods into mapping and find new talents across the entire mapping community.
 
-This year, participants were able to choose from any track they liked from the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library to compete in two separate categories: **Featured Artist** and the newly added category exclusively for **osu!original** songs. This year, we have received 75 submissions across these two categories in total. Let's have a deeper look at the top entries, and check out what the judges would like to comment about them!
+This year, participants were able to choose from any track they liked from the [Featured Artist](https://osu.ppy.sh/beatmaps/artists) library to compete in two separate categories: **Featured Artist** and the newly added category exclusively for **osu! original** songs. This year, we have received 75 submissions across these two categories in total. Let's have a deeper look at the top entries, and check out what the judges would like to comment about them!
 
 ## Feature Artist 
 
@@ -19,7 +19,7 @@ This year, participants were able to choose from any track they liked from the [
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2026-05-13-fa1.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -31,7 +31,7 @@ This year, participants were able to choose from any track they liked from the [
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2026-05-13-fa2.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -43,7 +43,7 @@ This year, participants were able to choose from any track they liked from the [
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2026-05-13-fa3.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -51,13 +51,13 @@ This year, participants were able to choose from any track they liked from the [
 
 > Clean overall, not much to say!
 
-## osu!original
+## osu! original
 
 ### 1st Place: [MYUKKE. - Anti Safety Zone](https://osu.ppy.sh/beatmapsets/2537308#osu/5614685) by [LycaonMyHusband](https://osu.ppy.sh/users/14436770)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2026-05-13-original1.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -71,7 +71,7 @@ This year, participants were able to choose from any track they liked from the [
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2026-05-13-original2.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -83,7 +83,7 @@ This year, participants were able to choose from any track they liked from the [
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/2026-05-13-original3.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
