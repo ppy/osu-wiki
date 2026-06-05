@@ -14,15 +14,15 @@
 
 这些关键词随后可以在客户端的[歌曲选择页](/wiki/Client/Interface#选歌界面)以及官网的[谱面列表页](https://osu.ppy.sh/beatmapsets)中设置为过滤器（通过全文搜索实现）。
 
-## 用户标签 (User tags)
+## 玩家标签 (User tags)
 
 *注意：此功能在 osu!(stable) 中不可用。*
 
-**用户标签**是描述谱面特定特征（例如其排列，键型或所需的技能）的标签。在 osu!(lazer) 中，玩家在谱面上获得至少 C 级 [评分](/wiki/Gameplay/Grade) 后，可以在结算界面中选择并投票支持用户标签。获得至少 5 票支持后，相应的用户标签将显示在[谱面信息页](/wiki/Beatmap_information)上。
+**玩家标签**是描述谱面特定特征（例如其排列，键型或所需的技能）的标签。在 osu!(lazer) 中，玩家在谱面上获得至少 C 级 [评分](/wiki/Gameplay/Grade) 后，可以在结算界面中选择并投票支持玩家标签。获得至少 5 票支持后，相应的玩家标签将显示在[谱面信息页](/wiki/Beatmap_information)上。
 
-要筛选具有特定用户标签的谱面，可以点击[谱面信息页面](/wiki/Beatmap_information)中的相应标签，或在谱面列表中输入 `tag="{标签名}"`，其中 `{标签名}` 是下表中列出的任何标签的名称。
+要筛选具有特定玩家标签的谱面，可以点击[谱面信息页面](/wiki/Beatmap_information)中的相应标签，或在谱面列表中输入 `tag="{标签名}"`，其中 `{标签名}` 是下表中列出的任何标签的名称。
 
-下表按类别列出了所有用户标签及其适用的游戏模式。标签目前在客户端中按字母顺序排序，但计划后续手动调整为下方表格的格式。
+下表按类别列出了所有玩家标签及其适用的游戏模式。标签目前在客户端中按字母顺序排序，但计划后续手动调整为下方表格的格式。
 
 ### 游玩类标签
 
@@ -220,7 +220,7 @@
 
 ## 趣闻
 
-- 用户标签功能于 2025 年 3 月 21 日首次推出，其灵感来源于旨在为谱面提供用户策划的标签系统的 [OMDB](https://omdb.nyahh.net/) 项目。该项目最初由 ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549) 开发，于 2025 年 3 月 1 日[因个人原因](https://x.com/bunnygirltwink/status/1892328084893815059)停止运营。
+- 玩家标签功能于 2025 年 3 月 21 日首次推出，其灵感来源于旨在为谱面提供玩家策划的标签系统的 [OMDB](https://omdb.nyahh.net/) 项目。该项目最初由 ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549) 开发，于 2025 年 3 月 1 日[因个人原因](https://x.com/bunnygirltwink/status/1892328084893815059)停止运营。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
