@@ -22,7 +22,7 @@ tags:
 | 缩写 | TP |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | 0.10x |
+| 得分系数 | ``0.01x`` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
