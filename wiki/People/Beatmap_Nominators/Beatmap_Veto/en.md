@@ -87,6 +87,7 @@ It becomes apparent that no compromise can be reached, and so, after 24 hours, t
 Once the mediation vote is initiated, two groups, each containing 27 Beatmap Nominators from all modes, are asked to vote in it. The general user base may also vote.
 
 After 7 days, voting ends and the results are tallied:
+
 - Group 1: 14 of 26 Beatmap Nominators (54%) vote to agree. Since this is less than 60%, Group 1 is considered to **disagree** with the veto.
 - Group 2: 17 of 27 Beatmap Nominators (63%) vote to agree. Since this is more than 60%, Group 2 is considered to **agree** with the veto.
 - Public vote: 600 of 653 users (92%) vote to agree. Since this is more than 60%, this group is considered to **agree** with the veto.
