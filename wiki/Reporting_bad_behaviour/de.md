@@ -41,7 +41,7 @@ Wenn sich Leerzeichen im Benutzernamen befinden, ersetze diese mit Unterstrichen
 
 Wenn deine Meldung erfolgreich war, sendet BanchoBot dir eine private Nachricht, um mitzuteilen, dass die Moderatoren benachrichtigt wurden.
 
-Beachte, dass der Befehl `!report` **nicht** in osu!(lazer) **funktioniert**. Bitte melde Nutzer stattdessen über das [Meldeformular](#lazer-reports).
+Beachte, dass der Befehl `!report` **nicht in osu!(lazer) funktioniert**. Bitte melde Nutzer stattdessen über das [Meldeformular](#lazer-reports).
 
 ### Spiel-Overlay in osu!(stable) {id=stable-reports}
 
