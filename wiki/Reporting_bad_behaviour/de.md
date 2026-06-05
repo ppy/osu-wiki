@@ -52,7 +52,7 @@ Beachte, dass der Befehl `!report` **nicht in osu!(lazer) funktioniert**. Bitte 
 Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 1. Klicke seinen Benutzernamen an und drücke den roten Button `Report User...`.
-2. Wähle die Kategorie aus und füge Details hinzu (optional).
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu (optional).
 
 ### Chat-Meldeformular in osu!(lazer) {id=lazer-reports}
 
@@ -61,7 +61,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 ![](img/report-lazer-2.png "Meldedialog im Spiel")
 
 1. Klicke mit der rechten Maustaste auf den Benutzernamen (oder halte die linke Maustaste lange gedrückt) und drücke auf den roten Button `Report`.
-2. Wähle die Kategorie aus und füge Details hinzu (optional, außer die ausgewählte Kategorie ist `Other (type below)`).
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu (optional, außer die ausgewählte Kategorie ist `Other (type below)`).
 
 ## Webseite
 
@@ -72,7 +72,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 ![](img/report-user-web.png "Meldedialog auf der Webseite")
 
 1. Drücke den Button mit den drei vertikalen Punkten und klicke auf `Report`.
-2. Wähle die Kategorie aus und füge Details hinzu.
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ### Forum
 
@@ -80,28 +80,28 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 1. Fahre mit der Maus über den Beitrag.
 2. Drücke in einer Reihe an Knöpfen, die in der rechten oberen Ecke des Beitrags erscheinen, auf den Button mit einem Warnsymbol.
-3. Wähle die Kategorie aus und füge Details hinzu.
+3. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ### Kommentarsektion
 
 ![](img/report-user-comment.png "Der Meldebutton in einem Kommentar auf der Webseite")
 
 1. Klicke auf den Link `Report`.
-2. Wähle die Kategorie aus und füge Details hinzu.
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ### Beatmap
 
 ![](img/report-beatmap.png "Der Meldebutton auf einer Beatmapseite")
 
 1. Drücke die drei vertikalen Punkte und klicke auf `Report`.
-2. Wähle die Kategorie aus und füge Details hinzu.
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ### Beatmap-Diskussion
 
 ![](img/report-user-discussion.png "Der Meldebutton in einem Diskussionsbeitrag")
 
 1. Klicke auf den Button `Report` unter dem Diskussionsbeitrag.
-2. Wähle die Kategorie aus und füge Details hinzu.
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ### Scoreliste
 
@@ -111,7 +111,7 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 1. Scrolle zu der Sektion `Ranks` oder `Historical` für aktuelle Plays und gehe auf den Score.
 2. Drücke den Button mit den drei vertikalen Punkten auf der rechten Seite des Scores und klicke auf `Report Score`.
-3. Wähle die Kategorie aus und füge Details hinzu.
+3. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 #### Beatmap-Scoreliste
 
@@ -119,14 +119,14 @@ Diese Option funktioniert, wenn der schlechte Benutzer sichtbar ist:
 
 1. Fahre mit der Maus über den Score.
 2. Drücke den Button mit den drei vertikalen Punkten auf der rechten Seite des Scores und klicke auf `Report Score`.
-3. Wähle die Kategorie aus und füge Details hinzu.
+3. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ### Team
 
 ![](img/report-team.png "Der Meldebutton in der Teamübersicht")
 
 1. Drücke den Button mit den drei vertikalen Punkten und klicke auf `Report Team`.
-2. Wähle die Kategorie aus und füge Details hinzu.
+2. Wähle die Kategorie aus und füge hilfreiche Informationen hinzu.
 
 ## Referenzen
 
