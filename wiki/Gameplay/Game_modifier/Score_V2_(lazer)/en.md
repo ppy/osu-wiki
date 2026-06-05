@@ -21,7 +21,7 @@ tags:
 | Acronym | SV2 |
 | Type | System |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Unranked |
 | Incompatible mods | None |
 
