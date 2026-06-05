@@ -21,7 +21,7 @@ tags:
 | Acronym | TC |
 | Type | Difficulty Increase |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.02x`` |
 | Status | Ranked |
 | Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
