@@ -37,7 +37,7 @@ tags:
 | Acrónimo | \[número\]K |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | 0,90x |
+| Multiplicador de puntuación | ``0,90x`` |
 | Estado (4K-9K) | Clasificado |
 | Estado (1K-3K, 10K) | No clasificado |
 | Mods incompatibles | Ninguno |
