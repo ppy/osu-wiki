@@ -21,7 +21,7 @@ tags:
 | Acronym | RP |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | ``1.00x`` |
 | Status | Unranked |
 | Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
