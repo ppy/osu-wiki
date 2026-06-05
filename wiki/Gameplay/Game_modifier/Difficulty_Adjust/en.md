@@ -85,6 +85,8 @@ Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,
 
 $$\max\left(0.1,\prod_{i=1}^4\max\big(0.1,1-0.5\cdot|A_i-B_i|\big)\right).$$
 
+In any case, this multiplier is at least ``0.10x`` and at most ``1.00x``.
+
 #### Example
 
 <!-- stolen from news post https://github.com/ppy/osu-wiki/pull/14797 -->
