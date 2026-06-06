@@ -8,6 +8,8 @@ tags:
   - university
   - Universität
   - Kalifornien
+outdated_translation: true
+outdated_since: e3fc538d70f9506f4fd2e4064e66202152ce4b2c
 ---
 
 # osu! UCI
