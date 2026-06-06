@@ -47,13 +47,13 @@ Changing the **Speed increase** will cause your scores to be **unranked**.
 
 In osu!, Nightcore has a score multiplier which depends on the selected **Speed increase** and is calculated as follows:
 
-The **Speed increase** is rounded *down* to one decimal place (e.g. 1.57x becomes 1.5x), let's call this value the ``rate``. The score multiplier is then given by ``1 + 0.46 * (rate - 1) - 0.01`` if ``rate`` is not 1.50x and ``1 + 0.46 * (rate - 1)`` otherwise.
+The **Speed increase** is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the ``rate``. The score multiplier is then given by ``1 + 0.46 * (rate - 1) - 0.01`` if ``rate`` is not 1.50x and ``1 + 0.46 * (rate - 1)`` otherwise.
 
 ### osu!taiko ![][osu!taiko] and osu!catch ![][osu!catch]
 
 In osu!taiko and osu!catch, the score multiplier for Nightcore is calculated quite similarly:
 
-The **Speed increase** is rounded *down* to one decimal place (e.g. 1.57x becomes 1.5x), let's call this value the ``rate``. The score multiplier is then given by ``1 + 0.2 * (rate - 1)``.
+The **Speed increase** is rounded *down* to one decimal place (e.g. 1.57x becomes 1.50x), let's call this value the ``rate``. The score multiplier is then given by ``1 + 0.2 * (rate - 1)``.
 
 ### osu!mania ![][osu!mania]
 
