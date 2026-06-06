@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Adust Rain"
-date: 2026-06-07 00:00:00 +0000
+date: 2026-06-06 21:30:00 +0000
 series: featured_artists
 ---
 
