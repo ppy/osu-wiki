@@ -114,24 +114,6 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 
-## Match schedule: Round of 32
-
-### Friday, 6 June 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 3 | Belgium ::{ flag=BE }:: | ::{ flag=PT }:: Portugal | [Jun 05 (Fri) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260605T190000&p1=1440&p2=48&p3=133) | [osulive](https://twitch.tv/osulive) |
-
-### Saturday, 6 June 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |
-| :-: | --: | :-- | :-- | :-: |
-| 4 | China ::{ flag=CN }:: | ::{ flag=NZ }:: New Zealand | [Jun 06 (Sat) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T070000&p1=1440&p2=33&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 6 | Colombia ::{ flag=CO }:: | ::{ flag=TH }:: Thailand | [Jun 06 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T150000&p1=1440&p2=41&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 12 | Indonesia ::{ flag=ID }:: | ::{ flag=MY }:: Malaysia | [Jun 06 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T150000&p1=1440&p2=108&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
-| 7 | Chile ::{ flag=CL }:: | ::{ flag=NO }:: Norway | [Jun 06 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T170000&p1=1440&p2=232&p3=187) | [osulive](https://twitch.tv/osulive) |
-| 10 | Sweden ::{ flag=SE }:: | ::{ flag=US }:: United States | [Jun 06 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T180000&p1=1440&p2=239&p3=263) | [osulive](https://twitch.tv/osulive) |
-
 ### Sunday, 7 June 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
@@ -149,6 +131,18 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | SC | Round of 16 | mappool showcase | [Jun 07 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
+
+### Round of 32
+
+Saturday, 6 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 4 | **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/121276407) |  |
+| 6 | **Colombia** ::{ flag=CO }:: | **5** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/121278592) |  |
+| 12 | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/121278593) |  |
+| 7 | **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/121279383) |  |
+| 10 | **Sweden** ::{ flag=SE }:: | **5** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/121279756) |  |
 
 ### Qualifiers
 
