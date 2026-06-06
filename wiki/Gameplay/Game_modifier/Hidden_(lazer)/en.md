@@ -60,13 +60,9 @@ In osu!, Hidden has a score multiplier of ``1.04x`` by default.
 
 So for instance, when playing with Hidden, Grow and Repel, Hidden has a score multiplier of ``1.02x``.
 
-### osu!taiko ![][osu!taiko]
+### osu!taiko ![][osu!taiko] and osu!catch ![][osu!catch]
 
-In osu!taiko, Hidden has a score multiplier of ``1.06x``.
-
-### osu!catch ![][osu!catch]
-
-In osu!catch, Hidden has a score multiplier of ``1.06x``.
+In osu!taiko and osu!catch, Hidden has a score multiplier of ``1.06x``.
 
 ### osu!mania ![][osu!mania]
 
