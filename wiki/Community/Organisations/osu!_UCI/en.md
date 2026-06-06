@@ -25,8 +25,8 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 
 ### Current
 
-- ::{ flag=US }:: David "[Drowzy-](https://osu.ppy.sh/users/10970649)" Libin Xing (Official President) (Abandoned us for Japan 🥀)
-- ::{ flag=US }:: Brandon "[Science](https://osu.ppy.sh/users/5535233)" Chau (Interim President)
+- ::{ flag=US }:: David "[Drowzy-](https://osu.ppy.sh/users/10970649)" Libin Xing (*President, on leave*)
+- ::{ flag=US }:: Brandon "[Science](https://osu.ppy.sh/users/5535233)" Chau (*Interim President*)
 - ::{ flag=US }:: Brandon "[Yes1Yes1](https://osu.ppy.sh/users/12430265)" Dinh
 - ::{ flag=US }:: Brian "[ArcWav](https://osu.ppy.sh/users/16588770)" Wijaya
 - ::{ flag=US }:: Caleb "[angel devil](https://osu.ppy.sh/users/17363777)" Whang
