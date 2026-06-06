@@ -51,7 +51,7 @@ In osu!, Half Time has a score multiplier which depends on the selected **Speed 
 
 The **Speed decrease** is rounded *down* to the nearest multiple of 0.05x (e.g. 0.87x becomes 0.85x), let's call this value the ``rate``. The score multiplier is then given by ``1.4 * rate - 0.5``.
 
-### osu!taiko ![][osu!taiko] and osu!catch ![][osu!catch]
+### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 In osu!taiko, osu!catch and osu!mania, the score multiplier for Half Time is calculated quite similarly:
 
