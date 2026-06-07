@@ -22,7 +22,7 @@ tags:
 | :-- | :-- |
 | Acronym | AT |
 | Type | Automation |
-| Default shortcut key | `Z` |
+| Default shortcut key | `Z` (or hold ``Ctrl`` when starting a beatmap) |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | ``1.00x`` |
 | Status | Unranked |
