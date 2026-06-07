@@ -5,6 +5,8 @@ tags:
   - MV2
   - discussion de la beatmap
 outdated: true
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->

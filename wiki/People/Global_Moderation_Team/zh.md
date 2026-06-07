@@ -142,7 +142,6 @@ tags:
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 德语 | 自定义皮肤社区管理员，论坛管理员 |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天管理员 |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 瑞典语，西班牙语 | 聊天管理员 |
-| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | 作图摸图社群管理员 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 法语，西班牙语 | 聊天管理员 |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 印度尼西亚语，一部分越南语 | 聊天管理员，论坛管理员 |
@@ -151,11 +150,13 @@ tags:
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | 德语，塞尔维亚语 | 论坛管理员 |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | 芬兰语 | 聊天管理员 |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | 论坛管理员，聊天管理员 |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | 西班牙语 | 聊天管理员 |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | 俄语 | 聊天管理员，wiki 管理员 |
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | 菲律宾语 | 聊天管理员 |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | 泰语 | 聊天管理员 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 | 技术支持团队 |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 波兰语 | 团队领导，聊天管理员，作图摸图社群管理员 |
+| ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) | 意大利语 | 聊天管理员 |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天管理员 |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | 聊天管理员 |
@@ -180,7 +181,7 @@ tags:
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
-| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) |
+| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955), ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
@@ -189,7 +190,7 @@ tags:
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392), ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504) |
 | `#ukrainian` |  |  |

@@ -1,5 +1,7 @@
 ---
 no_native_review_since: 3e13544563f9c2c5e457eb1b87128f8219535ad9
+outdated_translation: true
+outdated_since: bc6513949bbd5e5f838e7c00af8c2f4f18c09a62
 ---
 
 # Melaporkan perilaku yang tidak pantas

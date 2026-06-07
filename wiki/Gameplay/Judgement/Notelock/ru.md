@@ -38,6 +38,6 @@ tags:
 
 По сравнению с osu!(stable), в osu!(lazer) он стал мягче. Это было сделано благодаря гораздо более щадящему временному окну: как только первый объект достигает смещения в 0 мс, следующий объект больше не блокируется и его можно сразу нажать. Вкратце, позднее окно попадания первой ноты больше не будет блокировать вторую ноту.
 
-![](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)/img/notelock.gif)
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
 
 Благодаря этому изменению игрокам стало проще восстанавливаться после промахов на картах с обильными [стримами](/wiki/Beatmap/Pattern/osu!/Stream), [джампами](/wiki/Beatmap/Pattern/osu!/Jump) и низким [OD](/wiki/Beatmap/Overall_difficulty).

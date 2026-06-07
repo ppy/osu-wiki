@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 85884faf3c55f4909a718caf3489f02a2908e59b
 ---
 
 # Évaluations des Beatmap Nominator

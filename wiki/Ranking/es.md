@@ -15,7 +15,7 @@ tags:
 
 La **clasificación** (alternativamente llamada «tablas de clasificación») es una lista que ordena a los miembros de la comunidad de osu! según ciertos criterios.
 
-Todas las clasificaciones, excepto la clasificación individual de beatmaps, se pueden acceder pasando el cursor sobre el menú `clasificaciones` en el encabezado del sitio web. Para las clasificaciones individuales de beatmaps, se pueden encontrar en su página de información del beatmap.
+Todas las clasificaciones, excepto la clasificación individual de beatmaps, se pueden acceder pasando el cursor sobre el menú `clasificaciones` en el encabezado del sitio web. Para las clasificaciones individuales de los beatmaps, se pueden encontrar en la página de [información de los beatmaps](/wiki/Beatmap_information).
 
 ## Clasificación por puntos de rendimiento
 

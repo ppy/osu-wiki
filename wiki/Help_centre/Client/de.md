@@ -332,7 +332,7 @@ Bitte lies den [offiziellen Hilfeartikel](https://support.kaspersky.com/15163#bl
 
 #### Zulassen eines Programms durch McAfee {id=firewall-whitelist-mcafee}
 
-Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view) von McAfee.
+Bitte informiere dich über den [offiziellen Wissensbasiseintrag zu diesem Thema](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html) von McAfee.
 
 ### Ich habe osu! zu meiner Firewall hinzugefügt, aber ich kann mich immer noch nicht mit dem Spiel verbinden! {id=sign-in-unknown-cause}
 

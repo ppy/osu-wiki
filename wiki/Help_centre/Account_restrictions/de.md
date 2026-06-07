@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
+outdated_since: 564f595d55c5e5665b1281d9caeb729fcad5c853
 ---
 
 # Einschränkungen des Accounts

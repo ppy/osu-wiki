@@ -6,7 +6,7 @@
 
 ## 联系方式
 
-**只能** 通过给[accounts@ppy.sh](mailto:accounts@ppy.sh)，[support@ppy.sh](mailto:support@ppy.sh)，[privacy@ppy.sh](mailto:privacy@ppy.sh)或[tournaments@ppy.sh](mailto:tournaments@ppy.sh)发送邮件来联系账号支持团队。为了保护他们不受到太多不需要的关注，团队成员的身份是保密的。
+**只能** 通过给 [accounts@ppy.sh](mailto:accounts@ppy.sh)，[support@ppy.sh](mailto:support@ppy.sh)，[privacy@ppy.sh](mailto:privacy@ppy.sh) 或 [tournaments@ppy.sh](mailto:tournaments@ppy.sh) 发送邮件来联系账号支持团队。为了保护他们不受到太多不需要的关注，团队成员的身份是保密的。
 
 支持团队通常需要几天才能对邮件作出答复。如果过了一周你都没有收到回复，那么最好再发一封邮件询问事件的最新进展。
 
@@ -24,7 +24,7 @@
   - 个人资料上内容的移除；
   - 谱面的移除；
   - 论坛帖和评论的移除。
-- 你[想要承认](/wiki/Reporting_bad_behaviour/Handling_foul_play#我要是违规了怎么办？)的不当行为。
+- 你[想要承认](/wiki/Reporting_bad_behaviour/Handling_foul_play#admit)的不当行为。
 - [无法使用账号所绑定的邮箱](/wiki/Help_centre/Account#sign-in)，或账号被盗。
 - 用户名[回退和打错字所致的小错误修改](/wiki/Help_centre/Account#name-changes)。
 - [注册机器人 (Bot) 账户](/wiki/Bot_account)。
@@ -32,12 +32,12 @@
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*注意：如果要举报极为恶劣的不当行为，或来自任何用户（包括管理员）的性骚扰，请参阅[举报滥用](/wiki/Reporting_bad_behaviour/Abuse)。*
+*注意：如果要举报来自任何用户（包括管理员）的恶劣不当行为或性骚扰，请参阅[举报滥用](/wiki/Reporting_bad_behaviour/Abuse)。*
 
 - 关于管理员不当行为的疑虑。
 - 关于管理员破坏[贡献者公约](/wiki/Rules/Contributor_code_of_conduct)的疑虑。
 - [osu!store](https://osu.ppy.sh/store/listing) 订单中遇到的[支付问题](/wiki/Help_centre/Account#supporter)。
-- [帮助论坛](https://osu.ppy.sh/community/forums/5)中没有或者无法解决的问题，例如[连接问题](/wiki/Help_centre/Client#online-features)。
+- [帮助论坛](https://osu.ppy.sh/community/forums/5)中仍未解决或者无法解决的技术问题，例如[连接问题](/wiki/Help_centre/Client#online-features)。
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

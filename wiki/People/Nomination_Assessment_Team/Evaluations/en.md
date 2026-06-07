@@ -18,7 +18,7 @@ Every BN is reviewed regularly by members of the NAT.
 
 For Nominators on [probation](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators), or that have been issued an [activity](/wiki/People/Beatmap_Nominators/Rules#activity) warning, their next evaluation will be scheduled for roughly 1 month after being placed on probation or receiving their warning.
 
-For full Beatmap Nominators without recent warnings, their evaluations will be scheduled to occur every 3 months.
+For full Beatmap Nominators without recent warnings, their evaluations will occur every 3 months or 30 nominations, whichever comes first.
 
 The duration between evaluations is automatically scheduled by the [BN website](https://bn.mappersguild.com/). However, if there is a substantial cause for concern about a BN's performance at a sooner date, NAT members can also manually schedule an evaluation to happen sooner than normal.
 
@@ -34,7 +34,7 @@ The individual phase will show on the BN website 2 weeks before it is due, letti
 
 ### Group phase
 
-After three NAT members have submitted their evaluations, the evaluation will be moved to the group phase. During the group phase, NAT members will discuss their evaluations with each other, come to a consensus, and write evaluation feedback. The results and feedback will vary depending on the BN. If it is found a BN is not performing up to standard, they may either be given a warning or placed on probation depending on the severity of the issue.
+After three NAT members have submitted their evaluations, the evaluation will be moved to the group phase. During the group phase, NAT members will discuss their evaluations with each other, come to a consensus, and write evaluation feedback. The results and feedback will vary depending on the BN. If it is found that a BN is not performing up to standard, they may either be given a warning or be removed depending on the severity of the issue.
 
 Once the feedback is written and reviewed, it will be sent and accompany any [user group](/wiki/People/User_group) changes needed. The feedback will be delivered by the [Nomination Assessment Team bot](https://osu.ppy.sh/users/6616586) as an [announcement message](/wiki/Announcement_messages).
 

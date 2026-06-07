@@ -120,7 +120,7 @@ Para solucionarlo, asegúrate de tener seleccionado el dispositivo osu!go, haz c
 
 **Tendrás que particionar el dispositivo desde cero.**
 
-Sigue [esta guía](https://tails.net/doc/reset/windows/index.es.html) para saber cómo hacerlo.
+Sigue [esta guía](https://tails.net/doc/first_steps/reset/windows/index.es.html) para saber cómo hacerlo.
 
 ### He reformateado el dispositivo osu!go y ahora aparece en la administración de discos {id=osu!go-clean}
 

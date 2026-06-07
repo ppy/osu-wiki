@@ -1,62 +1,61 @@
 ---
+no_native_review: true
 tags:
   - genres
   - languages
   - metadata
-outdated_translation: true
-outdated_since: 26dcaa7c6a1a7d47d0c5cb61dd01f45263a970bb
+  - aliran
+  - bahasa
 ---
-
-<!--The citation in the rock genre was changed from unsyncopated to syncopated. When updating this article, please make sure if this needs to be adjusted here.-->
 
 # Aliran dan bahasa
 
-![Sebuah screenshot dari aliran, bahasa, dan tags di dalam halaman beatmap](img/beatmap-info.png "Aliran dan bahasa terdapat dalam halaman daftar beatmap.")
+![Tangkapan layar aliran, bahasa, dan tag pada halaman beatmap](img/beatmap-info.png "Aliran dan bahasa suatu beatmap dapat dilhat pada halaman beatmap.")
 
-[Beatmaps](/wiki/Beatmap) yang sudah diunggah ke situs, memiliki **aliran** dan **bahasa** untuk membantu dalam mengkategorikan sebuah musik. Mereka dianggap sebagai bagian dari beatmap [metadata](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-metadata).
+[Beatmap](/wiki/Beatmap) yang diunggah ke situs web osu! akan memiliki kolom **aliran** dan **bahasa** untuk membantu mengkategorikan lagu yang diusung. Kedua kolom ini merupakan bagian dari [metadata](/wiki/Client/Beatmap_editor/Song_setup#general) beatmap.
 
-Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa digunakan sebagai opsi pencarian di dalam [osu!(lazer)](/wiki/Client/Release_stream/Lazer) dimasa yang akan datang.
+Aliran dan bahasa tidak memiliki kegunaan apa pun di dalam permainan, namun akan tersedia sebagia opsi pencarian pada klien [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ## Daftar beatmap
 
-![filter yang tersedia di dalam daftar beatmap](img/beatmap-listing.png?1)
+![Filter pencarian yang tersedia pada halaman daftar beatmap](img/beatmap-listing.png?1)
 
-[Daftar beatmap](https://osu.ppy.sh/beatmapsets) memiliki filter untuk aliran dan bahasa pada bagian bawah `Pilihan Pencarian Lebih Lanjut`.
+Halaman [daftar beatmap](https://osu.ppy.sh/beatmapsets) memiliki filter pencarian berdasarkan aliran dan bahasa yang dapat ditemukan pada menu dropdown `Opsi Pencarian Lainnya`.
 
-## Mengganti aliran dan bahasa pada sebuah beatmap
+## Mengubah aliran dan bahasa beatmap
 
-Aliran dan bahasa dapat diganti pada situs dengan menekan ikon pensil saat mengarahkannya pada detail beatmap. Kemampuan ini hanya dapat digunakan oleh [grup user](/wiki/People/User_group) dan [kategori](/wiki/Beatmap/Category#kategori-yang-ada-saat-ini) beatmap:
+Aliran dan bahasa beatmap dapat diubah pada situs web osu! dengan cara mengeklik ikon pensil yang muncul pada saat melayangkan kursor di atas rincian beatmap. Beatmap mana saja yang aliran dan bahasanya dapat diubah akan bergantung pada [kelompok pengguna](/wiki/People/User_group) dan [kategori beatmap](/wiki/Beatmap/Category#kategori-yang-ada-saat-ini) yang bersangkutan sebagai berikut:
 
-- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard), dan belum memiliki [nominasi](/wiki/Beatmap_ranking_procedure#nominasi).
-- Anggota dari [Beatmap Nominators](/wiki/People/Beatmap_Nominators) diijinkan ketika beatmap masuk dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), WIP, atau Pending.
-- Anggota dari [Project Loved Team](/wiki/People/Project_Loved_Team) diijinkan ketika beatmap masuk dalam kategori [Loved](/wiki/Beatmap/Category#loved).
-- Anggota dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan [Global Moderation Team](/wiki/People/Global_Moderation_Team) diijinkan untuk semua kategori.
+- Pemilik beatmap dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [WIP](/wiki/Beatmap/Category#wip-and-pending), [Pending](/wiki/Beatmap/Category#wip-and-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard) serta tidak memiliki [nominasi](/wiki/Beatmap_ranking_procedure#nominasi).
+- [Beatmap Nominator](/wiki/People/Beatmap_Nominators) dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), WIP, atau Pending.
+- Anggota [tim Project Loved](/wiki/People/Project_Loved_Team) dapat mengubah aliran dan bahasa beatmap pada saat beatmap ini berada dalam kategori [Loved](/wiki/Beatmap/Category#loved).
+- Anggota [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan [Global Moderation Team](/wiki/People/Global_Moderation_Team) dapat mengubah aliran dan bahasa beatmap mana pun terlepas dari kategori beatmap ini.
 
-Sebuah beatmap tidak dapat di [nominasi](/wiki/Beatmap_ranking_procedure#nominasi) jika memiliki aliran dan bahasa yang `belum ditentukan`.
+Suatu beatmap tidak dapat [dinominasikan](/wiki/Beatmap_ranking_procedure#nominasi) apabila aliran atau bahasa beatmap ini masih diatur ke `Belum Ditentukan`.
 
 ## Daftar aliran
 
-| Aliran | Ciri-ciri lagunya |
+| Aliran | Karakteristik lagu yang sesuai |
 | :-- | :-- |
-| Belum ditentukan | Tidak ada aliran musik yang dapat dipakai. Aliran ini hanyalah sebagai placeholder sementara hingga ditentukan jika sudah selesai. |
-| Video Game | Dibuat untuk atau dibuat oleh video game terkenal. Ini juga digunakan untuk aransemen dan remix dari musik. |
-| Anime | Dibuat untuk atau dibuat oleh sebuah anime terkenal atau media yang serupa. |
-| Rock | Kebanyakan fokus pada gitar, drum, dan bass, biasanya "dibangun di atas fondasi ritme sederhana yang tidak tersinkronisasi" dan dicirikan oleh "pertunjukan langsung dan fokus pada tema yang serius dan progresif" ([*Musik rok* di Wikipedia](https://id.wikipedia.org/wiki/Musik_rok#Asal_usul)). |
-| Pop | Terkemuka dalam budaya pop, dan disusun agar menarik dengan menggunakan struktur sederhana dan paduan suara atau melodi yang diulang-ulang. |
-| Lainnya | Tidak termasuk dalam aliran apa pun yang terdaftar. |
-| Novelti | Lucu atau tidak biasa. Dalam osu!, kategori ini mencakup lagu-lagu seperti YouTube Poops, Niconico MAD, dan musik meme. |
-| Hip Hop | "Musik ritmis bergaya yang biasanya diiringi dengan rap," terkadang "mengambil sampling beat atau bass line dari rekaman" ([*Musik hip hop* di Wikipedia](https://id.wikipedia.org/wiki/Musik_hip_hop)). |
-| Elektronik | Disusun secara digital atau dengan instrumen elektronik. |
-| Metal | Memiliki suara yang berat, memanfaatkan gitar dan bass elektrik yang keras dan terdistorsi, serta mengandung ritme drum yang cepat atau padat. |
-| Klasik | Formal, terstruktur berdasarkan teori musik tingkat lanjut, dan berakar pada budaya barat lama atau mengambil inspirasi darinya. |
-| Folk | Tradisional atau pribadi, santai, dan mencerminkan identitas suatu budaya atau sekelompok orang. |
-| Jazz | Berfokus pada improvisasi dan meminjam gaya ritme Afrika dan Kuba. Biasanya menampilkan piano dan instrumen yang akan digunakan dalam marching band. |
+| Belum Ditentukan | Tidak ada. Aliran ini merupakan kategori sementara (*placeholder*) hingga kategori yang benar telah terpasang. |
+| Video Game | Lagu yang diciptakan untuk atau dipopulerkan oleh permainan video tertentu. Aliran ini juga digunakan untuk aransemen dan gubahan ulang (*remix*) dari lagu ini. |
+| Anime | Lagu yang diciptakan untuk atau dipopulerkan oleh anime tertentu atau media lainnya yang serupa. |
+| Rock | Lagu yang sebagian besarnya berfokus pada gitar, drum, dan bass, yang pada umumnya "diciptakan dengan berlandaskan pada ritme tersinkopasi yang sederhana" serta dicirikan oleh "penampilan langsung dan tema yang serius dan progresif" (per [*Rock music* di Wikipedia](https://en.wikipedia.org/wiki/Rock_music#Characteristics)). |
+| Pop | Lagu yang banyak dijumpai pada skena budaya populer, serta diciptakan agar mudah diingat dengan struktur yang sederhana dan reff atau melodi yang berulang. |
+| Lainnya | Lagu yang tidak tergolong ke dalam aliran lain mana pun pada daftar ini. |
+| Novelti | Lagu yang bersifat jenaka atau tidak umum. Di osu!, kategori ini utamanya meliputi lagu seperti YouTube Poop, MAD Niconico, dan musik meme. |
+| Hip Hop | "Musik ritmik bergaya yang pada umumnya mengiringi penampilan rap", yang terkadang "mencuplik irama atau delik bass dari rekaman lain" (per [*Hip hop music* di Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
+| Elektronik | Lagu yang diciptakan secara digital atau dengan instrumen elektronik. |
+| Metal | Lagu yang mengusung suara yang keras, dengan gitar dan bass elektrik yang bising dan terdistorsi, serta mengandung ritme drum yang kencang atau padat. |
+| Klasik | Lagu yang bersifat formal, terstruktur berdasarkan teori musik lanjutan, serta berakar dari (atau mengambil inspirasi dari) budaya Barat klasik. |
+| Folk | Lagu yang bersifat tradisional atau personal, bernuansa sederhana, serta mencerminkan identitas budaya atau kelompok masyarakat tertentu. |
+| Jazz | Lagu yang berfokus pada improvisasi dan elemen musik yang diambil dari gaya ritme Afrika dan Kuba, yang pada umumnya menampilkan piano dan instrumen yang lazim digunakan dalam marching band. |
 
 ## Daftar bahasa
 
 - Inggris
 - Mandarin
-- Prancis
+- Perancis
 - Jerman
 - Italia
 - Jepang
@@ -66,5 +65,5 @@ Sebuah beatmap tidak dapat di [nominasi](/wiki/Beatmap_ranking_procedure#nominas
 - Rusia
 - Polandia
 - Instrumental
-- Belum ditentukan
-- Lainnya (termasuk lagu dengan berbagai bahasa terkemuka)
+- Belum Ditentukan
+- Lainnya (termasuk lagu dengan lebih dari satu bahasa yang kentara)

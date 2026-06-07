@@ -334,7 +334,7 @@ Silakan rujuk [artikel bantuan resmi Kaspersky berikut](https://support.kaspersk
 
 #### Mengizinkan program untuk melalui McAfee {id=firewall-whitelist-windows}
 
-Silakan rujuk [entri basis pengetahuan resmi McAfee berikut](https://service.mcafee.com/?articleId=TS100813\&page=shell\&shell=article-view) seputar topik ini.
+Silakan rujuk [entri basis pengetahuan resmi McAfee berikut](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html) seputar topik ini.
 
 ### Saya telah menambahkan osu! ke firewall saya, namun saya masih belum dapat terhubung ke permainan! {id=sign-in-unknown-cause}
 

@@ -290,7 +290,7 @@ Los [artículos con registros informales](#registro-del-lenguaje) deben evitar e
 
 ### Coma en serie
 
-Se debe usar la coma en serie, también conocida como coma de Oxford o Harvard.
+La coma en serie, también conocida como coma de Oxford o Harvard, no debería usarse habitualmente.
 
 ### Raya
 

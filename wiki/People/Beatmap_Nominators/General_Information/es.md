@@ -39,13 +39,13 @@ Como extensión de esta habilidad, también puedes [vetar un beatmap](/wiki/Peop
 
 Además de poder nominar beatmaps o restablecer sus nominaciones, los BN también tienen otras funciones.
 
+### Control de calidad
+
+Los BN, junto con cualquier miembro de la comunidad, pueden realizar controles de calidad comprobando en cualquier momento si los beatmaps calificados presentan algún problema.
+
 ### Mediación de un veto
 
 Cuando se envía un veto a mediación, se pedirá a los BN y a los miembros del NAT del modo del beatmap vetado que presenten votos individuales sobre el asunto. En el caso de los vetos relacionados con problemas que no sean específicos de un modo, se pedirá la participación de todos los miembros del modo. El NAT te enviará un mensaje con información adicional sobre cómo votar a través del [sitio web de los BN](http://bn.mappersguild.com) cuando comience una mediación de un veto. Al final de la mediación, se recopilarán todos los votos presentados para determinar un consenso final de si se mantiene o se retira el veto.
-
-### Control de calidad
-
-Los BN completos pueden realizar el control de calidad comprobando en cualquier momento si hay problemas en los beatmaps calificados. El tablero del control de calidad puede verse [en el sitio web de los BN](https://bn.mappersguild.com/qualityassurance).
 
 ### Revisión de contenido
 

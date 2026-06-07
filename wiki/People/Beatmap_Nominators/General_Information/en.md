@@ -39,13 +39,13 @@ As an extension of this ability, you can also [veto a beatmap](/wiki/People/Beat
 
 In addition to being able to nominate beatmaps or reset their nominations, BNs have other functions as well.
 
+### Quality Assurance
+
+BNs, alongside any member of the community, may perform Quality Assurance by checking qualified beatmaps for issues at any time.
+
 ### Veto mediation
 
 When a veto is sent to mediation, BNs and NAT members of the vetoed beatmap's mode will all be asked to submit individual votes on the issue. In the case of vetoes related to issues that are not mode-specific, all mode members will be asked to participate. The NAT will send you a message with additional information on how to vote using the [BN website](http://bn.mappersguild.com) when a veto mediation begins. At the end of mediation, all votes submitted will be compiled to determine a final upheld or dismissed consensus.
-
-### Quality Assurance
-
-Full BNs may do Quality Assurance by checking qualified beatmaps for issues at any time. The Quality Assurance board can be viewed [on the BN website](https://bn.mappersguild.com/qualityassurance).
 
 ### Content Review
 

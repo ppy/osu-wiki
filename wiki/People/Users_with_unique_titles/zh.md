@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: e44090823386fe4d8a6b556b38960b5bc3ff7818
----
-
 # 拥有特殊头衔的玩家
 
-玩家的头衔通常由[玩家组](/wiki/People/User_group)决定，但是出于其他原因，以下列出的玩家，因为做出了卓越贡献或成就，或是做出过某些 osu! 标志性的历史事件，从而获得了特殊头衔。
+玩家的头衔通常与[玩家组](/wiki/People/User_group)相关联，但下面列出的用户是因其他原因而获得他们的头衔。大多数头衔是对贡献或成就的奖励，剩下的则是 osu! 历史上标志性或有趣的象征。
 
 ## 现任世界杯冠军头衔获得者
 
@@ -145,6 +140,7 @@ outdated_since: e44090823386fe4d8a6b556b38960b5bc3ff7818
 
 - ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
 - ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596)
+- ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840)
 - ::{ flag=PH }:: [acnozei](https://osu.ppy.sh/users/10141268)
 - ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309)
 - ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -159,6 +155,8 @@ outdated_since: e44090823386fe4d8a6b556b38960b5bc3ff7818
 - ::{ flag=US }:: [fowwo](https://osu.ppy.sh/users/4547551)
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
+- ::{ flag=CN }:: [iBell](https://osu.ppy.sh/users/4298072)
+- ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401)
 - ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
 - ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
@@ -184,6 +182,7 @@ outdated_since: e44090823386fe4d8a6b556b38960b5bc3ff7818
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767)
 - ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904)
@@ -198,9 +197,7 @@ outdated_since: e44090823386fe4d8a6b556b38960b5bc3ff7818
 
 *主文章：[优秀提名者](/wiki/People/Elite_Nominators)*
 
-自 2020 年以来，**Elite Nominator** 成为 [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (BN) 和 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) 成员 在 Rank 系统中获得的奖励。该头衔是在每年年初根据上一年所做贡献而给出的，并且会在玩家离开团队后删除。
-
-自 2020 年以来，[谱面提名成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
+自 2020 年以来，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 和[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 的成员如果在一年内，在谱面上架方面做出卓越贡献，将会获得 **Elite Nominator** 头衔。头衔将会在玩家被评定时颁发，展示持续一年或持续到玩家离开提名团队。
 
 - ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)[^elite-note]
@@ -306,6 +303,8 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，在社区还未成熟时，作为高水平玩家协助社区发展。
 
+<!-- TODO: reasons -->
+
 - ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589)
 - ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728)
 - ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781)
@@ -327,9 +326,9 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 
 ### 与游玩相关
 
-*S参见：[全收集者](/wiki/People/Completionists)*
+*另见：[全收集者](/wiki/People/Completionists)*
 
-这些玩家通过完成了疯狂的游戏成就或完成特定高难度挑战而赢得了头衔。
+这些玩家通过完成了疯狂的游戏成就，或完成特定高难度挑战而赢得了头衔。
 
 | 玩家 | 头衔 | 事迹 |
 | :-- | :-- | :-- |
@@ -342,7 +341,8 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [第一个解锁 *The Girl in the Forest* 奖章的玩家](https://osu.ppy.sh/community/forums/topics/662279) |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | [第一个解锁 *Internment* 奖章的玩家](https://twitter.com/osugame/status/1696007320663359800) |
 | ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | 在 [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) 中获取了不可战胜的理论最大分数，占据了排行榜 #1 |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [Exceeded the 16-bit integer size limit of 32,767 for the performance points counter on osu!(stable)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | Limit Breaker | [表现分超出了 osu!(stable) 表现分计数器的 16 位整型上限 (32767)](https://osu.ppy.sh/home/changelog/stable40/20250306.2) |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | Medal Hunter | 第一个解锁四个游戏模式中所有奖牌（截至 2025 年 10 月 16 日）的玩家 |
 
 ### 贡献者
 
@@ -375,6 +375,8 @@ osu! 团队为想要改动设计或重新设计游戏某些吉祥物的社区成
 ### 其他
 
 由于其他原因，这些用户被授予了头衔。
+
+<!-- TODO: reasons -->
 
 | 玩家 | 头衔 |
 | :-- | :-- |

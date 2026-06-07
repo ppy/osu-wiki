@@ -72,7 +72,7 @@ Lee los procedimientos y normas que garantizan la seguridad de osu! y su comunid
 
 [Reglas](/wiki/Rules) • [Código de conducta para contribuyentes](/wiki/Rules/Contributor_code_of_conduct) • [Código de conducta para modding y mapping](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)
 
-Regulación de medios: [Pautas de uso de contenido](/wiki/Rules/Content_usage_guidelines) • [Proceso de votación de contenido](/wiki/Rules/Content_voting_process) • [Contenido explícito](/wiki/Rules/Explicit_content) • [Reglas de contenido musical](/wiki/Rules/Song_content_rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
+Regulación de medios: [Permisos de uso de contenido](/wiki/Rules/Content_usage_permissions) • [Proceso de votación de contenido](/wiki/Rules/Content_voting_process) • [Contenido explícito](/wiki/Rules/Explicit_content) • [Reglas de contenido musical](/wiki/Rules/Song_content_rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_content_considerations)
 
 [Páginas legales](/wiki/Legal): [Términos del servicio](/wiki/Legal/Terms) • [Privacidad](/wiki/Legal/Privacy) • [Derechos de autor (DMCA)](/wiki/Legal/Copyright) • [Licenciamiento de música](/wiki/Legal/Music_licensing)
 
@@ -85,7 +85,7 @@ Respuestas a preguntas frecuentes y soluciones a problemas comunes se pueden enc
 
 [Centro de ayuda](/wiki/Help_centre) • [Solución de problemas de rendimiento](/wiki/Performance_troubleshooting) • [Equipo de soporte de cuentas](/wiki/People/Account_support_team) • [Foro de ayuda](https://osu.ppy.sh/forum/5)
 
-Restricciones de perfil: [Silencios](/wiki//Help_centre/Silences) • [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions) • [Sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions)
+Restricciones de perfil: [Silencios](/wiki/Help_centre/Silences) • [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions) • [Sanciones de los torneos](/wiki/Help_centre/Tournament_sanctions)
 
 Haz tu parte: [Cómo y en qué ayudar](/wiki/Community/How_you_can_help!) • [Reportar mala conducta](/wiki/Reporting_bad_behaviour) • [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse) • [Reportar trampas](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 

@@ -141,7 +141,6 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Tiếng Đức | Kiểm duyệt mảng skinning, kiểm duyệt diễn đàn |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Tiếng Nhật | Kiểm duyệt chat |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Tiếng Thụy Điển, Tiếng Tây Ban Nha | Kiểm duyệt chat |
-| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  | Kiểm duyệt mảng mapping/modding |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Tiếng Pháp, Tiếng Tây Ban Nha | Kiểm duyệt chat |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Tiếng Indonesia | Kiểm duyệt chat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Tiếng Indonesia, một chút Tiếng Việt | Kiểm duyệt chat, kiểm duyệt diễn đàn |
@@ -150,11 +149,13 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Tiếng Đức, Tiếng Serbia | Kiểm duyệt diễn đàn |
 | ::{ flag=FI }:: [terho](https://osu.ppy.sh/users/6090105) | Tiếng Phần Lan | Kiểm duyệt chat |
 | ::{ flag=NZ }:: [THAT_otaku](https://osu.ppy.sh/users/11798717) |  | Kiểm duyệt diễn đàn, kiểm duyệt chat |
+| ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) | Tiếng Tây Ban Nha | Kiểm duyệt chat |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | Tiếng Nga | Kiểm duyệt chat, quản lý wiki |
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Tiếng Philippines | Kiểm duyệt chat |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tiếng Thái | Kiểm duyệt chat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Tiếng Tây Ban Nha | Hỗ trợ kỹ thuật |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Tiếng Ba Lan | Trưởng nhóm, kiểm duyệt chat, kiểm duyệt mảng mapping/modding |
+| ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) | Tiếng Italy | Kiểm duyệt chat |
 | ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) | Tiếng Indonesia | Kiểm duyệt chat |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Tiếng Ba Lan | Kiểm duyệt chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Kiểm duyệt chat |
@@ -179,7 +180,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) |  |
 | `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991), ::{ flag=ID }:: [wowcake](https://osu.ppy.sh/users/16121851) |
-| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955) |
+| `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) | ::{ flag=IT }:: [- Marco -](https://osu.ppy.sh/users/1273955), ::{ flag=IT }:: [VoidGod](https://osu.ppy.sh/users/4724656) |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) |
 | `#malaysian` | [Malaysian](https://osu.ppy.sh/community/forums/94) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) |
@@ -188,7 +189,7 @@ Khi một Kiểm duyệt viên quyết định rời khỏi đội ngũ, họ c�
 | `#romanian` |  |  |
 | `#russian` | [Русский](https://osu.ppy.sh/community/forums/35) | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467), ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533), ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528), ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) |
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) |
-| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) |
+| `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=VE }:: [Leon Brigido](https://osu.ppy.sh/users/13570072), ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392), ::{ flag=PE }:: [Tiburon](https://osu.ppy.sh/users/18115022) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) |
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ::{ flag=DE }:: [Hopes](https://osu.ppy.sh/users/4907504) |
 | `#ukrainian` |  |  |

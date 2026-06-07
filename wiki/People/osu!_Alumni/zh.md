@@ -1,6 +1,4 @@
 ---
-outdated_since: 52a908a6fa4efa0ee1a968563c88a5eeeff89f62
-outdated_translation: true
 tags:
   - 名人堂
   - osu!名人堂
@@ -9,9 +7,11 @@ tags:
 
 # osu! Alumni
 
-**osu! 名人堂** 是为了纪念那些为社区做出了杰出贡献的人，我们会为每个成员在社区中塑造一个雕像。
+**osu! 名人堂** 是为了纪念那些为社区做出了杰出贡献的成员。如果有条件的话，我们会在市中心为每位成员竖立一座雕像。
 
 [osu! 名人堂团队成员页面](https://osu.ppy.sh/groups/16)列出了所有团队成员。
+
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
 | 用户名 | 曾任职务 |
 | :-- | :-- |
@@ -174,9 +174,11 @@ tags:
 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) | GMT，osu! 开发团队 |
 | ::{ flag=CA }:: [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ::{ flag=GB }:: [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
+| ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) | NAT |
 | ::{ flag=JP }:: [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ::{ flag=KR }:: [minyeob](https://osu.ppy.sh/users/9207) | BAT |
 | ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | NAT |
+| ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | NAT |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队 |
 | ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) | BAT，QAT |
 | ::{ flag=US }:: [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
@@ -227,11 +229,13 @@ tags:
 | ::{ flag=CO }:: [Sakura](https://osu.ppy.sh/users/289422) | BAT，GMT |
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=AU }:: [Seika Kasanui](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | 聊天管理员 |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) | GMT |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | 聊天管理员，GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |

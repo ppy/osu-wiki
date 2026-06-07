@@ -228,6 +228,7 @@ outdated_translation: true
 | ::{ flag=AU }:: [Seika Kasanui](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | チャットモデレーター |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) | GMT |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | チャットモデレーター、GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
+---
+
 # osu! Alumni
 
 **osu! Alumni** ([а-лам-най](http://dictionary.cambridge.org/pronunciation/english/alumni), досл. с англ. *«выпускники»*) — бывшие [БАТы](/wiki/People/Beatmap_Appreciation_Team), [администраторы или модераторы](/wiki/People/Global_Moderation_Team), решившие уйти со своей должности или даже покинуть игру. Также в эту группу попадают некоторые особо отличившиеся (в хорошем смысле) участники коммьюнити.
@@ -225,6 +230,7 @@
 | ::{ flag=AU }:: [Seika Kasanui](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Модератор чата |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) | GMT |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Модератор чата, GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |

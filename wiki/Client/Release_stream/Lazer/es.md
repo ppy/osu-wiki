@@ -13,8 +13,7 @@ tags:
 
 # Canal de lanzamiento lazer
 
-*Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase: [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*Para obtener una lista de cambios en las mecánicas del juego, véase: [Diferencias de jugabilidad en osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase: [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 ::: Infobox
 

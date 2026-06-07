@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 9b1af3bcbc538a7e501bce965877ed8eb3467b94
+---
+
 # osu! Alumni
 
 Gli **osu! Alumni** sono coloro che sono conosciuti per i loro contributi che se ne sono andati. Quando avremo le risorse ereggeremo una statua per ciascun membro nella piazza della città.
@@ -225,6 +230,7 @@ La [Pagina di Gruppo degli osu!Alumni](https://osu.ppy.sh/groups/16) ne elenca t
 | ::{ flag=AU }:: [Seika Kasanui](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Moderatore della Chat |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
+| ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) | GMT |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Moderatore della Chat, GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |

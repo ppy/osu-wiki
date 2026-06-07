@@ -150,7 +150,7 @@ Una traducción puede fusionarse sin una revisión nativa si ha pasado más de u
 
 ### Expansión de stubs
 
-*Para conocer el posible alcance del trabajo, véase: [Lista de stubs existentes (inglés)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Para conocer el posible alcance del trabajo, véase: [Lista de stubs existentes (inglés)](https://github.com/search?q=stub%3A+true+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Algunos artículos de la osu! wiki están incompletos y carecen de información. Dichos artículos están marcados como *stubs*, lo que significa que son lo suficientemente importantes como para existir como páginas individuales, pero se completarán más adelante. Si estás familiarizado con el tema del artículo, contribuye y comparte tu conocimiento.
 

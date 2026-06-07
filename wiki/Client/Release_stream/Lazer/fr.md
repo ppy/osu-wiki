@@ -13,8 +13,7 @@ tags:
 
 # Channel de mise à jour Lazer
 
-*Pour une liste des fonctionnalités de lazer et des questions courantes concernant le nouveau client, voir : [Centre d'aide/Mise à niveau vers lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*Pour une liste des changements apportés aux mécanismes de jeu, voir : [Différences de gameplay dans osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*Pour une liste des fonctionnalités de lazer et des questions courantes concernant le nouveau client, voir : [Centre d'aide/Mise à niveau vers lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 ::: Infobox
 

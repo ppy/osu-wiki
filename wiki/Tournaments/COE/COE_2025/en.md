@@ -32,7 +32,7 @@ The COE 2025 1v1 Tournament offered a total cash prize pool of 4900€, keyboard
 | :-- | :-- |
 | Admins | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=DE }:: [Meyer](https://osu.ppy.sh/users/5452367), ::{ flag=DE }:: [TheHunter1](https://osu.ppy.sh/users/6496016), ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) |
 | Mappool selector | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815), ::{ flag=PL }:: [Bartek22830](https://osu.ppy.sh/users/6404027), ::{ flag=PL }:: [gnahus](https://osu.ppy.sh/users/12779141), ::{ flag=PL }:: [Bartek22380](https://osu.ppy.sh/users/13108233) |
-| Mapper | ::{ flag=PL }::[milosz](https://osu.ppy.sh/users/13108233), ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802), ::{ flag=CA }:: [bad boy](https://osu.ppy.sh/users/3545323), ::{ flag=NO }:: [CR7](https://osu.ppy.sh/users/4349246), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=ID }:: [Azrulk](https://osu.ppy.sh/users/12046612), ::{ flag=GB }:: [Ishtiaq](https://osu.ppy.sh/users/6405262), ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378), ::{ flag=JP }:: [dectopia](https://osu.ppy.sh/users/2845904), ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) |
+| Mapper | ::{ flag=PL }:: [milosz](https://osu.ppy.sh/users/13108233), ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802), ::{ flag=CA }:: [bad boy](https://osu.ppy.sh/users/3545323), ::{ flag=NO }:: [CR7](https://osu.ppy.sh/users/4349246), ::{ flag=US }:: [nooj](https://osu.ppy.sh/users/8271086), ::{ flag=ID }:: [Azrulk](https://osu.ppy.sh/users/12046612), ::{ flag=GB }:: [Ishtiaq](https://osu.ppy.sh/users/6405262), ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378), ::{ flag=JP }:: [dectopia](https://osu.ppy.sh/users/2845904), ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) |
 | Custom music producer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=UA }:: [XenjeS](https://osu.ppy.sh/users/10166905) |
 | GFX | ::{ flag=CA }:: [xootynator](https://osu.ppy.sh/users/3717598), ::{ flag=NL }:: [Happy_24](https://osu.ppy.sh/users/12876323), ::{ flag=DE }:: [ShiohriMyHero](https://osu.ppy.sh/users/15882740) |
 | Storyboarder | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) |
@@ -57,7 +57,7 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 | :-: | :-- |
 | 1–16 | ::{ flag=PL }:: [MALISZEWSKI](https://osu.ppy.sh/users/12408961), ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650), ::{ flag=AU }:: [ASecretBox](https://osu.ppy.sh/users/7341183), ::{ flag=DE }:: [yary](https://osu.ppy.sh/users/13300203), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=NO }:: [NINERIK](https://osu.ppy.sh/users/10549880), ::{ flag=GB }:: [fudge](https://osu.ppy.sh/users/11592896), ::{ flag=KR }:: [FlyingTuna](https://osu.ppy.sh/users/9224078), ::{ flag=US }:: [WindowWife](https://osu.ppy.sh/users/7813296), ::{ flag=DE }:: [Fleh](https://osu.ppy.sh/users/7780605), ::{ flag=DE }:: [Denzek Curry](https://osu.ppy.sh/users/15339747), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=DE }:: [okinamo](https://osu.ppy.sh/users/3765989), ::{ flag=FR }:: [fiaee](https://osu.ppy.sh/users/10325072) |
 | 17–32 | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=DE }:: [Tim Kackner](https://osu.ppy.sh/users/14385814), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=RO }:: [origin on osu](https://osu.ppy.sh/users/15095811), ::{ flag=GB }:: [Mahmood](https://osu.ppy.sh/users/7627844), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=NO }:: [Melvr](https://osu.ppy.sh/users/9211924), ::{ flag=PL }:: [eniu](https://osu.ppy.sh/users/5472693), ::{ flag=ES }:: [A L E P H](https://osu.ppy.sh/users/6735738), ::{ flag=NL }:: [Aheo](https://osu.ppy.sh/users/14919428), ::{ flag=DE }:: [ZeitFrost](https://osu.ppy.sh/users/11234706), ::{ flag=PT }:: [RafaMat](https://osu.ppy.sh/users/10743390), ::{ flag=AZ }:: [z10a](https://osu.ppy.sh/users/18153252), ::{ flag=DK }:: [Sobu-](https://osu.ppy.sh/users/13872272), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) |
-| 33–48 | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810), ::{ flag=AU }:: [XAVER](https://osu.ppy.sh/users/7410343), ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=PL }:: [Kuba -](https://osu.ppy.sh/users/9322480), ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155), ::{ flag=NO }:: [HUNDUR](https://osu.ppy.sh/users/3145033), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=SE }:: [melwem](https://osu.ppy.sh/users/10349559), ::{ flag=GB }::[maTT4132](https://osu.ppy.sh/users/11706972), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NO }:: [Ole](https://osu.ppy.sh/users/9401816), ::{ flag=DE }:: [Strecka](https://osu.ppy.sh/users/3249839), ::{ flag=US }:: [JohnPorler](https://osu.ppy.sh/users/12632210) |
+| 33–48 | ::{ flag=NO }:: [nanolini](https://osu.ppy.sh/users/12353810), ::{ flag=AU }:: [XAVER](https://osu.ppy.sh/users/7410343), ::{ flag=ES }:: [ESCRUPULILLO](https://osu.ppy.sh/users/18217876), ::{ flag=GB }:: [polski1](https://osu.ppy.sh/users/18131614), ::{ flag=PL }:: [Kuba -](https://osu.ppy.sh/users/9322480), ::{ flag=NL }:: [Katie Djeestar](https://osu.ppy.sh/users/641155), ::{ flag=NO }:: [HUNDUR](https://osu.ppy.sh/users/3145033), ::{ flag=FR }:: [calangi](https://osu.ppy.sh/users/7810180), ::{ flag=BE }:: [Hanori](https://osu.ppy.sh/users/7078544), ::{ flag=SE }:: [melwem](https://osu.ppy.sh/users/10349559), ::{ flag=GB }:: [maTT4132](https://osu.ppy.sh/users/11706972), ::{ flag=DE }:: [Ezius](https://osu.ppy.sh/users/1861823), ::{ flag=NL }:: [Lilily](https://osu.ppy.sh/users/6502403), ::{ flag=NO }:: [Ole](https://osu.ppy.sh/users/9401816), ::{ flag=DE }:: [Strecka](https://osu.ppy.sh/users/3249839), ::{ flag=US }:: [JohnPorler](https://osu.ppy.sh/users/12632210) |
 | *N/A* | ::{ flag=PL }:: [Lemkon](https://osu.ppy.sh/users/11755164), ::{ flag=US }:: [DerpyFox](https://osu.ppy.sh/users/10789720), ::{ flag=GB }:: [-Torva-](https://osu.ppy.sh/users/22609063), ::{ flag=BE }:: [Lemuze](https://osu.ppy.sh/users/19130169), ::{ flag=NL }:: [NeonCircles](https://osu.ppy.sh/users/13702202), ::{ flag=DE }:: [- Joey](https://osu.ppy.sh/users/18109253), ::{ flag=IE }:: [nitrusz](https://osu.ppy.sh/users/14761594), ::{ flag=DE }:: [Nibos](https://osu.ppy.sh/users/28674428), ::{ flag=DE }:: [Korkengeld](https://osu.ppy.sh/users/31333278), ::{ flag=NL }:: [LynxStxrTouchVT](https://osu.ppy.sh/users/14679254) |
 
 ## Podium
@@ -96,19 +96,19 @@ Detailed qualifier results can be found [here](https://docs.google.com/spreadshe
 ### Qualifiers
 
 - No Mod
-  1. [Alestorm - Shipwrecked [I'LL DRINK TO THAT]](https://osu.ppy.sh/beatmapsets/1850895#osu/3802259)
-  2. [miru_maki.gjw - smile [Tournament Ver.]](https://osu.ppy.sh/beatmapsets/2399421#osu/5200725)
-  3. [XenjeS - Night Sky Solitude [Nocturne, the Eternal Nightmare]](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
-  4. [tn-shi - Synthesis. [.Terminus ()]](https://osu.ppy.sh/beatmapsets/2088830#osu/4377326)
+  1. [Alestorm - Shipwrecked [I'LL DRINK TO THAT]](https://osu.ppy.sh/beatmapsets/1850895#osu/3802259)
+  2. [miru_maki.gjw - smile [Tournament Ver.]](https://osu.ppy.sh/beatmapsets/2399421#osu/5200725)
+  3. [XenjeS - Night Sky Solitude [Nocturne, the Eternal Nightmare]](https://osu.ppy.sh/beatmapsets/2333228#osu/5006943)
+  4. [tn-shi - Synthesis. [.Terminus ()]](https://osu.ppy.sh/beatmapsets/2088830#osu/4377326)
 - Hidden
-  1. [AAAA + Umeboshi Chazuke - Cait Sith [Cat-sith]](https://osu.ppy.sh/beatmapsets/1848926#osu/3798091)
-  2. [GOHOBI - Crazy For You [e]](https://osu.ppy.sh/beatmapsets/1900684#osu/3917923)
+  1. [AAAA + Umeboshi Chazuke - Cait Sith [Cat-sith]](https://osu.ppy.sh/beatmapsets/1848926#osu/3798091)
+  2. [GOHOBI - Crazy For You [e]](https://osu.ppy.sh/beatmapsets/1900684#osu/3917923)
 - Hard Rock
-  1. [xi - FREEDOM DiVE [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
-  2. [ESTi - HELIX (Edit ver.) [EX EX]](https://osu.ppy.sh/beatmapsets/194910#osu/462700)
+  1. [xi - FREEDOM DiVE [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
+  2. [ESTi - HELIX (Edit ver.) [EX EX]](https://osu.ppy.sh/beatmapsets/194910#osu/462700)
 - Double Time
-  1. [Indivision & Livewire (feat. Tasha Baxter) - Won't You Stay [Forever And A Day]](https://osu.ppy.sh/beatmapsets/309744#osu/692389)
-  2. [Kurokotei - Into The Void [Expert]](https://osu.ppy.sh/beatmapsets/1112435#osu/2335757)
+  1. [Indivision & Livewire (feat. Tasha Baxter) - Won't You Stay [Forever And A Day]](https://osu.ppy.sh/beatmapsets/309744#osu/692389)
+  2. [Kurokotei - Into The Void [Expert]](https://osu.ppy.sh/beatmapsets/1112435#osu/2335757)
 
 ## Match results
 
@@ -120,7 +120,7 @@ Thursday, 31 July 2025:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **MALISZEWSKI** ::{ flag=PL }:: | **6** | 0 | ::{ flag=FR }:: fiaee, | [#1](https://osu.ppy.sh/multiplayer/rooms/1531435) |
+| **MALISZEWSKI** ::{ flag=PL }:: | **6** | 0 | ::{ flag=FR }:: fiaee | [#1](https://osu.ppy.sh/multiplayer/rooms/1531435) |
 | **Bubbleman** ::{ flag=GB }:: | **6** | 4 | ::{ flag=SE }:: scylla | [#1](https://osu.ppy.sh/multiplayer/rooms/1531578) |
 | **ASecretBox** ::{ flag=AU }:: | **6** | 0 | ::{ flag=DE }:: Fleh | [#1](https://osu.ppy.sh/multiplayer/rooms/1531805) |
 | **im a fancy lad** ::{ flag=US }:: | **6** | 1 | ::{ flag=DE }:: Denzel Curry | [#1](https://osu.ppy.sh/multiplayer/rooms/1531978) |

@@ -1,6 +1,6 @@
 ---
 outdated_translation: true
-outdated_since: 5290810f992d8e735db4e19bb0ff60483c6d932d
+outdated_since: b2e170c2b9ed08db574895e4e750947ccbdff96d
 ---
 
 # Izin penggunaan konten
@@ -427,7 +427,7 @@ Seluruh lagu yang tersedia pada [daftar Featured Artist](https://osu.ppy.sh/beat
 
 #### Diizinkan, dengan pengecualian
 
-Bagian ini terakhir diperbarui pada tanggal 1 September 2025.
+Bagian ini terakhir diperbarui pada tanggal 22 Desember 2025.
 
 | Artis |  | Status | Catatan |
 | :-- | :-- | :-- | :-- |

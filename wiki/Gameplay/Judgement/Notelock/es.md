@@ -38,6 +38,6 @@ Desde la perspectiva de un mapper, el notelock podría evitarse eligiendo cuidad
 
 En comparación con osu!(stable), el notelock se hizo más flexible en osu!(lazer). Esto se mitigó haciendo que la ventana de tiempo fuera mucho más flexible: una vez que el primer objeto alcance un offset de 0 ms, el siguiente objeto ya no estará bloqueado y se podrá pulsar inmediatamente. En resumen, los golpes tardíos de un objeto que se haya fallado anteriormente ya no bloquearán la nota inmediatamente después.
 
-![](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer)/img/notelock.gif)
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
 
 Gracias a este cambio, los jugadores ahora podrán recuperarse más fácilmente de un fallo en beatmaps con un [OD](/wiki/Beatmap/Overall_difficulty) bajo, [streams](/wiki/Beatmap/Pattern/osu!/Stream) densos o [jumps](/wiki/Beatmap/Pattern/osu!/Jump).

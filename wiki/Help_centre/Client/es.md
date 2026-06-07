@@ -339,7 +339,7 @@ Consulta el [artículo de ayuda oficial](https://support.kaspersky.com/15163#blo
 
 #### Permitir un programa a través de McAfee {id=firewall-whitelist-mcafee}
 
-Consulta el [artículo de la base de conocimientos oficial de McAfee sobre el tema](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Consulta el [artículo de la base de conocimientos oficial de McAfee sobre el tema](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html).
 
 ### ¡He añadido a osu! a mi cortafuegos, pero sigo sin poder conectarme al juego! {id=sign-in-unknown-cause}
 
