@@ -22,7 +22,7 @@ Trong trường hợp người dùng khác đang quấy rối bạn thông qua t
 
 #### Chặn một người dùng liên lạc với bạn từ trong trò chơi. {id=ignore-user-in-game}
 
-**Để chặn một người dùng gửi tin nhắn cho bạn trong trò chơi, cách đơn giản là thêm họ vào danh sách phớt lờ của bạn.** 
+**Để chặn một người dùng gửi tin nhắn cho bạn từ trong trò chơi, cách đơn giản là thêm họ vào danh sách phớt lờ của bạn.** 
 
 1. Nhấp vào nút menu `Options` trong trò chơi.  
 2. Gõ `ignore` để lọc danh sách tùy chọn đến mục `Danh Sách phớt lờ trò chuyện`.
