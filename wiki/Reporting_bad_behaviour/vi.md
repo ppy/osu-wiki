@@ -4,7 +4,7 @@ osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hà
 
 Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
 
-## Các trường hợp đặc biệt
+## Trường hợp đặc biệt
 
 | Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
