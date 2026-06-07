@@ -31,17 +31,17 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Accuracy Challenge** mod allows the player to set a minimum accuracy that they must maintain to avoid a failure.
+The **Accuracy Challenge** mod allows the player to set a minimum [accuracy](/wiki/en/Gameplay/Accuracy) that they must maintain to avoid a failure. Thus, it works similarly to [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), except that it's based on accuracy rather than [combo](/wiki/en/Beatmapping/Combo).
 
 ## Customisation
 
 ![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60%-99.9%, default: 90%): Trigger a failure if accuracy goes below this value.
+- **Minimum accuracy** (60.0%-99.9%, default: 90.0%): Trigger a failure if the accuracy drops below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
-  - **Maximum achievable**: Fail immediately if the threshold cannot be achieved by the end of the [beatmap](/wiki/Beatmap).
-  - **Standard**: Fail if the accuracy goes strictly below the value.
-- Restart on fail (default: disabled): Restart the map when the accuracy goes below the minimum value specified.
+  - **Maximum achievable**: Fail if the threshold cannot be achieved by the end of the [beatmap](/wiki/Beatmap) anymore.
+  - **Standard**: Fail immediately if the accuracy drops below the selected value.
+- **Restart on fail** (default: disabled): Automatically restart the map after a failure.
 
 Changing any of these settings will **not** cause your scores to be unranked.
 
