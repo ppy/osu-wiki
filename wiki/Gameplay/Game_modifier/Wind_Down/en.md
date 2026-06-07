@@ -51,7 +51,7 @@ In osu!, Wind Down has a score multiplier which depends on the selected intital 
 
 #### Example
 
-IF the initial rate is 1.20x and the final rate is 0.91x, the intial and final multipliers are ``1.082x`` and ``0.76x``. Therefore, the score multiplier will be ``0.2 * 1.082 + 0.8 * 0.76 = 0.8244x``.
+If the initial rate is 1.20x and the final rate is 0.91x, the intial and final multipliers are ``1.082x`` and ``0.76x``. Therefore, the score multiplier will be ``0.2 * 1.082 + 0.8 * 0.76 = 0.8244x``.
 
 ### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
