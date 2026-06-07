@@ -33,7 +33,19 @@ tags:
 *For the osu!stable version of this article, see: [Relax (mod)](/wiki/Gameplay/Game_modifier/Relax)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+In osu!, the **Relax** mod automatically clicks on all [hit objects](/wiki/Gameplay/Hit_object) in a [beatmap](/wiki/Beatmap), allowing the user to play by only moving the cursor.
+
+In osu!taiko, the **Relax** mod allows the user to click on any hit object with any key, meaning it is no longer necessary to recognise which notes are [dons](/wiki/Gameplay/Hit_object/Hit) and which notes are [kats](/wiki/Gameplay/Hit_object/Hit).
+
+In osu!catch, the **Relax** mod allows the user to control the catcher with a mouse (or tablet) instead of the keyboard. This also means the player no longer has to [dash](/wiki/Gameplay/Dash).
+
+When using [Relax](/wiki/Gameplay/Game_modifier/Relax) in osu!stable, the player cannot fail during a beatmap. This is not the case in osu!(lazer). Another difference to osu!stable is that scores achieved with this mod will be submitted to the global leaderboard (without awarding [performance points](/wiki/Performance_points)), show up under *Recent Plays (24h)* and count towards play count.
+
+**This mod cannot be customised.**
+
+## Trivia
+
+In osu!, Relax clicks on hit objects approximately 10 ms early. Thus, as long as the player aims correctly, Relax used in combination with [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) will cause the song to be sped up as the map progresses.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
