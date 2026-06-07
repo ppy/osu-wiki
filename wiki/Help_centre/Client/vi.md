@@ -199,61 +199,61 @@ Chơi game hoặc làm việc khác sẽ giúp client xử lý dần trong nền
 
 ### Cái vệt trắng hay đường khói đằng sau con trỏ của tôi là gì? {id=smoke}
 
-**Đây là một tính năng đặc biệt gọi là *smoke*, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang theo dõi bạn cũng sẽ thấy những gì bạn vẽ.**
+**Đây là một tính năng đặc biệt được gọi là *smoke*, cho phép bạn vẽ nguệch ngoạc lên màn hình chơi để giải trí. Bất cứ ai đang theo dõi cũng sẽ thấy những gì bạn vẽ.**
 
-Phím tắt mặc định cho tính năng này là `C` và nó sẽ hoạt động khi bạn giữ phím này. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục Options của `osu!` ở hộp thoại `cài đặt phím`.
+Phím tắt mặc định cho tính năng này là `C` và sẽ hoạt động khi ấn giữ phím. Bạn có thể thay đổi phím tắt bất cứ lúc nào trong mục Options của `osu!` ở hộp thoại `cài đặt phím`.
 
-### Làm sao để lưu lại bản replay cho điểm số tôi vừa đạt được? {id=save-replay}
+### Làm sao để tôi lưu lại bản replay cho điểm số vừa đạt được? {id=save-replay}
 
-**Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng điểm cá nhân của bạn, sau đó nhấn `F2`.**
+**Vào màn hình kết quả sau khi chơi bằng cách nhấp vào điểm số trong bảng xếp hạng cá nhân của bạn, sau đó nhấn `F2`.**
 
-Lệnh này sẽ lưu bản replay mới của bạn thành file `.osr` trong thư mục Replays nằm trong thư mục cài đặt osu! mặc định.
+Phím này sẽ lưu replay mới của bạn thành tệp `.osr` nằm trong thư mục Replays ở thư mục cài đặt mặc định của osu!.
 
 Bên cạnh đó, osu! cũng tự động lưu tất cả replay sau khi bạn hoàn thành bài hát vào thư mục ẩn `/Data/r/` bên trong thư mục cài đặt osu!.
 
-Lưu ý: nếu không có replay nào được lưu cho điểm số đó, bạn sẽ không thể lấy lại replay bằng cách này.
+Lưu ý: nếu không có replay nào được lưu cho điểm số đó, bạn sẽ không thể khôi phục replay của mình bằng cách này.
 
 ### osu! thông báo rằng phiên bản client của tôi quá cũ! {id=old-client}
 
-Đã đến lúc bạn nên cập nhật trò chơi! những phiên bản rất cũ của game sẽ không được phép gửi điểm mới, vì vậy bạn cần buộc cập nhật bằng cách vào `Options` → `General` → `chạy cập nhật osu!`.
+Đã đến lúc bạn nên cập nhật trò chơi! các phiên bản quá cũ sẽ không gửi được điểm mới, vì vậy bạn cần buộc cập nhật trò chơi bằng cách vào `Options` → `General` → `chạy cập nhật osu!`.
 
-Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi động lại osu!.exe trong khi giữ phím `Shift`. Điều này sẽ cung cấp cho bạn một số tùy chọn nâng cấp và sửa chữa, trong đó có cập nhật game lên phiên bản mới nhất.
+Nếu cách này không hiệu quả, bạn có thể đóng osu! và khởi động lại osu!.exe trong khi giữ phím `Shift`. Điều này sẽ mở ra cho bạn một số tùy chọn nâng cấp và sửa chữa, trong đó có cập nhật game lên phiên bản mới nhất.
 
-### Bảng điểm của tôi không được gửi! {id=no-submission}
+### Điểm số của tôi không gửi được! {id=no-submission}
 
 Ồ thật không may! Có vài lý do khiến điều này xảy ra. Hãy cùng xem nhé:
 
-#### Bạn có kết nối Internet khi chơi không? {id=no-submission-no-connection}
+#### Bạn có kết nối đang Internet khi chơi không? {id=no-submission-no-connection}
 
-**Nếu bạn không thể truy cập Internet khi hoàn thành điểm số, điểm đó có thể sẽ không được gửi.**
+**Nếu bạn không thể truy cập Internet khi hoàn thành điểm số, điểm của bạn có thể không được gửi lên máy chủ.**
 
-Điều này thật khó chịu nếu bạn chơi khi kết nối không ổn định, nhưng trò chơi sẽ cố gắng gửi lại điểm của bạn miễn là bạn để client mở.
+Vấn đề này có thể gây khó chịu nếu bạn chơi khi kết nối không ổn định, nhưng trò chơi sẽ cố gắng gửi lại điểm của bạn miễn là client của bạn đang mở.
 
 #### osu! có được phép trong tường lửa hoặc phần mềm anti-virus của bạn không? {id=no-submission-firewall}
 
-Một số tường lửa hoặc phần mềm anti-virus có thể chặn osu! không cho phép truy cập Internet, điều này sẽ ngăn việc gửi điểm.
+Một số tường lửa hoặc phần mềm anti-virus có thể chặn osu! không truy cập được Internet, các ứng dụng này cũng sẽ ngăn việc gửi điểm trực tuyến.
 
-Hãy kiểm tra phần mềm của bạn để đảm bảo rằng `osu!.exe` trong thư mục bạn cài đặt game có thể truy cập Internet.
+Hãy kiểm tra trong lựa chọn ứng dụng của bạn để đảm bảo rằng `osu!.exe` trong thư mục bạn cài đặt game được phép truy cập Internet.
 
 #### Bạn có đang chạy quá nhiều chương trình trong nền không? {id=no-submission-software}
 
 **Một số chương trình có thể gây cản trở việc gửi điểm của bạn.**
 
-Hãy thử đóng các chương trình thừa trước khi chơi osu! nếu bạn thấy điểm của mình không được gửi và không gặp vấn đề gì về kết nối.
+Thử đóng các chương trình không cần thiết trước khi chơi osu! nếu bạn thấy điểm của mình không được gửi và không gặp vấn đề gì về kết nối.
 
-#### Các trạng thái xếp hạng beatmap của bạn có chính xác không? {id=no-submission-beatmap-status}
+#### Trạng thái xếp hạng beatmap của bạn có chính xác không? {id=no-submission-beatmap-status}
 
-**Đôi khi trạng thái của các beatmap có thể bị sai, điều này khiến cho điểm số bạn đạt được không thể gửi đi.**
+**Đôi khi trạng thái của các beatmap có thể bị sai, điều này khiến cho điểm số bạn đạt trên beatmap được không thể gửi đi.**
 
-Trong menu chọn bài, hãy kiểm tra góc trên bên trái màn hình để xem có biểu tượng nhỏ nào không (ví dụ, một beatmap đã được xếp hạng sẽ hiển thị biểu tượng mũi tên màu xanh lam ở góc trên bên trái). Nếu beatmap của bạn không hiển thị bất kỳ biểu tượng nào, hoặc biểu tượng hiển thị sai thì điểm số của bạn cũng không thể được gửi đi.
+Trong menu chọn bài hát, kiểm tra góc trên bên trái màn hình để xem có biểu tượng nhỏ nào không (ví dụ, một beatmap đã được xếp hạng sẽ hiển thị biểu tượng mũi tên màu xanh lam ở góc trên bên trái). Nếu beatmap của bạn không hiển thị bất kỳ biểu tượng nào, hoặc biểu tượng hiển thị sai thì điểm số của bạn cũng không thể được gửi đi.
 
-![](img/correct-map-status.png "Đây là những gì và nó sẽ trông như thế nào")
+![](img/correct-map-status.png "Đây là biểu tượng xếp hạng và nó sẽ trông như này")
 
-Chơi với `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng cá nhân có thể giúp ngăn chặn vấn đề này theo từng map. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc có trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tái tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, có thể mất một chút thời gian để tất cả các map của bạn lấy lại trạng thái đúng.
+Chơi với lựa chọn `bảng xếp hạng toàn cầu` thay vì bảng xếp hạng cá nhân có thể giúp ngăn chặn vấn đề này theo map gốc. Nếu một số lượng lớn beatmap của bạn, hoặc tất cả, bị thiếu hoặc trạng thái sai, hãy thử buộc cơ sở dữ liệu beatmap của bạn được tạo lại. Bạn có thể tìm cách làm điều này một cách an toàn trong phần "[Một số beatmap của tôi bị mất!](#missing-beatmaps)" ở trên. Sau khi làm điều này, việc tạo lại có thể mất một chút thời gian để tất cả các beatmap của bạn lấy lại trạng thái đúng.
 
 #### Máy chủ gửi điểm hiện có đang hoạt động không? {id=no-submission-servers}
 
-**Câu trả lời gần như luôn là có, nhưng bạn có thể kiểm tra [trạng thái máy chủ osu!](https://status.ppy.sh) hoặc qua [Twitter @osustatus](https://twitter.com/osustatus) để chắc chắn mọi thứ đang hoạt động trơn tru ở phía chúng tôi.**
+**Câu trả lời gần như luôn là có, nhưng bạn có thể kiểm tra tại [trạng thái máy chủ osu!](https://status.ppy.sh) hoặc qua [Twitter @osustatus](https://twitter.com/osustatus) để chắc chắn mọi thứ đang hoạt động trơn tru ở phía chúng tôi.**
 
 Nếu máy chủ đang ngoại tuyến, đừng đóng osu! cho đến khi chúng tôi sửa lỗi và máy chủ được khôi phục, vì game sẽ thử gửi điểm của bạn lại trong vòng một giờ trước khi bỏ cuộc.
 
