@@ -28,7 +28,7 @@ Trong trường hợp người dùng khác đang quấy rối bạn thông qua t
 2. Gõ `ignore` để lọc danh sách tùy chọn đến mục `Danh Sách phớt lờ trò chuyện`.
 3. Thêm tên người dùng gây khó chịu vào danh sách, tách mỗi người dùng mới với một dấu cách, và thay thế bất kỳ khoảng trống trong tên của họ bằng dấu gạch dưới (ví dụ, một người dùng đặt tên là *The Gatekeeper* sẽ trở thành *The_Gatekeeper*).
 
-Bạn sẽ không còn thấy các tin nhắn trò chuyện công cộng từ bất kỳ người dùng nào trong danh sách đó, cũng như không nhận được tin nhắn riêng từ họ.
+Bạn sẽ không còn thấy các tin nhắn trò chuyện công cộng từ bất kỳ người dùng trong danh sách đó, cũng như không nhận được tin nhắn riêng từ họ.
 
 Nếu bạn muốn bỏ qua thông báo nổi bật, các tin nhắn riêng tư hoặc tin nhắn công cộng, bạn chỉ cần lần lượt thêm `@h`, `@p`, `@c` vào tên người dùng. `The_Gatekeeper@c` sẽ bỏ qua tin nhắn của người dùng này trong kênh công cộng. Bạn cũng có thể kết hợp các lựa chọn này: `The_Gatekeeper@ph` sẽ bỏ qua thông báo nổi bật và tin nhắn riêng tư, nhưng vẫn hiển thị các tin nhắn công cộng.
 
