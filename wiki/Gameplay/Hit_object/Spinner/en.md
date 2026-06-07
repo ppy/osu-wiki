@@ -22,36 +22,37 @@ tags:
 
 :::
 
-A *spinner* is a [hit object](/wiki/Gameplay/Hit_object) in [osu!](/wiki/Game_mode/osu!) which covers the entire play area. The player has to hold down their specified mouse/keyboard-button and spin in one direction around the center of the playfield in order to clear it. The game will display the player's spins per minute and play the `spinnerspin.wav` [hitsound](/wiki/Beatmapping/Hitsound) as audio feedback as the player gains score until the spinner is over. 
+A *spinner* is a [hit object](/wiki/Gameplay/Hit_object) in [osu!](/wiki/Game_mode/osu!) which covers the entire play area. The player has to hold down their specified mouse/keyboard-button and spin in one direction around the centre of the playfield in order to clear it. The game will display the player's spins per minute and play the `spinnerspin.wav` [hitsound](/wiki/Beatmapping/Hitsound) as the player gains score until the spinner is over. 
 
-Upon clearing a spinner, indicated by the `spinner-clear` skin element, the player may keep spinning and gain additional bonus score until the spinner's end, after which the player is awarded a `GREAT` [judgement](/wiki/Gameplay/Judgement/osu!#spinners). If the player does not spin an adequate number of rotations, determined by the spinner's length and the map's [overall difficulty](/wiki/Beatmap/Overall_difficulty), the player will miss, or receive only a `OK` or `MEH` judgement.
+Upon clearing a spinner, indicated by the `spinner-clear` skin element, the player may keep spinning and gain additional bonus score until the spinner's end, after which the player is awarded a GREAT [judgement](/wiki/Gameplay/Judgement/osu!#spinners). If the player does not spin an adequate number of rotations, determined by the spinner's length and the map's [overall difficulty](/wiki/Beatmap/Overall_difficulty), the player will miss, or receive only an OK or MEH judgement.  
 
-There is a maximum number of spins per minute: capped at `477`. This is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins. The [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins for the player at `287` spins per minute
+There is a maximum number of spins per minute: capped at `477` (except in [osu!(lazer)](/wiki/Client/Release_stream/Lazer)). This is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins. The [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins for the player at `287` spins per minute.
 
-![](/wiki/Gameplay/Hit_object/Spinner/img/lazer-spinner.jpg "A spinner at the beginning of [Dada](https://osu.ppy.sh/users/9119507)'s beatmap for [-45 - NyanNyathotep](https://osu.ppy.sh/beatmapsets/1597755#osu/3263028)")
+![A spinner at the beginning of Dada's beatmap for -45 - NyanNyathotep](/wiki/Gameplay/Hit_object/Spinner/img/lazer-spinner.jpg "A spinner at the beginning of Dada's beatmap for -45 - NyanNyathotep")  
 
 ## Gameplay
 
 As new combos are always forced after spinners, a spin will always reward the player with a 300g upon successful completion.
 
-Beatmaps will often use spinners on long held sounds, such as wind-ups, or during fadeouts often at the ends of songs.
+Beatmaps will often use spinners on long held sounds, such as wind-ups, or during fade outs often at the ends of songs. 
 
-![](/wiki/Gameplay/Hit_object/Spinner/img/freedom-dive-spinner.jpg "[DeviousPanda](https://osu.ppy.sh/users/4966334) placing a spinner over a long wind-up on [xi - FREEDOM DiVE](https://osu.ppy.sh/beatmapsets/1667560#osu/3503023)")
+![DeviousPanda placing a spinner over a long wind-up on xi - FREEDOM DiVE](/wiki/Gameplay/Hit_object/Spinner/img/freedom-dive-spinner.jpg "DeviousPanda placing a spinner over a long wind-up on xi - FREEDOM DiVE")  
 
-Spinners too short to achieve bonus score are called `Ninja Spinners`. [Ninja Spinners](/wiki/) are only permitted by the [osu! ranking criteria](/wiki/Ranking_criteria/osu!) to be used on [Expert](/wiki/Ranking_criteria/osu!#expert) difficulties, due to their sudden nature.
+Spinners too short to achieve bonus score are called [ninja spinners](/wiki/Beatmapping/Mapping_techniques/Unrankable#ninja-spinners), and are only permitted by the [osu! ranking criteria](/wiki/Ranking_criteria/osu!) to be used on [Expert](/wiki/Ranking_criteria/osu!#expert) difficulties due to their sudden nature.  
 
-![](/wiki/Gameplay/Hit_object/Spinner/img/ninja-spinner.gif "Auto clearing a Ninja Spinner on [DragonForce - Reasons to Live](https://osu.ppy.sh/beatmapsets/2360040#osu/5086190)")
+![The Auto mod clearing a Ninja Spinner on DragonForce - Reasons to Live](/wiki/Gameplay/Hit_object/Spinner/img/ninja-spinner.gif "The Auto mod clearing a Ninja Spinner on DragonForce - Reasons to Live")  
 
 ## Skinning
 
-*Main article: [Skinning Spinners](/wiki/Skinning/osu!#spinner) / [Skin set list](/wiki/Ranking_criteria/Skin_set_list#spinner-set)*
+*See also: [Skinning § Spinner ](/wiki/Skinning/osu!#spinner) / [Skin set list § Spinner set](/wiki/Ranking_criteria/Skin_set_list#spinner-set)*  
 
 osu! features two spinner styles, new and old. Using the old style, a `spinner-metre` becomes visible from the bottom up and fills as the player completes the spinner. Once the spinner has been cleared, the `spinner-clear.png` will show up and the bonus score using the player skin numbers will start counting up underneath.
 
-![](/wiki/Gameplay/Hit_object/Spinner/img/old-spinner.jpg "Spinner on [haruka_latias](https://osu.ppy.sh/users/568211)' map for [Loituma - Ievan Polkka](https://osu.ppy.sh/beatmapsets/36323#osu/117379)")
+![Spinner on haruka_latias' map for Loituma - Ievan Polkka](/wiki/Gameplay/Hit_object/Spinner/img/old-spinner.jpg "Spinner on haruka_latias' map for Loituma - Ievan Polkka")  
 
-The new spinner style features three stacked images: glow, bottom and top. Each of them spin at different speeds as the player spins and the glow flashes as the player accumulates bonus points.
-osu!Stable's Default Skin uses this spinner style.
+The new spinner style features three stacked images: glow, bottom and top. Each of them spin at different speeds as the player spins, and the glow flashes as the player accumulates bonus points.  
+
+osu!(stable)'s default skin uses this spinner style.  
 
 ## Scoring
 
