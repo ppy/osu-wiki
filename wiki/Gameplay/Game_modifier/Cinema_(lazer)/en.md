@@ -31,7 +31,9 @@ tags:
 *For the osu!stable version of this article, see: [Cinema (mod)](/wiki/Gameplay/Game_modifier/Cinema)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+Like [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), the **Cinema** mod completes any [beatmap](/wiki/Beatmap) automatically, but only the background image or video and the [storyboard](/wiki/Storyboard) are displayed (if available). Music and [hitsounds](/wiki/Beatmapping/Hitsound) can still be heard. While using this mod, ``Background dim`` is automatically set to 0%.
+
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
