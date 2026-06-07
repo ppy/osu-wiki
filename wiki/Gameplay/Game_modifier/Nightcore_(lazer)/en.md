@@ -22,7 +22,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `G` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | See [Scoring](#scoring) |
+| Score multiplier | See [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)#scoring) |
 | Status | Ranked |
 | Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
@@ -40,10 +40,6 @@ The **Nightcore** mod behaves exactly like [Double Time (DT)](/wiki/Gameplay/Gam
 - **Speed increase** (1.01x-2.00x, default: 1.50x): The speed at which the map is played.
 
 Changing the **Speed increase** will cause your scores to be **unranked**.
-
-## Scoring
-
-In all four [game modes](/wiki/Game_mode), the score multiplier for Nightcore is exactly the same as for [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)#scoring).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
