@@ -29,7 +29,7 @@ See the [osu! UCI tournament index](/wiki/Tournaments/osu!_UCI) for wiki article
 - ::{ flag=US }:: Brandon "[Science](https://osu.ppy.sh/users/5535233)" Chau (*Interim President*)
 - ::{ flag=US }:: Brandon "[Yes1Yes1](https://osu.ppy.sh/users/12430265)" Dinh
 - ::{ flag=US }:: Brian "[ArcWav](https://osu.ppy.sh/users/16588770)" Wijaya
-- ::{ flag=US }:: Caleb "[angel devil](https://osu.ppy.sh/users/17363777)" Whang
+- ::{ flag=US }:: Hyoseong "[angel devil](https://osu.ppy.sh/users/17363777)" Hwang
 - ::{ flag=US }:: Edwin "[Pickelgold](https://osu.ppy.sh/users/32196250)" He
 - ::{ flag=US }:: Frederick "[freddiiieeee](https://osu.ppy.sh/users/7112839)" Vo
 - ::{ flag=US }:: Jin Woo "[chae jinu](https://osu.ppy.sh/users/22938539)" Choi
