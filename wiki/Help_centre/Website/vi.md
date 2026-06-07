@@ -76,7 +76,7 @@ Nếu vào bất kỳ thời điểm nào bạn cảm thấy không chắc liệ
 
 Nếu bạn gặp sự cố về kết nối trong trò chơi, vui lòng kiểm tra cài đặt tường lửa và phần mềm diệt virus của bạn để đảm bảo rằng osu! đang không bị chặn.
 
-Nếu bạn quên mật khẩu hoặc không thể truy cập tài khoản của mình, địa chỉ email được sử dụng cho tài khoản sẽ là phương thức liên lạc đầu tiên của chúng tôi với bạn.
+Nếu bạn quên mật khẩu hoặc không thể truy cập tài khoản của mình, địa chỉ email được sử dụng sẽ là phương thức liên lạc đầu tiên của chúng tôi với bạn.
 
 ### Tại sao số liệu thống kê trên trang hồ sơ người dùng của tôi sai? {id=wrong-statistics}
 
