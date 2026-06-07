@@ -45,6 +45,8 @@ In osu!catch, [Circle Size](/wiki/Beatmap/Circle_size), [HP Drain](/wiki/Beatmap
 
 In osu!mania, [HP Drain](/wiki/Beatmap/HP_drain_rate) and [Accuracy](/wiki/Beatmap/Overall_difficulty) are cut in half.
 
+In osu!mania, [HP Drain](/wiki/Beatmap/HP_drain_rate) is cut in half, while the timing windows become approximately 40% less strict.
+
 In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which will then be refilled instantly.
 
 ## Customisation
