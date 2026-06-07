@@ -22,7 +22,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `R` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | See [Scoring](#scoring) |
+| Score multiplier | See [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)#scoring) |
 | Status | Ranked |
 | Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 
@@ -30,7 +30,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Daycore** mod behaves exactly like [Half Time](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it specifically decreases the audio frequency by 25% without offering the pitch adjustment options available in customisation settings.
+The **Daycore** mod behaves exactly like [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it specifically decreases the audio frequency by 25% without offering the pitch adjustment options available in customisation settings.
 
 ## Customisation
 
@@ -39,37 +39,6 @@ The **Daycore** mod behaves exactly like [Half Time](/wiki/Gameplay/Game_modifie
 - **Speed decrease** (0.50x–0.99x, default: 0.75x): The speed at which the map is played.
 
 Changing the **Speed decrease** will cause your scores to be **unranked**.
-
-## Scoring
-
-### osu! ![][osu!]
-
-In osu!, Daycore has a score multiplier which depends on the selected **Speed decrease** and is calculated as follows:
-
-The **Speed decrease** is rounded *down* to the nearest multiple of 0.05x (e.g. 0.87x becomes 0.85x), let's call this value the ``rate``. The score multiplier is then given by ``1.4 * rate - 0.5``.
-
-### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-
-In osu!taiko, osu!catch and osu!mania, the score multiplier for Daycore is calculated quite similarly:
-
-The **Speed decrease** is rounded *down* to one decimal place (e.g. 0.87x becomes 0.80x), let's call this value the ``rate``. The score multiplier is then given by ``rate - 0.4``.
-
-### Summary
-
-Altogether, the various score multipliers of the Daycore mod are listed in the following table:
-
-| Speed decrease | ![][osu!] | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| :-- | :-- | :-- |
-| 0.50x - 0.54x | `0.20x` | `0.10x` |
-| 0.55x - 0.59x | `0.27x` | `0.10x` |
-| 0.60x - 0.64x | `0.34x` | `0.20x` |
-| 0.65x - 0.69x | `0.41x` | `0.20x` |
-| 0.70x - 0.74x | `0.48x` | `0.30x` |
-| 0.75x - 0.79x | `0.55x` | `0.30x` |
-| 0.80x - 0.84x | `0.62x` | `0.40x` |
-| 0.85x - 0.89x | `0.69x` | `0.40x` |
-| 0.90x - 0.94x | `0.76x` | `0.50x` |
-| 0.95x - 0.99x | `0.83x` | `0.50x` |
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
