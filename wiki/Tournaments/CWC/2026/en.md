@@ -125,7 +125,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 21 | Philippines ::{ flag=PH }:: | ::{ flag=US }:: United States | [Jun 13 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T030000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) |
 | 19 | Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Jun 13 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T080000&p1=1440&p2=57&p3=28) | [osulive](https://twitch.tv/osulive) |
 | 22 | Türkiye ::{ flag=TR }:: | ::{ flag=MY }:: Malaysia | [Jun 13 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T090000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
-| 18 | Portugal ::{ flag=PT }:: | ::{ flag=NZ }:: New Zealand | [Jun 13 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T100000&p1=1440&p2=133&p3=264) | [osulive](https://twitch.tv/osulive) |
 | 20 | Norway ::{ flag=NO }:: | ::{ flag=HK }:: Hong Kong | [Jun 13 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T110000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 24 | Greece ::{ flag=GR }:: | ::{ flag=RU }:: Russian Federation | [Jun 13 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T120000&p1=1440&p3=166) | [osulive](https://twitch.tv/osulive) |
 | 17 | Brazil ::{ flag=BR }:: | ::{ flag=ES }:: Spain | [Jun 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T150000&p1=1440&p2=45&p3=141) | [osulive](https://twitch.tv/osulive) |
@@ -135,10 +134,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
+| 26 | Belgium ::{ flag=BE }:: | ::{ flag=CN }:: China | [Jun 14 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T080000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
+| 18 | Portugal ::{ flag=PT }:: | ::{ flag=NZ }:: New Zealand | [Jun 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive_2](https://twitch.tv/osulive_2) |
 | 31 | France ::{ flag=FR }:: | ::{ flag=KR }:: South Korea | [Jun 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=195&p3=235) | [osulive](https://twitch.tv/osulive) |
 | 32 | Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Jun 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T110000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) |
 | 25 | Poland ::{ flag=PL }:: | ::{ flag=TW }:: Taiwan | [Jun 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=262&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 26 | Belgium ::{ flag=BE }:: | ::{ flag=CN }:: China | [Jun 14 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T130000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
 | 30 | Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) |
 | 29 | Argentina ::{ flag=AR }:: | ::{ flag=SE }:: Sweden | [Jun 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T150000&p1=1440&p2=51&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 27 | Finland ::{ flag=FI }:: | ::{ flag=CO }:: Colombia | [Jun 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T160000&p1=1440&p2=101&p3=41) | [osulive](https://twitch.tv/osulive) |
@@ -148,6 +148,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 ## Match results
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/16Wc81r0-c65TUBXM-V4kGJXA2IkSG6kLlFP9QVrvGc0?rm=minimal).
 
 Friday, 5 June 2026:
 
