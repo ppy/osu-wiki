@@ -4,7 +4,7 @@ osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hà
 
 Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
 
-## Trường hợp đặc biệt
+## Các trường hợp đặc biệt
 
 | Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
@@ -24,7 +24,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
-Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo, sử dụng [lệnh !report](https://osu.ppy.sh/community/forums/topics/34843), tốt nhất là tại kênh xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu bằng !report và một dấu cách, **tin nhắn sẽ chỉ được nhìn thấy bởi các người kiểm duyệt** và không một ai khác trong trò chuyện. Nếu bạn vẫn còn lo ngại, bạn cũng có thể sử dụng chức năng báo cáo của [giao diện trong trò chơi](#stable-reports) và [trang hồ sơ người vi phạm](#trang-hồ-sơ) qua client osu!(stable), hoặc như minh họa bên dưới.
+Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo, sử dụng [lệnh `!report`](https://osu.ppy.sh/community/forums/topics/34843), tốt nhất là tại kênh xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu bằng `!report` và một dấu cách, **tin nhắn sẽ chỉ được nhìn thấy bởi các người kiểm duyệt** và không một ai khác trong trò chuyện. Nếu bạn vẫn còn lo ngại, bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như minh họa bên dưới, hoặc qua [trang hồ sơ người vi phạm](#trang-hồ-sơ).
 
 Cú pháp của lệnh có 2 dạng:
 
