@@ -70,7 +70,7 @@ Wenn du die Dropdown-Liste unter `Updatequelle` öffnest, hast du folgende Optio
 
 | Name | Beschreibung |
 | :-- | :-- |
-| `Stabil` | Ofizielle Version von osu!(stable).| <!--Stable public release build. |-->
+| `Stabil` | Ofizielle Version von osu!(stable). |
 | `Cutting Edge (Experimentell)` | Dev build - erhält Updates früher, aber möglicherweise fehlerhaft. |
 
 ## Grafik
