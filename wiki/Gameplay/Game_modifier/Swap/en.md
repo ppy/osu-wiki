@@ -14,7 +14,7 @@ tags:
 
 ![Swap mod icon](/wiki/Gameplay/Game_modifier_(lazer)/img/mods/SW.png)
 
-*Dons become kats, kats become dons!*
+*Dons become kats, kats become dons*
 
 |  |  |
 | :-- | :-- |
