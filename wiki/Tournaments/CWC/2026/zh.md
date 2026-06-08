@@ -308,7 +308,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
      - 自动组队默认参考 osu!catch 全球排名。社区影响和活跃程度等因素也可能被用作填补空位的参考。对错过截止日期负责的临时队长，将视情况被惩罚移出队伍。
 3. 为保证报名的真实有效，每个可能参赛的选手都会由[账号支持团队](/wiki/People/Account_support_team)进行类似[锦标赛筛查](/wiki/Tournaments/Official_support#tournament-screening)的人工审核。
    - 每个已报名的玩家都会被分配到他们代表国家/地区的候选名单。
-   - 为确保报名成功，选手的 osu!catch 全球排名必须达到 #5000 以内，并且在最近的 12 个月内没有违反[规章制度](/wiki/Rules/)。
+   - 为确保报名成功，选手的 osu!catch 全球排名必须达到 #5000 以内，并且在最近的 12 个月内没有违反[规章制度](/wiki/Rules)。
 4. 所有组建成功的队伍将在报名阶段结束后在本页公布。
    - 队伍必须有至少 4 名选手才能参与资格赛阶段的比赛。
 5. 除解说和直播外的比赛工作人员**不允许**参加比赛。
@@ -317,7 +317,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 ### 资格赛说明
 
 1. 资格赛阶段中，所有队伍将游玩资格赛图池。
-2. 资格赛图池包含 4 个部分：[NoMod](/wiki/Gameplay/Game_modifier#no-mod)、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 和 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)。资格赛阶段没有 TB（决胜图）。
+2. 资格赛图池包含 4 个部分：[NoMod](/wiki/Gameplay/Game_modifier#无模组-(no-mod))、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 和 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)。资格赛阶段没有 TB（决胜图）。
 3. 资格赛图池共包含 9 张谱面，其中 3 张 NoMod，2 张 Hidden，2 张 Hard Rock，2 张 Double Time。
 4. 每支队伍须在规定时间内完成图池两次。两次游玩中的最好成绩会被用于种子排名。
 5. 图池须按照本页中列出的顺序游玩。
@@ -370,7 +370,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 ### 图池说明
 
 1. 每个比赛阶段都有专属图池。
-2. 每个图池包含 5 个部分：[NoMod](/wiki/Gameplay/Game_modifier#no-mod)、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 和 Mixed Mod.
+2. 每个图池包含 5 个部分：[NoMod](/wiki/Gameplay/Game_modifier#无模组-(no-mod))、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 和 Mixed Mod.
 3. 图池大小如下：
    - 资格赛：9 张图
    - 三十二强：14 张图
@@ -380,7 +380,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 5. No Mod 图将开启 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 模组游玩。
 6. [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 和 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 图将开启对应模组和 No Fail 模组游玩。
 7. 当游玩 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 或 [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) 图时，允许任何选手开启 [Hidden](/wiki/Gameplay/Game_modifier/Hidden) 模组。
-8. Mixed Mod（混合模组）图将开启 FreeMod 游玩。每个选手必须从 [NoMod](/wiki/Gameplay/Game_modifier#no-mod)、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 和 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 中选择一个模组开启。每个模组必须正好由一名选手游玩（也即，必须有 1 名选手选择 No Mod，1 名选手选择 Hidden，1 名选手选择 Hard Rock）。
+8. Mixed Mod（混合模组）图将开启 FreeMod 游玩。每个选手必须从 [NoMod](/wiki/Gameplay/Game_modifier#无模组-(no-mod))、[Hidden](/wiki/Gameplay/Game_modifier/Hidden) 和 [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) 中选择一个模组开启。每个模组必须正好由一名选手游玩（也即，必须有 1 名选手选择 No Mod，1 名选手选择 Hidden，1 名选手选择 Hard Rock）。
    - 游玩 Hard Rock 的选手允许同时开启 Hidden 和 Hard Rock 或仅开启 Hard Rock。
 9. 失败选手的分数会被计算。为此，游玩每张图时将强制开启 [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) 模组。
    - 故意无视此规则并因此导致队伍失败将输掉本场比赛。
