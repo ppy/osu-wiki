@@ -30,7 +30,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **No Release** mod removes the [accuracy](/wiki/Gameplay/Accuracy) penalty when releasing a key on the tail of [hold notes](/wiki/Beatmap/Pattern/osu!mania/Hold_note).
+The **No Release** mod removes the [accuracy](/wiki/Gameplay/Accuracy) penalty when releasing a key on the tail of a [hold note](/wiki/Beatmap/Pattern/osu!mania/Hold_note) too late.
 
 **This mod cannot be customised.**
 
