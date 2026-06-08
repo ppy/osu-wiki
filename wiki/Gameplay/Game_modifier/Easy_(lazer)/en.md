@@ -35,7 +35,7 @@ tags:
 *For the osu!stable version of this article, see: [Easy (mod)](/wiki/Gameplay/Game_modifier/Easy)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Easy** mod attempts to make the gameplay easier by decreasing the difficulty settings of a [beatmap](/wiki/Beatmap).
+The **Easy** mod attempts to make gameplay easier by decreasing the difficulty settings of a [beatmap](/wiki/Beatmap).
 
 In osu!, [Circle Size](/wiki/Beatmap/Circle_size), [HP Drain](/wiki/Beatmap/HP_drain_rate), [Accuracy](/wiki/Beatmap/Overall_difficulty) and [Approach Rate](/wiki/Beatmap/Approach_rate) are cut in half.
 
