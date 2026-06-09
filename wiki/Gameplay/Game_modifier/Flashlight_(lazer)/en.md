@@ -41,8 +41,8 @@ The **Flashlight** mod restricts visibility of the playfield to a small illumina
 
 ![Flashlight customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/FL.png)
 
-- **Follow delay** (120-1200, default: 120): Milliseconds until the flashlight reaches the cursor. *This option is only available in osu!.*
-- **Flashlight size** (![][osu!] 0.5-2.0, ![][osu!taiko] ![][osu!catch] 0.5-1.5, ![][osu!mania] 0.5-3.0, default: 1.0): Multiplier applied to the default flashlight size.
+- **Follow delay** (120–1200, default: 120): Milliseconds until the flashlight reaches the cursor. *This option is only available in osu!.*
+- **Flashlight size** (![][osu!] 0.5–2.0, ![][osu!taiko] ![][osu!catch] 0.5-1.5, ![][osu!mania] 0.5-3.0, default: 1.0): Multiplier applied to the default flashlight size.
 - **Change size based on combo** (default ![][osu!] ![][osu!taiko] ![][osu!catch]: enabled, default ![][osu!mania]: disabled): Decrease the flashlight size as combo increases.
 
 Changing any of these settings will cause your scores to be **unranked**.
