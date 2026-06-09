@@ -46,7 +46,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Một beatmap được tải lên thuộc một trong các danh mục sau, có thể thay đổi theo thời gian:
 
-- [Đắpmộ](Category#graveyard)
+- [Đắp mộ](Category#graveyard)
 - [Đang thực hiện / Đang chờ](Category#wip-and-pending)
 - [Đủ điều kiện](Category#qualified)
 - [Xếp hạng](Category#ranked)
