@@ -24,7 +24,7 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
-Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo, sử dụng [lệnh `!report`](https://osu.ppy.sh/community/forums/topics/34843), tốt nhất là tại kênh xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu bằng `!report` và một dấu cách, **tin nhắn sẽ chỉ được nhìn thấy bởi các người kiểm duyệt** và không một ai khác trong trò chuyện. Nếu bạn vẫn còn lo ngại, bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như minh họa bên dưới, hoặc qua [trang hồ sơ người vi phạm](#trang-hồ-sơ).
+Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo, sử dụng [lệnh `!report`](https://osu.ppy.sh/community/forums/topics/34843), tốt nhất là tại kênh xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu bằng `!report` và một dấu cách, **tin nhắn đó sẽ chỉ được nhìn thấy bởi các kiểm duyệt viên** và không một ai khác trong trò chuyện. Nếu bạn vẫn còn lo ngại, bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như minh họa bên dưới, hoặc thông qua [trang hồ sơ của người vi phạm](#trang-hồ-sơ).
 
 Cú pháp của lệnh có 2 dạng:
 
