@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+<!--TODO: Add an explanation on how to install osu!(lazer) -->
 # Installation
 
 *See also: [Installation on macOS](/wiki/Client/Installation/macOS)*
