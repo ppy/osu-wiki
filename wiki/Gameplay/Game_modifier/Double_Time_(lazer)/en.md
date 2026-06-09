@@ -38,7 +38,7 @@ The **Double Time** mod increases the BPM of any beatmap by 50%, decreasing the 
 
 ![Double Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
-- **Speed increase** (1.01x-2.00x, default: 1.50x): The speed at which the map is played.
+- **Speed increase** (1.01x–2.00x, default: 1.50x): The speed at which the map is played.
 - **Adjust pitch** (default: disabled): Change the audio frequency depending on the chosen speed. Playing with the default speed will have the same audio effect as [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)).
 
 Changing the **Speed increase** will cause your scores to be **unranked**. Enabling **Adjust pitch** will **not** cause your scores to be unranked.
