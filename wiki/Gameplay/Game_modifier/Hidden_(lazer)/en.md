@@ -36,13 +36,13 @@ tags:
 *For the osu!stable version of this article, see: [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) and makes the [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) fade out after appearing on the screen.
+The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) from the game and makes the [hit objects](/wiki/Gameplay/Hit_object) fade out after appearing on screen. Thus, it acts as the opposite of the [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) mod.
 
 ## Customisation
 
 ![Hidden customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/HD.png)
 
-- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on notes.
+- **Only fade approach circles** (default: disabled): Make the approach circles invisible without applying the fade effect on hit objects.
 
 Enabling this setting will cause your scores to be **unranked**.
 
