@@ -35,9 +35,9 @@ The **Wind Down** mod allows the user to play at a decreasing speed. When starti
 
 ![Wind Down customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/WD.png)
 
-- **Initial rate** (0.51x-2.00x, default: 1.00x): The speed to start the map with.
-- **Final rate** (0.50x-1.99x, default: 0.75x): The speed to be reached by the end of the map.
-- **Adjust pitch** (default: enabled): Continuously changes the audio frequency while playing.
+- **Initial rate** (0.51x–2.00x, default: 1.00x): The speed to start the map with.
+- **Final rate** (0.50x–1.99x, default: 0.75x): The speed to be reached by the end of the map.
+- **Adjust pitch** (default: enabled): Continuously change the audio frequency while playing.
 
 ## Scoring
 
