@@ -45,8 +45,8 @@ tags:
 
 **Key mods** allow the player to change the key count on an osu!mania [beatmap](/wiki/Beatmap), allowing them to choose between playing with only one key, up to ten keys or anything in between.
 
-*Note that this mod only works on [converts](/wiki/Beatmap/Converts).*
+*Note that these mods only work on [converts](/wiki/Beatmap/Converts).*
 
-**This mod cannot be customised.**
+**These mods cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
