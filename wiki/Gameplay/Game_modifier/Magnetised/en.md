@@ -35,7 +35,7 @@ When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automati
 
 ![Magnetised customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MG.png)
 
-- **Attraction strength** (0.05-1.0, default: 0.5): Determines how strong the cursor attracts hit objects.
+- **Attraction strength** (0.05–1.0, default: 0.5): Determines how strong the cursor attracts hit objects.
 
 ## Scoring
 
