@@ -29,6 +29,13 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Depth** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) to initially appear smaller and closer to the centre of the [playfield](/wiki/Client/Playfield), making them appear further away. Then they will grow and move to their actual position, therefore creating a 3D effect.
+
+## Customisation
+
+![Depth customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DP.png)
+
+- **Maximum depth** (50–200, default: 100): How far away objects appear.
+- **Show Approach Circles** (default: enabled): Whether [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) should be visible.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
