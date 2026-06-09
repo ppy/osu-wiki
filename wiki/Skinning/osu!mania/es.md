@@ -431,6 +431,22 @@ Notas:
   - Si la anchura de las columnas es diferente: la más pequeña se escala correctamente y las demás se comprimen para igualar su altura.
 - Las notas se pueden estirar o comprimir manualmente mediante el comando `WidthForNoteHeightScale` en el archivo [skin.ini](/wiki/Skinning/skin.ini).
 
+### Disposición predeterminada de teclas
+
+A continuación se muestra la disposición predeterminada de las notas en cada columna, según el número de teclas.
+
+| Número de teclas | Columna 1 | Columna 2 | Columna 3 | Columna 4 | Columna 5 | Columna 6 | Columna 7 | Columna 8 | Columna 9 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 1K | S |  |  |  |  |  |  |  |  |
+| 2K | 1 | 1 |  |  |  |  |  |  |  |
+| 3K | 1 | S | 1 |  |  |  |  |  |  |
+| 4K | 1 | 2 | 2 | 1 |  |  |  |  |  |
+| 5K | 1 | 2 | S | 2 | 1 |  |  |  |  |
+| 6K | 1 | 2 | 1 | 1 | 2 | 1 |  |  |  |
+| 7K | 1 | 2 | 1 | S | 1 | 2 | 1 |  |  |
+| 8K | 1 | 2 | 1 | 2 | 2 | 1 | 2 | 1 |  |
+| 9K | 1 | 2 | 1 | 2 | S | 2 | 1 | 2 | 1 |
+
 ## Escenario
 
 `mania-stage-left.png`
