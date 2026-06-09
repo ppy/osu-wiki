@@ -33,7 +33,7 @@ Bạn nên liên hệ với nhóm này về các chủ đề liên quan đến t
 
 ## [support@ppy.sh](mailto:support@ppy.sh)
 
-*Lưu ý: Để báo cáo một trường hợp nghiêm trọng liên quan đến hành vi không đúng mực hoặc lạm dụng tình dục cửa bất kỳ người dùng nào, kể cả người điều hành, vui lòng tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse).*
+*Lưu ý: Để báo cáo một trường hợp nghiêm trọng liên quan đến hành vi không đúng mực hoặc lạm dụng tình dục của bất kỳ người dùng nào, kể cả người điều hành, vui lòng tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Lo ngại về hành vi sai trái của một người điều hành.
 - Lo ngại về việc một người điều hành vi phạm [Quy tắc ứng xử của cộng tác viên](/wiki/Rules/Contributor_code_of_conduct).
