@@ -37,7 +37,7 @@ The **Accuracy Challenge** mod allows the player to set a minimum [accuracy](/wi
 
 ![Accuracy Challenge customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60.0%-99.9%, default: 90.0%): Trigger a failure if the accuracy drops below this value.
+- **Minimum accuracy** (60.0%–99.9%, default: 90.0%): Trigger a failure if the accuracy drops below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
   - **Maximum achievable**: Fail if the threshold cannot be achieved by the end of the [beatmap](/wiki/Beatmap) anymore.
   - **Standard**: Fail immediately if the accuracy drops below the selected value.
