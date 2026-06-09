@@ -43,6 +43,10 @@ tags:
 *For the osu!stable version of this article, see: [xK (mod)](/wiki/Gameplay/Game_modifier/xK)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+**Key mods** allow the player to change the key count on an osu!mania [beatmap](/wiki/Beatmap), allowing them to choose between playing with only one key, up to ten keys or anything in between.
+
+*Note that this mod only works on [converts](/wiki/Beatmap/Converts).*
+
+**This mod cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
