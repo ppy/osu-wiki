@@ -52,6 +52,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | osu! 原创设计师 | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *更多待添加* |
 | 比赛设计师 | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | 曲师 | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
+
 ## 链接
 
 - **[总表格](https://docs.google.com/spreadsheets/d/1trl37cbvyTMVxCn2Tda4t0Za8FzJSiCGsqqntN8n7V0?rm=minimal)**
@@ -313,7 +314,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 ### 比赛规则
 
 1. osu!catch 世界杯是基于国家/地区的 3v3 双败淘汰制组队比赛，在 osu!catch 模式中进行。
-   - 来自保护国或主权国家附属领土的选手（以个人资料地区旗为准）可以代表他们的母国，**前提是**他们所在的国家/地区没有足够参赛的人数。可接受的附属领土列表见[此条目](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories)。之前曾代表另一个国家/地区参赛的选手可以继续代表此国家/地区参赛。
+   - 来自保护国或主权国家附属领土的选手（以个人资料地区旗为准）可以代表他们的母国，**前提是**他们所在的国家/地区没有足够参赛的人数。可接受的附属领土列表见[此条目](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories)。之前曾这样做的选手可以继续代表此国家/地区参赛。
 2. 比赛得分以 ScoreV2 计算。
 3. 队伍最少四人，最多六人。
 4. 每周日新一轮比赛前，选图组成员会在图池展示直播中公布本轮图池。
