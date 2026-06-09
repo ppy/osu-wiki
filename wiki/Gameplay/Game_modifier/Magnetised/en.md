@@ -29,13 +29,13 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automatically move towards the cursor, making them easier to hit.
+When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automatically move towards the cursor, making them easier to hit. Thus, it acts as the opposite of the [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) mod.
 
 ## Customisation
 
 ![Magnetised customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/MG.png)
 
-- **Attraction strength** (0.05–1.0, default: 0.5): Determines how strong the cursor attracts hit objects.
+- **Attraction strength** (0.05–1.0, default: 0.5): How strong the cursor attracts hit objects.
 
 ## Scoring
 
