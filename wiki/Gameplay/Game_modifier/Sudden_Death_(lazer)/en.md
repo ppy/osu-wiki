@@ -32,14 +32,14 @@ tags:
 *For the osu!stable version of this article, see: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Sudden Death** mod triggers a failure upon missing any object in a [beatmap](/wiki/Beatmap). Missing a note, a [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick) or a [spinner](/wiki/Gameplay/Hit_object/Spinner) will make the player fail. However, missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) or not holding through an empty slider path won't trigger the effect, as long as the combo has not been broken.
+The **Sudden Death** mod immediately triggers a failure upon breaking [combo](/wiki/Gameplay/Combo_(score_multiplier)). In other words, the player will automatically fail when missing a [hit circle](/wiki/Gameplay/Hit_object/Hit_circle), [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead), [slider tick](/wiki/Gameplay/Hit_object/Slider/Slider_tick), [don or kat](/wiki/Gameplay/Hit_object/Hit), [fruit](/wiki/Gameplay/Hit_object/Fruit), large droplet, [hyperfruit](/wiki/Gameplay/Hit_object/Hyperfruit), note or any part of a [hold note](/wiki/Beatmap/Pattern/osu!mania/Hold_note). The player won't fail when missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail), [drumroll](/wiki/Gameplay/Hit_object/Drumroll), [swell](/wiki/Gameplay/Hit_object/Swell), small droplet or a [banana](/wiki/Gameplay/Hit_object/Banana).
 
 ## Customisation
 
 ![Sudden Death customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/SD.png)
 
 - **Also fail when missing a slider tail** (default: disabled): Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) will result in a failure. *This option is only available in osu!.*
-- **Restart on fail** (default: disabled): Restart the map after the [health bar](/wiki/Client/Interface/Health_bar) hits the bottom.
+- **Restart on fail** (default: disabled): Automatically restart the map after a failure.
 
 Changing any of these settings will **not** cause your scores to be unranked.
 
