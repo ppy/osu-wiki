@@ -41,7 +41,7 @@ The **Mirror** mod simply flips the [playfield](/wiki/Client/Playfield) on one o
 
 - **Flipped axes** (default: Horizontal): Which axes the [hit objects](/wiki/Gameplay/Hit_object) should be mirrored on.
   - **Horizontal**: Flip the playfield horizontally.
-  - **Vertical**: Flip the playfield vertically.
+  - **Vertical**: Flip the playfield vertically. (This is what [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) does.)
   - **Both**: Flip the playfield horizontally and vertically.
 
 *Note that these settings are only available in osu!. In osu!catch and osu!mania, this mod cannot be customised.*
