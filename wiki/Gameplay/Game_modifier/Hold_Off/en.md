@@ -29,6 +29,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Hold Off** mod removes all [hold notes](/wiki/Beatmap/Pattern/osu%21mania/Hold_note) from a [beatmap](/wiki/Beatmap) and replaces them with normal notes. Specifically, for each hold note, a normal note is placed at its beginning and the hold note is removed entirely.
+
+**This mod cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
