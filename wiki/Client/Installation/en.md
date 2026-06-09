@@ -1,7 +1,7 @@
 ---
-outdated: true
+outdated: true # Needs an explanation of how to install on osu!(lazer)
 ---
-<!--TODO: Add an explanation on how to install osu!(lazer) -->
+
 # Installation
 
 *See also: [Installation on macOS](/wiki/Client/Installation/macOS)*
