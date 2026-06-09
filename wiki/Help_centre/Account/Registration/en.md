@@ -12,7 +12,7 @@
 
 ## Using osu!(lazer) {id=lazer}
 
-![The in-game registration form](img/lazer-registration.png "The registration form in osu!(lazer)")
+![The in-game registration form](img/lazer-registration.jpg "The registration form in osu!(lazer)")
 
 1. When running osu!(lazer) without being logged in, the client will prompt you to sign in or register. Click `Register`.
    - If another user was logged in on the device you are using to create your account, you will receive a warning message. **If you are sure this is your first account**, click `I understand. This account isn't for me.`
@@ -30,7 +30,7 @@
 
 ## What credentials can I use? {id=credentials}
 
-Your username must be between 3 and 15 characters long. The only characters that can be used in usernames are alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets, (`[` and `]`), dashes (`-`), and spaces (` `).
+Your username must be between 3 and 15 characters long. The only characters that can be used in usernames are alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets (`[` and `]`), dashes (`-`), and spaces (` `).
 
 Your email address is used to reset your password and to send you verification codes when needed, so use an email address you are sure you will be able to access for the foreseeable future (don't use a throwaway email).
 
