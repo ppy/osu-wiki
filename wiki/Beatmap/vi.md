@@ -46,7 +46,7 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Một beatmap được tải lên thuộc một trong các danh mục sau, có thể thay đổi theo thời gian:
 
-- [Mộ](Category#graveyard)
+- [Đắpmộ](Category#graveyard)
 - [Đang thực hiện / Đang chờ](Category#wip-and-pending)
 - [Đủ điều kiện](Category#qualified)
 - [Xếp hạng](Category#ranked)
@@ -75,7 +75,7 @@ Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đ
 
 ### Nguồn không chính thống
 
-Ngoài ra còn có các nguồn khác, tuy nhiên chúng **không được kiểm chứng hay vận hành bởi đội ngũ osu!**. Tuy nhiên, các nguồn này được cung cấp thông qua các diễn đàn và được cộng đồng ủng hộ. Các nguồn như thế có:
+Ngoài ra còn có một số nguồn khác không được kiểm chứng hoặc vận hành bởi đội ngũ osu!. Tuy nhiên, chúng được chia sẻ trên diễn đàn và được cộng đồng ủng hộ. Các nguồn này bao gồm:
 
 - Các kho sao lưu beatmap của bên thứ ba được lưu trữ bên ngoài nền tảng;
 - Các gói beatmap do người dùng tạo và các tuyển tập được chia sẻ thông qua [mạng p2p](https://en.wikipedia.org/wiki/Peer-to-peer), như BitTorrent.
