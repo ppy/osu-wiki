@@ -43,15 +43,15 @@ The **Wind Down** mod allows the user to play at a decreasing speed. When starti
 
 ### osu! ![][osu!]
 
-In osu!, Wind Down has a score multiplier which depends on the selected intital and final rates. It is calculated as follows:
+In osu!, Wind Down has a score multiplier which depends on the selected **Initial rate** and **Final rate**. It is calculated as follows:
 
-1. If the initial rate is smaller than 1.00x, calculate the initial score multiplier ``initial_multiplier`` as described in [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)#scoring). If it is larger than 1.00x, use [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)#scoring) instead. If the initial rate is 1.00x, use ``initial_multiplier = 1.00x``.
+1. If the **Initial rate** is smaller than 1.00x, calculate the initial score multiplier ``initial_multiplier`` as described in [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)#scoring). If it is larger than 1.00x, use [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)#scoring) instead. If the **Initial rate** is 1.00x, use ``initial_multiplier = 1.00x``.
 2. Repeat this step to calculate the final score multiplier ``final_multiplier``.
 3. The score multiplier is then given by ``0.2 * intial_multiplier + 0.8 * final_multiplier``.
 
 #### Example
 
-If the initial rate is 1.20x and the final rate is 0.91x, the intial and final multipliers are ``1.082x`` and ``0.76x``. Therefore, the score multiplier will be ``0.2 * 1.082 + 0.8 * 0.76 = 0.8244x``.
+If the **Initial rate** is 1.20x and the **Final rate** is 0.91x, the intial and final multipliers are ``1.082x`` and ``0.76x``. Therefore, the score multiplier will be ``0.2 * 1.082 + 0.8 * 0.76 = 0.8244x``.
 
 ### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
