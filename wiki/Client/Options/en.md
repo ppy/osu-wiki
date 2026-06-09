@@ -60,7 +60,7 @@ You can access this menu by clicking on your player card where available.
 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
-| `Release stream` | Display a list of builds that you want to use. | Dropdown | `Stable` |
+| `Release stream` | Display a list of builds that you can use. | Dropdown | `Stable` |
 | `Your osu! is up-to-date!` | Click to force the game client to check for updates again and download them, if any. | Button |  |
 | `Open osu! folder` | Open the local osu! folder, which contains your skins, beatmaps, etc. | Button |  |
 
@@ -71,8 +71,7 @@ If you open the dropdown list for `Release stream`, you will be presented with t
 | Name | Description |
 | :-- | :-- |
 | `Stable` | Stable public release build. |
-| `Beta` | Dev build - gets new features early, but possibly buggier. |
-| `Cutting Edge (Experimental)` | Dev build - gets new features even earlier, but possibly significantly buggier. |
+| `Cutting Edge (Experimental)` | Dev build - receives updates earlier, but possibly buggier. |
 
 ## Graphics
 
