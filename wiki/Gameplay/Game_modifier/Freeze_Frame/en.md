@@ -29,6 +29,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Freeze Frame** mod causes all [hit objects](/wiki/Gameplay/Hit_object) in a [combo](https://osu.ppy.sh/wiki/en/Beatmapping/Combo) to appear simultaneously (namely, as soon as the first object in that combo appears).
+
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
