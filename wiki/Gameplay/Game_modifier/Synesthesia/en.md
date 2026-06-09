@@ -30,7 +30,7 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+The **Synesthesia** mod ignores [combo colours](/wiki/Beatmapping/Combo_colour) and instead colours all [hit objects](/wiki/Gameplay/Hit_object) in a [beatmap](/wiki/Beatmap) according to the rhythm. For that, it uses the same colours as the timeline in the [beatmap editor](/wiki/Client/Beatmap_editor), i.e. hit objects placed in a 1/2 rhythm are red, in a 1/4 rhythm they're blue, etc.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
