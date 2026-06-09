@@ -29,6 +29,8 @@ tags:
 
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-<!-- TODO description and settings -->
+Similar to [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), the **Spin In** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliders](/wiki/Gameplay/Hit_object/Slider) to appear smaller than usual and grow to their regular size before the player is supposed to hit them. Additionally, [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) and [sliderheads](/wiki/Gameplay/Hit_object/Slider/Sliderhead) make a full 360 degree rotation while appearing on screen. Spin In also removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle).
+
+**This mod cannot be customised.**
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
