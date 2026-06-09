@@ -44,14 +44,14 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 比赛管理 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | 选图 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891) |
 | 测图 | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=VN }:: [Tenwa](https://osu.ppy.sh/users/8525921), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Yunli](https://osu.ppy.sh/users/7226149), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |
-| 谱师 | ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=VN }:: [\-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [\-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=RU }:: [Lacrima](https://osu.ppy.sh/users/4915649), ::{ flag=ID }:: [Mochi \-](https://osu.ppy.sh/users/20424806), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768), *more TBA* |
+| 谱师 | ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=VN }:: [\-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [\-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=KR }:: [CLSW](https://osu.ppy.sh/users/531253), ::{ flag=FR }:: [Cruwev](https://osu.ppy.sh/users/12195994), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=JP }:: [hiroshiki](https://osu.ppy.sh/users/2667256), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=RU }:: [Lacrima](https://osu.ppy.sh/users/4915649), ::{ flag=PL }:: [Malai](https://osu.ppy.sh/users/4863096), ::{ flag=ID }:: [Mochi \-](https://osu.ppy.sh/users/20424806), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=US }:: [Vaqu](https://osu.ppy.sh/users/14714724), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768), *更多待添加* |
 | 音效师 | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=JP }:: [arthRo](https://osu.ppy.sh/users/21663721), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875) |
-| 解说 | *待添加* |
-| 裁判 | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| 解说 | ::{ flag=SE }:: [\-Anchor\-](https://osu.ppy.sh/users/1352257), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |
+| 裁判 | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | 统计 | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! 原创设计师 | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *更多待添加* |
 | 比赛设计师 | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
-
+| 曲师 | [0 K](https://osu.ppy.sh/beatmaps/artists/424) |
 ## 链接
 
 - **[总表格](https://docs.google.com/spreadsheets/d/1trl37cbvyTMVxCn2Tda4t0Za8FzJSiCGsqqntN8n7V0?rm=minimal)**
@@ -115,41 +115,71 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 可以在[这里](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec)找到完整的报名表。
 
-## 赛程安排：三十二强
+## 赛程安排：十六强
 
-### 2026年6月5日 星期五
-
-| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
-| :-: | --: | :-- | :-- | :-: |
-| 3 | 比利时 ::{ flag=BE }:: | ::{ flag=PT }:: 葡萄牙 | [6月5日（周五）19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260605T190000&p1=1440&p2=48&p3=133) | [osulive](https://twitch.tv/osulive) |
-
-### 2026年6月6日 星期六
+### 2026 年 6 月 13 日 星期六
 
 | ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
 | :-: | --: | :-- | :-- | :-: |
-| 4 | 中国 ::{ flag=CN }:: | ::{ flag=NZ }:: 新西兰 | [6月6日（周六）07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T070000&p1=1440&p2=33&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 6 | 哥伦比亚 ::{ flag=CO }:: | ::{ flag=TH }:: 泰国 | [6月6日（周六）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T150000&p1=1440&p2=41&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 12 | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=MY }:: 马来西亚 | [6月6日（周六）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T150000&p1=1440&p2=108&p3=122) | [osulive_2](https://twitch.tv/osulive_2) |
-| 7 | 智利 ::{ flag=CL }:: | ::{ flag=NO }:: 挪威 | [6月6日（周六）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T170000&p1=1440&p2=232&p3=187) | [osulive](https://twitch.tv/osulive) |
-| 10 | 瑞典 ::{ flag=SE }:: | ::{ flag=US }:: 美国 | [6月6日（周六）18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260606T180000&p1=1440&p2=239&p3=263) | [osulive](https://twitch.tv/osulive) |
+| 21 | 菲律宾 ::{ flag=PH }:: | ::{ flag=US }:: 美国 | [6 月 13 日（周六）03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T030000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) |
+| 19 | 澳大利亚 ::{ flag=AU }:: | ::{ flag=TH }:: 泰国 | [6 月 13 日（周六）08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T080000&p1=1440&p2=57&p3=28) | [osulive](https://twitch.tv/osulive) |
+| 22 | 土耳其 ::{ flag=TR }:: | ::{ flag=MY }:: 马来西亚 | [6 月 13 日（周六）09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T090000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
+| 20 | 挪威 ::{ flag=NO }:: | ::{ flag=HK }:: 香港 | [6 月 13 日（周六）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T110000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
+| 24 | 希腊 ::{ flag=GR }:: | ::{ flag=RU }:: 俄罗斯 | [6 月 13 日（周六）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T120000&p1=1440&p3=166) | [osulive](https://twitch.tv/osulive) |
+| 23 | 立陶宛 ::{ flag=LT }:: | ::{ flag=MX }:: 墨西哥 | [6 月 13 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
 
-### 2026年6月7日 星期日
+### 2026 年 6 月 14 日 星期日
 
 | ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
 | :-: | --: | :-- | :-- | :-: |
-| 8 | 香港 ::{ flag=HK }:: | ::{ flag=CA }:: 加拿大 | [6月7日（周日）03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T030000&p1=1440&p2=102&p3=188) | [osulive](https://twitch.tv/osulive) |
-| 15 | 日本 ::{ flag=JP }:: | ::{ flag=GR }:: 希腊 | [6月7日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T100000&p1=1440&p2=248) | [osulive](https://twitch.tv/osulive) |
-| 5 | 芬兰 ::{ flag=FI }:: | ::{ flag=AU }:: 澳大利亚 | [6月7日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T110000&p1=1440&p2=101&p3=57) | [osulive_2](https://twitch.tv/osulive_2) |
-| 16 | 英国 ::{ flag=GB }:: | ::{ flag=RU }:: 俄罗斯 | [6月7日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T110000&p1=1440&p2=136&p3=166) | [osulive](https://twitch.tv/osulive) |
-| 13 | 法国 ::{ flag=FR }:: | ::{ flag=LT }:: 立陶宛 | [6月7日（周日）13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T130000&p1=1440&p2=195) | [osulive](https://twitch.tv/osulive) |
-| 2 | 西班牙 ::{ flag=ES }:: | ::{ flag=TW }:: 台湾 | [6月7日（周日）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T140000&p1=1440&p2=141&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 9 | Argentina ::{ flag=AR }:: | ::{ flag=PH }:: 菲律宾 | [6月7日（周日）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T150000&p1=1440&p2=51&p3=145) | [osulive_2](https://twitch.tv/osulive_2) |
-| 11 | 德国 ::{ flag=DE }:: | ::{ flag=TR }:: 土耳其 | [6月7日（周日）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T150000&p1=1440&p2=37) | [osulive](https://twitch.tv/osulive) |
-| 14 | 韩国 ::{ flag=KR }:: | ::{ flag=MX }:: 墨西哥 | [6月7日（周日）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T170000&p1=1440&p2=235&p3=155) | [osulive](https://twitch.tv/osulive) |
-| 1 | 波兰 ::{ flag=PL }:: | ::{ flag=BR }:: 巴西 | [6月7日（周日）18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T180000&p1=1440&p2=262&p3=45) | [osulive](https://twitch.tv/osulive) |
-| SC | 十六强 | 图池展示 | [6月7日（周日）19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260607T190000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| 26 | 比利时 ::{ flag=BE }:: | ::{ flag=CN }:: 中国 | [6 月 14 日（周日）08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T080000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
+| 18 | 葡萄牙 ::{ flag=PT }:: | ::{ flag=NZ }:: 新西兰 | [6 月 14 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive_2](https://twitch.tv/osulive_2) |
+| 31 | 法国 ::{ flag=FR }:: | ::{ flag=KR }:: 韩国 | [6 月 14 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=195&p3=235) | [osulive](https://twitch.tv/osulive) |
+| 32 | 日本 ::{ flag=JP }:: | ::{ flag=GB }:: 英国 | [6 月 14 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T110000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) |
+| 25 | 波兰 ::{ flag=PL }:: | ::{ flag=TW }:: 台湾 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=262&p3=241) | [osulive](https://twitch.tv/osulive) |
+| 30 | 德国 ::{ flag=DE }:: | ::{ flag=ID }:: 印度尼西亚 | [6 月 14 日（周日）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) |
+| 29 | 阿根廷 ::{ flag=AR }:: | ::{ flag=SE }:: 瑞典 | [6 月 14 日（周日）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T150000&p1=1440&p2=51&p3=239) | [osulive](https://twitch.tv/osulive) |
+| 27 | 芬兰 ::{ flag=FI }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 14 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T160000&p1=1440&p2=101&p3=41) | [osulive](https://twitch.tv/osulive) |
+| 17 | 巴西 ::{ flag=BR }:: | ::{ flag=ES }:: 西班牙 | [6 月 14 日（周日）17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive_2](https://twitch.tv/osulive_2) |
+| 28 | 智利 ::{ flag=CL }:: | ::{ flag=CA }:: 加拿大 | [6 月 14 日（周日）19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
+| SC | 四分之一决赛 | 图池展示 | [6 月 14 日（周日）20:00 UTC（暂定）](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## 比赛结果
+
+### 三十二强
+
+本轮比赛统计细节可在[此表](https://docs.google.com/spreadsheets/d/16Wc81r0-c65TUBXM-V4kGJXA2IkSG6kLlFP9QVrvGc0?rm=minimal)中找到。
+
+2026 年 6 月 5 日 星期五：
+
+| ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 3 | **比利时** ::{ flag=BE }:: | **5** | 0 | ::{ flag=PT }:: 葡萄牙 | [#1](https://osu.ppy.sh/community/matches/121273046) | [#1](https://www.twitch.tv/videos/2789452719) |
+
+2026 年 6 月 6 日 星期六：
+
+| ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 4 | **中国** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NZ }:: 新西兰 | [#1](https://osu.ppy.sh/community/matches/121276407) | [#1](https://www.twitch.tv/videos/2790171233) |
+| 6 | **哥伦比亚** ::{ flag=CO }:: | **5** | 1 | ::{ flag=TH }:: 泰国 | [#1](https://osu.ppy.sh/community/matches/121278592) | [#1](https://www.twitch.tv/videos/2790172225) |
+| 12 | **印度尼西亚** ::{ flag=ID }:: | **5** | 1 | ::{ flag=MY }:: 马来西亚 | [#1](https://osu.ppy.sh/community/matches/121278593) | [#1](https://www.twitch.tv/videos/2790168578) |
+| 7 | **智利** ::{ flag=CL }:: | **5** | 1 | ::{ flag=NO }:: 挪威 | [#1](https://osu.ppy.sh/community/matches/121279383) | [#1](https://www.twitch.tv/videos/2790240381) |
+| 10 | **瑞典** ::{ flag=SE }:: | **5** | 0 | ::{ flag=US }:: 美国 | [#1](https://osu.ppy.sh/community/matches/121279756) | [#1](https://www.twitch.tv/videos/2790283667) |
+
+2026 年 6 月 7 日 星期日：
+
+| ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 8 | 香港 ::{ flag=HK }:: | 2 | **5** | ::{ flag=CA }:: **加拿大** | [#1](https://osu.ppy.sh/community/matches/121282765) | [#1](https://www.twitch.tv/videos/2790661805) |
+| 15 | **日本** ::{ flag=JP }:: | **5** | 0 | ::{ flag=GR }:: 希腊 | [#1](https://osu.ppy.sh/community/matches/121284131) | [#1](https://www.twitch.tv/videos/2790826356) |
+| 5 | **芬兰** ::{ flag=FI }:: | **5** | 1 | ::{ flag=AU }:: 澳大利亚 | [#1](https://osu.ppy.sh/community/matches/121284322) | [#1](https://www.twitch.tv/videos/2790849948) |
+| 16 | **英国** ::{ flag=GB }:: | **5** | 3 | ::{ flag=RU }:: 俄罗斯 | [#1](https://osu.ppy.sh/community/matches/121284351) | [#1](https://www.twitch.tv/videos/2790862335) |
+| 13 | **法国** ::{ flag=FR }:: | **5** | 1 | ::{ flag=LT }:: 立陶宛 | [#1](https://osu.ppy.sh/community/matches/121284959) | [#1](https://www.twitch.tv/videos/2790939800) |
+| 2 | 西班牙 ::{ flag=ES }:: | 0 | **5** | ::{ flag=TW }:: **台湾** | [#1](https://osu.ppy.sh/community/matches/121285417) | [#1](https://www.twitch.tv/videos/2790943765) |
+| 9 | **阿根廷** ::{ flag=AR }:: | **5** | 0 | ::{ flag=PH }:: 菲律宾 | [#1](https://osu.ppy.sh/community/matches/121285816) | [#1](https://www.twitch.tv/videos/2790983125) |
+| 11 | **德国** ::{ flag=DE }:: | **5** | 0 | ::{ flag=TR }:: 土耳其 | [#1](https://osu.ppy.sh/community/matches/121285822) | [#1](https://www.twitch.tv/videos/2790987673) |
+| 14 | **韩国** ::{ flag=KR }:: | **5** | 1 | ::{ flag=MX }:: 墨西哥 | [#1](https://osu.ppy.sh/community/matches/121286583) | [#1](https://www.twitch.tv/videos/2791080768) |
+| 1 | **波兰** ::{ flag=PL }:: | **4** | 0 | ::{ flag=BR }:: 巴西 | [#1](https://osu.ppy.sh/community/matches/121286996) | [#1](https://www.twitch.tv/videos/2791126418) |
 
 ### 资格赛
 
@@ -159,7 +189,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 种子 | 国家/地区 | 百分比赋分求和[^qualifiers-seeding] | 平均得分[^qualifiers-tiebreaker] | 比赛房间链接 |
 | :-: | :-- | --: | --: | --: |
 | #1 | ::{ flag=PL }:: 波兰 | 8.939 | 2,961,630 | [#1](https://osu.ppy.sh/community/matches/121241705) |
-| #2 | ::{ flag=AR }:: Argentina | 8.780 | 2,909,025 | [#1](https://osu.ppy.sh/community/matches/121241316) |
+| #2 | ::{ flag=AR }:: 阿根廷 | 8.780 | 2,909,025 | [#1](https://osu.ppy.sh/community/matches/121241316) |
 | #3 | ::{ flag=FR }:: 法国 | 8.759 | 2,902,644 | [#1](https://osu.ppy.sh/community/matches/121241338) |
 | #4 | ::{ flag=FI }:: 芬兰 | 8.748 | 2,899,687 | [#1](https://osu.ppy.sh/community/matches/121241689) |
 | #5 | ::{ flag=CL }:: 智利 | 8.739 | 2,895,463 | [#1](https://osu.ppy.sh/community/matches/121242888) |
@@ -204,6 +234,34 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | #44 | ::{ flag=SK }:: 斯洛伐克 | 3.147 | 1,044,970 | [#1](https://osu.ppy.sh/community/matches/121234320) |
 
 ## 图池
+
+### 十六强
+
+**[在这里下载图包 (148 MB)](https://packs.ppy.sh/P327%20-%20osu%21catch%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
+[在这里观看图池展示回放](https://www.twitch.tv/videos/2791211597)
+
+- No Mod
+  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sacrifice (Ascendance, -Miya) \[Miyascendance's Penance\]](https://osu.ppy.sh/beatmapsets/2566432#fruits/5708882)
+  2. [The Musical Ghost - Mahika (Yoshi\_green) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/2566317#fruits/5708548)
+  3. [Sato Tenpei - Cluster Warning (-Luminate) \[Discordance\]](https://osu.ppy.sh/beatmapsets/2566309#fruits/5708530)
+  4. [The Dismemberment Plan - The Dismemberment Plan Gets Rich (Oolt cloud) \[embezzling funds from ppy pty ltd for the cwc prizepool\]](https://osu.ppy.sh/beatmapsets/2566305#fruits/5708526)
+- Hidden
+  1. [scop - Yubikiri (JierYagtama) \[Promise\]](https://osu.ppy.sh/beatmapsets/2566464#fruits/5708964)
+  2. [EmoCosine - MAGENTA POTION (Short Ver.) (Des9) \[HD II\]](https://osu.ppy.sh/beatmapsets/2566311#fruits/5708533)
+  3. [WhiteSakata - R(eiterat)e (Malai, Cruwev) \[Malcrew's R(epris)e\]](https://osu.ppy.sh/beatmapsets/2566313#fruits/5708543)
+- Hard Rock
+  1. [kakichoco - Hakudou (hiroshiki) \[Kodou\]](https://osu.ppy.sh/beatmapsets/2566314#fruits/5708544)
+  2. [Aishuu Mania - the lost dedicated (AnApple7) \[lost\]](https://osu.ppy.sh/beatmapsets/2566331#fruits/5708578)
+  3. [myon - Plastic Mind (Rocma) \[polyethylene heart\]](https://osu.ppy.sh/beatmapsets/2566318#fruits/5708550)
+- Double Time
+  1. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Nelly) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2566323#fruits/5708558)
+  2. [leroy - her head is soooo rolling!! love her (Vaqu) \[this beat is craaazyy!! love it\]](https://osu.ppy.sh/beatmapsets/2566344#fruits/5708620)
+  3. [seleP - Segments Blue (Rocma) \[Blue Truth\]](https://osu.ppy.sh/beatmapsets/2566324#fruits/5708564)
+- Mixed Mod
+  1. [KASAI HARCORES - TRIPLE PLAY (Ascendance, CLSW, Spectator) \[WORLD BASEBALL CLASSIC\]](https://osu.ppy.sh/beatmapsets/2566333#fruits/5708586)
+  2. [0 K - Downtown Swoop (ZiRoX) \[Jazz Invasion\]](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574)
+- Tiebreaker
+  1. **[Kagetora. - Resplendence (BlackBN, Yoshi\_green) \[BlackYoshi's Transcendental Blissfulness\]](https://osu.ppy.sh/beatmapsets/2566443#fruits/5708900)**
 
 ### 三十二强
 
