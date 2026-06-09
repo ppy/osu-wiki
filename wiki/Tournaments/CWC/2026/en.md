@@ -46,7 +46,7 @@ The osu!catch World Cup 2026 is run by various community members.
 | Mappool playtester | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=VN }:: [Tenwa](https://osu.ppy.sh/users/8525921), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Yunli](https://osu.ppy.sh/users/7226149), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |
 | Mapper | ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=VN }:: [\-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [\-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=KR }:: [CLSW](https://osu.ppy.sh/users/531253), ::{ flag=FR }:: [Cruwev](https://osu.ppy.sh/users/12195994), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=JP }:: [hiroshiki](https://osu.ppy.sh/users/2667256), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=RU }:: [Lacrima](https://osu.ppy.sh/users/4915649), ::{ flag=PL }:: [Malai](https://osu.ppy.sh/users/4863096), ::{ flag=ID }:: [Mochi \-](https://osu.ppy.sh/users/20424806), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=US }:: [Vaqu](https://osu.ppy.sh/users/14714724), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768), *more TBA* |
 | Hitsounder | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=JP }:: [arthRo](https://osu.ppy.sh/users/21663721), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875) |
-| Commentator | *TBA* |
+| Commentator | ::{ flag=SE }:: [\-Anchor\-](https://osu.ppy.sh/users/1352257), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |
 | Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
@@ -127,7 +127,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 22 | Türkiye ::{ flag=TR }:: | ::{ flag=MY }:: Malaysia | [Jun 13 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T090000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
 | 20 | Norway ::{ flag=NO }:: | ::{ flag=HK }:: Hong Kong | [Jun 13 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T110000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 24 | Greece ::{ flag=GR }:: | ::{ flag=RU }:: Russian Federation | [Jun 13 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T120000&p1=1440&p3=166) | [osulive](https://twitch.tv/osulive) |
-| 17 | Brazil ::{ flag=BR }:: | ::{ flag=ES }:: Spain | [Jun 13 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T150000&p1=1440&p2=45&p3=141) | [osulive](https://twitch.tv/osulive) |
 | 23 | Lithuania ::{ flag=LT }:: | ::{ flag=MX }:: Mexico | [Jun 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 14 June 2026
@@ -142,8 +141,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 30 | Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) |
 | 29 | Argentina ::{ flag=AR }:: | ::{ flag=SE }:: Sweden | [Jun 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T150000&p1=1440&p2=51&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 27 | Finland ::{ flag=FI }:: | ::{ flag=CO }:: Colombia | [Jun 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T160000&p1=1440&p2=101&p3=41) | [osulive](https://twitch.tv/osulive) |
-| 28 | Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Jun 14 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T170000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
-| SC | Quarterfinals | mappool showcase | [Jun 14 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T180000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| 17 | Brazil ::{ flag=BR }:: | ::{ flag=ES }:: Spain | [Jun 14 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive_2](https://twitch.tv/osulive_2) |
+| 28 | Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Jun 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
+| SC | Quarterfinals | mappool showcase | [Jun 14 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## Match results
 
@@ -238,15 +238,16 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 
 ### Round of 16
 
+**[Download the mappack here (148 MB)](https://packs.ppy.sh/P327%20-%20osu%21catch%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2791211597)
 
 - No Mod
-  1. Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sacrifice (Ascendance, -Miya) \[Miyascendance's Penance\] (pending link)
+  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sacrifice (Ascendance, -Miya) \[Miyascendance's Penance\]](https://osu.ppy.sh/beatmapsets/2566432#fruits/5708882)
   2. [The Musical Ghost - Mahika (Yoshi\_green) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/2566317#fruits/5708548)
   3. [Sato Tenpei - Cluster Warning (-Luminate) \[Discordance\]](https://osu.ppy.sh/beatmapsets/2566309#fruits/5708530)
   4. [The Dismemberment Plan - The Dismemberment Plan Gets Rich (Oolt cloud) \[embezzling funds from ppy pty ltd for the cwc prizepool\]](https://osu.ppy.sh/beatmapsets/2566305#fruits/5708526)
 - Hidden
-  1. scop - Yubikiri (JierYagtama) \[Promise\] (penking link)
+  1. [scop - Yubikiri (JierYagtama) \[Promise\]](https://osu.ppy.sh/beatmapsets/2566464#fruits/5708964)
   2. [EmoCosine - MAGENTA POTION (Short Ver.) (Des9) \[HD II\]](https://osu.ppy.sh/beatmapsets/2566311#fruits/5708533)
   3. [WhiteSakata - R(eiterat)e (Malai, Cruwev) \[Malcrew's R(epris)e\]](https://osu.ppy.sh/beatmapsets/2566313#fruits/5708543)
 - Hard Rock
@@ -261,7 +262,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
   1. [KASAI HARCORES - TRIPLE PLAY (Ascendance, CLSW, Spectator) \[WORLD BASEBALL CLASSIC\]](https://osu.ppy.sh/beatmapsets/2566333#fruits/5708586)
   2. [0 K - Downtown Swoop (ZiRoX) \[Jazz Invasion\]](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574)
 - Tiebreaker
-  1. **Kagetora. - Resplendence (BlackBN, Yoshi\_green) \[BlackYoshi's Transcendental Blissfulness\] (pending link)**
+  1. **[Kagetora. - Resplendence (BlackBN, Yoshi\_green) \[BlackYoshi's Transcendental Blissfulness\]](https://osu.ppy.sh/beatmapsets/2566443#fruits/5708900)**
 
 ### Round of 32
 
