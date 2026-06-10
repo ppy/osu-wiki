@@ -2,7 +2,7 @@
 
 *Trang chính: [trung tâm trợ giúp](/wiki/Help_centre)* 
 
-## Cấm thi đấu
+## Lệnh cấm thi đấu
 
 Lệnh cấm thi đấu ngăn một người chơi từ việc tham gia các giải đấu hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
 
