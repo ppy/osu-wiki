@@ -75,7 +75,7 @@ Các beatmap được xếp hạng trong cùng tháng, hoặc có cùng chủ đ
 
 ### Nguồn không chính thống
 
-Ngoài ra còn có một số nguồn khác không được kiểm chứng hoặc vận hành bởi đội ngũ osu!. Tuy nhiên, chúng được chia sẻ trên diễn đàn và được cộng đồng ủng hộ. Các nguồn này bao gồm:
+Ngoài ra còn có một số nguồn khác không được kiểm chứng hoặc vận hành bởi đội ngũ osu!. Tuy nhiên, chúng vẫn được chia sẻ trên diễn đàn và được cộng đồng ủng hộ, các nguồn này bao gồm:
 
 - Các kho sao lưu beatmap của bên thứ ba được lưu trữ bên ngoài nền tảng;
 - Các gói beatmap do người dùng tạo và các tuyển tập được chia sẻ thông qua [mạng p2p](https://en.wikipedia.org/wiki/Peer-to-peer), như BitTorrent.
