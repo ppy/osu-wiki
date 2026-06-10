@@ -116,36 +116,41 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 
-## Match schedule: Round of 16
+## Match Schedule: Round of 16
+
+### Thursday, 11 June 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| 23 | Lithuania ::{ flag=LT }:: | ::{ flag=MX }:: Mexico | [Jun 11 (Thu) 21:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260611T213000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
 
 ### Saturday, 13 June 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| 21 | Philippines ::{ flag=PH }:: | ::{ flag=US }:: United States | [Jun 13 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T030000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) |
-| 19 | Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Jun 13 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T080000&p1=1440&p2=57&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 22 | Türkiye ::{ flag=TR }:: | ::{ flag=MY }:: Malaysia | [Jun 13 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T090000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
-| 20 | Norway ::{ flag=NO }:: | ::{ flag=HK }:: Hong Kong | [Jun 13 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T110000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 24 | Greece ::{ flag=GR }:: | ::{ flag=RU }:: Russian Federation | [Jun 13 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T120000&p1=1440&p3=166) | [osulive](https://twitch.tv/osulive) |
-| 23 | Lithuania ::{ flag=LT }:: | ::{ flag=MX }:: Mexico | [Jun 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
+| 20 | Norway ::{ flag=NO }:: | ::{ flag=HK }:: Hong Kong | [Jun 13 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T140000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
+| 21 | Philippines ::{ flag=PH }:: | ::{ flag=US }:: United States | [Jun 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p2=145&p3=263) | [osulive_2](https://twitch.tv/osulive_2) |
+| 22 | Türkiye ::{ flag=TR }:: | ::{ flag=MY }:: Malaysia | [Jun 13 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
 
 ### Sunday, 14 June 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | 26 | Belgium ::{ flag=BE }:: | ::{ flag=CN }:: China | [Jun 14 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T080000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
-| 18 | Portugal ::{ flag=PT }:: | ::{ flag=NZ }:: New Zealand | [Jun 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive_2](https://twitch.tv/osulive_2) |
-| 31 | France ::{ flag=FR }:: | ::{ flag=KR }:: South Korea | [Jun 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=195&p3=235) | [osulive](https://twitch.tv/osulive) |
+| 18 | Portugal ::{ flag=PT }:: | ::{ flag=NZ }:: New Zealand | [Jun 14 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive](https://twitch.tv/osulive) |
 | 32 | Japan ::{ flag=JP }:: | ::{ flag=GB }:: United Kingdom | [Jun 14 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T110000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) |
+| 19 | Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Jun 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=57&p3=28) | [osulive_2](https://twitch.tv/osulive_2) |
 | 25 | Poland ::{ flag=PL }:: | ::{ flag=TW }:: Taiwan | [Jun 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=262&p3=241) | [osulive](https://twitch.tv/osulive) |
+| 31 | France ::{ flag=FR }:: | ::{ flag=KR }:: South Korea | [Jun 14 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=195&p3=235) | [osufrlive](https://twitch.tv/osufrlive) |
 | 30 | Germany ::{ flag=DE }:: | ::{ flag=ID }:: Indonesia | [Jun 14 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) |
 | 29 | Argentina ::{ flag=AR }:: | ::{ flag=SE }:: Sweden | [Jun 14 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T150000&p1=1440&p2=51&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 27 | Finland ::{ flag=FI }:: | ::{ flag=CO }:: Colombia | [Jun 14 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T160000&p1=1440&p2=101&p3=41) | [osulive](https://twitch.tv/osulive) |
-| 17 | Brazil ::{ flag=BR }:: | ::{ flag=ES }:: Spain | [Jun 14 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive_2](https://twitch.tv/osulive_2) |
+| 17 | Brazil ::{ flag=BR }:: | ::{ flag=ES }:: Spain | [Jun 14 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive](https://twitch.tv/osulive) |
 | 28 | Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Jun 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
-| SC | Quarterfinals | mappool showcase | [Jun 14 (Sun) 20:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| SC | Quarterfinals | mappool showcase | [Jun 14 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
-## Match results
+## Match Results
 
 ### Round of 32
 
@@ -180,7 +185,7 @@ Sunday, 7 June 2026:
 | 9 | **Argentina** ::{ flag=AR }:: | **5** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/121285816) | [#1](https://www.twitch.tv/videos/2790983125) |
 | 11 | **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/121285822) | [#1](https://www.twitch.tv/videos/2790987673) |
 | 14 | **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/121286583) | [#1](https://www.twitch.tv/videos/2791080768) |
-| 1 | **Poland** ::{ flag=PL }:: | **4** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/121286996) | [#1](https://www.twitch.tv/videos/2791126418) |
+| 1 | **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/121286996) | [#1](https://www.twitch.tv/videos/2791126418) |
 
 ### Qualifiers
 
