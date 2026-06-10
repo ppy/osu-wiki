@@ -116,7 +116,7 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 
-## Match Schedule: Round of 16
+## Match schedule: Round of 16
 
 ### Thursday, 11 June 2026
 
@@ -150,7 +150,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 28 | Chile ::{ flag=CL }:: | ::{ flag=CA }:: Canada | [Jun 14 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
 | SC | Quarterfinals | mappool showcase | [Jun 14 (Sun) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
-## Match Results
+## Match results
 
 ### Round of 32
 
