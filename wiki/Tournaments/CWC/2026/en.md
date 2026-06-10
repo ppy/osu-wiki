@@ -423,7 +423,7 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to prepare/pick.
-   - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below:
+   - If the team does not pick/ready within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below:
      - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team (if applicable), starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is (e.g. 2 *versus* 2 players or similar combinations).
    - Repeat offenders may receive further sanctions from the tournament managers.
