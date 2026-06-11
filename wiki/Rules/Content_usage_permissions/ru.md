@@ -562,7 +562,7 @@ osu! строится вокруг свободы творчества и воз
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/68) | [Frums](https://osu.ppy.sh/beatmaps/artists/68) | ![][partial] | Для треков, которых нет на странице автора в каталоге Featured Artist, см. [Требования к некоммерческому использованию песен Frums](https://docs.google.com/spreadsheets/d/1_M0BqHSrbE1HOF0uhKX5ebVCvWnqlx0qz_wIEZzSFG0/edit?gid=0#gid=0). |
 |  | gxxberlol | ![][partial] | Не используйте треки "KICKICKICKICKICKICKIKI" и "newb artist rave". Всё остальное разрешено. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/319) | [HoneyComeBear](https://osu.ppy.sh/beatmaps/artists/319) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
-|  | Igorrr | ![][partial] | Используйте только треки, записанные совместно с Ruby My Dear и выложенные [в его каталоге Featured Artist](https://osu.ppy.sh/beatmaps/artists/370). Всё остальное запрещено загружать или иначе использовать. |
+|  | Igorrr | ![][partial] | Используйте только треки, записанные совместно с Ruby My Dear и выложенные [в его каталоге Featured Artist](https://osu.ppy.sh/beatmaps/artists/370). Всё остальное запрещено публиковать или использовать иначе. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/124) | [Jun Kuroda](https://osu.ppy.sh/beatmaps/artists/124) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/449) | [Lusumi](https://osu.ppy.sh/beatmaps/artists/449) | ![][partial] | Не используйте трек "execution_program". |
 |  | MEGAREX (music label) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
