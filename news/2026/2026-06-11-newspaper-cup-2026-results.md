@@ -15,7 +15,7 @@ This year, participants were able to choose from any track they liked from the [
 
 ## Feature Artist
 
-### 1st Place: [Aoi - soar to ∅](https://osu.ppy.sh/beatmapsets/2537296#osu/5614649) by [Jurumas](https://osu.ppy.sh/users/14915346)
+### 1st place: [Aoi - soar to ∅](https://osu.ppy.sh/beatmapsets/2537296#osu/5614649) by [Jurumas](https://osu.ppy.sh/users/14915346)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -23,7 +23,7 @@ This year, participants were able to choose from any track they liked from the [
     </video>
 </div>
 
-> I think you handle the repeated patterns well by adding small variations to them. I think you’ve done a good job studying the strengths of various maps, including slider usage and pattern design.
+> I think you handle the repeated patterns well by adding small variations to them. I think you've done a good job studying the strengths of various maps, including slider usage and pattern design.
 
 —[Laurier](https://osu.ppy.sh/users/700010)
 
@@ -31,7 +31,7 @@ This year, participants were able to choose from any track they liked from the [
 
 —[9ami](https://osu.ppy.sh/users/1499997)
 
-### 2nd Place: [EmoCosine - Black sour Ruby](https://osu.ppy.sh/beatmapsets/2537309#osu/5614687) by [Azrulk](https://osu.ppy.sh/users/12046612)
+### 2nd place: [EmoCosine - Black sour Ruby](https://osu.ppy.sh/beatmapsets/2537309#osu/5614687) by [Azrulk](https://osu.ppy.sh/users/12046612)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -47,7 +47,7 @@ This year, participants were able to choose from any track they liked from the [
 
 —[9ami](https://osu.ppy.sh/users/1499997)
 
-### 3rd Place: [t+pazolite - Buzy Lake (An Remix)](https://osu.ppy.sh/beatmapsets/2537385#osu/5614851) by [KChronoZ](https://osu.ppy.sh/users/7918770)
+### 3rd place: [t+pazolite - Buzy Lake (An Remix)](https://osu.ppy.sh/beatmapsets/2537385#osu/5614851) by [KChronoZ](https://osu.ppy.sh/users/7918770)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -65,7 +65,7 @@ This year, participants were able to choose from any track they liked from the [
 
 ## osu! original
 
-### 1st Place: [MYUKKE. - Anti Safety Zone](https://osu.ppy.sh/beatmapsets/2537308#osu/5614685) by [LycaonMyHusband](https://osu.ppy.sh/users/14436770)
+### 1st place: [MYUKKE. - Anti Safety Zone](https://osu.ppy.sh/beatmapsets/2537308#osu/5614685) by [LycaonMyHusband](https://osu.ppy.sh/users/14436770)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -73,11 +73,11 @@ This year, participants were able to choose from any track they liked from the [
     </video>
 </div>
 
-> I can tell that you stayed focused all the way through. the map reflects the song’s image very well.
+> I can tell that you stayed focused all the way through. the map reflects the song's image very well.
 
 —[Laurier](https://osu.ppy.sh/users/700010)
 
-> This is surprising to see how you can arrange your patterns so well by these simple patterns/slider shapes
+> This is surprising to see how you can arrange your patterns so well by these simple patterns/slider shapes.
 
 —[Muchin](https://osu.ppy.sh/users/9834516)
 
@@ -85,7 +85,7 @@ This year, participants were able to choose from any track they liked from the [
 
 —[9ami](https://osu.ppy.sh/users/1499997)
 
-### 2nd Place: [XenjeS - Planetary Exclusion Zone](https://osu.ppy.sh/beatmapsets/2537446#osu/5614998) by [spudow1](https://osu.ppy.sh/users/19767758)
+### 2nd place: [XenjeS - Planetary Exclusion Zone](https://osu.ppy.sh/beatmapsets/2537446#osu/5614998) by [spudow1](https://osu.ppy.sh/users/19767758)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -101,7 +101,7 @@ This year, participants were able to choose from any track they liked from the [
 
 —[Pata-Mon](https://osu.ppy.sh/users/6149313)
 
-### 3rd Place: [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://osu.ppy.sh/beatmapsets/2537279#osu/5614620) by [Poruby](https://osu.ppy.sh/users/10890088)
+### 3rd place: [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://osu.ppy.sh/beatmapsets/2537279#osu/5614620) by [Poruby](https://osu.ppy.sh/users/10890088)
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
