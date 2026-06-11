@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
----
-
 # Cómo cambiar el artista o el título de un mapa
 
 *[Full Submission with Title/Artist Change -- Mistakes por NoHitter (apropiado por peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
@@ -22,7 +17,7 @@ Para arreglar un mapa duplicado, haz lo siguiente:
   6. Usa `Archivo` > `Abrir dificultad...` para cambiar el artista/título en otras dificultades.
   7. Envíalo completo.
 - Método difícil (conservar los cambios locales):
-  1. Ve a la página de información de tu beatmap en el sitio web de osu!.
+  1. Ve a la página de [información de tu beatmap](/wiki/Beatmap_information) en el sitio web de osu!.
   2. Abre la ventana de configuración de las canciones para cada dificultad y establece el artista/título de nuevo a lo que está en el sitio web.
   3. Ve al selector de canciones y presiona `F5`. Espera unos segundos.
   4. Ve al editor. Asegúrate de que el menú «Web» esté activado (no en gris).

@@ -10,7 +10,7 @@ outdated_since: 220f8e2cb5c0a920fc17f24436144b38510e05d9
 ## 제한사항
 
 ::: Infobox
-![](img/silence-profile.png "프로필 페이지의 사일런스 기록")
+![](img/silence-profile.png?1 "프로필 페이지의 사일런스 기록")
 :::
 
 모더레이터에 의해 사일런스를 받은 유저는 다음과 같은 행동이 불가능합니다:

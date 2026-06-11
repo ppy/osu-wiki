@@ -1,11 +1,6 @@
----
-outdated_since: 3beefe4f5a50484b1a97ebdf019fd3581d4ca0c4
-outdated_translation: true
----
-
 # .osr (Dateiformat)
 
-**.osr** ist ein Dateiformat mit Informationen über ein osu!-Replay. Für die Verwendung muss sich die zum Replay gehörende Beatmap im Ordner "Songs" befinden.
+**.osr** ist ein Dateiformat für [osu!-Replays](/wiki/Gameplay/Replay). Eine `.osr`-Datei kann nur angeschaut werden, wenn im Spiel genau die [Beatmap](/wiki/Beatmap), auf der das Replay aufgenommen wurde, vorhanden ist.
 
 ## Datentypen
 
@@ -26,9 +21,9 @@ Byte-Offsets sind in dieser Tabelle nicht enthalten, da die Werte unterschiedlic
 | :-- | :-- |
 | Byte | Spielmodus des Replays (0 = osu!, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | Integer | Version des Spiels, in der das Replay erstellt wurde (z. B. 20131216) |
-| String | MD5-Hash der osu!-Beatmap |
+| String | MD5-Hash der Beatmap |
 | String | Spielername |
-| String | MD5-Hash des osu!-Replays (umfasst bestimmte Angaben des Replays) |
+| String | MD5-Hash des Replays (umfasst bestimmte Angaben des Replays) |
 | Short | Anzahl der 300er |
 | Short | Anzahl der 100er in osu!, 150er in osu!taiko, 100er in osu!catch, 100er in osu!mania |
 | Short | Anzahl der 50er in osu!, kleine Fruits in osu!catch, 50er in osu!mania |

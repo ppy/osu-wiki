@@ -1,8 +1,6 @@
 ---
 no_native_review: true
 stub: true
-outdated_translation: true
-outdated_since: 72c456d7c6d274acf8c573b9bf0cbb2ec9bd94f1
 ---
 
 # Juice Stream
@@ -19,6 +17,10 @@ Das erfolgreiche Fangen eines Drops bringt dem Spieler 100 [Punkte](/wiki/Gamepl
 
 ## Droplet
 
-*Droplets* sind kleine farbige [Hit-Objekte](/wiki/Gameplay/Hit_object), die in [osu!catch](/wiki/Game_mode/osu!catch)-[Beatmaps](/wiki/Beatmap) zu finden sind.
+*Droplets* sind kleine farbige Objekte, die in [osu!catch](/wiki/Game_mode/osu!catch)-[Beatmaps](/wiki/Beatmap) zu finden sind. Sie werden automatisch als Teil von Juice Streams generiert und werden nicht als [Hit-Objekte](/wiki/Gameplay/Hit_object) klassifiziert.
 
 Das erfolgreiche Fangen eines Droplets bringt dem Spieler 10 [Punkte](/wiki/Gameplay/Score), die [Lebensleiste](/wiki/Client/Interface/Health_bar) wird ein wenig gefüllt und eine 50 ist in der Ergebnisanzeige zu sehen. Wenn der Spieler den Droplet nicht fängt, geht die [Gesundheit](/wiki/Gameplay/Health) zurück und der Spieler behält seine [Combo](/wiki/Gameplay/Combo_(score_multiplier)).
+
+Droplets werden generiert, um große Lücken zwischen aufeinanderfolgenden [Fruits](/wiki/Gameplay/Hit_object/Fruit) oder Drops zu schließen. Sie werden nur kreiert, wenn die Zeitdifferenz zwischen zwei Fruits oder Drops mehr als 80 Millisekunden beträgt. Dabei wird die Lücke in mehrere gleich große Abschnitte unterteilt, die nicht länger als 100 Millisekunden dauern, und Droplets werden in jedem Abschnitt zwischen den beiden Objekten platziert.
+
+Jedes Droplet wird entlang des Sliderpfads innerhalb des Sliderkörpers zwischen den umliegenden Fruits oder Drops platziert. Ihre Position wird jedoch in einem gewissen Bereich zufällig gewählt, um Abwechslung in ihre Platzierung bringen.
