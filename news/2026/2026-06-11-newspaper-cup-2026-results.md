@@ -25,7 +25,11 @@ This year, participants were able to choose from any track they liked from the [
 
 > I think you handle the repeated patterns well by adding small variations to them. I think you’ve done a good job studying the strengths of various maps, including slider usage and pattern design.
 
+—[Laurier](https://osu.ppy.sh/users/700010)
+
 > The patterning is creative and expressive, with a sense of controlled chaos to it, and the playability is great too!
+
+—[9ami](https://osu.ppy.sh/users/1499997)
 
 ### 2nd Place: [EmoCosine - Black sour Ruby](https://osu.ppy.sh/beatmapsets/2537309#osu/5614687) by [Azrulk](https://osu.ppy.sh/users/12046612)
 
@@ -37,7 +41,11 @@ This year, participants were able to choose from any track they liked from the [
 
 > Overall, the map is neatly put together. The SV changes that follow the music also contribute positively to the evaluation.
 
+—[Laurier](https://osu.ppy.sh/users/700010)
+
 > The fundamentals of the overall visual design are really solid, and the hitsound usage, color transitions during style changes, and pattern design are all very well done across the board. An excellent map!
+
+—[9ami](https://osu.ppy.sh/users/1499997)
 
 ### 3rd Place: [t+pazolite - Buzy Lake (An Remix)](https://osu.ppy.sh/beatmapsets/2537385#osu/5614851) by [KChronoZ](https://osu.ppy.sh/users/7918770)
 
@@ -49,7 +57,11 @@ This year, participants were able to choose from any track they liked from the [
 
 > Great song choice! The rhythm selection is practically perfect, and the visuals are outstanding too. This is easily one of my favorite maps this time around, absolutely love it!
 
+—[9ami](https://osu.ppy.sh/users/1499997)
+
 > Clean overall, not much to say!
+
+—[Electoz](https://osu.ppy.sh/users/6485263)
 
 ## osu! original
 
@@ -63,9 +75,15 @@ This year, participants were able to choose from any track they liked from the [
 
 > I can tell that you stayed focused all the way through. the map reflects the song’s image very well.
 
+—[Laurier](https://osu.ppy.sh/users/700010)
+
 > This is surprising to see how you can arrange your patterns so well by these simple patterns/slider shapes
 
+—[Muchin](https://osu.ppy.sh/users/9834516)
+
 > The 1/3 beat sections are really fun to play, and the short slider combinations are not only visually impressive but also feel incredibly satisfying to hit!
+
+—[9ami](https://osu.ppy.sh/users/1499997)
 
 ### 2nd Place: [XenjeS - Planetary Exclusion Zone](https://osu.ppy.sh/beatmapsets/2537446#osu/5614998) by [spudow1](https://osu.ppy.sh/users/19767758)
 
@@ -77,7 +95,11 @@ This year, participants were able to choose from any track they liked from the [
 
 > Really satisfying to play, and the use of overlaps is handled with a lot of skill. The visual design is well balanced, and the rhythm selection is great too!
 
-> 很不错，基本功扎实，有表现力，flow也经过设计。（Very cool. Solid mapping expertise. Music is represented pretty well with established flow designs.）
+—[9ami](https://osu.ppy.sh/users/1499997)
+
+> 很不错，基本功扎实，有表现力，flow也经过设计。 (Very cool. Solid mapping expertise. Music is represented pretty well with established flow designs.)
+
+—[Pata-Mon](https://osu.ppy.sh/users/6149313)
 
 ### 3rd Place: [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://osu.ppy.sh/beatmapsets/2537279#osu/5614620) by [Poruby](https://osu.ppy.sh/users/10890088)
 
@@ -89,7 +111,11 @@ This year, participants were able to choose from any track they liked from the [
 
 > A really high difficulty song choice, which shows a lot of confidence in your own abilities. The use of overlaps and the overall thematic planning are absolutely on point. This is easily one of my favorite maps this time around!
 
+—[9ami](https://osu.ppy.sh/users/1499997)
+
 > Super super cool map!
+
+—[phyr](https://osu.ppy.sh/users/13181574)
 
 ---
 
