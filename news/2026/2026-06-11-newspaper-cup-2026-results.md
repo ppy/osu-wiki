@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newspaper Cup 2026: Results"
-date: 2026-06-05 17:00:00 +0000
+date: 2026-06-11 20:00:00 +0000
 series: community_contests
 ---
 
