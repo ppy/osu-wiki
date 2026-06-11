@@ -569,7 +569,7 @@ osu! строится вокруг свободы творчества и воз
 |  | Mlumìn // SoundWarper | ![][partial] | Можно использовать только трек "Spinner (DnB Remix)". По вопросам остальных треков связывайтесь с исполнителем напрямую. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/108) | [Morimori Atsushi](https://osu.ppy.sh/beatmaps/artists/108) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/163) | [Reku Mochizuki](https://osu.ppy.sh/beatmaps/artists/163) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
- | [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
+| [![][FA]](https://osu.ppy.sh/beatmaps/artists/92) | [Silentroom](https://osu.ppy.sh/beatmaps/artists/92) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/357) | [Synthion](https://osu.ppy.sh/beatmaps/artists/357) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/132) | [Yuyoyuppe / DJ'TEKINA//SOMETHING](https://osu.ppy.sh/beatmaps/artists/132) | ![][partial] | Не используйте и не публикуйте треки, относящиеся к *Touhou*. |
 | [![][FA]](https://osu.ppy.sh/beatmaps/artists/76) | [Zekk](https://osu.ppy.sh/beatmaps/artists/76) | ![][partial] | Не используйте и не публикуйте треки, которых нет на странице автора в каталоге Featured Artist. |
