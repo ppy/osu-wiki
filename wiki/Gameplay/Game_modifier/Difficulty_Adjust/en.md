@@ -21,7 +21,7 @@ tags:
 | Acronym | DA |
 | Type | Conversion |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 0.50x |
+| Score multiplier | 1.00x* |
 | Status | Unranked |
 | Incompatible mods | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
 
@@ -30,6 +30,10 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 <!-- TODO description and settings -->
+
+*Score multiplier depends on other factors such as mod combinations or mod settings.
+
+- Reduced by 0.05x per 0.1 step change made to any original map parameter (CS, HP, OD and AR) down to a strict minimum of 0.1x.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
