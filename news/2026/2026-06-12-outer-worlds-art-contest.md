@@ -25,7 +25,7 @@ If you suspect your imagination does not yet reach the stars, then no worries. R
 - Alisa and Tama encountering a fleet of colossal space whales orbiting a world clouded in... clouds. Both agree it's probably a giant treasure trove worth conquering, or at least a mystery worth diving into.
 - pippi and Aiko enjoying questionably delicious gourmets and irresistibly cute desserts in a ternary star restaurant. Some joys in the cosmos are universal, unneeding of explanations nor complications.
 
-If you're a time traveller, you're probably already well prepared with the perfect idea and artwork the moment this contest was announced. The Temporal Anomalies Department asks you to wait at least a week before submitting to reduce the risk of wiping out time (both forwards and backwards). Otherwise, have fun brainstorming otherwordly ideas!
+If you're a time traveller, you're probably already well prepared with the perfect idea and artwork the moment this contest was announced. The Temporal Anomalies Department asks you to wait at least a week before submitting to reduce the risk of wiping out time (both forwards and backwards). Otherwise, have fun brainstorming otherworldly ideas!
 
 ## Rewards
 
@@ -57,7 +57,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 *Header and promotional artwork by [Hollow Wings](https://osu.ppy.sh/users/416662) from the [Aerial Antics Art Contest](https://osu.ppy.sh/community/contests/215)!*
 
-If you've made it this far, you're ready start cooking up your masterpiece! When you're done, head over to the [Outer Worlds Art Contest listing](https://osu.ppy.sh/community/contests/285) and drag-and-drop your entry (max 8 MiB) into the box with the plus sign in it.
+If you've made it this far, it's time to start cooking up your masterpiece! When you're done, head over to the [Outer Worlds Art Contest listing](https://osu.ppy.sh/community/contests/285) and drag-and-drop your entry (max 8 MiB) into the box with the plus sign in it.
 
 You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **21 days** to do so before the doors close off forever (3 July 2026, 18:00 UTC), so don't linger too long pondering how many stars to dot across the background.
 
