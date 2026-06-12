@@ -34,7 +34,7 @@ tags:
 
 The **Autopilot** mod automatically moves the cursor through the [beatmap](/wiki/Beatmap) perfectly, allowing the user to play by only clicking on the [hit objects](/wiki/Gameplay/Hit_object) on time. The mods also moves the cursor in a spinning motion whenever a [spinner](/wiki/Gameplay/Hit_object/Spinner) appears, but the player still has to press a key or mouse button for the spinner to be completed. Like [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)) and unlike [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), Autopilot spins counterclockwise at a speed of 477 spins per minute (SPM).
 
-When using [Autopilot](/wiki/Gameplay/Game_modifier/Autopilot) in osu!stable, the player cannot fail during a beatmap. This is not the case in osu!(lazer). Another difference to osu!stable is that scores achieved with this mod will be submitted to the global leaderboard (without awarding [performance points](/wiki/Performance_points)), show up under *Recent Plays (24h)* and count towards play count.
+When using [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot) in osu!stable, the player cannot fail during a beatmap. This is not the case in osu!(lazer). Another difference to osu!stable is that scores achieved with this mod will be submitted to the global leaderboard (without awarding [performance points](/wiki/Performance_points)), show up under *Recent Plays (24h)* and count towards play count.
 
 **This mod cannot be customised.**
 
