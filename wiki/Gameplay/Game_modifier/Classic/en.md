@@ -40,7 +40,7 @@ When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!s
 
 *Score multiplier depends on other factors such as mod combinations or mod settings:
 
-- The multiplier is reduced to 0.96x if the `Apply classic notelock` setting is disabled.
+- Decreases from 0.985x to 0.96x if the `Apply classic notelock` setting is disabled.
 
 <!-- TODO settings -->
 
