@@ -57,7 +57,7 @@ Got any questions, or any urgent matters that need to be looked at? Don't hesita
 
 *Header and promotional artwork by [Hollow Wings](https://osu.ppy.sh/users/416662) from the [Aerial Antics Art Contest](https://osu.ppy.sh/community/contests/215)!*
 
-If you've made it this far, you're ready start cooking up your masterpiece! When you're done, head over to the [Outer Worlds Art Contest listing](https://osu.ppy.sh/community/contests/284) and drag-and-drop your entry (max 8 MiB) into the box with the plus sign in it.
+If you've made it this far, you're ready start cooking up your masterpiece! When you're done, head over to the [Outer Worlds Art Contest listing](https://osu.ppy.sh/community/contests/285) and drag-and-drop your entry (max 8 MiB) into the box with the plus sign in it.
 
 You may reupload your entry to your heart's content if you want to make any adjustments, but you only have **21 days** to do so before the doors close off forever (3 July 2026, 18:00 UTC), so don't linger too long pondering how many stars to dot across the background.
 
