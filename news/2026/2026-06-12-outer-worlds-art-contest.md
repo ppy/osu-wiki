@@ -25,7 +25,7 @@ If you suspect your imagination does not yet reach the stars, then no worries. R
 - Alisa and Tama encountering a fleet of colossal space whales orbiting a world clouded in... clouds. Both agree it's probably a giant treasure trove worth conquering, or at least a mystery worth diving into.
 - pippi and Aiko enjoying questionably delicious gourmets and irresistibly cute desserts in a ternary star restaurant. Some joys in the cosmos are universal, unneeding of explanations nor complications.
 
-If you're a time traveller, you're probably already well prepared with the perfect idea and artwork the moment this contest was announced. The Temporal Anomalies Department asks you to wait at least a week before submitting to reduce the risk of wiping out time (both forwards and backwards). Otherwise, have fun brainstorming otherwordly ideas!
+If you're a time traveller, you're probably already well prepared with the perfect idea and artwork the moment this contest was announced. The Temporal Anomalies Department asks you to wait at least a week before submitting to reduce the risk of wiping out time (both forwards and backwards). Otherwise, have fun brainstorming otherworldly ideas!
 
 ## Rewards
 
