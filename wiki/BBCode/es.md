@@ -395,7 +395,7 @@ Estos proyectos simplifican el proceso de formatear texto con BBCode:
 | [osu! BBCode Editor](https://github.com/NoelleTGS/osu-bbcode-editor) | ::{ flag=CA }:: [HonokaKousakaTV](https://osu.ppy.sh/users/18595366) | Editor de BBCode con vista previa en tiempo real para el perfil de osu! (Archivado) |
 | [osu-gradient](https://osu-gradient.jgroup.top/) | ::{ flag=RU }:: [[____________]](https://osu.ppy.sh/users/12036908) | Crea degradados de color para el perfil de osu! |
 | [osu-web enhanced](https://osu.ppy.sh/community/forums/topics/1361818) | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Extensión del navegador que añade más botones de BBCode y otras funciones al sitio web de osu! |
-| [textcolorizer](https://www.stuffbydavid.com/textcolorizer/) | david | Coloración de texto para BBCode y HTML |
+| [textcolorizer](https://www.stuffbydavid.com/textcolorizer) | david | Coloración de texto para BBCode y HTML |
 
 ## Curiosidades
 
