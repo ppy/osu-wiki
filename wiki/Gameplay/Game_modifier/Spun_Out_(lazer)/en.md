@@ -34,4 +34,6 @@ tags:
 
 <!-- TODO description and settings -->
 
+**This mod can't be customised through Customisation.**
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
