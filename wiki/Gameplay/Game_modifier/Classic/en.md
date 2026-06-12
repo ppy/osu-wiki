@@ -38,7 +38,7 @@ The **Classic** mod emulates gameplay mechanics from osu!stable that have since 
 
 When viewed from osu!(lazer) or "Lazer mode" on the website, scores set on osu!stable have this mod enabled with default settings. The mod's unranked status does not affect the scores in this case.
 
-*Score multiplier goes from 0.985x to 0.96x if "Apply classic notelock" is disabled
+*Score multiplier goes from 0.985x to 0.96x if "Apply classic notelock" is disabled.
 
 <!-- TODO settings -->
 
