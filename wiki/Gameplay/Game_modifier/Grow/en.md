@@ -33,6 +33,8 @@ tags:
 
 ## Score multiplier
 
-Score multiplier depends on other factors such as mod combinations or mod settings.
+Score multiplier depends on other factors such as mod combinations or mod settings:
+
+- Decreases the [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) score multiplier by 0.02x if enabled.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
