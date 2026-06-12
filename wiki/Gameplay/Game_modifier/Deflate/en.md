@@ -21,7 +21,7 @@ tags:
 | Acronym | DF |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | 1.00x* |
 | Status | Unranked |
 | Incompatible mods | [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
@@ -30,5 +30,9 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 <!-- TODO description and settings -->
+
+*Score multiplier depends on other factors such as mod combinations or mod settings.
+
+- Reduced by 0.02x per step in the "Starting size" setting.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
