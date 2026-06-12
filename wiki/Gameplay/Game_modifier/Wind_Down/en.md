@@ -21,7 +21,7 @@ tags:
 | Acronym | WD |
 | Type | Fun |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 0.50x |
+| Score multiplier | Variable* |
 | Status | Unranked |
 | Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
 
@@ -30,6 +30,18 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 <!-- TODO description and settings -->
+
+*Score multiplier depends on other factors such as mod combinations or mod settings:
+
+- Both Wind Down and [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up) use the same weighted calculation based on the minimum and maximum selected speed rates:
+
+`0.8 * mod_multiplier(minimum) + 0.2 * mod_multiplier(maximum)`.
+####
+| Minimum Rate | Maximum Rate | Multiplier |
+| :---: | :---: | :---: |
+| 1.2x (1.082x) | 1.7x (1.312x) | 1.128x |
+| 0.7x (0.480x) | 0.9x (0.760x) | 0.536x |
+| 0.5x (0.200x) | 0.51x (0.200x) | 0.200x |
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
