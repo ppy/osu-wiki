@@ -29,7 +29,7 @@ If you're a time traveller, you're probably already well prepared with the perfe
 
 ## Rewards
 
-Of course it ain't a fanart contest without some sweet rewards up for grabs.
+Of course, it ain't a fanart contest without some sweet rewards up for grabs.
 
 - A selection of the top-voted finalists will be **featured on the main menu** and receive **3 months of osu!supporter**.
 - The top 3 will receive fancy bespoke **profile badges** made from their own creations.
