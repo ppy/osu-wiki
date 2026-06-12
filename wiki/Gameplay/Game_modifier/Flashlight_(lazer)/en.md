@@ -37,11 +37,11 @@ tags:
 
 The **Flashlight** mod restricts visibility of the playfield to a small illuminated area, as if viewed through a flashlight. As the player's combo increases, this visible area progressively shrinks until it reaches a minimum size, which varies depending on the [game mode](/wiki/Game_mode).
 
-*Score multiplier depends on other factors such as mod combinations or mod settings.
+*Score multiplier depends on other factors such as mod combinations or mod settings:
 
-- Reduced by 0.02x per 0.1 increase to the "Flashlight size" setting.
-- Reduced to 1.04x if the "Change size based on combo" setting is disabled.
-- Reduced to 1.1x if [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled.
+- Decreases by 0.02x for every 0.1 increase applied to the `Flashlight size` setting.
+- It is reduced to 1.04x if the `Change size based on combo` setting is disabled.
+- Additionally, the multiplier is reduced to 1.10x if [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) is enabled.
 
 ## Customisation
 
