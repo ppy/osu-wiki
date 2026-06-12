@@ -35,7 +35,9 @@ tags:
 
 The **Double Time** mod increases the BPM of any beatmap by 150% as well as decreasing the length of the song by 33%. It also increases the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once according to the [game mode](/wiki/Game_mode).
 
-*Score multiplier depends on other factors such as mod combinations or mod settings:
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings:
 
 - Calculated in steps of 0.1 rate, the final value scales linearly using the formula `(rate - 1) * 0.46 + 1`.
 ### 
