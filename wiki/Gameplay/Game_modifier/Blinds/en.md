@@ -24,7 +24,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | 1.24x* |
 | Status | Ranked |
-| Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
+| Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) |
 
 :::
 
