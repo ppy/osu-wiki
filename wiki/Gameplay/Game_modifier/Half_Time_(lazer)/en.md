@@ -34,7 +34,9 @@ tags:
 
 The **Half Time** mod decreases the BPM of any beatmap to 75%, increasing the length of the song by 33%. It also can reduce the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both at once depending on the [game mode](/wiki/Game_mode).
 
-*Score multiplier depends on other factors such as mod combinations or mod settings:
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings:
 
 - Calculated in steps of 0.05 rate, the final value scales linearly using the formula `rate * 1.4 - 0.5`.
 ### 
