@@ -10,17 +10,17 @@ This page covers some of the tasks that you may face while contributing. The app
 
 ## Syncing the fork
 
-In order to make changes to a repository located on GitHub, a potential contributor needs to obtain a controlled copy of it called a *fork*. When you create your fork of the `osu-wiki` repo, you take a snapshot of its contents at this very moment. To make a meaningful contribution, **always sync your fork** before making a set of changes — this can be done directly from GitHub:
+::: Infobox
+![](img/update-branch.png?1 "Updating the outdated branch")
+:::
+
+A *fork* is a snapshot of the original repository which doesn't update itself automatically. To always work with the latest version of the osu! wiki, you need to sync it before making changes. This can be done directly from GitHub:
 
 1. Go to your fork of the `osu-wiki` repo.
-
 2. Select the `master` branch from the dropdown.
-
-3. Click `Fetch upstream`, and select `Fetch and merge`.
-
-   ![](img/update-branch.png "Updating the outdated branch")
-
-Now your branch is up-to-date with the original repository.
+3. Click `Sync fork`.
+   - If you made any changes directly in the `master` branch that you would rather keep, press `Update branch` to preserve them.
+   - If you want the clean slate and don't need your changes anymore, press `Discard n commit(s)`.
 
 ## Making edits
 
