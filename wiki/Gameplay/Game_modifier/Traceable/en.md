@@ -31,8 +31,10 @@ tags:
 
 <!-- TODO description and settings -->
 
-*Score multiplier depends on other factors such as mod combinations or mod settings.
-
 **This mod can't be customised through Customisation.**
+
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
