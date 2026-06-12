@@ -21,7 +21,7 @@ tags:
 | Acronym | SY |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 0.80x |
+| Score multiplier | 0.99x |
 | Status | Unranked |
 | Incompatible mods | None |
 
