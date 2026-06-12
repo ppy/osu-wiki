@@ -104,7 +104,7 @@ Next to each of the mods listed below the icons of their compatible [game modes]
 
 #### Personal Presets
 
-The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets are unique to its game mode.
+The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
 
 #### Customise
 
