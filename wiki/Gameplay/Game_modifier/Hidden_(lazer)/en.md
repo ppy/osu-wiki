@@ -40,7 +40,7 @@ The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Appr
 
 *Score multiplier goes from 1.04x to 1.02x if "Only fade approach circles" is enabled. 
 
-It is also reduced to 0.02x if any of the mods are enabled, since they restore timing information that Hidden removes: 
+It is also reduced by 0.02x if any of the mods are enabled, since they restore timing information that Hidden removes: 
 - [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle)
 - [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow)
 - [Deflate (DP)](/wiki/Gameplay/Game_modifier/Deflate)
