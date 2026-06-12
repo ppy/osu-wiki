@@ -31,9 +31,9 @@ tags:
 
 <!-- TODO description and settings -->
 
-*Score multiplier depends on other factors such as mod combinations or mod settings:
+## Score multiplier
 
-- Both Wind Down and [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up) use the same weighted calculation based on the minimum and maximum selected speed rates:
+Both Wind Down and [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up) use the same weighted calculation based on the minimum and maximum selected speed rates:
 
 `0.8 * mod_multiplier(minimum) + 0.2 * mod_multiplier(maximum)`.
 ####
