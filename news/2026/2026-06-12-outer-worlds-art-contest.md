@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outer Worlds Art Contest
-date: 2026-06-12 19:00:00 +0000
+date: 2026-06-12 18:30:00 +0000
 series: fanart_contests
 ---
 
