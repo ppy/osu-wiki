@@ -81,7 +81,7 @@ For each parameter (CS, HP, AR, OD), an individual multiplier is calculated as f
 
 The final multiplier is then calculated as the product of the individual multipliers of all parameters, but cannot be lower than ``0.10x``.
 
-Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,B_2,B_3$ and $B_4$ denote the beatmaps' CS, HP, OD and AR, the score multiplier is given by
+Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,B_2,B_3$ and $B_4$ denote the beatmap's CS, HP, OD and AR, the score multiplier is given by
 
 $$\max\left(0.1,\prod_{i=1}^4\max\big(0.1,1-0.5\cdot|A_i-B_i|\big)\right).$$
 
