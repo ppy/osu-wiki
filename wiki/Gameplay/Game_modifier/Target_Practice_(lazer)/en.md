@@ -22,7 +22,7 @@ tags:
 | Acronym | TP |
 | Type | Conversion |
 | Game modes | ![][osu!] |
-| Score multiplier | 0.10x |
+| Score multiplier | 0.01x |
 | Status | Unranked |
 | Incompatible mods | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
