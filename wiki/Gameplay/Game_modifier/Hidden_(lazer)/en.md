@@ -38,7 +38,7 @@ tags:
 
 The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) and makes the [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) fade out after appearing on the screen.
 
-*Score multiplier depends on other factors such as mod combinations or mod settings.
+*Score multiplier depends on other factors such as mod combinations or mod settings:
 
 - The multiplier decreases from 1.04x to 1.02x if the `Only fade approach circles` setting is enabled.
 - It is further reduced by 0.02x if combined with any mods that restore object visibility or timing information, such as:
