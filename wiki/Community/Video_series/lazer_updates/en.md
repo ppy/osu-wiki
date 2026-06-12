@@ -8,7 +8,7 @@
 
 Documentation of osu!(lazer) updates started off in the early days as blog posts written in [peppy's personal blog](https://blog.ppy.sh/) and the [osu!next Tumblr page](https://www.tumblr.com/osunext). However, these posts were often overlooked by casual users, and in order to increase public awareness of the ongoing development, consequent updates were later announced in the [osu!(lazer)-specific changelog entries](https://osu.ppy.sh/home/changelog/lazer), [peppy's Twitter account](https://twitter.com/ppy/), and finally the "lazer updates" video series.
 
-Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, all "lazer updates" videos are released together along with their corresponding "osu!(lazer) updates" news post for further visibility.
+Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023) onwards, "lazer updates" videos are released along with their corresponding "osu!(lazer) updates" news post for increased visibility.
 
 ## List of episodes
 
@@ -63,7 +63,12 @@ Starting from [June 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updat
 | 47 | [lazer's inconsistent hit windows](https://www.youtube.com/watch?v=wkLweSoz9YQ) | Hit windows adjusted to match osu!(stable), further song select UI changes, skin files externally modifiable | [(↗)](https://osu.ppy.sh/home/news/2025-07-12-osulazer-updates-july-10-2025) |
 | 48 | [new feature priorities](https://www.youtube.com/watch?v=z2e8PM8Zh3o) | Teaser for the new matchmaking system, unstable rate skinnable element, "replay failed" popup, audio-related bug fixes, more detailed message notifications | *N/A* |
 | 49 | [just another lazer update](https://www.youtube.com/watch?v=Y4n-47cX3TI) | "retro" skin added, aim error metre implemented, new grouping modes, added and updated mod icons, pinned multiplayer playlists, beatmap listing shortcuts for quick access | *N/A* |
-| 50 | [quick play](https://www.youtube.com/watch?v=YKUQ0Y_pHaI) | new multiplayer mode "quick play", accuracy displayed in the pause menu, grouping by favourites | *N/A* |
+| 50 | [quick play](https://www.youtube.com/watch?v=YKUQ0Y_pHaI) | New multiplayer mode "quick play", accuracy displayed in the pause menu, grouping by favourites | *N/A* |
+| 51 | [the future of "quick play"](https://www.youtube.com/watch?v=HjyYDrtYFZE) | Announcement of ranked play, emphasis on osu!(lazer) on the redesigned [download page](https://osu.ppy.sh/home/download), new [leaderboard of top plays](https://osu.ppy.sh/rankings/top-plays) | [(↗)](https://osu.ppy.sh/home/news/2025-12-05-introducing-quick-play) |
+| 52 | [lazer's roadmap](https://www.youtube.com/watch?v=ZS3EucVtfB8) | Project management, transition to ranked play, mod multiplier survey, tablet area scaling with screen scaling, support for custom samplesets | [(↗)](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers) |
+| 53 | [osu! did not explode](https://www.youtube.com/watch?v=h_bTQXF5sVE) | Infrastructure changes, score saving selectiveness, user profiles show most viewed replays, settings menu redesign, addition of keyboard shortcuts, changes to mods, osu!(lazer) tournament support, ranked play teaser | *N/A* |
+| 54 | [ranked play](https://www.youtube.com/watch?v=FdAS8LHID9g) | Ranked play introduction, loading screens, changes to mods, editor improvements, client-side medals, user notifications, addition of the `/savelog` command | *N/A* |
+| 55 | [solving ranked play's biggest problems](https://www.youtube.com/watch?v=_NEoSHIpuKk) | Ranked play improvements and Duels, dynamic beatmap rating, damage multipliers, eager server transitions, editor improvements, input handling | *N/A* |
 
 ## Other related videos
 

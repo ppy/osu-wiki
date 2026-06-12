@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e181f4468107a6129d62129beb568f07c0bf7845
+---
+
 # lazer updates
 
 ![](img/banner.png "Banner para las noticias de osu!(lazer) updates")
