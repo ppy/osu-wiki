@@ -26,10 +26,10 @@ tags:
 | Default shortcut key ![][osu!] ![][osu!taiko] ![][osu!catch] | `H` |
 | Default shortcut key ![][osu!mania] | `J` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.06x |
+| Score multiplier ![][osu!] ![][osu!taiko] ![][osu!catch] | 1.04x* |
 | Score multiplier ![][osu!mania] | 1.00x |
 | Status | Ranked |
-| Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
 :::
 
@@ -37,6 +37,15 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 The **Hidden** mod removes the [approach circles](/wiki/Gameplay/Hit_object/Approach_circle) and makes the [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) fade out after appearing on the screen.
+
+*Score multiplier goes from 1.04x to 1.02x if "Only fade approach circles" is enabled. 
+
+It is also reduced to 0.02x if any of the mods are enabled, since they restore timing information that Hidden removes: 
+- [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle)
+- [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow)
+- [Deflate (DP)](/wiki/Gameplay/Game_modifier/Deflate)
+- [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel)
+- [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth)
 
 ## Customisation
 
