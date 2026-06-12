@@ -25,21 +25,21 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | Score multiplier | See [Scoring](#scoring) |
 | Status | Ranked |
-| Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
+| Incompatible mods | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) |
 
 :::
 
 *For the osu!stable version of this article, see: [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Double Time** mod increases the BPM of any beatmap by 50%, decreasing the length of the song by 33.3%. It can also increase the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty) or both depending on the selected [game mode](/wiki/Game_mode).
+The **Double Time** mod increases the BPM of any beatmap by 50%, decreasing the length of the song by 33.3%. It can also increase the [Approach Rate](/wiki/Beatmap/Approach_rate), [Accuracy](/wiki/Beatmap/Overall_difficulty) or both depending on the selected [game mode](/wiki/Game_mode).
 
 ## Customisation
 
 ![Double Time customisation options in the game client](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/DT.png)
 
 - **Speed increase** (1.01x–2.00x, default: 1.50x): The speed at which the map is played.
-- **Adjust pitch** (default: disabled): Change the audio frequency depending on the chosen speed. Playing with the default speed will have the same audio effect as [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)).
+- **Adjust pitch** (default: disabled): Change the audio frequency depending on the chosen speed. Playing with the default speed will have the same audio effect as [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)).
 
 Changing the **Speed increase** will cause your scores to be **unranked**. Enabling **Adjust pitch** will **not** cause your scores to be unranked.
 
