@@ -21,7 +21,7 @@ If you suspect your imagination does not yet reach the stars, then no worries. R
 
 - A bewildered Chirou stranded alone in low-Earth orbit... finding a rag-tag community aboard a make-shift station built from satellites, making new friends and an epic comeback arc.
 - Mani's new hobby: creature and plant cultivation in the Orbital Reinforced Dome Terrarium™. Ignoring the rumours about vicious terrors lurking in the floating foliage, Mani knows it's just a giant fluff ball paradise and loves to annoy Mari with visits.
-- Space Cadet Mocha and Corporal Taikonator engaging in mech— *couch*, meticulous exploration of uncharted mud marbles, a dense mini-planet system alike the foam of soap bubbles, fitting worlds into the scales of cities under a shared atmosphere and artificially intertwining lumbers.
+- Space Cadet Mocha and Corporal Taikonator engaging in mech— *cough*, meticulous exploration of uncharted mud marbles, a dense mini-planet system alike the foam of soap bubbles, fitting worlds into the scales of cities under a shared atmosphere and artificially intertwining lumbers.
 - Alisa and Tama encountering a fleet of colossal space whales orbiting a world clouded in... clouds. Both agree it's probably a giant treasure trove worth conquering, or at least a mystery worth diving into.
 - pippi and Aiko enjoying questionably delicious gourmets and irresistibly cute desserts in a ternary star restaurant. Some joys in the cosmos are universal, unneeding of explanations nor complications.
 
