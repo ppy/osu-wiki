@@ -25,7 +25,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `Q` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | 0.50x |
+| Score multiplier | 0.80x* |
 | Status | Ranked |
 | Incompatible mods ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | Incompatible mods ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
@@ -36,6 +36,10 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 The **Easy** mod attempts to make the gameplay on any [beatmap](/wiki/Beatmap) played easier by halving each difficulty setting. In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the mod gives two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which instead refills it instantly.
+
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings.
 
 ## Customisation
 
