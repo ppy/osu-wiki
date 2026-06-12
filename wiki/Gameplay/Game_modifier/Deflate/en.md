@@ -31,7 +31,9 @@ tags:
 
 <!-- TODO description and settings -->
 
-*Score multiplier depends on other factors such as mod combinations or mod settings.
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings:
 
 - Decreases by 0.02x per step increment applied to the `Starting size` setting.
 
