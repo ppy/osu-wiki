@@ -22,26 +22,6 @@
 
 现在，你的分支仓库已经获取到原仓库的所有更新。
 
----
-
-即使这种方法功能有限，比如不允许你覆盖分支上任何不需要的更改（因为这种方法只能合并上游仓库的 `master` 分支），但它在大多数情况下都能很好工作。
-
-如果你在使用 GitHub 工具时遇到任何问题，或者你想覆盖你的分支内容，可以使用 osu! wiki 贡献者编写的一套工作流（自动化脚本，workflow）。
-
-1. 进入**你的分支仓库**，点击 `操作 (Actions)` 标签。
-
-2. 在左侧栏上，寻找`与 ppy:master 同步 (Sync with ppy:master)`。
-
-3. 点击`运行工作流 (Run workflow)` 并填写以下选项：
-
-   ![GitHub 网站上的表格截图如下所述](img/github-actions-workflow-dispatch.png "GitHub 操作工作流分发菜单")
-
-   - **需要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
-   - **创建已选择分支的备份 (Create a backup of the selected branch)**：在你想要更新之前，创建一个名为 `backup-{目标分支名称}` 的分支作为副本。
-   - **覆盖已选择分支上的所有修改 (Overwrite all history of the selected branch)**：使用 `ppy:master` 覆盖你的分支内的所有内容，忽略任何修改。默认会将 `ppy:master` 内的修改合并到已选择分支内。
-
-4. 点击 `运行工作流 (Run workflow)` 按钮，并等待工作流完成。如果你好奇这个工具是怎么工作的，点击 `同步 ppy:master (Sync with ppy:master)` 的工作流任务 (workflow task)。
-
 ## 做出改动
 
 *参见：[分支工作流程 | Atlassian Git 教程](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*

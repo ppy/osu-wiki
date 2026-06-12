@@ -22,26 +22,6 @@ Um Änderungen an einem Repository auf GitHub vorzunehmen, muss sich ein Mitwirk
 
 Jetzt ist dein Branch auf demselben Stand wie das ursprüngliche Repository.
 
----
-
-Obwohl diese Lösung in den meisten Fällen problemlos funktioniert, hat die Funktion selbst nur begrenzte Möglichkeiten. Zum Beispiel wird nicht erlaubt, nicht gewollte Änderungen auf dem Branch zu überschreiben, da es nur den vorangehenden Branch `master` zusammenführt.
-
-Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stößt oder du den Inhalt eines Branches überschreiben möchtest, kannst du den Workflow benutzen, der von den Verantwortlichen des osu!-Wikis geschrieben wurde.
-
-1. Öffne **deine Verzweigung** und gehe zum Tab `Actions`.
-
-2. Schaue auf der linken Seitenleiste nach `Sync with ppy:master`.
-
-3. Klicke auf `Run workflow` und fülle die Optionen aus:
-
-   ![Screenshot des Formulars auf der GitHub-Webseite, das unten beschrieben wird](img/github-actions-workflow-dispatch.png "Workflowmenü der GitHub-Action")
-
-   - **Use workflow from**: Name des Branches, der synchronisiert werden soll. Standardmäßig ist das auf `master` eingestellt.
-   - **Create a backup of the selected branch**: Erstellt eine Kopie deines Branches namens `{Name des Branches}-backup`, bevor der ursprüngliche Branch verändert wird.
-   - **Overwrite all history of the selected branch**: Ersetzt den ausgewählten Branch mit dem Branch `ppy:master`, wodurch alle neuen Commits des ausgewählten Branches verworfen werden. Standardmäßig werden die Änderungen mit denen von `ppy:master` zusammengeführt.
-
-4. Klicke auf den Button `Run Workflow` und warte ab, bis der Workflow abgeschlossen ist. Wenn du wissen möchtest, wie das Tool funktioniert, klicke auf die Workflow-Aufgabe `Sync with ppy:master`.
-
 ## Änderungen vornehmen
 
 *Siehe auch: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
