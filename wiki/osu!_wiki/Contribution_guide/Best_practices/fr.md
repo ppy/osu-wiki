@@ -26,26 +26,6 @@ Afin d'apporter des modifications à un dépôt situé sur GitHub, un contribute
 
 Votre branche est maintenant à jour avec le dépôt original.
 
----
-
-Cette solution fonctionne bien dans la plupart des cas, bien que la fonctionnalité elle-même ait des capacités limitées. Par exemple, elle ne vous permet pas d'écraser les changements non désirés sur la branche, car elle ne fusionne que la branche `master` en amont.
-
-Si vous avez rencontré des problèmes lors de l'utilisation de l'outil GitHub ou si vous souhaitez écraser le contenu de votre branche, vous pouvez utiliser le workflow écrit par les contributeurs du wiki d'osu!.
-
-1. Ouvrez **votre fork** et allez dans l'onglet `Actions`.
-
-2. Dans la barre latérale gauche, cherchez `Sync with ppy:master`.
-
-3. Cliquez sur `Run workflow` et remplissez les options suivantes :
-
-   ![Capture d'écran du formulaire sur le site GitHub décrit ci-dessous](img/github-actions-workflow-dispatch.png "Menu de répartition des GitHub Actions workflow")
-
-   - **Use workflow from**: Branche cible que vous voulez synchroniser. Par défaut, elle est définie sur `master`.
-   - **Create a backup of the selected branch**: Crée une copie de la branche cible à `{nom de la branche}-backup` sur votre fork avant d'essayer de la mettre à jour.
-   - **Overwrite all history of the selected branch**: Remplace la branche cible par `ppy:master`, en supprimant tous ses commits différents. Par défaut, `ppy:master` sera fusionné dans la branche cible.
-
-4. Cliquez sur le bouton `Run workflow` et attendez que le workflow se termine. Si vous êtes curieux de savoir comment fonctionne l'outil, cliquez sur la tâche de workflow `Sync with ppy:master`.
-
 ## Effectuer des modifications
 
 *Voir également : [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
