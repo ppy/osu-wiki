@@ -31,9 +31,9 @@ tags:
 
 <!-- TODO description and settings -->
 
-*Score multiplier depends on other factors such as mod combinations or mod settings.
+*Score multiplier depends on other factors such as mod combinations or mod settings:
 
-- Reduced by 0.05x per 0.1 step change made to any original map parameter (CS, HP, OD and AR) down to a strict minimum of 0.1x.
+- Starts at 1.00x and decreases by 0.05x for every 0.1 step change made to any original map parameter (CS, HP, OD, AR), down to a strict minimum of 0.10x.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
