@@ -23,7 +23,7 @@ tags:
 | Game modes | ![][osu!] |
 | Score multiplier | ``1.00x`` |
 | Status | Unranked |
-| Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DP)](/wiki/Gameplay/Game_modifier/Deflate), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
+| Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DP)](/wiki/Gameplay/Game_modifier/Deflate), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) |
 
 :::
 
