@@ -32,7 +32,9 @@ tags:
 
 The **Daycore** mod behaves exactly like [Half Time](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) when it comes to speed change and difficulty settings modification. It only lowers the audio frequency by 75% without the possibility of adjusting the pitch through customisation.
 
-*Score multiplier depends on other factors such as mod combinations or mod settings:
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings:
 
 - Calculated in steps of 0.05 rate, the final value scales linearly using the formula `rate * 1.4 - 0.5`.
 ### 
