@@ -33,6 +33,6 @@ tags:
 
 *Score multiplier depends on other factors such as mod combinations or mod settings.
 
-- Reduced by 0.02x per step in the "Starting size" setting.
+- Decreases by 0.02x per step increment applied to the `Starting size` setting.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
