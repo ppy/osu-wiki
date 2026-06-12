@@ -34,7 +34,9 @@ tags:
 
 The **Nightcore** mod behaves exactly as [Double Time](/wiki/Gameplay/Game_modifier/Double_Time_(lazer)) regarding speed changes and difficulty adjustments. However, it specifically increases the audio frequency by 150% without offering the pitch adjustment options available in customization settings.
 
-*Score multiplier depends on other factors such as mod combinations or mod settings:
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings:
 
 - Calculated in steps of 0.1 rate, the final value scales linearly using the formula `(rate - 1) * 0.46 + 1`.
 ### 
