@@ -21,7 +21,7 @@ tags:
 | Acronym | FR |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | 1.00x |
+| Score multiplier | 1.00x* |
 | Status | Unranked |
 | Incompatible mods | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
@@ -30,5 +30,9 @@ tags:
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
 <!-- TODO description and settings -->
+
+## Score multiplier
+
+Score multiplier depends on other factors such as mod combinations or mod settings.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
