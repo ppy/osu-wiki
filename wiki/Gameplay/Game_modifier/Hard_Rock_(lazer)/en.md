@@ -23,7 +23,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `A` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier ![][osu!] ![][osu!taiko] | 1.06x |
+| Score multiplier ![][osu!] ![][osu!taiko] | 1.09x |
 | Score multiplier ![][osu!catch] | 1.12x |
 | Score multiplier ![][osu!mania] | 1.00x |
 | Status ![][osu!] ![][osu!taiko] ![][osu!catch] | Ranked |
