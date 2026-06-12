@@ -119,7 +119,7 @@ This year, participants were able to choose from any track they liked from the [
 
 ---
 
-Excited to check out more amazing submissions? Head immediately to [the contest listing](https://osu.ppy.sh/community/contests/236) for all of them, as well as the detailed scores and comments.
+Excited to check out more amazing submissions? Head immediately to [the contest listing](https://osu.ppy.sh/community/contests/270) for all of them, as well as the detailed scores and comments.
 
 Congratulations again to these amazing new mapping talents! We would like to thank all the participants, judges, sponsors, helpers, and everyone for their attention and contribution to Newspaper Cup 2026. We sincerely hope to see you again next year!
 
