@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 0e61b1bd28efc9e6a300fd0f3d05ab85d8f2a5c0
 ---
 
 # Bonnes pratiques

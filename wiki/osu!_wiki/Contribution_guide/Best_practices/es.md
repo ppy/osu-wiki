@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0e61b1bd28efc9e6a300fd0f3d05ab85d8f2a5c0
+---
+
 # Prácticas recomendadas
 
 Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuyes. Los enfoques mencionados aquí están diseñados para facilitar el proceso y pueden aplicarse a otros proyectos alojados en GitHub o plataformas similares.

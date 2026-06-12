@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 0e61b1bd28efc9e6a300fd0f3d05ab85d8f2a5c0
+---
+
 # 最佳实践
 
 这篇文章介绍了您在贡献时可能遇到的一些任务。文章中提到的方法可供您简化流程，并可在 GitHub 或在类似的平台上托管的其他项目中应用。
