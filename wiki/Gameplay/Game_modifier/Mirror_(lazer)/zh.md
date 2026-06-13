@@ -27,6 +27,7 @@ tags:
 | 状态 ![][osu!] ![][osu!catch] | 不计入排名 |
 | 状态 ![][osu!mania] | 计入排名 |
 | 不兼容的模组 ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
+| 不兼容的模组 ![][osu!catch] ![][osu!mania] | 无 |
 
 :::
 

@@ -21,9 +21,10 @@ tags:
 | Acrónimo | CL |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] | `0,96x` |
+| Multiplicador de puntuación | `0,96x` |
 | Estado | No clasificado |
-| Mods incompatibles | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| Mods incompatibles ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| Mods incompatibles ![][osu!taiko] ![][osu!mania] | Ninguno |
 
 :::
 

@@ -21,9 +21,10 @@ tags:
 | 缩写 | CL |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| 得分系数 ![][osu!] | `0.96x` |
+| 得分系数 | `0.96x` |
 | 状态 | 不计入排名 |
-| 不兼容的模组 | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| 不兼容的模组 ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| 不兼容的模组 ![][osu!taiko] ![][osu!mania] | 无 |
 
 :::
 

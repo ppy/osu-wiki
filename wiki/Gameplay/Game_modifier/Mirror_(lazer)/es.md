@@ -27,6 +27,7 @@ tags:
 | Estado ![][osu!] ![][osu!catch] | No clasificado |
 | Estado ![][osu!mania] | Clasificado |
 | Mods incompatibles ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
+| Mods incompatibles ![][osu!catch] ![][osu!mania] | Ninguno |
 
 :::
 

@@ -21,7 +21,7 @@ tags:
 | 缩写 | NC |
 | 类别 | 增加难度 |
 | 默认快捷键 | `G` |
-| 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] ||
+| 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.10x*` <!-- TODO --> |
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
