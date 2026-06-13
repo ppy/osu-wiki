@@ -18,31 +18,31 @@ tags:
 
 ## Peran dan tanggung jawab
 
-Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) kepada [beatmap Pending](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki antrean ranking. Mereka adalah tempat bertanya bagi orang-orang yang ingin meminta saran atau permohonan tentang apa pun yang berhubungan dengan mapping atau modding. Anggota Beatmap Nominator mana pun berhak menempatkan [veto beatmap](Beatmap_Veto) apabila mereka merasa kalau beatmap tertentu yang sudah dinominasikan memiliki masalah yang harus diperbaiki di luar dari apa yang tertulis pada [kriteria ranking](/wiki/Ranking_criteria).
+Para anggota Beatmap Nominator pada utamanya bertanggung jawab untuk memberikan [mod](/wiki/Modding) ke [beatmap Pending](/wiki/Beatmap/Category#wip-and-pending) dan menyetujui beatmap-beatmap ini untuk memasuki antrean ranking. Mereka adalah tempat bertanya bagi orang-orang yang ingin meminta saran atau permohonan tentang apa pun yang berhubungan dengan mapping atau modding. Anggota Beatmap Nominator mana pun berhak menempatkan [veto beatmap](Beatmap_Veto) apabila mereka merasa kalau beatmap tertentu yang sudah dinominasikan memiliki masalah yang harus diperbaiki di luar dari apa yang tertulis pada [kriteria ranking](/wiki/Ranking_criteria).
 
 Di samping itu, para anggota Beatmap Nominator juga diharapkan untuk bisa menjadi teladan kepada seisi komunitas secara luas dengan cara tidak hanya mengurusi beatmap dan mapper yang itu-itu saja, serta untuk terus mengasah keahlian mereka, sebagaimana yang diterangkan pada artikel [Harapan bagi Beatmap Nominator](Expectations).
 
 Anggota Beatmap Nominator terbagi ke dalam dua grup: anggota penuh (*full member*) dan anggota percobaan (*probationary member*).
 
-### Beatmap Nominator penuh
+### Beatmap Nominator Penuh
 
-Beatmap Nominator penuh adalah para anggota Beatmap Nominator yang, di samping dari memberikan mod dan menominasikan beatmap, juga bertanggung jawab untuk mendiskualifikasikan beatmap Qualified yang ditemukan bermasalah. Mereka juga bisa mengikuti penilaian aplikasi Beatmap Nominator (*Beatmap Nominator application assessment*) yang diadakan dari waktu ke watku apabila ke depannya mereka tertarik untuk bergabung ke dalam Nomination Assessment Team.
+Beatmap Nominator Penuh adalah para anggota Beatmap Nominator yang, di samping dari memberikan mod dan menominasikan beatmap, juga bertanggung jawab untuk mendiskualifikasikan beatmap Qualified yang ditemukan bermasalah. Mereka juga bisa mengikuti penilaian aplikasi Beatmap Nominator (*Beatmap Nominator application assessment*) yang diadakan dari waktu ke watku apabila ke depannya mereka tertarik untuk bergabung ke dalam Nomination Assessment Team.
 
-Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi para anggota Beatmap Nominator penuh ini akan [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi-nominasi mereka sering kalinya dianulir karena alasan yang penting, atau apabila perilaku mereka sudah melewati batas, mereka akan bisa diperingati atau dikeluarkan dari BN tergantung dari seberapa parah dan sering pelanggaran ini terjadi.
+Setiap kurang lebih tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi dari para anggota Beatmap Nominator Penuh ini akan [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi-nominasi mereka sering kali dianulir karena alasan yang penting, atau apabila perilaku mereka sudah melewati batas, mereka akan bisa diperingati atau dikeluarkan dari BN tergantung dari seberapa parah dan sering pelanggaran ini terjadi.
 
-### Beatmap Nominator percobaan
+### Beatmap Nominator Percobaan
 
-Beatmap Nominator percobaan adalah para anggota Beatmap Nominator yang masih baru dan masih perlu diawasi lebih dekat. Tugas utama mereka adalah untuk memahami dasar-dasar seorang Beatmap Nominator dengan cara hanya menominasikan beatmap dalam proses ranking tanpa ada kewajiban lainnya. Karena dalam menominasikan beatmap setidaknya harus ada satu orang nominator penuh yang terlibat dalam masing-masing mode permainannya, anggota Beatmap Nominator percobaan tidak bisa memberikan nominasi terakhir apabila beatmap ini sebelumnya hanya dinominasikan oleh anggota-anggota percobaan lainnya.
+Beatmap Nominator Percobaan adalah para anggota Beatmap Nominator yang masih baru dan masih perlu diawasi lebih dekat. Tugas utama mereka adalah untuk memahami dasar-dasar sebagai seorang Beatmap Nominator dengan cara hanya menominasikan beatmap dalam proses ranking tanpa ada kewajiban lainnya. Karena dalam menominasikan beatmap setidaknya harus ada satu orang nominator penuh yang terlibat dalam masing-masing mode permainannya, anggota Beatmap Nominator Percobaan tidak bisa memberikan nominasi terakhir apabila beatmap ini sebelumnya hanya dinominasikan oleh anggota-anggota percobaan lainnya.
 
-Para anggota Beatmap Nominator percobaan diharuskan untuk memiliki setidaknya **3** nominasi yang berhasil mencapai Ranked. Beatmap-beatmap ini kemudian akan kemudian [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) setelah satu bulan, yang bisa datang lebih cepat apabila mereka sudah memliki **6** nominasi yang Ranked di awal bulan.
+Para anggota Beatmap Nominator Percobaan diharuskan untuk memiliki setidaknya **3** nominasi yang berhasil mencapai Ranked. Beatmap-beatmap ini kemudian akan kemudian [dievaluasi](/wiki/People/Nomination_Assessment_Team/Evaluations) setelah satu bulan, di mana evaluasi ini bisa terjadi lebih cepat apabila mereka sudah memiliki **6** nominasi yang Ranked di awal bulan.
 
-Anggota Beatmap Nominator yang baru bergabung akan ditemani oleh satu orang mitra NAT (*NAT buddy*), yang bisa langsung mereka hubungi apabila mereka punya pertanyaan atau butuh bantuan. Setelah evaluasi pertamanya, anggota baru ini akan dipromosikan menjadi Beatmap Nominator penuh (apabila hasil evaluasinya memuaskan) atau dikeluarkan dari Beatmap Nominator.
+Anggota Beatmap Nominator yang baru bergabung akan ditemani oleh satu orang mitra NAT (*NAT buddy*), yang bisa langsung mereka hubungi apabila mereka punya pertanyaan atau butuh bantuan. Setelah evaluasi pertamanya, anggota baru ini akan dipromosikan menjadi Beatmap Nominator Penuh (apabila hasil evaluasinya memuaskan) atau dikeluarkan dari Beatmap Nominator.
 
-Beatmap Nominator penuh tidak bisa diturunkan menjadi Beatmap Nominator percobaan. Apabila performa mereka dianggap mengkhawatirkan, mereka akan diperingatkan atau dikeluarkan dari kelompok ini.
+Beatmap Nominator Penuh tidak bisa diturunkan menjadi Beatmap Nominator Percobaan. Apabila performa mereka dianggap mengkhawatirkan, mereka akan diperingatkan atau dikeluarkan dari kelompok ini.
 
-## Keutamaan
+## Keuntungan
 
-Para anggota Beatmap Nominator akan mendapatkan berbagai keutamaan berikut:
+Para anggota Beatmap Nominator akan mendapatkan berbagai keuntungan sebagai berikut:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Tag osu!supporter yang berlaku selama mereka menjadi anggota.
 - **Lencana masa jabatan**: [Lencana profil](/wiki/Community/Profile_badge) yang menampilkan berapa tahun mereka sudah menjadi anggota.
@@ -61,7 +61,7 @@ Berikut adalah daftar anggota Beatmap Nominator beserta dengan mode permainanmya
 
 <!-- NOTE: This section is automatically generated using a tool in https://bn.mappersguild.com/users -->
 
-### Beatmap Nominator penuh
+### Beatmap Nominator Penuh
 
 #### osu!
 
@@ -83,7 +83,7 @@ Berikut adalah daftar anggota Beatmap Nominator beserta dengan mode permainanmya
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 
-### Beatmap Nominator percobaan
+### Beatmap Nominator Percobaan
 
 #### osu!
 
