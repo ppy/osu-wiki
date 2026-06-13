@@ -24,7 +24,7 @@ tags:
 | Tipo | Automático |
 | Tecla de acceso directo predeterminada | `C` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] |
-| Multiplicador de puntuación | ``0,10x`` |
+| Multiplicador de puntuación | 0,10x |
 | Estado | No clasificado |
 | Mods incompatibles | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
 

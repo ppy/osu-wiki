@@ -23,7 +23,7 @@ tags:
 | Acronym | MR |
 | Type | Conversion |
 | Game modes | ![][osu!] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status ![][osu!] ![][osu!catch] | Unranked |
 | Status ![][osu!mania] | Ranked |
 | Incompatible mods ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |

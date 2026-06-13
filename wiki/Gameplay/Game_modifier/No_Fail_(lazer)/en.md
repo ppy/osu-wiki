@@ -23,7 +23,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `W` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | ``0.50x`` |
+| Score multiplier | `0.50x` |
 | Status | Ranked |
 | Incompatible mods | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 

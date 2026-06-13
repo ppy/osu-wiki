@@ -21,7 +21,7 @@ tags:
 | Acronym | SW |
 | Type | Conversion |
 | Game modes | ![][osu!taiko] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
 | Incompatible mods | [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) |
 

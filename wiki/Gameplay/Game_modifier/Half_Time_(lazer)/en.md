@@ -49,13 +49,13 @@ Changing the **Speed decrease** will cause your scores to be **unranked**. Enabl
 
 In osu!, Half Time has a score multiplier which depends on the selected **Speed decrease** and is calculated as follows:
 
-The **Speed decrease** is rounded *down* to the nearest multiple of 0.05x (e.g. 0.87x becomes 0.85x), let's call this value the ``rate``. The score multiplier is then given by ``1.4 * rate - 0.5``.
+The **Speed decrease** is rounded *down* to the nearest multiple of 0.05x (e.g. 0.87x becomes 0.85x), let's call this value the `rate`. The score multiplier is then given by `1.4 * rate - 0.5`.
 
 ### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 In osu!taiko, osu!catch and osu!mania, the score multiplier for Half Time is calculated quite similarly:
 
-The **Speed decrease** is rounded *down* to one decimal place (e.g. 0.87x becomes 0.80x), let's call this value the ``rate``. The score multiplier is then given by ``rate - 0.4``.
+The **Speed decrease** is rounded *down* to one decimal place (e.g. 0.87x becomes 0.80x), let's call this value the `rate`. The score multiplier is then given by `rate - 0.4`.
 
 ### Summary
 

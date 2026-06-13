@@ -21,7 +21,7 @@ tags:
 | Acrónimo | WG |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | ``1,00x`` |
+| Multiplicador de puntuación | 1,00x |
 | Estado | No clasificado |
 | Mods incompatibles | [Transform (TR)](/wiki/Gameplay/Game_modifier/Transform), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 

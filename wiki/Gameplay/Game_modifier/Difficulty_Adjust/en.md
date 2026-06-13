@@ -75,17 +75,17 @@ Difficulty Adjust allows players to change the difficulty settings of a [beatmap
 
 ### osu! ![][osu!]
 
-In osu!, Difficulty Adjust has a score multiplier of ``1.00x`` by default.
+In osu!, Difficulty Adjust has a score multiplier of `1.00x` by default.
 
-For each parameter (CS, HP, AR, OD), an individual multiplier is calculated as follows: For each ``0.1`` change of that parameter (in either direction), the multiplier decreases by ``0.05x`` (starting from ``1.00x``, to a minimum of ``0.10x``).
+For each parameter (CS, HP, AR, OD), an individual multiplier is calculated as follows: For each `0.1` change of that parameter (in either direction), the multiplier decreases by `0.05x` (starting from `1.00x`, to a minimum of `0.10x`).
 
-The final multiplier is then calculated as the product of the individual multipliers of all parameters, but cannot be lower than ``0.10x``.
+The final multiplier is then calculated as the product of the individual multipliers of all parameters, but cannot be lower than `0.10x`.
 
 Thus, if $A_1,A_2,A_3$ and $A_4$ denote the selected CS, HP, OD and AR and $B_1,B_2,B_3$ and $B_4$ denote the beatmap's CS, HP, OD and AR, the score multiplier is given by
 
 $$\max\left(0.1,\prod_{i=1}^4\max\big(0.1,1-0.5\cdot|A_i-B_i|\big)\right).$$
 
-In any case, this multiplier is at least ``0.10x`` and at most ``1.00x``.
+In any case, this multiplier is at least `0.10x` and at most `1.00x`.
 
 #### Example
 
@@ -100,16 +100,16 @@ To illustrate, consider a beatmap with the following parameters and these Diffic
 | OD | 9.0 | 9.0 |
 | AR | 9.2 | 9.5 |
 
-In this case, Circle Size was decreased and Approach Rate was increased, while the other two values remain unchanged. Therefore, HP and OD get a multiplier of ``1.00x`` and we have the following penalties:
+In this case, Circle Size was decreased and Approach Rate was increased, while the other two values remain unchanged. Therefore, HP and OD get a multiplier of `1.00x` and we have the following penalties:
 
-- CS penalty: ``1.0 - 0.5 * |3.5 - 4.0| = 0.75``
-- AR penalty: ``1.0 - 0.5 * |9.5 - 9.2| = 0.85``
+- CS penalty: `1.0 - 0.5 * |3.5 - 4.0| = 0.75`
+- AR penalty: `1.0 - 0.5 * |9.5 - 9.2| = 0.85`
 
-Thus, the final score multiplier in this case is ``0.75 * 0.85 = 0.6375x``.
+Thus, the final score multiplier in this case is `0.75 * 0.85 = 0.6375x`.
 
 ### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-In osu!taiko, osu!catch and osu!mania, Difficulty Adjust has a score multiplier of ``0.50x``.
+In osu!taiko, osu!catch and osu!mania, Difficulty Adjust has a score multiplier of `0.50x`.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

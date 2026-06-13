@@ -22,7 +22,7 @@ tags:
 | Acronym | NS |
 | Type | Fun |
 | Game modes | ![][osu!] ![][osu!catch] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
 | Incompatible mods | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 

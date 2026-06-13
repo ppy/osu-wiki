@@ -22,7 +22,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `D` |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
 | Incompatible mods | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 

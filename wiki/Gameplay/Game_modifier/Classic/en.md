@@ -53,21 +53,21 @@ When viewed from osu!(lazer) or "Lazer mode" on the website, scores set in osu!s
 
 ### osu! ![][osu!]
 
-In osu!, Classic has a score multiplier of ``0.985x``. If **Apply classic note lock** is disabled (see [Customisation](#customisation)), this multiplier is reduced to ``0.96x``.
+In osu!, Classic has a score multiplier of `0.985x`. If **Apply classic note lock** is disabled (see [Customisation](#customisation)), this multiplier is reduced to `0.96x`.
 
-In particular, this means that scores set in osu!stable get a score multiplier of ``0.985x``.
+In particular, this means that scores set in osu!stable get a score multiplier of `0.985x`.
 
 ### osu!taiko ![][osu!taiko]
 
-In osu!taiko, Classic has a score multiplier of ``1.00x``.
+In osu!taiko, Classic has a score multiplier of `1.00x`.
 
 ### osu!catch ![][osu!catch]
 
-As seen above, the Classic mod does not exist in osu!catch. However, scores set in osu!stable in this ruleset still have the mod applied. In this case, it has a score multiplier of ``1.00x``.
+As seen above, the Classic mod does not exist in osu!catch. However, scores set in osu!stable in this ruleset still have the mod applied. In this case, it has a score multiplier of `1.00x`.
 
 ### osu!mania ![][osu!mania]
 
-In osu!mania, Classic has a score multiplier of ``1.00x``.
+In osu!mania, Classic has a score multiplier of `1.00x`.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

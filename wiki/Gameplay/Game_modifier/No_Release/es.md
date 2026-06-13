@@ -22,7 +22,7 @@ tags:
 | Tipo | Reducción de dificultad |
 | Tecla de acceso directo predeterminada | `T` |
 | Modos de juego compatibles | ![][osu!mania] |
-| Multiplicador de puntuación | ``0,90x`` |
+| Multiplicador de puntuación | 0,90x |
 | Estado | No clasificado |
 | Mods incompatibles | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 

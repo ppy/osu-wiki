@@ -21,7 +21,7 @@ tags:
 | Acronym | BR |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Unranked |
 | Incompatible mods | [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) |
 

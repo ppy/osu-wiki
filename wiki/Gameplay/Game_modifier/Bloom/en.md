@@ -20,7 +20,7 @@ tags:
 | Acronym | BM |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Unranked |
 | Incompatible mods | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
 

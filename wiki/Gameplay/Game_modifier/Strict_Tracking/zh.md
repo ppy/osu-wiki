@@ -20,8 +20,9 @@ tags:
 | :-- | :-- |
 | 缩写 | ST |
 | 类别 | 增加难度 |
+| 默认快捷键 | `L` |
 | 游戏模式 | ![][osu!] |
-| 得分系数 | ``1.00x`` |
+| 得分系数 | 1.00x |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
 

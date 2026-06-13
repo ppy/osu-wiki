@@ -52,21 +52,21 @@ Enabling this setting will cause your scores to be **unranked**.
 
 ### osu! ![][osu!]
 
-In osu!, Hidden has a score multiplier of ``1.04x`` by default.
+In osu!, Hidden has a score multiplier of `1.04x` by default.
 
-- If **Only fade approach circles** is enabled (see [Customisation](#customisation)), this multiplier is reduced by ``0.02x``.
-- If any of the mods [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) or [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) are enabled, this multiplier is reduced by ``0.02x``.
-- If [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) is enabled, the two previous rules are ignored and the multiplier is set to ``1.00x``.
+- If **Only fade approach circles** is enabled (see [Customisation](#customisation)), this multiplier is reduced by `0.02x`.
+- If any of the mods [Wiggle (WG)](/wiki/Gameplay/Game_modifier/Wiggle), [Grow (GR)](/wiki/Gameplay/Game_modifier/Grow), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) or [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) are enabled, this multiplier is reduced by `0.02x`.
+- If [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) is enabled, the two previous rules are ignored and the multiplier is set to `1.00x`.
 
-So for instance, when playing with Hidden, Grow and Repel, Hidden has a score multiplier of ``1.02x``.
+So for instance, when playing with Hidden, Grow and Repel, Hidden has a score multiplier of `1.02x`.
 
 ### osu!taiko ![][osu!taiko] and osu!catch ![][osu!catch]
 
-In osu!taiko and osu!catch, Hidden has a score multiplier of ``1.06x``.
+In osu!taiko and osu!catch, Hidden has a score multiplier of `1.06x`.
 
 ### osu!mania ![][osu!mania]
 
-In osu!mania, Hidden has a score multiplier of ``1.00x``.
+In osu!mania, Hidden has a score multiplier of `1.00x`.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

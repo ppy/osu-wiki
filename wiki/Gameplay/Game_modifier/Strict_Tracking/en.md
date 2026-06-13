@@ -21,7 +21,7 @@ tags:
 | Acronym | ST |
 | Type | Difficulty Increase |
 | Game modes | ![][osu!] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Unranked |
 | Incompatible mods | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) |
 

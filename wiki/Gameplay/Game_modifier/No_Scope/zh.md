@@ -22,7 +22,7 @@ tags:
 | 缩写 | NS |
 | 类别 | 娱乐 |
 | 游戏模式 | ![][osu!] ![][osu!catch] |
-| 得分系数 | ``1.00x`` |
+| 得分系数 | 1.00x |
 | 状态 | 计入排名 |
 | 不兼容的模组 | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
 

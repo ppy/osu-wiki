@@ -41,7 +41,7 @@ When using **Magnetised**, all [hit objects](/wiki/Gameplay/Hit_object) automati
 
 If $A$ is the selected attraction strength, the score multiplier for Magnetised is given by $0.7-0.6\cdot A$.
 
-Since the attraction strength can be chosen from 0.05 to 1.0, this means the score multiplier ranges from ``0.10x`` to ``0.67x``.
+Since the attraction strength can be chosen from 0.05 to 1.0, this means the score multiplier ranges from `0.10x` to `0.67x`.
 
 ## Trivia
 

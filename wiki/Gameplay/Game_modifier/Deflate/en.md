@@ -39,7 +39,7 @@ The **Deflate** mod causes all [hit circles](/wiki/Gameplay/Hit_object/Hit_circl
 
 ## Scoring
 
-Deflate has a score multiplier of ``1.00x`` by default. For each ``0.1`` step the **Starting Size** is increased above its default value, this multiplier is reduced by ``0.002x``. Decreasing the **Starting Size** below its default value does not affect the multiplier.
+Deflate has a score multiplier of `1.00x` by default. For each `0.1` step the **Starting Size** is increased above its default value, this multiplier is reduced by `0.002x`. Decreasing the **Starting Size** below its default value does not affect the multiplier.
 
 Thus, if $S$ is the selected **Starting Size**, the score multiplier is given by $1-\max(0,0.02\cdot(S-2))$.
 

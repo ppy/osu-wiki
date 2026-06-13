@@ -21,7 +21,7 @@ tags:
 | Acronym | GR |
 | Type | Fun |
 | Game modes | ![][osu!] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Unranked |
 | Incompatible mods | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 

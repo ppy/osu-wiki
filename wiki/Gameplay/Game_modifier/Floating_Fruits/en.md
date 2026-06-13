@@ -21,7 +21,7 @@ tags:
 | Acronym | FF |
 | Type | Fun |
 | Game modes | ![][osu!catch] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Unranked |
 | Incompatible mods | None |
 

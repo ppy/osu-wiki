@@ -20,7 +20,7 @@ tags:
 | Acrónimo | BM |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | ``1,00x`` |
+| Multiplicador de puntuación | 1,00x |
 | Estado | No clasificado |
 | Mods incompatibles | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)), [No Scope (NS)](/wiki/Gameplay/Game_modifier/No_Scope), [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) |
 

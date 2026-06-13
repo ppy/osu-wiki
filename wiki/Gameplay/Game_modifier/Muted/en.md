@@ -20,7 +20,7 @@ tags:
 | Acronym | MU |
 | Type | Fun |
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
 | Incompatible mods | None |
 

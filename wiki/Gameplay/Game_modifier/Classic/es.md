@@ -20,11 +20,11 @@ tags:
 | :-- | :-- |
 | Acrónimo | CL |
 | Tipo | Conversión |
-| Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] | ``0,985x`` |
-| Multiplicador de puntuación ![][osu!taiko] ![][osu!mania] | ``1,00x`` |
+| Modos de juego compatibles | ![][osu!] ![][osu!taiko] |
+| Multiplicador de puntuación | 0,96x |
 | Estado | No clasificado |
-| Mods incompatibles | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| Mods incompatibles ![][osu!] | [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) |
+| Mods incompatibles ![][osu!taiko] | Ninguno |
 
 :::
 
@@ -36,4 +36,3 @@ Cuando se ve desde osu!(lazer) o el «modo lazer» en el sitio web, las puntuaci
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
-[osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

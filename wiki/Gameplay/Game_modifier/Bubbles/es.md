@@ -21,7 +21,7 @@ tags:
 | Acrónimo | BU |
 | Tipo | Diversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | ``1,00x`` |
+| Multiplicador de puntuación | 1,00x |
 | Estado | No clasificado |
 | Mods incompatibles | [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Barrel_Roll), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Repel (RP)](/wiki/Gameplay/Game_modifier/Repel) |
 

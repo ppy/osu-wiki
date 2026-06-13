@@ -21,7 +21,7 @@ tags:
 | 缩写 | HO |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | ``0.90x`` |
+| 得分系数 | 0.90x |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release), [Invert (IN)](/wiki/Gameplay/Game_modifier/Invert) |
 

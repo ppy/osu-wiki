@@ -36,6 +36,6 @@ The **Blinds** mod covers the entire [playfield](/wiki/Client/Playfield) with [s
 
 ## Scoring
 
-Blinds has a score multiplier of ``1.24x``. However, when using [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) or [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) along with Blinds, their multipliers will be reduced to ``1.00x``. In other words, Blinds, Hidden + Blinds and Traceable + Blinds all have a score multiplier of ``1.24x``.
+Blinds has a score multiplier of `1.24x`. However, when using [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) or [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) along with Blinds, their multipliers will be reduced to `1.00x`. In other words, Blinds, Hidden + Blinds and Traceable + Blinds all have a score multiplier of `1.24x`.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

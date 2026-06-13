@@ -25,9 +25,8 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `F` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] | ``1,23x*`` |
-| Multiplicador de puntuación ![][osu!taiko] ![][osu!catch] | ``1,10x*`` |
-| Multiplicador de puntuación ![][osu!mania] | ``1,00x`` |
+| Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | 1,10x\* |
+| Multiplicador de puntuación ![][osu!mania] | 1,00x |
 | Estado | Clasificado |
 | Mods incompatibles | [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)), [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)), [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed), [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up), [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) |
 

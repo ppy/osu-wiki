@@ -25,8 +25,7 @@ tags:
 | 类别 | 降低难度 |
 | 默认快捷键 | `Q` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] | ``0.80x`` |
-| 得分系数 ![][osu!taiko] ![][osu!catch] ![][osu!mania] | ``0.50x`` |
+| 得分系数 | 0.50x |
 | 状态 | 计入排名 |
 | 不兼容的模组 ![][osu!] ![][osu!catch] ![][osu!mania] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
 | 不兼容的模组 ![][osu!taiko] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) |
