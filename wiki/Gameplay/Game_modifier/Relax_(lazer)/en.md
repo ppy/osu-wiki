@@ -26,7 +26,7 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!catch] |
 | Score multiplier | `0.10x` |
 | Status | Unranked |
-| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
+| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
 
 :::
 
@@ -39,7 +39,7 @@ In osu!taiko, the **Relax** mod allows the user to click on any hit object with 
 
 In osu!catch, the **Relax** mod allows the user to control the catcher with a mouse (or tablet) instead of the keyboard. This also means the player no longer has to [dash](/wiki/Gameplay/Dash).
 
-When using [Relax](/wiki/Gameplay/Game_modifier/Relax) in osu!stable, the player cannot fail during a beatmap. This is not the case in osu!(lazer). Another difference to osu!stable is that scores achieved with this mod will be submitted to the global leaderboard (without awarding [performance points](/wiki/Performance_points)), show up under *Recent Plays (24h)* and count towards play count.
+When using [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax) in osu!stable, the player cannot fail during a beatmap. This is not the case in osu!(lazer). Another difference to osu!stable is that scores achieved with this mod will be submitted to the global leaderboard (without awarding [performance points](/wiki/Performance_points)), show up under *Recent Plays (24h)* and count towards play count.
 
 **This mod cannot be customised.**
 
