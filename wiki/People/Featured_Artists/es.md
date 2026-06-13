@@ -1,6 +1,8 @@
 ---
 tags:
   - FA
+outdated_translation: true
+outdated_since: 0e0e7d35fac44961c5f8fc4a4e87f9bfc7c7a4e8
 ---
 
 # Artistas Destacados
