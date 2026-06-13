@@ -42,20 +42,20 @@ Beatmap Nominator Penuh tidak bisa diturunkan menjadi Beatmap Nominator Percobaa
 
 ## Keuntungan
 
-Para anggota Beatmap Nominator akan mendapatkan berbagai keuntungan sebagai berikut:
+Para anggota Beatmap Nominator akan memperoleh berbagai keuntungan sebagai berikut:
 
 - **[osu!supporter](/wiki/osu!supporter)**: Tag osu!supporter yang berlaku selama mereka menjadi anggota.
 - **Lencana masa jabatan**: [Lencana profil](/wiki/Community/Profile_badge) yang menampilkan berapa tahun mereka sudah menjadi anggota.
   ![Lencana BN 1 tahun](https://assets.ppy.sh/profile-badges/BN1y.png "Lencana BN 1 tahun") ![Lencana BN 2 tahun](https://assets.ppy.sh/profile-badges/BN2y.png "Lencana BN 2 tahun") ![Lencana BN 3 tahun](https://assets.ppy.sh/profile-badges/BN3y.png "Lencana BN 3 tahun") ![Lencana BN 4 tahun](https://assets.ppy.sh/profile-badges/BN4y.png "Lencana BN 4 tahun") ![Lencana BN 5 tahun](https://assets.ppy.sh/profile-badges/BN5y.png "Lencana BN 5 tahun") ![Lencana BN 6 tahun](https://assets.ppy.sh/profile-badges/BN6y.png "Lencana BN 6 tahun") ![Lencana BN 7 tahun](https://assets.ppy.sh/profile-badges/BN7y.png "Lencana BN 7 tahun") ![Lencana BN 8 tahun](https://assets.ppy.sh/profile-badges/BN8y.png "Lencana BN 8 tahun") ![Lencana BN 9 tahun](https://assets.ppy.sh/profile-badges/BN9y.png "Lencana BN 9 tahun") ![Lencana BN 10 tahun](https://assets.ppy.sh/profile-badges/BN10y.png "Lencana BN 10 tahun") ![Lencana BN 11 tahun](https://assets.ppy.sh/profile-badges/BN11y.png "Lencana BN 11 tahun") ![Lencana BN 12 tahun](https://assets.ppy.sh/profile-badges/BN12y.png "Lencana BN 12 tahun") ![Lencana BN 13 tahun](https://assets.ppy.sh/profile-badges/BN13y.png "Lencana BN 13 tahun") ![Lencana BN 14 tahun](https://assets.ppy.sh/profile-badges/BN14y.png "Lencana BN 14 tahun")
 - **Lencana jumlah [nominasi](/wiki/Beatmap_ranking_procedure#nominations)**: Lencana profil yang diberikan pada saat mencapai batas jumlah nominasi tertentu.
   ![Lencana 100 nominasi](https://assets.ppy.sh/profile-badges/100_noms.png "Lencana 100 nominasi") ![Lencana 200 nominasi](https://assets.ppy.sh/profile-badges/noms200.png?2023 "Lencana 200 nominasi") ![Lencana 400 nominasi](https://assets.ppy.sh/profile-badges/noms400.png?2023 "Lencana 400 nominasi") ![Lencana 600 nominasi](https://assets.ppy.sh/profile-badges/noms600.png?2023 "Lencana 600 nominasi") ![Lencana 800 nominasi](https://assets.ppy.sh/profile-badges/noms800.png?2024 "Lencana 800 nominasi") ![Lencana 1000 nominasi](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "Lencana 1000 nominasi") ![Lencana 1500 nominasi](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "Lencana 1500 nominasi") ![Lencana 2000 nominasi](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "Lencana 2000 nominasi")
-- **Hak untuk mendapatkan gelar [Elite Nominator](/wiki/People/Elite_Nominators)**: Para anggota Beatmap Nominator yang memiliki kinerja yang sangat baik akan berhak untuk dianugerahkan [gelar pengguna](/wiki/Community/User_title) Elite Nominator tahunan.
+- **Hak untuk memperoleh gelar [Elite Nominator](/wiki/People/Elite_Nominators)**: Para anggota Beatmap Nominator yang memiliki kinerja yang sangat baik akan berhak untuk dianugerahkan [gelar pengguna](/wiki/Community/User_title) Elite Nominator tahunan.
 
 ## Anggota tim
 
-Berikut adalah daftar anggota Beatmap Nominator beserta dengan mode permainanmya masing-masing. Selain pada tabel di bawah ini, daftar anggota Beatmap Nominator selengkapnya juga dapat dilihat pada halaman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
+Daftar anggota Beatmap Nominator selengkapnya bisa dilihat pada halaman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-*Catatan: Kecuali diterangkan lebih lanjut, semua anggota Beatmap Nominator bisa berbicara dalam Bahasa Inggris di samping dari bahasa-bahasa tambahan yang tertera di bawah ini.*
+Tabel berikut ini menandakan mode permainan mana saja yang berhak untuk dikualifikasikan oleh masing-masing Beatmap Nominator. *Catatan: Kecuali diterangkan lebih lanjut, semua anggota Beatmap Nominator bisa berbicara dalam Bahasa Inggris di samping dari bahasa-bahasa tambahan yang tertera di bawah ini.*
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
