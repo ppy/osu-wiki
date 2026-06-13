@@ -25,8 +25,7 @@ tags:
 | 默认快捷键 ![][osu!taiko] ![][osu!catch] | `J` |
 | 默认快捷键 ![][osu!mania] | `L` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] | `1.20x` |
-| 得分系数 ![][osu!taiko] ![][osu!catch] | `1.12x` |
+| 得分系数 ![][osu!] ![][osu!taiko] ![][osu!catch] | `1.12x` |
 | 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 | 计入排名 |
 | 不兼容的模组 ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |

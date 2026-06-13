@@ -26,8 +26,7 @@ tags:
 | Tecla de acceso directo predeterminada ![][osu!taiko] ![][osu!catch] | `J` |
 | Tecla de acceso directo predeterminada ![][osu!mania] | `L` |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación ![][osu!] | `1,20x` |
-| Multiplicador de puntuación ![][osu!taiko] ![][osu!catch] | `1,12x` |
+| Multiplicador de puntuación ![][osu!] ![][osu!taiko] ![][osu!catch] | `1,12x` |
 | Multiplicador de puntuación ![][osu!mania] | `1,00x` |
 | Estado | Clasificado |
 | Mods incompatibles ![][osu!] | [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds), [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |

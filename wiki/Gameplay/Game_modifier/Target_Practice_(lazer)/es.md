@@ -22,7 +22,7 @@ tags:
 | Acrónimo | TP |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | `0,01x` |
+| Multiplicador de puntuación | `0,10x` |
 | Estado | No clasificado |
 | Mods incompatibles | [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death_(lazer)), [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking), [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
 
