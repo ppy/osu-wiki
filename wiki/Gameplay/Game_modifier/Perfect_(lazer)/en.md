@@ -42,6 +42,10 @@ The **Perfect** mod immediately triggers a failure if the player can no longer a
 
 Changing any of these settings will **not** cause your scores to be unranked.
 
+## Trivia
+
+- When using Perfect in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to get a few non-perfect hits before failing.
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"

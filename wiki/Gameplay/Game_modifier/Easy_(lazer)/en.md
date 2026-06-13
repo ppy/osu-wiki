@@ -37,15 +37,15 @@ tags:
 
 The **Easy** mod attempts to make gameplay easier by decreasing the difficulty settings of a [beatmap](/wiki/Beatmap).
 
-In osu!, [Circle Size](/wiki/Beatmap/Circle_size), [HP Drain](/wiki/Beatmap/HP_drain_rate), [Accuracy](/wiki/Beatmap/Overall_difficulty) and [Approach Rate](/wiki/Beatmap/Approach_rate) are cut in half.
+In osu!, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate), [overall difficulty](/wiki/Beatmap/Overall_difficulty) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
 
-In osu!taiko, [HP Drain](/wiki/Beatmap/HP_drain_rate) and [Accuracy](/wiki/Beatmap/Overall_difficulty) are cut in half, while Scroll Speed is reduced by 20%.
+In osu!taiko, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are cut in half, while Scroll Speed is reduced by 20%.
 
-In osu!catch, [Circle Size](/wiki/Beatmap/Circle_size), [HP Drain](/wiki/Beatmap/HP_drain_rate) and [Approach Rate](/wiki/Beatmap/Approach_rate) are cut in half.
+In osu!catch, [circle size](/wiki/Beatmap/Circle_size), [HP drain](/wiki/Beatmap/HP_drain_rate) and [approach rate](/wiki/Beatmap/Approach_rate) are cut in half.
 
-In osu!mania, [HP Drain](/wiki/Beatmap/HP_drain_rate) and [Accuracy](/wiki/Beatmap/Overall_difficulty) are cut in half.
+In osu!mania, [HP drain](/wiki/Beatmap/HP_drain_rate) and [overall difficulty](/wiki/Beatmap/Overall_difficulty) are cut in half.
 
-In osu!mania, [HP Drain](/wiki/Beatmap/HP_drain_rate) is cut in half, while the timing windows become approximately 40% less strict.
+In osu!mania, [HP drain](/wiki/Beatmap/HP_drain_rate) is cut in half, while the timing windows become approximately 40% less strict.
 
 In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player two extra lives in case the [health bar](/wiki/Client/Interface/Health_bar) drops to zero, which will then be refilled instantly.
 
@@ -58,18 +58,6 @@ In all [game modes](/wiki/Game_mode) except osu!taiko, the mod grants the player
 Changing the number of extra lives will cause your scores to be **unranked**.
 
 *Note that this setting is only available in osu!, osu!catch and osu!mania. In osu!taiko, this mod cannot be customised.*
-
-## Scoring
-
-### osu! ![][osu!]
-
-In osu!, Easy has a score multiplier of `0.80x` by default. For each extra live above the default value, this multiplier is reduced by `0.10x` to a minimum of `0.40x` (reached at 6 extra lives). Using less than 2 extra lives does not affect the multiplier.
-
-Thus, if $E$ is the number of extra lives chosen, the score multiplier is given by $\max(0.4,0.8-\max(0,0.1\cdot(E-2)))$.
-
-### Other game modes ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-
-In osu!taiko, osu!catch and osu!mania, Easy has a score multiplier of `0.50x`.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

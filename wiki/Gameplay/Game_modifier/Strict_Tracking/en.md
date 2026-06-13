@@ -35,6 +35,6 @@ The **Strict Tracking** mod causes a miss every time the player isn't precisely 
 
 ## Trivia
 
-If the player hits the [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead) but fails to follow the follow circle through slider perfectly, the mod doesn't actually cause a miss. Instead, this results in a [slider break](/wiki/Gameplay/Judgement/Slider_break) and missing the [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail).
+- If the player hits the [sliderhead](/wiki/Gameplay/Hit_object/Slider/Sliderhead) but fails to follow the follow circle through slider perfectly, the mod doesn't actually cause a miss. Instead, this results in a [slider break](/wiki/Gameplay/Judgement/Slider_break) and missing the [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

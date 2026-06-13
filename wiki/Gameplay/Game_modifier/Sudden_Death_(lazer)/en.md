@@ -43,6 +43,10 @@ The **Sudden Death** mod immediately triggers a failure upon [breaking combo](/w
 
 Changing any of these settings will **not** cause your scores to be unranked.
 
+## Trivia
+
+- When using Sudden Death in combination with [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), the extra lives are taken into account, allowing the player to miss a few times before failing.
+
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
