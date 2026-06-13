@@ -21,7 +21,7 @@ tags:
 | Acronym | MF |
 | Type | Fun |
 | Game modes | ![][osu!catch] |
-| Score multiplier | ``1.00x`` |
+| Score multiplier | `1.00x` |
 | Status | Unranked |
 | Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)) |
 
