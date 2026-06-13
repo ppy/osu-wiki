@@ -26,7 +26,7 @@ outdated_since: e215e80e13e95487022e1aa1c68caf338f3ceb04
 | Acrónimo | AC |
 | Tipo | Aumento de dificultad |
 | Modos de juego compatibles | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | ``1,00x`` |
+| Multiplicador de puntuación | 1,00x |
 | Estado | Clasificado |
 | Mods incompatibles ![][osu!] ![][osu!catch] ![][osu!mania] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
 | Mods incompatibles ![][osu!taiko] | [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)), [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
@@ -41,7 +41,7 @@ El mod **Accuracy Challenge** le permite al jugador establecer una precisión m�
 
 ![Opciones de personalización del mod Accuracy Challenge en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60 %-99.9 %, predeterminado: 90 %): El jugador fallará el mapa si la precisión es inferior a este valor.
+- **Minimum accuracy** (60 %-99 %, predeterminado: 90 %): El jugador fallará el mapa si la precisión es inferior a este valor.
 - **Accuracy mode** (predeterminado: Máxima alcanzable): El modo de precisión que provocará que el jugador falle el mapa. 
   - **Máxima alcanzable**: El jugador muere si la precisión no supera este valor al finalizar el mapa.
   - **Estándar**: El jugador muere si la precisión es estrictamente inferior al valor.

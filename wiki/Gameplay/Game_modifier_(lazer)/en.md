@@ -18,7 +18,7 @@ tags:
 
 ![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
 
-**Game modifiers** (*mods* for short) are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. Some of them can reduce or increase the Score Multiplier. When multiple mods are being used simultaneously, their respective multipliers will usually be multiplied together (e.g. ``1.04x * 1.09x = 1.1336x``). There are some exceptions to this, these are pointed out in the articles of those mods.
+**Game modifiers** (*mods* for short) are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. Some of them can reduce or increase the Score Multiplier. When multiple mods are being used simultaneously, their respective multipliers will be multiplied together (e.g. `1.06x * 1.12x = 1.1872x`).
 
 ## List of mods
 
