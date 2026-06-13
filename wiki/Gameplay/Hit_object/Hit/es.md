@@ -22,7 +22,7 @@ Cuando los Dons y los Kats se superponen con este círculo blanco, el jugador de
 
 ## Finishers
 
-Los **Finishers** (a veces llamados *golpes fuertes* o *finalizadores*) son versiones más potentes de los Dons y Kats normales, en las que el jugador debe presionar dos botones del color correcto al mismo tiempo, en lugar de solo uno. Además, las notas finalizadoras funcionan igual que las notas normales.
+Los **finishers** (a veces llamados *golpes fuertes* o *finalizadores*) son versiones más potentes de los Dons y Kats normales, en las que el jugador debe presionar dos botones del color correcto al mismo tiempo, en lugar de solo uno. Además, las notas finalizadoras funcionan igual que las notas normales.
 
 ## Juicio
 
