@@ -22,7 +22,7 @@ tags:
 | Type | Difficulty Reduction |
 | Default shortcut key | `T` |
 | Game modes | ![][osu!taiko] |
-| Score multiplier | ``0.60x`` |
+| Score multiplier | `0.60x` |
 | Status | Unranked |
 | Incompatible mods | None |
 
