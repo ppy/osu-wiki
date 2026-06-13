@@ -23,11 +23,10 @@ tags:
 | Acrónimo | MR |
 | Tipo | Conversión |
 | Modos de juego compatibles | ![][osu!] ![][osu!catch] ![][osu!mania] |
-| Multiplicador de puntuación | 1,00x |
+| Multiplicador de puntuación | `1,00x` |
 | Estado ![][osu!] ![][osu!catch] | No clasificado |
 | Estado ![][osu!mania] | Clasificado |
 | Mods incompatibles ![][osu!] | [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock_(lazer)) |
-| Mods incompatibles ![][osu!catch] ![][osu!mania] | Ninguno |
 
 :::
 

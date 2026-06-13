@@ -23,9 +23,10 @@ tags:
 | 类别 | 增加难度 |
 | 默认快捷键 | `A` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| 得分系数 ![][osu!] ![][osu!taiko] | 1.06x |
-| 得分系数 ![][osu!catch] | 1.12x |
-| 得分系数 ![][osu!mania] | 1.00x |
+| 得分系数 ![][osu!] | `1.09x` |
+| 得分系数 ![][osu!taiko] | `1.06x` |
+| 得分系数 ![][osu!catch] | `1.12x` |
+| 得分系数 ![][osu!mania] | `1.00x` |
 | 状态 ![][osu!] ![][osu!taiko] ![][osu!catch] | 计入排名 |
 | 状态 ![][osu!mania] | 不计入排名 |
 | 不兼容的模组 ![][osu!] | [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy_(lazer)), [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust), [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) |

@@ -24,7 +24,7 @@ tags:
 | 类别 | 自动化 |
 | 默认快捷键 | `C` |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!catch] |
-| 得分系数 | 0.10x |
+| 得分系数 | `0.10x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
 

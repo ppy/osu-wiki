@@ -22,7 +22,7 @@ tags:
 | Tipo | Aumento de dificultad |
 | Tecla de acceso directo predeterminada | `K` |
 | Modos de juego compatibles | ![][osu!] |
-| Multiplicador de puntuación | 1,12x |
+| Multiplicador de puntuación | `1,24x` |
 | Estado | Clasificado |
 | Mods incompatibles | [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 

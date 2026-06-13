@@ -23,7 +23,8 @@ tags:
 | 缩写 | RD |
 | 类别 | 转换 |
 | 游戏模式 | ![][osu!] ![][osu!taiko] ![][osu!mania] |
-| 得分系数 | 1.00x |
+| 得分系数 ![][osu!] | `0.70x` |
+| 得分系数 ![][osu!taiko] ![][osu!mania] | `1.00x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
 
