@@ -16,11 +16,11 @@ gmt:
     chat: moderasi obrolan
     forum: moderasi forum
     general: moderasi umum
-    team: presensi resmi tim
+    team: kehadiran resmi tim
     dev: pengembangan osu!
     player: dukungan pemain
     support: dukungan teknis
-    tournaments: dukungan turnamen
+    tournaments: manajemen turnamen
     wiki: pengelolaan wiki
     mapping: moderasi komunitas mapping/modding
     skinning: moderasi komunitas skinning
