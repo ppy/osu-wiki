@@ -13,7 +13,7 @@ The electronic scene's self-proclaimed "sparkly music maker" is now part of our 
 
 **Katari** has mastered their own form of genre fusion. This includes not only the intermingling of rhythm game and western electronic music, but also involves the fusion of orchestral, jazz, EDM, hardcore and many more genres in whatever ways **Katari** deems fit.
 
-There are a total of **8** new trakcs on [**Katari**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/549). Grab a `.osz`, mess around in the editor, then maybe one day you'll make a map as cool as any of these:
+There are a total of **8** new tracks on [**Katari**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/549). Grab a `.osz`, mess around in the editor, then maybe one day you'll make a map as cool as any of these:
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
