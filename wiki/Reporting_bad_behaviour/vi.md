@@ -5,7 +5,7 @@ outdated_since: 40e7a35ab519347caaa07e83eb12d3f9e4f70438
 
 # Báo cáo hành vi xấu
 
-osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hành Toàn cầu (GMT)](/wiki/People/Global_Moderation_Team), hoạt động nhằm giữ cho trò chơi và toàn bộ cộng đồng luôn an toàn và sạch sẽ. Nếu bạn nhận thấy một hành vi phá luật hoặc nội dung không phù hợp, hãy báo cáo bằng cách sử dụng một trong những phương pháp được mô tả bên dưới. Ngoài ra, bạn có thể liên lạc trực tiếp đến bất kỳ người điều hành nào đang hoạt động nếu báo cáo của bạn không được xử lý đúng cách trong một khoản thời gian phù hợp - chỉ nên làm như một biện pháp cuối. 
+osu! có một đội ngũ kiểm duyệt, được gọi là [Nhóm Điều hành Toàn cầu (GMT)](/wiki/People/Global_Moderation_Team), hoạt động nhằm giữ cho trò chơi và toàn bộ cộng đồng luôn an toàn và lành mạnh. Nếu bạn nhận thấy một hành vi vi phạm quy định hoặc nội dung không phù hợp, hãy báo cáo bằng cách sử dụng một trong những phương pháp được mô tả bên dưới. Ngoài ra, bạn có thể liên lạc trực tiếp với bất kỳ người điều hành nào đang hoạt động nếu báo cáo của bạn không được xử lý đúng cách trong một khoảng thời gian phù hợp - chỉ nên được xem như một biện pháp cuối. 
 
 Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo cáo không hợp lệ có nguy cơ bị [im lặng](/wiki/Silence)
 
@@ -13,11 +13,12 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 | Tính chất vi phạm | điểm liên hệ |
 | :-- | :-- |
-| Lừa đảo/lừa đảo mạo danh trong tin nhắn riêng | Gửi báo cáo thông thường |
+| Lừa đảo/giả mạo trong tin nhắn riêng | Gửi báo cáo thông thường |
 | Tin nhắn riêng tư xúc phạm/không phù hợp khác | **Không**: Thay vào đó hãy [phớt lờ người dùng](/wiki/Client/Interface/Chat_console#danh-sách-lệnh). Để có hiệu lực vĩnh viễn, sử dụng danh sách phớt lờ trong trò chơi được tìm thấy trong [Cài đặt](/wiki/Client/Options) hoặc chặn họ trên website với nút được tìm thấy trên hồ sơ người dùng của họ |
-| Nội dung không phù hợp trong beatmap [xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
+| Nội dung không phù hợp trong beatmap [được xếp hạng](/wiki/Beatmap/Category#ranked)[^invalid-reports] | [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) hoặc [GMT](/wiki/People/Global_Moderation_Team), thông qua website [quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một [Đề cử viên Beatmap](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), thông qua [website quản lý BN](https://bn.mappersguild.com/reports) |
 | Hành vi không phù hợp từ một thành viên của [NAT](/wiki/People/Nomination_Assessment_Team) hoặc [GMT](/wiki/People/Global_Moderation_Team) | [Nhóm hỗ trợ tài khoản](/wiki/People/Account_support_team) tại [support@ppy.sh](mailto:support@ppy.sh) |
+| Sao chép beatmap của người khác hoặc vi phạm bản quyền | Nộp khiếu nại DMCA đến [copyright@ppy.sh](mailto:copyright@ppy.sh) theo như [chính sách bản quyền của osu!](/wiki/Legal/Copyright) |
 | Lạm dụng tình dục hoặc hành vi sai trái nghiêm trọng | Tham khảo mục [Báo cáo lạm dụng](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Đối với điều gì khác, xem các hướng dẫn bên dưới.
@@ -26,11 +27,9 @@ Báo cáo ngẫu nhiên đều bị bỏ qua. Người dùng cố ý gửi báo 
 
 ### Lệnh !report 
 
-*Thận trọng: việc báo cáo người dùng qua lệnh `!report` trong osu!(lazer) hoặc qua website sẽ khiến cho báo cáo **hiển thị công khai cho mọi người** thay vào đó, vui lòng [sử dụng báo cáo trên menu](#lazer-reports) hoặc báo cáo họ thông qua [trang hồ sơ của họ](#trang-hồ-sơ).*
-
 ![](img/report-command.jpg "Ví dụ về sử dụng lệnh !report")
 
-Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo điều này, sử dụng [lệnh !report](https://osu.ppy.sh/community/forums/topics/34843) được ưu tiên trong kênh nơi đã xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu với !report với một dấu cách, và bạn gửi nó từ osu!(stable) hoặc từ một client IRC, **nó chỉ được nhìn thấy bởi các người kiểm duyệt** và không một ai khác trong trò chuyện. Bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như phần được miêu tả bên dưới nếu bạn vẫn cảm thấy lo ngại.
+Hành vi sai trái trong trò chuyện là vi phạm phổ biến nhất. Để báo cáo, sử dụng [lệnh `!report`](https://osu.ppy.sh/community/forums/topics/34843), tốt nhất là tại kênh xảy ra vi phạm. Đừng cảm thấy lo lắng: Nếu tin nhắn của bạn bắt đầu bằng `!report` và một dấu cách, **tin nhắn đó sẽ chỉ được nhìn thấy bởi các kiểm duyệt viên** và không một ai khác trong trò chuyện. Nếu bạn vẫn còn lo ngại, bạn cũng có thể sử dụng chức năng báo cáo qua [giao diện trong trò chơi](#stable-reports) của client osu!(stable) như minh họa bên dưới, hoặc thông qua [trang hồ sơ của người vi phạm](#trang-hồ-sơ).
 
 Cú pháp của lệnh có 2 dạng:
 

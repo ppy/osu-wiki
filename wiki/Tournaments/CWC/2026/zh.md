@@ -119,32 +119,37 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 ## 赛程安排：十六强
 
+### 2026 年 6 月 11 日 星期三
+
+| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
+| :-: | --: | :-- | :-- | :-: |
+| 23 | 立陶宛 ::{ flag=LT }:: | ::{ flag=MX }:: 墨西哥 | [6 月 11 日（周三）21:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
+
 ### 2026 年 6 月 13 日 星期六
 
 | ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
 | :-: | --: | :-- | :-- | :-: |
-| 21 | 菲律宾 ::{ flag=PH }:: | ::{ flag=US }:: 美国 | [6 月 13 日（周六）03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T030000&p1=1440&p2=145&p3=263) | [osulive](https://twitch.tv/osulive) |
-| 19 | 澳大利亚 ::{ flag=AU }:: | ::{ flag=TH }:: 泰国 | [6 月 13 日（周六）08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T080000&p1=1440&p2=57&p3=28) | [osulive](https://twitch.tv/osulive) |
-| 22 | 土耳其 ::{ flag=TR }:: | ::{ flag=MY }:: 马来西亚 | [6 月 13 日（周六）09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T090000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
-| 20 | 挪威 ::{ flag=NO }:: | ::{ flag=HK }:: 香港 | [6 月 13 日（周六）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T110000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
 | 24 | 希腊 ::{ flag=GR }:: | ::{ flag=RU }:: 俄罗斯 | [6 月 13 日（周六）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T120000&p1=1440&p3=166) | [osulive](https://twitch.tv/osulive) |
-| 23 | 立陶宛 ::{ flag=LT }:: | ::{ flag=MX }:: 墨西哥 | [6 月 13 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
+| 20 | 挪威 ::{ flag=NO }:: | ::{ flag=HK }:: 香港 | [6 月 13 日（周六）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T140000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
+| 21 | 菲律宾 ::{ flag=PH }:: | ::{ flag=US }:: 美国 | [6 月 13 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p2=145&p3=263) | [osulive_2](https://twitch.tv/osulive_2) |
+| 22 | 土耳其 ::{ flag=TR }:: | ::{ flag=MY }:: 马来西亚 | [6 月 13 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
 
 ### 2026 年 6 月 14 日 星期日
 
 | ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
 | :-: | --: | :-- | :-- | :-: |
 | 26 | 比利时 ::{ flag=BE }:: | ::{ flag=CN }:: 中国 | [6 月 14 日（周日）08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T080000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
-| 18 | 葡萄牙 ::{ flag=PT }:: | ::{ flag=NZ }:: 新西兰 | [6 月 14 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive_2](https://twitch.tv/osulive_2) |
-| 31 | 法国 ::{ flag=FR }:: | ::{ flag=KR }:: 韩国 | [6 月 14 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=195&p3=235) | [osulive](https://twitch.tv/osulive) |
+| 18 | 葡萄牙 ::{ flag=PT }:: | ::{ flag=NZ }:: 新西兰 | [6 月 14 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive](https://twitch.tv/osulive) |
 | 32 | 日本 ::{ flag=JP }:: | ::{ flag=GB }:: 英国 | [6 月 14 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T110000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) |
+| 19 | 澳大利亚 ::{ flag=AU }:: | ::{ flag=TH }:: 泰国 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=57&p3=28) | [osulive_2](https://twitch.tv/osulive_2) |
 | 25 | 波兰 ::{ flag=PL }:: | ::{ flag=TW }:: 台湾 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=262&p3=241) | [osulive](https://twitch.tv/osulive) |
+| 31 | 法国 ::{ flag=FR }:: | ::{ flag=KR }:: 韩国 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=195&p3=235) | [osufrlive](https://twitch.tv/osufrlive) |
 | 30 | 德国 ::{ flag=DE }:: | ::{ flag=ID }:: 印度尼西亚 | [6 月 14 日（周日）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) |
 | 29 | 阿根廷 ::{ flag=AR }:: | ::{ flag=SE }:: 瑞典 | [6 月 14 日（周日）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T150000&p1=1440&p2=51&p3=239) | [osulive](https://twitch.tv/osulive) |
 | 27 | 芬兰 ::{ flag=FI }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 14 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T160000&p1=1440&p2=101&p3=41) | [osulive](https://twitch.tv/osulive) |
-| 17 | 巴西 ::{ flag=BR }:: | ::{ flag=ES }:: 西班牙 | [6 月 14 日（周日）17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive_2](https://twitch.tv/osulive_2) |
+| 17 | 巴西 ::{ flag=BR }:: | ::{ flag=ES }:: 西班牙 | [6 月 14 日（周日）17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive](https://twitch.tv/osulive) |
 | 28 | 智利 ::{ flag=CL }:: | ::{ flag=CA }:: 加拿大 | [6 月 14 日（周日）19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
-| SC | 四分之一决赛 | 图池展示 | [6 月 14 日（周日）20:00 UTC（暂定）](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| SC | 四分之一决赛 | 图池展示 | [6 月 14 日（周日）20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
 
 ## 比赛结果
 
@@ -181,7 +186,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 9 | **阿根廷** ::{ flag=AR }:: | **5** | 0 | ::{ flag=PH }:: 菲律宾 | [#1](https://osu.ppy.sh/community/matches/121285816) | [#1](https://www.twitch.tv/videos/2790983125) |
 | 11 | **德国** ::{ flag=DE }:: | **5** | 0 | ::{ flag=TR }:: 土耳其 | [#1](https://osu.ppy.sh/community/matches/121285822) | [#1](https://www.twitch.tv/videos/2790987673) |
 | 14 | **韩国** ::{ flag=KR }:: | **5** | 1 | ::{ flag=MX }:: 墨西哥 | [#1](https://osu.ppy.sh/community/matches/121286583) | [#1](https://www.twitch.tv/videos/2791080768) |
-| 1 | **波兰** ::{ flag=PL }:: | **4** | 0 | ::{ flag=BR }:: 巴西 | [#1](https://osu.ppy.sh/community/matches/121286996) | [#1](https://www.twitch.tv/videos/2791126418) |
+| 1 | **波兰** ::{ flag=PL }:: | **5** | 0 | ::{ flag=BR }:: 巴西 | [#1](https://osu.ppy.sh/community/matches/121286996) | [#1](https://www.twitch.tv/videos/2791126418) |
 
 ### 资格赛
 
@@ -419,7 +424,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 4. 每支队伍有 2 分钟时间来选出谱面和 2 分钟时间来 `准备`。如果一支队伍在任一环节超出时间限制，按照以下流程处理：
    - 第一次超时：
      - 队伍将收到来自裁判的书面警告。此外，裁判可能视情况强制使用队伍的技术暂停机会供其准备/选图。
-   - 如果队伍在计时器超时后 15 秒内没有选出谱面，裁判将按照以下流程处理：
+   - 如果队伍在计时器超时后 15 秒内没有选出谱面或准备完毕，裁判将按照以下流程处理：
      - 当前正在选图：将使用 `!roll X` 选出一张随机谱面，其中 X 是除了 TB 外剩余可用谱面的数量。
      - 当前正在准备：裁判将使用 `!mp start 10` 强制开启比赛，无论此时每队有多少选手在房间内，并使用 `!mp kick` 踢出每支队伍多余的人数，直到双方人数相等（也即，最先达成的相等人数对决将被强制应用于本局比赛）。此类对局的结果（也即，2 *对* 2 或更小的比赛组合）应原样接受。
    - 若再犯可能受到比赛管理团队的进一步处罚。
