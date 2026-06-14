@@ -17,9 +17,7 @@ Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuy
 Una *bifurcación* es una copia del repositorio original que no se actualiza automáticamente. Para trabajar siempre con la versión más reciente de la osu! wiki, debes sincronizarla antes de realizar cambios. Esto se puede hacer directamente desde GitHub:
 
 1. Ve a tu bifurcación del repositorio `osu-wiki`.
-
 2. Selecciona la rama `master` del menú desplegable.
-
 3. Haz clic en `Sync fork`.
    - Si has realizado algún cambio directamente en la rama `master` y prefieres conservarlo, haz clic en `Update branch` para guardarlo.
    - Si quieres empezar de cero y ya no necesitas tus cambios, haz clic en `Discard n commit(s)`.
