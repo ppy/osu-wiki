@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: e181f4468107a6129d62129beb568f07c0bf7845
----
-
 # lazer updates
 
 ![](img/banner.png "Banner para las noticias de osu!(lazer) updates")
@@ -13,7 +8,7 @@ outdated_since: e181f4468107a6129d62129beb568f07c0bf7845
 
 La documentación de las actualizaciones de osu!(lazer) comenzó en los primeros días como publicaciones de blog escritas en [el blog personal de peppy](https://blog.ppy.sh/) y en la [página de Tumblr de osu!next](https://www.tumblr.com/osunext). Sin embargo, los usuarios casuales a menudo pasaban por alto estas publicaciones y, con el fin de aumentar la visibilidad del desarrollo en curso, más tarde se anunciaron las actualizaciones correspondientes en el [registro de cambios específico de osu!(lazer)](https://osu.ppy.sh/home/changelog/lazer), [la cuenta de Twitter de peppy](https://twitter.com/ppy) y, por último, en la serie de vídeos «lazer updates».
 
-A partir de [junio de 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023), todos los vídeos de «lazer updates» se publican junto con su correspondiente noticia de «osu!(lazer) updates» para mayor visibilidad.
+Desde [junio de 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-updates-june-21-2023), los vídeos de «lazer updates» se publican junto con sus correspondientes noticias de «osu!(lazer) updates» para aumentar su visibilidad.
 
 ## Lista de episodios
 
@@ -68,7 +63,12 @@ A partir de [junio de 2023](https://osu.ppy.sh/home/news/2023-06-22-osulazer-upd
 | 47 | [lazer's inconsistent hit windows](https://www.youtube.com/watch?v=wkLweSoz9YQ) | Ventanas de tiempo ajustadas para coincidir con osu!(stable), cambios adicionales en la interfaz de usuario del selector de canciones, archivos de las skins modificables externamente | [(↗)](https://osu.ppy.sh/home/news/2025-07-12-osulazer-updates-july-10-2025) |
 | 48 | [new feature priorities](https://www.youtube.com/watch?v=z2e8PM8Zh3o) | Avance del nuevo sistema de emparejamiento, elemento personalizable de la tasa inestable, ventana emergente de «repetición fallida», correcciones de errores relacionados con el audio, notificaciones de los mensajes más detalladas | *N/A* |
 | 49 | [just another lazer update](https://www.youtube.com/watch?v=Y4n-47cX3TI) | Se añadió la skin «retro», se implementó un medidor de error de puntería, nuevos modos de agrupación, se añadieron y actualizaron los iconos de los mods, listas de juego fijadas en el modo multijugador, accesos directos a la lista de beatmaps para un acceso rápido | *N/A* |
-| 50 | [quick play](https://www.youtube.com/watch?v=YKUQ0Y_pHaI) | Nuevo modo multijugador de «partidas rápidas», precisión mostrada en el menú de pausa, agrupación por favoritos | *N/A* |
+| 50 | [quick play](https://www.youtube.com/watch?v=YKUQ0Y_pHaI) | Modo multijugador de «partidas rápidas», precisión mostrada en el menú de pausa, agrupación por favoritos | *N/A* |
+| 51 | [the future of "quick play"](https://www.youtube.com/watch?v=HjyYDrtYFZE) | Anuncio del modo «partidas clasificatorias», énfasis en osu!(lazer) en la [página de descargas](https://osu.ppy.sh/home/download) rediseñada, nueva [tabla de clasificación de las mejores jugadas](https://osu.ppy.sh/rankings/top-plays)| [(↗)](https://osu.ppy.sh/home/news/2025-12-05-introducing-quick-play) |
+| 52 | [lazer's roadmap](https://www.youtube.com/watch?v=ZS3EucVtfB8) | Gestión de proyectos, transición al modo de «partidas clasificatorias», encuesta sobre el multiplicador de mods, ajuste del área de la tableta según el tamaño de la pantalla, compatibilidad con conjuntos de muestras personalizados | [(↗)](https://osu.ppy.sh/home/news/2026-01-19-survey-mod-multipliers) |
+| 53 | [osu! did not explode](https://www.youtube.com/watch?v=h_bTQXF5sVE) | Cambios en la infraestructura, selectividad para guardar puntuaciones, perfiles de usuario muestran las repeticiones más vistas, rediseño del menú de configuración, incorporación de atajos de teclado, cambios en los mods, compatibilidad para torneos de osu!(lazer), avance del modo de «partidas clasificatorias» | *N/A* |
+| 54 | [ranked play](https://www.youtube.com/watch?v=FdAS8LHID9g) | Introducción del modo de «partidas clasificatorias», pantallas de carga, cambios en los mods, mejoras en el editor, medallas en el cliente, notificaciones de usuario, adición del comando `/savelog` | *N/A* |
+| 55 | [solving ranked play's biggest problems](https://www.youtube.com/watch?v=_NEoSHIpuKk) | Mejoras en el modo de «partidas clasificatorias» y en los duelos, puntuación dinámica para los beatmaps, multiplicadores de daño, transiciones rápidas entre servidores, mejoras en el editor y manejo de entradas | *N/A* |
 
 ## Otros vídeos relacionados
 
