@@ -30,6 +30,7 @@ tags:
 | Score multiplier ![][osu!mania] | `1.00x` |
 | Status | Ranked |
 | Incompatible mods ![][osu!] | [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable), [Spin In (SI)](/wiki/Gameplay/Game_modifier/Spin_In), [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different), [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame), [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) |
+| Incompatible mods ![][osu!taiko] ![][osu!catch] | None |
 | Incompatible mods ![][osu!mania] | [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
 :::
