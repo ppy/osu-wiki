@@ -303,7 +303,7 @@ While ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) was assumed to be the 
 
 ## Number of reigns
 
-The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 8 August 2024).
+The following is a list of the total number of times a player has reached the rank #1 spot in their playtime (as of 14 June 2026).
 
 | Player | Reigns |
 | --: | :-: |
@@ -332,6 +332,7 @@ The following is a list of the total number of times a player has reached the ra
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 1 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 1 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 |
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
