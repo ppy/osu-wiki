@@ -25,7 +25,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] |
 | Score multiplier | `1.00x` |
 | Status | Ranked |
-| Incompatible mods | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
+| Incompatible mods ![][osu!] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) |
+| Incompatible mods ![][osu!taiko] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Relax (RX)](/wiki/Gameplay/Game_modifier/Relax_(lazer)) |
 
 :::
 
