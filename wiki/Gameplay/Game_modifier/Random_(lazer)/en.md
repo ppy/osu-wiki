@@ -25,7 +25,9 @@ tags:
 | Game modes | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | Score multiplier | `1.00x` |
 | Status | Unranked |
-| Incompatible mods | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)), [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
+| Incompatible mods ![][osu!] | [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) |
+| Incompatible mods ![][osu!taiko] | [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) |
+| Incompatible mods ![][osu!mania] | None |
 
 :::
 
