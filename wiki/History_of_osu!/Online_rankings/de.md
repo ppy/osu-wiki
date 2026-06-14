@@ -21,21 +21,21 @@ Zahlreiche Spieler hielten den ersten Rang in jedem Spielmodus mit verschiedenen
 
 *Hauptseite: [Geschichte der osu!-Rangliste](osu!)*
 
-Mit Stand vom 3. August 2024 ist ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
+Seit dem 14. Juni 2026 ist ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu) auf Platz 1 der [osu! Performance-Rangliste](https://osu.ppy.sh/rankings/osu/performance).
 
 ## ![][osu!taiko] osu!taiko
 
-Mit Stand vom 1. März 2025 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
+Seit dem 24. März 2026 ist ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko) auf Platz 1 der [osu!taiko Performance-Rangliste](https://osu.ppy.sh/rankings/taiko/performance).
 
 ## ![][osu!catch] osu!catch
 
 *Hauptseite: [Geschichte der osu!catch-Rangliste](osu!catch)*
 
-Mit Stand vom 2. November 2024 ist ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
+Seit dem 2. November 2024 ist ::{ flag=KR }:: [qwhj79](https://osu.ppy.sh/users/7547506/fruits) auf Platz 1 der [osu!catch Performance-Rangliste](https://osu.ppy.sh/rankings/fruits/performance).
 
 ## ![][osu!mania] osu!mania
 
-Mit Stand vom 12. Oktober 2025 ist ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
+Seit dem 4. April 2026 ist ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania) auf Platz 1 der [osu!mania Performance-Rangliste](https://osu.ppy.sh/rankings/mania/performance).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
