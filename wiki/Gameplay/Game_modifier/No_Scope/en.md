@@ -24,7 +24,8 @@ tags:
 | Game modes | ![][osu!] ![][osu!catch] |
 | Score multiplier | `1.00x` |
 | Status | Ranked |
-| Incompatible mods | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Incompatible mods ![][osu!] | [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) |
+| Incompatible mods ![][osu!catch] | None |
 
 :::
 
