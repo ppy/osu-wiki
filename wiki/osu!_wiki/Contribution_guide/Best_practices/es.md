@@ -11,7 +11,7 @@ Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuy
 ## Sincronizar la bifurcación
 
 ::: Infobox
-![](img/update-branch.png?1 "Updating the outdated branch")
+![](img/update-branch.png?1 "Actualización de la rama desactualizada")
 :::
 
 Una *bifurcación* es una copia del repositorio original que no se actualiza automáticamente. Para trabajar siempre con la versión más reciente de la osu! wiki, debes sincronizarla antes de realizar cambios. Esto se puede hacer directamente desde GitHub:
