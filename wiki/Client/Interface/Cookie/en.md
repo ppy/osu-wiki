@@ -24,5 +24,6 @@ The following is a table that shows all of the cookies used throughout the histo
 | ![The 2011 osu! logo](img/2011.png) | 2011 | Uses *Verdana*. |
 | ![The 2011 osu! logo](img/2011fixedcolour.png) | 2011 | Uses *Verdana*. |
 | ![The 2014 osu! logo](img/2014@2x.png) | 2014 | Uses *Aller*. |
-| ![The present osu! logo](img/2016@2x.png) | 2016 – present | Uses *Aller* |
-| *missing* | January 2024 – May 2024 | Uses *Torus*, only used shortly due to criticism. |
+| ![The 2016 osu! logo](img/2016@2x.png) | 2016 | Uses *Aller*. |
+| ![The 2024 osu! logo](img/2024@2x.png) | January 2024 – May 2024 | Uses *Torus*, only used shortly due to criticism. |
+| ![The present osu! logo](img/2024_2@2x.png) | May 2024 – present | Uses *Torus*. |
