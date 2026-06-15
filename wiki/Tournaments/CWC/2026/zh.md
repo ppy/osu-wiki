@@ -156,7 +156,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 42a | 加拿大 ::{ flag=CA }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 21 日（周日）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=188&p3=41) |  | [^potential-match] |
 | 42c | 美国 ::{ flag=US }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 21 日（周日）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=263&p3=41) |  | [^potential-match] |
 | 46 | 芬兰 ::{ flag=FI }:: | ::{ flag=CL }:: 智利 | [6 月 21 日（周日）18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T180000&p1=1440&p2=101&p3=232) |  | [^winners-bracket] |
-| SC | 半决赛 | 图池展示 | [6 月 21 日（周日）19:00 UTC（待定）](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| SC | 半决赛 | 图池展示 | [6 月 21 日（周日）19:00 UTC（暂定）](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 比赛结果
 
