@@ -36,7 +36,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 Bạn có thể tiếp tục chơi trong các giải đấu cộng đồng mà không yêu cầu sự hỗ trợ chính thức hoặc cần phải xét duyệt theo quyết định của những người tổ chức sự kiện đó.
 
-Bạn vẫn có thể giúp tổ chức các giải đấu được hỗ trợ chính thức với vai trò là người phát trực tiếp, bình luận viên hay thiết kế đồ họa tùy theo quyết định của người tổ chức giải đấu. Nếu bạn muốn hỗ trợ ở các vai trò khác, người tổ chức giải đấu mà bạn muốn tham gia giúp đỡ PHẢI yêu cầu một ngoại lệ trong yêu cầu hỗ trợ ban đầu của họ. Dựa trên lý do và mức độ nghiêm trọng của vi phạm, cùng với lịch sử của bạn. [Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) sau đó mới có thể chấp nhận ngoại lệ này.
+Bạn vẫn có thể giúp tổ chức các giải đấu được hỗ trợ chính thức với vai trò là người phát trực tiếp, bình luận viên hay thiết kế đồ họa tùy theo quyết định của người tổ chức giải đấu. Nếu bạn muốn hỗ trợ ở các vai trò khác, người tổ chức giải đấu mà bạn muốn tham gia giúp đỡ PHẢI yêu cầu một ngoại lệ trong yêu cầu hỗ trợ ban đầu của họ. Dựa trên lý do và mức độ nghiêm trọng của vi phạm, cùng với lịch sử của bạn. [Đội ngũ hỗ trợ tài khoản](/wiki/People/Account_support_team) sau cùng mới có thể chấp nhận ngoại lệ này.
 
 Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể được cung cấp cho các nhà tổ chức giải đấu khi có yêu cầu, cho dù họ có được hỗ trợ chính thức hay không.
 
