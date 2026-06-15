@@ -4,9 +4,9 @@
 
 ## Lệnh cấm thi đấu
 
-Lệnh cấm thi đấu ngăn một người chơi từ việc tham gia các giải đấu hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
+Lệnh cấm thi đấu ngăn người chơi tham gia các giải đấu hoặc hỗ trợ giải đấu chính thức. Nó cũng hạn chế mức độ mà người chơi tham gia vào công việc của nhân viên hoặc hỗ trợ các giải đấu này.
 
-Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả các người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời hạn kéo dài ít nhất một năm.
+Lệnh cấm thi đấu rất hiếm khi được áp dụng một cách riêng lẻ. Nhưng nói chung, hầu hết tất cả người chơi trở lại theo tiêu chuẩn kháng cáo đối với [hạn chế tài khoản](/wiki/Help_centre/Account_restrictions) sẽ phải chịu lệnh cấm có thời hạn kéo dài ít nhất một năm.
 
 Do tính chất quan trọng của việc chơi các giải đấu, các lệnh cấm giải đấu được xử lý rất nghiêm túc và sẽ không nhận được sự khoan nhượng như những hạn chế tài khoản thường có thể nhận được.
 
@@ -26,7 +26,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 
 - Như đã nêu ở trên, bất kỳ việc sử dụng công cụ gian lận bên thứ ba hoặc tiện ích để giành lợi thế.
 - Sử dụng nhiều tài khoản để tham gia giải đấu.
-- Cố gắng để trốn tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác.
+- Cố gắng né tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác.
 - Chia sẻ tài khoản trong khi tham gia một giải đấu hỗ trợ chính thức.
 - Kết hợp thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
 - Lạm dụng vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
