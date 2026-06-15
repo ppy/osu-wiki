@@ -52,7 +52,7 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 | Sử dụng nhiều tài khoản hoặc chia sẻ tài khoản trong giải đấu được hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
 | Sử dụng tiện ích bên thứ ba hoặc các công cụ gian lận khác trong giải đấu được hỗ trợ chính thức | Vô thời hạn | Cũng sẽ dẫn đến hạn chế |
 | Tận dụng thông tin nội bộ/bảo mật của giải đấu để đạt được hoặc mang lại lợi thế không công bằng | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
-| Lạm dụng nghiêm trọng hoặc quấy rối ban tổ chức/nhân viên/người tham gia giải đấu | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
+| Lạm dụng nghiêm trọng hoặc quấy rối ban tổ chức/thành viên hỗ trợ tổ chức/người tham gia giải đấu | Vô thời hạn | Cũng có thể dẫn đến hạn chế |
 
 ## Giám sát việc tổ chức 
 
