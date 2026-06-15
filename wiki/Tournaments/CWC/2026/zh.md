@@ -3,8 +3,6 @@ tags:
   - CWC
   - CWC2026
   - CWC 2026
-outdated_translation: true
-outdated_since: fc7e27327b4fd97d3e1b842bfc346ee96602536d
 ---
 
 # osu!catch 世界杯 2026
@@ -119,41 +117,83 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 完整的报名表存储在[这里](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec)。
 
-## 赛程安排：十六强
+## 赛程安排：四分之一决赛
 
-### 2026 年 6 月 11 日 星期三
+### 2026 年 6 月 20 日 星期六
 
-| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
-| :-: | --: | :-- | :-- | :-: |
-| 23 | 立陶宛 ::{ flag=LT }:: | ::{ flag=MX }:: 墨西哥 | [6 月 11 日（周三）21:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=155) | [osulive](https://twitch.tv/osulive) |
+| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 35 | 哥伦比亚 ::{ flag=CO }:: | ::{ flag=MY }:: 马来西亚 | [Jun 20 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T030000&p1=1440&p2=41&p3=122) |  | [^losers-bracket] |
+| 38 | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=TH }:: 泰国 | [Jun 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T090000&p1=1440&p2=108&p3=28) |  | [^losers-bracket] |
+| 33 | 台湾 ::{ flag=TW }:: | ::{ flag=RU }:: 俄罗斯 | [Jun 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T110000&p1=1440&p2=241&p3=166) |  | [^losers-bracket] |
+| 39 | 韩国 ::{ flag=KR }:: | ::{ flag=PT }:: 葡萄牙 | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=235&p3=133) |  | [^losers-bracket] |
+| 45 | 波兰 ::{ flag=PL }:: | ::{ flag=CN }:: 中国 | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=262&p3=33) |  | [^winners-bracket] |
+| 37 | 瑞典 ::{ flag=SE }:: | ::{ flag=HK }:: 香港 | [Jun 20 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T130000&p1=1440&p2=239&p3=102) |  | [^losers-bracket] |
+| 40 | 英国 ::{ flag=GB }:: | ::{ flag=ES }:: 西班牙 | [Jun 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=136&p3=141) |  | [^losers-bracket] |
+| 47 | 阿根廷 ::{ flag=AR }:: | ::{ flag=DE }:: 德国 | [Jun 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T160000&p1=1440&p2=51&p3=37) |  | [^winners-bracket] |
+| 34 | 比利时 ::{ flag=BE }:: | ::{ flag=MX }:: 墨西哥 | [Jun 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T180000&p1=1440&p2=48&p3=155) |  | [^losers-bracket] |
+| 36 | 加拿大 ::{ flag=CA }:: | ::{ flag=US }:: 美国 | [Jun 20 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T200000&p1=1440&p2=188&p3=263) |  | [^losers-bracket] |
 
-### 2026 年 6 月 13 日 星期六
+### 2026 年 6 月 21 日 星期日
 
-| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
-| :-: | --: | :-- | :-- | :-: |
-| 24 | 希腊 ::{ flag=GR }:: | ::{ flag=RU }:: 俄罗斯 | [6 月 13 日（周六）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T120000&p1=1440&p3=166) | [osulive](https://twitch.tv/osulive) |
-| 20 | 挪威 ::{ flag=NO }:: | ::{ flag=HK }:: 香港 | [6 月 13 日（周六）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T140000&p1=1440&p2=187&p3=102) | [osulive](https://twitch.tv/osulive) |
-| 21 | 菲律宾 ::{ flag=PH }:: | ::{ flag=US }:: 美国 | [6 月 13 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p2=145&p3=263) | [osulive_2](https://twitch.tv/osulive_2) |
-| 22 | 土耳其 ::{ flag=TR }:: | ::{ flag=MY }:: 马来西亚 | [6 月 13 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260613T160000&p1=1440&p3=122) | [osulive](https://twitch.tv/osulive) |
-
-### 2026 年 6 月 14 日 星期日
-
-| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |
-| :-: | --: | :-- | :-- | :-: |
-| 26 | 比利时 ::{ flag=BE }:: | ::{ flag=CN }:: 中国 | [6 月 14 日（周日）08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T080000&p1=1440&p2=48&p3=33) | [osulive](https://twitch.tv/osulive) |
-| 18 | 葡萄牙 ::{ flag=PT }:: | ::{ flag=NZ }:: 新西兰 | [6 月 14 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T100000&p1=1440&p2=133&p3=264) | [osulive](https://twitch.tv/osulive) |
-| 32 | 日本 ::{ flag=JP }:: | ::{ flag=GB }:: 英国 | [6 月 14 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T110000&p1=1440&p2=248&p3=136) | [osulive](https://twitch.tv/osulive) |
-| 19 | 澳大利亚 ::{ flag=AU }:: | ::{ flag=TH }:: 泰国 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=57&p3=28) | [osulive_2](https://twitch.tv/osulive_2) |
-| 25 | 波兰 ::{ flag=PL }:: | ::{ flag=TW }:: 台湾 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=262&p3=241) | [osulive](https://twitch.tv/osulive) |
-| 31 | 法国 ::{ flag=FR }:: | ::{ flag=KR }:: 韩国 | [6 月 14 日（周日）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T120000&p1=1440&p2=195&p3=235) | [osufrlive](https://twitch.tv/osufrlive) |
-| 30 | 德国 ::{ flag=DE }:: | ::{ flag=ID }:: 印度尼西亚 | [6 月 14 日（周日）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T140000&p1=1440&p2=37&p3=108) | [osulive](https://twitch.tv/osulive) |
-| 29 | 阿根廷 ::{ flag=AR }:: | ::{ flag=SE }:: 瑞典 | [6 月 14 日（周日）15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T150000&p1=1440&p2=51&p3=239) | [osulive](https://twitch.tv/osulive) |
-| 27 | 芬兰 ::{ flag=FI }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 14 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T160000&p1=1440&p2=101&p3=41) | [osulive](https://twitch.tv/osulive) |
-| 17 | 巴西 ::{ flag=BR }:: | ::{ flag=ES }:: 西班牙 | [6 月 14 日（周日）17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T173000&p1=1440&p2=45&p3=141) | [osulive](https://twitch.tv/osulive) |
-| 28 | 智利 ::{ flag=CL }:: | ::{ flag=CA }:: 加拿大 | [6 月 14 日（周日）19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T190000&p1=1440&p2=232&p3=188) | [osulive](https://twitch.tv/osulive) |
-| SC | 四分之一决赛 | 图池展示 | [6 月 14 日（周日）20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260614T200000&p1=1440) | [osulive](https://twitch.tv/osulive) |
+| ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 42b | 加拿大 ::{ flag=CA }:: | ::{ flag=MY }:: 马来西亚 | [Jun 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=188&p3=122) |  | [^potential-match] |
+| 42d | 美国 ::{ flag=US }:: | ::{ flag=MY }:: 马来西亚 | [Jun 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=263&p3=122) |  | [^potential-match] |
+| 41c | 墨西哥 ::{ flag=MX }:: | ::{ flag=TW }:: 台湾 | [Jun 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T040000&p1=1440&p2=155&p3=241) |  | [^potential-match] |
+| 41a | 比利时 ::{ flag=BE }:: | ::{ flag=TW }:: 台湾 | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=241) |  | [^potential-match] |
+| 41b | 比利时 ::{ flag=BE }:: | ::{ flag=RU }:: 俄罗斯 | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=166) |  | [^potential-match] |
+| 48 | 法国 ::{ flag=FR }:: | ::{ flag=JP }:: 日本 | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=195&p3=248) |  | [^winners-bracket] |
+| 44a | 英国 ::{ flag=GB }:: | ::{ flag=KR }:: 韩国 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=235) |  | [^potential-match] |
+| 44b | 英国 ::{ flag=GB }:: | ::{ flag=PT }:: 葡萄牙 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=133) |  | [^potential-match] |
+| 44c | 西班牙 ::{ flag=ES }:: | ::{ flag=KR }:: 韩国 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=235) |  | [^potential-match] |
+| 44d | 西班牙 ::{ flag=ES }:: | ::{ flag=PT }:: 葡萄牙 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=133) |  | [^potential-match] |
+| 43a | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=SE }:: 瑞典 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=239) |  | [^potential-match] |
+| 43b | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=HK }:: 香港 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=102) |  | [^potential-match] |
+| 43c | 泰国 ::{ flag=TH }:: | ::{ flag=SE }:: 瑞典 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=239) |  | [^potential-match] |
+| 43d | 泰国 ::{ flag=TH }:: | ::{ flag=HK }:: 香港 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=102) |  | [^potential-match] |
+| 41d | 墨西哥 ::{ flag=MX }:: | ::{ flag=RU }:: 俄罗斯 | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=155&p3=166) |  | [^potential-match] |
+| 42a | 加拿大 ::{ flag=CA }:: | ::{ flag=CO }:: 哥伦比亚 | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=188&p3=41) |  | [^potential-match] |
+| 42c | 美国 ::{ flag=US }:: | ::{ flag=CO }:: 哥伦比亚 | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=263&p3=41) |  | [^potential-match] |
+| 46 | 芬兰 ::{ flag=FI }:: | ::{ flag=CL }:: 智利 | [Jun 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T180000&p1=1440&p2=101&p3=232) |  | [^winners-bracket] |
+| SC | 半决赛 | 图池展示 | [Jun 21 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 比赛结果
+
+### 十六强
+
+本轮比赛统计细节可在[此表](https://docs.google.com/spreadsheets/d/1oDJVHX87l3PYeuPRL2UumkYbi5NlOl0dVG2v4NY9LDo?rm=minimal)中找到。
+
+2026 年 6 月 11 日 星期三:
+
+| ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 23 | 立陶宛 ::{ flag=LT }:: | 0 | **6** | ::{ flag=MX }:: **墨西哥** | [#1](https://osu.ppy.sh/community/matches/121311254) | [#1](https://www.twitch.tv/videos/2794922009) |
+
+2026 年 6 月 13 日 星期六:
+
+| ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 24 | 希腊 ::{ flag=GR }:: | 2 | **6** | ::{ flag=RU }:: **俄罗斯** | [#1](https://osu.ppy.sh/community/matches/121320645) | [#1](https://www.twitch.tv/videos/2795713443) |
+| 20 | 挪威 ::{ flag=NO }:: | 0 | **6** | ::{ flag=HK }:: **香港** | [#1](https://osu.ppy.sh/community/matches/121321409) | [#1](https://www.twitch.tv/videos/2795750591) |
+| 21 | 菲律宾 ::{ flag=PH }:: | 0 | **6** | ::{ flag=US }:: **美国** | [#1](https://osu.ppy.sh/community/matches/121322284) | [#1](https://www.twitch.tv/videos/2795800859) |
+| 22 | 土耳其 ::{ flag=TR }:: | 1 | **6** | ::{ flag=MY }:: **马来西亚** | [#1](https://osu.ppy.sh/community/matches/121322283) | [#1](https://www.twitch.tv/videos/2795802495) |
+
+2026 年 6 月 14 日 星期日:
+
+| ID | 队伍 A |  |  | 队伍 B | 比赛链接 | 回放链接 |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 26 | 比利时 ::{ flag=BE }:: | 4 | **6** | ::{ flag=CN }:: **中国** | [#1](https://osu.ppy.sh/community/matches/121326997) |  |
+| 18 | **葡萄牙** ::{ flag=PT }:: | **6** | 4 | ::{ flag=NZ }:: 新西兰 | [#1](https://osu.ppy.sh/community/matches/121327396) |  |
+| 32 | **日本** ::{ flag=JP }:: | **6** | 0 | ::{ flag=GB }:: 英国 | [#1](https://osu.ppy.sh/community/matches/121327623) |  |
+| 19 | 澳大利亚 ::{ flag=AU }:: | 0 | **6** | ::{ flag=TH }:: **泰国** | [#1](https://osu.ppy.sh/community/matches/121327985) |  |
+| 25 | **波兰** ::{ flag=PL }:: | **6** | 1 | ::{ flag=TW }:: 台湾 | [#1](https://osu.ppy.sh/community/matches/121327986) |  |
+| 31 | **法国** ::{ flag=FR }:: | **6** | 0 | ::{ flag=KR }:: 韩国 | [#1](https://osu.ppy.sh/community/matches/121327931) |  |
+| 30 | **德国** ::{ flag=DE }:: | **6** | 2 | ::{ flag=ID }:: 印度尼西亚 | [#1](https://osu.ppy.sh/community/matches/121328719) |  |
+| 29 | **阿根廷** ::{ flag=AR }:: | **6** | 2 | ::{ flag=SE }:: 瑞典 | [#1](https://osu.ppy.sh/community/matches/121329108) |  |
+| 27 | **芬兰** ::{ flag=FI }:: | **6** | 0 | ::{ flag=CO }:: 哥伦比亚 | [#1](https://osu.ppy.sh/community/matches/121329495) |  |
+| 17 | 巴西 ::{ flag=BR }:: | 0 | **6** | ::{ flag=ES }:: **西班牙** | [#1](https://osu.ppy.sh/community/matches/121330055) |  |
+| 28 | **智利** ::{ flag=CL }:: | **6** | 1 | ::{ flag=CA }:: 加拿大 | [#1](https://osu.ppy.sh/community/matches/121330613) |  |
 
 ### 三十二强
 
@@ -243,6 +283,33 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | #44 | ::{ flag=SK }:: 斯洛伐克 | 3.147 | 1,044,970 | [#1](https://osu.ppy.sh/community/matches/121234320) |
 
 ## 图池
+
+### 四分之一决赛
+
+**[在这里下载图包 (157 MB)](https://packs.ppy.sh/P328%20-%20osu%21catch%20World%20Cup%202026%3A%20Quarterfinals.zip)**
+
+- No Mod
+  1. [DragonForce - Ashes of the Dawn (Du5t) \[Du5t & Verso's Burning Phoenix\]](https://osu.ppy.sh/beatmapsets/2570000#fruits/5719094)
+  2. [seatrus - Tabula Rasa (Zileni) \[Clear Mind\]](https://osu.ppy.sh/beatmapsets/2569980#fruits/5719035)
+  3. [Akizuki Akira feat. Hodokyo - Tasogare no Melodia (Rocma) \[retirement home\]](https://osu.ppy.sh/beatmapsets/2569986#fruits/5719050)
+  4. [Aphex Twin - Vordhosbn (Cut Ver.) (Cruwev) \[frames11\]](https://osu.ppy.sh/beatmapsets/2569984#fruits/5719044)
+- Hidden
+  1. [YUC'e - Nasu Is Not Fruits Desu! (Kukkai) \[Kukkinate is not fruits!\]](https://osu.ppy.sh/beatmapsets/2569989#fruits/5719060)
+  2. [xi - Mirage Garden (Yoshi\_green) \[Paradise?\]](https://osu.ppy.sh/beatmapsets/2569988#fruits/5719057)
+  3. [The Musical Ghost - Avallonis (Sololiquy) \[Overdose+\]](https://osu.ppy.sh/beatmapsets/2570058#fruits/5719264)
+- Hard Rock
+  1. [Shimotsuki Haruka - Youka to Yumeutsutsu (Sped up & Cut Ver.) (F D Flourite) \[Blooming\]](https://osu.ppy.sh/beatmapsets/2569990#fruits/5719066)
+  2. [Elliot Hsu - Grimoire Academia (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2570027#fruits/5719194)
+  3. [steelplus - Skywired Beatscape (Spectator) \[CWC 2026 QF HR3\]](https://osu.ppy.sh/beatmapsets/2570033#fruits/5719200)
+- Double Time
+  1. [CHiCO with HoneyWorks - Ai no Scenario (Yoshi\_green) \[Double Tatoe\]](https://osu.ppy.sh/beatmapsets/2569994#fruits/5719078)
+  2. [Synthion - Spica (hiroshiki) \[Twinkle\]](https://osu.ppy.sh/beatmapsets/2569995#fruits/5719081)
+  3. [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Mochi -) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2569997#fruits/5719083)
+- Mixed Mod
+  1. [ryo (supercell) feat. Kaguya (CV: Yuko Natsuyoshi) - Melt CPK! Remix (Kaguya Ver.) (Yumeno Himiko) \[First Affection\]](https://osu.ppy.sh/beatmapsets/2570009#fruits/5719120)
+  2. [Good Kid - Break (Verso Dessendre) \[Breather\]](https://osu.ppy.sh/beatmapsets/2569999#fruits/5719093)
+- Tiebreaker
+  1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (Nelly) \[Alice\]](https://osu.ppy.sh/beatmapsets/2570001#fruits/5719099)**
 
 ### 十六强
 
@@ -470,5 +537,9 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 ## 注
 
+[^winners-bracket]: 胜者组比赛
+[^losers-bracket]: 败者组比赛
+[^potential-match]: 待定比赛——最终队伍取决于之前的败者组比赛胜负
+[^mappool-showcase]: 图池展示
 [^qualifiers-seeding]: 用于决定种子名次
 [^qualifiers-tiebreaker]: 当两队的百分比赋分求和相同时，用于决定种子名次
