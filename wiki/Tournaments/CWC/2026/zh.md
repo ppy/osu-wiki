@@ -123,40 +123,40 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 | ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 35 | 哥伦比亚 ::{ flag=CO }:: | ::{ flag=MY }:: 马来西亚 | [Jun 20 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T030000&p1=1440&p2=41&p3=122) |  | [^losers-bracket] |
-| 38 | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=TH }:: 泰国 | [Jun 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T090000&p1=1440&p2=108&p3=28) |  | [^losers-bracket] |
-| 33 | 台湾 ::{ flag=TW }:: | ::{ flag=RU }:: 俄罗斯 | [Jun 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T110000&p1=1440&p2=241&p3=166) |  | [^losers-bracket] |
-| 39 | 韩国 ::{ flag=KR }:: | ::{ flag=PT }:: 葡萄牙 | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=235&p3=133) |  | [^losers-bracket] |
-| 45 | 波兰 ::{ flag=PL }:: | ::{ flag=CN }:: 中国 | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=262&p3=33) |  | [^winners-bracket] |
-| 37 | 瑞典 ::{ flag=SE }:: | ::{ flag=HK }:: 香港 | [Jun 20 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T130000&p1=1440&p2=239&p3=102) |  | [^losers-bracket] |
-| 40 | 英国 ::{ flag=GB }:: | ::{ flag=ES }:: 西班牙 | [Jun 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=136&p3=141) |  | [^losers-bracket] |
-| 47 | 阿根廷 ::{ flag=AR }:: | ::{ flag=DE }:: 德国 | [Jun 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T160000&p1=1440&p2=51&p3=37) |  | [^winners-bracket] |
-| 34 | 比利时 ::{ flag=BE }:: | ::{ flag=MX }:: 墨西哥 | [Jun 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T180000&p1=1440&p2=48&p3=155) |  | [^losers-bracket] |
-| 36 | 加拿大 ::{ flag=CA }:: | ::{ flag=US }:: 美国 | [Jun 20 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T200000&p1=1440&p2=188&p3=263) |  | [^losers-bracket] |
+| 35 | 哥伦比亚 ::{ flag=CO }:: | ::{ flag=MY }:: 马来西亚 | [6 月 20 日（周六）03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T030000&p1=1440&p2=41&p3=122) |  | [^losers-bracket] |
+| 38 | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=TH }:: 泰国 | [6 月 20 日（周六）09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T090000&p1=1440&p2=108&p3=28) |  | [^losers-bracket] |
+| 33 | 台湾 ::{ flag=TW }:: | ::{ flag=RU }:: 俄罗斯 | [6 月 20 日（周六）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T110000&p1=1440&p2=241&p3=166) |  | [^losers-bracket] |
+| 39 | 韩国 ::{ flag=KR }:: | ::{ flag=PT }:: 葡萄牙 | [6 月 20 日（周六）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=235&p3=133) |  | [^losers-bracket] |
+| 45 | 波兰 ::{ flag=PL }:: | ::{ flag=CN }:: 中国 | [6 月 20 日（周六）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=262&p3=33) |  | [^winners-bracket] |
+| 37 | 瑞典 ::{ flag=SE }:: | ::{ flag=HK }:: 香港 | [6 月 20 日（周六）13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T130000&p1=1440&p2=239&p3=102) |  | [^losers-bracket] |
+| 40 | 英国 ::{ flag=GB }:: | ::{ flag=ES }:: 西班牙 | [6 月 20 日（周六）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=136&p3=141) |  | [^losers-bracket] |
+| 47 | 阿根廷 ::{ flag=AR }:: | ::{ flag=DE }:: 德国 | [6 月 20 日（周六）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T160000&p1=1440&p2=51&p3=37) |  | [^winners-bracket] |
+| 34 | 比利时 ::{ flag=BE }:: | ::{ flag=MX }:: 墨西哥 | [6 月 20 日（周六）18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T180000&p1=1440&p2=48&p3=155) |  | [^losers-bracket] |
+| 36 | 加拿大 ::{ flag=CA }:: | ::{ flag=US }:: 美国 | [6 月 20 日（周六）20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T200000&p1=1440&p2=188&p3=263) |  | [^losers-bracket] |
 
 ### 2026 年 6 月 21 日 星期日
 
 | ID | 队伍 A | 队伍 B | 比赛时间 | Twitch 直播 |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 42b | 加拿大 ::{ flag=CA }:: | ::{ flag=MY }:: 马来西亚 | [Jun 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=188&p3=122) |  | [^potential-match] |
-| 42d | 美国 ::{ flag=US }:: | ::{ flag=MY }:: 马来西亚 | [Jun 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=263&p3=122) |  | [^potential-match] |
-| 41c | 墨西哥 ::{ flag=MX }:: | ::{ flag=TW }:: 台湾 | [Jun 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T040000&p1=1440&p2=155&p3=241) |  | [^potential-match] |
-| 41a | 比利时 ::{ flag=BE }:: | ::{ flag=TW }:: 台湾 | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=241) |  | [^potential-match] |
-| 41b | 比利时 ::{ flag=BE }:: | ::{ flag=RU }:: 俄罗斯 | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=166) |  | [^potential-match] |
-| 48 | 法国 ::{ flag=FR }:: | ::{ flag=JP }:: 日本 | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=195&p3=248) |  | [^winners-bracket] |
-| 44a | 英国 ::{ flag=GB }:: | ::{ flag=KR }:: 韩国 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=235) |  | [^potential-match] |
-| 44b | 英国 ::{ flag=GB }:: | ::{ flag=PT }:: 葡萄牙 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=133) |  | [^potential-match] |
-| 44c | 西班牙 ::{ flag=ES }:: | ::{ flag=KR }:: 韩国 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=235) |  | [^potential-match] |
-| 44d | 西班牙 ::{ flag=ES }:: | ::{ flag=PT }:: 葡萄牙 | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=133) |  | [^potential-match] |
-| 43a | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=SE }:: 瑞典 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=239) |  | [^potential-match] |
-| 43b | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=HK }:: 香港 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=102) |  | [^potential-match] |
-| 43c | 泰国 ::{ flag=TH }:: | ::{ flag=SE }:: 瑞典 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=239) |  | [^potential-match] |
-| 43d | 泰国 ::{ flag=TH }:: | ::{ flag=HK }:: 香港 | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=102) |  | [^potential-match] |
-| 41d | 墨西哥 ::{ flag=MX }:: | ::{ flag=RU }:: 俄罗斯 | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=155&p3=166) |  | [^potential-match] |
-| 42a | 加拿大 ::{ flag=CA }:: | ::{ flag=CO }:: 哥伦比亚 | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=188&p3=41) |  | [^potential-match] |
-| 42c | 美国 ::{ flag=US }:: | ::{ flag=CO }:: 哥伦比亚 | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=263&p3=41) |  | [^potential-match] |
-| 46 | 芬兰 ::{ flag=FI }:: | ::{ flag=CL }:: 智利 | [Jun 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T180000&p1=1440&p2=101&p3=232) |  | [^winners-bracket] |
-| SC | 半决赛 | 图池展示 | [Jun 21 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 42b | 加拿大 ::{ flag=CA }:: | ::{ flag=MY }:: 马来西亚 | [6 月 21 日（周日）03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=188&p3=122) |  | [^potential-match] |
+| 42d | 美国 ::{ flag=US }:: | ::{ flag=MY }:: 马来西亚 | [6 月 21 日（周日）03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=263&p3=122) |  | [^potential-match] |
+| 41c | 墨西哥 ::{ flag=MX }:: | ::{ flag=TW }:: 台湾 | [6 月 21 日（周日）04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T040000&p1=1440&p2=155&p3=241) |  | [^potential-match] |
+| 41a | 比利时 ::{ flag=BE }:: | ::{ flag=TW }:: 台湾 | [6 月 21 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=241) |  | [^potential-match] |
+| 41b | 比利时 ::{ flag=BE }:: | ::{ flag=RU }:: 俄罗斯 | [6 月 21 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=166) |  | [^potential-match] |
+| 48 | 法国 ::{ flag=FR }:: | ::{ flag=JP }:: 日本 | [6 月 21 日（周日）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=195&p3=248) |  | [^winners-bracket] |
+| 44a | 英国 ::{ flag=GB }:: | ::{ flag=KR }:: 韩国 | [6 月 21 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=235) |  | [^potential-match] |
+| 44b | 英国 ::{ flag=GB }:: | ::{ flag=PT }:: 葡萄牙 | [6 月 21 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=133) |  | [^potential-match] |
+| 44c | 西班牙 ::{ flag=ES }:: | ::{ flag=KR }:: 韩国 | [6 月 21 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=235) |  | [^potential-match] |
+| 44d | 西班牙 ::{ flag=ES }:: | ::{ flag=PT }:: 葡萄牙 | [6 月 21 日（周日）11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=133) |  | [^potential-match] |
+| 43a | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=SE }:: 瑞典 | [6 月 21 日（周日）13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=239) |  | [^potential-match] |
+| 43b | 印度尼西亚 ::{ flag=ID }:: | ::{ flag=HK }:: 香港 | [6 月 21 日（周日）13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=102) |  | [^potential-match] |
+| 43c | 泰国 ::{ flag=TH }:: | ::{ flag=SE }:: 瑞典 | [6 月 21 日（周日）13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=239) |  | [^potential-match] |
+| 43d | 泰国 ::{ flag=TH }:: | ::{ flag=HK }:: 香港 | [6 月 21 日（周日）13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=102) |  | [^potential-match] |
+| 41d | 墨西哥 ::{ flag=MX }:: | ::{ flag=RU }:: 俄罗斯 | [6 月 21 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=155&p3=166) |  | [^potential-match] |
+| 42a | 加拿大 ::{ flag=CA }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 21 日（周日）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=188&p3=41) |  | [^potential-match] |
+| 42c | 美国 ::{ flag=US }:: | ::{ flag=CO }:: 哥伦比亚 | [6 月 21 日（周日）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=263&p3=41) |  | [^potential-match] |
+| 46 | 芬兰 ::{ flag=FI }:: | ::{ flag=CL }:: 智利 | [6 月 21 日（周日）18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T180000&p1=1440&p2=101&p3=232) |  | [^winners-bracket] |
+| SC | 半决赛 | 图池展示 | [6 月 21 日（周日）19:00 UTC（待定）](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 比赛结果
 
