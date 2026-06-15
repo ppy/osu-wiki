@@ -32,6 +32,6 @@ The following is a table that shows all of the cookies used throughout the histo
 
 | Cookie | Year | Notes |
 | :-: | :-: | :-- |
-| ![The 2019 osu! lazer logo](img/2019@2x.png) | 2019 | Uses Aller, only used as a temporary app icon to distinguish osu! lazer from osu! stable.  |
+| ![The 2019 osu! lazer logo](img/2019@2x.png) | 2019 | Uses Aller, only used as a temporary app icon to distinguish osu! lazer from osu! stable. |
 | ![The 2024 osu! lazer logo](img/2024@2x.png) | January 2024 - May 2024 | Uses Torus, only used shortly due to criticism. |
 | ![The present osu! lazer logo](img/2024_2@2x.png) | May 2024 – present | Uses Torus. |
