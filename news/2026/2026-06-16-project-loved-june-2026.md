@@ -15,7 +15,7 @@ Before getting to the picks, we have a number of news to get through:
 
 We are proud to announce the **"Project Loved: Best of 2025" medal pack** is out now! Featuring a curated selection of the more representative beatmaps loved during 2025 for each mode, the medal is achievable *right now* if you play them all. What are you waiting for?
 
-![](https://cdn.discordapp.com/attachments/1215062584391106580/1516024370626170940/loved-seasonal-2025-medal-banner.png?ex=6a312338&is=6a2fd1b8&hm=f681e614d25c26e75cf0184f2eb780d1b0ae7c98145bdf596ddf9c6ac938f6cc&)
+![](/wiki/shared/news/2026-06-16-project-loved-june-2026/loved-seasonal-2025-medal-banner.png)
 
 Additionally, last month's applications have been processed, and therefore we have a number of **new captains** that will be picking maps for the project. Please welcome:
 
