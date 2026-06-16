@@ -9,7 +9,7 @@ Da-don! The osu!taiko Mapping World Cup returns, ready to crown the best taiko m
 
 ![](/wiki/Contests/TMWC/2026/img/banner.jpg)
 
-The osu!taiko Mapping World Cup (TMWC) is a multi-stage mapping contest for the [b]osu!taiko mode[/b]. Participants will create beatmaps in teams with others from their country, gathering points to be crowned the best country at creating osu!taiko beatmaps. There will be some special challenges along the way, so beware!
+The osu!taiko Mapping World Cup (TMWC) is a multi-stage mapping contest for the **osu!taiko mode**. Participants will create beatmaps in teams with others from their country, gathering points to be crowned the best country at creating osu!taiko beatmaps. There will be some special challenges along the way, so beware!
 
 A key change from last year is the reduction of allowed team size from 3-6 to 3-4. After signups are completed, participants will form teams with other signups from their country, or contestants from nearby nations if insufficient players from a country sign up. We are also allowing pre-made teams to sign up as a group, hopefully encouraging more people to participate and create even more fierce competition. The aim of this contest is to allow everyone to participate so the hosts will help you organise into teams and ensure everyone can participate!
 
