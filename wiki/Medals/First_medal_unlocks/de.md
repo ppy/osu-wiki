@@ -391,7 +391,7 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 
 ## Trivia
 
-Mit der Medaille **500 Combo** schaltete [Echo](https://osu.ppy.sh/users/431) am 1. August 2008 (23:08:56) als erste Person eine Medaille frei.
+Mit der **500 Combo**-Medaille schaltete [Echo](https://osu.ppy.sh/users/431) am 1. August 2008 (23:08:56) als erste Person eine Medaille frei.
 
 Diese Statistiken wurden erstmals in einem [Newsbeitrag](https://osu.ppy.sh/home/news/2025-01-19-meet-the-medal-pioneers) im Januar 2025 der Öffentlichkeit bekanntgegeben.
 
@@ -404,8 +404,8 @@ Im Folgenden sind verschiedene, erwähnenswerte Errungenschaften in Bezug auf Fr
 | ![](/wiki/shared/medals/fruits-hits-20000.png) | Catch 20,000 fruits | Erste osu!catch-Medaille | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | 22.11.2008 (02:55:10) |
 | ![](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | Erste osu!mania-Medaille | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28.05.2013 (05:01:06) |
 | ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | Erster osu! 8★ FC | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17.07.2016 (12:41:58) |
-| ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | Erste Hush-Hush Medaille | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11.08.2008 (12:47:24) |
-| ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | Erste Hush-Hush (Expert) Medaille | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17.08.2016 (09:56:45) |
+| ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | Erste Hush-Hush-Medaille | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11.08.2008 (12:47:24) |
+| ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | Erste Hush-Hush (Expert)-Medaille | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17.08.2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | Erste Medaille mit Bezug auf Mapping | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 04.11.2022 (07:47:25) |
 
 Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes freigeschaltet haben:
@@ -427,8 +427,9 @@ Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes frei
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
 | ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
 
-Hier ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush und Hush-Hush (Expert) Medaillen gezählt werden:
+Hier ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush- und Hush-Hush (Expert)-Medaillen gezählt werden:
 
 | Spieler | Hush-Hush Medaillen als Erstes freigeschaltet |
 | :-- | --: |
