@@ -17,13 +17,17 @@ All changes cited will **not** be replicated in the osu!(stable) client as it is
 
 ## Release schedule
 
-Hi, peppy here *puts on infra hat*.
+### ✅ Score recalculation (Completed 2026-06-15)
 
-The cogs are already turning!
+All modded scores will be recalculated, updating the databased values. You will see these updates in real-time as the process runs from oldest to newest scores. Note that this will **only affect lazer leaderboards**; if you have classic mode turned on you will not see any changes.
 
-Getting these changes live requires undertaking one of the largest operations we've performed to date, involving rewriting score data for all 3 billion scores! We also need to do ample verification to make sure we get things right client-side, for those of you with hundreds or thousands of local scores.
+### ⏳ Reindexing (Started 2026-06-16, estimated 1-2 days)
 
-As such, specific dates for the rollout are still being assessed. It should be in the range of some days to weeks. This section will be **updated with the latest information** as it rolls in.
+This will fix the updated scores being out of order on beatmap leaderboards.
+
+### ⏳ Client update
+
+A lazer update will drop that will change all new scores to use the new multipliers. Then we be done!
 
 ## Classic mod
 
