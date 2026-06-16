@@ -410,7 +410,7 @@ Im Folgenden sind verschiedene, erwähnenswerte Errungenschaften in Bezug auf Fr
 
 Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes freigeschaltet haben:
 
-| Spieler | Medaillen als erstes freigeschaltet |
+| Spieler | Medaillen als Erstes freigeschaltet |
 | :-- | --: |
 | ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 9 |
 | ::{ flag=US }:: [Weebs Suck](https://osu.ppy.sh/users/12948001) | 9 |
@@ -427,3 +427,18 @@ Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes frei
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
 | ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+
+Hier ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush und Hush-Hush (Expert) Medaillen gezählt werden:
+
+| Spieler | Hush-Hush Medaillen als Erstes freigeschaltet |
+| :-- | --: |
+| ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
+| ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
+| ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 2 |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 2 |
+| ::{ flag=KR }:: [pseudophilia](https://osu.ppy.sh/users/6192650) | 2 |
+| ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 2 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 2 |
+| ::{ flag=DE }:: [xenou](https://osu.ppy.sh/users/2539403) | 2 |

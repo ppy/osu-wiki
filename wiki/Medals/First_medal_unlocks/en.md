@@ -428,3 +428,19 @@ The following is a leaderbord of users with three first medal unlocks or more:
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
 | ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+
+The following is a leaderbord of users with two first medal unlocks or more, only counting Hush-Hush and Hush-Hush (Expert) medals:
+
+| Player | First Hush-Hush medals unlocked |
+| :-- | --: |
+| ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
+| ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
+| ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
+| ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
+| ::{ flag=BR }:: [Dropinx](https://osu.ppy.sh/users/4687701) | 2 |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | 2 |
+| ::{ flag=KR }:: [pseudophilia](https://osu.ppy.sh/users/6192650) | 2 |
+| ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 2 |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 2 |
+| ::{ flag=DE }:: [xenou](https://osu.ppy.sh/users/2539403) | 2 |
