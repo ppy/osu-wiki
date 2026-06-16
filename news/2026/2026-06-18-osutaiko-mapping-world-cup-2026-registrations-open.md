@@ -1,7 +1,7 @@
 ---
 layout: post
-title: osu!taiko Mapping World Cup 2026: Registrations Open!
-date: 2025-06-18 21:00:00 +0000
+title: "osu!taiko Mapping World Cup 2026: Registrations Open!"
+date: 2026-06-18 21:00:00 +0000
 series: community_contests
 ---
 
