@@ -31,7 +31,7 @@ Matches will be streamed over on the [@easyworldcup channel](https://www.twitch.
 
 ## How do I register?
 
-[![Click here to register!](IMAGE URL)](https://forms.gle/J6iocRBXfE7NFz3q7)
+[![Click here to register!](/wiki/shared/news/2026-06-16-easy-world-cup-2026-registrations-now-open/register.png)](https://forms.gle/J6iocRBXfE7NFz3q7)
 
 The deadline to register for this tournament is June 28, 2026 (00:00 UTC).
 
