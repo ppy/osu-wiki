@@ -196,13 +196,13 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
 - Your entry does not need to be passable. However, your entry may be ineligible for certain categories or prizes if it is not possible to be passed by a human player.
 - Your entry must consist of **exactly one difficulty** that contains an interactive experience — storyboard-only entries aren't allowed.
 - You may only participate in **one** entry for this contest.
-- You may be only part of **one** team for this contest.
 
 ### Operational rules
 
 - You may enter as a team of up to 2 people — [please register your team via the form here](https://form-auth.ppy.sh/form/2026-aspire-6-registrations).
   - You may also enter as a solo contestant if you wish.
   - This form uses osu! OAuth to authenticate you. If you're not properly authenticated, your registration will not count. Please follow instruction on the form carefully.
+- You may only be part of **one** team for this contest.
 - Any submitted entry that doesn't have a registration tied to it will be automatically disqualified.
 - Entries must be submitted by the person who registered the team in the form.
 - Teams and submissions must remain anonymous for the duration of the contest. Please ensure all beatmap elements, including storyboard elements, are anonymised.
