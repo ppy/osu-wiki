@@ -417,6 +417,7 @@ The following is a leaderbord of users with three first medal unlocks or more:
 | ::{ flag=US }:: [Weebs Suck](https://osu.ppy.sh/users/12948001) | 9 |
 | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 8 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 6 |
+| ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 4 |
 | ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
 | ::{ flag=DE }:: [Bin_AFK](https://osu.ppy.sh/users/5840659) | 3 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 3 |

@@ -412,7 +412,7 @@ Im Folgenden sind verschiedene, erwähnenswerte Errungenschaften in Bezug auf Fr
 | ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | Erste Hush-Hush (Expert) Medaille | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17.08.2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | Erste Medaille mit Bezug auf Mapping | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 04.11.2022 (07:47:25) |
 
-Unten ist eine Rangliste der Nutzer, die zuerst 3 oder mehr Medaillen freigeschaltet haben, abgebildet:
+Hier ist eine Rangliste aller Nutzer, die drei oder mehr Medaillen als Erstes freigeschaltet haben:
 
 | Spieler | Medaillen als erstes freigeschaltet |
 | :-- | --: |
@@ -420,6 +420,7 @@ Unten ist eine Rangliste der Nutzer, die zuerst 3 oder mehr Medaillen freigescha
 | ::{ flag=US }:: [Weebs Suck](https://osu.ppy.sh/users/12948001) | 9 |
 | ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523) | 8 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 6 |
+| ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 4 |
 | ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
 | ::{ flag=DE }:: [Bin_AFK](https://osu.ppy.sh/users/5840659) | 3 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 3 |
