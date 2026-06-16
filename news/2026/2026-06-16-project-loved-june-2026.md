@@ -115,7 +115,7 @@ I've come to revive the soul of *Gameplay Gimmicks* for my second pick this mont
 
 Those who are fans of songs like [DJ Yoshitaka vs. DJ Mass MAD Izm* - Snake Stick](https://osu.ppy.sh/beatmapsets/1643220) and other beatmania IIDX scratchtable tribute maps would be remiss to overlook this challenging beatmap by [Caspar](https://osu.ppy.sh/users/6084669). Despite sitting at only 6.81★, this map might be one of the most difficult picks this month. The map features tons of tricky & gimmicky 1/8 kicksliders and aim control patterns that still somehow manage to play really satisfyingly.
 
-This map was also featured and mapped for [Moscow osu! Event 2023](/wiki/Community/Moscow_osu%21_Event/2023) in the HD3 slot! I've gotten word that this map has developed cult-classic status in a certain country's playerbase... Thank you for the recommendation!
+This map was also featured and mapped for [Moscow osu! Event 2023](/wiki/Community/Moscow_osu!_Event/2023) in the HD3 slot! I've gotten word that this map has developed cult-classic status in a certain country's playerbase... Thank you for the recommendation!
 
 Make sure to check this map out and vote YES if you enjoyed it!
 
@@ -482,7 +482,7 @@ If you don't believe me, just watch the leaderboards in the weeks following its 
 
 Following [Micleak](https://osu.ppy.sh/users/16140674)'s [previous nomination from over a year ago](https://osu.ppy.sh/beatmapsets/2041097#mania/4258224), we're presenting them with a nomination that's more accustomed to their general charting style: [Bug](https://osu.ppy.sh/beatmapsets/1854104#mania/3866387).
 
-It's no secret that Micleak's approach to LNs is rather... unorthodox. Not in a bad way, of course, but it's very out-of-the-ordinary for sure, and *Bug* is, shockingly, an exception. Sort of. Initially made for [osu!mania LN Tournament 3](/wiki/Tournaments/o%21mLN/3), it was slotted under Quarterfinals Tech 1. It certainly manages to keep the techy aspects you'd typically see in a chart from Micleak, but it also deviates enough that you really do end up with an overall enjoyable chart that most LN enthusiasts can enjoy. You're given a mix of pretty coordination-heavy releases, alongside a fair amount of graces or shorter bursts, which lets it feel a lot more flow-y, if one could describe it.
+It's no secret that Micleak's approach to LNs is rather... unorthodox. Not in a bad way, of course, but it's very out-of-the-ordinary for sure, and *Bug* is, shockingly, an exception. Sort of. Initially made for [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3), it was slotted under Quarterfinals Tech 1. It certainly manages to keep the techy aspects you'd typically see in a chart from Micleak, but it also deviates enough that you really do end up with an overall enjoyable chart that most LN enthusiasts can enjoy. You're given a mix of pretty coordination-heavy releases, alongside a fair amount of graces or shorter bursts, which lets it feel a lot more flow-y, if one could describe it.
 
 Not to *Bug* you any further about it, but you really should go cast your vote in the thread to give this map a shot at Loved!
 
@@ -537,6 +537,6 @@ That's all from us this month! All the beatmaps that pass voting will reach the 
 
 And a special thank you to this month's replay contributors: [chmekoe](https://osu.ppy.sh/users/7807444), [nevqr](https://osu.ppy.sh/users/14269506), [Dahcreeper](https://osu.ppy.sh/users/6926006), [LaviSorrow](https://osu.ppy.sh/users/9966768), [dressurf](https://osu.ppy.sh/users/758406), [Petal](https://osu.ppy.sh/users/7354729), [BATBALL](https://osu.ppy.sh/users/15173952), [Utiba](https://osu.ppy.sh/users/11354436), [Riot](https://osu.ppy.sh/users/4256461) and [ChillerPear](https://osu.ppy.sh/users/9501251).
 
-More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the new official [forum thread](https://osu.ppy.sh/community/forums/topics/2214637?n=1) or any of the community servers listed at the bottom of the [wiki article](https://osu.ppy.sh/wiki/en/Community/Project_Loved) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the new official [forum thread](https://osu.ppy.sh/community/forums/topics/2214637?n=1) or any of the community servers listed at the bottom of the [wiki article](/wiki/en/Community/Project_Loved) if you have any questions, concerns, or are interested in helping out.
 
 —kadoen
