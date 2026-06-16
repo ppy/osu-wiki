@@ -537,6 +537,6 @@ That's all from us this month! All the beatmaps that pass voting will reach the 
 
 And a special thank you to this month's replay contributors: [chmekoe](https://osu.ppy.sh/users/7807444), [nevqr](https://osu.ppy.sh/users/14269506), [Dahcreeper](https://osu.ppy.sh/users/6926006), [LaviSorrow](https://osu.ppy.sh/users/9966768), [dressurf](https://osu.ppy.sh/users/758406), [Petal](https://osu.ppy.sh/users/7354729), [BATBALL](https://osu.ppy.sh/users/15173952), [Utiba](https://osu.ppy.sh/users/11354436), [Riot](https://osu.ppy.sh/users/4256461) and [ChillerPear](https://osu.ppy.sh/users/9501251).
 
-More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the new official [forum thread](https://osu.ppy.sh/community/forums/topics/2214637?n=1) or any of the community servers listed at the bottom of the [wiki article](/wiki/en/Community/Project_Loved) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the new official [forum thread](https://osu.ppy.sh/community/forums/topics/2214637?n=1) or any of the community servers listed at the bottom of the [wiki page](/wiki/Community/Project_Loved) if you have any questions, concerns, or are interested in helping out.
 
 —kadoen
