@@ -12,6 +12,8 @@ tags:
   - "rang #1"
   - classements
   - meilleur joueur
+outdated_translation: true
+outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 ---
 
 # L'histoire des classements du mode osu!
