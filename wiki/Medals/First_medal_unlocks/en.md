@@ -428,5 +428,3 @@ The following is a leaderbord of users with three first medal unlocks or more:
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | 3 |
 | ::{ flag=PE }:: [Vaticanus](https://osu.ppy.sh/users/4454465) | 3 |
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
-
-e
