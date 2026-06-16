@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "osu!taiko Mapping World Cup 2026: Registrations Open!"
+title: osu!taiko Mapping World Cup 2026: Registrations Open!
 date: 2025-06-18 21:00:00 +0000
-series: community_tournaments
+series: community_contests
 ---
 
 Da-don! The osu!taiko Mapping World Cup returns, ready to crown the best taiko mapping country of 2026!
