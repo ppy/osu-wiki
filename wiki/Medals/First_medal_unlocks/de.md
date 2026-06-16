@@ -195,6 +195,9 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/taiko-secret-stargazer.png) | Stargazer | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 18.01.2025 (16:09:11) |
 | ![](/wiki/shared/medals/osu-secret-candescence.png) | Candescence | ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461) | 25.12.2024 (04:44:36) |
 | ![](/wiki/shared/medals/osu-secret-icefairy.png) | The Strongest Ice Fairy | ::{ flag=CL }:: [Bomb](https://osu.ppy.sh/users/10218998) | 26.12.2024 (07:43:13) |
+| ![](/wiki/shared/medals/osu-secret-uptoeleven.png) | Up To Eleven | ::{ flag=NZ }:: [Kiwioooooo](https://osu.ppy.sh/users/35778958) | 08.04.2026 (07:31:48) |
+| ![](/wiki/shared/medals/osu-secret-waningmemory.png) | Waning Memory | ::{ flag=US }:: [MalphasBV](https://osu.ppy.sh/users/26277287) | 08.04.2026 (08:56:03) |
+| ![](/wiki/shared/medals/osu-secret-fadingreflection.png) | Fading Reflection | ::{ flag=MN }:: [irku](https://osu.ppy.sh/users/33641422) | 08.04.2026 (07:57:45) |
 
 ## Hush-Hush
 
@@ -266,6 +269,10 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/all-secret-skinoftheteeth.png) | By The Skin Of The Teeth | ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 25.12.2024 (04:17:31) |
 | ![](/wiki/shared/medals/all-secret-infectiousenthusiasm.png) | Infectious Enthusiasm | ::{ flag=IT }:: [Crafterdark](https://osu.ppy.sh/users/6144467) | 26.12.2024 (09:49:43) |
 | ![](/wiki/shared/medals/all-secret-meticulousmayhem.png) | Meticulous Mayhem | ::{ flag=US }:: [lilybannanas9](https://osu.ppy.sh/users/26352046) | 25.12.2024 (03:52:22) |
+| ![](/wiki/shared/medals/all-secret-hotshot.png) | Hotshot | ::{ flag=CA }:: [DrDarkMage](https://osu.ppy.sh/users/13328853) | 08.04.2026 (07:29:54) |
+| ![](/wiki/shared/medals/all-secret-hamsterwheel.png) | Hamster Wheel | ::{ flag=US }:: [Loki](https://osu.ppy.sh/users/16213641) | 08.04.2026 (07:59:53) |
+| ![](/wiki/shared/medals/all-secret-couriercatapult.png) | Courier Catapult | ::{ flag=PL }:: [ZuzaWithTheZaza](https://osu.ppy.sh/users/9225061) | 08.04.2026 (07:18:07) |
+| ![](/wiki/shared/medals/catch-secret-weatherreverie.png) | Weather Reverie | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | 08.04.2026 (08:39:05) |
 
 ## Mod Introduction
 
@@ -384,6 +391,7 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/all-skill-dc-1.png) | Daily Sprout | ::{ flag=JP }:: [Chie946](https://osu.ppy.sh/users/36897991) | 25.12.2024 (03:28:07) |
 | ![](/wiki/shared/medals/all-skill-dc-7.png) | Weekly Sapling | ::{ flag=US }:: [-unable](https://osu.ppy.sh/users/11894873) | 25.12.2024 (03:28:08) |
 | ![](/wiki/shared/medals/all-skill-dc-30.png) | Monthly Shrub | ::{ flag=US }:: [-unable](https://osu.ppy.sh/users/11894873) | 25.12.2024 (03:28:08) |
+| ![](/wiki/shared/medals/osu-skill-cyclone.png) | Cyclone | ::{ flag=MY }:: [HDonlyplayer](https://osu.ppy.sh/users/16321660) | 08.04.2026 (07:18:04) |
 
 ## Trivia
 
