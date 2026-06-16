@@ -3,12 +3,14 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - "rank #1"
+  - 'rank #1'
   - rankings
   - top player
   - Geschichte
   - erster Rang
   - bester Spieler
+outdated_translation: true
+outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 ---
 
 # Geschichte der osu!-Rangliste

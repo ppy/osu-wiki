@@ -3,7 +3,7 @@ tags:
   - history
   - leaderboard
   - rank 1
-  - "rank #1"
+  - 'rank #1'
   - rankings
   - top player
   - ранкинг
@@ -16,6 +16,8 @@ tags:
   - топ 1
   - топ
   - ранг
+outdated_translation: true
+outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 ---
 
 <!-- Для дополнительной информации об источниках см. https://github.com/ppy/osu-wiki/pull/4720. -->
