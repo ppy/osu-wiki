@@ -171,6 +171,7 @@ In practice:
 - A [fix](https://github.com/ppy/osu/pull/36216) by [StanR](https://osu.ppy.sh/users/7217455) to fix aim slider bonuses being awarded to the incorrect note
 - A [set](https://github.com/ppy/osu/pull/36569) of [fixes](https://github.com/ppy/osu/pull/36593) by [StanR](https://osu.ppy.sh/users/7217455) to improve slider-to-circle Rhythm difficulty
 - A [fix](https://github.com/ppy/osu/pull/37609) by [StanR](https://osu.ppy.sh/users/7217455) to ensure rhythm complexity is decreased for long islands
+- A [fix](https://github.com/ppy/osu/pull/38082) by [StanR](https://osu.ppy.sh/users/7217455) to ensure single-note timing point changes do not inflate difficulty
 - A [set](https://github.com/ppy/osu/pull/36773) of [fixes](https://github.com/ppy/osu/pull/36806) by [StanR](https://osu.ppy.sh/users/7217455) to fix slider velocity calculations using inflated velocity
 - A [fix](https://github.com/ppy/osu/pull/37624) by [StanR](https://osu.ppy.sh/users/7217455) to ensure the slider end penalty scales with difficulty correctly
 - A [fix](https://github.com/ppy/osu/pull/36209) by [tsunyoku](https://osu.ppy.sh/users/11315329) to fix score-based miss estimations using incorrect multipliers for scores with mods
