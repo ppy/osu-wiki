@@ -41,7 +41,7 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835),  ::{ flag=PT }:: [Warp](https://osu.ppy.sh/community/users/18649724)|
+| Host | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835),  ::{ flag=PT }:: [Warp](https://osu.ppy.sh/community/users/18649724) |
 | Designers | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
 | Judges | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128), ::{ flag=CL }:: [ulko](https://osu.ppy.sh/users/1263669), ::{ flag=GB }:: [Skidooskei](https://osu.ppy.sh/users/10079029), ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142),  ::{ flag=DE }:: [Undead Alice](https://osu.ppy.sh/users/17415683), ::{ flag=FR }:: [Heaxys](https://osu.ppy.sh/users/5671417), ::{ flag=PH }:: [Kulalaying](https://osu.ppy.sh/users/1259391) |
 
