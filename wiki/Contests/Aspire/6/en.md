@@ -42,7 +42,7 @@ Both participants will receive:
 - 6 months of [osu!supporter](/wiki/osu!supporter)
 - 2 [contest points](/wiki/Contests/Contest_points)
 
-All prize-winning entries will also be added to the [Loved](/wiki/en/Community/Project_Loved) category, as long as their maps are passable by a human player.
+All prize-winning entries will also be added to the [Loved](/wiki/Community/Project_Loved) category, as long as their maps are passable by a human player.
 
 ## Organisation
 
@@ -59,16 +59,16 @@ Aspire 6 is run by various members of the [osu! team](/wiki/People/osu!_team).
 This table is updated once every few days. Last update was on 16 June 2026.
 
 | Team | Members |
-| :-: | :-- |
-| | ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364) |
-| | ::{ flag=PT }:: [amongusrtx30080](https://osu.ppy.sh/users/27476898) |
-| | ::{ flag=RU }:: [Gregg Lee](https://osu.ppy.sh/users/18614817) |
-| | ::{ flag=US }:: [AdrianLazer](https://osu.ppy.sh/users/10292643) |
+| :-- | :-- |
+|  | ::{ flag=CO }:: [\[ Azu- \]](https://osu.ppy.sh/users/8290364) |
+|  | ::{ flag=PT }:: [amongusrtx30080](https://osu.ppy.sh/users/27476898) |
+|  | ::{ flag=RU }:: [Gregg Lee](https://osu.ppy.sh/users/18614817) |
+|  | ::{ flag=US }:: [AdrianLazer](https://osu.ppy.sh/users/10292643) |
 | Abyss | ::{ flag=IT }:: [Klevsify](https://osu.ppy.sh/users/30556250) |
-| [insert meme here] | ::{ flag=US }:: [Kirb2](https://osu.ppy.sh/users/35911207) |
-| | ::{ flag=US }:: [SyIv](https://osu.ppy.sh/users/6821832) |
-| | ::{ flag=US }:: [Alumence](https://osu.ppy.sh/users/30357961) |
-| | ::{ flag=NZ }:: [Pass_ing](https://osu.ppy.sh/users/11798717) |
+| [insert meme here] <- HAHA! this is FUNNY! | ::{ flag=US }:: [Kirb2](https://osu.ppy.sh/users/35911207) |
+|  | ::{ flag=US }:: [SyIv](https://osu.ppy.sh/users/6821832) |
+|  | ::{ flag=US }:: [Alumence](https://osu.ppy.sh/users/30357961) |
+|  | ::{ flag=NZ }:: [Pass_ing](https://osu.ppy.sh/users/11798717) |
 | los pisuicas | ::{ flag=CR }:: [UniUniverse](https://osu.ppy.sh/users/15568608), ::{ flag=CR }:: [Megapcmx](https://osu.ppy.sh/users/4442138) |
 | PURO POWER EE | ::{ flag=CL }:: [yGantu](https://osu.ppy.sh/users/25206996) |
 | aura defarmer | ::{ flag=MY }:: [Mahiru Shiina](https://osu.ppy.sh/users/13866023) |
@@ -77,28 +77,28 @@ This table is updated once every few days. Last update was on 16 June 2026.
 | tma tsod | ::{ flag=CL }:: [TheShadowOfDark](https://osu.ppy.sh/users/5795337), ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) |
 | Ajez | ::{ flag=VN }:: [Zelzatter Zero](https://osu.ppy.sh/users/9200415), ::{ flag=MY }:: [JustABeginner](https://osu.ppy.sh/users/9388535) |
 | Asian Chuds | ::{ flag=US }:: [LammZ](https://osu.ppy.sh/users/29573226), ::{ flag=PH }:: [MonoGutsy](https://osu.ppy.sh/users/36727348) |
-| | ::{ flag=RU }:: [KoTo](https://osu.ppy.sh/users/1382805) |
-| | ::{ flag=NO }:: [Aspheria](https://osu.ppy.sh/users/14781224) |
+|  | ::{ flag=RU }:: [KoTo](https://osu.ppy.sh/users/1382805) |
+|  | ::{ flag=NO }:: [Aspheria](https://osu.ppy.sh/users/14781224) |
 | Eureka! | ::{ flag=US }:: [veztoast](https://osu.ppy.sh/users/19575841) |
 | Mode Five | ::{ flag=RO }:: [ziv_vy](https://osu.ppy.sh/users/35320165) |
 | Q Branch | ::{ flag=ID }:: [multiplied](https://osu.ppy.sh/users/29292420), ::{ flag=ID }:: [kaupec1](https://osu.ppy.sh/users/19333530) |
 | ChartNetwork | ::{ flag=IN }:: [Rudasyy579](https://osu.ppy.sh/users/23231526) |
 | zvq9r6R6QAY | ::{ flag=US }:: [gibberjabber1](https://osu.ppy.sh/users/16253476) |
-| | ::{ flag=NL }:: [StarLite4](https://osu.ppy.sh/users/39702838) |
-| | ::{ flag=AU }:: [ralsricat](https://osu.ppy.sh/users/12318332), ::{ flag=AR }:: [azphyx](https://osu.ppy.sh/users/15137544) |
-| | ::{ flag=UA }:: [Superdreamer](https://osu.ppy.sh/users/39651143) |
+|  | ::{ flag=NL }:: [StarLite4](https://osu.ppy.sh/users/39702838) |
+|  | ::{ flag=AU }:: [ralsricat](https://osu.ppy.sh/users/12318332), ::{ flag=AR }:: [azphyx](https://osu.ppy.sh/users/15137544) |
+|  | ::{ flag=UA }:: [Superdreamer](https://osu.ppy.sh/users/39651143) |
 | nil | ::{ flag=SG }:: [RyanAshazy1](https://osu.ppy.sh/users/27581177) |
-| | ::{ flag=KR }:: [aewl](https://osu.ppy.sh/users/32580833) |
+|  | ::{ flag=KR }:: [aewl](https://osu.ppy.sh/users/32580833) |
 | Romania | ::{ flag=DE }:: [Adewara](https://osu.ppy.sh/users/39558595) |
 | Zero two | ::{ flag=MY }:: [FyonneFy](https://osu.ppy.sh/users/38669424), ::{ flag=GB }:: [silcox1](https://osu.ppy.sh/users/37756377) |
-| | ::{ flag=PL }:: [h3oCharles](https://osu.ppy.sh/users/8712289) |
-| | ::{ flag=GB }:: [yoriiioff](https://osu.ppy.sh/users/39947087) |
-| | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) |
+|  | ::{ flag=PL }:: [h3oCharles](https://osu.ppy.sh/users/8712289) |
+|  | ::{ flag=GB }:: [yoriiioff](https://osu.ppy.sh/users/39947087) |
+|  | ::{ flag=TW }:: [Solor](https://osu.ppy.sh/users/25201175) |
 | don't have | ::{ flag=RU }:: [IKROSSI](https://osu.ppy.sh/users/19690928), ::{ flag=RU }:: [Fiekel](https://osu.ppy.sh/users/18029250) |
-| | ::{ flag=PL }:: [PolishedSlav](https://osu.ppy.sh/users/13908254) |
+|  | ::{ flag=PL }:: [PolishedSlav](https://osu.ppy.sh/users/13908254) |
 | The Greek Mappers | ::{ flag=GR }:: [KakashiSensei_](https://osu.ppy.sh/users/18254930), ::{ flag=GR }:: [Double_](https://osu.ppy.sh/users/20163454) |
-| | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
-| | ::{ flag=US }:: [JinkusuSPL](https://osu.ppy.sh/users/32908054) |
+|  | ::{ flag=US }:: [WolfStarArtOSU](https://osu.ppy.sh/users/34821954) |
+|  | ::{ flag=US }:: [JinkusuSPL](https://osu.ppy.sh/users/32908054) |
 | No Authors Listed | ::{ flag=DE }:: [Tunnelblick](https://osu.ppy.sh/users/7737096), ::{ flag=US }:: [Utiba](https://osu.ppy.sh/users/11354436) |
 | Maid Enjoyer | ::{ flag=US }:: [Nightcor3](https://osu.ppy.sh/users/19173340) |
 | Formula 1 | ::{ flag=UA }:: [maxsd_ool](https://osu.ppy.sh/users/38568467), ::{ flag=RU }:: [Aceline_](https://osu.ppy.sh/users/16566480) |
