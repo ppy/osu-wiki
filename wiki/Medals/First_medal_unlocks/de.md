@@ -431,7 +431,7 @@ Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes frei
 
 Hier ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush- und Hush-Hush (Expert)-Medaillen gezählt werden:
 
-| Spieler | Hush-Hush Medaillen als Erstes freigeschaltet |
+| Spieler | Hush-Hush-Medaillen als Erstes freigeschaltet |
 | :-- | --: |
 | ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
 | ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
