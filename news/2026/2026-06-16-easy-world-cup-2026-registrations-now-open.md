@@ -38,7 +38,7 @@ The deadline to register for this tournament is June 28, 2026 (00:00 UTC).
 To be eligible to participate, you must:
 
 - **Be in the [Discord server](https://discord.com/invite/f5RejuxJBg).**
-- **Not	have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
+- **Not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.**
 
 All countries with at least 3 eligible registrants will have one player designated as the captain by the organisers. The captain is then responsible for selecting and submitting a roster of 3–6 players to represent their country in the tournament. Countries with more than 6 candidates are encouraged to host tryouts for their team to aid in selecting the best players.
 
