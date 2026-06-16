@@ -201,7 +201,7 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
 
 - You may enter as a team of up to 2 people — [please register your team via the form here](https://form-auth.ppy.sh/form/2026-aspire-6-registrations).
   - You may also enter as a solo contestant if you wish.
-  - This form uses osu! OAuth to authenticate you. If you're not properly authenticated, your registration will not count. Please follow instruction on the form carefully.
+  - This form uses osu! OAuth to authenticate you. If you're not properly authenticated, your registration will not count. Please follow the instructions on the form carefully.
 - You may only be part of **one** team for this contest.
 - Any submitted entry that doesn't have a registration tied to it will be automatically disqualified.
 - Entries must be submitted by the person who registered the team in the form.
