@@ -97,6 +97,11 @@ Dies ist eine Auflistung der Nutzer, die in der Geschichte von osu! die jeweilig
 | ![](/wiki/shared/medals/loved-seasonal-2023-summer.png) | Project Loved: Summer 2023 | ::{ flag=PL }:: [Psiki](https://osu.ppy.sh/users/12985528) | 22.10.2023 (10:42:19) |
 | ![](/wiki/shared/medals/catch-packs-ghostlove.png) | in love with a ghost | ::{ flag=FR }:: [Glassive](https://osu.ppy.sh/users/12453848) | 14.02.2024 (13:27:13) |
 | ![](/wiki/shared/medals/loved-seasonal-2024.png) | Project Loved: Best of 2024 | ::{ flag=DE }:: [respektive](https://osu.ppy.sh/users/1023489) | 17.01.2025 (14:56:56) |
+| ![](/wiki/shared/medals/loved-seasonal-2025.png) | Project Loved: Best of 2025 | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:08:56) |
+| ![](/wiki/shared/medals/taiko-packs-chroma.png) | Chroma Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:26:47) |
+| ![](/wiki/shared/medals/catch-packs-mili.png) | Mili Pack | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:40:10) |
+| ![](/wiki/shared/medals/mania-packs-4k-globe.png) | 4K Globetrotter | ::{ flag=US }:: [TheMagicAnimals](https://osu.ppy.sh/users/17274052) | 15.06.2026 (06:53:30) |
+| ![](/wiki/shared/medals/mania-packs-7k-world-cup.png) | 7K World Cup Anthology | ::{ flag=JP }:: [hisuiohani-na](https://osu.ppy.sh/users/35005394) | 15.06.2026 (06:22:16) |
 
 ## Beatmap Spotlights
 
