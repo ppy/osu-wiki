@@ -101,7 +101,7 @@ Make sure to vote **yes** and comment "good mapping"!
 
 T-T-This map will 🧨*explode*🧨 your mind...
 
-Legendary mapper [Xarr](https://osu.ppy.sh/users/7262065) makes another return to the loved section with an absolutely stunning take on [Camellia's remix of __PLACEHOLDER_2__USAO - Dynamite__PLACEHOLDER_3__](https://osu.ppy.sh/beatmapsets/1610580#osu). Lock in for a beautiful journey on this 8★ hyper-intense light tech map that'll keep you engaged throughout your entire playthrough. From some incredible visual spacing and overall map visuals, to dynamic rhythm choices and fantastic movement overall, [Xarr](https://osu.ppy.sh/users/7262065) leaves no crumbs as this might just be one of the best high SR maps to do it.
+Legendary mapper [Xarr](https://osu.ppy.sh/users/7262065) makes another return to the loved section with an absolutely stunning take on [Camellia's remix of USAO - Dynamite](https://osu.ppy.sh/beatmapsets/1610580#osu). Lock in for a beautiful journey on this 8★ hyper-intense light tech map that'll keep you engaged throughout your entire playthrough. From some incredible visual spacing and overall map visuals, to dynamic rhythm choices and fantastic movement overall, [Xarr](https://osu.ppy.sh/users/7262065) leaves no crumbs as this might just be one of the best high SR maps to do it.
 
 Yes, this map is absolutely insane. Yes, MALISZEWSKI will be getting his #1 with his patented HD. Yes, you will vote yes!
 
@@ -286,7 +286,7 @@ Are you ready to take a trip down memory lane and take on R176? If so, make sure
 195.5 – 330 BPM, 4:13 | 7.79★ – 10.25★\
 *description written by [\_gt](https://osu.ppy.sh/users/8301957)*
 
-[layxa's __PLACEHOLDER_0__Extension Overdrive Pack 3__PLACEHOLDER_1__](https://osu.ppy.sh/beatmapsets/2380919#taiko) is a collection of [layxa](https://osu.ppy.sh/users/14800030)'s original maps, each sped up to push players to their limits. The set features a multitude of songs and maps, all featuring layxa's signature patterning and rhythm choices, including regular old speed maps as well as some double-BPM dump craziness.
+[layxa's Extension Overdrive Pack 3](https://osu.ppy.sh/beatmapsets/2380919#taiko) is a collection of [layxa](https://osu.ppy.sh/users/14800030)'s original maps, each sped up to push players to their limits. The set features a multitude of songs and maps, all featuring layxa's signature patterning and rhythm choices, including regular old speed maps as well as some double-BPM dump craziness.
 
 Why is the 3rd compilation nominated for Loved? Well... I just like the songs here more :D
 
