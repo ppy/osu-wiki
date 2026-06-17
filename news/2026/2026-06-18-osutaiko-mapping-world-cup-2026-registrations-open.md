@@ -19,6 +19,8 @@ If you want to read more about the rules, contest format, schedule, and judging 
 
 ## Registrations
 
+[![Click here to register for TMWC 2026!](/wiki/shared/news/2026-06-18-osutaiko-mapping-world-cup-2026-registrations-open/register.png)](https://forms.gle/Ci2w27tsgibsbEU39)
+
 Registrations are open from now until 00:00 (UTC) on July 4th! A live tracker to see how long you have left to register can be found on the [contest listing](https://osu.ppy.sh/community/contests/287). To register, please fill out [this form](https://forms.gle/Ci2w27tsgibsbEU39), and join the contest's [Discord server](https://discord.com/invite/5bggGVgBBj) to stay up to date with the latest news and announcements.
 
 If you have issues with submitting your registration through the form, or instead of participating wish to aid TMWC by judging in this contest, please send [ikin5050](https://osu.ppy.sh/community/chat?sendto=4007649), [Yasuho](https://osu.ppy.sh/community/chat?sendto=8458835) or [Warp](https://osu.ppy.sh/community/chat?sendto=18649724) a message.
