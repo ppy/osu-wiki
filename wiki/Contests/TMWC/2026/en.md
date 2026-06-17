@@ -24,7 +24,6 @@ The **osu!taiko Mapping World Cup 2026** (***TMWC 2026***) is an upcoming countr
 
 Please note this schedule is subject to change.
 
-
 ## Prizes
 
 | Placing | Prize(s) |
@@ -49,7 +48,7 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 
 - Announcement news post
 - [Forum post](https://osu.ppy.sh/community/forums/topics/2215635?n=1)
-- Contest listing
+- [Contest listing](https://osu.ppy.sh/community/contests/287)
 - [Discord server](https://discord.com/invite/5ewzEEcUCB)
 
 ## Ruleset
