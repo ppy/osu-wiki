@@ -270,7 +270,6 @@ This is a compendium of the first users to unlock each medal in osu! history.
 | ![](/wiki/shared/medals/all-secret-couriercatapult.png) | Courier Catapult | ::{ flag=PL }:: [ZuzaWithTheZaza](https://osu.ppy.sh/users/9225061) | 08 Apr 2026 (07:18:07) |
 | ![](/wiki/shared/medals/catch-secret-weatherreverie.png) | Weather Reverie | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | 08 Apr 2026 (08:39:05) |
 
-
 ## Mod Introduction
 
 |  | Medal | First achiever | Date achieved (UTC) |
