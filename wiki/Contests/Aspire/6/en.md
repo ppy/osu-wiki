@@ -113,8 +113,8 @@ This iteration also features two key changes to the format:
 
 **Prizing and categories have been simplified**. Instead of having many categories, there are now only two main categories:
 
-- *Visual Spectacle*: Focuses on slider art, storyboards, and just raw aesthetics — this category is for the maps that aren't necessarily playable, but are for sure a sight to behold. This category fits best for the traditional Aspire entries like [Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751).
-- *Innovative Gameplay*: Focuses on innovative gameplay mechanics that aren't typically used. This category fits best for the maps that are just as much as experience to play as they are cutting edge. Maps such as [Space Invaders](https://osu.ppy.sh/beatmapsets/1237212#fruits/2571609) fit best for this category.
+- **Visual Spectacle:** Focuses on slider art, storyboards, and just raw aesthetics — this category is for the maps that aren't necessarily playable, but are for sure a sight to behold. This category fits best for the traditional Aspire entries like [Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751).
+- **Innovative Gameplay:** Focuses on innovative gameplay mechanics that aren't typically used. This category fits best for the maps that are just as much as experience to play as they are cutting edge. Maps such as [Space Invaders](https://osu.ppy.sh/beatmapsets/1237212#fruits/2571609) fit best for this category.
 
 In addition, osu!taiko, osu!catch, and osu!mania may have said categories depending on the entry count, else they will have a general game mode category.
 
@@ -133,8 +133,8 @@ Contestants must be registered in order to submit an entry. Contestants are allo
 If you're struggling to find a partner to join you, don't forget to check out the [Mappers' Guild Aspire Hub](https://mappersguild.com/aspire) for potential candidates!
 
 - This platform allows users to self-advertise.
-- Potential participants who are looking to form a team may browse the Aspire Hub to contact someone who they feel is suitable,whether it be mappers seeking storyboarders, or vice versa.
-- Once a team has been registered, the team member's bios will be updated to indicate that they are no longer available.
+- Potential participants who are looking to form a team may browse the Aspire Hub to contact someone who they feel is suitable, whether it be mappers seeking storyboarders or vice versa.
+- Once a team has been registered, the team members' bios will be updated to indicate that they are no longer available.
 
 **The Aspire Hub is an optional process.** It is designed as both a support system as well as an additional avenue to help individuals form teams. Participants are welcome to form teams through their own methods as well, but they must still register their team if they intend to participate.
 
