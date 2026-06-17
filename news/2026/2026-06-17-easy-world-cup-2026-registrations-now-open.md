@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Easy World Cup 2026: Registrations Now Open!"
-date: 2026-06-16 16:00:00 +0000
+date: 2026-06-17 15:00:00 +0000
 series: community_tournaments
 ---
 
 This year, we are proud to bring you the third iteration of the Easy World Cup.
 
-![](/wiki/shared/news/2026-06-16-easy-world-cup-2026-registrations-now-open/banner.jpg)
+![](/wiki/shared/news/2026-06-17-easy-world-cup-2026-registrations-now-open/banner.jpg)
 
 In this global-stage tournament, countries around the world face off to determine which nation has the best Easy mod players. Last year, the tournament saw 537 individual signups across 44 different countries, a large increase from the first iteration's 365. This tournament's mappools test many different aspects of the reading skill set through varying mod combos and maps specifically curated by our mappooling team.
 
@@ -31,7 +31,7 @@ Matches will be streamed over on the [@easyworldcup channel](https://www.twitch.
 
 ## How do I register?
 
-[![Click here to register!](/wiki/shared/news/2026-06-16-easy-world-cup-2026-registrations-now-open/register.png)](https://forms.gle/J6iocRBXfE7NFz3q7)
+[![Click here to register!](/wiki/shared/news/2026-06-17-easy-world-cup-2026-registrations-now-open/register.png)](https://forms.gle/J6iocRBXfE7NFz3q7)
 
 The deadline to register for this tournament is June 28, 2026 (00:00 UTC).
 
