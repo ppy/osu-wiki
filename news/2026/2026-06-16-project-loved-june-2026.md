@@ -22,16 +22,16 @@ Additionally, last month's applications have been processed, and therefore we ha
 - For the osu!mania 7K team, [BKwind](https://osu.ppy.sh/users/8900975) and [ExNeko](https://osu.ppy.sh/users/7590894)!
 - For the osu!catch team, [Natsuko](https://osu.ppy.sh/users/8266817), [mieldeprairie](https://osu.ppy.sh/users/19290397), [MILK_16](https://osu.ppy.sh/users/9137627) and [Jakkubon](https://osu.ppy.sh/users/3396013)!
 
-And coinciding with the fruit-catcher additions, it's time to say goodbye to [Tenshichan](https://osu.ppy.sh/users/1101600). He has been the **longest-tenured captain in the history of the project**, being active since the very creation of the Captain's Pick system [back in 2017](https://osu.ppy.sh/community/forums/posts/6358816). Things were very different back then, maps battled one another for a chance at a leaderboard, everything was ran directly on the forums, and generally much more experimental. And [Tenshichan](https://osu.ppy.sh/users/1101600) has been with us since then, longer than there are badges to put under his name, and picking quite literally hundreds of maps in that time. Thank you for your service!
+And coinciding with the fruit-catcher additions, it's time to say goodbye to [Tenshichan](https://osu.ppy.sh/users/1101600). He has been the **longest-tenured captain in the history of the project**, being active since the very creation of the Captain's Pick system [back in 2017](https://osu.ppy.sh/community/forums/posts/6358816). Things were very different back then, with maps battling one another for a chance at a leaderboard. Everything was run directly on the forums, and it was all generally much more experimental. [Tenshichan](https://osu.ppy.sh/users/1101600) has been with us since all the way back then, longer than there are badges to put under his name, and has been picking quite literally hundreds of maps in that time. Thank you for your service!
 
-But we continue ahead. Regarding last round, you can view the results here:
+But we continue ahead. Regarding the last round, you can view the results here:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/2207340?n=2)
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/2207335?n=2)
 - [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/2207331?n=2)
 - [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/2207320?n=2)
 
-And finally here are the June 2026 picks, as always remember you can test them out in our osu!(lazer) playlists pinned in the comments below!
+And finally here are the June 2026 picks. As always, remember that you can test them out in our osu!(lazer) playlists pinned in the comments below!
 
 ### Navigation
 
