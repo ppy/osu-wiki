@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easy World Cup 2026: Registrations Now Open!"
-date: 2026-06-17 15:00:00 +0000
+date: 2026-06-17 21:15:00 +0000
 series: community_tournaments
 ---
 
@@ -9,7 +9,7 @@ This year, we are proud to bring you the third iteration of the Easy World Cup.
 
 ![](/wiki/shared/news/2026-06-17-easy-world-cup-2026-registrations-now-open/banner.jpg)
 
-In this global-stage tournament, countries around the world face off to determine which nation has the best Easy mod players. Last year, the tournament saw 537 individual signups across 44 different countries, a large increase from the first iteration's 365. This tournament's mappools test many different aspects of the reading skill set through varying mod combos and maps specifically curated by our mappooling team.
+In this global-stage tournament, countries around the world face off to determine which nation has the best Easy mod players. Last year, the tournament saw **537** individual signups across 44 different countries, a large increase from the first iteration's 365. This tournament's mappools test many different aspects of the reading skill set through varying mod combos and maps specifically curated by our mappooling team.
 
 Countries that don't qualify to the main bracket can instead play in the minor bracket. In the past, the minor bracket was hosted separately and unaffiliated with the main bracket. However, this year we will host both brackets under the same management team. Some countries with enough players for more than one team may end up fielding a B and C team, though it is important to note that all teams are eligible to qualify for the major bracket.
 
@@ -27,7 +27,7 @@ Countries that don't qualify to the main bracket can instead play in the minor b
 | Finals | September 5 – September 6 |
 | Grand Finals | September 12 – September 13 |
 
-Matches will be streamed over on the [@easyworldcup channel](https://www.twitch.tv/easyworldcup) on twitch. All archived content can also be found there, along with videos saved on the [EZWC Vods YouTube channel](https://www.youtube.com/@easyworldcup).
+Matches will be streamed over on the [@easyworldcup channel](https://www.twitch.tv/easyworldcup) on Twitch. All archived content can also be found there, along with videos saved on the [EZWC Vods YouTube channel](https://www.youtube.com/@easyworldcup).
 
 ## How do I register?
 
