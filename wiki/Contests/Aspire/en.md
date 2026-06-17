@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - MBC
   - MBC 6
@@ -9,11 +8,7 @@ tags:
 
 # Aspire
 
-**Aspire** is a [beatmapping](/wiki/Beatmapping) [contest](/wiki/Contests) where the mappers are encouraged to fully ignore the [ranking criteria](/wiki/Ranking_criteria) and explore gameplay mechanics that aren't typically used.
-
-## Iterations
-
-Aspire has had a total of 6 iterations so far:
+Index page for all of the Aspire series.
 
 - [Monthly Beatmapping Contest: Aspire](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results)
 - [Aspire 2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest)
