@@ -192,10 +192,12 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
     - RiraN - Unshakable
     - Teminite & MDK - Space Invaders
 - You may **not** make any edits to the `.mp3` files provided on the Featured Artists listing.
+- You may **not** make any changes to the artist, title, source, or tags of your submission's metadata.
 - You may **not** choose any songs that have been added to the Featured Artists listing after **14 June 2026**.
 - Your entry does not need to be passable. However, your entry may be ineligible for certain categories or prizes if it is not possible to be passed by a human player.
 - Your entry must consist of **exactly one difficulty** that contains an interactive experience — storyboard-only entries aren't allowed.
 - You may only participate in **one** entry for this contest.
+- All assets in your entry must either be created by you or be permitted by license or explicit approval to be used. Direct contribution or commission of any part of the entry from a third party is **not** allowed.
 
 ### Operational rules
 
@@ -205,7 +207,7 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
 - You may only be part of **one** team for this contest.
 - Any submitted entry that doesn't have a registration tied to it will be automatically disqualified.
 - Entries must be submitted by the person who registered the team in the form.
-- Teams and submissions must remain anonymous for the duration of the contest. Please ensure all beatmap elements, including storyboard elements, are anonymised.
+- Teams and submissions must remain anonymous for the duration of the contest. Do **not** include any identifiable information in any element of your submission.
 - Your entry **must not** be uploaded to the osu! website via the Beatmap Submission System (BSS).
 - Your entry must be submitted in `.osz` format in the contest page.
 
