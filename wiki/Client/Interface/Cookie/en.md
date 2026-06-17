@@ -12,7 +12,7 @@ tags:
 
 ![Window dialog of osu! crashing](img/Pippi_corruption.jpg)
 
-## History 
+## History
 
 ### osu!(stable)
 
@@ -24,7 +24,7 @@ The following is a table that shows all of the cookies used throughout the histo
 | ![The 2008 osu!(stable) logo](img/2008.png) | 2008 | Uses Verdana. |
 | ![The 2009 osu!(stable) logo](img/2009.png) | 2009 | Uses Verdana. |
 | ![The 2011 osu!(stable) logo](img/2011.png) | 2011 | Uses Verdana. |
-| ![The 2011 oosu!(stable) logo](img/2011fixedcolour.png) | 2011 | Uses Verdana. |
+| ![The 2011 osu!(stable) logo](img/2011fixedcolour.png) | 2011 | Uses Verdana. |
 | ![The 2014 osu!(stable) logo](img/2014@2x.png) | 2014 | Uses Aller. |
 | ![The present osu!(stable) logo](img/2016@2x.png) | 2016 - present | Uses Aller. |
 
