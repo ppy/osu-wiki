@@ -1,5 +1,7 @@
 # Unlock requirements for Beatmap Challenge Packs medals
 
+*[Difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) may not be used to clear these packs.*
+
 | Medal name | Requirement |
 | :-- | :-- |
 | Mappers' Guild Pack VII | Clear the hardest difficulties of all beatmaps bundled in the [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) beatmap pack. All beatmaps in this pack have a hardest difficulty that lies around the 5.00★–5.99★ star rating range. |

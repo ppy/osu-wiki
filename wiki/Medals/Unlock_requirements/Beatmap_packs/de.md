@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
----
-
 # Freischaltungsanforderungen für Beatmap Packs Medaillen
 
 | Medaillenname | Anforderung |
@@ -67,9 +62,23 @@ outdated_since: 6cc3878c2bfbf34606db670d6367448298d2aa3e
 | Chill Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Chill Pack](https://osu.ppy.sh/beatmaps/packs/T108) enthalten sind. |
 | Rohi Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Rohi Pack](https://osu.ppy.sh/beatmaps/packs/F2) enthalten sind. |
 | Drum & Bass Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T113) enthalten sind. |
+| Chroma Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/A101) enthalten sind. |
+| in love with a ghost | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/F3) enthalten sind. |
+| Mili Pack | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/A102) enthalten sind. |
+| 4K Globetrotter | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T134) enthalten sind. |
+| 7K World Cup Anthology | Schließe alle Beatmaps ab, die im Beatmap-Paket [Drum & Bass Pack](https://osu.ppy.sh/beatmaps/packs/T135) enthalten sind. |
 | Mappers' Guild Pack I | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack I](https://osu.ppy.sh/beatmaps/packs/1365) enthalten sind. |
 | Mappers' Guild Pack II | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack II](https://osu.ppy.sh/beatmaps/packs/1450) enthalten sind. |
 | Mappers' Guild Pack III | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack III](https://osu.ppy.sh/beatmaps/packs/1689) enthalten sind. |
 | Mappers' Guild Pack IV | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack IV](https://osu.ppy.sh/beatmaps/packs/1757) enthalten sind. |
 | Mappers' Guild Pack V | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack V](https://osu.ppy.sh/beatmaps/packs/2032) enthalten sind. |
 | Mappers' Guild Pack VI | Schließe alle Beatmaps ab, die im Beatmap-Paket [Mappers' Guild Pack VI](https://osu.ppy.sh/beatmaps/packs/2033) enthalten sind. |
+| Project Loved: Winter 2021 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Winter 2021 ([osu!](https://osu.ppy.sh/beatmaps/packs/L1), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L2), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L3), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L4)) enthalten sind. |
+| Project Loved: Spring 2022 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Spring 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L5), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L6), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L7), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L8)) enthalten sind. |
+| Project Loved: Summer 2022 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Summer 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L9), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L10), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L11), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L12)) enthalten sind. |
+| Project Loved: Autumn 2022 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Autumn 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L13), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L14), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L15), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L16)) enthalten sind. |
+| Project Loved: Winter 2022 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Winter 2022 ([osu!](https://osu.ppy.sh/beatmaps/packs/L17), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L18), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L19), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L20)) enthalten sind. |
+| Project Loved: Spring 2023 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Spring 2023 ([osu!](https://osu.ppy.sh/beatmaps/packs/L21), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L22), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L23), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L24)) enthalten sind. |
+| Project Loved: Summer 2023 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Summer 2023 ([osu!](https://osu.ppy.sh/beatmaps/packs/L25), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L26), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L27), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L28)) enthalten sind. |
+| Project Loved: Best of 2024 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Best of 2024 ([osu!](https://osu.ppy.sh/beatmaps/packs/L32), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L31), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L30), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L29)) enthalten sind. |
+| Project Loved: Best of 2025 | Schließe alle Beatmaps ab, die im Beatmap-Paket Project Loved: Best of 2025 ([osu!](https://osu.ppy.sh/beatmaps/packs/L36), [osu!taiko](https://osu.ppy.sh/beatmaps/packs/L35), [osu!catch](https://osu.ppy.sh/beatmaps/packs/L34), [osu!mania](https://osu.ppy.sh/beatmaps/packs/L33)) enthalten sind. |

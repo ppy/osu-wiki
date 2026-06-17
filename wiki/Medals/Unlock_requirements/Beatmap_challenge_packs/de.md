@@ -1,5 +1,7 @@
 # Freischaltungsanforderungen für Beatmap Challenge Packs Medaillen
 
+*[Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) dürfen zum Absolvieren dieser Beatmap-Pakete nicht verwendet werden.*
+
 | Medaillenname | Anforderung |
 | :-- | :-- |
 | Mappers' Guild Pack VII | Schließe den härtesten Schwierigkeitsgrad jeder Beatmap ab, die im Beatmap-Paket [Mappers' Guild Pack VII](https://osu.ppy.sh/beatmaps/packs/2034) enthalten ist. Die härteste Schwierigkeitsstufe jeder Beatmap in diesem Paket haben eine Sternebewertung im Bereich von 5.00★ bis 5.99★. |
