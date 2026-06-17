@@ -1,6 +1,6 @@
 # Freischaltungsanforderungen für Beatmap Challenge Packs Medaillen
 
-*[Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) dürfen zum Absolvieren dieser Beatmap-Pakete nicht verwendet werden.*
+[Mods zur Verringerung der Schwierigkeit](/wiki/Gameplay/Game_modifier#einfacher) dürfen zum Absolvieren dieser Beatmap-Pakete nicht verwendet werden.
 
 | Medaillenname | Anforderung |
 | :-- | :-- |

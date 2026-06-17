@@ -1,6 +1,6 @@
 # Unlock requirements for Beatmap Challenge Packs medals
 
-*[Difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) may not be used to clear these packs.*
+[Difficulty reduction mods](/wiki/Gameplay/Game_modifier#difficulty-reduction) may not be used to clear these packs.
 
 | Medal name | Requirement |
 | :-- | :-- |
