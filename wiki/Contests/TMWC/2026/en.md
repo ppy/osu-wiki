@@ -47,9 +47,9 @@ The osu!taiko Mapping World Cup 2025 is run by various community members.
 
 ## Links
 
-- [Announcement news post](/news/2026/2026-06-18-osutaiko-mapping-world-cup-2026-registrations-open.md)
+- Announcement news post
 - [Forum post](https://osu.ppy.sh/community/forums/topics/2215635?n=1)
-- [Contest listing]()
+- Contest listing
 - [Discord server](https://discord.com/invite/5ewzEEcUCB)
 
 ## Ruleset
