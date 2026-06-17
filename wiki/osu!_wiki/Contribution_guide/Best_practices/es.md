@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 0e61b1bd28efc9e6a300fd0f3d05ab85d8f2a5c0
----
-
 # Prácticas recomendadas
 
 Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuyes. Los enfoques mencionados aquí están diseñados para facilitar el proceso y pueden aplicarse a otros proyectos alojados en GitHub o plataformas similares.
@@ -15,17 +10,17 @@ Esta página cubre algunas de las tareas que puedes enfrentar mientras contribuy
 
 ## Sincronizar la bifurcación
 
-Para realizar cambios en un repositorio ubicado en GitHub, un posible contribuidor debe obtener una copia controlada llamada *bifurcación (fork)*. Cuando creas tu bifurcación del repositorio `osu-wiki`, tomas una instantánea de su contenido en ese mismo momento. Para hacer una contribución útil, **siempre sincroniza tu bifurcación** antes de realizar una serie de cambios; esto se puede hacer directamente desde GitHub:
+::: Infobox
+![](img/update-branch.png?1 "Actualización de la rama desactualizada")
+:::
+
+Una *bifurcación* es una copia del repositorio original que no se actualiza automáticamente. Para trabajar siempre con la versión más reciente de la osu! wiki, debes sincronizarla antes de realizar cambios. Esto se puede hacer directamente desde GitHub:
 
 1. Ve a tu bifurcación del repositorio `osu-wiki`.
-
 2. Selecciona la rama `master` del menú desplegable.
-
-3. Haz clic en `Fetch upstream`, y selecciona `Fetch and merge`.
-
-   ![](img/update-branch.png "Actualizar la rama desactualizada")
-
-Ahora tu rama está actualizada con el repositorio original.
+3. Haz clic en `Sync fork`.
+   - Si has realizado algún cambio directamente en la rama `master` y prefieres conservarlo, haz clic en `Update branch` para guardarlo.
+   - Si quieres empezar de cero y ya no necesitas tus cambios, haz clic en `Discard n commit(s)`.
 
 ## Hacer cambios
 
