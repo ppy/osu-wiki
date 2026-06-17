@@ -404,11 +404,11 @@ Im Folgenden sind verschiedene, erwähnenswerte Errungenschaften in Bezug auf Fr
 | ![](/wiki/shared/medals/fruits-hits-20000.png) | Catch 20,000 fruits | Erste osu!catch-Medaille | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | 22.11.2008 (02:55:10) |
 | ![](/wiki/shared/medals/mania-hits-40000.png) | 40,000 Keys | Erste osu!mania-Medaille | ::{ flag=CN }:: [pameira](https://osu.ppy.sh/users/1272596) | 28.05.2013 (05:01:06) |
 | ![](/wiki/shared/medals/osu-skill-fc-8.png) | Aberration | Erster osu! 8★ FC | ::{ flag=KR }:: [firebat92](https://osu.ppy.sh/users/1777162) | 17.07.2016 (12:41:58) |
-| ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | Erste Hush-Hush-Medaille | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11.08.2008 (12:47:24) |
-| ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | Erste Hush-Hush (Expert)-Medaille | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17.08.2016 (09:56:45) |
+| ![](/wiki/shared/medals/all-secret-bunny.png) | Don't let the bunny distract you! | Erste Hush-Hush Medaille | ::{ flag=AR }:: [Pokefanrichie](https://osu.ppy.sh/users/16629) | 11.08.2008 (12:47:24) |
+| ![](/wiki/shared/medals/all-secret-perseverance.png) | Perseverance | Erste Hush-Hush (Expert) Medaille | ::{ flag=BY }:: [wasderit](https://osu.ppy.sh/users/7837284) | 17.08.2016 (09:56:45) |
 | ![](/wiki/shared/medals/all-secret-trophy.png) | Creator's Gambit | Erste Medaille mit Bezug auf Mapping | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 04.11.2022 (07:47:25) |
 
-Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes freigeschaltet haben:
+Dies ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes freigeschaltet haben:
 
 | Spieler | Medaillen als Erstes freigeschaltet |
 | :-- | --: |
@@ -429,9 +429,9 @@ Hier ist eine Rangliste der Nutzer, die drei oder mehr Medaillen als Erstes frei
 | ::{ flag=HK }:: [Wither](https://osu.ppy.sh/users/11220416) | 3 |
 | ::{ flag=MX }:: [xtrem3x](https://osu.ppy.sh/users/136385) | 3 |
 
-Hier ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush- und Hush-Hush (Expert)-Medaillen gezählt werden:
+Dies ist eine Rangliste der Nutzer, die zwei oder mehr Medaillen als Erstes freigeschaltet haben, wobei nur Hush-Hush und Hush-Hush (Expert) Medaillen gezählt werden:
 
-| Spieler | Hush-Hush-Medaillen als Erstes freigeschaltet |
+| Spieler | Hush-Hush Medaillen als Erstes freigeschaltet |
 | :-- | --: |
 | ::{ flag=PT }:: [Alucard96](https://osu.ppy.sh/users/3849450) | 3 |
 | ::{ flag=TH }:: [namirin1](https://osu.ppy.sh/users/10249166) | 3 |
