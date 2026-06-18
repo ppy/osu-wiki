@@ -7,6 +7,8 @@ tags:
   - Monthly Beatmapping Contest 6
   - Concurso mensual de beatmapping
   - Concurso mensual de beatmapping 6
+outdated_translation: true
+outdated_since: 5548217f57438042fc16a2a5667cb568810c7c40
 ---
 
 # Aspire

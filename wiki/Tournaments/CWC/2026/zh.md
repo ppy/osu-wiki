@@ -3,6 +3,8 @@ tags:
   - CWC
   - CWC2026
   - CWC 2026
+outdated_translation: true
+outdated_since: 45cfde14b7ac912613c3769be9f5e8fec395046e
 ---
 
 # osu!catch 世界杯 2026
