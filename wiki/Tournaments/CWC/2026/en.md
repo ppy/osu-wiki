@@ -118,44 +118,49 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 ## Match schedule: Quarterfinals
 
+### Friday, 19 June 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 34 | Belgium ::{ flag=BE }:: | ::{ flag=MX }:: Mexico | [Jun 19 (Fri) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260619T180000&p1=1440&p2=48&p3=155) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
 ### Saturday, 20 June 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 35 | Colombia ::{ flag=CO }:: | ::{ flag=MY }:: Malaysia | [Jun 20 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T030000&p1=1440&p2=41&p3=122) |  | [^losers-bracket] |
-| 38 | Indonesia ::{ flag=ID }:: | ::{ flag=TH }:: Thailand | [Jun 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T090000&p1=1440&p2=108&p3=28) |  | [^losers-bracket] |
-| 33 | Taiwan ::{ flag=TW }:: | ::{ flag=RU }:: Russian Federation | [Jun 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T110000&p1=1440&p2=241&p3=166) |  | [^losers-bracket] |
-| 39 | South Korea ::{ flag=KR }:: | ::{ flag=PT }:: Portugal | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=235&p3=133) |  | [^losers-bracket] |
-| 45 | Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=262&p3=33) |  | [^winners-bracket] |
-| 37 | Sweden ::{ flag=SE }:: | ::{ flag=HK }:: Hong Kong | [Jun 20 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T130000&p1=1440&p2=239&p3=102) |  | [^losers-bracket] |
-| 40 | United Kingdom ::{ flag=GB }:: | ::{ flag=ES }:: Spain | [Jun 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=136&p3=141) |  | [^losers-bracket] |
-| 47 | Argentina ::{ flag=AR }:: | ::{ flag=DE }:: Germany | [Jun 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T160000&p1=1440&p2=51&p3=37) |  | [^winners-bracket] |
-| 34 | Belgium ::{ flag=BE }:: | ::{ flag=MX }:: Mexico | [Jun 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T180000&p1=1440&p2=48&p3=155) |  | [^losers-bracket] |
-| 36 | Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Jun 20 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T200000&p1=1440&p2=188&p3=263) |  | [^losers-bracket] |
+| 45 | Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Jun 20 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T120000&p1=1440&p2=262&p3=33) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 33 | Taiwan ::{ flag=TW }:: | ::{ flag=RU }:: Russian Federation | [Jun 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=241&p3=166) |  | [^losers-bracket] |
+| 37 | Sweden ::{ flag=SE }:: | ::{ flag=HK }:: Hong Kong | [Jun 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=239&p3=102) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 40 | United Kingdom ::{ flag=GB }:: | ::{ flag=ES }:: Spain | [Jun 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T140000&p1=1440&p2=136&p3=141) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 38 | Indonesia ::{ flag=ID }:: | ::{ flag=TH }:: Thailand | [Jun 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T150000&p1=1440&p2=108&p3=28) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 35 | Colombia ::{ flag=CO }:: | ::{ flag=MY }:: Malaysia | [Jun 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T170000&p1=1440&p2=41&p3=122) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 36 | Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Jun 20 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260620T180000&p1=1440&p2=188&p3=263) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 
 ### Sunday, 21 June 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 42b | Canada ::{ flag=CA }:: | ::{ flag=MY }:: Malaysia | [Jun 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=188&p3=122) |  | [^potential-match] |
-| 42d | United States ::{ flag=US }:: | ::{ flag=MY }:: Malaysia | [Jun 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T030000&p1=1440&p2=263&p3=122) |  | [^potential-match] |
-| 41c | Mexico ::{ flag=MX }:: | ::{ flag=TW }:: Taiwan | [Jun 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T040000&p1=1440&p2=155&p3=241) |  | [^potential-match] |
-| 41a | Belgium ::{ flag=BE }:: | ::{ flag=TW }:: Taiwan | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=241) |  | [^potential-match] |
-| 41b | Belgium ::{ flag=BE }:: | ::{ flag=RU }:: Russian Federation | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=166) |  | [^potential-match] |
-| 48 | France ::{ flag=FR }:: | ::{ flag=JP }:: Japan | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=195&p3=248) |  | [^winners-bracket] |
-| 44a | United Kingdom ::{ flag=GB }:: | ::{ flag=KR }:: South Korea | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=235) |  | [^potential-match] |
-| 44b | United Kingdom ::{ flag=GB }:: | ::{ flag=PT }:: Portugal | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=136&p3=133) |  | [^potential-match] |
-| 44c | Spain ::{ flag=ES }:: | ::{ flag=KR }:: South Korea | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=235) |  | [^potential-match] |
-| 44d | Spain ::{ flag=ES }:: | ::{ flag=PT }:: Portugal | [Jun 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T110000&p1=1440&p2=141&p3=133) |  | [^potential-match] |
-| 43a | Indonesia ::{ flag=ID }:: | ::{ flag=SE }:: Sweden | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=239) |  | [^potential-match] |
-| 43b | Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=102) |  | [^potential-match] |
-| 43c | Thailand ::{ flag=TH }:: | ::{ flag=SE }:: Sweden | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=239) |  | [^potential-match] |
-| 43d | Thailand ::{ flag=TH }:: | ::{ flag=HK }:: Hong Kong | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=102) |  | [^potential-match] |
-| 41d | Mexico ::{ flag=MX }:: | ::{ flag=RU }:: Russian Federation | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=155&p3=166) |  | [^potential-match] |
-| 42a | Canada ::{ flag=CA }:: | ::{ flag=CO }:: Colombia | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=188&p3=41) |  | [^potential-match] |
-| 42c | United States ::{ flag=US }:: | ::{ flag=CO }:: Colombia | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=263&p3=41) |  | [^potential-match] |
-| 46 | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jun 21 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T180000&p1=1440&p2=101&p3=232) |  | [^winners-bracket] |
-| SC | Semifinals | mappool showcase | [Jun 21 (Sun) 19:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 41c | Mexico ::{ flag=MX }:: | ::{ flag=TW }:: Taiwan | [Jun 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T040000&p1=1440&p2=155&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 41a | Belgium ::{ flag=BE }:: | ::{ flag=TW }:: Taiwan | [Jun 21 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T093000&p1=1440&p2=48&p3=241) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 41b | Belgium ::{ flag=BE }:: | ::{ flag=RU }:: Russian Federation | [Jun 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T100000&p1=1440&p2=48&p3=166) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 39 | South Korea ::{ flag=KR }:: | ::{ flag=PT }:: Portugal | [Jun 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T120000&p1=1440&p2=235&p3=133) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 43a | Indonesia ::{ flag=ID }:: | ::{ flag=SE }:: Sweden | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=108&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43c | Thailand ::{ flag=TH }:: | ::{ flag=SE }:: Sweden | [Jun 21 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T130000&p1=1440&p2=28&p3=239) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 43b | Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Jun 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T140000&p1=1440&p2=108&p3=102) | *TBD* | [^potential-match] |
+| 43d | Thailand ::{ flag=TH }:: | ::{ flag=HK }:: Hong Kong | [Jun 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T140000&p1=1440&p2=28&p3=102) | *TBD* | [^potential-match] |
+| 44a | United Kingdom ::{ flag=GB }:: | ::{ flag=KR }:: South Korea | [Jun 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T140000&p1=1440&p2=136&p3=235) | *TBD* | [^potential-match] |
+| 44c | Spain ::{ flag=ES }:: | ::{ flag=KR }:: South Korea | [Jun 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T140000&p1=1440&p2=141&p3=235) | *TBD* | [^potential-match] |
+| 48 | France ::{ flag=FR }:: | ::{ flag=JP }:: Japan | [Jun 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T140000&p1=1440&p2=195&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 42d | United States ::{ flag=US }:: | ::{ flag=MY }:: Malaysia | [Jun 21 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T153000&p1=1440&p2=263&p3=122) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 41d | Mexico ::{ flag=MX }:: | ::{ flag=RU }:: Russian Federation | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=155&p3=166) | *TBD* | [^potential-match] |
+| 44b | United Kingdom ::{ flag=GB }:: | ::{ flag=PT }:: Portugal | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=136&p3=133) | *TBD* | [^potential-match] |
+| 44d | Spain ::{ flag=ES }:: | ::{ flag=PT }:: Portugal | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=141&p3=133) | *TBD* | [^potential-match] |
+| 47 | Argentina ::{ flag=AR }:: | ::{ flag=DE }:: Germany | [Jun 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T160000&p1=1440&p2=51&p3=37) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 42b | Canada ::{ flag=CA }:: | ::{ flag=MY }:: Malaysia | [Jun 21 (Sun) 16:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T163000&p1=1440&p2=188&p3=122) | [osulive_2](https://twitch.tv/osulive_2) | [^potential-match] |
+| 42a | Canada ::{ flag=CA }:: | ::{ flag=CO }:: Colombia | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=188&p3=41) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 42c | United States ::{ flag=US }:: | ::{ flag=CO }:: Colombia | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=263&p3=41) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 46 | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jun 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T170000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| SC | Semifinals | mappool showcase | [Jun 21 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260621T180000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
