@@ -16,8 +16,9 @@ Dates are tentative and subject to change.
 
 ## Links
 
-- [Contest announcement](https://osu.ppy.sh/home/news/2026-06-14-aspire-6)
+- [**Forum thread for updates**](https://osu.ppy.sh/community/forums/topics/2216418)
 - Contest inquiries: [aspire@ppy.sh](mailto:aspire@ppy.sh)
+- [Contest announcement](https://osu.ppy.sh/home/news/2026-06-14-aspire-6)
 - [Registration form](https://form-auth.ppy.sh/form/2026-aspire-6-registrations)
 - [Contest listing](https://osu.ppy.sh/community/contests/286)
 - [Mappers' Guild Aspire Hub](https://mappersguild.com/aspire)
