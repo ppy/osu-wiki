@@ -80,7 +80,7 @@ After a few days of discussion, Oxidisation believes Drum-Defender has changed t
 
 A member of the Nomination Assessment Team believes a Qualified beatmap by contracause uses a song which is extremely poorly composed to the point of being unfit for the Ranked section. The NAT member writes up a veto with this reasoning and submits it via the BN Management website.
 
-Two Beatmap Nominators vouch for the veto. The map is therefore considered vetoed, and a member of the NAT posts a suggestion on the affected beatmap containing the reason for the veto, thereby temporarily blocking it from being Ranked. A chatroom is created, and contracause, the beatmap's nominators and the vetoing and vouching Beatmap Nominators are invited to go to the veto.
+Two Beatmap Nominators vouch for the veto. The map is therefore considered vetoed, and a member of the NAT posts a suggestion on the affected beatmap containing the reason for the veto, thereby temporarily blocking it from being Ranked. A chatroom is created, and contracause, the beatmap's nominators and the vetoing and vouching Beatmap Nominators are invited to discuss the veto.
 
 It becomes apparent that no compromise can be reached, and so, after 24 hours, the vetoing NAT member votes to request mediation, and a vouching BN votes to agree with them. An uninvolved member of the NAT initiates a mediation vote on the BN Management website.
 
