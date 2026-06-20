@@ -311,7 +311,6 @@ tags:
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | 14.06.2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
 | ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | Настоящее время | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
 
-
 ## Число попаданий на первое место
 
 Ниже — общее число случаев, когда игрок попадал на первое место (по состоянию на 14 июня 2026 года).
