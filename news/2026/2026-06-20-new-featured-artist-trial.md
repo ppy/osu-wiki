@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: TRIAL"
-date: 2026-06-20 20:00:00 +0000
+date: 2026-06-20 21:00:00 +0000
 series: featured_artists
 ---
 
@@ -11,7 +11,7 @@ The prosecutor has presented the facts: **TRIAL** makes awesome music and as of 
 
 **TRIAL** (not to be confused with one of our oldest Featured Artists [Trial & Error](https://osu.ppy.sh/beatmaps/artists/20)) is simultaneously a rhythm game player and a rhythm game composer. Inspired by music heard through music games throughout high school, he began designing his own tracks after entering university nearly 10 years ago.
 
-Nowadays, **TRIAL** centers his music on happy hardcore and early techno styles while pulling in influence from a wide range of sources, resulting in his own brand of boundary-defying tunes.
+Nowadays, **TRIAL** centres his music on happy hardcore and early techno styles while pulling in influence from a wide range of sources, resulting in his own brand of boundary-defying tunes.
 
 **6** of those tunes are pre-timed and available on [**TRIAL**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/550), and it's up to you to judge how mappable they are.
 
