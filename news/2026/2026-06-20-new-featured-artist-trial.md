@@ -13,7 +13,7 @@ The prosecutor has presented the facts: **TRIAL** makes awesome music and as of 
 
 Nowadays, **TRIAL** centers his music on happy hardcore and early techno styles while pulling in influence from a wide range of sources, resulting in his own brand of boundary-defying tunes.
 
-**6** of those tunes are pre-timed and available on [**TRIAL**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/550), and its up to you to judge how mappable they are.
+**6** of those tunes are pre-timed and available on [**TRIAL**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/550), and it's up to you to judge how mappable they are.
 
 ### Notorious (Nota & TRIAL) - HOPE
 
