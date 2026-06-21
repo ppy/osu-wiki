@@ -317,13 +317,13 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
   2. [skymuted & Evin a'k - memory at angels landing (ExGon) \[CWC 2026 Semifinals HD2\]](https://osu.ppy.sh/beatmapsets/2573438#fruits/5729520)
   3. [BilliumMoto & Miyolophone - IX's Shadow (Unlucky\_w, Spectator) \[Speclucky's Echoes of Aesthetics\]](https://osu.ppy.sh/beatmapsets/2573425#fruits/5729491)
 - Hard Rock
-  1. Fellowship - Scars and Shrapnel Wounds (Verso Dessendre) \[Destiny\] (link pending)
+  1. [Fellowship - Scars and Shrapnel Wounds (Verso Dessendre) \[Destiny\]](https://osu.ppy.sh/beatmapsets/2573502#fruits/5729735)
   2. [Sakura Kanae - Discode (Game Ver.) (Rocma) \[Who am I\]](https://osu.ppy.sh/beatmapsets/2573427#fruits/5729499)
   3. [Link"0 - M0nica (Bunnrei) \[0verd0se\]](https://osu.ppy.sh/beatmapsets/2573434#fruits/5729516)
 - Double Time
   1. [canoue - Hotarubi Gatari (-Luminate) \[Glimmering Light\]](https://osu.ppy.sh/beatmapsets/2573436#fruits/5729518)
   2. [Purukichi ft. nasaki - Toumei (Unlucky\_w) \[Translucency\]](https://osu.ppy.sh/beatmapsets/2573439#fruits/5729522)
-  3. Lorien Testard - Osquio (Cut Ver.) (Verso Dessendre) \[Verso's Drafts\] (link pending)
+  3. [Lorien Testard - Osquio (Cut Ver.) (Verso Dessendre) \[Verso's Drafts\]](https://osu.ppy.sh/beatmapsets/2573503#fruits/5729736)
   4. [Niko - Made Of Fire (Extended & Cut Ver.) (Cruwev, Malai) \[Cruwalai's It's Giving Arson\]](https://osu.ppy.sh/beatmapsets/2573442#fruits/5729525)
 - Mixed Mod
   1. [Sylvir - Etiolan Highway (Spectator, ExGon) \[ExSpec's Sunward Drive\]](https://osu.ppy.sh/beatmapsets/2573446#fruits/5729534)
