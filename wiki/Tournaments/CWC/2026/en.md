@@ -127,7 +127,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 52 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jun 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T150000&p1=1440&p2=195&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 50 | Finland ::{ flag=FI }:: | ::{ flag=GB }:: United Kingdom | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=101&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 55 | Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Jun 27 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T190000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| SM | Semifinals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 28 June 2026
 
