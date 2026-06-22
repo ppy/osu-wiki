@@ -25,7 +25,7 @@ All modded scores will be recalculated, updating the databased values. You will 
 
 This will fix the updated scores being out of order on beatmap leaderboards.
 
-### ⏳ Client update (Expected 2026-06-20)
+### ✅ Client update (Expected 2026-06-20)
 
 A lazer update will drop that will change all new scores to use the new multipliers. Then we be done!
 
