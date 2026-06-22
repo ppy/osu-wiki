@@ -164,5 +164,6 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Yuuni](https://osu.ppy.sh/users/14238916) | [Yuuni](https://osu.ppy.sh/beatmaps/artists/408) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
+| ::{ flag=US }:: [zKatari](https://osu.ppy.sh/users/10407785) | [Katari](https://osu.ppy.sh/beatmaps/artists/549) |
 | ::{ flag=DE }:: [ZVLIAN](https://osu.ppy.sh/users/13687741) | [ZVLIAN](https://osu.ppy.sh/beatmaps/artists/455) |
 | ::{ flag=US }:: [ZytrxZX](https://osu.ppy.sh/users/14782369) | [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430) |

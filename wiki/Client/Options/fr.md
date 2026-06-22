@@ -1,5 +1,7 @@
 ---
 no_native_review_since: be1652b40865fa540c7763f083445c25c47de11c Doryan
+outdated_translation: true
+outdated_since: 518352ffac6612552688c3816c5a5bb589de15a2
 ---
 
 # Options
