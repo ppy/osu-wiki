@@ -48,7 +48,7 @@
 | [osu!taiko 世界杯 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: 日本 | ::{ flag=TW }:: 台湾 | ::{ flag=DE }:: 德国 |
 | [osu!taiko 世界杯 2024](TWC/2024) | 2024-03-16 | 2024-04-28 | ::{ flag=JP }:: 日本 | ::{ flag=GB }:: 英国 | ::{ flag=US }:: 美国 |
 | [osu!taiko 世界杯 2025](TWC/2025) | 2025-03-15 | 2025-04-27 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=TW }:: 台湾 |
-| [osu!taiko 世界杯 2025](TWC/2026) | 2026-03-14 | 2026-04-26 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=CL }:: 智利 |
+| [osu!taiko 世界杯 2026](TWC/2026) | 2026-03-14 | 2026-04-26 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=CL }:: 智利 |
 
 ### ![](/wiki/shared/mode/catch.png) [osu!catch 世界杯](CWC)
 
@@ -68,7 +68,7 @@
 | [osu!catch 世界杯 2023](CWC/2023) | 2023-05-13 | 2023-06-25 | ::{ flag=KR }:: 韩国 | ::{ flag=US }:: 美国 | ::{ flag=IT }:: 意大利 |
 | [osu!catch 世界杯 2024](CWC/2024) | 2024-04-18 | 2024-06-30 | ::{ flag=US }:: 美国 | ::{ flag=AR }:: 阿根廷 | ::{ flag=PL }:: 波兰 |
 | [osu!catch 世界杯 2025](CWC/2025) | 2025-05-08 | 2025-07-20 | ::{ flag=AR }:: 阿根廷 | ::{ flag=US }:: 美国 | ::{ flag=FI }:: 芬兰 |
-| [osu!catch 世界杯 2026](CWC/2026) | 2026-04-30 | 进行中 |  |  |  |
+| [osu!catch 世界杯 2026](CWC/2026) | 2026-04-30 | 2026-07-12 | *待定* | *待定* | *待定* |
 
 ### ![](/wiki/shared/mode/mania.png) [osu!mania 世界杯](MWC)
 

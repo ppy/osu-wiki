@@ -68,7 +68,7 @@ Torneos oficiales organizados por el osu! team.
 | [osu!catch World Cup 2023](CWC/2023) | 13/5/2023 | 25/6/2023 | ::{ flag=KR }:: Corea del Sur | ::{ flag=US }:: Estados Unidos | ::{ flag=IT }:: Italia |
 | [osu!catch World Cup 2024](CWC/2024) | 18/4/2024 | 30/6/2024 | ::{ flag=US }:: Estados Unidos | ::{ flag=AR }:: Argentina | ::{ flag=PL }:: Polonia |
 | [osu!catch World Cup 2025](CWC/2025) | 8/5/2025 | 20/7/2025 | ::{ flag=AR }:: Argentina | ::{ flag=US }:: Estados Unidos | ::{ flag=FI }:: Finlandia |
-| [osu!catch World Cup 2026](CWC/2026) | 30/4/2026 | En curso |  |  |  |
+| [osu!catch World Cup 2026](CWC/2026) | 30/4/2026 | 12/7/2026 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) [osu!mania World Cup](MWC)
 
