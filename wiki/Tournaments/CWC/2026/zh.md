@@ -306,7 +306,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 ### 半决赛
 
 **[在这里下载图包 (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip)**\
-[Watch the showcase VOD here](https://www.twitch.tv/videos/2802199850)
+[在这里观看图池展示回放](https://www.twitch.tv/videos/2802199850)
 
 - No Mod
   1. [Fractal Dreamers - Fortuna Redux (Kukkai) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2573432#fruits/5729512)
