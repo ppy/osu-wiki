@@ -304,13 +304,14 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 
 ### Semifinals
 
+**[Download the mappack here (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2802199850)
 
 - No Mod
   1. [Fractal Dreamers - Fortuna Redux (Kukkai) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2573432#fruits/5729512)
   2. [Aoi - azure iris (-Ken) \[Afterimage\]](https://osu.ppy.sh/beatmapsets/2573448#fruits/5729539)
   3. [Caravan Palace - City Cook (Shiny Mob Remix) (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2573402#fruits/5729426)
-  4. Toromaru - Uncharted Sky (Sololiquy) \[Special\] (link pending)
+  4. [Toromaru - Uncharted Sky (Sololiquy) \[Special\]](https://osu.ppy.sh/beatmapsets/2573579#fruits/5729943)
   5. [dbk2 - The Devil Plays Dance Games (Callionet) \[Deviluge\]](https://osu.ppy.sh/beatmapsets/2573408#fruits/5729446)
 - Hidden
   1. [ASCA - Real Dawn (Yoshi\_green, Mrbinking) \[Mr\_green's Sunrise\]](https://osu.ppy.sh/beatmapsets/2573415#fruits/5729466)
