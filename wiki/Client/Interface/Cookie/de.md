@@ -2,6 +2,8 @@
 stub: true
 tags:
   - logo
+outdated_translation: true
+outdated_since: 73f44ef9e7832b18372e910edc7ce6025acb50bd
 ---
 
 # Cookie
