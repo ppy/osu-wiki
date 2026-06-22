@@ -16,15 +16,13 @@ tags:
   - топ 1
   - топ
   - ранг
-outdated_translation: true
-outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 ---
 
 <!-- Для дополнительной информации об источниках см. https://github.com/ppy/osu-wiki/pull/4720. -->
 
 # История ранкинга osu!
 
-Ниже приведён игроков, которые достигли №1 в [глобальном рейтинге](https://osu.ppy.sh/rankings/osu/performance) [osu!](/wiki/Game_mode/osu!).
+Ниже приведён список игроков, которые достигли №1 в [глобальном рейтинге](https://osu.ppy.sh/rankings/osu/performance) [osu!](/wiki/Game_mode/osu!).
 
 На протяжении многих лет существовало три различных системы ранкинга игроков:
 
@@ -32,7 +30,7 @@ outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 - [ppv1](/wiki/Performance_points/ppv1) (24 июля 2012 – 27 января 2014)
 - [ppv2](/wiki/Performance_points) (27 января 2014 – настоящее время)
 
-По этой причине в список попали только игроки, занявшие первое место в системе, которая действовала в их период лидерства. Даты и числа, выделенные *курсивом*,означают, что игрок сохранял №1 с прошлого года, или продолжил удерживать позицию в следующем году.
+По этой причине в список попали только игроки, занявшие первое место в системе, которая действовала в их период лидерства. Даты и числа, выделенные *курсивом*, означают, что игрок сохранял №1 с прошлого года, или продолжил удерживать позицию в следующем году.
 
 Самым первым обладателем №1 считается ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), хотя источников, подтверждающих это, нет.
 
@@ -298,11 +296,24 @@ outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 | --: | :-- | :-- | :-- |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *08.04.2021* | 21.07.2024 | [\[1\]](https://web.archive.org/web/20210408052501/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/mmkaag/mrekk_is_now_1_surpassing_whitecat/) [\[4\]](https://osu.ppy.sh/scores/osu/3584256449) [\[5\]](https://www.reddit.com/r/osugame/comments/mmkajm/mrekk_colorsslash_colors_power_ni_omakasero/) [\[6\]](https://www.youtube.com/watch?v=xQLVNqfqaOE) |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 21.07.2024 | 03.08.2024 | [\[1\]](https://web.archive.org/web/20240722000045/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://web.archive.org/web/20240721223116/https://osu.ppy.sh/users/9269034) [\[3\]](https://ameobea.me/osutrack/user/9MlCE/) [\[4\]](https://old.reddit.com/r/osugame/comments/1e8yf1a/akolibed_is_now_1_passing_mrekk/) [\[5\]](https://osu.ppy.sh/scores/3198116312) [\[6\]](https://old.reddit.com/r/osugame/comments/1e8yf30/9mlce_akolibed_xi_over_the_top_expert_tynamo_1035/) |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 03.08.2024 | Present | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 03.08.2024 | *14.06.2026* | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+
+## 2025
+
+| Игрок | Начало | Конец | Источник |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | *14.06.2026* | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+
+## 2026
+
+| Игрок | Начало | Конец | Источник |
+| --: | :-- | :-- | :-- |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | *03.08.2024* | 14.06.2026 | [\[1\]](https://web.archive.org/web/20240803205932/https://osu.ppy.sh/rankings/osu/performance) [\[2\]](https://ameobea.me/osutrack/user/mrekk/) [\[3\]](https://old.reddit.com/r/osugame/comments/1ej89t6/mrekk_is_now_1_overtaking_akolbed/) [\[4\]](https://osu.ppy.sh/scores/3271280736) [\[5\]](https://old.reddit.com/r/osugame/comments/1ej89wa/mrekk_maximum_the_hormone_chuchu_lovely_munimuni/) [\[6\]](https://www.youtube.com/watch?v=T2pkgNvjAVE) |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 14.06.2026 | Настоящее время | [\[1\]](https://web.archive.org/web/20260614060411/https://osu.ppy.sh/rankings/osu/global) [\[2\]](https://web.archive.org/web/20260614062255/https://osu.ppy.sh/users/7562902) [\[3\]](https://web.archive.org/web/20260614060145/https://osu.ppy.sh/users/14715160) |
 
 ## Число попаданий на первое место
 
-Ниже — общее число случаев, когда игрок попадал на первое место (по состоянию на 8 августа 2024 года).
+Ниже — общее число случаев, когда игрок попадал на первое место (по состоянию на 14 июня 2026 года).
 
 | Игрок | Попадания |
 | --: | :-: |
@@ -331,6 +342,7 @@ outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 | ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) | 2 |
 | ::{ flag=CN }:: [5231_Kinoko](https://osu.ppy.sh/users/181057) | 1 |
 | ::{ flag=GB }:: [9MlCE](https://osu.ppy.sh/users/9269034) | 1 |
+| ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160) | 1 |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | 1 |
 | ::{ flag=TW }:: [f0012979](https://osu.ppy.sh/users/12143) | 1 |
 | ::{ flag=JP }:: [Flute](https://osu.ppy.sh/users/211278) | 1 |
@@ -348,11 +360,11 @@ outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 
 *Примечание: список не учитывает текущего владельца №1.*
 
-Ниже — суммарное число дней, в течние которых игрок занимал первое место (по состоянию на 8 августа 2024 года).
+Ниже — суммарное число дней, в течние которых игрок занимал первое место (по состоянию на 14 июня 2026 года).
 
 | Игрок | Суммарное число дней |
 | --: | :-: |
-| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 1880 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 967 |
 | ::{ flag=TW }:: [hvick225](https://osu.ppy.sh/users/50265) | 578 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 550 |
@@ -394,11 +406,12 @@ outdated_since: 7c48a74e319dbd88b51db644d66bdff85e67317e
 
 *Примечание: считаются только периоды дольше 100 дней. Текущий владелец №1 не учитывается.*
 
-Ниже — самые долгие периоды пребывания на первом месте (по состоянию на 8 августа 2024 года).
+Ниже — самые долгие периоды пребывания на первом месте (по состоянию на 14 июня 2026 года).
 
 | Игрок | Начало | Конец | Самое долгое число дней |
 | --: | :-- | :-- | :-: |
 | ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 08.04.2021 | 21.07.2024 | 1200 |
+| ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902) | 03.08.2024 | 14.06.2026 | 680 |
 | ::{ flag=DE }:: [WhiteCat](https://osu.ppy.sh/users/4504101) | 06.10.2019 | 08.04.2021 | 550 |
 | ::{ flag=KR }:: [chocomint](https://osu.ppy.sh/users/124493) | 23.10.2016 | 21.01.2018 | 455 |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | 23.12.2007 | 06.09.2008 | 258 |
