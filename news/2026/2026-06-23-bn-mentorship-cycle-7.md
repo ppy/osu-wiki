@@ -21,7 +21,7 @@ Below you'll find a list of mentors for the available game modes, alongside thei
 | Mentor | Timezone |
 | :-- | :-- |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | UTC+4 |
-| ::{ flag=CN }:: [bsm](https://osu.ppy.sh/users/12366071) | UTC+3 |
+| ::{ flag=RO }:: [bsm](https://osu.ppy.sh/users/12366071) | UTC+3 |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) | UTC+3 |
 | ::{ flag=TW }:: [Muchin](https://osu.ppy.sh/users/9834516) | UTC+8 |
 | ::{ flag=SE }:: [byd](https://osu.ppy.sh/users/6398464) | UTC+2 |
