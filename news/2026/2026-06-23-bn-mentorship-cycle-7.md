@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "BN Mentorship: Cycle 7 Sign-ups Open"
-date: 2026-06-23 21:00:00 +0000
+date: 2026-06-23 22:30:00 +0000
+series: online_events
 ---
 
 There's no perfect time to become a Beatmap Nominator other than now, and BN Mentorship returns to help you on that journey!
@@ -60,4 +61,4 @@ Signups are slated to be open from **June 23rd** until **June 28th**, while the 
 
 We hope to see you there, and good luck!
 
-—Nomination Assessment Team
+—the Nomination Assessment Team
