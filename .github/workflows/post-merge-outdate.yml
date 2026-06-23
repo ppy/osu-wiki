@@ -102,7 +102,7 @@ jobs:
               echo "exclude_list=" >> $GITHUB_OUTPUT
           fi
 
-          uv tool run osu-wiki-tools check-outdated-articles \
+          uv run osu-wiki-tools check-outdated-articles \
               --autofix \
               --base-commit "${{ github.sha }}~1" \
               --outdated-since ${{ github.sha }} \

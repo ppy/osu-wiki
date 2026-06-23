@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - MBC
   - MBC 6
@@ -7,10 +6,15 @@ tags:
   - Monthly Beatmapping Contest 6
   - Concurso mensual de beatmapping
   - Concurso mensual de beatmapping 6
-outdated_translation: true
-outdated_since: 5548217f57438042fc16a2a5667cb568810c7c40
 ---
 
 # Aspire
 
-**Aspire** es un [concurso](/wiki/Contests) de [beatmapping](/wiki/Beatmapping) en el que se anima a los mappers a ignorar por completo los [criterios de clasificación](/wiki/Ranking_criteria) y explorar mecánicas de juego que no se suelen usar.
+Página de índice de toda la serie de concursos de beatmapping «Aspire».
+
+- [Monthly Beatmapping Contest: Aspire](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results)
+- [Aspire 2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest)
+- [Aspire 2017](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017)
+- [Aspire 2018](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins)
+- [Aspire V](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format)
+- [Aspire 6](6)
