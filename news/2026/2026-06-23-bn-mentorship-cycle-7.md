@@ -8,9 +8,9 @@ There's no perfect time to become a Beatmap Nominator other than now, and BN Men
 
 ![](/wiki/shared/news/banners/bn-mentorship/banner.jpg)
 
-For those who haven't seen one of these before, here's the usual spiel: this is the 7th cycle of the BN Mentorship Program, an ongoing system led by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) to try and teach any up-and-coming modders who wish to join the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) the skills and insight they may be lacking to do so.
+For those who haven't seen one of these before, here's the usual spiel: this is the 7th cycle of the BN Mentorship Program, an ongoing system led by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) to teach up-and-coming modders the skills needed to become [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
-For this cycle, all game modes are welcome to sign up. Check out a list of mentors below:
+For this cycle, all game modes are welcome to sign up.
 
 ## Mentors
 
@@ -56,7 +56,7 @@ Below you'll find a list of mentors for the available game modes, alongside thei
 
 [![Click here to apply for BN Mentorship!](/wiki/shared/news/banners/bn-mentorship/apply.png)](https://forms.gle/Nx53WnAkMbpEaWor5)
 
-Signups are slated to be open from **23 June** until **28 June**, while the cycle itself will start on **29 June** and will end on **30 August**.
+Signups are slated to be open from **June 23rd** until **June 28th**, while the cycle itself will start on **June 29th** and will end on **August 30th**.
 
 We hope to see you there, and good luck!
 
