@@ -56,7 +56,7 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 
 ## Giám sát việc tổ chức 
 
-Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không thể được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi Ủy ban Giải đấu cả trong lúc giải đấu diễn ra và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, tùy theo quyết định bởi Ủy ban Giải đấu.
+Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không thể được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi Ủy ban Giải đấu cả trong lúc giải đấu diễn ra và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến việc [cấm tổ chức giải đấu](#cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, tùy theo quyết định của Ủy ban Giải đấu.
 
 Giám sát việc tổ chức có thể được gỡ bỏ nếu giải đấu được tổ chức mà **không** vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support), điều này bao gồm các vấn đề nhỏ mà cần gửi email cho người tổ chức giải đấu để sửa chúng. Các ví dụ về những vấn đề này bao gồm:
 
@@ -73,11 +73,11 @@ Nếu một người dùng đối mặt với hình phạt nặng hơn, chẳng 
 
 Lệnh cấm việc tổ chức ngăn cản người dùng trở thành người tổ chức chính hoặc quản lý đối với bất kỳ giải đấu hỗ trợ chính thức nào. Tuy nhiên, họ vẫn có thể tham gia vào các vai trò khác không liên quan đến việc tổ chức.
 
-Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại
+Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại.
 
 ## Cấm làm nhân sự giải đấu
 
-Lệnh cấm làm nhân sự giải đấu ngăn một người dùng từ việc trở thành nhân viên trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyến, bình luận viên hoặc thiết kế đồ họa.
+Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thành nhân viên trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyến, bình luận viên hoặc thiết kế đồ họa.
 
 ## Tôi có thể kháng cáo lệnh xử phạt giải đấu không? {id=appeal}
 
