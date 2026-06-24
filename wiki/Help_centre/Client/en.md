@@ -294,9 +294,9 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 ### I switched to osu!(lazer)'s native tablet drivers and now my area is not the same! {id=tablet-area}
 
-If you were not already using OpenTableDriver's tablet drivers then it is because the tablet you are using is not configured correctly for the native drivers!
+If you were not already using OpenTabletDriver's tablet drivers, then it is because the tablet you are using is not configured correctly for the native drivers!
 
-You can follow the guide [here](wiki/Help_centre/Tablet_conversion/en.md) for more information on how to correctly convert your old tablet driver's area into OTD's drivers.
+You can follow [the guide](wiki/Help_centre/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area into OTD's drivers.
 
 ## Online features {id=online-features}
 

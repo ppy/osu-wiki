@@ -14,7 +14,7 @@ tags:
 
 # Converting Tablet Areas
 
-osu!(lazer) has built-in OpenTabletDriver tablet drivers. With the built-in drivers, this allows for users to not use the proprietary drivers if desired. There are a few different ways of converting the current area of the tablet to a familiar feeling depending on the tablet being used. 
+osu!(lazer) has built-in OpenTabletDriver tablet drivers. With the built-in drivers, this allows for users to not use the proprietary drivers if desired. There are a few different ways of converting the current area of the tablet to a familiar configuration depending on the tablet being used. 
 
 ### Terminology for The Conversions
 
@@ -23,14 +23,14 @@ osu!(lazer) has built-in OpenTabletDriver tablet drivers. With the built-in driv
 | Width | The width of the area in millimeters |
 | Height | The height of the area in millimeters |
 | XOffset | The X offset of the center of the area in millimeters |
-| YOffset | The Y offset of the center of the are in millimeters |
+| YOffset | The Y offset of the center of the area in millimeters |
 | LPI | Lines per inch, commonly 5080 or 2540 |
-| TWidth[^TWidth] | The width of the tablet's digitzer in millimeters |
+| TWidth[^TWidth] | The width of the tablet's digitiser in millimeters |
 | THeight[^THeight] | The height of the tablet's digitizer in millimeters |
-| THorizontal[^THorizontal] | The width of the tablet's digzer in number of lines |
+| THorizontal[^THorizontal] | The width of the tablet's digitiser in number of lines |
 | TVertical[^TVertical] | The height of the tablet's digitizer in number of lines |
 
-Use the following formulas to get the values for osu!(lazer)'s OpenTabletDriver input fields for Width, Height, XOffset, YOffset.
+Use the following formulas to get the values for osu!(lazer)'s OpenTabletDriver input fields for Width, Height, XOffset and YOffset.
 
 ### Wacom and Veikk Tablets {id=wacom-and-veikk}
 
