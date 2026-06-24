@@ -56,13 +56,13 @@ Thông tin về trạng thái lệnh cấm thi đấu của bạn có thể đư
 
 ## Giám sát việc tổ chức 
 
-Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc của [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không thể được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi Ủy ban Giải đấu cả trong lúc giải đấu và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát áp dụng sẽ dẫn đến tới việc [cấm tổ chức giải đấu](#cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, theo quyết định bởi Ủy ban Giải đấu.
+Một giám sát đối với việc tổ chức được thực thi như là kết quả của vi phạm các quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support) rằng không thể được giải quyết thông qua trao đổi với người tổ chức sau khi giải đấu kết thúc. Khi một giám sát việc tổ chức được áp dụng với người dùng, các giải đấu áp dụng hỗ trợ chính thức tiếp theo do họ tổ chức sẽ bị giám sát chặt chẽ bởi Ủy ban Giải đấu cả trong lúc giải đấu diễn ra và sau khi hoàn thành. Những vấn đề nhỏ mà bình thường chỉ cần trao đổi qua email là xong mà không gây ra sự cố gì, nhưng trong trường hợp này sẽ khiến thời gian giám sát bị kéo dài. Vi phạm nghiêm trọng đối với các quy tắc hỗ trợ chính thức sau khi giám sát được áp dụng sẽ dẫn đến tới việc [cấm tổ chức giải đấu](#cấm-tổ-chức-giải-đấu) hoặc hình phạt lớn hơn, tùy theo quyết định bởi Ủy ban Giải đấu.
 
 Giám sát việc tổ chức có thể được gỡ bỏ bởi tổ chức giải đấu với **không** vi phạm quy tắc [hỗ trợ chính thức](/wiki/Tournaments/Official_support), điều này bao gồm các vấn đề nhỏ mà cần gửi email cho người tổ chức giải đấu để sửa chúng. Các ví dụ về những vấn đề này bao gồm:
 
 - Thiếu nhân sự trên bài đăng diễn đàn
 - Không có kết quả vòng loại công khai 
-- Không cập nhật các danh sách trận đấu công khai, chẳng hạn như bảng đấu.
+- Không cập nhật thông tin thi đấu công khai, chẳng hạn như bảng đấu.
 - Những lỗi cơ bản khác có tính chất tương tự.
 
 Những người dùng thường xuyên mắc các lỗi nhỏ cần ủy ban nhắc nhở qua email sẽ tiếp tục bị giám sát vô thời hạn. Những người dùng không nỗ lực để phát triển chất lượng sự kiện của họ trong thời gian bị giám sát có thể phải chịu hình phạt nặng hơn theo quyết định của ủy ban. Giám sát việc tổ chức không tự động hết hạn.
@@ -83,7 +83,7 @@ Lệnh cấm làm nhân sự giải đấu ngăn một người dùng từ việ
 
 Lệnh xử phạt giải đấu được áp dụng qua các phương thức khác ngoài [điều khoản kháng cáo tiêu chuẩn](/wiki/Help_centre/Account_restrictions#appeal-granted) được đi kèm với thời hạn 72 giờ để kháng cáo, trong thời gian này người bị phạt có thể phản đối hình phạt. Sau khi quãng thời gian kháng cáo này trôi qua, các lệnh xử phạt không bao gồm lệnh cấm thi đấu vô thời hạn đều không thể kháng cáo. 
 
-Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít nhất **hai năm** (24 tháng) kể từ khi chúng được áp dụng lần đầu tiên. Người dùng kháng cáo lệnh cấm thi đấu vô thời hạn sẽ được mong đợi đã thể hiện sự tham gia tích cực trong cộng đồng osu! rộng lớn hơn, trong các giải đấu thường hoặc bằng cách khác, và có một hồ sơ hành vi hoàn toàn trong sạch trong suốt khoảng thời gian này. Trong trường hợp đơn kháng cáo không thành công, người dùng bắt buộc phải chờ ít nhất **một năm** (12 tháng) kể từ ngày kháng cáo cuối cùng trước khi có thể kháng cáo trở lại.
+Lệnh cấm thi đấu vô thời hạn có thể được kháng cáo sau ít nhất **hai năm** (24 tháng) kể từ khi chúng được áp dụng lần đầu tiên. Người dùng kháng cáo lệnh cấm thi đấu vô thời hạn sẽ được yêu cầu thể hiện sự tham gia tích cực trong cộng đồng osu! rộng lớn hơn, thông qua các giải đấu thường hoặc bằng cách khác, và có một hồ sơ hành vi hoàn toàn trong sạch trong suốt khoảng thời gian này. Trong trường hợp đơn kháng cáo không thành công, người dùng bắt buộc phải chờ ít nhất **một năm** (12 tháng) kể từ ngày kháng cáo cuối cùng trước khi có thể kháng cáo trở lại.
 
 Mặc dù việc kháng cáo lệnh cấm tham gia giải đấu vô thời hạn là khả thi như đã đề cập ở trên, cần phải nhấn mạnh rằng ngoài việc viết kháng cáo, người dùng còn phải thể hiện các đóng góp đáng kể cho cộng đồng nói chung thì mới có cơ hội thành công thực sự. Danh sách những lần kháng cáo thành công lệnh cấm thi đấu vô thời hạn có thể được tìm thấy trên [chủ đề diễn đàn này](https://osu.ppy.sh/community/forums/topics/1798871)
 
