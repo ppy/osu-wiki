@@ -28,7 +28,7 @@ Việc sử dụng bất kỳ công cụ gian lận của bên thứ ba hoặc c
 - Sử dụng nhiều tài khoản để tham gia giải đấu.
 - Cố gắng né tránh lệnh im lặng hay vi phạm bằng cách sử dụng tài khoản khác.
 - Chia sẻ tài khoản trong khi tham gia một giải đấu hỗ trợ chính thức.
-- Kết hợp thu thập hoặc theo cách khác sử dụng thông tin riêng tư nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
+- Kết hợp thu thập hoặc sử dụng thông tin riêng tư theo cách khác nhằm đạt được hoặc trao cho lợi thế (chẳng hạn như truy cập thông tin mappool trước các đội khác, v.v.)
 - Lạm dụng vị trí tin cậy để đạt được hoặc mang lại lợi thế (sửa đổi lịch thi đấu, thay đổi đội hình một cách không công bằng, hoặc loại bỏ người tham gia mà không có lý do hay giải thích hợp lý).
 - Tổ chức các chiến dịch lạm dụng có chủ đích nhằm vào người tham gia hoặc ban tổ chức nằm ngoài phạm vi chỉ trích.
 
