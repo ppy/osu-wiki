@@ -75,7 +75,7 @@ Lệnh cấm việc tổ chức ngăn cản người dùng trở thành người
 
 Ủy ban Giải đấu có quyền bỏ qua hình phạt [giám sát việc tổ chức](#giám-sát-việc-tổ-chức) trong các trường hợp vi phạm nghiêm trọng [các quy tắc hỗ trợ chính thức](/wiki/Tournaments/Official_support). Đặc biệt trong những trường hợp mà tính công bằng cạnh tranh là vấn đề đáng lo ngại.
 
-## Cấm làm nhân sự giải đấu
+## Cấm nhân sự giải đấu
 
 Lệnh cấm làm nhân sự giải đấu ngăn một người dùng trở thành nhân viên trong giải đấu được hỗ trợ chính thức, ngoại lệ đối với việc phát trực tuyến, bình luận viên hoặc thiết kế đồ họa.
 
