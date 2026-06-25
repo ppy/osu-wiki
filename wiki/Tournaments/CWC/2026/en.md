@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 51 | Germany ::{ flag=DE }:: | ::{ flag=BE }:: Belgium | [Jun 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T100000&p1=1440&p2=37&p3=48) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 51 | Germany ::{ flag=DE }:: | ::{ flag=BE }:: Belgium | [Jun 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T100000&p1=1440&p2=37&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 49 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Jun 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T120000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 50 | Finland ::{ flag=FI }:: | ::{ flag=GB }:: United Kingdom | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=101&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 52 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=195&p3=188) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
