@@ -122,11 +122,12 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 49 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Jun 27 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T110000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 51 | Germany ::{ flag=DE }:: | ::{ flag=BE }:: Belgium | [Jun 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T130000&p1=1440&p2=37&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 52 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jun 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T150000&p1=1440&p2=195&p3=188) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 51 | Germany ::{ flag=DE }:: | ::{ flag=BE }:: Belgium | [Jun 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T100000&p1=1440&p2=37&p3=48) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
+| 49 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Jun 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T120000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 50 | Finland ::{ flag=FI }:: | ::{ flag=GB }:: United Kingdom | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=101&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 52 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=195&p3=188) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 55 | Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Jun 27 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T190000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| SM | Semifinals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) |  |
 
 ### Sunday, 28 June 2026
 
@@ -136,9 +137,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 53b | Finland ::{ flag=FI }:: | ::{ flag=ID }:: Indonesia | [Jun 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T120000&p1=1440&p2=101&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 53c | United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Jun 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T120000&p1=1440&p2=136&p3=33) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 53d | United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Jun 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T120000&p1=1440&p2=136&p3=108) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 54b | France ::{ flag=FR }:: | ::{ flag=BE }:: Belgium | [Jun 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T130000&p1=1440&p2=195&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 56 | Argentina ::{ flag=AR }:: | ::{ flag=JP }:: Japan | [Jun 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T140000&p1=1440&p2=51&p3=248) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
 | 54a | France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=195&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 54b | France ::{ flag=FR }:: | ::{ flag=BE }:: Belgium | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=195&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 54c | Canada ::{ flag=CA }:: | ::{ flag=DE }:: Germany | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 54d | Canada ::{ flag=CA }:: | ::{ flag=BE }:: Belgium | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=188&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | SC | Finals | mappool showcase | [Jun 28 (Sun) 17:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
