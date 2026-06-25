@@ -178,6 +178,7 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 ### Comité de Torneos
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
+- ::{ flag=BA }:: [alisha-](https://osu.ppy.sh/users/29031839)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=CA }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
@@ -195,7 +196,6 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 
 ### Comité de Concursos
 
-- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063)
 - ::{ flag=HK }:: [seros](https://osu.ppy.sh/users/10562853)
@@ -203,6 +203,7 @@ En la [página del grupo del Comité de Torneos](https://osu.ppy.sh/groups/50) s
 
 ### Alumni
 
+- ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)
 - ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
