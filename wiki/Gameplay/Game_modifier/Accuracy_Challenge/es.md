@@ -41,7 +41,7 @@ El mod **Accuracy Challenge** le permite al jugador establecer una precisión m�
 
 ![Opciones de personalización del mod Accuracy Challenge en el cliente del juego](/wiki/Gameplay/Game_modifier_(lazer)/img/customise/AC.png)
 
-- **Minimum accuracy** (60 %-99.9 %, predeterminado: 90 %): El jugador fallará el mapa si la precisión es inferior a este valor.
+- **Minimum accuracy** (60 %-99,9 %, predeterminado: 90 %): El jugador fallará el mapa si la precisión es inferior a este valor.
 - **Accuracy mode** (predeterminado: Máxima alcanzable): El modo de precisión que provocará que el jugador falle el mapa. 
   - **Máxima alcanzable**: El jugador muere si la precisión no supera este valor al finalizar el mapa.
   - **Estándar**: El jugador muere si la precisión es estrictamente inferior al valor.
