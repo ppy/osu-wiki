@@ -1,22 +1,22 @@
 ---
 tags:
-    - convert
-    - tablet
-    - area
-    - wacom
-    - OTD
-    - OpenTabletDriver
-    - xp-pen
-    - veikk
-    - huion
-    - gaomon
+  - convert
+  - tablet
+  - area
+  - wacom
+  - OTD
+  - OpenTabletDriver
+  - xp-pen
+  - veikk
+  - huion
+  - gaomon
 ---
 
 # Converting Tablet Areas
 
 osu!(lazer) has built-in OpenTabletDriver tablet drivers. With the built-in drivers, this allows for users to not use the proprietary drivers if desired. There are a few different ways of converting the current area of the tablet to a familiar configuration depending on the tablet being used. 
 
-### Terminology for The Conversions
+## Terminology for The Conversions
 
 | Term | Definition |
 | :-- | :-- |
