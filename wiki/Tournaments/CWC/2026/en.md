@@ -124,10 +124,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 51 | Germany ::{ flag=DE }:: | ::{ flag=BE }:: Belgium | [Jun 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T100000&p1=1440&p2=37&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 49 | China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Jun 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T120000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| SM | Semifinals | showmatch | [Jun 27 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 | 50 | Finland ::{ flag=FI }:: | ::{ flag=GB }:: United Kingdom | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=101&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 52 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Jun 27 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=195&p3=188) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 55 | Poland ::{ flag=PL }:: | ::{ flag=CL }:: Chile | [Jun 27 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T190000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| SM | Semifinals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) |  |
 
 ### Sunday, 28 June 2026
 
@@ -142,7 +142,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | 54a | France ::{ flag=FR }:: | ::{ flag=DE }:: Germany | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=195&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 54c | Canada ::{ flag=CA }:: | ::{ flag=DE }:: Germany | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 54d | Canada ::{ flag=CA }:: | ::{ flag=BE }:: Belgium | [Jun 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=188&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| SC | Finals | mappool showcase | [Jun 28 (Sun) 17:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| SC | Finals | mappool showcase | [Jun 28 (Sun) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T183000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
 
@@ -305,7 +305,7 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 
 ### Semifinals
 
-**[Download the mappack here (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip)**\
+**[Download the mappack here (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip?1782512592)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2802199850)
 
 - No Mod
@@ -591,5 +591,6 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match – final matchup depends on previous losers bracket matches
 [^mappool-showcase]: Mappool showcase
+[^showmatch]: Semifinals showmatch – mappooling staff
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
