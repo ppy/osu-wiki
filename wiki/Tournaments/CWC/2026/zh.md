@@ -3,8 +3,6 @@ tags:
   - CWC
   - CWC2026
   - CWC 2026
-outdated_translation: true
-outdated_since: ae2335a63317c4a183b0596691814f9eda226cfc
 ---
 
 # osu!catch 世界杯 2026
@@ -127,10 +125,10 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 51 | 德国 ::{ flag=DE }:: | ::{ flag=BE }:: 比利时 | [6 月 27 日（周六）10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T100000&p1=1440&p2=37&p3=48) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 49 | 中国 ::{ flag=CN }:: | ::{ flag=ID }:: 印度尼西亚 | [6 月 27 日（周六）12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T120000&p1=1440&p2=33&p3=108) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| SM | 半决赛 | 表演赛 | [6 月 27 日（周六）14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T140000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 | 50 | 芬兰 ::{ flag=FI }:: | ::{ flag=GB }:: 英国 | [6 月 27 日（周六）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=101&p3=136) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 52 | 法国 ::{ flag=FR }:: | ::{ flag=CA }:: 加拿大 | [6 月 27 日（周六）17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T170000&p1=1440&p2=195&p3=188) | [osulive_2](https://twitch.tv/osulive_2) | [^losers-bracket] |
 | 55 | 波兰 ::{ flag=PL }:: | ::{ flag=CL }:: 智利 | [6 月 27 日（周六）19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260627T190000&p1=1440&p2=262&p3=232) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| SM | 半决赛 | 表演赛 | *待定* | [osulive](https://twitch.tv/osulive) |  |
 
 ### 2026 年 6 月 28 日 星期日
 
@@ -145,7 +143,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 | 54a | 法国 ::{ flag=FR }:: | ::{ flag=DE }:: 德国 | [6 月 28 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=195&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 54c | 加拿大 ::{ flag=CA }:: | ::{ flag=DE }:: 德国 | [6 月 28 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=188&p3=37) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
 | 54d | 加拿大 ::{ flag=CA }:: | ::{ flag=BE }:: 比利时 | [6 月 28 日（周日）16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T160000&p1=1440&p2=188&p3=48) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| SC | 决赛 | 图池展示 | [6 月 28 日（周日）17:00 UTC（暂定）](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T170000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| SC | 决赛 | 图池展示 | [6 月 28 日（周日）18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260628T183000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## 比赛结果
 
@@ -308,7 +306,7 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 
 ### 半决赛
 
-**[在这里下载图包 (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip)**\
+**[在这里下载图包 (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip?1782512592)**\
 [在这里观看图池展示回放](https://www.twitch.tv/videos/2802199850)
 
 - No Mod
@@ -594,5 +592,6 @@ osu!catch 世界杯 2026 由多位社区成员组织。
 [^losers-bracket]: 败者组比赛
 [^potential-match]: 待定比赛——最终队伍取决于之前的败者组比赛胜负
 [^mappool-showcase]: 图池展示
+[^showmatch]: 半决赛表演赛——选图组成员
 [^qualifiers-seeding]: 用于决定种子名次
 [^qualifiers-tiebreaker]: 当两队的百分比赋分求和相同时，用于决定种子名次
