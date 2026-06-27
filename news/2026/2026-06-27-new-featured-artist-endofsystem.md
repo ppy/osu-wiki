@@ -7,7 +7,7 @@ series: featured_artists
 
 Music illusionist **endofsystem** joins our Featured Artists!
 
-![](https://assets.ppy.sh/artists/552/header.jpg)
+![](/wiki/shared/news/2026-06-27-new-featured-artist-endofsystem/banner.png)
 
 A master of unorthodox aural presentation, **endofsystem** (known here on osu! as [*nicoshi*](https://osu.ppy.sh/users/18641641)) specialises in ambient and experimental tracks featuring industrial tones and limited bit depth. Drawing similarities between avant-garde songs isn't always practical, but **endofsystem** loves listening to distorted tunes from familiar names like [*Frums*](https://osu.ppy.sh/beatmaps/artists/68), [*SOOOO*](https://osu.ppy.sh/beatmaps/artists/30), and [*meganeko*](https://osu.ppy.sh/beatmaps/artists/75), traces of which may bleed into **endofsystem**'s sound.
 
