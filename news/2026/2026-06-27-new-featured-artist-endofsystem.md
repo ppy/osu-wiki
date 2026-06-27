@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: endofsystem"
-date: 2026-06-27 19:00:00 +0000
+date: 2026-06-27 21:30:00 +0000
 series: featured_artists
 ---
 
