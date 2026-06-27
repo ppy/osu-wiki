@@ -1,6 +1,6 @@
 # osu!mania 世界杯
 
-这是所有 osu!mania 世界杯系列赛事的导览页。
+这是所有 osu!mania 世界杯系列赛事的索引页。
 
 ## osu!mania 4K/7K 世界杯
 
