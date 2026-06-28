@@ -70,7 +70,7 @@ Difficulty Adjust allows players to change the difficulty settings of a [beatmap
 
 - **HP Drain** (0.0–10.0, default: HP of selected beatmap): Change the [HP drain](/wiki/Gameplay/Health) to a specific value.
 - **Accuracy** (0.0–10.0, default: OD of selected beatmap): Change the [overall difficulty](/wiki/Beatmap/Overall_difficulty) to a specific value.
-- **Extended Limits** (default: disabled): Allows the user to increase **HP Drain** up to 11 and **Accuracy** up to 15.
+- **Extended Limits** (default: disabled): Allows the user to increase **HP Drain** up to 11 and adjust **Accuracy** between -15 and 15.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
