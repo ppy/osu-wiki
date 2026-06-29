@@ -1,9 +1,6 @@
----
-outdated_translation: true
-outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
----
-
 # Условия получения медалей Beatmap Challenge Packs
+
+[Моды, понижающие сложность](/wiki/Gameplay/Game_modifier#понижение-сложности) нельзя использовать для прохождения этих наборов.
 
 | Название медали | Условие |
 | :-- | :-- |

@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 219425135e0e352c29938c496df2e189d65caec8
----
-
 # Центурионы
 
 Центурионы (англ. *centurions*) - это пользователи, преодолевшие порог в **сто** (или более) [ранкнутых](/wiki/Beatmap/Category#ranked) [карт](/wiki/Beatmap). Начиная с [11 июля 2023](https://osu.ppy.sh/home/news/2023-07-11-introducing-new-beatmap-pack-categories), их стремление сделать osu! ещё круче отмечается:
@@ -19,7 +14,7 @@ outdated_since: 219425135e0e352c29938c496df2e189d65caec8
 | ::{ flag=ID }:: [[-E S I A-]](https://osu.ppy.sh/users/5159715) | [28.05.2022](https://osu.ppy.sh/beatmapsets/1475077) | [11.11.2025](https://osu.ppy.sh/beatmapsets/2429761) | [#1](https://osu.ppy.sh/beatmaps/packs/TM35) |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) | [13.07.2020](https://osu.ppy.sh/beatmapsets/1173956) | [28.04.2025](https://osu.ppy.sh/beatmapsets/2294756) | [#1](https://osu.ppy.sh/beatmaps/packs/TM29) |
 | ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) | [06.11.2019](https://osu.ppy.sh/beatmapsets/1057765) | [23.08.2023](https://osu.ppy.sh/beatmapsets/2025917) | [#1](https://osu.ppy.sh/beatmaps/packs/TM15) |
-| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [27.02.2009](https://osu.ppy.sh/beatmapsets/5396) | [10.12.2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
+| ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | [27.02.2009](https://osu.ppy.sh/beatmapsets/5396)[^andrea-first-ranked-date] | [10.12.2010](https://osu.ppy.sh/beatmapsets/23100) | [#1](https://osu.ppy.sh/beatmaps/packs/TM8), [#2](https://osu.ppy.sh/beatmaps/packs/TM9), [#3](https://osu.ppy.sh/beatmaps/packs/TM10), [#4](https://osu.ppy.sh/beatmaps/packs/TM33) |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | [06.05.2018](https://osu.ppy.sh/beatmapsets/757813) | [26.09.2019](https://osu.ppy.sh/beatmapsets/935244) |  |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [02.11.2015](https://osu.ppy.sh/beatmapsets/329829) | [31.10.2019](https://osu.ppy.sh/beatmapsets/1009824) | [#1](https://osu.ppy.sh/beatmaps/packs/TM14) |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | [28.10.2014](https://osu.ppy.sh/beatmapsets/209651) | [22.04.2026](https://osu.ppy.sh/beatmapsets/2505105) | [#1](https://osu.ppy.sh/beatmaps/packs/TM38) |
@@ -62,3 +57,7 @@ outdated_since: 219425135e0e352c29938c496df2e189d65caec8
 
 - Первым пользователем, набравшим 100 ранкнутых карт, 4 августа 2010 г. стал ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363).
 - В среднем на создание и ранкинг 100 карт у центурионов уходит **6.1 лет** (около 2221 дней).<!--Статистика взята из https://chromb.uk/centurions/data.json-->
+
+## Примечания
+
+[^andrea-first-ranked-date]: Из-за ошибки сайт указывает [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) как первую ранкнутую карту ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) с датой 11.01.2009. На самом деле эта карта была ранкнута примерно на год позже, [14.01.2010](https://osu.ppy.sh/community/forums/posts/295050).
