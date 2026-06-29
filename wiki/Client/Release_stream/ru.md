@@ -8,7 +8,7 @@ stub: true
 
 | Ветка релиза | Клиент | Примечания |
 | :-- | :-- | :-- |
-| `Stable` | osu!(stable) | Самая свежая полноценная версия osu!(stable); [заморожена по функциям](https://ru.wikipedia.org/wiki/Заморозка_(программное_обеспечение)); получает обновления после `Cutting Edge (Experimental)`. |
-| `Cutting Edge (Experimental)` | osu!(stable) | Получает обновления osu!(stable) раньше; [заморожена по функциям](https://ru.wikipedia.org/wiki/Заморозка_(программное_обеспечение)); содержит несколько дополнительных возможностей по сравнению с `Stable`; [мультиплеер](/wiki/Client/Interface/Multiplayer) доступен только [osu!supporter](/wiki/osu!supporter). |
+| `Stable` | osu!(stable) | Самая свежая полноценная версия osu!(stable); [заморожена по функциональности](https://ru.wikipedia.org/wiki/Заморозка_(программное_обеспечение)); получает обновления после `Cutting Edge (Experimental)`. |
+| `Cutting Edge (Experimental)` | osu!(stable) | Получает обновления osu!(stable) раньше; [заморожена по функциональности](https://ru.wikipedia.org/wiki/Заморозка_(программное_обеспечение)); содержит несколько дополнительных возможностей по сравнению с `Stable`; [мультиплеер](/wiki/Client/Interface/Multiplayer) доступен только [osu!supporter](/wiki/osu!supporter). |
 | [`Lazer`](Lazer) | osu!(lazer) | Полностью переписанный игровой клиент [с открытым исходным кодом](https://github.com/ppy/osu); разрабатывается наиболее активно и имеет [множество отличий и новых возможностей](/wiki/Help_centre/Upgrading_to_lazer#отличия-в-геймплее-osu!(lazer)). |
 | `Tachyon (Unstable)` | osu!(lazer) | Предрелизная версия `Lazer`; получает обновления osu!(lazer) раньше и чаще. |
