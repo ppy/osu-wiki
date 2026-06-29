@@ -60,4 +60,4 @@
 
 ## Примечания
 
-[^andrea-first-ranked-date]: Из-за ошибки сайт указывает [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) как первую ранкнутую карту ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) с датой 11.01.2009. На самом деле эта карта была ранкнута примерно на год позже, [14.01.2010](https://osu.ppy.sh/community/forums/posts/295050).
+[^andrea-first-ranked-date]: Из-за ошибки сайт указывает [Millenium - Day After Day](https://osu.ppy.sh/beatmapsets/11975) как первую ранкнутую карту ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) с датой 11 января 2009. На самом деле эта карта была ранкнута примерно на год позже, [14 января 2010](https://osu.ppy.sh/community/forums/posts/295050).
