@@ -102,9 +102,9 @@ As the graph shows, this is not a total fix and higher BPMs are generally still 
 
 In effect, higher spacing patterns as well as slower jumps will generally see a buff. On the contrary, smaller spacing patterns as well as some faster jumps will generally see a nerf. Some examples:
 
-- [dj TAKA - quaver [Crescendo]](https://osu.ppy.sh/beatmapsets/423527#osu/915210): 7.36* --> 7.84*
-- [Halozy - Sentimental Skyscraper [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288): 6.94* --> 7.53*
-- [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869): 6.79* --> 7.15*
+- [dj TAKA - quaver [Crescendo]](https://osu.ppy.sh/beatmapsets/423527#osu/915210): 7.36* → 7.84*
+- [Halozy - Sentimental Skyscraper [Myouren Hijiri]](https://osu.ppy.sh/beatmapsets/100348#osu/412288): 6.94* → 7.53*
+- [Akatsuki Records - Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869): 6.79* → 7.15*
 
 ### Replace Speed distance bonus with separate Snap and Flow Aim difficulty evaluation
 
@@ -145,9 +145,9 @@ This nerf also takes the jump's vectors into account - repetitive acute angles t
 
 Some examples of beatmaps nerfed by this change:
 
-- [Porcelain Black - Pretty Little Psycho (Nightcore & Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2390209#osu/5176402) with DT: 7.74* --> 7.35*
-- [Miley Cyrus - The Best of Both Worlds (Nightcore & Cut Ver.) [Kumocha's Extra]](https://osu.ppy.sh/beatmapsets/2495916#osu/5486311) with DT: 7.69* --> 7.39*
-- [Kano - Cherry Pop (Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2464474#osu/5394208) with DT: 8.69* --> 8.33*
+- [Porcelain Black - Pretty Little Psycho (Nightcore & Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2390209#osu/5176402) with DT: 7.74* → 7.35*
+- [Miley Cyrus - The Best of Both Worlds (Nightcore & Cut Ver.) [Kumocha's Extra]](https://osu.ppy.sh/beatmapsets/2495916#osu/5486311) with DT: 7.69* → 7.39*
+- [Kano - Cherry Pop (Cut Ver.) [PikA's Extra]](https://osu.ppy.sh/beatmapsets/2464474#osu/5394208) with DT: 8.69* → 8.33*
 
 ### Adjust miss penalty to be harsher on initial impact
 
@@ -206,7 +206,7 @@ Patterns of frequent rhythm changes followed by long gaps would previously award
 
 Some examples of beatmaps affected by this change:
 
-- [Halozy - Masshiro na Yuki [Lucent Downfall]](https://osu.ppy.sh/beatmapsets/2350118#taiko/5056926): 6.89* -> 6.18*
+- [Halozy - Masshiro na Yuki [Lucent Downfall]](https://osu.ppy.sh/beatmapsets/2350118#taiko/5056926): 6.89* → 6.18*
 - [Risuko, Mona from STAR\*ANIS - Otona Mode [YUC'e Remix] [Hell Oni]](https://osu.ppy.sh/beatmapsets/2334877#taiko/5012694): 6.90\* → 5.92\*
 - [Risuko, Mona from STAR\*ANIS - Otona Mode [YUC'e Remix] [Unspoken Feelings]](https://osu.ppy.sh/beatmapsets/2334877#taiko/5033325): 8.46\* → 7.50\*
 - [Kobaryo - Theme of Psychopath Justice [Speed Insanity]](https://osu.ppy.sh/beatmapsets/2129662#taiko/4478259): 10.89* → 10.17*
