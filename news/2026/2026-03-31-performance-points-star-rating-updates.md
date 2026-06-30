@@ -185,7 +185,7 @@ In practice:
 - A [change](https://github.com/ppy/osu/pull/36900) by [molneya](https://osu.ppy.sh/users/8945180) to remove accuracy bonus for Flashlight
 - A [change](https://github.com/ppy/osu/pull/36555) by [piiid](https://osu.ppy.sh/users/37091194) to rebalance Aim bonuses for Traceable
 - A [change](https://github.com/ppy/osu/pull/36148) by [StanR](https://osu.ppy.sh/users/7217455) to scale doubletap detections more harshly, punishing some edge case beatmaps
-- A [change](https://github.com/ppy/osu/pull/36513) to [StanR](https://osu.ppy.sh/users/7217455) to remove a now unnecessary high CS slider nerf
+- A [change](https://github.com/ppy/osu/pull/36513) by [StanR](https://osu.ppy.sh/users/7217455) to remove a now unnecessary high CS slider nerf
 - A [change](https://github.com/ppy/osu/pull/36063) by [StanR](https://osu.ppy.sh/users/7217455) to simplify final star rating calculations
 - A [change](https://github.com/ppy/osu/pull/36669) by [StanR](https://osu.ppy.sh/users/7217455) to uncap Accuracy PP's object count bonus
 - A [change](https://github.com/ppy/osu/pull/37099) by [StanR](https://osu.ppy.sh/users/7217455) to buff longer jump sections
