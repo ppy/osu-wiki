@@ -11,7 +11,7 @@ tags:
 
 ![OTR26 banner](img/banner.png)
 
-The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It is the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams are formed via draft format, 2026 edition features premade team signups.
+The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turkish-only regional osu! tournament hosted by ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) and ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437). It is the 3rd instalment of the osu!türkiye Open series. Unlike the previous iterations, where the teams were formed via draft format, the 2026 edition features premade team signups.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turki
 | Registration phase | 2026-05-31/2026-06-14 |
 | Qualifiers | 2026-06-15/2026-06-28 |
 | Seeding results & live drawings | 2026-06-29 (19:00 UTC+03) |
-| Group stage | 2026-07-04/2026-07-12 |
+| Group Stage | 2026-07-04/2026-07-12 |
 | Quarterfinals | 2026-07-18/2026-07-19 |
 | Semifinals | 2026-07-25/2026-07-26 |
 | Finals | 2026-08-01/2026-08-02 |
@@ -28,9 +28,9 @@ The **osu!türkiye Open 2026** (***OTR26***) is a 2v2, double-elimination, Turki
 
 ## Prizes
 
-The osu!türkiye Open 2026 features a prize pool that are contributed by community donations.
+The osu!türkiye Open 2026 features a prize pool that is funded by community donations.
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 6 months of osu!supporter tag, 6 months of [o!rdr Supporter](https://ordr.issou.best/support-us) tag, 50% of the prize pool, 1750₺ worth of Google Play Gift Card, profile banner |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, 4 months of [o!rdr Supporter](https://ordr.issou.best/support-us) tag, 30% of the prize pool, 1000₺ worth of Google Play Gift Card, profile banner |
@@ -55,7 +55,7 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 | Developer | ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
 | Musician | [Kagankaravana](https://www.youtube.com/@kagankaravana) |
 
-Group leaders denoted in **bold**.
+Group leaders are denoted in **bold**.
 
 ## Links
 
@@ -63,7 +63,7 @@ Group leaders denoted in **bold**.
 - [Weekly statistics](https://docs.google.com/spreadsheets/d/1jP4C3hDWVEz_NL7ue3uoTixqE_bYSRTkpiS2BtcVjX0/edit?usp=sharing)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/2211098)
 - [Livestream](https://www.twitch.tv/osutrlive)
-- [Livestream Archive](https://youtube.com/@osutrlive)
+- [Livestream archive](https://youtube.com/@osutrlive)
 - [Discord server](https://discord.gg/osuturkiye)
 - [Detailed ruleset](https://osuturkiye.com/wiki/otr26)
 - Challonge brackets: [Group Stage](https://challonge.com/otr26grup)
@@ -71,62 +71,62 @@ Group leaders denoted in **bold**.
 
 ## Participants
 
-| Team | Members | Total PP[^pp-limit] |
+| Team | Members | Total pp[^pp-limit] |
 | :-- | :-- | --: |
-| farketmez | ::{ flag=TR }:: **[Metro Turizm](https://osu.ppy.sh/users/14113711)**, ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407) | 20.987 PP |
-| Fanta Enjoyers | ::{ flag=TR }:: **[maidkedi](https://osu.ppy.sh/users/21893727)**, ::{ flag=TR }:: [TSM L9 RUI](https://osu.ppy.sh/users/31355527) | 20.983 PP |
-| cok zeki takim | ::{ flag=TR }:: **[gheanfoil](https://osu.ppy.sh/users/13596160)**, ::{ flag=TR }:: [ht2](https://osu.ppy.sh/users/27584970) | 20.973 PP |
-| alındınmı? .p | ::{ flag=TR }:: **[arda](https://osu.ppy.sh/users/15019357)**, ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) | 20.930 PP |
-| Pinterest kedipp | ::{ flag=TR }:: **[kr__](https://osu.ppy.sh/users/29545680)**, ::{ flag=TR }:: [Whydm](https://osu.ppy.sh/users/22148222) | 20.855 PP |
-| acil feet | ::{ flag=TR }:: **[dia23](https://osu.ppy.sh/users/9365664)**, ::{ flag=TR }:: [ACLFT](https://osu.ppy.sh/users/25540750) | 20.853 PP |
-| ördek | ::{ flag=TR }:: **[empi-](https://osu.ppy.sh/users/12500084)**, ::{ flag=TR }:: [_Ferapax](https://osu.ppy.sh/users/25204719) | 20.732 PP |
-| enes batur | ::{ flag=TR }:: **[Ievi-](https://osu.ppy.sh/users/14684430)**, ::{ flag=TR }:: [Aeghil](https://osu.ppy.sh/users/18349668) | 20.718 PP |
-| steal balls and run | ::{ flag=TR }:: **[emrepkrr](https://osu.ppy.sh/users/19034045)**, ::{ flag=TR }:: [MilkyChocolate](https://osu.ppy.sh/users/10630390) | 20.684 PP |
-| 21cm pp limit | ::{ flag=TR }:: **[Rosaitty](https://osu.ppy.sh/users/9319605)**, ::{ flag=TR }:: [mustifafifax](https://osu.ppy.sh/users/14473721) | 20.572 PP |
-| cansın | ::{ flag=TR }:: **[Clutch](https://osu.ppy.sh/users/14958380)**, ::{ flag=TR }:: [Zey1111](https://osu.ppy.sh/users/25349230) | 20.522 PP |
-| bak | ::{ flag=TR }:: **[dragonsaga](https://osu.ppy.sh/users/4982690)**, ::{ flag=TR }:: [Liery](https://osu.ppy.sh/users/11551991) | 20.461 PP |
-| barigadam | ::{ flag=TR }:: **[-K3RIM-](https://osu.ppy.sh/users/9187208)**, ::{ flag=TR }:: [TReminTR13](https://osu.ppy.sh/users/32029930) | 20.456 PP |
-| Dede ve Torunu | ::{ flag=TR }:: **[Cherpi](https://osu.ppy.sh/users/14828870)**, ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) | 20.296 PP |
-| W puskevit | ::{ flag=TR }:: **[Puskevit](https://osu.ppy.sh/users/9060966)**, ::{ flag=TR }:: [dskylh](https://osu.ppy.sh/users/12623324) | 20.115 PP |
-| baaa mi diyo la? :O | ::{ flag=TR }:: **[AgorelL](https://osu.ppy.sh/users/16725049)**, ::{ flag=TR }:: [Zybit](https://osu.ppy.sh/users/15333513) | 19.816 PP |
-| washed gang | ::{ flag=TR }:: **[yorunoken](https://osu.ppy.sh/users/17279598)**, ::{ flag=TR }:: [citrous](https://osu.ppy.sh/users/20367144) | 19.705 PP |
-| bocamak | ::{ flag=TR }:: **[vestige](https://osu.ppy.sh/users/18988939)**, ::{ flag=TR }:: [knaa](https://osu.ppy.sh/users/34654247) | 18.999 PP |
-| aranan adamlar 0134 | ::{ flag=TR }:: **[Sekjiru](https://osu.ppy.sh/users/11643416)**, ::{ flag=TR }:: [Kaije](https://osu.ppy.sh/users/14140384) | 18.537 PP |
-| takım olak | ::{ flag=TR }:: **[Terasel](https://osu.ppy.sh/users/16138723)**, ::{ flag=TR }:: [Aisn](https://osu.ppy.sh/users/12489717) | 18.466 PP |
-| zilla | ::{ flag=TR }:: **[tadashiosu](https://osu.ppy.sh/users/24421391)**, ::{ flag=TR }:: [Repxic](https://osu.ppy.sh/users/13903087) | 18.289 PP |
-| Aim Slop Abusers | ::{ flag=TR }:: **[Columbinaa](https://osu.ppy.sh/users/33511891)**, ::{ flag=TR }:: [BayFazzer](https://osu.ppy.sh/users/28489877) | 17.938 PP |
-| Joymaxxing | ::{ flag=TR }:: **[Misumena](https://osu.ppy.sh/users/6440158)**, ::{ flag=TR }:: [Arcuez](https://osu.ppy.sh/users/6036220) | 17.762 PP |
-| eyvah | ::{ flag=TR }:: **[- kayu](https://osu.ppy.sh/users/15572272)**, ::{ flag=TR }:: [b4ris](https://osu.ppy.sh/users/18028990) | 17.429 PP |
-| libaler | ::{ flag=TR }:: **[Alerr](https://osu.ppy.sh/users/11159192)**, ::{ flag=TR }:: [Mirayy](https://osu.ppy.sh/users/23756902) | 17.326 PP |
-| Genç Yetenekler | ::{ flag=TR }:: **[Jollyms](https://osu.ppy.sh/users/16825848)**, ::{ flag=TR }:: [Sipali](https://osu.ppy.sh/users/17352029) | 17.312 PP |
-| Ölü El Terminal | ::{ flag=TR }:: **[Yureibutsad](https://osu.ppy.sh/users/10301951)**, ::{ flag=TR }:: [isotkarahanli](https://osu.ppy.sh/users/33176656) | 17.225 PP |
-| :steamhappy: | ::{ flag=TR }:: **[Wixax](https://osu.ppy.sh/users/6207181)**, ::{ flag=TR }:: [\[Lin\]](https://osu.ppy.sh/users/26119591) | 17.134 PP |
-| Ballade 123 | ::{ flag=TR }:: **[Mianorqe](https://osu.ppy.sh/users/37490087)**, ::{ flag=TR }:: [WarriorKestane](https://osu.ppy.sh/users/33371304) | 16.987 PP |
-| Folklar | ::{ flag=TR }:: **[Ataturk](https://osu.ppy.sh/users/11381914)**, ::{ flag=TR }:: [birb](https://osu.ppy.sh/users/11285985) | 16.929 PP |
-| AvazAvazAğlayanYüz | ::{ flag=TR }:: **[Secretboy](https://osu.ppy.sh/users/24752641)**, ::{ flag=TR }:: [ademos](https://osu.ppy.sh/users/17320778) | 16.693 PP |
-| çeşgul | ::{ flag=TR }:: **[Misora-](https://osu.ppy.sh/users/11621574)**, ::{ flag=TR }:: [red person](https://osu.ppy.sh/users/9709191) | 16.353 PP |
-| hortlak | ::{ flag=TR }:: **[huckmen444](https://osu.ppy.sh/users/5019334)**, ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) | 15.393 PP |
-| Cortisol | ::{ flag=TR }:: **[dark sunn](https://osu.ppy.sh/users/20485889)**, ::{ flag=TR }:: [dodo0317](https://osu.ppy.sh/users/36458923) | 14.911 PP |
-| Opsiyonel | ::{ flag=TR }:: **[Rokuchi](https://osu.ppy.sh/users/36182718)**, ::{ flag=TR }:: [Lnk](https://osu.ppy.sh/users/21053038) | 14.642 PP |
-| İBO VE GAMİNG | ::{ flag=TR }:: **[onlyforK](https://osu.ppy.sh/users/29900877)**, ::{ flag=TR }:: [NaberMudur](https://osu.ppy.sh/users/19385395) | 14.487 PP |
-| jembeyler | ::{ flag=TR }:: **[getsplited](https://osu.ppy.sh/users/17760960)**, ::{ flag=TR }:: [Waeif](https://osu.ppy.sh/users/25530991) | 14.381 PP |
-| kaafi | ::{ flag=TR }:: **[erukedi](https://osu.ppy.sh/users/19693888)**, ::{ flag=TR }:: [hilmicem](https://osu.ppy.sh/users/37606341) | 14.298 PP |
-| 8-5 mesai | ::{ flag=TR }:: **[Piince](https://osu.ppy.sh/users/17048466)**, ::{ flag=TR }:: [Scawroad](https://osu.ppy.sh/users/17636719) | 13.836 PP |
-| Aşuk ile Maşuk | ::{ flag=TR }:: **[NeoShnn](https://osu.ppy.sh/users/33623009)**, ::{ flag=TR }:: [cago](https://osu.ppy.sh/users/22443340) | 13.616 PP |
-| SloppersInParis | ::{ flag=TR }:: **[Vantanite](https://osu.ppy.sh/users/17779421)**, ::{ flag=TR }:: [babapro1313](https://osu.ppy.sh/users/34618819) | 13.508 PP |
-| performatif genişletme | ::{ flag=TR }:: **[Cureleux](https://osu.ppy.sh/users/25429183)**, ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854) | 13.202 PP |
-| babaeski esports | ::{ flag=TR }:: **[fnxx](https://osu.ppy.sh/users/16827662)**, ::{ flag=TR }:: [selimax](https://osu.ppy.sh/users/13525233) | 12.608 PP |
-| Tink E-spor | ::{ flag=TR }:: **[qtunap](https://osu.ppy.sh/users/16620788)**, ::{ flag=TR }:: [Tetsunaru](https://osu.ppy.sh/users/16556729) | 12.279 PP |
-| Kanye babam ve biz | ::{ flag=TR }:: **[HALKBANK](https://osu.ppy.sh/users/20918038)**, ::{ flag=TR }:: [\[-Phantom64-\]](https://osu.ppy.sh/users/12741458) | 11.665 PP |
-| Takım isminiz | ::{ flag=TR }:: **[shimu](https://osu.ppy.sh/users/14318796)**, ::{ flag=TR }:: [yagizvsx](https://osu.ppy.sh/users/19756573) | 11.263 PP |
-| Retired LoL Players | ::{ flag=TR }:: **[StarVolt_](https://osu.ppy.sh/users/36683886)**, ::{ flag=TR }:: [LeoNard_](https://osu.ppy.sh/users/33431776) | 10.791 PP |
-| P7zenjoy | ::{ flag=TR }:: **[alpov](https://osu.ppy.sh/users/19578998)**, ::{ flag=TR }:: [AhtapotNecmi](https://osu.ppy.sh/users/24852332) | 10.050 PP |
-| random kid | ::{ flag=TR }:: **[vuluvulu](https://osu.ppy.sh/users/35459987)**, ::{ flag=TR }:: [Cheas](https://osu.ppy.sh/users/15596748) | 9.870 PP |
-| Dream Team | ::{ flag=TR }:: **[me_ozix](https://osu.ppy.sh/users/24326661)**, ::{ flag=TR }:: [Lypophr3nia](https://osu.ppy.sh/users/34947009) | 8.907 PP |
-| Agalar | ::{ flag=TR }:: **[ChortaX](https://osu.ppy.sh/users/37923969)**, ::{ flag=TR }:: [Oumyoop](https://osu.ppy.sh/users/12419300) | 8.209 PP |
-| professional slider breaking | ::{ flag=TR }:: **[AwcunY](https://osu.ppy.sh/users/27222225)**, ::{ flag=TR }:: [gameofsalih](https://osu.ppy.sh/users/28412980) | 7.415 PP |
-| denizli horozları | ::{ flag=TR }:: **[kufukami](https://osu.ppy.sh/users/37929479)**, ::{ flag=TR }:: [without mercy](https://osu.ppy.sh/users/28436050) | 6.981 PP |
-| low acc or quit | ::{ flag=TR }:: **[Emrecan](https://osu.ppy.sh/users/39182209)**, ::{ flag=TR }:: [fishtuna](https://osu.ppy.sh/users/38898878) | 4.769 PP |
+| farketmez | ::{ flag=TR }:: **[Metro Turizm](https://osu.ppy.sh/users/14113711)**, ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407) | 20.987pp |
+| Fanta Enjoyers | ::{ flag=TR }:: **[maidkedi](https://osu.ppy.sh/users/21893727)**, ::{ flag=TR }:: [TSM L9 RUI](https://osu.ppy.sh/users/31355527) | 20.983pp |
+| cok zeki takim | ::{ flag=TR }:: **[gheanfoil](https://osu.ppy.sh/users/13596160)**, ::{ flag=TR }:: [ht2](https://osu.ppy.sh/users/27584970) | 20.973pp |
+| alındınmı? .p | ::{ flag=TR }:: **[arda](https://osu.ppy.sh/users/15019357)**, ::{ flag=TR }:: [tingirmin](https://osu.ppy.sh/users/9027514) | 20.930pp |
+| Pinterest kedipp | ::{ flag=TR }:: **[kr__](https://osu.ppy.sh/users/29545680)**, ::{ flag=TR }:: [Whydm](https://osu.ppy.sh/users/22148222) | 20.855pp |
+| acil feet | ::{ flag=TR }:: **[dia23](https://osu.ppy.sh/users/9365664)**, ::{ flag=TR }:: [ACLFT](https://osu.ppy.sh/users/25540750) | 20.853pp |
+| ördek | ::{ flag=TR }:: **[empi-](https://osu.ppy.sh/users/12500084)**, ::{ flag=TR }:: [_Ferapax](https://osu.ppy.sh/users/25204719) | 20.732pp |
+| enes batur | ::{ flag=TR }:: **[Ievi-](https://osu.ppy.sh/users/14684430)**, ::{ flag=TR }:: [Aeghil](https://osu.ppy.sh/users/18349668) | 20.718pp |
+| steal balls and run | ::{ flag=TR }:: **[emrepkrr](https://osu.ppy.sh/users/19034045)**, ::{ flag=TR }:: [MilkyChocolate](https://osu.ppy.sh/users/10630390) | 20.684pp |
+| 21cm pp limit | ::{ flag=TR }:: **[Rosaitty](https://osu.ppy.sh/users/9319605)**, ::{ flag=TR }:: [mustifafifax](https://osu.ppy.sh/users/14473721) | 20.572pp |
+| cansın | ::{ flag=TR }:: **[Clutch](https://osu.ppy.sh/users/14958380)**, ::{ flag=TR }:: [Zey1111](https://osu.ppy.sh/users/25349230) | 20.522pp |
+| bak | ::{ flag=TR }:: **[dragonsaga](https://osu.ppy.sh/users/4982690)**, ::{ flag=TR }:: [Liery](https://osu.ppy.sh/users/11551991) | 20.461pp |
+| barigadam | ::{ flag=TR }:: **[-K3RIM-](https://osu.ppy.sh/users/9187208)**, ::{ flag=TR }:: [TReminTR13](https://osu.ppy.sh/users/32029930) | 20.456pp |
+| Dede ve Torunu | ::{ flag=TR }:: **[Cherpi](https://osu.ppy.sh/users/14828870)**, ::{ flag=TR }:: [LeBoum](https://osu.ppy.sh/users/8700026) | 20.296pp |
+| W puskevit | ::{ flag=TR }:: **[Puskevit](https://osu.ppy.sh/users/9060966)**, ::{ flag=TR }:: [dskylh](https://osu.ppy.sh/users/12623324) | 20.115pp |
+| baaa mi diyo la? :O | ::{ flag=TR }:: **[AgorelL](https://osu.ppy.sh/users/16725049)**, ::{ flag=TR }:: [Zybit](https://osu.ppy.sh/users/15333513) | 19.816pp |
+| washed gang | ::{ flag=TR }:: **[yorunoken](https://osu.ppy.sh/users/17279598)**, ::{ flag=TR }:: [citrous](https://osu.ppy.sh/users/20367144) | 19.705pp |
+| bocamak | ::{ flag=TR }:: **[vestige](https://osu.ppy.sh/users/18988939)**, ::{ flag=TR }:: [knaa](https://osu.ppy.sh/users/34654247) | 18.999pp |
+| aranan adamlar 0134 | ::{ flag=TR }:: **[Sekjiru](https://osu.ppy.sh/users/11643416)**, ::{ flag=TR }:: [Kaije](https://osu.ppy.sh/users/14140384) | 18.537pp |
+| takım olak | ::{ flag=TR }:: **[Terasel](https://osu.ppy.sh/users/16138723)**, ::{ flag=TR }:: [Aisn](https://osu.ppy.sh/users/12489717) | 18.466pp |
+| zilla | ::{ flag=TR }:: **[tadashiosu](https://osu.ppy.sh/users/24421391)**, ::{ flag=TR }:: [Repxic](https://osu.ppy.sh/users/13903087) | 18.289pp |
+| Aim Slop Abusers | ::{ flag=TR }:: **[Columbinaa](https://osu.ppy.sh/users/33511891)**, ::{ flag=TR }:: [BayFazzer](https://osu.ppy.sh/users/28489877) | 17.938pp |
+| Joymaxxing | ::{ flag=TR }:: **[Misumena](https://osu.ppy.sh/users/6440158)**, ::{ flag=TR }:: [Arcuez](https://osu.ppy.sh/users/6036220) | 17.762pp |
+| eyvah | ::{ flag=TR }:: **[- kayu](https://osu.ppy.sh/users/15572272)**, ::{ flag=TR }:: [b4ris](https://osu.ppy.sh/users/18028990) | 17.429pp |
+| libaler | ::{ flag=TR }:: **[Alerr](https://osu.ppy.sh/users/11159192)**, ::{ flag=TR }:: [Mirayy](https://osu.ppy.sh/users/23756902) | 17.326pp |
+| Genç Yetenekler | ::{ flag=TR }:: **[Jollyms](https://osu.ppy.sh/users/16825848)**, ::{ flag=TR }:: [Sipali](https://osu.ppy.sh/users/17352029) | 17.312pp |
+| Ölü El Terminal | ::{ flag=TR }:: **[Yureibutsad](https://osu.ppy.sh/users/10301951)**, ::{ flag=TR }:: [isotkarahanli](https://osu.ppy.sh/users/33176656) | 17.225pp |
+| :steamhappy: | ::{ flag=TR }:: **[Wixax](https://osu.ppy.sh/users/6207181)**, ::{ flag=TR }:: [\[Lin\]](https://osu.ppy.sh/users/26119591) | 17.134pp |
+| Ballade 123 | ::{ flag=TR }:: **[Mianorqe](https://osu.ppy.sh/users/37490087)**, ::{ flag=TR }:: [WarriorKestane](https://osu.ppy.sh/users/33371304) | 16.987pp |
+| Folklar | ::{ flag=TR }:: **[Ataturk](https://osu.ppy.sh/users/11381914)**, ::{ flag=TR }:: [birb](https://osu.ppy.sh/users/11285985) | 16.929pp |
+| AvazAvazAğlayanYüz | ::{ flag=TR }:: **[Secretboy](https://osu.ppy.sh/users/24752641)**, ::{ flag=TR }:: [ademos](https://osu.ppy.sh/users/17320778) | 16.693pp |
+| çeşgul | ::{ flag=TR }:: **[Misora-](https://osu.ppy.sh/users/11621574)**, ::{ flag=TR }:: [red person](https://osu.ppy.sh/users/9709191) | 16.353pp |
+| hortlak | ::{ flag=TR }:: **[huckmen444](https://osu.ppy.sh/users/5019334)**, ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) | 15.393pp |
+| Cortisol | ::{ flag=TR }:: **[dark sunn](https://osu.ppy.sh/users/20485889)**, ::{ flag=TR }:: [dodo0317](https://osu.ppy.sh/users/36458923) | 14.911pp |
+| Opsiyonel | ::{ flag=TR }:: **[Rokuchi](https://osu.ppy.sh/users/36182718)**, ::{ flag=TR }:: [Lnk](https://osu.ppy.sh/users/21053038) | 14.642pp |
+| İBO VE GAMİNG | ::{ flag=TR }:: **[onlyforK](https://osu.ppy.sh/users/29900877)**, ::{ flag=TR }:: [NaberMudur](https://osu.ppy.sh/users/19385395) | 14.487pp |
+| jembeyler | ::{ flag=TR }:: **[getsplited](https://osu.ppy.sh/users/17760960)**, ::{ flag=TR }:: [Waeif](https://osu.ppy.sh/users/25530991) | 14.381pp |
+| kaafi | ::{ flag=TR }:: **[erukedi](https://osu.ppy.sh/users/19693888)**, ::{ flag=TR }:: [hilmicem](https://osu.ppy.sh/users/37606341) | 14.298pp |
+| 8-5 mesai | ::{ flag=TR }:: **[Piince](https://osu.ppy.sh/users/17048466)**, ::{ flag=TR }:: [Scawroad](https://osu.ppy.sh/users/17636719) | 13.836pp |
+| Aşuk ile Maşuk | ::{ flag=TR }:: **[NeoShnn](https://osu.ppy.sh/users/33623009)**, ::{ flag=TR }:: [cago](https://osu.ppy.sh/users/22443340) | 13.616pp |
+| SloppersInParis | ::{ flag=TR }:: **[Vantanite](https://osu.ppy.sh/users/17779421)**, ::{ flag=TR }:: [babapro1313](https://osu.ppy.sh/users/34618819) | 13.508pp |
+| performatif genişletme | ::{ flag=TR }:: **[Cureleux](https://osu.ppy.sh/users/25429183)**, ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854) | 13.202pp |
+| babaeski esports | ::{ flag=TR }:: **[fnxx](https://osu.ppy.sh/users/16827662)**, ::{ flag=TR }:: [selimax](https://osu.ppy.sh/users/13525233) | 12.608pp |
+| Tink E-spor | ::{ flag=TR }:: **[qtunap](https://osu.ppy.sh/users/16620788)**, ::{ flag=TR }:: [Tetsunaru](https://osu.ppy.sh/users/16556729) | 12.279pp |
+| Kanye babam ve biz | ::{ flag=TR }:: **[HALKBANK](https://osu.ppy.sh/users/20918038)**, ::{ flag=TR }:: [\[-Phantom64-\]](https://osu.ppy.sh/users/12741458) | 11.665pp |
+| Takım isminiz | ::{ flag=TR }:: **[shimu](https://osu.ppy.sh/users/14318796)**, ::{ flag=TR }:: [yagizvsx](https://osu.ppy.sh/users/19756573) | 11.263pp |
+| Retired LoL Players | ::{ flag=TR }:: **[StarVolt_](https://osu.ppy.sh/users/36683886)**, ::{ flag=TR }:: [LeoNard_](https://osu.ppy.sh/users/33431776) | 10.791pp |
+| P7zenjoy | ::{ flag=TR }:: **[alpov](https://osu.ppy.sh/users/19578998)**, ::{ flag=TR }:: [AhtapotNecmi](https://osu.ppy.sh/users/24852332) | 10.050pp |
+| random kid | ::{ flag=TR }:: **[vuluvulu](https://osu.ppy.sh/users/35459987)**, ::{ flag=TR }:: [Cheas](https://osu.ppy.sh/users/15596748) | 9.870pp |
+| Dream Team | ::{ flag=TR }:: **[me_ozix](https://osu.ppy.sh/users/24326661)**, ::{ flag=TR }:: [Lypophr3nia](https://osu.ppy.sh/users/34947009) | 8.907pp |
+| Agalar | ::{ flag=TR }:: **[ChortaX](https://osu.ppy.sh/users/37923969)**, ::{ flag=TR }:: [Oumyoop](https://osu.ppy.sh/users/12419300) | 8.209pp |
+| professional slider breaking | ::{ flag=TR }:: **[AwcunY](https://osu.ppy.sh/users/27222225)**, ::{ flag=TR }:: [gameofsalih](https://osu.ppy.sh/users/28412980) | 7.415pp |
+| denizli horozları | ::{ flag=TR }:: **[kufukami](https://osu.ppy.sh/users/37929479)**, ::{ flag=TR }:: [without mercy](https://osu.ppy.sh/users/28436050) | 6.981pp |
+| low acc or quit | ::{ flag=TR }:: **[Emrecan](https://osu.ppy.sh/users/39182209)**, ::{ flag=TR }:: [fishtuna](https://osu.ppy.sh/users/38898878) | 4.769pp |
 
 Captains are denoted in **bold**. 
 
@@ -384,10 +384,10 @@ Group D:
 - Hidden
   1. [Sayako - Decide, longitude (feat. Lucy Bedroque) [~talk to me~]](https://osu.ppy.sh/beatmapsets/2527076#osu/5582926)
   2. [Laufey - From The Start [Mekadon's Soliloquy]](https://osu.ppy.sh/beatmapsets/2096549#osu/5242244)
-- HardRock
+- Hard Rock
   1. [Uchida Maaya - Soushou Innocence [CrystLer]](https://osu.ppy.sh/beatmapsets/171215#osu/414217)
   2. [HuMeR - ChaserXX [KKip's Another]](https://osu.ppy.sh/beatmapsets/930846#osu/2066790)
-- DoubleTime
+- Double Time
   1. [Radiohead - Airbag [Insane]](https://osu.ppy.sh/beatmapsets/2122619#osu/4461463)
   2. [yuki - Clammbon [Insane]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
   3. [Dimrain47 - Cloud Control [Insane]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
@@ -411,10 +411,10 @@ Group D:
 - Hidden
   1. [Shoji Meguro feat. Lyn - Last Surprise [I Fuzed Black Ooze And I Liked It]](https://osu.ppy.sh/beatmapsets/2197607#osu/4650494)
   2. [Denkishiki Karen Ongaku Shuudan - Silver Orbit [Despair]](https://osu.ppy.sh/beatmapsets/1062758#osu/2225505)
-- HardRock
+- Hard Rock
   1. [VeetaCrush - Mole [AncuL's Extra]](https://osu.ppy.sh/beatmapsets/1574603#osu/3756543)
   2. [Kagankaravana - Ego Rock (feat. Kasane Teto) [I need you in my life]](https://osu.ppy.sh/beatmapsets/2570441#osu/5720331)
-- DoubleTime
+- Double Time
   1. [Hagumi Nishizawa - My Hero! Up to you! [Insane]](https://osu.ppy.sh/beatmapsets/1840883#osu/3782347)
   2. [underscores - Music [quantumvortex's Insane]](https://osu.ppy.sh/beatmapsets/2542651#osu/5647257)
   3. [Nujabes - Lady Brown (feat. Cise Star) [Boden's Insane]](https://osu.ppy.sh/beatmapsets/2477987#osu/5495728)
@@ -462,7 +462,7 @@ Group D:
    - However, in accordance with official osu! tournament support rules, eliminated players must not hold a staff position that gives them early access to privileged information, such as mappool selector or playtester.
 5. Players must form a team with exactly one other player before registering.
    - Solo registrations and teams with more than 2 players are invalid.
-6. Each team must have a combined total of 21,000 pp or less.
+6. Each team must have a combined total of 21.000pp or less.
    - For this purpose, pp values are frozen after the signup period concludes.
 7. Each team must select one captain.
    - The captain is responsible for all communication between the team and the tournament staff.
@@ -655,7 +655,7 @@ Group D:
 [^pf]: Points for, referring to the number of maps won.
 [^pa]: Points against, referring to the number of maps lost.
 [^pd]: Point differential, calculated as `PF - PA`.
-[^pp-limit]: Teams were required to have a combined total of 21.000 pp or less. For this purpose, pp values were frozen after the signup period concluded.
+[^pp-limit]: Teams were required to have a combined total of 21.000pp or less. For this purpose, pp values were frozen after the signup period concluded.
 [^groups-seed]: The team's seed after the Qualifier stage.
-[^qualifiers-seeding]: The qualifier rating was calculated using the %max scoring system.
-[^qualifiers-tiebreaker]: Average score was used as the qualifier tiebreaker.
+[^qualifiers-seeding]: The Qualifier rating was calculated using the %MAX scoring system.
+[^qualifiers-tiebreaker]: Average score was used as the Qualifier tiebreaker.
