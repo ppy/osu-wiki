@@ -92,7 +92,7 @@ A [change](https://github.com/ppy/osu/pull/35555) by [Nisico](https://osu.ppy.sh
 
 Until now, aim evaluation has prioritised high BPMs with lower distances over low BPMs with higher distances. This is due to a mechanism to decay difficulty which scales by time.
 
-Thanks to a [change](https://github.com/ppy/osu/pull/36417) by [Natelytle](https://osu.ppy.sh/users/17607667), we can now change this mechanism without adverse affects to strain.
+Thanks to a [change](https://github.com/ppy/osu/pull/36417) by [Natelytle](https://osu.ppy.sh/users/17607667), we can now change this mechanism without adverse effects to strain.
 
 As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by [StanR](https://osu.ppy.sh/users/7217455) were made in order to edge this mechanism closer towards rewarding BPM and distance increases equally:
 
