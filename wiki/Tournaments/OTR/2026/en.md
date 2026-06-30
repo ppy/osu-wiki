@@ -391,7 +391,7 @@ Group D:
   1. [Radiohead - Airbag [Insane]](https://osu.ppy.sh/beatmapsets/2122619#osu/4461463)
   2. [yuki - Clammbon [Insane]](https://osu.ppy.sh/beatmapsets/1737221#osu/3588814)
   3. [Dimrain47 - Cloud Control [Insane]](https://osu.ppy.sh/beatmapsets/1550498#osu/3168379)
-- ForcedMod
+- Forced Mod
   1. [Kano - Sukisuki Zecchoushou [Doormat's Extra]](https://osu.ppy.sh/beatmapsets/2191426#osu/4811028)
   2. [goreshit - burn this moment into the retina of my eye [insane]](https://osu.ppy.sh/beatmapsets/359890#osu/830322)
   3. [Akiri feat. InabaYap - Tonight We Fly [Extra (OTR26 Ver.)]](https://osu.ppy.sh/beatmapsets/2577746#osu/5742787)
