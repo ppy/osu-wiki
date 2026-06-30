@@ -487,7 +487,7 @@ Group D:
 ### Qualifier instructions
 
 1. In the Qualifiers, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier mappool will contain 4 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay_Game_modifier/Double_Time).
+2. The Qualifier mappool will contain 4 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time).
 3. The Qualifier mappool will consist of 11 beatmaps.
    - There will be 4 NoMod beatmaps.
    - There will be 2 Hidden beatmaps.
