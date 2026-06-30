@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Quy tắc đối với người đề cử beatmap
 
 Đây là danh sách các quy tắc áp dụng những điều [người đề cử beatmap](/wiki/People/Beatmap_Nominators) có thể và không thể làm khi làm đề cử các beatmap cũng như đặt ra tiêu chuẩn ứng xử chung được kỳ vọng từ họ. Những quy tắc này là kết quả của cuộc thảo luận trong [đội ngũ đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) và đã cân nhắc phản hồi từ những người đề cử beatmap theo đề xuất của họ. 
