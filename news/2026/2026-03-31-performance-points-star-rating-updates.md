@@ -23,32 +23,32 @@ If you find yourself scratching your head when reading, consider consulting the 
 
 Unlike previous runs, we've updated all star ratings in the background, maintaining a separate copy. These will go live in the near future.
 
-### 🏃 Reprocess performance values of negligible scores (1 - 2 days)
+### 🏃 Reprocess performance values of negligible scores (1–2 days)
 
 To start with, we are reprocessing the PP values of scores which are insignificant. This means starting with scores worth a very low amount of PP and working upwards in a way that doesn't affect the competitive nature of the rankings.
 
 This can be done in the background, without stopping the world.
 
-### ⏳ Reprocess performance values of all scores (3 - 5 days)
+### ⏳ Reprocess performance values of all scores (3–5 days)
 
 We now need to reprocess all remaining 3 billion scores (this means **any scores you can currently see on the website** will get a new PP value, including scores set on osu!(stable) and osu!(lazer)). This is the most time-consuming part of the deploy process.
 
 During this period:
 
-- Scores in the "Best Performance" on user profiles may be **out of order or not be visible at all**.
+- Scores in the "Best Performance" section on user profiles may be **out of order or not be visible at all**.
 - All player total PP, global ranks, country ranks, and profile ranking graphs **will be frozen** in time until we're done reprocessing things. If we didn't freeze things, users would question their rank and PP jumping all over the place, as we have no way of ensuring every score PP and user total PP are updated all at once.
 
 ### ⏳ Reprocess total PP values for all users (12 hours)
 
-Bring everything back in line with expectations.
+This will bring everything back in line with expectations.
 
 ### ⏳ Re-enabling of global rank history updates
 
 Rank history graphs will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### ⏳ Reindexing (2 - 3 days)
+### ⏳ Reindexing (2–3 days)
 
-This will fix scores occasionally being out of order on profiles under "best performance", and in some rare cases not being displayed at all.
+This will fix scores occasionally being out of order on profiles under "Best Performance", and in some rare cases not being displayed at all.
 
 ## osu!
 
