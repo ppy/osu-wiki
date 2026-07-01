@@ -28,7 +28,7 @@ tags:
 | Status | Unranked |
 | Incompatible mods ![][osu!] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer)), [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap), [Magnetised (MG)](/wiki/Gameplay/Game_modifier/Magnetised) |
 | Incompatible mods ![][osu!taiko] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Single Tap (SG)](/wiki/Gameplay/Game_modifier/Single_Tap) |
-| Incompatible mods ![][osu!catch] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)) |
+| Incompatible mods ![][osu!catch] | [Autoplay (AT)](/wiki/Gameplay/Game_modifier/Autoplay_(lazer)), [Cinema (CN)](/wiki/Gameplay/Game_modifier/Cinema_(lazer)), [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) |
 
 :::
 

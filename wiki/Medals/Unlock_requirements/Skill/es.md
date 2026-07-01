@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
+---
+
 # Requisitos para desbloquear las medallas de Skill
 
 | Nombre de la medalla | Requisito |
