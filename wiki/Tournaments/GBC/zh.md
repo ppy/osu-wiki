@@ -1,6 +1,6 @@
 # GB Cup
 
-GBC系列赛事的主页面。
+这是所有 GBC 系列赛事的索引页。
 
 - [GB Cup 2022 春季赛](GBC_2022_Spring)
 - [GB Cup 2022 秋季赛](GBC_2022_Autumn)
