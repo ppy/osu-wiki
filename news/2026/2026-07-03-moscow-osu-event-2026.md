@@ -7,7 +7,7 @@ series: offline_events
 
 The fourth iteration of the largest osu! event in Russia is coming this July, 25-26th!
 
-![](/osu-wiki/wiki/shared/news/2026-07-03-moscow-osu-event-2026/banner.png)
+![](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/banner.png)
 
 [See the Russian version of this article here! Русскоязычную версию новости можно прочитать здесь!](https://play-osu.ru/?p=187)
 
@@ -17,7 +17,7 @@ If you are unfamiliar with the Russia's biggest osu! event, take a look at some 
 
 ### Tournaments
 
-![Tournament players](/osu-wiki/wiki/shared/news/2026-07-03-moscow-osu-event-2026/tournament_players.jpg)
+![Tournament players](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/tournament_players.jpg)
 
 We have tournaments for all osu! game modes, with osu!mania having separate tournaments for 4K and 7K players.
 
@@ -27,13 +27,13 @@ For the other game modes, only the final matches will be played at the event its
 
 ### Cosplay show
 
-![Cosplay show](/osu-wiki/wiki/shared/news/2026-07-03-moscow-osu-event-2026/cosplay.jpg)
+![Cosplay show](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/cosplay.jpg)
 
 As a tradition, a cosplay show will be held at the event, allowing anyone to express themselves as their favourite character. Feel free to [check out our recap](https://osu.ppy.sh/home/news/2025-10-08-moscow-osu-event-2025-recap#cosplay-show) to find out what to expect!
 
 ### Gaming booth
 
-![Gaming booth](/osu-wiki/wiki/shared/news/2026-07-03-moscow-osu-event-2026/gaming_booth.jpg)
+![Gaming booth](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/gaming_booth.jpg)
 
 A dedicated gaming booth will be set up for all visitors where they would be able to:
 - Play *Beat Saber* in a VR zone
@@ -42,7 +42,7 @@ A dedicated gaming booth will be set up for all visitors where they would be abl
 
 ### Quest book
 
-![Quest book](/osu-wiki/wiki/shared/news/2026-07-03-moscow-osu-event-2026/questbook.jpg)
+![Quest book](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/questbook.jpg)
 
 The quest book is an activity with lots of tasks to do, each giving you a stamp that you can later exchange for a prize. The more you complete - the sweeter your reward!
 
