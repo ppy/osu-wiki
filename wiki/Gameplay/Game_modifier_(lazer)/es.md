@@ -99,7 +99,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 - [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) ![][osu!]
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
 - [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) ![][osu!catch]
-- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
+- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!] ![][osu!catch]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
