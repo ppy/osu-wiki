@@ -7,7 +7,7 @@ series: offline_events
 
 The fourth iteration of the largest osu! event in Russia is coming this July, 25-26th!
 
-![](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/banner.png)
+![](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/banner.jpg)
 
 [See the Russian version of this article here! Русскоязычную версию новости можно прочитать здесь!](https://play-osu.ru/?p=187)
 
