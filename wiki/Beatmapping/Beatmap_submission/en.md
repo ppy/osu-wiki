@@ -1,8 +1,10 @@
-# Submission
+# Beatmap submission
+
+*For the [lazer](/wiki/Client/Release_stream/Lazer) version of this article, see: [Beatmap submission (lazer)](/wiki/Beatmapping/Beatmap_submission_(lazer))*
 
 [Beatmaps](/wiki/Beatmap) can be submitted to the osu! website via the [in-game editor](/wiki/Client/Beatmap_editor). Submitting a beatmap allows it to receive attention from other users and potentially enter the [Ranked](/wiki/Beatmap/Category#ranked) or [Loved](/wiki/Beatmap/Category#loved) categories.
 
-![](img/bss_warning.png "Beatmap Submission System screen")
+![The Beatmap Submission System window](img/bss_warning.png "Beatmap Submission System window")
 
 Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find [feedback](/wiki/Modding) for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_issues) guide.
 
@@ -20,7 +22,7 @@ Two checkboxes appear near the bottom of the window. The first says `Receive ema
 
 ## Limitations
 
-Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB. The difficulty limit is currently 128.
+Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5 MB plus an additional 10 MB for every minute of beatmap length, and it caps at 100 MB. The difficulty limit is currently 128.
 
 Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 4). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
 
