@@ -170,31 +170,31 @@ Captains are denoted in **bold**.
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| B1 | 21cm pp limit | cansın | [Jul 04 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B8 | W puskevit | Aşuk ile Maşuk | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B4 | 21cm pp limit | jembeyler | [Jul 04 (Sat) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B5 | cansın | W puskevit | [Jul 04 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B10 | Aşuk ile Maşuk | jembeyler | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 5 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| B4 | 21cm pp limit | jembeyler | [Jul 05 (Sun) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B5 | cansın | W puskevit | [Jul 05 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B10 | Aşuk ile Maşuk | jembeyler | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B1 | 21cm pp limit | cansın | [Jul 05 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B8 | W puskevit | Aşuk ile Maşuk | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Saturday, 11 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| B6 | cansın | Aşuk ile Maşuk | [Jul 11 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B9 | W puskevit | jembeyler | [Jul 11 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B2 | 21cm pp limit | W puskevit | [Jul 11 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B3 | 21cm pp limit | Aşuk ile Maşuk | [Jul 11 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B7 | cansın | jembeyler | [Jul 11 (Sat) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 12 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| B2 | 21cm pp limit | W puskevit | [Jul 12 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B3 | 21cm pp limit | Aşuk ile Maşuk | [Jul 12 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B7 | cansın | jembeyler | [Jul 12 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B6 | cansın | Aşuk ile Maşuk | [Jul 12 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| B9 | W puskevit | jembeyler | [Jul 12 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 ### Group C
 
@@ -202,31 +202,31 @@ Captains are denoted in **bold**.
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| C4 | Dede ve Torunu | takım olak | [Jul 04 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C5 | alındınmı? .p | barigadam | [Jul 04 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C10 | AvazAvazAğlayanYüz | takım olak | [Jul 04 (Sat) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C1 | Dede ve Torunu | alındınmı? .p | [Jul 04 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C8 | barigadam | AvazAvazAğlayanYüz | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 5 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| C1 | Dede ve Torunu | alındınmı? .p | [Jul 05 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C8 | barigadam | AvazAvazAğlayanYüz | [Jul 05 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C4 | Dede ve Torunu | takım olak | [Jul 05 (Sun) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C5 | alındınmı? .p | barigadam | [Jul 05 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C10 | AvazAvazAğlayanYüz | takım olak | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Saturday, 11 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| C2 | Dede ve Torunu | barigadam | [Jul 11 (Sat) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C3 | Dede ve Torunu | AvazAvazAğlayanYüz | [Jul 11 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C7 | alındınmı? .p | takım olak | [Jul 11 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C6 | alındınmı? .p | AvazAvazAğlayanYüz | [Jul 11 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C9 | barigadam | takım olak | [Jul 11 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 12 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| C6 | alındınmı? .p | AvazAvazAğlayanYüz | [Jul 12 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| C9 | barigadam | takım olak | [Jul 12 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C2 | Dede ve Torunu | barigadam | [Jul 12 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C3 | Dede ve Torunu | AvazAvazAğlayanYüz | [Jul 12 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C7 | alındınmı? .p | takım olak | [Jul 12 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260712T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 ### Group D
 
