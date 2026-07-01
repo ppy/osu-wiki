@@ -6,7 +6,7 @@
 
 ![The beatmap submission screen](img/bss.png "Beatmap submission")
 
-Selecting `Submit beatmap` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the *beatmap submission* screen. This screen provides options for which [beatmap category](/wiki/Beatmap/Category) the map should end up in, whether to enable discussion notifications and whether open the uploaded map in the browser. If you encounter trouble when using BSS, please ask in the [Help](https://osu.ppy.sh/community/forums/5) subforum.
+Selecting `Submit beatmap` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the *beatmap submission* screen. This screen provides options for which [beatmap category](/wiki/Beatmap/Category) the map should end up in, whether to enable discussion notifications and whether to open the uploaded map in the browser. If you encounter trouble when using BSS, please ask in the [Help](https://osu.ppy.sh/community/forums/5) subforum.
 
 ## Limitations
 
