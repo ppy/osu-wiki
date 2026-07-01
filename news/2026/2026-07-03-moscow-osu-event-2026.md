@@ -5,7 +5,7 @@ date: 2026-07-03 21:00:00 +0000
 series: offline_events
 ---
 
-The fourth iteration of the largest osu! event in Russia is coming this July, 25-26th!
+The fourth iteration of the largest osu! event in Russia is coming later this month, 25–26th of July!
 
 ![](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/banner.jpg)
 
@@ -21,7 +21,7 @@ If you are unfamiliar with the Russia's biggest osu! event, take a look at some 
 
 We have tournaments for all osu! game modes, with osu!mania having separate tournaments for 4K and 7K players.
 
-The main game mode tournament have already went through both the open and closed qualifiers, with the next players taking guaranteed slots at the main tournament: ::{ flag=BY }:: [twennity](https://osu.ppy.sh/users/15803625), ::{ flag=RU }:: [villix](https://osu.ppy.sh/users/12739835), ::{ flag=RU }:: [Hober38](https://osu.ppy.sh/users/19887342), ::{ flag=RU }:: [shadevr](https://osu.ppy.sh/users/8165685), ::{ flag=RU }:: [GodRoPoNiKa](https://osu.ppy.sh/users/11195861), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=RU }:: [Antaanar](https://osu.ppy.sh/users/13206785) and ::{ flag=RU }:: [My Angel Kita](https://osu.ppy.sh/users/21101642). With 8 more directly invited players announced soon, a total of 16 participants will compete against each other on stage!
+The main game mode tournament has already went through both the open and closed qualifiers, with the following players taking guaranteed slots in the bracket: ::{ flag=BY }:: [twennity](https://osu.ppy.sh/users/15803625), ::{ flag=RU }:: [villix](https://osu.ppy.sh/users/12739835), ::{ flag=RU }:: [Hober38](https://osu.ppy.sh/users/19887342), ::{ flag=RU }:: [shadevr](https://osu.ppy.sh/users/8165685), ::{ flag=RU }:: [GodRoPoNiKa](https://osu.ppy.sh/users/11195861), ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=RU }:: [Antaanar](https://osu.ppy.sh/users/13206785) and ::{ flag=RU }:: [My Angel Kita](https://osu.ppy.sh/users/21101642). With 8 more directly invited players to be announced soon, a total of 16 participants will compete against each other on stage!
 
 For the other game modes, only the final matches will be played at the event itself in a free-for-all 1x1x1x1 format, with players getting on stage via online qualifiers.
 
@@ -29,40 +29,33 @@ For the other game modes, only the final matches will be played at the event its
 
 ![Cosplay show](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/cosplay.jpg)
 
-As a tradition, a cosplay show will be held at the event, allowing anyone to express themselves as their favourite character. Feel free to [check out our recap](https://osu.ppy.sh/home/news/2025-10-08-moscow-osu-event-2025-recap#cosplay-show) to find out what to expect!
+As a tradition, a cosplay show will be held at the event, allowing anyone to express themselves as their favourite character. Feel free to [check out last year's recap](https://osu.ppy.sh/home/news/2025-10-08-moscow-osu-event-2025-recap#cosplay-show) to find out what to expect!
 
 ### Gaming booth
 
 ![Gaming booth](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/gaming_booth.jpg)
 
-A dedicated gaming booth will be set up for all visitors where they would be able to:
+A dedicated gaming booth will be set up where any visitor will be able to play several rhythm games:
+
 - Play *Beat Saber* in a VR zone
-- Play *Taiko no Tatsujin* and other arcade rhythm-games using dedicated controllers
-- Play their favourite circle game named *osu!*
+- Play *Taiko no Tatsujin* and other arcade rhythm games using dedicated controllers
+- Play a familiar circle-clicking game called *osu!*
 
 ### Quest book
 
 ![Quest book](/wiki/shared/news/2026-07-03-moscow-osu-event-2026/questbook.jpg)
 
-The quest book is an activity with lots of tasks to do, each giving you a stamp that you can later exchange for a prize. The more you complete - the sweeter your reward!
+The quest book holds lots of tasks to do, each giving you a stamp that you can later exchange for a prize. The more you complete, the sweeter your reward!
 
 ## Tickets
 
 If you want to take part in the largest osu! event in Russia, you need to get yourself a ticket!
 
-As of right now, we have 4 different ticket categories available:
-| Category | Features |  
-| --: | :-: | 
-| **My Love** | A badge and an access to all festival activities |
-| **Flower Dance** | All bonuses from "My Love", custom badge, T-shirt | 
-| **Remote Control** | All bonuses from "Flower Dance", priority queue, exclusive merch | 
-| **Scarlet Rose** | All bonuses from "Remote Control", hoodie, an access to a VIP zone | 
-
-All of them are currently available at the [Moscow osu! Event's website](https://moscowosu.events/)!
+All information about tickets the can be found on [Moscow osu! Event's website](https://moscowosu.events/)!
 
 ---
 
-We hope to see you with us on July, 25-26th. If you are unable to attend, feel free to watch the action live on either [the Russian stream](https://www.twitch.tv/osu_ru) or [the English restream](https://www.twitch.tv/playosupro) *(covering tournament matches only)*. Don't forget to follow Moscow osu! Event's [Discord server](https://discord.com/invite/7GJvD9uyV7), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss any future announcements!
+We hope to see you with us on July, 25–26th. If you are unable to attend, feel free to watch the action live on either [the Russian stream](https://www.twitch.tv/osu_ru) or [the English restream](https://www.twitch.tv/playosupro) *(covering tournament matches only)*. Don't forget to follow Moscow osu! Event's [Discord server](https://discord.com/invite/7GJvD9uyV7), [Twitter](https://x.com/moscowosuevent), [Telegram](https://t.me/moscowosuevent), or [VK](https://vk.com/moscowosuevent), so that you don't miss any future announcements!
 
 See you soon!
 
