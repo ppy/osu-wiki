@@ -68,7 +68,7 @@ Once a Global Moderator chooses to depart from the team under amicable terms, th
 
 *Note: All GMT members speak English in addition to the languages listed below, unless noted otherwise.*
 
-The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-image-assessed).
+The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all of the team members. In addition to areas mentioned below, all GMT members take part in [reviewing visual and aural content included in beatmaps](/wiki/Rules/Visual_content_considerations#getting-your-visual-content-assessed).
 
 **A member of the GMT may engage with any task within any category that they choose, regardless of their listed area of focus.** For example, a GMT member primarily responsible for chat moderation may also help with forum moderation.
 
