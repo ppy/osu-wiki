@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 281d8de971e3eabb99ebd16c4055a935242e0cd2
 ---
 
 # Критерии ранкинга
@@ -25,6 +23,7 @@ outdated_since: 281d8de971e3eabb99ebd16c4055a935242e0cd2
 - **[Критерии визуального содержания](/wiki/Rules/Visual_content_considerations)**: Рекомендации, затрагивающие весь визуал в фонах, сторибордах или видео
 - **[Содержание песен](/wiki/Rules/Song_content_rules)**: Рекомендации, затрагивающие весь аудио-контент в картах
 - **[Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_conduct_for_modding_and_mapping)**: Правила и рекомендации для участия в процессе моддинга карты
+- **[Процедура ранкинга](/wiki/Beatmap_ranking_procedure)**: Процесс, через который проходят все карты в ходе ранкинга
 
 ### Основные критерии ранкинга
 
