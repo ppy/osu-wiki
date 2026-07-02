@@ -10,7 +10,7 @@ Do tópico: *[como hitsounds personalizados? por: neonat](https://osu.ppy.sh/com
 
 Primeiro, você precisará de alguns hitsounds personalizados! Você também pode:
 
-- Pegá-los na [biblioteca de hitsounds personalizados](/wiki/Guides/Custom_hitsound_library),
+- Pegá-los na biblioteca de hitsounds personalizados
 - ou criar os seus próprios
   - se você fizer o seu próprio, tente manter o formato como `.wav` - já que é melhor para looping.
 

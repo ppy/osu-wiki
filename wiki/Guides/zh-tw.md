@@ -14,7 +14,6 @@ no_native_review_since: 84e7e8be479d7188143e72f8db15ce19981e4a10 LmanTW
 - [音頻編輯指南](Audio_editing)
 - [更改標題文字](/wiki/Beatmap/Title_text#changing-title-text)
 - [壓縮檔案](Compressing_files)
-- [自訂義打擊音效庫](Custom_hitsound_library)
 - [自定義音效名稱](Custom_sample_overrides)
 - [如何更改圖譜的藝術家或標題](Changing_the_artist_or_title)
 - [如何解決圖譜提交系統的問題](BSS_issues)

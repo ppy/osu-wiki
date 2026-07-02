@@ -9,7 +9,6 @@ A continuación, se muestra una lista ordenada de guías creadas por miembros de
 - [Guía de edición de audio](Audio_editing)
 - [Cambiar el texto del título](/wiki/Beatmap/Title_text#cambiar-el-texto-del-título)
 - [Compresión de archivos](Compressing_files)
-- [Biblioteca personalizada de hitsounds](Custom_hitsound_library)
 - [Variantes de muestras personalizadas](Custom_sample_overrides)
 - [Cómo cambiar el artista o el título de un mapa](Changing_the_artist_or_title)
 - [Cómo resolver los problemas del BSS](BSS_issues)
