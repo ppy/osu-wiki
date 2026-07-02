@@ -22,7 +22,7 @@
 
 Чтобы найти карты по такому тегу, кликните по нему на странице информации о карте, либо введите в списке карт `tag="{name}"`, где `{name}` — один из тегов, указанных ниже.
 
-Ниже приведены таблицы со всеми пользовательскими тегами и режимами игры, в которых они применяются. В клиенте они отсортированы по алфавиту, но в дальнейшем планируется отсортировать их в том же порядке, что и здесь.
+Ниже приведены таблицы со всеми пользовательскими тегами и режимами игры, в которых они применяются. Сейчас в клиенте теги отсортированы по алфавиту, но в будущем их планируется вручную упорядочить так же, как здесь.
 
 ### Игровые теги
 
@@ -30,68 +30,68 @@
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
-| [skillset/jumps](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fjumps%22%22) | Акцентирует внимание на джампах, т.е. нотах, расположенных далеко друг от друга, заставляя игрока направить на них курсор, замедлиться для нажатия, и затем ускориться к следующей ноте. | ![][osu!] |
-| [skillset/streams](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fstreams%22%22) | Паттерны, требующие постоянных нажатий, обычно более 9 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [skillset/alt](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Falt%22%22) | Неформальный термин для карт, использующих ритмы, требующие игрока чередовать пальцы. Стримы или бёрсты обычно под этот термин не подходят. | ![][osu!] |
+| [skillset/jumps](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fjumps%22%22) | Акцентирует внимание на джампах, т.е. нотах, расположенных далеко друг от друга: игрок наводит на них курсор, замедляется для нажатия и снова ускоряется к следующей ноте. | ![][osu!] |
+| [skillset/streams](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fstreams%22%22) | Паттерны, требующие непрерывных нажатий, обычно более 9 нот подряд. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [skillset/alt](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Falt%22%22) | Разговорный термин для карт с ритмами, которые требуют от игрока чередовать нажатия. Стримы или бёрсты обычно под этот термин не подходят. | ![][osu!] |
 | [skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | Карты, требующие нестандартных навыков игры. | ![][osu!] |
 | [skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | Карты, имеющие нестандартный снаппинг нот. | ![][osu!taiko] ![][osu!mania] |
 | [skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | Карты со множеством 1/4 слайдеров, гиперслайдеров и стеков. | ![][osu!catch] |
-| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | Неформальный термин для карт, требующих точных движений для попадания в ноты. Обычно применяется к картам с размером нот больше или равным 6. | ![][osu!] |
-| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | Неформальный термин для карт, требующих точных движений для ловли фруктов. Обычно применяется к картам с размером нот больше или равным 6. | ![][osu!catch] |
+| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | Разговорный термин для карт, требующих точных движений для попадания по нотам. Обычно относится к картам с размером нот 6 и выше. | ![][osu!] |
+| [skillset/precision](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fprecision%22%22) | Разговорный термин для карт, требующих точных движений для ловли фруктов. Обычно относится к картам с размером нот 6 и выше. | ![][osu!catch] |
 | [skillset/reading](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Freading%22%22) | Карты, тренирующие «читалку» — умение быстро воспринимать порядок и тайминг объектов. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [skillset/gimmick](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fgimmick%22%22) | Карты с необычным геймплеем, которые не подходят под частые определения скиллсетов. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [skillset/speedjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fspeedjack%22%22) | Карты с короткими и быстрыми джеками (англ. jack) — стримами в одной колонке. | ![][osu!mania] |
-| [skillset/wristjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fwristjack%22%22) | Карты с быстрыми или плотными корд-джеками (англ. chordjack), требующими активных движений кистью. | ![][osu!mania] |
+| [skillset/gimmick](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fgimmick%22%22) | Карты с необычным геймплеем, который нельзя отнести к распространённым скиллсетам. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [skillset/speedjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fspeedjack%22%22) | Карты с короткими и быстрыми джеками (англ. *jack*) — стримами в одной колонке. | ![][osu!mania] |
+| [skillset/wristjack](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fwristjack%22%22) | Карты с быстрыми или плотными корд-джеками (англ. *chordjack*), требующими активных движений кистью. | ![][osu!mania] |
 
 #### Джампы
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
-| [jumps/sharp](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fsharp%22%22) | Паттерны с активным использованием острых углов. | ![][osu!] |
-| [jumps/wide](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fwide%22%22) | Паттерны с активным использованием тупых углов. | ![][osu!] |
+| [jumps/sharp](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fsharp%22%22) | Паттерны, требующие активных движений под острыми углами. | ![][osu!] |
+| [jumps/wide](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fwide%22%22) | Паттерны, требующие активных движений под тупыми углами. | ![][osu!] |
 | [jumps/linear](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Flinear%22%22) | Паттерны, заставляющие игрока двигаться по прямой или почти прямой линии. | ![][osu!] |
 | [jumps/triangles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Ftriangles%22%22) | Частое использование треугольных паттернов. | ![][osu!] |
 | [jumps/squares](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fsquares%22%22) | Частое использование квадратных паттернов. | ![][osu!] |
 | [jumps/stars](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fstars%22%22) | Частое использование паттерна в виде звезды/пятиугольника. | ![][osu!] |
-| [jumps/back and forth](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fback%20and%20forth%22%22) | Частое использование паттерна "туда и обратно". | ![][osu!] |
+| [jumps/back and forth](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fback%20and%20forth%22%22) | Частое использование джампов с последующим возвратом (англ. *back and forth*). | ![][osu!] |
 | [jumps/freeform](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Ffreeform%22%22) | Частое использование джампов без определённого паттерна. | ![][osu!] |
 | [jumps/cross-screen](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fcross-screen%22%22) | Частое использование джампов с большим спейсингом, обычно поставленных на противоположных сторонах игрового поля. | ![][osu!] |
-| [jumps/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fstamina%22%22) | Проверка возможности игрока наводиться на джампы в течение долгого времени. | ![][osu!] |
+| [jumps/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22jumps%2Fstamina%22%22) | Проверка умения игрока играть джампы в течение долгого времени. | ![][osu!] |
 
 #### Стримы
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
-| [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Паттерны, требующие последовательно нажать 2 ноты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Паттерны, требующие последовательно нажать группы по 4 ноты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Паттерны, требующие последовательно нажать группы по 5-9 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Проверка возможности игрока нажимать на ноты в течение долгого времени. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
+| [streams/doubles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fdoubles%22%22) | Паттерны с идущими подряд группами из 2 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/quads](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fquads%22%22) | Паттерны с идущими подряд группами из 4 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/bursts](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fbursts%22%22) | Паттерны с идущими подряд группами от 5 до 9 нот. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [streams/stamina](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fstamina%22%22) | Проверка умения игрока проходить плотные, насыщенные ритмы в течение долгого времени. | ![][osu!] ![][osu!taiko] ![][osu!mania] |
 | [streams/speed](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspeed%22%22) | Карты с постоянным таппингом на высоких BPM. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [streams/flow aim](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fflow%20aim%22%22) | Паттерны с продолжительным движением курсора, обычно из-за комбинации широких углов и маленького времени между объектами. | ![][osu!] |
+| [streams/flow aim](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fflow%20aim%22%22) | Паттерны с непрерывным движением курсора, обычно из-за сочетания широких углов и коротких промежутков между объектами. | ![][osu!] |
 | [streams/spaced streams](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fspaced%20streams%22%22) | Карты со стримами, имеющими высокий спейсинг (настолько, что ноты вообще не пересекаются). | ![][osu!] |
 | [streams/cutstreams](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22streams%2Fcutstreams%22%22) | Карты, в которых стримы «разрываются» с помощью огромного спейсинга. | ![][osu!] |
 
-#### Техно
+#### Технические приёмы
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
-| [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Проверяет нестандартные навыки с использованием слайдеров, например, частое использование кикслайдеров или аим на слайдерах со сложными формами. | ![][osu!] |
-| [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Паттерны с изменениями скорости или направления, которые идут вразрез с естественными движениями игрока. | ![][osu!] |
-| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Использование необычных паттернов ритмов для проверки таппинга игрока. | ![][osu!] |
-| [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Карты с частым использованием смешанных или необычных шагов временной шкалы. | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | Карты с фокусом на изменение скорости или направления, которые идут вразрез с естественными движениями игрока. | ![][osu!catch] |
-| [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | Карты с фокусом на естественные и интуитивные паттерны движения. | ![][osu!catch] |
-| [tech/hyperwalks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fhyperwalks%22%22) | Карты с гипердэшами, требущие игрока ходить, в противным случае игрок их перебежит. | ![][osu!catch] |
-| [tech/jump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fjump%22%22) | Карты с фокусом на постоянные 1/2 дэши или гипердэши. | ![][osu!catch] |
-| [tech/technical hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ftechnical%20hybrid%22%22) | Карты, сочетающие в себе обычные ноты и паттерны с длинными нотами. | ![][osu!mania] |
-| [tech/wiggles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fwiggles%22%22) | Карты с фокусом на быстрое изменение направления. | ![][osu!catch] |
+| [tech/slider tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fslider%20tech%22%22) | Проверяет умение играть нестандартные слайдеры: например, обилие кикслайдеров или аим на слайдерах сложной формы. | ![][osu!] |
+| [tech/aim control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Паттерны с изменениями скорости или направления, которые противоречат естественному движению курсора. | ![][osu!] |
+| [tech/finger control](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Faim%20control%22%22) | Использование сложных ритмических паттернов для проверки таппинга игрока. | ![][osu!] |
+| [tech/complex snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fcomplex%20snap%22%22) | Карты с частым использованием смешанных или необычных музыкальных долей. | ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [tech/antiflow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fantiflow%22%22) | Карты с резкими сменами направления или скорости, которые противоречат естественным движениям игрока. | ![][osu!catch] |
+| [tech/flow](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fflow%22%22) | Карты с естественными и интуитивными паттернами движения. | ![][osu!catch] |
+| [tech/hyperwalks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fhyperwalks%22%22) | Карты с гипердэшами, которые нужно проходить без использования соответствующей клавиши, чтобы не перескочить через фрукт. | ![][osu!catch] |
+| [tech/jump](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fjump%22%22) | Карты с частым использованием 1/2 дэшей и гипердэшей. | ![][osu!catch] |
+| [tech/technical hybrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Ftechnical%20hybrid%22%22) | Карты, сочетающие технические паттерны из «риса» с длинными нотами. | ![][osu!mania] |
+| [tech/wiggles](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22tech%2Fwiggles%22%22) | Карты с резкой сменой направления движения. | ![][osu!catch] |
 
 #### Чтение карты
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
 | [reading/overlap reading](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22reading%2Foverlap%20reading%22%22) | Карты, где сложно понять ритм и порядок игры объектов из-за того, что они наложены друг на друга. | ![][osu!] |
-| [reading/perfect stacks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22reading%2Fperfect%20stacks%22%22) | Карты с идеально наложенными друг на друга нотами. | ![][osu!] |
+| [reading/perfect stacks](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22reading%2Fperfect%20stacks%22%22) | Карты с идеальными стеками из нот, построенными за счёт низкой stack leniency. | ![][osu!] |
 | [reading/visually dense](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22reading%2Fvisually%20dense%22%22) | Карты, где сложно понять ритм и порядок игры объектов из-за того, что их слишком много на одном экране. | ![][osu!] |
 
 #### Особенности
@@ -100,14 +100,14 @@
 | :-- | :-- | :-- |
 | [gimmick/aspire](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Faspire%22%22) | Карты, использующие баги редактора для визуальных или игровых приёмов, невозможных в обычных условиях. Название происходит от одноимённого ежегодного конкурса карт. | ![][osu!] |
 | [gimmick/tag](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Ftag%22%22) | Карты для совместного прохождения несколькими игроками в мультиплеере. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [gimmick/2B] | Карты с использованием нескольких объектов, которые нужно играть одновременно. Термин происходит от китайской транслитерации слова «идиот». | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [gimmick/2B](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2F2B%22%22) | Карты с использованием нескольких объектов, которые нужно играть одновременно. Термин происходит от китайской транслитерации слова «идиот». | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [gimmick/memory](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fmemory%22%22) | Карты, требующие заучивания. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [gimmick/storyboard](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fstoryboard%22%22) | Карты, где сториборд влияет на игровой процесс (обычно за счёт замены видимых игровых объектов). | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [gimmick/video](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fvideo%22%22) | Карты, где ноты расставлены под фоновое видео. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [gimmick/playfield constraint](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fplayfield%20constraint%22%22) | Карты, использующие ограниченную часть игрового поля. | ![][osu!] |
 | [gimmick/circle only](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fcircle%20only%22%22) | Карты, состоящие только из нот. | ![][osu!] |
 | [gimmick/slider only](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fslider%20only%22%22) | Карты, состоящие только из слайдеров. | ![][osu!] |
-| [gimmick/ninja spinners](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fninja%20spinners%22%22) | Включает в себя очень короткие по длительности спиннеры. | ![][osu!] |
+| [gimmick/ninja spinners](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fninja%20spinners%22%22) | Карты с очень короткими по длительности спиннерами. | ![][osu!] |
 | [gimmick/barlines](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fbarlines%22%22) | Карты, использующие линию начала такта (англ. *barline*), чтобы влиять на появление нот. | ![][osu!taiko] |
 | [gimmick/delay](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fdelay%22%22) | Карты, где эхо (англ. *delay*) замапано стримами с большой плотностью нот. | ![][osu!mania] |
 | [gimmick/dodge the beat](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22gimmick%2Fdodge%20the%20beat%22%22) | Карты, где нужно уворачиваться от фруктов, а не ловить их. | ![][osu!catch] |
@@ -127,8 +127,8 @@
 | :-- | :-- | :-- |
 | [style/symmetrical](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fsymmetrical%22%22) | Карты, построенные на симметрии (зачастую — горизонтальной). | ![][osu!] |
 | [style/distance snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fdistance%20snap%22%22) | Карты, сделанные преимущественно или полностью с одним и тем же спейсингом. | ![][osu!] |
-| [style/grid snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgrid%20snap%22%22) | Объекты расположены на квадратной сетке, обычно через сетку внутри редактора игры. | ![][osu!] |
-| [style/hexgrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhexgrid%22%22) | Объекты расположены на шестиугольной сетке. | ![][osu!] |
+| [style/grid snap](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgrid%20snap%22%22) | Карты с объектами, расставленными по квадратной сетке (обычно с помощью встроенной в редактор привязки к сетке). | ![][osu!] |
+| [style/hexgrid](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fhexgrid%22%22) | Карты с объектами, расставленными по шестиугольной сетке. | ![][osu!] |
 | [style/geometric](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fgeometric%22%22) | Карты с объектами, расставленными в форме геометрических фигур. | ![][osu!] |
 | [style/clean](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fclean%22%22) | Карты с чистой и аккуратной структурой, зачастую с равномерным спейсингом и почти без оверлапов. | ![][osu!] |
 | [style/freeform](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ffreeform%22%22) | Карты со слабой, почти отсутствующей визуальной структурой. | ![][osu!] |
@@ -155,7 +155,7 @@
 | [style/o2jam](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fo2jam%22%22) | Карты, подражающие стилю маппинга чартов из O2jam. | ![][osu!mania] |
 | [style/quadstream](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fquadstream%22%22) | Карты, содержащие стримы из аккордов из 4 нот. | ![][osu!mania] |
 | [style/taikosu](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftaikosu%22%22) | Карты, созданные одновременно для режимов osu! и osu!taiko. | ![][osu!taiko] |
-| [style/tiebreaker](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftiebreaker%22%22) | Карты, требущие различных навыков игры и обычно длящиеся более 5 минут. | ![][osu!mania] |
+| [style/tiebreaker](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftiebreaker%22%22) | Карты, требующие различных навыков игры и обычно длящиеся более 5 минут. | ![][osu!mania] |
 | [style/tnt](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Ftnt%22%22) | Карты, подражающие стилю маппинга из Taiko No Tatsujin. | ![][osu!taiko] |
 | [style/vocal](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22style%2Fvocal%22%22) | Карты, замапанные под вокал. | ![][osu!taiko] |
 
@@ -164,37 +164,37 @@
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
 | [expression/simple](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fsimple%22%22) | Понятный и простой дизайн карты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/difficulty spike](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fdifficulty%20spike%22%22) | Содержит внезапный и заметный скачок в сложности геймплея. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/high contrast](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fhigh%20contrast%22%22) | Использует яркие идеи для следования изменениям в музыке, создавая резкие различия между разными секциями карты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/progression](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fprogression%22%22) | Содержит постепенное нарастание сложности или концепции на протяжении всей карты | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/repetition](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Frepetition%22%22) | Использует узвамаемые одинаковые паттерны или элементы геймплея.. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/iNiS-style](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2FiNiS-style%22%22) | Стиль из оригинальных игр с Nintendo DS, узнаваемый по акценту на вокальный ритм, постоянную скорость слайдеров и понятные паттерны, расположенные по сетке. | ![][osu!] |
+| [expression/difficulty spike](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fdifficulty%20spike%22%22) | Содержит внезапный и значительный скачок сложности. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [expression/high contrast](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fhigh%20contrast%22%22) | Использует яркие приёмы, чтобы следовать за изменениями в музыке, создавая резкие контрасты между секциями карты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [expression/progression](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fprogression%22%22) | Постепенное нарастание сложности или развитие концепции на протяжении всей карты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [expression/repetition](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Frepetition%22%22) | Использует узнаваемые одинаковые паттерны или элементы геймплея. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [expression/iNiS-style](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2FiNiS-style%22%22) | Стиль из оригинальных игр для Nintendo DS, узнаваемый по акценту на вокальный ритм, постоянную скорость слайдеров и понятные паттерны, расставленные по сетке. | ![][osu!] |
 | [expression/old-style revival](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fold-style%20revival%22%22) | Имитирует стиль раннего маппинга, обычно чтобы отдать дань уважения или для эффекта ностальгии. | ![][osu!] |
 | [expression/inspo](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Finspo%22%22) | Карты, напрямую вдохновлённые другими картами или мапперами. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [expression/improvisation](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fimprovisation%22%22) | Использует паттерны, не сочетающиеся с музыкой, часто используя хитсаунды для добавления звуков. | ![][osu!] |
-| [expression/improvisation](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fimprovisation%22%22) | Карта, полностью созданная как импровизация, работающая как дополнительный слой к песне. | ![][osu!taiko] |
-| [expression/chaotic](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fchaotic%22%22) | Непредсказуемый дизайн карты, часто тестирует игрока на необычные скиллсеты. | ![][osu!] |
+| [expression/improvisation](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fimprovisation%22%22) | Карты, которые вместо следования музыке создают собственный ритм, зачастую дополняемый хитсаундами. | ![][osu!] |
+| [expression/improvisation](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fimprovisation%22%22) | Карты, полностью построенные на импровизации, добавляющей в песню самостоятельный ритм. | ![][osu!taiko] |
+| [expression/chaotic](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fchaotic%22%22) | Карты с непредсказуемым дизайном, часто требующие нестандартных навыков игры. | ![][osu!] |
 | [expression/playfield usage](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fplayfield%20usage%22%22) | Карты с намеренным использованием различных участков игрового поля. | ![][osu!] |
-| [expression/conceptual](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fconceptual%22%22) | Оригинальные решения в карте, выходящие за рамки норм маппинга, обычно для того, чтобы творчески выразить часть песни. | ![][osu!] |
+| [expression/conceptual](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22expression%2Fconceptual%22%22) | Оригинальные решения в карте, выходящие за рамки обычных приёмов маппинга, обычно чтобы творчески выразить часть песни. | ![][osu!] |
 
 #### Слайдеры
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
-| [sliders/low sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Flow%20sv%22%22) | Включает в себя низкую скорость слайдеров как основной элемент дизайна карты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [sliders/high sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fhigh%20sv%22%22) | Включает в себя высокуюю скорость слайдеров как основной элемент дизайна карты. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [sliders/complex sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fcomplex%20sv%22%22) | Значительно меняет скорость слайдеров для проверки навыков чтения и аима у игрока. | ![][osu!] |
-| [sliders/complex sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fcomplex%20sv%22%22) | Значительно меняет скорость слайдеров для проверки навыков чтения у игрока. | ![][osu!taiko] ![][osu!mania] |
-| [sliders/complex slidershapes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fcomplex%20slidershapes%22%22) | Использует много вариантов слайдеров. | ![][osu!] |
+| [sliders/low sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Flow%20sv%22%22) | Карты, где низкая скорость слайдеров — ключевой элемент дизайна. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [sliders/high sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fhigh%20sv%22%22) | Карты, где высокая скорость слайдеров — ключевой элемент дизайна. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [sliders/complex sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fcomplex%20sv%22%22) | Карты с резкими перепадами скорости слайдеров, требовательные к чтению и аиму. | ![][osu!] |
+| [sliders/complex sv](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fcomplex%20sv%22%22) | Карты с резкими перепадами скорости слайдеров, требовательные к чтению. | ![][osu!taiko] ![][osu!mania] |
+| [sliders/complex slidershapes](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22sliders%2Fcomplex%20slidershapes%22%22) | Карты со слайдерами крайне разнообразных форм. | ![][osu!] |
 
 #### Дополнения
 
 | Название тега | Описание | Режим |
 | :-- | :-- | :-- |
 | [additions/combo colours](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcombo%20colours%22%22) | Карты, в которых цвет комбо меняется в зависимости от песни, также известны как «colourhax». | ![][osu!] |
-| [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Содержит хитсаунды из сэмплов разных тонов для создания мелодии, обычно повторяя за мелодией песни. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Использует собственные элементы скина и графики. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Карта, использующая нестандартные сеты хитсаундов. | ![][osu!taiko] |
+| [additions/keysounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fkeysounds%22%22) | Карты с хитсаундами различной тональности, с помощью которых маппер создаёт отдельную мелодию, обычно следующую мелодии песни. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [additions/custom skin](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Карты с собственными элементами скина и графики. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [additions/hitsounds](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22additions%2Fcustom%20skin%22%22) | Карты с нестандартными наборами хитсаундов. | ![][osu!taiko] |
 
 ### Теги метаданных
 
@@ -205,7 +205,7 @@
 | [meta/collab](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Fcollab%22%22) | Карты, сделанные совместно несколькими мапперами. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [meta/mega collab](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Fmega%20collab%22%22) | Совместные карты, сделанные 8 и более мапперами. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [meta/swing](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Fswing%22%22) | Песня с заметным ритмом свинга. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
-| [meta/accelerating bpm](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Faccelerating%20bpm%22%22) | Псеня с постоянно ускоряющимся темпом | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
+| [meta/accelerating bpm](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Faccelerating%20bpm%22%22) | Песня с постоянно ускоряющимся темпом. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [meta/variable timing](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Fvariable%20timing%22%22) | Карты с меняющимся таймингом, обычно на песни, записанные без метронома. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [meta/time signatures](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Ftime%20signatures%22%22) | Карты на песни с необычным или часто меняющимся размером музыкального такта. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [meta/multi-song](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22meta%2Fmulti-song%22%22) | Карты с аудиодорожкой, состоящей из нескольких песен. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
