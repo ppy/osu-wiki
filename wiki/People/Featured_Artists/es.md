@@ -99,6 +99,7 @@ La [página de grupo de los Artistas Destacados](https://osu.ppy.sh/groups/35) e
 | ::{ flag=ES }:: [KeybladeMaster](https://osu.ppy.sh/users/5926683) | [xiiiac13](https://osu.ppy.sh/beatmaps/artists/423) |
 | ::{ flag=US }:: [kikoyu](https://osu.ppy.sh/users/10825836) | [kikoyu](https://osu.ppy.sh/beatmaps/artists/497) |
 | ::{ flag=DE }:: [KIRA\_old\_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
+| ::{ flag=JP }:: [kissssy](https://osu.ppy.sh/users/40014064) | [Adust Rain](https://osu.ppy.sh/beatmaps/artists/548) (miembro de) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=CA }:: [Kommisar](https://osu.ppy.sh/users/773405) | [Kommisar](https://osu.ppy.sh/beatmaps/artists/379) |
 | ::{ flag=DE }:: [Krimek](https://osu.ppy.sh/users/2345078) | [Krimek](https://osu.ppy.sh/beatmaps/artists/371) |
