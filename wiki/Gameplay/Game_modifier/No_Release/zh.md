@@ -22,7 +22,7 @@ tags:
 | 类别 | 降低难度 |
 | 默认快捷键 | `T` |
 | 游戏模式 | ![][osu!mania] |
-| 得分系数 | 0.90x |
+| 得分系数 | `0.90x` |
 | 状态 | 不计入排名 |
 | 不兼容的模组 | [Hold Off (HO)](/wiki/Gameplay/Game_modifier/Hold_Off) |
 
