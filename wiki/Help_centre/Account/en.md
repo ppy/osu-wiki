@@ -36,23 +36,33 @@ Make sure to include any receipts that you received during the process (PayPal t
 
 ## Restriction {id=restriction}
 
-### What is "restricted" mode, exactly? {id=what-is-restriction}
+### What is "restricted mode", exactly? {id=what-is-restriction}
 
 **A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offence before we consider an appeal from you to let you back into the game.
+In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of at least **three (3) months** from the date of your last offence before we consider an appeal from you to let you back into the game.
 
-Refer to *[Account Restrictions](/wiki/Help_centre/Account_restrictions)* for more information on account restrictions and the appeal process.
+Refer to the [Account restrictions](/wiki/Help_centre/Account_restrictions) article for more information on account restrictions and the appeal process.
 
 ## Tournament bans {id=tournament-bans}
 
 ### What is a tournament ban? {id=what-is-tournament-ban}
 
-Tournament bans are as the name describes — a ban from participation in all officially supported tournaments.
+Tournament bans are, as the name describes, a ban from participation in all officially supported tournaments and contests.
 
 Refer to the [Tournament sanctions](/wiki/Help_centre/Tournament_sanctions) article for more information on the topic.
+
+## Silences {id=silences}
+
+### What is a silence? {id=what-is-silence}
+
+Silences temporarily prevent a user from interacting with the community in most ways, including chatting, posting comments or forum posts, and using certain multiplayer features.
+
+Silences are usually issued against users for posting inappropriate chat messages, forum posts, comments, or for other misbehaviour. Silences can last anywhere from 5 minutes to 28 days, and are considered a less serious punishment than account restrictions.
+
+Refer to the [Silences](/wiki/Help_centre/Silences) article for more information.
 
 ## Sign-in {id=sign-in}
 
@@ -139,7 +149,7 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your username **once** for free. This username change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32) page.
 
-At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive — the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a [username change](https://osu.ppy.sh/store/products/32) to change your username to whatever you wish. However, each change will become progressively more expensive — the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD (excluding subsequent name changes performed more than 3 years ago). We do this to prevent people from abusing the system to change their names in rapid succession.
 
 Please note that usernames must abide by our [community rules](/wiki/Rules#community-rules) in that they must not be broadly offensive to other users, overly provocative or otherwise inflammatory in any way. In addition, usernames that impersonate or assume the identity of major public figures (such as celebrities, politicians, etc.) are not allowed and will be forcefully reverted once we find out about them.
 
