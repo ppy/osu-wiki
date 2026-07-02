@@ -11,6 +11,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [Compressing files](Compressing_files)
 - [Custom hitsound library](Custom_hitsound_library)
 - [Custom sample overrides](Custom_sample_overrides)
+- [Finding metadata](Finding_metadata)
 - [How to change a map's artist or title](Changing_the_artist_or_title)
 - [How to resolve BSS issues](BSS_issues)
 - [How to start a beatmap project](Starting_a_beatmap_project)
