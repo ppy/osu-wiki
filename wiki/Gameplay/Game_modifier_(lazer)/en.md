@@ -18,11 +18,11 @@ tags:
 
 ![](img/mod-select.jpg "Mod selection screen for the osu! game mode")
 
-Mods are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. They can either reduce or increase the Score Multiplier. When two mods are being used simultaneously, the mods' respective multiplier will be multiplied together (e.g., 1.06x * 1.12x = 1.1872x).
+**Game modifiers** (*mods* for short) are separated into five categories: `Difficulty Reduction`, `Difficulty Increase`, `Automation`, `Conversion` and `Fun`. Some of them can reduce or increase the Score Multiplier. When multiple mods are being used simultaneously, their respective multipliers will be multiplied together (e.g. `1.06x * 1.12x = 1.1872x`).
 
 ## List of mods
 
-Each of the mods below listed will have their compatible game modes' icon (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) next to it.
+Next to each of the mods listed below the icons of their compatible [game modes](/wiki/Game_mode) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] are displayed.
 
 ### Difficulty Reduction
 
@@ -42,12 +42,12 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In_(lazer)) ![][osu!mania]
 - [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 - [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 
 ### Automation
 
@@ -61,7 +61,7 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 
 - [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice_(lazer)) ![][osu!]
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
+- [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Dual Stages (DS)](/wiki/Gameplay/Game_modifier/Dual_Stages) ![][osu!mania]
 - [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) ![][osu!] ![][osu!catch] ![][osu!mania]
@@ -93,22 +93,22 @@ Each of the mods below listed will have their compatible game modes' icon (![][o
 - [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) ![][osu!]
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
 - [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) ![][osu!catch]
-- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
+- [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!] ![][osu!catch]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]
 
 ### System
 
-- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Touch Device (TD)](/wiki/Gameplay/Game_modifier/Touch_Device_(lazer)) ![][osu!]
+- [Score V2 (SV2)](/wiki/Gameplay/Game_modifier/Score_V2_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 #### Personal Presets
 
-The **Personal Presets** are located in a category of its own, allowing you to save any combination of mods directly into it. You can name them anything you like or add an extra description with it. Each Personal Presets are unique its game mode.
+The **Personal Presets** are located in a separate category (left of **Difficulty Reduction**) and allow players to save any combination of mods directly into it. Each personal preset has to be assigned a name and optionally a description. Every game mode has a separate list of personal presets.
 
 #### Customise
 
-Similar to the Difficulty Adjust (DA) mod, the pre-configured settings **Customise** guarantees a customizable gaming experience based on the mods you've chosen. Any change in these settings will result in your score being unranked.
+Some mods allow for **customisation** by the user (e.g. Difficulty Adjust). These settings can affect the score multiplier and might cause the mod to become unranked. They are explained in the articles of those mods.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

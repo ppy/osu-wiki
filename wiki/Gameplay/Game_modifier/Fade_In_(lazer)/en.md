@@ -23,7 +23,7 @@ tags:
 | Type | Difficulty Increase |
 | Default shortcut key | `H` |
 | Game modes | ![][osu!mania] |
-| Score multiplier | 1.00x |
+| Score multiplier | `1.00x` |
 | Status | Ranked |
 | Incompatible mods | [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden_(lazer)), [Cover (CO)](/wiki/Gameplay/Game_modifier/Cover), [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight_(lazer)) |
 
@@ -32,8 +32,8 @@ tags:
 *For the osu!stable version of this article, see: [Fade In (mod)](/wiki/Gameplay/Game_modifier/Fade_In)*\
 *For the full list of all [lazer](/wiki/Client/Release_stream/Lazer) mods, see: [Game modifier (lazer)](/wiki/Gameplay/Game_modifier_(lazer))*
 
-The **Fade In** mod makes notes initially invisible as they enter from above, gradually revealing them as they approach the bottom of the playfield. The fade effect initially covers about 20% of the playfield, but expands as the combo increases. At 500x combo, the fade effect reaches its maximum, covering 70% of the playfield and making notes appear much later.
+The **Fade In** mod makes notes initially invisible as they enter the [playfield](/wiki/Client/Playfield), gradually revealing them before the player has to hit them. The fade effect initially covers about 20% of the playfield, but expands as the [combo](/wiki/Gameplay/Combo_(score_multiplier)) increases. At 500x combo, the fade effect reaches its maximum, covering 70% of the playfield and making notes appear much later.
 
-**This mod can't be customised through Customisation.**
+**This mod cannot be customised.**
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
