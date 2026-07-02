@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
+---
+
 # Requisitos de desbloqueo para las medallas de Beatmap Challenge Packs
 
 | Nombre de la medalla | Requisito |
