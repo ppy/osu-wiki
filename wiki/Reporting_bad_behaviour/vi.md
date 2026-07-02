@@ -1,6 +1,7 @@
 ---
 outdated_translation: true
 outdated_since: 40e7a35ab519347caaa07e83eb12d3f9e4f70438
+no_native_review: true
 ---
 
 # Báo cáo hành vi xấu
