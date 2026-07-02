@@ -11,7 +11,7 @@ Dates are tentative and subject to change.
 | Event | Date (UTC) |
 | --: | :-- |
 | Registrations and submissions | 14 June 2026 – 16 August 2026 (23:59 UTC) |
-| Voting | 17 August 2026 – 24 August 2026 (23:59 UTC) |
+| Voting | 25 August 2026 – 31 August 2026 (23:59 UTC) |
 | Results announcement | *TBD* |
 
 ## Links
@@ -182,15 +182,21 @@ If you're struggling to find a partner to join you, don't forget to check out th
 
 ### Submissions
 
-**Visit the [contest page](https://osu.ppy.sh/community/contests/286) and drop your submission as a `.osz` file.** The deadline is 16 August 2026 (23:59 UTC).
+**Visit the [contest page](https://osu.ppy.sh/community/contests/286) and drop your submission as a `.osz` file.** The deadline is 16 August 2026 (23:59 UTC). The contest page should look something like this:
+
+![Contest page .osz submission](img/contest-page-osz-submission.png)
+
+If your entry takes advantage of the `.olz` file format in a significant way (such that converting to `.osz` would break it), then *submit the original `.olz` version in the [contest page](https://osu.ppy.sh/community/contests/286) as well*. In this case, both the original `.olz` archive and the converted `.osz` version must be submitted, and it should look something like this:
+
+![Contest page .osz submission](img/contest-page-olz-and-osz-submission.png)
 
 Before submitting, please check the following:
 
-- Ensure that you have successfully registered for the contest, and that all your team members have confirmed their intent as well if applicable.
+- Ensure that you have successfully [registered](#team-registration) for the contest, and that all your team members have confirmed their intent as well if applicable.
   - **Your submission will be ignored if you have not successfully registered for the contest.**
 - Please read the [rules](#rules) thoroughly to check that your entry abides by all of them.
 - The person who registered the team must be the one submitting the entry.
-- Do not submit your entry via BSS.
+- Do not submit your entry via [BSS](/wiki/Beatmapping/Beatmap_submission).
 
 ### Voting
 
@@ -236,7 +242,7 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
   - You may **not** choose any songs that have been added to the Featured Artists listing after **14 June 2026**.
   - Please use [this tool](https://mappersguild.com/aspire/search) to check whether a Featured Artist song is allowed for use in Aspire 6.
 - You may **not** make any edits to the `.mp3` files provided on the Featured Artists listing.
-- You may **not** make any changes to the artist, title, source, or tags of your submission's metadata.
+- You may **not** make any changes to the artist, title, source, or tags of your submission's metadata. The creator field should be set to the user name of the submitter.
 - Your entry does not need to be passable. However, your entry may be ineligible for certain categories or prizes if it is not possible to be passed by a human player.
 - Your entry must consist of **exactly one difficulty** that contains an interactive experience — storyboard-only entries aren't allowed.
 - You may only participate in **one** entry for this contest.
@@ -250,9 +256,10 @@ If your inquiry is urgent and you aren't getting a timely response, please conta
 - You may only be part of **one** team for this contest.
 - Any submitted entry that doesn't have a registration tied to it will be automatically disqualified.
 - Entries must be submitted by the person who registered the team in the form.
-- Teams and submissions must remain anonymous for the duration of the contest. Do **not** include any identifiable information in any element of your submission.
+- Teams and submissions must remain anonymous for the duration of the contest. Do **not** include any identifiable information in any element of your submission (this does not apply to the creator metadata field).
 - Your entry **must not** be uploaded to the osu! website via the Beatmap Submission System (BSS).
-- Your entry must be submitted in `.osz` format in the contest page.
+- Your entry must be submitted in `.osz` format in the contest page, with the following exception:
+  - If your entry takes advantage of the `.olz` beatmap archive format in a significant way, such that converting to `.osz` would break it, then both the original `.olz` archive and the converted `.osz` version must be submitted to the contest page.
 
 Any entries that break these rules may be disqualified from the contest.
 
