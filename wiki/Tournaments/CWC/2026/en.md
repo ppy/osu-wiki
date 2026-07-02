@@ -124,7 +124,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 | :-: | --: | :-- | :-- | :-: | :-: |
 | 58 | Japan ::{ flag=JP }:: | ::{ flag=FI }:: Finland | [Jul 04 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T120000&p1=1440&p2=248&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
 | 57 | Chile ::{ flag=CL }:: | ::{ flag=FR }:: France | [Jul 04 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=232&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| SM | Finals | showmatch | []() | [osulive](https://twitch.tv/osulive) | [^showmatch] |
 
 ### Sunday, 5 July 2026
 
