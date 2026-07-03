@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Performance Points & Star Rating Updates
-date: 2026-03-31 00:00:00 +0000
+date: 2026-07-03 19:00:00 +0000
 series: ranking_system_updates
 ---
 
@@ -62,7 +62,7 @@ This new Reading skill aims to replace the current bonuses by calculating the de
 
 As a result of the density changes, you can expect to see large-scale buffs on low AR scores:
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/heat-abnormal-graph.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/heat-abnormal-graph.png)
 
 ### Change Speed difficulty summation to be a harmonic sum
 
@@ -70,7 +70,7 @@ Final difficulty is formed by doing a geometric sum of difficulties, meaning tha
 
 Thanks to a [change](https://github.com/ppy/osu/pull/34696) by [kwotaq](https://osu.ppy.sh/users/8195972), this final difficulty is now formed using a harmonic sum for the Speed skill. This means that every note contributes to Speed's final difficulty, and does not require a length bonus to ensure more notes increase star rating. This also comes with the advantage that the reward for more notes is directly tied to difficulty, so maps with a lot of easy notes will receive a lower reward than maps of equal object count with a higher number of difficult notes.
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/harmonic-summation.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/harmonic-summation.png)
 
 ### Replace fixed-length strain chunking with variable-length strains
 
@@ -86,7 +86,7 @@ Aim calculations have a set of angle bonuses intended to award difficulty for pa
 
 A [change](https://github.com/ppy/osu/pull/35555) by [Nisico](https://osu.ppy.sh/users/23384384) improves this by changing which parts of the slider are used to form the angle.
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/slider-angles.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/slider-angles.png)
 
 ### Improve relationship between distance and BPM increases in Aim
 
@@ -96,7 +96,7 @@ Thanks to a [change](https://github.com/ppy/osu/pull/36417) by [Natelytle](https
 
 As a result, a [set](https://github.com/ppy/osu/pull/36792) of [changes](https://github.com/ppy/osu/pull/36813) by [StanR](https://osu.ppy.sh/users/7217455) were made in order to edge this mechanism closer towards rewarding BPM and distance increases equally:
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/aim-strain-influence.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/aim-strain-influence.png)
 
 As the graph shows, this is not a total fix and higher BPMs are generally still more rewarding, but to a lesser extent.
 
@@ -114,7 +114,7 @@ Thanks to a [change](https://github.com/ppy/osu/pull/36902) by [StanR](https://o
 
 This change is only laying the ground work for future flow aim improvements, but flow aim now considers velocity and angle changes rather than simply distance.
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/flow-aim-graph.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/flow-aim-graph.png)
 
 ### Replace Speed accuracy scaling with deviation scaling
 
@@ -131,11 +131,11 @@ As a result, you can expect:
 
 An example of how this scales for a DTHR score on [Manticora - Humiliation Supreme [Extreme]](https://osu.ppy.sh/beatmapsets/2364885#osu/5119288):
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/speed-deviation-scaling.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/speed-deviation-scaling.png)
 
 ### Nerf repeated angles in Snap Aim
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/pink-hair-girl.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/pink-hair-girl.png)
 
 Remember her?
 
@@ -153,7 +153,7 @@ Some examples of beatmaps nerfed by this change:
 
 A [change](https://github.com/ppy/osu/pull/37040) by [StanR](https://osu.ppy.sh/users/7217455) was made in order to harshen the miss penalty's initial impact:
 
-![](/wiki/shared/news/2026-03-31-performance-points-star-rating-updates/miss-penalty.png)
+![](/wiki/shared/news/2026-07-03-performance-points-star-rating-updates/miss-penalty.png)
 
 In practice:
 
