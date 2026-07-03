@@ -1,6 +1,6 @@
 # osu!catch 世界杯
 
-这是所有 osu!catch 世界杯系列赛事的导览页。
+这是所有 osu!catch 世界杯系列赛事的索引页。
 
 - [Catch the Beat 世界杯](1)
 - [osu! Catch the Beat 世界杯 2013](2013)
