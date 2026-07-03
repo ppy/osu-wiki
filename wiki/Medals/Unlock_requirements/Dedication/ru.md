@@ -1,18 +1,13 @@
----
-outdated_translation: true
-outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
----
-
 # Условия получения медалей Dedication
 
 ## osu!
 
 | Название медали | Условие | Описание |
 | :-- | :-- | :-- |
-| 5,000 Plays | Набрать 5000 игр в режиме osu!. | There's a lot more where that came from. |
-| 15,000 Plays | Набрать 15000 игр в режиме osu!. | Must.. click.. circles.. |
-| 25,000 Plays | Набрать 25000 игр в режиме osu!. | There's no going back. |
-| 50,000 Plays | Набрать 50000 игр в режиме osu!. | You're here forever. |
+| 5,000 Plays | Набрать 5 тысяч игр в режиме osu!. | There's a lot more where that came from. |
+| 15,000 Plays | Набрать 15 тысяч игр в режиме osu!. | Must.. click.. circles.. |
+| 25,000 Plays | Набрать 25 тысяч игр в режиме osu!. | There's no going back. |
+| 50,000 Plays | Набрать 50 тысяч игр в режиме osu!. | You're here forever. |
 
 ## osu!taiko
 
@@ -28,7 +23,7 @@ outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
 | Название медали | Условие | Описание |
 | :-- | :-- | :-- |
 | Catch 20,000 fruits | Собрать 20 тысяч фруктов в режиме osu!catch. | That is a lot of dietary fiber. |
-| Catch 200,000 fruits | Собрать 200 тысяч фруктов в режиме osu!catch. | So, I heard you like fruit.. |
+| Catch 200,000 fruits | Собрать 200 тысяч фруктов в режиме osu!catch. | So, I heard you like fruit... |
 | Catch 2,000,000 fruits | Собрать 2 миллиона фруктов в режиме osu!catch. | Downright healthy. |
 | Catch 20,000,000 fruits | Собрать 20 миллионов фруктов в режиме osu!catch. | Nothing left behind. |
 
@@ -39,7 +34,7 @@ outdated_since: 77913d6cce75409e9d72a7fde2b35ec26d18214c
 | 40,000 Keys | 40 тысяч раз попасть по клавишам в режиме osu!mania. | Just the start of the rainbow. |
 | 400,000 Keys | 400 тысяч раз попасть по клавишам в режиме osu!mania. | Four hundred thousand and still not even close. |
 | 4,000,000 Keys | 4 миллиона раз попасть по клавишам в режиме osu!mania. | Is this the end of the rainbow? |
-| 40,000,000 Keys | 40 миллионов раз попасть по клавишам в режиме osu!mania | When someone asks which keys you play, the answer is now 'yes'. |
+| 40,000,000 Keys | 40 миллионов раз попасть по клавишам в режиме osu!mania. | When someone asks which keys you play, the answer is now 'yes'. |
 
 ## Daily Challenge
 
