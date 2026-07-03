@@ -33,8 +33,8 @@ The osu!türkiye Open 2026 features a prize pool that is funded by community don
 | Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 6 months of osu!supporter tag, 6 months of [o!rdr Supporter](https://ordr.issou.best/support-us) tag, 50% of the prize pool, 1750₺ worth of Google Play Gift Card, profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, 4 months of [o!rdr Supporter](https://ordr.issou.best/support-us) tag, 30% of the prize pool, 1000₺ worth of Google Play Gift Card, profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, 2 months of [o!rdr Supporter](https://ordr.issou.best/support-us) tag, 20% of the prize pool, 634₺ worth of Google Play Gift Card, profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag, 4 months of o!rdr Supporter tag, 30% of the prize pool, 1000₺ worth of Google Play Gift Card, profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, 2 months of o!rdr Supporter tag, 20% of the prize pool, 634₺ worth of Google Play Gift Card, profile banner |
 
 ## Organisation
 
@@ -372,10 +372,10 @@ Group D:
 
 ### Group Stage
 
-**[Download the mappack here! (121 MB)](https://lyerr.s-ul.eu/98Blxxlw.zip)**
+**[Download the mappack here! (121 MB)](https://lyerr.s-ul.eu/98Blxxlw.zip)**\
 [View the showcase VOD here](https://youtu.be/OIHdk48V86Q?si=0e8AnQi0deB5yndT)
 
-- NoMod
+- No Mod
   1. [Hepsi - Yalan [Hani Bensiz Bir Hictin]](https://osu.ppy.sh/beatmapsets/2577712#osu/5742699)
   2. [Xi - Densetsu no Sabori Shinigami ~ Make a quick escape [Cellina & TD's Collab Extra]](https://osu.ppy.sh/beatmapsets/1621473#osu/3435049)
   3. [King Krule - Dum Surfer [Don't Suffer]](https://osu.ppy.sh/beatmapsets/716193#osu/1513180)
@@ -400,10 +400,10 @@ Group D:
 
 ### Qualifiers
 
-**[Download the mappack here! (79.4 MB)](https://lyerr.s-ul.eu/okiPGQqD.zip)**
+**[Download the mappack here! (79.4 MB)](https://lyerr.s-ul.eu/okiPGQqD.zip)**\
 [View the showcase VOD here](https://youtu.be/q4dDwSes-0c?si=h-wSDstVCYECoELt)
 
-- NoMod
+- No Mod
   1. [Nekomata Master - Despair of Elferia [An]](https://osu.ppy.sh/beatmapsets/2239664#osu/4759737)
   2. [blobdash - ARE WE FLOATING IN SPACE [EXPERT]](https://osu.ppy.sh/beatmapsets/2206504#osu/4672134)
   3. [AZKi x Such - GimmexGimme (lapix Remix) [she gimme gimme]](https://osu.ppy.sh/beatmapsets/1693859#osu/3461180)
@@ -487,9 +487,9 @@ Group D:
 ### Qualifier instructions
 
 1. In the Qualifiers, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier mappool will contain 4 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time).
+2. The Qualifier mappool will contain 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time).
 3. The Qualifier mappool will consist of 11 beatmaps.
-   - There will be 4 NoMod beatmaps.
+   - There will be 4 No Mod beatmaps.
    - There will be 2 Hidden beatmaps.
    - There will be 2 Hard Rock beatmaps.
    - There will be 3 Double Time beatmaps.
@@ -618,7 +618,7 @@ Group D:
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and FreeMod.
+2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and Free Mod.
 3. The mappool sizes are as follows:
    - Qualifiers: 11 beatmaps.
    - Group Stage: 15 beatmaps.
@@ -626,14 +626,14 @@ Group D:
    - Semifinals: 17 beatmaps.
    - Finals: 19 beatmaps.
    - Grand Finals: 19 beatmaps.
-4. The Qualifier mappool consists of 4 NoMod, 2 Hidden, 2 Hard Rock, and 3 Double Time beatmaps. There are no bans and no tiebreaker in Qualifiers.
-5. The Group Stage mappool consists of 5 NoMod, 2 Hidden, 2 Hard Rock, 3 Double Time, 3 FreeMod, and 1 tiebreaker. Each team has 1 ban.
-6. The Quarterfinals and Semifinals mappools each consist of 5 NoMod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 FreeMod, and 1 tiebreaker. Each team has 2 bans.
-7. The Finals and Grand Finals mappools each consist of 5 NoMod, 3 Hidden, 3 Hard Rock, 4 Double Time, 4 FreeMod, and 1 tiebreaker. Each team has 2 bans.
+4. The Qualifier mappool consists of 4 No Mod, 2 Hidden, 2 Hard Rock, and 3 Double Time beatmaps. There are no bans and no tiebreaker in Qualifiers.
+5. The Group Stage mappool consists of 5 No Mod, 2 Hidden, 2 Hard Rock, 3 Double Time, 3 Free Mod, and 1 tiebreaker. Each team has 1 ban.
+6. The Quarterfinals and Semifinals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 Free Mod, and 1 tiebreaker. Each team has 2 bans.
+7. The Finals and Grand Finals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 4 Double Time, 4 Free Mod, and 1 tiebreaker. Each team has 2 bans.
 8. All beatmaps must be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod enabled, unless stated otherwise.
 9. FreeMod beatmaps must be played with one player on each team using [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and the other player using [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
    - If a player uses both Hidden and Hard Rock, that player is considered to have taken Hard Rock.
-10. Tiebreaker beatmaps follow FreeMod rules.
+10. Tiebreaker beatmaps follow Free Mod rules.
     - Mods other than Hidden and Hard Rock are not allowed on tiebreakers.
 
 ### Scheduling instructions
