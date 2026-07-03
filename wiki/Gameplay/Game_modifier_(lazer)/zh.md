@@ -36,6 +36,7 @@ tags:
 - [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Daycore (DC)](/wiki/Gameplay/Game_modifier/Daycore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Simplified Rhythm (SR)](/wiki/Gameplay/Game_modifier/Simplified_Rhythm) ![][osu!taiko]
 - [No Release (NR)](/wiki/Gameplay/Game_modifier/No_Release) ![][osu!mania]
 
 ### 增加难度
@@ -52,6 +53,7 @@ tags:
 - [Blinds (BL)](/wiki/Gameplay/Game_modifier/Blinds) ![][osu!]
 - [Strict Tracking (ST)](/wiki/Gameplay/Game_modifier/Strict_Tracking) ![][osu!]
 - [Accuracy Challenge (AC)](/wiki/Gameplay/Game_modifier/Accuracy_Challenge) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 
 ### 自动化
 
@@ -67,6 +69,7 @@ tags:
 - [Difficulty Adjust (DA)](/wiki/Gameplay/Game_modifier/Difficulty_Adjust) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Classic (CL)](/wiki/Gameplay/Game_modifier/Classic) ![][osu!] ![][osu!taiko]
 - [Random (RD)](/wiki/Gameplay/Game_modifier/Random_(lazer)) ![][osu!] ![][osu!taiko] ![][osu!mania]
+- [Dual Stages (DS)](/wiki/Gameplay/Game_modifier/Dual_Stages) ![][osu!mania]
 - [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror_(lazer)) ![][osu!] ![][osu!catch] ![][osu!mania]
 - [Alternate (AL)](/wiki/Gameplay/Game_modifier/Alternate) ![][osu!]
 - [Swap (SW)](/wiki/Gameplay/Game_modifier/Swap) ![][osu!taiko]
@@ -85,7 +88,6 @@ tags:
 - [Deflate (DF)](/wiki/Gameplay/Game_modifier/Deflate) ![][osu!]
 - [Wind Up (WU)](/wiki/Gameplay/Game_modifier/Wind_Up) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Wind Down (WD)](/wiki/Gameplay/Game_modifier/Wind_Down) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Traceable (TC)](/wiki/Gameplay/Game_modifier/Traceable) ![][osu!]
 - [Barrel Roll (BR)](/wiki/Gameplay/Game_modifier/Barrel_Roll) ![][osu!]
 - [Approach Different (AD)](/wiki/Gameplay/Game_modifier/Approach_Different) ![][osu!]
 - [Floating Fruits (FF)](/wiki/Gameplay/Game_modifier/Floating_Fruits) ![][osu!catch]
@@ -96,6 +98,7 @@ tags:
 - [Adaptive Speed (AS)](/wiki/Gameplay/Game_modifier/Adaptive_Speed) ![][osu!] ![][osu!taiko] ![][osu!mania]
 - [Freeze Frame (FR)](/wiki/Gameplay/Game_modifier/Freeze_Frame) ![][osu!]
 - [Bubbles (BU)](/wiki/Gameplay/Game_modifier/Bubbles) ![][osu!]
+- [Moving Fast (MF)](/wiki/Gameplay/Game_modifier/Moving_Fast) ![][osu!catch]
 - [Synesthesia (SY)](/wiki/Gameplay/Game_modifier/Synesthesia) ![][osu!]
 - [Depth (DP)](/wiki/Gameplay/Game_modifier/Depth) ![][osu!]
 - [Bloom (BM)](/wiki/Gameplay/Game_modifier/Bloom) ![][osu!]

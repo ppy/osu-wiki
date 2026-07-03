@@ -39,11 +39,11 @@ The **Accuracy Challenge** mod allows the player to set a minimum accuracy that 
 
 - **Minimum accuracy** (60%-99%, default: 90%): Trigger a failure if accuracy goes below this value.
 - **Accuracy mode** (default: Maximum achievable): The mode of accuracy that will trigger failure.
-  - **Maximum achievable**: Fail if accuracy doesn't exceed this value when the map ends.
+  - **Maximum achievable**: Fail immediately if the threshold cannot be achieved by the end of the [beatmap](/wiki/Beatmap).
   - **Standard**: Fail if the accuracy goes strictly below the value.
 - Restart on fail (default: disabled): Restart the map when the accuracy goes below the minimum value specified.
 
-*Changing any of the options here doesn't make the mod unrankable.*
+*The mod is rankable regardless of the customisation options.*
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
