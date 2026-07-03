@@ -45,12 +45,13 @@ The osu!türkiye Open 2026 is run by [osu!türkiye](https://osuturkiye.com) and 
 | Manager | ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
 | Mappool selector | **::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674)**, ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823), ::{ flag=TR }:: [yeyygitalp](https://osu.ppy.sh/users/26015902) |
 | Mappool playtester | ::{ flag=RU }:: [fedotoff](https://osu.ppy.sh/users/7351448), ::{ flag=DE }:: [Inflictives](https://osu.ppy.sh/users/10243433), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [Shinkiro](https://osu.ppy.sh/users/6093148), ::{ flag=TR }:: [spray-](https://osu.ppy.sh/users/16750823) |
-| Mapper | ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252) |
+| Mapper | ::{ flag=TR }:: [Akhaten](https://osu.ppy.sh/users/12474487), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), *more TBA* |
 | Hitsounder | ::{ flag=TR }:: [Coeminals](https://osu.ppy.sh/users/10213311), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672) |
-| Streamer | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) |
-| Commentator | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
-| Tournament design | **::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437)**, ::{ flag=TR }:: [Aeshma](https://osu.ppy.sh/users/13845312), ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [lustorium](https://osu.ppy.sh/users/10066998), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Noreu](https://osu.ppy.sh/users/21073648), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150) |
-| Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017) |
+| Streamer | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [RokeT-](https://osu.ppy.sh/users/17151907) |
+| Commentator | **::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Orkay](https://osu.ppy.sh/users/9321674), ::{ flag=TR }:: [Raikouhou](https://osu.ppy.sh/users/8007528), ::{ flag=TR }:: [SStoney](https://osu.ppy.sh/users/8576252), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
+| Commentator (special guests) | ::{ flag=TR }:: [Clutch](https://osu.ppy.sh/users/14958380), ::{ flag=TR }:: [emrepkrr](https://osu.ppy.sh/users/19034045) |
+| Tournament design | **::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437)**, ::{ flag=TR }:: [Aeshma](https://osu.ppy.sh/users/13845312), ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015), ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [lustorium](https://osu.ppy.sh/users/10066998), ::{ flag=TR }:: [mostiza](https://osu.ppy.sh/users/7354243), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [Noreu](https://osu.ppy.sh/users/21073648), ::{ flag=TR }:: [Seiioh](https://osu.ppy.sh/users/9655150) |
+| Referee | **::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647)**, ::{ flag=TR }:: [Cureleux](https://osu.ppy.sh/users/25429183), ::{ flag=TR }:: [HeroBabaa](https://osu.ppy.sh/users/29914048), ::{ flag=TR }:: [LyeRR](https://osu.ppy.sh/users/13068741), ::{ flag=TR }:: [Nitrur](https://osu.ppy.sh/users/29649528), ::{ flag=TR }:: [purehalcyon](https://osu.ppy.sh/users/18258854), ::{ flag=TR }:: [Soroic](https://osu.ppy.sh/users/17163162), ::{ flag=TR }:: [Sweet](https://osu.ppy.sh/users/19650017), ::{ flag=TR }:: [vuluvulu](https://osu.ppy.sh/users/35459987) |
 | Statistician | **::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034)**, ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647) |
 | Developer | ::{ flag=TR }:: [Drestau](https://osu.ppy.sh/users/10987034), ::{ flag=TR }:: [raptor-](https://osu.ppy.sh/users/11593647), ::{ flag=TR }:: [Zeus](https://osu.ppy.sh/users/5464437) |
 | Musician | [Kagankaravana](https://www.youtube.com/@kagankaravana) |
@@ -134,27 +135,42 @@ Captains are denoted in **bold**.
 
 ### Group A
 
+#### Friday, 3 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| A1 | steal balls and run | Pinterest kedipp | [Jul 03 (Fri) 15:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260703T120000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+
 #### Saturday, 4 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| A1 | steal balls and run | Pinterest kedipp | [Jul 04 (Sat) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | A8 | washed gang | :steamhappy: | [Jul 04 (Sat) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 5 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| A4 | steal balls and run | Opsiyonel | [Jul 05 (Sun) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| A4 | steal balls and run | Opsiyonel | [Jul 05 (Sun) 15:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T120000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | A5 | Pinterest kedipp | washed gang | [Jul 05 (Sun) 20:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T170000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| A10 | :steamhappy: | Opsiyonel | [Jul 05 (Sun) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+
+#### Monday, 6 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| A9 | washed gang | Opsiyonel | [Jul 06 (Mon) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260706T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+
+#### Friday, 10 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| A10 | :steamhappy: | Opsiyonel | [Jul 10 (Fri) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260710T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Saturday, 11 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | A6 | Pinterest kedipp | :steamhappy: | [Jul 11 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| A9 | washed gang | Opsiyonel | [Jul 11 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260711T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 12 July 2026
 
@@ -171,15 +187,25 @@ Captains are denoted in **bold**.
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
 | B4 | 21cm pp limit | jembeyler | [Jul 04 (Sat) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
-| B5 | cansın | W puskevit | [Jul 04 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | B10 | Aşuk ile Maşuk | jembeyler | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 5 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| B1 | 21cm pp limit | cansın | [Jul 05 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | B8 | W puskevit | Aşuk ile Maşuk | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+
+#### Monday, 6 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| B5 | cansın | W puskevit | [Jul 06 (Mon) 22:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260706T190000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+
+#### Tuesday, 7 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| B1 | 21cm pp limit | cansın | [Jul 07 (Tue) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260707T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Saturday, 11 July 2026
 
@@ -198,18 +224,23 @@ Captains are denoted in **bold**.
 
 ### Group C
 
+#### Friday, 3 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |
+| :-: | --: | :-- | :-- | :-: |
+| C1 | Dede ve Torunu | alındınmı? .p | [Jul 03 (Fri) 18:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260703T150000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+| C4 | Dede ve Torunu | takım olak | [Jul 03 (Fri) 22:30 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260703T193000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
+
 #### Saturday, 4 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| C1 | Dede ve Torunu | alındınmı? .p | [Jul 04 (Sat) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | C8 | barigadam | AvazAvazAğlayanYüz | [Jul 04 (Sat) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
 #### Sunday, 5 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |
 | :-: | --: | :-- | :-- | :-: |
-| C4 | Dede ve Torunu | takım olak | [Jul 05 (Sun) 17:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T140000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | C5 | alındınmı? .p | barigadam | [Jul 05 (Sun) 19:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 | C10 | AvazAvazAğlayanYüz | takım olak | [Jul 05 (Sun) 21:00 UTC+03](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T180000&p1=1440&p2=107) | [osutrlive](https://twitch.tv/osutrlive) |
 
@@ -437,7 +468,7 @@ Group D:
 11. All players and staff must be treated with respect. Instructions from referees and tournament managers are to be followed. Decisions labelled as final are not to be objected.
 12. Multiplayer chatrooms are subject to the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches take place.
     - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-13. Multi-accounting, account sharing, cheating, and any other form of rule-breaking are strictly prohibited.
+13. Multi-accounting, account sharing, cheating and any other form of rule-breaking are strictly prohibited.
 14. If a player's osu! account becomes restricted during the tournament due to rule-breaking, the tournament managers reserve the right to disqualify the entire team and replay the bracket history as appropriate for the current stage.
 15. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players or teams for one beatmap.
@@ -456,7 +487,7 @@ Group D:
 ### Tournament registration
 
 1. This tournament is restricted to Turkish players. Therefore, all players signing up must have the Turkish flag on their osu! profile.
-2. Players must not have a restricted osu! account or an active tournament ban issued by the Tournament Committee.
+2. Players must not have an active tournament ban issued by the Tournament Committee.
 3. Tournament staff members are not allowed to participate as players, with the exception of commentators.
 4. Eliminated players may assist the tournament as commentators, referees, or streamers if needed by the tournament managers.
    - However, in accordance with official osu! tournament support rules, eliminated players must not hold a staff position that gives them early access to privileged information, such as mappool selector or playtester.
@@ -487,7 +518,7 @@ Group D:
 ### Qualifier instructions
 
 1. In the Qualifiers, all teams will play a specific pool designed by the mappool selectors.
-2. The Qualifier mappool will contain 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time).
+2. The Qualifier mappool will contain 4 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time).
 3. The Qualifier mappool will consist of 11 beatmaps.
    - There will be 4 No Mod beatmaps.
    - There will be 2 Hidden beatmaps.
@@ -501,7 +532,7 @@ Group D:
 9. Lobby selection may be made up to 1 hour before the lobby starts.
 10. If a player disconnects during a Qualifier beatmap, the beatmap will not be aborted.
     - The disconnected player may request to replay that beatmap at the end of the lobby.
-11. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1. The exact formula that will be used for all teams and for each map is `Map percentage = Team score / MAX score`, where:
+11. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1) and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1. The exact formula that will be used for all teams and for each map is `Map percentage = Team score / MAX score`, where:
     - `Map percentage` is the percentage awarded to the current team.
     - `Team score` is the score the current team achieved on the current map.
     - `MAX score` is the highest score achieved for the current map.
@@ -515,13 +546,13 @@ Group D:
 1. Teams are divided into 2 categories based on their Qualifier seed:
    - **Legends:** Seeds 1-4 skip the Group Stage and advance directly to the Winners Bracket Quarterfinals.
    - **Challengers:** Seeds 5-24 play in the Group Stage.
-2. The 20 Challenger teams are drawn into 4 groups of 5 teams: Group A, Group B, Group C, and Group D.
+2. The 20 Challenger teams are drawn into 4 groups of 5 teams: Group A, Group B, Group C and Group D.
 3. To keep the groups balanced, the Challenger teams are divided into 5 pots:
-   - Pot 1: Seeds 5, 6, 7, and 8.
-   - Pot 2: Seeds 9, 10, 11, and 12.
-   - Pot 3: Seeds 13, 14, 15, and 16.
-   - Pot 4: Seeds 17, 18, 19, and 20.
-   - Pot 5: Seeds 21, 22, 23, and 24.
+   - Pot 1: Seeds 5, 6, 7 and 8.
+   - Pot 2: Seeds 9, 10, 11 and 12.
+   - Pot 3: Seeds 13, 14, 15 and 16.
+   - Pot 4: Seeds 17, 18, 19 and 20.
+   - Pot 5: Seeds 21, 22, 23 and 24.
 4. The draw starts from Pot 1.
    - One team from each pot is randomly placed into each group.
    - As a result, each group contains 5 teams.
@@ -553,7 +584,7 @@ Group D:
 ### Bracket stage instructions
 
 1. The bracket stage is played through the Winners Bracket and Lower Bracket.
-2. The bracket stage consists of Quarterfinals, Semifinals, Finals, and Grand Finals.
+2. The bracket stage consists of Quarterfinals, Semifinals, Finals and Grand Finals.
 3. The Winners Bracket begins from the Quarterfinals.
    - Teams that win in the Winners Bracket continue in the Winners Bracket.
    - Teams that lose in the Winners Bracket are not eliminated immediately; they drop into the corresponding Lower Bracket round.
@@ -583,7 +614,7 @@ Group D:
 2. The room settings are `Game mode: "osu!"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`.
 3. All players must be present in the lobby at the scheduled match time.
 4. Players may be up to 10 minutes late.
-   - If a team is 5 minutes late, that team loses the roll, and the opposing team is considered to have won the roll.
+   - If a team is 5 minutes late, that team loses the roll and the opposing team is considered to have won the roll.
    - If a team is 10 minutes late, the team with enough players in the lobby wins by default.
 5. If neither team has enough players, the match may be rescheduled if possible.
    - If the match cannot be rescheduled, the team with the higher Qualifier seed wins by default.
@@ -599,10 +630,10 @@ Group D:
     - For example, banning two Hidden maps or two Hard Rock maps is not allowed.
     - This restriction does not apply to the NoMod bracket.
 12. Picking 2 beatmaps from the same mod bracket consecutively is allowed.
-13. If a player disconnects within the first 30 seconds of a beatmap, the referee will abort the beatmap using `!mp abort`, and the beatmap will be replayed.
+13. If a player disconnects within the first 30 seconds of a beatmap, the referee will abort the beatmap using `!mp abort` and the beatmap will be replayed.
 14. Each team may request an abort only once per match.
 15. If a player disconnects after the first 30 seconds of a beatmap, that player's score will not count towards their team's total score unless valid evidence is provided.
-16. The following are considered acceptable proof:
+16. The following are considered valid evidence:
     - Player point-of-view livestream clips or VODs. The entirety of the play, along with the results screen, must be clearly visible together with the affected player's score.
     - Replay files of the play, taken directly from the "Local rankings" tab on the affected player's client.
       - The timestamp must exactly match the time at which the game took place, as seen on the multiplayer lobby link.
@@ -618,7 +649,7 @@ Group D:
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and Free Mod.
+2. Each mappool consists of 5 brackets: [No Mod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and  Forced Mod.
 3. The mappool sizes are as follows:
    - Qualifiers: 11 beatmaps.
    - Group Stage: 15 beatmaps.
@@ -626,14 +657,14 @@ Group D:
    - Semifinals: 17 beatmaps.
    - Finals: 19 beatmaps.
    - Grand Finals: 19 beatmaps.
-4. The Qualifier mappool consists of 4 No Mod, 2 Hidden, 2 Hard Rock, and 3 Double Time beatmaps. There are no bans and no tiebreaker in Qualifiers.
-5. The Group Stage mappool consists of 5 No Mod, 2 Hidden, 2 Hard Rock, 3 Double Time, 3 Free Mod, and 1 tiebreaker. Each team has 1 ban.
-6. The Quarterfinals and Semifinals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3 Free Mod, and 1 tiebreaker. Each team has 2 bans.
-7. The Finals and Grand Finals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 4 Double Time, 4 Free Mod, and 1 tiebreaker. Each team has 2 bans.
+4. The Qualifier mappool consists of 4 No Mod, 2 Hidden, 2 Hard Rock and 3 Double Time beatmaps. There are no bans and no tiebreaker in Qualifiers.
+5. The Group Stage mappool consists of 5 No Mod, 2 Hidden, 2 Hard Rock, 3 Double Time, 3  Forced Mod and 1 tiebreaker. Each team has 1 ban.
+6. The Quarterfinals and Semifinals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 3 Double Time, 3  Forced Mod and 1 tiebreaker. Each team has 2 bans.
+7. The Finals and Grand Finals mappools each consist of 5 No Mod, 3 Hidden, 3 Hard Rock, 4 Double Time, 4  Forced Mod and 1 tiebreaker. Each team has 2 bans.
 8. All beatmaps must be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod enabled, unless stated otherwise.
 9. FreeMod beatmaps must be played with one player on each team using [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and the other player using [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
    - If a player uses both Hidden and Hard Rock, that player is considered to have taken Hard Rock.
-10. Tiebreaker beatmaps follow Free Mod rules.
+10. Tiebreaker beatmaps follow  Forced Mod rules.
     - Mods other than Hidden and Hard Rock are not allowed on tiebreakers.
 
 ### Scheduling instructions
