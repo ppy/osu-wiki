@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Performance Points & Star Rating Updates
-date: 2026-07-03 19:00:00 +0000
+date: 2026-07-03 20:00:00 +0000
 series: ranking_system_updates
 ---
 
