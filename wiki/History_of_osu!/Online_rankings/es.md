@@ -10,8 +10,6 @@ tags:
   - tabla de clasificación
   - rango 1
   - clasificaciones
-outdated_translation: true
-outdated_since: f49185ff1bfb7bd98ad05a3f3b6fab0c38a7a03c
 ---
 
 # Historial de las clasificaciones en línea
@@ -24,11 +22,11 @@ Numerosos jugadores han ocupado el puesto #1 en cada modo de juego en diferentes
 
 *Página principal: [Historial de las clasificaciones de osu!](osu!)*
 
-Desde el 3 de agosto de 2024, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance), el jugador en el puesto #1 es ::{ flag=AU }:: [mrekk](https://osu.ppy.sh/users/7562902/osu).
+Desde el 14 de junio de 2026, en la [clasificación de rendimiento de osu!](https://osu.ppy.sh/rankings/osu/performance), el jugador en el puesto #1 es ::{ flag=RU }:: [cryshina](https://osu.ppy.sh/users/14715160/osu).
 
 ## ![][osu!taiko] osu!taiko
 
-Desde el 1 de marzo de 2025, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
+Desde el 24 de marzo de 2026, en la [clasificación de rendimiento de osu!taiko](https://osu.ppy.sh/rankings/taiko/performance), el jugador en el puesto #1 es ::{ flag=JP }:: [Sinon_33](https://osu.ppy.sh/users/31148838/taiko).
 
 ## ![][osu!catch] osu!catch
 
@@ -38,7 +36,7 @@ Desde el 2 de noviembre de 2024, en la [clasificación de rendimiento de osu!cat
 
 ## ![][osu!mania] osu!mania
 
-Desde el 12 de octubre de 2025, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406/mania).
+Desde el 4 de abril de 2026, en la [clasificación de rendimiento de osu!mania](https://osu.ppy.sh/rankings/mania/performance), el jugador en el puesto #1 es ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
