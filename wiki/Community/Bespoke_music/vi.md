@@ -5,6 +5,8 @@ tags:
   - originals
   - original
   - music
+outdated_translation: true
+outdated_since: efa4454349aa7b85be5a4653e6f4fda909083bfe
 ---
 
 # Bài hát được sáng tác riêng
