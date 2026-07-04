@@ -311,6 +311,8 @@ Even though [**TRIAL**](https://osu.ppy.sh/beatmaps/artists/550) just joined our
     <source src="https://assets.ppy.sh/artists/550/Songs/Notorious_Nota__TRIAL_-_ZERO.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### kooridori & TRIAL - Miracletale [Good End]
 
 <audio controls>
