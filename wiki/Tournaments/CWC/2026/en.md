@@ -43,14 +43,15 @@ The osu!catch World Cup 2026 is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
 | Mappool selector | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891) |
-| Mappool playtester | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=VN }:: [Tenwa](https://osu.ppy.sh/users/8525921), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Yunli](https://osu.ppy.sh/users/7226149), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |
-| Mapper | ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=ID }:: [Mochi \-](https://osu.ppy.sh/users/20424806), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), *more TBA* |
+| Mappool playtester | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823), ::{ flag=PE }:: [Boltico](https://osu.ppy.sh/users/5297904), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507), ::{ flag=US }:: [Indy](https://osu.ppy.sh/users/12467500), ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480), ::{ flag=PL }:: [LaviSorrow](https://osu.ppy.sh/users/9966768), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=RU }:: [Rakety](https://osu.ppy.sh/users/11109479), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=VN }:: [Tenwa](https://osu.ppy.sh/users/8525921), ::{ flag=US }:: [yeeeter](https://osu.ppy.sh/users/15274666), ::{ flag=DE }:: [Yoomara](https://osu.ppy.sh/users/3123719), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Yunli](https://osu.ppy.sh/users/7226149), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) |
+| Mapper | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811), ::{ flag=TH }:: [\-Luminate](https://osu.ppy.sh/users/4778689), ::{ flag=VN }:: [\-Miya](https://osu.ppy.sh/users/1942877), ::{ flag=PH }:: [\-Rustyy](https://osu.ppy.sh/users/16355636), ::{ flag=LV }:: [AnApple7](https://osu.ppy.sh/users/12567935), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883), ::{ flag=TW }:: [Beepu](https://osu.ppy.sh/users/4958376), ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741), ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284), ::{ flag=CN }:: [Callionet](https://osu.ppy.sh/users/3072921), ::{ flag=FR }:: [Cruwev](https://osu.ppy.sh/users/12195994), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=CL }:: [Des9](https://osu.ppy.sh/users/5404711), ::{ flag=DE }:: [Du5t](https://osu.ppy.sh/users/6053071), ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=JP }:: [hiroshiki](https://osu.ppy.sh/users/2667256), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952), ::{ flag=RU }:: [Lacrima](https://osu.ppy.sh/users/4915649), ::{ flag=PL }:: [Malai](https://osu.ppy.sh/users/4863096), ::{ flag=ID }:: [Mochi \-](https://osu.ppy.sh/users/20424806), ::{ flag=VE }:: [Mrbinking](https://osu.ppy.sh/users/6492475), ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164), ::{ flag=US }:: [Nidoking](https://osu.ppy.sh/users/7034422), ::{ flag=US }:: [Oolt cloud](https://osu.ppy.sh/users/4994598), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=CA }:: [Unlucky\_w](https://osu.ppy.sh/users/4820793), ::{ flag=US }:: [Vaqu](https://osu.ppy.sh/users/14714724), ::{ flag=PH }:: [Verso Dessendre](https://osu.ppy.sh/users/6341006), ::{ flag=PH }:: [Verso Dessendre](https://osu.ppy.sh/users/6341006), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962), ::{ flag=US }:: [Zileni](https://osu.ppy.sh/users/23525574), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768), *more TBA* |
 | Hitsounder | ::{ flag=RU }:: [222222222222222](https://osu.ppy.sh/users/12498861), ::{ flag=JP }:: [arthRo](https://osu.ppy.sh/users/21663721), ::{ flag=ID }:: [ArXe](https://osu.ppy.sh/users/14013313), ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337), ::{ flag=US }:: [EnderCraft](https://osu.ppy.sh/users/19950570), ::{ flag=IT }:: [Leomine](https://osu.ppy.sh/users/13277919), ::{ flag=PH }:: [Mejiro Dober](https://osu.ppy.sh/users/19425672), ::{ flag=PH }:: [midorijeon](https://osu.ppy.sh/users/10969875) |
-| Commentator | *TBA* |
-| Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Commentator | ::{ flag=SE }:: [\-Anchor\-](https://osu.ppy.sh/users/1352257), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=BE }:: [ElSkeffe](https://osu.ppy.sh/users/6283136), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=AU }:: [Maitoo](https://osu.ppy.sh/users/16899553), ::{ flag=GB }:: [Nathanial](https://osu.ppy.sh/users/9169747), ::{ flag=FR }:: [Realmaas](https://osu.ppy.sh/users/6567640), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [wwwww](https://osu.ppy.sh/users/8434466) |
+| Referee | **::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=IN }:: [\-Space](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [akace100](https://osu.ppy.sh/users/9308128), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=BR }:: [DizzyH](https://osu.ppy.sh/users/9896172), ::{ flag=SE }:: [ellen\-](https://osu.ppy.sh/users/7630166), ::{ flag=VN }:: [Hoaq](https://osu.ppy.sh/users/7696512), ::{ flag=CL }:: [Isita](https://osu.ppy.sh/users/13973026), ::{ flag=GR }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899), ::{ flag=US }:: [Suicune3](https://osu.ppy.sh/users/6895187), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | **::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899)**, ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | osu! original design | **::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024)**, *more TBA* |
 | Tournament design | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=HK }:: [Detristy](https://osu.ppy.sh/users/38325708), ::{ flag=RU }:: [LeeNarie](https://osu.ppy.sh/users/2667849), ::{ flag=ID }:: [LenLitchu](https://osu.ppy.sh/users/34098325), ::{ flag=CN }:: [Sakura006](https://osu.ppy.sh/users/10365024) |
+| Musician | [0 K](https://osu.ppy.sh/beatmaps/artists/424), [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204), [Link"0](https://osu.ppy.sh/beatmaps/artists/551), [Sydosys](https://osu.ppy.sh/beatmaps/artists/392), [Sylvir](https://osu.ppy.sh/beatmaps/artists/8), [YUC'e](https://osu.ppy.sh/beatmaps/artists/372), [ZxNX](https://osu.ppy.sh/beatmaps/artists/288) |
 
 ## Links
 
@@ -60,6 +61,7 @@ The osu!catch World Cup 2026 is run by various community members.
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/55)
 - [Challonge bracket](https://challonge.com/CWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/196) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1728)
 
 ## Participants
 
@@ -114,7 +116,351 @@ Captains are listed in **bold**.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99153d582c530823a55fa1beef737ec).
 
+## Match schedule: Finals
+
+### Saturday, 4 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 58 | Japan ::{ flag=JP }:: | ::{ flag=FI }:: Finland | [Jul 04 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T120000&p1=1440&p2=248&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 57 | Chile ::{ flag=CL }:: | ::{ flag=FR }:: France | [Jul 04 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=232&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+
+### Sunday, 5 July 2026
+
+| ID | Team A | Team B | Match time | Twitch stream |  |
+| :-: | --: | :-- | :-- | :-: | :-: |
+| 59a | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Jul 05 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 59b | Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Jul 05 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T120000&p1=1440&p2=248&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 59d | Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Jul 05 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T140000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| 60 | Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Jul 05 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T150000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| 59c | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jul 05 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
+| SC | Grand Finals | mappool showcase | [Jul 05 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+
+## Match results
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1r6Bol-yy6aM82mXLx5qzuIwKaiXvv4e8vRNoaXB68-A?rm=minimal).
+
+Saturday, 27 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 51 | Germany ::{ flag=DE }:: | 5 | **7** | ::{ flag=BE }:: **Belgium** | [#1](https://osu.ppy.sh/community/matches/121407023) | [#1](https://www.twitch.tv/videos/2806632933) |
+| 49 | **China** ::{ flag=CN }:: | **7** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/121407523) | [#1](https://www.twitch.tv/videos/2806632934) |
+| SM | Semifinals | 6 | **7** | **showmatch** | [#1](https://osu.ppy.sh/community/matches/121408086) | [#1](https://www.twitch.tv/videos/2806665458) |
+| 50 | **Finland** ::{ flag=FI }:: | **7** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/121409167) | [#1](https://www.twitch.tv/videos/2806756813) |
+| 52 | **France** ::{ flag=FR }:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/121409153) | [#1](https://www.twitch.tv/videos/2806746078) |
+| 55 | **Poland** ::{ flag=PL }:: | **7** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/121409842) | [#1](https://www.twitch.tv/videos/2806851350) |
+
+Sunday, 28 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 53a | **Finland** ::{ flag=FI }:: | **7** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/121413838) | [#1](https://www.twitch.tv/videos/2807472277) |
+| 54b | **France** ::{ flag=FR }:: | **7** | 1 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/121414217) | [#1](https://www.twitch.tv/videos/2807472281) |
+| 56 | **Argentina** ::{ flag=AR }:: | **7** | 3 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/121414527) | [#1](https://www.twitch.tv/videos/2807472278) |
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1lbQ_p44_w4pwO49iLm1CV8LDYl13K7zgcIxWw8NptpE?rm=minimal).
+
+Friday, 19 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 34 | **Belgium** ::{ flag=BE }:: | **6** | 3 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/121360481) | [#1](https://www.twitch.tv/videos/2800739214) |
+
+Saturday, 20 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 45 | **Poland** ::{ flag=PL }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/121365052) | [#1](https://www.twitch.tv/videos/2801191094) |
+| 33 | **Taiwan** ::{ flag=TW }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/121365840) |  |
+| 37 | Sweden ::{ flag=SE }:: | 3 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/121365811) | [#1](https://www.twitch.tv/videos/2801291161) |
+| 40 | **United Kingdom** ::{ flag=GB }:: | **6** | 5 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/121365761) | [#1](https://www.twitch.tv/videos/2801252329) |
+| 38 | **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/121366351) | [#1](https://www.twitch.tv/videos/2801273329) |
+| 35 | **Colombia** ::{ flag=CO }:: | **6** | 5 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/121366998) | [#1](https://www.twitch.tv/videos/2801366113) |
+| 36 | **Canada** ::{ flag=CA }:: | **6** | 5 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/121367320) | [#1](https://www.twitch.tv/videos/2801421242) |
+
+Sunday, 21 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 41a | **Belgium** ::{ flag=BE }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/121371607) | [#1](https://www.twitch.tv/videos/2801919868) |
+| 39 | **South Korea** ::{ flag=KR }:: | **6** | 2 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/121372216) | [#1](https://www.twitch.tv/videos/2801972538) |
+| 43b | **Indonesia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/121372928) | [#1](https://www.twitch.tv/videos/2802026977) |
+| 44a | **United Kingdom** ::{ flag=GB }:: | **6** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/121372862) | [#1](https://www.twitch.tv/videos/2802026979) |
+| 48 | France ::{ flag=FR }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/121372923) | [#1](https://www.twitch.tv/videos/2802035564) |
+| 47 | **Argentina** ::{ flag=AR }:: | **6** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/121373602) | [#1](https://www.twitch.tv/videos/2802132993) |
+| 42a | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/121373947) | [#1](https://www.twitch.tv/videos/2802139909) |
+| 46 | Finland ::{ flag=FI }:: | 2 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/121373991) | [#1](https://www.twitch.tv/videos/2802142666) |
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1oDJVHX87l3PYeuPRL2UumkYbi5NlOl0dVG2v4NY9LDo?rm=minimal).
+
+Thursday, 11 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 23 | Lithuania ::{ flag=LT }:: | 0 | **6** | ::{ flag=MX }:: **Mexico** | [#1](https://osu.ppy.sh/community/matches/121311254) | [#1](https://www.twitch.tv/videos/2794922009) |
+
+Saturday, 13 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 24 | Greece ::{ flag=GR }:: | 2 | **6** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/121320645) | [#1](https://www.twitch.tv/videos/2795713443) |
+| 20 | Norway ::{ flag=NO }:: | 0 | **6** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/121321409) | [#1](https://www.twitch.tv/videos/2795750591) |
+| 21 | Philippines ::{ flag=PH }:: | 0 | **6** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/121322284) | [#1](https://www.twitch.tv/videos/2795800859) |
+| 22 | Türkiye ::{ flag=TR }:: | 1 | **6** | ::{ flag=MY }:: **Malaysia** | [#1](https://osu.ppy.sh/community/matches/121322283) | [#1](https://www.twitch.tv/videos/2795802495) |
+
+Sunday, 14 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 26 | Belgium ::{ flag=BE }:: | 4 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/121326997) | [#1](https://www.twitch.tv/videos/2800739214) |
+| 18 | **Portugal** ::{ flag=PT }:: | **6** | 4 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/121327396) | [#1](https://www.twitch.tv/videos/2800742889) |
+| 32 | **Japan** ::{ flag=JP }:: | **6** | 0 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/121327623) | [#1](https://www.twitch.tv/videos/2800742888) |
+| 19 | Australia ::{ flag=AU }:: | 0 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/121327985) | [#1](https://www.twitch.tv/videos/2800527107) |
+| 25 | **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/121327986) | [#1](https://www.twitch.tv/videos/2800742891) |
+| 31 | **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/121327931) |  |
+| 30 | **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/121328719) | [#1](https://www.twitch.tv/videos/2800753691) |
+| 29 | **Argentina** ::{ flag=AR }:: | **6** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/121329108) | [#1](https://www.twitch.tv/videos/2800753688) |
+| 27 | **Finland** ::{ flag=FI }:: | **6** | 0 | ::{ flag=CO }:: Colombia | [#1](https://osu.ppy.sh/community/matches/121329495) | [#1](https://www.twitch.tv/videos/2800753694) |
+| 17 | Brazil ::{ flag=BR }:: | 0 | **6** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/121330055) | [#1](https://www.twitch.tv/videos/2800753693) |
+| 28 | **Chile** ::{ flag=CL }:: | **6** | 1 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/121330613) | [#1](https://www.twitch.tv/videos/2800753695) |
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/16Wc81r0-c65TUBXM-V4kGJXA2IkSG6kLlFP9QVrvGc0?rm=minimal).
+
+Friday, 5 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 3 | **Belgium** ::{ flag=BE }:: | **5** | 0 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/121273046) | [#1](https://www.twitch.tv/videos/2789452719) |
+
+Saturday, 6 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 4 | **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/121276407) | [#1](https://www.twitch.tv/videos/2790171233) |
+| 6 | **Colombia** ::{ flag=CO }:: | **5** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/121278592) | [#1](https://www.twitch.tv/videos/2790172225) |
+| 12 | **Indonesia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/121278593) | [#1](https://www.twitch.tv/videos/2790168578) |
+| 7 | **Chile** ::{ flag=CL }:: | **5** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/121279383) | [#1](https://www.twitch.tv/videos/2790240381) |
+| 10 | **Sweden** ::{ flag=SE }:: | **5** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/121279756) | [#1](https://www.twitch.tv/videos/2790283667) |
+
+Sunday, 7 June 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 8 | Hong Kong ::{ flag=HK }:: | 2 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/121282765) | [#1](https://www.twitch.tv/videos/2790661805) |
+| 15 | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=GR }:: Greece | [#1](https://osu.ppy.sh/community/matches/121284131) | [#1](https://www.twitch.tv/videos/2790826356) |
+| 5 | **Finland** ::{ flag=FI }:: | **5** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/121284322) | [#1](https://www.twitch.tv/videos/2790849948) |
+| 16 | **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/121284351) | [#1](https://www.twitch.tv/videos/2790862335) |
+| 13 | **France** ::{ flag=FR }:: | **5** | 1 | ::{ flag=LT }:: Lithuania | [#1](https://osu.ppy.sh/community/matches/121284959) | [#1](https://www.twitch.tv/videos/2790939800) |
+| 2 | Spain ::{ flag=ES }:: | 0 | **5** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/121285417) | [#1](https://www.twitch.tv/videos/2790943765) |
+| 9 | **Argentina** ::{ flag=AR }:: | **5** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/121285816) | [#1](https://www.twitch.tv/videos/2790983125) |
+| 11 | **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=TR }:: Türkiye | [#1](https://osu.ppy.sh/community/matches/121285822) | [#1](https://www.twitch.tv/videos/2790987673) |
+| 14 | **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/121286583) | [#1](https://www.twitch.tv/videos/2791080768) |
+| 1 | **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/121286996) | [#1](https://www.twitch.tv/videos/2791126418) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found in the following [spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1AsJcJupbV0IIVhgTKKz7TNXGth9_mRs_1VOHNg5TKw4?rm=minimal).
+Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/2785675233?t=0h55m41s).
+
+| Seed | Country | %MAX sum[^qualifiers-seeding] | Avg. score[^qualifiers-tiebreaker] | Lobby link |
+| :-: | :-- | --: | --: | --: |
+| #1 | ::{ flag=PL }:: Poland | 8.939 | 2,961,630 | [#1](https://osu.ppy.sh/community/matches/121241705) |
+| #2 | ::{ flag=AR }:: Argentina | 8.780 | 2,909,025 | [#1](https://osu.ppy.sh/community/matches/121241316) |
+| #3 | ::{ flag=FR }:: France | 8.759 | 2,902,644 | [#1](https://osu.ppy.sh/community/matches/121241338) |
+| #4 | ::{ flag=FI }:: Finland | 8.748 | 2,899,687 | [#1](https://osu.ppy.sh/community/matches/121241689) |
+| #5 | ::{ flag=CL }:: Chile | 8.739 | 2,895,463 | [#1](https://osu.ppy.sh/community/matches/121242888) |
+| #6 | ::{ flag=JP }:: Japan | 8.568 | 2,841,412 | [#1](https://osu.ppy.sh/community/matches/121232778) |
+| #7 | ::{ flag=DE }:: Germany | 8.510 | 2,820,773 | [#1](https://osu.ppy.sh/community/matches/121240068) |
+| #8 | ::{ flag=BE }:: Belgium | 8.506 | 2,819,820 | [#1](https://osu.ppy.sh/community/matches/121233485) |
+| #9 | ::{ flag=CN }:: China | 8.499 | 2,816,719 | [#1](https://osu.ppy.sh/community/matches/121239553) |
+| #10 | ::{ flag=ID }:: Indonesia | 8.489 | 2,812,573 | [#1](https://osu.ppy.sh/community/matches/121233472) |
+| #11 | ::{ flag=GB }:: United Kingdom | 8.437 | 2,795,537 | [#1](https://osu.ppy.sh/community/matches/121233480) |
+| #12 | ::{ flag=HK }:: Hong Kong | 8.382 | 2,777,640 | [#1](https://osu.ppy.sh/community/matches/121234344) |
+| #13 | ::{ flag=CO }:: Colombia | 8.278 | 2,744,902 | [#1](https://osu.ppy.sh/community/matches/121230762) |
+| #14 | ::{ flag=KR }:: South Korea | 8.237 | 2,729,531 | [#1](https://osu.ppy.sh/community/matches/121240061) |
+| #15 | ::{ flag=SE }:: Sweden | 8.233 | 2,728,645 | [#1](https://osu.ppy.sh/community/matches/121240854) |
+| #16 | ::{ flag=ES }:: Spain | 8.212 | 2,722,546 | [#1](https://osu.ppy.sh/community/matches/121241339) |
+| #17 | ::{ flag=TW }:: Taiwan | 8.205 | 2,721,919 | [#1](https://osu.ppy.sh/community/matches/121240437) |
+| #18 | ::{ flag=US }:: United States | 8.132 | 2,696,961 | [#1](https://osu.ppy.sh/community/matches/121235064) |
+| #19 | ::{ flag=MX }:: Mexico | 8.012 | 2,658,903 | [#1](https://osu.ppy.sh/community/matches/121237883) |
+| #20 | ::{ flag=TH }:: Thailand | 7.997 | 2,652,721 | [#1](https://osu.ppy.sh/community/matches/121233517) |
+| #21 | ::{ flag=CA }:: Canada | 7.913 | 2,628,203 | [#1](https://osu.ppy.sh/community/matches/121242909) |
+| #22 | ::{ flag=RU }:: Russian Federation | 7.635 | 2,533,166 | [#1](https://osu.ppy.sh/community/matches/121234539) |
+| #23 | ::{ flag=MY }:: Malaysia | 7.523 | 2,494,876 | [#1](https://osu.ppy.sh/community/matches/121241340) |
+| #24 | ::{ flag=NZ }:: New Zealand | 7.003 | 2,323,967 | [#1](https://osu.ppy.sh/community/matches/121225360) |
+| #25 | ::{ flag=PT }:: Portugal | 6.997 | 2,324,287 | [#1](https://osu.ppy.sh/community/matches/121242882) |
+| #26 | ::{ flag=TR }:: Türkiye | 6.991 | 2,320,186 | [#1](https://osu.ppy.sh/community/matches/121241661) |
+| #27 | ::{ flag=GR }:: Greece | 6.985 | 2,318,357 | [#1](https://osu.ppy.sh/community/matches/121241334) |
+| #28 | ::{ flag=NO }:: Norway | 6.915 | 2,297,733 | [#1](https://osu.ppy.sh/community/matches/121240880) |
+| #29 | ::{ flag=AU }:: Australia | 6.785 | 2,254,582 | [#1](https://osu.ppy.sh/community/matches/121239528) |
+| #30 | ::{ flag=LT }:: Lithuania | 6.783 | 2,249,870 | [#1](https://osu.ppy.sh/community/matches/121242106) |
+| #31 | ::{ flag=PH }:: Philippines | 6.676 | 2,216,400 | [#1](https://osu.ppy.sh/community/matches/121225735) |
+| #32 | ::{ flag=BR }:: Brazil | 6.433 | 2,136,675 | [#1](https://osu.ppy.sh/community/matches/121242924) |
+| #33 | ::{ flag=IL }:: Israel | 6.226 | 2,066,701 | [#1](https://osu.ppy.sh/community/matches/121242535) |
+| #34 | ::{ flag=SG }:: Singapore | 6.221 | 2,065,874 | [#1](https://osu.ppy.sh/community/matches/121232708) |
+| #35 | ::{ flag=IS }:: Iceland | 6.152 | 2,043,316 | [#1](https://osu.ppy.sh/community/matches/121242547) |
+| #36 | ::{ flag=NL }:: Netherlands | 6.150 | 2,043,182 | [#1](https://osu.ppy.sh/community/matches/121242523) |
+| #37 | ::{ flag=DK }:: Denmark | 4.992 | 1,658,077 | [#1](https://osu.ppy.sh/community/matches/121227088) |
+| #38 | ::{ flag=HR }:: Croatia | 4.985 | 1,655,660 | [#1](https://osu.ppy.sh/community/matches/121242283) |
+| #39 | ::{ flag=RS }:: Serbia | 4.363 | 1,449,304 | [#1](https://osu.ppy.sh/community/matches/121240070) |
+| #40 | ::{ flag=CH }:: Switzerland | 4.260 | 1,417,470 | [#1](https://osu.ppy.sh/community/matches/121239549), [#2](https://osu.ppy.sh/community/matches/121239906) |
+| #41 | ::{ flag=UA }:: Ukraine | 4.064 | 1,349,594 | [#1](https://osu.ppy.sh/community/matches/121238338) |
+| #42 | ::{ flag=LV }:: Latvia | 3.949 | 1,311,833 | [#1](https://osu.ppy.sh/community/matches/121235068) |
+| #43 | ::{ flag=VN }:: Vietnam | 3.796 | 1,259,592 | [#1](https://osu.ppy.sh/community/matches/121241279) |
+| #44 | ::{ flag=SK }:: Slovakia | 3.147 | 1,044,970 | [#1](https://osu.ppy.sh/community/matches/121234320) |
+
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (210 MB)](https://packs.ppy.sh/P330%20-%20osu%21catch%20World%20Cup%202026%3A%20Finals.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2807624791)
+
+- No Mod
+  1. [Adust Rain - Nevxxxxerland feat. Michizane (Bunnrei) \[ARISE\]](https://osu.ppy.sh/beatmapsets/2577199#fruits/5741320)
+  2. [Drazically - Ghost2PROTOCOL (-Rustyy) \[Ultima\]](https://osu.ppy.sh/beatmapsets/2577189#fruits/5741306)
+  3. [siromaru - Scarlet Volition (Mrbinking) \[Final Resolution\]](https://osu.ppy.sh/beatmapsets/2577212#fruits/5741355)
+  4. [ZxNX - DECAY (Rocma, Unlucky\_w) \[Rocma & Unlucky\_w's Disintegration\]](https://osu.ppy.sh/beatmapsets/2577190#fruits/5741307)
+  5. [Kobaryo - Kumo No Kireme \[feat. Kourin.\] (Cut. Ver.) (GiGas) \[The seed of hope dreams of blooming into flowers (CWC. Ver.)\]](https://osu.ppy.sh/beatmapsets/2577193#fruits/5741311)
+- Hidden
+  1. [Release Hallucination - Stray Sheep (Mochi -) \[Flock of Sheep\]](https://osu.ppy.sh/beatmapsets/2577202#fruits/5741327)
+  2. [Rigel Theatre - Helados Flores y Estrellas (F D Flourite) \[Mixue (CWC Edit.)\]](https://osu.ppy.sh/beatmapsets/2577146#fruits/5741203)
+  3. [queenjazz - Reload feat. Aran P. Ink (WangleLine's "MEGATON MISSILE" Remix) (AnApple7) \[You've Got Quite The Smile\]](https://osu.ppy.sh/beatmapsets/2577246#fruits/5741424)
+- Hard Rock
+  1. [Pratanallis - Lion Heart (feat. Haramori Yoshina) (Secre) \[Ephemeral Memories\]](https://osu.ppy.sh/beatmapsets/2577315#fruits/5741609)
+  2. [Wolfgang Amadeus Mozart - Piano Sonata No. 11, K. 331: III. Alla Turca (Performed by Arcadi Volodos) (Mrbinking, fayew) \[fayew binking piano\]](https://osu.ppy.sh/beatmapsets/2577210#fruits/5741353)
+  3. [Genesis - Texasism (Verso Dessendre, Rocma) \[Rocma & Verso's Taxum\]](https://osu.ppy.sh/beatmapsets/2577208#fruits/5741349)
+- Double Time
+  1. [Team. Nekokan \[Neko\] - Airman ga Taosenai (Ascendance, Secre) \[Jodah, Airman Eternal\]](https://osu.ppy.sh/beatmapsets/2577296#fruits/5741531)
+  2. [zts - death(from stupefaction) (222222222222222) \[Sacrifice\]](https://osu.ppy.sh/beatmapsets/2577214#fruits/5741358)
+  3. [BlackY feat. Risa Yuzuki - UNLEASHED (F D Flourite) \[BLACKOUT\]](https://osu.ppy.sh/beatmapsets/2577147#fruits/5741209)
+  4. [KAKU P-MODEL - Cruise Psyclaon (Callionet, ExGon) \[CalliMixGon\]](https://osu.ppy.sh/beatmapsets/2577216#fruits/5741367)
+- Mixed Mod
+  1. [DJ Raisei - Ginkyo Sekai (feat. Kasane Teto) (-Ken) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/2577241#fruits/5741418)
+  2. [witch's slave vs. kefi - Magicarissa (Nidoking) \[Ruinwritten Ritual\]](https://osu.ppy.sh/beatmapsets/2577289#fruits/5741503)
+- Tiebreaker
+  1. **[nm-y vs. Kry.exe - Kaiju (Mochi -, Bunnrei, -Ken) \[Operation Trinity: Apex Catastrophe\]](https://osu.ppy.sh/beatmapsets/2577218#fruits/5741370)**
+
+### Semifinals
+
+**[Download the mappack here (232 MB)](https://packs.ppy.sh/P329%20-%20osu%21catch%20World%20Cup%202026%3A%20Semifinals.zip?1782512592)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2802199850)
+
+- No Mod
+  1. [Fractal Dreamers - Fortuna Redux (Kukkai) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2573432#fruits/5729512)
+  2. [Aoi - azure iris (-Ken) \[Afterimage\]](https://osu.ppy.sh/beatmapsets/2573448#fruits/5729539)
+  3. [Caravan Palace - City Cook (Shiny Mob Remix) (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/2573402#fruits/5729426)
+  4. [Toromaru - Uncharted Sky (Sololiquy) \[Special\]](https://osu.ppy.sh/beatmapsets/2573579#fruits/5729943)
+  5. [dbk2 - The Devil Plays Dance Games (Callionet) \[Deviluge\]](https://osu.ppy.sh/beatmapsets/2573408#fruits/5729446)
+- Hidden
+  1. [ASCA - Real Dawn (Yoshi\_green, Mrbinking) \[Mr\_green's Sunrise\]](https://osu.ppy.sh/beatmapsets/2573415#fruits/5729466)
+  2. [skymuted & Evin a'k - memory at angels landing (ExGon) \[CWC 2026 Semifinals HD2\]](https://osu.ppy.sh/beatmapsets/2573438#fruits/5729520)
+  3. [BilliumMoto & Miyolophone - IX's Shadow (Unlucky\_w, Spectator) \[Speclucky's Echoes of Aesthetics\]](https://osu.ppy.sh/beatmapsets/2573425#fruits/5729491)
+- Hard Rock
+  1. [Fellowship - Scars and Shrapnel Wounds (Verso Dessendre) \[Destiny\]](https://osu.ppy.sh/beatmapsets/2573502#fruits/5729735)
+  2. [Sakura Kanae - Discode (Game Ver.) (Rocma) \[Who am I\]](https://osu.ppy.sh/beatmapsets/2573427#fruits/5729499)
+  3. [Link"0 - M0nica (Bunnrei) \[0verd0se\]](https://osu.ppy.sh/beatmapsets/2573434#fruits/5729516)
+- Double Time
+  1. [canoue - Hotarubi Gatari (-Luminate) \[Glimmering Light\]](https://osu.ppy.sh/beatmapsets/2573436#fruits/5729518)
+  2. [Purukichi ft. nasaki - Toumei (Unlucky\_w) \[Translucency\]](https://osu.ppy.sh/beatmapsets/2573439#fruits/5729522)
+  3. [Lorien Testard - Osquio (Cut Ver.) (Verso Dessendre) \[Verso's Drafts\]](https://osu.ppy.sh/beatmapsets/2573503#fruits/5729736)
+  4. [Niko - Made Of Fire (Extended & Cut Ver.) (Cruwev, Malai) \[Cruwalai's It's Giving Arson\]](https://osu.ppy.sh/beatmapsets/2573442#fruits/5729525)
+- Mixed Mod
+  1. [Sylvir - Etiolan Highway (Spectator, ExGon) \[ExSpec's Sunward Drive\]](https://osu.ppy.sh/beatmapsets/2573446#fruits/5729534)
+  2. [AAAA - carnation (Rocma) \[scattered petals\]](https://osu.ppy.sh/beatmapsets/2573449#fruits/5729541)
+- Tiebreaker
+  1. **[Sydosys - Radium (Mrbinking) \[Molecular Breakdown\]](https://osu.ppy.sh/beatmapsets/2573473#fruits/5729598)**
+
+### Quarterfinals
+
+**[Download the mappack here (157 MB)](https://packs.ppy.sh/P328%20-%20osu%21catch%20World%20Cup%202026%3A%20Quarterfinals.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2800753692)
+
+- No Mod
+  1. [DragonForce - Ashes of the Dawn (Du5t) \[Du5t & Verso's Burning Phoenix\]](https://osu.ppy.sh/beatmapsets/2570000#fruits/5719094)
+  2. [seatrus - Tabula Rasa (Zileni) \[Clear Mind\]](https://osu.ppy.sh/beatmapsets/2569980#fruits/5719035)
+  3. [Akizuki Akira feat. Hodokyo - Tasogare no Melodia (Rocma) \[retirement home\]](https://osu.ppy.sh/beatmapsets/2569986#fruits/5719050)
+  4. [Aphex Twin - Vordhosbn (Cut Ver.) (Cruwev) \[frames11\]](https://osu.ppy.sh/beatmapsets/2569984#fruits/5719044)
+- Hidden
+  1. [YUC'e - Nasu Is Not Fruits Desu! (Kukkai) \[Kukkinate is not fruits!\]](https://osu.ppy.sh/beatmapsets/2569989#fruits/5719060)
+  2. [xi - Mirage Garden (Yoshi\_green) \[Paradise?\]](https://osu.ppy.sh/beatmapsets/2569988#fruits/5719057)
+  3. [The Musical Ghost - Avallonis (Sololiquy) \[Overdose+\]](https://osu.ppy.sh/beatmapsets/2570058#fruits/5719264)
+- Hard Rock
+  1. [Shimotsuki Haruka - Youka to Yumeutsutsu (Sped up & Cut Ver.) (F D Flourite) \[Blooming\]](https://osu.ppy.sh/beatmapsets/2569990#fruits/5719066)
+  2. [Elliot Hsu - Grimoire Academia (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2570027#fruits/5719194)
+  3. [steelplus - Skywired Beatscape (Spectator) \[CWC 2026 QF HR3\]](https://osu.ppy.sh/beatmapsets/2570033#fruits/5719200)
+- Double Time
+  1. [CHiCO with HoneyWorks - Ai no Scenario (Yoshi\_green) \[Double Tatoe\]](https://osu.ppy.sh/beatmapsets/2569994#fruits/5719078)
+  2. [Synthion - Spica (hiroshiki) \[Twinkle\]](https://osu.ppy.sh/beatmapsets/2569995#fruits/5719081)
+  3. [Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? (Mochi -) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2569997#fruits/5719083)
+- Mixed Mod
+  1. [ryo (supercell) feat. Kaguya (CV: Yuko Natsuyoshi) - Melt CPK! Remix (Kaguya Ver.) (Yumeno Himiko) \[First Affection\]](https://osu.ppy.sh/beatmapsets/2570009#fruits/5719120)
+  2. [Good Kid - Break (Verso Dessendre) \[Breather\]](https://osu.ppy.sh/beatmapsets/2569999#fruits/5719093)
+- Tiebreaker
+  1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (Nelly) \[Alice\]](https://osu.ppy.sh/beatmapsets/2570001#fruits/5719099)**
+
+### Round of 16
+
+**[Download the mappack here (148 MB)](https://packs.ppy.sh/P327%20-%20osu%21catch%20World%20Cup%202026%3A%20Round%20of%2016.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2791211597)
+
+- No Mod
+  1. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sacrifice (Ascendance, -Miya) \[Miyascendance's Penance\]](https://osu.ppy.sh/beatmapsets/2566432#fruits/5708882)
+  2. [The Musical Ghost - Mahika (Yoshi\_green) \[Ethereal\]](https://osu.ppy.sh/beatmapsets/2566317#fruits/5708548)
+  3. [Sato Tenpei - Cluster Warning (-Luminate) \[Discordance\]](https://osu.ppy.sh/beatmapsets/2566309#fruits/5708530)
+  4. [The Dismemberment Plan - The Dismemberment Plan Gets Rich (Oolt cloud) \[embezzling funds from ppy pty ltd for the cwc prizepool\]](https://osu.ppy.sh/beatmapsets/2566305#fruits/5708526)
+- Hidden
+  1. [scop - Yubikiri (JierYagtama) \[Promise\]](https://osu.ppy.sh/beatmapsets/2566464#fruits/5708964)
+  2. [EmoCosine - MAGENTA POTION (Short Ver.) (Des9) \[HD II\]](https://osu.ppy.sh/beatmapsets/2566311#fruits/5708533)
+  3. [WhiteSakata - R(eiterat)e (Malai, Cruwev) \[Malcrew's R(epris)e\]](https://osu.ppy.sh/beatmapsets/2566313#fruits/5708543)
+- Hard Rock
+  1. [kakichoco - Hakudou (hiroshiki) \[Kodou\]](https://osu.ppy.sh/beatmapsets/2566314#fruits/5708544)
+  2. [Aishuu Mania - the lost dedicated (AnApple7) \[lost\]](https://osu.ppy.sh/beatmapsets/2566331#fruits/5708578)
+  3. [myon - Plastic Mind (Rocma) \[polyethylene heart\]](https://osu.ppy.sh/beatmapsets/2566318#fruits/5708550)
+- Double Time
+  1. [senya - Kasoku Suru Koi wa Dare mo Tomerarenai (Nelly) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2566323#fruits/5708558)
+  2. [leroy - her head is soooo rolling!! love her (Vaqu) \[this beat is craaazyy!! love it\]](https://osu.ppy.sh/beatmapsets/2566344#fruits/5708620)
+  3. [seleP - Segments Blue (Rocma) \[Blue Truth\]](https://osu.ppy.sh/beatmapsets/2566324#fruits/5708564)
+- Mixed Mod
+  1. [KASAI HARCORES - TRIPLE PLAY (Ascendance, CLSW, Spectator) \[WORLD BASEBALL CLASSIC\]](https://osu.ppy.sh/beatmapsets/2566333#fruits/5708586)
+  2. [0 K - Downtown Swoop (ZiRoX) \[Jazz Invasion\]](https://osu.ppy.sh/beatmapsets/2566329#fruits/5708574)
+- Tiebreaker
+  1. **[Kagetora. - Resplendence (BlackBN, Yoshi\_green) \[BlackYoshi's Transcendental Blissfulness\]](https://osu.ppy.sh/beatmapsets/2566443#fruits/5708900)**
+
+### Round of 32
+
+**[Download the mappack here (120 MB)](https://packs.ppy.sh/P326%20-%20osu%21catch%20World%20Cup%202026%3A%20Round%20of%2032.zip)**\
+[Watch the showcase VOD here](https://www.twitch.tv/videos/2785675233?t=0h55m41s)
+
+- No Mod
+  1. [Unlucky Morpheus - Black Pentagram (-Rustyy) \[Nirvana\]](https://osu.ppy.sh/beatmapsets/2562746#fruits/5697889)
+  2. [Aiyru - Elevator (-Ken) \[Going Up?\]](https://osu.ppy.sh/beatmapsets/2562728#fruits/5697851)
+  3. [bibuko - Reizouko Mitara Pudding ga Nai (Yoshi\_green) \[Edge-jumpudding!\]](https://osu.ppy.sh/beatmapsets/2562735#fruits/5697867)
+  4. [ZVLIAN - SHIFTING GROUND (AnApple7) \[INCONSISTENT (CWC VER.)\]](https://osu.ppy.sh/beatmapsets/2562737#fruits/5697869)
+- Hidden
+  1. [Nanatsukaze - Connect the World (Sololiquy) \[Connect the World\]](https://osu.ppy.sh/beatmapsets/2562741#fruits/5697878)
+  2. [bill wurtz - and the day goes on (Nelly) \[day goes on\]](https://osu.ppy.sh/beatmapsets/2562739#fruits/5697872)
+- Hard Rock
+  1. [Annabel - pedalnote (-Miya) \[CWC2026 RO32 HR1\]](https://osu.ppy.sh/beatmapsets/2562740#fruits/5697874)
+  2. [zircon - Dirt Devil (ZiRoX) \[Magitek Research Factory\]](https://osu.ppy.sh/beatmapsets/2562745#fruits/5697888)
+- Double Time
+  1. [leroy - Put me back together \[ON THE FLOOR\] (Lacrima) \[tear me apart \[RAIN\]\]](https://osu.ppy.sh/beatmapsets/2562750#fruits/5697896)
+  2. [URBANGARDE - CHIBORG KYOKO (Cut Ver.) (ZiRoX) \[BE YOURSELF\]](https://osu.ppy.sh/beatmapsets/2562747#fruits/5697890)
+  3. [Reol - THE SIXTH SENSE (Secre) \[Rain\]](https://osu.ppy.sh/beatmapsets/2562793#fruits/5697999)
+- Mixed Mod
+  1. [ARForest - Seisen (feat. nayuta) (-Miya) \[Universal Love (CWC Edit)\]](https://osu.ppy.sh/beatmapsets/2562752#fruits/5697899)
+  2. [RINYA - Byakko ga Nozomu wa Akanezora no Kanata (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/2562754#fruits/5697905)
+- Tiebreaker
+  1. **[jizue - rosso (Live at Kyoto Concert Hall 2019.10.19) (Ascendance) \[ascendance & rocma (Live at CWC 2026 Round of 32 2026.05.31)\]](https://osu.ppy.sh/beatmapsets/2562755#fruits/5697906)**
 
 ### Qualifiers
 
@@ -140,39 +486,38 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 ### Tournament rules
 
 1. The osu!catch World Cup is a country-based 3 versus 3 double-elimination team tournament, played on the osu!catch game mode.
-   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria that is adopted. Players that have participated under another country previously may continue to do so.
+   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria that is adopted. Players that have participated under another country previously may continue to do so.
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 4 players, and the maximum is 6.
 4. The beatmap list for each round will be announced by the mappool selectors on the official stream, on the Sunday before the matches take place.
 5. The match schedules for each round will be announced by the tournament managers on this page, as well as the information sheet, on the Sunday before the matches take place.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
-   - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
+   - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 3 participants from each team must be present for the match to begin).
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 3 participants from each team must be present for the match to begin).
 8. Exchanging players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may do rematch independently of either team if reasonable evidence of a disconnect/tech issue exists. Referees may veto any rematch requests at their discretion.
-    - "Lag spikes" are not considered a valid reason to rematch a beatmap.
-    - The roster for each team during a rematch must remain the same as the original run. If that is not possible, e.g. by virtue of a technical issue that prevents a player from entering the lobby, both teams will be allowed to swap rosters.
-    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
+    - "Lag spikes" are not considered a valid reason to rematch a beatmap.
+    - The roster for each team during a rematch must remain the same as the original run. If that is not possible, e.g. by virtue of a technical issue that prevents a player from entering the lobby, both teams will be allowed to swap rosters.
+    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 11. If a player disconnects mid-game, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
-    - Screenshots from other players taken directly in-game that show the affected player's score.
-      - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
-      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
-      - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
-    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
+    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+    - Screenshots from other players taken directly in-game that show the affected player's score. Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
+    - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
+      - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
+    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
 13. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
 14. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
-    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
 15. Penalties for violating the tournament rules include, but are not limited to:
-    - Exclusion of specific players for one beatmap.
-    - Exclusion of specific players for an entire match.
-    - Declaring the match as forfeited, or as a win by default for the other team.
-    - Disqualification from the entire tournament.
-    - Disqualification from the current and future official tournaments, until appealed.
+    - Exclusion of specific players for one beatmap.
+    - Exclusion of specific players for an entire match.
+    - Declaring the match as forfeited, or as a win by default for the other team.
+    - Disqualification from the entire tournament.
+    - Disqualification from current and future official tournaments, until appealed.
 16. Referees may allow, at their discretion, lower or higher tolerances for timers.
 17. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
 18. The tournament managers will be responsible for receiving and investigating any tournament-related complaints.
@@ -181,9 +526,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 ### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
-   - The tournament managers will create a list of potential candidates for a country's team.
-   - The tournament managers will declare one candidate captain of their country's team.
-   - The provisional captain will receive a private message on the osu! website containing further instructions, via the announcement feature, titled "osu!catch World Cup 2026 - Team {Country Name}".
+   - The tournament managers will create a list of potential candidates for a country's team.
+   - The tournament managers will declare one candidate captain of their country's team.
+   - The provisional captain will receive a private message on the osu! website containing further instructions, via the announcement feature, titled "osu!catch World Cup 2026 - Team {Country Name}".
 2. The provisional captain will then form their team by selecting players from the candidate pool for their country.
    - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
    - Captains are expected to submit their finalised team list **before the deadline**.
@@ -193,10 +538,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
    - **Teams that do not send their team list by May 23, 23:59 UTC will have their members selected by the tournament organisers.**
      - Auto-selection will be based primarily on osu!catch global rank. However, secondary factors such as community presence and user activity may be used to fill remaining spots. The provisional captain responsible for the missing submission is subject to removal from the team on a case-by-case basis.
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
-   - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!catch global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - Every registered user will be assigned to their respective country's candidate list.
+   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!catch global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
-   - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
+   - A team should have at least 4 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
    - The tournament managers must ensure that such staff members do not have access to any privileged data, e.g. Qualifier score information, or mappool information before the mappool showcase.
 
@@ -207,15 +552,15 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 3. The Qualifier pool will consist of 9 maps. There will be 3 maps under the No Mod bracket, and 2 maps for the Hidden, Hard Rock, and Double Time brackets.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
-   - Teams may skip playing any beatmap on their second run.
+   - Teams may skip playing any beatmap on their second run.
 6. Each team must have 3 members play each map. They may be exchanged freely after a map is concluded.
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
-   - Teams may be grouped into a singular room if there are not enough referees available at match time.
+   - Teams may be grouped into a singular room if there are not enough referees available at match time.
 9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points (i.e. a numerical value of 1), and every other team will be awarded a percentage of that top score. The individual map percentages will be added together to compose that team's final score, which is then sorted from highest to lowest, highest being seed #1. The exact formula that will be used for all teams (and for each map) is `Map percentage = Team score / MAX score`, where:
-   - `Map percentage` is the percentage awarded to the current team
-   - `Team score` is the score the current team achieved on the current map
-   - `MAX score` is the highest score achieved for the current map
+   - `Map percentage` is the percentage awarded to the current team
+   - `Team score` is the score the current team achieved on the current map
+   - `MAX score` is the highest score achieved for the current map
 The final team score to be sorted is defined as `Final score = SUM(Map percentage)`, i.e. the sum of each map's `Map percentage`.
 10. Only the top 32 seeded teams will advance to the Round of 32.
 
@@ -230,12 +575,12 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 - In the Round of 32, teams need to win 5 maps to win a match (best of 9).
 - In the Round of 16 and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
 - In the Semifinals, Finals and Grand Finals, teams need to win 7 maps to win the match (best of 13).
-  - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
+  - *Note: for the Grand Finals match, the team that is coming from the winners bracket is required to win one "set", that is, one best of 13, to win the tournament. The team coming from the losers bracket, however, needs to win 2 sets.*
 
 ### Match instructions
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Teams must join the lobby in that period.
-   - The room settings are `Game mode: "osu!catch"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `CWC2026: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
+   - The room settings are `Game mode: "osu!catch"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `CWC2026: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each team may ban **one beatmap** per match. These beatmaps may not be picked by any team for the entire duration of the match.
 3. Each captain must use `!roll` once in the match's chatroom. After the rolls are set, the pick and ban phase will have the following steps:
    1. The **roll winner** starts by protecting one beatmap, followed by a protect from the **roll loser**. They may not protect the same beatmap. **Protected beatmaps may not be banned**.
@@ -243,14 +588,14 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
    3. The **roll winner picks** the first beatmap of the match.
    4. Both teams will then take turns picking a beatmap from the mappool.
 4. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than allotted for either action, the procedures adopted will be as follows:
-   - For the first occurrence:
-     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to prepare/pick.
-     - If the team does not pick a map within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below:
-     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
-     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team (if applicable), starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is (e.g. 2 *versus* 2 players or similar combinations).
-     - Repeat offenders may receive further sanctions from the tournament managers.
+   - For the first occurrence:
+     - The team will receive a verbal warning from the referee; in addition, the referee may opt to forcefully use the team's tactical timeout to allow for the team to prepare/pick.
+   - If the team does not pick/ready within 15 seconds from when the timer expires, the referee will apply the procedure for subsequent occurrences listed below:
+     - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the tiebreaker.
+     - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team (if applicable), starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is (e.g. 2 *versus* 2 players or similar combinations).
+   - Repeat offenders may receive further sanctions from the tournament managers.
 5. In the case of a team starting a map with less than the optimal number of players on their roster due to an unforeseen circumstance (e.g. a technical issue or unavoidable player absence), the team in question will be granted the right to fill their roster before play commences. The remainder of the original roster must stay the same, i.e. only player additions are allowed.
-6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional, and is always applied at the end of the currently running timer.*.
+6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to ban, pick, or ready for a beatmap. *The tactical timeout is optional, and is always applied at the end of the currently running timer.*
    - The tactical timeout may be called on a tiebreaker, irrespecive of which team asked for it, or how many timeouts remain available.
 
 ### Mappool instructions
@@ -258,31 +603,40 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 1. Every stage will have its own mappool.
 2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and Mixed Mod.
 3. The mappool sizes are as follows:
-   - Qualifiers: 9 beatmaps
-   - Round of 32: 14 beatmaps
-   - Round of 16 and Quarterfinals: 16 beatmaps
-   - Semifinals, Finals, and Grand Finals: 18 beatmaps
+   - Qualifiers: 9 beatmaps
+   - Round of 32: 14 beatmaps
+   - Round of 16 and Quarterfinals: 16 beatmaps
+   - Semifinals, Finals, and Grand Finals: 18 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. The No Mod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
 6. The [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
 7. When playing a map from the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) or [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) pool, the [Hidden](/wiki/Gameplay/Game_modifier/Hidden) modification may be optionally used by any player.
 8. The Mixed Mod bracket will be played with FreeMod activated. Each player will be forced to choose one mod each, from a selection of [NoMod](/wiki/Gameplay/Game_modifier#no-mod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), and [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock). Each mod must be played by exactly one player (i.e. one player MUST pick NoMod, another player MUST pick Hidden, and the remaining player MUST pick Hard Rock).
-   - The player using Hard Rock may choose to use Hidden and Hard Rock or just Hard Rock.
+   - The player using Hard Rock may choose to use Hidden and Hard Rock or just Hard Rock.
 9. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
-   - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
+   - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
 10. The tiebreaker will be played under Free Mod conditions, but players are exempt from the mod requirement.
 
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may choose a time slot in which they want to play.
-   - **A team that does not pick a time slot by Thursday, May 28 23:59 UTC will be considered disqualified.**
+   - **A team that does not pick a time slot by Thursday, May 28 23:59 UTC will be considered disqualified.**
 3. All bracket stage matches will be held between Saturday 00:00 and Sunday 19:00 UTC.
-   - Other times may be available upon request, consult with the tournament managers for more information.
+   - Other times may be available upon request, consult with the tournament managers for more information.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
-   - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
+   - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
 5. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament managers, before Wednesday 23:59 UTC of the week the match is to take place on.**
-   - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
-   - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
-   - Late reschedule requests will not be accepted under any circumstances.
+   - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC** of the week they are to be played at.
+   - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
+   - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for managing their team's availability.
+
+## Notes
+
+[^winners-bracket]: Winners bracket match
+[^losers-bracket]: Losers bracket match
+[^potential-match]: Potential match – final matchup depends on previous losers bracket matches
+[^mappool-showcase]: Mappool showcase
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum

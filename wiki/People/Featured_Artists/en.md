@@ -73,6 +73,7 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=KR }:: [dalseoung](https://osu.ppy.sh/users/24451299) | [Dazzling](https://osu.ppy.sh/beatmaps/artists/545) |
+| ::{ flag=US }:: [dandeless](https://osu.ppy.sh/users/6111413) | [dandeless](https://osu.ppy.sh/beatmaps/artists/544) |
 | ::{ flag=DE }:: [Darkney](https://osu.ppy.sh/users/14700596) | [Darkney](https://osu.ppy.sh/beatmaps/artists/290) |
 | ::{ flag=US }:: [debisco](https://osu.ppy.sh/users/34345683) | [DeBisco](https://osu.ppy.sh/beatmaps/artists/422) |
 | ::{ flag=CA }:: [direk](https://osu.ppy.sh/users/17000575) | [SEVEN LIVES](https://osu.ppy.sh/beatmaps/artists/461) |
@@ -164,5 +165,6 @@ The [Featured Artist group page](https://osu.ppy.sh/groups/35) lists all such ac
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Yuuni](https://osu.ppy.sh/users/14238916) | [Yuuni](https://osu.ppy.sh/beatmaps/artists/408) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/316) |
+| ::{ flag=US }:: [zKatari](https://osu.ppy.sh/users/10407785) | [Katari](https://osu.ppy.sh/beatmaps/artists/549) |
 | ::{ flag=DE }:: [ZVLIAN](https://osu.ppy.sh/users/13687741) | [ZVLIAN](https://osu.ppy.sh/beatmaps/artists/455) |
 | ::{ flag=US }:: [ZytrxZX](https://osu.ppy.sh/users/14782369) | [MetaHumanBoi](https://osu.ppy.sh/beatmaps/artists/430) |
