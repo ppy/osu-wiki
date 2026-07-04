@@ -9,7 +9,7 @@ We're halfway through the year, and that's enough a milestone for us to highligh
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
-If this is somehow the first osu! news article you've ever clicked on, you should know that osu! has [an official music library](https://osu.ppy.sh/beatmaps/artists) where anyone can download pre-timed beatmap templates of over **10,000** songs from over **500** artists. Usually we add one new artist to this collection per week, but we're flipping the script today.
+If this is somehow the first osu! news article you've ever clicked on, you should know that osu! has [an official music library](https://osu.ppy.sh/beatmaps/artists) where anyone can download pre-timed beatmap templates of over **9,000** songs from over **500** artists. Usually we add one new artist to this collection per week, but we're flipping the script today.
 
 Instead of adding tracks from a single artist, we're bringing in **80** new tracks from **14** of our already-released Featured Artists! For extra clarity, we've marked every new track with a not-so-subtle **NEW** icon.
 
