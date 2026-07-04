@@ -118,25 +118,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/e99
 
 ## Match schedule: Finals
 
-### Saturday, 4 July 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 58 | Japan ::{ flag=JP }:: | ::{ flag=FI }:: Finland | [Jul 04 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T120000&p1=1440&p2=248&p3=101) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-| 57 | Chile ::{ flag=CL }:: | ::{ flag=FR }:: France | [Jul 04 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260704T170000&p1=1440&p2=232&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
-
 ### Sunday, 5 July 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 59a | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Jul 05 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 59b | Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Jul 05 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T120000&p1=1440&p2=248&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 59d | Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Jul 05 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T140000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| 60 | Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Jul 05 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T150000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
-| 59c | Finland ::{ flag=FI }:: | ::{ flag=CL }:: Chile | [Jul 05 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T160000&p1=1440&p2=101&p3=232) | [osulive](https://twitch.tv/osulive) | [^potential-match] |
-| SC | Grand Finals | mappool showcase | [Jul 05 (Sun) 18:00 UTC (estimated)](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
+| 59d | Finland ::{ flag=FI }:: | ::{ flag=FR }:: France | [Jul 05 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T140000&p1=1440&p2=101&p3=195) | [osulive](https://twitch.tv/osulive) | [^losers-bracket] |
+| 60 | Poland ::{ flag=PL }:: | ::{ flag=AR }:: Argentina | [Jul 05 (Sun) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T153000&p1=1440&p2=262&p3=51) | [osulive](https://twitch.tv/osulive) | [^winners-bracket] |
+| SC | Grand Finals | mappool showcase | [Jul 05 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260705T190000&p1=1440) | [osulive](https://twitch.tv/osulive) | [^mappool-showcase] |
 
 ## Match results
+
+### Finals
+
+Saturday, 4 July 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| 58 | Japan ::{ flag=JP }:: | 1 | **7** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/121449560) | [#1](https://www.twitch.tv/videos/2812111404) |
+| 57 | Chile ::{ flag=CL }:: | 2 | **7** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/121451316) | [#1](https://www.twitch.tv/videos/2812164070) |
 
 ### Semifinals
 
@@ -636,7 +635,6 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on previous losers bracket matches
 [^mappool-showcase]: Mappool showcase
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
