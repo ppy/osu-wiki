@@ -25,7 +25,7 @@ Click on any artist's banner to head to their full music listing, where you can 
 
 Too many things come to mind when reading [**Akiri**](https://osu.ppy.sh/beatmaps/artists/401)'s name. They're an experienced [circle clicker and key smasher](https://osu.ppy.sh/users/19587411), they won last year's [Locus](/wiki/Contests/Locus/2025) contest with the song [*Vespera Stella*](https://osu.ppy.sh/beatmapsets/2412328), and most relevant to today, they're a Featured Artist with nearly *92* tracks on their listing alone! **9** of those tracks are fresh for 2026, one of which already has a Ranked map!
 
-Alternatively, the first thing that comes to mind about [**Akiri**](https://osu.ppy.sh/beatmaps/artists/401) might be something about a far away tree. You should keep those thoughts to yourself though.
+Alternatively, the first thing that comes to mind about [**Akiri**](https://osu.ppy.sh/beatmaps/artists/401) might be something about a far-away tree. You should keep those thoughts to yourself though.
 
 - [**Akiri feat. Celadon - Project: Spacefarers**](https://osu.ppy.sh/beatmapsets/2462810) mapped by [Mir](https://osu.ppy.sh/users/8688812)
 - **Akiri - ATOMIC RAILGUN**
@@ -133,7 +133,7 @@ Prior to today, every song on [**Good Kid**'s Featured Artist listing](https://o
 
 [![](https://assets.ppy.sh/artists/61/header.jpg)](https://osu.ppy.sh/beatmaps/artists/61)
 
-It's no secret that osu! players and Geometry dash players are two nearly-overlapping circles on a Venn diagram. That's why we snagged the song that every Geometry Dash player has heard, made by the one and only [**MDK**](https://osu.ppy.sh/beatmaps/artists/61)!
+It's no secret that osu! players and Geometry dash players are two nearly overlapping circles on a Venn diagram. That's why we snagged the song that every Geometry Dash player has heard, made by the one and only [**MDK**](https://osu.ppy.sh/beatmaps/artists/61)!
 
 ### MDK - Geometry Dash
 
