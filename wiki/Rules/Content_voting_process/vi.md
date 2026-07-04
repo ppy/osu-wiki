@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Quy trình bỏ phiếu nội dung
 
 Nội dung được gửi đến [Người đề cử Beatmap](/wiki/People/Beatmap_Nominators) (BN), [Đội ngũ điều hành toàn cầu](/wiki/People/Global_Moderation_Team) (GMT) và [Đội ngũ đánh giá đề cử](/wiki/People/Nomination_Assessment_Team) (NAT) để xem xét đều trải qua một quy trình bỏ phiếu đặc biệt như đã nêu bên dưới.
