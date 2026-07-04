@@ -12,11 +12,11 @@ tags:
   - gaomon
 ---
 
-# Converting Tablet Areas
+# Converting tablet areas
 
-osu!(lazer) has built-in OpenTabletDriver tablet drivers. With the built-in drivers, this allows for users to not use the proprietary drivers if desired. There are a few different ways of converting the current area of the tablet to a familiar configuration depending on the tablet being used. 
+osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. This allows users to play the game with a [graphics tablet](/wiki/Gameplay/Input_device/Graphics_tablet) without installing any external drivers. There are different ways to convert the current tablet area to a familiar configuration depending on the tablet being used.
 
-## Terminology for The Conversions
+## Terminology
 
 | Term | Definition |
 | :-- | :-- |
@@ -26,13 +26,15 @@ osu!(lazer) has built-in OpenTabletDriver tablet drivers. With the built-in driv
 | YOffset | The Y offset of the center of the area in millimeters |
 | LPI | Lines per inch, commonly 5080 or 2540 |
 | TWidth[^TWidth] | The width of the tablet's digitiser in millimeters |
-| THeight[^THeight] | The height of the tablet's digitizer in millimeters |
+| THeight[^THeight] | The height of the tablet's digitiser in millimeters |
 | THorizontal[^THorizontal] | The width of the tablet's digitiser in number of lines |
-| TVertical[^TVertical] | The height of the tablet's digitizer in number of lines |
+| TVertical[^TVertical] | The height of the tablet's digitiser in number of lines |
 
-Use the following formulas to get the values for osu!(lazer)'s OpenTabletDriver input fields for Width, Height, XOffset and YOffset.
+## Conversion
 
-### Wacom and Veikk Tablets {id=wacom-and-veikk}
+Use the following formulas to compute the values for osu!(lazer)'s OpenTabletDriver input fields `Width`, `Height`, `X Offset` and `Y Offset`.
+
+### Wacom and VEIKK tablets {id=wacom-and-veikk}
 
 | Term | Definition |
 | :-- | :-- |
@@ -41,7 +43,7 @@ Use the following formulas to get the values for osu!(lazer)'s OpenTabletDriver 
 | Right | The number of lines from the left side of the tablet to the right side of the area |
 | Bottom | The number of lines from the top side of the tablet to the bottom side of the area |
 
-#### Wacom & Veikk -> OTD Conversion 
+#### Wacom & VEIKK to OpenTabletDriver conversion 
 
 ```
 Width = (Right - Left) / LPI * 25.4
@@ -50,16 +52,16 @@ XOffset = (Width / 2) + (Left / LPI * 25.4)
 YOffset = (Height / 2) + (Top / LPI * 25.4)
 ```
 
-### XP-Pen Tablets {id=xppen}
+### XP-Pen tablets {id=xppen}
 
 | Term | Definition |
 | :-- | :-- |
-| XPW | The width in XP-Pen units. Denoted as W in XP-Pen's official drivers |
-| XPH | The height in XP-Pen units. Denoted as H in XP-Pen's official drivers |
-| XPX | The X offset of the top left cvorner of the area in XP-Pen units. Denoted as X in XP-Pen's official drivers |
-| XPY | The Y offset of the top left corner of the area in XP-Pen units. Denoted as Y in XP-Pen's official drivers |
+| XPW | The width in XP-Pen units. Denoted as `W` in XP-Pen's official drivers |
+| XPH | The height in XP-Pen units. Denoted as `H` in XP-Pen's official drivers |
+| XPX | The X offset of the top left corner of the area in XP-Pen units. Denoted as `X` in XP-Pen's official drivers |
+| XPY | The Y offset of the top left corner of the area in XP-Pen units. Denoted as `Y` in XP-Pen's official drivers |
 
-#### XP-Pen -> OTD Conversion 
+#### XP-Pen to OpenTabletDriver conversion 
 
 ```
 Width   = XPW / 3.937
@@ -68,7 +70,7 @@ XOffset = (Width  / 2) + (XPX / 3.937)
 YOffset = (Height / 2) + (XPY / 3.937)
 ```
 
-### Huion and Gaomon Tablets {id=huion-and-gaomon}
+### Huion and Gaomon tablets {id=huion-and-gaomon}
 
 | Term | Definition |
 | :-- | :-- |
@@ -77,7 +79,7 @@ YOffset = (Height / 2) + (XPY / 3.937)
 | Right | The percentage of the distance from the right side of the tablet to the right side of the area |
 | Bottom | The percentage of the distance from the bottom side of the tablet to the bottom side of the area |
 
-#### Huion and Geomon -> OTD Conversion
+#### Huion and Gaomon to OpenTabletDriver conversion
 
 ```
 Width   = (Right - Left) * TWidth
@@ -86,7 +88,7 @@ XOffset = (Width  / 2) + (Left * TWidth)
 YOffset = (Height / 2) + (Top * THeight)
 ```
 
-### Gaomon 2024 and Newer Tablets {id=gaomon-2024}
+### Gaomon 2024 and newer tablets {id=gaomon-2024}
 
 | Term | Definition |
 | :-- | :-- |
@@ -95,7 +97,7 @@ YOffset = (Height / 2) + (Top * THeight)
 | GaomonX | The X offset of the top left corner of the area in number of horizontal lines |
 | GaomonY | The Y offset of the top left corner of the area in number of vertical lines |
 
-#### Gaomon 2024 and Newer -> OTD Conversion 
+#### Gaomon 2024 and newer to OpenTabletDriver conversion 
 
 ```
 Width   = (GaomonWidth  / THorizontal) * TWidth
@@ -109,4 +111,4 @@ YOffset = (GaomonY / TVertical)   * THeight + (Height / 2)
 [^TWidth]: TWidth can be found in the tablet's configuration file.
 [^THeight]: THeight can be found in the tablet's configuration file.
 [^THorizontal]: THorizontal can be found in the tablet's configuration file.
-[^TVertical]: TVertical can be found in the tablet's configuration file
+[^TVertical]: TVertical can be found in the tablet's configuration file.
