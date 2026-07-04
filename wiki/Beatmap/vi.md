@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của game được tạo ra bằng nhiều [nút bấm](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác, toàn bộ được đóng gói vào một file lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
+Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các ([độ khó](#độ-khó)) của game được tạo ra bằng nhiều [nút bấm](/wiki/Gameplay/Hit_object) và gần như luôn phản ánh một bài nhạc. Nó cũng bao gồm nhiều thành phần khác, toàn bộ được đóng gói vào một tệp lưu trữ với [phần mở rộng `.osz`](/wiki/Client/File_formats/osz_(file_format)):
 
 - bài hát được lưu trữ theo định dạng MP3 hoặc Ogg.
 - [ảnh nền](/wiki/Beatmap/Background), hoặc video, với vai trò như khu vực chơi.
@@ -20,7 +20,7 @@ Một **beatmap** (đôi khi gọi là *beatmapset*) là một tập hợp các 
 
 *Bài viết chính: [độ khó](/wiki/Beatmap/Difficulty)*
 
-Một *độ khó* là một tệp với [phần mở rộng `.osu`](/wiki/Client/File_formats/osu_(file_format)) mô tả sự sắp đặt của các nút bấm, hitsound, và hiệu ứng đặc biệt như [kiai](/wiki/Gameplay/Kiai_time). Nó cũng chứa [cài đặt độ khó](/wiki/Client/Beatmap_editor/Song_setup#difficulty) và một vài tham số có ảnh hưởng trực tiếp đến gameplay. Các độ khó của một beatmap có cấu trúc khác nhau và đôi khi chỉ có thể chơi trong một [chế độ chơi](/wiki/Game_mode). Hệ thống [star rating](/wiki/Beatmap/Star_rating) được dùng để thể hiện trực quan mức độ kĩ năng cần thiết của một độ khó.
+Một *độ khó* là một tệp với [phần mở rộng `.osu`](/wiki/Client/File_formats/osu_(file_format)) mô tả sự sắp đặt của các nút bấm, hitsound, và hiệu ứng đặc biệt như [kiai](/wiki/Gameplay/Kiai_time). Nó cũng chứa [cài đặt độ khó](/wiki/Client/Beatmap_editor/Song_setup#difficulty) và một vài tham số có ảnh hưởng trực tiếp đến lối chơi. Các độ khó của một beatmap có cấu trúc khác nhau và đôi khi chỉ có thể chơi trong một [chế độ chơi](/wiki/Game_mode). Hệ thống [star rating](/wiki/Beatmap/Star_rating) được dùng để thể hiện trực quan mức độ kĩ năng cần thiết của một độ khó.
 
 ## Tải lên
 
@@ -30,7 +30,7 @@ Tác giả beatmap có thể [tải](/wiki/Beatmapping/Beatmap_submission) sản
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Sau khi tải lên, beatmap có thêm một vài trường thông tin, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung công khai; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), mà hiển thị của nó có thể chỉnh sửa thông qua [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
+Sau khi tải lên, beatmap có thêm một vài trường thông tin, như phần mô tả, ngôn ngữ, thể loại và phần đánh dấu nội dung công khai; các trường này có thể được tác giả beatmap thay đổi trên trang web. Ngoài ra beatmap còn được thêm phần [tiêu đề](/wiki/Beatmap/Title_text), mà hiển thị của nó có thể được chỉnh sửa thông qua [Đội ngũ Đánh giá Đề cử](/wiki/People/Nomination_Assessment_Team).
 
 ### Nhận diện
 
@@ -91,7 +91,7 @@ Người chơi osu! ở mọi chế độ đều dùng các beatmap để [tăng
 - Xếp hạng quốc gia dành cho những người chơi có cùng cờ quốc gia;
 - Xếp hạng bạn bè hiển thị thứ hạng của người chơi đó so với bạn bè của họ.
 
-Mỗi beatmap sẽ cung cấp các [bản phát lại](/wiki/Gameplay/Replay) của 1000 điểm đứng đầu, có thể dùng để xem online hoặc để hiển thị trong một bảng xếp hạng cục bộ.
+Mỗi beatmap sẽ cung cấp các [bản phát lại](/wiki/Gameplay/Replay) của 1000 điểm đứng đầu, có thể dùng để xem trực tiếp hoặc để hiển thị trong một bảng xếp hạng cục bộ.
 
 ### Bảng xếp hạng và Spotlight
 
@@ -107,7 +107,7 @@ Hệ thống bảng xếp hạng này sau đó đã phát triển thành dự á
 
 *Trang chính: [Cuộc thi](/wiki/Contests)*
 
-Cộng đồng osu! thường xuyên tổ chức nhiều cuộc thi khác nhau nhằm thúc đẩy sự sáng tạo và trao thưởng cho các mapper làm tốt nhất. Các cuộc thi có quy mô từ nhỏ, ở trong các cộng đồng địa phương, tới các cuộc thi quy mô lớn được tổ chức trên phạm vi toàn cầu và có các phần thưởng ấn tượng. Những người thắng cuộc thường được nhận thưởng dưới dạng [osu!supporter](/wiki/osu!supporter) và một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) theo chủ đề.
+Cộng đồng osu! thường xuyên tổ chức nhiều cuộc thi khác nhau nhằm thúc đẩy sự sáng tạo và trao thưởng cho các mapper làm tốt nhất. Các cuộc thi có quy mô từ nhỏ, ở trong các cộng đồng địa phương, tới các cuộc thi quy mô lớn được tổ chức trên phạm vi toàn cầu và có các phần thưởng ấn tượng. Những người thắng cuộc thường được nhận thưởng dưới dạng [osu!supporter](/wiki/osu!supporter) và một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) theo chủ đề mà họ tham gia.
 
 ### Nghệ sĩ nổi bật
 
