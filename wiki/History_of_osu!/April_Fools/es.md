@@ -193,6 +193,10 @@ El día de los Inocentes de 2020 recicló la misma broma del año anterior, lo q
 
 El día de los Inocentes de 2021 recicló la misma broma de los dos años anteriores, que era una probabilidad de 1 en 20 de escuchar un efecto de sonido de una chica con un tono alto estornudando al abrir un beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
 
+## 2022
+
+Como se anunció en un [tuit de peppy](https://x.com/ppy/status/1509716615012958210), no hubo broma del día de los Inocentes para osu! en 2022 debido al desarrollo de la versión [lazer](/wiki/Client/Release_stream/Lazer) del cliente de osu!.
+
 ## 2026
 
 ### Más opciones
