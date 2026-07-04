@@ -187,6 +187,10 @@ April Fools' day 2020 recycled the same joke from the previous year, which cause
 
 April Fools' day 2021 recycled the same joke from the previous two years, which was a 1 in 20 chance of hearing a sound effect of a high-pitched girl sneezing upon opening a beatmap.[^sneeze-2-forums][^sneeze-2-forums-2]
 
+## 2022
+
+As announced in a [tweet by peppy](https://x.com/ppy/status/1509716615012958210), there was no April Fools' day joke for osu! in 2022 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
+
 ## 2026
 
 ### More toggles
