@@ -5,7 +5,7 @@ date: 2026-07-03 20:00:00 +0000
 series: ranking_system_updates
 ---
 
-We are SO back.
+Every so often, we update the star rating and PP algorithms based on how the game is evolving.
 
 ![](/wiki/shared/news/banners/pp-sr-pippi.jpg)
 
