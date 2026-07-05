@@ -6,9 +6,14 @@ tags:
 
 # Đội ngũ Đề cử viên
 
-*Đọc thêm: [Quy tắc của Đề cử viên](Rules), [Tiêu chuẩn riêng dành cho Đề cử viên](Expectations), [Thông tin chung dành cho Đề cử viên](General_Information), và [Trở thành một Đề cử viên](Becoming_a_Beatmap_Nominator)*
-
 **Đội ngũ Đề cử viên** (***BN***) là một nhóm chịu trách nhiệm [đề cử beatmap](/wiki/Beatmap_ranking_procedure). Họ được nhận diện bởi danh hiệu màu tím và huy hiệu dành cho [nhóm người dùng](/wiki/People/User_groups) có đề tên `BN`.
+
+## Các bài viết liên quan
+
+- [Quy tắc với người đề cử beatmap](Rules)
+- [Kỳ vọng đối với đề cử viên](Expectations)
+- [Cách để trở thành người đề cử beatmap](Becoming_a_Beatmap_Nominator)
+- [Sự kiện về người đề cử beatmap](/wiki/Community/Beatmap_Nominator_events) 
 
 ## Vai trò và trách nhiệm của Đề cử viên
 
@@ -28,7 +33,7 @@ Khoảng ba tháng một lần, Đề cử viên chính thức sẽ được [Đ
 
 Khoảng thời gian thực tập là để giám sát các Đề cử viên mới kỹ càng hơn. Mục đích chính của vị trí tập sự là để đặt nền móng cho các Đề cử viên hoàn toàn thông qua việc đề cử beatmap vào quá trình xếp hạng. Phải có ít nhất một Đề cử viên chính thức tham gia vào quá trình xếp hạng cho mỗi một game mode trong beatmap, nên Đề cử viên tập sự không thể là người đề cử cuối cùng cho một beatmap đã nhận được đề cử từ những thành viên tập sự thuộc game mode khác.
 
-Đề cử viên tập sự sẽ được [đánh giá](/wiki/People/Nomination_Assessment_Team/Evaluations) sau khi đạt được gấp đôi [tiêu chí hoạt động](/wiki/People/Beatmap_Nominators/Rules#requirements) của mình hoặc sau khi làm việc ở vị trí tập sự được một tháng, đạt được điều kiện nào trước thì xét theo điều kiện đó.
+Đề cử viên tập sự sẽ được yêu cầu có ít nhất 3 đề cử beatmap được xếp hạng. Họ sẽ được đáng giá sau một tháng và việc đáng giá có thể xảy ra sớm hơn, nếu họ có 6 đề cử được xếp hạng trong tháng đó.
 
 Thành viên mới của Đội ngũ Đề cử viên sẽ được kèm cặp bởi một bồ tèo từ NAT, người mà các thành viên mới có thể liên hệ trực tiếp nếu có câu hỏi hay cần sự hướng dẫn. Sau khi xong đợt đánh giá đầu tiên, họ có thể được thăng lên vị trí chính thức nếu được đánh giá tốt hoặc sẽ bị buộc rời khỏi Đội ngũ Đề cử viên.
 
@@ -40,7 +45,7 @@ Thành viên mới của Đội ngũ Đề cử viên sẽ được kèm cặp b
 
 - **[osu!supporter](/wiki/osu!supporter)**: Một thẻ osu!supporter có hiệu lực trong suốt khoảng thời gian làm thành viên của đội ngũ.
 - **Huy hiệu nhiệm kỳ**: Một [huy hiệu hồ sơ](/wiki/Community/Profile_badge) thể hiện số năm họ làm việc ở NAT.
-  ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/BN1y.png?2024 "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/BN2y.png?2024 "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/BN3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/BN4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/BN5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/BN6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/BN7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/BN8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/BN9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/BN10y.png "Huy hiệu 10 năm")
+ ![Huy hiệu 1 năm](https://assets.ppy.sh/profile-badges/BN1y.png "Huy hiệu 1 năm") ![Huy hiệu 2 năm](https://assets.ppy.sh/profile-badges/BN2y.png "Huy hiệu 2 năm") ![Huy hiệu 3 năm](https://assets.ppy.sh/profile-badges/BN3y.png "Huy hiệu 3 năm") ![Huy hiệu 4 năm](https://assets.ppy.sh/profile-badges/BN4y.png "Huy hiệu 4 năm") ![Huy hiệu 5 năm](https://assets.ppy.sh/profile-badges/BN5y.png "Huy hiệu 5 năm") ![Huy hiệu 6 năm](https://assets.ppy.sh/profile-badges/BN6y.png "Huy hiệu 6 năm") ![Huy hiệu 7 năm](https://assets.ppy.sh/profile-badges/BN7y.png "Huy hiệu 7 năm") ![Huy hiệu 8 năm](https://assets.ppy.sh/profile-badges/BN8y.png "Huy hiệu 8 năm") ![Huy hiệu 9 năm](https://assets.ppy.sh/profile-badges/BN9y.png "Huy hiệu 9 năm") ![Huy hiệu 10 năm](https://assets.ppy.sh/profile-badges/BN10y.png "Huy hiệu 10 năm") ![Huy hiệu 11 năm](https://assets.ppy.sh/profile-badges/BN11y.png "11 year BN badge") ![Huy hiệu 12 năm](https://assets.ppy.sh/profile-badges/BN12y.png "12 year BN badge") ![Huy hiệu 13 năm](https://assets.ppy.sh/profile-badges/BN13y.png "13 year BN badge") ![Huy hiệu 14 năm](https://assets.ppy.sh/profile-badges/BN14y.png "14 year BN badge")
 - **Huy hiệu [đề cử](/wiki/Beatmap_ranking_procedure#nominations)**: Một huy hiệu hồ sơ được trao sau khi đạt được số lần đề cử nhất định.
   ![100 đề cử](https://assets.ppy.sh/profile-badges/100_noms.png "100 đề cử") ![200 đề cử](https://assets.ppy.sh/profile-badges/noms200.png?2023 "200 đề cử") ![400 đề cử](https://assets.ppy.sh/profile-badges/noms400.png?2023 "400 đề cử") ![600 đề cử](https://assets.ppy.sh/profile-badges/noms600.png?2023 "600 đề cử") ![800 đề cử](https://assets.ppy.sh/profile-badges/noms800.png?2024 "800 đề cử") ![1000 đề cử](https://assets.ppy.sh/profile-badges/noms1000.png?2024 "1000 đề cử") ![1500 đề cử](https://assets.ppy.sh/profile-badges/noms1500.png?2024 "1500 đề cử") ![2000 đề cử](https://assets.ppy.sh/profile-badges/noms2000.png?2024 "2000 đề cử")
 - **Đủ điều kiện trở thành [Đề cử viên Ưu tú](/wiki/People/Elite_Nominators)**: những Đề cử viên làm tốt vai trò của mình sẽ có đủ điều kiện để được trao danh hiệu Đề cử viên Ưu tú kéo dài 1 năm.
@@ -59,31 +64,27 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | :-- | :-- |
 | ::{ flag=KZ }:: [-Hitomi](https://osu.ppy.sh/users/15583987) |  |
 | ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Tiếng Belarus |
-| ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Tiếng Italy |
-| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Tiếng Phần Lan |
-| ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976) |  |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Tiếng Nga |
-| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Tiếng Ukraina |
+| ::{ flag=RU }:: [44444444444444](https://osu.ppy.sh/users/12357714) |  |
+| ::{ flag=CN }:: [455-38B](https://osu.ppy.sh/users/7660383) | Cantonese, Chinese, Japanese |
+| ::{ flag=FI }:: [aaeky](https://osu.ppy.sh/users/11077540) | Finnish |
+| ::{ flag=UA }:: [aishiteiru-](https://osu.ppy.sh/users/10566388) |  |
+| ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637) | Ukrainian, Polish |
+| ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |  |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Tiếng Italy |
 | ::{ flag=US }:: [Annabel](https://osu.ppy.sh/users/3388410) | Tiếng Tây Ban Nha |
-| ::{ flag=CN }:: [Arsalan](https://osu.ppy.sh/users/7660383) | Tiếng Quảng Đông, Tiếng Trung, Tiếng Nhật |
 | ::{ flag=US }:: [Ascended](https://osu.ppy.sh/users/4564285) |  |
-| ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | Tiếng Phần Lan |
-| ::{ flag=RU }:: [Astrolis](https://osu.ppy.sh/users/12357714) |  |
-| ::{ flag=PT }:: [Basensorex](https://osu.ppy.sh/users/11655886) | Tiếng Bồ Đào Nha |
-| ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Tiếng Hàn |
-| ::{ flag=US }:: [Bloxi](https://osu.ppy.sh/users/9022451) |  |
-| ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Tiếng Hàn |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Tiếng Quảng Đông, Tiếng Trung |
+| ::{ flag=US }:: [Atrue](https://osu.ppy.sh/users/1758523) | Chinese |
+| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | French |
+| ::{ flag=US }:: [BeatofIke](https://osu.ppy.sh/users/1103522) |  |
+| ::{ flag=US }:: [Camo](https://osu.ppy.sh/users/5194391) |  |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) |  |
 | ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280) | Tiếng Tây Ban Nha |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha |
-| ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | Tiếng Hàn |
 | ::{ flag=PE }:: [dakiwii](https://osu.ppy.sh/users/10447058) | Tiếng Tây Ban Nha |
 | ::{ flag=BR }:: [dasdwqdf](https://osu.ppy.sh/users/5403374) | Tiếng Bồ Đào Nha |
 | ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337) | Tiếng Nga |
-| ::{ flag=TH }:: [Electoz](https://osu.ppy.sh/users/6485263) | Tiếng Thái |
-| ::{ flag=PL }:: [Embo](https://osu.ppy.sh/users/10045409) | Tiếng Ba Lan |
+| ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ::{ flag=KR }:: [Enon](https://osu.ppy.sh/users/2043401) | Tiếng Hàn |
+| ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Tiếng Trung |
 | ::{ flag=PH }:: [Fu Xuan](https://osu.ppy.sh/users/7150015) | Tiếng Philippines |
 | ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835) | Tiếng Đức, Tiếng Tây Ban Nha, Tiếng Pháp |
@@ -135,8 +136,8 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Tiếng Litva |
 | ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931) | Tiếng Nhật |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) | Tiếng Nhật |
-| ::{ flag=NL }:: [yukic](https://osu.ppy.sh/users/6977273) |  |
-| ::{ flag=IT }:: [zekk](https://osu.ppy.sh/users/9704802) | Tiếng Italy |
+| ::{ flag=US }:: [Wanpachi](https://osu.ppy.sh/users/12157130) |  |
+| ::{ flag=VN }:: [Zawajiro](https://osu.ppy.sh/users/15082028) | Tiếng Việt |
 
 #### osu!taiko
 
@@ -247,46 +248,38 @@ Bảng dưới đây liệt kê từng game mode và Đề cử viên thuộc ga
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | Tiếng Italy |
-| ::{ flag=UA }:: [aishiteiru-](https://osu.ppy.sh/users/10566388) |  |
-| ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908) |  |
-| ::{ flag=RU }:: [Djulus](https://osu.ppy.sh/users/4960893) | Tiếng Nga |
-| ::{ flag=ID }:: [fedora](https://osu.ppy.sh/users/11016828) | Tiếng Indonesia |
-| ::{ flag=FI }:: [fllecc](https://osu.ppy.sh/users/14060327) | Tiếng Phần Lan |
-| ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | Tiếng Trung |
-| ::{ flag=US }:: [GodHacc](https://osu.ppy.sh/users/10023225) |  |
-| ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) |  |
-| ::{ flag=US }:: [Jennifer](https://osu.ppy.sh/users/6761853) | Tiếng Trung |
-| ::{ flag=TR }:: [Kanui](https://osu.ppy.sh/users/14940019) | Tiếng Thổ Nhĩ Kỳ |
-| ::{ flag=US }:: [Kataryn](https://osu.ppy.sh/users/19044162) |  |
-| ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340) |  |
-| ::{ flag=CN }:: [Koiyuki](https://osu.ppy.sh/users/2433507) | Tiếng Trung |
-| ::{ flag=CN }:: [Lavender](https://osu.ppy.sh/users/3850859) | Tiếng Trung |
-| ::{ flag=FI }:: [Nyanaro](https://osu.ppy.sh/users/4157611) | Tiếng Phần Lan, Tiếng Nhật |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | Tiếng Hungary |
+| ::{ flag=KR }:: [\[Karcher\]](https://osu.ppy.sh/users/11443437) | Korean |
+| ::{ flag=TH }:: [bebe](https://osu.ppy.sh/users/5057420) |  |
+| ::{ flag=CL }:: [chr](https://osu.ppy.sh/users/3810322) | Urdu |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
+| ::{ flag=CN }:: [MarioKartya](https://osu.ppy.sh/users/16833061) | Chinese |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | German |
+| ::{ flag=FR }:: [MonsieurSebas](https://osu.ppy.sh/users/16543098) | French, Turkish |
+| ::{ flag=CN }:: [Pata-Mon](https://osu.ppy.sh/users/6149313) | Chinese |
+| ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
 
 #### osu!taiko
 
-| Tên | Ngôn ngữ khác được sử dụng |
-| :-- | :-- |
-| ::{ flag=BR }:: [Doug](https://osu.ppy.sh/users/13806900) | Tiếng Bồ Đào Nha, Tiếng Tây Ban Nha |
+Không có thêm thành viên vào thời điểm này
 
 #### osu!catch
 
-| Tên | Ngôn ngữ khác được sử dụng |
-| :-- | :-- |
-| ::{ flag=CN }:: [sxy62146214](https://osu.ppy.sh/users/8386591) | Tiếng Trung |
+Không có thêm thành viên vào thời điểm này
 
 #### osu!mania
 
 | Tên | Ngôn ngữ khác được sử dụng |
 | :-- | :-- |
-| ::{ flag=CN }:: [7912](https://osu.ppy.sh/users/14875348) | Tiếng Trung |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Tiếng Tây Ban Nha |
-| ::{ flag=ID }:: [Pyra-san](https://osu.ppy.sh/users/31126430) |  |
-| ::{ flag=US }:: [snomi](https://osu.ppy.sh/users/14410101) |  |
-| ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) | Tiếng Trung |
-| ::{ flag=TW }:: [Usagi_](https://osu.ppy.sh/users/16046205) | Tiếng Trung |
+| ::{ flag=ID }:: [FerdiXIA-](https://osu.ppy.sh/users/9030389) | Indonesian |
+| ::{ flag=GR }:: [flvxify](https://osu.ppy.sh/users/17698463) |  |
+| ::{ flag=CN }:: [G1NYA](https://osu.ppy.sh/users/31767575) | Chinese |
+| ::{ flag=CN }:: [Hoshimegu Mio](https://osu.ppy.sh/users/17753835) | Chinese |
+| ::{ flag=NL }:: [Linlime](https://osu.ppy.sh/users/14438535) | Dutch |
+| ::{ flag=ID }:: [My Angel Chen](https://osu.ppy.sh/users/24285111) | Indonesian |
+| ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515) | Indonesian |
+| ::{ flag=KR }:: [Rio1-](https://osu.ppy.sh/users/5604329) |  |
+| ::{ flag=CN }:: [weyctor](https://osu.ppy.sh/users/29398474) | Chinese |
+| ::{ flag=CA }:: [Wimpy Cursed](https://osu.ppy.sh/users/24694032) |  |
 
 ## Lịch sử
 
