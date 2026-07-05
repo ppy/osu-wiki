@@ -25,6 +25,8 @@ And don't worry: we may not have the HP gimmick mechanic this year, but what we 
 
 Inspired by the host's love for baking bread, the strategy of Catan, and the calm-then-chaotic nature of cats, we are introducing an entirely new Baking Gimmick. Players will collect ingredients and combine them for the chance to bake over 20 unique recipes throughout the tournament.
 
+![](/wiki/shared/news/2026-07-05-monodramatic-world-stage-registrations-open/ingredients-assets.jpg)
+
 This system was designed to make matches more interactive, strategic, and unpredictable. Outsmart your opponent, experiment with different combinations, and give underdogs a real chance to shine.
 
 In short, we are bringing:
