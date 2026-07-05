@@ -40,7 +40,7 @@ The deadline to register for this tournament is **August 9th, 2026 (23:59 UTC)**
 
 [**Fill out the registration form to sign up!**](https://docs.google.com/forms/d/e/1FAIpQLSc7A0XAzS_u9ithwfAnwSBCuNPSHciijE7R-ssG_kRMdYEmSA/viewform) Before that, please make sure:
 
-- You must not have violated the [osu! community rules](https://osu.ppy.sh/wiki/en/Rules) in the past 12 months.
+- You must not have violated the [osu! community rules](/wiki/Rules) in the past 12 months.
 - You are within BWS Rank 1,000–10,000 by the time registration period ends.
 
 Any players who do not fall within the BWS rank restriction will not be accepted — no exceptions.
