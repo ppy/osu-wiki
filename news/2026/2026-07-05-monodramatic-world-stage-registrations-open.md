@@ -5,7 +5,7 @@ date: 2026-07-05 15:00:00 +0000
 series: community_tournament
 ---
 
-Bake your way into victory in Whisked, Monodramatic World Series's most ambitious tournament yet. Are you ready to push your limits and be the best player and baker alike?
+Bake your way into victory in Whisked, Monodramatic World Series's most ambitious tournament yet. Are you ready to push your limits and knead your way to the top?
 
 ![](/wiki/shared/news/2026-07-05-monodramatic-world-stage-registrations-open/banner.jpg)
 
@@ -17,17 +17,17 @@ This year, we invite both returning and new players to join us for another excit
 
 ## What's new
 
-In line with our new theme, MWS takes on a new identity this year: Whisked, a bakery-themed tournament designed to give players, viewers, and staff a much larger and more immersive experience than ever before.
+In line with our new theme, MWS takes on a new identity this year: Whisked, a bakery-themed tournament designed to give players, viewers, and staff a much larger (and doughier) experience than ever before.
 
-Every one of our custom maps — totaling over 10+ originals — follows a story-driven narrative that evolves throughout the bracket stages. Players will experience firsthand what it's like to run a bakery, culminating in our Grand Finals tiebreaker, which combines elements from both our 2025 storyline and this year's event.
+Every one of our custom maps — totalling over 10+ originals — follows a story-driven narrative that evolves throughout the bracket stages. Players will experience firsthand what it's like to run a bakery, culminating in our Grand Finals tiebreaker, which combines elements from both our 2025 storyline and this year's event.
 
-And don't worry — we may not have the HP gimmick mechanic this year. But what we have planned is far more creative.
+And don't worry: we may not have the HP gimmick mechanic this year, but what we have planned is far more creative.
 
 Inspired by the host's love for baking bread, the strategy of Catan, and the calm-then-chaotic nature of cats, we are introducing an entirely new Baking Gimmick. Players will collect ingredients and combine them for the chance to bake over 20 unique recipes throughout the tournament.
 
 This system was designed to make matches more interactive, strategic, and unpredictable. Outsmart your opponent, experiment with different combinations, and give underdogs a real chance to shine.
 
-In short we are bringing:
+In short, we are bringing:
 
 - Custom original songs
 - New stream graphics
@@ -45,7 +45,7 @@ The deadline to register for this tournament is **August 9th, 2026 (23:59 UTC)**
 
 Any players who do not fall within the BWS rank restriction will not be accepted — no exceptions.
 
-**All registered players and staff members are required to [join the Discord server](https://discord.gg/Z7zNdTgFth) in order to stay up to date with important announcements and notifications.**
+**All registered players and staff members are required to [join the Discord server](https://discord.com/invite/Z7zNdTgFth) in order to stay up to date with important announcements and notifications.**
 
 For more information, please check out the [forum post](https://osu.ppy.sh/community/forums/topics/2220809?n=1) and [main sheet](https://docs.google.com/spreadsheets/d/1LNrZP9hRh0iZz5FkGkdu1u91IRK4YfbN9dBbSUTOdW4/edit?usp=sharing).
 
@@ -75,6 +75,6 @@ For more information, please check out the [forum post](https://osu.ppy.sh/commu
 
 ---
 
-One last note: Thank you to all players, staff members, and lurkers who have supported us over the past three years. We would not have made it this far without your support. Talk soon!
+Last but not *yeast*: thank you to all players, staff members, and lurkers who have supported us over the past three years. We would not have made it this far without your support. Talk soon!
 
-—MWS Team
+—the MWS Team
