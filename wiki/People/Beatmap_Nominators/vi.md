@@ -33,7 +33,7 @@ Khoảng ba tháng một lần, Đề cử viên chính thức sẽ được [Đ
 
 Khoảng thời gian thực tập là để giám sát các Đề cử viên mới kỹ càng hơn. Mục đích chính của vị trí tập sự là để đặt nền móng cho các Đề cử viên hoàn toàn thông qua việc đề cử beatmap vào quá trình xếp hạng. Phải có ít nhất một Đề cử viên chính thức tham gia vào quá trình xếp hạng cho mỗi một game mode trong beatmap, nên Đề cử viên tập sự không thể là người đề cử cuối cùng cho một beatmap đã nhận được đề cử từ những thành viên tập sự thuộc game mode khác.
 
-Đề cử viên tập sự sẽ được yêu cầu có ít nhất 3 đề cử beatmap được xếp hạng. Họ sẽ được đáng giá sau một tháng và việc đáng giá có thể xảy ra sớm hơn, nếu họ có 6 đề cử được xếp hạng trong tháng đó.
+Đề cử viên tập sự sẽ được yêu cầu có ít nhất 3 đề cử beatmap được xếp hạng. Họ sẽ được đáng giá sau một tháng và việc đáng giá có thể xảy ra sớm hơn nếu họ có 6 đề cử được xếp hạng trong tháng đó.
 
 Thành viên mới của Đội ngũ Đề cử viên sẽ được kèm cặp bởi một bồ tèo từ NAT, người mà các thành viên mới có thể liên hệ trực tiếp nếu có câu hỏi hay cần sự hướng dẫn. Sau khi xong đợt đánh giá đầu tiên, họ có thể được thăng lên vị trí chính thức nếu được đánh giá tốt hoặc sẽ bị buộc rời khỏi Đội ngũ Đề cử viên.
 
