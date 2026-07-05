@@ -13,7 +13,7 @@ tags:
 - [Quy tắc với người đề cử beatmap](Rules)
 - [Kỳ vọng đối với đề cử viên](Expectations)
 - [Cách để trở thành người đề cử beatmap](Becoming_a_Beatmap_Nominator)
-- [Sự kiện về người đề cử beatmap](/wiki/Community/Beatmap_Nominator_events) 
+- [Sự kiện liên quan đến đề cử beatmap viên](/wiki/Community/Beatmap_Nominator_events) 
 
 ## Vai trò và trách nhiệm của Đề cử viên
 
