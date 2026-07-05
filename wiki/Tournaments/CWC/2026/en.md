@@ -359,7 +359,6 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 - Tiebreaker
   1. **[Ashrount & polysha - ARCADEA (-Rustyy, Mochi -, Spectator, Unlucky\_w, Vaqu) \[CHRONOSTASIS\]](https://osu.ppy.sh/beatmapsets/2581097#fruits/5753044)**
 
-
 ### Finals
 
 **[Download the mappack here (210 MB)](https://packs.ppy.sh/P330%20-%20osu%21catch%20World%20Cup%202026%3A%20Finals.zip)**\
@@ -676,6 +675,5 @@ The final team score to be sorted is defined as `Final score = SUM(Map percentag
 
 [^lb-grand-finals]: Losers bracket Grand Finals match
 [^grand-finals]: Grand Finals match – Final matchup depends on the preceding Losers bracket match
-[^mappool-showcase]: Mappool showcase
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
