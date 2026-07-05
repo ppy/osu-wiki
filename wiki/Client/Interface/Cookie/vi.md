@@ -26,7 +26,7 @@ Bảng dưới đây liệt kê tất cả cookie từng được sử dụng tr
 
 Bảng dưới đây liệt kê tất cả cookie từng được sử dụng trong lịch sử của osu!(lazer) cho mục đích lưu trữ.
 
-| Cookie | Year | Notes |
+| Cookie | Năm | Ghi chú |
 | :-: | :-: | :-- |
 | ![Logo của osu!(lazer) năm 2019](img/2019@2x.png) | 2019 | Sử dụng Aller, chỉ sử dụng như một biểu tượng tạm thời cho ứng dụng để phân biệt osu!(lazer) với osu!(stable). |
 | ![Logo của osu!(lazer) năm 2024](img/2024@2x.png) | tháng 1 năm 2024 - tháng 5 năm 2024 | Sử dụng Torus, chỉ được sử dụng trong khoảng thời gian ngắn do bị phản đối. |
