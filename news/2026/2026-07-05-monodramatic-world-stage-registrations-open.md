@@ -71,7 +71,7 @@ For more information, please check out the [forum post](https://osu.ppy.sh/commu
 | 1st | 70% of the prize pool, physical prize, digital prize, osu! supporter, player badge (Pending) & banner |
 | 2nd | 20% of the prize pool, physical prize, digital prize, osu! supporter, player banner |
 | 3rd | 10% of the prize pool, physical prize, digital prize, osu! supporter, player banner |
-| 4th–12th | digital prize |
+| 4th–12th | Digital prize |
 
 ---
 
