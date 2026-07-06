@@ -332,30 +332,31 @@ Watch the Qualifier seed reveal VOD [here](https://www.twitch.tv/videos/27856752
 
 ### Grand Finals
 
+**[Download the mappack here (217 MB)](https://packs.ppy.sh/P331%20-%20osu%21catch%20World%20Cup%202026%3A%20Grand%20Finals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2812999044)
 
 - No Mod
   1. [DJ Sharpnel - Aim Burst (Dahcreeper, Secre) \[Dahcreeper and Secre's Cup\]](https://osu.ppy.sh/beatmapsets/2581065#fruits/5752986)
   2. [Juggernaut. - Apocaliptix (Unlucky\_w, Yoshi\_green) \[Final Frontier: Yoshi Duo (CWC ver.)\]](https://osu.ppy.sh/beatmapsets/2581056#fruits/5752968)
   3. [PinocchioP - Non-breath oblige feat. Hatsune Miku (Mochi -) \[I want to live, but I'm told to die.\]](https://osu.ppy.sh/beatmapsets/2581057#fruits/5752971)
-  4. Synzak & Laxeno57 - astral.exe (Callionet) \[0x54686520556e697665727365\] (link pending)
+  4. [Synzak & Laxeno57 - astral.exe (Callionet) \[0x54686520556e697665727365\]](https://osu.ppy.sh/beatmapsets/2581110#fruits/5753070)
   5. [kaitendaentai - Hubris (ExGon) \[A Breathless Sprint Towards an Inevitable Collapse\]](https://osu.ppy.sh/beatmapsets/2581068#fruits/5752992)
 - Hidden
   1. [seleP - Ufena -Lilium mix- (Des9, Mrbinking) \[MrDes9's Feelings Of Love That Will Never Return\]](https://osu.ppy.sh/beatmapsets/2581063#fruits/5752984)
   2. [insaneintherainmusic - Monoco (Cut Ver.) (Verso Dessendre) \[Feet.\]](https://osu.ppy.sh/beatmapsets/2581066#fruits/5752988)
-  3. WangleLine - Ad Astra (wwwww) \[Truwwwwwev's Journey to the Zenith\] (link pending)
+  3. [WangleLine - Ad Astra (wwwww, Cruwev) \[Truwwwwwev's Journey to the Zenith\]](https://osu.ppy.sh/beatmapsets/2581070#fruits/5752994)
 - Hard Rock
   1. [Synestia, Disembodied Tyrant - Winter (CWC Edit) (Daletto) \[Death encased in... Christmas Presents? (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2581072#fruits/5752996)
   2. [POLKADOT STINGRAY - Pandora's Box (Cut Ver.) (Verso Dessendre) \[Diabolical\]](https://osu.ppy.sh/beatmapsets/2581074#fruits/5752998)
-  3. Dustvoxx - Switchback (Cut Ver.) (Spectator, Rocma) \[EV Collab (CWC Ver.)\] (link pending)
+  3. [Dustvoxx - Switchback (Cut Ver.) (Spectator, Rocma) \[EV Collab (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2581105#fruits/5753061)
 - Double Time
-  1. Risa Yuzuki - Honogurai Tsuioku (CLSW) \[Outer Memories\] (link pending)
+  1. [Risa Yuzuki - Honogurai Tsuioku (CLSW) \[Outer Memories\]](https://osu.ppy.sh/beatmapsets/2581179#fruits/5753318)
   2. [Aiobahn feat. KOTOKO - INTERNET OVERDOSE (Spectator, Rocma) \[Rocma & Spec's OVERDOSE\]](https://osu.ppy.sh/beatmapsets/2581080#fruits/5753010)
-  3. [XenjeS - Whispers of the Deserted (-Miya) \[sidetracked day\]](https://osu.ppy.sh/beatmapsets/2581081#fruits/5753012)
-  4. ginkiha - Silver Eclipse (Mrbinking) \[Moonlight\] (link pending)
+  3. [XenjeS - Whispers of the Deserted (-Miya) \[sidetracked day (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2581081#fruits/5753012)
+  4. [ginkiha - Silver Eclipse (Mrbinking) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/2581125#fruits/5753098)
 - Mixed Mod
   1. [Ludicin - Blossom of Ashes (Nelly) \[Delonix Regia (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/2581082#fruits/5753015)
-  2. Ice - L2 -Reminiscence- (osu! edit) (Mrbinking) \[Remembrance\] (link pending)
+  2. [Ice - L2 -Reminiscence- (osu! edit) (Mrbinking) \[Remembrance\]](https://osu.ppy.sh/beatmapsets/2581126#fruits/5753099)
 - Tiebreaker
   1. **[Ashrount & polysha - ARCADEA (-Rustyy, Mochi -, Spectator, Unlucky\_w, Vaqu) \[CHRONOSTASIS\]](https://osu.ppy.sh/beatmapsets/2581097#fruits/5753044)**
 
