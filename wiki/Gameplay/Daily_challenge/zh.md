@@ -64,6 +64,6 @@
 ![](img/yt-comment.jpg "waxxx14 建议“每日杯”的 YouTube 评论")
 :::
 
-- 每日挑战这一创意来自 waxxx14 在 lazer 开发视频[“决定要在 lazer 干什么”](https:www.youtube.com/watch?v=xUSxEjQQ1UI)下面的留言，希望在 osu! 中加入[赛道狂飙](https://en.wikipedia.org/wiki/TrackMania)中的“每日杯”模式。
+- 每日挑战这一创意来自 waxxx14 在 lazer 开发视频[“决定要在 lazer 干什么”](https://www.youtube.com/watch?v=xUSxEjQQ1UI)下面的留言，希望在 osu! 中加入[赛道狂飙](https://en.wikipedia.org/wiki/TrackMania)中的“每日杯”模式。
 - 每日挑战于 2024 年 7 月 25 日在 osu!(lazer) 公开版本 [2024.725.0](https://osu.ppy.sh/home/changelog/lazer/2024.725.0) 中向公众推出，只能用 [osu! 游戏模式](wiki/Game_mode/osu!)游玩。
 - 在最初版本里，模组不能自由选择，而且总共通关次数和累计分数总和于后期更新才加入。
