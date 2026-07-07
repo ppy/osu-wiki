@@ -1,4 +1,6 @@
 ---
+outdated_since: 2971091e7f56811a6ca73975a448c6329814f586
+outdated_translation: true
 tags:
   - bug
   - crash
