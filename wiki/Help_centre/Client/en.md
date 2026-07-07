@@ -294,7 +294,7 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 ### I switched to osu!(lazer)'s native tablet drivers and now my area has changed! {id=tablet-area}
 
-If you were not already using OpenTabletDriver's tablet drivers, then it is because the tablet you are using is not configured correctly for the native drivers!
+osu!(lazer) has the [OpenTabletDriver](https://opentabletdriver.net/) built-in. If you weren't using these drivers before, then this happens because your tablet is not configured correctly for the native drivers.
 
 You can follow [this guide](/wiki/Help_centre/Tablet_conversion) for more information on how to correctly convert your old tablet driver's area to OpenTabletDriver's settings.
 
