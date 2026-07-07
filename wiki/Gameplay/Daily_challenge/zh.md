@@ -42,7 +42,6 @@
 | ![Bronze tier](img/tiers/bronze.png) | 青铜 | 15 日 | 5 日 | 2 周 |
 | ![Iron tier](img/tiers/iron.png) | 黑铁 | 15 日以下 | 5 日以下 | 2 周以下 |
 
-
 ## 贡献者
 
 此项目由 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 组织。以下社区成员负责选择谱面：
